@@ -1,5 +1,5 @@
 /* SI hourly bulletin: one fetch of the public hourly JSON, many small renderers.
-   Source: https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.json (CORS *).
+   Source: https://siagentsignal.com/data/latest.json (CORS *).
    Every node is built with createElement/textContent: no innerHTML, so it runs under
    require-trusted-types-for 'script'. Story links must be https; the audio must come from the media host.
    Markup hooks are data-hr="..." attributes (live, warm, updated, count, dur, audio, stories, ticker, tidbit,
@@ -7,7 +7,7 @@
 (function () {
 "use strict";
 
-var JSON_URL = "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.json";
+var JSON_URL = "https://siagentsignal.com/data/latest.json";
 var MEDIA = "https://media.theagentsignal.com/";
 var REFRESH_MS = 5 * 60 * 1000;
 var RETRY_MS = [20000, 60000];
