@@ -1,0 +1,75 @@
+/* Live pieces shared by the SI network sites: "Launched" line + the hourly bulletin (hourly.js).
+   The :root block at the top is the only per-site part. No inline styles anywhere: the CSP forbids them. */
+:root{--hr-font:var(--f-b);--hr-ink:var(--ink);--hr-ink2:var(--ink-2);--hr-muted:var(--muted);--hr-card:#fff;--hr-line:var(--line);--hr-acc:var(--acc);--hr-soft:var(--band);--hr-r:var(--r-lg);
+--hr-conf-bg:var(--fact-bg);--hr-conf-ink:var(--fact-ink);--hr-conf-line:var(--fact-line);--hr-rep-bg:var(--amber-bg);--hr-rep-ink:var(--amber-ink);--hr-rep-line:var(--amber-line);--hr-open-bg:var(--grey-bg);--hr-open-ink:var(--grey-ink);--hr-open-line:var(--grey-line)}
+/* hub extras: the logo slot in the header, launched line spacing, stations inside the existing cards */
+.top .brand img.logo{width:auto;height:30px;max-width:150px}
+@media (min-width:640px){.top .brand img.logo{height:36px;max-width:none}}
+.terms+.launched{margin:-6px auto 14px}
+.st-list .hr-story{background:none;border:0;border-radius:0;padding:10px 0 0;gap:6px}
+.st-list .hr-story:first-child{padding-top:0}
+.st-list .hr-story+.hr-story{border-top:1px solid var(--line-2)}
+.st-list .hr-h{font-size:15px;font-weight:600}
+.st-list .hr-empty{border:1.5px dashed var(--line);border-radius:12px;padding:12px}
+
+[data-hr][hidden]{display:none!important}
+.hr-sr{position:absolute!important;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+
+/* Launched line, under the big terms block */
+.launched{display:flex;flex-wrap:wrap;justify-content:center;align-items:center;gap:6px 12px;margin:6px auto 0;font:600 15px/1.3 var(--hr-font);color:var(--hr-ink2)}
+.launched b{color:var(--hr-ink);font-weight:800}
+.launched .fp{display:inline-flex;align-items:center;font-size:12px;font-weight:800;letter-spacing:.07em;text-transform:uppercase;color:var(--hr-acc);border:1.5px solid var(--hr-acc);border-radius:999px;padding:3px 10px}
+
+/* The hourly bulletin */
+.hr{display:grid;gap:16px;min-width:0;font-family:var(--hr-font);color:var(--hr-ink)}
+.hr-warm{background:var(--hr-card);border:1.5px dashed var(--hr-line);border-radius:var(--hr-r);padding:18px;color:var(--hr-ink2)}
+.hr-live{display:grid;gap:16px;min-width:0}
+.hr-bar{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px}
+.hr-fp{display:inline-flex;font-size:12px;font-weight:800;letter-spacing:.07em;text-transform:uppercase;color:var(--hr-acc);border:1.5px solid var(--hr-acc);border-radius:999px;padding:3px 10px}
+.hr-updated{display:inline-flex;align-items:center;gap:8px;font-size:14px;font-weight:700;color:var(--hr-ink2)}
+.hr-updated::before{content:"";width:9px;height:9px;border-radius:50%;background:var(--hr-conf-line);flex:none}
+.hr-updated.hr-stale::before{background:var(--hr-rep-line)}
+.hr-count{font-size:14px;color:var(--hr-muted)}
+.hr-audio{background:var(--hr-card);border:1.5px solid var(--hr-line);border-radius:var(--hr-r);padding:14px;display:grid;gap:8px;min-width:0}
+.hr-audio-t{font-size:14.5px;font-weight:700}
+.hr-audio audio{width:100%;max-width:100%}
+.hr-stories{display:grid;grid-template-columns:minmax(0,1fr);gap:14px}
+@media (min-width:760px){.hr-stories{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media (min-width:1080px){.hr-stories{grid-template-columns:repeat(3,minmax(0,1fr))}}
+.hr-story{background:var(--hr-card);border:1.5px solid var(--hr-line);border-radius:var(--hr-r);padding:16px;display:flex;flex-direction:column;gap:9px;min-width:0}
+.hr-h{font-weight:700;font-size:16.5px;line-height:1.3;color:var(--hr-ink);overflow-wrap:anywhere}
+.hr-sum{font-size:14.5px;line-height:1.45;color:var(--hr-ink2);overflow-wrap:anywhere}
+.hr-src{font-size:13px;color:var(--hr-muted);margin-top:auto}
+.hr-src a{color:var(--hr-acc);overflow-wrap:anywhere}
+.hr-empty{background:var(--hr-card);border:1.5px dashed var(--hr-line);border-radius:var(--hr-r);padding:16px;color:var(--hr-ink2);font-size:14.5px}
+.hr-stamp{display:inline-flex;align-items:center;font-size:12px;font-weight:800;letter-spacing:.06em;text-transform:uppercase;line-height:1;border:2px solid;border-radius:6px;padding:5px 9px;white-space:nowrap}
+.hr-conf{background:var(--hr-conf-bg);color:var(--hr-conf-ink);border-color:var(--hr-conf-line)}
+.hr-rep{background:var(--hr-rep-bg);color:var(--hr-rep-ink);border-color:var(--hr-rep-line)}
+.hr-open{background:var(--hr-open-bg);color:var(--hr-open-ink);border-color:var(--hr-open-line);border-style:dashed}
+.hr-tidbit{font-size:15px;color:var(--hr-ink2);background:var(--hr-soft);border-radius:var(--hr-r);padding:12px 14px;overflow-wrap:anywhere}
+.hr-fine{font-size:13px;color:var(--hr-muted);line-height:1.5}
+.hr-fine b{color:var(--hr-ink2)}
+
+/* Headline ticker: the page never scrolls sideways, only the strip inside its own box */
+.hr-tk{display:flex;align-items:center;gap:10px;background:var(--hr-card);border:1.5px solid var(--hr-line);border-radius:var(--hr-r);padding:8px 8px 8px 0;min-width:0}
+.hr-tk-view{flex:1 1 auto;min-width:0;overflow:hidden;border-radius:10px}
+.hr-tk-track{display:flex;width:max-content;animation:hr-tk 140s linear infinite}
+.hr-tk:hover .hr-tk-track,.hr-tk-view:focus-within .hr-tk-track,.hr-paused .hr-tk-track{animation-play-state:paused}
+.hr-tk-i{display:inline-flex;align-items:center;gap:8px;white-space:nowrap;font-size:14px;padding:4px 26px 4px 12px;color:var(--hr-ink)}
+.hr-tk-i .hr-stamp{font-size:10.5px;padding:3px 7px;border-width:1.5px}
+.hr-tk-o{color:var(--hr-muted)}
+.hr-tk-btn{flex:none;min-height:36px;padding:0 12px;border:1.5px solid var(--hr-line);border-radius:999px;background:var(--hr-card);font:700 13px var(--hr-font);color:var(--hr-ink2);cursor:pointer}
+.hr-tk-btn:hover{border-color:var(--hr-acc);color:var(--hr-acc)}
+@keyframes hr-tk{to{transform:translateX(-50%)}}
+@media (prefers-reduced-motion:reduce){
+  .hr-tk-track{animation:none;width:auto;flex-wrap:wrap}
+  .hr-tk-dup,.hr-tk-btn{display:none}
+  .hr-tk-view{overflow:visible}
+}
+@media (max-width:480px){.hr-tk-i{white-space:normal;max-width:78vw}}
+
+/* 404 page */
+.nf404{max-width:720px;margin:0 auto;padding:28px 16px 64px;display:grid;gap:14px;justify-items:start;font-family:var(--hr-font);color:var(--hr-ink)}
+.nf404 h1{font-size:clamp(28px,6vw,44px);line-height:1.1}
+.nf404-k{font-size:12.5px;font-weight:800;letter-spacing:.09em;text-transform:uppercase;color:var(--hr-muted)}
+.nf404-img{width:auto;height:200px;max-width:100%}
