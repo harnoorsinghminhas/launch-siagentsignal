@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-04T04:20:03Z",
- "hour": "2026-10-04T04:00:00Z",
+ "generated_at": "2026-10-04T05:20:02Z",
+ "hour": "2026-10-04T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "FTC is investigating OpenAI and Anthropic over possible risks to consumers",
-   "outlet": "Texarkana Gazette",
-   "outlet_name": "Texarkana Gazette",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVkdRLUhMUzZGQU1QVk9kdllkeEtBUGNrb1lqTmVjeFFSRXljYXl5eFBRY3JZMjBMNG1EdGJYM2hRc0xwU0ZEeEMwdXozMkd3Y29aTkR4Y0ZNRklxak15dXJhUnRRdEc1RV9zVTVGSXZ1VU5aME1mR2pUTUxnYkhydkVIcEtYOThqeXB6UVVLWnFyV1NIY05SWlNyeklMZw?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-04T03:00:00Z"
-  },
-  {
-   "title": "Samsung Galaxy Glasses with Gemini AI to launch globally in November: Gemini AI, 9-hour battery and more",
-   "outlet": "India TV News",
-   "outlet_name": "India TV News",
-   "url": "https://www.indiatvnews.com/technology/news/samsung-galaxy-glasses-with-gemini-ai-to-launch-globally-in-november-gemini-ai-9-hour-battery-and-more-2026-10-02-1055931",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-03T20:14:00Z"
-  },
-  {
-   "title": "NVIDIA unveils 5 new racks to speed AI data centers",
+   "title": "Anthropic launches Claude Security powered by Claude Opus 4.7",
    "outlet": "NewsBytes",
    "outlet_name": "NewsBytes",
-   "url": "https://www.newsbytesapp.com/news/science/nvidia-unveils-5-new-racks-to-speed-ai-data-centers/tldr",
+   "url": "https://www.newsbytesapp.com/news/science/anthropic-launches-claude-security-powered-by-claude-opus-47/tldr",
    "label": "REPORTED",
    "summary_1line": null,
    "published_at": "2026-10-03T17:00:00Z"
   },
   {
-   "title": "Claude und KI-Bewusstsein: Anthropic konsultiert Dutzende religiöse Denker",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3VPNWFLYTBNaEd6dVB2dG5CUVBKWjRwY3JDYmRJVkktbHJoa1V4Y1E1cUlrcFY1Y05OZm9FT1FGa0tWWHJHMi1fczRiTWRvdExSSVk4Z09zUjFYYnNaZmw3ckM1S2dVTnVWNFhsZ3l2dnZ0b0c0Q2xPVFhSVFF1RlZnXzBra2xuTE45RDZMRmdUYk5iazUwZGhIMEJETnBGNEww?oc=5",
+   "title": "New AI laws should target data governance and safety to build confidence: experts",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRGVJeGZxWkF2VmltSzVEUHlpSjJZNjc5ajNMNWpfNUNRVklFTlZwRnV2RXpNME92QWsxMDdfRXBkb1ZfUFZxWm53ZVRKUThqVGVLQ2txejdGUlEzUGtzbXpsVk9wa2NGOEV1b0dpN3lQQnlwMXRmajN6STFYbEFXQ1RRSFBnNEpxb2JsRXRqRzBrbDZnQlh5UXNfWUpxY3JtbUh1ZzVfakZLWFdFaUhLcjN2NzBGbE1RQzc2RXFvdjBCeFRNbVFLX0RwN3ZsbkF5ZTQwZUw2YkQ2RTJOVFZR0gHfAUFVX3lxTE9hVV90TEk3UUJIUkNJbVhvR25tRUEwdGlMQ1kyRGxuMmVydHBVYTFzLVpaMUpDb2Y3RDc3Q08yeXdhbFk3R004OEZGNlYxZXl6M3o5YmNRdVFrLVEzUWhaMmxyZER0ZmhTUGM1SUEycFk3Q09ScGdUVU4yNkl3emh0OFl0UjNXQnplME5GWEpKeEdPWTFuQ2MwTlhoZzU3dEpLYVROVVRKOGlrZmo4MUFibldqWG9Wd2RSQzl3azZtUVJUNjVHaU1nc3otNWQ3eWZBbEo2NjU3cHdaWGRIeWs?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-04T03:47:04Z"
+   "published_at": "2026-10-04T04:00:15Z"
   },
   {
-   "title": "OpenAI fires three researchers, company confirms sacking; shares what investigations that led to terminat",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNcllVZVozRWFJa2x6QUI1aUd3RXNUa3Q3djRRVHVsVHZyRHFQUW5UZTZCVG9rRjRlRFkxbHVLaUwwRFZ1dm5mUU1rcmpCZ1dvRDZHdGRlZW9kbTVha1FPR0t0TE5qVktKeTBmQnBydFJEbkViaGk2N2tuV0owVjdjOWJya1pFR3lBeFJpcERSanJaY2JIeVI3d29BemQtcUxfZDBWQnlWVFEzSi1fazJZVjJvdTN3ZzdxanIwd2hrU0NXM1lPZGZJWGFwdmhneklOSGRTTThmZnFGejFZNFFhWmZzekxERktKVFZ2M21FRzZIQ2h2dW5uc3NzZVlvS1Bwalc4VENlX3dCbEh3SlhPaTRidTljSm1ralZJTlduV1dOVWlC0gGqAkFVX3lxTE5vWWRsN2F2ekF4UEpsT0ZUdVNfdkg5OFBjUWVnUUlJYmNIbjJRU3BWRnpLN0xIdGViOHJBY19lRmlCZGJid25qcnJXeG5yaTZwQmRyN2hPY0ZHdXE5RV94eE0xeWFsX0pwWmJUMzZZb3IxV1ZzeVBNMVpfZ0RocERlUHRTM3BQU0hnZzZFRi1PdlRKM3ZiOG1STUZsMGd5cmdhREN2X3o0a1pETzI0YUV1ckN4NXFlSTl2S2xXdjZORHRmdkNFdzRsSWNMQUEyNFBDNGZPWkhmbGxsbGJ3RFRzYy11UG9zNlhaeE5fMmt2Z21yRzJvNE53YkpXQm00V2huVjBieWtSZHZaTnNDYUM4TmhIN0Z4OGxvNnhfejFwS3pha0d4WnNpRWc?oc=5",
+   "title": "OpenAI expands ChatGPT with apps and third-party sign-in",
+   "outlet": "The Star",
+   "outlet_name": "The Star",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjA1Nm1JV2N4U1hjcGRnRm1yVmh0OVc2QWtfQzBxR3BSTmxLZzJaR0RwcWFnNURoYXdlLUlFRU50WnlqTXFhcFM3ZHgwOXZVUndhLUxJaGxLMzVRTzNWcW82R3dZQklnZlhBNlJtRDIyZndweTdmUU16OEtjclpPMEFyWVpybjJGR1VaWTkxU3VuZHFXSGEyTTY5OW1hSG5Lazc4dVZyRzQtUm5GZ1E?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-04T03:19:00Z"
+   "published_at": "2026-10-04T04:00:00Z"
+  },
+  {
+   "title": "Google Gemini sets new limits for free users: What changes, which features will remain available; check",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMTM3SFlicnVyaWJrSnZjZ0hjekRfeVE3bHRzMll2bmo5M0JfRFRLQWJ0Rm9ZVEFWckl6VWR3dm81ak1qSTN4M2NIS3g4eVFIbERXenMtdDlBMlNyUmlGdnczV0x3aFlIOGpwMjZra0F4dXRuakNNYjNhYU1xZG54b1FZakJSREhrNTBPNXZVNXZMeUU2VENvSkpvTWhVUXlWNm1HRzlMSlZZa010ZFFRWm1uSUEzUkN1Mi1BdXVuNDI0cVlaVGVaTk1BU2dDa0tjaFpSRWxkbERneVRObFE4clhPVGVVYzNzOVNRRDQwbFJNTnAycTN1MW1JS0l5R2dE0gGGAkFVX3lxTFBBWFMzODRpbExfMEtZSXhLcVhIdXFBWTZGZDFsa3NTbUgwdkNtUTFXdGJTS3o2TzBKUDlZejFPdG5IdFBhY0VIcFdJMWVHWGNKelZaVWw4dlFUZWJvSXVvODBKUUNpLXZGRGtzNGR3SWVxZVlaZWZsSXZkSkRpTGtUbVJxT0JTNmhzajd1SnRZTGFtV1ZVZl9zMUF0TUlyU25aSWVCY25NVlF6d2dyNC1zU0k0dWl0c3NXY2IwcEc1NExBMDRLUFZEY3dnX3BMb0c2cU5jWC1Qc2psUkgyRDVGWUoyV3M0Umc4bER6dHB2R0s5dlRId0dibmxTRzlaZ1liTHI4UkE?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-04T03:15:12Z"
+  },
+  {
+   "title": "An OpenAI model read Slack, reasoned \"we may die\", and OpenAI says that is not misalignment",
+   "outlet": "MIXED Reality News",
+   "outlet_name": "MIXED Reality News",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWlJRkwxZFJSM0FqZUs1YmNlSTNDVU5ITUJjSG51blAyaE1kOGUtNmRFNFpJZURtWktqOHctbkxEWkVBTGNnSWV2VDlLZXZINTY0cDNEMzB4bTdvM2dfRGZ2QlBmUWhXLWV4cU5mWTRnek5hdmlESWFIc0NzcmFVSUo0WEN5cjJycVJ4QjZB?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-04T02:59:52Z"
   }
  ],
  "ticker": [
   {
-   "headline": "FTC is investigating OpenAI and Anthropic over possible risks to consumers",
-   "outlet": "Texarkana Gazette",
-   "outlet_name": "Texarkana Gazette",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVkdRLUhMUzZGQU1QVk9kdllkeEtBUGNrb1lqTmVjeFFSRXljYXl5eFBRY3JZMjBMNG1EdGJYM2hRc0xwU0ZEeEMwdXozMkd3Y29aTkR4Y0ZNRklxak15dXJhUnRRdEc1RV9zVTVGSXZ1VU5aME1mR2pUTUxnYkhydkVIcEtYOThqeXB6UVVLWnFyV1NIY05SWlNyeklMZw?oc=5"
-  },
-  {
-   "headline": "Samsung Galaxy Glasses with Gemini AI to launch globally in November: Gemini AI, 9-hour…",
-   "outlet": "India TV News",
-   "outlet_name": "India TV News",
-   "label": "REPORTED",
-   "url": "https://www.indiatvnews.com/technology/news/samsung-galaxy-glasses-with-gemini-ai-to-launch-globally-in-november-gemini-ai-9-hour-battery-and-more-2026-10-02-1055931"
-  },
-  {
-   "headline": "NVIDIA unveils 5 new racks to speed AI data centers",
+   "headline": "Anthropic launches Claude Security powered by Claude Opus 4.7",
    "outlet": "NewsBytes",
    "outlet_name": "NewsBytes",
    "label": "REPORTED",
-   "url": "https://www.newsbytesapp.com/news/science/nvidia-unveils-5-new-racks-to-speed-ai-data-centers/tldr"
+   "url": "https://www.newsbytesapp.com/news/science/anthropic-launches-claude-security-powered-by-claude-opus-47/tldr"
   },
   {
-   "headline": "Claude und KI-Bewusstsein: Anthropic konsultiert Dutzende religiöse Denker",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
+   "headline": "New AI laws should target data governance and safety to build confidence: experts",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPU3VPNWFLYTBNaEd6dVB2dG5CUVBKWjRwY3JDYmRJVkktbHJoa1V4Y1E1cUlrcFY1Y05OZm9FT1FGa0tWWHJHMi1fczRiTWRvdExSSVk4Z09zUjFYYnNaZmw3ckM1S2dVTnVWNFhsZ3l2dnZ0b0c0Q2xPVFhSVFF1RlZnXzBra2xuTE45RDZMRmdUYk5iazUwZGhIMEJETnBGNEww?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRGVJeGZxWkF2VmltSzVEUHlpSjJZNjc5ajNMNWpfNUNRVklFTlZwRnV2RXpNME92QWsxMDdfRXBkb1ZfUFZxWm53ZVRKUThqVGVLQ2txejdGUlEzUGtzbXpsVk9wa2NGOEV1b0dpN3lQQnlwMXRmajN6STFYbEFXQ1RRSFBnNEpxb2JsRXRqRzBrbDZnQlh5UXNfWUpxY3JtbUh1ZzVfakZLWFdFaUhLcjN2NzBGbE1RQzc2RXFvdjBCeFRNbVFLX0RwN3ZsbkF5ZTQwZUw2YkQ2RTJOVFZR0gHfAUFVX3lxTE9hVV90TEk3UUJIUkNJbVhvR25tRUEwdGlMQ1kyRGxuMmVydHBVYTFzLVpaMUpDb2Y3RDc3Q08yeXdhbFk3R004OEZGNlYxZXl6M3o5YmNRdVFrLVEzUWhaMmxyZER0ZmhTUGM1SUEycFk3Q09ScGdUVU4yNkl3emh0OFl0UjNXQnplME5GWEpKeEdPWTFuQ2MwTlhoZzU3dEpLYVROVVRKOGlrZmo4MUFibldqWG9Wd2RSQzl3azZtUVJUNjVHaU1nc3otNWQ3eWZBbEo2NjU3cHdaWGRIeWs?oc=5"
   },
   {
-   "headline": "OpenAI fires three researchers, company confirms sacking; shares what investigations that…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "OpenAI expands ChatGPT with apps and third-party sign-in",
+   "outlet": "The Star",
+   "outlet_name": "The Star",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNcllVZVozRWFJa2x6QUI1aUd3RXNUa3Q3djRRVHVsVHZyRHFQUW5UZTZCVG9rRjRlRFkxbHVLaUwwRFZ1dm5mUU1rcmpCZ1dvRDZHdGRlZW9kbTVha1FPR0t0TE5qVktKeTBmQnBydFJEbkViaGk2N2tuV0owVjdjOWJya1pFR3lBeFJpcERSanJaY2JIeVI3d29BemQtcUxfZDBWQnlWVFEzSi1fazJZVjJvdTN3ZzdxanIwd2hrU0NXM1lPZGZJWGFwdmhneklOSGRTTThmZnFGejFZNFFhWmZzekxERktKVFZ2M21FRzZIQ2h2dW5uc3NzZVlvS1Bwalc4VENlX3dCbEh3SlhPaTRidTljSm1ralZJTlduV1dOVWlC0gGqAkFVX3lxTE5vWWRsN2F2ekF4UEpsT0ZUdVNfdkg5OFBjUWVnUUlJYmNIbjJRU3BWRnpLN0xIdGViOHJBY19lRmlCZGJid25qcnJXeG5yaTZwQmRyN2hPY0ZHdXE5RV94eE0xeWFsX0pwWmJUMzZZb3IxV1ZzeVBNMVpfZ0RocERlUHRTM3BQU0hnZzZFRi1PdlRKM3ZiOG1STUZsMGd5cmdhREN2X3o0a1pETzI0YUV1ckN4NXFlSTl2S2xXdjZORHRmdkNFdzRsSWNMQUEyNFBDNGZPWkhmbGxsbGJ3RFRzYy11UG9zNlhaeE5fMmt2Z21yRzJvNE53YkpXQm00V2huVjBieWtSZHZaTnNDYUM4TmhIN0Z4OGxvNnhfejFwS3pha0d4WnNpRWc?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTjA1Nm1JV2N4U1hjcGRnRm1yVmh0OVc2QWtfQzBxR3BSTmxLZzJaR0RwcWFnNURoYXdlLUlFRU50WnlqTXFhcFM3ZHgwOXZVUndhLUxJaGxLMzVRTzNWcW82R3dZQklnZlhBNlJtRDIyZndweTdmUU16OEtjclpPMEFyWVpybjJGR1VaWTkxU3VuZHFXSGEyTTY5OW1hSG5Lazc4dVZyRzQtUm5GZ1E?oc=5"
   },
   {
    "headline": "Google Gemini sets new limits for free users: What changes, which features will remain…",
@@ -102,6 +88,13 @@
    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUWlJRkwxZFJSM0FqZUs1YmNlSTNDVU5ITUJjSG51blAyaE1kOGUtNmRFNFpJZURtWktqOHctbkxEWkVBTGNnSWV2VDlLZXZINTY0cDNEMzB4bTdvM2dfRGZ2QlBmUWhXLWV4cU5mWTRnek5hdmlESWFIc0NzcmFVSUo0WEN5cjJycVJ4QjZB?oc=5"
   },
   {
+   "headline": "Former OpenAI employee says AI should be regulated like nuclear power plants",
+   "outlet": "engadget.com",
+   "outlet_name": "Engadget",
+   "label": "REPORTED",
+   "url": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/"
+  },
+  {
    "headline": "US task force to report on AI risks and government oversight within 120 days: WSJ",
    "outlet": "The Business Times",
    "outlet_name": "The Business Times",
@@ -109,42 +102,49 @@
    "url": "https://www.businesstimes.com.sg/international/global/us-task-force-report-ai-risks-and-government-oversight-within-120-days-wsj"
   },
   {
-   "headline": "OpenAI Security Engineer Warns of AI Risks Following Trump Agreement",
-   "outlet": "Nacionale News",
-   "outlet_name": "Nacionale News",
+   "headline": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+   "outlet": "marktechpost.com",
+   "outlet_name": "marktechpost.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWlJaMG9hNy1TSG5LV1VqSmVqb1Fnekk3QmI1VnNJM3Q3d29XaWd0RUxwa2hkT2pwdllESEctNnJQX1ZUUGthcHg3MVVVOUhkMnN6eGdkTGNhU1NlejFsMmJpLWUxVU1mUXd5dlpMRDlpNEpCQ2kwRG8tUUszb2daZ3YyNmZVT29iTDlxUjZndWFCcU9mMEQ0ZXphM05uOUloQV9SRkdfWmRmdw?oc=5"
+   "url": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/"
   },
   {
-   "headline": "OpenAI safety leader quits, warning AI company's culture is 'broken'",
-   "outlet": "Hacker News",
-   "outlet_name": "Hacker News",
+   "headline": "We asked Google Gemini to create a Tesla in 2050 and this is what it came up with",
+   "outlet": "supercarblondie.com",
+   "outlet_name": "supercarblondie.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9FbTFnb1J2dVJ6UWlyTTN5UHM0WS1QSzRNTHZ1dXE0bVFROHhBd3FTRGVROU5RZHZYQ2R5ZFJJaHYzVUNIOHlsX3VtY3did1ZUaWpWZFNIYlc?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUVdleXRaYzhzSWdJWm83Vmxfd1ZSZ3VZZDl1Wm1FOEZMdnhXVkFwakV3Q3k2RTB0aXBycTVRenpyN08yR09pZWhDZ1FoNTYwSFNCZGJQSF9nM0VudXhKLVV4TWNXdmNHeVlFLVFOeVh1QQ?oc=5"
   },
   {
-   "headline": "Claude Code vs Codex CLI: Scores and Task Costs",
-   "outlet": "quasa.io",
-   "outlet_name": "quasa.io",
+   "headline": "William Brederode | I scammed my own mother with an AI voice",
+   "outlet": "news24.com",
+   "outlet_name": "news24.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDJmN3BWbWpOUVZ1OWZXbHhkajVHaDFYN0xFY3BnQnA4ZnMySXFVUXhGajFoOWdXTlBDc0x4RGYybVB0M004UWtKN0lwcVVKazdud2RoQ3pjWXh2b0RGZS03YWRxMEJickRMM1NNcGFvVFB1SE54dUphLWo3S1d2bTFsLWQ3VmFIcDY5YzltbENJb3pkd3FQN2p3?oc=5"
+   "url": "https://www.news24.com/business/opinion/william-brederode-i-cloned-my-voice-using-ai-and-scammed-my-mom-20261003-0270"
   },
   {
-   "headline": "Gemini 4 Argon Tops Astra, Sonnet 5.5: 12-of-18 Wins [2026]",
-   "outlet": "tech-insider.org",
-   "outlet_name": "tech-insider.org",
+   "headline": "How Muse Stacks up Vs. OpenAI Dots",
+   "outlet": "Investing.com",
+   "outlet_name": "Investing.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOV1IweFNLZC1WSlpnWXlRbUFuRWs3MWZMLUlYdWFUaDFxV1JWOTNuZjhzMzdCV0RCdnIweHpFc05oVGlKV0YxeHdDVnVUTE1nS0pfQTQ4YTZYdlloc0FRTmpmT1hQcmxYVkZlQi1qQ1NSbUdkRnNvdTBuYVRRaF80Q0dWekI2RmlpV2w1aQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWS1nVmRuc3RqZWNPaDdQTDVya0oxaU1WODVUdHpDa2RoZkVzUjg3M21kNEZDVVo5WjVxajl2TXVQM25LYW9hYUNPNG5vcktEM3ZIZGVaSFBzaTRWM1BzZENUX2l1UDUxVXV1cnN6UGtoUk9qZERlOG9BVlVMR0Rzc2NPTVZiRXRwUnZqLThpcHNkZkdt?oc=5"
+  },
+  {
+   "headline": "ECB: Eurozone firms struggle to fund AI",
+   "outlet": "idnfinancials.com",
+   "outlet_name": "idnfinancials.com",
+   "label": "REPORTED",
+   "url": "https://www.idnfinancials.com/news/69800/ecb-eurozone-firms-struggle-to-fund-ai"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 7200,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 7100,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/04.mp3",
- "audio_seconds": 48.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/05.mp3",
+ "audio_seconds": 69.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Texarkana Gazette: FTC is investigating OpenAI and Anthropic over possible risks to consumers.\nReported by India TV News: Samsung Galaxy Glasses with Gemini AI to launch globally in November: Gemini AI, 9-hour battery and more.\nReported by NewsBytes: NVIDIA unveils 5 new racks to speed AI data centers.\nReported by BornCity: Claude und KI-Bewusstsein: Anthropic konsultiert Dutzende religiöse Denker.\nReported by The Times of India: OpenAI fires three researchers, company confirms sacking; shares what investigations that led to terminat.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic launches Claude Security powered by Claude Opus 4.7, reported by NewsBytes. The new security offering aims to enhance protective capabilities for users.\nNew laws should target data governance and safety to build confidence among experts, reported by South China Morning Post. Policymakers are examining how to regulate emerging technologies responsibly.\nOpenAI expands ChatGPT with apps and third-party sign-in, reported by The Star. Users now have more options for accessing and integrating the platform.\nGoogle Gemini sets new limits for free users with changes to available features, reported by The Economic Times. Some capabilities will remain accessible while others face restrictions.\nAn OpenAI model read Slack and reasoned we may die, reported by MIXED Reality News. OpenAI says that reasoning does not constitute misalignment in the system.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
