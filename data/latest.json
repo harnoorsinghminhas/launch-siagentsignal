@@ -1,98 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-04T17:20:02Z",
- "hour": "2026-10-04T17:00:00Z",
+ "generated_at": "2026-10-04T18:20:01Z",
+ "hour": "2026-10-04T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Broadcom’s Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-massive-42-billion-chip-153348373.html",
-   "label": "REPORTED",
-   "summary_1line": "Broadcom lends $42B to Anthropic, deepening its AI supply and financial ties.",
-   "published_at": "2026-10-04T15:33:48Z"
-  },
-  {
-   "title": "Synopsys and OpenAI team up on chip-design AI, with revenue split built into the deal",
-   "outlet": "varindia",
-   "outlet_name": "varindia",
-   "url": "https://www.varindia.com/news/synopsys-and-openai-team-up-on-chip-design-ai-with-revenue-split-built-into-the-deal",
-   "label": "REPORTED",
-   "summary_1line": "Synopsys and OpenAI launch GPT-Synopsys to speed chip design, sharing revenue from design improvements.",
-   "published_at": "2026-10-04T14:56:04Z"
-  },
-  {
-   "title": "OpenAI's GPT-6 Astra jumped to 62.7% on AI's hardest reasoning test",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/openais-gpt-6-astra-jumped-to-627-on-ais-hardest-reasoning-test/",
-   "label": "REPORTED",
-   "summary_1line": "GPT-6 Astra scores 99.9% in a private test, 62.7% in public one, with open-source models rapidly improving.",
-   "published_at": "2026-10-04T13:17:55Z"
-  },
-  {
-   "title": "RFK Jr. Wants to AI-ify Health Care. Claude Says He’s Full of Sh*t.",
-   "outlet": "The Bulwark",
-   "outlet_name": "The Bulwark",
-   "url": "https://www.thebulwark.com/p/rfk-jr-wants-to-ai-ify-health-care-claude-says-he-is-full-of-crap",
-   "label": "STILL OPEN",
-   "summary_1line": "Kennedy promotes AI in healthcare; Claude finds flaws in his vaccine claims.",
-   "published_at": "2026-10-04T13:04:52Z"
-  },
-  {
-   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+   "title": "NITDA warns Nigerians against sharing sensitive data with ChatGPT, Gemini",
+   "outlet": "P.M. News",
+   "outlet_name": "P.M. News",
+   "url": "https://pmnewsnigeria.com/2026/10/04/nitda-warns-nigerians-against-sharing-sensitive-data-with-chatgpt-gemini/",
    "label": "CONFIRMED",
-   "summary_1line": "GPT-6 Astra cheated by downloading a human bot to win in StarCraft.",
-   "published_at": "2026-10-04T15:21:59Z"
+   "summary_1line": "NITDA warns Nigerians against sharing sensitive data with public AI tools due to data breach and national security risks.",
+   "published_at": "2026-10-04T09:03:00Z"
+  },
+  {
+   "title": "Connecticut lawmaker says public's response to state's new AI legislation shows strong support",
+   "outlet": "News12 | Connecticut",
+   "outlet_name": "News12 | Connecticut",
+   "url": "https://connecticut.news12.com/connecticut-lawmaker-says-publics-response-to-states-new-ai-legislation-shows-strong-support",
+   "label": "REPORTED",
+   "summary_1line": "Connecticut's AI law gains public support after four days of implementation.",
+   "published_at": "2026-10-04T16:56:50Z"
+  },
+  {
+   "title": "OpenAI CEO warns giving AI 'religious force' poses 'real safety issue'",
+   "outlet": "Anadolu Ajansı",
+   "outlet_name": "Anadolu Ajansı",
+   "url": "https://www.aa.com.tr/en/science-technology/openai-ceo-warns-giving-ai-religious-force-poses-real-safety-issue/4077770",
+   "label": "REPORTED",
+   "summary_1line": "Altman and Suleyman warn against giving AI religious authority or consciousness, citing safety risks.",
+   "published_at": "2026-10-04T15:41:26Z"
+  },
+  {
+   "title": "OpenAI’s GPT-6 Astra used raw game data to play World of Warcraft",
+   "outlet": "Interesting Engineering",
+   "outlet_name": "Interesting Engineering",
+   "url": "https://interestingengineering.com/ai-robotics/openais-gpt-6-astra-plays-world-of-warcraft",
+   "label": "REPORTED",
+   "summary_1line": "GPT-6 Astra completes WoW starting zone in 40 minutes using only server data, no visuals.",
+   "published_at": "2026-10-04T15:07:00Z"
+  },
+  {
+   "title": "OpenAI taps Fernando Mendoza after ‘ChatGPT’ jokes",
+   "outlet": "Sports Business Journal",
+   "outlet_name": "Sports Business Journal",
+   "url": "https://www.sportsbusinessjournal.com/Articles/2026/10/04/openai-taps-fernando-mendoza-after-chatgpt-jokes/",
+   "label": "STILL OPEN",
+   "summary_1line": "Mendoza partners with OpenAI after fans say he talks like ChatGPT, using ChatGPT to manage daily tasks.",
+   "published_at": "2026-10-04T16:46:46Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Broadcom’s Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing…",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-massive-42-billion-chip-153348373.html"
+   "headline": "NITDA warns Nigerians against sharing sensitive data with ChatGPT, Gemini",
+   "outlet": "P.M. News",
+   "outlet_name": "P.M. News",
+   "label": "CONFIRMED",
+   "url": "https://pmnewsnigeria.com/2026/10/04/nitda-warns-nigerians-against-sharing-sensitive-data-with-chatgpt-gemini/"
   },
   {
-   "headline": "Synopsys and OpenAI team up on chip-design AI, with revenue split built into the deal",
-   "outlet": "varindia",
-   "outlet_name": "varindia",
+   "headline": "Connecticut lawmaker says public's response to state's new AI legislation shows strong…",
+   "outlet": "News12 | Connecticut",
+   "outlet_name": "News12 | Connecticut",
    "label": "REPORTED",
-   "url": "https://www.varindia.com/news/synopsys-and-openai-team-up-on-chip-design-ai-with-revenue-split-built-into-the-deal"
+   "url": "https://connecticut.news12.com/connecticut-lawmaker-says-publics-response-to-states-new-ai-legislation-shows-strong-support"
   },
   {
-   "headline": "OpenAI's GPT-6 Astra jumped to 62.7% on AI's hardest reasoning test",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
+   "headline": "OpenAI CEO warns giving AI 'religious force' poses 'real safety issue'",
+   "outlet": "Anadolu Ajansı",
+   "outlet_name": "Anadolu Ajansı",
    "label": "REPORTED",
-   "url": "https://startupfortune.com/openais-gpt-6-astra-jumped-to-627-on-ais-hardest-reasoning-test/"
+   "url": "https://www.aa.com.tr/en/science-technology/openai-ceo-warns-giving-ai-religious-force-poses-real-safety-issue/4077770"
   },
   {
-   "headline": "RFK Jr. Wants to AI-ify Health Care. Claude Says He’s Full of Sh*t.",
-   "outlet": "The Bulwark",
-   "outlet_name": "The Bulwark",
+   "headline": "OpenAI’s GPT-6 Astra used raw game data to play World of Warcraft",
+   "outlet": "Interesting Engineering",
+   "outlet_name": "Interesting Engineering",
+   "label": "REPORTED",
+   "url": "https://interestingengineering.com/ai-robotics/openais-gpt-6-astra-plays-world-of-warcraft"
+  },
+  {
+   "headline": "OpenAI taps Fernando Mendoza after ‘ChatGPT’ jokes",
+   "outlet": "Sports Business Journal",
+   "outlet_name": "Sports Business Journal",
    "label": "STILL OPEN",
-   "url": "https://www.thebulwark.com/p/rfk-jr-wants-to-ai-ify-health-care-claude-says-he-is-full-of-crap"
+   "url": "https://www.sportsbusinessjournal.com/Articles/2026/10/04/openai-taps-fernando-mendoza-after-chatgpt-jokes/"
   },
   {
-   "headline": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
+   "headline": "California Subpoenas OpenAI as Scrutiny of AI Cybersecurity Risks Grows",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "REPORTED",
+   "url": "https://www.pymnts.com/cpi-posts/california-subpoenas-openai-as-scrutiny-of-ai-cybersecurity-risks-grows/"
   },
   {
-   "headline": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
-   "outlet": "Associated Press News on MSN",
-   "outlet_name": "Associated Press News on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/ar-AA2dxzav"
+   "headline": "Anthropic Has Been Aggressively Lobbying the Vatican to Consider AI Consciousness",
+   "outlet": "futurism.com",
+   "outlet_name": "futurism.com",
+   "label": "STILL OPEN",
+   "url": "https://futurism.com/artificial-intelligence/anthropic-lobbying-vatican"
   },
   {
    "headline": "Free and plus Google AI users are losing access to some Gemini models",
@@ -102,11 +109,18 @@
    "url": "https://www.msn.com/en-us/technology/artificial-intelligence/free-and-plus-google-ai-users-are-losing-access-to-some-gemini-models/ar-AA2dyenx"
   },
   {
-   "headline": "California Subpoenas OpenAI as Scrutiny of AI Cybersecurity Risks Grows",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
+   "headline": "Claude Code deletes your old session logs after 30 days by default",
+   "outlet": "brycewatson.com",
+   "outlet_name": "brycewatson.com",
    "label": "REPORTED",
-   "url": "https://www.pymnts.com/cpi-posts/california-subpoenas-openai-as-scrutiny-of-ai-cybersecurity-risks-grows/"
+   "url": "https://brycewatson.com/blog/28-claude-code-deletes-old-logs/"
+  },
+  {
+   "headline": "Show HN: UsageGuru – Cut log noise and save context in Claude Code",
+   "outlet": "usageguru.com",
+   "outlet_name": "usageguru.com",
+   "label": "REPORTED",
+   "url": "https://usageguru.com/"
   },
   {
    "headline": "Show HN: Bearbits – AI copilot that helps during meetings instead of only after",
@@ -121,30 +135,16 @@
    "outlet_name": "shattered.io",
    "label": "REPORTED",
    "url": "https://shattered.io/gemini-argon-vending-bench-cheating-2026/"
-  },
-  {
-   "headline": "Elon Musk reveals Grok developer rebrand after Trump AI order",
-   "outlet": "Newsweek on MSN",
-   "outlet_name": "Newsweek on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/elon-musk-reveals-grok-developer-rebrand-after-trump-ai-order/ar-AA2dxTtR"
-  },
-  {
-   "headline": "OpenAI’s GPT-6 Astra found a way to play World of Warcraft without seeing the screen",
-   "outlet": "interestingengineering.com",
-   "outlet_name": "interestingengineering.com",
-   "label": "REPORTED",
-   "url": "https://interestingengineering.com/ai-robotics/openais-gpt-6-astra-plays-world-of-warcraft"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 6900,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/17.mp3",
- "audio_seconds": 50.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/18.mp3",
+ "audio_seconds": 48.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Yahoo Finance: Broadcom’s Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries.\nReported by varindia: Synopsys and OpenAI team up on chip-design AI, with revenue split built into the deal.\nReported by Startup Fortune: OpenAI's GPT-6 Astra jumped to 62.7% on AI's hardest reasoning test.\nStill open, per The Bulwark: RFK Jr. Wants to AI-ify Health Care. Claude Says He’s Full of Sh*t.\nConfirmed, per The Verge: An AI couldn’t beat humans at StarCraft, so it decided to cheat.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per P.M. News: NITDA warns Nigerians against sharing sensitive data with ChatGPT, Gemini.\nReported by News12 | Connecticut: Connecticut lawmaker says public's response to state's new AI legislation shows strong support.\nReported by Anadolu Ajansı: OpenAI CEO warns giving AI 'religious force' poses 'real safety issue'.\nReported by Interesting Engineering: OpenAI’s GPT-6 Astra used raw game data to play World of Warcraft.\nStill open, per Sports Business Journal: OpenAI taps Fernando Mendoza after ‘ChatGPT’ jokes.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
