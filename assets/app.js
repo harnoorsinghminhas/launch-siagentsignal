@@ -689,13 +689,13 @@ var TIERS = {
 var dlg = $("#checkout"), lastBtn = null;
 function openDlg() { if (dlg.showModal) dlg.showModal(); else dlg.setAttribute("open", ""); }
 function closeDlg() { if (dlg.close) dlg.close(); else dlg.removeAttribute("open"); }
-function fill(T) {
+function coFill(T) {
   var g = clear($("#coGet")); T.get.forEach(function (x) { g.appendChild(h("li", {}, [x])); });
   $("#coStatus").textContent = "";
 }
 $$(".js-reserve").forEach(function (b) {
   b.addEventListener("click", function () {
-    var T = TIERS[b.getAttribute("data-tier")]; lastBtn = b; fill(T);
+    var T = TIERS[b.getAttribute("data-tier")]; lastBtn = b; coFill(T);
     $("#co-h").textContent = "Reserve " + T.n;
     var pr = clear($("#coPrice"));
     pr.appendChild(document.createTextNode("Launch price " + T.list + " · founding ")); pr.appendChild(h("b", {}, [T.found]));
@@ -708,7 +708,7 @@ $$(".js-reserve").forEach(function (b) {
   });
 });
 $(".js-buy").addEventListener("click", function () {
-  lastBtn = this; fill({ get: ["100-page PDF", "The full audio version", "Delivered right away"] });
+  lastBtn = this; coFill({ get: ["100-page PDF", "The full audio version", "Delivered right away"] });
   $("#co-h").textContent = "Buy the AI-Era Defense Playbook";
   clear($("#coPrice")).appendChild(h("b", {}, ["$49"])); $("#coPrice").appendChild(document.createTextNode(", one-time purchase, all-in"));
   $("#coSave").textContent = "No discount. It's a finished product at its normal price.";
@@ -717,7 +717,7 @@ $(".js-buy").addEventListener("click", function () {
   $("#coInsider").hidden = true;
   openDlg();
 });
-$("#coPay").addEventListener("click", function () { $("#coStatus").textContent = "Preview build: Stripe's hosted checkout (test mode first) connects here. No payment was taken."; });
+$("#coPay").addEventListener("click", function () { /* pay-wired */ var u = lastBtn && lastBtn.getAttribute("data-pay-url"); if (!u) { $("#coStatus").textContent = "Checkout is not open yet. Please try again shortly."; return; } $("#coStatus").textContent = "Opening secure checkout..."; window.location.assign(u); });
 $("#coClose").addEventListener("click", closeDlg);
 dlg.addEventListener("close", function () { if (lastBtn) lastBtn.focus(); });
 
