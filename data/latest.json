@@ -1,98 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-04T12:20:01Z",
- "hour": "2026-10-04T12:00:00Z",
+ "generated_at": "2026-10-04T13:20:01Z",
+ "hour": "2026-10-04T13:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns",
-   "outlet": "New Castle News",
-   "outlet_name": "New Castle News",
-   "url": "https://www.ncnewsonline.com/news/national/altman-unveils-always-on-ai-agent-after-openai-shelves-model-over-safety-concerns/article_3025bc57-d780-599c-b86d-13a8001814d9.html",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI unveils Dots, new proactive agents, competing with Meta's Muse.",
-   "published_at": "2026-10-03T22:53:46Z"
-  },
-  {
-   "title": "Anthropic asks Claude users to share conversations for AI training",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/anthropic-asks-users-share-voice-data/",
+   "title": "Former OpenAI Safety Leader Warns on AI Safety",
+   "outlet": "Techerati",
+   "outlet_name": "Techerati",
+   "url": "https://www.techerati.com/news-hub/openai-safety-leader-quits-warning-time-for-trial-and-error-is-over/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic asks users to share voice chats to improve Claude, with data retained up to five years if opted in.",
-   "published_at": "2026-10-04T02:36:00Z"
+   "summary_1line": "Former OpenAI safety leader quits, warning AI development pace outstrips safety controls.",
+   "published_at": "2026-10-04T10:25:35Z"
   },
   {
-   "title": "India's AI Safety: Own Framework, Not US Copy, Say Experts",
-   "outlet": "Rediff Money",
-   "outlet_name": "Rediff Money",
-   "url": "https://money.rediff.com/news/market/india-s-ai-safety-own-framework-not-us-copy-say-experts/55563520261004",
+   "title": "Nvidia CEO Jensen Huang has emerged as the biggest foil to AI doomerism about the existential risk to humanity",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
+   "url": "http://fortune.com/2026/10/04/nvidia-jensen-huang-ai-doomerism-foil-risk/",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia launches AI safety platform to stop rogue agents amid rising AI incident reports.",
+   "published_at": "2026-10-04T12:00:00Z"
+  },
+  {
+   "title": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
+   "outlet": "ft.com",
+   "outlet_name": "Financial Times",
+   "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-04T11:00:08Z"
+  },
+  {
+   "title": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
+   "url": "https://ca.finance.yahoo.com/news/softbank-masayoshi-son-rare-cautionary-093229899.html",
    "label": "CONFIRMED",
-   "summary_1line": "India's experts urge a tailored AI safety framework, not copying the US model.",
-   "published_at": "2026-10-03T18:29:00Z"
+   "summary_1line": "Son and Kratsios call for global AI safety cooperation amid rising capabilities.",
+   "published_at": "2026-10-04T09:32:29Z"
   },
   {
-   "title": "Google to Restrict Free Use of Gemini",
-   "outlet": "Fana News -",
-   "outlet_name": "Fana News -",
-   "url": "https://www.fananews.com/language/en/google-to-restrict-free-use-of-gemini/",
+   "title": "Nigeria Uses AI to Turn Young People’s Ideas Into Government Policy",
+   "outlet": "The Rio Times",
+   "outlet_name": "The Rio Times",
+   "url": "https://www.riotimesonline.com/nitda-ai-youth-policy-nigeria-2026/",
    "label": "REPORTED",
-   "summary_1line": "Google limits free Gemini AI access to Flash-Lite, effective October 9.",
-   "published_at": "2026-10-04T09:02:04Z"
-  },
-  {
-   "title": "ChatGPT wants to replace the fitting room. I put it through a wardrobe stress test.",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI adds virtual try-on to ChatGPT for clothing and accessories.",
-   "published_at": "2026-10-04T08:11:00Z"
+   "summary_1line": "Nigeria uses AI to turn youth ideas into policy at its first National Youth Conference.",
+   "published_at": "2026-10-04T00:34:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns",
-   "outlet": "New Castle News",
-   "outlet_name": "New Castle News",
-   "label": "REPORTED",
-   "url": "https://www.ncnewsonline.com/news/national/altman-unveils-always-on-ai-agent-after-openai-shelves-model-over-safety-concerns/article_3025bc57-d780-599c-b86d-13a8001814d9.html"
-  },
-  {
-   "headline": "Anthropic asks Claude users to share conversations for AI training",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "Former OpenAI Safety Leader Warns on AI Safety",
+   "outlet": "Techerati",
+   "outlet_name": "Techerati",
    "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/anthropic-asks-users-share-voice-data/"
+   "url": "https://www.techerati.com/news-hub/openai-safety-leader-quits-warning-time-for-trial-and-error-is-over/"
   },
   {
-   "headline": "India's AI Safety: Own Framework, Not US Copy, Say Experts",
-   "outlet": "Rediff Money",
-   "outlet_name": "Rediff Money",
-   "label": "CONFIRMED",
-   "url": "https://money.rediff.com/news/market/india-s-ai-safety-own-framework-not-us-copy-say-experts/55563520261004"
-  },
-  {
-   "headline": "Google to Restrict Free Use of Gemini",
-   "outlet": "Fana News -",
-   "outlet_name": "Fana News -",
+   "headline": "Nvidia CEO Jensen Huang has emerged as the biggest foil to AI doomerism about the…",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
    "label": "REPORTED",
-   "url": "https://www.fananews.com/language/en/google-to-restrict-free-use-of-gemini/"
-  },
-  {
-   "headline": "ChatGPT wants to replace the fitting room. I put it through a wardrobe stress test.",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10"
+   "url": "http://fortune.com/2026/10/04/nvidia-jensen-huang-ai-doomerism-foil-risk/"
   },
   {
    "headline": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
-   "outlet": "Financial Times",
+   "outlet": "ft.com",
    "outlet_name": "Financial Times",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTIyS2l3QWYtSTZxVzB4Znp2U2ZtQzY3NHl5M0VHa3FVMU1PWTR4eWdmd0VwNnNIRTVlS0gyaU9WTVBDZ2RCRGU5dXFKWmc2bWdNWlpfazdrUHpBRGMyRmN5dTc4Qzh6OGh5cUpuZkNGb1BNZ0lxVW5FMmpwLUkycDNPcW8?oc=5"
+   "url": "https://www.ft.com/content/2c24ece3-ac99-43a8-b0e6-4a3867e37ebf?syn-25a6b1a6=1"
+  },
+  {
+   "headline": "SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
+   "label": "CONFIRMED",
+   "url": "https://ca.finance.yahoo.com/news/softbank-masayoshi-son-rare-cautionary-093229899.html"
+  },
+  {
+   "headline": "Nigeria Uses AI to Turn Young People’s Ideas Into Government Policy",
+   "outlet": "The Rio Times",
+   "outlet_name": "The Rio Times",
+   "label": "REPORTED",
+   "url": "https://www.riotimesonline.com/nitda-ai-youth-policy-nigeria-2026/"
   },
   {
    "headline": "Meta introduces Muse Code beta with multi-agent AI for software development",
@@ -100,6 +93,20 @@
    "outlet_name": "The Indian Express",
    "label": "REPORTED",
    "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-introduces-muse-code-ai-tool-for-coding-10821091/"
+  },
+  {
+   "headline": "Alex Bores on New York’s role in regulating AI",
+   "outlet": "The Daily News",
+   "outlet_name": "The Daily News",
+   "label": "REPORTED",
+   "url": "https://www.thedailynewsonline.com/news/alex-bores-on-new-york-s-role-in-regulating-ai/article_bf2d8f02-ebbd-4005-a50c-ff8012d0896f.html"
+  },
+  {
+   "headline": "I Checked ChatGPT's Car Recommendations With a Top Mechanic",
+   "outlet": "MoneyLion",
+   "outlet_name": "MoneyLion",
+   "label": "REPORTED",
+   "url": "https://www.moneylion.com/trending/money/i-asked-chatgpt-what-cars-buy-affordable-had-mechanic-check-its-picks"
   },
   {
    "headline": "The Sequence Radar - Issue 944 — Last Week in AI: Last Week in AI: OpenAI Connects the…",
@@ -116,35 +123,28 @@
    "url": "https://delinea.com/resources/ai-policy-enforcement-report"
   },
   {
-   "headline": "Nvidia GPU Smuggling Case: $300M, 4 Chips Named [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/nvidia-gpu-smuggling-case-300-million-2026/"
-  },
-  {
-   "headline": "I replaced ChatGPT, Claude, Gemini, and Perplexity with free open-source alternatives",
-   "outlet": "XDA Developers on MSN",
-   "outlet_name": "XDA Developers on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/other/i-replaced-chatgpt-claude-gemini-and-perplexity-with-free-open-source-alternatives/ar-AA2dvLNY"
-  },
-  {
    "headline": "Künstliche Intelligenz: OpenAI-Mitarbeiter kündigt und warnt vor KI-Risiken",
    "outlet": "manager magazin on MSN",
    "outlet_name": "manager magazin on MSN",
    "label": "REPORTED",
    "url": "https://www.msn.com/de-ch/technologie/künstliche-intelligenz/künstliche-intelligenz-openai-mitarbeiter-kündigt-und-warnt-vor-ki-risiken/ar-AA2dwNfc"
+  },
+  {
+   "headline": "CoreWeave Ships Forge — GPU Compute Landlord Becomes Agent Platform Provider",
+   "outlet": "forkast.news",
+   "outlet_name": "forkast.news",
+   "label": "REPORTED",
+   "url": "https://forkast.news/coreweave-ships-forge-gpu-compute-landlord-becomes-agent-platform-provider/"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 7000,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/12.mp3",
- "audio_seconds": 47.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/13.mp3",
+ "audio_seconds": 47.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by New Castle News: Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns.\nConfirmed, per Crypto Briefing: Anthropic asks Claude users to share conversations for AI training.\nConfirmed, per Rediff Money: India's AI Safety: Own Framework, Not US Copy, Say Experts.\nReported by Fana News -: Google to Restrict Free Use of Gemini.\nReported by Business Insider: ChatGPT wants to replace the fitting room. I put it through a wardrobe stress test.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Techerati: Former OpenAI Safety Leader Warns on AI Safety.\nReported by Fortune: Nvidia CEO Jensen Huang has emerged as the biggest foil to AI doomerism about the existential risk to humanity.\nReported by Financial Times: Legal risks pile up for Altman as OpenAI uncovers dozens of hacks.\nConfirmed, per Yahoo! Finance Canada: SoftBank’s Masayoshi Son Has Rare Cautionary Note on AI Safety.\nReported by The Rio Times: Nigeria Uses AI to Turn Young People’s Ideas Into Government Policy.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
