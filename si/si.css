@@ -75,6 +75,12 @@
 .cta h2{margin:0;font-size:22px}
 .cta p{margin:0;font-size:16.5px}
 .stamp-line{margin-top:26px;font-size:13.5px;color:var(--muted)}
+.indep{font-weight:800;color:var(--ink)}
+.official{margin:20px 0;padding:12px 16px;border:1.5px solid var(--ink);border-radius:var(--r-md);background:var(--band-2)}
+.doc .official p,.official p{margin:0;font-size:14.5px;line-height:1.5}
+.foot .official{margin:10px 0 0;background:#fff}
+.foot .official p{font-size:13px}
+.notes .indep{font-size:14.5px;margin:0 0 10px}
 
 /* library home */
 .libcards{display:grid;gap:14px;margin:18px 0 8px}
@@ -122,7 +128,7 @@
 .legend i.avg{border-top:2px dashed #444c57}
 .legend i.mark{border-top:2px dashed #c64a5b}
 .ladder .step{fill:#fff;stroke:var(--ink);stroke-width:2}
-.ladder .step.top{fill:var(--acc-soft)}
+.ladder .step.umb{fill:var(--acc-soft)}
 .ladder .step.fed{fill:var(--si-mark);stroke:var(--acc)}
 .ladder .t1{font:800 19px var(--f-d);fill:#10141c}
 .ladder .t2{font:600 14.5px var(--f-b);fill:#343b48}
@@ -143,4 +149,7 @@
   footer{margin-top:18pt;padding-top:10pt}
   .printonly{display:block;font-size:10pt;color:#333;margin:6pt 0}
   .tbl-wrap{overflow:visible}.tbl{min-width:0}
+  .notes a[href^="http"]::after{content:" \2192  " attr(href);font-size:.82em;overflow-wrap:anywhere;color:#333}
+  .notes .sr,.official .sr{display:none}
+  .official a[href^="http"]::after{content:" (" attr(href) ")";overflow-wrap:anywhere}
 }
