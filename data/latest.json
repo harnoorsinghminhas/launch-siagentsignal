@@ -1,112 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-04T06:20:02Z",
- "hour": "2026-10-04T06:00:00Z",
+ "generated_at": "2026-10-04T07:20:02Z",
+ "hour": "2026-10-04T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google debuts Gemini Enterprise Agent platform at Cloud Next",
-   "outlet": "NewsBytes",
-   "outlet_name": "NewsBytes",
-   "url": "https://www.newsbytesapp.com/news/science/google-debuts-gemini-enterprise-agent-platform-at-cloud-next/tldr",
+   "title": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
+   "url": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek launches v0.2 desktop app with plugin-based agent harness and third-party model support.",
+   "published_at": "2026-10-04T04:49:42Z"
+  },
+  {
+   "title": "AI benchmark flaws impact Anthropic’s market odds for October 2026",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/ai-benchmark-flaws-impact-anthropics-market-odds-for-october-2026/",
+   "label": "REPORTED",
+   "summary_1line": "UC Berkeley research shows AI scores may be fake; market odds drop for Anthropic leading AI by Oct 2026.",
+   "published_at": "2026-10-03T16:55:00Z"
+  },
+  {
+   "title": "White House AI task force to assess risks, avoid overregulation: Report",
+   "outlet": "Türkiye Today",
+   "outlet_name": "Türkiye Today",
+   "url": "https://www.turkiyetoday.com/world/white-house-ai-task-force-to-assess-risks-avoid-overregulation-report-3229555",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-03T17:00:00Z"
+   "published_at": "2026-10-04T06:54:36Z"
   },
   {
-   "title": "Black Market for Blocked AI Claude Thrives in China",
-   "outlet": "조선일보",
-   "outlet_name": "조선일보",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5",
+   "title": "Google moves every free Gemini user to its smallest model on October 9",
+   "outlet": "Martin Cid Magazine",
+   "outlet_name": "Martin Cid Magazine",
+   "url": "https://www.martincid.com/technology-sv/gemini-free-users-flash-lite-only-october-9/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-04T05:08:04Z"
+   "published_at": "2026-10-04T06:08:17Z"
   },
   {
-   "title": "Bhopal Cyber Fraud: AI Voice Cloning Scam Dupes Security Guard Of ₹35,000",
-   "outlet": "Free Press Journal",
-   "outlet_name": "Free Press Journal",
-   "url": "https://www.freepressjournal.in/bhopal/bhopal-cyber-fraud-ai-voice-cloning-scam-dupes-security-guard-of-35000",
+   "title": "Will Manulife's (TSX:MFC) ChatGPT Travel Insurance Plugin Redefine Its Digital Differentiation Strategy?",
+   "outlet": "Yahoo Finance UK",
+   "outlet_name": "Yahoo Finance UK",
+   "url": "https://uk.finance.yahoo.com/news/manulifes-tsx-mfc-chatgpt-travel-060706277.html",
    "label": "REPORTED",
-   "summary_1line": "Security guard in Bhopal lost Rs 35,000 to AI-enabled voice fraud.",
-   "published_at": "2026-10-03T21:37:00Z"
-  },
-  {
-   "title": "Gamma AI: Präsentationsentwürfe in 6,2 Minuten statt 3,8 Stunden",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "url": "https://borncity.com/news/gamma-ai-praesentationsentwuerfe-in-62-minuten-statt-38-stunden/",
-   "label": "REPORTED",
-   "summary_1line": "Gamma and ChatPPT cut presentation time from hours to minutes with 99.4% brand consistency.",
-   "published_at": "2026-10-04T04:10:05Z"
-  },
-  {
-   "title": "Amid AI Agent Fears, Apple Restricts Full Disk Access",
-   "outlet": "PCMag Middle East",
-   "outlet_name": "PCMag Middle East",
-   "url": "https://me.pcmag.com/en/ai/38233/amid-ai-agent-fears-apple-restricts-full-disk-access",
-   "label": "STILL OPEN",
-   "summary_1line": "Apple introduces new Full Disk Access controls to limit AI app access on macOS.",
-   "published_at": "2026-10-03T17:00:00Z"
+   "summary_1line": null,
+   "published_at": "2026-10-04T06:07:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google debuts Gemini Enterprise Agent platform at Cloud Next",
-   "outlet": "NewsBytes",
-   "outlet_name": "NewsBytes",
-   "label": "REPORTED",
-   "url": "https://www.newsbytesapp.com/news/science/google-debuts-gemini-enterprise-agent-platform-at-cloud-next/tldr"
-  },
-  {
-   "headline": "Black Market for Blocked AI Claude Thrives in China",
-   "outlet": "조선일보",
-   "outlet_name": "조선일보",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORTlPOTNyWnBwZ1RxdENJN0doQVZBNWF1S25ibUlGUkd1aWt0V29BdkhOSzRTZGZ3NjVadmNBUWxRWWlCZGRXZFpUcTg4MkZ3bUJBSGU0MlJMZUlXUExIWFVvNHhEQXduQkFjNzNxaTJNM2VtaUtlV01ZVUNkckxmSUxBMHJQeXVP?oc=5"
-  },
-  {
-   "headline": "Bhopal Cyber Fraud: AI Voice Cloning Scam Dupes Security Guard Of ₹35,000",
-   "outlet": "Free Press Journal",
-   "outlet_name": "Free Press Journal",
-   "label": "REPORTED",
-   "url": "https://www.freepressjournal.in/bhopal/bhopal-cyber-fraud-ai-voice-cloning-scam-dupes-security-guard-of-35000"
-  },
-  {
-   "headline": "Gamma AI: Präsentationsentwürfe in 6,2 Minuten statt 3,8 Stunden",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "label": "REPORTED",
-   "url": "https://borncity.com/news/gamma-ai-praesentationsentwuerfe-in-62-minuten-statt-38-stunden/"
-  },
-  {
-   "headline": "Amid AI Agent Fears, Apple Restricts Full Disk Access",
-   "outlet": "PCMag Middle East",
-   "outlet_name": "PCMag Middle East",
-   "label": "STILL OPEN",
-   "url": "https://me.pcmag.com/en/ai/38233/amid-ai-agent-fears-apple-restricts-full-disk-access"
-  },
-  {
-   "headline": "Radio Free America: Enforce existing laws against AI companies",
-   "outlet": "Heartland Signal",
-   "outlet_name": "Heartland Signal",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmVZb1hxZnBMUWw5Z1NDNEVwMzhiMVdyeHVZaGtSTm1nUGMyOEEtWUR0c01KbkNFTzhfYjRQVnZuYTJnQWxabHp4WEd1ekRRMmo1aEVreVZhUkdHdmlmcGJJSjQ5LW9TQVRSelo5LXRRc0lMelg5R0d6NlBHSngybmt1anduUXZ1Y1JiYWpYZXFJUVFBR3o1WEZ5M0xJX3dnRlIzS1EzVV9OSmh3ZG4wV2lCV08?oc=5"
-  },
-  {
-   "headline": "Former OpenAI employee says AI should be regulated like nuclear power plants",
-   "outlet": "engadget.com",
-   "outlet_name": "Engadget",
-   "label": "REPORTED",
-   "url": "https://www.engadget.com/2276577/former-openai-employee-says-ai-should-be-regulated-like-nuclear-power-plants/"
-  },
-  {
    "headline": "DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness",
-   "outlet": "marktechpost.com",
-   "outlet_name": "marktechpost.com",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
    "label": "REPORTED",
    "url": "https://www.marktechpost.com/2026/10/03/deepseek-harness-v0-2-brings-official-desktop-apps-to-its-open-source-agent-harness/"
+  },
+  {
+   "headline": "AI benchmark flaws impact Anthropic’s market odds for October 2026",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/ai-benchmark-flaws-impact-anthropics-market-odds-for-october-2026/"
+  },
+  {
+   "headline": "White House AI task force to assess risks, avoid overregulation: Report",
+   "outlet": "Türkiye Today",
+   "outlet_name": "Türkiye Today",
+   "label": "REPORTED",
+   "url": "https://www.turkiyetoday.com/world/white-house-ai-task-force-to-assess-risks-avoid-overregulation-report-3229555"
+  },
+  {
+   "headline": "Google moves every free Gemini user to its smallest model on October 9",
+   "outlet": "Martin Cid Magazine",
+   "outlet_name": "Martin Cid Magazine",
+   "label": "REPORTED",
+   "url": "https://www.martincid.com/technology-sv/gemini-free-users-flash-lite-only-october-9/"
+  },
+  {
+   "headline": "Will Manulife's (TSX:MFC) ChatGPT Travel Insurance Plugin Redefine Its Digital…",
+   "outlet": "Yahoo Finance UK",
+   "outlet_name": "Yahoo Finance UK",
+   "label": "REPORTED",
+   "url": "https://uk.finance.yahoo.com/news/manulifes-tsx-mfc-chatgpt-travel-060706277.html"
+  },
+  {
+   "headline": "Lenovo Takes Aim At AI Deployment Delays With Pre-Validated Nvidia GPU Servers",
+   "outlet": "SMBtech",
+   "outlet_name": "SMBtech",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMEdLZS1VSUxOTlMxOEw2cVF3VHRETWFlWEZ1ejRuLW9YXzd1bXF3Sm9vcGhtUVRXUFVrQm5odERqWXBOQVpONWdJOTMzNEQ3b3d0ZnR5cVF5VUVVYmkxTXdfdWFUY0tQZjliQVR1MEViYVRvWVY0eTU5S0pyWkRPYXNOZzctT0dBbkw3ZlEtTTQtU2lmTTlXZ25qYkU4b0tSdWpGOFBB?oc=5"
+  },
+  {
+   "headline": "George Claude Obituary (1941 - 2026) - Bellbrook, OH - Dayton Daily News",
+   "outlet": "Legacy obituary",
+   "outlet_name": "Legacy obituary",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY25zOVdkYS1lRnY1emhXM3A2VExWMHVQclhqWU1Fa3B5QW5zQXlvUkJTaWw0MHFVUVJHbWdwU3FvcG5IVjFIdi1RVEhtbkFJT2dwMGRWNm1IVzZyRW8yWUE3X2hEZXFGT2FtLWxYMGNfdHczRng3OENfclR5a09hRnI1cWowVWN4QXFZ?oc=5"
   },
   {
    "headline": "Anthropic’s Olah Clashed With Vatican Over AI Consciousness Before Encyclical Launch",
@@ -116,35 +109,42 @@
    "url": "https://forkast.news/anthropics-olah-clashed-with-vatican-over-ai-consciousness-before-encyclical-launch/"
   },
   {
-   "headline": "Google says free Gemini users will be limited to the 3.5 Flash-Lite model from October 9…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
+   "headline": "Pizza Bot: Open-Source Inbox for Background AI Agents",
+   "outlet": "infoq.com",
+   "outlet_name": "infoq.com",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261004/p4#a261004p4"
+   "url": "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/"
   },
   {
-   "headline": "We asked Google Gemini to create a Tesla in 2050 and this is what it came up with",
-   "outlet": "supercarblondie.com",
-   "outlet_name": "supercarblondie.com",
+   "headline": "Exploring The Limits Of OpenAI’s Latest Frontier Model",
+   "outlet": "generativeai.pub",
+   "outlet_name": "generativeai.pub",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUVdleXRaYzhzSWdJWm83Vmxfd1ZSZ3VZZDl1Wm1FOEZMdnhXVkFwakV3Q3k2RTB0aXBycTVRenpyN08yR09pZWhDZ1FoNTYwSFNCZGJQSF9nM0VudXhKLVV4TWNXdmNHeVlFLVFOeVh1QQ?oc=5"
+   "url": "https://generativeai.pub/exploring-the-limits-of-openais-latest-frontier-model-b986fecddb14?source=rss------ai_agents-5"
   },
   {
-   "headline": "ECB: Eurozone firms struggle to fund AI",
-   "outlet": "idnfinancials.com",
-   "outlet_name": "idnfinancials.com",
+   "headline": "OpenAI safety employee quits, criticizes company’s approach to AI risks",
+   "outlet": "Investing.com",
+   "outlet_name": "Investing.com",
    "label": "REPORTED",
-   "url": "https://www.idnfinancials.com/news/69800/ecb-eurozone-firms-struggle-to-fund-ai"
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYXlxT1dvT2UxcVZRTWdJdG1vT3NmTTRpYjc4MnUxTnRuYVJUbUUxcDNQa2pndlJFY05od3h6WGZvaUgwSFJ5SEVmWHV5OFhHMkxwOHRheDJPSDdhS0xya3hjUnNuc0dncnljZU53bmlrVkRmTmhUblE0VDNtR0REdFkxV0s0dVVnR1FaNHowZ3MxY21mVWJWb1cyVWY3STE1YWFDSGduQTBqaG1jUEZkMTB0WWI4T2JwNVEySFZR?oc=5"
+  },
+  {
+   "headline": "ChatGPT-maker OpenAI says three staffers fired for mishandling 'sensitive' info",
+   "outlet": "themercury.co.za",
+   "outlet_name": "themercury.co.za",
+   "label": "REPORTED",
+   "url": "https://themercury.co.za/technology/software-and-internet/2026-10-02-chatgpt-maker-openai-says-three-staffers-fired-for-mishandling-sensitive-info/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 7100,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 7000,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/06.mp3",
- "audio_seconds": 47.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/07.mp3",
+ "audio_seconds": 51.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by NewsBytes: Google debuts Gemini Enterprise Agent platform at Cloud Next.\nReported by 조선일보: Black Market for Blocked AI Claude Thrives in China.\nReported by Free Press Journal: Bhopal Cyber Fraud: AI Voice Cloning Scam Dupes Security Guard Of ₹35,000.\nReported by BornCity: Gamma AI: Präsentationsentwürfe in 6,2 Minuten statt 3,8 Stunden.\nStill open, per PCMag Middle East: Amid AI Agent Fears, Apple Restricts Full Disk Access.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by MarkTechPost: DeepSeek Harness v0.2 Brings Official Desktop Apps to Its Open-Source Agent Harness.\nReported by Crypto Briefing: AI benchmark flaws impact Anthropic’s market odds for October 2026.\nReported by Türkiye Today: White House AI task force to assess risks, avoid overregulation: Report.\nReported by Martin Cid Magazine: Google moves every free Gemini user to its smallest model on October 9.\nReported by Yahoo Finance UK: Will Manulife's (TSX:MFC) ChatGPT Travel Insurance Plugin Redefine Its Digital Differentiation Strategy.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
