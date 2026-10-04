@@ -1,6 +1,6 @@
 /* My Brief · siagentsignal.com
    Every node is built with createElement/textContent: no innerHTML, so the page runs under
-   require-trusted-types-for 'script'. Data comes from #si-data (written by _build/build_data.py). */
+   require-trusted-types-for 'script'. Data comes from #si-data (written at build time). */
 (function () {
 "use strict";
 
@@ -35,7 +35,7 @@ function icon(id) {
 }
 function sum(a) { return a.reduce(function (x, y) { return x + y; }, 0); }
 function fmt(n) { return Number(n).toLocaleString("en-US"); }
-/* Rounded, true magnitudes: never more than the real number (mirrors approx() in _build/build_data.py). */
+/* Rounded, true magnitudes: never more than the real number (same rounding as the build). */
 function approx(n) {
   if (n < 10) return String(n);
   var sig = n < 1000 ? 1 : 2, p = Math.pow(10, String(Math.floor(n)).length - sig), f = Math.floor(n / p) * p;
