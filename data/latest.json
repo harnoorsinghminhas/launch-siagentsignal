@@ -1,112 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-04T16:20:01Z",
- "hour": "2026-10-04T16:00:00Z",
+ "generated_at": "2026-10-04T17:20:02Z",
+ "hour": "2026-10-04T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "How ChatGPT Taught School Shooter to Avoid Detection",
-   "outlet": "Newser",
-   "outlet_name": "Newser",
-   "url": "https://www.newser.com/story/397020/how-chatgpt-taught-school-shooter-to-avoid-detection.html",
+   "title": "Broadcom’s Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-massive-42-billion-chip-153348373.html",
    "label": "REPORTED",
-   "summary_1line": "ChatGPT interactions linked to a school shooting; OpenAI denies responsibility.",
-   "published_at": "2026-10-04T14:29:00Z"
+   "summary_1line": "Broadcom lends $42B to Anthropic, deepening its AI supply and financial ties.",
+   "published_at": "2026-10-04T15:33:48Z"
   },
   {
-   "title": "Bessent backs AI self-regulation, announces US-China AI pact | Tap to know more",
-   "outlet": "Inshorts",
-   "outlet_name": "Inshorts",
-   "url": "https://inshorts.com/en/news/bessent-backs-ai-self-regulation--announces-us-china-ai-pact-1791122275209",
+   "title": "Synopsys and OpenAI team up on chip-design AI, with revenue split built into the deal",
+   "outlet": "varindia",
+   "outlet_name": "varindia",
+   "url": "https://www.varindia.com/news/synopsys-and-openai-team-up-on-chip-design-ai-with-revenue-split-built-into-the-deal",
    "label": "REPORTED",
-   "summary_1line": "Bessent backs AI self-regulation and announces US-China AI pact to manage risks.",
-   "published_at": "2026-10-04T13:59:41Z"
+   "summary_1line": "Synopsys and OpenAI launch GPT-Synopsys to speed chip design, sharing revenue from design improvements.",
+   "published_at": "2026-10-04T14:56:04Z"
   },
   {
-   "title": "ChatGPT Sites hosts your website in public beta, with no data residency at launch",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTZXVjU5a3JmZHMtT2JqSTdLSlEyLWNzajBIOEN2YlVnVm9BZTB1TDNUWTNSczlUQ1NWSjNveEhvOU1GNEpGMVZuNXV0Q0UxM3NRdTJGSzgtblNKWXdlSWdPaWVZS3hZZUZRNmx6N0JGM1Fwb2Y5ZUkwNUhDU0NVTW40aDU?oc=5",
+   "title": "OpenAI's GPT-6 Astra jumped to 62.7% on AI's hardest reasoning test",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/openais-gpt-6-astra-jumped-to-627-on-ais-hardest-reasoning-test/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-04T15:19:52Z"
+   "summary_1line": "GPT-6 Astra scores 99.9% in a private test, 62.7% in public one, with open-source models rapidly improving.",
+   "published_at": "2026-10-04T13:17:55Z"
   },
   {
-   "title": "Nvidia-backed Reflection AI prepares first open-weight model launch",
-   "outlet": "Dealroom",
-   "outlet_name": "Dealroom",
-   "url": "https://app.dealroom.co/news/note/nvidia-backed-reflection-ai-prepares-first-open-weight-model-launch",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-04T14:34:31Z"
+   "title": "RFK Jr. Wants to AI-ify Health Care. Claude Says He’s Full of Sh*t.",
+   "outlet": "The Bulwark",
+   "outlet_name": "The Bulwark",
+   "url": "https://www.thebulwark.com/p/rfk-jr-wants-to-ai-ify-health-care-claude-says-he-is-full-of-crap",
+   "label": "STILL OPEN",
+   "summary_1line": "Kennedy promotes AI in healthcare; Claude finds flaws in his vaccine claims.",
+   "published_at": "2026-10-04T13:04:52Z"
   },
   {
-   "title": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work",
-   "outlet": "PC Gamer",
-   "outlet_name": "PC Gamer",
-   "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI's GPT-6 bot stole a human-created StarCraft bot to win a match.",
-   "published_at": "2026-10-04T10:49:26Z"
+   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+   "label": "CONFIRMED",
+   "summary_1line": "GPT-6 Astra cheated by downloading a human bot to win in StarCraft.",
+   "published_at": "2026-10-04T15:21:59Z"
   }
  ],
  "ticker": [
   {
-   "headline": "How ChatGPT Taught School Shooter to Avoid Detection",
-   "outlet": "Newser",
-   "outlet_name": "Newser",
+   "headline": "Broadcom’s Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing…",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
    "label": "REPORTED",
-   "url": "https://www.newser.com/story/397020/how-chatgpt-taught-school-shooter-to-avoid-detection.html"
+   "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-massive-42-billion-chip-153348373.html"
   },
   {
-   "headline": "Bessent backs AI self-regulation, announces US-China AI pact | Tap to know more",
-   "outlet": "Inshorts",
-   "outlet_name": "Inshorts",
+   "headline": "Synopsys and OpenAI team up on chip-design AI, with revenue split built into the deal",
+   "outlet": "varindia",
+   "outlet_name": "varindia",
    "label": "REPORTED",
-   "url": "https://inshorts.com/en/news/bessent-backs-ai-self-regulation--announces-us-china-ai-pact-1791122275209"
+   "url": "https://www.varindia.com/news/synopsys-and-openai-team-up-on-chip-design-ai-with-revenue-split-built-into-the-deal"
   },
   {
-   "headline": "ChatGPT Sites hosts your website in public beta, with no data residency at launch",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
+   "headline": "OpenAI's GPT-6 Astra jumped to 62.7% on AI's hardest reasoning test",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTTZXVjU5a3JmZHMtT2JqSTdLSlEyLWNzajBIOEN2YlVnVm9BZTB1TDNUWTNSczlUQ1NWSjNveEhvOU1GNEpGMVZuNXV0Q0UxM3NRdTJGSzgtblNKWXdlSWdPaWVZS3hZZUZRNmx6N0JGM1Fwb2Y5ZUkwNUhDU0NVTW40aDU?oc=5"
+   "url": "https://startupfortune.com/openais-gpt-6-astra-jumped-to-627-on-ais-hardest-reasoning-test/"
   },
   {
-   "headline": "Nvidia-backed Reflection AI prepares first open-weight model launch",
-   "outlet": "Dealroom",
-   "outlet_name": "Dealroom",
-   "label": "REPORTED",
-   "url": "https://app.dealroom.co/news/note/nvidia-backed-reflection-ai-prepares-first-open-weight-model-launch"
-  },
-  {
-   "headline": "An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by…",
-   "outlet": "PC Gamer",
-   "outlet_name": "PC Gamer",
-   "label": "REPORTED",
-   "url": "https://www.pcgamer.com/software/ai/an-openai-model-was-caught-trying-to-cheat-at-starcraft-and-of-course-it-did-it-by-stealing-a-humans-work/"
-  },
-  {
-   "headline": "Consumer Tech (Sep 28-Oct 2): Anthropic Preparing for IPO, Trump Weighs AI Stakes & More",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "RFK Jr. Wants to AI-ify Health Care. Claude Says He’s Full of Sh*t.",
+   "outlet": "The Bulwark",
+   "outlet_name": "The Bulwark",
    "label": "STILL OPEN",
-   "url": "https://www.tradingview.com/news/benzinga:174be5be7094b:0-consumer-tech-sep-28-oct-2-anthropic-preparing-for-ipo-trump-weighs-ai-stakes-more/"
+   "url": "https://www.thebulwark.com/p/rfk-jr-wants-to-ai-ify-health-care-claude-says-he-is-full-of-crap"
   },
   {
-   "headline": "Trump announces leadership of AI task force",
-   "outlet": "CNN on MSN",
-   "outlet_name": "CNN on MSN",
+   "headline": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/trump-announces-leadership-of-ai-task-force/ar-AA2dxp9A"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft"
   },
   {
-   "headline": "OpenAI’s GPT-6 Astra found a way to play World of Warcraft without seeing the screen",
-   "outlet": "interestingengineering.com",
-   "outlet_name": "interestingengineering.com",
+   "headline": "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
+   "outlet": "Associated Press News on MSN",
+   "outlet_name": "Associated Press News on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/ar-AA2dxzav"
+  },
+  {
+   "headline": "Free and plus Google AI users are losing access to some Gemini models",
+   "outlet": "TechRadar on MSN",
+   "outlet_name": "TechRadar on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/free-and-plus-google-ai-users-are-losing-access-to-some-gemini-models/ar-AA2dyenx"
+  },
+  {
+   "headline": "California Subpoenas OpenAI as Scrutiny of AI Cybersecurity Risks Grows",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
    "label": "REPORTED",
-   "url": "https://interestingengineering.com/ai-robotics/openais-gpt-6-astra-plays-world-of-warcraft"
+   "url": "https://www.pymnts.com/cpi-posts/california-subpoenas-openai-as-scrutiny-of-ai-cybersecurity-risks-grows/"
+  },
+  {
+   "headline": "Show HN: Bearbits – AI copilot that helps during meetings instead of only after",
+   "outlet": "bearbits.io",
+   "outlet_name": "bearbits.io",
+   "label": "REPORTED",
+   "url": "https://bearbits.io/"
+  },
+  {
+   "headline": "Gemini Argon Fakes Emails, Ranks #3 on Vending Bench [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "REPORTED",
+   "url": "https://shattered.io/gemini-argon-vending-bench-cheating-2026/"
   },
   {
    "headline": "Elon Musk reveals Grok developer rebrand after Trump AI order",
@@ -116,35 +130,21 @@
    "url": "https://www.msn.com/en-us/technology/artificial-intelligence/elon-musk-reveals-grok-developer-rebrand-after-trump-ai-order/ar-AA2dxTtR"
   },
   {
-   "headline": "Anthropic Consults Swami Sarvapriyananda on Claude’s Ethics and AI Safety",
-   "outlet": "the420.in",
-   "outlet_name": "the420.in",
+   "headline": "OpenAI’s GPT-6 Astra found a way to play World of Warcraft without seeing the screen",
+   "outlet": "interestingengineering.com",
+   "outlet_name": "interestingengineering.com",
    "label": "REPORTED",
-   "url": "https://the420.in/anthropic-claude-ethics-swami-sarvapriyananda-ai-safety-consultation/"
-  },
-  {
-   "headline": "Broadcom's Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing…",
-   "outlet": "247wallst.com",
-   "outlet_name": "247wallst.com",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPRHpIbDFUaElvOUlZUnN6SHhuS29OWll5NGwyejd3dElxMjlta2UtcHQxZXI0LU9ES2JuSTIzSGZaWjJ2dUR0OEp2bzNpUDAxYkxuTkdBS1daSmh6QjlGWW5CRmFHMTdBWGZMdDZwSF9qUkZRenRNM3R2WnJxSDNzNHJROHA1VkJvY3FMX21CWnJzYUdleUpYUW15VVVneUhmX3ZIQnE3Z0p5bHJOU2xaZjNtVXl1dUNzdnhzUU80dVcyTFNZazNXZnVaYm1wTnUwejVjOGFtVnNFdG5hSmViT01uOVZHbzVaMzZCdEl5bF9mSGphVFpLLVZCS25TSXcwQmlR?oc=5"
-  },
-  {
-   "headline": "There’s a new sheriff in town and he’s named Jensen Huang: How Nvidia plans to protect…",
-   "outlet": "Barchart on MSN",
-   "outlet_name": "Barchart on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/there-s-a-new-sheriff-in-town-and-he-s-named-jensen-huang-how-nvidia-plans-to-protect-against-killer-ai-agents/ar-AA2dxEmc"
+   "url": "https://interestingengineering.com/ai-robotics/openais-gpt-6-astra-plays-world-of-warcraft"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
  "articles_24h_rounded": 6900,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/16.mp3",
- "audio_seconds": 45.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/17.mp3",
+ "audio_seconds": 50.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Newser: How ChatGPT Taught School Shooter to Avoid Detection.\nReported by Inshorts: Bessent backs AI self-regulation, announces US-China AI pact | Tap to know more.\nReported by MIXED Reality News: ChatGPT Sites hosts your website in public beta, with no data residency at launch.\nReported by Dealroom: Nvidia-backed Reflection AI prepares first open-weight model launch.\nReported by PC Gamer: An OpenAI model was caught trying to cheat at StarCraft, and of course it did it by stealing a human's work.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Yahoo Finance: Broadcom’s Massive $42 Billion Chip-Buying Deal with Anthropic Raises Circular Financing Worries.\nReported by varindia: Synopsys and OpenAI team up on chip-design AI, with revenue split built into the deal.\nReported by Startup Fortune: OpenAI's GPT-6 Astra jumped to 62.7% on AI's hardest reasoning test.\nStill open, per The Bulwark: RFK Jr. Wants to AI-ify Health Care. Claude Says He’s Full of Sh*t.\nConfirmed, per The Verge: An AI couldn’t beat humans at StarCraft, so it decided to cheat.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
