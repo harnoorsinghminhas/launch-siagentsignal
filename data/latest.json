@@ -1,112 +1,103 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-04T00:20:03Z",
- "hour": "2026-10-04T00:00:00Z",
+ "generated_at": "2026-10-04T01:20:03Z",
+ "hour": "2026-10-04T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI leader who quit says he can do more for safety from outside the company",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
+   "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
+   "url": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/",
    "label": "REPORTED",
-   "summary_1line": "David Robinson leaves OpenAI to advocate for stronger AI safety from outside the company.",
-   "published_at": "2026-10-03T19:01:00Z"
+   "summary_1line": "NVIDIA's 64GB DGX Spark enables local AI agents with clustering for 128GB memory and 1.7x performance.",
+   "published_at": "2026-10-02T18:04:56Z"
   },
   {
-   "title": "Silicon Valley startup CScale raises $145 million to bring light-based links to AI chips",
-   "outlet": "varindia",
-   "outlet_name": "varindia",
-   "url": "https://www.varindia.com/news/silicon-valley-startup-cscale-raises-145-million-to-bring-light-based-links-to-ai-chips",
+   "title": "Ex-OpenAI engineer says AI needs layers of safety, like nuclear plants",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/united-states/ex-openai-engineer-says-ai-needs-layers-of-safety-like-nuclear-plants",
    "label": "REPORTED",
-   "summary_1line": "CScale, backed by Nvidia and Intel, will ship AI server chips with built-in lasers by 2028.",
-   "published_at": "2026-10-03T21:22:57Z"
+   "summary_1line": "Former OpenAI engineer calls for aviation-style safety layers in AI development.",
+   "published_at": "2026-10-03T20:29:00Z"
   },
   {
-   "title": "AI models could harm young people's body image, warn experts",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/ckgw8yq4kyzo",
+   "title": "Anthropic Warns Investors That U.S. Government Actions Could Harm Its Business",
+   "outlet": "Nacionale News",
+   "outlet_name": "Nacionale News",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUE9uRi1rYUJISzlzbW5YbkM5R25VREh2UDMyS2Z5SDFVX3JqMHdBQzNmYXNsVFAyNmM5bmVzWHFhYTVoMXhETk0yRlpJa1lhTDJuVzYxR05fd1Y2RnhMbEhkTXRuM2t4MkhaODRmNGp5b2tabVFRTXE3QXRNN19mUGlrYzZRNnVGUzVuNEN1MEF0R3YtdWZoQW9EcXZtYW9qcEJV?oc=5",
    "label": "REPORTED",
-   "summary_1line": "AI-generated beauty images may worsen body image issues, prompting calls for AI literacy and diverse representation.",
-   "published_at": "2026-10-03T20:40:56Z"
+   "summary_1line": null,
+   "published_at": "2026-10-04T00:41:24Z"
   },
   {
-   "title": "I Asked a Privacy Tool What ChatGPT Knows About Me. The Result Was Terrifyingly Accurate",
-   "outlet": "PCMag",
-   "outlet_name": "PCMag",
-   "url": "https://www.pcmag.com/explainers/i-asked-privacy-tool-what-chatgpt-knows-about-me-result-terrifyingly-accurate",
+   "title": "The impact of AI and cross-border data regulation on international trade in digital services",
+   "outlet": "CEPR",
+   "outlet_name": "CEPR",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1ljYVhMQ1ByWTJkOVU5dGJGYTdrQ0Y1eHhKdmVrVTdnVnRwRi1aSjduX2VzTU5VaVZLRUxScm42VnF6TGxKUnc0UXZyaUZVMk1TN2xuUndTYTRoWE1MNXlmbkhyQVFGcEVlZlVWSzJqWUctLXg5cUhOdXNOX3RYenZLc3lESlFIMWdscEJEOFBPcTR2WnhEdjdabGd1NjlLdTJsTUlvNUFhMkJkaWQ4?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Lumo AI reveals what ChatGPT and Claude infer about users from their chat history.",
-   "published_at": "2026-10-03T06:13:00Z"
-  },
-  {
-   "title": "The AGI Transition: How AI Affects Work and Life",
-   "outlet": "KPBS",
-   "outlet_name": "KPBS",
-   "url": "https://www.kpbs.org/events/2026/10/03/the-agi-transition-how-ai-affects-work-and-life",
-   "label": "REPORTED",
-   "summary_1line": "A public workshop explains AGI and its impact on work and relationships.",
-   "published_at": "2026-10-03T22:01:58Z"
+   "summary_1line": null,
+   "published_at": "2026-10-04T00:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI leader who quit says he can do more for safety from outside the company",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
+   "headline": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI…",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
    "label": "REPORTED",
-   "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10"
+   "url": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/"
   },
   {
-   "headline": "Silicon Valley startup CScale raises $145 million to bring light-based links to AI chips",
-   "outlet": "varindia",
-   "outlet_name": "varindia",
+   "headline": "Ex-OpenAI engineer says AI needs layers of safety, like nuclear plants",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
    "label": "REPORTED",
-   "url": "https://www.varindia.com/news/silicon-valley-startup-cscale-raises-145-million-to-bring-light-based-links-to-ai-chips"
+   "url": "https://www.straitstimes.com/world/united-states/ex-openai-engineer-says-ai-needs-layers-of-safety-like-nuclear-plants"
   },
   {
-   "headline": "AI models could harm young people's body image, warn experts",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
+   "headline": "Anthropic Warns Investors That U.S. Government Actions Could Harm Its Business",
+   "outlet": "Nacionale News",
+   "outlet_name": "Nacionale News",
    "label": "REPORTED",
-   "url": "https://www.bbc.co.uk/news/articles/ckgw8yq4kyzo"
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUE9uRi1rYUJISzlzbW5YbkM5R25VREh2UDMyS2Z5SDFVX3JqMHdBQzNmYXNsVFAyNmM5bmVzWHFhYTVoMXhETk0yRlpJa1lhTDJuVzYxR05fd1Y2RnhMbEhkTXRuM2t4MkhaODRmNGp5b2tabVFRTXE3QXRNN19mUGlrYzZRNnVGUzVuNEN1MEF0R3YtdWZoQW9EcXZtYW9qcEJV?oc=5"
   },
   {
-   "headline": "I Asked a Privacy Tool What ChatGPT Knows About Me. The Result Was Terrifyingly Accurate",
-   "outlet": "PCMag",
-   "outlet_name": "PCMag",
+   "headline": "The impact of AI and cross-border data regulation on international trade in digital…",
+   "outlet": "CEPR",
+   "outlet_name": "CEPR",
    "label": "REPORTED",
-   "url": "https://www.pcmag.com/explainers/i-asked-privacy-tool-what-chatgpt-knows-about-me-result-terrifyingly-accurate"
-  },
-  {
-   "headline": "The AGI Transition: How AI Affects Work and Life",
-   "outlet": "KPBS",
-   "outlet_name": "KPBS",
-   "label": "REPORTED",
-   "url": "https://www.kpbs.org/events/2026/10/03/the-agi-transition-how-ai-affects-work-and-life"
-  },
-  {
-   "headline": "US AI Task Force to Report on Technology’s Risks, WSJ Reports",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports"
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1ljYVhMQ1ByWTJkOVU5dGJGYTdrQ0Y1eHhKdmVrVTdnVnRwRi1aSjduX2VzTU5VaVZLRUxScm42VnF6TGxKUnc0UXZyaUZVMk1TN2xuUndTYTRoWE1MNXlmbkhyQVFGcEVlZlVWSzJqWUctLXg5cUhOdXNOX3RYenZLc3lESlFIMWdscEJEOFBPcTR2WnhEdjdabGd1NjlLdTJsTUlvNUFhMkJkaWQ4?oc=5"
   },
   {
    "headline": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
    "outlet": "bleepingcomputer.com",
    "outlet_name": "bleepingcomputer.com",
-   "label": "REPORTED",
+   "label": "STILL OPEN",
    "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
   },
   {
-   "headline": "OpenAI’s GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-   "outlet": "kotaku.com",
-   "outlet_name": "kotaku.com",
-   "label": "STILL OPEN",
-   "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607"
+   "headline": "Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
+   "outlet": "getjpm.sh",
+   "outlet_name": "getjpm.sh",
+   "label": "REPORTED",
+   "url": "https://getjpm.sh/"
+  },
+  {
+   "headline": "AI will not make mathematicians obsolete",
+   "outlet": "inference-review.com",
+   "outlet_name": "inference-review.com",
+   "label": "REPORTED",
+   "url": "https://inference-review.com/article/ai-will-not-make-mathematicians-obsolete"
+  },
+  {
+   "headline": "AI share of US market cap",
+   "outlet": "theinference.org",
+   "outlet_name": "theinference.org",
+   "label": "REPORTED",
+   "url": "https://theinference.org/indexes/ai-share?range=max"
   },
   {
    "headline": "Can AI read pain in your cat's face?",
@@ -123,28 +114,28 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nNzF5RjdCMnVhTFpWbl9hLXZEZDhDNGdFd1BVd05JR3YybUYxNHpRdTFxSGt0Ml9OTUJUVy1YTE5ueXBGSVR2d0EzaG51LXhTTFJFemRoYmFSN3JSUGtHWml6MDBzUHZ2Zml4NWdR?oc=5"
   },
   {
-   "headline": "AI giants not 'careful enough,' ex-OpenAI engineer warns",
-   "outlet": "dw.com",
-   "outlet_name": "dw.com",
+   "headline": "Microsoft Makes Foundry IQ Available in Copilot Studio",
+   "outlet": "redmondmag.com",
+   "outlet_name": "redmondmag.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3RuZ00xbFF5aklQckhmNXBFa1RXdVg2aW85a01OWFFMSEd6cmxaanBRUlJLQlpRSnB3dTc2dkF0UnVsbllHVTNlaE91cHB6NHVHS0UzZmJoZGxLYWYzbDVRbnpJdmJoOGV4N3JhaXR4ajlKaFhjRnM3STlVdnl2THA5TGhMOHd0UldtdWlQbjRRWmNNc3JTOW1tQWc2OXplS2pxYWdUbEdzRVVPUkxUV3ln0gGyAUFVX3lxTE9iVk5TcFo2aXpTR1JpeVhPSFloV3lVZTdDSlRCWEhRdXZ3TVVTQkVOcWljQjFjTXRMV1kzQUd4SWNWR21ScW9CeGxCUk9aNW0zaktYM1paWE9fZVItemxtTlNWZzZqWjE2UnBiWHQ3ejd5dFB1TFVlalpzRTlpYm9NajRULXQ1eTNnRGxISzY0X3MtVFd2TFZaTmxPZnpNOWx0VVhSZUFiTVJ1aUJzdDZQS2c?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNF9ZMEp2OVFDWXZlY1hLMXlfWUtFdGZfblN1Q0M0WVNwZjZfQk5RdUhFdXVFWWhyQWVqcmNWSlpYdWxsQXFiUWJtUm1LYXJNdFNib3BGUUo3dncxX29IRHVaTVBQMEdTa3lHZUVEVzJTUXZCLXMwWWk4Z0JDNndRUEdDRmZKYzdwR0d1NVFneWR5ekh4YTY4bW1zTQ?oc=5"
   },
   {
-   "headline": "AI (For Normal People) with AWS Hero Thorsten Hoger [video]",
-   "outlet": "vbrownbag.com",
-   "outlet_name": "vbrownbag.com",
+   "headline": "New AI Research Has Me Asking: Am I Being Mean to AI?",
+   "outlet": "felipe.ai",
+   "outlet_name": "felipe.ai",
    "label": "REPORTED",
-   "url": "https://vbrownbag.com/2026/06/episode-followup-ai-for-normal-people-with-aws-hero-thorsten-hoger/"
+   "url": "https://felipe.ai/notes/am-i-being-mean-to-ai"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 7400,
+ "tidbit": "Did you know… this hour's top stories come from four different outlets.",
+ "articles_24h_rounded": 7300,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/00.mp3",
- "audio_seconds": 67.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/01.mp3",
+ "audio_seconds": 44.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDavid Robinson has left OpenAI to push for stronger artificial intelligence safety from outside the company, reported by Business Insider.\nSilicon Valley startup CScale, backed by Nvidia and Intel, raised $145 million and plans to ship artificial intelligence server chips with built-in lasers by 2028, reported by varindia.\nExperts warn that artificial intelligence generated beauty images could harm young people's body image and are calling for artificial intelligence literacy and diverse representation, reported by BBC.\nA privacy tool revealed what ChatGPT and Claude infer about users based on their chat history, reported by PCMag, and the results were described as terrifyingly accurate.\nA public workshop is explaining artificial general intelligence and its effects on work and relationships, reported by KPBS.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by MarkTechPost: NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference.\nReported by The Straits Times: Ex-OpenAI engineer says AI needs layers of safety, like nuclear plants.\nReported by Nacionale News: Anthropic Warns Investors That U.S. Government Actions Could Harm Its Business.\nReported by CEPR: The impact of AI and cross-border data regulation on international trade in digital services.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
