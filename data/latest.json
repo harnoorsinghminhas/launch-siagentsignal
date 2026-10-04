@@ -1,105 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-04T09:20:03Z",
- "hour": "2026-10-04T09:00:00Z",
+ "generated_at": "2026-10-04T10:20:01Z",
+ "hour": "2026-10-04T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
-   "url": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft's MAI-Transcribe-2-Streaming achieves 2.5% WER at 0.13s, launching Oct 1, 2026.",
-   "published_at": "2026-10-03T05:09:53Z"
-  },
-  {
-   "title": "OpenAI’s Sam Altman Takes A Dig At Anthropic’s Altercation With The Pope On AI Consciousness, Conveniently Forgetting His Own Antics That Have Leaned On Religious Symbolism",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "url": "https://wccftech.com/openais-sam-altman-takes-a-dig-at-anthropics-altercation-with-the-pope-on-ai-consciousness-conveniently-forgetting-his-own-antics-that-have-leaned-on-religious-symbolism/",
+   "title": "Kultur-Problem: OpenAI-Mitarbeiter warnt vor Risiken und kündigt",
+   "outlet": "T-Online",
+   "outlet_name": "T-Online",
+   "url": "https://www.t-online.de/digital/aktuelles/id_101464900/naechster-openai-mitarbeiter-verlaesst-firma-mit-warnung.html",
    "label": "STILL OPEN",
-   "summary_1line": "Olah threatens walkout over AI consciousness; Altman criticizes religious AI tropes.",
-   "published_at": "2026-10-04T02:27:26Z"
+   "summary_1line": "Security expert leaves OpenAI, warns of AI safety culture flaws and risks.",
+   "published_at": "2026-10-04T02:11:15Z"
   },
   {
-   "title": "Solos lets a wearer pick ChatGPT, Claude or Gemini, and AirGo 1.27.0 adds three languages",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUVHUVRGRjlrSDlFNWtMRUp5dEJaSEs0czA4b1hWSFJoM1hUNDZBSl9lU0c1VXBkM3hLcmtPZFkxRXpDUWJhSm1LcmhDVlFtSkpfUnc3akxnNFoxWUtkR0JJajVCYXV4VXNoUklWdkFad0lvcElLZ2dmQU5aV0JxQVpGQ09CNkxuZTB6MjVtM1NHaTV1d29nMg?oc=5",
+   "title": "Should Claude get the same treatment as humans? The question opens rift between Pope and Anthropic",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
+   "url": "https://www.indiatoday.in/amp/technology/this-week-in-ai/story/should-claude-get-the-same-treatment-as-humans-the-question-opens-rift-between-pope-and-anthropic-3009222-2026-10-04",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-04T08:20:06Z"
+   "published_at": "2026-10-04T09:33:14Z"
   },
   {
-   "title": "Anthropic to invest $100 million to train 10,000 AI engineers by 2027",
-   "outlet": "StoryBoard 18",
-   "outlet_name": "StoryBoard 18",
-   "url": "https://www.storyboard18.com/amp/brand-makers/anthropic-to-invest-100-million-to-train-10000-ai-engineers-by-2027-111935.htm",
+   "title": "FDR’s lesson for AI regulation",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcVB4cXVWNnh4SnA4ejJ1SGZENUFPNS00empFS2dGa0RtZi0zdmFMZTloUjVSSTNkVU5KalRzU3puV0VKbmdvem5fb1JlbnJfc1J1WlJ2ellNZDVrbEJGeFczTkxjVE82U2tQWUJxSTFrblhqRXc?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-04T08:16:01Z"
+   "published_at": "2026-10-04T09:30:34Z"
   },
   {
-   "title": "Learn Claude Code and Cowork — Just $15 during Deal Days",
-   "outlet": "Macworld",
-   "outlet_name": "Macworld",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblRFekt6MlBEcXM2Nm1Tc2tGRDZ5bGNtRXFSaVBYTlh3Sk1UYVhtR3RwSzJjMk1WM0VWRnBmWWdyS3U2Q3hFelc0Tk9lU0trMGJCTGtmYk42QzNtZ2M0cGFZUmZ0Z21TRmZvSlVwN1RuZnFyUkdTYm1meDdZVU12Uy1oODhjbDZac1Y5MW5EaXFvVmthVGdmNXQyVktpZjVP?oc=5",
+   "title": "I tried ChatGPT’s new try-it-on shopping function. It worked for daily outfits, but couldn't handle a Halloween costume.",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/chatgpt/articles/tried-chatgpt-try-shopping-function-081101519.html",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI's virtual try-on works for simple items but fails on complex outfits and body proportions.",
+   "published_at": "2026-10-04T08:11:01Z"
+  },
+  {
+   "title": "White House Forms AI Task Force to Assess Risks and Opportunities",
+   "outlet": "Ratopati",
+   "outlet_name": "Ratopati",
+   "url": "https://english.ratopati.com/story/82243/white-house-ai-task-force-to-prevent-overregulation",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-04T08:14:54Z"
+   "published_at": "2026-10-04T09:14:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on…",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
-   "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/02/microsoft-ai-releases-mai-transcribe-2-streaming-1-real-time-speech-to-text-model-on-artificial-analysis/"
-  },
-  {
-   "headline": "OpenAI’s Sam Altman Takes A Dig At Anthropic’s Altercation With The Pope On AI…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
+   "headline": "Kultur-Problem: OpenAI-Mitarbeiter warnt vor Risiken und kündigt",
+   "outlet": "T-Online",
+   "outlet_name": "T-Online",
    "label": "STILL OPEN",
-   "url": "https://wccftech.com/openais-sam-altman-takes-a-dig-at-anthropics-altercation-with-the-pope-on-ai-consciousness-conveniently-forgetting-his-own-antics-that-have-leaned-on-religious-symbolism/"
+   "url": "https://www.t-online.de/digital/aktuelles/id_101464900/naechster-openai-mitarbeiter-verlaesst-firma-mit-warnung.html"
   },
   {
-   "headline": "Solos lets a wearer pick ChatGPT, Claude or Gemini, and AirGo 1.27.0 adds three languages",
+   "headline": "Should Claude get the same treatment as humans? The question opens rift between Pope and…",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
+   "label": "REPORTED",
+   "url": "https://www.indiatoday.in/amp/technology/this-week-in-ai/story/should-claude-get-the-same-treatment-as-humans-the-question-opens-rift-between-pope-and-anthropic-3009222-2026-10-04"
+  },
+  {
+   "headline": "FDR’s lesson for AI regulation",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcVB4cXVWNnh4SnA4ejJ1SGZENUFPNS00empFS2dGa0RtZi0zdmFMZTloUjVSSTNkVU5KalRzU3puV0VKbmdvem5fb1JlbnJfc1J1WlJ2ellNZDVrbEJGeFczTkxjVE82U2tQWUJxSTFrblhqRXc?oc=5"
+  },
+  {
+   "headline": "I tried ChatGPT’s new try-it-on shopping function. It worked for daily outfits, but…",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "CONFIRMED",
+   "url": "https://tech.yahoo.com/ai/chatgpt/articles/tried-chatgpt-try-shopping-function-081101519.html"
+  },
+  {
+   "headline": "White House Forms AI Task Force to Assess Risks and Opportunities",
+   "outlet": "Ratopati",
+   "outlet_name": "Ratopati",
+   "label": "REPORTED",
+   "url": "https://english.ratopati.com/story/82243/white-house-ai-task-force-to-prevent-overregulation"
+  },
+  {
+   "headline": "OpenAI says its own models optimised Astra Ultrafast's inference on Nvidia GPUs",
    "outlet": "MIXED Reality News",
    "outlet_name": "MIXED Reality News",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObUVHUVRGRjlrSDlFNWtMRUp5dEJaSEs0czA4b1hWSFJoM1hUNDZBSl9lU0c1VXBkM3hLcmtPZFkxRXpDUWJhSm1LcmhDVlFtSkpfUnc3akxnNFoxWUtkR0JJajVCYXV4VXNoUklWdkFad0lvcElLZ2dmQU5aV0JxQVpGQ09CNkxuZTB6MjVtM1NHaTV1d29nMg?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUxYYWFoY0k1bFJfOVNEM3AwVmxBRVZKRExlTkNteENzSkZDbTNrbGg4ZXB5OFNiZkFXTDRMb2tfUWhkRlJzTjRlb2R6MHpNLVpIbGtLdUMtVllMQVlzTF9uM1VyTjlIMjVjRTgzZHprYnN0ZlpHVHZJeXRWVy1XWWZicklhNjBFS2lMSkRZR3ppLVh3ZE9r?oc=5"
   },
   {
-   "headline": "Anthropic to invest $100 million to train 10,000 AI engineers by 2027",
-   "outlet": "StoryBoard 18",
-   "outlet_name": "StoryBoard 18",
+   "headline": "Google to Restrict Free Use of Gemini",
+   "outlet": "Fana News -",
+   "outlet_name": "Fana News -",
    "label": "REPORTED",
-   "url": "https://www.storyboard18.com/amp/brand-makers/anthropic-to-invest-100-million-to-train-10000-ai-engineers-by-2027-111935.htm"
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd09RUmxpNVNkUnhMbjlXMkVydkExeUx6OEFGdTIxM0NpY1VDTV9tMHBwSnhMZHo1eHdZcS0ydC1EQUxlMnV1MU1zZkkxdnJkLVBoNE1aODZlZVRvLWFvQ1czSjE3bU1fQ3dQNXo3Ml9aaFNxZ2poNTZmRE5qS3N1dA?oc=5"
   },
   {
-   "headline": "Learn Claude Code and Cowork — Just $15 during Deal Days",
-   "outlet": "Macworld",
-   "outlet_name": "Macworld",
+   "headline": "Künstliche Intelligenz: Ex-Sicherheitsforscher warnt vor unvorsichtigem Vorgehen bei…",
+   "outlet": "DIE ZEIT",
+   "outlet_name": "DIE ZEIT",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQblRFekt6MlBEcXM2Nm1Tc2tGRDZ5bGNtRXFSaVBYTlh3Sk1UYVhtR3RwSzJjMk1WM0VWRnBmWWdyS3U2Q3hFelc0Tk9lU0trMGJCTGtmYk42QzNtZ2M0cGFZUmZ0Z21TRmZvSlVwN1RuZnFyUkdTYm1meDdZVU12Uy1oODhjbDZac1Y5MW5EaXFvVmthVGdmNXQyVktpZjVP?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1lOYXN1cG1nMHVqSFBfS1lnMXl2OEtOdktEQWd3VDJIZ3psbnhOQVczdWRkZENaZGNlUFZpbnppU2F3b1NFNllJUzg2Z1lIcTd4YlFSenlzVGprV0dnTGV2SEk3SHRWRzJBdk5wVU05X3JNWEtDNlBWNEY2eWc2OGF6UUZkeXJvVFE?oc=5"
   },
   {
-   "headline": "OpenAI CEO Sam Altman is not okay with Anthropic flying in religious scholars to help…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQVUZhNFUxb0JocDNsNDFSZ055S2JySEZFazJNbWVOSlZPbFNGRHJ1ejJIay1COFhhWUFic1pKZzZvWG5pMWk5RDgzUzRMelNYaHpTTlJsRWZlMkVkekM0SVFPZE1tRzJXekJqQlpSQThHR3FlLUtDTU1vSGlFYV80VVM1UllSSnpCOU1lbFhqRmF0SnI0TUhtTkcxb2tBbjllMjNDTTFZVHlNSFY1bkxWRG90M3RsaS1tZ3BpbVh3OGp4X1pCOEtQU29OcG5XVkx1bzVfNDFSWkY3RWRDWjlYVEVuVGk4OFV1dkNVdUZSVk5tN0R0ZEliV3VVdlBEOTg3bDBVZVo3aGI2U1lsc0VwZ3F0ejRVR1VtVVQ2VHl2Zl9ZTTNsTTFjekJId0lOS0JsZjFXWmRvSWNiV2NSS0VibC02a2NfQdIBywJBVV95cUxQdXdzVlE4TXlwYWs1T3FDTkxIZnN3Yk01S3hQSHY5bWpmb19nbzRJek1IZTZ4S3F1YjEtVGFyUTYtamYxWGV4OXd4ZUt3QXJUN3k5bDRmMW5ZbkhPVnhpcktQM0JPZDBNS0p2TWx1enlacVA0NjlSM3JhLURBd3BUelZjOHRHS0hPeGJTYlBocVZGbXlWVC13N09fMGZ1MkZXZTNBSjFoZ3VhZmJjS0JDbjVURlRQRktVWU5vVlduZEdRLW01OVhCc2ZjdWNDQlN2ZVJPeUNBMWtPSFM4WDFRZjRkS2l0aUJublBZN0t3U1Z0Y0RBQmk3Z1diWDVuQXVSVm9NSGp3Sm1ENWJyQ2lfanlEUGhnZjN5d1p6TTJqNjdXazctb0M5YXJFamZlYzdIVXdaNkJzZWFrNzZldnRPY2MyZkJFd2NPUXhF?oc=5"
+   "url": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/"
   },
   {
-   "headline": "Pizza Bot: Open-Source Inbox for Background AI Agents",
-   "outlet": "infoq.com",
-   "outlet_name": "infoq.com",
+   "headline": "Nvidia GPU Smuggling Case: $300M, 4 Chips Named [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
    "label": "REPORTED",
-   "url": "https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/"
+   "url": "https://shattered.io/nvidia-gpu-smuggling-case-300-million-2026/"
   },
   {
    "headline": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with…",
@@ -109,42 +130,21 @@
    "url": "https://www.techmeme.com/261004/p9#a261004p9"
   },
   {
-   "headline": "Show HN: Thirds.ai – Beautiful, on-brand images and PDFs from templates",
-   "outlet": "thirds.ai",
-   "outlet_name": "thirds.ai",
+   "headline": "«Nous renforçons notre infrastructure», explique Thimothée Lacroix, cofondateur de…",
+   "outlet": "usinenouvelle.com",
+   "outlet_name": "usinenouvelle.com",
    "label": "REPORTED",
-   "url": "https://thirds.ai"
-  },
-  {
-   "headline": "What happens when an AI model is put in a \"pain\" state? ResearchChamber.fun",
-   "outlet": "researchchamber.fun",
-   "outlet_name": "researchchamber.fun",
-   "label": "REPORTED",
-   "url": "https://researchchamber.fun/"
-  },
-  {
-   "headline": "DeepSeek Harness v0.2.1-alpha.1 Adds Experimental Claude Code Mods Compatibility Layer",
-   "outlet": "pandaily.com",
-   "outlet_name": "pandaily.com",
-   "label": "REPORTED",
-   "url": "https://pandaily.com/deepseek-harness-v0-2-1-alpha-1-claude-code-mods-compatibility-layer"
-  },
-  {
-   "headline": "Anthropic Implements Built-In Plugin System \"Mods\" in Claude Code",
-   "outlet": "finance.biggo.com",
-   "outlet_name": "finance.biggo.com",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40d01mVVp5bGtBaWwyN2ZZd3RHVTFqMnYwdGpDZTZuVnl4aTVBN0hORGx5M1d1NmVZd1RrSGN3c2tpb1FLUGJYUllqaG5qNXdOQ0NmT1hfOHpuUzdNOUdPLWQzcVgwdHR5dDVQWWJiSnVQVWhxMkE?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNYU1DWmMxaTlsVmJOODJRcWNhRGRzaG5sSTh0bXhGV2IybnlJWHltRGZ1SjdKdmlVaEFmY1ZveW1MTV82eFZoM2tmTVBKRWQ5SUYtd1JrUVpGRGgwSTZrNXZETXNHSzliVjhJMnRqd2doNVhMNHJ3em1ROHpSc2hJUVV2TkJfQkx1V2FfMlIzdnJxaTBqVC0zWmZCMi1iZkZNb1hsS3piVXZQdFI0NVRsUXdjdThQT2xnQnBySGZnRzJ2WWNRMTdhZTFRS0V0RThQMjIzSGUtc0VoLS1iMXl6TlJqVWtsenpUR0N6eFRrYWdMVkFwVl83eXlNcFlMdnYzRzdfRFZHV1N2WEdSXzItMFJtV1kyckdQWkZF?oc=5"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 7000,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/09.mp3",
- "audio_seconds": 59.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/10.mp3",
+ "audio_seconds": 49.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by MarkTechPost: Microsoft AI Releases MAI-Transcribe-2-Streaming: #1 Real-Time Speech-to-Text Model on Artificial Analysis.\nStill open, per Wccftech: OpenAI’s Sam Altman Takes A Dig At Anthropic’s Altercation With The Pope On AI Consciousness, Conveniently Forgetting His Own Antics That Have Leaned On Religious Symbolism.\nReported by MIXED Reality News: Solos lets a wearer pick ChatGPT, Claude or Gemini, and AirGo 1.27.0 adds three languages.\nReported by StoryBoard 18: Anthropic to invest $100 million to train 10,000 AI engineers by 2027.\nReported by Macworld: Learn Claude Code and Cowork — Just $15 during Deal Days.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per T-Online: Kultur-Problem: OpenAI-Mitarbeiter warnt vor Risiken und kündigt.\nReported by India Today: Should Claude get the same treatment as humans? The question opens rift between Pope and Anthropic.\nReported by Fortune: FDR’s lesson for AI regulation.\nConfirmed, per Yahoo Tech: I tried ChatGPT’s new try-it-on shopping function. It worked for daily outfits, but couldn't handle a Halloween costume.\nReported by Ratopati: White House Forms AI Task Force to Assess Risks and Opportunities.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
