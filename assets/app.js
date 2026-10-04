@@ -111,7 +111,7 @@ function srcEl(s, tag) {
 })();
 
 /* ---------- the 60-second brief: instant play ---------- */
-var au = $("#opener"), plays = $$(".js-play"), fill = $("#trackFill"), track = $("#track"), tl = $("#plTime"), note = $("#plNote");
+var au = $("#opener"), plays = $$(".js-play"), trackFillEl = $("#trackFill"), track = $("#track"), tl = $("#plTime"), note = $("#plNote");
 var listenedThisLoad = false, audioBroken = false, wantPlay = false;
 var NO_AUDIO = "This audio isn't available right now. The written brief is right below.";
 function t(s) { if (!isFinite(s)) return "0:00"; s = Math.max(0, Math.floor(s)); return Math.floor(s / 60) + ":" + ("0" + s % 60).slice(-2); }
@@ -138,7 +138,7 @@ au.addEventListener("ended", function () { syncPlay(); earnListen(); note.textCo
 au.addEventListener("loadedmetadata", function () { tl.textContent = "0:00 / " + t(au.duration); syncPlay(); });
 au.addEventListener("timeupdate", function () {
   var d = au.duration || 0, p = d ? au.currentTime / d * 100 : 0;
-  fill.style.width = p + "%";
+  trackFillEl.style.width = p + "%";
   tl.textContent = t(au.currentTime) + (d ? " / " + t(d) : "");
   track.setAttribute("aria-valuenow", String(Math.round(p)));
   track.setAttribute("aria-valuetext", Math.round(au.currentTime) + " seconds");
