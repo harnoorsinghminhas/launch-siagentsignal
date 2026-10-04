@@ -1,0 +1,15 @@
+.net{padding:28px 0 8px}
+.net .wrap{max-width:960px}
+.net h1{font-family:var(--f-d);font-weight:800;font-size:clamp(30px,5vw,44px);letter-spacing:-.03em;line-height:1.1;margin:12px 0 10px}
+.net .lead{font-size:18px;color:var(--ink);max-width:62ch}
+.net .note{font-size:14px;color:var(--muted);margin-top:10px}
+.net h2{font-family:var(--f-d);font-weight:700;font-size:21px;letter-spacing:-.02em;margin:34px 0 12px;color:var(--ink)}
+.net-list{display:grid;gap:12px;grid-template-columns:minmax(0,1fr)}
+@media (min-width:720px){.net-list{grid-template-columns:repeat(2,minmax(0,1fr))}}
+.net-card{display:flex;flex-direction:column;gap:5px;padding:16px 18px;background:#fff;border:1px solid var(--line);border-radius:var(--r-lg);box-shadow:var(--shadow-1);text-decoration:none;color:var(--ink);min-height:44px}
+.net-card:hover{border-color:var(--acc);box-shadow:var(--shadow-2);color:var(--ink)}
+.net-card b{font-family:var(--f-d);font-size:19px;letter-spacing:-.015em;line-height:1.2}
+.net-card .dom{font-size:13.5px;color:var(--acc);font-weight:700;overflow-wrap:anywhere}
+.net-card p{color:var(--ink-2);font-size:15.5px;line-height:1.5}
+.net-card .here{align-self:flex-start;font-size:12px;font-weight:700;color:var(--acc-ink);background:var(--acc-softer);border:1px solid var(--acc-soft);border-radius:999px;padding:2px 9px}
+.net-foot{padding-top:6px}
