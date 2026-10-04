@@ -60,7 +60,7 @@
       <a href="#stylebook">Stylebook</a>
     </nav>
     <div class="top-actions">
-      <button class="pill-play js-play" type="button" aria-controls="opener" aria-label="Play the 60-second brief">
+      <button class="pill-play js-play" type="button" aria-controls="opener" aria-label="Play the 60-second brief (AI-generated voices)" title="AI-generated voices.">
         <span class="ic" aria-hidden="true"><svg class="i-play"><use href="#i-play"/></svg><svg class="i-pause"><use href="#i-pause"/></svg></span>
         <span class="js-play-label">Listen</span>
       </button>
@@ -76,12 +76,12 @@
 <section class="player" aria-label="Listen first">
   <div class="wrap">
     <div class="pl-main">
-      <button class="big-play js-play" type="button" aria-controls="opener" aria-label="Play the 60-second brief">
+      <button class="big-play js-play" type="button" aria-controls="opener" aria-label="Play the 60-second brief (AI-generated voices)">
         <svg class="i-play" aria-hidden="true"><use href="#i-play"/></svg>
         <svg class="i-pause" aria-hidden="true"><use href="#i-pause"/></svg>
       </button>
       <div class="pl-txt">
-        <p class="pl-kicker">Press play first · free, no sign-up</p>
+        <p class="pl-kicker">Press play first · free, no sign-up · AI-generated voices.</p>
         <p class="pl-title">Hear a sample brief: a team manager's Monday, week of Sep 28</p>
         <div class="pl-bar">
           <div class="track" id="track" role="slider" tabindex="0" aria-label="Seek in the brief" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-valuetext="0 seconds"><span id="trackFill"></span></div>
@@ -183,7 +183,7 @@
     <p class="hr-warm" data-hr="warm" role="status">The hourly brief is warming up. Check back in a minute or two.</p>
     <div class="hr-live" data-hr="live" hidden>
       <div class="hr-bar"><span class="hr-fp">Founders' Preview</span><p class="hr-updated" data-hr="updated" role="status"></p><p class="hr-count"><span data-hr="count"></span> articles read in the last 24 hours</p></div>
-      <div class="hr-audio" data-hr="audio-wrap"><p class="hr-audio-t">Hear this hour's brief · <span data-hr="dur"></span></p><audio controls preload="none" data-hr="audio"></audio></div>
+      <div class="hr-audio" data-hr="audio-wrap"><p class="hr-audio-t">Hear this hour's brief · <span data-hr="dur"></span></p><p class="small">AI-generated voices.</p><audio controls preload="none" data-hr="audio"></audio></div>
       <div class="st-tabs" id="stTabs" aria-label="Stations">
         <button type="button" class="st-tab" data-st="si" aria-controls="st-si" aria-pressed="true">All of <abbr title="superintelligence">SI</abbr></button>
         <button type="button" class="st-tab" data-st="claude" aria-controls="st-claude" aria-pressed="false">Claude</button>
@@ -231,7 +231,7 @@
           <li class="seg"><b>Close</b><span>shared by everyone</span></li>
         </ol>
       </div>
-      <p class="why"><b>Recorded once, reused all morning.</b> We never render audio per person, so the voice stays studio quality, the cost stays low enough to hold Pro at $7.99 founding, and nothing you type ever reaches a model. Your role comes from a fixed list, not a text box.</p>
+      <p class="why"><b>Recorded once, reused all morning.</b> We never render audio per person, so the AI voice stays consistent, the cost stays low enough to hold Pro at $7.99 founding, and nothing you type ever reaches a model. Your role comes from a fixed list, not a text box.</p>
     </div>
   </div>
 </section>
@@ -563,7 +563,7 @@
         <ul>
           <li>Your role comes from a fixed list. Free text never goes into a prompt.</li>
           <li>Articles we read are treated as untrusted input; missing labels fail closed.</li>
-          <li>No third-party trackers. Checkout is hosted by Stripe; card details never touch our servers.</li>
+          <li>No advertising or analytics trackers. Checkout is hosted by Stripe; card details never touch our servers.</li>
           <li>A strict content security policy, and a sign-up form with bot traps and per-network limits.</li>
           <li>We don't ask for your phone number.</li>
         </ul>
