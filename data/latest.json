@@ -1,105 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-04T21:20:03Z",
- "hour": "2026-10-04T21:00:00Z",
+ "generated_at": "2026-10-04T22:20:01Z",
+ "hour": "2026-10-04T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google cuts two of three Gemini models for free users from October 9",
+   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+   "label": "CONFIRMED",
+   "summary_1line": "Google pauses AI-driven bug bounty program over invalid submissions.",
+   "published_at": "2026-10-04T20:31:07Z"
+  },
+  {
+   "title": "Former Anthropic researcher Jacob Coxon to testify at NYC Council hearing on AI risks",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/jacob-coxon-nyc-council-ai-risks-hearing/",
+   "label": "CONFIRMED",
+   "summary_1line": "Caxon to testify at NYC hearing on AI safety risks, with major AI firms invited.",
+   "published_at": "2026-10-04T13:19:00Z"
+  },
+  {
+   "title": "ChatGPT, Gemini and Google never name 9 of 40 UK software firms in shortlists",
    "outlet": "PPC Land",
    "outlet_name": "PPC Land",
-   "url": "https://ppc.land/google-cuts-two-of-three-gemini-models-for-free-users-from-october-9/",
+   "url": "https://ppc.land/chatgpt-gemini-and-google-never-name-9-of-40-uk-software-firms-in-shortlists/",
    "label": "REPORTED",
-   "summary_1line": "Google limits Gemini models by plan, adding Deep Think to AI Pro and restricting free users to Flash-Lite.",
-   "published_at": "2026-10-04T19:46:57Z"
+   "summary_1line": "Nine UK software firms missed AI shortlists despite being recognised by name.",
+   "published_at": "2026-10-04T19:42:47Z"
   },
   {
-   "title": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnR5cUVLZE91ckU2X0sxOGNzbjA4SjU4MFhiUXNvb0E4M1FLTldoT3d0b3BDUmU3NFVxOUk1eURXMmhEVExrQTNKT3d2LXY2emNNSUo0Nzd0Vkp0WmxiTDh0MVhhM2h1NnRIZnVnZmRNcmJNNmlCajkxN1U2ZGJBZHlLNEVYanF6c2lBc0pVOHh2a1h4QWs0Yngxc0RYX3pOS2NDUGZRRjRKQmtLbnpxZk5QNjljNjJVSkNQRVNn?oc=5",
+   "title": "Bitdefender Launches Free AI Guardian Beta for macOS, a SaaS‑Style Agent Security Tool",
+   "outlet": "SaasRise",
+   "outlet_name": "SaasRise",
+   "url": "https://www.saasrise.com/news/bitdefender-launches-free-ai-guardian-beta-for-macos-a-saasstyle-agent-security-tool-a983618d-9457-4202-83c6-0e768f6b4bcf",
+   "label": "REPORTED",
+   "summary_1line": "Bitdefender launches free AI Guardian beta for macOS to secure autonomous AI agents.",
+   "published_at": "2026-10-04T16:00:24Z"
+  },
+  {
+   "title": "FirstFT: Legal risks pile up for OpenAI",
+   "outlet": "ft.com",
+   "outlet_name": "Financial Times",
+   "url": "https://www.ft.com/content/7feba19e-b498-4453-a744-214638044f0a?syn-25a6b1a6=1",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-04T20:47:43Z"
-  },
-  {
-   "title": "AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-04T20:00:00Z"
-  },
-  {
-   "title": "Claude AI Predicts an Astonishing Finish to the Year for XRP",
-   "outlet": "Cryptonews",
-   "outlet_name": "Cryptonews",
-   "url": "https://cryptonews.com/news/claude-ai-predicts-an-astonishing-finish-to-the-year-for-xrp/",
-   "label": "STILL OPEN",
-   "summary_1line": "Claude AI speculates XRP could hit $25 by 2027 with institutional adoption.",
-   "published_at": "2026-10-04T19:00:00Z"
-  },
-  {
-   "title": "India needs flexible AI and cybersecurity rules, says NITI Aayog member",
-   "outlet": "DATAQUEST",
-   "outlet_name": "DATAQUEST",
-   "url": "https://www.dqindia.com/government-policy/niti-aayog-risk-based-regulation-ai-digital-technologies-12623528",
-   "label": "CONFIRMED",
-   "summary_1line": "Gauba urges risk-based, light-touch regulation for AI and digital tech in India.",
-   "published_at": "2026-10-04T11:43:00Z"
+   "published_at": "2026-10-04T21:45:18Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google cuts two of three Gemini models for free users from October 9",
+   "headline": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI…",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/"
+  },
+  {
+   "headline": "Former Anthropic researcher Jacob Coxon to testify at NYC Council hearing on AI risks",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "CONFIRMED",
+   "url": "https://cryptobriefing.com/jacob-coxon-nyc-council-ai-risks-hearing/"
+  },
+  {
+   "headline": "ChatGPT, Gemini and Google never name 9 of 40 UK software firms in shortlists",
    "outlet": "PPC Land",
    "outlet_name": "PPC Land",
    "label": "REPORTED",
-   "url": "https://ppc.land/google-cuts-two-of-three-gemini-models-for-free-users-from-october-9/"
+   "url": "https://ppc.land/chatgpt-gemini-and-google-never-name-9-of-40-uk-software-firms-in-shortlists/"
   },
   {
-   "headline": "Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News…",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
+   "headline": "Bitdefender Launches Free AI Guardian Beta for macOS, a SaaS‑Style Agent Security Tool",
+   "outlet": "SaasRise",
+   "outlet_name": "SaasRise",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORnR5cUVLZE91ckU2X0sxOGNzbjA4SjU4MFhiUXNvb0E4M1FLTldoT3d0b3BDUmU3NFVxOUk1eURXMmhEVExrQTNKT3d2LXY2emNNSUo0Nzd0Vkp0WmxiTDh0MVhhM2h1NnRIZnVnZmRNcmJNNmlCajkxN1U2ZGJBZHlLNEVYanF6c2lBc0pVOHh2a1h4QWs0Yngxc0RYX3pOS2NDUGZRRjRKQmtLbnpxZk5QNjljNjJVSkNQRVNn?oc=5"
+   "url": "https://www.saasrise.com/news/bitdefender-launches-free-ai-guardian-beta-for-macos-a-saasstyle-agent-security-tool-a983618d-9457-4202-83c6-0e768f6b4bcf"
   },
   {
-   "headline": "AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council",
+   "headline": "FirstFT: Legal risks pile up for OpenAI",
+   "outlet": "ft.com",
+   "outlet_name": "Financial Times",
+   "label": "REPORTED",
+   "url": "https://www.ft.com/content/7feba19e-b498-4453-a744-214638044f0a?syn-25a6b1a6=1"
+  },
+  {
+   "headline": "Could AI be conscious? Why Anthropic is turning to the Vatican",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
+   "label": "STILL OPEN",
+   "url": "https://www.thenews.com.pk/latest/1418746-could-ai-be-conscious-why-anthropic-is-turning-to-the-vatican"
+  },
+  {
+   "headline": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
    "outlet": "bloomberg.com",
    "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-04/ai-whistleblowers-google-openai-meta-to-face-new-york-city-council"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says"
   },
   {
-   "headline": "Claude AI Predicts an Astonishing Finish to the Year for XRP",
-   "outlet": "Cryptonews",
-   "outlet_name": "Cryptonews",
-   "label": "STILL OPEN",
-   "url": "https://cryptonews.com/news/claude-ai-predicts-an-astonishing-finish-to-the-year-for-xrp/"
-  },
-  {
-   "headline": "India needs flexible AI and cybersecurity rules, says NITI Aayog member",
-   "outlet": "DATAQUEST",
-   "outlet_name": "DATAQUEST",
+   "headline": "McDonalds Has Secretly Deployed AI Models to Determine Exactly What to Charge You for Its…",
+   "outlet": "Futurism",
+   "outlet_name": "Futurism",
    "label": "CONFIRMED",
-   "url": "https://www.dqindia.com/government-policy/niti-aayog-risk-based-regulation-ai-digital-technologies-12623528"
-  },
-  {
-   "headline": "New Zealand cyber agency warns AI is reshaping threats",
-   "outlet": "SecurityBrief New Zealand",
-   "outlet_name": "SecurityBrief New Zealand",
-   "label": "REPORTED",
-   "url": "https://securitybrief.co.nz/story/new-zealand-cyber-agency-warns-ai-is-reshaping-threats"
-  },
-  {
-   "headline": "Claude's Constitution",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/constitution"
+   "url": "https://futurism.com/future-society/mcdonalds-ai-burger-pricing"
   },
   {
    "headline": "Chinese Hackers Impersonate Anthropic Employee to Extract AI Secrets",
@@ -109,42 +116,35 @@
    "url": "https://futurism.com/artificial-intelligence/chinese-hackers-impersonate-anthropic-ai-secrets"
   },
   {
-   "headline": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race?",
-   "outlet": "theglobeandmail.com",
-   "outlet_name": "theglobeandmail.com",
-   "label": "CONFIRMED",
-   "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/4952420/is-copilot-microsoft-s-secret-weapon-in-the-ai-arms-race/"
-  },
-  {
-   "headline": "Run Claude Code, Codex and Cursor side by side with your team",
-   "outlet": "tryfridaywork.com",
-   "outlet_name": "tryfridaywork.com",
+   "headline": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
    "label": "REPORTED",
-   "url": "https://www.tryfridaywork.com"
+   "url": "https://www.techmeme.com/261004/p19#a261004p19"
   },
   {
-   "headline": "Trump picks team for new 'Super Intelligence Force' to lead the charge on AI",
-   "outlet": "Daily Mail on MSN",
-   "outlet_name": "Daily Mail on MSN",
+   "headline": "“Without AI and Robots, We’re Totally Screwed,” Elon Musk Warns on National Debt Crisis",
+   "outlet": "247wallst.com",
+   "outlet_name": "247wallst.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/trump-picks-team-for-new-super-intelligence-force-to-lead-the-charge-on-ai/ar-AA2dxRbT"
+   "url": "https://247wallst.com/investing/2026/10/04/without-ai-and-robots-were-totally-screwed-elon-musk-warns-on-national-debt-crisis/"
   },
   {
-   "headline": "Google Gemini Tasks vs OpenAI Dots: Which AI tool to use for more productivity | Explained",
-   "outlet": "Mint on MSN",
-   "outlet_name": "Mint on MSN",
+   "headline": "Federal appeals court pauses Minnesota's AI nudification ban",
+   "outlet": "CBS News on MSN",
+   "outlet_name": "CBS News on MSN",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/google-gemini-tasks-vs-openai-dots-which-ai-tool-to-use-for-more-productivity-explained/ar-AA2dz65b"
+   "url": "https://www.msn.com/en-us/news/other/federal-appeals-court-pauses-minnesota-s-ai-nudification-ban/ar-AA2dyE9E"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 6900,
+ "articles_24h_rounded": 7000,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/21.mp3",
- "audio_seconds": 49.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/22.mp3",
+ "audio_seconds": 50.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by PPC Land: Google cuts two of three Gemini models for free users from October 9.\nReported by Reuters: Former Anthropic researcher Coxon to testify at New York City AI hearing, Bloomberg News reports.\nReported by Bloomberg: AI Whistleblowers, Google, OpenAI, Meta to Face New York City Council.\nStill open, per Cryptonews: Claude AI Predicts an Astonishing Finish to the Year for XRP.\nConfirmed, per DATAQUEST: India needs flexible AI and cybersecurity rules, says NITI Aayog member.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions.\nConfirmed, per Crypto Briefing: Former Anthropic researcher Jacob Coxon to testify at NYC Council hearing on AI risks.\nReported by PPC Land: ChatGPT, Gemini and Google never name 9 of 40 UK software firms in shortlists.\nReported by SaasRise: Bitdefender Launches Free AI Guardian Beta for macOS, a SaaS‑Style Agent Security Tool.\nReported by Financial Times: FirstFT: Legal risks pile up for OpenAI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
