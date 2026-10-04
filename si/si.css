@@ -99,14 +99,14 @@
 .fig{margin:24px 0;padding:14px 14px 12px;border:1.5px solid var(--line);border-radius:var(--r-lg);background:#fff}
 .fig h3{margin:0 0 4px;font-size:18px}
 .fig .sub{font-size:14px;color:var(--muted);margin:0 0 8px;line-height:1.4}
-.fig svg{width:100%;height:auto;display:block}
+.fig svg{width:100%;max-width:560px;height:auto;display:block;margin:0 auto}
 .fig figcaption{margin-top:8px;font-size:13px;line-height:1.45;color:var(--muted)}
 .c-ax{stroke:var(--line);stroke-width:1}
 .c-grid{stroke:var(--line-2);stroke-width:1}
-.c-lab{font:600 11.5px var(--f-b);fill:#343b48}
-.c-lab-s{font:600 10.5px var(--f-b);fill:#5a6372}
-.c-val{font:800 12px var(--f-b);fill:#10141c}
-.c-note{font:700 11.5px var(--f-b);fill:#8a1c2c}
+.c-lab{font:600 14.5px var(--f-b);fill:#343b48}
+.c-lab-s{font:600 13px var(--f-b);fill:#5a6372}
+.c-val{font:800 15px var(--f-b);fill:#10141c}
+.c-note{font:700 13px var(--f-b);fill:#8a1c2c}
 .bar{fill:var(--acc)}
 .bar.alt{fill:#98a1ac}
 .bar.hot{fill:#0f4aa8}
@@ -120,12 +120,14 @@
 .legend i{display:inline-block;width:22px;height:0;border-top:3px solid var(--acc);vertical-align:middle;margin-right:6px}
 .legend i.agi{border-top:3px dashed #cf9424}
 .legend i.avg{border-top:2px dashed #444c57}
+.legend i.mark{border-top:2px dashed #c64a5b}
 .ladder .step{fill:#fff;stroke:var(--ink);stroke-width:2}
 .ladder .step.top{fill:var(--acc-soft)}
 .ladder .step.fed{fill:var(--si-mark);stroke:var(--acc)}
-.ladder .t1{font:800 15px var(--f-d);fill:#10141c}
-.ladder .t2{font:600 12.5px var(--f-b);fill:#343b48}
-.ladder .t3{font:800 12px var(--f-b);fill:#0f4aa8;letter-spacing:.04em}
+.ladder .t1{font:800 19px var(--f-d);fill:#10141c}
+.ladder .t2{font:600 14.5px var(--f-b);fill:#343b48}
+.ladder .t2s{font:700 13px var(--f-b);fill:#0f4aa8}
+.ladder .t3{font:800 12.5px var(--f-b);fill:#0f4aa8;letter-spacing:.06em}
 
 .printonly{display:none}
 @media print{
