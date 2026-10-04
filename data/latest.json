@@ -1,82 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-04T01:20:03Z",
- "hour": "2026-10-04T01:00:00Z",
+ "generated_at": "2026-10-04T02:20:02Z",
+ "hour": "2026-10-04T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
-   "url": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/",
-   "label": "REPORTED",
-   "summary_1line": "NVIDIA's 64GB DGX Spark enables local AI agents with clustering for 128GB memory and 1.7x performance.",
-   "published_at": "2026-10-02T18:04:56Z"
-  },
-  {
-   "title": "Ex-OpenAI engineer says AI needs layers of safety, like nuclear plants",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/united-states/ex-openai-engineer-says-ai-needs-layers-of-safety-like-nuclear-plants",
-   "label": "REPORTED",
-   "summary_1line": "Former OpenAI engineer calls for aviation-style safety layers in AI development.",
-   "published_at": "2026-10-03T20:29:00Z"
-  },
-  {
-   "title": "Anthropic Warns Investors That U.S. Government Actions Could Harm Its Business",
-   "outlet": "Nacionale News",
-   "outlet_name": "Nacionale News",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUE9uRi1rYUJISzlzbW5YbkM5R25VREh2UDMyS2Z5SDFVX3JqMHdBQzNmYXNsVFAyNmM5bmVzWHFhYTVoMXhETk0yRlpJa1lhTDJuVzYxR05fd1Y2RnhMbEhkTXRuM2t4MkhaODRmNGp5b2tabVFRTXE3QXRNN19mUGlrYzZRNnVGUzVuNEN1MEF0R3YtdWZoQW9EcXZtYW9qcEJV?oc=5",
+   "title": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
+   "outlet": "WSJ",
+   "outlet_name": "WSJ",
+   "url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-04T00:41:24Z"
+   "published_at": "2026-10-03T23:19:00Z"
   },
   {
-   "title": "The impact of AI and cross-border data regulation on international trade in digital services",
-   "outlet": "CEPR",
-   "outlet_name": "CEPR",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1ljYVhMQ1ByWTJkOVU5dGJGYTdrQ0Y1eHhKdmVrVTdnVnRwRi1aSjduX2VzTU5VaVZLRUxScm42VnF6TGxKUnc0UXZyaUZVMk1TN2xuUndTYTRoWE1MNXlmbkhyQVFGcEVlZlVWSzJqWUctLXg5cUhOdXNOX3RYenZLc3lESlFIMWdscEJEOFBPcTR2WnhEdjdabGd1NjlLdTJsTUlvNUFhMkJkaWQ4?oc=5",
+   "title": "OpenAI President Greg Brockman Pulls Planned Second $25 Million Donation to AI Super PAC, Says He Felt 'Terrible': Report",
+   "outlet": "Yahoo",
+   "outlet_name": "Yahoo",
+   "url": "https://www.yahoo.com/news/politics/articles/openai-president-greg-brockman-pulls-233008948.html",
+   "label": "REPORTED",
+   "summary_1line": "Greg Brockman retracts $25M donation to AI super PAC, citing employee distraction.",
+   "published_at": "2026-10-03T23:30:08Z"
+  },
+  {
+   "title": "Does XRP Have a Future? ChatGPT Responds to Peter Brandt’s “Fool Coin” Claim",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/does-xrp-future-chatgpt-responds-002245220.html",
+   "label": "STILL OPEN",
+   "summary_1line": "ChatGPT assigns XRP a $1.35 fair value, with future price scenarios tied to Swift or Ripple dominance.",
+   "published_at": "2026-10-04T00:22:00Z"
+  },
+  {
+   "title": "US Super Intelligence Force gets 120 days to report on AI risks",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/super-intelligence-force-ai-risks-report/",
+   "label": "REPORTED",
+   "summary_1line": "US creates Super Intelligence Force with 120-day risk report amid AI renaming and voluntary industry controls.",
+   "published_at": "2026-10-04T00:19:49Z"
+  },
+  {
+   "title": "Google Limits Free Gemini App to Flash-Lite From Oct 9",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUp2Qko0S2hOejlkUS15T2tDenRWNUdCeFYtVnRXd3FyS0psYlA2dG1rd0l4dTYwdEtWLVRJRHNEdFZ5MjV2UU43U01KT1Q1RjRqUVpvMzNqUnhYY1NoTWg5U2MycDZzV1E4b2pCdl9VTHJRd0N3QndVejd6SkRudEpQcVBSRUt4elE?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-04T00:00:00Z"
+   "published_at": "2026-10-04T00:02:28Z"
   }
  ],
  "ticker": [
   {
-   "headline": "NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI…",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
+   "headline": "Exclusive | New AI Czar Unveils Goals, Members of White House Task Force",
+   "outlet": "WSJ",
+   "outlet_name": "WSJ",
    "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/02/nvidia-announces-dgx-spark-64gb-a-1-petaflop-grace-blackwell-desktop-for-local-ai-agents-fine-tuning-and-inference/"
+   "url": "https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef"
   },
   {
-   "headline": "Ex-OpenAI engineer says AI needs layers of safety, like nuclear plants",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
+   "headline": "OpenAI President Greg Brockman Pulls Planned Second $25 Million Donation to AI Super PAC…",
+   "outlet": "Yahoo",
+   "outlet_name": "Yahoo",
    "label": "REPORTED",
-   "url": "https://www.straitstimes.com/world/united-states/ex-openai-engineer-says-ai-needs-layers-of-safety-like-nuclear-plants"
+   "url": "https://www.yahoo.com/news/politics/articles/openai-president-greg-brockman-pulls-233008948.html"
   },
   {
-   "headline": "Anthropic Warns Investors That U.S. Government Actions Could Harm Its Business",
-   "outlet": "Nacionale News",
-   "outlet_name": "Nacionale News",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUE9uRi1rYUJISzlzbW5YbkM5R25VREh2UDMyS2Z5SDFVX3JqMHdBQzNmYXNsVFAyNmM5bmVzWHFhYTVoMXhETk0yRlpJa1lhTDJuVzYxR05fd1Y2RnhMbEhkTXRuM2t4MkhaODRmNGp5b2tabVFRTXE3QXRNN19mUGlrYzZRNnVGUzVuNEN1MEF0R3YtdWZoQW9EcXZtYW9qcEJV?oc=5"
-  },
-  {
-   "headline": "The impact of AI and cross-border data regulation on international trade in digital…",
-   "outlet": "CEPR",
-   "outlet_name": "CEPR",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd1ljYVhMQ1ByWTJkOVU5dGJGYTdrQ0Y1eHhKdmVrVTdnVnRwRi1aSjduX2VzTU5VaVZLRUxScm42VnF6TGxKUnc0UXZyaUZVMk1TN2xuUndTYTRoWE1MNXlmbkhyQVFGcEVlZlVWSzJqWUctLXg5cUhOdXNOX3RYenZLc3lESlFIMWdscEJEOFBPcTR2WnhEdjdabGd1NjlLdTJsTUlvNUFhMkJkaWQ4?oc=5"
-  },
-  {
-   "headline": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-   "outlet": "bleepingcomputer.com",
-   "outlet_name": "bleepingcomputer.com",
+   "headline": "Does XRP Have a Future? ChatGPT Responds to Peter Brandt’s “Fool Coin” Claim",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
    "label": "STILL OPEN",
-   "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
+   "url": "https://finance.yahoo.com/markets/crypto/articles/does-xrp-future-chatgpt-responds-002245220.html"
+  },
+  {
+   "headline": "US Super Intelligence Force gets 120 days to report on AI risks",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/super-intelligence-force-ai-risks-report/"
+  },
+  {
+   "headline": "Google Limits Free Gemini App to Flash-Lite From Oct 9",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOUp2Qko0S2hOejlkUS15T2tDenRWNUdCeFYtVnRXd3FyS0psYlA2dG1rd0l4dTYwdEtWLVRJRHNEdFZ5MjV2UU43U01KT1Q1RjRqUVpvMzNqUnhYY1NoTWg5U2MycDZzV1E4b2pCdl9VTHJRd0N3QndVejd6SkRudEpQcVBSRUt4elE?oc=5"
+  },
+  {
+   "headline": "VSBLTY Targets Gulf Defense Market With AI-Powered Counter-Drone Platform",
+   "outlet": "The Globe and Mail",
+   "outlet_name": "The Globe and Mail",
+   "label": "REPORTED",
+   "url": "https://www.theglobeandmail.com/investing/markets/markets-news/Tipranks/4946376/vsblty-targets-gulf-defense-market-with-ai-powered-counter-drone-platform/"
   },
   {
    "headline": "Show HN: jpm – a JavaScript package manager in Rust, every line by Claude Code",
@@ -84,6 +100,20 @@
    "outlet_name": "getjpm.sh",
    "label": "REPORTED",
    "url": "https://getjpm.sh/"
+  },
+  {
+   "headline": "Claude Code vs Codex CLI: Scores and Task Costs",
+   "outlet": "quasa.io",
+   "outlet_name": "quasa.io",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaDJmN3BWbWpOUVZ1OWZXbHhkajVHaDFYN0xFY3BnQnA4ZnMySXFVUXhGajFoOWdXTlBDc0x4RGYybVB0M004UWtKN0lwcVVKazdud2RoQ3pjWXh2b0RGZS03YWRxMEJickRMM1NNcGFvVFB1SE54dUphLWo3S1d2bTFsLWQ3VmFIcDY5YzltbENJb3pkd3FQN2p3?oc=5"
+  },
+  {
+   "headline": "Mind-reading tech aims to make AI actually intelligent",
+   "outlet": "newatlas.com",
+   "outlet_name": "newatlas.com",
+   "label": "REPORTED",
+   "url": "https://newatlas.com/ai-humanoids/brainwave-reading-ai-thats-not-what-i-meant/"
   },
   {
    "headline": "AI will not make mathematicians obsolete",
@@ -100,42 +130,21 @@
    "url": "https://theinference.org/indexes/ai-share?range=max"
   },
   {
-   "headline": "Can AI read pain in your cat's face?",
-   "outlet": "tailstory-app.com",
-   "outlet_name": "tailstory-app.com",
-   "label": "REPORTED",
-   "url": "https://tailstory-app.com/en/blog/can-ai-read-pain-in-a-cats-face"
-  },
-  {
-   "headline": "US Treasury Secretary: 'Cannot Cede AI Leadership to China'... Emphasizes Industry…",
-   "outlet": "news.sbs.co.kr",
-   "outlet_name": "news.sbs.co.kr",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nNzF5RjdCMnVhTFpWbl9hLXZEZDhDNGdFd1BVd05JR3YybUYxNHpRdTFxSGt0Ml9OTUJUVy1YTE5ueXBGSVR2d0EzaG51LXhTTFJFemRoYmFSN3JSUGtHWml6MDBzUHZ2Zml4NWdR?oc=5"
-  },
-  {
    "headline": "Microsoft Makes Foundry IQ Available in Copilot Studio",
    "outlet": "redmondmag.com",
    "outlet_name": "redmondmag.com",
    "label": "REPORTED",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNF9ZMEp2OVFDWXZlY1hLMXlfWUtFdGZfblN1Q0M0WVNwZjZfQk5RdUhFdXVFWWhyQWVqcmNWSlpYdWxsQXFiUWJtUm1LYXJNdFNib3BGUUo3dncxX29IRHVaTVBQMEdTa3lHZUVEVzJTUXZCLXMwWWk4Z0JDNndRUEdDRmZKYzdwR0d1NVFneWR5ekh4YTY4bW1zTQ?oc=5"
-  },
-  {
-   "headline": "New AI Research Has Me Asking: Am I Being Mean to AI?",
-   "outlet": "felipe.ai",
-   "outlet_name": "felipe.ai",
-   "label": "REPORTED",
-   "url": "https://felipe.ai/notes/am-i-being-mean-to-ai"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from four different outlets.",
- "articles_24h_rounded": 7300,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 7200,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/01.mp3",
- "audio_seconds": 44.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/02.mp3",
+ "audio_seconds": 53.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by MarkTechPost: NVIDIA Announces DGX Spark 64GB: A 1-PetaFLOP Grace Blackwell Desktop for Local AI Agents, Fine-Tuning, and Inference.\nReported by The Straits Times: Ex-OpenAI engineer says AI needs layers of safety, like nuclear plants.\nReported by Nacionale News: Anthropic Warns Investors That U.S. Government Actions Could Harm Its Business.\nReported by CEPR: The impact of AI and cross-border data regulation on international trade in digital services.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by WSJ: A new artificial intelligence czar has unveiled goals and members of a White House task force.\nReported by Yahoo: OpenAI President Greg Brockman pulled a planned second 25 million dollar donation to an artificial intelligence super PAC, saying he felt terrible.\nStill open, per Yahoo Finance: ChatGPT assigns XRP a 1.35 dollar fair value, with future price scenarios tied to Swift or Ripple dominance.\nReported by Crypto Briefing: The US Super Intelligence Force gets 120 days to report on artificial intelligence risks.\nReported by FourWeekMBA: Google limits free Gemini app to Flash-Lite from October 9.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
