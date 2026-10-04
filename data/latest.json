@@ -1,119 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-04T10:20:01Z",
- "hour": "2026-10-04T10:00:00Z",
+ "generated_at": "2026-10-04T12:20:01Z",
+ "hour": "2026-10-04T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Kultur-Problem: OpenAI-Mitarbeiter warnt vor Risiken und kündigt",
-   "outlet": "T-Online",
-   "outlet_name": "T-Online",
-   "url": "https://www.t-online.de/digital/aktuelles/id_101464900/naechster-openai-mitarbeiter-verlaesst-firma-mit-warnung.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Security expert leaves OpenAI, warns of AI safety culture flaws and risks.",
-   "published_at": "2026-10-04T02:11:15Z"
-  },
-  {
-   "title": "Should Claude get the same treatment as humans? The question opens rift between Pope and Anthropic",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "url": "https://www.indiatoday.in/amp/technology/this-week-in-ai/story/should-claude-get-the-same-treatment-as-humans-the-question-opens-rift-between-pope-and-anthropic-3009222-2026-10-04",
+   "title": "Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns",
+   "outlet": "New Castle News",
+   "outlet_name": "New Castle News",
+   "url": "https://www.ncnewsonline.com/news/national/altman-unveils-always-on-ai-agent-after-openai-shelves-model-over-safety-concerns/article_3025bc57-d780-599c-b86d-13a8001814d9.html",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-04T09:33:14Z"
+   "summary_1line": "OpenAI unveils Dots, new proactive agents, competing with Meta's Muse.",
+   "published_at": "2026-10-03T22:53:46Z"
   },
   {
-   "title": "FDR’s lesson for AI regulation",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcVB4cXVWNnh4SnA4ejJ1SGZENUFPNS00empFS2dGa0RtZi0zdmFMZTloUjVSSTNkVU5KalRzU3puV0VKbmdvem5fb1JlbnJfc1J1WlJ2ellNZDVrbEJGeFczTkxjVE82U2tQWUJxSTFrblhqRXc?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-04T09:30:34Z"
-  },
-  {
-   "title": "I tried ChatGPT’s new try-it-on shopping function. It worked for daily outfits, but couldn't handle a Halloween costume.",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/chatgpt/articles/tried-chatgpt-try-shopping-function-081101519.html",
+   "title": "Anthropic asks Claude users to share conversations for AI training",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/anthropic-asks-users-share-voice-data/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI's virtual try-on works for simple items but fails on complex outfits and body proportions.",
-   "published_at": "2026-10-04T08:11:01Z"
+   "summary_1line": "Anthropic asks users to share voice chats to improve Claude, with data retained up to five years if opted in.",
+   "published_at": "2026-10-04T02:36:00Z"
   },
   {
-   "title": "White House Forms AI Task Force to Assess Risks and Opportunities",
-   "outlet": "Ratopati",
-   "outlet_name": "Ratopati",
-   "url": "https://english.ratopati.com/story/82243/white-house-ai-task-force-to-prevent-overregulation",
+   "title": "India's AI Safety: Own Framework, Not US Copy, Say Experts",
+   "outlet": "Rediff Money",
+   "outlet_name": "Rediff Money",
+   "url": "https://money.rediff.com/news/market/india-s-ai-safety-own-framework-not-us-copy-say-experts/55563520261004",
+   "label": "CONFIRMED",
+   "summary_1line": "India's experts urge a tailored AI safety framework, not copying the US model.",
+   "published_at": "2026-10-03T18:29:00Z"
+  },
+  {
+   "title": "Google to Restrict Free Use of Gemini",
+   "outlet": "Fana News -",
+   "outlet_name": "Fana News -",
+   "url": "https://www.fananews.com/language/en/google-to-restrict-free-use-of-gemini/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-04T09:14:00Z"
+   "summary_1line": "Google limits free Gemini AI access to Flash-Lite, effective October 9.",
+   "published_at": "2026-10-04T09:02:04Z"
+  },
+  {
+   "title": "ChatGPT wants to replace the fitting room. I put it through a wardrobe stress test.",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI adds virtual try-on to ChatGPT for clothing and accessories.",
+   "published_at": "2026-10-04T08:11:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Kultur-Problem: OpenAI-Mitarbeiter warnt vor Risiken und kündigt",
-   "outlet": "T-Online",
-   "outlet_name": "T-Online",
-   "label": "STILL OPEN",
-   "url": "https://www.t-online.de/digital/aktuelles/id_101464900/naechster-openai-mitarbeiter-verlaesst-firma-mit-warnung.html"
-  },
-  {
-   "headline": "Should Claude get the same treatment as humans? The question opens rift between Pope and…",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
+   "headline": "Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns",
+   "outlet": "New Castle News",
+   "outlet_name": "New Castle News",
    "label": "REPORTED",
-   "url": "https://www.indiatoday.in/amp/technology/this-week-in-ai/story/should-claude-get-the-same-treatment-as-humans-the-question-opens-rift-between-pope-and-anthropic-3009222-2026-10-04"
+   "url": "https://www.ncnewsonline.com/news/national/altman-unveils-always-on-ai-agent-after-openai-shelves-model-over-safety-concerns/article_3025bc57-d780-599c-b86d-13a8001814d9.html"
   },
   {
-   "headline": "FDR’s lesson for AI regulation",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OcVB4cXVWNnh4SnA4ejJ1SGZENUFPNS00empFS2dGa0RtZi0zdmFMZTloUjVSSTNkVU5KalRzU3puV0VKbmdvem5fb1JlbnJfc1J1WlJ2ellNZDVrbEJGeFczTkxjVE82U2tQWUJxSTFrblhqRXc?oc=5"
-  },
-  {
-   "headline": "I tried ChatGPT’s new try-it-on shopping function. It worked for daily outfits, but…",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "Anthropic asks Claude users to share conversations for AI training",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
    "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/ai/chatgpt/articles/tried-chatgpt-try-shopping-function-081101519.html"
+   "url": "https://cryptobriefing.com/anthropic-asks-users-share-voice-data/"
   },
   {
-   "headline": "White House Forms AI Task Force to Assess Risks and Opportunities",
-   "outlet": "Ratopati",
-   "outlet_name": "Ratopati",
-   "label": "REPORTED",
-   "url": "https://english.ratopati.com/story/82243/white-house-ai-task-force-to-prevent-overregulation"
-  },
-  {
-   "headline": "OpenAI says its own models optimised Astra Ultrafast's inference on Nvidia GPUs",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRUxYYWFoY0k1bFJfOVNEM3AwVmxBRVZKRExlTkNteENzSkZDbTNrbGg4ZXB5OFNiZkFXTDRMb2tfUWhkRlJzTjRlb2R6MHpNLVpIbGtLdUMtVllMQVlzTF9uM1VyTjlIMjVjRTgzZHprYnN0ZlpHVHZJeXRWVy1XWWZicklhNjBFS2lMSkRZR3ppLVh3ZE9r?oc=5"
+   "headline": "India's AI Safety: Own Framework, Not US Copy, Say Experts",
+   "outlet": "Rediff Money",
+   "outlet_name": "Rediff Money",
+   "label": "CONFIRMED",
+   "url": "https://money.rediff.com/news/market/india-s-ai-safety-own-framework-not-us-copy-say-experts/55563520261004"
   },
   {
    "headline": "Google to Restrict Free Use of Gemini",
    "outlet": "Fana News -",
    "outlet_name": "Fana News -",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd09RUmxpNVNkUnhMbjlXMkVydkExeUx6OEFGdTIxM0NpY1VDTV9tMHBwSnhMZHo1eHdZcS0ydC1EQUxlMnV1MU1zZkkxdnJkLVBoNE1aODZlZVRvLWFvQ1czSjE3bU1fQ3dQNXo3Ml9aaFNxZ2poNTZmRE5qS3N1dA?oc=5"
+   "url": "https://www.fananews.com/language/en/google-to-restrict-free-use-of-gemini/"
   },
   {
-   "headline": "Künstliche Intelligenz: Ex-Sicherheitsforscher warnt vor unvorsichtigem Vorgehen bei…",
-   "outlet": "DIE ZEIT",
-   "outlet_name": "DIE ZEIT",
+   "headline": "ChatGPT wants to replace the fitting room. I put it through a wardrobe stress test.",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPN1lOYXN1cG1nMHVqSFBfS1lnMXl2OEtOdktEQWd3VDJIZ3psbnhOQVczdWRkZENaZGNlUFZpbnppU2F3b1NFNllJUzg2Z1lIcTd4YlFSenlzVGprV0dnTGV2SEk3SHRWRzJBdk5wVU05X3JNWEtDNlBWNEY2eWc2OGF6UUZkeXJvVFE?oc=5"
+   "url": "https://www.businessinsider.com/tested-limits-of-chatgpts-new-try-it-on-shopping-function-2026-10"
   },
   {
-   "headline": "Chinese AI models parrot state doctrine or refuse to answer on sensitive topics",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
+   "headline": "Legal risks pile up for Altman as OpenAI uncovers dozens of hacks",
+   "outlet": "Financial Times",
+   "outlet_name": "Financial Times",
    "label": "REPORTED",
-   "url": "https://the-decoder.com/chinese-ai-models-parrot-state-doctrine-or-refuse-to-answer-on-sensitive-topics/"
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbTIyS2l3QWYtSTZxVzB4Znp2U2ZtQzY3NHl5M0VHa3FVMU1PWTR4eWdmd0VwNnNIRTVlS0gyaU9WTVBDZ2RCRGU5dXFKWmc2bWdNWlpfazdrUHpBRGMyRmN5dTc4Qzh6OGh5cUpuZkNGb1BNZ0lxVW5FMmpwLUkycDNPcW8?oc=5"
+  },
+  {
+   "headline": "Meta introduces Muse Code beta with multi-agent AI for software development",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
+   "label": "REPORTED",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/meta-introduces-muse-code-ai-tool-for-coding-10821091/"
+  },
+  {
+   "headline": "The Sequence Radar - Issue 944 — Last Week in AI: Last Week in AI: OpenAI Connects the…",
+   "outlet": "thesequence.substack.com",
+   "outlet_name": "thesequence.substack.com",
+   "label": "REPORTED",
+   "url": "https://thesequence.substack.com/p/the-sequence-radar-issue-944-last"
+  },
+  {
+   "headline": "AI Policy Enforcement Report",
+   "outlet": "delinea.com",
+   "outlet_name": "delinea.com",
+   "label": "REPORTED",
+   "url": "https://delinea.com/resources/ai-policy-enforcement-report"
   },
   {
    "headline": "Nvidia GPU Smuggling Case: $300M, 4 Chips Named [2026]",
@@ -123,28 +123,28 @@
    "url": "https://shattered.io/nvidia-gpu-smuggling-case-300-million-2026/"
   },
   {
-   "headline": "Q&A with OpenAI VP of Hardware Richard Ho on its Jalapeño inference chip co-designed with…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
+   "headline": "I replaced ChatGPT, Claude, Gemini, and Perplexity with free open-source alternatives",
+   "outlet": "XDA Developers on MSN",
+   "outlet_name": "XDA Developers on MSN",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261004/p9#a261004p9"
+   "url": "https://www.msn.com/en-us/news/other/i-replaced-chatgpt-claude-gemini-and-perplexity-with-free-open-source-alternatives/ar-AA2dvLNY"
   },
   {
-   "headline": "«Nous renforçons notre infrastructure», explique Thimothée Lacroix, cofondateur de…",
-   "outlet": "usinenouvelle.com",
-   "outlet_name": "usinenouvelle.com",
+   "headline": "Künstliche Intelligenz: OpenAI-Mitarbeiter kündigt und warnt vor KI-Risiken",
+   "outlet": "manager magazin on MSN",
+   "outlet_name": "manager magazin on MSN",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNYU1DWmMxaTlsVmJOODJRcWNhRGRzaG5sSTh0bXhGV2IybnlJWHltRGZ1SjdKdmlVaEFmY1ZveW1MTV82eFZoM2tmTVBKRWQ5SUYtd1JrUVpGRGgwSTZrNXZETXNHSzliVjhJMnRqd2doNVhMNHJ3em1ROHpSc2hJUVV2TkJfQkx1V2FfMlIzdnJxaTBqVC0zWmZCMi1iZkZNb1hsS3piVXZQdFI0NVRsUXdjdThQT2xnQnBySGZnRzJ2WWNRMTdhZTFRS0V0RThQMjIzSGUtc0VoLS1iMXl6TlJqVWtsenpUR0N6eFRrYWdMVkFwVl83eXlNcFlMdnYzRzdfRFZHV1N2WEdSXzItMFJtV1kyckdQWkZF?oc=5"
+   "url": "https://www.msn.com/de-ch/technologie/künstliche-intelligenz/künstliche-intelligenz-openai-mitarbeiter-kündigt-und-warnt-vor-ki-risiken/ar-AA2dwNfc"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7000,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/10.mp3",
- "audio_seconds": 49.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/12.mp3",
+ "audio_seconds": 47.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per T-Online: Kultur-Problem: OpenAI-Mitarbeiter warnt vor Risiken und kündigt.\nReported by India Today: Should Claude get the same treatment as humans? The question opens rift between Pope and Anthropic.\nReported by Fortune: FDR’s lesson for AI regulation.\nConfirmed, per Yahoo Tech: I tried ChatGPT’s new try-it-on shopping function. It worked for daily outfits, but couldn't handle a Halloween costume.\nReported by Ratopati: White House Forms AI Task Force to Assess Risks and Opportunities.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by New Castle News: Altman unveils 'always-on' AI agent after OpenAI shelves model over safety concerns.\nConfirmed, per Crypto Briefing: Anthropic asks Claude users to share conversations for AI training.\nConfirmed, per Rediff Money: India's AI Safety: Own Framework, Not US Copy, Say Experts.\nReported by Fana News -: Google to Restrict Free Use of Gemini.\nReported by Business Insider: ChatGPT wants to replace the fitting room. I put it through a wardrobe stress test.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
