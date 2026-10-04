@@ -13,6 +13,7 @@ DNS and HTTPS are already set; the `CNAME` file keeps the custom domain, so do n
 | `assets/hourly.js` + `assets/live.css` | The live "this hour" bulletin and the "Launched" line (see below). Same files on every SI site. |
 | `assets/logo.svg` | PLACEHOLDER text wordmark: the logo slot (see "How to swap the logo"). |
 | `launching-soon.html`, `assets/launching-soon/` | The old "Launching soon" rocket page, archived (not linked, not indexed). |
+| `thanks.html`, `assets/thanks.css`, `assets/thanks.js` | After-payment page for the Stripe Payment Links (redirect is `thanks.html?sku=<sku>`; the script shows the playbook or Pro/MAX/Ultra reservation message, unknown sku = generic). `noindex`, not in the sitemap. |
 | `404.html` | Not-found page in the site's own style. Uses root-absolute paths because Pages serves it at the missing URL. |
 | `CNAME`, `.nojekyll`, `robots.txt`, `sitemap.xml` | Pages plumbing. Keep them. |
 

@@ -1,0 +1,9 @@
+/* Thank-you page (thanks.html): calm, one column, same tokens as the hub. No inline styles anywhere: the CSP forbids them. */
+.thx{max-width:720px;margin:0 auto;padding:28px 16px 40px;display:grid;gap:14px;justify-items:start;font-family:var(--hr-font);color:var(--hr-ink)}
+.thx section{display:grid;gap:12px}
+.thx h1{font-size:clamp(28px,6vw,44px);line-height:1.1}
+.thx section p{font-size:18px;line-height:1.5;color:var(--hr-ink2);max-width:60ch}
+.thx-k{font-size:12.5px;font-weight:800;letter-spacing:.09em;text-transform:uppercase;color:var(--hr-muted)}
+.thx-note{font-size:14.5px;color:var(--hr-muted);max-width:60ch}
+.thx-img{width:auto;height:200px;max-width:100%}
+.pthanks footer{margin-top:20px}
