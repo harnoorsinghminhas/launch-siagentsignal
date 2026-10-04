@@ -1,73 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-03T23:24:41Z",
- "hour": "2026-10-03T23:00:00Z",
+ "generated_at": "2026-10-04T00:20:03Z",
+ "hour": "2026-10-04T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Global Lense: The one about AI regulation",
-   "outlet": "Tech News TT",
-   "outlet_name": "Tech News TT",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HUnc1MEZqSlJYaUxlZklvNHNCZTJqTDVDNUNXYWZvLW85ZnZKbklXR1FMQnctU0JtcUd6dkhvREYteTdKTk51N2dNX0lINFgwZWpEX2JpRVduVXpZUGo1cElQN3dFV3I5dFpXR1ozdVdxdw?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-03T21:30:56Z"
-  },
-  {
-   "title": "Scott Bessent compares AI CEOs who warn of catastrophe to Hannibal Lecter: 'Stop me before I kill again'",
+   "title": "OpenAI leader who quit says he can do more for safety from outside the company",
    "outlet": "Business Insider",
    "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10",
+   "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
    "label": "REPORTED",
-   "summary_1line": "Bessent criticizes AI leaders for alarmism, citing OpenAI's model shelving over safety concerns.",
-   "published_at": "2026-10-03T20:35:21Z"
+   "summary_1line": "David Robinson leaves OpenAI to advocate for stronger AI safety from outside the company.",
+   "published_at": "2026-10-03T19:01:00Z"
   },
   {
-   "title": "Kawasaki Heavy aims for fully autonomous humanoid AI robot by 2030",
-   "outlet": "Nikkei Asia",
-   "outlet_name": "Nikkei Asia",
-   "url": "https://asia.nikkei.com/business/technology/kawasaki-heavy-aims-for-fully-autonomous-humanoid-ai-robot-by-2030",
+   "title": "Silicon Valley startup CScale raises $145 million to bring light-based links to AI chips",
+   "outlet": "varindia",
+   "outlet_name": "varindia",
+   "url": "https://www.varindia.com/news/silicon-valley-startup-cscale-raises-145-million-to-bring-light-based-links-to-ai-chips",
    "label": "REPORTED",
-   "summary_1line": "Kawasaki plans 2030 autonomous humanoid robot using Japan-developed AI platform.",
-   "published_at": "2026-10-03T20:02:00Z"
+   "summary_1line": "CScale, backed by Nvidia and Intel, will ship AI server chips with built-in lasers by 2028.",
+   "published_at": "2026-10-03T21:22:57Z"
+  },
+  {
+   "title": "AI models could harm young people's body image, warn experts",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/ckgw8yq4kyzo",
+   "label": "REPORTED",
+   "summary_1line": "AI-generated beauty images may worsen body image issues, prompting calls for AI literacy and diverse representation.",
+   "published_at": "2026-10-03T20:40:56Z"
+  },
+  {
+   "title": "I Asked a Privacy Tool What ChatGPT Knows About Me. The Result Was Terrifyingly Accurate",
+   "outlet": "PCMag",
+   "outlet_name": "PCMag",
+   "url": "https://www.pcmag.com/explainers/i-asked-privacy-tool-what-chatgpt-knows-about-me-result-terrifyingly-accurate",
+   "label": "REPORTED",
+   "summary_1line": "Lumo AI reveals what ChatGPT and Claude infer about users from their chat history.",
+   "published_at": "2026-10-03T06:13:00Z"
+  },
+  {
+   "title": "The AGI Transition: How AI Affects Work and Life",
+   "outlet": "KPBS",
+   "outlet_name": "KPBS",
+   "url": "https://www.kpbs.org/events/2026/10/03/the-agi-transition-how-ai-affects-work-and-life",
+   "label": "REPORTED",
+   "summary_1line": "A public workshop explains AGI and its impact on work and relationships.",
+   "published_at": "2026-10-03T22:01:58Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Global Lense: The one about AI regulation",
-   "outlet": "Tech News TT",
-   "outlet_name": "Tech News TT",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5HUnc1MEZqSlJYaUxlZklvNHNCZTJqTDVDNUNXYWZvLW85ZnZKbklXR1FMQnctU0JtcUd6dkhvREYteTdKTk51N2dNX0lINFgwZWpEX2JpRVduVXpZUGo1cElQN3dFV3I5dFpXR1ozdVdxdw?oc=5"
-  },
-  {
-   "headline": "Scott Bessent compares AI CEOs who warn of catastrophe to Hannibal Lecter: 'Stop me…",
+   "headline": "OpenAI leader who quit says he can do more for safety from outside the company",
    "outlet": "Business Insider",
    "outlet_name": "Business Insider",
    "label": "REPORTED",
-   "url": "https://www.businessinsider.com/scott-bessent-compares-ai-ceos-seeking-regulation-to-hannibal-lecter-2026-10"
+   "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10"
   },
   {
-   "headline": "Kawasaki Heavy aims for fully autonomous humanoid AI robot by 2030",
-   "outlet": "Nikkei Asia",
-   "outlet_name": "Nikkei Asia",
+   "headline": "Silicon Valley startup CScale raises $145 million to bring light-based links to AI chips",
+   "outlet": "varindia",
+   "outlet_name": "varindia",
    "label": "REPORTED",
-   "url": "https://asia.nikkei.com/business/technology/kawasaki-heavy-aims-for-fully-autonomous-humanoid-ai-robot-by-2030"
+   "url": "https://www.varindia.com/news/silicon-valley-startup-cscale-raises-145-million-to-bring-light-based-links-to-ai-chips"
   },
   {
-   "headline": "David Robinson, ex-OpenAI safety and policy: SV lacks a safety-centric culture; labs must…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
+   "headline": "AI models could harm young people's body image, warn experts",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261003/p12#a261003p12"
+   "url": "https://www.bbc.co.uk/news/articles/ckgw8yq4kyzo"
   },
   {
-   "headline": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
-   "outlet": "9to5google.com",
-   "outlet_name": "9to5google.com",
+   "headline": "I Asked a Privacy Tool What ChatGPT Knows About Me. The Result Was Terrifyingly Accurate",
+   "outlet": "PCMag",
+   "outlet_name": "PCMag",
    "label": "REPORTED",
-   "url": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/"
+   "url": "https://www.pcmag.com/explainers/i-asked-privacy-tool-what-chatgpt-knows-about-me-result-terrifyingly-accurate"
+  },
+  {
+   "headline": "The AGI Transition: How AI Affects Work and Life",
+   "outlet": "KPBS",
+   "outlet_name": "KPBS",
+   "label": "REPORTED",
+   "url": "https://www.kpbs.org/events/2026/10/03/the-agi-transition-how-ai-affects-work-and-life"
+  },
+  {
+   "headline": "US AI Task Force to Report on Technology’s Risks, WSJ Reports",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports"
+  },
+  {
+   "headline": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
+   "outlet": "bleepingcomputer.com",
+   "outlet_name": "bleepingcomputer.com",
+   "label": "REPORTED",
+   "url": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/"
   },
   {
    "headline": "OpenAI’s GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
@@ -75,6 +107,13 @@
    "outlet_name": "kotaku.com",
    "label": "STILL OPEN",
    "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607"
+  },
+  {
+   "headline": "Can AI read pain in your cat's face?",
+   "outlet": "tailstory-app.com",
+   "outlet_name": "tailstory-app.com",
+   "label": "REPORTED",
+   "url": "https://tailstory-app.com/en/blog/can-ai-read-pain-in-a-cats-face"
   },
   {
    "headline": "US Treasury Secretary: 'Cannot Cede AI Leadership to China'... Emphasizes Industry…",
@@ -96,39 +135,16 @@
    "outlet_name": "vbrownbag.com",
    "label": "REPORTED",
    "url": "https://vbrownbag.com/2026/06/episode-followup-ai-for-normal-people-with-aws-hero-thorsten-hoger/"
-  },
-  {
-   "headline": "Humanoid robots can sprint and box – but the real test is doing the laundry",
-   "outlet": "Nation.Cymru",
-   "outlet_name": "Nation.Cymru",
-   "label": "REPORTED",
-   "url": "https://nation.cymru/feature/humanoid-robots-can-sprint-and-box-but-the-real-test-is-doing-the-laundry/"
-  },
-  {
-   "headline": "Banjo-Kazooie PC port ‘decomp’ developer says AI-generated PC ports are ‘a race to the…",
-   "outlet": "videogameschronicle.com",
-   "outlet_name": "videogameschronicle.com",
-   "label": "REPORTED",
-   "url": "https://www.videogameschronicle.com/news/banjo-kazooie-pc-port-decomp-developer-says-ai-generated-pc-ports-are-a-race-to-the-bottom-and-disrespectful/"
-  },
-  {
-   "headline": "Google Sends AI Chips to Space, Testing Orbital Data Centers",
-   "outlet": "Aktualita.co",
-   "outlet_name": "Aktualita.co",
-   "label": "REPORTED",
-   "url": "https://aktualita.co/en/technology/google-sends-ai-chips-to-space-testing-orbital-data-centers"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from three different outlets.",
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7400,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/03/23.mp3",
- "audio_seconds": 35.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/00.mp3",
+ "audio_seconds": 67.0,
  "audio_status": "ok",
- "voice_engine": "gemini",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Tech News TT: Global Lense: The one about AI regulation.\nReported by Business Insider: Scott Bessent compares AI CEOs who warn of catastrophe to Hannibal Lecter: 'Stop me before I kill again'.\nReported by Nikkei Asia: Kawasaki Heavy aims for fully autonomous humanoid AI robot by 2030.\nFree every hour.",
- "script_source": "template",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDavid Robinson has left OpenAI to push for stronger artificial intelligence safety from outside the company, reported by Business Insider.\nSilicon Valley startup CScale, backed by Nvidia and Intel, raised $145 million and plans to ship artificial intelligence server chips with built-in lasers by 2028, reported by varindia.\nExperts warn that artificial intelligence generated beauty images could harm young people's body image and are calling for artificial intelligence literacy and diverse representation, reported by BBC.\nA privacy tool revealed what ChatGPT and Claude infer about users based on their chat history, reported by PCMag, and the results were described as terrifyingly accurate.\nA public workshop is explaining artificial general intelligence and its effects on work and relationships, reported by KPBS.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
