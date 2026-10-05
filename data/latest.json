@@ -1,105 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T15:20:01Z",
- "hour": "2026-10-05T15:00:00Z",
+ "generated_at": "2026-10-05T16:20:01Z",
+ "hour": "2026-10-05T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI is sticking more ads in ChatGPT",
+   "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
    "outlet": "theverge.com",
    "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+   "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI tests visual ads in US for image generation in ChatGPT.",
-   "published_at": "2026-10-05T13:09:48Z"
+   "summary_1line": "Schiff criticizes Trump's AI claims and calls for regulation amid national security concerns.",
+   "published_at": "2026-10-05T14:30:00Z"
   },
   {
-   "title": "OpenAI must explain action taken to stop AI hacking Australians’ private data, chair of federal inquiry says",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI faces federal inquiry over AI data access and delayed notification to Australia.",
-   "published_at": "2026-10-05T14:00:27Z"
+   "title": "OpenAI launches visual ads that appear alongside image generation results",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-05T15:14:24Z"
   },
   {
-   "title": "OpenAI’s Sam Altman warns against turning AI into a god in apparent criticism of rival Anthropic",
-   "outlet": "The Independent",
-   "outlet_name": "The Independent",
-   "url": "https://www.independent.co.uk/tech/openai-sam-altman-anthropic-ai-claude-god-pope-b3061519.html",
+   "title": "This Google Home update just made Gemini more reliable, and improved Find My Phone voice commands",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/gemini/articles/google-home-just-made-gemini-110000209.html",
    "label": "CONFIRMED",
-   "summary_1line": "Altman warns AI shouldn't be given religious status, amid Anthropic's and Pope's concerns.",
-   "published_at": "2026-10-05T12:41:00Z"
+   "summary_1line": "Google improves Gemini reliability and Find My Phone with noise filtering and app fixes.",
+   "published_at": "2026-10-05T11:00:00Z"
   },
   {
-   "title": "Cohere launches North 2, giving its AI agents memory and tighter controls",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/cohere-launches-north-2-ai-agents/",
-   "label": "CONFIRMED",
-   "summary_1line": "Cohere's North 2 adds memory and shared libraries for enterprise AI agents with on-premises and air-gapped support.",
-   "published_at": "2026-10-05T06:04:00Z"
+   "title": "Promevo launches Insights to track Gemini Enterprise adoption and AI agents",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/05/promevo-launches-insights-to-track-gemini-enterprise-adoption-and-ai-agents/",
+   "label": "REPORTED",
+   "summary_1line": "Promevo launches platform to track Gemini Enterprise AI agent adoption and cloud spending in enterprises.",
+   "published_at": "2026-10-05T06:00:00Z"
   },
   {
-   "title": "AI Slop Forces Google To Suspend Open Source Bug Bounty Programme",
-   "outlet": "Open Source For You",
-   "outlet_name": "Open Source For You",
-   "url": "https://www.opensourceforu.com/2026/10/ai-slop-forces-google-to-suspend-open-source-bug-bounty-programme/",
-   "label": "STILL OPEN",
-   "summary_1line": "Google pauses vulnerability programme amid AI spam surge, citing 2000 flaws per release in Linux.",
-   "published_at": "2026-10-05T05:30:00Z"
+   "title": "ESET launches Protect to simplify cybersecurity amid AI-driven threats",
+   "outlet": "MSSP Alert",
+   "outlet_name": "MSSP Alert",
+   "url": "https://www.msspalert.com/news/eset-launches-new-portfolio-to-simplify-cybersecurity-amid-ai-driven-threats",
+   "label": "CONFIRMED",
+   "summary_1line": "ESET launches Protect portfolio with AI-native security tiers to combat rising cyber threats.",
+   "published_at": "2026-10-05T13:47:10Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI is sticking more ads in ChatGPT",
+   "headline": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
    "outlet": "theverge.com",
    "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
+   "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption"
   },
   {
-   "headline": "OpenAI must explain action taken to stop AI hacking Australians’ private data, chair of…",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says"
-  },
-  {
-   "headline": "OpenAI’s Sam Altman warns against turning AI into a god in apparent criticism of rival…",
-   "outlet": "The Independent",
-   "outlet_name": "The Independent",
-   "label": "CONFIRMED",
-   "url": "https://www.independent.co.uk/tech/openai-sam-altman-anthropic-ai-claude-god-pope-b3061519.html"
-  },
-  {
-   "headline": "Cohere launches North 2, giving its AI agents memory and tighter controls",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/cohere-launches-north-2-ai-agents/"
-  },
-  {
-   "headline": "AI Slop Forces Google To Suspend Open Source Bug Bounty Programme",
-   "outlet": "Open Source For You",
-   "outlet_name": "Open Source For You",
-   "label": "STILL OPEN",
-   "url": "https://www.opensourceforu.com/2026/10/ai-slop-forces-google-to-suspend-open-source-bug-bounty-programme/"
-  },
-  {
-   "headline": "Anthropic whistleblower Jacob Coxon to testify at NYC AI hearing on 'kill switches,'…",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
+   "headline": "OpenAI launches visual ads that appear alongside image generation results",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmUzVVVySnJtNFBUYlhrMWlxY0xOMEVySFZTMzFlR25La0ZqSU00TlEtWTRMT3Z1ZE85S3dwTXg0LXZTV2JmeDZ5R1RYaU9qVGFtYzZrNnV4YXZMSEZ1bW5YUEFCQkZpV0t4V1NaRTI2VldmRGFwWEFLNkhzbzU0Nk9sQUpPRmVDNjg4YVBpMm5rR2hLR0FSYlhjZEhWemN2dHVWTW9mLS1mekdmU1RuSTBma2sta3B4T2p1Y3VmWUZnaG0zMmVNRENEOXZjZw?oc=5"
+   "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
   },
   {
-   "headline": "I linked my work tools to Gemini; I barely open Wispr Flow anymore",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
+   "headline": "This Google Home update just made Gemini more reliable, and improved Find My Phone voice…",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "CONFIRMED",
+   "url": "https://tech.yahoo.com/ai/gemini/articles/google-home-just-made-gemini-110000209.html"
+  },
+  {
+   "headline": "Promevo launches Insights to track Gemini Enterprise adoption and AI agents",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
    "label": "REPORTED",
-   "url": "https://www.androidpolice.com/i-linked-my-work-tools-to-gemini-i-barely-open-wispr-flow-anymore/"
+   "url": "https://siliconangle.com/2026/10/05/promevo-launches-insights-to-track-gemini-enterprise-adoption-and-ai-agents/"
+  },
+  {
+   "headline": "ESET launches Protect to simplify cybersecurity amid AI-driven threats",
+   "outlet": "MSSP Alert",
+   "outlet_name": "MSSP Alert",
+   "label": "CONFIRMED",
+   "url": "https://www.msspalert.com/news/eset-launches-new-portfolio-to-simplify-cybersecurity-amid-ai-driven-threats"
+  },
+  {
+   "headline": "AI bill of human rights could fill global governance gaps, UK paper proposes",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
+   "label": "REPORTED",
+   "url": "https://www.mlex.com/mlex/articles/2533848/ai-bill-of-human-rights-could-fill-global-governance-gaps-uk-paper-proposes"
+  },
+  {
+   "headline": "Copilot in Word finally shows where its answers come from",
+   "outlet": "Windows Central",
+   "outlet_name": "Windows Central",
+   "label": "REPORTED",
+   "url": "https://www.windowscentral.com/artificial-intelligence/microsoft-copilot/microsoft-gave-copilot-in-word-something-ai-desperately-needs-sources"
   },
   {
    "headline": "NYC-Ratsanhörung stellt Anthropic, OpenAI, Google und Meta unter Eid",
@@ -109,42 +109,42 @@
    "url": "https://www.unite.ai/de/nyc-council-hearing-puts-anthropic-openai-google-meta-under-oath/"
   },
   {
-   "headline": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science…",
-   "outlet": "jack-clark.net",
-   "outlet_name": "jack-clark.net",
-   "label": "CONFIRMED",
-   "url": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"
-  },
-  {
-   "headline": "Major Google Gemini Shakeup: Older Models Deprecated, Fast Modes Pulled as Gemini 4 Argon…",
-   "outlet": "nokiapoweruser.com",
-   "outlet_name": "nokiapoweruser.com",
-   "label": "STILL OPEN",
-   "url": "https://nokiapoweruser.com/google-gemini-model-deprecation-36-37-flash-fast-mode-gemini-4-argon/"
-  },
-  {
-   "headline": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
-   "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/"
-  },
-  {
-   "headline": "Claude Frontier Academy. Why is Anthropic looking to train 10k AI engineers?",
-   "outlet": "economictimes.indiatimes.com",
-   "outlet_name": "economictimes.indiatimes.com",
+   "headline": "Gemini helps me give a voice to students who cannot write.",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
    "label": "REPORTED",
-   "url": "https://economictimes.indiatimes.com/news/international/us/what-is-claude-frontier-academy-and-why-is-anthropic-looking-to-train-10000-ai-engineers/articleshow/134645266.cms?from=mdr"
+   "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/"
+  },
+  {
+   "headline": "OpenAI Begins Phased Text Watermarking Under EU AI Act Rules",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVEpZTFpIcEFGUlo1SThrMEdnMzItS0Nqczh5b0UtcUNhTENLeHVvRWdXS3Y2dy1BLWdvaVRlb2lmOTR6VHI4SVRaLXBEQ3pLRHJYTm02NzNVTUoyWjBtZTZObGhhSWIxdHBIWG8wRUFDX1BRX21SNTE0Rk9xY2RkbnJlTE1ERm04MHc?oc=5"
+  },
+  {
+   "headline": "White House Reveals Voluntary AI Safety Pledge Signed by OpenAI, Nvidia, Alphabet and Meta",
+   "outlet": "TIKR.com",
+   "outlet_name": "TIKR.com",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVUlHck1hRjVIWDBkLTEzSTFtSzZqeTluSTVmcW53aUVEUGl0QThuME85MXk0RzZRMDRjS2poREFpNk1vY0MxTm9uR2FWaWRtMlNsaVpqZnN4VnZRa0RBcGRfQklUS2x1Zi1vZGg5dHJJNUlFck9kcVl6aFVXQTE1d2F0MzhvMlNqZkYtczFaemM4eWdk?oc=5"
+  },
+  {
+   "headline": "Claude playing old strategy games in 2026",
+   "outlet": "replicated.live",
+   "outlet_name": "replicated.live",
+   "label": "REPORTED",
+   "url": "http://replicated.live/blog/games"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 10400,
- "articles_24h_label": "about 10,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 10600,
+ "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/15.mp3",
- "audio_seconds": 48.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/16.mp3",
+ "audio_seconds": 59.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: OpenAI is sticking more ads in ChatGPT.\nConfirmed, per The Guardian: OpenAI must explain action taken to stop AI hacking Australians’ private data, chair of federal inquiry says.\nConfirmed, per The Independent: OpenAI’s Sam Altman warns against turning AI into a god in apparent criticism of rival Anthropic.\nConfirmed, per Crypto Briefing: Cohere launches North 2, giving its AI agents memory and tighter controls.\nStill open, per Open Source For You: AI Slop Forces Google To Suspend Open Source Bug Bounty Programme.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSen. Adam Schiff on AI regulation and free speech, confirmed by The Verge: Schiff criticizes Trump's AI claims and calls for regulation amid national security concerns.\nOpenAI launches visual ads that appear alongside image generation results, reported by TechCrunch.\nGoogle Home's Gemini just got more reliable with improved Find My Phone voice commands, confirmed by Yahoo Tech: the update includes noise filtering and app fixes.\nPromevo launches Insights to track Gemini Enterprise adoption and AI agents in enterprises, reported by SiliconANGLE.\nESET launches Protect to simplify cybersecurity amid rising threats, confirmed by MSSP Alert: the portfolio features AI-native security tiers.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
