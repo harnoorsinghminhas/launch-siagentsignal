@@ -1,98 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T04:20:01Z",
- "hour": "2026-10-05T04:00:00Z",
+ "generated_at": "2026-10-05T05:20:01Z",
+ "hour": "2026-10-05T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google to restrict free access to Gemini AI models",
-   "outlet": "Qazinform",
-   "outlet_name": "Qazinform",
-   "url": "https://qazinform.com/news/google-to-restrict-free-access-to-gemini-ai-models-4e4a35",
-   "label": "REPORTED",
-   "summary_1line": "Google limits free users to Flash-Lite from 9th October, keeping Pro and Ultra access unchanged.",
-   "published_at": "2026-10-05T02:29:40Z"
-  },
-  {
-   "title": "Malaysia Plans First AI Law in 2027 as Scrutiny Intensifies",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-05/malaysia-plans-its-first-ai-law-as-global-scrutiny-intensifies",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-05T03:06:45Z"
-  },
-  {
-   "title": "Trump Creates 'Super Intelligence Force' for AI Oversight",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "url": "https://www.techbuzz.ai/articles/trump-creates-super-intelligence-force-for-ai-oversight",
+   "title": "Claude goes live in India with in-country inference through Amazon Bedrock",
+   "outlet": "Express Computer",
+   "outlet_name": "Express Computer",
+   "url": "https://www.expresscomputer.in/news/claude-goes-live-in-india-with-in-country-inference-through-amazon-bedrock/139422/",
    "label": "CONFIRMED",
-   "summary_1line": "Trump creates Super Intelligence Force to lead AI policy under national security lens.",
-   "published_at": "2026-10-05T02:05:00Z"
+   "summary_1line": "Anthropic enables local AI inference in India for regulated sectors via Amazon Bedrock.",
+   "published_at": "2026-10-04T17:00:00Z"
   },
   {
-   "title": "Trebellar Raises $18 Million Series A To Bring AI To Corporate Real Estate Management",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "url": "https://pulse2.com/trebellar-raises-18-million-series-a-to-bring-ai-to-corporate-real-estate-management/",
+   "title": "Gemini Gains Access to Google Wallet: Tickets, Expenses, and Rewards via Voice Commands",
+   "outlet": "Basic Tutorials",
+   "outlet_name": "Basic Tutorials",
+   "url": "https://basic-tutorials.com/news/gemini-gains-access-to-google-wallet-tickets-expenses-and-rewards-via-voice-commands/",
    "label": "REPORTED",
-   "summary_1line": "Trebellar raises $18M to expand AI platform for corporate real estate.",
-   "published_at": "2026-10-04T18:45:00Z"
+   "summary_1line": "Gemini gains read-only access to Google Wallet in U.S. for users 18+.",
+   "published_at": "2026-10-05T03:05:27Z"
   },
   {
-   "title": "NVIDIA unveils AI data center lineup at GTC 2026",
-   "outlet": "NewsBytes",
-   "outlet_name": "NewsBytes",
-   "url": "https://www.newsbytesapp.com/news/science/nvidia-unveils-ai-data-center-lineup-at-gtc-2026/tldr",
+   "title": "Yotta’s Nvidia GPU push enters execution phase",
+   "outlet": "Communications Today",
+   "outlet_name": "Communications Today",
+   "url": "https://www.communicationstoday.co.in/yottas-nvidia-gpu-push-enters-execution-phase/",
+   "label": "REPORTED",
+   "summary_1line": "Yotta’s AI compute hub begins GPU deliveries with 5,110 B200s and 20,736 B300s, targeting enterprise and sovereign AI demand.",
+   "published_at": "2026-10-05T02:13:05Z"
+  },
+  {
+   "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.com/news/articles/cqj6jenp26zyo",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-04T17:00:00Z"
+   "published_at": "2026-10-05T03:37:41Z"
+  },
+  {
+   "title": "Singapore's OneByZero raises $20M Series A from Jungle Ventures for enterprise AI",
+   "outlet": "TNGlobal",
+   "outlet_name": "TNGlobal",
+   "url": "https://technode.global/2026/10/05/994377/",
+   "label": "REPORTED",
+   "summary_1line": "OneByZero raises $20M to scale AI teams and enter healthcare and public sector in Asia.",
+   "published_at": "2026-10-05T03:26:05Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google to restrict free access to Gemini AI models",
-   "outlet": "Qazinform",
-   "outlet_name": "Qazinform",
-   "label": "REPORTED",
-   "url": "https://qazinform.com/news/google-to-restrict-free-access-to-gemini-ai-models-4e4a35"
-  },
-  {
-   "headline": "Malaysia Plans First AI Law in 2027 as Scrutiny Intensifies",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-05/malaysia-plans-its-first-ai-law-as-global-scrutiny-intensifies"
-  },
-  {
-   "headline": "Trump Creates 'Super Intelligence Force' for AI Oversight",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
+   "headline": "Claude goes live in India with in-country inference through Amazon Bedrock",
+   "outlet": "Express Computer",
+   "outlet_name": "Express Computer",
    "label": "CONFIRMED",
-   "url": "https://www.techbuzz.ai/articles/trump-creates-super-intelligence-force-for-ai-oversight"
+   "url": "https://www.expresscomputer.in/news/claude-goes-live-in-india-with-in-country-inference-through-amazon-bedrock/139422/"
   },
   {
-   "headline": "Trebellar Raises $18 Million Series A To Bring AI To Corporate Real Estate Management",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
+   "headline": "Gemini Gains Access to Google Wallet: Tickets, Expenses, and Rewards via Voice Commands",
+   "outlet": "Basic Tutorials",
+   "outlet_name": "Basic Tutorials",
    "label": "REPORTED",
-   "url": "https://pulse2.com/trebellar-raises-18-million-series-a-to-bring-ai-to-corporate-real-estate-management/"
+   "url": "https://basic-tutorials.com/news/gemini-gains-access-to-google-wallet-tickets-expenses-and-rewards-via-voice-commands/"
   },
   {
-   "headline": "NVIDIA unveils AI data center lineup at GTC 2026",
-   "outlet": "NewsBytes",
-   "outlet_name": "NewsBytes",
+   "headline": "Yotta’s Nvidia GPU push enters execution phase",
+   "outlet": "Communications Today",
+   "outlet_name": "Communications Today",
    "label": "REPORTED",
-   "url": "https://www.newsbytesapp.com/news/science/nvidia-unveils-ai-data-center-lineup-at-gtc-2026/tldr"
+   "url": "https://www.communicationstoday.co.in/yottas-nvidia-gpu-push-enters-execution-phase/"
   },
   {
-   "headline": "Anthropic launches Claude Code Review beta for enterprise and teams",
-   "outlet": "NewsBytes",
-   "outlet_name": "NewsBytes",
+   "headline": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
    "label": "REPORTED",
-   "url": "https://www.newsbytesapp.com/news/science/anthropic-launches-claude-code-review-beta-for-enterprise-and-teams/tldr"
+   "url": "https://www.bbc.com/news/articles/cqj6jenp26zyo"
+  },
+  {
+   "headline": "Singapore's OneByZero raises $20M Series A from Jungle Ventures for enterprise AI",
+   "outlet": "TNGlobal",
+   "outlet_name": "TNGlobal",
+   "label": "REPORTED",
+   "url": "https://technode.global/2026/10/05/994377/"
+  },
+  {
+   "headline": "University of Alaska regents weigh AI policy as student misuse increases",
+   "outlet": "Anchorage Daily News",
+   "outlet_name": "Anchorage Daily News",
+   "label": "REPORTED",
+   "url": "https://www.adn.com/alaska-news/education/2026/10/04/ai-policy-coming-to-university-of-alaska-as-student-misuse-increases/"
   },
   {
    "headline": "Ex-Anthropic employee who quit over safety concerns to testify at NYC council hearing",
@@ -102,6 +102,13 @@
    "url": "https://www.msn.com/en-us/news/news/ex-anthropic-employee-who-quit-over-safety-concerns-to-testify-at-nyc-council-hearing/ar-AA2dzOmd"
   },
   {
+   "headline": "Gobind: High-risk AI systems to face stricter safeguards under new Bill",
+   "outlet": "thestar.com.my",
+   "outlet_name": "thestar.com.my",
+   "label": "REPORTED",
+   "url": "https://www.thestar.com.my/news/nation/2026/10/05/gobind-high-risk-ai-systems-to-face-stricter-safeguards-under-new-bill"
+  },
+  {
    "headline": "Homestead: A framework around Claude Code",
    "outlet": "mullet.town",
    "outlet_name": "mullet.town",
@@ -109,42 +116,35 @@
    "url": "https://mullet.town/homestead"
   },
   {
-   "headline": "Now, requests sent to Claude to be processed within India",
-   "outlet": "timesofindia.indiatimes.com",
-   "outlet_name": "timesofindia.indiatimes.com",
+   "headline": "OpenAI stops training latests models, citing safety concerns | Center for Security and…",
+   "outlet": "cset.georgetown.edu",
+   "outlet_name": "cset.georgetown.edu",
    "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/business/india-business/now-requests-sent-to-claude-to-be-processed-within-india/articleshow/134683523.cms"
+   "url": "https://cset.georgetown.edu/article/openai-stops-training-latests-models-citing-safety-concerns/"
   },
   {
-   "headline": "Anthropic rolls out local Claude inference in India through Amazon Bedrock",
-   "outlet": "Moneycontrol.com",
-   "outlet_name": "Moneycontrol.com",
+   "headline": "Google To Restrict Gemini Model Access For Free, AI Plus Users From 9 October",
+   "outlet": "Lowyat.NET",
+   "outlet_name": "Lowyat.NET",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON0RPdi1GV1d0emFsdzFLRFpkbG9hN2RHeXg4SGU0eTQ0RS01SWI5SV9xSUVrWWJkOTMtR1l5ZjJfcmhnS3hjRHg1T0J0bHU1bEQzTHlrczhBc1BKV1djdGdzYW5pV0VNb2RpSzBZQnMwNmQ0T2ZFV0RxcTB0UWpkbGtkWmtxcUszTTktYWxCWGlQVnUxYWU2bGZVcDNGeU9FeHdVcDVvR2NRckxVNEUzLTI0bG8zOXZMcU1pU0NHLW9pR3hSSUFEa0dFQzgwbFFYRWhhZzJoTERaay1RYWgzVlMxUdIB6AFBVV95cUxNa09HbEpBNm91QnB1MEtZRDVMM1BUUGVGZzk2U3NLcndxU2FhcFZKaDN2VWltZUhaNk4tZzNhZ0lMUlNXZWgxdlZ4MFY0TzlOREctWVp0bWxLWHRmMUExX0N2eHpqUnk3Z1NCb3FHUmphSTlXS2U1c0FRQW9SeEFFbXJzeGlpVHJoX0VMT2xIMGszRGVzb3NGeV92UEpYRU8zVUJ1NHBDUGszekxweGRSQ2puNWRKM2s1OTJkMVN1RlBTd0Z4OFRiYng1cHFBS21IdVBDbzduR1dBYmYwdkU1Q2Z6aGhBSmM0?oc=5"
+   "url": "https://www.lowyat.net/2026/406282/google-gemini-access-free-ai-plus-users/"
   },
   {
-   "headline": "Change.org says it is investing $100M of its own money to rebuild its core petitions…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
+   "headline": "Alibaba Cloud Unveils Agent-Native Innovations at WAIC 2026",
+   "outlet": "alibabacloud.com",
+   "outlet_name": "alibabacloud.com",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261004/p22#a261004p22"
-  },
-  {
-   "headline": "Nvidia’s AI boom puts Warren Buffett’s 1999 tech warning back in focus",
-   "outlet": "TheStreet on MSN",
-   "outlet_name": "TheStreet on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/money/general/nvidia-s-ai-boom-puts-warren-buffett-s-1999-tech-warning-back-in-focus/ar-AA2dyHvY?ocid=BingNewsVerp"
+   "url": "https://www.alibabacloud.com/blog/alibaba-cloud-unveils-agent-native-innovations-at-waic-2026_603377"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
  "articles_24h_rounded": 8400,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/04.mp3",
- "audio_seconds": 52.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/05.mp3",
+ "audio_seconds": 47.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle is restricting free access to Gemini artificial intelligence models starting October 9th, limiting free users to Flash-Lite. Reported by Qazinform: Pro and Ultra access remain unchanged.\nMalaysia is planning its first artificial intelligence law in 2027 as regulatory scrutiny intensifies. Reported by Bloomberg.\nTrump has created a Super Intelligence Force to lead artificial intelligence policy under a national security lens. Confirmed by The Tech Buzz.\nTrebellar has raised 18 million dollars in Series A funding to expand its artificial intelligence platform for corporate real estate management. Reported by Pulse 2.0.\nNVIDIA has unveiled an artificial intelligence data center lineup at GTC 2026. Reported by NewsBytes.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Express Computer: Claude goes live in India with in-country inference through Amazon Bedrock.\nReported by Basic Tutorials: Gemini Gains Access to Google Wallet: Tickets, Expenses, and Rewards via Voice Commands.\nReported by Communications Today: Yotta’s Nvidia GPU push enters execution phase.\nReported by BBC: Trump unveils 'Super Intelligence Force' to oversee AI policy.\nReported by TNGlobal: Singapore's OneByZero raises $20M Series A from Jungle Ventures for enterprise AI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
