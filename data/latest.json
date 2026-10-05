@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T19:20:02Z",
- "hour": "2026-10-05T19:00:00Z",
+ "generated_at": "2026-10-05T20:20:01Z",
+ "hour": "2026-10-05T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Ex-Anthropic Researcher Testifies as NYC Council Weighs AI Curbs",
-   "outlet": "Bloomberg Law News",
-   "outlet_name": "Bloomberg Law News",
-   "url": "https://news.bloomberglaw.com/us-law-week/ex-anthropic-researcher-testifies-as-nyc-council-weighs-ai-curbs",
+   "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
+   "outlet": "BNN Bloomberg",
+   "outlet_name": "BNN Bloomberg",
+   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/05/ai-industry-insiders-voice-alarms-to-nyc-council-as-local-governments-take-up-safety-concerns/",
    "label": "CONFIRMED",
-   "summary_1line": "Caxon warns AI risks are poorly understood at NYC council hearing.",
-   "published_at": "2026-10-05T16:46:00Z"
+   "summary_1line": "AI insiders warn NYC of existential risks, calling for oversight amid growing concerns over uncontrolled AI development.",
+   "published_at": "2026-10-05T18:56:40Z"
   },
   {
-   "title": "Pentagon Officially Removes Anthropic's Claude from Military Systems Months After Ban",
-   "outlet": "Android Headlines",
-   "outlet_name": "Android Headlines",
-   "url": "https://www.androidheadlines.com/2026/10/pentagon-stops-using-removes-anthropic-claude-ai-military.html",
-   "label": "STILL OPEN",
-   "summary_1line": "DoD ends use of Anthropic's Claude after six-month phase-out, shifting to OpenAI and Google AI tools.",
-   "published_at": "2026-10-05T17:49:12Z"
-  },
-  {
-   "title": "How Google DeepMind's Chief AI 'Readiness' Officer uses the tech in her daily life",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/05/how-google-deepminds-chief-readiness-officer-uses-ai-in-her-life.html",
+   "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
    "label": "CONFIRMED",
-   "summary_1line": "Lila Ibrahim shares AI use in daily life as Google's first Chief AI Readiness Officer.",
-   "published_at": "2026-10-05T17:04:03Z"
+   "summary_1line": "OpenAI rolls out text watermarking in EU for ChatGPT and Codex, with global API opt-in and researcher detector access.",
+   "published_at": "2026-10-05T18:08:39Z"
   },
   {
-   "title": "Nvidia-Backed Reflection Unveils Open AI Model, Taking on China",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china",
+   "title": "Sen. Adam Schiff on making Congress relevant in the AI age",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+   "label": "CONFIRMED",
+   "summary_1line": "Schiff criticizes Trump's AI pledge and corruption, calling it a national security threat.",
+   "published_at": "2026-10-05T14:30:00Z"
+  },
+  {
+   "title": "Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-05T19:00:00Z"
+   "published_at": "2026-10-05T12:33:00Z"
   },
   {
-   "title": "Apple Is Sounding the Alarm Over AI Agents With Full Access to Your Mac",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-sounding-alarm-over-ai-164442219.html",
+   "title": "Amazon hires Microsoft's former Copilot CTO",
+   "outlet": "Insider",
+   "outlet_name": "Insider",
+   "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
    "label": "CONFIRMED",
-   "summary_1line": "Apple warns AI agents on Mac could expose data via Full Disk Access.",
-   "published_at": "2026-10-05T16:44:42Z"
+   "summary_1line": "Amazon hires ex-Microsoft CTO to lead agentic AI, with Quick and Kiro user growth doubling and quadrupling.",
+   "published_at": "2026-10-05T10:45:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Ex-Anthropic Researcher Testifies as NYC Council Weighs AI Curbs",
-   "outlet": "Bloomberg Law News",
-   "outlet_name": "Bloomberg Law News",
+   "headline": "AI industry insiders voice alarms to NYC council as local governments take up safety…",
+   "outlet": "BNN Bloomberg",
+   "outlet_name": "BNN Bloomberg",
    "label": "CONFIRMED",
-   "url": "https://news.bloomberglaw.com/us-law-week/ex-anthropic-researcher-testifies-as-nyc-council-weighs-ai-curbs"
+   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/05/ai-industry-insiders-voice-alarms-to-nyc-council-as-local-governments-take-up-safety-concerns/"
   },
   {
-   "headline": "Pentagon Officially Removes Anthropic's Claude from Military Systems Months After Ban",
-   "outlet": "Android Headlines",
-   "outlet_name": "Android Headlines",
-   "label": "STILL OPEN",
-   "url": "https://www.androidheadlines.com/2026/10/pentagon-stops-using-removes-anthropic-claude-ai-military.html"
-  },
-  {
-   "headline": "How Google DeepMind's Chief AI 'Readiness' Officer uses the tech in her daily life",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "OpenAI is adding text watermarking in ChatGPT and Codex",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/05/how-google-deepminds-chief-readiness-officer-uses-ai-in-her-life.html"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
   },
   {
-   "headline": "Nvidia-Backed Reflection Unveils Open AI Model, Taking on China",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "Sen. Adam Schiff on making Congress relevant in the AI age",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "label": "CONFIRMED",
+   "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption"
+  },
+  {
+   "headline": "Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute…",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china"
-  },
-  {
-   "headline": "Apple Is Sounding the Alarm Over AI Agents With Full Access to Your Mac",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-sounding-alarm-over-ai-164442219.html"
+   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
   },
   {
    "headline": "Amazon hires Microsoft's former Copilot CTO",
@@ -95,18 +88,18 @@
    "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10"
   },
   {
-   "headline": "What Are OpenAI Dots And Do You Need Them?",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-dots-them-173831194.html"
+   "headline": "India Demands Binding AI Rules as White House Self-Policing Accord Draws Scrutiny",
+   "outlet": "techtimes",
+   "outlet_name": "techtimes",
+   "label": "CONFIRMED",
+   "url": "https://www.techtimes.com/articles/328526/20261005/india-demands-binding-ai-rules-white-house-self-policing-accord-draws-scrutiny.htm"
   },
   {
-   "headline": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
+   "headline": "No More “Robo Bosses”: California Enacts Sweeping Workplace AI Legislation",
+   "outlet": "JDSupra",
+   "outlet_name": "JDSupra",
    "label": "REPORTED",
-   "url": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/"
+   "url": "https://www.jdsupra.com/legalnews/no-more-robo-bosses-california-enacts-5191782/"
   },
   {
    "headline": "Supercharge regulated workloads with Claude Code and Amazon Bedrock | Artificial…",
@@ -116,35 +109,42 @@
    "url": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/"
   },
   {
-   "headline": "Claude writes code; I author the apps",
-   "outlet": "lexontech.org",
-   "outlet_name": "lexontech.org",
+   "headline": "OpenAI Rolls Out Text Watermarks to Meet EU AI Act Mandates",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
    "label": "REPORTED",
-   "url": "https://lexontech.org/claude-writes-code-i-author-the-apps"
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZlhjbDl4WnNwb2dWQnBPS0pnbzc3N3ZoTDBVVEtTUDJuY1lHaDZTSTlSdzNmY0JDNjZIYzQ5ejFvYWVORFZwS3FYVHpFQlZFSTk2dUMwSGlkYU9qYmdMWThCNUU3ODdPSzZuSEdQMWJvM1ItQTFvX0dnOXBiS2VaY3BMMkJ0aDVuQkJ4N1ZrcXJ0YWdWWXBqbUthNlZTX0N5S0ZOcjY3N2xGdDhobE9yd0ZxclRkY3QyRWJKYUN2R2kzZWFW?oc=5"
   },
   {
-   "headline": "Google Tightens Gemini Model Access As Free Users Lose Flash And Pro",
-   "outlet": "techbuild.africa",
-   "outlet_name": "techbuild.africa",
+   "headline": "Berkshire Healthcare launches face-to-face Copilot training looking to make AI more…",
+   "outlet": "htn.co.uk",
+   "outlet_name": "htn.co.uk",
    "label": "REPORTED",
-   "url": "https://techbuild.africa/google-gemini-free-users-lose-flash-pro-models/"
+   "url": "https://htn.co.uk/2026/10/05/berkshire-healthcare-launches-face-to-face-copilot-training-looking-to-make-ai-more-accessible-to-its-workforce/"
   },
   {
-   "headline": "AM Intelligence plans USD 20 BN additional investment in 15 months, orders 20K more…",
-   "outlet": "Press Trust of India on MSN",
-   "outlet_name": "Press Trust of India on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/am-intelligence-plans-usd-20-bn-additional-investment-in-15-months-orders-20k-more-nvidia-gpus/ar-AA2dBO0Y"
+   "headline": "Windows malware uses Grok AI to help stay hidden, researchers say",
+   "outlet": "Fox News on MSN",
+   "outlet_name": "Fox News on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/windows-malware-uses-grok-ai-to-help-stay-hidden-researchers-say/ar-AA2dCDvH"
+  },
+  {
+   "headline": "Anthropic whistleblower Jacob Coxon doubles down on AI warnings at NYC hearing…",
+   "outlet": "New York Post on MSN",
+   "outlet_name": "New York Post on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/anthropic-whistleblower-jacob-coxon-doubles-down-on-ai-warnings-at-nyc-hearing-extremely-reckless/ar-AA2dBNlp"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 11300,
- "articles_24h_label": "about 11,000",
+ "tidbit": "Did you know… one story this hour was carried by seven different outlets in the last few hours.",
+ "articles_24h_rounded": 11500,
+ "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/19.mp3",
- "audio_seconds": 51.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/20.mp3",
+ "audio_seconds": 47.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAn ex-Anthropic researcher testified before the NYC Council about artificial intelligence risks that are poorly understood, Confirmed by Bloomberg Law News.\nThe Pentagon has officially ended its use of Anthropic's Claude after a six-month phase-out, shifting to OpenAI and Google tools, Still open per Android Headlines.\nLila Ibrahim, Google's first Chief Artificial Intelligence Readiness Officer, shared how she uses the technology in her daily life, Confirmed by CNBC.\nNvidia-backed Reflection has unveiled an open artificial intelligence model, Reported by Bloomberg.\nApple is warning that artificial intelligence agents with Full Disk Access on Mac could expose your data, Confirmed by Yahoo Tech.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BNN Bloomberg: AI industry insiders voice alarms to NYC council as local governments take up safety concerns.\nConfirmed, per The Verge: OpenAI is adding text watermarking in ChatGPT and Codex.\nConfirmed, per The Verge: Sen. Adam Schiff on making Congress relevant in the AI age.\nReported by TechCrunch: Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost.\nConfirmed, per Insider: Amazon hires Microsoft's former Copilot CTO.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
