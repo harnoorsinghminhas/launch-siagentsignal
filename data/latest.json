@@ -1,98 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T01:20:02Z",
- "hour": "2026-10-05T01:00:00Z",
+ "generated_at": "2026-10-05T02:20:01Z",
+ "hour": "2026-10-05T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Reflection AI to release open-weight model aimed at DeepSeek and Qwen",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/reflection-ai-open-weight-model-deepseek-qwen/",
-   "label": "STILL OPEN",
-   "summary_1line": "Reflection AI to launch open-weight model rivaling DeepSeek and Qwen this month.",
-   "published_at": "2026-10-04T15:34:00Z"
+   "title": "Google unveils Gemini 4 Argon, its new frontier model",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html",
+   "label": "REPORTED",
+   "summary_1line": "Google's Gemini 4 Argon boosts performance and speeds up code, with new pricing and internal use.",
+   "published_at": "2026-10-05T00:03:24Z"
   },
   {
-   "title": "Don’t Share Sensitive Data with ChatGPT, Gemini",
-   "outlet": "Nigerian CommunicationWeek",
-   "outlet_name": "Nigerian CommunicationWeek",
-   "url": "https://www.nigeriacommunicationsweek.com.ng/2026/10/04/dont-share-sensitive-data-with-chatgpt-gemini-nitda",
-   "label": "CONFIRMED",
-   "summary_1line": "NITDA warns against using public AI tools for sensitive data to avoid breaches and legal issues.",
-   "published_at": "2026-10-04T16:00:00Z"
-  },
-  {
-   "title": "Google DeepMind watermarks AI-designed proteins | ETIH EdTech News",
+   "title": "OpenAI hires former Greek AI adviser Vassilis Koutsoumpas | ETIH EdTech News",
    "outlet": "EdTech Innovation Hub",
    "outlet_name": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/google-deepmind-creates-watermarked-ai-designed-proteins-that-still-work-in-lab-tests",
+   "url": "https://www.edtechinnovationhub.com/news/openai-hires-greeces-former-ai-adviser-vassilis-koutsoumpas-for-global-strategy-role",
    "label": "REPORTED",
-   "summary_1line": "Google DeepMind's SynthID Bio watermarks AI-designed proteins without disrupting function.",
-   "published_at": "2026-10-04T23:47:34Z"
+   "summary_1line": "OpenAI hires Greece’s AI adviser to lead global government AI strategy.",
+   "published_at": "2026-10-04T23:02:17Z"
   },
   {
-   "title": "OpenAI’s Altman says AI benefits warrant accepting some risks",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/united-states/openais-altman-says-ai-benefits-warrant-accepting-some-risks",
+   "title": "NVIDIA Heavily Backs “U.S. DeepSeek” as It Prepares to Release Open-Source Model",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
+   "url": "https://news.futunn.com/en/post/1000559785/nvidia-heavily-backs-us-deepseek-as-it-prepares-to-release",
    "label": "REPORTED",
-   "summary_1line": "Altman defends AI accessibility, rejecting strict regulation amid industry risk debates.",
-   "published_at": "2026-10-04T23:25:00Z"
+   "summary_1line": null,
+   "published_at": "2026-10-05T01:09:00Z"
   },
   {
-   "title": "Trump launches Super Intelligence Force to keep U.S. leading AI, names top officials",
-   "outlet": "WXLV ABC 45",
-   "outlet_name": "WXLV ABC 45",
-   "url": "https://abc45.com/news/nation-world/trump-launches-super-intelligence-force-sif-to-keep-us-leading-ai-names-top-officials-federal-trade-commission-andrew-ferguson-pentagon-chiefl-technology-officer-emil-michael-director-of-the-office-of-personnel-management-scott-kupor",
-   "label": "CONFIRMED",
-   "summary_1line": "Trump launches Super Intelligence Force, names officials, and renames AI as 'super intelligence'.",
-   "published_at": "2026-10-04T03:53:00Z"
+   "title": "DeepSeek Narrows AI Gap With US to Just 3 Percent, Bloomberg Says",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/deepseek-narrows-ai-gap-with-us-to-just-3-percent-bloomberg-says/",
+   "label": "REPORTED",
+   "summary_1line": "China's AI models now trail US rivals by just 3% on benchmarks, down from 15% a year ago.",
+   "published_at": "2026-10-04T21:29:45Z"
+  },
+  {
+   "title": "A Chat with ChatGPT: Bar Talk with Eric Bartosz",
+   "outlet": "Saucon Source",
+   "outlet_name": "Saucon Source",
+   "url": "https://sauconsource.com/2026/10/04/a-chat-with-chatgpt-bar-talk-with-eric-bartosz/",
+   "label": "STILL OPEN",
+   "summary_1line": "ChatGPT discusses AI peer pressure, culture, and emotional intelligence in a conversation with Eric Bartosz.",
+   "published_at": "2026-10-04T23:48:07Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "Reflection AI to release open-weight model aimed at DeepSeek and Qwen",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "STILL OPEN",
-   "url": "https://cryptobriefing.com/reflection-ai-open-weight-model-deepseek-qwen/"
-  },
-  {
-   "headline": "Don’t Share Sensitive Data with ChatGPT, Gemini",
-   "outlet": "Nigerian CommunicationWeek",
-   "outlet_name": "Nigerian CommunicationWeek",
-   "label": "CONFIRMED",
-   "url": "https://www.nigeriacommunicationsweek.com.ng/2026/10/04/dont-share-sensitive-data-with-chatgpt-gemini-nitda"
-  },
-  {
-   "headline": "Google DeepMind watermarks AI-designed proteins | ETIH EdTech News",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/google-deepmind-creates-watermarked-ai-designed-proteins-that-still-work-in-lab-tests"
-  },
-  {
-   "headline": "OpenAI’s Altman says AI benefits warrant accepting some risks",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "label": "REPORTED",
-   "url": "https://www.straitstimes.com/world/united-states/openais-altman-says-ai-benefits-warrant-accepting-some-risks"
-  },
-  {
-   "headline": "Trump launches Super Intelligence Force to keep U.S. leading AI, names top officials",
-   "outlet": "WXLV ABC 45",
-   "outlet_name": "WXLV ABC 45",
-   "label": "CONFIRMED",
-   "url": "https://abc45.com/news/nation-world/trump-launches-super-intelligence-force-sif-to-keep-us-leading-ai-names-top-officials-federal-trade-commission-andrew-ferguson-pentagon-chiefl-technology-officer-emil-michael-director-of-the-office-of-personnel-management-scott-kupor"
-  },
   {
    "headline": "Google unveils Gemini 4 Argon, its new frontier model",
    "outlet": "Yahoo Tech",
    "outlet_name": "Yahoo Tech",
    "label": "REPORTED",
    "url": "https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html"
+  },
+  {
+   "headline": "OpenAI hires former Greek AI adviser Vassilis Koutsoumpas | ETIH EdTech News",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "label": "REPORTED",
+   "url": "https://www.edtechinnovationhub.com/news/openai-hires-greeces-former-ai-adviser-vassilis-koutsoumpas-for-global-strategy-role"
+  },
+  {
+   "headline": "NVIDIA Heavily Backs “U.S. DeepSeek” as It Prepares to Release Open-Source Model",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
+   "label": "REPORTED",
+   "url": "https://news.futunn.com/en/post/1000559785/nvidia-heavily-backs-us-deepseek-as-it-prepares-to-release"
+  },
+  {
+   "headline": "DeepSeek Narrows AI Gap With US to Just 3 Percent, Bloomberg Says",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "label": "REPORTED",
+   "url": "https://startupfortune.com/deepseek-narrows-ai-gap-with-us-to-just-3-percent-bloomberg-says/"
   },
   {
    "headline": "A Chat with ChatGPT: Bar Talk with Eric Bartosz",
@@ -109,6 +95,13 @@
    "url": "https://www.newsbytesapp.com/news/science/ta419-impersonated-anthropic-researchers-to-target-us-ai-policy-experts/tldr"
   },
   {
+   "headline": "ChatGPT Reveals Coin Collecting Myths That Cost You Money",
+   "outlet": "MoneyLion",
+   "outlet_name": "MoneyLion",
+   "label": "STILL OPEN",
+   "url": "https://www.moneylion.com/trending/money/i-asked-chatgpt-which-coin-collecting-myths-could-cost-you-money"
+  },
+  {
    "headline": "Show HN: Redactpdf.ai: Open-source AI-based PDF redaction tool",
    "outlet": "redactpdf.ai",
    "outlet_name": "redactpdf.ai",
@@ -121,6 +114,13 @@
    "outlet_name": "editui.app",
    "label": "REPORTED",
    "url": "https://www.editui.app/"
+  },
+  {
+   "headline": "Change.org says it is investing $100M of its own money to rebuild its core petitions…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "label": "REPORTED",
+   "url": "https://www.techmeme.com/261004/p22#a261004p22"
   },
   {
    "headline": "Free open-source audio editor lets AI agents cut and rearrange tracks, with edits kept…",
@@ -137,14 +137,14 @@
    "url": "https://www.alibabacloud.com/blog/qwen-robotworld-boundless-worlds-for-embodied-agents_603268"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 7200,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 7300,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/01.mp3",
- "audio_seconds": 47.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/02.mp3",
+ "audio_seconds": 66.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per Crypto Briefing: Reflection AI to release open-weight model aimed at DeepSeek and Qwen.\nConfirmed, per Nigerian CommunicationWeek: Don’t Share Sensitive Data with ChatGPT, Gemini.\nReported by EdTech Innovation Hub: Google DeepMind watermarks AI-designed proteins | ETIH EdTech News.\nReported by The Straits Times: OpenAI’s Altman says AI benefits warrant accepting some risks.\nConfirmed, per WXLV ABC 45: Trump launches Super Intelligence Force to keep U.S. leading AI, names top officials.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle unveiled Gemini 4 Argon, its new frontier model. Reported by Yahoo Tech: the model boosts performance and speeds up code, with new pricing and internal use.\nOpenAI hired former Greek artificial intelligence adviser Vassilis Koutsoumpas to lead global government artificial intelligence strategy. Reported by EdTech Innovation Hub.\nNVIDIA heavily backs what some call U.S. DeepSeek as it prepares to release an open-source model. Reported by 富途牛牛.\nChina's artificial intelligence models now trail US rivals by just 3 percent on benchmarks, down from 15 percent a year ago. Reported by Startup Fortune: DeepSeek narrows the artificial intelligence gap with the US.\nStill open per Saucon Source: ChatGPT discusses artificial intelligence peer pressure, culture, and emotional intelligence in a conversation with Eric Bartosz.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
