@@ -1,105 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T22:20:02Z",
- "hour": "2026-10-05T22:00:00Z",
+ "generated_at": "2026-10-05T23:20:02Z",
+ "hour": "2026-10-05T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+   "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
+   "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI adds invisible watermark to EU AI text to meet EU AI Act transparency rules.",
-   "published_at": "2026-10-05T20:36:48Z"
+   "summary_1line": "Reflection AI launches Beam, a 501B MoE model with 23B active params, scoring 80.9 on SWE-bench.",
+   "published_at": "2026-10-05T21:04:20Z"
   },
   {
-   "title": "Watch: Retired AI Robots Jump Into Fiery Vat Of Molten Steel",
-   "outlet": "WJRT ABC12",
-   "outlet_name": "WJRT ABC12",
-   "url": "https://www.abc12.com/video/watch-retired-ai-robots-jump-into-fiery-vat-of-molten-steel/video_1979e4df-61a8-5d44-b162-811528526c47.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Figure's robots jump into molten steel in real-life Terminator-style farewell.",
-   "published_at": "2026-10-05T19:12:00Z"
+   "title": "Anthropic launches Claude Frontier Academy to train 10,000 AI engineers",
+   "outlet": "Digital Watch Observatory",
+   "outlet_name": "Digital Watch Observatory",
+   "url": "https://dig.watch/updates/anthropic-claude-frontier-academy",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic trains 10,000 AI engineers by 2027 to deploy AI in organisations.",
+   "published_at": "2026-10-05T21:09:26Z"
   },
   {
-   "title": "Keeper Security Surpasses 100,000 Enterprise Customers",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
-   "url": "https://www.citybiz.co/article/914232/keeper-security-surpasses-100000-enterprise-customers/",
+   "title": "New Mexico Democrats accuse Senate Republicans of violating AI campaign law on misinformation",
+   "outlet": "News From The States",
+   "outlet_name": "News From The States",
+   "url": "https://www.newsfromthestates.com/article/new-mexico-democrats-accuse-senate-republicans-violating-ai-campaign-law-misinformation",
    "label": "CONFIRMED",
-   "summary_1line": "Keeper Security scales to 100K orgs, $240M ARR, with AI agent governance and enterprise integrations.",
-   "published_at": "2026-10-05T19:26:09Z"
+   "summary_1line": "Democrats accuse Republicans of violating AI campaign law with unmarked AI images.",
+   "published_at": "2026-10-05T21:58:51Z"
   },
   {
-   "title": "Ex-OpenAI researcher tells NYC lawmakers AI safety fixes may be 'duct tape that will fall off'",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "url": "http://fortune.com/2026/10/05/new-york-city-council-hearing-openai-anthropic-ai-safety-google-meta/",
-   "label": "CONFIRMED",
-   "summary_1line": "Former AI researchers warn of misaligned AI risks during NYC council hearing, prompting new AI safety regulations.",
-   "published_at": "2026-10-05T19:55:00Z"
+   "title": "Sam Altman Says the World Is Going to Have to Suffer for the Glories of AI",
+   "outlet": "Futurism",
+   "outlet_name": "Futurism",
+   "url": "https://futurism.com/artificial-intelligence/sam-altman-world-suffer-glories-ai",
+   "label": "STILL OPEN",
+   "summary_1line": "Altman argues AI progress should outweigh risks, calling for liability if models cause harm during training.",
+   "published_at": "2026-10-05T16:36:59Z"
   },
   {
-   "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-   "label": "CONFIRMED",
-   "summary_1line": "Zain Javaid launches AI-powered Core computer with local models and privacy focus.",
-   "published_at": "2026-10-05T18:40:41Z"
+   "title": "Nvidia lines up Wall Street giants for a $500 billion AI financing push",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/nvidia-500-billion-ai-financing-push/",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia partners with six Wall Street firms for $500B AI financing, offering 25% backstop on GPU-backed loans.",
+   "published_at": "2026-10-05T12:34:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI will start watermarking ChatGPT’s text in the EU",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters…",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+   "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/"
   },
   {
-   "headline": "Watch: Retired AI Robots Jump Into Fiery Vat Of Molten Steel",
-   "outlet": "WJRT ABC12",
-   "outlet_name": "WJRT ABC12",
-   "label": "CONFIRMED",
-   "url": "https://www.abc12.com/video/watch-retired-ai-robots-jump-into-fiery-vat-of-molten-steel/video_1979e4df-61a8-5d44-b162-811528526c47.html"
-  },
-  {
-   "headline": "Keeper Security Surpasses 100,000 Enterprise Customers",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
-   "label": "CONFIRMED",
-   "url": "https://www.citybiz.co/article/914232/keeper-security-surpasses-100000-enterprise-customers/"
-  },
-  {
-   "headline": "Ex-OpenAI researcher tells NYC lawmakers AI safety fixes may be 'duct tape that will fall…",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "label": "CONFIRMED",
-   "url": "http://fortune.com/2026/10/05/new-york-city-council-hearing-openai-anthropic-ai-safety-google-meta/"
-  },
-  {
-   "headline": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
-  },
-  {
-   "headline": "Google DeepMind Gives AI-Designed Proteins a Watermark",
-   "outlet": "SingularityHub",
-   "outlet_name": "SingularityHub",
+   "headline": "Anthropic launches Claude Frontier Academy to train 10,000 AI engineers",
+   "outlet": "Digital Watch Observatory",
+   "outlet_name": "Digital Watch Observatory",
    "label": "REPORTED",
-   "url": "https://singularityhub.com/2026/10/05/google-deepmind-gives-ai-designed-proteins-a-watermark/"
+   "url": "https://dig.watch/updates/anthropic-claude-frontier-academy"
   },
   {
-   "headline": "California Finalizes Next Wave of State AI and Privacy Regulation",
-   "outlet": "JDSupra",
-   "outlet_name": "JDSupra",
+   "headline": "New Mexico Democrats accuse Senate Republicans of violating AI campaign law on…",
+   "outlet": "News From The States",
+   "outlet_name": "News From The States",
+   "label": "CONFIRMED",
+   "url": "https://www.newsfromthestates.com/article/new-mexico-democrats-accuse-senate-republicans-violating-ai-campaign-law-misinformation"
+  },
+  {
+   "headline": "Sam Altman Says the World Is Going to Have to Suffer for the Glories of AI",
+   "outlet": "Futurism",
+   "outlet_name": "Futurism",
+   "label": "STILL OPEN",
+   "url": "https://futurism.com/artificial-intelligence/sam-altman-world-suffer-glories-ai"
+  },
+  {
+   "headline": "Nvidia lines up Wall Street giants for a $500 billion AI financing push",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
    "label": "REPORTED",
-   "url": "https://www.jdsupra.com/legalnews/california-finalizes-next-wave-of-state-1983295/"
+   "url": "https://cryptobriefing.com/nvidia-500-billion-ai-financing-push/"
+  },
+  {
+   "headline": "At OpenAI Forum, Discussion Focuses on Stronger Teen Safety Measures",
+   "outlet": "Education Week",
+   "outlet_name": "Education Week",
+   "label": "REPORTED",
+   "url": "https://www.edweek.org/technology/at-openai-forum-discussion-focuses-on-stronger-teen-safety-measures/2026/10"
   },
   {
    "headline": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
@@ -109,42 +102,49 @@
    "url": "https://www.marketscreener.com/news/nvidia-backed-reflection-unveils-first-ai-model-to-take-on-chinese-open-models-ce785dd8da80f227"
   },
   {
-   "headline": "California Signs Nation-Leading AI Chatbot and Social Media Laws: What Businesses Need to…",
-   "outlet": "retailconsumerproductslaw.com",
-   "outlet_name": "retailconsumerproductslaw.com",
-   "label": "REPORTED",
-   "url": "https://www.retailconsumerproductslaw.com/2026/10/california-signs-nation-leading-ai-chatbot-and-social-media-laws-what-businesses-need-to-know/"
-  },
-  {
-   "headline": "Anthropic whistleblower Jacob Coxon doubles down on AI warnings at NYC hearing…",
-   "outlet": "New York Post on MSN",
-   "outlet_name": "New York Post on MSN",
+   "headline": "California forces employers to disclose AI-driven layoffs under new law",
+   "outlet": "hcamag.com",
+   "outlet_name": "hcamag.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/anthropic-whistleblower-jacob-coxon-doubles-down-on-ai-warnings-at-nyc-hearing-extremely-reckless/ar-AA2dBNlp"
+   "url": "https://www.hcamag.com/us/specialization/hr-technology/california-forces-employers-to-disclose-ai-driven-layoffs-under-new-law/592324"
   },
   {
-   "headline": "India demands binding AI rules as White House self-policing accord draws scrutiny",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
+   "headline": "Nyc Council Holds Hearing With Ai Whistleblowers And Companies",
+   "outlet": "brooklyn.news12.com",
+   "outlet_name": "brooklyn.news12.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/money/general/india-demands-binding-ai-rules-as-white-house-self-policing-accord-draws-scrutiny/ar-AA2dCX7z"
+   "url": "https://brooklyn.news12.com/nyc-council-holds-hearing-with-ai-whistleblowers-and-companies"
   },
   {
-   "headline": "CPI | McDonald’s Hit With Antitrust Suit Over AI-Assisted Menu Pricing",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
+   "headline": "Wall Street tests lender appetite with $60 billion Broadcom-Anthropic deal - FT",
+   "outlet": "finance.yahoo.com",
+   "outlet_name": "finance.yahoo.com",
    "label": "REPORTED",
-   "url": "https://www.pymnts.com/cpi-posts/mcdonalds-hit-with-antitrust-suit-over-ai-assisted-menu-pricing/"
+   "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-tests-lender-appetite-214705266.html"
+  },
+  {
+   "headline": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+   "outlet": "research.google",
+   "outlet_name": "research.google",
+   "label": "CONFIRMED",
+   "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/"
+  },
+  {
+   "headline": "AI data centers vs. your electric bill: Here's what Congress is doing about it",
+   "outlet": "MoneyLion on MSN",
+   "outlet_name": "MoneyLion on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/ai-data-centers-vs-your-electric-bill-heres-what-congress-is-doing-about-it/ar-AA2dDpF9"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from four different outlets.",
- "articles_24h_rounded": 11900,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 12100,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/22.mp3",
- "audio_seconds": 49.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/23.mp3",
+ "audio_seconds": 62.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: OpenAI will start watermarking ChatGPT’s text in the EU.\nConfirmed, per WJRT ABC12: Watch: Retired AI Robots Jump Into Fiery Vat Of Molten Steel.\nConfirmed, per citybiz: Keeper Security Surpasses 100,000 Enterprise Customers.\nConfirmed, per Fortune: Ex-OpenAI researcher tells NYC lawmakers AI safety fixes may be 'duct tape that will fall off'.\nConfirmed, per TechCrunch: At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReflection AI launches Beam, a 501B MoE model with 23B active parameters, scoring 80.9 on SWE-bench. Confirmed by MarkTechPost.\nAnthropic trains 10,000 artificial intelligence engineers by 2027 to deploy artificial intelligence in organisations. Reported by Digital Watch Observatory.\nNew Mexico Democrats accuse Republicans of violating an artificial intelligence campaign law with unmarked artificial intelligence images. Confirmed by News From The States.\nSam Altman argues artificial intelligence progress should outweigh risks, calling for liability if models cause harm during training. Still open, per Futurism.\nNvidia partners with six Wall Street firms for 500 billion dollars in artificial intelligence financing, offering 25 percent backstop on GPU-backed loans. Reported by Crypto Briefing.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
