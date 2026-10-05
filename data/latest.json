@@ -1,98 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T07:20:01Z",
- "hour": "2026-10-05T07:00:00Z",
+ "generated_at": "2026-10-05T08:20:01Z",
+ "hour": "2026-10-05T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Tech Bytes: Google unveils Gemini 4 Argon as AI race shifts to autonomous work",
-   "outlet": "Yahoo Finance Australia",
-   "outlet_name": "Yahoo Finance Australia",
-   "url": "https://au.finance.yahoo.com/news/tech-bytes-google-unveils-gemini-235500704.html",
-   "label": "REPORTED",
-   "summary_1line": "Google's Gemini 4 Argon enables long, complex professional tasks with 1M-token capacity and internal use.",
-   "published_at": "2026-10-04T23:55:00Z"
-  },
-  {
-   "title": "AI self-policing proven failure: Former FTC chair",
-   "outlet": "Telangana Today",
-   "outlet_name": "Telangana Today",
-   "url": "https://telanganatoday.com/ai-self-policing-proven-failure-former-ftc-chair",
-   "label": "REPORTED",
-   "summary_1line": "Khan warns AI self-regulation is a proven failure, urging legal action and oversight.",
-   "published_at": "2026-10-05T05:53:59Z"
-  },
-  {
-   "title": "DeepSeek and Huawei take aim at Nvidia’s formidable moat",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
-   "url": "https://www.businesstimes.com.sg/opinion-features/deepseek-and-huawei-take-aim-nvidias-formidable-moat",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek and Huawei team up to challenge Nvidia's software dominance in China.",
-   "published_at": "2026-10-05T05:00:00Z"
-  },
-  {
-   "title": "Google Gemini cited in $69K crypto scam report",
-   "outlet": "Crypto News",
-   "outlet_name": "Crypto News",
-   "url": "https://crypto.news/google-gemini-cited-in-69k-crypto-scam-report/",
-   "label": "STILL OPEN",
-   "summary_1line": "Google Gemini allegedly recommended a scam site, leading to $69K in crypto losses.",
-   "published_at": "2026-10-05T05:21:00Z"
-  },
-  {
-   "title": "Internet Watch Foundation reports huge rise in AI child sexual abuse material",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
+   "title": "Google Gemini drops Flash and Pro for free users on October 9",
+   "outlet": "Notebookcheck",
+   "outlet_name": "Notebookcheck",
+   "url": "https://www.notebookcheck.net/Google-Gemini-drops-Flash-and-Pro-for-free-users-on-October-9.1415964.0.html",
    "label": "CONFIRMED",
-   "summary_1line": "AI-generated child abuse material surged in 2026, prompting calls for new UK AI regulations.",
-   "published_at": "2026-10-05T05:00:49Z"
+   "summary_1line": "Google removes Flash and Pro from free Gemini, replacing with Flash-Lite on October 9.",
+   "published_at": "2026-10-05T06:56:00Z"
+  },
+  {
+   "title": "Claude comes closer to India’s data: Anthropic brings in-country inference to AWS",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
+   "url": "https://economictimes.indiatimes.com/ai/ai-insights/claude-comes-closer-to-indias-data-anthropic-brings-in-country-inference-to-aws/articleshow/134688317.cms",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic offers India-based AI processing for Claude models to meet data residency needs.",
+   "published_at": "2026-10-05T06:31:48Z"
+  },
+  {
+   "title": "Nvidia Partner Hon Hai Beats Sales Estimates Due to AI Frenzy",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-partner-hon-hai-beats-sales-estimates-due-to-ai-frenzy",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-05T07:43:15Z"
+  },
+  {
+   "title": "The Story of Qwen: Alibaba's AI Models From 7B to 2.4T",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
+   "url": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/",
+   "label": "REPORTED",
+   "summary_1line": "Alibaba's Qwen evolved from 2023 to 2025, culminating in a 1-trillion-parameter model with multimodal and hybrid reasoning capabilities.",
+   "published_at": "2026-10-05T04:10:34Z"
+  },
+  {
+   "title": "Nvidia’s Valuations Show AI Rally Isn’t a Bubble, DBS Says",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-s-valuations-show-ai-rally-isn-t-a-bubble-dbs-says",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-05T07:04:29Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Tech Bytes: Google unveils Gemini 4 Argon as AI race shifts to autonomous work",
-   "outlet": "Yahoo Finance Australia",
-   "outlet_name": "Yahoo Finance Australia",
-   "label": "REPORTED",
-   "url": "https://au.finance.yahoo.com/news/tech-bytes-google-unveils-gemini-235500704.html"
-  },
-  {
-   "headline": "AI self-policing proven failure: Former FTC chair",
-   "outlet": "Telangana Today",
-   "outlet_name": "Telangana Today",
-   "label": "REPORTED",
-   "url": "https://telanganatoday.com/ai-self-policing-proven-failure-former-ftc-chair"
-  },
-  {
-   "headline": "DeepSeek and Huawei take aim at Nvidia’s formidable moat",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
-   "label": "REPORTED",
-   "url": "https://www.businesstimes.com.sg/opinion-features/deepseek-and-huawei-take-aim-nvidias-formidable-moat"
-  },
-  {
-   "headline": "Google Gemini cited in $69K crypto scam report",
-   "outlet": "Crypto News",
-   "outlet_name": "Crypto News",
-   "label": "STILL OPEN",
-   "url": "https://crypto.news/google-gemini-cited-in-69k-crypto-scam-report/"
-  },
-  {
-   "headline": "Internet Watch Foundation reports huge rise in AI child sexual abuse material",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "Google Gemini drops Flash and Pro for free users on October 9",
+   "outlet": "Notebookcheck",
+   "outlet_name": "Notebookcheck",
    "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material"
+   "url": "https://www.notebookcheck.net/Google-Gemini-drops-Flash-and-Pro-for-free-users-on-October-9.1415964.0.html"
   },
   {
-   "headline": "Anthropic Brings Claude Inference to India Through Amazon Bedrock",
-   "outlet": "CIOL",
-   "outlet_name": "CIOL",
+   "headline": "Claude comes closer to India’s data: Anthropic brings in-country inference to AWS",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
+   "label": "CONFIRMED",
+   "url": "https://economictimes.indiatimes.com/ai/ai-insights/claude-comes-closer-to-indias-data-anthropic-brings-in-country-inference-to-aws/articleshow/134688317.cms"
+  },
+  {
+   "headline": "Nvidia Partner Hon Hai Beats Sales Estimates Due to AI Frenzy",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://www.ciol.com/news/anthropic-brings-claude-inference-to-india-through-amazon-bedrock-12624247"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-partner-hon-hai-beats-sales-estimates-due-to-ai-frenzy"
+  },
+  {
+   "headline": "The Story of Qwen: Alibaba's AI Models From 7B to 2.4T",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
+   "label": "REPORTED",
+   "url": "https://www.marktechpost.com/2026/10/04/the-story-of-qwen-alibabas-ai-models-from-7b-to-2-4t/"
+  },
+  {
+   "headline": "Nvidia’s Valuations Show AI Rally Isn’t a Bubble, DBS Says",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-s-valuations-show-ai-rally-isn-t-a-bubble-dbs-says"
   },
   {
    "headline": "Trump Launches ‘Super Intelligence Force’ to Drive US AI Leadership",
@@ -102,18 +95,25 @@
    "url": "https://cryptonews.com.au/news/trump-launches-super-intelligence-force-to-drive-us-ai-leadership-135105/"
   },
   {
-   "headline": "Google Gemini plans are changing from October 9: Free, AI Plus users face new limits on…",
-   "outlet": "Business Today",
-   "outlet_name": "Business Today",
-   "label": "REPORTED",
-   "url": "https://www.businesstoday.in/technology/news/story/google-gemini-plans-are-changing-from-october-9-free-ai-plus-users-face-new-limits-on-ai-model-access-559434-2026-10-05"
+   "headline": "Making AI training available to UK and Ireland educators",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/"
   },
   {
-   "headline": "Watch Chinese AI Labs Catch Up to OpenAI, Anthropic",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "Nubank Alum Launches Decade to Give Money an AI Copilot",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU0o4cDdQZUJ2aUFrenZtbERaZEI3VU9TQ3FyX3hYQnkxOGNxSjN2bTYySllyTUVyNENGVGtKdVhXMUpERFRWdjU1b0lRampjSnJIdjlNQnNZVTZ3WVBNTGl6UUZaZDVYR0pJdEMzZ3czVXdBT3gySGluQzVaZ0k0V1BpMXZNZw?oc=5"
+   "url": "https://www.pymnts.com/news/investment-tracker/2026/nubank-alum-launches-decade-to-give-money-an-ai-copilot/"
+  },
+  {
+   "headline": "Big Tech Pulls AI Releases After Agent Hacks; Scholars Call It Self-Grading",
+   "outlet": "en.sedaily.com",
+   "outlet_name": "en.sedaily.com",
+   "label": "REPORTED",
+   "url": "https://en.sedaily.com/international/2026/10/05/big-tech-pulls-ai-releases-after-agent-hacks-scholars-call"
   },
   {
    "headline": "Anthropic launches first Academy for Enterprise AI Engineers",
@@ -123,28 +123,28 @@
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3JGMjJpaWplc3Bjbk5kT2Zpc1pSemNibW82TjQ5NXNYcDBYNHNnM2R0d01Ba2xLQTBBSFYxNmVmRjBFMzVhM2VsZ0ZCVGE0OWpOYlBMRlNMR3VYVGR3bVgyano4VWRHRjhKaHRaVTNWN0hKd25zUEVuM2IySEZEc1Y0a0cyQkFMV3RtU2pYZ1Yxd9IBlwFBVV95cUxNRWpLZVZyc3ZNN1BCQUZXZm1GcGNTMWFra3o3Z2tMcmhxRzNQSlNqTlcwTTk5bUt6UFlmR1V4cmNBVjE3cmt1cU9rNTV2Mm84X1RhY3dSYnlTanRvV0FONUZWY0pLd0RGRlNVZ0lGbFVDYUZHbGxrekVMMmlJWlVsSVZvSXJFT0tkd0FsMVpsSEUwSmF1cmlj?oc=5"
   },
   {
-   "headline": "Making AI training available to UK and Ireland educators",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "OpenAI safety employee resigns, says 'Time for trial and error is over'",
+   "outlet": "Times Now on MSN",
+   "outlet_name": "Times Now on MSN",
    "label": "REPORTED",
-   "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/"
+   "url": "https://www.msn.com/en-in/news/other/openai-safety-employee-resigns-says-time-for-trial-and-error-is-over/ar-AA2dzX3s"
   },
   {
-   "headline": "Pitch deck: French AI pentesting startup Fleuret AI raises €4M pre-seed",
-   "outlet": "techfundingnews.com",
-   "outlet_name": "techfundingnews.com",
-   "label": "STILL OPEN",
-   "url": "https://techfundingnews.com/fleuret-ai-raises-4m-pre-seed-raise-ventures-autonomous-pentesting/"
+   "headline": "Exclusive: Foreign models dominate government AI platform, contradicting sovereign AI…",
+   "outlet": "The Chosun Ilbo on MSN",
+   "outlet_name": "The Chosun Ilbo on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-xl/technology/artificial-intelligence/exclusive-foreign-models-dominate-government-ai-platform-contradicting-sovereign-ai-policy/ar-AA2dAtex"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 8700,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 8800,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/07.mp3",
- "audio_seconds": 68.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/08.mp3",
+ "audio_seconds": 43.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle unveiled Gemini 4 Argon, a new model enabling long, complex professional tasks with 1M-token capacity for internal use. Reported by Yahoo Finance Australia.\nKhan, former FTC chair, warns that artificial intelligence self-regulation is a proven failure and urges legal action and oversight. Reported by Telangana Today.\nDeepSeek and Huawei are teaming up to challenge Nvidia's software dominance in China. Reported by The Business Times.\nGoogle Gemini was allegedly cited in a $69K crypto scam report, with the chatbot recommending a scam site. Still open, per Crypto News.\nThe Internet Watch Foundation reports a huge rise in artificial intelligence-generated child sexual abuse material in 2026, prompting calls for new UK artificial intelligence regulations. Confirmed by The Guardian.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Notebookcheck: Google Gemini drops Flash and Pro for free users on October 9.\nConfirmed, per The Economic Times: Claude comes closer to India’s data: Anthropic brings in-country inference to AWS.\nReported by Bloomberg: Nvidia Partner Hon Hai Beats Sales Estimates Due to AI Frenzy.\nReported by MarkTechPost: The Story of Qwen: Alibaba's AI Models From 7B to 2.4T.\nReported by Bloomberg: Nvidia’s Valuations Show AI Rally Isn’t a Bubble, DBS Says.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
