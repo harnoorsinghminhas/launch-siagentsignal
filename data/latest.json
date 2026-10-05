@@ -1,105 +1,70 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T11:20:01Z",
- "hour": "2026-10-05T11:00:00Z",
+ "generated_at": "2026-10-05T12:20:01Z",
+ "hour": "2026-10-05T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Ex-Anthropic researcher Coxon to testify at NYC hearing on AI",
-   "outlet": "The Edge Malaysia",
-   "outlet_name": "The Edge Malaysia",
-   "url": "https://theedgemalaysia.com/node/820465",
+   "title": "‘This pause is due to a significant rise in automated submissions, the vast majority of which are not valid’: Google pauses open source bug bounty scheme over AI slop submissions",
+   "outlet": "IT Pro",
+   "outlet_name": "IT Pro",
+   "url": "https://www.itpro.com/software/open-source/this-pause-is-due-to-a-significant-rise-in-automated-submissions-the-vast-majority-of-which-are-not-valid-google-pauses-open-source-bug-bounty-scheme-over-ai-slop-submissions",
    "label": "CONFIRMED",
-   "summary_1line": "AI critics testify at NYC hearing as lawmakers push for AI safety and whistleblower protections.",
-   "published_at": "2026-10-05T02:02:30Z"
+   "summary_1line": "Google pauses open source bug bounty over AI-generated invalid submissions.",
+   "published_at": "2026-10-05T09:23:36Z"
   },
   {
-   "title": "OpenAI Lawsuit Tests Who Is Liable When AI Agents Go Rogue",
-   "outlet": "Cyber Magazine",
-   "outlet_name": "Cyber Magazine",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEs4UnBvMmJjMm5UbHpGOHRtZGlOaHBoQkRpUGJTRVFTcFZ4WVdaQ1dpemZyRV9BSi1DbUREbThKSEo4emk0SjJscHVVcE10OXN0QkZlMmJHM0VMaGFYUFg5bnlwWXB5blo2Vnd2YTFCVGNTR2RSSHFYSXZMbndkUnY4ZG9xcHJGR0Ywa29tbGpRZTA?oc=5",
+   "title": "A US appeals court has rejected a ‘fair use’ defense over AI training. What does it mean for the labels’ fight with Suno?",
+   "outlet": "Music Business Worldwide",
+   "outlet_name": "Music Business Worldwide",
+   "url": "https://www.musicbusinessworldwide.com/a-us-appeals-court-has-rejected-a-fair-use-defense-over-ai-training-what-does-it-mean-for-the-labels-fight-with-suno/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-05T10:27:13Z"
+   "summary_1line": "Court rules AI training on copyrighted headnotes isn't fair use, citing market and originality concerns.",
+   "published_at": "2026-10-05T10:01:47Z"
   },
   {
-   "title": "TrendAI Vision One Expands Claude API Support for AI Agents",
-   "outlet": "IT Voice Media",
-   "outlet_name": "IT Voice Media",
-   "url": "https://www.itvoice.in/trendai-vision-one-extends-claude-compliance-api-integration-to-cover-claude-code-and-cowork-sessions",
-   "label": "REPORTED",
-   "summary_1line": "TrendAI adds AI agent activity monitoring to its Vision One platform via Claude’s Compliance API.",
-   "published_at": "2026-10-05T09:00:38Z"
+   "title": "Google is limiting Gemini models’ access for free and AI Plus users starting October 9: What is changing",
+   "outlet": "The Times of India on MSN",
+   "outlet_name": "The Times of India on MSN",
+   "url": "https://www.msn.com/en-in/news/other/google-is-limiting-gemini-models-access-for-free-and-ai-plus-users-starting-october-9-what-is-changing/ar-AA2dAsBT",
+   "label": "CONFIRMED",
+   "summary_1line": "Google limits AI model access by tier, capping free users at Flash-Lite and boosting paid tiers with higher usage limits.",
+   "published_at": "2026-10-05T02:08:00Z"
   },
   {
-   "title": "OpenAI Launches Visual Ads in ChatGPT with New Measurement Tools",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOTg3UUtEeXFxcnJnUl9GWi03akVhY1R2UDZ4akxmZGxDRWVVajJhdUwtWG1xRHpxQmE1NzBCZjQ3WnJ5emh1Uzc2eWw0a0xpdklnWllGTTNNUzlWdTFTRUdlSklacUljcXk1SVpVQUdCa1d1bl9PLVNhbkxYOEhBVmR6ODZTNEx5Ql81UC1sRlhRdGo1YXVXbkVDMkFHUQ?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-05T10:37:00Z"
+   "title": "Anthropic Claude models get local inference in India via Amazon Bedrock: What it means for you",
+   "outlet": "Business Today on MSN",
+   "outlet_name": "Business Today on MSN",
+   "url": "https://www.msn.com/en-in/money/topstories/anthropic-claude-models-get-local-inference-in-india-via-amazon-bedrock-what-it-means-for-you/ar-AA2dAwUj",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic launches local AI inference in India for data-sensitive sectors via Amazon Bedrock.",
+   "published_at": "2026-10-05T01:00:03Z"
   },
   {
-   "title": "PitchBook: Anthropic’s Leaked Financials Reflect Fast Growth, but Not a $2 Trillion Valuation",
-   "outlet": "Morningstar",
-   "outlet_name": "Morningstar",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFVoV043WkNHQmVhQ0R2Umpkd29NSExyT194X3Q5ODdSZUhGLUl1bmVicU55LVNZRFlDZEswQkNacV9GX3lzM0Z4S0FkSU1VVGthYVNqNWc4dExpR3dEVGZYUWJXaXBLRmtkRVU5VkFfSHNtdlg4eF9iU0Q2REloTHJrSUZOYklXOER0SlEzVGZYcS1yVmljaHMxM0NZSU1LdzAycjRnMlE1MExYN3l0T2ZUZHlfOXE0VGxmWnBmajEwN1o3UXRB?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-05T10:04:57Z"
+   "title": "OpenAI will show visual ads in ChatGPT while you generate images",
+   "outlet": "bleepingcomputer.com",
+   "outlet_name": "bleepingcomputer.com",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI tests visual ads in ChatGPT for U.S. users, targeting 1.2 billion weekly users.",
+   "published_at": "2026-10-05T10:28:45Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Ex-Anthropic researcher Coxon to testify at NYC hearing on AI",
-   "outlet": "The Edge Malaysia",
-   "outlet_name": "The Edge Malaysia",
+   "headline": "‘This pause is due to a significant rise in automated submissions, the vast majority of…",
+   "outlet": "IT Pro",
+   "outlet_name": "IT Pro",
    "label": "CONFIRMED",
-   "url": "https://theedgemalaysia.com/node/820465"
+   "url": "https://www.itpro.com/software/open-source/this-pause-is-due-to-a-significant-rise-in-automated-submissions-the-vast-majority-of-which-are-not-valid-google-pauses-open-source-bug-bounty-scheme-over-ai-slop-submissions"
   },
   {
-   "headline": "OpenAI Lawsuit Tests Who Is Liable When AI Agents Go Rogue",
-   "outlet": "Cyber Magazine",
-   "outlet_name": "Cyber Magazine",
+   "headline": "A US appeals court has rejected a ‘fair use’ defense over AI training. What does it mean…",
+   "outlet": "Music Business Worldwide",
+   "outlet_name": "Music Business Worldwide",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUEs4UnBvMmJjMm5UbHpGOHRtZGlOaHBoQkRpUGJTRVFTcFZ4WVdaQ1dpemZyRV9BSi1DbUREbThKSEo4emk0SjJscHVVcE10OXN0QkZlMmJHM0VMaGFYUFg5bnlwWXB5blo2Vnd2YTFCVGNTR2RSSHFYSXZMbndkUnY4ZG9xcHJGR0Ywa29tbGpRZTA?oc=5"
-  },
-  {
-   "headline": "TrendAI Vision One Expands Claude API Support for AI Agents",
-   "outlet": "IT Voice Media",
-   "outlet_name": "IT Voice Media",
-   "label": "REPORTED",
-   "url": "https://www.itvoice.in/trendai-vision-one-extends-claude-compliance-api-integration-to-cover-claude-code-and-cowork-sessions"
-  },
-  {
-   "headline": "OpenAI Launches Visual Ads in ChatGPT with New Measurement Tools",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOTg3UUtEeXFxcnJnUl9GWi03akVhY1R2UDZ4akxmZGxDRWVVajJhdUwtWG1xRHpxQmE1NzBCZjQ3WnJ5emh1Uzc2eWw0a0xpdklnWllGTTNNUzlWdTFTRUdlSklacUljcXk1SVpVQUdCa1d1bl9PLVNhbkxYOEhBVmR6ODZTNEx5Ql81UC1sRlhRdGo1YXVXbkVDMkFHUQ?oc=5"
-  },
-  {
-   "headline": "PitchBook: Anthropic’s Leaked Financials Reflect Fast Growth, but Not a $2 Trillion…",
-   "outlet": "Morningstar",
-   "outlet_name": "Morningstar",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdFVoV043WkNHQmVhQ0R2Umpkd29NSExyT194X3Q5ODdSZUhGLUl1bmVicU55LVNZRFlDZEswQkNacV9GX3lzM0Z4S0FkSU1VVGthYVNqNWc4dExpR3dEVGZYUWJXaXBLRmtkRVU5VkFfSHNtdlg4eF9iU0Q2REloTHJrSUZOYklXOER0SlEzVGZYcS1yVmljaHMxM0NZSU1LdzAycjRnMlE1MExYN3l0T2ZUZHlfOXE0VGxmWnBmajEwN1o3UXRB?oc=5"
-  },
-  {
-   "headline": "Our minds aren’t equipped to handle AI",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "label": "REPORTED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought"
-  },
-  {
-   "headline": "Germany's Aleph Alpha releases Kolibri, a sovereign AI model for mission-critical…",
-   "outlet": "EU-Startups",
-   "outlet_name": "EU-Startups",
-   "label": "REPORTED",
-   "url": "https://www.eu-startups.com/2026/10/germanys-aleph-alpha-releases-kolibri-a-sovereign-ai-model-for-mission-critical-government-and-industry-applications/"
+   "url": "https://www.musicbusinessworldwide.com/a-us-appeals-court-has-rejected-a-fair-use-defense-over-ai-training-what-does-it-mean-for-the-labels-fight-with-suno/"
   },
   {
    "headline": "Google is limiting Gemini models’ access for free and AI Plus users starting October 9…",
@@ -109,6 +74,34 @@
    "url": "https://www.msn.com/en-in/news/other/google-is-limiting-gemini-models-access-for-free-and-ai-plus-users-starting-october-9-what-is-changing/ar-AA2dAsBT"
   },
   {
+   "headline": "Anthropic Claude models get local inference in India via Amazon Bedrock: What it means…",
+   "outlet": "Business Today on MSN",
+   "outlet_name": "Business Today on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/money/topstories/anthropic-claude-models-get-local-inference-in-india-via-amazon-bedrock-what-it-means-for-you/ar-AA2dAwUj"
+  },
+  {
+   "headline": "OpenAI will show visual ads in ChatGPT while you generate images",
+   "outlet": "bleepingcomputer.com",
+   "outlet_name": "bleepingcomputer.com",
+   "label": "CONFIRMED",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-will-show-visual-ads-in-chatgpt-while-you-generate-images/"
+  },
+  {
+   "headline": "Crunchbase Data: Q3 2026 Posted A Record Count Of Billion-Dollar Rounds As The Global AI…",
+   "outlet": "news.crunchbase.com",
+   "outlet_name": "news.crunchbase.com",
+   "label": "CONFIRMED",
+   "url": "https://news.crunchbase.com/venture/q3-2026-global-startup-funding-ai-billion-dollar-rounds-exits-data/"
+  },
+  {
+   "headline": "Rogue OpenAI AI agents are hacking websites and costing Sam Altman $500,000 daily",
+   "outlet": "India Today on MSN",
+   "outlet_name": "India Today on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/rogue-openai-ai-agents-are-hacking-websites-and-costing-sam-altman-500000-daily/ar-AA2dAK9O"
+  },
+  {
    "headline": "AI makes the discovery of legitimate cybersecurity threats more difficult",
    "outlet": "htxt.co.za",
    "outlet_name": "htxt.co.za",
@@ -116,35 +109,42 @@
    "url": "https://htxt.co.za/2026/10/ai-makes-the-discovery-of-legitimate-cybersecurity-threats-more-difficult/"
   },
   {
-   "headline": "America's Answer to DeepSeek Arrives",
-   "outlet": "marketscreener.com",
-   "outlet_name": "marketscreener.com",
+   "headline": "OpenAI safety lead quits, questions AI’s current path",
+   "outlet": "YourStory.com",
+   "outlet_name": "YourStory.com",
    "label": "REPORTED",
-   "url": "https://www.marketscreener.com/news/america-s-answer-to-deepseek-arrives-ce785ddbd188fe22"
+   "url": "https://yourstory.com/ai-story/openai-safety-lead-quits-ai-current-path"
   },
   {
-   "headline": "Woman used Claude as diary, Anthropic alerted police and got her arrested",
-   "outlet": "indiatoday.in",
-   "outlet_name": "indiatoday.in",
+   "headline": "DeepSeek cuts China’s AI gap with US rivals to just 3%",
+   "outlet": "YourStory.com",
+   "outlet_name": "YourStory.com",
    "label": "REPORTED",
-   "url": "https://www.indiatoday.in/amp/technology/news/story/woman-used-claude-as-diary-anthropic-alerted-police-and-got-her-arrested-3009775-2026-10-05"
+   "url": "https://yourstory.com/ai-story/deepseek-china-ai-gap-us-3-percent"
   },
   {
-   "headline": "Saudi Arabia-based Idraj.AI raises US$598,000 to bring artificial intelligence to the IPO…",
-   "outlet": "Incarabia English on MSN",
-   "outlet_name": "Incarabia English on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-ae/news/other/saudi-arabia-based-idrajai-raises-us-598000-to-bring-artificial-intelligence-to-the-ipo-process-in-the-kingdom/ar-AA2dAxbr"
+   "headline": "OpenAI Purchases Tens of Thousands of Mac minis, Mac Studios",
+   "outlet": "techrepublic.com",
+   "outlet_name": "techrepublic.com",
+   "label": "STILL OPEN",
+   "url": "https://www.techrepublic.com/article/news-openai-mac-mini-mac-studio-ai-agents/"
+  },
+  {
+   "headline": "Anthropic commits $100M to launch Claude Frontier Academy for enterprise AI deployment",
+   "outlet": "Adgully.com",
+   "outlet_name": "Adgully.com",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb2YzS09JeTNYdk9LV2JaQW8xcV9WcWIydUFVYzNvemlQZ25qNm1PQ0xrRlFKZndNLUl5N0RFYzdpMkpWU1lvNnBWMmZSNmxJN2JEX0hyVU5XMXlpSmI1UU04ZE5hTGZUOVlHX0Vwa1BMS3ZiY0pzRXJCdDRRZFFZYlp0Y1NNMWhaMmNHM3o4UWVCMmZxYmtoVGN4RXdJc01kSUoyQmFFZ3lWVTlSQ3B6N3RSb3o0UnFRekFiMg?oc=5"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 9400,
- "articles_24h_label": "about 9,000",
+ "tidbit": "Did you know… about 10,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 9600,
+ "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/11.mp3",
- "audio_seconds": 55.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/12.mp3",
+ "audio_seconds": 66.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAn ex-Anthropic researcher will testify at a New York City hearing as lawmakers push for safety and whistleblower protections, confirmed by The Edge Malaysia.\nA lawsuit is testing who bears responsibility when artificial intelligence agents malfunction, reported by Cyber Magazine.\nTrendAI Vision One expanded its Claude API support for artificial intelligence agents, reported by IT Voice Media, adding agent activity monitoring through Claude's Compliance API.\nOpenAI launched visual advertisements in ChatGPT along with new measurement tools, reported by The Tech Buzz.\nAnthropic's leaked financials show rapid growth but don't support a 2 trillion dollar valuation, reported by Morningstar via PitchBook analysis.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle paused its open source bug bounty program. Confirmed by IT Pro: a significant rise in automated submissions, the vast majority of which are not valid.\nA US appeals court rejected a fair use defense over artificial intelligence training. Reported by Music Business Worldwide: the ruling cited market and originality concerns in the labels' fight with Suno.\nGoogle is limiting Gemini models' access for free and artificial intelligence Plus users starting October 9. Confirmed by The Times of India on MSN: free users are capped at Flash-Lite while paid tiers get higher usage limits.\nAnthropic Claude models now get local inference in India via Amazon Bedrock. Confirmed by Business Today on MSN: this launch supports data-sensitive sectors.\nOpenAI will show visual ads in ChatGPT while you generate images. Confirmed by bleepingcomputer dot com: the test targets 1.2 billion weekly users in the US.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
