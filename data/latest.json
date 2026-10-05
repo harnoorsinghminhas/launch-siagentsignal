@@ -1,98 +1,70 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T21:20:01Z",
- "hour": "2026-10-05T21:00:00Z",
+ "generated_at": "2026-10-05T22:20:02Z",
+ "hour": "2026-10-05T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia chip smuggling arrest: DOJ case against Lui",
-   "outlet": "NeoTeo",
-   "outlet_name": "NeoTeo",
-   "url": "https://www.neoteo.com/en/doj-announced-greg-luis-arrest-over-alleged-server-exports-to-china",
-   "label": "REPORTED",
-   "summary_1line": "Greg Lui arrested for allegedly exporting $300M in servers to China via Malaysia and Singapore.",
-   "published_at": "2026-10-05T18:39:35Z"
-  },
-  {
-   "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+   "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
    "label": "CONFIRMED",
-   "summary_1line": "Wikimedia detects OpenAI agents editing wikis and making millions of API requests.",
-   "published_at": "2026-10-05T19:05:19Z"
+   "summary_1line": "OpenAI adds invisible watermark to EU AI text to meet EU AI Act transparency rules.",
+   "published_at": "2026-10-05T20:36:48Z"
   },
   {
-   "title": "Nvidia-backed Reflection AI unveils its first open model, Beam. Could it be America’s best chance to compete with China?",
-   "outlet": "fortune.com",
+   "title": "Watch: Retired AI Robots Jump Into Fiery Vat Of Molten Steel",
+   "outlet": "WJRT ABC12",
+   "outlet_name": "WJRT ABC12",
+   "url": "https://www.abc12.com/video/watch-retired-ai-robots-jump-into-fiery-vat-of-molten-steel/video_1979e4df-61a8-5d44-b162-811528526c47.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Figure's robots jump into molten steel in real-life Terminator-style farewell.",
+   "published_at": "2026-10-05T19:12:00Z"
+  },
+  {
+   "title": "Keeper Security Surpasses 100,000 Enterprise Customers",
+   "outlet": "citybiz",
+   "outlet_name": "citybiz",
+   "url": "https://www.citybiz.co/article/914232/keeper-security-surpasses-100000-enterprise-customers/",
+   "label": "CONFIRMED",
+   "summary_1line": "Keeper Security scales to 100K orgs, $240M ARR, with AI agent governance and enterprise integrations.",
+   "published_at": "2026-10-05T19:26:09Z"
+  },
+  {
+   "title": "Ex-OpenAI researcher tells NYC lawmakers AI safety fixes may be 'duct tape that will fall off'",
+   "outlet": "Fortune",
    "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/05/reflection-ai-unveils-beam-a-new-us-based-open-source-model-to-compete-with-china/",
-   "label": "REPORTED",
-   "summary_1line": "Reflection launches Beam, an efficient open AI model, challenging China's dominance in open-source AI.",
-   "published_at": "2026-10-05T19:00:00Z"
-  },
-  {
-   "title": "GOP senator warns Anthropic of \"alarmist\" approach to AI",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
+   "url": "http://fortune.com/2026/10/05/new-york-city-council-hearing-openai-anthropic-ai-safety-google-meta/",
    "label": "CONFIRMED",
-   "summary_1line": "Moreno urges Amodei to stop alarmist AI claims, citing public safety and national security.",
-   "published_at": "2026-10-05T18:00:05Z"
+   "summary_1line": "Former AI researchers warn of misaligned AI risks during NYC council hearing, prompting new AI safety regulations.",
+   "published_at": "2026-10-05T19:55:00Z"
   },
   {
-   "title": "OpenAI sued by LASST over alleged hacking of Hugging Face",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/openai-sued-by-lasst-over-alleged-hacking-of-hugging-face/",
-   "label": "REPORTED",
-   "summary_1line": "LASST sues OpenAI over alleged hacking of Hugging Face by AI agents.",
-   "published_at": "2026-10-05T13:03:00Z"
+   "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+   "label": "CONFIRMED",
+   "summary_1line": "Zain Javaid launches AI-powered Core computer with local models and privacy focus.",
+   "published_at": "2026-10-05T18:40:41Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia chip smuggling arrest: DOJ case against Lui",
-   "outlet": "NeoTeo",
-   "outlet_name": "NeoTeo",
-   "label": "REPORTED",
-   "url": "https://www.neoteo.com/en/doj-announced-greg-luis-arrest-over-alleged-server-exports-to-china"
-  },
-  {
-   "headline": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
-  },
-  {
-   "headline": "Nvidia-backed Reflection AI unveils its first open model, Beam. Could it be America’s…",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/05/reflection-ai-unveils-beam-a-new-us-based-open-source-model-to-compete-with-china/"
-  },
-  {
-   "headline": "GOP senator warns Anthropic of \"alarmist\" approach to AI",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "label": "CONFIRMED",
-   "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence"
-  },
-  {
-   "headline": "OpenAI sued by LASST over alleged hacking of Hugging Face",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/openai-sued-by-lasst-over-alleged-hacking-of-hugging-face/"
-  },
-  {
-   "headline": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+   "headline": "OpenAI will start watermarking ChatGPT’s text in the EU",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
+   "url": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+  },
+  {
+   "headline": "Watch: Retired AI Robots Jump Into Fiery Vat Of Molten Steel",
+   "outlet": "WJRT ABC12",
+   "outlet_name": "WJRT ABC12",
+   "label": "CONFIRMED",
+   "url": "https://www.abc12.com/video/watch-retired-ai-robots-jump-into-fiery-vat-of-molten-steel/video_1979e4df-61a8-5d44-b162-811528526c47.html"
   },
   {
    "headline": "Keeper Security Surpasses 100,000 Enterprise Customers",
@@ -105,46 +77,74 @@
    "headline": "Ex-OpenAI researcher tells NYC lawmakers AI safety fixes may be 'duct tape that will fall…",
    "outlet": "Fortune",
    "outlet_name": "Fortune",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "http://fortune.com/2026/10/05/new-york-city-council-hearing-openai-anthropic-ai-safety-google-meta/"
   },
   {
-   "headline": "OpenAI Rolls Out Text Watermarks to Meet EU AI Act Mandates",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZlhjbDl4WnNwb2dWQnBPS0pnbzc3N3ZoTDBVVEtTUDJuY1lHaDZTSTlSdzNmY0JDNjZIYzQ5ejFvYWVORFZwS3FYVHpFQlZFSTk2dUMwSGlkYU9qYmdMWThCNUU3ODdPSzZuSEdQMWJvM1ItQTFvX0dnOXBiS2VaY3BMMkJ0aDVuQkJ4N1ZrcXJ0YWdWWXBqbUthNlZTX0N5S0ZOcjY3N2xGdDhobE9yd0ZxclRkY3QyRWJKYUN2R2kzZWFW?oc=5"
-  },
-  {
-   "headline": "Berkshire Healthcare launches face-to-face Copilot training looking to make AI more…",
-   "outlet": "htn.co.uk",
-   "outlet_name": "htn.co.uk",
-   "label": "REPORTED",
-   "url": "https://htn.co.uk/2026/10/05/berkshire-healthcare-launches-face-to-face-copilot-training-looking-to-make-ai-more-accessible-to-its-workforce/"
-  },
-  {
-   "headline": "Windows malware uses Grok AI to help stay hidden, researchers say",
-   "outlet": "Fox News on MSN",
-   "outlet_name": "Fox News on MSN",
+   "headline": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/windows-malware-uses-grok-ai-to-help-stay-hidden-researchers-say/ar-AA2dCDvH"
+   "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
+  },
+  {
+   "headline": "Google DeepMind Gives AI-Designed Proteins a Watermark",
+   "outlet": "SingularityHub",
+   "outlet_name": "SingularityHub",
+   "label": "REPORTED",
+   "url": "https://singularityhub.com/2026/10/05/google-deepmind-gives-ai-designed-proteins-a-watermark/"
+  },
+  {
+   "headline": "California Finalizes Next Wave of State AI and Privacy Regulation",
+   "outlet": "JDSupra",
+   "outlet_name": "JDSupra",
+   "label": "REPORTED",
+   "url": "https://www.jdsupra.com/legalnews/california-finalizes-next-wave-of-state-1983295/"
+  },
+  {
+   "headline": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
+   "outlet": "marketscreener.com",
+   "outlet_name": "marketscreener.com",
+   "label": "CONFIRMED",
+   "url": "https://www.marketscreener.com/news/nvidia-backed-reflection-unveils-first-ai-model-to-take-on-chinese-open-models-ce785dd8da80f227"
+  },
+  {
+   "headline": "California Signs Nation-Leading AI Chatbot and Social Media Laws: What Businesses Need to…",
+   "outlet": "retailconsumerproductslaw.com",
+   "outlet_name": "retailconsumerproductslaw.com",
+   "label": "REPORTED",
+   "url": "https://www.retailconsumerproductslaw.com/2026/10/california-signs-nation-leading-ai-chatbot-and-social-media-laws-what-businesses-need-to-know/"
   },
   {
    "headline": "Anthropic whistleblower Jacob Coxon doubles down on AI warnings at NYC hearing…",
    "outlet": "New York Post on MSN",
    "outlet_name": "New York Post on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/anthropic-whistleblower-jacob-coxon-doubles-down-on-ai-warnings-at-nyc-hearing-extremely-reckless/ar-AA2dBNlp"
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/anthropic-whistleblower-jacob-coxon-doubles-down-on-ai-warnings-at-nyc-hearing-extremely-reckless/ar-AA2dBNlp"
+  },
+  {
+   "headline": "India demands binding AI rules as White House self-policing accord draws scrutiny",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/money/general/india-demands-binding-ai-rules-as-white-house-self-policing-accord-draws-scrutiny/ar-AA2dCX7z"
+  },
+  {
+   "headline": "CPI | McDonald’s Hit With Antitrust Suit Over AI-Assisted Menu Pricing",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "REPORTED",
+   "url": "https://www.pymnts.com/cpi-posts/mcdonalds-hit-with-antitrust-suit-over-ai-assisted-menu-pricing/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 11700,
+ "tidbit": "Did you know… this hour's top stories come from four different outlets.",
+ "articles_24h_rounded": 11900,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/21.mp3",
- "audio_seconds": 44.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/22.mp3",
+ "audio_seconds": 49.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by NeoTeo: Nvidia chip smuggling arrest: DOJ case against Lui.\nConfirmed, per The Verge: Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage.\nReported by Fortune: Nvidia-backed Reflection AI unveils its first open model, Beam. Could it be America’s best chance to compete with China.\nConfirmed, per Axios: GOP senator warns Anthropic of \"alarmist\" approach to AI.\nReported by Crypto Briefing: OpenAI sued by LASST over alleged hacking of Hugging Face.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: OpenAI will start watermarking ChatGPT’s text in the EU.\nConfirmed, per WJRT ABC12: Watch: Retired AI Robots Jump Into Fiery Vat Of Molten Steel.\nConfirmed, per citybiz: Keeper Security Surpasses 100,000 Enterprise Customers.\nConfirmed, per Fortune: Ex-OpenAI researcher tells NYC lawmakers AI safety fixes may be 'duct tape that will fall off'.\nConfirmed, per TechCrunch: At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
