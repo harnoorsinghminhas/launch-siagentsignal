@@ -1,91 +1,63 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T02:20:01Z",
- "hour": "2026-10-05T02:00:00Z",
+ "generated_at": "2026-10-05T03:20:01Z",
+ "hour": "2026-10-05T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google unveils Gemini 4 Argon, its new frontier model",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html",
+   "title": "OpenAI's Altman Says World Must Accept Some AI Risk to Preserve Broad Public Access",
+   "outlet": "bloomingbit",
+   "outlet_name": "bloomingbit",
+   "url": "https://en.bloomingbit.io/feed/news/121581",
    "label": "REPORTED",
-   "summary_1line": "Google's Gemini 4 Argon boosts performance and speeds up code, with new pricing and internal use.",
-   "published_at": "2026-10-05T00:03:24Z"
+   "summary_1line": "Altman says world must accept AI risk for public access, rejecting lab control of powerful AI.",
+   "published_at": "2026-10-05T01:04:59Z"
   },
   {
-   "title": "OpenAI hires former Greek AI adviser Vassilis Koutsoumpas | ETIH EdTech News",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/openai-hires-greeces-former-ai-adviser-vassilis-koutsoumpas-for-global-strategy-role",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI hires Greece’s AI adviser to lead global government AI strategy.",
-   "published_at": "2026-10-04T23:02:17Z"
-  },
-  {
-   "title": "NVIDIA Heavily Backs “U.S. DeepSeek” as It Prepares to Release Open-Source Model",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
-   "url": "https://news.futunn.com/en/post/1000559785/nvidia-heavily-backs-us-deepseek-as-it-prepares-to-release",
+   "title": "TA419 impersonated Anthropic researchers to target US AI policy experts",
+   "outlet": "NewsBytes",
+   "outlet_name": "NewsBytes",
+   "url": "https://www.newsbytesapp.com/news/science/ta419-impersonated-anthropic-researchers-to-target-us-ai-policy-experts/tldr",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-05T01:09:00Z"
+   "published_at": "2026-10-04T17:00:00Z"
   },
   {
-   "title": "DeepSeek Narrows AI Gap With US to Just 3 Percent, Bloomberg Says",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/deepseek-narrows-ai-gap-with-us-to-just-3-percent-bloomberg-says/",
+   "title": "Presto Raises $10 Million To Expand Voice AI For Restaurant Drive-Thrus",
+   "outlet": "Pulse 2.0",
+   "outlet_name": "Pulse 2.0",
+   "url": "https://pulse2.com/presto-raises-10-million-to-expand-voice-ai-for-restaurant-drive-thrus/",
    "label": "REPORTED",
-   "summary_1line": "China's AI models now trail US rivals by just 3% on benchmarks, down from 15% a year ago.",
-   "published_at": "2026-10-04T21:29:45Z"
+   "summary_1line": "Presto raises $10M for Voice AI in quick-service restaurants.",
+   "published_at": "2026-10-04T18:24:00Z"
   },
   {
-   "title": "A Chat with ChatGPT: Bar Talk with Eric Bartosz",
-   "outlet": "Saucon Source",
-   "outlet_name": "Saucon Source",
-   "url": "https://sauconsource.com/2026/10/04/a-chat-with-chatgpt-bar-talk-with-eric-bartosz/",
-   "label": "STILL OPEN",
-   "summary_1line": "ChatGPT discusses AI peer pressure, culture, and emotional intelligence in a conversation with Eric Bartosz.",
-   "published_at": "2026-10-04T23:48:07Z"
+   "title": "Gary Marcus Likens AI Agents to Cars With Cardboard Brakes as FTC Probe Opens",
+   "outlet": "BeInCrypto",
+   "outlet_name": "BeInCrypto",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ITlNrbk8tcWFfbmhUR21mWXNPODc3LXpjaW5kTVQ1dkQ4ZVJPVElkbjdkR0hCd0FTZVA2emRYZU5BT0d6ZWxWcm5HOEFzMTRPeC1vSFJpV2tWeE96X2RFSEl3?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-05T02:44:00Z"
+  },
+  {
+   "title": "Anthropic eyes November IPO as filing flags existential AI risks",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
+   "url": "https://www.indiatoday.in/business/market/story/anthropic-ipo-november-launch-filing-existential-ai-risks-report-3009557-2026-10-05",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-05T02:42:21Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google unveils Gemini 4 Argon, its new frontier model",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "OpenAI's Altman Says World Must Accept Some AI Risk to Preserve Broad Public Access",
+   "outlet": "bloomingbit",
+   "outlet_name": "bloomingbit",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html"
-  },
-  {
-   "headline": "OpenAI hires former Greek AI adviser Vassilis Koutsoumpas | ETIH EdTech News",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/openai-hires-greeces-former-ai-adviser-vassilis-koutsoumpas-for-global-strategy-role"
-  },
-  {
-   "headline": "NVIDIA Heavily Backs “U.S. DeepSeek” as It Prepares to Release Open-Source Model",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
-   "label": "REPORTED",
-   "url": "https://news.futunn.com/en/post/1000559785/nvidia-heavily-backs-us-deepseek-as-it-prepares-to-release"
-  },
-  {
-   "headline": "DeepSeek Narrows AI Gap With US to Just 3 Percent, Bloomberg Says",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/deepseek-narrows-ai-gap-with-us-to-just-3-percent-bloomberg-says/"
-  },
-  {
-   "headline": "A Chat with ChatGPT: Bar Talk with Eric Bartosz",
-   "outlet": "Saucon Source",
-   "outlet_name": "Saucon Source",
-   "label": "STILL OPEN",
-   "url": "https://sauconsource.com/2026/10/04/a-chat-with-chatgpt-bar-talk-with-eric-bartosz/"
+   "url": "https://en.bloomingbit.io/feed/news/121581"
   },
   {
    "headline": "TA419 impersonated Anthropic researchers to target US AI policy experts",
@@ -95,25 +67,39 @@
    "url": "https://www.newsbytesapp.com/news/science/ta419-impersonated-anthropic-researchers-to-target-us-ai-policy-experts/tldr"
   },
   {
-   "headline": "ChatGPT Reveals Coin Collecting Myths That Cost You Money",
-   "outlet": "MoneyLion",
-   "outlet_name": "MoneyLion",
-   "label": "STILL OPEN",
-   "url": "https://www.moneylion.com/trending/money/i-asked-chatgpt-which-coin-collecting-myths-could-cost-you-money"
+   "headline": "Presto Raises $10 Million To Expand Voice AI For Restaurant Drive-Thrus",
+   "outlet": "Pulse 2.0",
+   "outlet_name": "Pulse 2.0",
+   "label": "REPORTED",
+   "url": "https://pulse2.com/presto-raises-10-million-to-expand-voice-ai-for-restaurant-drive-thrus/"
   },
   {
-   "headline": "Show HN: Redactpdf.ai: Open-source AI-based PDF redaction tool",
-   "outlet": "redactpdf.ai",
-   "outlet_name": "redactpdf.ai",
+   "headline": "Gary Marcus Likens AI Agents to Cars With Cardboard Brakes as FTC Probe Opens",
+   "outlet": "BeInCrypto",
+   "outlet_name": "BeInCrypto",
    "label": "REPORTED",
-   "url": "https://redactpdf.ai"
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ITlNrbk8tcWFfbmhUR21mWXNPODc3LXpjaW5kTVQ1dkQ4ZVJPVElkbjdkR0hCd0FTZVA2emRYZU5BT0d6ZWxWcm5HOEFzMTRPeC1vSFJpV2tWeE96X2RFSEl3?oc=5"
   },
   {
-   "headline": "Show HN: EditUI – Cursor/Claude Design-style UI editing directly in the browser",
-   "outlet": "editui.app",
-   "outlet_name": "editui.app",
+   "headline": "Anthropic eyes November IPO as filing flags existential AI risks",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
    "label": "REPORTED",
-   "url": "https://www.editui.app/"
+   "url": "https://www.indiatoday.in/business/market/story/anthropic-ipo-november-launch-filing-existential-ai-risks-report-3009557-2026-10-05"
+  },
+  {
+   "headline": "Google to restrict free access to Gemini AI models",
+   "outlet": "Qazinform",
+   "outlet_name": "Qazinform",
+   "label": "REPORTED",
+   "url": "https://qazinform.com/news/google-to-restrict-free-access-to-gemini-ai-models-4e4a35"
+  },
+  {
+   "headline": "Now, requests sent to Claude to be processed within India",
+   "outlet": "timesofindia.indiatimes.com",
+   "outlet_name": "timesofindia.indiatimes.com",
+   "label": "REPORTED",
+   "url": "https://timesofindia.indiatimes.com/business/india-business/now-requests-sent-to-claude-to-be-processed-within-india/articleshow/134683523.cms"
   },
   {
    "headline": "Change.org says it is investing $100M of its own money to rebuild its core petitions…",
@@ -123,28 +109,42 @@
    "url": "https://www.techmeme.com/261004/p22#a261004p22"
   },
   {
-   "headline": "Free open-source audio editor lets AI agents cut and rearrange tracks, with edits kept…",
-   "outlet": "notebookcheck.net",
-   "outlet_name": "notebookcheck.net",
+   "headline": "Nvidia’s AI boom puts Warren Buffett’s 1999 tech warning back in focus",
+   "outlet": "TheStreet on MSN",
+   "outlet_name": "TheStreet on MSN",
    "label": "REPORTED",
-   "url": "https://www.notebookcheck.net/Free-open-source-audio-editor-lets-AI-agents-cut-and-rearrange-tracks-with-edits-kept-undoable.1415700.0.html"
+   "url": "https://www.msn.com/en-us/news/money/nvidia-s-ai-boom-puts-warren-buffett-s-1999-tech-warning-back-in-focus/ar-AA2dyHvY"
   },
   {
-   "headline": "Qwen-RobotWorld: Boundless Worlds for Embodied Agents",
-   "outlet": "alibabacloud.com",
-   "outlet_name": "alibabacloud.com",
+   "headline": "Alibaba's Qwen3.8-Max and ZTE's Nebula Tie for Top Chinese Spot in SuperCLUE Embodied…",
+   "outlet": "pandaily.com",
+   "outlet_name": "pandaily.com",
    "label": "REPORTED",
-   "url": "https://www.alibabacloud.com/blog/qwen-robotworld-boundless-worlds-for-embodied-agents_603268"
+   "url": "https://pandaily.com/superclue-embodied-brain-leaderboard-september-2026-qwen3-8-max-zte-nebula-tie"
+  },
+  {
+   "headline": "Homestead: A framework around Claude Code",
+   "outlet": "mullet.town",
+   "outlet_name": "mullet.town",
+   "label": "REPORTED",
+   "url": "https://mullet.town/homestead"
+  },
+  {
+   "headline": "Ex-Anthropic employee who quit over safety concerns to testify at NYC council hearing",
+   "outlet": "washingtonexaminer.com",
+   "outlet_name": "washingtonexaminer.com",
+   "label": "REPORTED",
+   "url": "https://www.washingtonexaminer.com/policy/technology/4753499/ex-anthropic-employee-quit-testify-nyc-council-hearing/"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 7300,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/02.mp3",
- "audio_seconds": 66.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/03.mp3",
+ "audio_seconds": 52.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle unveiled Gemini 4 Argon, its new frontier model. Reported by Yahoo Tech: the model boosts performance and speeds up code, with new pricing and internal use.\nOpenAI hired former Greek artificial intelligence adviser Vassilis Koutsoumpas to lead global government artificial intelligence strategy. Reported by EdTech Innovation Hub.\nNVIDIA heavily backs what some call U.S. DeepSeek as it prepares to release an open-source model. Reported by 富途牛牛.\nChina's artificial intelligence models now trail US rivals by just 3 percent on benchmarks, down from 15 percent a year ago. Reported by Startup Fortune: DeepSeek narrows the artificial intelligence gap with the US.\nStill open per Saucon Source: ChatGPT discusses artificial intelligence peer pressure, culture, and emotional intelligence in a conversation with Eric Bartosz.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by bloomingbit: OpenAI's Altman Says World Must Accept Some AI Risk to Preserve Broad Public Access.\nReported by NewsBytes: TA419 impersonated Anthropic researchers to target US AI policy experts.\nReported by Pulse 2.0: Presto Raises $10 Million To Expand Voice AI For Restaurant Drive-Thrus.\nReported by BeInCrypto: Gary Marcus Likens AI Agents to Cars With Cardboard Brakes as FTC Probe Opens.\nReported by India Today: Anthropic eyes November IPO as filing flags existential AI risks.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
