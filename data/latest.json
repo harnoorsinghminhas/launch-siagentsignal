@@ -1,112 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T20:20:01Z",
- "hour": "2026-10-05T20:00:00Z",
+ "generated_at": "2026-10-05T21:20:01Z",
+ "hour": "2026-10-05T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI industry insiders voice alarms to NYC council as local governments take up safety concerns",
-   "outlet": "BNN Bloomberg",
-   "outlet_name": "BNN Bloomberg",
-   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/05/ai-industry-insiders-voice-alarms-to-nyc-council-as-local-governments-take-up-safety-concerns/",
-   "label": "CONFIRMED",
-   "summary_1line": "AI insiders warn NYC of existential risks, calling for oversight amid growing concerns over uncontrolled AI development.",
-   "published_at": "2026-10-05T18:56:40Z"
+   "title": "Nvidia chip smuggling arrest: DOJ case against Lui",
+   "outlet": "NeoTeo",
+   "outlet_name": "NeoTeo",
+   "url": "https://www.neoteo.com/en/doj-announced-greg-luis-arrest-over-alleged-server-exports-to-china",
+   "label": "REPORTED",
+   "summary_1line": "Greg Lui arrested for allegedly exporting $300M in servers to China via Malaysia and Singapore.",
+   "published_at": "2026-10-05T18:39:35Z"
   },
   {
-   "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+   "title": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
    "outlet": "theverge.com",
    "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+   "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI rolls out text watermarking in EU for ChatGPT and Codex, with global API opt-in and researcher detector access.",
-   "published_at": "2026-10-05T18:08:39Z"
+   "summary_1line": "Wikimedia detects OpenAI agents editing wikis and making millions of API requests.",
+   "published_at": "2026-10-05T19:05:19Z"
   },
   {
-   "title": "Sen. Adam Schiff on making Congress relevant in the AI age",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-   "label": "CONFIRMED",
-   "summary_1line": "Schiff criticizes Trump's AI pledge and corruption, calling it a national security threat.",
-   "published_at": "2026-10-05T14:30:00Z"
-  },
-  {
-   "title": "Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+   "title": "Nvidia-backed Reflection AI unveils its first open model, Beam. Could it be America’s best chance to compete with China?",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/05/reflection-ai-unveils-beam-a-new-us-based-open-source-model-to-compete-with-china/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-05T12:33:00Z"
+   "summary_1line": "Reflection launches Beam, an efficient open AI model, challenging China's dominance in open-source AI.",
+   "published_at": "2026-10-05T19:00:00Z"
   },
   {
-   "title": "Amazon hires Microsoft's former Copilot CTO",
-   "outlet": "Insider",
-   "outlet_name": "Insider",
-   "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10",
+   "title": "GOP senator warns Anthropic of \"alarmist\" approach to AI",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence",
    "label": "CONFIRMED",
-   "summary_1line": "Amazon hires ex-Microsoft CTO to lead agentic AI, with Quick and Kiro user growth doubling and quadrupling.",
-   "published_at": "2026-10-05T10:45:00Z"
+   "summary_1line": "Moreno urges Amodei to stop alarmist AI claims, citing public safety and national security.",
+   "published_at": "2026-10-05T18:00:05Z"
+  },
+  {
+   "title": "OpenAI sued by LASST over alleged hacking of Hugging Face",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/openai-sued-by-lasst-over-alleged-hacking-of-hugging-face/",
+   "label": "REPORTED",
+   "summary_1line": "LASST sues OpenAI over alleged hacking of Hugging Face by AI agents.",
+   "published_at": "2026-10-05T13:03:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "AI industry insiders voice alarms to NYC council as local governments take up safety…",
-   "outlet": "BNN Bloomberg",
-   "outlet_name": "BNN Bloomberg",
-   "label": "CONFIRMED",
-   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/05/ai-industry-insiders-voice-alarms-to-nyc-council-as-local-governments-take-up-safety-concerns/"
+   "headline": "Nvidia chip smuggling arrest: DOJ case against Lui",
+   "outlet": "NeoTeo",
+   "outlet_name": "NeoTeo",
+   "label": "REPORTED",
+   "url": "https://www.neoteo.com/en/doj-announced-greg-luis-arrest-over-alleged-server-exports-to-china"
   },
   {
-   "headline": "OpenAI is adding text watermarking in ChatGPT and Codex",
+   "headline": "Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage",
    "outlet": "theverge.com",
    "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+   "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage"
   },
   {
-   "headline": "Sen. Adam Schiff on making Congress relevant in the AI age",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
+   "headline": "Nvidia-backed Reflection AI unveils its first open model, Beam. Could it be America’s…",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "REPORTED",
+   "url": "https://fortune.com/2026/10/05/reflection-ai-unveils-beam-a-new-us-based-open-source-model-to-compete-with-china/"
+  },
+  {
+   "headline": "GOP senator warns Anthropic of \"alarmist\" approach to AI",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption"
+   "url": "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence"
   },
   {
-   "headline": "Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute…",
-   "outlet": "TechCrunch",
+   "headline": "OpenAI sued by LASST over alleged hacking of Hugging Face",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/openai-sued-by-lasst-over-alleged-hacking-of-hugging-face/"
+  },
+  {
+   "headline": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+   "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
-  },
-  {
-   "headline": "Amazon hires Microsoft's former Copilot CTO",
-   "outlet": "Insider",
-   "outlet_name": "Insider",
    "label": "CONFIRMED",
-   "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10"
+   "url": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/"
   },
   {
-   "headline": "India Demands Binding AI Rules as White House Self-Policing Accord Draws Scrutiny",
-   "outlet": "techtimes",
-   "outlet_name": "techtimes",
+   "headline": "Keeper Security Surpasses 100,000 Enterprise Customers",
+   "outlet": "citybiz",
+   "outlet_name": "citybiz",
    "label": "CONFIRMED",
-   "url": "https://www.techtimes.com/articles/328526/20261005/india-demands-binding-ai-rules-white-house-self-policing-accord-draws-scrutiny.htm"
+   "url": "https://www.citybiz.co/article/914232/keeper-security-surpasses-100000-enterprise-customers/"
   },
   {
-   "headline": "No More “Robo Bosses”: California Enacts Sweeping Workplace AI Legislation",
-   "outlet": "JDSupra",
-   "outlet_name": "JDSupra",
+   "headline": "Ex-OpenAI researcher tells NYC lawmakers AI safety fixes may be 'duct tape that will fall…",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
    "label": "REPORTED",
-   "url": "https://www.jdsupra.com/legalnews/no-more-robo-bosses-california-enacts-5191782/"
-  },
-  {
-   "headline": "Supercharge regulated workloads with Claude Code and Amazon Bedrock | Artificial…",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
-   "label": "REPORTED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/"
+   "url": "http://fortune.com/2026/10/05/new-york-city-council-hearing-openai-anthropic-ai-safety-google-meta/"
   },
   {
    "headline": "OpenAI Rolls Out Text Watermarks to Meet EU AI Act Mandates",
@@ -137,14 +137,14 @@
    "url": "https://www.msn.com/en-us/news/other/anthropic-whistleblower-jacob-coxon-doubles-down-on-ai-warnings-at-nyc-hearing-extremely-reckless/ar-AA2dBNlp"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by seven different outlets in the last few hours.",
- "articles_24h_rounded": 11500,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 11700,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/20.mp3",
- "audio_seconds": 47.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/21.mp3",
+ "audio_seconds": 44.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BNN Bloomberg: AI industry insiders voice alarms to NYC council as local governments take up safety concerns.\nConfirmed, per The Verge: OpenAI is adding text watermarking in ChatGPT and Codex.\nConfirmed, per The Verge: Sen. Adam Schiff on making Congress relevant in the AI age.\nReported by TechCrunch: Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost.\nConfirmed, per Insider: Amazon hires Microsoft's former Copilot CTO.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by NeoTeo: Nvidia chip smuggling arrest: DOJ case against Lui.\nConfirmed, per The Verge: Wikipedia operator says OpenAI’s ‘rogue’ bots may be linked to a May outage.\nReported by Fortune: Nvidia-backed Reflection AI unveils its first open model, Beam. Could it be America’s best chance to compete with China.\nConfirmed, per Axios: GOP senator warns Anthropic of \"alarmist\" approach to AI.\nReported by Crypto Briefing: OpenAI sued by LASST over alleged hacking of Hugging Face.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
