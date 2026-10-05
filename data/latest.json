@@ -1,105 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T00:20:01Z",
- "hour": "2026-10-05T00:00:00Z",
+ "generated_at": "2026-10-05T01:20:02Z",
+ "hour": "2026-10-05T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Trump announces members of ‘Super Intelligence Force’ to coordinate AI policy",
-   "outlet": "nbcnews.com",
-   "outlet_name": "NBC News",
-   "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-members-ai-task-force-rcna601494",
-   "label": "REPORTED",
-   "summary_1line": "Trump names Jay Clayton to lead AI task force, calling it the Super Intelligence Force.",
-   "published_at": "2026-10-04T23:09:09Z"
+   "title": "Reflection AI to release open-weight model aimed at DeepSeek and Qwen",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/reflection-ai-open-weight-model-deepseek-qwen/",
+   "label": "STILL OPEN",
+   "summary_1line": "Reflection AI to launch open-weight model rivaling DeepSeek and Qwen this month.",
+   "published_at": "2026-10-04T15:34:00Z"
   },
   {
-   "title": "Legal risks mount for OpenAI",
-   "outlet": "semafor.com",
-   "outlet_name": "Semafor",
-   "url": "https://www.semafor.com/article/10/04/2026/legal-risks-mount-for-openai",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI faces legal risks and employee resignations over AI safety concerns.",
-   "published_at": "2026-10-04T22:34:47Z"
+   "title": "Don’t Share Sensitive Data with ChatGPT, Gemini",
+   "outlet": "Nigerian CommunicationWeek",
+   "outlet_name": "Nigerian CommunicationWeek",
+   "url": "https://www.nigeriacommunicationsweek.com.ng/2026/10/04/dont-share-sensitive-data-with-chatgpt-gemini-nitda",
+   "label": "CONFIRMED",
+   "summary_1line": "NITDA warns against using public AI tools for sensitive data to avoid breaches and legal issues.",
+   "published_at": "2026-10-04T16:00:00Z"
   },
   {
-   "title": "US lead in AI over China narrows after DeepSeek gains, BI says",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
-   "url": "https://www.businesstimes.com.sg/international/us-lead-ai-over-china-narrows-after-deepseek-gains-bi-says",
+   "title": "Google DeepMind watermarks AI-designed proteins | ETIH EdTech News",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "url": "https://www.edtechinnovationhub.com/news/google-deepmind-creates-watermarked-ai-designed-proteins-that-still-work-in-lab-tests",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek's AI gains close US-China gap to 3%, challenging US AI dominance.",
-   "published_at": "2026-10-04T22:22:00Z"
+   "summary_1line": "Google DeepMind's SynthID Bio watermarks AI-designed proteins without disrupting function.",
+   "published_at": "2026-10-04T23:47:34Z"
   },
   {
-   "title": "I turned Gemini Notebook into my gardening expert; my plants finally stopped dying",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
-   "url": "https://www.androidpolice.com/turned-gemini-notebook-into-gardening-expert-plants-finally-stopped-dying/",
+   "title": "OpenAI’s Altman says AI benefits warrant accepting some risks",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/united-states/openais-altman-says-ai-benefits-warrant-accepting-some-risks",
    "label": "REPORTED",
-   "summary_1line": "User uses Gemini Notebook to monitor plants and create care tasks.",
-   "published_at": "2026-10-04T22:00:10Z"
+   "summary_1line": "Altman defends AI accessibility, rejecting strict regulation amid industry risk debates.",
+   "published_at": "2026-10-04T23:25:00Z"
   },
   {
-   "title": "MongoDB launches Atlas Agent Engine for production AI",
-   "outlet": "IT Brief Asia",
-   "outlet_name": "IT Brief Asia",
-   "url": "https://itbrief.asia/story/mongodb-launches-atlas-agent-engine-for-production-ai",
-   "label": "REPORTED",
-   "summary_1line": "MongoDB launches Atlas Agent Engine for enterprise AI agent deployment with governance and open standards.",
-   "published_at": "2026-10-04T21:45:00Z"
+   "title": "Trump launches Super Intelligence Force to keep U.S. leading AI, names top officials",
+   "outlet": "WXLV ABC 45",
+   "outlet_name": "WXLV ABC 45",
+   "url": "https://abc45.com/news/nation-world/trump-launches-super-intelligence-force-sif-to-keep-us-leading-ai-names-top-officials-federal-trade-commission-andrew-ferguson-pentagon-chiefl-technology-officer-emil-michael-director-of-the-office-of-personnel-management-scott-kupor",
+   "label": "CONFIRMED",
+   "summary_1line": "Trump launches Super Intelligence Force, names officials, and renames AI as 'super intelligence'.",
+   "published_at": "2026-10-04T03:53:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Trump announces members of ‘Super Intelligence Force’ to coordinate AI policy",
-   "outlet": "nbcnews.com",
-   "outlet_name": "NBC News",
-   "label": "REPORTED",
-   "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-members-ai-task-force-rcna601494"
+   "headline": "Reflection AI to release open-weight model aimed at DeepSeek and Qwen",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "STILL OPEN",
+   "url": "https://cryptobriefing.com/reflection-ai-open-weight-model-deepseek-qwen/"
   },
   {
-   "headline": "Legal risks mount for OpenAI",
-   "outlet": "semafor.com",
-   "outlet_name": "Semafor",
-   "label": "REPORTED",
-   "url": "https://www.semafor.com/article/10/04/2026/legal-risks-mount-for-openai"
+   "headline": "Don’t Share Sensitive Data with ChatGPT, Gemini",
+   "outlet": "Nigerian CommunicationWeek",
+   "outlet_name": "Nigerian CommunicationWeek",
+   "label": "CONFIRMED",
+   "url": "https://www.nigeriacommunicationsweek.com.ng/2026/10/04/dont-share-sensitive-data-with-chatgpt-gemini-nitda"
   },
   {
-   "headline": "US lead in AI over China narrows after DeepSeek gains, BI says",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
+   "headline": "Google DeepMind watermarks AI-designed proteins | ETIH EdTech News",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
    "label": "REPORTED",
-   "url": "https://www.businesstimes.com.sg/international/us-lead-ai-over-china-narrows-after-deepseek-gains-bi-says"
+   "url": "https://www.edtechinnovationhub.com/news/google-deepmind-creates-watermarked-ai-designed-proteins-that-still-work-in-lab-tests"
   },
   {
-   "headline": "I turned Gemini Notebook into my gardening expert; my plants finally stopped dying",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
+   "headline": "OpenAI’s Altman says AI benefits warrant accepting some risks",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
    "label": "REPORTED",
-   "url": "https://www.androidpolice.com/turned-gemini-notebook-into-gardening-expert-plants-finally-stopped-dying/"
+   "url": "https://www.straitstimes.com/world/united-states/openais-altman-says-ai-benefits-warrant-accepting-some-risks"
   },
   {
-   "headline": "MongoDB launches Atlas Agent Engine for production AI",
-   "outlet": "IT Brief Asia",
-   "outlet_name": "IT Brief Asia",
-   "label": "REPORTED",
-   "url": "https://itbrief.asia/story/mongodb-launches-atlas-agent-engine-for-production-ai"
+   "headline": "Trump launches Super Intelligence Force to keep U.S. leading AI, names top officials",
+   "outlet": "WXLV ABC 45",
+   "outlet_name": "WXLV ABC 45",
+   "label": "CONFIRMED",
+   "url": "https://abc45.com/news/nation-world/trump-launches-super-intelligence-force-sif-to-keep-us-leading-ai-names-top-officials-federal-trade-commission-andrew-ferguson-pentagon-chiefl-technology-officer-emil-michael-director-of-the-office-of-personnel-management-scott-kupor"
   },
   {
-   "headline": "Is Copilot Microsoft's Secret Weapon in the AI Arms Race?",
-   "outlet": "The Globe and Mail",
-   "outlet_name": "The Globe and Mail",
+   "headline": "Google unveils Gemini 4 Argon, its new frontier model",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
    "label": "REPORTED",
-   "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/4952420/is-copilot-microsoft-s-secret-weapon-in-the-ai-arms-race/"
+   "url": "https://tech.yahoo.com/ai/gemini/articles/google-unveils-gemini-4-argon-000324898.html"
   },
   {
-   "headline": "AI needs more safety layers: ex-OpenAI engineer",
-   "outlet": "Taipei Times",
-   "outlet_name": "Taipei Times",
+   "headline": "A Chat with ChatGPT: Bar Talk with Eric Bartosz",
+   "outlet": "Saucon Source",
+   "outlet_name": "Saucon Source",
+   "label": "STILL OPEN",
+   "url": "https://sauconsource.com/2026/10/04/a-chat-with-chatgpt-bar-talk-with-eric-bartosz/"
+  },
+  {
+   "headline": "TA419 impersonated Anthropic researchers to target US AI policy experts",
+   "outlet": "NewsBytes",
+   "outlet_name": "NewsBytes",
    "label": "REPORTED",
-   "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/05/2003865388"
+   "url": "https://www.newsbytesapp.com/news/science/ta419-impersonated-anthropic-researchers-to-target-us-ai-policy-experts/tldr"
+  },
+  {
+   "headline": "Show HN: Redactpdf.ai: Open-source AI-based PDF redaction tool",
+   "outlet": "redactpdf.ai",
+   "outlet_name": "redactpdf.ai",
+   "label": "REPORTED",
+   "url": "https://redactpdf.ai"
   },
   {
    "headline": "Show HN: EditUI – Cursor/Claude Design-style UI editing directly in the browser",
@@ -109,42 +123,28 @@
    "url": "https://www.editui.app/"
   },
   {
-   "headline": "Court throws out killer’s sentence after judge said he loved AI video of slain man",
-   "outlet": "NBC News on MSN",
-   "outlet_name": "NBC News on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/court-throws-out-killer-s-sentence-after-judge-said-he-loved-ai-video-of-slain-man/ar-AA2dyOOJ"
+   "headline": "Free open-source audio editor lets AI agents cut and rearrange tracks, with edits kept…",
+   "outlet": "notebookcheck.net",
+   "outlet_name": "notebookcheck.net",
+   "label": "REPORTED",
+   "url": "https://www.notebookcheck.net/Free-open-source-audio-editor-lets-AI-agents-cut-and-rearrange-tracks-with-edits-kept-undoable.1415700.0.html"
   },
   {
-   "headline": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
+   "headline": "Qwen-RobotWorld: Boundless Worlds for Embodied Agents",
+   "outlet": "alibabacloud.com",
+   "outlet_name": "alibabacloud.com",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261004/p19#a261004p19"
-  },
-  {
-   "headline": "Claude Code Found My Pirc and King's Indian Mistakes",
-   "outlet": "quickchat.ai",
-   "outlet_name": "quickchat.ai",
-   "label": "REPORTED",
-   "url": "https://quickchat.ai/post/claude-code-stockfish-chess-opening-mistakes"
-  },
-  {
-   "headline": "OpenAI’s Jalapeño Chip Claims 3.6x Lower Latency Than Nvidia [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/openai-jalapeno-chip-3-6x-lower-latency-nvidia-2026/"
+   "url": "https://www.alibabacloud.com/blog/qwen-robotworld-boundless-worlds-for-embodied-agents_603268"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 7100,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 7200,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/00.mp3",
- "audio_seconds": 52.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/01.mp3",
+ "audio_seconds": 47.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by NBC News: Trump announces members of ‘Super Intelligence Force’ to coordinate AI policy.\nReported by Semafor: Legal risks mount for OpenAI.\nReported by The Business Times: US lead in AI over China narrows after DeepSeek gains, BI says.\nReported by Android Police: I turned Gemini Notebook into my gardening expert; my plants finally stopped dying.\nReported by IT Brief Asia: MongoDB launches Atlas Agent Engine for production AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per Crypto Briefing: Reflection AI to release open-weight model aimed at DeepSeek and Qwen.\nConfirmed, per Nigerian CommunicationWeek: Don’t Share Sensitive Data with ChatGPT, Gemini.\nReported by EdTech Innovation Hub: Google DeepMind watermarks AI-designed proteins | ETIH EdTech News.\nReported by The Straits Times: OpenAI’s Altman says AI benefits warrant accepting some risks.\nConfirmed, per WXLV ABC 45: Trump launches Super Intelligence Force to keep U.S. leading AI, names top officials.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
