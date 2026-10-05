@@ -1,92 +1,57 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T03:20:01Z",
- "hour": "2026-10-05T03:00:00Z",
+ "generated_at": "2026-10-05T04:20:01Z",
+ "hour": "2026-10-05T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI's Altman Says World Must Accept Some AI Risk to Preserve Broad Public Access",
-   "outlet": "bloomingbit",
-   "outlet_name": "bloomingbit",
-   "url": "https://en.bloomingbit.io/feed/news/121581",
+   "title": "Google to restrict free access to Gemini AI models",
+   "outlet": "Qazinform",
+   "outlet_name": "Qazinform",
+   "url": "https://qazinform.com/news/google-to-restrict-free-access-to-gemini-ai-models-4e4a35",
    "label": "REPORTED",
-   "summary_1line": "Altman says world must accept AI risk for public access, rejecting lab control of powerful AI.",
-   "published_at": "2026-10-05T01:04:59Z"
+   "summary_1line": "Google limits free users to Flash-Lite from 9th October, keeping Pro and Ultra access unchanged.",
+   "published_at": "2026-10-05T02:29:40Z"
   },
   {
-   "title": "TA419 impersonated Anthropic researchers to target US AI policy experts",
+   "title": "Malaysia Plans First AI Law in 2027 as Scrutiny Intensifies",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-05/malaysia-plans-its-first-ai-law-as-global-scrutiny-intensifies",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-05T03:06:45Z"
+  },
+  {
+   "title": "Trump Creates 'Super Intelligence Force' for AI Oversight",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
+   "url": "https://www.techbuzz.ai/articles/trump-creates-super-intelligence-force-for-ai-oversight",
+   "label": "CONFIRMED",
+   "summary_1line": "Trump creates Super Intelligence Force to lead AI policy under national security lens.",
+   "published_at": "2026-10-05T02:05:00Z"
+  },
+  {
+   "title": "Trebellar Raises $18 Million Series A To Bring AI To Corporate Real Estate Management",
+   "outlet": "Pulse 2.0",
+   "outlet_name": "Pulse 2.0",
+   "url": "https://pulse2.com/trebellar-raises-18-million-series-a-to-bring-ai-to-corporate-real-estate-management/",
+   "label": "REPORTED",
+   "summary_1line": "Trebellar raises $18M to expand AI platform for corporate real estate.",
+   "published_at": "2026-10-04T18:45:00Z"
+  },
+  {
+   "title": "NVIDIA unveils AI data center lineup at GTC 2026",
    "outlet": "NewsBytes",
    "outlet_name": "NewsBytes",
-   "url": "https://www.newsbytesapp.com/news/science/ta419-impersonated-anthropic-researchers-to-target-us-ai-policy-experts/tldr",
+   "url": "https://www.newsbytesapp.com/news/science/nvidia-unveils-ai-data-center-lineup-at-gtc-2026/tldr",
    "label": "REPORTED",
    "summary_1line": null,
    "published_at": "2026-10-04T17:00:00Z"
-  },
-  {
-   "title": "Presto Raises $10 Million To Expand Voice AI For Restaurant Drive-Thrus",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "url": "https://pulse2.com/presto-raises-10-million-to-expand-voice-ai-for-restaurant-drive-thrus/",
-   "label": "REPORTED",
-   "summary_1line": "Presto raises $10M for Voice AI in quick-service restaurants.",
-   "published_at": "2026-10-04T18:24:00Z"
-  },
-  {
-   "title": "Gary Marcus Likens AI Agents to Cars With Cardboard Brakes as FTC Probe Opens",
-   "outlet": "BeInCrypto",
-   "outlet_name": "BeInCrypto",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ITlNrbk8tcWFfbmhUR21mWXNPODc3LXpjaW5kTVQ1dkQ4ZVJPVElkbjdkR0hCd0FTZVA2emRYZU5BT0d6ZWxWcm5HOEFzMTRPeC1vSFJpV2tWeE96X2RFSEl3?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-05T02:44:00Z"
-  },
-  {
-   "title": "Anthropic eyes November IPO as filing flags existential AI risks",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "url": "https://www.indiatoday.in/business/market/story/anthropic-ipo-november-launch-filing-existential-ai-risks-report-3009557-2026-10-05",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-05T02:42:21Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "OpenAI's Altman Says World Must Accept Some AI Risk to Preserve Broad Public Access",
-   "outlet": "bloomingbit",
-   "outlet_name": "bloomingbit",
-   "label": "REPORTED",
-   "url": "https://en.bloomingbit.io/feed/news/121581"
-  },
-  {
-   "headline": "TA419 impersonated Anthropic researchers to target US AI policy experts",
-   "outlet": "NewsBytes",
-   "outlet_name": "NewsBytes",
-   "label": "REPORTED",
-   "url": "https://www.newsbytesapp.com/news/science/ta419-impersonated-anthropic-researchers-to-target-us-ai-policy-experts/tldr"
-  },
-  {
-   "headline": "Presto Raises $10 Million To Expand Voice AI For Restaurant Drive-Thrus",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "label": "REPORTED",
-   "url": "https://pulse2.com/presto-raises-10-million-to-expand-voice-ai-for-restaurant-drive-thrus/"
-  },
-  {
-   "headline": "Gary Marcus Likens AI Agents to Cars With Cardboard Brakes as FTC Probe Opens",
-   "outlet": "BeInCrypto",
-   "outlet_name": "BeInCrypto",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ITlNrbk8tcWFfbmhUR21mWXNPODc3LXpjaW5kTVQ1dkQ4ZVJPVElkbjdkR0hCd0FTZVA2emRYZU5BT0d6ZWxWcm5HOEFzMTRPeC1vSFJpV2tWeE96X2RFSEl3?oc=5"
-  },
-  {
-   "headline": "Anthropic eyes November IPO as filing flags existential AI risks",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "label": "REPORTED",
-   "url": "https://www.indiatoday.in/business/market/story/anthropic-ipo-november-launch-filing-existential-ai-risks-report-3009557-2026-10-05"
-  },
   {
    "headline": "Google to restrict free access to Gemini AI models",
    "outlet": "Qazinform",
@@ -95,11 +60,67 @@
    "url": "https://qazinform.com/news/google-to-restrict-free-access-to-gemini-ai-models-4e4a35"
   },
   {
+   "headline": "Malaysia Plans First AI Law in 2027 as Scrutiny Intensifies",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-05/malaysia-plans-its-first-ai-law-as-global-scrutiny-intensifies"
+  },
+  {
+   "headline": "Trump Creates 'Super Intelligence Force' for AI Oversight",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
+   "label": "CONFIRMED",
+   "url": "https://www.techbuzz.ai/articles/trump-creates-super-intelligence-force-for-ai-oversight"
+  },
+  {
+   "headline": "Trebellar Raises $18 Million Series A To Bring AI To Corporate Real Estate Management",
+   "outlet": "Pulse 2.0",
+   "outlet_name": "Pulse 2.0",
+   "label": "REPORTED",
+   "url": "https://pulse2.com/trebellar-raises-18-million-series-a-to-bring-ai-to-corporate-real-estate-management/"
+  },
+  {
+   "headline": "NVIDIA unveils AI data center lineup at GTC 2026",
+   "outlet": "NewsBytes",
+   "outlet_name": "NewsBytes",
+   "label": "REPORTED",
+   "url": "https://www.newsbytesapp.com/news/science/nvidia-unveils-ai-data-center-lineup-at-gtc-2026/tldr"
+  },
+  {
+   "headline": "Anthropic launches Claude Code Review beta for enterprise and teams",
+   "outlet": "NewsBytes",
+   "outlet_name": "NewsBytes",
+   "label": "REPORTED",
+   "url": "https://www.newsbytesapp.com/news/science/anthropic-launches-claude-code-review-beta-for-enterprise-and-teams/tldr"
+  },
+  {
+   "headline": "Ex-Anthropic employee who quit over safety concerns to testify at NYC council hearing",
+   "outlet": "Washington Examiner on MSN",
+   "outlet_name": "Washington Examiner on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/news/ex-anthropic-employee-who-quit-over-safety-concerns-to-testify-at-nyc-council-hearing/ar-AA2dzOmd"
+  },
+  {
+   "headline": "Homestead: A framework around Claude Code",
+   "outlet": "mullet.town",
+   "outlet_name": "mullet.town",
+   "label": "REPORTED",
+   "url": "https://mullet.town/homestead"
+  },
+  {
    "headline": "Now, requests sent to Claude to be processed within India",
    "outlet": "timesofindia.indiatimes.com",
    "outlet_name": "timesofindia.indiatimes.com",
    "label": "REPORTED",
    "url": "https://timesofindia.indiatimes.com/business/india-business/now-requests-sent-to-claude-to-be-processed-within-india/articleshow/134683523.cms"
+  },
+  {
+   "headline": "Anthropic rolls out local Claude inference in India through Amazon Bedrock",
+   "outlet": "Moneycontrol.com",
+   "outlet_name": "Moneycontrol.com",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON0RPdi1GV1d0emFsdzFLRFpkbG9hN2RHeXg4SGU0eTQ0RS01SWI5SV9xSUVrWWJkOTMtR1l5ZjJfcmhnS3hjRHg1T0J0bHU1bEQzTHlrczhBc1BKV1djdGdzYW5pV0VNb2RpSzBZQnMwNmQ0T2ZFV0RxcTB0UWpkbGtkWmtxcUszTTktYWxCWGlQVnUxYWU2bGZVcDNGeU9FeHdVcDVvR2NRckxVNEUzLTI0bG8zOXZMcU1pU0NHLW9pR3hSSUFEa0dFQzgwbFFYRWhhZzJoTERaay1RYWgzVlMxUdIB6AFBVV95cUxNa09HbEpBNm91QnB1MEtZRDVMM1BUUGVGZzk2U3NLcndxU2FhcFZKaDN2VWltZUhaNk4tZzNhZ0lMUlNXZWgxdlZ4MFY0TzlOREctWVp0bWxLWHRmMUExX0N2eHpqUnk3Z1NCb3FHUmphSTlXS2U1c0FRQW9SeEFFbXJzeGlpVHJoX0VMT2xIMGszRGVzb3NGeV92UEpYRU8zVUJ1NHBDUGszekxweGRSQ2puNWRKM2s1OTJkMVN1RlBTd0Z4OFRiYng1cHFBS21IdVBDbzduR1dBYmYwdkU1Q2Z6aGhBSmM0?oc=5"
   },
   {
    "headline": "Change.org says it is investing $100M of its own money to rebuild its core petitions…",
@@ -113,38 +134,17 @@
    "outlet": "TheStreet on MSN",
    "outlet_name": "TheStreet on MSN",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/money/nvidia-s-ai-boom-puts-warren-buffett-s-1999-tech-warning-back-in-focus/ar-AA2dyHvY"
-  },
-  {
-   "headline": "Alibaba's Qwen3.8-Max and ZTE's Nebula Tie for Top Chinese Spot in SuperCLUE Embodied…",
-   "outlet": "pandaily.com",
-   "outlet_name": "pandaily.com",
-   "label": "REPORTED",
-   "url": "https://pandaily.com/superclue-embodied-brain-leaderboard-september-2026-qwen3-8-max-zte-nebula-tie"
-  },
-  {
-   "headline": "Homestead: A framework around Claude Code",
-   "outlet": "mullet.town",
-   "outlet_name": "mullet.town",
-   "label": "REPORTED",
-   "url": "https://mullet.town/homestead"
-  },
-  {
-   "headline": "Ex-Anthropic employee who quit over safety concerns to testify at NYC council hearing",
-   "outlet": "washingtonexaminer.com",
-   "outlet_name": "washingtonexaminer.com",
-   "label": "REPORTED",
-   "url": "https://www.washingtonexaminer.com/policy/technology/4753499/ex-anthropic-employee-quit-testify-nyc-council-hearing/"
+   "url": "https://www.msn.com/en-us/money/general/nvidia-s-ai-boom-puts-warren-buffett-s-1999-tech-warning-back-in-focus/ar-AA2dyHvY?ocid=BingNewsVerp"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 7300,
- "articles_24h_label": "about 7,000",
+ "articles_24h_rounded": 8400,
+ "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/03.mp3",
- "audio_seconds": 52.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/04.mp3",
+ "audio_seconds": 52.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by bloomingbit: OpenAI's Altman Says World Must Accept Some AI Risk to Preserve Broad Public Access.\nReported by NewsBytes: TA419 impersonated Anthropic researchers to target US AI policy experts.\nReported by Pulse 2.0: Presto Raises $10 Million To Expand Voice AI For Restaurant Drive-Thrus.\nReported by BeInCrypto: Gary Marcus Likens AI Agents to Cars With Cardboard Brakes as FTC Probe Opens.\nReported by India Today: Anthropic eyes November IPO as filing flags existential AI risks.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle is restricting free access to Gemini artificial intelligence models starting October 9th, limiting free users to Flash-Lite. Reported by Qazinform: Pro and Ultra access remain unchanged.\nMalaysia is planning its first artificial intelligence law in 2027 as regulatory scrutiny intensifies. Reported by Bloomberg.\nTrump has created a Super Intelligence Force to lead artificial intelligence policy under a national security lens. Confirmed by The Tech Buzz.\nTrebellar has raised 18 million dollars in Series A funding to expand its artificial intelligence platform for corporate real estate management. Reported by Pulse 2.0.\nNVIDIA has unveiled an artificial intelligence data center lineup at GTC 2026. Reported by NewsBytes.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
