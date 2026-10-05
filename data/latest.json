@@ -1,105 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T18:20:01Z",
- "hour": "2026-10-05T18:00:00Z",
+ "generated_at": "2026-10-05T19:20:02Z",
+ "hour": "2026-10-05T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-   "label": "STILL OPEN",
-   "summary_1line": "Pentagon stops using Anthropic AI after blacklisting it over safety concerns.",
-   "published_at": "2026-10-05T16:13:21Z"
-  },
-  {
-   "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+   "title": "Ex-Anthropic Researcher Testifies as NYC Council Weighs AI Curbs",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
+   "url": "https://news.bloomberglaw.com/us-law-week/ex-anthropic-researcher-testifies-as-nyc-council-weighs-ai-curbs",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI publicist interrupted interview over ChatGPT user suicide topic.",
-   "published_at": "2026-10-05T16:55:42Z"
+   "summary_1line": "Caxon warns AI risks are poorly understood at NYC council hearing.",
+   "published_at": "2026-10-05T16:46:00Z"
   },
   {
-   "title": "TechCheck: AI executives testify on safety risks",
+   "title": "Pentagon Officially Removes Anthropic's Claude from Military Systems Months After Ban",
+   "outlet": "Android Headlines",
+   "outlet_name": "Android Headlines",
+   "url": "https://www.androidheadlines.com/2026/10/pentagon-stops-using-removes-anthropic-claude-ai-military.html",
+   "label": "STILL OPEN",
+   "summary_1line": "DoD ends use of Anthropic's Claude after six-month phase-out, shifting to OpenAI and Google AI tools.",
+   "published_at": "2026-10-05T17:49:12Z"
+  },
+  {
+   "title": "How Google DeepMind's Chief AI 'Readiness' Officer uses the tech in her daily life",
    "outlet": "CNBC",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/05/techcheck-ai-executives-testify-on-safety-risks.html",
+   "url": "https://www.cnbc.com/video/2026/10/05/how-google-deepminds-chief-readiness-officer-uses-ai-in-her-life.html",
    "label": "CONFIRMED",
-   "summary_1line": "AI executives testify on safety risks in New York hearing.",
-   "published_at": "2026-10-05T16:20:05Z"
+   "summary_1line": "Lila Ibrahim shares AI use in daily life as Google's first Chief AI Readiness Officer.",
+   "published_at": "2026-10-05T17:04:03Z"
   },
   {
-   "title": "Asia-Pacific Journal Series – The De Jure Necessity and De Facto Improbability of Establishing a New Military AI Treaty",
-   "outlet": "Lieber Institute West Point",
-   "outlet_name": "Lieber Institute West Point",
-   "url": "https://lieber.westpoint.edu/de-jure-necessity-de-facto-improbability-establishing-new-military-ai-treaty/",
+   "title": "Nvidia-Backed Reflection Unveils Open AI Model, Taking on China",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china",
    "label": "REPORTED",
-   "summary_1line": "A legal analysis finds military AI treaty is legally necessary but politically unlikely.",
-   "published_at": "2026-10-05T16:34:19Z"
+   "summary_1line": null,
+   "published_at": "2026-10-05T19:00:00Z"
   },
   {
-   "title": "Google Pushes AI Tools Into Classrooms With Gemini Integration",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "url": "https://www.techbuzz.ai/articles/google-pushes-ai-tools-into-classrooms-with-gemini-integration",
-   "label": "REPORTED",
-   "summary_1line": "Google's AI tools help students develop critical thinking and digital citizenship in classrooms.",
-   "published_at": "2026-10-05T16:15:00Z"
+   "title": "Apple Is Sounding the Alarm Over AI Agents With Full Access to Your Mac",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-sounding-alarm-over-ai-164442219.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Apple warns AI agents on Mac could expose data via Full Disk Access.",
+   "published_at": "2026-10-05T16:44:42Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "label": "STILL OPEN",
-   "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "headline": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s…",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
+   "headline": "Ex-Anthropic Researcher Testifies as NYC Council Weighs AI Curbs",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
+   "url": "https://news.bloomberglaw.com/us-law-week/ex-anthropic-researcher-testifies-as-nyc-council-weighs-ai-curbs"
   },
   {
-   "headline": "TechCheck: AI executives testify on safety risks",
+   "headline": "Pentagon Officially Removes Anthropic's Claude from Military Systems Months After Ban",
+   "outlet": "Android Headlines",
+   "outlet_name": "Android Headlines",
+   "label": "STILL OPEN",
+   "url": "https://www.androidheadlines.com/2026/10/pentagon-stops-using-removes-anthropic-claude-ai-military.html"
+  },
+  {
+   "headline": "How Google DeepMind's Chief AI 'Readiness' Officer uses the tech in her daily life",
    "outlet": "CNBC",
    "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/05/techcheck-ai-executives-testify-on-safety-risks.html"
+   "url": "https://www.cnbc.com/video/2026/10/05/how-google-deepminds-chief-readiness-officer-uses-ai-in-her-life.html"
   },
   {
-   "headline": "Asia-Pacific Journal Series – The De Jure Necessity and De Facto Improbability of…",
-   "outlet": "Lieber Institute West Point",
-   "outlet_name": "Lieber Institute West Point",
+   "headline": "Nvidia-Backed Reflection Unveils Open AI Model, Taking on China",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://lieber.westpoint.edu/de-jure-necessity-de-facto-improbability-establishing-new-military-ai-treaty/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china"
   },
   {
-   "headline": "Google Pushes AI Tools Into Classrooms With Gemini Integration",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "label": "REPORTED",
-   "url": "https://www.techbuzz.ai/articles/google-pushes-ai-tools-into-classrooms-with-gemini-integration"
-  },
-  {
-   "headline": "Can AI hack AI? How reasoning models are learning to bypass safety guardrails",
-   "outlet": "The Financial Express",
-   "outlet_name": "The Financial Express",
-   "label": "REPORTED",
-   "url": "https://www.financialexpress.com/life/technology/can-ai-hack-ai-how-reasoning-models-are-learning-to-bypass-safety-guardrails/4354262/"
-  },
-  {
-   "headline": "Gemini helps me give a voice to students who cannot write.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Apple Is Sounding the Alarm Over AI Agents With Full Access to Your Mac",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
    "label": "CONFIRMED",
-   "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/"
+   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-sounding-alarm-over-ai-164442219.html"
+  },
+  {
+   "headline": "Amazon hires Microsoft's former Copilot CTO",
+   "outlet": "Insider",
+   "outlet_name": "Insider",
+   "label": "CONFIRMED",
+   "url": "https://www.businessinsider.com/amazon-hires-former-microsoft-copilot-cto-ai-agent-push-2026-10"
+  },
+  {
+   "headline": "What Are OpenAI Dots And Do You Need Them?",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "REPORTED",
+   "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-dots-them-173831194.html"
+  },
+  {
+   "headline": "OpenAI will watermark ChatGPT text in the EU but makes it optional for API users worldwide",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "label": "REPORTED",
+   "url": "https://the-decoder.com/openai-will-watermark-chatgpt-text-in-the-eu-but-makes-it-optional-for-api-users-worldwide/"
   },
   {
    "headline": "Supercharge regulated workloads with Claude Code and Amazon Bedrock | Artificial…",
@@ -109,42 +116,35 @@
    "url": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/"
   },
   {
-   "headline": "Anthropic whistleblower Jacob Coxon to testify at NYC AI hearing on 'kill switches,'…",
-   "outlet": "New York Post on MSN",
-   "outlet_name": "New York Post on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/anthropic-whistleblower-jacob-coxon-to-testify-at-nyc-ai-hearing-on-kill-switches-regulations/ar-AA2dBNlp"
-  },
-  {
-   "headline": "OpenAI Begins Phased Text Watermarking Under EU AI Act Rules",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
+   "headline": "Claude writes code; I author the apps",
+   "outlet": "lexontech.org",
+   "outlet_name": "lexontech.org",
    "label": "REPORTED",
-   "url": "https://www.unite.ai/openai-begins-phased-text-watermarking-under-eu-ai-act-rules/"
+   "url": "https://lexontech.org/claude-writes-code-i-author-the-apps"
   },
   {
-   "headline": "I teach my students that in the AI era, critical thinking comes first.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/"
+   "headline": "Google Tightens Gemini Model Access As Free Users Lose Flash And Pro",
+   "outlet": "techbuild.africa",
+   "outlet_name": "techbuild.africa",
+   "label": "REPORTED",
+   "url": "https://techbuild.africa/google-gemini-free-users-lose-flash-pro-models/"
   },
   {
-   "headline": "Why Anthropic's Claude AI Is Now Processing Data Within India",
-   "outlet": "Rediff.com",
-   "outlet_name": "Rediff.com",
-   "label": "CONFIRMED",
-   "url": "https://www.rediff.com/business/report/anthropic-begins-local-ai-inference-for-india-data-processing/20261005.htm"
+   "headline": "AM Intelligence plans USD 20 BN additional investment in 15 months, orders 20K more…",
+   "outlet": "Press Trust of India on MSN",
+   "outlet_name": "Press Trust of India on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/am-intelligence-plans-usd-20-bn-additional-investment-in-15-months-orders-20k-more-nvidia-gpus/ar-AA2dBO0Y"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 11100,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 11300,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/18.mp3",
- "audio_seconds": 51.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/19.mp3",
+ "audio_seconds": 51.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per BBC: Pentagon stops using Anthropic AI tools after blacklisting company, BBC told.\nConfirmed, per The Verge: OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide.\nConfirmed, per CNBC: TechCheck: AI executives testify on safety risks.\nReported by Lieber Institute West Point: Asia-Pacific Journal Series – The De Jure Necessity and De Facto Improbability of Establishing a New Military AI Treaty.\nReported by The Tech Buzz: Google Pushes AI Tools Into Classrooms With Gemini Integration.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAn ex-Anthropic researcher testified before the NYC Council about artificial intelligence risks that are poorly understood, Confirmed by Bloomberg Law News.\nThe Pentagon has officially ended its use of Anthropic's Claude after a six-month phase-out, shifting to OpenAI and Google tools, Still open per Android Headlines.\nLila Ibrahim, Google's first Chief Artificial Intelligence Readiness Officer, shared how she uses the technology in her daily life, Confirmed by CNBC.\nNvidia-backed Reflection has unveiled an open artificial intelligence model, Reported by Bloomberg.\nApple is warning that artificial intelligence agents with Full Disk Access on Mac could expose your data, Confirmed by Yahoo Tech.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
