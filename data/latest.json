@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T06:20:01Z",
- "hour": "2026-10-05T06:00:00Z",
+ "generated_at": "2026-10-05T07:20:01Z",
+ "hour": "2026-10-05T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google is shrinking your Gemini choices unless you pay more",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
-   "url": "https://www.androidpolice.com/google-shrinking-gemini-choices-unless-you-pay-more/",
+   "title": "Tech Bytes: Google unveils Gemini 4 Argon as AI race shifts to autonomous work",
+   "outlet": "Yahoo Finance Australia",
+   "outlet_name": "Yahoo Finance Australia",
+   "url": "https://au.finance.yahoo.com/news/tech-bytes-google-unveils-gemini-235500704.html",
+   "label": "REPORTED",
+   "summary_1line": "Google's Gemini 4 Argon enables long, complex professional tasks with 1M-token capacity and internal use.",
+   "published_at": "2026-10-04T23:55:00Z"
+  },
+  {
+   "title": "AI self-policing proven failure: Former FTC chair",
+   "outlet": "Telangana Today",
+   "outlet_name": "Telangana Today",
+   "url": "https://telanganatoday.com/ai-self-policing-proven-failure-former-ftc-chair",
+   "label": "REPORTED",
+   "summary_1line": "Khan warns AI self-regulation is a proven failure, urging legal action and oversight.",
+   "published_at": "2026-10-05T05:53:59Z"
+  },
+  {
+   "title": "DeepSeek and Huawei take aim at Nvidia’s formidable moat",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
+   "url": "https://www.businesstimes.com.sg/opinion-features/deepseek-and-huawei-take-aim-nvidias-formidable-moat",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek and Huawei team up to challenge Nvidia's software dominance in China.",
+   "published_at": "2026-10-05T05:00:00Z"
+  },
+  {
+   "title": "Google Gemini cited in $69K crypto scam report",
+   "outlet": "Crypto News",
+   "outlet_name": "Crypto News",
+   "url": "https://crypto.news/google-gemini-cited-in-69k-crypto-scam-report/",
+   "label": "STILL OPEN",
+   "summary_1line": "Google Gemini allegedly recommended a scam site, leading to $69K in crypto losses.",
+   "published_at": "2026-10-05T05:21:00Z"
+  },
+  {
+   "title": "Internet Watch Foundation reports huge rise in AI child sexual abuse material",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
    "label": "CONFIRMED",
-   "summary_1line": "Google limits Gemini model access to paid users, prep for public Argon AI launch.",
-   "published_at": "2026-10-05T04:23:06Z"
-  },
-  {
-   "title": "DeepSeek narrows AI gap with US rivals to just 3%, threatening American dominance",
-   "outlet": "Mint",
-   "outlet_name": "Mint",
-   "url": "https://www.livemint.com/ai/deepseek-narrows-ai-gap-with-us-rivals-to-just-3-threatening-american-dominance-11791173222487.html",
-   "label": "CONFIRMED",
-   "summary_1line": "US-China AI performance gap shrinks to 3% as DeepSeek ranks sixth on LiveBench.",
-   "published_at": "2026-10-04T21:52:00Z"
-  },
-  {
-   "title": "Altman defends AI risk tolerance, contrasts OpenAI with Anthropic regulation push",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pT29EU2NQUG4xOTdTQjEya1Q5LVFQYm5mWlNpS0RQTDBwLXdxNUZYNE9pY2p1VUNBVXNFMDNHb1VoaEExTkFWYmJQOUhtVTRfeFFMaXFMUUtwOVFVd2V3QkRnTkE4d3FkMjVMcGxoR1lzeVBPb25vUEV30gGOAUFVX3lxTFAxSVltNlNLUmMyTW5rYXB2clFxbnRPVWs1NGVMdXVvRUtMNVNyQ19ONEtlWFhjeTZDbUhZWjVCczlQY2RvYkJVckFNX05HZUNxcncxbzhVa2ZSN2hWYlpJZmI5cmxSVllfSmI1R2w2cFlLdmxSTnRPb2VNYTMzc3FBR25SZG9oR1ZWRlp1VUE?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-05T05:22:00Z"
-  },
-  {
-   "title": "AI Governance Bill covering safety, human rights to be tabled in Dewan Rakyat early 2027",
-   "outlet": "DayakDaily",
-   "outlet_name": "DayakDaily",
-   "url": "https://dayakdaily.com/ai-governance-bill-covering-safety-human-rights-to-be-tabled-in-dewan-rakyat-early-2027/",
-   "label": "REPORTED",
-   "summary_1line": "Malaysia to table AI Governance Bill early next year with risk-based safety framework.",
-   "published_at": "2026-10-05T04:48:03Z"
-  },
-  {
-   "title": "Nach KI-Ausbruch: OpenAI feuert drei beteiligte Mitarbeiter",
-   "outlet": "Finanzen100",
-   "outlet_name": "Finanzen100",
-   "url": "https://www.finanzen100.de/news/nach-ki-ausbruch-openai-feuert-drei-beteiligte-mitarbeiter_dd46e84e-f9ce-4738-9890-5fe7c31a1dca.html",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI fires three employees over AI security breach and pauses training of top AI model.",
-   "published_at": "2026-10-05T04:00:00Z"
+   "summary_1line": "AI-generated child abuse material surged in 2026, prompting calls for new UK AI regulations.",
+   "published_at": "2026-10-05T05:00:49Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google is shrinking your Gemini choices unless you pay more",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
-   "label": "CONFIRMED",
-   "url": "https://www.androidpolice.com/google-shrinking-gemini-choices-unless-you-pay-more/"
-  },
-  {
-   "headline": "DeepSeek narrows AI gap with US rivals to just 3%, threatening American dominance",
-   "outlet": "Mint",
-   "outlet_name": "Mint",
-   "label": "CONFIRMED",
-   "url": "https://www.livemint.com/ai/deepseek-narrows-ai-gap-with-us-rivals-to-just-3-threatening-american-dominance-11791173222487.html"
-  },
-  {
-   "headline": "Altman defends AI risk tolerance, contrasts OpenAI with Anthropic regulation push",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
+   "headline": "Tech Bytes: Google unveils Gemini 4 Argon as AI race shifts to autonomous work",
+   "outlet": "Yahoo Finance Australia",
+   "outlet_name": "Yahoo Finance Australia",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pT29EU2NQUG4xOTdTQjEya1Q5LVFQYm5mWlNpS0RQTDBwLXdxNUZYNE9pY2p1VUNBVXNFMDNHb1VoaEExTkFWYmJQOUhtVTRfeFFMaXFMUUtwOVFVd2V3QkRnTkE4d3FkMjVMcGxoR1lzeVBPb25vUEV30gGOAUFVX3lxTFAxSVltNlNLUmMyTW5rYXB2clFxbnRPVWs1NGVMdXVvRUtMNVNyQ19ONEtlWFhjeTZDbUhZWjVCczlQY2RvYkJVckFNX05HZUNxcncxbzhVa2ZSN2hWYlpJZmI5cmxSVllfSmI1R2w2cFlLdmxSTnRPb2VNYTMzc3FBR25SZG9oR1ZWRlp1VUE?oc=5"
+   "url": "https://au.finance.yahoo.com/news/tech-bytes-google-unveils-gemini-235500704.html"
   },
   {
-   "headline": "AI Governance Bill covering safety, human rights to be tabled in Dewan Rakyat early 2027",
-   "outlet": "DayakDaily",
-   "outlet_name": "DayakDaily",
+   "headline": "AI self-policing proven failure: Former FTC chair",
+   "outlet": "Telangana Today",
+   "outlet_name": "Telangana Today",
    "label": "REPORTED",
-   "url": "https://dayakdaily.com/ai-governance-bill-covering-safety-human-rights-to-be-tabled-in-dewan-rakyat-early-2027/"
+   "url": "https://telanganatoday.com/ai-self-policing-proven-failure-former-ftc-chair"
   },
   {
-   "headline": "Nach KI-Ausbruch: OpenAI feuert drei beteiligte Mitarbeiter",
-   "outlet": "Finanzen100",
-   "outlet_name": "Finanzen100",
+   "headline": "DeepSeek and Huawei take aim at Nvidia’s formidable moat",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
    "label": "REPORTED",
-   "url": "https://www.finanzen100.de/news/nach-ki-ausbruch-openai-feuert-drei-beteiligte-mitarbeiter_dd46e84e-f9ce-4738-9890-5fe7c31a1dca.html"
+   "url": "https://www.businesstimes.com.sg/opinion-features/deepseek-and-huawei-take-aim-nvidias-formidable-moat"
+  },
+  {
+   "headline": "Google Gemini cited in $69K crypto scam report",
+   "outlet": "Crypto News",
+   "outlet_name": "Crypto News",
+   "label": "STILL OPEN",
+   "url": "https://crypto.news/google-gemini-cited-in-69k-crypto-scam-report/"
   },
   {
    "headline": "Internet Watch Foundation reports huge rise in AI child sexual abuse material",
@@ -95,32 +88,46 @@
    "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material"
   },
   {
-   "headline": "Tech Bytes: Google unveils Gemini 4 Argon as AI race shifts to autonomous work",
-   "outlet": "Yahoo Finance Australia",
-   "outlet_name": "Yahoo Finance Australia",
+   "headline": "Anthropic Brings Claude Inference to India Through Amazon Bedrock",
+   "outlet": "CIOL",
+   "outlet_name": "CIOL",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWluUnNmVDBBM2RiWHFBRUh5a1J1T29xREJqQm5JZFdWcEVLd3lWVU1VSlhxa3Vmbklwd0syanV4WTBKUEotZWhGWlpFY0NyaC1pQWJqVHNqeS00Y2cxaW5YMnBjUzVtQWxhUUZ2LVc3RVRJNHpkMXBEUTdNS3lhdk1NbTQ2MTNl?oc=5"
+   "url": "https://www.ciol.com/news/anthropic-brings-claude-inference-to-india-through-amazon-bedrock-12624247"
   },
   {
-   "headline": "University of Alaska regents weigh AI policy as student misuse increases",
-   "outlet": "Anchorage Daily News",
-   "outlet_name": "Anchorage Daily News",
-   "label": "REPORTED",
-   "url": "https://www.adn.com/alaska-news/education/2026/10/04/ai-policy-coming-to-university-of-alaska-as-student-misuse-increases/"
+   "headline": "Trump Launches ‘Super Intelligence Force’ to Drive US AI Leadership",
+   "outlet": "Crypto News Australia",
+   "outlet_name": "Crypto News Australia",
+   "label": "CONFIRMED",
+   "url": "https://cryptonews.com.au/news/trump-launches-super-intelligence-force-to-drive-us-ai-leadership-135105/"
   },
   {
-   "headline": "Gobind: High-risk AI systems to face stricter safeguards under new Bill",
-   "outlet": "thestar.com.my",
-   "outlet_name": "thestar.com.my",
+   "headline": "Google Gemini plans are changing from October 9: Free, AI Plus users face new limits on…",
+   "outlet": "Business Today",
+   "outlet_name": "Business Today",
    "label": "REPORTED",
-   "url": "https://www.thestar.com.my/news/nation/2026/10/05/gobind-high-risk-ai-systems-to-face-stricter-safeguards-under-new-bill"
+   "url": "https://www.businesstoday.in/technology/news/story/google-gemini-plans-are-changing-from-october-9-free-ai-plus-users-face-new-limits-on-ai-model-access-559434-2026-10-05"
   },
   {
-   "headline": "Anthropic rolls out local Claude inference in India through Amazon Bedrock",
-   "outlet": "Moneycontrol.com",
-   "outlet_name": "Moneycontrol.com",
+   "headline": "Watch Chinese AI Labs Catch Up to OpenAI, Anthropic",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON0RPdi1GV1d0emFsdzFLRFpkbG9hN2RHeXg4SGU0eTQ0RS01SWI5SV9xSUVrWWJkOTMtR1l5ZjJfcmhnS3hjRHg1T0J0bHU1bEQzTHlrczhBc1BKV1djdGdzYW5pV0VNb2RpSzBZQnMwNmQ0T2ZFV0RxcTB0UWpkbGtkWmtxcUszTTktYWxCWGlQVnUxYWU2bGZVcDNGeU9FeHdVcDVvR2NRckxVNEUzLTI0bG8zOXZMcU1pU0NHLW9pR3hSSUFEa0dFQzgwbFFYRWhhZzJoTERaay1RYWgzVlMxUdIB6AFBVV95cUxNa09HbEpBNm91QnB1MEtZRDVMM1BUUGVGZzk2U3NLcndxU2FhcFZKaDN2VWltZUhaNk4tZzNhZ0lMUlNXZWgxdlZ4MFY0TzlOREctWVp0bWxLWHRmMUExX0N2eHpqUnk3Z1NCb3FHUmphSTlXS2U1c0FRQW9SeEFFbXJzeGlpVHJoX0VMT2xIMGszRGVzb3NGeV92UEpYRU8zVUJ1NHBDUGszekxweGRSQ2puNWRKM2s1OTJkMVN1RlBTd0Z4OFRiYng1cHFBS21IdVBDbzduR1dBYmYwdkU1Q2Z6aGhBSmM0?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU0o4cDdQZUJ2aUFrenZtbERaZEI3VU9TQ3FyX3hYQnkxOGNxSjN2bTYySllyTUVyNENGVGtKdVhXMUpERFRWdjU1b0lRampjSnJIdjlNQnNZVTZ3WVBNTGl6UUZaZDVYR0pJdEMzZ3czVXdBT3gySGluQzVaZ0k0V1BpMXZNZw?oc=5"
+  },
+  {
+   "headline": "Anthropic launches first Academy for Enterprise AI Engineers",
+   "outlet": "El.kz",
+   "outlet_name": "El.kz",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3JGMjJpaWplc3Bjbk5kT2Zpc1pSemNibW82TjQ5NXNYcDBYNHNnM2R0d01Ba2xLQTBBSFYxNmVmRjBFMzVhM2VsZ0ZCVGE0OWpOYlBMRlNMR3VYVGR3bVgyano4VWRHRjhKaHRaVTNWN0hKd25zUEVuM2IySEZEc1Y0a0cyQkFMV3RtU2pYZ1Yxd9IBlwFBVV95cUxNRWpLZVZyc3ZNN1BCQUZXZm1GcGNTMWFra3o3Z2tMcmhxRzNQSlNqTlcwTTk5bUt6UFlmR1V4cmNBVjE3cmt1cU9rNTV2Mm84X1RhY3dSYnlTanRvV0FONUZWY0pLd0RGRlNVZ0lGbFVDYUZHbGxrekVMMmlJWlVsSVZvSXJFT0tkd0FsMVpsSEUwSmF1cmlj?oc=5"
+  },
+  {
+   "headline": "Making AI training available to UK and Ireland educators",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "REPORTED",
+   "url": "https://blog.google/products-and-platforms/products/education/making-ai-training-available-to-uk-and-ireland-educators/"
   },
   {
    "headline": "Pitch deck: French AI pentesting startup Fleuret AI raises €4M pre-seed",
@@ -128,23 +135,16 @@
    "outlet_name": "techfundingnews.com",
    "label": "STILL OPEN",
    "url": "https://techfundingnews.com/fleuret-ai-raises-4m-pre-seed-raise-ventures-autonomous-pentesting/"
-  },
-  {
-   "headline": "OpenAI stops training latests models, citing safety concerns | Center for Security and…",
-   "outlet": "cset.georgetown.edu",
-   "outlet_name": "cset.georgetown.edu",
-   "label": "REPORTED",
-   "url": "https://cset.georgetown.edu/article/openai-stops-training-latests-models-citing-safety-concerns/"
   }
  ],
- "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 8500,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 8700,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/06.mp3",
- "audio_seconds": 57.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/07.mp3",
+ "audio_seconds": 68.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle limits Gemini model access to paid users, according to Android Police Confirmed, as the company preps for a public Argon AI launch.\nThe US-China artificial intelligence performance gap has narrowed to just 3 percent, Confirmed per Mint, with DeepSeek now ranking sixth on LiveBench.\nReported by Chosunbiz: Sam Altman defends artificial intelligence risk tolerance and contrasts OpenAI's approach with Anthropic's push for regulation.\nMalaysia plans to table an AI Governance Bill early next year, Reported by DayakDaily, with a risk-based safety framework for coverage of safety and human rights.\nOpenAI has fired three employees over an artificial intelligence security breach and paused training of its top artificial intelligence model, Reported by Finanzen100.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle unveiled Gemini 4 Argon, a new model enabling long, complex professional tasks with 1M-token capacity for internal use. Reported by Yahoo Finance Australia.\nKhan, former FTC chair, warns that artificial intelligence self-regulation is a proven failure and urges legal action and oversight. Reported by Telangana Today.\nDeepSeek and Huawei are teaming up to challenge Nvidia's software dominance in China. Reported by The Business Times.\nGoogle Gemini was allegedly cited in a $69K crypto scam report, with the chatbot recommending a scam site. Still open, per Crypto News.\nThe Internet Watch Foundation reports a huge rise in artificial intelligence-generated child sexual abuse material in 2026, prompting calls for new UK artificial intelligence regulations. Confirmed by The Guardian.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
