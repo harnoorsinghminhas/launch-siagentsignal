@@ -1,91 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T05:20:01Z",
- "hour": "2026-10-05T05:00:00Z",
+ "generated_at": "2026-10-05T06:20:01Z",
+ "hour": "2026-10-05T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Claude goes live in India with in-country inference through Amazon Bedrock",
-   "outlet": "Express Computer",
-   "outlet_name": "Express Computer",
-   "url": "https://www.expresscomputer.in/news/claude-goes-live-in-india-with-in-country-inference-through-amazon-bedrock/139422/",
+   "title": "Google is shrinking your Gemini choices unless you pay more",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
+   "url": "https://www.androidpolice.com/google-shrinking-gemini-choices-unless-you-pay-more/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic enables local AI inference in India for regulated sectors via Amazon Bedrock.",
-   "published_at": "2026-10-04T17:00:00Z"
+   "summary_1line": "Google limits Gemini model access to paid users, prep for public Argon AI launch.",
+   "published_at": "2026-10-05T04:23:06Z"
   },
   {
-   "title": "Gemini Gains Access to Google Wallet: Tickets, Expenses, and Rewards via Voice Commands",
-   "outlet": "Basic Tutorials",
-   "outlet_name": "Basic Tutorials",
-   "url": "https://basic-tutorials.com/news/gemini-gains-access-to-google-wallet-tickets-expenses-and-rewards-via-voice-commands/",
-   "label": "REPORTED",
-   "summary_1line": "Gemini gains read-only access to Google Wallet in U.S. for users 18+.",
-   "published_at": "2026-10-05T03:05:27Z"
+   "title": "DeepSeek narrows AI gap with US rivals to just 3%, threatening American dominance",
+   "outlet": "Mint",
+   "outlet_name": "Mint",
+   "url": "https://www.livemint.com/ai/deepseek-narrows-ai-gap-with-us-rivals-to-just-3-threatening-american-dominance-11791173222487.html",
+   "label": "CONFIRMED",
+   "summary_1line": "US-China AI performance gap shrinks to 3% as DeepSeek ranks sixth on LiveBench.",
+   "published_at": "2026-10-04T21:52:00Z"
   },
   {
-   "title": "Yotta’s Nvidia GPU push enters execution phase",
-   "outlet": "Communications Today",
-   "outlet_name": "Communications Today",
-   "url": "https://www.communicationstoday.co.in/yottas-nvidia-gpu-push-enters-execution-phase/",
-   "label": "REPORTED",
-   "summary_1line": "Yotta’s AI compute hub begins GPU deliveries with 5,110 B200s and 20,736 B300s, targeting enterprise and sovereign AI demand.",
-   "published_at": "2026-10-05T02:13:05Z"
-  },
-  {
-   "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.com/news/articles/cqj6jenp26zyo",
+   "title": "Altman defends AI risk tolerance, contrasts OpenAI with Anthropic regulation push",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pT29EU2NQUG4xOTdTQjEya1Q5LVFQYm5mWlNpS0RQTDBwLXdxNUZYNE9pY2p1VUNBVXNFMDNHb1VoaEExTkFWYmJQOUhtVTRfeFFMaXFMUUtwOVFVd2V3QkRnTkE4d3FkMjVMcGxoR1lzeVBPb25vUEV30gGOAUFVX3lxTFAxSVltNlNLUmMyTW5rYXB2clFxbnRPVWs1NGVMdXVvRUtMNVNyQ19ONEtlWFhjeTZDbUhZWjVCczlQY2RvYkJVckFNX05HZUNxcncxbzhVa2ZSN2hWYlpJZmI5cmxSVllfSmI1R2w2cFlLdmxSTnRPb2VNYTMzc3FBR25SZG9oR1ZWRlp1VUE?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-05T03:37:41Z"
+   "published_at": "2026-10-05T05:22:00Z"
   },
   {
-   "title": "Singapore's OneByZero raises $20M Series A from Jungle Ventures for enterprise AI",
-   "outlet": "TNGlobal",
-   "outlet_name": "TNGlobal",
-   "url": "https://technode.global/2026/10/05/994377/",
+   "title": "AI Governance Bill covering safety, human rights to be tabled in Dewan Rakyat early 2027",
+   "outlet": "DayakDaily",
+   "outlet_name": "DayakDaily",
+   "url": "https://dayakdaily.com/ai-governance-bill-covering-safety-human-rights-to-be-tabled-in-dewan-rakyat-early-2027/",
    "label": "REPORTED",
-   "summary_1line": "OneByZero raises $20M to scale AI teams and enter healthcare and public sector in Asia.",
-   "published_at": "2026-10-05T03:26:05Z"
+   "summary_1line": "Malaysia to table AI Governance Bill early next year with risk-based safety framework.",
+   "published_at": "2026-10-05T04:48:03Z"
+  },
+  {
+   "title": "Nach KI-Ausbruch: OpenAI feuert drei beteiligte Mitarbeiter",
+   "outlet": "Finanzen100",
+   "outlet_name": "Finanzen100",
+   "url": "https://www.finanzen100.de/news/nach-ki-ausbruch-openai-feuert-drei-beteiligte-mitarbeiter_dd46e84e-f9ce-4738-9890-5fe7c31a1dca.html",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI fires three employees over AI security breach and pauses training of top AI model.",
+   "published_at": "2026-10-05T04:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Claude goes live in India with in-country inference through Amazon Bedrock",
-   "outlet": "Express Computer",
-   "outlet_name": "Express Computer",
+   "headline": "Google is shrinking your Gemini choices unless you pay more",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
    "label": "CONFIRMED",
-   "url": "https://www.expresscomputer.in/news/claude-goes-live-in-india-with-in-country-inference-through-amazon-bedrock/139422/"
+   "url": "https://www.androidpolice.com/google-shrinking-gemini-choices-unless-you-pay-more/"
   },
   {
-   "headline": "Gemini Gains Access to Google Wallet: Tickets, Expenses, and Rewards via Voice Commands",
-   "outlet": "Basic Tutorials",
-   "outlet_name": "Basic Tutorials",
-   "label": "REPORTED",
-   "url": "https://basic-tutorials.com/news/gemini-gains-access-to-google-wallet-tickets-expenses-and-rewards-via-voice-commands/"
+   "headline": "DeepSeek narrows AI gap with US rivals to just 3%, threatening American dominance",
+   "outlet": "Mint",
+   "outlet_name": "Mint",
+   "label": "CONFIRMED",
+   "url": "https://www.livemint.com/ai/deepseek-narrows-ai-gap-with-us-rivals-to-just-3-threatening-american-dominance-11791173222487.html"
   },
   {
-   "headline": "Yotta’s Nvidia GPU push enters execution phase",
-   "outlet": "Communications Today",
-   "outlet_name": "Communications Today",
+   "headline": "Altman defends AI risk tolerance, contrasts OpenAI with Anthropic regulation push",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
    "label": "REPORTED",
-   "url": "https://www.communicationstoday.co.in/yottas-nvidia-gpu-push-enters-execution-phase/"
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pT29EU2NQUG4xOTdTQjEya1Q5LVFQYm5mWlNpS0RQTDBwLXdxNUZYNE9pY2p1VUNBVXNFMDNHb1VoaEExTkFWYmJQOUhtVTRfeFFMaXFMUUtwOVFVd2V3QkRnTkE4d3FkMjVMcGxoR1lzeVBPb25vUEV30gGOAUFVX3lxTFAxSVltNlNLUmMyTW5rYXB2clFxbnRPVWs1NGVMdXVvRUtMNVNyQ19ONEtlWFhjeTZDbUhZWjVCczlQY2RvYkJVckFNX05HZUNxcncxbzhVa2ZSN2hWYlpJZmI5cmxSVllfSmI1R2w2cFlLdmxSTnRPb2VNYTMzc3FBR25SZG9oR1ZWRlp1VUE?oc=5"
   },
   {
-   "headline": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
+   "headline": "AI Governance Bill covering safety, human rights to be tabled in Dewan Rakyat early 2027",
+   "outlet": "DayakDaily",
+   "outlet_name": "DayakDaily",
    "label": "REPORTED",
-   "url": "https://www.bbc.com/news/articles/cqj6jenp26zyo"
+   "url": "https://dayakdaily.com/ai-governance-bill-covering-safety-human-rights-to-be-tabled-in-dewan-rakyat-early-2027/"
   },
   {
-   "headline": "Singapore's OneByZero raises $20M Series A from Jungle Ventures for enterprise AI",
-   "outlet": "TNGlobal",
-   "outlet_name": "TNGlobal",
+   "headline": "Nach KI-Ausbruch: OpenAI feuert drei beteiligte Mitarbeiter",
+   "outlet": "Finanzen100",
+   "outlet_name": "Finanzen100",
    "label": "REPORTED",
-   "url": "https://technode.global/2026/10/05/994377/"
+   "url": "https://www.finanzen100.de/news/nach-ki-ausbruch-openai-feuert-drei-beteiligte-mitarbeiter_dd46e84e-f9ce-4738-9890-5fe7c31a1dca.html"
+  },
+  {
+   "headline": "Internet Watch Foundation reports huge rise in AI child sexual abuse material",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "CONFIRMED",
+   "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material"
+  },
+  {
+   "headline": "Tech Bytes: Google unveils Gemini 4 Argon as AI race shifts to autonomous work",
+   "outlet": "Yahoo Finance Australia",
+   "outlet_name": "Yahoo Finance Australia",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWluUnNmVDBBM2RiWHFBRUh5a1J1T29xREJqQm5JZFdWcEVLd3lWVU1VSlhxa3Vmbklwd0syanV4WTBKUEotZWhGWlpFY0NyaC1pQWJqVHNqeS00Y2cxaW5YMnBjUzVtQWxhUUZ2LVc3RVRJNHpkMXBEUTdNS3lhdk1NbTQ2MTNl?oc=5"
   },
   {
    "headline": "University of Alaska regents weigh AI policy as student misuse increases",
@@ -95,13 +109,6 @@
    "url": "https://www.adn.com/alaska-news/education/2026/10/04/ai-policy-coming-to-university-of-alaska-as-student-misuse-increases/"
   },
   {
-   "headline": "Ex-Anthropic employee who quit over safety concerns to testify at NYC council hearing",
-   "outlet": "Washington Examiner on MSN",
-   "outlet_name": "Washington Examiner on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/news/ex-anthropic-employee-who-quit-over-safety-concerns-to-testify-at-nyc-council-hearing/ar-AA2dzOmd"
-  },
-  {
    "headline": "Gobind: High-risk AI systems to face stricter safeguards under new Bill",
    "outlet": "thestar.com.my",
    "outlet_name": "thestar.com.my",
@@ -109,11 +116,18 @@
    "url": "https://www.thestar.com.my/news/nation/2026/10/05/gobind-high-risk-ai-systems-to-face-stricter-safeguards-under-new-bill"
   },
   {
-   "headline": "Homestead: A framework around Claude Code",
-   "outlet": "mullet.town",
-   "outlet_name": "mullet.town",
+   "headline": "Anthropic rolls out local Claude inference in India through Amazon Bedrock",
+   "outlet": "Moneycontrol.com",
+   "outlet_name": "Moneycontrol.com",
    "label": "REPORTED",
-   "url": "https://mullet.town/homestead"
+   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxON0RPdi1GV1d0emFsdzFLRFpkbG9hN2RHeXg4SGU0eTQ0RS01SWI5SV9xSUVrWWJkOTMtR1l5ZjJfcmhnS3hjRHg1T0J0bHU1bEQzTHlrczhBc1BKV1djdGdzYW5pV0VNb2RpSzBZQnMwNmQ0T2ZFV0RxcTB0UWpkbGtkWmtxcUszTTktYWxCWGlQVnUxYWU2bGZVcDNGeU9FeHdVcDVvR2NRckxVNEUzLTI0bG8zOXZMcU1pU0NHLW9pR3hSSUFEa0dFQzgwbFFYRWhhZzJoTERaay1RYWgzVlMxUdIB6AFBVV95cUxNa09HbEpBNm91QnB1MEtZRDVMM1BUUGVGZzk2U3NLcndxU2FhcFZKaDN2VWltZUhaNk4tZzNhZ0lMUlNXZWgxdlZ4MFY0TzlOREctWVp0bWxLWHRmMUExX0N2eHpqUnk3Z1NCb3FHUmphSTlXS2U1c0FRQW9SeEFFbXJzeGlpVHJoX0VMT2xIMGszRGVzb3NGeV92UEpYRU8zVUJ1NHBDUGszekxweGRSQ2puNWRKM2s1OTJkMVN1RlBTd0Z4OFRiYng1cHFBS21IdVBDbzduR1dBYmYwdkU1Q2Z6aGhBSmM0?oc=5"
+  },
+  {
+   "headline": "Pitch deck: French AI pentesting startup Fleuret AI raises €4M pre-seed",
+   "outlet": "techfundingnews.com",
+   "outlet_name": "techfundingnews.com",
+   "label": "STILL OPEN",
+   "url": "https://techfundingnews.com/fleuret-ai-raises-4m-pre-seed-raise-ventures-autonomous-pentesting/"
   },
   {
    "headline": "OpenAI stops training latests models, citing safety concerns | Center for Security and…",
@@ -121,30 +135,16 @@
    "outlet_name": "cset.georgetown.edu",
    "label": "REPORTED",
    "url": "https://cset.georgetown.edu/article/openai-stops-training-latests-models-citing-safety-concerns/"
-  },
-  {
-   "headline": "Google To Restrict Gemini Model Access For Free, AI Plus Users From 9 October",
-   "outlet": "Lowyat.NET",
-   "outlet_name": "Lowyat.NET",
-   "label": "REPORTED",
-   "url": "https://www.lowyat.net/2026/406282/google-gemini-access-free-ai-plus-users/"
-  },
-  {
-   "headline": "Alibaba Cloud Unveils Agent-Native Innovations at WAIC 2026",
-   "outlet": "alibabacloud.com",
-   "outlet_name": "alibabacloud.com",
-   "label": "REPORTED",
-   "url": "https://www.alibabacloud.com/blog/alibaba-cloud-unveils-agent-native-innovations-at-waic-2026_603377"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 8400,
- "articles_24h_label": "about 8,000",
+ "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 8500,
+ "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/05.mp3",
- "audio_seconds": 47.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/06.mp3",
+ "audio_seconds": 57.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Express Computer: Claude goes live in India with in-country inference through Amazon Bedrock.\nReported by Basic Tutorials: Gemini Gains Access to Google Wallet: Tickets, Expenses, and Rewards via Voice Commands.\nReported by Communications Today: Yotta’s Nvidia GPU push enters execution phase.\nReported by BBC: Trump unveils 'Super Intelligence Force' to oversee AI policy.\nReported by TNGlobal: Singapore's OneByZero raises $20M Series A from Jungle Ventures for enterprise AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle limits Gemini model access to paid users, according to Android Police Confirmed, as the company preps for a public Argon AI launch.\nThe US-China artificial intelligence performance gap has narrowed to just 3 percent, Confirmed per Mint, with DeepSeek now ranking sixth on LiveBench.\nReported by Chosunbiz: Sam Altman defends artificial intelligence risk tolerance and contrasts OpenAI's approach with Anthropic's push for regulation.\nMalaysia plans to table an AI Governance Bill early next year, Reported by DayakDaily, with a risk-based safety framework for coverage of safety and human rights.\nOpenAI has fired three employees over an artificial intelligence security breach and paused training of its top artificial intelligence model, Reported by Finanzen100.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
