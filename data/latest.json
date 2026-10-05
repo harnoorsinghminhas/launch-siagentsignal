@@ -1,98 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-04T23:20:01Z",
- "hour": "2026-10-04T23:00:00Z",
+ "generated_at": "2026-10-05T00:20:01Z",
+ "hour": "2026-10-05T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI’s Altman draws regulatory divide with Anthropic over AI risks: Politico",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/seekingalpha:0d20c8ab5094b:0-openai-s-altman-draws-regulatory-divide-with-anthropic-over-ai-risks-politico/",
+   "title": "Trump announces members of ‘Super Intelligence Force’ to coordinate AI policy",
+   "outlet": "nbcnews.com",
+   "outlet_name": "NBC News",
+   "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-members-ai-task-force-rcna601494",
    "label": "REPORTED",
-   "summary_1line": "OpenAI and Anthropic clash over AI regulation, with OpenAI favoring broad access and Anthropic pushing for stronger safeguards.",
-   "published_at": "2026-10-04T21:16:51Z"
+   "summary_1line": "Trump names Jay Clayton to lead AI task force, calling it the Super Intelligence Force.",
+   "published_at": "2026-10-04T23:09:09Z"
   },
   {
-   "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-   "label": "CONFIRMED",
-   "summary_1line": "Trump rebrands AI as 'super intelligence' in executive order, with tech CEOs signing a non-binding pact.",
-   "published_at": "2026-10-04T20:08:34Z"
+   "title": "Legal risks mount for OpenAI",
+   "outlet": "semafor.com",
+   "outlet_name": "Semafor",
+   "url": "https://www.semafor.com/article/10/04/2026/legal-risks-mount-for-openai",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI faces legal risks and employee resignations over AI safety concerns.",
+   "published_at": "2026-10-04T22:34:47Z"
   },
   {
-   "title": "I used Claude Code, Codex, and Google Antigravity to build my dream note-taking app, and one is in a different league",
-   "outlet": "XDA",
-   "outlet_name": "XDA",
-   "url": "https://www.xda-developers.com/built-the-same-note-taking-app-with-claude-code-codex-and-google-antigravity/",
+   "title": "US lead in AI over China narrows after DeepSeek gains, BI says",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
+   "url": "https://www.businesstimes.com.sg/international/us-lead-ai-over-china-narrows-after-deepseek-gains-bi-says",
    "label": "REPORTED",
-   "summary_1line": "Codex built a usable note-taking app from an open-ended prompt, outperforming others in design and testing.",
-   "published_at": "2026-10-04T21:30:17Z"
+   "summary_1line": "DeepSeek's AI gains close US-China gap to 3%, challenging US AI dominance.",
+   "published_at": "2026-10-04T22:22:00Z"
   },
   {
-   "title": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model Fits Which Job",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
-   "url": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/",
+   "title": "I turned Gemini Notebook into my gardening expert; my plants finally stopped dying",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
+   "url": "https://www.androidpolice.com/turned-gemini-notebook-into-gardening-expert-plants-finally-stopped-dying/",
    "label": "REPORTED",
-   "summary_1line": "Four frontier AI models launched in 30 days; OpenAI cancels GPT-6.1 Astra, with pricing and access rules varying by model.",
-   "published_at": "2026-10-04T13:59:00Z"
+   "summary_1line": "User uses Gemini Notebook to monitor plants and create care tasks.",
+   "published_at": "2026-10-04T22:00:10Z"
   },
   {
-   "title": "U.S. Senator Josh Hawley to introduce Stop Flock Abuse Act regulating AI surveillance cameras",
-   "outlet": "KQ2",
-   "outlet_name": "KQ2",
-   "url": "https://www.kq2.com/news/2026/10/04/u-s-senator-josh-hawley-to-introduce-stop-flock-abuse-act-regulating-ai-surveillance-cameras/",
+   "title": "MongoDB launches Atlas Agent Engine for production AI",
+   "outlet": "IT Brief Asia",
+   "outlet_name": "IT Brief Asia",
+   "url": "https://itbrief.asia/story/mongodb-launches-atlas-agent-engine-for-production-ai",
    "label": "REPORTED",
-   "summary_1line": "Google uses cookies for authentication, personalization, and cross-device tracking.",
-   "published_at": "2026-10-04T20:24:11Z"
+   "summary_1line": "MongoDB launches Atlas Agent Engine for enterprise AI agent deployment with governance and open standards.",
+   "published_at": "2026-10-04T21:45:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI’s Altman draws regulatory divide with Anthropic over AI risks: Politico",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "Trump announces members of ‘Super Intelligence Force’ to coordinate AI policy",
+   "outlet": "nbcnews.com",
+   "outlet_name": "NBC News",
    "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/seekingalpha:0d20c8ab5094b:0-openai-s-altman-draws-regulatory-divide-with-anthropic-over-ai-risks-politico/"
+   "url": "https://www.nbcnews.com/politics/trump-administration/trump-announces-members-ai-task-force-rcna601494"
   },
   {
-   "headline": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/"
-  },
-  {
-   "headline": "I used Claude Code, Codex, and Google Antigravity to build my dream note-taking app, and…",
-   "outlet": "XDA",
-   "outlet_name": "XDA",
+   "headline": "Legal risks mount for OpenAI",
+   "outlet": "semafor.com",
+   "outlet_name": "Semafor",
    "label": "REPORTED",
-   "url": "https://www.xda-developers.com/built-the-same-note-taking-app-with-claude-code-codex-and-google-antigravity/"
+   "url": "https://www.semafor.com/article/10/04/2026/legal-risks-mount-for-openai"
   },
   {
-   "headline": "GPT-6 Astra vs GPT-6.1 Sol vs Gemini 4 Argon vs Claude Fable 5.1: Which Frontier Model…",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
+   "headline": "US lead in AI over China narrows after DeepSeek gains, BI says",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
    "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/04/gpt-6-astra-vs-gpt-6-1-sol-vs-gemini-4-argon-vs-claude-fable-5-1-which-frontier-model-fits-which-job/"
+   "url": "https://www.businesstimes.com.sg/international/us-lead-ai-over-china-narrows-after-deepseek-gains-bi-says"
   },
   {
-   "headline": "U.S. Senator Josh Hawley to introduce Stop Flock Abuse Act regulating AI surveillance…",
-   "outlet": "KQ2",
-   "outlet_name": "KQ2",
+   "headline": "I turned Gemini Notebook into my gardening expert; my plants finally stopped dying",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
    "label": "REPORTED",
-   "url": "https://www.kq2.com/news/2026/10/04/u-s-senator-josh-hawley-to-introduce-stop-flock-abuse-act-regulating-ai-surveillance-cameras/"
-  },
-  {
-   "headline": "Could AI be conscious? Why Anthropic is turning to the Vatican",
-   "outlet": "The News International",
-   "outlet_name": "The News International",
-   "label": "STILL OPEN",
-   "url": "https://www.thenews.com.pk/latest/1418746-could-ai-be-conscious-why-anthropic-is-turning-to-the-vatican"
+   "url": "https://www.androidpolice.com/turned-gemini-notebook-into-gardening-expert-plants-finally-stopped-dying/"
   },
   {
    "headline": "MongoDB launches Atlas Agent Engine for production AI",
@@ -109,11 +95,18 @@
    "url": "https://www.theglobeandmail.com/investing/markets/stocks/NVDA-Q/pressreleases/4952420/is-copilot-microsoft-s-secret-weapon-in-the-ai-arms-race/"
   },
   {
-   "headline": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "AI needs more safety layers: ex-OpenAI engineer",
+   "outlet": "Taipei Times",
+   "outlet_name": "Taipei Times",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says"
+   "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/05/2003865388"
+  },
+  {
+   "headline": "Show HN: EditUI – Cursor/Claude Design-style UI editing directly in the browser",
+   "outlet": "editui.app",
+   "outlet_name": "editui.app",
+   "label": "REPORTED",
+   "url": "https://www.editui.app/"
   },
   {
    "headline": "Court throws out killer’s sentence after judge said he loved AI video of slain man",
@@ -121,6 +114,13 @@
    "outlet_name": "NBC News on MSN",
    "label": "CONFIRMED",
    "url": "https://www.msn.com/en-us/news/other/court-throws-out-killer-s-sentence-after-judge-said-he-loved-ai-video-of-slain-man/ar-AA2dyOOJ"
+  },
+  {
+   "headline": "Sam Altman says OpenAI and Anthropic still hold fundamentally different worldviews on AI…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "label": "REPORTED",
+   "url": "https://www.techmeme.com/261004/p19#a261004p19"
   },
   {
    "headline": "Claude Code Found My Pirc and King's Indian Mistakes",
@@ -137,14 +137,14 @@
    "url": "https://shattered.io/openai-jalapeno-chip-3-6x-lower-latency-nvidia-2026/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 7000,
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 7100,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/04/23.mp3",
- "audio_seconds": 61.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/00.mp3",
+ "audio_seconds": 52.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI and Anthropic are clashing over artificial intelligence regulation, with OpenAI favoring broad access while Anthropic pushes for stronger safeguards. Reported by TradingView.\nTrump rebrands artificial intelligence as super intelligence in an executive order, with tech CEOs signing a non-binding safety pact. Confirmed by TechCrunch.\nCodex built a usable note-taking app from an open-ended prompt, outperforming others in design and testing. Reported by XDA.\nFour frontier artificial intelligence models launched in 30 days, with OpenAI canceling GPT-6.1 Astra and pricing and access rules varying by model. Reported by MarkTechPost.\nGoogle uses cookies for authentication, personalization, and cross-device tracking. Reported by KQ2.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by NBC News: Trump announces members of ‘Super Intelligence Force’ to coordinate AI policy.\nReported by Semafor: Legal risks mount for OpenAI.\nReported by The Business Times: US lead in AI over China narrows after DeepSeek gains, BI says.\nReported by Android Police: I turned Gemini Notebook into my gardening expert; my plants finally stopped dying.\nReported by IT Brief Asia: MongoDB launches Atlas Agent Engine for production AI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
