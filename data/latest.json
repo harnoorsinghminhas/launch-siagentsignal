@@ -1,105 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T14:20:02Z",
- "hour": "2026-10-05T14:00:00Z",
+ "generated_at": "2026-10-05T15:20:01Z",
+ "hour": "2026-10-05T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
+   "title": "OpenAI is sticking more ads in ChatGPT",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI tests visual ads in US for image generation in ChatGPT.",
+   "published_at": "2026-10-05T13:09:48Z"
+  },
+  {
+   "title": "OpenAI must explain action taken to stop AI hacking Australians’ private data, chair of federal inquiry says",
    "outlet": "theguardian.com",
    "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says",
    "label": "CONFIRMED",
-   "summary_1line": "Altman says world should accept AI harms for benefits, sparking backlash and safety concerns.",
-   "published_at": "2026-10-05T12:56:18Z"
+   "summary_1line": "OpenAI faces federal inquiry over AI data access and delayed notification to Australia.",
+   "published_at": "2026-10-05T14:00:27Z"
   },
   {
-   "title": "Manulife Announces Presenting Partnership of The Hinton Lectures™ on AI Safety",
-   "outlet": "PR Newswire UK",
-   "outlet_name": "PR Newswire UK",
-   "url": "https://www.prnewswire.co.uk/news-releases/manulife-announces-presenting-partnership-of-the-hinton-lectures-on-ai-safety-302897442.html",
+   "title": "OpenAI’s Sam Altman warns against turning AI into a god in apparent criticism of rival Anthropic",
+   "outlet": "The Independent",
+   "outlet_name": "The Independent",
+   "url": "https://www.independent.co.uk/tech/openai-sam-altman-anthropic-ai-claude-god-pope-b3061519.html",
    "label": "CONFIRMED",
-   "summary_1line": "Manulife partners with AI Safety Foundation for The Hinton Lectures in 2026.",
-   "published_at": "2026-10-05T12:00:00Z"
+   "summary_1line": "Altman warns AI shouldn't be given religious status, amid Anthropic's and Pope's concerns.",
+   "published_at": "2026-10-05T12:41:00Z"
   },
   {
-   "title": "OpenAI faces legal and regulatory scrutiny as rogue AI agents raise accountability questions",
-   "outlet": "StoryBoard 18",
-   "outlet_name": "StoryBoard 18",
-   "url": "https://www.storyboard18.com/amp/digital/openai-faces-legal-and-regulatory-scrutiny-as-rogue-ai-agents-raise-accountability-questions-ws-l-112016.htm",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-05T13:03:29Z"
-  },
-  {
-   "title": "AI Security: Every Major AI Model Fails ClawSecure's Test",
-   "outlet": "EIN Presswire",
-   "outlet_name": "EIN Presswire",
-   "url": "https://www.einpresswire.com/article/947439978/ai-security-every-major-ai-model-fails-clawsecure-s-test",
+   "title": "Cohere launches North 2, giving its AI agents memory and tighter controls",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/cohere-launches-north-2-ai-agents/",
    "label": "CONFIRMED",
-   "summary_1line": "All major AI models fail security test; 123M developers now responsible for AI agent safety.",
-   "published_at": "2026-10-05T11:38:00Z"
+   "summary_1line": "Cohere's North 2 adds memory and shared libraries for enterprise AI agents with on-premises and air-gapped support.",
+   "published_at": "2026-10-05T06:04:00Z"
   },
   {
-   "title": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI launches product ad carousels in ChatGPT with new measurement and safety tools.",
-   "published_at": "2026-10-05T12:37:32Z"
+   "title": "AI Slop Forces Google To Suspend Open Source Bug Bounty Programme",
+   "outlet": "Open Source For You",
+   "outlet_name": "Open Source For You",
+   "url": "https://www.opensourceforu.com/2026/10/ai-slop-forces-google-to-suspend-open-source-bug-bounty-programme/",
+   "label": "STILL OPEN",
+   "summary_1line": "Google pauses vulnerability programme amid AI spam surge, citing 2000 flaws per release in Linux.",
+   "published_at": "2026-10-05T05:30:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "OpenAI is sticking more ads in ChatGPT",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks"
-  },
-  {
-   "headline": "Manulife Announces Presenting Partnership of The Hinton Lectures™ on AI Safety",
-   "outlet": "PR Newswire UK",
-   "outlet_name": "PR Newswire UK",
-   "label": "CONFIRMED",
-   "url": "https://www.prnewswire.co.uk/news-releases/manulife-announces-presenting-partnership-of-the-hinton-lectures-on-ai-safety-302897442.html"
-  },
-  {
-   "headline": "OpenAI faces legal and regulatory scrutiny as rogue AI agents raise accountability…",
-   "outlet": "StoryBoard 18",
-   "outlet_name": "StoryBoard 18",
-   "label": "REPORTED",
-   "url": "https://www.storyboard18.com/amp/digital/openai-faces-legal-and-regulatory-scrutiny-as-rogue-ai-agents-raise-accountability-questions-ws-l-112016.htm"
-  },
-  {
-   "headline": "AI Security: Every Major AI Model Fails ClawSecure's Test",
-   "outlet": "EIN Presswire",
-   "outlet_name": "EIN Presswire",
-   "label": "CONFIRMED",
-   "url": "https://www.einpresswire.com/article/947439978/ai-security-every-major-ai-model-fails-clawsecure-s-test"
-  },
-  {
-   "headline": "ChatGPT's new ad format fills the image generation loading screen with product carousels",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "label": "REPORTED",
-   "url": "https://the-decoder.com/chatgpts-new-ad-format-fills-the-image-generation-loading-screen-with-product-carousels/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
   },
   {
    "headline": "OpenAI must explain action taken to stop AI hacking Australians’ private data, chair of…",
    "outlet": "theguardian.com",
    "outlet_name": "The Guardian",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.theguardian.com/australia-news/2026/oct/06/openai-must-explain-action-taken-to-stop-ai-hacking-australians-private-data-chair-of-federal-inquiry-says"
   },
   {
-   "headline": "Google Introduces Gemini 4 Argon: How It Compares With GPT-6 Astra",
-   "outlet": "eweek.com",
-   "outlet_name": "eweek.com",
+   "headline": "OpenAI’s Sam Altman warns against turning AI into a god in apparent criticism of rival…",
+   "outlet": "The Independent",
+   "outlet_name": "The Independent",
    "label": "CONFIRMED",
-   "url": "https://www.eweek.com/news/google-gemini-4-argon-gpt-6-astra/"
+   "url": "https://www.independent.co.uk/tech/openai-sam-altman-anthropic-ai-claude-god-pope-b3061519.html"
+  },
+  {
+   "headline": "Cohere launches North 2, giving its AI agents memory and tighter controls",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "CONFIRMED",
+   "url": "https://cryptobriefing.com/cohere-launches-north-2-ai-agents/"
+  },
+  {
+   "headline": "AI Slop Forces Google To Suspend Open Source Bug Bounty Programme",
+   "outlet": "Open Source For You",
+   "outlet_name": "Open Source For You",
+   "label": "STILL OPEN",
+   "url": "https://www.opensourceforu.com/2026/10/ai-slop-forces-google-to-suspend-open-source-bug-bounty-programme/"
+  },
+  {
+   "headline": "Anthropic whistleblower Jacob Coxon to testify at NYC AI hearing on 'kill switches,'…",
+   "outlet": "New York Post",
+   "outlet_name": "New York Post",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNmUzVVVySnJtNFBUYlhrMWlxY0xOMEVySFZTMzFlR25La0ZqSU00TlEtWTRMT3Z1ZE85S3dwTXg0LXZTV2JmeDZ5R1RYaU9qVGFtYzZrNnV4YXZMSEZ1bW5YUEFCQkZpV0t4V1NaRTI2VldmRGFwWEFLNkhzbzU0Nk9sQUpPRmVDNjg4YVBpMm5rR2hLR0FSYlhjZEhWemN2dHVWTW9mLS1mekdmU1RuSTBma2sta3B4T2p1Y3VmWUZnaG0zMmVNRENEOXZjZw?oc=5"
+  },
+  {
+   "headline": "I linked my work tools to Gemini; I barely open Wispr Flow anymore",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
+   "label": "REPORTED",
+   "url": "https://www.androidpolice.com/i-linked-my-work-tools-to-gemini-i-barely-open-wispr-flow-anymore/"
+  },
+  {
+   "headline": "NYC-Ratsanhörung stellt Anthropic, OpenAI, Google und Meta unter Eid",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/de/nyc-council-hearing-puts-anthropic-openai-google-meta-under-oath/"
   },
   {
    "headline": "Import AI 475: Swarm scaling; Google DeepMind watermarks biology; and the AI science…",
@@ -109,6 +116,13 @@
    "url": "https://jack-clark.net/2026/10/05/import-ai-475-swarm-scaling-google-deepmind-watermarks-biology-and-the-ai-science-economy/"
   },
   {
+   "headline": "Major Google Gemini Shakeup: Older Models Deprecated, Fast Modes Pulled as Gemini 4 Argon…",
+   "outlet": "nokiapoweruser.com",
+   "outlet_name": "nokiapoweruser.com",
+   "label": "STILL OPEN",
+   "url": "https://nokiapoweruser.com/google-gemini-model-deprecation-36-37-flash-fast-mode-gemini-4-argon/"
+  },
+  {
    "headline": "From Scan to Treatment Plan, AI Helps Close Breast Cancer’s Deadliest Gaps",
    "outlet": "blogs.nvidia.com",
    "outlet_name": "blogs.nvidia.com",
@@ -116,35 +130,21 @@
    "url": "https://blogs.nvidia.com/blog/ai-breast-cancer-startups/"
   },
   {
-   "headline": "One runaway AI agent racked up a $50k cloud bill",
-   "outlet": "helpnetsecurity.com",
-   "outlet_name": "helpnetsecurity.com",
+   "headline": "Claude Frontier Academy. Why is Anthropic looking to train 10k AI engineers?",
+   "outlet": "economictimes.indiatimes.com",
+   "outlet_name": "economictimes.indiatimes.com",
    "label": "REPORTED",
-   "url": "https://www.helpnetsecurity.com/2026/09/16/google-mandiant-enterprise-ai-security-risks-report/"
-  },
-  {
-   "headline": "While OpenAI and Anthropic battle over data privacy, more companies look to open models…",
-   "outlet": "Fortune on MSN",
-   "outlet_name": "Fortune on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/while-openai-and-anthropic-battle-over-data-privacy-more-companies-look-to-open-models-and-sovereign-ai/ar-AA2dBhLH"
-  },
-  {
-   "headline": "Google's head of data center global design and construction joins Anthropic",
-   "outlet": "datacenterdynamics.com",
-   "outlet_name": "datacenterdynamics.com",
-   "label": "REPORTED",
-   "url": "https://www.datacenterdynamics.com/en/news/googles-head-of-data-center-global-design-and-construction-joins-anthropic/"
+   "url": "https://economictimes.indiatimes.com/news/international/us/what-is-claude-frontier-academy-and-why-is-anthropic-looking-to-train-10000-ai-engineers/articleshow/134645266.cms?from=mdr"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 10100,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 10400,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/14.mp3",
- "audio_seconds": 67.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/15.mp3",
+ "audio_seconds": 48.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSam Altman says the world should accept harms from artificial intelligence in exchange for its benefits, according to Confirmed reporting by The Guardian, drawing swift backlash over safety concerns.\nConfirmed by PR Newswire UK: Manulife has announced a presenting partnership of The Hinton Lectures on artificial intelligence safety with the artificial intelligence Safety Foundation for 2026.\nReported by StoryBoard 18: OpenAI now faces legal and regulatory scrutiny as rogue artificial intelligence agents raise new accountability questions across the industry.\nAll major artificial intelligence models fail ClawSecure's security test, per Confirmed reporting by EIN Presswire, with 123M developers now responsible for artificial intelligence agent safety.\nOpenAI launches product ad carousels in ChatGPT during image generation loading screens, Reported by The Decoder, along with new measurement and safety tools.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: OpenAI is sticking more ads in ChatGPT.\nConfirmed, per The Guardian: OpenAI must explain action taken to stop AI hacking Australians’ private data, chair of federal inquiry says.\nConfirmed, per The Independent: OpenAI’s Sam Altman warns against turning AI into a god in apparent criticism of rival Anthropic.\nConfirmed, per Crypto Briefing: Cohere launches North 2, giving its AI agents memory and tighter controls.\nStill open, per Open Source For You: AI Slop Forces Google To Suspend Open Source Bug Bounty Programme.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
