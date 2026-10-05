@@ -1,105 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T17:20:02Z",
- "hour": "2026-10-05T17:00:00Z",
+ "generated_at": "2026-10-05T18:20:01Z",
+ "hour": "2026-10-05T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI sued for trademark infringement over 'Astra' AI model",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcW56VDk1TEhMTEdHUmg1RlB0cVIza055bEQ1OWJsLTk3OEFySUJNTzhSQ0Q0bTloYnBGN2VXaTBQUmxnNEd0UUtuc0NEeDR1UjZjWERWeEZURlpNOHVfQUo3TnBKaVF6ekJ4SDktZEdUQW5XUThabHMwdXVlRWl2ZHd0OVNHdDF2UmlRZ2ZWVjREeXhmZ3l3RXZUV3Z2MnNZQlFrOEdaUllrdkNGWmNv?oc=5",
+   "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+   "outlet": "bbc.co.uk",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+   "label": "STILL OPEN",
+   "summary_1line": "Pentagon stops using Anthropic AI after blacklisting it over safety concerns.",
+   "published_at": "2026-10-05T16:13:21Z"
+  },
+  {
+   "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI publicist interrupted interview over ChatGPT user suicide topic.",
+   "published_at": "2026-10-05T16:55:42Z"
+  },
+  {
+   "title": "TechCheck: AI executives testify on safety risks",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/video/2026/10/05/techcheck-ai-executives-testify-on-safety-risks.html",
+   "label": "CONFIRMED",
+   "summary_1line": "AI executives testify on safety risks in New York hearing.",
+   "published_at": "2026-10-05T16:20:05Z"
+  },
+  {
+   "title": "Asia-Pacific Journal Series – The De Jure Necessity and De Facto Improbability of Establishing a New Military AI Treaty",
+   "outlet": "Lieber Institute West Point",
+   "outlet_name": "Lieber Institute West Point",
+   "url": "https://lieber.westpoint.edu/de-jure-necessity-de-facto-improbability-establishing-new-military-ai-treaty/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-05T16:43:43Z"
+   "summary_1line": "A legal analysis finds military AI treaty is legally necessary but politically unlikely.",
+   "published_at": "2026-10-05T16:34:19Z"
   },
   {
-   "title": "OpenAI introduces text watermarking to meet EU AI Act requirements",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZVhmLVI0QXFtT01mbjNNOF9EUmNwNnVSNkJNMnh1MkVPTG0xSDBDZWZrMmpfOXJtWTlSNzdnd1c1SUNqbl9QSHUzb3NTZmN3U1hLN0pPcXNzV3pTRUV0T2Q1akxBODB1MkVWSkczQVRCZEhfUUwtdWd0c2VPYW9NTkpKVXFTR2ZXd0RDb09PUWIzZ19DNHptZ2lXYjlFX3l3QzM1RXpFNl93MnBmSG1qRDRZUUFvSzh4cWsyc054M3E4WkNZRVlMcnF1cnZ6Z9IBWkFVX3lxTFBhUDFZOXJ0MWNOakYtTTUzaTlwMjBUXzQycEVDNzN3d3ZpbjQ5ZVpaT0FGUFJhODlwT2FVdHZuZXBiZDlnMWFBOXJxNEZJc190dE9yWFg0UG1rUQ?oc=5",
+   "title": "Google Pushes AI Tools Into Classrooms With Gemini Integration",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
+   "url": "https://www.techbuzz.ai/articles/google-pushes-ai-tools-into-classrooms-with-gemini-integration",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-05T16:43:49Z"
-  },
-  {
-   "title": "Collibra Acquires trail ML to Automate AI Governance From Policy to Production",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
-   "url": "https://www.citybiz.co/article/913888/collibra-acquires-trail-ml-to-automate-ai-governance-from-policy-to-production/",
-   "label": "CONFIRMED",
-   "summary_1line": "Collibra acquires trail ML to automate AI governance in real time.",
-   "published_at": "2026-10-05T14:20:56Z"
-  },
-  {
-   "title": "AI cloud startup Verda raises $189m in Series B funding round",
-   "outlet": "BeBeez International",
-   "outlet_name": "BeBeez International",
-   "url": "https://bebeez.eu/2026/10/05/ai-cloud-startup-verda-raises-189m-in-series-b-funding-round/",
-   "label": "CONFIRMED",
-   "summary_1line": "Verda raises $189M to expand EU data centers and AI platforms.",
-   "published_at": "2026-10-05T14:07:58Z"
-  },
-  {
-   "title": "Security teams are starting to treat AI like staff, and that means managing it",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/security-teams-treat-ai-like-staff-managing-agents",
-   "label": "CONFIRMED",
-   "summary_1line": "AI agents now act autonomously in security and compliance, shifting oversight to human supervision.",
-   "published_at": "2026-10-05T07:43:00Z"
+   "summary_1line": "Google's AI tools help students develop critical thinking and digital citizenship in classrooms.",
+   "published_at": "2026-10-05T16:15:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI sued for trademark infringement over 'Astra' AI model",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcW56VDk1TEhMTEdHUmg1RlB0cVIza055bEQ1OWJsLTk3OEFySUJNTzhSQ0Q0bTloYnBGN2VXaTBQUmxnNEd0UUtuc0NEeDR1UjZjWERWeEZURlpNOHVfQUo3TnBKaVF6ekJ4SDktZEdUQW5XUThabHMwdXVlRWl2ZHd0OVNHdDF2UmlRZ2ZWVjREeXhmZ3l3RXZUV3Z2MnNZQlFrOEdaUllrdkNGWmNv?oc=5"
+   "headline": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+   "outlet": "bbc.co.uk",
+   "outlet_name": "BBC",
+   "label": "STILL OPEN",
+   "url": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss"
   },
   {
-   "headline": "OpenAI introduces text watermarking to meet EU AI Act requirements",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQZVhmLVI0QXFtT01mbjNNOF9EUmNwNnVSNkJNMnh1MkVPTG0xSDBDZWZrMmpfOXJtWTlSNzdnd1c1SUNqbl9QSHUzb3NTZmN3U1hLN0pPcXNzV3pTRUV0T2Q1akxBODB1MkVWSkczQVRCZEhfUUwtdWd0c2VPYW9NTkpKVXFTR2ZXd0RDb09PUWIzZ19DNHptZ2lXYjlFX3l3QzM1RXpFNl93MnBmSG1qRDRZUUFvSzh4cWsyc054M3E4WkNZRVlMcnF1cnZ6Z9IBWkFVX3lxTFBhUDFZOXJ0MWNOakYtTTUzaTlwMjBUXzQycEVDNzN3d3ZpbjQ5ZVpaT0FGUFJhODlwT2FVdHZuZXBiZDlnMWFBOXJxNEZJc190dE9yWFg0UG1rUQ?oc=5"
-  },
-  {
-   "headline": "Collibra Acquires trail ML to Automate AI Governance From Policy to Production",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
+   "headline": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s…",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.citybiz.co/article/913888/collibra-acquires-trail-ml-to-automate-ai-governance-from-policy-to-production/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr"
   },
   {
-   "headline": "AI cloud startup Verda raises $189m in Series B funding round",
-   "outlet": "BeBeez International",
-   "outlet_name": "BeBeez International",
+   "headline": "TechCheck: AI executives testify on safety risks",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://bebeez.eu/2026/10/05/ai-cloud-startup-verda-raises-189m-in-series-b-funding-round/"
+   "url": "https://www.cnbc.com/video/2026/10/05/techcheck-ai-executives-testify-on-safety-risks.html"
   },
   {
-   "headline": "Security teams are starting to treat AI like staff, and that means managing it",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/security-teams-treat-ai-like-staff-managing-agents"
-  },
-  {
-   "headline": "Malaysia's data regulator sets 23 October deadline for AI framework comments",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
+   "headline": "Asia-Pacific Journal Series – The De Jure Necessity and De Facto Improbability of…",
+   "outlet": "Lieber Institute West Point",
+   "outlet_name": "Lieber Institute West Point",
    "label": "REPORTED",
-   "url": "https://ppc.land/malaysias-data-regulator-sets-23-october-deadline-for-ai-framework-comments/"
+   "url": "https://lieber.westpoint.edu/de-jure-necessity-de-facto-improbability-establishing-new-military-ai-treaty/"
   },
   {
-   "headline": "Google Bets on Gemini 4 Argon for Cyber Defense as AI Submissions Force Bug Bounty Pause",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
+   "headline": "Google Pushes AI Tools Into Classrooms With Gemini Integration",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
    "label": "REPORTED",
-   "url": "https://theaiinsider.tech/2026/10/05/google-bets-on-gemini-4-argon-for-cyber-defense-as-ai-submissions-force-bug-bounty-pause/"
+   "url": "https://www.techbuzz.ai/articles/google-pushes-ai-tools-into-classrooms-with-gemini-integration"
   },
   {
    "headline": "Can AI hack AI? How reasoning models are learning to bypass safety guardrails",
@@ -109,18 +95,39 @@
    "url": "https://www.financialexpress.com/life/technology/can-ai-hack-ai-how-reasoning-models-are-learning-to-bypass-safety-guardrails/4354262/"
   },
   {
-   "headline": "Google's Gemini adds a map tool for location-based prompts on phones",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
-   "label": "REPORTED",
-   "url": "https://www.notebookcheck.net/Google-s-Gemini-adds-a-map-tool-for-location-based-prompts-on-phones.1416288.0.html"
-  },
-  {
-   "headline": "My eighth-grade students built our school newscast from scratch with Gemini.",
+   "headline": "Gemini helps me give a voice to students who cannot write.",
    "outlet": "blog.google",
    "outlet_name": "blog.google",
    "label": "CONFIRMED",
-   "url": "https://blog.google/products-and-platforms/products/education/gemini-student-newscast/"
+   "url": "https://blog.google/products-and-platforms/products/education/special-education-gemini/"
+  },
+  {
+   "headline": "Supercharge regulated workloads with Claude Code and Amazon Bedrock | Artificial…",
+   "outlet": "aws.amazon.com",
+   "outlet_name": "aws.amazon.com",
+   "label": "REPORTED",
+   "url": "https://aws.amazon.com/blogs/machine-learning/supercharge-regulated-workloads-with-claude-code-and-amazon-bedrock/"
+  },
+  {
+   "headline": "Anthropic whistleblower Jacob Coxon to testify at NYC AI hearing on 'kill switches,'…",
+   "outlet": "New York Post on MSN",
+   "outlet_name": "New York Post on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/anthropic-whistleblower-jacob-coxon-to-testify-at-nyc-ai-hearing-on-kill-switches-regulations/ar-AA2dBNlp"
+  },
+  {
+   "headline": "OpenAI Begins Phased Text Watermarking Under EU AI Act Rules",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "REPORTED",
+   "url": "https://www.unite.ai/openai-begins-phased-text-watermarking-under-eu-ai-act-rules/"
+  },
+  {
+   "headline": "I teach my students that in the AI era, critical thinking comes first.",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/products-and-platforms/products/education/teacher-stories-gemini-middle-school/"
   },
   {
    "headline": "Why Anthropic's Claude AI Is Now Processing Data Within India",
@@ -128,23 +135,16 @@
    "outlet_name": "Rediff.com",
    "label": "CONFIRMED",
    "url": "https://www.rediff.com/business/report/anthropic-begins-local-ai-inference-for-india-data-processing/20261005.htm"
-  },
-  {
-   "headline": "Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
-   "label": "REPORTED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 10800,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 11100,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/17.mp3",
- "audio_seconds": 47.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/18.mp3",
+ "audio_seconds": 51.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Reuters: OpenAI sued for trademark infringement over 'Astra' AI model.\nReported by MLex: OpenAI introduces text watermarking to meet EU AI Act requirements.\nConfirmed, per citybiz: Collibra Acquires trail ML to Automate AI Governance From Policy to Production.\nConfirmed, per BeBeez International: AI cloud startup Verda raises $189m in Series B funding round.\nConfirmed, per The Next Web: Security teams are starting to treat AI like staff, and that means managing it.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per BBC: Pentagon stops using Anthropic AI tools after blacklisting company, BBC told.\nConfirmed, per The Verge: OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user’s suicide.\nConfirmed, per CNBC: TechCheck: AI executives testify on safety risks.\nReported by Lieber Institute West Point: Asia-Pacific Journal Series – The De Jure Necessity and De Facto Improbability of Establishing a New Military AI Treaty.\nReported by The Tech Buzz: Google Pushes AI Tools Into Classrooms With Gemini Integration.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
