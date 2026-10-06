@@ -1,105 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T05:20:02Z",
- "hour": "2026-10-06T05:00:00Z",
+ "generated_at": "2026-10-06T06:20:02Z",
+ "hour": "2026-10-06T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "NYC Council Speaker Julie Menin Presses Anthropic, OpenAI, Google, Meta on AI Catastrophic Risks",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
-   "url": "https://newscord.org/article/nyc-council-speaker-julie-menin-presses-anthropic-openai-google-meta-on-ai-catas--Story_20261006_AIresearcherwarnsweade769bb7",
+   "title": "Anthropic tells Australia it's open to laws requiring reporting of AI agent hacks",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45S01Q:0-anthropic-tells-australia-it-s-open-to-laws-requiring-reporting-of-ai-agent-hacks/",
    "label": "REPORTED",
-   "summary_1line": "NYC Council presses AI firms on risks of uncontrollable AI and proposes new safety laws.",
-   "published_at": "2026-10-06T03:09:41Z"
+   "summary_1line": "Anthropic says it's open to AI hack reporting laws in Australia.",
+   "published_at": "2026-10-06T03:23:00Z"
   },
   {
-   "title": "Nvidia-backed startup Reflection unveils open-weight AI model said to rival China offerings",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
-   "url": "http://www.businesstimes.com.sg/companies-markets/nvidia-backed-startup-reflection-unveils-open-weight-ai-model-said-rival-china-offerings",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-06T05:09:00Z"
+   "title": "Nvidia-backed Reflection unveils Open AI model, taking on China",
+   "outlet": "The Hindu BusinessLine",
+   "outlet_name": "The Hindu BusinessLine",
+   "url": "https://www.thehindubusinessline.com/info-tech/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china/article71549944.ece",
+   "label": "CONFIRMED",
+   "summary_1line": "Reflection AI launches Beam, an open AI model rivaling China's GLM-5.2, backed by Nvidia and SpaceX.",
+   "published_at": "2026-10-05T12:57:00Z"
   },
   {
-   "title": "OpenAI's Kwon Apologizes for Australian Hack",
+   "title": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding",
    "outlet": "bloomberg.com",
    "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-06/openai-s-kwon-apologizes-for-australian-hack-video",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-06T04:56:43Z"
+   "published_at": "2026-10-06T05:00:22Z"
   },
   {
-   "title": "Anthropic says AI agents didn’t breach Australian government websites – video",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/media/video/2026/oct/06/anthropic-ai-australia-parliament-inquiry-government-websites-breach-video",
+   "title": "Using Google Gemini for Free? You're Losing Some Models Later This Week",
+   "outlet": "PCMag Middle East",
+   "outlet_name": "PCMag Middle East",
+   "url": "https://me.pcmag.com/en/ai/38241/using-google-gemini-for-free-youre-losing-some-models-later-this-week",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-06T04:52:12Z"
+   "summary_1line": "Google removes advanced Gemini models for free users on Oct. 9, with AI Plus users losing Pro access.",
+   "published_at": "2026-10-06T04:14:36Z"
   },
   {
-   "title": "Pentagon Ceases Use of Anthropic AI Tools",
-   "outlet": "Ratopati",
-   "outlet_name": "Ratopati",
-   "url": "https://english.ratopati.com/story/82474/the-us-department-of-defense-stopped-using-anthropics-ai-tools-heres-why",
-   "label": "STILL OPEN",
-   "summary_1line": "Pentagon stops using Anthropic AI tools citing national security risks.",
-   "published_at": "2026-10-06T02:04:15Z"
+   "title": "AI chatbot safety bill approved by House",
+   "outlet": "The News-Item",
+   "outlet_name": "The News-Item",
+   "url": "https://www.newsitem.com/news/local/ai-chatbot-safety-bill-approved-by-house/article_83896554-1922-4f14-84a8-1db592576cec.html",
+   "label": "REPORTED",
+   "summary_1line": "House passes AI safety bill with safeguards for children and vulnerable adults.",
+   "published_at": "2026-10-06T03:45:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "NYC Council Speaker Julie Menin Presses Anthropic, OpenAI, Google, Meta on AI…",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
+   "headline": "Anthropic tells Australia it's open to laws requiring reporting of AI agent hacks",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "REPORTED",
-   "url": "https://newscord.org/article/nyc-council-speaker-julie-menin-presses-anthropic-openai-google-meta-on-ai-catas--Story_20261006_AIresearcherwarnsweade769bb7"
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N45S01Q:0-anthropic-tells-australia-it-s-open-to-laws-requiring-reporting-of-ai-agent-hacks/"
   },
   {
-   "headline": "Nvidia-backed startup Reflection unveils open-weight AI model said to rival China…",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
-   "label": "REPORTED",
-   "url": "http://www.businesstimes.com.sg/companies-markets/nvidia-backed-startup-reflection-unveils-open-weight-ai-model-said-rival-china-offerings"
+   "headline": "Nvidia-backed Reflection unveils Open AI model, taking on China",
+   "outlet": "The Hindu BusinessLine",
+   "outlet_name": "The Hindu BusinessLine",
+   "label": "CONFIRMED",
+   "url": "https://www.thehindubusinessline.com/info-tech/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china/article71549944.ece"
   },
   {
-   "headline": "OpenAI's Kwon Apologizes for Australian Hack",
+   "headline": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding",
    "outlet": "bloomberg.com",
    "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-06/openai-s-kwon-apologizes-for-australian-hack-video"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding"
   },
   {
-   "headline": "Anthropic says AI agents didn’t breach Australian government websites – video",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "Using Google Gemini for Free? You're Losing Some Models Later This Week",
+   "outlet": "PCMag Middle East",
+   "outlet_name": "PCMag Middle East",
    "label": "REPORTED",
-   "url": "https://www.theguardian.com/media/video/2026/oct/06/anthropic-ai-australia-parliament-inquiry-government-websites-breach-video"
+   "url": "https://me.pcmag.com/en/ai/38241/using-google-gemini-for-free-youre-losing-some-models-later-this-week"
   },
   {
-   "headline": "Pentagon Ceases Use of Anthropic AI Tools",
-   "outlet": "Ratopati",
-   "outlet_name": "Ratopati",
-   "label": "STILL OPEN",
-   "url": "https://english.ratopati.com/story/82474/the-us-department-of-defense-stopped-using-anthropics-ai-tools-heres-why"
-  },
-  {
-   "headline": "OpenAI admits response to Australian government hacks 'not good enough'",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
+   "headline": "AI chatbot safety bill approved by House",
+   "outlet": "The News-Item",
+   "outlet_name": "The News-Item",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VVklkRzFFNDFGYWFlcW1jUndjZF9FNXhZTjd5TEdlWWxxS0VmWmJhOHo1RVgtYjFOQTZzTFFMbnk3Vks5M3JHWTdpTmZrdDBTTGVLcm1wOVN5aXc?oc=5"
-  },
-  {
-   "headline": "“Leveling the playing field”: Smith College Grants Students Google Gemini Licensure",
-   "outlet": "THE SOPHIAN",
-   "outlet_name": "THE SOPHIAN",
-   "label": "REPORTED",
-   "url": "https://thesophian.com/leveling-the-playing-field-smith-college-grants-students-google-gemini-licensure/"
+   "url": "https://www.newsitem.com/news/local/ai-chatbot-safety-bill-approved-by-house/article_83896554-1922-4f14-84a8-1db592576cec.html"
   },
   {
    "headline": "The Law of DeepSeek",
@@ -109,11 +95,18 @@
    "url": "https://arxiv.org/abs/2610.05238"
   },
   {
-   "headline": "Anthropic tells Australia it's open to laws requiring reporting of AI agent hacks",
-   "outlet": "firstpost.com",
-   "outlet_name": "firstpost.com",
+   "headline": "OpenAI launches 'textGrain' invisible text watermarking in EU to comply with EU AI Act",
+   "outlet": "Adgully.com",
+   "outlet_name": "Adgully.com",
    "label": "REPORTED",
-   "url": "https://www.firstpost.com/tech/anthropic-tells-australia-its-open-to-laws-requiring-reporting-of-ai-agent-hacks-14050668.html"
+   "url": "https://www.adgully.com/post/21745/openai-launches-textgrain-invisible-text-watermarking-in-eu-to-comply-with-eu-ai-act"
+  },
+  {
+   "headline": "AuraSE: Low-Hallucination Generative Speech Enhancement via Multimodal Flow Matching and…",
+   "outlet": "arxiv.org",
+   "outlet_name": "arxiv.org",
+   "label": "REPORTED",
+   "url": "https://arxiv.org/abs/2610.06632"
   },
   {
    "headline": "ChatGPT users, your AI-written text will soon carry a hidden watermark",
@@ -123,11 +116,18 @@
    "url": "https://www.androidauthority.com/chatgpt-text-watermarking-3719403/"
   },
   {
-   "headline": "Anthropic brought a Hindu monk to San Francisco to help Claude tackle AI ethics and…",
-   "outlet": "Business Today on MSN",
-   "outlet_name": "Business Today on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/money/topstories/anthropic-brought-a-hindu-monk-to-san-francisco-to-help-claude-tackle-ai-ethics-and-consciousness/ar-AA2dD1MZ"
+   "headline": "Sources: DeepSeek is close to raising $12B+ in a round that could reach ~$14.9B, with…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "label": "REPORTED",
+   "url": "https://www.techmeme.com/261006/p2#a261006p2"
+  },
+  {
+   "headline": "OpenAI in talks with UAE funds to anchor $30 bln funding round - Bloomberg",
+   "outlet": "Investing.com",
+   "outlet_name": "Investing.com",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDkzZlFHTXpKYjNXUmwwVVlSaWFlS3BLck1PS0dpbm5EdUpzRnZvRnlvWm4wV2UtZEYyOE1kdk9tam5kSnRBeE5yWlR6MGxBaUI2ZEJtbG5vcDNJeUUwT21MOVpqRnpjeHRoYzhRallKTDktakdjbEltWjk3aURjRUgxbXNPdDNsT3IxMGM3NjZkczR3dnhnZ0RWREsyNnhWZ1BDNGdKOHFUMEtxNUxxX011ZExaS1lyUnlsOE4xQXpodTFRX2FFZA?oc=5"
   },
   {
    "headline": "Exclusive: Hadrian raises $40m as AI cyberattacks accelerate",
@@ -137,14 +137,14 @@
    "url": "https://sifted.eu/articles/hadrian-ai-funding-round-cyber-security/"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 13700,
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 13900,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/05.mp3",
- "audio_seconds": 45.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/06.mp3",
+ "audio_seconds": 73.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by NewsCord: NYC Council Speaker Julie Menin Presses Anthropic, OpenAI, Google, Meta on AI Catastrophic Risks.\nReported by The Business Times: Nvidia-backed startup Reflection unveils open-weight AI model said to rival China offerings.\nReported by Bloomberg: OpenAI's Kwon Apologizes for Australian Hack.\nReported by The Guardian: Anthropic says AI agents didn’t breach Australian government websites – video.\nStill open, per Ratopati: Pentagon Ceases Use of Anthropic AI Tools.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic tells Australia it's open to laws requiring reporting of artificial intelligence agent hacks. Reported by TradingView: the company says it supports artificial intelligence hack reporting laws in Australia.\nReflection artificial intelligence launches Beam, an open artificial intelligence model rivaling China's GLM-5.2, backed by Nvidia and SpaceX. Confirmed by The Hindu BusinessLine: Nvidia-backed Reflection unveils this open artificial intelligence model, taking on China.\nDeepSeek is raising at least 12 billion dollars in Tencent-backed funding. Reported by Bloomberg: the artificial intelligence company moves forward with a major fundraising round.\nGoogle removes advanced Gemini models for free users on Oct. 9, with artificial intelligence Plus users losing Pro access. Reported by PCMag Middle East: free Gemini users are losing some advanced models later this week.\nThe House passes an artificial intelligence safety bill with safeguards for children and vulnerable adults. Reported by The News-Item: lawmakers approve protections through this new artificial intelligence chatbot safety measure.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
