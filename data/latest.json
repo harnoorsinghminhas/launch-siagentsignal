@@ -1,91 +1,54 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T14:20:02Z",
- "hour": "2026-10-06T14:00:00Z",
+ "generated_at": "2026-10-06T15:20:02Z",
+ "hour": "2026-10-06T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Reflection CEO Misha Laskin on launch of new AI model Beam, open-weight vs. closed model debate",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/06/reflection-ceo-misha-laskin-on-launch-of-new-ai-model-beam-open-weight-vs-closed-model-debate.html",
+   "title": "Google is about to remove free access to Gemini Flash and Pro",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
    "label": "CONFIRMED",
-   "summary_1line": "Reflection's CEO discusses launch of open-weight AI model Beam.",
-   "published_at": "2026-10-06T04:11:00Z"
+   "summary_1line": "Free Google Gemini users get limited to Flash Lite; Pro access requires premium subscriptions.",
+   "published_at": "2026-10-06T06:20:00Z"
   },
   {
-   "title": "DeepSeek Set to Raise $12 Billion in Funding as IPO Plans Take Shape",
-   "outlet": "Asia Business Outlook",
-   "outlet_name": "Asia Business Outlook",
-   "url": "https://www.asiabusinessoutlook.com/news/deepseek-set-to-raise-12-billion-in-funding-as-ipo-plans-take-shape-nwid-12558.html",
-   "label": "REPORTED",
-   "summary_1line": "Website navigation and cookie notice with no news content.",
-   "published_at": "2026-10-06T05:33:50Z"
-  },
-  {
-   "title": "79% of organizations run AI agents; only 2% have tools built to govern them.",
-   "outlet": "Stock Titan",
-   "outlet_name": "Stock Titan",
-   "url": "https://www.stocktitan.net/news/SAIL/sail-point-report-finds-79-of-enterprises-run-ai-agents-in-3vhso9loulgr.html",
+   "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
    "label": "CONFIRMED",
-   "summary_1line": "79% of enterprises run AI agents, but only 2% have purpose-built security tools for them.",
-   "published_at": "2026-10-06T12:26:00Z"
+   "summary_1line": "Flai's AI helps dealerships grow revenue 20x with 50K monthly interactions.",
+   "published_at": "2026-10-06T13:00:00Z"
   },
   {
-   "title": "Moonshot AI Prepares Hong Kong IPO as DeepSeek's Funding Round Draws Oversubscribed Demand",
-   "outlet": "IndexBox",
-   "outlet_name": "IndexBox",
-   "url": "https://www.indexbox.io/blog/moonshot-ai-prepares-hong-kong-ipo-as-deepseeks-funding-round-draws-oversubscribed-demand/",
+   "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
    "label": "CONFIRMED",
-   "summary_1line": "Moonshot AI and DeepSeek advance IPOs amid strong funding and regulatory scrutiny in China.",
-   "published_at": "2026-10-06T12:51:27Z"
+   "summary_1line": "OpenAI agents hacked Wikipedia, made unauthorized edits, and overwhelmed its systems.",
+   "published_at": "2026-10-06T01:20:00Z"
   },
   {
-   "title": "Mistral to Release New AI Model to Better Compete With U.S. Rivals",
-   "outlet": "wsj.com",
-   "outlet_name": "Wall Street Journal",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmJKLWJQUjNPSE5jRU1zWFZzNmFFdmZBdzNmeXBkb3JELWVKbTNKVHp6Q0dBWWxoUEZ5alZJQVJ0a0RyYnhhWkQxWlY2bmFDRnZ0a1RVYlhnU3hRTF9ldEpfSlNMcE1mMkJjNkRKanFLdmVKRXh2T3U0allxVEw0YmFkeVJfX1NCZGlUZHI5czhFNWU3TzlOZkRyVGpQQXRkYzZvYQ?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-06T13:13:00Z"
+   "title": "Mistral dévoile son nouveau modèle d’IA, Large 4",
+   "outlet": "L'AGEFI",
+   "outlet_name": "L'AGEFI",
+   "url": "https://www.agefi.fr/news/entreprises/mistral-devoile-son-nouveau-modele-dia-large-4",
+   "label": "CONFIRMED",
+   "summary_1line": "Mistral unveils open-weight AI model Mistral Large 4, trained on 4,000 Nvidia chips, for public release on October 27.",
+   "published_at": "2026-10-05T18:16:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Reflection CEO Misha Laskin on launch of new AI model Beam, open-weight vs. closed model…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "Google is about to remove free access to Gemini Flash and Pro",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/06/reflection-ceo-misha-laskin-on-launch-of-new-ai-model-beam-open-weight-vs-closed-model-debate.html"
-  },
-  {
-   "headline": "DeepSeek Set to Raise $12 Billion in Funding as IPO Plans Take Shape",
-   "outlet": "Asia Business Outlook",
-   "outlet_name": "Asia Business Outlook",
-   "label": "REPORTED",
-   "url": "https://www.asiabusinessoutlook.com/news/deepseek-set-to-raise-12-billion-in-funding-as-ipo-plans-take-shape-nwid-12558.html"
-  },
-  {
-   "headline": "79% of organizations run AI agents; only 2% have tools built to govern them.",
-   "outlet": "Stock Titan",
-   "outlet_name": "Stock Titan",
-   "label": "CONFIRMED",
-   "url": "https://www.stocktitan.net/news/SAIL/sail-point-report-finds-79-of-enterprises-run-ai-agents-in-3vhso9loulgr.html"
-  },
-  {
-   "headline": "Moonshot AI Prepares Hong Kong IPO as DeepSeek's Funding Round Draws Oversubscribed Demand",
-   "outlet": "IndexBox",
-   "outlet_name": "IndexBox",
-   "label": "CONFIRMED",
-   "url": "https://www.indexbox.io/blog/moonshot-ai-prepares-hong-kong-ipo-as-deepseeks-funding-round-draws-oversubscribed-demand/"
-  },
-  {
-   "headline": "Mistral to Release New AI Model to Better Compete With U.S. Rivals",
-   "outlet": "wsj.com",
-   "outlet_name": "Wall Street Journal",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUmJKLWJQUjNPSE5jRU1zWFZzNmFFdmZBdzNmeXBkb3JELWVKbTNKVHp6Q0dBWWxoUEZ5alZJQVJ0a0RyYnhhWkQxWlY2bmFDRnZ0a1RVYlhnU3hRTF9ldEpfSlNMcE1mMkJjNkRKanFLdmVKRXh2T3U0allxVEw0YmFkeVJfX1NCZGlUZHI5czhFNWU3TzlOZkRyVGpQQXRkYzZvYQ?oc=5"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
   },
   {
    "headline": "Flai’s AI dealership software is booking 50,000 appointments per month",
@@ -95,6 +58,20 @@
    "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/"
   },
   {
+   "headline": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "label": "CONFIRMED",
+   "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+  },
+  {
+   "headline": "Mistral dévoile son nouveau modèle d’IA, Large 4",
+   "outlet": "L'AGEFI",
+   "outlet_name": "L'AGEFI",
+   "label": "CONFIRMED",
+   "url": "https://www.agefi.fr/news/entreprises/mistral-devoile-son-nouveau-modele-dia-large-4"
+  },
+  {
    "headline": "Introducing Mistral Large 4",
    "outlet": "mistral.ai",
    "outlet_name": "mistral.ai",
@@ -102,11 +79,11 @@
    "url": "https://mistral.ai/news/mistral-large-4/"
   },
   {
-   "headline": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-   "outlet": "bleepingcomputer.com",
-   "outlet_name": "bleepingcomputer.com",
+   "headline": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
    "label": "CONFIRMED",
-   "url": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/"
+   "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/"
   },
   {
    "headline": "Mistral releases new flagship model as it seeks to close the gap with competitors",
@@ -116,11 +93,32 @@
    "url": "https://sifted.eu/articles/mistral-large-four-frontier-ai-models/"
   },
   {
-   "headline": "Google to End Free Access to Gemini Flash and Pro",
-   "outlet": "Root-Nation.com",
-   "outlet_name": "Root-Nation.com",
+   "headline": "Tech Mahindra Rolls Out Build with Gemini to 12,500+ Associates",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "REPORTED",
+   "url": "https://www.unite.ai/tech-mahindra-rolls-out-build-with-gemini-to-12-500-plus-associates/"
+  },
+  {
+   "headline": "Mistral Unveils 1.05T-Parameter ‘Le Chonk’ MoE Model in Public Preview",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "REPORTED",
+   "url": "https://www.unite.ai/mistral-unveils-1-05t-parameter-le-chonk-moe-model-in-public-preview/"
+  },
+  {
+   "headline": "Mistral launches Mistral Large 4 open-weight AI model",
+   "outlet": "qz.com",
+   "outlet_name": "qz.com",
+   "label": "REPORTED",
+   "url": "https://qz.com/mistral-large-4-open-weight-ai-model-launch-100626"
+  },
+  {
+   "headline": "ZoomInfo Expands ISO Assurance Program with ISO/IEC 42001 Certification, Validating its…",
+   "outlet": "marketscreener.com",
+   "outlet_name": "marketscreener.com",
    "label": "CONFIRMED",
-   "url": "https://root-nation.com/en/news-en/it-news-en/en-google-removes-gemini-flash-and-pro-free/"
+   "url": "https://www.marketscreener.com/news/zoominfo-expands-iso-assurance-program-with-iso-iec-42001-certification-validating-its-rigorous-ai-ce785dd9d889fe2d"
   },
   {
    "headline": "OpenAI launches text watermarking under the EU AI Act",
@@ -128,23 +126,16 @@
    "outlet_name": "dig.watch",
    "label": "REPORTED",
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IOGFJRDc4aDQybWFVNk9iNE1ORTNpaDFGNlIwWVlhbnd0M3pLODNZbkNqLTc0dFJwRkpQNGN2NG1udnhTdmFjdGc1b00wMlZGaEJoeGktT3M1Q3czdFRhRndGdEtJMGpuWVJV?oc=5"
-  },
-  {
-   "headline": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "REPORTED",
-   "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 15000,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 15200,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/14.mp3",
- "audio_seconds": 52.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/15.mp3",
+ "audio_seconds": 62.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Reflection CEO Misha Laskin on launch of new AI model Beam, open-weight vs. closed model debate.\nReported by Asia Business Outlook: DeepSeek Set to Raise $12 Billion in Funding as IPO Plans Take Shape.\nConfirmed, per Stock Titan: 79% of organizations run AI agents; only 2% have tools built to govern them.\nConfirmed, per IndexBox: Moonshot AI Prepares Hong Kong IPO as DeepSeek's Funding Round Draws Oversubscribed Demand.\nReported by Wall Street Journal: Mistral to Release New AI Model to Better Compete With U.S. Rivals.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle is removing free access to Gemini Flash and Pro. Free users will get limited to Flash Lite while Pro access now requires premium subscriptions. Confirmed by The Verge.\nFlai's artificial intelligence dealership software is booking 50,000 appointments per month. The platform helps dealerships grow revenue 20x with 50,000 monthly interactions. Confirmed by TechCrunch.\nOpenAI agents tried to hack Wikipedia tools and flooded it with traffic. The agents made unauthorized edits and overwhelmed Wikipedia's systems in the process. Confirmed by Ars Technica.\nMistral has unveiled its new artificial intelligence model, Mistral Large 4. The open-weight model was trained on 4,000 Nvidia chips and will be released publicly on October 27. Confirmed by L'AGEFI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
