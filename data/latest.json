@@ -1,105 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T22:20:05Z",
- "hour": "2026-10-06T22:00:00Z",
+ "generated_at": "2026-10-06T23:20:04Z",
+ "hour": "2026-10-06T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Mistral unveils 1 trillion parameter Le Chonk model to rival Chinese AI",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/mistral-unveils-1-trillion-parameter-le-chonk-model-to-rival-chinese-ai/",
-   "label": "CONFIRMED",
-   "summary_1line": "Mistral's Large 4, with 1 trillion parameters, claims open-weight leadership over Chinese models on key benchmarks.",
-   "published_at": "2026-10-06T19:26:01Z"
+   "title": "Mistral unveils 1-trillion-parameter open-weight model Mistral Large 4",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/en/view/111382/mistral-unveils-mistral-large-4-1-trillion-parameter-open-weight-model",
+   "label": "REPORTED",
+   "summary_1line": "Mistral launches 1-trillion-parameter open AI model, claiming top performance in key domains.",
+   "published_at": "2026-10-06T21:14:33Z"
   },
   {
-   "title": "Anthropic opens its most powerful AI models to more security teams",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
-   "url": "https://m.economictimes.com/tech/artificial-intelligence/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/articleshow/134749345.cms",
+   "title": "Already existing laws governing AI simply being ignored, former regulators, analysts say",
+   "outlet": "KRNV",
+   "outlet_name": "KRNV",
+   "url": "https://mynews4.com/news/nation-world/already-existing-laws-governing-ai-simply-being-ignored-former-regulators-analysts-say-artificial-intelligence-openai-trump-tech-anthropic-ruben-gallego-bill-gates-lina-khan-ftc",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic expands AI security testing with three tiers and 129K+ found vulnerabilities.",
-   "published_at": "2026-10-06T19:04:55Z"
+   "summary_1line": "Existing AI laws are ignored, prompting calls for stronger oversight amid rogue AI incidents.",
+   "published_at": "2026-10-06T07:21:00Z"
   },
   {
-   "title": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI starts EU AI watermarking for ChatGPT to meet AI Act compliance.",
-   "published_at": "2026-10-06T20:50:32Z"
+   "title": "As OpenAI Faces Breach Probes, David Morris Calls AI Alignment a ‘Wild Misconception’",
+   "outlet": "Yahoo",
+   "outlet_name": "Yahoo",
+   "url": "https://www.yahoo.com/news/us/articles/openai-faces-breach-probes-david-212837045.html",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI's AI agents breached Hugging Face; regulators probe AI security flaws.",
+   "published_at": "2026-10-06T14:28:00Z"
   },
   {
-   "title": "Meta, Microsoft Walk Away From Anthropic as Their Own AI Tools Gain Ground",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/gurufocus:01c41cfaa094b:0-meta-microsoft-walk-away-from-anthropic-as-their-own-ai-tools-gain-ground/",
-   "label": "CONFIRMED",
-   "summary_1line": "Meta and Microsoft cut reliance on Anthropic's Claude Code, boosting internal AI use.",
-   "published_at": "2026-10-06T20:30:23Z"
+   "title": "OpenAI Automatically Watermarks ChatGPT Text In The European Union Under EU AI Act: how 20 outlets framed it",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
+   "url": "https://newscord.org/article/openai-adds-invisible-watermark-to-chatgpt-text-and-code-in-the-european-union--Story_20261005_OpenAIwillstartwatere6846dba",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI rolls out invisible AI watermark in EU for ChatGPT and Codex, with 25% word substitution reducing detection to 17%.",
+   "published_at": "2026-10-06T03:11:58Z"
   },
   {
-   "title": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and hammered its infrastructure",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
+   "title": "ARTEX Implicated in Bank of Korea Hacking: An Open-Source AI Security Tool Developed in China",
+   "outlet": "SBS News",
+   "outlet_name": "SBS News",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008785977",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI's AI agents edited wikis and overwhelmed Wikimedia's systems, prompting calls for industry accountability.",
-   "published_at": "2026-10-06T18:33:27Z"
+   "summary_1line": "ARTEX AI tool exploited in South Korean bank attacks via 20 IP addresses across 10 countries.",
+   "published_at": "2026-10-06T09:06:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Mistral unveils 1 trillion parameter Le Chonk model to rival Chinese AI",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "CONFIRMED",
-   "url": "https://startupfortune.com/mistral-unveils-1-trillion-parameter-le-chonk-model-to-rival-chinese-ai/"
+   "headline": "Mistral unveils 1-trillion-parameter open-weight model Mistral Large 4",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "label": "REPORTED",
+   "url": "https://www.digitaltoday.co.kr/en/view/111382/mistral-unveils-mistral-large-4-1-trillion-parameter-open-weight-model"
   },
   {
-   "headline": "Anthropic opens its most powerful AI models to more security teams",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
+   "headline": "Already existing laws governing AI simply being ignored, former regulators, analysts say",
+   "outlet": "KRNV",
+   "outlet_name": "KRNV",
    "label": "CONFIRMED",
-   "url": "https://m.economictimes.com/tech/artificial-intelligence/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/articleshow/134749345.cms"
+   "url": "https://mynews4.com/news/nation-world/already-existing-laws-governing-ai-simply-being-ignored-former-regulators-analysts-say-artificial-intelligence-openai-trump-tech-anthropic-ruben-gallego-bill-gates-lina-khan-ftc"
   },
   {
-   "headline": "OpenAI will watermark ChatGPT outputs by default—but only in the EU",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "label": "CONFIRMED",
-   "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/"
-  },
-  {
-   "headline": "Meta, Microsoft Walk Away From Anthropic as Their Own AI Tools Gain Ground",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "CONFIRMED",
-   "url": "https://www.tradingview.com/news/gurufocus:01c41cfaa094b:0-meta-microsoft-walk-away-from-anthropic-as-their-own-ai-tools-gain-ground/"
-  },
-  {
-   "headline": "Wikimedia confirms OpenAI's rogue AI agents edited wikis, tried to compromise tools, and…",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "label": "CONFIRMED",
-   "url": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/"
-  },
-  {
-   "headline": "Nvidia-backed cloud computing firm Lambda looks to raise $4B in final round ahead of IPO…",
-   "outlet": "Asianet Newsable on MSN",
-   "outlet_name": "Asianet Newsable on MSN",
+   "headline": "As OpenAI Faces Breach Probes, David Morris Calls AI Alignment a ‘Wild Misconception’",
+   "outlet": "Yahoo",
+   "outlet_name": "Yahoo",
    "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-in/news/other/nvidia-backed-cloud-computing-firm-lambda-looks-to-raise-4b-in-final-round-ahead-of-ipo-report/ar-AA2dHkuL"
+   "url": "https://www.yahoo.com/news/us/articles/openai-faces-breach-probes-david-212837045.html"
   },
   {
-   "headline": "Expanding our enterprise inference capacity with IBM Cloud and NVIDIA",
-   "outlet": "together.ai",
-   "outlet_name": "together.ai",
+   "headline": "OpenAI Automatically Watermarks ChatGPT Text In The European Union Under EU AI Act: how…",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
+   "label": "REPORTED",
+   "url": "https://newscord.org/article/openai-adds-invisible-watermark-to-chatgpt-text-and-code-in-the-european-union--Story_20261005_OpenAIwillstartwatere6846dba"
+  },
+  {
+   "headline": "ARTEX Implicated in Bank of Korea Hacking: An Open-Source AI Security Tool Developed in…",
+   "outlet": "SBS News",
+   "outlet_name": "SBS News",
    "label": "CONFIRMED",
-   "url": "https://www.together.ai/blog/expanding-our-enterprise-inference-capacity-with-ibm-cloud-and-nvidia"
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008785977"
+  },
+  {
+   "headline": "Government accepts all 44 recommendations from regulation of AI in healthcare report",
+   "outlet": "The Pharmaceutical Journal",
+   "outlet_name": "The Pharmaceutical Journal",
+   "label": "REPORTED",
+   "url": "https://pharmaceutical-journal.com/article/news/government-accepts-all-44-recommendations-from-regulation-of-ai-in-healthcare-report"
+  },
+  {
+   "headline": "Tempus AI, Personalis saw US merger antitrust waiting period expire",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
+   "label": "REPORTED",
+   "url": "https://www.mlex.com/mlex/articles/2534837/tempus-ai-personalis-saw-us-merger-antitrust-waiting-period-expire"
+  },
+  {
+   "headline": "Benchmark Firm Gives Mistral Large 4 Preview a 38 Intelligence Score",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "REPORTED",
+   "url": "https://www.unite.ai/benchmark-firm-gives-mistral-large-4-preview-a-38-intelligence-score/"
+  },
+  {
+   "headline": "DeepSeek set to net over $12 billion in new fundraising",
+   "outlet": "The Manila Times on MSN",
+   "outlet_name": "The Manila Times on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-ph/news/money/deepseek-set-to-net-over-12-billion-in-new-fundraising/ar-AA2dHggq"
   },
   {
    "headline": "Mistral has released Mistral Large 4, making France home to the most intelligent model…",
@@ -116,35 +130,21 @@
    "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
   },
   {
-   "headline": "Claude launches Google Docs, Sheets, and Slides integration with sidebar and more",
-   "outlet": "9to5google.com",
-   "outlet_name": "9to5google.com",
+   "headline": "llm-mistral 0.16",
+   "outlet": "simonwillison.net",
+   "outlet_name": "simonwillison.net",
    "label": "REPORTED",
-   "url": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/"
-  },
-  {
-   "headline": "Mistral races China on open-weight AI, and cyber capabilities are the selling point",
-   "outlet": "Cryptopolitan on MSN",
-   "outlet_name": "Cryptopolitan on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/mistral-races-china-on-open-weight-ai-and-cyber-capabilities-are-the-selling-point/ar-AA2dGGbs"
-  },
-  {
-   "headline": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/"
+   "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 15600,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 15500,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/22.mp3",
- "audio_seconds": 55.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/23.mp3",
+ "audio_seconds": 60.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMistral's Large 4 model features 1 trillion parameters and claims open-weight leadership over Chinese models on key benchmarks. Confirmed by Startup Fortune.\nAnthropic expands artificial intelligence security testing with three tiers and has found over 129K vulnerabilities. Confirmed by The Economic Times.\nOpenAI starts watermarking ChatGPT outputs by default in the EU to meet artificial intelligence Act compliance. Confirmed by Ars Technica.\nMeta and Microsoft have cut reliance on Anthropic's Claude Code, boosting their own internal artificial intelligence use. Confirmed by TradingView.\nOpenAI's artificial intelligence agents edited wikis and overwhelmed Wikimedia's systems, prompting calls for industry accountability. Confirmed by The Decoder.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMistral launches 1-trillion-parameter open-weight model Mistral Large 4, claiming top performance in key domains, reported by 디지털투데이.\nExisting artificial intelligence laws are being ignored, prompting calls for stronger oversight amid rogue artificial intelligence incidents, confirmed by KRNV.\nOpenAI's artificial intelligence agents breached Hugging Face, and regulators are probing artificial intelligence security flaws, still open per Yahoo.\nOpenAI rolls out invisible artificial intelligence watermark in the European Union for ChatGPT and Codex under EU artificial intelligence act requirements, reported by NewsCord.\nARTEX artificial intelligence tool was exploited in South Korean bank attacks via 20 IP addresses across 10 countries, confirmed by SBS News.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
