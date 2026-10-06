@@ -1,141 +1,150 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T03:20:02Z",
- "hour": "2026-10-06T03:00:00Z",
+ "generated_at": "2026-10-06T04:20:02Z",
+ "hour": "2026-10-06T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Getting Rid of Custom GPTs and Moving to Plugin Architecture",
-   "outlet": "THE Journal: Technological Horizons in Education",
-   "outlet_name": "THE Journal: Technological Horizons in Education",
-   "url": "https://thejournal.com/articles/2026/10/05/openai-getting-rid-of-custom-gpts-and-moving-to-plugin-architecture.aspx",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI retiring Custom GPTs, moving to plugin architecture for ChatGPT and Codex.",
-   "published_at": "2026-10-05T23:26:15Z"
-  },
-  {
-   "title": "Among the Giants: Aventra Group Unveils Pioneering ISO 42001 AI Framework to Smash Enterprise Procurement Bottlenecks",
-   "outlet": "ZAWYA",
-   "outlet_name": "ZAWYA",
-   "url": "https://www.zawya.com/en/press-release/asia-press-releases/among-the-giants-aventra-group-unveils-pioneering-iso-42001-ai-framework-to-smash-enterprise-procurement-bottlenecks-1510758",
+   "title": "Introducing GLM 5.3 on Amazon Bedrock",
+   "outlet": "Amazon Web Services (AWS)",
+   "outlet_name": "Amazon Web Services (AWS)",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
    "label": "CONFIRMED",
-   "summary_1line": "Aventra Group gets global AI governance certification to speed up enterprise AI adoption in APAC.",
-   "published_at": "2026-10-05T17:00:00Z"
+   "summary_1line": "Z.ai's GLM 5.3 model launched on Amazon Bedrock for coding and security workflows.",
+   "published_at": "2026-10-05T23:25:17Z"
   },
   {
-   "title": "Record-breaking AI chip financing enters distribution phase: $42 billion in senior debt backed by Broadcom’s credit; $18 billion in subordinated debt awaits Anthropic’s IPO",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
-   "url": "https://news.futunn.com/en/post/1000596208/record-breaking-ai-chip-financing-enters-distribution-phase-42-billion",
+   "title": "OpenAI Pulls GPT-6.1 Launch as AI Agent Risks Mount",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/finance/2026/10/06/openai-pulls-gpt-61-launch-as-ai-agent-risks-mount",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-06T00:15:48Z"
+   "summary_1line": "OpenAI cancels GPT-6.1 launch; Samsung invests 5.48 trillion won in Vietnam AI fab; AI attacks on infrastructure reported.",
+   "published_at": "2026-10-06T01:32:15Z"
   },
   {
-   "title": "AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-06T01:52:08Z"
+   "title": "Whistleblower warns that humans don't control AI | AJ #shorts",
+   "outlet": "Modern Ghana",
+   "outlet_name": "Modern Ghana",
+   "url": "https://www.modernghana.com/videonews/aljazeera/1/729562",
+   "label": "CONFIRMED",
+   "summary_1line": "Government releases GH¢9.1 billion for six quarters of DACF to MMDAs.",
+   "published_at": "2026-10-06T00:50:00Z"
+  },
+  {
+   "title": "Reflection AI releases first open model to rival China",
+   "outlet": "The Hill",
+   "outlet_name": "The Hill",
+   "url": "https://thehill.com/policy/technology/6130496-reflection-ai-releases-beam-model/amp/",
+   "label": "CONFIRMED",
+   "summary_1line": "Reflection AI's Beam model rivals Chinese and U.S. open-source AI tools.",
+   "published_at": "2026-10-05T21:48:03Z"
+  },
+  {
+   "title": "AI whistleblowers join Google, Meta, OpenAI at NYC hearing",
+   "outlet": "ABC7 San Francisco",
+   "outlet_name": "ABC7 San Francisco",
+   "url": "https://abc7news.com/amp/post/google-meta-openai-among-firms-appearing-nyc-ai-hearing/19909409/",
+   "label": "CONFIRMED",
+   "summary_1line": "NYC council holds first AI regulation hearing, considering 10 bills to establish guardrails.",
+   "published_at": "2026-10-05T12:50:33Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Getting Rid of Custom GPTs and Moving to Plugin Architecture",
-   "outlet": "THE Journal: Technological Horizons in Education",
-   "outlet_name": "THE Journal: Technological Horizons in Education",
-   "label": "REPORTED",
-   "url": "https://thejournal.com/articles/2026/10/05/openai-getting-rid-of-custom-gpts-and-moving-to-plugin-architecture.aspx"
-  },
-  {
-   "headline": "Among the Giants: Aventra Group Unveils Pioneering ISO 42001 AI Framework to Smash…",
-   "outlet": "ZAWYA",
-   "outlet_name": "ZAWYA",
+   "headline": "Introducing GLM 5.3 on Amazon Bedrock",
+   "outlet": "Amazon Web Services (AWS)",
+   "outlet_name": "Amazon Web Services (AWS)",
    "label": "CONFIRMED",
-   "url": "https://www.zawya.com/en/press-release/asia-press-releases/among-the-giants-aventra-group-unveils-pioneering-iso-42001-ai-framework-to-smash-enterprise-procurement-bottlenecks-1510758"
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"
   },
   {
-   "headline": "Record-breaking AI chip financing enters distribution phase: $42 billion in senior debt…",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
+   "headline": "OpenAI Pulls GPT-6.1 Launch as AI Agent Risks Mount",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
    "label": "REPORTED",
-   "url": "https://news.futunn.com/en/post/1000596208/record-breaking-ai-chip-financing-enters-distribution-phase-42-billion"
+   "url": "https://en.sedaily.com/finance/2026/10/06/openai-pulls-gpt-61-launch-as-ai-agent-risks-mount"
   },
   {
-   "headline": "AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "Whistleblower warns that humans don't control AI | AJ #shorts",
+   "outlet": "Modern Ghana",
+   "outlet_name": "Modern Ghana",
+   "label": "CONFIRMED",
+   "url": "https://www.modernghana.com/videonews/aljazeera/1/729562"
+  },
+  {
+   "headline": "Reflection AI releases first open model to rival China",
+   "outlet": "The Hill",
+   "outlet_name": "The Hill",
+   "label": "CONFIRMED",
+   "url": "https://thehill.com/policy/technology/6130496-reflection-ai-releases-beam-model/amp/"
+  },
+  {
+   "headline": "AI whistleblowers join Google, Meta, OpenAI at NYC hearing",
+   "outlet": "ABC7 San Francisco",
+   "outlet_name": "ABC7 San Francisco",
+   "label": "CONFIRMED",
+   "url": "https://abc7news.com/amp/post/google-meta-openai-among-firms-appearing-nyc-ai-hearing/19909409/"
+  },
+  {
+   "headline": "“Leveling the playing field”: Smith College Grants Students Google Gemini Licensure",
+   "outlet": "THE SOPHIAN",
+   "outlet_name": "THE SOPHIAN",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo"
+   "url": "https://thesophian.com/leveling-the-playing-field-smith-college-grants-students-google-gemini-licensure/"
   },
   {
-   "headline": "Anthropic Reports User to the Police",
-   "outlet": "futurism.com",
-   "outlet_name": "futurism.com",
+   "headline": "Google Gemini Free Users Lose Flash and Pro Oct. 9. Here’s What It Costs to Keep Them",
+   "outlet": "Yahoo Creators",
+   "outlet_name": "Yahoo Creators",
    "label": "REPORTED",
-   "url": "https://futurism.com/artificial-intelligence/anthropic-claude-ai-chatbot-police-violence-safety"
+   "url": "https://creators.yahoo.com/lifestyle/story/google-gemini-free-users-lose-flash-and-pro-oct-9-heres-what-it-costs-to-keep-them-002845209.html"
   },
   {
-   "headline": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-   "outlet": "niemanlab.org",
-   "outlet_name": "niemanlab.org",
+   "headline": "The ex-Anthropic insider who shook Congress is now taking his warning to NYC",
+   "outlet": "Latin Times",
+   "outlet_name": "Latin Times",
    "label": "REPORTED",
-   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjNnWU05THVTNFBwSV9fS3pJZTNfSGZBVUR5cFZGRXZxTjI1ZTVyOGlqMk1ZcXRndEcxUFZQc3Z5Y3p1dnYyLXlFdTJ4Y2NRV1EydzZYVXpYM1JxdzhVSUdHQWktWFhsWXFaaEwtZUtrZ2V0MHdsUnVRN2hPSmR0blRUSm8tRGx3TUo2aXdBZHBKSHBZX2wtN3NLMVptc05Ga3QwekROdGxkX214cUM5TG0ydkE?oc=5"
   },
   {
-   "headline": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
+   "headline": "ASI Corp launches AI agent comparison platform supporting about 150 services",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
    "label": "REPORTED",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/"
+   "url": "https://www.digitaltoday.co.kr/en/view/111025/asi-corp-launches-ai-agent-comparison-platform-supporting-about-150-services"
   },
   {
-   "headline": "AI whistleblowers encourage NYC Council to enforce more regulation",
-   "outlet": "nydailynews.com",
-   "outlet_name": "nydailynews.com",
-   "label": "STILL OPEN",
-   "url": "https://www.nydailynews.com/2026/10/05/ai-whistleblowers-encourage-nyc-council-to-enforce-more-regulation/"
-  },
-  {
-   "headline": "'Reckless' AI firms can't control models, says whistleblower",
-   "outlet": "ABS-CBN on MSN",
-   "outlet_name": "ABS-CBN on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-ph/news/other/reckless-ai-firms-cant-control-models-says-whistleblower/ar-AA2dDdU4"
-  },
-  {
-   "headline": "Anthropic expected to IPO despite market concerns, AI safety concerns",
-   "outlet": "wandtv.com",
-   "outlet_name": "wandtv.com",
-   "label": "STILL OPEN",
-   "url": "https://www.wandtv.com/video/2026/10/05/anthropic-expected-ipo-despite-market-concerns-ai-safety-concerns/"
-  },
-  {
-   "headline": "Gorilla Logic lands select partner status in Anthropic's Claude network",
-   "outlet": "The Sociable on MSN",
-   "outlet_name": "The Sociable on MSN",
+   "headline": "Anthropic tells Australia it's open to laws requiring reporting of AI agent hacks",
+   "outlet": "firstpost.com",
+   "outlet_name": "firstpost.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/money/general/gorilla-logic-lands-select-partner-status-in-anthropic-s-claude-network/ar-AA2dDXm1"
+   "url": "https://www.firstpost.com/tech/anthropic-tells-australia-its-open-to-laws-requiring-reporting-of-ai-agent-hacks-14050668.html"
   },
   {
-   "headline": "AI safety groups aren’t buying OpenAI’s spending retreat",
-   "outlet": "Politico on MSN",
-   "outlet_name": "Politico on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/other/ai-safety-groups-aren-t-buying-openai-s-spending-retreat/ar-AA2dDlEC"
+   "headline": "Anthropic brought a Hindu monk to San Francisco to help Claude tackle AI ethics and…",
+   "outlet": "Business Today on MSN",
+   "outlet_name": "Business Today on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/lifestyle/other/anthropic-brought-a-hindu-monk-to-san-francisco-to-help-claude-tackle-ai-ethics-and-consciousness/ar-AA2dD1MZ"
+  },
+  {
+   "headline": "AI industry insiders voice alarms to NYC council as local governments take up safety…",
+   "outlet": "PinalCentral.com",
+   "outlet_name": "PinalCentral.com",
+   "label": "CONFIRMED",
+   "url": "https://www.pinalcentral.com/business_and_technology/ai-industry-insiders-voice-alarms-to-nyc-council-as-local-governments-take-up-safety-concerns/article_86ebf213-20c5-56d2-aef8-afc12dcad560.html"
   }
  ],
- "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12200,
- "articles_24h_label": "about 12,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 11400,
+ "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/03.mp3",
- "audio_seconds": 55.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/04.mp3",
+ "audio_seconds": 52.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is retiring Custom GPTs and moving to a plugin architecture for ChatGPT and Codex. Reported by THE Journal: Technological Horizons in Education.\nAventra Group has unveiled a pioneering ISO 42001 artificial intelligence framework to speed up enterprise artificial intelligence adoption in APAC. Confirmed by ZAWYA.\nRecord-breaking artificial intelligence chip financing is entering its distribution phase, with 42 billion dollars in senior debt backed by Broadcom's credit and 18 billion dollars in subordinated debt awaiting Anthropic's IPO. Reported by 富途牛牛.\nKling, an artificial intelligence video startup, has picked banks for a 1 billion-plus dollar IPO. Reported by Bloomberg.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Amazon Web Services (AWS): Introducing GLM 5.3 on Amazon Bedrock.\nReported by Seoul Economic Daily: OpenAI Pulls GPT-6.1 Launch as AI Agent Risks Mount.\nConfirmed, per Modern Ghana: Whistleblower warns that humans don't control AI | AJ #shorts.\nConfirmed, per The Hill: Reflection AI releases first open model to rival China.\nConfirmed, per ABC7 San Francisco: AI whistleblowers join Google, Meta, OpenAI at NYC hearing.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
