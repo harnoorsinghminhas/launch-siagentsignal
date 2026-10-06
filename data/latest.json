@@ -1,112 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T20:20:03Z",
- "hour": "2026-10-06T20:00:00Z",
+ "generated_at": "2026-10-06T21:20:03Z",
+ "hour": "2026-10-06T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI CEO says world should accept some AI harms to reap benefits, favours lighter regulation",
-   "outlet": "varindia",
-   "outlet_name": "varindia",
-   "url": "https://www.varindia.com/news/openai-ceo-says-world-should-accept-some-ai-harms-to-reap-benefits-favours-lighter-regulation",
+   "title": "DOD Halts Use of Anthropic AI After Court Upholds Supply Chain Risk Designation",
+   "outlet": "MeriTalk",
+   "outlet_name": "MeriTalk",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGF5V3Q1a2o1bVVxRUUwUU91dHFxR09VbU41aXZ0NFZDSDRkdzV3cU40VV8xanVqSGtCZ2JDOWVJdnN5dWhZZXpqRGtJUFUteGxkYlc1cXRsNlFqY1hvV25BcjRIUGlXZmdYbTdJamlrcW0zUnpZc2stLTFFbGUyV21UdEV6NjdQYnFwa0VwV3FqcXZrelhkOW1KWksxa3ZVa2hDRlNZZlpWdFQ0RkdJNGJIT0w?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Altman and Amodei clash over AI regulation, with Altman favoring light-touch rules and Amodei warning of existential risks.",
-   "published_at": "2026-10-06T18:06:35Z"
+   "summary_1line": null,
+   "published_at": "2026-10-06T20:17:49Z"
   },
   {
-   "title": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
-   "outlet": "Decrypt News",
-   "outlet_name": "Decrypt News",
-   "url": "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme",
+   "title": "Daily Digest: OpenAI sued over trademark, S.F. robotics startup Minerva Humanoids emerges",
+   "outlet": "The Business Journals",
+   "outlet_name": "The Business Journals",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEU5c0hIYWFWX3RYMTBWRFhxTURpQVFXTktac1BSZHB1T090cE53ZzhYeGN1a1JUSkQzYWx0elpoYVAtNHVVTVJjazRLVTkzbUpicXFNaGlNY3B2VkMxem9penducE5LSUtVRkpndzhULWZEcE1RcGhmeTl6bHlBUlI4ejhLNnRid0oyelg0ZW85MzRyamozNUNxZVpVdVQxeHQzM3Axcm9lU0pUMjRobQ?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-06T20:07:00Z"
+  },
+  {
+   "title": "Mistral: French AI firm announces Le Chonk, a new, private model",
+   "outlet": "DW.com",
+   "outlet_name": "DW.com",
+   "url": "https://www.dw.com/en/french-ai-company-announces-new-private-model/a-79569597",
    "label": "CONFIRMED",
-   "summary_1line": "Mistral launches 1-trillion-parameter Le Chonk at $1.36/input and $4.18/output tokens, ahead of rivals in benchmarks.",
-   "published_at": "2026-10-06T17:22:54Z"
+   "summary_1line": "Mistral launches Le Chonk, an open-weight AI model, claiming it surpasses Chinese models in cyber security.",
+   "published_at": "2026-10-06T19:55:45Z"
   },
   {
-   "title": "GitHub Copilot CLI Vulnerability Lets Attackers Steal Developer Secrets Using Encrypted Prompt Injection",
-   "outlet": "CyberSecurityNews",
-   "outlet_name": "CyberSecurityNews",
-   "url": "https://cybersecuritynews.com/github-copilot-cli-vulnerability/",
-   "label": "REPORTED",
-   "summary_1line": "GitHub Copilot CLI vulnerability lets attackers steal local files via encrypted prompts in autopilot mode.",
-   "published_at": "2026-10-06T15:52:16Z"
-  },
-  {
-   "title": "HubSpot layoffs: 660 jobs cut in AI restructuring",
-   "outlet": "Quartz",
-   "outlet_name": "Quartz",
-   "url": "https://qz.com/hubspot-layoffs-660-jobs-ai-restructuring-100626",
+   "title": "Expanding the Cyber Verification Program \\ Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "url": "https://www.anthropic.com/news/cyber-verification-program",
    "label": "CONFIRMED",
-   "summary_1line": "HubSpot cuts 660 jobs, 7% of workforce, to shift toward AI-driven operations.",
-   "published_at": "2026-10-06T18:10:56Z"
+   "summary_1line": "Anthropic expands cyber access tiers for security pros with tailored AI tools and safeguards.",
+   "published_at": "2026-10-06T19:00:00Z"
   },
   {
-   "title": "Nvidia-backed Reflection AI unveils Beam to challenge Chinese open-weight leaders",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
-   "url": "https://biz.chosun.com/en/en-it/2026/10/06/ZSBBZGWYRNHSPH43WGJA5PJEAU/",
+   "title": "ChatGPT text is about to become detectable with invisible watermark to comply with EU AI law",
+   "outlet": "dexerto.com",
+   "outlet_name": "dexerto.com",
+   "url": "https://www.dexerto.com/entertainment/chatgpt-text-is-about-to-become-detectable-with-invisible-watermark-to-comply-with-eu-ai-law-3416147/",
    "label": "REPORTED",
-   "summary_1line": "Reflection AI launches Beam, a 501B-parameter model matching Chinese rivals at lower compute cost.",
-   "published_at": "2026-10-06T08:37:00Z"
+   "summary_1line": "OpenAI adds invisible watermark to AI text in EU to meet AI Act requirements.",
+   "published_at": "2026-10-06T18:50:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI CEO says world should accept some AI harms to reap benefits, favours lighter…",
-   "outlet": "varindia",
-   "outlet_name": "varindia",
+   "headline": "DOD Halts Use of Anthropic AI After Court Upholds Supply Chain Risk Designation",
+   "outlet": "MeriTalk",
+   "outlet_name": "MeriTalk",
    "label": "REPORTED",
-   "url": "https://www.varindia.com/news/openai-ceo-says-world-should-accept-some-ai-harms-to-reap-benefits-favours-lighter-regulation"
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUGF5V3Q1a2o1bVVxRUUwUU91dHFxR09VbU41aXZ0NFZDSDRkdzV3cU40VV8xanVqSGtCZ2JDOWVJdnN5dWhZZXpqRGtJUFUteGxkYlc1cXRsNlFqY1hvV25BcjRIUGlXZmdYbTdJamlrcW0zUnpZc2stLTFFbGUyV21UdEV6NjdQYnFwa0VwV3FqcXZrelhkOW1KWksxa3ZVa2hDRlNZZlpWdFQ0RkdJNGJIT0w?oc=5"
   },
   {
-   "headline": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
-   "outlet": "Decrypt News",
-   "outlet_name": "Decrypt News",
+   "headline": "Daily Digest: OpenAI sued over trademark, S.F. robotics startup Minerva Humanoids emerges",
+   "outlet": "The Business Journals",
+   "outlet_name": "The Business Journals",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSEU5c0hIYWFWX3RYMTBWRFhxTURpQVFXTktac1BSZHB1T090cE53ZzhYeGN1a1JUSkQzYWx0elpoYVAtNHVVTVJjazRLVTkzbUpicXFNaGlNY3B2VkMxem9penducE5LSUtVRkpndzhULWZEcE1RcGhmeTl6bHlBUlI4ejhLNnRid0oyelg0ZW85MzRyamozNUNxZVpVdVQxeHQzM3Axcm9lU0pUMjRobQ?oc=5"
+  },
+  {
+   "headline": "Mistral: French AI firm announces Le Chonk, a new, private model",
+   "outlet": "DW.com",
+   "outlet_name": "DW.com",
    "label": "CONFIRMED",
-   "url": "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme"
-  },
-  {
-   "headline": "GitHub Copilot CLI Vulnerability Lets Attackers Steal Developer Secrets Using Encrypted…",
-   "outlet": "CyberSecurityNews",
-   "outlet_name": "CyberSecurityNews",
-   "label": "REPORTED",
-   "url": "https://cybersecuritynews.com/github-copilot-cli-vulnerability/"
-  },
-  {
-   "headline": "HubSpot layoffs: 660 jobs cut in AI restructuring",
-   "outlet": "Quartz",
-   "outlet_name": "Quartz",
-   "label": "CONFIRMED",
-   "url": "https://qz.com/hubspot-layoffs-660-jobs-ai-restructuring-100626"
-  },
-  {
-   "headline": "Nvidia-backed Reflection AI unveils Beam to challenge Chinese open-weight leaders",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
-   "label": "REPORTED",
-   "url": "https://biz.chosun.com/en/en-it/2026/10/06/ZSBBZGWYRNHSPH43WGJA5PJEAU/"
-  },
-  {
-   "headline": "California Governor Signs Over 20 AI-related Bills into Law",
-   "outlet": "Inside Privacy",
-   "outlet_name": "Inside Privacy",
-   "label": "REPORTED",
-   "url": "https://www.insideprivacy.com/artificial-intelligence/california-governor-signs-over-20-ai-related-bills-into-law/"
-  },
-  {
-   "headline": "OpenAI, Anthropic, and Google Face Tough Questions as NYC AI Hearing Raises Red Flags…",
-   "outlet": "Brave New Coin",
-   "outlet_name": "Brave New Coin",
-   "label": "REPORTED",
-   "url": "https://bravenewcoin.com/insights/openai-anthropic-and-google-face-tough-questions-as-nyc-ai-hearing-raises-red-flags-over-ai-risks"
-  },
-  {
-   "headline": "Elon Musk’s xAI Wins Block of Minnesota’s AI ‘Nudification’ Ban",
-   "outlet": "Law Commentary",
-   "outlet_name": "Law Commentary",
-   "label": "REPORTED",
-   "url": "https://www.lawcommentary.com/articles/elon-musk-xai-minnesota-ai-nudification-ban-blocked"
+   "url": "https://www.dw.com/en/french-ai-company-announces-new-private-model/a-79569597"
   },
   {
    "headline": "Expanding the Cyber Verification Program \\ Anthropic",
@@ -116,6 +81,34 @@
    "url": "https://www.anthropic.com/news/cyber-verification-program"
   },
   {
+   "headline": "ChatGPT text is about to become detectable with invisible watermark to comply with EU AI…",
+   "outlet": "dexerto.com",
+   "outlet_name": "dexerto.com",
+   "label": "REPORTED",
+   "url": "https://www.dexerto.com/entertainment/chatgpt-text-is-about-to-become-detectable-with-invisible-watermark-to-comply-with-eu-ai-law-3416147/"
+  },
+  {
+   "headline": "Nvidia-backed cloud computing firm Lambda looks to raise $4B in final round ahead of IPO…",
+   "outlet": "Asianet Newsable on MSN",
+   "outlet_name": "Asianet Newsable on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-in/news/other/nvidia-backed-cloud-computing-firm-lambda-looks-to-raise-4b-in-final-round-ahead-of-ipo-report/ar-AA2dHkuL"
+  },
+  {
+   "headline": "Expanding our enterprise inference capacity with IBM Cloud and NVIDIA",
+   "outlet": "together.ai",
+   "outlet_name": "together.ai",
+   "label": "CONFIRMED",
+   "url": "https://www.together.ai/blog/expanding-our-enterprise-inference-capacity-with-ibm-cloud-and-nvidia"
+  },
+  {
+   "headline": "Claude launches Google Docs, Sheets, and Slides integration with sidebar and more",
+   "outlet": "9to5google.com",
+   "outlet_name": "9to5google.com",
+   "label": "REPORTED",
+   "url": "https://9to5google.com/2026/10/06/claude-google-docs-sheet-slides/"
+  },
+  {
    "headline": "CPU-Z and HWMonitor now support NVIDIA RTX Spark ahead of launch",
    "outlet": "VideoCardz.com",
    "outlet_name": "VideoCardz.com",
@@ -123,28 +116,35 @@
    "url": "https://videocardz.com/newz/cpu-z-and-hwmonitor-now-support-nvidia-rtx-spark-ahead-of-launch"
   },
   {
-   "headline": "Advancing computer use with Ironclad Company Oct 6, 2026",
-   "outlet": "openai.com",
-   "outlet_name": "openai.com",
+   "headline": "Ask a Scientist: How are researchers using AI to help pregnant women access ultrasounds?",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
    "label": "CONFIRMED",
-   "url": "https://openai.com/index/advancing-computer-use-with-ironclad/"
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/blind-sweep-ultrasounds-ai/"
   },
   {
-   "headline": "ChatGPT text is about to become detectable with invisible watermark to comply with EU AI…",
-   "outlet": "dexerto.com",
-   "outlet_name": "dexerto.com",
+   "headline": "Mistral races China on open-weight AI, and cyber capabilities are the selling point",
+   "outlet": "Cryptopolitan on MSN",
+   "outlet_name": "Cryptopolitan on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/mistral-races-china-on-open-weight-ai-and-cyber-capabilities-are-the-selling-point/ar-AA2dGGbs"
+  },
+  {
+   "headline": "OpenAI Dots: The New Always-On AI Agents from OpenAI",
+   "outlet": "devnavigator.com",
+   "outlet_name": "devnavigator.com",
    "label": "REPORTED",
-   "url": "https://www.dexerto.com/entertainment/chatgpt-text-is-about-to-become-detectable-with-invisible-watermark-to-comply-with-eu-ai-law-3416147/"
+   "url": "https://devnavigator.com/2026/10/06/openai-dots-always-on-ai-agents/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "tidbit": "Did you know… about 16,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 15700,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/20.mp3",
- "audio_seconds": 47.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/21.mp3",
+ "audio_seconds": 61.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by varindia: OpenAI CEO says world should accept some AI harms to reap benefits, favours lighter regulation.\nConfirmed, per Decrypt News: Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme.\nReported by CyberSecurityNews: GitHub Copilot CLI Vulnerability Lets Attackers Steal Developer Secrets Using Encrypted Prompt Injection.\nConfirmed, per Quartz: HubSpot layoffs: 660 jobs cut in AI restructuring.\nReported by Chosunbiz: Nvidia-backed Reflection AI unveils Beam to challenge Chinese open-weight leaders.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe Department of Defense has halted use of Anthropic technology after a court upheld a supply chain risk designation. Reported by MeriTalk.\nOpenAI faces a trademark lawsuit while San Francisco robotics startup Minerva Humanoids has emerged. Reported by The Business Journals.\nMistral, the French artificial intelligence firm, has announced Le Chonk, a new private model claiming to surpass Chinese models in cyber security. Confirmed by DW dot com.\nAnthropic expands cyber access tiers for security professionals with tailored artificial intelligence tools and safeguards. Confirmed by anthropic dot com.\nOpenAI is adding an invisible watermark to artificial intelligence text in the EU to meet AI Act requirements. Reported by dexerto dot com.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
