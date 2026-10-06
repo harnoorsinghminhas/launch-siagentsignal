@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-05T23:20:02Z",
- "hour": "2026-10-05T23:00:00Z",
+ "generated_at": "2026-10-06T00:20:02Z",
+ "hour": "2026-10-06T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters for Coding and Agentic Workloads",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
-   "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/",
+   "title": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45R19C:0-nvidia-backed-reflection-unveils-first-ai-model-to-take-on-chinese-open-models/",
    "label": "CONFIRMED",
-   "summary_1line": "Reflection AI launches Beam, a 501B MoE model with 23B active params, scoring 80.9 on SWE-bench.",
-   "published_at": "2026-10-05T21:04:20Z"
+   "summary_1line": "Reflection launches AI model to compete with Chinese open models.",
+   "published_at": "2026-10-05T20:47:20Z"
   },
   {
-   "title": "Anthropic launches Claude Frontier Academy to train 10,000 AI engineers",
-   "outlet": "Digital Watch Observatory",
-   "outlet_name": "Digital Watch Observatory",
-   "url": "https://dig.watch/updates/anthropic-claude-frontier-academy",
+   "title": "Why OpenAI's Regulatory Nightmare Is Only Getting Started",
+   "outlet": "theinformation.com",
+   "outlet_name": "The Information",
+   "url": "https://www.theinformation.com/articles/openais-regulatory-nightmare-getting-started",
    "label": "REPORTED",
-   "summary_1line": "Anthropic trains 10,000 AI engineers by 2027 to deploy AI in organisations.",
-   "published_at": "2026-10-05T21:09:26Z"
+   "summary_1line": null,
+   "published_at": "2026-10-06T00:00:36Z"
   },
   {
-   "title": "New Mexico Democrats accuse Senate Republicans of violating AI campaign law on misinformation",
-   "outlet": "News From The States",
-   "outlet_name": "News From The States",
-   "url": "https://www.newsfromthestates.com/article/new-mexico-democrats-accuse-senate-republicans-violating-ai-campaign-law-misinformation",
-   "label": "CONFIRMED",
-   "summary_1line": "Democrats accuse Republicans of violating AI campaign law with unmarked AI images.",
-   "published_at": "2026-10-05T21:58:51Z"
-  },
-  {
-   "title": "Sam Altman Says the World Is Going to Have to Suffer for the Glories of AI",
-   "outlet": "Futurism",
-   "outlet_name": "Futurism",
-   "url": "https://futurism.com/artificial-intelligence/sam-altman-world-suffer-glories-ai",
-   "label": "STILL OPEN",
-   "summary_1line": "Altman argues AI progress should outweigh risks, calling for liability if models cause harm during training.",
-   "published_at": "2026-10-05T16:36:59Z"
-  },
-  {
-   "title": "Nvidia lines up Wall Street giants for a $500 billion AI financing push",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/nvidia-500-billion-ai-financing-push/",
+   "title": "Researchers flag censorship in Alibaba’s Qwen AI",
+   "outlet": "Diya TV",
+   "outlet_name": "Diya TV",
+   "url": "https://diyatvusa.com/researchers-flag-censorship-in-alibabas-qwen-ai/",
    "label": "REPORTED",
-   "summary_1line": "Nvidia partners with six Wall Street firms for $500B AI financing, offering 25% backstop on GPU-backed loans.",
-   "published_at": "2026-10-05T12:34:00Z"
+   "summary_1line": "Hirundo finds Qwen model censors political topics, releases modified versions to reduce bias.",
+   "published_at": "2026-10-05T22:52:00Z"
+  },
+  {
+   "title": "At OpenAI Forum, Discussion Focuses on Stronger Teen Safety Measures",
+   "outlet": "Education Week",
+   "outlet_name": "Education Week",
+   "url": "https://www.edweek.org/technology/at-openai-forum-discussion-focuses-on-stronger-teen-safety-measures/2026/10",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI panel urges safe, age-appropriate AI use in schools for teens.",
+   "published_at": "2026-10-05T21:56:47Z"
+  },
+  {
+   "title": "NVIDIA Finalist WIM Targets the Gap Between AI Decisions and Robot Motion",
+   "outlet": "KoreaTechDesk",
+   "outlet_name": "KoreaTechDesk",
+   "url": "https://koreatechdesk.com/wim-robotics-nvidia-physical-ai-robot-control",
+   "label": "REPORTED",
+   "summary_1line": "WIM Robotics wins top 10 at NVIDIA event, building control layer for non-expert robot development in agriculture.",
+   "published_at": "2026-10-05T21:49:14Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Reflection AI Introduces Beam: A 501B Open-Weight MoE Model With 23B Active Parameters…",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
+   "headline": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "CONFIRMED",
-   "url": "https://www.marktechpost.com/2026/10/05/reflection-ai-introduces-beam-a-501b-open-weight-moe-model-with-23b-active-parameters-for-coding-and-agentic-workloads/"
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N45R19C:0-nvidia-backed-reflection-unveils-first-ai-model-to-take-on-chinese-open-models/"
   },
   {
-   "headline": "Anthropic launches Claude Frontier Academy to train 10,000 AI engineers",
-   "outlet": "Digital Watch Observatory",
-   "outlet_name": "Digital Watch Observatory",
+   "headline": "Why OpenAI's Regulatory Nightmare Is Only Getting Started",
+   "outlet": "theinformation.com",
+   "outlet_name": "The Information",
    "label": "REPORTED",
-   "url": "https://dig.watch/updates/anthropic-claude-frontier-academy"
+   "url": "https://www.theinformation.com/articles/openais-regulatory-nightmare-getting-started"
   },
   {
-   "headline": "New Mexico Democrats accuse Senate Republicans of violating AI campaign law on…",
-   "outlet": "News From The States",
-   "outlet_name": "News From The States",
-   "label": "CONFIRMED",
-   "url": "https://www.newsfromthestates.com/article/new-mexico-democrats-accuse-senate-republicans-violating-ai-campaign-law-misinformation"
-  },
-  {
-   "headline": "Sam Altman Says the World Is Going to Have to Suffer for the Glories of AI",
-   "outlet": "Futurism",
-   "outlet_name": "Futurism",
-   "label": "STILL OPEN",
-   "url": "https://futurism.com/artificial-intelligence/sam-altman-world-suffer-glories-ai"
-  },
-  {
-   "headline": "Nvidia lines up Wall Street giants for a $500 billion AI financing push",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "Researchers flag censorship in Alibaba’s Qwen AI",
+   "outlet": "Diya TV",
+   "outlet_name": "Diya TV",
    "label": "REPORTED",
-   "url": "https://cryptobriefing.com/nvidia-500-billion-ai-financing-push/"
+   "url": "https://diyatvusa.com/researchers-flag-censorship-in-alibabas-qwen-ai/"
   },
   {
    "headline": "At OpenAI Forum, Discussion Focuses on Stronger Teen Safety Measures",
@@ -95,11 +81,18 @@
    "url": "https://www.edweek.org/technology/at-openai-forum-discussion-focuses-on-stronger-teen-safety-measures/2026/10"
   },
   {
-   "headline": "Nvidia-backed Reflection unveils first AI model to take on Chinese open models",
-   "outlet": "marketscreener.com",
-   "outlet_name": "marketscreener.com",
+   "headline": "NVIDIA Finalist WIM Targets the Gap Between AI Decisions and Robot Motion",
+   "outlet": "KoreaTechDesk",
+   "outlet_name": "KoreaTechDesk",
+   "label": "REPORTED",
+   "url": "https://koreatechdesk.com/wim-robotics-nvidia-physical-ai-robot-control"
+  },
+  {
+   "headline": "Wall Street tests lender appetite with $60 billion Broadcom-Anthropic deal - FT",
+   "outlet": "finance.yahoo.com",
+   "outlet_name": "finance.yahoo.com",
    "label": "CONFIRMED",
-   "url": "https://www.marketscreener.com/news/nvidia-backed-reflection-unveils-first-ai-model-to-take-on-chinese-open-models-ce785dd8da80f227"
+   "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-tests-lender-appetite-214705266.html"
   },
   {
    "headline": "California forces employers to disclose AI-driven layoffs under new law",
@@ -109,18 +102,18 @@
    "url": "https://www.hcamag.com/us/specialization/hr-technology/california-forces-employers-to-disclose-ai-driven-layoffs-under-new-law/592324"
   },
   {
+   "headline": "Introducing GLM 5.3 on Amazon Bedrock | Artificial Intelligence",
+   "outlet": "aws.amazon.com",
+   "outlet_name": "aws.amazon.com",
+   "label": "REPORTED",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"
+  },
+  {
    "headline": "Nyc Council Holds Hearing With Ai Whistleblowers And Companies",
    "outlet": "brooklyn.news12.com",
    "outlet_name": "brooklyn.news12.com",
    "label": "CONFIRMED",
    "url": "https://brooklyn.news12.com/nyc-council-holds-hearing-with-ai-whistleblowers-and-companies"
-  },
-  {
-   "headline": "Wall Street tests lender appetite with $60 billion Broadcom-Anthropic deal - FT",
-   "outlet": "finance.yahoo.com",
-   "outlet_name": "finance.yahoo.com",
-   "label": "REPORTED",
-   "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-tests-lender-appetite-214705266.html"
   },
   {
    "headline": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
@@ -130,21 +123,28 @@
    "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/"
   },
   {
-   "headline": "AI data centers vs. your electric bill: Here's what Congress is doing about it",
-   "outlet": "MoneyLion on MSN",
-   "outlet_name": "MoneyLion on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/ai-data-centers-vs-your-electric-bill-heres-what-congress-is-doing-about-it/ar-AA2dDpF9"
+   "headline": "Secret stamp: OpenAI adds invisible watermarks to ChatGPT text under EU rules",
+   "outlet": "interestingengineering.com",
+   "outlet_name": "interestingengineering.com",
+   "label": "REPORTED",
+   "url": "https://interestingengineering.com/ai-robotics/openai-chatgpt-invisible-watermarks-eu"
+  },
+  {
+   "headline": "The Key Anthropic Numbers You Need To Know Ahead Of Its IPO",
+   "outlet": "bigtechnology.com",
+   "outlet_name": "bigtechnology.com",
+   "label": "REPORTED",
+   "url": "https://www.bigtechnology.com/p/the-key-anthropic-numbers-you-need"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 12100,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/05/23.mp3",
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/00.mp3",
  "audio_seconds": 62.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReflection AI launches Beam, a 501B MoE model with 23B active parameters, scoring 80.9 on SWE-bench. Confirmed by MarkTechPost.\nAnthropic trains 10,000 artificial intelligence engineers by 2027 to deploy artificial intelligence in organisations. Reported by Digital Watch Observatory.\nNew Mexico Democrats accuse Republicans of violating an artificial intelligence campaign law with unmarked artificial intelligence images. Confirmed by News From The States.\nSam Altman argues artificial intelligence progress should outweigh risks, calling for liability if models cause harm during training. Still open, per Futurism.\nNvidia partners with six Wall Street firms for 500 billion dollars in artificial intelligence financing, offering 25 percent backstop on GPU-backed loans. Reported by Crypto Briefing.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia-backed Reflection launches an artificial intelligence model to compete with Chinese open models, confirmed by TradingView.\nOpenAI faces an expanding regulatory nightmare, reported by The Information.\nResearchers flag censorship in Alibaba's Qwen artificial intelligence model, with Hirundo finding it censors political topics and releasing modified versions to reduce bias, reported by Diya TV.\nAt an OpenAI forum, discussion focused on stronger teen safety measures, with a panel urging safe and age-appropriate artificial intelligence use in schools, reported by Education Week.\nWIM Robotics won top 10 at an NVIDIA event, building a control layer for non-expert robot development in agriculture, reported by KoreaTechDesk.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
