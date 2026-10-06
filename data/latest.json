@@ -1,119 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T19:20:02Z",
- "hour": "2026-10-06T19:00:00Z",
+ "generated_at": "2026-10-06T20:20:03Z",
+ "hour": "2026-10-06T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Mistral le Chonk 1T-parameter AI debuts",
-   "outlet": "Briefs Finance",
-   "outlet_name": "Briefs Finance",
-   "url": "https://www.briefs.co/news/mistral-s-1-trillion-parameter-le-chonk-takes-aim-at-the-ope/",
-   "label": "CONFIRMED",
-   "summary_1line": "Mistral's ML4 model, trained on 4,000 GPUs, targets cyber and industrial tasks with open AI capabilities.",
-   "published_at": "2026-10-06T13:35:00Z"
+   "title": "OpenAI CEO says world should accept some AI harms to reap benefits, favours lighter regulation",
+   "outlet": "varindia",
+   "outlet_name": "varindia",
+   "url": "https://www.varindia.com/news/openai-ceo-says-world-should-accept-some-ai-harms-to-reap-benefits-favours-lighter-regulation",
+   "label": "REPORTED",
+   "summary_1line": "Altman and Amodei clash over AI regulation, with Altman favoring light-touch rules and Amodei warning of existential risks.",
+   "published_at": "2026-10-06T18:06:35Z"
   },
   {
-   "title": "Mistral unveils Large 4 AI model, claims edge over Chinese rivals",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/mistral-large-4-ai-model-launch/",
+   "title": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
+   "outlet": "Decrypt News",
+   "outlet_name": "Decrypt News",
+   "url": "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme",
    "label": "CONFIRMED",
-   "summary_1line": "Mistral unveils 1-trillion-parameter ML4, claiming edge over Chinese rivals, with public release on October 27.",
-   "published_at": "2026-10-06T10:13:00Z"
+   "summary_1line": "Mistral launches 1-trillion-parameter Le Chonk at $1.36/input and $4.18/output tokens, ahead of rivals in benchmarks.",
+   "published_at": "2026-10-06T17:22:54Z"
   },
   {
-   "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI plans to release hundreds of AI-solved math problems on GitHub after a meeting with mathematicians.",
-   "published_at": "2026-10-06T17:28:33Z"
+   "title": "GitHub Copilot CLI Vulnerability Lets Attackers Steal Developer Secrets Using Encrypted Prompt Injection",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "url": "https://cybersecuritynews.com/github-copilot-cli-vulnerability/",
+   "label": "REPORTED",
+   "summary_1line": "GitHub Copilot CLI vulnerability lets attackers steal local files via encrypted prompts in autopilot mode.",
+   "published_at": "2026-10-06T15:52:16Z"
   },
   {
-   "title": "Gov. Cox mandates AI training for government employees in executive order for integration",
-   "outlet": "KUTV",
-   "outlet_name": "KUTV",
-   "url": "https://kutv.com/news/local/gov-cox-mandates-ai-training-for-government-employees-in-executive-order-for-integration",
+   "title": "HubSpot layoffs: 660 jobs cut in AI restructuring",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
+   "url": "https://qz.com/hubspot-layoffs-660-jobs-ai-restructuring-100626",
    "label": "CONFIRMED",
-   "summary_1line": "Utah mandates AI literacy training for employees under a pro-human AI framework.",
-   "published_at": "2026-10-06T17:34:59Z"
+   "summary_1line": "HubSpot cuts 660 jobs, 7% of workforce, to shift toward AI-driven operations.",
+   "published_at": "2026-10-06T18:10:56Z"
   },
   {
-   "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
-   "label": "CONFIRMED",
-   "summary_1line": "Wajo leads personal-agent race with trust-first design, used in 107 countries and growing 10x since launch.",
-   "published_at": "2026-10-06T08:15:00Z"
+   "title": "Nvidia-backed Reflection AI unveils Beam to challenge Chinese open-weight leaders",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "url": "https://biz.chosun.com/en/en-it/2026/10/06/ZSBBZGWYRNHSPH43WGJA5PJEAU/",
+   "label": "REPORTED",
+   "summary_1line": "Reflection AI launches Beam, a 501B-parameter model matching Chinese rivals at lower compute cost.",
+   "published_at": "2026-10-06T08:37:00Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "Mistral le Chonk 1T-parameter AI debuts",
-   "outlet": "Briefs Finance",
-   "outlet_name": "Briefs Finance",
-   "label": "CONFIRMED",
-   "url": "https://www.briefs.co/news/mistral-s-1-trillion-parameter-le-chonk-takes-aim-at-the-ope/"
-  },
-  {
-   "headline": "Mistral unveils Large 4 AI model, claims edge over Chinese rivals",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/mistral-large-4-ai-model-launch/"
-  },
-  {
-   "headline": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "label": "CONFIRMED",
-   "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/"
-  },
-  {
-   "headline": "Gov. Cox mandates AI training for government employees in executive order for integration",
-   "outlet": "KUTV",
-   "outlet_name": "KUTV",
-   "label": "CONFIRMED",
-   "url": "https://kutv.com/news/local/gov-cox-mandates-ai-training-for-government-employees-in-executive-order-for-integration"
-  },
-  {
-   "headline": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/"
-  },
-  {
-   "headline": "AI Power Spikes Demand Chip-to-Grid Design Changes",
-   "outlet": "DataCenterKnowledge",
-   "outlet_name": "DataCenterKnowledge",
-   "label": "CONFIRMED",
-   "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-power-spikes-demand-chip-to-grid-design-changes"
-  },
   {
    "headline": "OpenAI CEO says world should accept some AI harms to reap benefits, favours lighter…",
    "outlet": "varindia",
    "outlet_name": "varindia",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd3FneExvYnRXOE93Y3NUbUJqOUZhNWpkTFRvd0pZdnlOQmN0Rzd0Rk45RU1jYmxSUWk4Q0JFM3pNYUxFUXUtMlhxUnhMdFkzaHRRM0hKUmZMd0MtNGNIcFZMYVhXVDU1Uzd0WFJRTUpMOWYyNTJOM0tjRXpWTk9NckJHeDQyOURIeHZGYmhUNElKNWFoblBLS3EtYU5Denpqbi1IVUxyZlRDX3o0UHNvbHFiRzhXOTFXS2NHbm0xSnc?oc=5"
+   "url": "https://www.varindia.com/news/openai-ceo-says-world-should-accept-some-ai-harms-to-reap-benefits-favours-lighter-regulation"
   },
   {
-   "headline": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
-   "outlet": "ZDNET",
-   "outlet_name": "ZDNET",
-   "label": "REPORTED",
-   "url": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/"
-  },
-  {
-   "headline": "CrowdStrike, AWS and Nvidia launch 4th cybersecurity accelerator as agentic AI security…",
-   "outlet": "Asianet Newsable on MSN",
-   "outlet_name": "Asianet Newsable on MSN",
+   "headline": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
+   "outlet": "Decrypt News",
+   "outlet_name": "Decrypt News",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/crowdstrike-aws-and-nvidia-launch-4th-cybersecurity-accelerator-as-agentic-ai-security-push-grows/ar-AA2dGODi"
+   "url": "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme"
+  },
+  {
+   "headline": "GitHub Copilot CLI Vulnerability Lets Attackers Steal Developer Secrets Using Encrypted…",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "label": "REPORTED",
+   "url": "https://cybersecuritynews.com/github-copilot-cli-vulnerability/"
+  },
+  {
+   "headline": "HubSpot layoffs: 660 jobs cut in AI restructuring",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
+   "label": "CONFIRMED",
+   "url": "https://qz.com/hubspot-layoffs-660-jobs-ai-restructuring-100626"
+  },
+  {
+   "headline": "Nvidia-backed Reflection AI unveils Beam to challenge Chinese open-weight leaders",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "label": "REPORTED",
+   "url": "https://biz.chosun.com/en/en-it/2026/10/06/ZSBBZGWYRNHSPH43WGJA5PJEAU/"
+  },
+  {
+   "headline": "California Governor Signs Over 20 AI-related Bills into Law",
+   "outlet": "Inside Privacy",
+   "outlet_name": "Inside Privacy",
+   "label": "REPORTED",
+   "url": "https://www.insideprivacy.com/artificial-intelligence/california-governor-signs-over-20-ai-related-bills-into-law/"
+  },
+  {
+   "headline": "OpenAI, Anthropic, and Google Face Tough Questions as NYC AI Hearing Raises Red Flags…",
+   "outlet": "Brave New Coin",
+   "outlet_name": "Brave New Coin",
+   "label": "REPORTED",
+   "url": "https://bravenewcoin.com/insights/openai-anthropic-and-google-face-tough-questions-as-nyc-ai-hearing-raises-red-flags-over-ai-risks"
+  },
+  {
+   "headline": "Elon Musk’s xAI Wins Block of Minnesota’s AI ‘Nudification’ Ban",
+   "outlet": "Law Commentary",
+   "outlet_name": "Law Commentary",
+   "label": "REPORTED",
+   "url": "https://www.lawcommentary.com/articles/elon-musk-xai-minnesota-ai-nudification-ban-blocked"
+  },
+  {
+   "headline": "Expanding the Cyber Verification Program \\ Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/news/cyber-verification-program"
   },
   {
    "headline": "CPU-Z and HWMonitor now support NVIDIA RTX Spark ahead of launch",
@@ -123,28 +123,28 @@
    "url": "https://videocardz.com/newz/cpu-z-and-hwmonitor-now-support-nvidia-rtx-spark-ahead-of-launch"
   },
   {
-   "headline": "DeepMind Debuts EmbeddingGemma 2, Mapping Five Modalities Into One Space",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "REPORTED",
-   "url": "https://www.unite.ai/deepmind-debuts-embeddinggemma-2-mapping-five-modalities-into-one-space/"
+   "headline": "Advancing computer use with Ironclad Company Oct 6, 2026",
+   "outlet": "openai.com",
+   "outlet_name": "openai.com",
+   "label": "CONFIRMED",
+   "url": "https://openai.com/index/advancing-computer-use-with-ironclad/"
   },
   {
-   "headline": "What AI gets wrong and what failure teaches us",
-   "outlet": "microsoft.com",
-   "outlet_name": "microsoft.com",
-   "label": "CONFIRMED",
-   "url": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/"
+   "headline": "ChatGPT text is about to become detectable with invisible watermark to comply with EU AI…",
+   "outlet": "dexerto.com",
+   "outlet_name": "dexerto.com",
+   "label": "REPORTED",
+   "url": "https://www.dexerto.com/entertainment/chatgpt-text-is-about-to-become-detectable-with-invisible-watermark-to-comply-with-eu-ai-law-3416147/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 15600,
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "articles_24h_rounded": 15700,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/19.mp3",
- "audio_seconds": 65.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/20.mp3",
+ "audio_seconds": 47.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMistral's ML4 model, trained on 4,000 GPUs, debuts with 1-trillion parameters targeting cyber and industrial tasks. Confirmed by Briefs Finance: the open capabilities compete in the market.\nMistral unveils the Large 4 model with 1-trillion parameters, claiming an edge over Chinese rivals. Confirmed by Crypto Briefing: public release comes on October 27.\nOpenAI plans to release hundreds of solved math problems on GitHub following a meeting with mathematicians. Confirmed by Wired: the move addresses mathematician concerns.\nUtah mandates artificial intelligence literacy training for government employees under a pro-human artificial intelligence framework. Confirmed by KUTV: the order integrates training across state government.\nWajo leads the personal-agent race with a trust-first design, operating in 107 countries and growing 10x since launch. Confirmed by TechCrunch: Vinod Khosla believes it will win the agent market.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by varindia: OpenAI CEO says world should accept some AI harms to reap benefits, favours lighter regulation.\nConfirmed, per Decrypt News: Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme.\nReported by CyberSecurityNews: GitHub Copilot CLI Vulnerability Lets Attackers Steal Developer Secrets Using Encrypted Prompt Injection.\nConfirmed, per Quartz: HubSpot layoffs: 660 jobs cut in AI restructuring.\nReported by Chosunbiz: Nvidia-backed Reflection AI unveils Beam to challenge Chinese open-weight leaders.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
