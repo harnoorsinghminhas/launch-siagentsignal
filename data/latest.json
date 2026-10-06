@@ -1,82 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T15:20:02Z",
- "hour": "2026-10-06T15:00:00Z",
+ "generated_at": "2026-10-06T16:20:02Z",
+ "hour": "2026-10-06T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google is about to remove free access to Gemini Flash and Pro",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-   "label": "CONFIRMED",
-   "summary_1line": "Free Google Gemini users get limited to Flash Lite; Pro access requires premium subscriptions.",
-   "published_at": "2026-10-06T06:20:00Z"
+   "title": "China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning",
+   "outlet": "Nikkei Asia",
+   "outlet_name": "Nikkei Asia",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning",
+   "label": "REPORTED",
+   "summary_1line": "China's AI push continues amid safety concerns and calls for pause.",
+   "published_at": "2026-10-06T15:55:00Z"
   },
   {
-   "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
-   "label": "CONFIRMED",
-   "summary_1line": "Flai's AI helps dealerships grow revenue 20x with 50K monthly interactions.",
-   "published_at": "2026-10-06T13:00:00Z"
+   "title": "Google Unveils Gemini 4 Argon for Coding, Enterprise Work and Cyber Defense",
+   "outlet": "ALM Corp",
+   "outlet_name": "ALM Corp",
+   "url": "https://almcorp.com/news/google-unveils-gemini-4-argon-coding-enterprise-cyber-defense/",
+   "label": "REPORTED",
+   "summary_1line": "Google's Gemini 4 Argon enables long tasks, scores 77.9% on DeepSWE, and boosts cybersecurity with 1M token output.",
+   "published_at": "2026-10-06T15:01:07Z"
   },
   {
-   "title": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/",
+   "title": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI agents hacked Wikipedia, made unauthorized edits, and overwhelmed its systems.",
-   "published_at": "2026-10-06T01:20:00Z"
+   "summary_1line": "Lila Ibrahim on AI readiness, education, and human agency in the age of AI.",
+   "published_at": "2026-10-06T14:00:01Z"
   },
   {
-   "title": "Mistral dévoile son nouveau modèle d’IA, Large 4",
-   "outlet": "L'AGEFI",
-   "outlet_name": "L'AGEFI",
-   "url": "https://www.agefi.fr/news/entreprises/mistral-devoile-son-nouveau-modele-dia-large-4",
+   "title": "Mayor Zohran Mamdani wants AI to be regulated at every single level; does not agree with it being in an a",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/mayor-zohran-mamdani-wants-ai-to-be-regulated-at-every-single-level-does-not-agree-with-it-being-in-an-arms-race-with-china-points-to-layoffs-and-more/articleshow/134743098.cms",
    "label": "CONFIRMED",
-   "summary_1line": "Mistral unveils open-weight AI model Mistral Large 4, trained on 4,000 Nvidia chips, for public release on October 27.",
-   "published_at": "2026-10-05T18:16:00Z"
+   "summary_1line": "NYC Mayor calls for national AI regulation amid 10% extinction risk and job market impacts.",
+   "published_at": "2026-10-06T14:27:00Z"
+  },
+  {
+   "title": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-06T11:41:46Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google is about to remove free access to Gemini Flash and Pro",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only"
+   "headline": "China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning",
+   "outlet": "Nikkei Asia",
+   "outlet_name": "Nikkei Asia",
+   "label": "REPORTED",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning"
   },
   {
-   "headline": "Flai’s AI dealership software is booking 50,000 appointments per month",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/"
+   "headline": "Google Unveils Gemini 4 Argon for Coding, Enterprise Work and Cyber Defense",
+   "outlet": "ALM Corp",
+   "outlet_name": "ALM Corp",
+   "label": "REPORTED",
+   "url": "https://almcorp.com/news/google-unveils-gemini-4-argon-coding-enterprise-cyber-defense/"
   },
   {
-   "headline": "OpenAI agents tried to hack Wikipedia tools and flooded it with traffic",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
+   "headline": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for…",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic/"
+   "url": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html"
   },
   {
-   "headline": "Mistral dévoile son nouveau modèle d’IA, Large 4",
-   "outlet": "L'AGEFI",
-   "outlet_name": "L'AGEFI",
+   "headline": "Mayor Zohran Mamdani wants AI to be regulated at every single level; does not agree with…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
    "label": "CONFIRMED",
-   "url": "https://www.agefi.fr/news/entreprises/mistral-devoile-son-nouveau-modele-dia-large-4"
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/mayor-zohran-mamdani-wants-ai-to-be-regulated-at-every-single-level-does-not-agree-with-it-being-in-an-arms-race-with-china-points-to-layoffs-and-more/articleshow/134743098.cms"
   },
   {
-   "headline": "Introducing Mistral Large 4",
-   "outlet": "mistral.ai",
-   "outlet_name": "mistral.ai",
+   "headline": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding"
+  },
+  {
+   "headline": "OpenAI hunts for more capital as the AI funding rush accelerates",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/openai-seeks-funding-ai-investment-rush/"
+  },
+  {
+   "headline": "Mistral launches Mistral Large 4 open-weight AI model",
+   "outlet": "qz.com",
+   "outlet_name": "qz.com",
    "label": "CONFIRMED",
-   "url": "https://mistral.ai/news/mistral-large-4/"
+   "url": "https://qz.com/mistral-large-4-open-weight-ai-model-launch-100626"
   },
   {
    "headline": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
@@ -86,11 +109,18 @@
    "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/"
   },
   {
-   "headline": "Mistral releases new flagship model as it seeks to close the gap with competitors",
-   "outlet": "sifted.eu",
-   "outlet_name": "sifted.eu",
-   "label": "REPORTED",
-   "url": "https://sifted.eu/articles/mistral-large-four-frontier-ai-models/"
+   "headline": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+   "outlet": "research.google",
+   "outlet_name": "research.google",
+   "label": "CONFIRMED",
+   "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/"
+  },
+  {
+   "headline": "Claude Startups Additional Benefits Addendum",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/legal/startup-program-addendum"
   },
   {
    "headline": "Tech Mahindra Rolls Out Build with Gemini to 12,500+ Associates",
@@ -105,37 +135,16 @@
    "outlet_name": "Unite.AI",
    "label": "REPORTED",
    "url": "https://www.unite.ai/mistral-unveils-1-05t-parameter-le-chonk-moe-model-in-public-preview/"
-  },
-  {
-   "headline": "Mistral launches Mistral Large 4 open-weight AI model",
-   "outlet": "qz.com",
-   "outlet_name": "qz.com",
-   "label": "REPORTED",
-   "url": "https://qz.com/mistral-large-4-open-weight-ai-model-launch-100626"
-  },
-  {
-   "headline": "ZoomInfo Expands ISO Assurance Program with ISO/IEC 42001 Certification, Validating its…",
-   "outlet": "marketscreener.com",
-   "outlet_name": "marketscreener.com",
-   "label": "CONFIRMED",
-   "url": "https://www.marketscreener.com/news/zoominfo-expands-iso-assurance-program-with-iso-iec-42001-certification-validating-its-rigorous-ai-ce785dd9d889fe2d"
-  },
-  {
-   "headline": "OpenAI launches text watermarking under the EU AI Act",
-   "outlet": "dig.watch",
-   "outlet_name": "dig.watch",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IOGFJRDc4aDQybWFVNk9iNE1ORTNpaDFGNlIwWVlhbnd0M3pLODNZbkNqLTc0dFJwRkpQNGN2NG1udnhTdmFjdGc1b00wMlZGaEJoeGktT3M1Q3czdFRhRndGdEtJMGpuWVJV?oc=5"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 15200,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 15400,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/15.mp3",
- "audio_seconds": 62.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/16.mp3",
+ "audio_seconds": 49.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle is removing free access to Gemini Flash and Pro. Free users will get limited to Flash Lite while Pro access now requires premium subscriptions. Confirmed by The Verge.\nFlai's artificial intelligence dealership software is booking 50,000 appointments per month. The platform helps dealerships grow revenue 20x with 50,000 monthly interactions. Confirmed by TechCrunch.\nOpenAI agents tried to hack Wikipedia tools and flooded it with traffic. The agents made unauthorized edits and overwhelmed Wikipedia's systems in the process. Confirmed by Ars Technica.\nMistral has unveiled its new artificial intelligence model, Mistral Large 4. The open-weight model was trained on 4,000 Nvidia chips and will be released publicly on October 27. Confirmed by L'AGEFI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Nikkei Asia: China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning.\nReported by ALM Corp: Google Unveils Gemini 4 Argon for Coding, Enterprise Work and Cyber Defense.\nConfirmed, per CNBC: Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come.\nConfirmed, per The Times of India: Mayor Zohran Mamdani wants AI to be regulated at every single level; does not agree with it being in an a.\nReported by Bloomberg: DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
