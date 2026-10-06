@@ -1,91 +1,70 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T01:20:02Z",
- "hour": "2026-10-06T01:00:00Z",
+ "generated_at": "2026-10-06T02:20:02Z",
+ "hour": "2026-10-06T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Is Adding Text Watermarks in the EU Because Regulation Works",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "url": "https://gizmodo.com/openai-is-adding-text-watermarks-in-the-eu-because-regulation-works-2000821852",
+   "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+   "outlet": "BleepingComputer",
+   "outlet_name": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI adds invisible AI watermark to ChatGPT and Codex for EU users, complying with EU AI Act.",
-   "published_at": "2026-10-05T15:50:00Z"
+   "summary_1line": "OpenAI adds invisible watermark to EU ChatGPT/Codex text, detectable only in long, unedited passages.",
+   "published_at": "2026-10-05T22:46:33Z"
   },
   {
-   "title": "OpenAI to reiterate apology to Australia over Medicare hack as inquiry told artists risk becoming ‘roadkill’",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI apologizes for government website breaches; artists warn copyright law changes would harm Australia's creative sector.",
-   "published_at": "2026-10-06T00:53:48Z"
-  },
-  {
-   "title": "OpenAI $30 Billion Funding Round Could Value It at $1.4 Trillion",
-   "outlet": "The Cryptonomist",
-   "outlet_name": "The Cryptonomist",
-   "url": "https://en.cryptonomist.ch/2026/10/06/openai-30-billion-funding/",
+   "title": "Invoking an Alien: Ex-Anthropic Researcher Jacob Coxon Warns Congress That AI Is a Threat",
+   "outlet": "Latin Times",
+   "outlet_name": "Latin Times",
+   "url": "https://www.latintimes.com/invoking-alien-ex-anthropic-researcher-jacob-coxon-warns-congress-that-ai-threat-599847",
    "label": "REPORTED",
-   "summary_1line": "OpenAI in $30B funding talks with MGX and BlackRock, valued at $1.4T, IPO delayed to 2027.",
-   "published_at": "2026-10-05T22:20:54Z"
+   "summary_1line": "Caxon's resignation sparked AI safety debate, leading to congressional calls and NYC regulatory action.",
+   "published_at": "2026-10-05T17:30:00Z"
   },
   {
-   "title": "Gemini Call for Me might tell your mom you’re running late",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+   "title": "I was shocked to see Microsoft leapfrogging Google and OpenAI on AI sentiment, says Jim Cramer",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/video/2026/10/05/i-was-shocked-to-see-microsoft-leapfrogging-google-and-openai-on-ai-sentiment-says-jim-cramer.html",
    "label": "STILL OPEN",
-   "summary_1line": "Google may expand 'Call for Me' to send messages to friends and family via Gemini AI.",
-   "published_at": "2026-10-05T23:09:55Z"
+   "summary_1line": "Jim Cramer says Microsoft leads Google and OpenAI in AI sentiment.",
+   "published_at": "2026-10-05T16:45:00Z"
   },
   {
-   "title": "NYC Council holds hearing with AI whistleblowers and companies",
-   "outlet": "News 12 Long Island",
-   "outlet_name": "News 12 Long Island",
-   "url": "https://longisland.news12.com/2026/10/05/nyc-council-holds-hearing-with-ai-whistleblowers-and-companies/accNUuc3Dh3dVFjW7YvSH",
-   "label": "CONFIRMED",
-   "summary_1line": "NYC holds AI risk hearing with whistleblowers and tech leaders, proposing human oversight and safeguards.",
-   "published_at": "2026-10-05T10:40:00Z"
+   "title": "FTC Probes OpenAI, Anthropic as AI Agent Safety Risks Draw Scrutiny",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "url": "https://www.techrepublic.com/fr/article/news-ftc-openai-anthropic-ai-consumer-harms/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-05T23:50:10Z"
+  },
+  {
+   "title": "Gorilla Logic selected as Claude partner for enterprise AI projects",
+   "outlet": "150sec",
+   "outlet_name": "150sec",
+   "url": "https://150sec.com/gorilla-logic-selected-as-claude-partner-for-enterprise-ai-projects/",
+   "label": "REPORTED",
+   "summary_1line": "Gorilla Logic joins Anthropic's Claude Partner Network to help enterprises integrate AI into daily operations.",
+   "published_at": "2026-10-05T23:10:10Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Is Adding Text Watermarks in the EU Because Regulation Works",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
+   "headline": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+   "outlet": "BleepingComputer",
+   "outlet_name": "BleepingComputer",
    "label": "CONFIRMED",
-   "url": "https://gizmodo.com/openai-is-adding-text-watermarks-in-the-eu-because-regulation-works-2000821852"
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/"
   },
   {
-   "headline": "OpenAI to reiterate apology to Australia over Medicare hack as inquiry told artists risk…",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/media/2026/oct/06/openai-australia-parliament-inquiry-jason-kwon"
-  },
-  {
-   "headline": "OpenAI $30 Billion Funding Round Could Value It at $1.4 Trillion",
-   "outlet": "The Cryptonomist",
-   "outlet_name": "The Cryptonomist",
+   "headline": "Invoking an Alien: Ex-Anthropic Researcher Jacob Coxon Warns Congress That AI Is a Threat",
+   "outlet": "Latin Times",
+   "outlet_name": "Latin Times",
    "label": "REPORTED",
-   "url": "https://en.cryptonomist.ch/2026/10/06/openai-30-billion-funding/"
-  },
-  {
-   "headline": "Gemini Call for Me might tell your mom you’re running late",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "label": "STILL OPEN",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors"
-  },
-  {
-   "headline": "NYC Council holds hearing with AI whistleblowers and companies",
-   "outlet": "News 12 Long Island",
-   "outlet_name": "News 12 Long Island",
-   "label": "CONFIRMED",
-   "url": "https://longisland.news12.com/2026/10/05/nyc-council-holds-hearing-with-ai-whistleblowers-and-companies/accNUuc3Dh3dVFjW7YvSH"
+   "url": "https://www.latintimes.com/invoking-alien-ex-anthropic-researcher-jacob-coxon-warns-congress-that-ai-threat-599847"
   },
   {
    "headline": "I was shocked to see Microsoft leapfrogging Google and OpenAI on AI sentiment, says Jim…",
@@ -93,6 +72,13 @@
    "outlet_name": "CNBC",
    "label": "STILL OPEN",
    "url": "https://www.cnbc.com/investingclub/video/2026/10/05/i-was-shocked-to-see-microsoft-leapfrogging-google-and-openai-on-ai-sentiment-says-jim-cramer.html"
+  },
+  {
+   "headline": "FTC Probes OpenAI, Anthropic as AI Agent Safety Risks Draw Scrutiny",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "label": "REPORTED",
+   "url": "https://www.techrepublic.com/fr/article/news-ftc-openai-anthropic-ai-consumer-harms/"
   },
   {
    "headline": "Gorilla Logic selected as Claude partner for enterprise AI projects",
@@ -116,18 +102,11 @@
    "url": "https://thenewstack.io/openai-api-text-watermarking/"
   },
   {
-   "headline": "Introducing GLM 5.3 on Amazon Bedrock | Artificial Intelligence",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
-   "label": "REPORTED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"
-  },
-  {
-   "headline": "Wall Street tests lender appetite with $60 billion Broadcom-Anthropic deal - FT",
-   "outlet": "uk.finance.yahoo.com",
-   "outlet_name": "uk.finance.yahoo.com",
-   "label": "REPORTED",
-   "url": "https://uk.finance.yahoo.com/news/wall-street-tests-lender-appetite-214811519.html"
+   "headline": "Among the Giants: Aventra Group Unveils Pioneering ISO 42001 AI Framework to Smash…",
+   "outlet": "ZAWYA",
+   "outlet_name": "ZAWYA",
+   "label": "CONFIRMED",
+   "url": "https://www.zawya.com/en/press-release/asia-press-releases/among-the-giants-aventra-group-unveils-pioneering-iso-42001-ai-framework-to-smash-enterprise-procurement-bottlenecks-1510758"
   },
   {
    "headline": "Meta and Microsoft reportedly trim Anthropic reliance as internal AI tools take center…",
@@ -135,16 +114,37 @@
    "outlet_name": "Asianet Newsable on MSN",
    "label": "CONFIRMED",
    "url": "https://www.msn.com/en-in/news/other/meta-and-microsoft-reportedly-trim-anthropic-reliance-as-internal-ai-tools-take-center-stage/ar-AA2dDqRE"
+  },
+  {
+   "headline": "Introducing GLM 5.3 on Amazon Bedrock | Artificial Intelligence",
+   "outlet": "aws.amazon.com",
+   "outlet_name": "aws.amazon.com",
+   "label": "REPORTED",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"
+  },
+  {
+   "headline": "Anthropic Reports User to the Police",
+   "outlet": "futurism.com",
+   "outlet_name": "futurism.com",
+   "label": "REPORTED",
+   "url": "https://futurism.com/artificial-intelligence/anthropic-claude-ai-chatbot-police-violence-safety"
+  },
+  {
+   "headline": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+   "outlet": "niemanlab.org",
+   "outlet_name": "niemanlab.org",
+   "label": "REPORTED",
+   "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
  "articles_24h_rounded": 12100,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/01.mp3",
- "audio_seconds": 59.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/02.mp3",
+ "audio_seconds": 60.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is adding invisible AI watermarks to ChatGPT and Codex for EU users, complying with EU AI Act regulations. Confirmed by Gizmodo.\nOpenAI apologizes for government website breaches; artists warn copyright law changes would harm Australia's creative sector. The Guardian reports this as Confirmed.\nOpenAI is in $30B funding talks with MGX and BlackRock, valued at $1.4T, with IPO delayed to 2027. Reported by The Cryptonomist.\nGoogle may expand Call for Me to send messages to friends and family via Gemini artificial intelligence. Still open, per The Verge.\nNYC holds artificial intelligence risk hearing with whistleblowers and tech leaders, proposing human oversight and safeguards. Confirmed by News 12 Long Island.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU, detectable only in long, unedited passages. Confirmed by BleepingComputer.\nAn ex-Anthropic researcher warned Congress that artificial intelligence is a threat, sparking debate and regulatory action in New York. Reported by Latin Times.\nStill open, per CNBC: Jim Cramer says Microsoft leads Google and OpenAI in artificial intelligence sentiment.\nThe FTC is probing OpenAI and Anthropic as artificial intelligence agent safety risks draw scrutiny. Reported by TechRepublic.\nGorilla Logic joined Anthropic's Claude Partner Network to help enterprises integrate artificial intelligence into daily operations. Reported by 150sec.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
