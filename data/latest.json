@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T04:20:02Z",
- "hour": "2026-10-06T04:00:00Z",
+ "generated_at": "2026-10-06T05:20:02Z",
+ "hour": "2026-10-06T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Introducing GLM 5.3 on Amazon Bedrock",
-   "outlet": "Amazon Web Services (AWS)",
-   "outlet_name": "Amazon Web Services (AWS)",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/",
-   "label": "CONFIRMED",
-   "summary_1line": "Z.ai's GLM 5.3 model launched on Amazon Bedrock for coding and security workflows.",
-   "published_at": "2026-10-05T23:25:17Z"
-  },
-  {
-   "title": "OpenAI Pulls GPT-6.1 Launch as AI Agent Risks Mount",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
-   "url": "https://en.sedaily.com/finance/2026/10/06/openai-pulls-gpt-61-launch-as-ai-agent-risks-mount",
+   "title": "NYC Council Speaker Julie Menin Presses Anthropic, OpenAI, Google, Meta on AI Catastrophic Risks",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
+   "url": "https://newscord.org/article/nyc-council-speaker-julie-menin-presses-anthropic-openai-google-meta-on-ai-catas--Story_20261006_AIresearcherwarnsweade769bb7",
    "label": "REPORTED",
-   "summary_1line": "OpenAI cancels GPT-6.1 launch; Samsung invests 5.48 trillion won in Vietnam AI fab; AI attacks on infrastructure reported.",
-   "published_at": "2026-10-06T01:32:15Z"
+   "summary_1line": "NYC Council presses AI firms on risks of uncontrollable AI and proposes new safety laws.",
+   "published_at": "2026-10-06T03:09:41Z"
   },
   {
-   "title": "Whistleblower warns that humans don't control AI | AJ #shorts",
-   "outlet": "Modern Ghana",
-   "outlet_name": "Modern Ghana",
-   "url": "https://www.modernghana.com/videonews/aljazeera/1/729562",
-   "label": "CONFIRMED",
-   "summary_1line": "Government releases GH¢9.1 billion for six quarters of DACF to MMDAs.",
-   "published_at": "2026-10-06T00:50:00Z"
+   "title": "Nvidia-backed startup Reflection unveils open-weight AI model said to rival China offerings",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
+   "url": "http://www.businesstimes.com.sg/companies-markets/nvidia-backed-startup-reflection-unveils-open-weight-ai-model-said-rival-china-offerings",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-06T05:09:00Z"
   },
   {
-   "title": "Reflection AI releases first open model to rival China",
-   "outlet": "The Hill",
-   "outlet_name": "The Hill",
-   "url": "https://thehill.com/policy/technology/6130496-reflection-ai-releases-beam-model/amp/",
-   "label": "CONFIRMED",
-   "summary_1line": "Reflection AI's Beam model rivals Chinese and U.S. open-source AI tools.",
-   "published_at": "2026-10-05T21:48:03Z"
+   "title": "OpenAI's Kwon Apologizes for Australian Hack",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-06/openai-s-kwon-apologizes-for-australian-hack-video",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-06T04:56:43Z"
   },
   {
-   "title": "AI whistleblowers join Google, Meta, OpenAI at NYC hearing",
-   "outlet": "ABC7 San Francisco",
-   "outlet_name": "ABC7 San Francisco",
-   "url": "https://abc7news.com/amp/post/google-meta-openai-among-firms-appearing-nyc-ai-hearing/19909409/",
-   "label": "CONFIRMED",
-   "summary_1line": "NYC council holds first AI regulation hearing, considering 10 bills to establish guardrails.",
-   "published_at": "2026-10-05T12:50:33Z"
+   "title": "Anthropic says AI agents didn’t breach Australian government websites – video",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/media/video/2026/oct/06/anthropic-ai-australia-parliament-inquiry-government-websites-breach-video",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-06T04:52:12Z"
+  },
+  {
+   "title": "Pentagon Ceases Use of Anthropic AI Tools",
+   "outlet": "Ratopati",
+   "outlet_name": "Ratopati",
+   "url": "https://english.ratopati.com/story/82474/the-us-department-of-defense-stopped-using-anthropics-ai-tools-heres-why",
+   "label": "STILL OPEN",
+   "summary_1line": "Pentagon stops using Anthropic AI tools citing national security risks.",
+   "published_at": "2026-10-06T02:04:15Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Introducing GLM 5.3 on Amazon Bedrock",
-   "outlet": "Amazon Web Services (AWS)",
-   "outlet_name": "Amazon Web Services (AWS)",
-   "label": "CONFIRMED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"
-  },
-  {
-   "headline": "OpenAI Pulls GPT-6.1 Launch as AI Agent Risks Mount",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
+   "headline": "NYC Council Speaker Julie Menin Presses Anthropic, OpenAI, Google, Meta on AI…",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
    "label": "REPORTED",
-   "url": "https://en.sedaily.com/finance/2026/10/06/openai-pulls-gpt-61-launch-as-ai-agent-risks-mount"
+   "url": "https://newscord.org/article/nyc-council-speaker-julie-menin-presses-anthropic-openai-google-meta-on-ai-catas--Story_20261006_AIresearcherwarnsweade769bb7"
   },
   {
-   "headline": "Whistleblower warns that humans don't control AI | AJ #shorts",
-   "outlet": "Modern Ghana",
-   "outlet_name": "Modern Ghana",
-   "label": "CONFIRMED",
-   "url": "https://www.modernghana.com/videonews/aljazeera/1/729562"
+   "headline": "Nvidia-backed startup Reflection unveils open-weight AI model said to rival China…",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
+   "label": "REPORTED",
+   "url": "http://www.businesstimes.com.sg/companies-markets/nvidia-backed-startup-reflection-unveils-open-weight-ai-model-said-rival-china-offerings"
   },
   {
-   "headline": "Reflection AI releases first open model to rival China",
-   "outlet": "The Hill",
-   "outlet_name": "The Hill",
-   "label": "CONFIRMED",
-   "url": "https://thehill.com/policy/technology/6130496-reflection-ai-releases-beam-model/amp/"
+   "headline": "OpenAI's Kwon Apologizes for Australian Hack",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-06/openai-s-kwon-apologizes-for-australian-hack-video"
   },
   {
-   "headline": "AI whistleblowers join Google, Meta, OpenAI at NYC hearing",
-   "outlet": "ABC7 San Francisco",
-   "outlet_name": "ABC7 San Francisco",
-   "label": "CONFIRMED",
-   "url": "https://abc7news.com/amp/post/google-meta-openai-among-firms-appearing-nyc-ai-hearing/19909409/"
+   "headline": "Anthropic says AI agents didn’t breach Australian government websites – video",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "REPORTED",
+   "url": "https://www.theguardian.com/media/video/2026/oct/06/anthropic-ai-australia-parliament-inquiry-government-websites-breach-video"
+  },
+  {
+   "headline": "Pentagon Ceases Use of Anthropic AI Tools",
+   "outlet": "Ratopati",
+   "outlet_name": "Ratopati",
+   "label": "STILL OPEN",
+   "url": "https://english.ratopati.com/story/82474/the-us-department-of-defense-stopped-using-anthropics-ai-tools-heres-why"
+  },
+  {
+   "headline": "OpenAI admits response to Australian government hacks 'not good enough'",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VVklkRzFFNDFGYWFlcW1jUndjZF9FNXhZTjd5TEdlWWxxS0VmWmJhOHo1RVgtYjFOQTZzTFFMbnk3Vks5M3JHWTdpTmZrdDBTTGVLcm1wOVN5aXc?oc=5"
   },
   {
    "headline": "“Leveling the playing field”: Smith College Grants Students Google Gemini Licensure",
@@ -95,25 +102,11 @@
    "url": "https://thesophian.com/leveling-the-playing-field-smith-college-grants-students-google-gemini-licensure/"
   },
   {
-   "headline": "Google Gemini Free Users Lose Flash and Pro Oct. 9. Here’s What It Costs to Keep Them",
-   "outlet": "Yahoo Creators",
-   "outlet_name": "Yahoo Creators",
+   "headline": "The Law of DeepSeek",
+   "outlet": "arxiv.org",
+   "outlet_name": "arxiv.org",
    "label": "REPORTED",
-   "url": "https://creators.yahoo.com/lifestyle/story/google-gemini-free-users-lose-flash-and-pro-oct-9-heres-what-it-costs-to-keep-them-002845209.html"
-  },
-  {
-   "headline": "The ex-Anthropic insider who shook Congress is now taking his warning to NYC",
-   "outlet": "Latin Times",
-   "outlet_name": "Latin Times",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjNnWU05THVTNFBwSV9fS3pJZTNfSGZBVUR5cFZGRXZxTjI1ZTVyOGlqMk1ZcXRndEcxUFZQc3Z5Y3p1dnYyLXlFdTJ4Y2NRV1EydzZYVXpYM1JxdzhVSUdHQWktWFhsWXFaaEwtZUtrZ2V0MHdsUnVRN2hPSmR0blRUSm8tRGx3TUo2aXdBZHBKSHBZX2wtN3NLMVptc05Ga3QwekROdGxkX214cUM5TG0ydkE?oc=5"
-  },
-  {
-   "headline": "ASI Corp launches AI agent comparison platform supporting about 150 services",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/111025/asi-corp-launches-ai-agent-comparison-platform-supporting-about-150-services"
+   "url": "https://arxiv.org/abs/2610.05238"
   },
   {
    "headline": "Anthropic tells Australia it's open to laws requiring reporting of AI agent hacks",
@@ -123,28 +116,35 @@
    "url": "https://www.firstpost.com/tech/anthropic-tells-australia-its-open-to-laws-requiring-reporting-of-ai-agent-hacks-14050668.html"
   },
   {
+   "headline": "ChatGPT users, your AI-written text will soon carry a hidden watermark",
+   "outlet": "androidauthority.com",
+   "outlet_name": "androidauthority.com",
+   "label": "REPORTED",
+   "url": "https://www.androidauthority.com/chatgpt-text-watermarking-3719403/"
+  },
+  {
    "headline": "Anthropic brought a Hindu monk to San Francisco to help Claude tackle AI ethics and…",
    "outlet": "Business Today on MSN",
    "outlet_name": "Business Today on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/lifestyle/other/anthropic-brought-a-hindu-monk-to-san-francisco-to-help-claude-tackle-ai-ethics-and-consciousness/ar-AA2dD1MZ"
+   "url": "https://www.msn.com/en-in/money/topstories/anthropic-brought-a-hindu-monk-to-san-francisco-to-help-claude-tackle-ai-ethics-and-consciousness/ar-AA2dD1MZ"
   },
   {
-   "headline": "AI industry insiders voice alarms to NYC council as local governments take up safety…",
-   "outlet": "PinalCentral.com",
-   "outlet_name": "PinalCentral.com",
-   "label": "CONFIRMED",
-   "url": "https://www.pinalcentral.com/business_and_technology/ai-industry-insiders-voice-alarms-to-nyc-council-as-local-governments-take-up-safety-concerns/article_86ebf213-20c5-56d2-aef8-afc12dcad560.html"
+   "headline": "Exclusive: Hadrian raises $40m as AI cyberattacks accelerate",
+   "outlet": "sifted.eu",
+   "outlet_name": "sifted.eu",
+   "label": "REPORTED",
+   "url": "https://sifted.eu/articles/hadrian-ai-funding-round-cyber-security/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 11400,
- "articles_24h_label": "about 11,000",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 13700,
+ "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/04.mp3",
- "audio_seconds": 52.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/05.mp3",
+ "audio_seconds": 45.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Amazon Web Services (AWS): Introducing GLM 5.3 on Amazon Bedrock.\nReported by Seoul Economic Daily: OpenAI Pulls GPT-6.1 Launch as AI Agent Risks Mount.\nConfirmed, per Modern Ghana: Whistleblower warns that humans don't control AI | AJ #shorts.\nConfirmed, per The Hill: Reflection AI releases first open model to rival China.\nConfirmed, per ABC7 San Francisco: AI whistleblowers join Google, Meta, OpenAI at NYC hearing.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by NewsCord: NYC Council Speaker Julie Menin Presses Anthropic, OpenAI, Google, Meta on AI Catastrophic Risks.\nReported by The Business Times: Nvidia-backed startup Reflection unveils open-weight AI model said to rival China offerings.\nReported by Bloomberg: OpenAI's Kwon Apologizes for Australian Hack.\nReported by The Guardian: Anthropic says AI agents didn’t breach Australian government websites – video.\nStill open, per Ratopati: Pentagon Ceases Use of Anthropic AI Tools.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
