@@ -1,105 +1,54 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T02:20:02Z",
- "hour": "2026-10-06T02:00:00Z",
+ "generated_at": "2026-10-06T03:20:02Z",
+ "hour": "2026-10-06T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-   "outlet": "BleepingComputer",
-   "outlet_name": "BleepingComputer",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI adds invisible watermark to EU ChatGPT/Codex text, detectable only in long, unedited passages.",
-   "published_at": "2026-10-05T22:46:33Z"
-  },
-  {
-   "title": "Invoking an Alien: Ex-Anthropic Researcher Jacob Coxon Warns Congress That AI Is a Threat",
-   "outlet": "Latin Times",
-   "outlet_name": "Latin Times",
-   "url": "https://www.latintimes.com/invoking-alien-ex-anthropic-researcher-jacob-coxon-warns-congress-that-ai-threat-599847",
+   "title": "OpenAI Getting Rid of Custom GPTs and Moving to Plugin Architecture",
+   "outlet": "THE Journal: Technological Horizons in Education",
+   "outlet_name": "THE Journal: Technological Horizons in Education",
+   "url": "https://thejournal.com/articles/2026/10/05/openai-getting-rid-of-custom-gpts-and-moving-to-plugin-architecture.aspx",
    "label": "REPORTED",
-   "summary_1line": "Caxon's resignation sparked AI safety debate, leading to congressional calls and NYC regulatory action.",
-   "published_at": "2026-10-05T17:30:00Z"
+   "summary_1line": "OpenAI retiring Custom GPTs, moving to plugin architecture for ChatGPT and Codex.",
+   "published_at": "2026-10-05T23:26:15Z"
   },
   {
-   "title": "I was shocked to see Microsoft leapfrogging Google and OpenAI on AI sentiment, says Jim Cramer",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/investingclub/video/2026/10/05/i-was-shocked-to-see-microsoft-leapfrogging-google-and-openai-on-ai-sentiment-says-jim-cramer.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Jim Cramer says Microsoft leads Google and OpenAI in AI sentiment.",
-   "published_at": "2026-10-05T16:45:00Z"
+   "title": "Among the Giants: Aventra Group Unveils Pioneering ISO 42001 AI Framework to Smash Enterprise Procurement Bottlenecks",
+   "outlet": "ZAWYA",
+   "outlet_name": "ZAWYA",
+   "url": "https://www.zawya.com/en/press-release/asia-press-releases/among-the-giants-aventra-group-unveils-pioneering-iso-42001-ai-framework-to-smash-enterprise-procurement-bottlenecks-1510758",
+   "label": "CONFIRMED",
+   "summary_1line": "Aventra Group gets global AI governance certification to speed up enterprise AI adoption in APAC.",
+   "published_at": "2026-10-05T17:00:00Z"
   },
   {
-   "title": "FTC Probes OpenAI, Anthropic as AI Agent Safety Risks Draw Scrutiny",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "url": "https://www.techrepublic.com/fr/article/news-ftc-openai-anthropic-ai-consumer-harms/",
+   "title": "Record-breaking AI chip financing enters distribution phase: $42 billion in senior debt backed by Broadcom’s credit; $18 billion in subordinated debt awaits Anthropic’s IPO",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
+   "url": "https://news.futunn.com/en/post/1000596208/record-breaking-ai-chip-financing-enters-distribution-phase-42-billion",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-05T23:50:10Z"
+   "published_at": "2026-10-06T00:15:48Z"
   },
   {
-   "title": "Gorilla Logic selected as Claude partner for enterprise AI projects",
-   "outlet": "150sec",
-   "outlet_name": "150sec",
-   "url": "https://150sec.com/gorilla-logic-selected-as-claude-partner-for-enterprise-ai-projects/",
+   "title": "AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo",
    "label": "REPORTED",
-   "summary_1line": "Gorilla Logic joins Anthropic's Claude Partner Network to help enterprises integrate AI into daily operations.",
-   "published_at": "2026-10-05T23:10:10Z"
+   "summary_1line": null,
+   "published_at": "2026-10-06T01:52:08Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-   "outlet": "BleepingComputer",
-   "outlet_name": "BleepingComputer",
-   "label": "CONFIRMED",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/"
-  },
-  {
-   "headline": "Invoking an Alien: Ex-Anthropic Researcher Jacob Coxon Warns Congress That AI Is a Threat",
-   "outlet": "Latin Times",
-   "outlet_name": "Latin Times",
+   "headline": "OpenAI Getting Rid of Custom GPTs and Moving to Plugin Architecture",
+   "outlet": "THE Journal: Technological Horizons in Education",
+   "outlet_name": "THE Journal: Technological Horizons in Education",
    "label": "REPORTED",
-   "url": "https://www.latintimes.com/invoking-alien-ex-anthropic-researcher-jacob-coxon-warns-congress-that-ai-threat-599847"
-  },
-  {
-   "headline": "I was shocked to see Microsoft leapfrogging Google and OpenAI on AI sentiment, says Jim…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "STILL OPEN",
-   "url": "https://www.cnbc.com/investingclub/video/2026/10/05/i-was-shocked-to-see-microsoft-leapfrogging-google-and-openai-on-ai-sentiment-says-jim-cramer.html"
-  },
-  {
-   "headline": "FTC Probes OpenAI, Anthropic as AI Agent Safety Risks Draw Scrutiny",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "label": "REPORTED",
-   "url": "https://www.techrepublic.com/fr/article/news-ftc-openai-anthropic-ai-consumer-harms/"
-  },
-  {
-   "headline": "Gorilla Logic selected as Claude partner for enterprise AI projects",
-   "outlet": "150sec",
-   "outlet_name": "150sec",
-   "label": "REPORTED",
-   "url": "https://150sec.com/gorilla-logic-selected-as-claude-partner-for-enterprise-ai-projects/"
-  },
-  {
-   "headline": "OpenAI Foundation awards $50m to 163 US nonprofits | ETIH EdTech News",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/openai-foundation-awards-50m-to-163-nonprofits-exploring-ai-in-local-communities"
-  },
-  {
-   "headline": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "label": "REPORTED",
-   "url": "https://thenewstack.io/openai-api-text-watermarking/"
+   "url": "https://thejournal.com/articles/2026/10/05/openai-getting-rid-of-custom-gpts-and-moving-to-plugin-architecture.aspx"
   },
   {
    "headline": "Among the Giants: Aventra Group Unveils Pioneering ISO 42001 AI Framework to Smash…",
@@ -109,18 +58,18 @@
    "url": "https://www.zawya.com/en/press-release/asia-press-releases/among-the-giants-aventra-group-unveils-pioneering-iso-42001-ai-framework-to-smash-enterprise-procurement-bottlenecks-1510758"
   },
   {
-   "headline": "Meta and Microsoft reportedly trim Anthropic reliance as internal AI tools take center…",
-   "outlet": "Asianet Newsable on MSN",
-   "outlet_name": "Asianet Newsable on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/meta-and-microsoft-reportedly-trim-anthropic-reliance-as-internal-ai-tools-take-center-stage/ar-AA2dDqRE"
+   "headline": "Record-breaking AI chip financing enters distribution phase: $42 billion in senior debt…",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
+   "label": "REPORTED",
+   "url": "https://news.futunn.com/en/post/1000596208/record-breaking-ai-chip-financing-enters-distribution-phase-42-billion"
   },
   {
-   "headline": "Introducing GLM 5.3 on Amazon Bedrock | Artificial Intelligence",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
+   "headline": "AI Video Startup Kling Picks Banks for $1 Billion-Plus IPO",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-glm-5-3-on-amazon-bedrock/"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-06/china-ai-video-startup-kling-picks-banks-for-1-billion-plus-ipo"
   },
   {
    "headline": "Anthropic Reports User to the Police",
@@ -135,16 +84,58 @@
    "outlet_name": "niemanlab.org",
    "label": "REPORTED",
    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/"
+  },
+  {
+   "headline": "GLM 5.3 by Z.ai is now generally available on Amazon Bedrock",
+   "outlet": "aws.amazon.com",
+   "outlet_name": "aws.amazon.com",
+   "label": "REPORTED",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-bedrock-glm-5-3/"
+  },
+  {
+   "headline": "AI whistleblowers encourage NYC Council to enforce more regulation",
+   "outlet": "nydailynews.com",
+   "outlet_name": "nydailynews.com",
+   "label": "STILL OPEN",
+   "url": "https://www.nydailynews.com/2026/10/05/ai-whistleblowers-encourage-nyc-council-to-enforce-more-regulation/"
+  },
+  {
+   "headline": "'Reckless' AI firms can't control models, says whistleblower",
+   "outlet": "ABS-CBN on MSN",
+   "outlet_name": "ABS-CBN on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-ph/news/other/reckless-ai-firms-cant-control-models-says-whistleblower/ar-AA2dDdU4"
+  },
+  {
+   "headline": "Anthropic expected to IPO despite market concerns, AI safety concerns",
+   "outlet": "wandtv.com",
+   "outlet_name": "wandtv.com",
+   "label": "STILL OPEN",
+   "url": "https://www.wandtv.com/video/2026/10/05/anthropic-expected-ipo-despite-market-concerns-ai-safety-concerns/"
+  },
+  {
+   "headline": "Gorilla Logic lands select partner status in Anthropic's Claude network",
+   "outlet": "The Sociable on MSN",
+   "outlet_name": "The Sociable on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/money/general/gorilla-logic-lands-select-partner-status-in-anthropic-s-claude-network/ar-AA2dDXm1"
+  },
+  {
+   "headline": "AI safety groups aren’t buying OpenAI’s spending retreat",
+   "outlet": "Politico on MSN",
+   "outlet_name": "Politico on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/news/other/ai-safety-groups-aren-t-buying-openai-s-spending-retreat/ar-AA2dDlEC"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 12100,
+ "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 12200,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/02.mp3",
- "audio_seconds": 60.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/03.mp3",
+ "audio_seconds": 55.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU, detectable only in long, unedited passages. Confirmed by BleepingComputer.\nAn ex-Anthropic researcher warned Congress that artificial intelligence is a threat, sparking debate and regulatory action in New York. Reported by Latin Times.\nStill open, per CNBC: Jim Cramer says Microsoft leads Google and OpenAI in artificial intelligence sentiment.\nThe FTC is probing OpenAI and Anthropic as artificial intelligence agent safety risks draw scrutiny. Reported by TechRepublic.\nGorilla Logic joined Anthropic's Claude Partner Network to help enterprises integrate artificial intelligence into daily operations. Reported by 150sec.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is retiring Custom GPTs and moving to a plugin architecture for ChatGPT and Codex. Reported by THE Journal: Technological Horizons in Education.\nAventra Group has unveiled a pioneering ISO 42001 artificial intelligence framework to speed up enterprise artificial intelligence adoption in APAC. Confirmed by ZAWYA.\nRecord-breaking artificial intelligence chip financing is entering its distribution phase, with 42 billion dollars in senior debt backed by Broadcom's credit and 18 billion dollars in subordinated debt awaiting Anthropic's IPO. Reported by 富途牛牛.\nKling, an artificial intelligence video startup, has picked banks for a 1 billion-plus dollar IPO. Reported by Bloomberg.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
