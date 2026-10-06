@@ -1,105 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T16:20:02Z",
- "hour": "2026-10-06T16:00:00Z",
+ "generated_at": "2026-10-06T17:20:02Z",
+ "hour": "2026-10-06T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning",
-   "outlet": "Nikkei Asia",
-   "outlet_name": "Nikkei Asia",
-   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning",
-   "label": "REPORTED",
-   "summary_1line": "China's AI push continues amid safety concerns and calls for pause.",
-   "published_at": "2026-10-06T15:55:00Z"
-  },
-  {
-   "title": "Google Unveils Gemini 4 Argon for Coding, Enterprise Work and Cyber Defense",
-   "outlet": "ALM Corp",
-   "outlet_name": "ALM Corp",
-   "url": "https://almcorp.com/news/google-unveils-gemini-4-argon-coding-enterprise-cyber-defense/",
-   "label": "REPORTED",
-   "summary_1line": "Google's Gemini 4 Argon enables long tasks, scores 77.9% on DeepSWE, and boosts cybersecurity with 1M token output.",
-   "published_at": "2026-10-06T15:01:07Z"
-  },
-  {
-   "title": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html",
+   "title": "France's Mistral unveils latest model in sovereign AI push",
+   "outlet": "RTL Today",
+   "outlet_name": "RTL Today",
+   "url": "https://today.rtl.lu/news/business-and-tech/frances-mistral-unveils-latest-model-in-sovereign-ai-push-647594460",
    "label": "CONFIRMED",
-   "summary_1line": "Lila Ibrahim on AI readiness, education, and human agency in the age of AI.",
-   "published_at": "2026-10-06T14:00:01Z"
+   "summary_1line": "Mistral launches Chonk, a large open-weight AI model trained on 4,000 Nvidia chips and 160 languages.",
+   "published_at": "2026-10-06T14:59:11Z"
   },
   {
-   "title": "Mayor Zohran Mamdani wants AI to be regulated at every single level; does not agree with it being in an a",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/mayor-zohran-mamdani-wants-ai-to-be-regulated-at-every-single-level-does-not-agree-with-it-being-in-an-arms-race-with-china-points-to-layoffs-and-more/articleshow/134743098.cms",
+   "title": "DeepSeek nears $12B funding round led by Tencen...",
+   "outlet": "Pluang",
+   "outlet_name": "Pluang",
+   "url": "https://pluang.com/en/news-feed/deepseek-kumpulkan-dana-minimal-12-miliar-dolar-didukung-tencent-dan-catl",
    "label": "CONFIRMED",
-   "summary_1line": "NYC Mayor calls for national AI regulation amid 10% extinction risk and job market impacts.",
-   "published_at": "2026-10-06T14:27:00Z"
+   "summary_1line": "DeepSeek raises $12B with Tencent and CATL, targeting $75B+ valuation, aiming for 2027 IPO.",
+   "published_at": "2026-10-06T14:35:19Z"
   },
   {
-   "title": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding",
+   "title": "Mistral launches Large 4 preview with 1 T parameters",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
+   "url": "https://www.testingcatalog.com/mistral-launches-large-4-preview-with-1-t-parameters/",
+   "label": "CONFIRMED",
+   "summary_1line": "Mistral launches public preview of ML4, a 49B-param multimodal model with strong benchmark scores and EU-based deployment.",
+   "published_at": "2026-10-06T14:04:50Z"
+  },
+  {
+   "title": "The Only Thing The Mistral Large 4 Model Truly Leads Is On Regulation, Which Is Quite Characteristic Of A European LLM",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "url": "https://wccftech.com/the-only-thing-the-mistral-large-4-model-truly-leads-is-on-regulation-which-is-quite-characteristic-of-a-european-llm/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-06T11:41:46Z"
+   "summary_1line": "Mistral Large 4, with 1 trillion parameters, leads in legal reasoning and multi-language processing.",
+   "published_at": "2026-10-06T14:56:41Z"
+  },
+  {
+   "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic expands Claude for Startups with free access, credits, and plugin tools for qualifying startups.",
+   "published_at": "2026-10-06T16:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning",
-   "outlet": "Nikkei Asia",
-   "outlet_name": "Nikkei Asia",
-   "label": "REPORTED",
-   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-deepseek-peers-launch-16-ai-models-in-month-despite-anthropic-warning"
-  },
-  {
-   "headline": "Google Unveils Gemini 4 Argon for Coding, Enterprise Work and Cyber Defense",
-   "outlet": "ALM Corp",
-   "outlet_name": "ALM Corp",
-   "label": "REPORTED",
-   "url": "https://almcorp.com/news/google-unveils-gemini-4-argon-coding-enterprise-cyber-defense/"
-  },
-  {
-   "headline": "Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "France's Mistral unveils latest model in sovereign AI push",
+   "outlet": "RTL Today",
+   "outlet_name": "RTL Today",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/06/google-deepmind-ai-risks-lila-ibrahim.html"
+   "url": "https://today.rtl.lu/news/business-and-tech/frances-mistral-unveils-latest-model-in-sovereign-ai-push-647594460"
   },
   {
-   "headline": "Mayor Zohran Mamdani wants AI to be regulated at every single level; does not agree with…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "DeepSeek nears $12B funding round led by Tencen...",
+   "outlet": "Pluang",
+   "outlet_name": "Pluang",
    "label": "CONFIRMED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/mayor-zohran-mamdani-wants-ai-to-be-regulated-at-every-single-level-does-not-agree-with-it-being-in-an-arms-race-with-china-points-to-layoffs-and-more/articleshow/134743098.cms"
+   "url": "https://pluang.com/en/news-feed/deepseek-kumpulkan-dana-minimal-12-miliar-dolar-didukung-tencent-dan-catl"
   },
   {
-   "headline": "DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-06/deepseek-to-raise-at-least-12-billion-in-tencent-backed-funding"
-  },
-  {
-   "headline": "OpenAI hunts for more capital as the AI funding rush accelerates",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/openai-seeks-funding-ai-investment-rush/"
-  },
-  {
-   "headline": "Mistral launches Mistral Large 4 open-weight AI model",
-   "outlet": "qz.com",
-   "outlet_name": "qz.com",
+   "headline": "Mistral launches Large 4 preview with 1 T parameters",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
    "label": "CONFIRMED",
-   "url": "https://qz.com/mistral-large-4-open-weight-ai-model-launch-100626"
+   "url": "https://www.testingcatalog.com/mistral-launches-large-4-preview-with-1-t-parameters/"
+  },
+  {
+   "headline": "The Only Thing The Mistral Large 4 Model Truly Leads Is On Regulation, Which Is Quite…",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "label": "REPORTED",
+   "url": "https://wccftech.com/the-only-thing-the-mistral-large-4-model-truly-leads-is-on-regulation-which-is-quite-characteristic-of-a-european-llm/"
+  },
+  {
+   "headline": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+  },
+  {
+   "headline": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/"
+  },
+  {
+   "headline": "Many wonder: Can EU AI laws protect Europeans?",
+   "outlet": "Daily Sabah",
+   "outlet_name": "Daily Sabah",
+   "label": "CONFIRMED",
+   "url": "https://www.dailysabah.com/business/tech/many-wonder-can-eu-ai-laws-protect-europeans/amp"
+  },
+  {
+   "headline": "China Is Winning the AI Race Trump Won’t Run",
+   "outlet": "Newsweek",
+   "outlet_name": "Newsweek",
+   "label": "CONFIRMED",
+   "url": "https://www.newsweek.com/china-is-winning-the-ai-race-trump-wont-run-12528874"
   },
   {
    "headline": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
@@ -123,28 +130,21 @@
    "url": "https://www.anthropic.com/legal/startup-program-addendum"
   },
   {
-   "headline": "Tech Mahindra Rolls Out Build with Gemini to 12,500+ Associates",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
+   "headline": "CrowdStrike, AWS and Nvidia launch 4th cybersecurity accelerator as agentic AI security…",
+   "outlet": "Asianet Newsable on MSN",
+   "outlet_name": "Asianet Newsable on MSN",
    "label": "REPORTED",
-   "url": "https://www.unite.ai/tech-mahindra-rolls-out-build-with-gemini-to-12-500-plus-associates/"
-  },
-  {
-   "headline": "Mistral Unveils 1.05T-Parameter ‘Le Chonk’ MoE Model in Public Preview",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "REPORTED",
-   "url": "https://www.unite.ai/mistral-unveils-1-05t-parameter-le-chonk-moe-model-in-public-preview/"
+   "url": "https://www.msn.com/en-in/money/general/crowdstrike-aws-and-nvidia-launch-4th-cybersecurity-accelerator-as-agentic-ai-security-push-grows/ar-AA2dGODi"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
  "articles_24h_rounded": 15400,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/16.mp3",
- "audio_seconds": 49.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/17.mp3",
+ "audio_seconds": 46.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Nikkei Asia: China's DeepSeek, peers launch 16 AI models in month despite Anthropic warning.\nReported by ALM Corp: Google Unveils Gemini 4 Argon for Coding, Enterprise Work and Cyber Defense.\nConfirmed, per CNBC: Google DeepMind's Lila Ibrahim, world's top AI 'readiness' officer, on preparing for what's to come.\nConfirmed, per The Times of India: Mayor Zohran Mamdani wants AI to be regulated at every single level; does not agree with it being in an a.\nReported by Bloomberg: DeepSeek to Raise at Least $12 Billion in Tencent-Backed Funding.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per RTL Today: France's Mistral unveils latest model in sovereign AI push.\nConfirmed, per Pluang: DeepSeek nears $12B funding round led by Tencen.\nConfirmed, per TestingCatalog AI News: Mistral launches Large 4 preview with 1 T parameters.\nReported by Wccftech: The Only Thing The Mistral Large 4 Model Truly Leads Is On Regulation, Which Is Quite Characteristic Of A European LLM.\nConfirmed, per TechCrunch: Anthropic is giving startups a free year of Claude Team and $1,000 in credits.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
