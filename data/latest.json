@@ -1,91 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T09:20:02Z",
- "hour": "2026-10-06T09:00:00Z",
+ "generated_at": "2026-10-06T10:20:02Z",
+ "hour": "2026-10-06T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek’s funding round could approach $15 billion as investor demand surges",
-   "outlet": "CTech",
-   "outlet_name": "CTech",
-   "url": "https://www.calcalistech.com/ctechnews/article/yrfbtusx8",
-   "label": "STILL OPEN",
-   "summary_1line": "DeepSeek raises up to $14.91B, fueled by AI model launch and partnerships.",
-   "published_at": "2026-10-05T12:51:00Z"
+   "title": "DeepSeek reportedly nears $12bn funding round backed by Tencent and CATL",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/deepseek-12bn-funding-round-tencent-catl",
+   "label": "CONFIRMED",
+   "summary_1line": "DeepSeek raises $12bn in new funding, led by Tencent and CATL, up from initial 50bn yuan target.",
+   "published_at": "2026-10-06T01:29:00Z"
   },
   {
-   "title": "Woman arrested after Anthropic reports her shooting plans in Claude AI chat",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
-   "url": "https://m.economictimes.com/tech/artificial-intelligence/woman-arrested-after-anthropic-reports-her-shooting-plans-in-claude-ai-chat/articleshow/134726349.cms",
-   "label": "REPORTED",
-   "summary_1line": "Woman arrested for threatening to shoot up sheriff's office after AI chatbot interaction.",
-   "published_at": "2026-10-06T07:04:38Z"
+   "title": "Australia Weighs New AI Breach Rules as OpenAI, Anthropic Show Support",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "url": "https://www.analyticsinsight.net/news/australia-weighs-new-ai-breach-rules-as-openai-anthropic-show-support",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI and Anthropic support AI breach reporting laws after internal incident involving Australian health data.",
+   "published_at": "2026-10-06T01:00:00Z"
   },
   {
-   "title": "Mistral Unveils AI Model Surpassing Chinese Rivals in Cybersecurity",
-   "outlet": "Global Banking & Finance Review",
-   "outlet_name": "Global Banking & Finance Review",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd3NJemF0NThWbUdqZUZmR1JNdUJzRFQtSlJIX1hBS2JaSUNpQjgyODV2OWoyU2ZxWTFUcGR5T2I5SHJnQ2NhSmYwZEhPeGZVd2hGY3NZdk5TQng1Skh4by1QUEV0ZzRYczZmQU5HdGNpOF94VU5Zd3JQc3NCa3pRV2ZYcExCNExyQkZGVm9uSll4Qjc2?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-06T08:33:37Z"
+   "title": "Watch Out OpenAI, Anthropic: DeepSeek, Moonshot Raise Fresh Capital As Chinese Open-Weight AI Models Gain US Users",
+   "outlet": "Stocktwits",
+   "outlet_name": "Stocktwits",
+   "url": "https://stocktwits.com/news-articles/markets/equity/watch-out-openai-anthropic-deepseek-moonshot-raise-fresh-capital-as-chinese-open-weight-ai-models-gain-us-users/cZDsUbgRBkh",
+   "label": "CONFIRMED",
+   "summary_1line": "China's AI firms raise billions, challenge U.S. leaders with low-cost open models.",
+   "published_at": "2026-10-06T00:25:55Z"
   },
   {
-   "title": "Anthropic launches a 12-week 'residency' for AI engineers, modelled on how doctors train; company says: Those who pass earn the...",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPVWZNMkZtNEFzazB0QUtfNGUyMzBoMDVsSzNmQ1h4eGg0RWtiZHV3R2J5RzJPX3laUzZMR1FEMDItcFVDa05RZjRDVE5GU3J3NnJQeEttMnpSRFdfaDAteHpLQ3JMM1dId3huUi1NTVJlMkdZdE1CRlhaODB5NVpfYjhxaWxJVlJXVlljSUtXNkJhWVA2Qk00Mi11Qzl4V0JDVE1EbTg4WFVtWlJQSjRpSVBwMXN0OXBZOTFqT2JOS0NudUdHNGtDV0ZmcWk3WlRMUkxmWVpsekdIRkxpR3VMbXZSbFM1TDBWZWJIbG16bDhHaVRQSzlmNGk1N2RIS1MtbnNfWFE2d0dIM0dIODlCZDlZTGtUcy1CN3dSbEtZNlVJSnJvcjR3MnF4Y29QTXM?oc=5",
+   "title": "Democrats press White House on still-secret AI framework",
+   "outlet": "semafor.com",
+   "outlet_name": "Semafor",
+   "url": "https://www.semafor.com/article/10/06/2026/democrats-press-white-house-on-still-secret-ai-framework",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-06T08:04:00Z"
+   "summary_1line": "Senators demand transparency on how Big Tech influenced Trump's AI regulatory framework.",
+   "published_at": "2026-10-06T08:54:49Z"
   },
   {
-   "title": "OpenAI introduces AI watermark for texts in the EU",
-   "outlet": "Techzine Global",
-   "outlet_name": "Techzine Global",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMVdCZmZ4RkVEclctWlFNT0NCOVRfT2lOZlBUYXlGWnhMUGY4NVdaSks4UUlqdWg3eDNOZExFdVl0NWlPQkRxWkwwTTgwVkVrU05ZQVJtMWthc2pVcHB4TTNmWWR5SUlwZkprTjhxd2lGNERVOGV3ZTJrMWVWNEN4RHRNZTR5RW91VGViV2d4b1BiajBxUGNJOUJGZmM?oc=5",
+   "title": "Fortnite replaces Ironmouse Jam Track cover after fans spot Google Gemini AI watermark",
+   "outlet": "GosuGamers",
+   "outlet_name": "GosuGamers",
+   "url": "https://www.gosugamers.net/entertainment/news/79301-fortnite-replaces-ironmouse-jam-track-cover-after-fans-spot-google-gemini-ai-watermark",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-06T07:28:00Z"
+   "summary_1line": "Ironmouse finds AI watermark on album cover and demands its removal.",
+   "published_at": "2026-10-06T08:42:40Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek’s funding round could approach $15 billion as investor demand surges",
-   "outlet": "CTech",
-   "outlet_name": "CTech",
-   "label": "STILL OPEN",
-   "url": "https://www.calcalistech.com/ctechnews/article/yrfbtusx8"
+   "headline": "DeepSeek reportedly nears $12bn funding round backed by Tencent and CATL",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/deepseek-12bn-funding-round-tencent-catl"
   },
   {
-   "headline": "Woman arrested after Anthropic reports her shooting plans in Claude AI chat",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
-   "label": "REPORTED",
-   "url": "https://m.economictimes.com/tech/artificial-intelligence/woman-arrested-after-anthropic-reports-her-shooting-plans-in-claude-ai-chat/articleshow/134726349.cms"
+   "headline": "Australia Weighs New AI Breach Rules as OpenAI, Anthropic Show Support",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "label": "CONFIRMED",
+   "url": "https://www.analyticsinsight.net/news/australia-weighs-new-ai-breach-rules-as-openai-anthropic-show-support"
   },
   {
-   "headline": "Mistral Unveils AI Model Surpassing Chinese Rivals in Cybersecurity",
-   "outlet": "Global Banking & Finance Review",
-   "outlet_name": "Global Banking & Finance Review",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd3NJemF0NThWbUdqZUZmR1JNdUJzRFQtSlJIX1hBS2JaSUNpQjgyODV2OWoyU2ZxWTFUcGR5T2I5SHJnQ2NhSmYwZEhPeGZVd2hGY3NZdk5TQng1Skh4by1QUEV0ZzRYczZmQU5HdGNpOF94VU5Zd3JQc3NCa3pRV2ZYcExCNExyQkZGVm9uSll4Qjc2?oc=5"
+   "headline": "Watch Out OpenAI, Anthropic: DeepSeek, Moonshot Raise Fresh Capital As Chinese…",
+   "outlet": "Stocktwits",
+   "outlet_name": "Stocktwits",
+   "label": "CONFIRMED",
+   "url": "https://stocktwits.com/news-articles/markets/equity/watch-out-openai-anthropic-deepseek-moonshot-raise-fresh-capital-as-chinese-open-weight-ai-models-gain-us-users/cZDsUbgRBkh"
   },
   {
-   "headline": "Anthropic launches a 12-week 'residency' for AI engineers, modelled on how doctors train…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "Democrats press White House on still-secret AI framework",
+   "outlet": "semafor.com",
+   "outlet_name": "Semafor",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPVWZNMkZtNEFzazB0QUtfNGUyMzBoMDVsSzNmQ1h4eGg0RWtiZHV3R2J5RzJPX3laUzZMR1FEMDItcFVDa05RZjRDVE5GU3J3NnJQeEttMnpSRFdfaDAteHpLQ3JMM1dId3huUi1NTVJlMkdZdE1CRlhaODB5NVpfYjhxaWxJVlJXVlljSUtXNkJhWVA2Qk00Mi11Qzl4V0JDVE1EbTg4WFVtWlJQSjRpSVBwMXN0OXBZOTFqT2JOS0NudUdHNGtDV0ZmcWk3WlRMUkxmWVpsekdIRkxpR3VMbXZSbFM1TDBWZWJIbG16bDhHaVRQSzlmNGk1N2RIS1MtbnNfWFE2d0dIM0dIODlCZDlZTGtUcy1CN3dSbEtZNlVJSnJvcjR3MnF4Y29QTXM?oc=5"
+   "url": "https://www.semafor.com/article/10/06/2026/democrats-press-white-house-on-still-secret-ai-framework"
   },
   {
-   "headline": "OpenAI introduces AI watermark for texts in the EU",
-   "outlet": "Techzine Global",
-   "outlet_name": "Techzine Global",
+   "headline": "Fortnite replaces Ironmouse Jam Track cover after fans spot Google Gemini AI watermark",
+   "outlet": "GosuGamers",
+   "outlet_name": "GosuGamers",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMVdCZmZ4RkVEclctWlFNT0NCOVRfT2lOZlBUYXlGWnhMUGY4NVdaSks4UUlqdWg3eDNOZExFdVl0NWlPQkRxWkwwTTgwVkVrU05ZQVJtMWthc2pVcHB4TTNmWWR5SUlwZkprTjhxd2lGNERVOGV3ZTJrMWVWNEN4RHRNZTR5RW91VGViV2d4b1BiajBxUGNJOUJGZmM?oc=5"
+   "url": "https://www.gosugamers.net/entertainment/news/79301-fortnite-replaces-ironmouse-jam-track-cover-after-fans-spot-google-gemini-ai-watermark"
+  },
+  {
+   "headline": "Tech Mahindra Expands Agentic AI Readiness With Google Cloud Gemini Enterprise.",
+   "outlet": "TRIPURA STAR NEWS",
+   "outlet_name": "TRIPURA STAR NEWS",
+   "label": "REPORTED",
+   "url": "https://www.tripurastarnews.com/tech-mahindra-expands-agentic-ai-readiness-with-google-cloud-gemini-enterprise/"
+  },
+  {
+   "headline": "Textwasserzeichen: OpenAI markiert ChatGPT-Texte in der EU",
+   "outlet": "Golem",
+   "outlet_name": "Golem",
+   "label": "REPORTED",
+   "url": "https://www.golem.de/news/kuenstliche-intelligenz-openai-versieht-chatgpt-texte-in-der-eu-mit-wasserzeichen-2610-213740.html"
+  },
+  {
+   "headline": "Inside Trump's new AI playbook",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "label": "CONFIRMED",
+   "url": "https://www.axios.com/2026/10/06/trump-ai-strategy-task-force"
   },
   {
    "headline": "OpenAI unveils new AI text watermarking system coming to ChatGPT, Codex, and the API",
@@ -95,25 +116,18 @@
    "url": "https://www.msn.com/en-us/news/other/openai-unveils-new-ai-text-watermarking-system-coming-to-chatgpt-codex-and-the-api/ar-AA2dEre2"
   },
   {
-   "headline": "What is Beam? The buzzy American AI model being called the 'DeepSeek of the West'",
-   "outlet": "Insider on MSN",
-   "outlet_name": "Insider on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/what-is-beam-the-buzzy-american-ai-model-being-called-the-deepseek-of-the-west/ar-AA2dEw11"
-  },
-  {
-   "headline": "OpenAI reportedly in talks with UAE funds for $30B funding – even as its AI agents raise…",
-   "outlet": "Asianet Newsable on MSN",
-   "outlet_name": "Asianet Newsable on MSN",
+   "headline": "Mistral CEO says new AI model beats Chinese ones in some areas",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
    "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-in/news/other/openai-reportedly-in-talks-with-uae-funds-for-30b-funding-even-as-its-ai-agents-raise-fresh-concerns/ar-AA2dENKh"
+   "url": "https://www.msn.com/en-us/news/other/mistral-ceo-says-new-ai-model-beats-chinese-ones-in-some-areas/ar-AA2dEVU4"
   },
   {
-   "headline": "Hadrian raises $40M to tackle AI-driven cyber threats",
-   "outlet": "Tech.eu",
-   "outlet_name": "Tech.eu",
+   "headline": "Rill: A browser for using Claude Code and Codex from any page",
+   "outlet": "rill.love",
+   "outlet_name": "rill.love",
    "label": "REPORTED",
-   "url": "https://tech.eu/2026/10/06/hadrian-raises-40m-to-tackle-ai-driven-cyber-threats/"
+   "url": "https://rill.love/"
   },
   {
    "headline": "Day 5 | AI Malware Analysis: What Every Police and Law-Enforcement Professional Should…",
@@ -121,30 +135,16 @@
    "outlet_name": "the420.in",
    "label": "REPORTED",
    "url": "https://the420.in/ai-malware-analysis-cybercrime-investigation/"
-  },
-  {
-   "headline": "Adviser and Regulated Fund Custody Rules; Crypto Custody Rules",
-   "outlet": "federalregister.gov",
-   "outlet_name": "federalregister.gov",
-   "label": "REPORTED",
-   "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20466/adviser-and-regulated-fund-custody-rules-crypto-custody-rules"
-  },
-  {
-   "headline": "EU vows AI rules will protect Europeans. Will they?",
-   "outlet": "Agence France-Presse on MSN",
-   "outlet_name": "Agence France-Presse on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/world/eu-vows-ai-rules-will-protect-europeans-will-they/ar-AA2dEqQn"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 14300,
+ "articles_24h_rounded": 14400,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/09.mp3",
- "audio_seconds": 50.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/10.mp3",
+ "audio_seconds": 56.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per CTech: DeepSeek’s funding round could approach $15 billion as investor demand surges.\nReported by The Economic Times: Woman arrested after Anthropic reports her shooting plans in Claude AI chat.\nReported by Global Banking & Finance Review: Mistral Unveils AI Model Surpassing Chinese Rivals in Cybersecurity.\nReported by The Times of India: Anthropic launches a 12-week 'residency' for AI engineers, modelled on how doctors train; company says: Those who pass earn the.\nReported by Techzine Global: OpenAI introduces AI watermark for texts in the EU.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Next Web: DeepSeek reportedly nears $12bn funding round backed by Tencent and CATL.\nConfirmed, per Analytics Insight: Australia Weighs New AI Breach Rules as OpenAI, Anthropic Show Support.\nConfirmed, per Stocktwits: Watch Out OpenAI, Anthropic: DeepSeek, Moonshot Raise Fresh Capital As Chinese Open-Weight AI Models Gain US Users.\nReported by Semafor: Democrats press White House on still-secret AI framework.\nReported by GosuGamers: Fortnite replaces Ironmouse Jam Track cover after fans spot Google Gemini AI watermark.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
