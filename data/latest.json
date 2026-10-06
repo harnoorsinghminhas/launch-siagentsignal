@@ -1,119 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T18:20:02Z",
- "hour": "2026-10-06T18:00:00Z",
+ "generated_at": "2026-10-06T19:20:02Z",
+ "hour": "2026-10-06T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing companies",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html",
+   "title": "Mistral le Chonk 1T-parameter AI debuts",
+   "outlet": "Briefs Finance",
+   "outlet_name": "Briefs Finance",
+   "url": "https://www.briefs.co/news/mistral-s-1-trillion-parameter-le-chonk-takes-aim-at-the-ope/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic expands Claude Startups with $45K credits and free AI tools for startups.",
-   "published_at": "2026-10-06T16:19:16Z"
+   "summary_1line": "Mistral's ML4 model, trained on 4,000 GPUs, targets cyber and industrial tasks with open AI capabilities.",
+   "published_at": "2026-10-06T13:35:00Z"
   },
   {
-   "title": "McDonald’s Faces Lawsuit After Denying AI Price Strategy",
-   "outlet": "Newsweek",
-   "outlet_name": "Newsweek",
-   "url": "https://www.newsweek.com/mcdonalds-faces-lawsuit-after-denying-ai-price-strategy-12529965",
+   "title": "Mistral unveils Large 4 AI model, claims edge over Chinese rivals",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/mistral-large-4-ai-model-launch/",
    "label": "CONFIRMED",
-   "summary_1line": "McDonald's sued over AI pricing system allegedly coordinating menu prices across U.S. restaurants.",
-   "published_at": "2026-10-06T09:03:00Z"
+   "summary_1line": "Mistral unveils 1-trillion-parameter ML4, claiming edge over Chinese rivals, with public release on October 27.",
+   "published_at": "2026-10-06T10:13:00Z"
   },
   {
-   "title": "Is regulation enough to stop AI systems killing us all? | Letters",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/06/is-regulation-enough-to-stop-ai-systems-killing-us-all",
+   "title": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
+   "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI withdraws AI model over safety failures, citing lack of rigorous risk analysis.",
-   "published_at": "2026-10-06T16:56:04Z"
+   "summary_1line": "OpenAI plans to release hundreds of AI-solved math problems on GitHub after a meeting with mathematicians.",
+   "published_at": "2026-10-06T17:28:33Z"
   },
   {
-   "title": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review",
-   "label": "STILL OPEN",
-   "summary_1line": "Film 'Artificial' satirizes AI leaders, portraying tech's ethical risks and societal impacts.",
-   "published_at": "2026-10-06T16:58:15Z"
+   "title": "Gov. Cox mandates AI training for government employees in executive order for integration",
+   "outlet": "KUTV",
+   "outlet_name": "KUTV",
+   "url": "https://kutv.com/news/local/gov-cox-mandates-ai-training-for-government-employees-in-executive-order-for-integration",
+   "label": "CONFIRMED",
+   "summary_1line": "Utah mandates AI literacy training for employees under a pro-human AI framework.",
+   "published_at": "2026-10-06T17:34:59Z"
   },
   {
-   "title": "OpenAI Seeks $30 Billion at $1.4 Trillion Valuation as BlackRock, UAE Funds Weigh Investments",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
-   "url": "https://www.citybiz.co/article/914406/openai-seeks-30-billion-at-1-4-trillion-valuation-as-blackrock-uae-funds-weigh-investments/",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI explores $30B funding to reach $1.4T valuation, with UAE and BlackRock among investors.",
-   "published_at": "2026-10-06T12:20:49Z"
+   "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+   "label": "CONFIRMED",
+   "summary_1line": "Wajo leads personal-agent race with trust-first design, used in 107 countries and growing 10x since launch.",
+   "published_at": "2026-10-06T08:15:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic expands Claude Startups program in bid to snag founders and fast-growing…",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "Mistral le Chonk 1T-parameter AI debuts",
+   "outlet": "Briefs Finance",
+   "outlet_name": "Briefs Finance",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/06/anthropic-claude-startups-program.html"
+   "url": "https://www.briefs.co/news/mistral-s-1-trillion-parameter-le-chonk-takes-aim-at-the-ope/"
   },
   {
-   "headline": "McDonald’s Faces Lawsuit After Denying AI Price Strategy",
-   "outlet": "Newsweek",
-   "outlet_name": "Newsweek",
+   "headline": "Mistral unveils Large 4 AI model, claims edge over Chinese rivals",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
    "label": "CONFIRMED",
-   "url": "https://www.newsweek.com/mcdonalds-faces-lawsuit-after-denying-ai-price-strategy-12529965"
+   "url": "https://cryptobriefing.com/mistral-large-4-ai-model-launch/"
   },
   {
-   "headline": "Is regulation enough to stop AI systems killing us all? | Letters",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "OpenAI Is Pissing Off a Bunch of Mathematicians—Again",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
    "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/technology/2026/oct/06/is-regulation-enough-to-stop-ai-systems-killing-us-all"
+   "url": "https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again/"
   },
   {
-   "headline": "Artificial review – Luca Guadagnino takes on OpenAI in muddled tech satire",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "label": "STILL OPEN",
-   "url": "https://www.theguardian.com/film/2026/oct/06/artificial-sam-altman-ai-movie-review"
-  },
-  {
-   "headline": "OpenAI Seeks $30 Billion at $1.4 Trillion Valuation as BlackRock, UAE Funds Weigh…",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
-   "label": "STILL OPEN",
-   "url": "https://www.citybiz.co/article/914406/openai-seeks-30-billion-at-1-4-trillion-valuation-as-blackrock-uae-funds-weigh-investments/"
-  },
-  {
-   "headline": "Microsoft shifts Copilot Business licenses to usage-based billing",
-   "outlet": "MSSP Alert",
-   "outlet_name": "MSSP Alert",
+   "headline": "Gov. Cox mandates AI training for government employees in executive order for integration",
+   "outlet": "KUTV",
+   "outlet_name": "KUTV",
    "label": "CONFIRMED",
-   "url": "https://www.msspalert.com/news/microsoft-shifts-copilot-business-licenses-to-usage-based-billing"
+   "url": "https://kutv.com/news/local/gov-cox-mandates-ai-training-for-government-employees-in-executive-order-for-integration"
   },
   {
-   "headline": "Mistral unveils Large 4, its new open-weight AI model",
-   "outlet": "MarketScreener",
-   "outlet_name": "MarketScreener",
+   "headline": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/"
+  },
+  {
+   "headline": "AI Power Spikes Demand Chip-to-Grid Design Changes",
+   "outlet": "DataCenterKnowledge",
+   "outlet_name": "DataCenterKnowledge",
+   "label": "CONFIRMED",
+   "url": "https://www.datacenterknowledge.com/energy-power-supply/ai-power-spikes-demand-chip-to-grid-design-changes"
+  },
+  {
+   "headline": "OpenAI CEO says world should accept some AI harms to reap benefits, favours lighter…",
+   "outlet": "varindia",
+   "outlet_name": "varindia",
    "label": "REPORTED",
-   "url": "https://www.marketscreener.com/news/mistral-unveils-large-4-its-new-open-weight-ai-model-ce785dd9db81fe22"
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd3FneExvYnRXOE93Y3NUbUJqOUZhNWpkTFRvd0pZdnlOQmN0Rzd0Rk45RU1jYmxSUWk4Q0JFM3pNYUxFUXUtMlhxUnhMdFkzaHRRM0hKUmZMd0MtNGNIcFZMYVhXVDU1Uzd0WFJRTUpMOWYyNTJOM0tjRXpWTk9NckJHeDQyOURIeHZGYmhUNElKNWFoblBLS3EtYU5Denpqbi1IVUxyZlRDX3o0UHNvbHFiRzhXOTFXS2NHbm0xSnc?oc=5"
+  },
+  {
+   "headline": "Use Gemini for free? You’ll soon be limited to its weakest AI model",
+   "outlet": "ZDNET",
+   "outlet_name": "ZDNET",
+   "label": "REPORTED",
+   "url": "https://www.zdnet.com/innovation/google-ai-free-model-access-limited/"
   },
   {
    "headline": "CrowdStrike, AWS and Nvidia launch 4th cybersecurity accelerator as agentic AI security…",
    "outlet": "Asianet Newsable on MSN",
    "outlet_name": "Asianet Newsable on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/money/general/crowdstrike-aws-and-nvidia-launch-4th-cybersecurity-accelerator-as-agentic-ai-security-push-grows/ar-AA2dGODi"
+   "url": "https://www.msn.com/en-in/news/other/crowdstrike-aws-and-nvidia-launch-4th-cybersecurity-accelerator-as-agentic-ai-security-push-grows/ar-AA2dGODi"
   },
   {
-   "headline": "More than 100 startups joining our Google for Startups Gemini Startup Forum",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://blog.google/company-news/outreach-and-initiatives/entrepreneurs/gemini-startup-forum-2026/"
+   "headline": "CPU-Z and HWMonitor now support NVIDIA RTX Spark ahead of launch",
+   "outlet": "VideoCardz.com",
+   "outlet_name": "VideoCardz.com",
+   "label": "REPORTED",
+   "url": "https://videocardz.com/newz/cpu-z-and-hwmonitor-now-support-nvidia-rtx-spark-ahead-of-launch"
   },
   {
    "headline": "DeepMind Debuts EmbeddingGemma 2, Mapping Five Modalities Into One Space",
@@ -123,13 +130,6 @@
    "url": "https://www.unite.ai/deepmind-debuts-embeddinggemma-2-mapping-five-modalities-into-one-space/"
   },
   {
-   "headline": "Mistral Large 4 Doesn’t Just Compete With Chinese Open-Weights – It Undercuts the Entire…",
-   "outlet": "forkast.news",
-   "outlet_name": "forkast.news",
-   "label": "CONFIRMED",
-   "url": "https://forkast.news/mistral-large-4-doesnt-just-compete-with-chinese-open-weights-it-undercuts-the-entire-proprietary-pricing-floor/"
-  },
-  {
    "headline": "What AI gets wrong and what failure teaches us",
    "outlet": "microsoft.com",
    "outlet_name": "microsoft.com",
@@ -137,14 +137,14 @@
    "url": "https://www.microsoft.com/en-us/research/podcast/what-ai-gets-wrong-and-what-failure-teaches-us/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 15500,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 15600,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/18.mp3",
- "audio_seconds": 62.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/19.mp3",
+ "audio_seconds": 65.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed by CNBC: Anthropic expands the Claude Startups program, offering 45K credits and free artificial intelligence tools to founders and fast-growing companies.\nConfirmed by Newsweek: McDonald's faces a lawsuit after allegedly using an artificial intelligence pricing system to coordinate menu prices across U.S. restaurants.\nConfirmed by The Guardian: OpenAI has withdrawn an artificial intelligence model over safety failures, citing a lack of rigorous risk analysis.\nStill open, per The Guardian: The film Artificial satirizes artificial intelligence leaders, portraying the technology's ethical risks and societal impacts.\nStill open, per citybiz: OpenAI seeks 30 billion dollars at a 1.4 trillion dollar valuation, with BlackRock and UAE funds among potential investors.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMistral's ML4 model, trained on 4,000 GPUs, debuts with 1-trillion parameters targeting cyber and industrial tasks. Confirmed by Briefs Finance: the open capabilities compete in the market.\nMistral unveils the Large 4 model with 1-trillion parameters, claiming an edge over Chinese rivals. Confirmed by Crypto Briefing: public release comes on October 27.\nOpenAI plans to release hundreds of solved math problems on GitHub following a meeting with mathematicians. Confirmed by Wired: the move addresses mathematician concerns.\nUtah mandates artificial intelligence literacy training for government employees under a pro-human artificial intelligence framework. Confirmed by KUTV: the order integrates training across state government.\nWajo leads the personal-agent race with a trust-first design, operating in 107 countries and growing 10x since launch. Confirmed by TechCrunch: Vinod Khosla believes it will win the agent market.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
