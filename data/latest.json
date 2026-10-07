@@ -1,98 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T00:20:02Z",
- "hour": "2026-10-07T00:00:00Z",
+ "generated_at": "2026-10-07T01:20:02Z",
+ "hour": "2026-10-07T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "NEAR Intents Attacker Returns $3.8M as Nvidia AI Chip Smuggling Case Raises Security Concerns",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "url": "https://www.tekedia.com/near-intents-attacker-returns-3-8m-as-nvidia-ai-chip-smuggling-case-raises-security-concerns/",
-   "label": "REPORTED",
-   "summary_1line": "Funds returned in crypto exploit; $300M alleged Nvidia chip smuggling under investigation.",
-   "published_at": "2026-10-06T18:26:01Z"
+   "title": "OpenAI drops another batch of mathematical breakthroughs",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI released 722 manuscripts solving hundreds of math problems, sparking ethics debates.",
+   "published_at": "2026-10-06T23:26:38Z"
   },
   {
-   "title": "France's Mistral unveils latest model in sovereign AI push",
-   "outlet": "Courthouse News",
-   "outlet_name": "Courthouse News",
-   "url": "https://courthousenews.com/frances-mistral-unveils-latest-model-in-sovereign-ai-push/",
+   "title": "Mistral Launches Mistral Large 4 “Le Chonk” Open-Weight Model To Compete With U.S. And China",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
+   "url": "https://newscord.org/article/mistral-launches-mistral-large-4-le-chonk-open-weight-model-to-compete-with-us-a--Story_20261006_Mistralsnew1Tmodelai0fb0fb23",
    "label": "REPORTED",
-   "summary_1line": "Mistral launches Chonk, an open-weight AI model trained on 160 languages using 4,000 Nvidia chips.",
-   "published_at": "2026-10-06T17:13:48Z"
+   "summary_1line": "Mistral launches 1.05-trillion-parameter 'Le Chonk' model to compete with US and Chinese AI rivals.",
+   "published_at": "2026-10-06T23:01:56Z"
   },
   {
-   "title": "How Jump Trading is scaling quant research with ChatGPT",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93YUJfZWFpb2VQNEEzdENGbGR4aEE0UkZYWjE0XzhrM0lsLU82WWtXRG9TQ2VITXJuMnp4MVpLbWNOR20zV0VwNV9CcnJhZGs?oc=5",
+   "title": "Belmont High School AI Policy Faces Backlash From Students, Parents",
+   "outlet": "The Belmont Voice",
+   "outlet_name": "The Belmont Voice",
+   "url": "https://belmontvoice.org/belmont-high-school-ai-policy-faces-backlash-from-students-parents/",
+   "label": "REPORTED",
+   "summary_1line": "Belmont High School pilots AI misconduct review amid student and parent concerns.",
+   "published_at": "2026-10-06T22:31:06Z"
+  },
+  {
+   "title": "OpenAI came to Australia to apologise. It will leave without answering these key questions | Toby Walsh",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/07/openai-australia-apology-without-answering-key-questions",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-06T23:19:19Z"
+   "published_at": "2026-10-07T01:00:37Z"
   },
   {
-   "title": "NVIDIA announces the new GeForce RTX 4070",
-   "outlet": "Kotaworld",
-   "outlet_name": "Kotaworld",
-   "url": "https://www.kotaworld.it/en/en-tech/5542-nvidia-announces-the-new-geforce-rtx-4070",
+   "title": "California Joins New York in Regulating AI ‘Synthetic Performers’ in Advertising",
+   "outlet": "JDSupra",
+   "outlet_name": "JDSupra",
+   "url": "https://www.jdsupra.com/legalnews/california-joins-new-york-in-regulating-7563726/",
    "label": "REPORTED",
-   "summary_1line": "NVIDIA launches RTX 4070 with DLSS 3 at €669 and new gaming tools.",
-   "published_at": "2026-10-06T16:04:55Z"
-  },
-  {
-   "title": "Nvidia taps six Wall Street giants in bid to unlock $500 billion for AI infrastructure",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/nvidia-500-billion-compute-financing-platforms/",
-   "label": "REPORTED",
-   "summary_1line": "Nvidia partners with six finance giants to raise $500B for AI hardware via GPU-backed financing.",
-   "published_at": "2026-10-06T13:59:00Z"
+   "summary_1line": "California law requires disclosure for AI-generated performers in ads, effective Jan 1, 2027.",
+   "published_at": "2026-10-06T22:18:14Z"
   }
  ],
  "ticker": [
   {
-   "headline": "NEAR Intents Attacker Returns $3.8M as Nvidia AI Chip Smuggling Case Raises Security…",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "label": "REPORTED",
-   "url": "https://www.tekedia.com/near-intents-attacker-returns-3-8m-as-nvidia-ai-chip-smuggling-case-raises-security-concerns/"
+   "headline": "OpenAI drops another batch of mathematical breakthroughs",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "label": "CONFIRMED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
   },
   {
-   "headline": "France's Mistral unveils latest model in sovereign AI push",
-   "outlet": "Courthouse News",
-   "outlet_name": "Courthouse News",
+   "headline": "Mistral Launches Mistral Large 4 “Le Chonk” Open-Weight Model To Compete With U.S. And…",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
    "label": "REPORTED",
-   "url": "https://courthousenews.com/frances-mistral-unveils-latest-model-in-sovereign-ai-push/"
+   "url": "https://newscord.org/article/mistral-launches-mistral-large-4-le-chonk-open-weight-model-to-compete-with-us-a--Story_20261006_Mistralsnew1Tmodelai0fb0fb23"
   },
   {
-   "headline": "How Jump Trading is scaling quant research with ChatGPT",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
+   "headline": "Belmont High School AI Policy Faces Backlash From Students, Parents",
+   "outlet": "The Belmont Voice",
+   "outlet_name": "The Belmont Voice",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93YUJfZWFpb2VQNEEzdENGbGR4aEE0UkZYWjE0XzhrM0lsLU82WWtXRG9TQ2VITXJuMnp4MVpLbWNOR20zV0VwNV9CcnJhZGs?oc=5"
+   "url": "https://belmontvoice.org/belmont-high-school-ai-policy-faces-backlash-from-students-parents/"
   },
   {
-   "headline": "NVIDIA announces the new GeForce RTX 4070",
-   "outlet": "Kotaworld",
-   "outlet_name": "Kotaworld",
+   "headline": "OpenAI came to Australia to apologise. It will leave without answering these key…",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
    "label": "REPORTED",
-   "url": "https://www.kotaworld.it/en/en-tech/5542-nvidia-announces-the-new-geforce-rtx-4070"
-  },
-  {
-   "headline": "Nvidia taps six Wall Street giants in bid to unlock $500 billion for AI infrastructure",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/nvidia-500-billion-compute-financing-platforms/"
-  },
-  {
-   "headline": "Anthropic Broadens Access to Top AI Models for Vetted Cyber Defenders",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/78bf7282-c57b-45a3-b7f9-c4377fe893a5"
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/07/openai-australia-apology-without-answering-key-questions"
   },
   {
    "headline": "California Joins New York in Regulating AI ‘Synthetic Performers’ in Advertising",
@@ -102,18 +88,11 @@
    "url": "https://www.jdsupra.com/legalnews/california-joins-new-york-in-regulating-7563726/"
   },
   {
-   "headline": "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta…",
-   "outlet": "R&D World",
-   "outlet_name": "R&D World",
+   "headline": "OpenAI’s largest mathematics release tackles 4,000 problems with Lean-checked proofs",
+   "outlet": "interestingengineering.com",
+   "outlet_name": "interestingengineering.com",
    "label": "REPORTED",
-   "url": "https://www.rdworldonline.com/under-oath-google-confirms-three-ai-agent-test-escapes-as-openai-anthropic-and-meta-face-nyc-lawmakers/"
-  },
-  {
-   "headline": "OpenAI unleashes hundreds more math results upon a field already in shock",
-   "outlet": "Scientific American",
-   "outlet_name": "Scientific American",
-   "label": "REPORTED",
-   "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"
+   "url": "https://interestingengineering.com/ai-robotics/openai-largest-math-release-lean-proofs"
   },
   {
    "headline": "OpenAI Releases 722 Math Manuscripts From an Unreleased AI Model",
@@ -130,21 +109,42 @@
    "url": "https://www.msn.com/en-ph/money/startup/deepseek-set-to-net-over-12-billion-in-new-fundraising/ar-AA2dHggq"
   },
   {
-   "headline": "Anthropic Expands Discounts and Support for Founders",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
+   "headline": "Where do we draw the line on AI in court filings?",
+   "outlet": "lexifina.com",
+   "outlet_name": "lexifina.com",
    "label": "REPORTED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-discounts-support-founders/"
+   "url": "https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings"
+  },
+  {
+   "headline": "Google Gemini Now Has an Interactive Map on Mobile",
+   "outlet": "VOI.ID",
+   "outlet_name": "VOI.ID",
+   "label": "REPORTED",
+   "url": "https://voi.id/zh/technology-zh/596969"
+  },
+  {
+   "headline": "AI researchers warn of risks as New York weighs regulation",
+   "outlet": "starcitytv.com",
+   "outlet_name": "starcitytv.com",
+   "label": "REPORTED",
+   "url": "https://www.starcitytv.com/ai-researchers-warn-of-risks-as-new-york-weighs-regulation/video_f14bdb51-a780-5e01-a283-400884fc5e79.html"
+  },
+  {
+   "headline": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "label": "REPORTED",
+   "url": "https://www.techmeme.com/261006/p48#a261006p48"
   }
  ],
- "tidbit": "Did you know… about 16,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 15500,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 15700,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/00.mp3",
- "audio_seconds": 74.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/01.mp3",
+ "audio_seconds": 45.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA crypto exploit led to the return of 3.8M dollars. Reported by Tekedia: the incident connects to alleged Nvidia chip smuggling valued at 300M dollars that raises security concerns.\nMistral launches Chonk, an open-weight artificial intelligence model trained on 160 languages. Reported by Courthouse News: the model was trained using 4,000 Nvidia chips as part of France's sovereign artificial intelligence push.\nJump Trading is scaling quant research with ChatGPT. Reported by OpenAI: the firm uses the platform to advance its quantitative research capabilities.\nNvidia launches the GeForce RTX 4070 graphics card with DLSS 3 technology. Reported by Kotaworld: the new card is priced at 669 euros and includes new gaming tools.\nNvidia partners with six Wall Street financial firms to raise 500 billion dollars for artificial intelligence infrastructure. Reported by Crypto Briefing: the financing approach uses graphics processing unit backed financing to unlock capital for artificial intelligence hardware.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: OpenAI drops another batch of mathematical breakthroughs.\nReported by NewsCord: Mistral Launches Mistral Large 4 “Le Chonk” Open-Weight Model To Compete With U.S. And China.\nReported by The Belmont Voice: Belmont High School AI Policy Faces Backlash From Students, Parents.\nReported by The Guardian: OpenAI came to Australia to apologise. It will leave without answering these key questions | Toby Walsh.\nReported by JDSupra: California Joins New York in Regulating AI ‘Synthetic Performers’ in Advertising.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
