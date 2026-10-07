@@ -1,112 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T13:20:02Z",
- "hour": "2026-10-07T13:00:00Z",
+ "generated_at": "2026-10-07T14:20:02Z",
+ "hour": "2026-10-07T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "US, China, EU: three paths to regulating AI",
-   "outlet": "Macau Business",
-   "outlet_name": "Macau Business",
-   "url": "https://macaubusiness.com/us-china-eu-three-paths-to-regulating-ai-2/",
-   "label": "CONFIRMED",
-   "summary_1line": "US, China, EU take different paths to regulate AI, with new rules on safety, children, and economic impact.",
-   "published_at": "2026-10-07T09:35:15Z"
+   "title": "State AGs Launch Investigations Into OpenAI AI Safety",
+   "outlet": "State Affairs Pro",
+   "outlet_name": "State Affairs Pro",
+   "url": "https://pro.stateaffairs.com/tn/technology/ags-take-the-lead-on-ai-enforcement",
+   "label": "REPORTED",
+   "summary_1line": "Torrez urges Congress to act on online kid safety and Big Tech accountability.",
+   "published_at": "2026-10-07T12:02:41Z"
   },
   {
-   "title": "Tencent Music integrated DeepSeek into its streaming service. Now parent company Tencent is among the biggest backers of the AI company’s $12B+ funding round (report)",
-   "outlet": "Music Business Worldwide",
-   "outlet_name": "Music Business Worldwide",
-   "url": "https://www.musicbusinessworldwide.com/tencent-music-integrated-deepseek-into-its-streaming-service-now-parent-company-tencent-is-among-the-biggest-backers-of-the-ai-companys-12b-funding-round-report/",
-   "label": "STILL OPEN",
-   "summary_1line": "DeepSeek raises $12B+ in funding, with Tencent and CATL leading, targeting 2027 IPO.",
-   "published_at": "2026-10-07T11:49:26Z"
+   "title": "Mistral Launches Large 4 With 1 Trillion Parameters and 49 Billion Active Parameters for Advanced AI Workloads",
+   "outlet": "بوابة التكنولوجيا المالية",
+   "outlet_name": "بوابة التكنولوجيا المالية",
+   "url": "https://fintechgate.net/253876",
+   "label": "REPORTED",
+   "summary_1line": "Mistral launches 1-trillion-parameter ML4 with top-tier cybersecurity and coding performance.",
+   "published_at": "2026-10-07T11:41:49Z"
   },
   {
-   "title": "China’s open-weight AI models are winning global users. Who is capturing the value?",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3370012/chinas-open-weight-ai-models-are-winning-global-users-who-capturing-value?utm_source=rss_feed",
-   "label": "CONFIRMED",
-   "summary_1line": "China's open AI models gain global users but developers lose revenue to third parties.",
-   "published_at": "2026-10-07T11:00:09Z"
+   "title": "Microsoft set to unveil AI laptop powered by Nvidia chips",
+   "outlet": "The Globe and Mail",
+   "outlet_name": "The Globe and Mail",
+   "url": "https://www.theglobeandmail.com/business/article-microsoft-surface-laptop-ultra-nvidia-chips/",
+   "label": "REPORTED",
+   "summary_1line": "Microsoft unveils AI-powered laptop with Nvidia chips to run AI agents locally on Windows PCs.",
+   "published_at": "2026-10-07T11:25:56Z"
   },
   {
-   "title": "KI von OpenAI löst wohl Hunderte weitere Mathematikprobleme",
-   "outlet": "FAZ",
-   "outlet_name": "FAZ",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-von-openai-loest-wohl-hunderte-weitere-mathematikprobleme-accg-201295709.html",
+   "title": "Mistral unveils ‘Le Chonk’ to compete with Chinese open-weight AI models",
+   "outlet": "The Hindu",
+   "outlet_name": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/technology/mistral-unveils-le-chonk-to-compete-with-chinese-open-weight-ai-models/article71554171.ece",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI shares AI-solved math results, including progress on three Millennium Prize Problems.",
-   "published_at": "2026-10-07T11:20:28Z"
+   "summary_1line": "Mistral launches Le Chonk, a 1-trillion-parameter AI model, claiming superiority over Chinese and U.S. rivals.",
+   "published_at": "2026-10-07T00:21:00Z"
   },
   {
-   "title": "Business News | Mistral Launches 1-trillion-parameter Large 4 Model, Plans Open-weight Release by Month-end",
-   "outlet": "LatestLY",
-   "outlet_name": "LatestLY",
-   "url": "https://www.latestly.com/agency-news/business-news-mistral-launches-1-trillion-parameter-large-4-model-plans-open-weight-release-by-month-end-7635494.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Mistral launches 1-trillion-parameter ML4 model with public preview and open-weight release by month-end.",
-   "published_at": "2026-10-06T20:24:00Z"
+   "title": "Hadrian Raises $40M to Expand AI-Powered Cybersecurity Platform",
+   "outlet": "citybiz",
+   "outlet_name": "citybiz",
+   "url": "https://www.citybiz.co/article/915194/hadrian-raises-40m-to-expand-ai-powered-cybersecurity-platform/",
+   "label": "REPORTED",
+   "summary_1line": "Hadrian raises $40M to expand in U.S. and Europe, offering AI-powered security tools.",
+   "published_at": "2026-10-07T10:11:37Z"
   }
  ],
  "ticker": [
   {
-   "headline": "US, China, EU: three paths to regulating AI",
-   "outlet": "Macau Business",
-   "outlet_name": "Macau Business",
+   "headline": "State AGs Launch Investigations Into OpenAI AI Safety",
+   "outlet": "State Affairs Pro",
+   "outlet_name": "State Affairs Pro",
+   "label": "REPORTED",
+   "url": "https://pro.stateaffairs.com/tn/technology/ags-take-the-lead-on-ai-enforcement"
+  },
+  {
+   "headline": "Mistral Launches Large 4 With 1 Trillion Parameters and 49 Billion Active Parameters for…",
+   "outlet": "بوابة التكنولوجيا المالية",
+   "outlet_name": "بوابة التكنولوجيا المالية",
+   "label": "REPORTED",
+   "url": "https://fintechgate.net/253876"
+  },
+  {
+   "headline": "Microsoft set to unveil AI laptop powered by Nvidia chips",
+   "outlet": "The Globe and Mail",
+   "outlet_name": "The Globe and Mail",
+   "label": "REPORTED",
+   "url": "https://www.theglobeandmail.com/business/article-microsoft-surface-laptop-ultra-nvidia-chips/"
+  },
+  {
+   "headline": "Mistral unveils ‘Le Chonk’ to compete with Chinese open-weight AI models",
+   "outlet": "The Hindu",
+   "outlet_name": "The Hindu",
    "label": "CONFIRMED",
-   "url": "https://macaubusiness.com/us-china-eu-three-paths-to-regulating-ai-2/"
+   "url": "https://www.thehindu.com/sci-tech/technology/mistral-unveils-le-chonk-to-compete-with-chinese-open-weight-ai-models/article71554171.ece"
   },
   {
-   "headline": "Tencent Music integrated DeepSeek into its streaming service. Now parent company Tencent…",
-   "outlet": "Music Business Worldwide",
-   "outlet_name": "Music Business Worldwide",
-   "label": "STILL OPEN",
-   "url": "https://www.musicbusinessworldwide.com/tencent-music-integrated-deepseek-into-its-streaming-service-now-parent-company-tencent-is-among-the-biggest-backers-of-the-ai-companys-12b-funding-round-report/"
+   "headline": "Hadrian Raises $40M to Expand AI-Powered Cybersecurity Platform",
+   "outlet": "citybiz",
+   "outlet_name": "citybiz",
+   "label": "REPORTED",
+   "url": "https://www.citybiz.co/article/915194/hadrian-raises-40m-to-expand-ai-powered-cybersecurity-platform/"
   },
   {
-   "headline": "China’s open-weight AI models are winning global users. Who is capturing the value?",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
+   "headline": "ChatGPT not safe for kids, study finds 5 issues parents should know",
+   "outlet": "India Today on MSN",
+   "outlet_name": "India Today on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3370012/chinas-open-weight-ai-models-are-winning-global-users-who-capturing-value?utm_source=rss_feed"
+   "url": "https://www.msn.com/en-in/news/other/chatgpt-not-safe-for-kids-study-finds-5-issues-parents-should-know/ar-AA2dKfLy"
   },
   {
-   "headline": "KI von OpenAI löst wohl Hunderte weitere Mathematikprobleme",
-   "outlet": "FAZ",
-   "outlet_name": "FAZ",
-   "label": "CONFIRMED",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-von-openai-loest-wohl-hunderte-weitere-mathematikprobleme-accg-201295709.html"
-  },
-  {
-   "headline": "Business News | Mistral Launches 1-trillion-parameter Large 4 Model, Plans Open-weight…",
-   "outlet": "LatestLY",
-   "outlet_name": "LatestLY",
-   "label": "CONFIRMED",
-   "url": "https://www.latestly.com/agency-news/business-news-mistral-launches-1-trillion-parameter-large-4-model-plans-open-weight-release-by-month-end-7635494.html"
-  },
-  {
-   "headline": "OpenAI's mathematical breakthroughs roil the field",
-   "outlet": "semafor.com",
-   "outlet_name": "Semafor",
-   "label": "STILL OPEN",
-   "url": "https://www.semafor.com/article/10/07/2026/openais-mathematical-breakthroughs-roil-the-field"
-  },
-  {
-   "headline": "OpenAI’s ChatGPT for teens is an unsafe mess, testing finds",
-   "outlet": "Futurism on MSN",
-   "outlet_name": "Futurism on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/openai-s-chatgpt-for-teens-is-an-unsafe-mess-testing-finds/ar-AA2dJKwy"
-  },
-  {
-   "headline": "The Sequence Learning Loop - Issue 946: Learning About OpenAI DevDay Releases and Gemini…",
-   "outlet": "thesequence.substack.com",
-   "outlet_name": "thesequence.substack.com",
-   "label": "STILL OPEN",
-   "url": "https://thesequence.substack.com/p/the-sequence-learning-loop-issue-f1b"
+   "headline": "Knuth Christmas Lecture Announcement: Claude and the Art of Computer Programming",
+   "outlet": "cs.stanford.edu",
+   "outlet_name": "cs.stanford.edu",
+   "label": "REPORTED",
+   "url": "https://cs.stanford.edu/~knuth/musings.html"
   },
   {
    "headline": "Aleph Alpha and Mistral releases raise hopes for Europe’s sovereign AI ambitions",
@@ -116,18 +109,11 @@
    "url": "https://sifted.eu/articles/aleph-alpha-kolibri-mistral-chonk-frontier-ai/"
   },
   {
-   "headline": "16 AI models in one month: DeepSeek, Chinese AI firms step up launch race despite…",
-   "outlet": "NDTV Profit on MSN",
-   "outlet_name": "NDTV Profit on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/16-ai-models-in-one-month-deepseek-chinese-ai-firms-step-up-launch-race-despite-anthropic-warning/ar-AA2dJtzc"
-  },
-  {
-   "headline": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/most-us-voters-say-trump-congress-dont-take-ai-risks-seriously-reutersipsos-poll-finds/ar-AA2dJJiE"
+   "headline": "Anthropic widens access to AI cyber capabilities for vetted security teams",
+   "outlet": "www.csoonline.com",
+   "outlet_name": "www.csoonline.com",
+   "label": "REPORTED",
+   "url": "https://www.csoonline.com/article/4231812/anthropic-widens-access-to-ai-cyber-capabilities-for-vetted-security-teams.html"
   },
   {
    "headline": "Microsoft and OpenAI just got hit with another copyright lawsuit",
@@ -135,16 +121,30 @@
    "outlet_name": "Windows Report on MSN",
    "label": "REPORTED",
    "url": "https://www.msn.com/en-xl/news/other/microsoft-and-openai-just-got-hit-with-another-copyright-lawsuit/ar-AA2dK6ig"
+  },
+  {
+   "headline": "Explainable AI Model Predicts India’s Air Quality With Near-Perfect Accuracy",
+   "outlet": "Bioengineer.org",
+   "outlet_name": "Bioengineer.org",
+   "label": "CONFIRMED",
+   "url": "https://bioengineer.org/explainable-ai-model-predicts-indias-air-quality-with-near-perfect-accuracy/"
+  },
+  {
+   "headline": "Finland orders pause on Google AI data centres over environmental concerns",
+   "outlet": "Euronews on MSN",
+   "outlet_name": "Euronews on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/finland-orders-pause-on-google-ai-data-centres-over-environmental-concerns/ar-AA2dK9gA"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 14100,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 13900,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/13.mp3",
- "audio_seconds": 67.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/14.mp3",
+ "audio_seconds": 44.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nUS, China, and the European Union are taking different paths to regulate artificial intelligence, with new rules addressing safety, children, and economic impact. That's confirmed by Macau Business.\nTencent Music has integrated DeepSeek into its streaming service. Now parent company Tencent is among the biggest backers of the artificial intelligence company's $12B+ funding round, still open per Music Business Worldwide.\nChina's open artificial intelligence models are gaining global users. But developers are losing revenue to third parties, confirmed by South China Morning Post.\nOpenAI has shared artificial intelligence solved math results, including progress on three Millennium Prize Problems. That's confirmed by FAZ.\nMistral has launched a 1-trillion-parameter Large 4 model with a public preview and open-weight release planned by month-end, confirmed by LatestLY.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by State Affairs Pro: State AGs Launch Investigations Into OpenAI AI Safety.\nReported by بوابة التكنولوجيا المالية: Mistral Launches Large 4 With 1 Trillion Parameters and 49 Billion Active Parameters for Advanced AI Workloads.\nReported by The Globe and Mail: Microsoft set to unveil AI laptop powered by Nvidia chips.\nConfirmed, per The Hindu: Mistral unveils ‘Le Chonk’ to compete with Chinese open-weight AI models.\nReported by citybiz: Hadrian Raises $40M to Expand AI-Powered Cybersecurity Platform.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
