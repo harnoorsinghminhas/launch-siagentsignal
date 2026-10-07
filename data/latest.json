@@ -1,112 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T18:20:02Z",
- "hour": "2026-10-07T18:00:00Z",
+ "generated_at": "2026-10-07T19:20:02Z",
+ "hour": "2026-10-07T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek raises over 80 billion, CATL and Tencent invest",
-   "outlet": "加拿大新闻网",
-   "outlet_name": "加拿大新闻网",
-   "url": "https://cacnews.ca/201715.html",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek raises over 800 billion RMB, aiming for 1 trillion, with Huawei and Tencent involved.",
-   "published_at": "2026-10-07T16:49:00Z"
+   "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
+   "label": "STILL OPEN",
+   "summary_1line": "SpaceX explores $40B GPU deal with Nvidia, facilitated by Apollo Capital and banks.",
+   "published_at": "2026-10-07T16:32:30Z"
   },
   {
-   "title": "Broadcom (AVGO) Is Up 5.8% After Unveiling Massive AI Chip Financing Plan for Anthropic",
-   "outlet": "Yahoo Finance Singapore",
-   "outlet_name": "Yahoo Finance Singapore",
-   "url": "https://sg.finance.yahoo.com/news/broadcom-avgo-5-8-unveiling-161355017.html",
-   "label": "REPORTED",
-   "summary_1line": "Broadcom targets $58B AI revenue by 2026, with $42B loans and $60B chip leasing for Anthropic.",
-   "published_at": "2026-10-07T16:13:55Z"
+   "title": "ChatGPT for Teens Carries ‘Unacceptable Risk’ for Teens, Report Claims",
+   "outlet": "Gizmodo",
+   "outlet_name": "Gizmodo",
+   "url": "https://gizmodo.com/chatgpt-for-teens-carries-unacceptable-risk-for-teens-report-claims-2000822954",
+   "label": "CONFIRMED",
+   "summary_1line": "ChatGPT for Teens fails to notify parents or recommend crisis help during suicide discussions, according to Common Sense Media.",
+   "published_at": "2026-10-06T21:40:00Z"
   },
   {
-   "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
+   "title": "Impersonating Anthropic employees, suspected Chinese intelligence organization probes US AI policy",
+   "outlet": "文学城",
+   "outlet_name": "文学城",
+   "url": "https://www.wenxuecity.com/news/2026/10/07/126797608.html",
+   "label": "REPORTED",
+   "summary_1line": "TA419, allegedly linked to China, targeted U.S. AI policy and defense officials with phishing and domain spoofing.",
+   "published_at": "2026-10-07T16:38:07Z"
+  },
+  {
+   "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-07T18:00:19Z"
+   "published_at": "2026-10-07T18:07:44Z"
   },
   {
-   "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+   "title": "Top Senate Commerce Democrat releases six-point AI framework",
+   "outlet": "Washington Examiner",
+   "outlet_name": "Washington Examiner",
+   "url": "https://www.washingtonexaminer.com/news/senate/4757201/top-senate-commerce-democrat-six-point-ai-framework/",
    "label": "CONFIRMED",
-   "summary_1line": "Meta removes 33.2M child exploitation posts using AI, with 97% found before user reports.",
-   "published_at": "2026-10-07T16:53:46Z"
-  },
-  {
-   "title": "SoftBank Doubles Down on OpenAI With Massive $10 Billion Investment",
-   "outlet": "Cloud Wars",
-   "outlet_name": "Cloud Wars",
-   "url": "https://cloudwars.com/cloud-wars-minute/softbank-doubles-down-on-openai-with-massive-10-billion-investment/",
-   "label": "REPORTED",
-   "summary_1line": "SoftBank borrows $11B to fund $10B OpenAI investment, closing on October 1.",
-   "published_at": "2026-10-07T11:30:00Z"
+   "summary_1line": "Sen. Cantwell releases six-point AI safety framework with NIST-led standards and U.S.-China security channel.",
+   "published_at": "2026-10-07T16:33:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek raises over 80 billion, CATL and Tencent invest",
-   "outlet": "加拿大新闻网",
-   "outlet_name": "加拿大新闻网",
-   "label": "REPORTED",
-   "url": "https://cacnews.ca/201715.html"
+   "headline": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "STILL OPEN",
+   "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html"
   },
   {
-   "headline": "Broadcom (AVGO) Is Up 5.8% After Unveiling Massive AI Chip Financing Plan for Anthropic",
-   "outlet": "Yahoo Finance Singapore",
-   "outlet_name": "Yahoo Finance Singapore",
-   "label": "REPORTED",
-   "url": "https://sg.finance.yahoo.com/news/broadcom-avgo-5-8-unveiling-161355017.html"
-  },
-  {
-   "headline": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/"
-  },
-  {
-   "headline": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse…",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "ChatGPT for Teens Carries ‘Unacceptable Risk’ for Teens, Report Claims",
+   "outlet": "Gizmodo",
+   "outlet_name": "Gizmodo",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
+   "url": "https://gizmodo.com/chatgpt-for-teens-carries-unacceptable-risk-for-teens-report-claims-2000822954"
   },
   {
-   "headline": "SoftBank Doubles Down on OpenAI With Massive $10 Billion Investment",
-   "outlet": "Cloud Wars",
-   "outlet_name": "Cloud Wars",
+   "headline": "Impersonating Anthropic employees, suspected Chinese intelligence organization probes US…",
+   "outlet": "文学城",
+   "outlet_name": "文学城",
    "label": "REPORTED",
-   "url": "https://cloudwars.com/cloud-wars-minute/softbank-doubles-down-on-openai-with-massive-10-billion-investment/"
+   "url": "https://www.wenxuecity.com/news/2026/10/07/126797608.html"
   },
   {
-   "headline": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
+   "headline": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9McHdOc3NTYlZzYnk5V1pfYzFlcG90VzhENDJDRUJibkZvNlRGQ0NRT1JHQnpBMzJMM1dxNmx1d2Q3aVhMZDY4ejZn?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5"
   },
   {
-   "headline": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
+   "headline": "Top Senate Commerce Democrat releases six-point AI framework",
+   "outlet": "Washington Examiner",
+   "outlet_name": "Washington Examiner",
    "label": "CONFIRMED",
-   "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/"
+   "url": "https://www.washingtonexaminer.com/news/senate/4757201/top-senate-commerce-democrat-six-point-ai-framework/"
   },
   {
-   "headline": "FCC commissioner urges blocking AI robocalls ahead of elections — Channel NewsAsia",
-   "outlet": "UA.NEWS",
-   "outlet_name": "UA.NEWS",
+   "headline": "TurbineOne partners with OpenAI to develop artificial intelligence tools for frontline…",
+   "outlet": "东方财富",
+   "outlet_name": "东方财富",
    "label": "CONFIRMED",
-   "url": "https://ua.news/en/world/komisarka-fcc-zaklikala-ne-dozvoliati-shi-robodzvinki-pered-viborami-channel-newsasia"
+   "url": "https://emwap.eastmoney.com/a/202610083889004779.html"
+  },
+  {
+   "headline": "Claude Haiku 5.5",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/claude-haiku-5-5"
+  },
+  {
+   "headline": "GPT‑6 and Intelligent UI for everyone",
+   "outlet": "openai.com",
+   "outlet_name": "openai.com",
+   "label": "CONFIRMED",
+   "url": "https://openai.com/index/gpt-6-for-everyone/"
+  },
+  {
+   "headline": "Chef Robotics Builds Food-Manipulation Robots on NVIDIA Isaac Stack",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/chef-robotics-builds-food-manipulation-robots-on-nvidia-isaac-stack/"
+  },
+  {
+   "headline": "NVIDIA RTX Spark laptops launch October 16, prices start at $2,599",
+   "outlet": "VideoCardz.com",
+   "outlet_name": "VideoCardz.com",
+   "label": "REPORTED",
+   "url": "https://videocardz.com/newz/nvidia-rtx-spark-laptops-launch-october-16-prices-start-at-2599"
+  },
+  {
+   "headline": "Bringing Gemini in Chrome with auto browse to India",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/intl/en-in/products/bringing-gemini-in-chrome-with-auto-browse-to-india/"
   },
   {
    "headline": "We're making it easier to identify AI-generated content globally.",
@@ -114,37 +135,16 @@
    "outlet_name": "blog.google",
    "label": "CONFIRMED",
    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/"
-  },
-  {
-   "headline": "Claude Haiku 5.5",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "REPORTED",
-   "url": "https://www.anthropic.com/claude-haiku-5-5"
-  },
-  {
-   "headline": "GPT‑6 and Intelligent UI for everyone",
-   "outlet": "openai.com",
-   "outlet_name": "openai.com",
-   "label": "REPORTED",
-   "url": "https://openai.com/index/gpt-6-for-everyone/"
-  },
-  {
-   "headline": "Mistral unveils massive new AI model, says 'Le Chonk' can take on China's best open…",
-   "outlet": "International Business Times on MSN",
-   "outlet_name": "International Business Times on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/mistral-unveils-massive-new-ai-model-says-le-chonk-can-take-on-china-s-best-open-systems/ar-AA2dHmTq"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
  "articles_24h_rounded": 13500,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/18.mp3",
- "audio_seconds": 46.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/19.mp3",
+ "audio_seconds": 65.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by 加拿大新闻网: DeepSeek raises over 80 billion, CATL and Tencent invest.\nReported by Yahoo Finance Singapore: Broadcom (AVGO) Is Up 5.8% After Unveiling Massive AI Chip Financing Plan for Anthropic.\nReported by TechCrunch: ChatGPT is getting a lot more visual, with the launch of a new interface.\nConfirmed, per TechCrunch: Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material.\nReported by Cloud Wars: SoftBank Doubles Down on OpenAI With Massive $10 Billion Investment.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSpaceX is exploring a 40 billion dollar purchase of Nvidia GPUs, with Apollo Capital and banks in talks to finance the deal, still open per CNBC.\nChatGPT for Teens carries unacceptable risk for teenagers, according to a report from Common Sense Media. The platform fails to notify parents or recommend crisis help during suicide discussions, confirmed by Gizmodo.\nReported by 文学城: TA419, allegedly linked to China, targeted U.S. artificial intelligence policy and defense officials with phishing and domain spoofing to probe U.S. artificial intelligence policy.\nAnthropic launches its third Claude 5.5 model, expanding its artificial intelligence lineup before a planned initial public offering, reported by Reuters.\nA top Senate Commerce Democrat releases a six-point artificial intelligence safety framework, confirmed by the Washington Examiner. The framework includes standards led by NIST and a U.S. China security channel.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
