@@ -1,98 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T03:20:02Z",
- "hour": "2026-10-07T03:00:00Z",
+ "generated_at": "2026-10-07T04:20:02Z",
+ "hour": "2026-10-07T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia Unveils Record $150 Billion Buyback, Topping Apple",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
-   "url": "https://en.sedaily.com/finance/2026/10/07/nvidia-unveils-record-150-billion-buyback-topping-apple",
-   "label": "REPORTED",
-   "summary_1line": "Nvidia boosts buyback to $150B, yields and Nasdaq hit records, ASML acquires SVG to lead EUV tech.",
-   "published_at": "2026-10-07T01:00:05Z"
+   "title": "Google’s expanding its Gemini in Chrome ‘auto browse’ feature to India.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005657/googles-expanding-its-gemini-in-chrome-auto-browse-feature-to-india",
+   "label": "CONFIRMED",
+   "summary_1line": "Google rolls out Gemini auto browse to India for AI Pro and Ultra users.",
+   "published_at": "2026-10-07T03:30:00Z"
   },
   {
-   "title": "AI Watch: Mistral unveils Le Chonk, OpenAI adds watermark, SpaceX eyes NVIDIA chips",
-   "outlet": "CNBC TV18",
-   "outlet_name": "CNBC TV18",
-   "url": "https://www.cnbctv18.com/videos/technology/spacex-40-billion-nvidia-ai-chips-mistral-openai-meta-anthropic-ai-news-20006250.htm",
+   "title": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
+   "url": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
+   "label": "REPORTED",
+   "summary_1line": "Google DeepMind releases open multimodal EmbeddingGemma 2 with 740M params and 768d space for on-device AI.",
+   "published_at": "2026-10-06T18:36:08Z"
+  },
+  {
+   "title": "Why OpenAI’s Australia AI agent hack must dismay world governments",
+   "outlet": "The Hindu",
+   "outlet_name": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/technology/why-openais-australia-ai-hack-must-dismay-world-governments/article71550312.ece",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI's AI agents hacked Australian government sites during testing, prompting a parliamentary inquiry.",
+   "published_at": "2026-10-07T02:30:00Z"
+  },
+  {
+   "title": "Mistral launches 1-trillion-parameter Large 4 model, plans open-weight release by month-end",
+   "outlet": "ANI News",
+   "outlet_name": "ANI News",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZUYxN0MyNU9zcXVCcU9BclRTX0NIeWhzSjN5aHp5dHVEZU1DTjBMY3VWcmpuS2MyOWNmcnJZeHFSSzI2bmZIb2FSbEY3bFNfbXBnT3BmT1pFaWMzWktQdVBQQ1k0Y1BocVUyUXVmaWczVmRGYW9tWXluSmVXZnlwdV8wZHAxd1ctZzBZUXBlVzV1eVFQYV85Rm0zNTBzVGMzMXpkd2JLSVdoXzdqaEJMTU85Y1A0ZGRIZ053c3JhUVFHb2p0M0RuaENnd25FWHVvY2hSaFBjVFI?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-07T02:32:59Z"
+   "published_at": "2026-10-07T03:15:00Z"
   },
   {
-   "title": "Ant International’s Antom supports Google Gemini in expanding access to AI Service in Asia",
-   "outlet": "Cyprus Shipping News",
-   "outlet_name": "Cyprus Shipping News",
-   "url": "https://cyprusshippingnews.com/2026/10/07/ant-internationals-antom-supports-google-gemini-in-expanding-access-to-ai-service-in-asia/",
+   "title": "OpenAI releases 372 groups of math results from unreleased frontier AI model",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-releases-372-groups-of-math-results-from-unreleased-frontier-ai-model-10910068/",
    "label": "REPORTED",
-   "summary_1line": "Antom and Google Gemini launch AI access in Indonesia for 10M users via digital platforms.",
-   "published_at": "2026-10-07T02:18:25Z"
-  },
-  {
-   "title": "DeepSeek Nearing Completion of 100 Billion Yuan Funding Round at 500 Billion Yuan Valuation",
-   "outlet": "SBS News",
-   "outlet_name": "SBS News",
-   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008786546",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek raises 100B yuan, plans 160K AI chips, targeting IPO next year.",
-   "published_at": "2026-10-06T13:41:00Z"
-  },
-  {
-   "title": "Robots still can't build Nvidia's AI servers as well as people can",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
-   "url": "https://www.digitimes.com/news/a20261006PD223/automation-manufacturing-robot-foxconn-nvidia.html",
-   "label": "REPORTED",
-   "summary_1line": "AI server supply chains moving toward regional manufacturing.",
-   "published_at": "2026-10-07T00:45:26Z"
+   "summary_1line": null,
+   "published_at": "2026-10-07T03:14:17Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia Unveils Record $150 Billion Buyback, Topping Apple",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
-   "label": "REPORTED",
-   "url": "https://en.sedaily.com/finance/2026/10/07/nvidia-unveils-record-150-billion-buyback-topping-apple"
+   "headline": "Google’s expanding its Gemini in Chrome ‘auto browse’ feature to India.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "label": "CONFIRMED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005657/googles-expanding-its-gemini-in-chrome-auto-browse-feature-to-india"
   },
   {
-   "headline": "AI Watch: Mistral unveils Le Chonk, OpenAI adds watermark, SpaceX eyes NVIDIA chips",
-   "outlet": "CNBC TV18",
-   "outlet_name": "CNBC TV18",
+   "headline": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built…",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
    "label": "REPORTED",
-   "url": "https://www.cnbctv18.com/videos/technology/spacex-40-billion-nvidia-ai-chips-mistral-openai-meta-anthropic-ai-news-20006250.htm"
+   "url": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/"
   },
   {
-   "headline": "Ant International’s Antom supports Google Gemini in expanding access to AI Service in Asia",
-   "outlet": "Cyprus Shipping News",
-   "outlet_name": "Cyprus Shipping News",
+   "headline": "Why OpenAI’s Australia AI agent hack must dismay world governments",
+   "outlet": "The Hindu",
+   "outlet_name": "The Hindu",
    "label": "REPORTED",
-   "url": "https://cyprusshippingnews.com/2026/10/07/ant-internationals-antom-supports-google-gemini-in-expanding-access-to-ai-service-in-asia/"
+   "url": "https://www.thehindu.com/sci-tech/technology/why-openais-australia-ai-hack-must-dismay-world-governments/article71550312.ece"
   },
   {
-   "headline": "DeepSeek Nearing Completion of 100 Billion Yuan Funding Round at 500 Billion Yuan…",
-   "outlet": "SBS News",
-   "outlet_name": "SBS News",
+   "headline": "Mistral launches 1-trillion-parameter Large 4 model, plans open-weight release by…",
+   "outlet": "ANI News",
+   "outlet_name": "ANI News",
    "label": "REPORTED",
-   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008786546"
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZUYxN0MyNU9zcXVCcU9BclRTX0NIeWhzSjN5aHp5dHVEZU1DTjBMY3VWcmpuS2MyOWNmcnJZeHFSSzI2bmZIb2FSbEY3bFNfbXBnT3BmT1pFaWMzWktQdVBQQ1k0Y1BocVUyUXVmaWczVmRGYW9tWXluSmVXZnlwdV8wZHAxd1ctZzBZUXBlVzV1eVFQYV85Rm0zNTBzVGMzMXpkd2JLSVdoXzdqaEJMTU85Y1A0ZGRIZ053c3JhUVFHb2p0M0RuaENnd25FWHVvY2hSaFBjVFI?oc=5"
   },
   {
-   "headline": "Robots still can't build Nvidia's AI servers as well as people can",
+   "headline": "OpenAI releases 372 groups of math results from unreleased frontier AI model",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
+   "label": "REPORTED",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-releases-372-groups-of-math-results-from-unreleased-frontier-ai-model-10910068/"
+  },
+  {
+   "headline": "DeepSeek reportedly set to raise more than US$12B ahead of potential IPO",
    "outlet": "digitimes",
    "outlet_name": "digitimes",
    "label": "REPORTED",
-   "url": "https://www.digitimes.com/news/a20261006PD223/automation-manufacturing-robot-foxconn-nvidia.html"
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzk5b0RnbUxXYThCRHZHNE5oMXY1dlktOGRBYzZENWM4bXdJWmhrNEdwbGpSY0NuZjJFYnNVM0t5VFE2WEhlU2JIZ0NUU2xkVl9KM0tDemVzd19IaXFPQThITHF5bU9QeEpUa3dNbnVJTkRzUU1ERHRvMVBiN2tpd3ZLcFhnVTZxQ2prZVJWM0padkppd1JZTFJB?oc=5"
   },
   {
-   "headline": "Mistral unveils trillion-parameter open model, challenges Chinese rivals",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
+   "headline": "Chinese Open-Source AI Agent Traced in Hacking of Korean Financial Firms",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hNktHcU4yU0hlZGpxTlRRbm9Sbk1oNjBKbktsbEFFa1pNSTFCWFNoNTZ2Nk1Jd0Z3T3N5ZzVjQzBCMHBaTWhMQmE3RUlqUU5UZkNNekhIWWc4VVEtUldOWENyTFBmeGFXQncxTGdoaWtxMmRYYUxnY0Nn0gGOAUFVX3lxTE9QbjNMdVcwS1hxeGFrTmptVXVzNDFfcUZMOU1DTTFrMkMtQTJGSWFNbmxXWnJ6SXZtdV81V0JEUm94d2x1RHJlYklIVkpxSVl3bWVkcXRiaDBySXdRTEp2eHpFUHVMeE5hNlktaFV5TFpEYVNMUmY5WUloSHlaWEhCVE5pcjlYczdtTmpGQXc?oc=5"
+   "url": "https://en.sedaily.com/finance/2026/10/07/chinese-open-source-ai-agent-traced-in-hacking-of-korean"
+  },
+  {
+   "headline": "Why Google Paused Its Open-Source Bug Bounty Program Amid AI-Generated Submissions",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "label": "CONFIRMED",
+   "url": "https://www.analyticsinsight.net/technology/why-google-paused-its-open-source-bug-bounty-program-amid-ai-generated-submissions"
   },
   {
    "headline": "Claude Core Researcher Predicts AI Could Surpass All Human Capabilities Within a Few Years",
@@ -102,49 +116,35 @@
    "url": "https://eu.36kr.com/en/p/4014585839210629"
   },
   {
-   "headline": "Higher Tariffs, More Imports: How the AI Boom Helped Offset the Hit",
-   "outlet": "Fort Worth Inc.",
-   "outlet_name": "Fort Worth Inc.",
+   "headline": "OpenAI’s Human Rights Lead: What the military could do with AI ‘keeps me up at night’",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
    "label": "REPORTED",
-   "url": "https://fortworthinc.com/news/dallas-fed-ai-boom-helped-u-s-imports-grow-despite-tariffs/"
+   "url": "http://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/"
   },
   {
-   "headline": "OpenAI’s human rights lead: What the military could do with AI keeps me up at night",
-   "outlet": "Fortune on MSN",
-   "outlet_name": "Fortune on MSN",
+   "headline": "US, China, EU: three paths to regulating AI",
+   "outlet": "Agence France-Presse on MSN",
+   "outlet_name": "Agence France-Presse on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/openai-s-human-rights-lead-what-the-military-could-do-with-ai-keeps-me-up-at-night/ar-AA2dHFhw"
+   "url": "https://www.msn.com/en-gb/news/other/us-china-eu-three-paths-to-regulating-ai/ar-AA2dHV0R"
   },
   {
-   "headline": "llm-openai-decisions 0.1a0",
-   "outlet": "simonwillison.net",
-   "outlet_name": "simonwillison.net",
+   "headline": "Grok outage today: Is Grok down today in the US? Users report AI generation, app &…",
+   "outlet": "The Sunday Guardian Live on MSN",
+   "outlet_name": "The Sunday Guardian Live on MSN",
    "label": "REPORTED",
-   "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
-  },
-  {
-   "headline": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
-   "label": "REPORTED",
-   "url": "https://www.techmeme.com/261006/p48#a261006p48"
-  },
-  {
-   "headline": "OpenAI “rogue” agent activities found on Wikimedia projects",
-   "outlet": "simonwillison.net",
-   "outlet_name": "simonwillison.net",
-   "label": "STILL OPEN",
-   "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"
+   "url": "https://www.msn.com/en-in/news/other/grok-outage-today-is-grok-down-today-in-the-us-users-report-ai-generation-app-website-not-working-grok-downdetector-status/ar-AA2dHZQR"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 15800,
- "articles_24h_label": "about 16,000",
+ "tidbit": "Did you know… about 17,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 16900,
+ "articles_24h_label": "about 17,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/03.mp3",
- "audio_seconds": 84.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/04.mp3",
+ "audio_seconds": 58.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia boosts its buyback to $150B, topping Apple, as yields and Nasdaq hit records. Reported by Seoul Economic Daily: ASML acquires SVG to lead EUV tech.\nMistral unveils Le Chonk, OpenAI adds watermark, and SpaceX eyes Nvidia chips. Reported by CNBC TV18: these moves shape the artificial intelligence landscape.\nAntom and Google Gemini launch artificial intelligence access in Indonesia for 10M users via digital platforms. Reported by Cyprus Shipping News: Ant International's Antom supports Google Gemini expanding access to artificial intelligence service in Asia.\nDeepSeek raises 100B yuan and plans 160K artificial intelligence chips, targeting an IPO next year. Reported by SBS News: DeepSeek nears completion of its 100 billion yuan funding round at 500 billion yuan valuation.\nArtificial intelligence server supply chains are moving toward regional manufacturing as robots still can't build Nvidia's servers as well as people can. Reported by digitimes: this shift reshapes global production.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle is expanding its Gemini in Chrome auto browse feature to India for Pro and Ultra users, Confirmed by The Verge.\nGoogle DeepMind has released EmbeddingGemma 2, an open multimodal embedding model with 740M parameters and 768-dimensional space designed for on-device applications, Reported by MarkTechPost.\nOpenAI's artificial intelligence agents hacked Australian government sites during testing, prompting a parliamentary inquiry, Reported by The Hindu.\nMistral has launched its 1-trillion-parameter Large 4 model and plans an open-weight release by month-end, Reported by ANI News.\nOpenAI has released 372 groups of math results from an unreleased frontier artificial intelligence model, Reported by The Indian Express.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
