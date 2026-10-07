@@ -1,150 +1,150 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T16:20:02Z",
- "hour": "2026-10-07T16:00:00Z",
+ "generated_at": "2026-10-07T17:20:02Z",
+ "hour": "2026-10-07T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google experiments with an AI-powered gaming platform",
+   "title": "ChatGPT is getting college planning tools",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI launches College Planner for teens and study tools, amid criticism over homework assistance.",
+   "published_at": "2026-10-07T16:00:00Z"
+  },
+  {
+   "title": "Dfinitiv Launches SmartCXP AI™ to Build, Run, and Manage Loyalty Program Apps Across ChatGPT, Claude, and Emerging AI Assistants",
+   "outlet": "The Wise Marketer",
+   "outlet_name": "The Wise Marketer",
+   "url": "https://thewisemarketer.com/dfinitiv-launches-smartcxp-ai-to-build-run-and-manage-loyalty-program-apps-across-chatgpt-claude-and-emerging-ai-assistants/",
+   "label": "REPORTED",
+   "summary_1line": "Dfinitiv launches SmartCXP AI for loyalty programs in AI-assisted commerce.",
+   "published_at": "2026-10-07T15:37:48Z"
+  },
+  {
+   "title": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI's Decisions API offers fast yes/no or pick-one evaluations for images and text, with $0.10 per million input tokens.",
+   "published_at": "2026-10-07T15:36:39Z"
+  },
+  {
+   "title": "FCC considers allowing more political robocalls before midterms, including those created with AI",
+   "outlet": "WKMG",
+   "outlet_name": "WKMG",
+   "url": "https://www.clickorlando.com/news/politics/2026/10/07/fcc-considers-allowing-more-political-robocalls-before-midterms-including-those-created-with-ai/",
+   "label": "CONFIRMED",
+   "summary_1line": "FCC considers AI robocall waiver before midterm elections amid concerns over misinformation.",
+   "published_at": "2026-10-07T14:45:33Z"
+  },
+  {
+   "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+   "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
    "label": "CONFIRMED",
-   "summary_1line": "Google launches Playground, letting non-coders build games with text prompts.",
-   "published_at": "2026-10-07T14:36:23Z"
-  },
-  {
-   "title": "Microsoft & Nvidia CEOs Team Up for AI-Powered Surface Launch",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "url": "https://www.techbuzz.ai/articles/microsoft-nvidia-ceos-team-up-for-ai-powered-surface-launch",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft and Nvidia launch AI-powered Surface Laptop Ultra with local AI processing.",
-   "published_at": "2026-10-07T13:36:00Z"
-  },
-  {
-   "title": "OpenAI’s release of mathematical findings draws concerns from experts",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-07T15:40:51Z"
-  },
-  {
-   "title": "AIBound Launches AgentHarness: Security Policy Enforced Inside AI Agents",
-   "outlet": "AiThority",
-   "outlet_name": "AiThority",
-   "url": "https://aithority.com/security/aibound-launches-agentharness-security-policy-enforced-inside-ai-agents/",
-   "label": "REPORTED",
-   "summary_1line": "AIBound launches AgentHarness to enforce security rules inside AI agents, blocking malicious actions before they occur.",
-   "published_at": "2026-10-07T07:12:00Z"
-  },
-  {
-   "title": "Armadin’s $255.5M Series B Signals the Largest Agent Security Round Went to the Offensive Side",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "url": "https://forkast.news/armadins-255-5m-series-b-signals-the-largest-agent-security-round-went-to-the-offensive-side/",
-   "label": "REPORTED",
-   "summary_1line": "Armadin raised $255.5M, executed largest AI cyberattack with 26K agents, targeting 25K services.",
-   "published_at": "2026-10-07T14:13:12Z"
+   "summary_1line": "Healthleap raises $38M, deploys AI to detect undiagnosed illnesses in 50+ hospitals.",
+   "published_at": "2026-10-07T15:07:08Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google experiments with an AI-powered gaming platform",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "ChatGPT is getting college planning tools",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards"
   },
   {
-   "headline": "Microsoft & Nvidia CEOs Team Up for AI-Powered Surface Launch",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
+   "headline": "Dfinitiv Launches SmartCXP AI™ to Build, Run, and Manage Loyalty Program Apps Across…",
+   "outlet": "The Wise Marketer",
+   "outlet_name": "The Wise Marketer",
    "label": "REPORTED",
-   "url": "https://www.techbuzz.ai/articles/microsoft-nvidia-ceos-team-up-for-ai-powered-surface-launch"
+   "url": "https://thewisemarketer.com/dfinitiv-launches-smartcxp-ai-to-build-run-and-manage-loyalty-program-apps-across-chatgpt-claude-and-emerging-ai-assistants/"
   },
   {
-   "headline": "OpenAI’s release of mathematical findings draws concerns from experts",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "label": "REPORTED",
-   "url": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns"
-  },
-  {
-   "headline": "AIBound Launches AgentHarness: Security Policy Enforced Inside AI Agents",
-   "outlet": "AiThority",
-   "outlet_name": "AiThority",
-   "label": "REPORTED",
-   "url": "https://aithority.com/security/aibound-launches-agentharness-security-policy-enforced-inside-ai-agents/"
-  },
-  {
-   "headline": "Armadin’s $255.5M Series B Signals the Largest Agent Security Round Went to the Offensive…",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "label": "REPORTED",
-   "url": "https://forkast.news/armadins-255-5m-series-b-signals-the-largest-agent-security-round-went-to-the-offensive-side/"
-  },
-  {
-   "headline": "Senate Probes Rogue AI Agents, Eyes OpenAI Liability",
-   "outlet": "Legis1",
-   "outlet_name": "Legis1",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0SC1TSWE4aF85Ml9VUC1xWjFaWFBlaWdNckxkZkltNGJiY2FrZVZoaE1zVlBlamlJcjJ0M3dDU2Z6S254SEhEUl9jREhjdXIzaU5KbjFRc2VZUjdlVHRBOFhRTWVVc1BxcDJjWWV3Vk1YTEk?oc=5"
-  },
-  {
-   "headline": "ChatGPT for Teens Has a Safety Problem Parents Cannot Ignore, Reports Reveal",
-   "outlet": "Analytics Insight",
-   "outlet_name": "Analytics Insight",
-   "label": "CONFIRMED",
-   "url": "https://www.analyticsinsight.net/news/chatgpt-for-teens-has-a-safety-problem-parents-cannot-ignore-reports-reveal"
-  },
-  {
-   "headline": "Google bets Gemini can turn casual players into game developers with new Playground…",
+   "headline": "OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one",
    "outlet": "the-decoder.com",
    "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/"
+   "url": "https://the-decoder.com/openai-launches-decisions-api-that-reduces-complex-evaluations-to-yes-no-or-pick-one/"
   },
   {
-   "headline": "DOJ lawyers told to replace term 'AI' with 'super intelligence'",
-   "outlet": "ABA Journal",
-   "outlet_name": "ABA Journal",
+   "headline": "FCC considers allowing more political robocalls before midterms, including those created…",
+   "outlet": "WKMG",
+   "outlet_name": "WKMG",
+   "label": "CONFIRMED",
+   "url": "https://www.clickorlando.com/news/politics/2026/10/07/fcc-considers-allowing-more-political-robocalls-before-midterms-including-those-created-with-ai/"
+  },
+  {
+   "headline": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/"
+  },
+  {
+   "headline": "SoftBank Doubles Down on OpenAI With Massive $10 Billion Investment",
+   "outlet": "Cloud Wars",
+   "outlet_name": "Cloud Wars",
    "label": "REPORTED",
-   "url": "https://www.abajournal.com/news/article/doj-lawyers-told-to-use-the-words-super-intelligence-instead-of-ai"
+   "url": "https://cloudwars.com/cloud-wars-minute/softbank-doubles-down-on-openai-with-massive-10-billion-investment/"
   },
   {
-   "headline": "We're making it easier to identify AI-generated content globally.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "The Pentagon Hopes to Speed Up ‘Kill Chain’ AI Buys With 5-Minute Videos",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
    "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/"
+   "url": "https://www.wired.com/story/the-pentagon-hopes-to-speed-up-kill-chain-ai-buys-with-5-minute-videos/"
   },
   {
-   "headline": "ChatGPT for teens poses 'unacceptable risk' for children under 18, says new evaluation",
-   "outlet": "SheKnows on MSN",
-   "outlet_name": "SheKnows on MSN",
+   "headline": "Mistral unveils massive new AI model, says 'Le Chonk' can take on China's best open…",
+   "outlet": "International Business Times on MSN",
+   "outlet_name": "International Business Times on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/chatgpt-for-teens-poses-unacceptable-risk-for-children-under-18-says-new-evaluation/ar-AA2dL8ff"
+   "url": "https://www.msn.com/en-us/news/other/mistral-unveils-massive-new-ai-model-says-le-chonk-can-take-on-china-s-best-open-systems/ar-AA2dHmTq"
   },
   {
-   "headline": "Laws, pledges or an iron grip? How the EU, US and China are reining in AI",
-   "outlet": "Euronews on MSN",
-   "outlet_name": "Euronews on MSN",
+   "headline": "ChatGPT is not safe for kids, study finds: Why parents should worry",
+   "outlet": "Times Now on MSN",
+   "outlet_name": "Times Now on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-au/news/other/laws-pledges-or-an-iron-grip-how-the-eu-us-and-china-are-reining-in-ai/ar-AA2dKqVz"
+   "url": "https://www.msn.com/en-in/news/other/chatgpt-is-not-safe-for-kids-study-finds-why-parents-should-worry/ar-AA2dKLIv"
+  },
+  {
+   "headline": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents…",
+   "outlet": "microsoft.com",
+   "outlet_name": "microsoft.com",
+   "label": "CONFIRMED",
+   "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses/"
+  },
+  {
+   "headline": "SpaceX seeks $40 billion to buy Nvidia AI chips, Starlink wins new FCC approval",
+   "outlet": "Investor's Business Daily on MSN",
+   "outlet_name": "Investor's Business Daily on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/news/other/spacex-seeks-40-billion-to-buy-nvidia-ai-chips-starlink-wins-new-fcc-approval/ar-AA2dKk29"
+  },
+  {
+   "headline": "US non-profit urges OpenAI to keep teens off ChatGPT: Report",
+   "outlet": "The Economic Times on MSN",
+   "outlet_name": "The Economic Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/us-non-profit-urges-openai-to-keep-teens-off-chatgpt-report/ar-AA2dKCoh"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13700,
+ "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
+ "articles_24h_rounded": 13600,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/16.mp3",
- "audio_seconds": 68.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/17.mp3",
+ "audio_seconds": 50.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle launches Playground, a new gaming platform that lets non-coders build games with text prompts. Confirmed by TechCrunch.\nMicrosoft and Nvidia CEOs have teamed up to launch the AI-powered Surface Laptop Ultra, featuring local processing capabilities. Reported by The Tech Buzz.\nOpenAI's release of mathematical findings is drawing concerns from experts. Reported by The Guardian.\nAIBound has launched AgentHarness, a security tool that enforces security rules inside artificial intelligence agents, blocking malicious actions before they occur. Reported by AiThority.\nArmadin raised $255.5M in Series B funding and executed the largest artificial intelligence cyberattack using 26K agents targeting 25K services. Reported by Forkast News.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: ChatGPT is getting college planning tools.\nReported by The Wise Marketer: Dfinitiv Launches SmartCXP AI™ to Build, Run, and Manage Loyalty Program Apps Across ChatGPT, Claude, and Emerging AI Assistants.\nReported by The Decoder: OpenAI launches Decisions API that reduces complex evaluations to yes, no, or pick one.\nConfirmed, per WKMG: FCC considers allowing more political robocalls before midterms, including those created with AI.\nConfirmed, per TechCrunch: Healthleap raises $38M for its AI that flags hospital patients who may need a closer look.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
