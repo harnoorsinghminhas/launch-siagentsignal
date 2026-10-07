@@ -1,105 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T22:20:03Z",
- "hour": "2026-10-07T22:00:00Z",
+ "generated_at": "2026-10-07T23:20:02Z",
+ "hour": "2026-10-07T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-   "label": "CONFIRMED",
-   "summary_1line": "Nous Research raises $90M for enterprise AI agents, with $36M revenue and 24M+ clones.",
-   "published_at": "2026-10-07T20:48:45Z"
-  },
-  {
-   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-   "label": "CONFIRMED",
-   "summary_1line": "Microsoft and Dell launch AI-ready PCs with RTX Spark chips for developers and content creation.",
-   "published_at": "2026-10-07T13:22:00Z"
-  },
-  {
-   "title": "Microsoft (MSFT) announces $2599 AI laptop equipped with NVIDIA (NVDA) powerful chip to capture edge computing business opportunities",
-   "outlet": "CMoney投資網誌",
-   "outlet_name": "CMoney投資網誌",
-   "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-717707dd-c290-11f1-b039-5f727f53a7ae",
+   "title": "Tech Breakfast: SpaceX rumored to raise $40 billion to buy NVIDIA chips, AMD to increase investment in Taiwan",
+   "outlet": "TechOrange 科技報橘",
+   "outlet_name": "TechOrange 科技報橘",
+   "url": "https://techorange.com/2026/10/08/spacex-nvidia-ai-chips-amd-taiwan/",
    "label": "REPORTED",
-   "summary_1line": "Microsoft's $2599 Surface Laptop Ultra with NVIDIA AI chips hits market in October.",
-   "published_at": "2026-10-07T20:48:25Z"
+   "summary_1line": "SpaceX seeks $400B for AI chips; AMD, Google, Marvell expand investments amid rising demand.",
+   "published_at": "2026-10-07T21:30:00Z"
   },
   {
-   "title": "Microsoft Says New Flagship Laptop Features NVIDIA Chips, Outperforming Apple MacBook on Some AI Tasks",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "url": "https://finance.sina.com.cn/world/2026-10-08/doc-iniumumr7867136.shtml",
-   "label": "CONFIRMED",
-   "summary_1line": "Surface Laptop Ultra beats MacBook Pro in AI speed, priced at $2,599.",
-   "published_at": "2026-10-07T19:26:00Z"
+   "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+   "outlet": "Decrypt News",
+   "outlet_name": "Decrypt News",
+   "url": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic launches cheaper, faster Haiku 5.5 with 72.4% OSWorld score and monthly API credits.",
+   "published_at": "2026-10-07T20:46:03Z"
   },
   {
-   "title": "Mistral Unveils Massive New AI Model, Says 'Le Chonk' Can Take On China's Best Open Systems",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/articles/mistral-unveils-massive-ai-model-184940587.html",
+   "title": "Utah Governor Signs Executive Order for Pro-Human AI",
+   "outlet": "GovTech",
+   "outlet_name": "GovTech",
+   "url": "https://www.govtech.com/artificial-intelligence/utah-governor-signs-executive-order-for-pro-human-ai",
    "label": "CONFIRMED",
-   "summary_1line": "Mistral launches ML4, a 1.05-trillion-parameter open AI model, claiming it surpasses China's best in key domains.",
-   "published_at": "2026-10-06T18:49:40Z"
+   "summary_1line": "Utah's new AI order mandates human-guided, accountable AI use across state agencies.",
+   "published_at": "2026-10-07T20:59:24Z"
+  },
+  {
+   "title": "CrowdStrike, AWS And Nvidia Launch 4th Cybersecurity Accelerator As Agentic AI Security Push Grows",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://es.tradingview.com/news/stocktwits:504bc87d3094b:0-crowdstrike-aws-and-nvidia-launch-4th-cybersecurity-accelerator-as-agentic-ai-security-push-grows/",
+   "label": "REPORTED",
+   "summary_1line": "CrowdStrike, AWS, and Nvidia launch cybersecurity accelerator with global applications and $1B+ in alumni funding.",
+   "published_at": "2026-10-06T14:15:56Z"
+  },
+  {
+   "title": "OpenAI Rolls Out GPT-6 and 'Intelligent UI' in ChatGPT",
+   "outlet": "iClarified",
+   "outlet_name": "iClarified",
+   "url": "https://www.iclarified.com/102657/openai-rolls-out-gpt-6-and-intelligent-ui-in-chatgpt",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI rolls out GPT-6 with interactive UI and faster web search in ChatGPT.",
+   "published_at": "2026-10-07T13:32:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
-  },
-  {
-   "headline": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
-  },
-  {
-   "headline": "Microsoft (MSFT) announces $2599 AI laptop equipped with NVIDIA (NVDA) powerful chip to…",
-   "outlet": "CMoney投資網誌",
-   "outlet_name": "CMoney投資網誌",
+   "headline": "Tech Breakfast: SpaceX rumored to raise $40 billion to buy NVIDIA chips, AMD to increase…",
+   "outlet": "TechOrange 科技報橘",
+   "outlet_name": "TechOrange 科技報橘",
    "label": "REPORTED",
-   "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-717707dd-c290-11f1-b039-5f727f53a7ae"
-  },
-  {
-   "headline": "Microsoft Says New Flagship Laptop Features NVIDIA Chips, Outperforming Apple MacBook on…",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "label": "CONFIRMED",
-   "url": "https://finance.sina.com.cn/world/2026-10-08/doc-iniumumr7867136.shtml"
-  },
-  {
-   "headline": "Mistral Unveils Massive New AI Model, Says 'Le Chonk' Can Take On China's Best Open…",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/ai/articles/mistral-unveils-massive-ai-model-184940587.html"
+   "url": "https://techorange.com/2026/10/08/spacex-nvidia-ai-chips-amd-taiwan/"
   },
   {
    "headline": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "outlet": "Decrypt News",
+   "outlet_name": "Decrypt News",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-launches-haiku-5-5-204603013.html"
+   "url": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model"
   },
   {
-   "headline": "OpenAI Rolls Out GPT-6 and 'Intelligent UI' in ChatGPT",
-   "outlet": "iClarified",
-   "outlet_name": "iClarified",
-   "label": "REPORTED",
-   "url": "https://www.iclarified.com/102657/openai-rolls-out-gpt-6-and-intelligent-ui-in-chatgpt"
+   "headline": "Utah Governor Signs Executive Order for Pro-Human AI",
+   "outlet": "GovTech",
+   "outlet_name": "GovTech",
+   "label": "CONFIRMED",
+   "url": "https://www.govtech.com/artificial-intelligence/utah-governor-signs-executive-order-for-pro-human-ai"
   },
   {
    "headline": "CrowdStrike, AWS And Nvidia Launch 4th Cybersecurity Accelerator As Agentic AI Security…",
@@ -109,6 +81,27 @@
    "url": "https://es.tradingview.com/news/stocktwits:504bc87d3094b:0-crowdstrike-aws-and-nvidia-launch-4th-cybersecurity-accelerator-as-agentic-ai-security-push-grows/"
   },
   {
+   "headline": "OpenAI Rolls Out GPT-6 and 'Intelligent UI' in ChatGPT",
+   "outlet": "iClarified",
+   "outlet_name": "iClarified",
+   "label": "REPORTED",
+   "url": "https://www.iclarified.com/102657/openai-rolls-out-gpt-6-and-intelligent-ui-in-chatgpt"
+  },
+  {
+   "headline": "OpenAI and DeepSeek Valuations Signal Growing AI Investment Boom",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "label": "STILL OPEN",
+   "url": "https://www.tekedia.com/openai-and-deepseek-valuations-signal-growing-ai-investment-boom/"
+  },
+  {
+   "headline": "JPMorgan CEO: Anthropic Mythos Hacked Real Companies and Drove Cyber Risk Up Tenfold",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "label": "CONFIRMED",
+   "url": "https://www.techtimes.com/articles/328745/20261007/jpmorgan-ceo-anthropic-mythos-hacked-real-companies-drove-cyber-risk-tenfold.htm"
+  },
+  {
    "headline": "Introducing Claude Haiku 5.5",
    "outlet": "simonwillison.net",
    "outlet_name": "simonwillison.net",
@@ -116,11 +109,11 @@
    "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
   },
   {
-   "headline": "Surface Laptop Ultra laptop equipped with NVIDIA RTX Spark released, priced from 513,480…",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
-   "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002110/"
+   "headline": "Mistral Large 4 Enters Preview With 1M-Token Context and Higher API Prices",
+   "outlet": "eweek.com",
+   "outlet_name": "eweek.com",
+   "label": "CONFIRMED",
+   "url": "https://www.eweek.com/news/mistral-large-4-public-preview-enterprise-ai/"
   },
   {
    "headline": "Open Weights vs. Managed API: Which Qwen Deployment Fits a Regulated Enterprise?",
@@ -130,21 +123,28 @@
    "url": "https://www.alibabacloud.com/blog/open-weights-vs--managed-api-which-qwen-deployment-fits-a-regulated-enterprise_603611"
   },
   {
-   "headline": "Claude Haiku 5.5: Intelligence, Performance and Price Analysis",
-   "outlet": "artificialanalysis.ai",
-   "outlet_name": "artificialanalysis.ai",
+   "headline": "Lina Khan says AI companies are not exempt from regulations as their products repeatedly…",
+   "outlet": "The Cool Down on MSN",
+   "outlet_name": "The Cool Down on MSN",
    "label": "CONFIRMED",
-   "url": "https://artificialanalysis.ai/models/claude-haiku-5-5"
+   "url": "https://www.msn.com/en-us/news/other/lina-khan-says-ai-companies-are-not-exempt-from-regulations-as-their-products-repeatedly-cross-legal-lines/ar-AA2dMDC8"
+  },
+  {
+   "headline": "Microsoft plays the Windows card in the AI game, with help from Nvidia",
+   "outlet": "GeekWire on MSN",
+   "outlet_name": "GeekWire on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/microsoft-plays-the-windows-card-in-the-ai-game-with-help-from-nvidia/ar-AA2dM8OS"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 13500,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/22.mp3",
- "audio_seconds": 59.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/23.mp3",
+ "audio_seconds": 65.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Nous Research confirms it hit $1.5B valuation, launches AI agents for business users.\nConfirmed, per TechCrunch: Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11.\nReported by CMoney投資網誌: Microsoft (MSFT) announces $2599 AI laptop equipped with NVIDIA (NVDA) powerful chip to capture edge computing business opportunities.\nConfirmed, per 新浪财经: Microsoft Says New Flagship Laptop Features NVIDIA Chips, Outperforming Apple MacBook on Some AI Tasks.\nConfirmed, per Yahoo Tech: Mistral Unveils Massive New AI Model, Says 'Le Chonk' Can Take On China's Best Open Systems.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSpaceX is seeking $40 billion to purchase chips, with AMD, Google, and Marvell expanding their investments amid rising demand. Reported by TechOrange 科技報橘.\nAnthropic launches Haiku 5.5, its cheapest and fastest Claude model yet, achieving a 72.4% OSWorld score and offering monthly API credits. Reported by Decrypt News.\nUtah's governor signed an executive order mandating human-guided and accountable artificial intelligence use across state agencies. Confirmed by GovTech.\nCrowdStrike, AWS, and Nvidia launched a cybersecurity accelerator with global applications and $1 billion in alumni funding. Reported by TradingView.\nOpenAI rolled out GPT-6 with an interactive UI and faster web search capabilities in ChatGPT. Reported by iClarified.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
