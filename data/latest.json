@@ -1,91 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T14:20:02Z",
- "hour": "2026-10-07T14:00:00Z",
+ "generated_at": "2026-10-07T15:20:02Z",
+ "hour": "2026-10-07T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "State AGs Launch Investigations Into OpenAI AI Safety",
-   "outlet": "State Affairs Pro",
-   "outlet_name": "State Affairs Pro",
-   "url": "https://pro.stateaffairs.com/tn/technology/ags-take-the-lead-on-ai-enforcement",
+   "title": "Microsoft and Nvidia launch Surface Laptop Ultra AI PC",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
+   "url": "https://qz.com/microsoft-nvidia-surface-laptop-ultra-ai-windows-100726",
    "label": "REPORTED",
-   "summary_1line": "Torrez urges Congress to act on online kid safety and Big Tech accountability.",
-   "published_at": "2026-10-07T12:02:41Z"
+   "summary_1line": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark chip for local AI processing.",
+   "published_at": "2026-10-07T13:52:32Z"
   },
   {
-   "title": "Mistral Launches Large 4 With 1 Trillion Parameters and 49 Billion Active Parameters for Advanced AI Workloads",
-   "outlet": "بوابة التكنولوجيا المالية",
-   "outlet_name": "بوابة التكنولوجيا المالية",
-   "url": "https://fintechgate.net/253876",
+   "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
    "label": "REPORTED",
-   "summary_1line": "Mistral launches 1-trillion-parameter ML4 with top-tier cybersecurity and coding performance.",
-   "published_at": "2026-10-07T11:41:49Z"
+   "summary_1line": null,
+   "published_at": "2026-10-07T14:30:00Z"
   },
   {
-   "title": "Microsoft set to unveil AI laptop powered by Nvidia chips",
+   "title": "McDonald’s AI pricing tool violates U.S. antitrust laws, suit claims",
    "outlet": "The Globe and Mail",
    "outlet_name": "The Globe and Mail",
-   "url": "https://www.theglobeandmail.com/business/article-microsoft-surface-laptop-ultra-nvidia-chips/",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft unveils AI-powered laptop with Nvidia chips to run AI agents locally on Windows PCs.",
-   "published_at": "2026-10-07T11:25:56Z"
-  },
-  {
-   "title": "Mistral unveils ‘Le Chonk’ to compete with Chinese open-weight AI models",
-   "outlet": "The Hindu",
-   "outlet_name": "The Hindu",
-   "url": "https://www.thehindu.com/sci-tech/technology/mistral-unveils-le-chonk-to-compete-with-chinese-open-weight-ai-models/article71554171.ece",
+   "url": "https://www.theglobeandmail.com/business/article-mcdonalds-lawsuit-ai-pricing-tool-us-antitrust-laws/",
    "label": "CONFIRMED",
-   "summary_1line": "Mistral launches Le Chonk, a 1-trillion-parameter AI model, claiming superiority over Chinese and U.S. rivals.",
-   "published_at": "2026-10-07T00:21:00Z"
+   "summary_1line": "McDonald’s AI pricing tool faces antitrust lawsuit over data sharing and price-fixing claims.",
+   "published_at": "2026-10-07T13:24:36Z"
   },
   {
-   "title": "Hadrian Raises $40M to Expand AI-Powered Cybersecurity Platform",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
-   "url": "https://www.citybiz.co/article/915194/hadrian-raises-40m-to-expand-ai-powered-cybersecurity-platform/",
-   "label": "REPORTED",
-   "summary_1line": "Hadrian raises $40M to expand in U.S. and Europe, offering AI-powered security tools.",
-   "published_at": "2026-10-07T10:11:37Z"
+   "title": "Google rolls out improved SynthID AI content detector, now available globally",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+   "label": "CONFIRMED",
+   "summary_1line": "Google's public SynthID tool now detects AI watermarks from all partners.",
+   "published_at": "2026-10-07T14:00:08Z"
+  },
+  {
+   "title": "ClicData Launches AI Agent That Lets Midmarket Teams Build Dashboards by Chat",
+   "outlet": "Markets Insider",
+   "outlet_name": "Markets Insider",
+   "url": "https://markets.businessinsider.com/news/stocks/clicdata-launches-ai-agent-that-lets-midmarket-teams-build-dashboards-by-chat-1036604754",
+   "label": "CONFIRMED",
+   "summary_1line": "ClicData launches AI Dashboard Builder for midmarket businesses, cutting manual work by hours and recovering 24 days of productivity annually.",
+   "published_at": "2026-10-07T02:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "State AGs Launch Investigations Into OpenAI AI Safety",
-   "outlet": "State Affairs Pro",
-   "outlet_name": "State Affairs Pro",
+   "headline": "Microsoft and Nvidia launch Surface Laptop Ultra AI PC",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
    "label": "REPORTED",
-   "url": "https://pro.stateaffairs.com/tn/technology/ags-take-the-lead-on-ai-enforcement"
+   "url": "https://qz.com/microsoft-nvidia-surface-laptop-ultra-ai-windows-100726"
   },
   {
-   "headline": "Mistral Launches Large 4 With 1 Trillion Parameters and 49 Billion Active Parameters for…",
-   "outlet": "بوابة التكنولوجيا المالية",
-   "outlet_name": "بوابة التكنولوجيا المالية",
+   "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch…",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "REPORTED",
-   "url": "https://fintechgate.net/253876"
+   "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/"
   },
   {
-   "headline": "Microsoft set to unveil AI laptop powered by Nvidia chips",
+   "headline": "McDonald’s AI pricing tool violates U.S. antitrust laws, suit claims",
    "outlet": "The Globe and Mail",
    "outlet_name": "The Globe and Mail",
-   "label": "REPORTED",
-   "url": "https://www.theglobeandmail.com/business/article-microsoft-surface-laptop-ultra-nvidia-chips/"
-  },
-  {
-   "headline": "Mistral unveils ‘Le Chonk’ to compete with Chinese open-weight AI models",
-   "outlet": "The Hindu",
-   "outlet_name": "The Hindu",
    "label": "CONFIRMED",
-   "url": "https://www.thehindu.com/sci-tech/technology/mistral-unveils-le-chonk-to-compete-with-chinese-open-weight-ai-models/article71554171.ece"
+   "url": "https://www.theglobeandmail.com/business/article-mcdonalds-lawsuit-ai-pricing-tool-us-antitrust-laws/"
   },
   {
-   "headline": "Hadrian Raises $40M to Expand AI-Powered Cybersecurity Platform",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
+   "headline": "Google rolls out improved SynthID AI content detector, now available globally",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
+   "label": "CONFIRMED",
+   "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/"
+  },
+  {
+   "headline": "ClicData Launches AI Agent That Lets Midmarket Teams Build Dashboards by Chat",
+   "outlet": "Markets Insider",
+   "outlet_name": "Markets Insider",
+   "label": "CONFIRMED",
+   "url": "https://markets.businessinsider.com/news/stocks/clicdata-launches-ai-agent-that-lets-midmarket-teams-build-dashboards-by-chat-1036604754"
+  },
+  {
+   "headline": "Senate Probes Rogue AI Agents, Eyes OpenAI Liability",
+   "outlet": "Legis1",
+   "outlet_name": "Legis1",
    "label": "REPORTED",
-   "url": "https://www.citybiz.co/article/915194/hadrian-raises-40m-to-expand-ai-powered-cybersecurity-platform/"
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0SC1TSWE4aF85Ml9VUC1xWjFaWFBlaWdNckxkZkltNGJiY2FrZVZoaE1zVlBlamlJcjJ0M3dDU2Z6S254SEhEUl9jREhjdXIzaU5KbjFRc2VZUjdlVHRBOFhRTWVVc1BxcDJjWWV3Vk1YTEk?oc=5"
+  },
+  {
+   "headline": "I, System Comes to the Frankfurt Book Fair as Debate Over AI Agency and Accountability…",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "CONFIRMED",
+   "url": "https://www.prnewswire.com/news-releases/i-system-comes-to-the-frankfurt-book-fair-as-debate-over-ai-agency-and-accountability-intensifies-302900582.html"
+  },
+  {
+   "headline": "Silicon Labs Launches Simplicity AI SDK Beta, Hardware Intent, Open-Source Community, and…",
+   "outlet": "IndexBox",
+   "outlet_name": "IndexBox",
+   "label": "CONFIRMED",
+   "url": "https://www.indexbox.io/blog/silicon-labs-unveils-simplicity-ai-sdk-hardware-intent-open-source-community-and-databricks-edge-ai-partnership-at-works-with-2026/"
   },
   {
    "headline": "ChatGPT not safe for kids, study finds 5 issues parents should know",
@@ -95,6 +116,13 @@
    "url": "https://www.msn.com/en-in/news/other/chatgpt-not-safe-for-kids-study-finds-5-issues-parents-should-know/ar-AA2dKfLy"
   },
   {
+   "headline": "Anthropic widens access to AI cyber capabilities for vetted security teams",
+   "outlet": "www.csoonline.com",
+   "outlet_name": "www.csoonline.com",
+   "label": "CONFIRMED",
+   "url": "https://www.csoonline.com/article/4231812/anthropic-widens-access-to-ai-cyber-capabilities-for-vetted-security-teams.html"
+  },
+  {
    "headline": "Knuth Christmas Lecture Announcement: Claude and the Art of Computer Programming",
    "outlet": "cs.stanford.edu",
    "outlet_name": "cs.stanford.edu",
@@ -102,49 +130,21 @@
    "url": "https://cs.stanford.edu/~knuth/musings.html"
   },
   {
-   "headline": "Aleph Alpha and Mistral releases raise hopes for Europe’s sovereign AI ambitions",
-   "outlet": "sifted.eu",
-   "outlet_name": "sifted.eu",
-   "label": "REPORTED",
-   "url": "https://sifted.eu/articles/aleph-alpha-kolibri-mistral-chonk-frontier-ai/"
-  },
-  {
-   "headline": "Anthropic widens access to AI cyber capabilities for vetted security teams",
-   "outlet": "www.csoonline.com",
-   "outlet_name": "www.csoonline.com",
-   "label": "REPORTED",
-   "url": "https://www.csoonline.com/article/4231812/anthropic-widens-access-to-ai-cyber-capabilities-for-vetted-security-teams.html"
-  },
-  {
-   "headline": "Microsoft and OpenAI just got hit with another copyright lawsuit",
-   "outlet": "Windows Report on MSN",
-   "outlet_name": "Windows Report on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-xl/news/other/microsoft-and-openai-just-got-hit-with-another-copyright-lawsuit/ar-AA2dK6ig"
-  },
-  {
-   "headline": "Explainable AI Model Predicts India’s Air Quality With Near-Perfect Accuracy",
-   "outlet": "Bioengineer.org",
-   "outlet_name": "Bioengineer.org",
+   "headline": "We're making it easier to identify AI-generated content globally.",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
    "label": "CONFIRMED",
-   "url": "https://bioengineer.org/explainable-ai-model-predicts-indias-air-quality-with-near-perfect-accuracy/"
-  },
-  {
-   "headline": "Finland orders pause on Google AI data centres over environmental concerns",
-   "outlet": "Euronews on MSN",
-   "outlet_name": "Euronews on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/finland-orders-pause-on-google-ai-data-centres-over-environmental-concerns/ar-AA2dK9gA"
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 13900,
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 13800,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/14.mp3",
- "audio_seconds": 44.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/15.mp3",
+ "audio_seconds": 52.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by State Affairs Pro: State AGs Launch Investigations Into OpenAI AI Safety.\nReported by بوابة التكنولوجيا المالية: Mistral Launches Large 4 With 1 Trillion Parameters and 49 Billion Active Parameters for Advanced AI Workloads.\nReported by The Globe and Mail: Microsoft set to unveil AI laptop powered by Nvidia chips.\nConfirmed, per The Hindu: Mistral unveils ‘Le Chonk’ to compete with Chinese open-weight AI models.\nReported by citybiz: Hadrian Raises $40M to Expand AI-Powered Cybersecurity Platform.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Quartz: Microsoft and Nvidia launch Surface Laptop Ultra AI PC.\nReported by TechCrunch: OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots.\nConfirmed, per The Globe and Mail: McDonald’s AI pricing tool violates U.S. antitrust laws, suit claims.\nConfirmed, per Ars Technica: Google rolls out improved SynthID AI content detector, now available globally.\nConfirmed, per Markets Insider: ClicData Launches AI Agent That Lets Midmarket Teams Build Dashboards by Chat.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
