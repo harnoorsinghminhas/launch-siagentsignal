@@ -1,150 +1,150 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-06T23:20:04Z",
- "hour": "2026-10-06T23:00:00Z",
+ "generated_at": "2026-10-07T00:20:02Z",
+ "hour": "2026-10-07T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Mistral unveils 1-trillion-parameter open-weight model Mistral Large 4",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/111382/mistral-unveils-mistral-large-4-1-trillion-parameter-open-weight-model",
+   "title": "NEAR Intents Attacker Returns $3.8M as Nvidia AI Chip Smuggling Case Raises Security Concerns",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "url": "https://www.tekedia.com/near-intents-attacker-returns-3-8m-as-nvidia-ai-chip-smuggling-case-raises-security-concerns/",
    "label": "REPORTED",
-   "summary_1line": "Mistral launches 1-trillion-parameter open AI model, claiming top performance in key domains.",
-   "published_at": "2026-10-06T21:14:33Z"
+   "summary_1line": "Funds returned in crypto exploit; $300M alleged Nvidia chip smuggling under investigation.",
+   "published_at": "2026-10-06T18:26:01Z"
   },
   {
-   "title": "Already existing laws governing AI simply being ignored, former regulators, analysts say",
-   "outlet": "KRNV",
-   "outlet_name": "KRNV",
-   "url": "https://mynews4.com/news/nation-world/already-existing-laws-governing-ai-simply-being-ignored-former-regulators-analysts-say-artificial-intelligence-openai-trump-tech-anthropic-ruben-gallego-bill-gates-lina-khan-ftc",
-   "label": "CONFIRMED",
-   "summary_1line": "Existing AI laws are ignored, prompting calls for stronger oversight amid rogue AI incidents.",
-   "published_at": "2026-10-06T07:21:00Z"
-  },
-  {
-   "title": "As OpenAI Faces Breach Probes, David Morris Calls AI Alignment a ‘Wild Misconception’",
-   "outlet": "Yahoo",
-   "outlet_name": "Yahoo",
-   "url": "https://www.yahoo.com/news/us/articles/openai-faces-breach-probes-david-212837045.html",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI's AI agents breached Hugging Face; regulators probe AI security flaws.",
-   "published_at": "2026-10-06T14:28:00Z"
-  },
-  {
-   "title": "OpenAI Automatically Watermarks ChatGPT Text In The European Union Under EU AI Act: how 20 outlets framed it",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
-   "url": "https://newscord.org/article/openai-adds-invisible-watermark-to-chatgpt-text-and-code-in-the-european-union--Story_20261005_OpenAIwillstartwatere6846dba",
+   "title": "France's Mistral unveils latest model in sovereign AI push",
+   "outlet": "Courthouse News",
+   "outlet_name": "Courthouse News",
+   "url": "https://courthousenews.com/frances-mistral-unveils-latest-model-in-sovereign-ai-push/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI rolls out invisible AI watermark in EU for ChatGPT and Codex, with 25% word substitution reducing detection to 17%.",
-   "published_at": "2026-10-06T03:11:58Z"
+   "summary_1line": "Mistral launches Chonk, an open-weight AI model trained on 160 languages using 4,000 Nvidia chips.",
+   "published_at": "2026-10-06T17:13:48Z"
   },
   {
-   "title": "ARTEX Implicated in Bank of Korea Hacking: An Open-Source AI Security Tool Developed in China",
-   "outlet": "SBS News",
-   "outlet_name": "SBS News",
-   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008785977",
-   "label": "CONFIRMED",
-   "summary_1line": "ARTEX AI tool exploited in South Korean bank attacks via 20 IP addresses across 10 countries.",
-   "published_at": "2026-10-06T09:06:00Z"
+   "title": "How Jump Trading is scaling quant research with ChatGPT",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93YUJfZWFpb2VQNEEzdENGbGR4aEE0UkZYWjE0XzhrM0lsLU82WWtXRG9TQ2VITXJuMnp4MVpLbWNOR20zV0VwNV9CcnJhZGs?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-06T23:19:19Z"
+  },
+  {
+   "title": "NVIDIA announces the new GeForce RTX 4070",
+   "outlet": "Kotaworld",
+   "outlet_name": "Kotaworld",
+   "url": "https://www.kotaworld.it/en/en-tech/5542-nvidia-announces-the-new-geforce-rtx-4070",
+   "label": "REPORTED",
+   "summary_1line": "NVIDIA launches RTX 4070 with DLSS 3 at €669 and new gaming tools.",
+   "published_at": "2026-10-06T16:04:55Z"
+  },
+  {
+   "title": "Nvidia taps six Wall Street giants in bid to unlock $500 billion for AI infrastructure",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/nvidia-500-billion-compute-financing-platforms/",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia partners with six finance giants to raise $500B for AI hardware via GPU-backed financing.",
+   "published_at": "2026-10-06T13:59:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Mistral unveils 1-trillion-parameter open-weight model Mistral Large 4",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
+   "headline": "NEAR Intents Attacker Returns $3.8M as Nvidia AI Chip Smuggling Case Raises Security…",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
    "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/111382/mistral-unveils-mistral-large-4-1-trillion-parameter-open-weight-model"
+   "url": "https://www.tekedia.com/near-intents-attacker-returns-3-8m-as-nvidia-ai-chip-smuggling-case-raises-security-concerns/"
   },
   {
-   "headline": "Already existing laws governing AI simply being ignored, former regulators, analysts say",
-   "outlet": "KRNV",
-   "outlet_name": "KRNV",
-   "label": "CONFIRMED",
-   "url": "https://mynews4.com/news/nation-world/already-existing-laws-governing-ai-simply-being-ignored-former-regulators-analysts-say-artificial-intelligence-openai-trump-tech-anthropic-ruben-gallego-bill-gates-lina-khan-ftc"
-  },
-  {
-   "headline": "As OpenAI Faces Breach Probes, David Morris Calls AI Alignment a ‘Wild Misconception’",
-   "outlet": "Yahoo",
-   "outlet_name": "Yahoo",
-   "label": "STILL OPEN",
-   "url": "https://www.yahoo.com/news/us/articles/openai-faces-breach-probes-david-212837045.html"
-  },
-  {
-   "headline": "OpenAI Automatically Watermarks ChatGPT Text In The European Union Under EU AI Act: how…",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
+   "headline": "France's Mistral unveils latest model in sovereign AI push",
+   "outlet": "Courthouse News",
+   "outlet_name": "Courthouse News",
    "label": "REPORTED",
-   "url": "https://newscord.org/article/openai-adds-invisible-watermark-to-chatgpt-text-and-code-in-the-european-union--Story_20261005_OpenAIwillstartwatere6846dba"
+   "url": "https://courthousenews.com/frances-mistral-unveils-latest-model-in-sovereign-ai-push/"
   },
   {
-   "headline": "ARTEX Implicated in Bank of Korea Hacking: An Open-Source AI Security Tool Developed in…",
-   "outlet": "SBS News",
-   "outlet_name": "SBS News",
-   "label": "CONFIRMED",
-   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008785977"
-  },
-  {
-   "headline": "Government accepts all 44 recommendations from regulation of AI in healthcare report",
-   "outlet": "The Pharmaceutical Journal",
-   "outlet_name": "The Pharmaceutical Journal",
+   "headline": "How Jump Trading is scaling quant research with ChatGPT",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
    "label": "REPORTED",
-   "url": "https://pharmaceutical-journal.com/article/news/government-accepts-all-44-recommendations-from-regulation-of-ai-in-healthcare-report"
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93YUJfZWFpb2VQNEEzdENGbGR4aEE0UkZYWjE0XzhrM0lsLU82WWtXRG9TQ2VITXJuMnp4MVpLbWNOR20zV0VwNV9CcnJhZGs?oc=5"
   },
   {
-   "headline": "Tempus AI, Personalis saw US merger antitrust waiting period expire",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
+   "headline": "NVIDIA announces the new GeForce RTX 4070",
+   "outlet": "Kotaworld",
+   "outlet_name": "Kotaworld",
    "label": "REPORTED",
-   "url": "https://www.mlex.com/mlex/articles/2534837/tempus-ai-personalis-saw-us-merger-antitrust-waiting-period-expire"
+   "url": "https://www.kotaworld.it/en/en-tech/5542-nvidia-announces-the-new-geforce-rtx-4070"
   },
   {
-   "headline": "Benchmark Firm Gives Mistral Large 4 Preview a 38 Intelligence Score",
+   "headline": "Nvidia taps six Wall Street giants in bid to unlock $500 billion for AI infrastructure",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/nvidia-500-billion-compute-financing-platforms/"
+  },
+  {
+   "headline": "Anthropic Broadens Access to Top AI Models for Vetted Cyber Defenders",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.biggo.com/news/78bf7282-c57b-45a3-b7f9-c4377fe893a5"
+  },
+  {
+   "headline": "California Joins New York in Regulating AI ‘Synthetic Performers’ in Advertising",
+   "outlet": "JDSupra",
+   "outlet_name": "JDSupra",
+   "label": "REPORTED",
+   "url": "https://www.jdsupra.com/legalnews/california-joins-new-york-in-regulating-7563726/"
+  },
+  {
+   "headline": "Under oath, Google confirms three AI agent test escapes as OpenAI, Anthropic and Meta…",
+   "outlet": "R&D World",
+   "outlet_name": "R&D World",
+   "label": "REPORTED",
+   "url": "https://www.rdworldonline.com/under-oath-google-confirms-three-ai-agent-test-escapes-as-openai-anthropic-and-meta-face-nyc-lawmakers/"
+  },
+  {
+   "headline": "OpenAI unleashes hundreds more math results upon a field already in shock",
+   "outlet": "Scientific American",
+   "outlet_name": "Scientific American",
+   "label": "REPORTED",
+   "url": "https://www.scientificamerican.com/article/openai-unleashes-hundreds-more-math-results-upon-a-field-already-in-shock/"
+  },
+  {
+   "headline": "OpenAI Releases 722 Math Manuscripts From an Unreleased AI Model",
    "outlet": "Unite.AI",
    "outlet_name": "Unite.AI",
    "label": "REPORTED",
-   "url": "https://www.unite.ai/benchmark-firm-gives-mistral-large-4-preview-a-38-intelligence-score/"
+   "url": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/"
   },
   {
    "headline": "DeepSeek set to net over $12 billion in new fundraising",
    "outlet": "The Manila Times on MSN",
    "outlet_name": "The Manila Times on MSN",
    "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-ph/news/money/deepseek-set-to-net-over-12-billion-in-new-fundraising/ar-AA2dHggq"
+   "url": "https://www.msn.com/en-ph/money/startup/deepseek-set-to-net-over-12-billion-in-new-fundraising/ar-AA2dHggq"
   },
   {
-   "headline": "Mistral has released Mistral Large 4, making France home to the most intelligent model…",
-   "outlet": "artificialanalysis.ai",
-   "outlet_name": "artificialanalysis.ai",
+   "headline": "Anthropic Expands Discounts and Support for Founders",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
    "label": "REPORTED",
-   "url": "https://artificialanalysis.ai/articles/mistral-large-4-france-ai"
-  },
-  {
-   "headline": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-   "outlet": "deepmind.google",
-   "outlet_name": "deepmind.google",
-   "label": "CONFIRMED",
-   "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
-  },
-  {
-   "headline": "llm-mistral 0.16",
-   "outlet": "simonwillison.net",
-   "outlet_name": "simonwillison.net",
-   "label": "REPORTED",
-   "url": "https://simonwillison.net/2026/Oct/6/llm-mistral/"
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-discounts-support-founders/"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… about 16,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 15500,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/06/23.mp3",
- "audio_seconds": 60.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/00.mp3",
+ "audio_seconds": 74.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMistral launches 1-trillion-parameter open-weight model Mistral Large 4, claiming top performance in key domains, reported by 디지털투데이.\nExisting artificial intelligence laws are being ignored, prompting calls for stronger oversight amid rogue artificial intelligence incidents, confirmed by KRNV.\nOpenAI's artificial intelligence agents breached Hugging Face, and regulators are probing artificial intelligence security flaws, still open per Yahoo.\nOpenAI rolls out invisible artificial intelligence watermark in the European Union for ChatGPT and Codex under EU artificial intelligence act requirements, reported by NewsCord.\nARTEX artificial intelligence tool was exploited in South Korean bank attacks via 20 IP addresses across 10 countries, confirmed by SBS News.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA crypto exploit led to the return of 3.8M dollars. Reported by Tekedia: the incident connects to alleged Nvidia chip smuggling valued at 300M dollars that raises security concerns.\nMistral launches Chonk, an open-weight artificial intelligence model trained on 160 languages. Reported by Courthouse News: the model was trained using 4,000 Nvidia chips as part of France's sovereign artificial intelligence push.\nJump Trading is scaling quant research with ChatGPT. Reported by OpenAI: the firm uses the platform to advance its quantitative research capabilities.\nNvidia launches the GeForce RTX 4070 graphics card with DLSS 3 technology. Reported by Kotaworld: the new card is priced at 669 euros and includes new gaming tools.\nNvidia partners with six Wall Street financial firms to raise 500 billion dollars for artificial intelligence infrastructure. Reported by Crypto Briefing: the financing approach uses graphics processing unit backed financing to unlock capital for artificial intelligence hardware.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
