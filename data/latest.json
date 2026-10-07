@@ -1,91 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T15:20:02Z",
- "hour": "2026-10-07T15:00:00Z",
+ "generated_at": "2026-10-07T16:20:02Z",
+ "hour": "2026-10-07T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Microsoft and Nvidia launch Surface Laptop Ultra AI PC",
-   "outlet": "Quartz",
-   "outlet_name": "Quartz",
-   "url": "https://qz.com/microsoft-nvidia-surface-laptop-ultra-ai-windows-100726",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft and Nvidia launch Surface Laptop Ultra with RTX Spark chip for local AI processing.",
-   "published_at": "2026-10-07T13:52:32Z"
-  },
-  {
-   "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+   "title": "Google experiments with an AI-powered gaming platform",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+   "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
+   "label": "CONFIRMED",
+   "summary_1line": "Google launches Playground, letting non-coders build games with text prompts.",
+   "published_at": "2026-10-07T14:36:23Z"
+  },
+  {
+   "title": "Microsoft & Nvidia CEOs Team Up for AI-Powered Surface Launch",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
+   "url": "https://www.techbuzz.ai/articles/microsoft-nvidia-ceos-team-up-for-ai-powered-surface-launch",
+   "label": "REPORTED",
+   "summary_1line": "Microsoft and Nvidia launch AI-powered Surface Laptop Ultra with local AI processing.",
+   "published_at": "2026-10-07T13:36:00Z"
+  },
+  {
+   "title": "OpenAI’s release of mathematical findings draws concerns from experts",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-07T14:30:00Z"
+   "published_at": "2026-10-07T15:40:51Z"
   },
   {
-   "title": "McDonald’s AI pricing tool violates U.S. antitrust laws, suit claims",
-   "outlet": "The Globe and Mail",
-   "outlet_name": "The Globe and Mail",
-   "url": "https://www.theglobeandmail.com/business/article-mcdonalds-lawsuit-ai-pricing-tool-us-antitrust-laws/",
-   "label": "CONFIRMED",
-   "summary_1line": "McDonald’s AI pricing tool faces antitrust lawsuit over data sharing and price-fixing claims.",
-   "published_at": "2026-10-07T13:24:36Z"
+   "title": "AIBound Launches AgentHarness: Security Policy Enforced Inside AI Agents",
+   "outlet": "AiThority",
+   "outlet_name": "AiThority",
+   "url": "https://aithority.com/security/aibound-launches-agentharness-security-policy-enforced-inside-ai-agents/",
+   "label": "REPORTED",
+   "summary_1line": "AIBound launches AgentHarness to enforce security rules inside AI agents, blocking malicious actions before they occur.",
+   "published_at": "2026-10-07T07:12:00Z"
   },
   {
-   "title": "Google rolls out improved SynthID AI content detector, now available globally",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
-   "label": "CONFIRMED",
-   "summary_1line": "Google's public SynthID tool now detects AI watermarks from all partners.",
-   "published_at": "2026-10-07T14:00:08Z"
-  },
-  {
-   "title": "ClicData Launches AI Agent That Lets Midmarket Teams Build Dashboards by Chat",
-   "outlet": "Markets Insider",
-   "outlet_name": "Markets Insider",
-   "url": "https://markets.businessinsider.com/news/stocks/clicdata-launches-ai-agent-that-lets-midmarket-teams-build-dashboards-by-chat-1036604754",
-   "label": "CONFIRMED",
-   "summary_1line": "ClicData launches AI Dashboard Builder for midmarket businesses, cutting manual work by hours and recovering 24 days of productivity annually.",
-   "published_at": "2026-10-07T02:00:00Z"
+   "title": "Armadin’s $255.5M Series B Signals the Largest Agent Security Round Went to the Offensive Side",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "url": "https://forkast.news/armadins-255-5m-series-b-signals-the-largest-agent-security-round-went-to-the-offensive-side/",
+   "label": "REPORTED",
+   "summary_1line": "Armadin raised $255.5M, executed largest AI cyberattack with 26K agents, targeting 25K services.",
+   "published_at": "2026-10-07T14:13:12Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Microsoft and Nvidia launch Surface Laptop Ultra AI PC",
-   "outlet": "Quartz",
-   "outlet_name": "Quartz",
-   "label": "REPORTED",
-   "url": "https://qz.com/microsoft-nvidia-surface-laptop-ultra-ai-windows-100726"
-  },
-  {
-   "headline": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch…",
+   "headline": "Google experiments with an AI-powered gaming platform",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
+  },
+  {
+   "headline": "Microsoft & Nvidia CEOs Team Up for AI-Powered Surface Launch",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
    "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/"
+   "url": "https://www.techbuzz.ai/articles/microsoft-nvidia-ceos-team-up-for-ai-powered-surface-launch"
   },
   {
-   "headline": "McDonald’s AI pricing tool violates U.S. antitrust laws, suit claims",
-   "outlet": "The Globe and Mail",
-   "outlet_name": "The Globe and Mail",
-   "label": "CONFIRMED",
-   "url": "https://www.theglobeandmail.com/business/article-mcdonalds-lawsuit-ai-pricing-tool-us-antitrust-laws/"
+   "headline": "OpenAI’s release of mathematical findings draws concerns from experts",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "REPORTED",
+   "url": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns"
   },
   {
-   "headline": "Google rolls out improved SynthID AI content detector, now available globally",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "label": "CONFIRMED",
-   "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/"
+   "headline": "AIBound Launches AgentHarness: Security Policy Enforced Inside AI Agents",
+   "outlet": "AiThority",
+   "outlet_name": "AiThority",
+   "label": "REPORTED",
+   "url": "https://aithority.com/security/aibound-launches-agentharness-security-policy-enforced-inside-ai-agents/"
   },
   {
-   "headline": "ClicData Launches AI Agent That Lets Midmarket Teams Build Dashboards by Chat",
-   "outlet": "Markets Insider",
-   "outlet_name": "Markets Insider",
-   "label": "CONFIRMED",
-   "url": "https://markets.businessinsider.com/news/stocks/clicdata-launches-ai-agent-that-lets-midmarket-teams-build-dashboards-by-chat-1036604754"
+   "headline": "Armadin’s $255.5M Series B Signals the Largest Agent Security Round Went to the Offensive…",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "label": "REPORTED",
+   "url": "https://forkast.news/armadins-255-5m-series-b-signals-the-largest-agent-security-round-went-to-the-offensive-side/"
   },
   {
    "headline": "Senate Probes Rogue AI Agents, Eyes OpenAI Liability",
@@ -95,39 +95,25 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0SC1TSWE4aF85Ml9VUC1xWjFaWFBlaWdNckxkZkltNGJiY2FrZVZoaE1zVlBlamlJcjJ0M3dDU2Z6S254SEhEUl9jREhjdXIzaU5KbjFRc2VZUjdlVHRBOFhRTWVVc1BxcDJjWWV3Vk1YTEk?oc=5"
   },
   {
-   "headline": "I, System Comes to the Frankfurt Book Fair as Debate Over AI Agency and Accountability…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "ChatGPT for Teens Has a Safety Problem Parents Cannot Ignore, Reports Reveal",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
    "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/i-system-comes-to-the-frankfurt-book-fair-as-debate-over-ai-agency-and-accountability-intensifies-302900582.html"
+   "url": "https://www.analyticsinsight.net/news/chatgpt-for-teens-has-a-safety-problem-parents-cannot-ignore-reports-reveal"
   },
   {
-   "headline": "Silicon Labs Launches Simplicity AI SDK Beta, Hardware Intent, Open-Source Community, and…",
-   "outlet": "IndexBox",
-   "outlet_name": "IndexBox",
-   "label": "CONFIRMED",
-   "url": "https://www.indexbox.io/blog/silicon-labs-unveils-simplicity-ai-sdk-hardware-intent-open-source-community-and-databricks-edge-ai-partnership-at-works-with-2026/"
-  },
-  {
-   "headline": "ChatGPT not safe for kids, study finds 5 issues parents should know",
-   "outlet": "India Today on MSN",
-   "outlet_name": "India Today on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/chatgpt-not-safe-for-kids-study-finds-5-issues-parents-should-know/ar-AA2dKfLy"
-  },
-  {
-   "headline": "Anthropic widens access to AI cyber capabilities for vetted security teams",
-   "outlet": "www.csoonline.com",
-   "outlet_name": "www.csoonline.com",
-   "label": "CONFIRMED",
-   "url": "https://www.csoonline.com/article/4231812/anthropic-widens-access-to-ai-cyber-capabilities-for-vetted-security-teams.html"
-  },
-  {
-   "headline": "Knuth Christmas Lecture Announcement: Claude and the Art of Computer Programming",
-   "outlet": "cs.stanford.edu",
-   "outlet_name": "cs.stanford.edu",
+   "headline": "Google bets Gemini can turn casual players into game developers with new Playground…",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://cs.stanford.edu/~knuth/musings.html"
+   "url": "https://the-decoder.com/google-bets-gemini-can-turn-casual-players-into-game-developers-with-new-playground-feature/"
+  },
+  {
+   "headline": "DOJ lawyers told to replace term 'AI' with 'super intelligence'",
+   "outlet": "ABA Journal",
+   "outlet_name": "ABA Journal",
+   "label": "REPORTED",
+   "url": "https://www.abajournal.com/news/article/doj-lawyers-told-to-use-the-words-super-intelligence-instead-of-ai"
   },
   {
    "headline": "We're making it easier to identify AI-generated content globally.",
@@ -135,16 +121,30 @@
    "outlet_name": "blog.google",
    "label": "CONFIRMED",
    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/"
+  },
+  {
+   "headline": "ChatGPT for teens poses 'unacceptable risk' for children under 18, says new evaluation",
+   "outlet": "SheKnows on MSN",
+   "outlet_name": "SheKnows on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/chatgpt-for-teens-poses-unacceptable-risk-for-children-under-18-says-new-evaluation/ar-AA2dL8ff"
+  },
+  {
+   "headline": "Laws, pledges or an iron grip? How the EU, US and China are reining in AI",
+   "outlet": "Euronews on MSN",
+   "outlet_name": "Euronews on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-au/news/other/laws-pledges-or-an-iron-grip-how-the-eu-us-and-china-are-reining-in-ai/ar-AA2dKqVz"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13800,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13700,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/15.mp3",
- "audio_seconds": 52.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/16.mp3",
+ "audio_seconds": 68.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Quartz: Microsoft and Nvidia launch Surface Laptop Ultra AI PC.\nReported by TechCrunch: OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots.\nConfirmed, per The Globe and Mail: McDonald’s AI pricing tool violates U.S. antitrust laws, suit claims.\nConfirmed, per Ars Technica: Google rolls out improved SynthID AI content detector, now available globally.\nConfirmed, per Markets Insider: ClicData Launches AI Agent That Lets Midmarket Teams Build Dashboards by Chat.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle launches Playground, a new gaming platform that lets non-coders build games with text prompts. Confirmed by TechCrunch.\nMicrosoft and Nvidia CEOs have teamed up to launch the AI-powered Surface Laptop Ultra, featuring local processing capabilities. Reported by The Tech Buzz.\nOpenAI's release of mathematical findings is drawing concerns from experts. Reported by The Guardian.\nAIBound has launched AgentHarness, a security tool that enforces security rules inside artificial intelligence agents, blocking malicious actions before they occur. Reported by AiThority.\nArmadin raised $255.5M in Series B funding and executed the largest artificial intelligence cyberattack using 26K agents targeting 25K services. Reported by Forkast News.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
