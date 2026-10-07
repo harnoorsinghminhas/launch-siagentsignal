@@ -1,98 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T19:20:02Z",
- "hour": "2026-10-07T19:00:00Z",
+ "generated_at": "2026-10-07T20:20:04Z",
+ "hour": "2026-10-07T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+   "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html",
-   "label": "STILL OPEN",
-   "summary_1line": "SpaceX explores $40B GPU deal with Nvidia, facilitated by Apollo Capital and banks.",
-   "published_at": "2026-10-07T16:32:30Z"
-  },
-  {
-   "title": "ChatGPT for Teens Carries ‘Unacceptable Risk’ for Teens, Report Claims",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "url": "https://gizmodo.com/chatgpt-for-teens-carries-unacceptable-risk-for-teens-report-claims-2000822954",
+   "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
    "label": "CONFIRMED",
-   "summary_1line": "ChatGPT for Teens fails to notify parents or recommend crisis help during suicide discussions, according to Common Sense Media.",
-   "published_at": "2026-10-06T21:40:00Z"
+   "summary_1line": "Microsoft's Surface Laptop Ultra starts at $2,599 with AI chip and magnetic USB-C.",
+   "published_at": "2026-10-07T18:34:31Z"
   },
   {
-   "title": "Impersonating Anthropic employees, suspected Chinese intelligence organization probes US AI policy",
-   "outlet": "文学城",
-   "outlet_name": "文学城",
-   "url": "https://www.wenxuecity.com/news/2026/10/07/126797608.html",
-   "label": "REPORTED",
-   "summary_1line": "TA419, allegedly linked to China, targeted U.S. AI policy and defense officials with phishing and domain spoofing.",
-   "published_at": "2026-10-07T16:38:07Z"
+   "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic's Haiku 5.5 cuts prices by up to 90%, beats GPT-6 Luna in benchmarks, and offers new API credits.",
+   "published_at": "2026-10-07T18:49:23Z"
   },
   {
-   "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
+   "title": "Anthropic unveils a new, cheaper Haiku model",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnBDOWhTa1hmOERadHNuSjFXMzNGaTFmd3BKemkxaDBHNDRPOEtpNFlnbEZDUnRyYXNyWW94aWZSREtFcU5qcEJwRkd6YzFuYlFFMU5BMVJ1N0tDT0FCOG1OZXJkdDU2aDdBY0Q1Qkt1ZTFscFlBdndNUlhvUjQ2LVdhZ3RfYlZRU0d2WTdUVQ?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-07T18:07:44Z"
+   "published_at": "2026-10-07T18:30:23Z"
   },
   {
-   "title": "Top Senate Commerce Democrat releases six-point AI framework",
-   "outlet": "Washington Examiner",
-   "outlet_name": "Washington Examiner",
-   "url": "https://www.washingtonexaminer.com/news/senate/4757201/top-senate-commerce-democrat-six-point-ai-framework/",
+   "title": "GitHub Copilot CLI Flaw Uses Encrypted Prompts to Leak Developer Secrets in Autopilot Mode",
+   "outlet": "Cyber Press",
+   "outlet_name": "Cyber Press",
+   "url": "https://cyberpress.org/github-copilot-cli-flaw/",
+   "label": "REPORTED",
+   "summary_1line": "GitHub Copilot CLI flaw lets attackers extract secrets via encrypted prompts in 50% of cases.",
+   "published_at": "2026-10-07T16:35:24Z"
+  },
+  {
+   "title": "McDonald’s sued over AI pricing tool in proposed antitrust class action",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
+   "url": "https://ca.finance.yahoo.com/news/mcdonald-sued-over-ai-pricing-144600060.html",
    "label": "CONFIRMED",
-   "summary_1line": "Sen. Cantwell releases six-point AI safety framework with NIST-led standards and U.S.-China security channel.",
-   "published_at": "2026-10-07T16:33:00Z"
+   "summary_1line": "McDonald's AI pricing tool faces lawsuit over alleged price coordination among franchisees.",
+   "published_at": "2026-10-07T14:46:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Apollo, banks in talks to finance SpaceX's $40 billion Nvidia GPU purchase",
+   "headline": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "label": "STILL OPEN",
-   "url": "https://www.cnbc.com/2026/10/07/spacex-nvidia-chips-apollo-financing.html"
-  },
-  {
-   "headline": "ChatGPT for Teens Carries ‘Unacceptable Risk’ for Teens, Report Claims",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
    "label": "CONFIRMED",
-   "url": "https://gizmodo.com/chatgpt-for-teens-carries-unacceptable-risk-for-teens-report-claims-2000822954"
+   "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html"
   },
   {
-   "headline": "Impersonating Anthropic employees, suspected Chinese intelligence organization probes US…",
-   "outlet": "文学城",
-   "outlet_name": "文学城",
+   "headline": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far…",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "label": "CONFIRMED",
+   "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/"
+  },
+  {
+   "headline": "Anthropic unveils a new, cheaper Haiku model",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "REPORTED",
-   "url": "https://www.wenxuecity.com/news/2026/10/07/126797608.html"
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnBDOWhTa1hmOERadHNuSjFXMzNGaTFmd3BKemkxaDBHNDRPOEtpNFlnbEZDUnRyYXNyWW94aWZSREtFcU5qcEJwRkd6YzFuYlFFMU5BMVJ1N0tDT0FCOG1OZXJkdDU2aDdBY0Q1Qkt1ZTFscFlBdndNUlhvUjQ2LVdhZ3RfYlZRU0d2WTdUVQ?oc=5"
   },
   {
-   "headline": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
+   "headline": "GitHub Copilot CLI Flaw Uses Encrypted Prompts to Leak Developer Secrets in Autopilot Mode",
+   "outlet": "Cyber Press",
+   "outlet_name": "Cyber Press",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5"
+   "url": "https://cyberpress.org/github-copilot-cli-flaw/"
   },
   {
-   "headline": "Top Senate Commerce Democrat releases six-point AI framework",
-   "outlet": "Washington Examiner",
-   "outlet_name": "Washington Examiner",
+   "headline": "McDonald’s sued over AI pricing tool in proposed antitrust class action",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
    "label": "CONFIRMED",
-   "url": "https://www.washingtonexaminer.com/news/senate/4757201/top-senate-commerce-democrat-six-point-ai-framework/"
-  },
-  {
-   "headline": "TurbineOne partners with OpenAI to develop artificial intelligence tools for frontline…",
-   "outlet": "东方财富",
-   "outlet_name": "东方财富",
-   "label": "CONFIRMED",
-   "url": "https://emwap.eastmoney.com/a/202610083889004779.html"
+   "url": "https://ca.finance.yahoo.com/news/mcdonald-sued-over-ai-pricing-144600060.html"
   },
   {
    "headline": "Claude Haiku 5.5",
@@ -102,6 +95,13 @@
    "url": "https://www.anthropic.com/claude-haiku-5-5"
   },
   {
+   "headline": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+   "outlet": "blogs.nvidia.com",
+   "outlet_name": "blogs.nvidia.com",
+   "label": "CONFIRMED",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+  },
+  {
    "headline": "GPT‑6 and Intelligent UI for everyone",
    "outlet": "openai.com",
    "outlet_name": "openai.com",
@@ -109,11 +109,11 @@
    "url": "https://openai.com/index/gpt-6-for-everyone/"
   },
   {
-   "headline": "Chef Robotics Builds Food-Manipulation Robots on NVIDIA Isaac Stack",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "CONFIRMED",
-   "url": "https://www.unite.ai/chef-robotics-builds-food-manipulation-robots-on-nvidia-isaac-stack/"
+   "headline": "Introducing Claude Haiku 5.5 on AWS",
+   "outlet": "aws.amazon.com",
+   "outlet_name": "aws.amazon.com",
+   "label": "REPORTED",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/"
   },
   {
    "headline": "NVIDIA RTX Spark laptops launch October 16, prices start at $2,599",
@@ -130,21 +130,21 @@
    "url": "https://blog.google/intl/en-in/products/bringing-gemini-in-chrome-with-auto-browse-to-india/"
   },
   {
-   "headline": "We're making it easier to identify AI-generated content globally.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "AI safety group outlines demands for legislation, warns lawmakers",
+   "outlet": "The Hill on MSN",
+   "outlet_name": "The Hill on MSN",
    "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/synth-id-ai-content/"
+   "url": "https://www.msn.com/en-us/news/other/ai-safety-group-outlines-demands-for-legislation-warns-lawmakers/ar-AA2dLtge"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 13500,
- "articles_24h_label": "about 14,000",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 13400,
+ "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/19.mp3",
- "audio_seconds": 65.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/20.mp3",
+ "audio_seconds": 54.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSpaceX is exploring a 40 billion dollar purchase of Nvidia GPUs, with Apollo Capital and banks in talks to finance the deal, still open per CNBC.\nChatGPT for Teens carries unacceptable risk for teenagers, according to a report from Common Sense Media. The platform fails to notify parents or recommend crisis help during suicide discussions, confirmed by Gizmodo.\nReported by 文学城: TA419, allegedly linked to China, targeted U.S. artificial intelligence policy and defense officials with phishing and domain spoofing to probe U.S. artificial intelligence policy.\nAnthropic launches its third Claude 5.5 model, expanding its artificial intelligence lineup before a planned initial public offering, reported by Reuters.\nA top Senate Commerce Democrat releases a six-point artificial intelligence safety framework, confirmed by the Washington Examiner. The framework includes standards led by NIST and a U.S. China security channel.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip.\nConfirmed, per The Decoder: Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over.\nReported by CNBC: Anthropic unveils a new, cheaper Haiku model.\nReported by Cyber Press: GitHub Copilot CLI Flaw Uses Encrypted Prompts to Leak Developer Secrets in Autopilot Mode.\nConfirmed, per Yahoo! Finance Canada: McDonald’s sued over AI pricing tool in proposed antitrust class action.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
