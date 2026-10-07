@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self' data:; connect-src https://siagentsignal.com; base-uri 'none'; form-action 'none'; require-trusted-types-for 'script'; trusted-types 'none'">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="index,follow">
+<meta name="robots" content="noai, noimageai">
+<title>How we count reading hours saved | Superintelligence (SI) &amp; Artificial Intelligence (AI): SI Agent Signal</title>
+<meta name="description" content="How the reading hours saved counter works: every item we read times 3 minutes, what counts, what the number is not, and how the live figure moves between updates.">
+<link rel="canonical" href="https://siagentsignal.com/how-we-count.html">
+<link rel="icon" type="image/png" href="/img/mark-a.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&amp;family=Figtree:wght@400;500;600;700;800&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/app.css">
+<link rel="stylesheet" href="/assets/terms.css">
+</head>
+<body class="p-terms">
+<header class="top"><div class="wrap"><a class="brand" href="/" aria-label="SI Agent Signal, home"><img class="logo" id="logo" src="/assets/logo.svg" width="193" height="38" alt="SI Agent Signal"></a></div></header>
+<div class="wrap"><p class="terms"><span class="t-si">Superintelligence (SI)</span> <span class="t-amp">&amp;</span> <span class="t-ai">Artificial Intelligence (AI)</span></p></div>
+<main id="main" class="legal">
+  <div class="wrap">
+    <h1>How we count reading hours saved</h1>
+    <p class="upd">Last updated October 7, 2026</p>
+
+    <p class="lead">Every number should show its working. This is ours: one formula, one assumption, and a plain list of where the figure is an estimate.</p>
+
+    <div data-hours-saved="hero"></div>
+
+    <h2>1. The formula</h2>
+    <p><b>Reading hours saved = items we read &times; 3 minutes &divide; 60.</b></p>
+
+    <h2>2. What counts as an item</h2>
+    <p>An item is one article, post or page that our system reads from the sources we follow. Each item is counted once, from the day we started counting. We count what we read from our own records, not what anyone clicked.</p>
+
+    <h2>3. Why 3 minutes</h2>
+    <p>Three minutes is about the time to read a typical news article. It is an assumption, not a measurement of any one person: long reads take longer and headlines take less. We chose a modest figure on purpose and we show it next to the number everywhere it appears.</p>
+
+    <h2>4. What the number is not</h2>
+    <p>It does not claim that you would have read everything we read. It measures the reading we did so that you do not have to. It is not a measure of your personal time, and it is not a promise about what you will save.</p>
+
+    <h2>5. How the live number moves</h2>
+    <p>The figure is refreshed from our records about every hour. Between refreshes the counter moves at our average pace over the previous 24 hours, never more than two hours past the last refresh, and never backwards. If your device asks for reduced motion, it shows one fixed number per visit and does not tick. The tooltip on the number shows when it was last refreshed.</p>
+
+    <h2>6. The raw figures</h2>
+    <p>The figures behind the counter are public: <a href="/data/counters.json">counters.json</a>.</p>
+  </div>
+</main>
+<div class="wrap"><p class="copyright">&copy; 2026 Superintelligence Media&trade;. All rights reserved. <a href="/terms.html">Terms of Use</a> &middot; <a href="/privacy.html">Privacy</a> &middot; <a href="/">Back to the home page</a></p></div>
+<script src="assets/counter.js?v=a6b485d8" defer></script>
+</body>
+</html>
