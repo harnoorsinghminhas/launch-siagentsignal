@@ -1,91 +1,75 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T01:20:02Z",
- "hour": "2026-10-07T01:00:00Z",
+ "generated_at": "2026-10-07T02:20:02Z",
+ "hour": "2026-10-07T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI drops another batch of mathematical breakthroughs",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI released 722 manuscripts solving hundreds of math problems, sparking ethics debates.",
-   "published_at": "2026-10-06T23:26:38Z"
-  },
-  {
-   "title": "Mistral Launches Mistral Large 4 “Le Chonk” Open-Weight Model To Compete With U.S. And China",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
-   "url": "https://newscord.org/article/mistral-launches-mistral-large-4-le-chonk-open-weight-model-to-compete-with-us-a--Story_20261006_Mistralsnew1Tmodelai0fb0fb23",
-   "label": "REPORTED",
-   "summary_1line": "Mistral launches 1.05-trillion-parameter 'Le Chonk' model to compete with US and Chinese AI rivals.",
-   "published_at": "2026-10-06T23:01:56Z"
-  },
-  {
-   "title": "Belmont High School AI Policy Faces Backlash From Students, Parents",
-   "outlet": "The Belmont Voice",
-   "outlet_name": "The Belmont Voice",
-   "url": "https://belmontvoice.org/belmont-high-school-ai-policy-faces-backlash-from-students-parents/",
-   "label": "REPORTED",
-   "summary_1line": "Belmont High School pilots AI misconduct review amid student and parent concerns.",
-   "published_at": "2026-10-06T22:31:06Z"
-  },
-  {
-   "title": "OpenAI came to Australia to apologise. It will leave without answering these key questions | Toby Walsh",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/07/openai-australia-apology-without-answering-key-questions",
+   "title": "Expanding our enterprise inference capacity with IBM Cloud and NVIDIA",
+   "outlet": "Together AI",
+   "outlet_name": "Together AI",
+   "url": "https://www.together.ai/blog/expanding-our-enterprise-inference-capacity-with-ibm-cloud-and-nvidia",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-07T01:00:37Z"
+   "published_at": "2026-10-07T00:40:59Z"
   },
   {
-   "title": "California Joins New York in Regulating AI ‘Synthetic Performers’ in Advertising",
-   "outlet": "JDSupra",
-   "outlet_name": "JDSupra",
-   "url": "https://www.jdsupra.com/legalnews/california-joins-new-york-in-regulating-7563726/",
+   "title": "Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude",
+   "outlet": "People Matters",
+   "outlet_name": "People Matters",
+   "url": "https://www.peoplematters.in/news/ai-and-emerging-tech/microsoft-and-meta-push-employees-towards-in-house-ai-tools-over-anthropics-claude-52558",
+   "label": "CONFIRMED",
+   "summary_1line": "Microsoft and Meta cut internal use of Anthropic's Claude to boost in-house AI tools.",
+   "published_at": "2026-10-06T17:00:00Z"
+  },
+  {
+   "title": "Why Anthropic is turning to religion to shape Claude’s values, and asking if AI can be conscious",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
+   "url": "https://indianexpress.com/article/explained/explained-ai/anthropic-claude-ai-consciousness-religious-leaders-10909349/",
    "label": "REPORTED",
-   "summary_1line": "California law requires disclosure for AI-generated performers in ads, effective Jan 1, 2027.",
-   "published_at": "2026-10-06T22:18:14Z"
+   "summary_1line": "Anthropic consults religious leaders on Claude's moral values and possible consciousness.",
+   "published_at": "2026-10-07T00:51:35Z"
+  },
+  {
+   "title": "Boston Dynamics names Amazon AI executive as CEO",
+   "outlet": "NBC Boston",
+   "outlet_name": "NBC Boston",
+   "url": "https://www.nbcboston.com/boston-business-journal/boston-dynamics-new-ceo-amazon-ai/4026832/",
+   "label": "REPORTED",
+   "summary_1line": "Boston Dynamics names Rohit Prasad CEO, effective Oct. 7.",
+   "published_at": "2026-10-07T00:32:14Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI drops another batch of mathematical breakthroughs",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
+   "headline": "Expanding our enterprise inference capacity with IBM Cloud and NVIDIA",
+   "outlet": "Together AI",
+   "outlet_name": "Together AI",
+   "label": "REPORTED",
+   "url": "https://www.together.ai/blog/expanding-our-enterprise-inference-capacity-with-ibm-cloud-and-nvidia"
+  },
+  {
+   "headline": "Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude",
+   "outlet": "People Matters",
+   "outlet_name": "People Matters",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github"
+   "url": "https://www.peoplematters.in/news/ai-and-emerging-tech/microsoft-and-meta-push-employees-towards-in-house-ai-tools-over-anthropics-claude-52558"
   },
   {
-   "headline": "Mistral Launches Mistral Large 4 “Le Chonk” Open-Weight Model To Compete With U.S. And…",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
+   "headline": "Why Anthropic is turning to religion to shape Claude’s values, and asking if AI can be…",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
    "label": "REPORTED",
-   "url": "https://newscord.org/article/mistral-launches-mistral-large-4-le-chonk-open-weight-model-to-compete-with-us-a--Story_20261006_Mistralsnew1Tmodelai0fb0fb23"
+   "url": "https://indianexpress.com/article/explained/explained-ai/anthropic-claude-ai-consciousness-religious-leaders-10909349/"
   },
   {
-   "headline": "Belmont High School AI Policy Faces Backlash From Students, Parents",
-   "outlet": "The Belmont Voice",
-   "outlet_name": "The Belmont Voice",
+   "headline": "Boston Dynamics names Amazon AI executive as CEO",
+   "outlet": "NBC Boston",
+   "outlet_name": "NBC Boston",
    "label": "REPORTED",
-   "url": "https://belmontvoice.org/belmont-high-school-ai-policy-faces-backlash-from-students-parents/"
-  },
-  {
-   "headline": "OpenAI came to Australia to apologise. It will leave without answering these key…",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "label": "REPORTED",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/07/openai-australia-apology-without-answering-key-questions"
-  },
-  {
-   "headline": "California Joins New York in Regulating AI ‘Synthetic Performers’ in Advertising",
-   "outlet": "JDSupra",
-   "outlet_name": "JDSupra",
-   "label": "REPORTED",
-   "url": "https://www.jdsupra.com/legalnews/california-joins-new-york-in-regulating-7563726/"
+   "url": "https://www.nbcboston.com/boston-business-journal/boston-dynamics-new-ceo-amazon-ai/4026832/"
   },
   {
    "headline": "OpenAI’s largest mathematics release tackles 4,000 problems with Lean-checked proofs",
@@ -95,18 +79,18 @@
    "url": "https://interestingengineering.com/ai-robotics/openai-largest-math-release-lean-proofs"
   },
   {
-   "headline": "OpenAI Releases 722 Math Manuscripts From an Unreleased AI Model",
+   "headline": "OpenAI’s human rights lead: What the military could do with AI keeps me up at night",
+   "outlet": "Fortune on MSN",
+   "outlet_name": "Fortune on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/openai-s-human-rights-lead-what-the-military-could-do-with-ai-keeps-me-up-at-night/ar-AA2dHFhw"
+  },
+  {
+   "headline": "OpenAI Releases Decisions API in Public Beta, Powered by GPT-6 Luna",
    "outlet": "Unite.AI",
    "outlet_name": "Unite.AI",
    "label": "REPORTED",
-   "url": "https://www.unite.ai/openai-releases-722-math-manuscripts-from-an-unreleased-ai-model/"
-  },
-  {
-   "headline": "DeepSeek set to net over $12 billion in new fundraising",
-   "outlet": "The Manila Times on MSN",
-   "outlet_name": "The Manila Times on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-ph/money/startup/deepseek-set-to-net-over-12-billion-in-new-fundraising/ar-AA2dHggq"
+   "url": "https://www.unite.ai/openai-releases-decisions-api-in-public-beta-powered-by-gpt-6-luna/"
   },
   {
    "headline": "Where do we draw the line on AI in court filings?",
@@ -123,28 +107,35 @@
    "url": "https://voi.id/zh/technology-zh/596969"
   },
   {
+   "headline": "llm-openai-decisions 0.1a0",
+   "outlet": "simonwillison.net",
+   "outlet_name": "simonwillison.net",
+   "label": "REPORTED",
+   "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
+  },
+  {
+   "headline": "DeepSeek Nearing Completion of 100 Billion Yuan Funding Round at 500 Billion Yuan…",
+   "outlet": "news.sbs.co.kr",
+   "outlet_name": "news.sbs.co.kr",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MX3A4Mm0tQ19ESGVNTjBrTVVOSmoxQnJuQTlpSHVEdFdFM3p5MWVxcGxYZDZGNWg3aEdNdWVWdTI3MlpnUTFVMjUwU0hLNnY4WkNFLTRJaTdCNHI0cVRBZkV2TW0tQlJobFpaQUpR?oc=5"
+  },
+  {
    "headline": "AI researchers warn of risks as New York weighs regulation",
    "outlet": "starcitytv.com",
    "outlet_name": "starcitytv.com",
    "label": "REPORTED",
    "url": "https://www.starcitytv.com/ai-researchers-warn-of-risks-as-new-york-weighs-regulation/video_f14bdb51-a780-5e01-a283-400884fc5e79.html"
-  },
-  {
-   "headline": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
-   "label": "REPORTED",
-   "url": "https://www.techmeme.com/261006/p48#a261006p48"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 15700,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 15800,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/01.mp3",
- "audio_seconds": 45.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/02.mp3",
+ "audio_seconds": 42.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: OpenAI drops another batch of mathematical breakthroughs.\nReported by NewsCord: Mistral Launches Mistral Large 4 “Le Chonk” Open-Weight Model To Compete With U.S. And China.\nReported by The Belmont Voice: Belmont High School AI Policy Faces Backlash From Students, Parents.\nReported by The Guardian: OpenAI came to Australia to apologise. It will leave without answering these key questions | Toby Walsh.\nReported by JDSupra: California Joins New York in Regulating AI ‘Synthetic Performers’ in Advertising.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Together AI: Expanding our enterprise inference capacity with IBM Cloud and NVIDIA.\nConfirmed, per People Matters: Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude.\nReported by The Indian Express: Why Anthropic is turning to religion to shape Claude’s values, and asking if AI can be conscious.\nReported by NBC Boston: Boston Dynamics names Amazon AI executive as CEO.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
