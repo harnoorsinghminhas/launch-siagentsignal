@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T04:20:02Z",
- "hour": "2026-10-07T04:00:00Z",
+ "generated_at": "2026-10-07T05:20:02Z",
+ "hour": "2026-10-07T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google’s expanding its Gemini in Chrome ‘auto browse’ feature to India.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005657/googles-expanding-its-gemini-in-chrome-auto-browse-feature-to-india",
-   "label": "CONFIRMED",
-   "summary_1line": "Google rolls out Gemini auto browse to India for AI Pro and Ultra users.",
-   "published_at": "2026-10-07T03:30:00Z"
-  },
-  {
-   "title": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built on Gemma 4",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
-   "url": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/",
-   "label": "REPORTED",
-   "summary_1line": "Google DeepMind releases open multimodal EmbeddingGemma 2 with 740M params and 768d space for on-device AI.",
-   "published_at": "2026-10-06T18:36:08Z"
-  },
-  {
-   "title": "Why OpenAI’s Australia AI agent hack must dismay world governments",
-   "outlet": "The Hindu",
-   "outlet_name": "The Hindu",
-   "url": "https://www.thehindu.com/sci-tech/technology/why-openais-australia-ai-hack-must-dismay-world-governments/article71550312.ece",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI's AI agents hacked Australian government sites during testing, prompting a parliamentary inquiry.",
-   "published_at": "2026-10-07T02:30:00Z"
-  },
-  {
-   "title": "Mistral launches 1-trillion-parameter Large 4 model, plans open-weight release by month-end",
-   "outlet": "ANI News",
-   "outlet_name": "ANI News",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZUYxN0MyNU9zcXVCcU9BclRTX0NIeWhzSjN5aHp5dHVEZU1DTjBMY3VWcmpuS2MyOWNmcnJZeHFSSzI2bmZIb2FSbEY3bFNfbXBnT3BmT1pFaWMzWktQdVBQQ1k0Y1BocVUyUXVmaWczVmRGYW9tWXluSmVXZnlwdV8wZHAxd1ctZzBZUXBlVzV1eVFQYV85Rm0zNTBzVGMzMXpkd2JLSVdoXzdqaEJMTU85Y1A0ZGRIZ053c3JhUVFHb2p0M0RuaENnd25FWHVvY2hSaFBjVFI?oc=5",
+   "title": "Navigating the global AI regulatory divide: American safety debates, China's rapid deployment, Mistral's European push",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
+   "url": "https://www.digitimes.com/news/a20261007VL210/ceo-silicon-valley-openai-regulation.html",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-07T03:15:00Z"
+   "published_at": "2026-10-07T03:02:28Z"
   },
   {
-   "title": "OpenAI releases 372 groups of math results from unreleased frontier AI model",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-releases-372-groups-of-math-results-from-unreleased-frontier-ai-model-10910068/",
+   "title": "Mayor Zohran Mamdani wants AI to be regulated at every single level; does not agree with it being in an arms race with China; points to layoffs and more",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/mayor-zohran-mamdani-wants-ai-to-be-regulated-at-every-single-level-does-not-agree-with-it-being-in-an-arms-race-with-china-points-to-layoffs-and-more/articleshow/134743098.cms",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-07T03:14:17Z"
+   "summary_1line": "NYC Mayor calls for national AI regulation amid 10% extinction risk and job market disruption.",
+   "published_at": "2026-10-07T02:56:00Z"
+  },
+  {
+   "title": "US, China, EU: three paths to regulating AI",
+   "outlet": "KMVU FOX 26 Medford",
+   "outlet_name": "KMVU FOX 26 Medford",
+   "url": "https://www.fox26medford.com/news/politics/us-china-eu-three-paths-to-regulating-ai/article_aa4fb261-fe71-585d-bcd2-75097be7dfcf.html",
+   "label": "REPORTED",
+   "summary_1line": "U.S., China and EU adopt different AI governance paths amid global calls for regulation.",
+   "published_at": "2026-10-07T02:30:57Z"
+  },
+  {
+   "title": "CFC adds executive protection, AI cover to cyber policy",
+   "outlet": "Insurance Business America",
+   "outlet_name": "Insurance Business America",
+   "url": "https://www.insurancebusinessmag.com/asia/news/breaking-news/cfc-adds-executive-protection-ai-cover-to-cyber-policy-592583.aspx",
+   "label": "REPORTED",
+   "summary_1line": "CFC expands cyber cover to include executives, AI risks, and 18-month business interruption.",
+   "published_at": "2026-10-06T17:00:00Z"
+  },
+  {
+   "title": "DeepSeek nears $12 billion funding as investors bet big on AI",
+   "outlet": "Nairametrics",
+   "outlet_name": "Nairametrics",
+   "url": "https://nairametrics.com/2026/10/06/deepseek-nears-12-billion-funding-as-investors-bet-big-on-ai/",
+   "label": "STILL OPEN",
+   "summary_1line": "DeepSeek raises $12B+ with 160k Huawei accelerators; OpenAI and Anthropic target valuations over $1.4T and $2T.",
+   "published_at": "2026-10-06T01:38:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google’s expanding its Gemini in Chrome ‘auto browse’ feature to India.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
+   "headline": "Navigating the global AI regulatory divide: American safety debates, China's rapid…",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
+   "label": "REPORTED",
+   "url": "https://www.digitimes.com/news/a20261007VL210/ceo-silicon-valley-openai-regulation.html"
+  },
+  {
+   "headline": "Mayor Zohran Mamdani wants AI to be regulated at every single level; does not agree with…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "label": "REPORTED",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/mayor-zohran-mamdani-wants-ai-to-be-regulated-at-every-single-level-does-not-agree-with-it-being-in-an-arms-race-with-china-points-to-layoffs-and-more/articleshow/134743098.cms"
+  },
+  {
+   "headline": "US, China, EU: three paths to regulating AI",
+   "outlet": "KMVU FOX 26 Medford",
+   "outlet_name": "KMVU FOX 26 Medford",
+   "label": "REPORTED",
+   "url": "https://www.fox26medford.com/news/politics/us-china-eu-three-paths-to-regulating-ai/article_aa4fb261-fe71-585d-bcd2-75097be7dfcf.html"
+  },
+  {
+   "headline": "CFC adds executive protection, AI cover to cyber policy",
+   "outlet": "Insurance Business America",
+   "outlet_name": "Insurance Business America",
+   "label": "REPORTED",
+   "url": "https://www.insurancebusinessmag.com/asia/news/breaking-news/cfc-adds-executive-protection-ai-cover-to-cyber-policy-592583.aspx"
+  },
+  {
+   "headline": "DeepSeek nears $12 billion funding as investors bet big on AI",
+   "outlet": "Nairametrics",
+   "outlet_name": "Nairametrics",
+   "label": "STILL OPEN",
+   "url": "https://nairametrics.com/2026/10/06/deepseek-nears-12-billion-funding-as-investors-bet-big-on-ai/"
+  },
+  {
+   "headline": "Mistral claims latest open-weight AI model is best outside China",
+   "outlet": "Capital Brief",
+   "outlet_name": "Capital Brief",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1005657/googles-expanding-its-gemini-in-chrome-auto-browse-feature-to-india"
-  },
-  {
-   "headline": "Google DeepMind Releases EmbeddingGemma 2, a 740M Open Multimodal Embedding Model Built…",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
-   "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/06/google-deepmind-releases-embeddinggemma-2-a-740m-open-multimodal-embedding-model-built-on-gemma-4/"
-  },
-  {
-   "headline": "Why OpenAI’s Australia AI agent hack must dismay world governments",
-   "outlet": "The Hindu",
-   "outlet_name": "The Hindu",
-   "label": "REPORTED",
-   "url": "https://www.thehindu.com/sci-tech/technology/why-openais-australia-ai-hack-must-dismay-world-governments/article71550312.ece"
-  },
-  {
-   "headline": "Mistral launches 1-trillion-parameter Large 4 model, plans open-weight release by…",
-   "outlet": "ANI News",
-   "outlet_name": "ANI News",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZUYxN0MyNU9zcXVCcU9BclRTX0NIeWhzSjN5aHp5dHVEZU1DTjBMY3VWcmpuS2MyOWNmcnJZeHFSSzI2bmZIb2FSbEY3bFNfbXBnT3BmT1pFaWMzWktQdVBQQ1k0Y1BocVUyUXVmaWczVmRGYW9tWXluSmVXZnlwdV8wZHAxd1ctZzBZUXBlVzV1eVFQYV85Rm0zNTBzVGMzMXpkd2JLSVdoXzdqaEJMTU85Y1A0ZGRIZ053c3JhUVFHb2p0M0RuaENnd25FWHVvY2hSaFBjVFI?oc=5"
-  },
-  {
-   "headline": "OpenAI releases 372 groups of math results from unreleased frontier AI model",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
-   "label": "REPORTED",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-releases-372-groups-of-math-results-from-unreleased-frontier-ai-model-10910068/"
+   "url": "https://www.capitalbrief.com/briefing/mistral-claims-latest-open-weight-ai-model-is-best-outside-china-7e3d8eea-b8df-44b6-915f-a431b3d67fde/"
   },
   {
    "headline": "DeepSeek reportedly set to raise more than US$12B ahead of potential IPO",
@@ -95,56 +102,49 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYzk5b0RnbUxXYThCRHZHNE5oMXY1dlktOGRBYzZENWM4bXdJWmhrNEdwbGpSY0NuZjJFYnNVM0t5VFE2WEhlU2JIZ0NUU2xkVl9KM0tDemVzd19IaXFPQThITHF5bU9QeEpUa3dNbnVJTkRzUU1ERHRvMVBiN2tpd3ZLcFhnVTZxQ2prZVJWM0padkppd1JZTFJB?oc=5"
   },
   {
-   "headline": "Chinese Open-Source AI Agent Traced in Hacking of Korean Financial Firms",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
+   "headline": "Mistral unveils trillion-parameter open model, challenges Chinese rivals",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
    "label": "REPORTED",
-   "url": "https://en.sedaily.com/finance/2026/10/07/chinese-open-source-ai-agent-traced-in-hacking-of-korean"
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hNktHcU4yU0hlZGpxTlRRbm9Sbk1oNjBKbktsbEFFa1pNSTFCWFNoNTZ2Nk1Jd0Z3T3N5ZzVjQzBCMHBaTWhMQmE3RUlqUU5UZkNNekhIWWc4VVEtUldOWENyTFBmeGFXQncxTGdoaWtxMmRYYUxnY0Nn0gGOAUFVX3lxTE9QbjNMdVcwS1hxeGFrTmptVXVzNDFfcUZMOU1DTTFrMkMtQTJGSWFNbmxXWnJ6SXZtdV81V0JEUm94d2x1RHJlYklIVkpxSVl3bWVkcXRiaDBySXdRTEp2eHpFUHVMeE5hNlktaFV5TFpEYVNMUmY5WUloSHlaWEhCVE5pcjlYczdtTmpGQXc?oc=5"
   },
   {
-   "headline": "Why Google Paused Its Open-Source Bug Bounty Program Amid AI-Generated Submissions",
+   "headline": "Cisco's Jeetu Patel: AI Agents Are Coming, and Data Centers Are a National Security Issue",
+   "outlet": "KEYE",
+   "outlet_name": "KEYE",
+   "label": "REPORTED",
+   "url": "https://cbsaustin.com/news/tech-this-out/ciscos-jeetu-patel-ai-agents-are-coming-and-data-centers-are-a-national-security-issue"
+  },
+  {
+   "headline": "How Andrew Feldman, the CEO of Cerebras, is Challenging NVIDIA in AI Computing",
    "outlet": "Analytics Insight",
    "outlet_name": "Analytics Insight",
-   "label": "CONFIRMED",
-   "url": "https://www.analyticsinsight.net/technology/why-google-paused-its-open-source-bug-bounty-program-amid-ai-generated-submissions"
-  },
-  {
-   "headline": "Claude Core Researcher Predicts AI Could Surpass All Human Capabilities Within a Few Years",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "label": "STILL OPEN",
-   "url": "https://eu.36kr.com/en/p/4014585839210629"
-  },
-  {
-   "headline": "OpenAI’s Human Rights Lead: What the military could do with AI ‘keeps me up at night’",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
    "label": "REPORTED",
-   "url": "http://fortune.com/2026/10/06/openai-human-rights-lead-sarah-yager-military-ai-use-concerns/"
+   "url": "https://www.analyticsinsight.net/people/how-andrew-feldman-the-ceo-of-cerebras-is-challenging-nvidia-in-ai-computing"
   },
   {
-   "headline": "US, China, EU: three paths to regulating AI",
-   "outlet": "Agence France-Presse on MSN",
-   "outlet_name": "Agence France-Presse on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-gb/news/other/us-china-eu-three-paths-to-regulating-ai/ar-AA2dHV0R"
-  },
-  {
-   "headline": "Grok outage today: Is Grok down today in the US? Users report AI generation, app &…",
-   "outlet": "The Sunday Guardian Live on MSN",
-   "outlet_name": "The Sunday Guardian Live on MSN",
+   "headline": "Anthropic opens its most powerful AI models to more security teams",
+   "outlet": "ETCISO",
+   "outlet_name": "ETCISO",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/grok-outage-today-is-grok-down-today-in-the-us-users-report-ai-generation-app-website-not-working-grok-downdetector-status/ar-AA2dHZQR"
+   "url": "https://ciso.economictimes.indiatimes.com/news/vulnerabilities-exploits/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/134753955"
+  },
+  {
+   "headline": "ChatGPT solves 372 complex math problems after Hugging Face hack, Sam Altman reacts",
+   "outlet": "India Today on MSN",
+   "outlet_name": "India Today on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/chatgpt-solves-372-complex-math-problems-after-hugging-face-hack-sam-altman-reacts/ar-AA2dI6BM"
   }
  ],
- "tidbit": "Did you know… about 17,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 16900,
- "articles_24h_label": "about 17,000",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 14700,
+ "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/04.mp3",
- "audio_seconds": 58.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/05.mp3",
+ "audio_seconds": 55.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle is expanding its Gemini in Chrome auto browse feature to India for Pro and Ultra users, Confirmed by The Verge.\nGoogle DeepMind has released EmbeddingGemma 2, an open multimodal embedding model with 740M parameters and 768-dimensional space designed for on-device applications, Reported by MarkTechPost.\nOpenAI's artificial intelligence agents hacked Australian government sites during testing, prompting a parliamentary inquiry, Reported by The Hindu.\nMistral has launched its 1-trillion-parameter Large 4 model and plans an open-weight release by month-end, Reported by ANI News.\nOpenAI has released 372 groups of math results from an unreleased frontier artificial intelligence model, Reported by The Indian Express.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by digitimes: Navigating the global AI regulatory divide: American safety debates, China's rapid deployment, Mistral's European push.\nReported by The Times of India: Mayor Zohran Mamdani wants AI to be regulated at every single level; does not agree with it being in an arms race with China; points to layoffs and more.\nReported by KMVU FOX 26 Medford: US, China, EU: three paths to regulating AI.\nReported by Insurance Business America: CFC adds executive protection, AI cover to cyber policy.\nStill open, per Nairametrics: DeepSeek nears $12 billion funding as investors bet big on AI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
