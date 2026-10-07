@@ -1,105 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T09:20:02Z",
- "hour": "2026-10-07T09:00:00Z",
+ "generated_at": "2026-10-07T10:20:02Z",
+ "hour": "2026-10-07T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic Launches Cyber Verification Program for Claude Access",
-   "outlet": "TechJuice",
-   "outlet_name": "TechJuice",
-   "url": "https://www.techjuice.pk/anthropic-cyber-verification-program-claude-security/",
+   "title": "\"Not safe for kids\": advocacy group urges OpenAI to keep teens off ChatGPT",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "url": "https://www.axios.com/2026/10/07/chatgpt-teens-safety-risk-common-sense-media",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic expands CVP with three tiers, enabling AI-powered vulnerability discovery and patching.",
-   "published_at": "2026-10-06T23:22:00Z"
+   "summary_1line": "Common Sense Media finds ChatGPT fails to protect teens, calling it unsafe despite promised safeguards.",
+   "published_at": "2026-10-07T09:00:54Z"
   },
   {
-   "title": "Mistral launches ‘Chonk’ to give clients full control over their data in sovereign AI push",
-   "outlet": "Malay Mail",
-   "outlet_name": "Malay Mail",
-   "url": "https://www.malaymail.com/news/tech-gadgets/2026/10/07/mistral-launches-chonk-to-give-clients-full-control-over-their-data-in-sovereign-ai-push/238076",
-   "label": "CONFIRMED",
-   "summary_1line": "Mistral launches Chonk, a large open-weight AI model trained on 4,000 Nvidia chips and 160 languages.",
-   "published_at": "2026-10-06T18:00:00Z"
-  },
-  {
-   "title": "UAE's 'very powerful' cyber defences can repel attacks, says Mistral AI boss",
-   "outlet": "The National",
-   "outlet_name": "The National",
-   "url": "https://www.thenationalnews.com/future/technology/2026/10/07/uaes-very-powerful-cyber-defences-can-repel-attacks-says-mistral-ai-boss/",
+   "title": "Mistral Launches Mistral Large 4 With 1 Trillion Parameters",
+   "outlet": "Dataconomy",
+   "outlet_name": "Dataconomy",
+   "url": "https://dataconomy.com/2026/10/07/mistral-launches-mistral-large-4-with-1-trillion-parameters/",
    "label": "REPORTED",
-   "summary_1line": "Mistral AI to consider UAE data centre investment amid rising cyber threats from Iran.",
-   "published_at": "2026-10-07T07:20:36Z"
+   "summary_1line": "Mistral AI releases ML4, a 1-trillion-parameter model, to compete with global AI rivals.",
+   "published_at": "2026-10-07T08:23:29Z"
   },
   {
-   "title": "Boston Dynamics names Amazon AI veteran Rohit Prasad as CEO",
-   "outlet": "The Korea Herald",
-   "outlet_name": "The Korea Herald",
-   "url": "https://www.koreaherald.com/article/10895825",
+   "title": "Anthropic Insiders Confirm: AI Could Kill Us — And There's No Plan Yet",
+   "outlet": "Latin Times",
+   "outlet_name": "Latin Times",
+   "url": "https://www.latintimes.com/anthropic-insiders-confirm-ai-could-kill-us-theres-no-plan-yet-599897",
    "label": "CONFIRMED",
-   "summary_1line": "Rohit Prasad joins Boston Dynamics as CEO to drive AI-powered robot commercialization.",
-   "published_at": "2026-10-06T18:01:00Z"
+   "summary_1line": "Anthropic engineers warn AI could kill humans, with no current safety plan, amid rising technical capabilities.",
+   "published_at": "2026-10-07T08:40:16Z"
   },
   {
-   "title": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear winner",
+   "title": "Ivo Launches Open-Source DeepSeek Contract AI Model",
+   "outlet": "Artificial Lawyer",
+   "outlet_name": "Artificial Lawyer",
+   "url": "https://www.artificiallawyer.com/2026/10/07/ivo-launches-open-source-deepseek-contract-ai-model/",
+   "label": "REPORTED",
+   "summary_1line": "Ivo's open-source Sage model achieves 91% legal accuracy at 20X–50X lower cost than frontier AI.",
+   "published_at": "2026-10-07T01:50:00Z"
+  },
+  {
+   "title": "Meet the doctor-whisperer helping OpenAI navigate AI's medical minefield",
    "outlet": "businessinsider.com",
    "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/openai-vs-anthropic-states-map-2026-10",
+   "url": "https://www.businessinsider.com/openai-doctors-chatgpt-health-advice-2026-10",
    "label": "REPORTED",
-   "summary_1line": "OpenAI leads AI spending in 47 states, with Anthropic in three and DC.",
-   "published_at": "2026-10-07T08:03:01Z"
+   "summary_1line": "OpenAI uses 700k+ health responses from global doctors to improve ChatGPT's medical advice safety.",
+   "published_at": "2026-10-07T09:00:02Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic Launches Cyber Verification Program for Claude Access",
-   "outlet": "TechJuice",
-   "outlet_name": "TechJuice",
-   "label": "CONFIRMED",
-   "url": "https://www.techjuice.pk/anthropic-cyber-verification-program-claude-security/"
-  },
-  {
-   "headline": "Mistral launches ‘Chonk’ to give clients full control over their data in sovereign AI push",
-   "outlet": "Malay Mail",
-   "outlet_name": "Malay Mail",
-   "label": "CONFIRMED",
-   "url": "https://www.malaymail.com/news/tech-gadgets/2026/10/07/mistral-launches-chonk-to-give-clients-full-control-over-their-data-in-sovereign-ai-push/238076"
-  },
-  {
-   "headline": "UAE's 'very powerful' cyber defences can repel attacks, says Mistral AI boss",
-   "outlet": "The National",
-   "outlet_name": "The National",
-   "label": "REPORTED",
-   "url": "https://www.thenationalnews.com/future/technology/2026/10/07/uaes-very-powerful-cyber-defences-can-repel-attacks-says-mistral-ai-boss/"
-  },
-  {
-   "headline": "Boston Dynamics names Amazon AI veteran Rohit Prasad as CEO",
-   "outlet": "The Korea Herald",
-   "outlet_name": "The Korea Herald",
-   "label": "CONFIRMED",
-   "url": "https://www.koreaherald.com/article/10895825"
-  },
-  {
-   "headline": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear…",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://www.businessinsider.com/openai-vs-anthropic-states-map-2026-10"
-  },
-  {
-   "headline": "Breaking: Claude Seizes the \"Holy Grail\" of Probability Theory, AI Crosses the Finish…",
-   "outlet": "36 Kr",
-   "outlet_name": "36 Kr",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4015346980278153"
-  },
-  {
    "headline": "\"Not safe for kids\": advocacy group urges OpenAI to keep teens off ChatGPT",
    "outlet": "axios.com",
    "outlet_name": "Axios",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.axios.com/2026/10/07/chatgpt-teens-safety-risk-common-sense-media"
+  },
+  {
+   "headline": "Mistral Launches Mistral Large 4 With 1 Trillion Parameters",
+   "outlet": "Dataconomy",
+   "outlet_name": "Dataconomy",
+   "label": "REPORTED",
+   "url": "https://dataconomy.com/2026/10/07/mistral-launches-mistral-large-4-with-1-trillion-parameters/"
+  },
+  {
+   "headline": "Anthropic Insiders Confirm: AI Could Kill Us — And There's No Plan Yet",
+   "outlet": "Latin Times",
+   "outlet_name": "Latin Times",
+   "label": "CONFIRMED",
+   "url": "https://www.latintimes.com/anthropic-insiders-confirm-ai-could-kill-us-theres-no-plan-yet-599897"
   },
   {
    "headline": "Ivo Launches Open-Source DeepSeek Contract AI Model",
@@ -109,42 +81,70 @@
    "url": "https://www.artificiallawyer.com/2026/10/07/ivo-launches-open-source-deepseek-contract-ai-model/"
   },
   {
-   "headline": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million…",
-   "outlet": "marktechpost.com",
-   "outlet_name": "marktechpost.com",
+   "headline": "Meet the doctor-whisperer helping OpenAI navigate AI's medical minefield",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
    "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/"
+   "url": "https://www.businessinsider.com/openai-doctors-chatgpt-health-advice-2026-10"
   },
   {
-   "headline": "Moonshot AI eyes Hong Kong IPO after $50 billion valuation as DeepSeek raises capital",
-   "outlet": "Euronews on MSN",
-   "outlet_name": "Euronews on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-au/money/general/moonshot-ai-eyes-hong-kong-ipo-after-50-billion-valuation-as-deepseek-raises-capital/ar-AA2dFbAS"
-  },
-  {
-   "headline": "IMF chief urges countries to do more to curb debt and regulate AI",
-   "outlet": "Associated Press News on MSN",
-   "outlet_name": "Associated Press News on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/imf-chief-urges-countries-to-do-more-to-curb-debt-and-regulate-ai/ar-AA2dITd8"
-  },
-  {
-   "headline": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies",
-   "outlet": "securityweek.com",
-   "outlet_name": "securityweek.com",
+   "headline": "OpenAI dumps 372 AI-generated math proofs on GitHub, telling the academic world to keep up",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/"
+   "url": "https://the-decoder.com/openai-dumps-372-ai-generated-math-proofs-on-github-telling-the-academic-world-to-keep-up/"
+  },
+  {
+   "headline": "Gemini API pricing, worked out before you add a card",
+   "outlet": "TechPluto",
+   "outlet_name": "TechPluto",
+   "label": "REPORTED",
+   "url": "https://www.techpluto.com/gemini-api-pricing-worked-out-before-you-add-a-card/"
+  },
+  {
+   "headline": "Anthropic Study Finds AI Models Can Favor User Beliefs Over Facts",
+   "outlet": "Dataconomy",
+   "outlet_name": "Dataconomy",
+   "label": "REPORTED",
+   "url": "https://dataconomy.com/2026/10/06/anthropic-ai-sycophancy-models-favor-user-beliefs-facts/"
+  },
+  {
+   "headline": "Government backs healthcare AI regulation recommendations",
+   "outlet": "The Pharmacist",
+   "outlet_name": "The Pharmacist",
+   "label": "REPORTED",
+   "url": "https://www.thepharmacist.co.uk/in-practice/government-backs-healthcare-ai-regulation-recommendations/"
+  },
+  {
+   "headline": "Mistral Steps Up Open-Weight Competition With ‘Le Chonk’",
+   "outlet": "Silicon UK",
+   "outlet_name": "Silicon UK",
+   "label": "REPORTED",
+   "url": "https://www.silicon.co.uk/cloud/ai/mistral-le-chonk-631804"
+  },
+  {
+   "headline": "Anthropic brings Claude to Google Docs, Sheets and Slides; here’s how it works",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
+   "label": "REPORTED",
+   "url": "https://m.economictimes.com/tech/artificial-intelligence/anthropic-brings-claude-to-google-docs-sheets-and-slides-heres-how-it-works/articleshow/134760679.cms"
+  },
+  {
+   "headline": "Google DeepMind launches EmbeddingGemma 2 for on-device AI search",
+   "outlet": "www.verdict.co.uk",
+   "outlet_name": "www.verdict.co.uk",
+   "label": "REPORTED",
+   "url": "https://www.verdict.co.uk/google-deepmind-launches-embeddinggemma-2/"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 14300,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/09.mp3",
- "audio_seconds": 67.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/10.mp3",
+ "audio_seconds": 45.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic has launched a Cyber Verification Program for Claude access. Confirmed by TechJuice, the expansion includes three tiers for vulnerability discovery and patching.\nMistral has introduced Chonk, a large open-weight model trained on 4,000 Nvidia chips and 160 languages. Confirmed by Malay Mail, the model gives clients full control over their data.\nMistral's boss says the UAE has very powerful cyber defences to repel attacks. Reported by The National, the company is considering a data centre investment there.\nRohit Prasad, an Amazon veteran, has been named CEO of Boston Dynamics. Confirmed by The Korea Herald, he will drive artificial intelligence powered robot commercialization.\nOpenAI leads artificial intelligence spending in 47 states. Reported by Business Insider, Anthropic appears in three states and the District of Columbia.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Axios: \"Not safe for kids\": advocacy group urges OpenAI to keep teens off ChatGPT.\nReported by Dataconomy: Mistral Launches Mistral Large 4 With 1 Trillion Parameters.\nConfirmed, per Latin Times: Anthropic Insiders Confirm: AI Could Kill Us — And There's No Plan Yet.\nReported by Artificial Lawyer: Ivo Launches Open-Source DeepSeek Contract AI Model.\nReported by Business Insider: Meet the doctor-whisperer helping OpenAI navigate AI's medical minefield.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
