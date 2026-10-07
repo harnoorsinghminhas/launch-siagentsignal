@@ -1,98 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T20:20:04Z",
- "hour": "2026-10-07T20:00:00Z",
+ "generated_at": "2026-10-07T21:20:02Z",
+ "hour": "2026-10-07T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html",
+   "title": "Microsoft is giving Copilot more control over Windows and your files",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
    "label": "CONFIRMED",
-   "summary_1line": "Microsoft's Surface Laptop Ultra starts at $2,599 with AI chip and magnetic USB-C.",
-   "published_at": "2026-10-07T18:34:31Z"
+   "summary_1line": "Microsoft's Copilot gains local file access and OS actions via Hybrid Intelligence, launching in fall 2024.",
+   "published_at": "2026-10-07T19:28:42Z"
   },
   {
-   "title": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/",
+   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's Haiku 5.5 cuts prices by up to 90%, beats GPT-6 Luna in benchmarks, and offers new API credits.",
-   "published_at": "2026-10-07T18:49:23Z"
+   "summary_1line": "OpenAI rolls out GPT-6 with interactive UI to all ChatGPT users, including free tier.",
+   "published_at": "2026-10-07T19:10:42Z"
   },
   {
-   "title": "Anthropic unveils a new, cheaper Haiku model",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnBDOWhTa1hmOERadHNuSjFXMzNGaTFmd3BKemkxaDBHNDRPOEtpNFlnbEZDUnRyYXNyWW94aWZSREtFcU5qcEJwRkd6YzFuYlFFMU5BMVJ1N0tDT0FCOG1OZXJkdDU2aDdBY0Q1Qkt1ZTFscFlBdndNUlhvUjQ2LVdhZ3RfYlZRU0d2WTdUVQ?oc=5",
+   "title": "Huawei and DeepSeek release open source AI tools in a bid to lower Nvidia exposure — but will programmers make the switch?",
+   "outlet": "TechRadar",
+   "outlet_name": "TechRadar",
+   "url": "https://www.techradar.com/pro/huawei-and-deepseek-release-open-source-ai-tools-in-a-bid-to-lower-nvidia-exposure-but-will-programmers-make-the-switch",
+   "label": "CONFIRMED",
+   "summary_1line": "Huawei and DeepSeek open-source Ascend tools to reduce Nvidia dependency.",
+   "published_at": "2026-10-07T19:20:00Z"
+  },
+  {
+   "title": "FCC Considers AI Robocall Waiver Before Midterms",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
+   "url": "https://hoodline.com/2026/10/fcc-weighs-letting-ai-robocalls-flood-cell-phones-before-midterms/",
+   "label": "CONFIRMED",
+   "summary_1line": "FCC considers AI robocalls for political groups ahead of November elections.",
+   "published_at": "2026-10-07T19:43:33Z"
+  },
+  {
+   "title": "Anthropic Launches Claude Haiku 5.5 Ahead of November $2T IPO",
+   "outlet": "CoinGape",
+   "outlet_name": "CoinGape",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGJjNlVvUEZNRTU0WlVQRUZlckRlMzVVNVdwVl9WeGtGbkZsYW8xTXZYV3dJcV9scW9udkIxYUJvVnRsaHJrSW9uSlpCbzhDSmNKVWt2d3BORHJxbmFNX2s1N05uY0V0VGRHT3YwZmhRQ0pfazZNX09DNERzcldKVERIQzlha1RWQ1E?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-07T18:30:23Z"
-  },
-  {
-   "title": "GitHub Copilot CLI Flaw Uses Encrypted Prompts to Leak Developer Secrets in Autopilot Mode",
-   "outlet": "Cyber Press",
-   "outlet_name": "Cyber Press",
-   "url": "https://cyberpress.org/github-copilot-cli-flaw/",
-   "label": "REPORTED",
-   "summary_1line": "GitHub Copilot CLI flaw lets attackers extract secrets via encrypted prompts in 50% of cases.",
-   "published_at": "2026-10-07T16:35:24Z"
-  },
-  {
-   "title": "McDonald’s sued over AI pricing tool in proposed antitrust class action",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
-   "url": "https://ca.finance.yahoo.com/news/mcdonald-sued-over-ai-pricing-144600060.html",
-   "label": "CONFIRMED",
-   "summary_1line": "McDonald's AI pricing tool faces lawsuit over alleged price coordination among franchisees.",
-   "published_at": "2026-10-07T14:46:00Z"
+   "published_at": "2026-10-07T20:37:08Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "Microsoft is giving Copilot more control over Windows and your files",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/07/microsoft-starts-taking-preorders-for-2599-surface-laptop-ultra.html"
+   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
   },
   {
-   "headline": "Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far…",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
+   "headline": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://the-decoder.com/claude-haiku-5-5-arrives-with-massive-price-cuts-proving-the-ai-pricing-arms-race-is-far-from-over/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
   },
   {
-   "headline": "Anthropic unveils a new, cheaper Haiku model",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "Huawei and DeepSeek release open source AI tools in a bid to lower Nvidia exposure — but…",
+   "outlet": "TechRadar",
+   "outlet_name": "TechRadar",
+   "label": "CONFIRMED",
+   "url": "https://www.techradar.com/pro/huawei-and-deepseek-release-open-source-ai-tools-in-a-bid-to-lower-nvidia-exposure-but-will-programmers-make-the-switch"
+  },
+  {
+   "headline": "FCC Considers AI Robocall Waiver Before Midterms",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
+   "label": "CONFIRMED",
+   "url": "https://hoodline.com/2026/10/fcc-weighs-letting-ai-robocalls-flood-cell-phones-before-midterms/"
+  },
+  {
+   "headline": "Anthropic Launches Claude Haiku 5.5 Ahead of November $2T IPO",
+   "outlet": "CoinGape",
+   "outlet_name": "CoinGape",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnBDOWhTa1hmOERadHNuSjFXMzNGaTFmd3BKemkxaDBHNDRPOEtpNFlnbEZDUnRyYXNyWW94aWZSREtFcU5qcEJwRkd6YzFuYlFFMU5BMVJ1N0tDT0FCOG1OZXJkdDU2aDdBY0Q1Qkt1ZTFscFlBdndNUlhvUjQ2LVdhZ3RfYlZRU0d2WTdUVQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGJjNlVvUEZNRTU0WlVQRUZlckRlMzVVNVdwVl9WeGtGbkZsYW8xTXZYV3dJcV9scW9udkIxYUJvVnRsaHJrSW9uSlpCbzhDSmNKVWt2d3BORHJxbmFNX2s1N05uY0V0VGRHT3YwZmhRQ0pfazZNX09DNERzcldKVERIQzlha1RWQ1E?oc=5"
   },
   {
-   "headline": "GitHub Copilot CLI Flaw Uses Encrypted Prompts to Leak Developer Secrets in Autopilot Mode",
-   "outlet": "Cyber Press",
-   "outlet_name": "Cyber Press",
-   "label": "REPORTED",
-   "url": "https://cyberpress.org/github-copilot-cli-flaw/"
-  },
-  {
-   "headline": "McDonald’s sued over AI pricing tool in proposed antitrust class action",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
+   "headline": "Microsoft Says New Flagship Laptop Features NVIDIA Chips, Outperforming Apple MacBook on…",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
    "label": "CONFIRMED",
-   "url": "https://ca.finance.yahoo.com/news/mcdonald-sued-over-ai-pricing-144600060.html"
-  },
-  {
-   "headline": "Claude Haiku 5.5",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/claude-haiku-5-5"
+   "url": "https://finance.sina.com.cn/world/2026-10-08/doc-iniumumr7867136.shtml"
   },
   {
    "headline": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
@@ -102,11 +102,18 @@
    "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
   },
   {
-   "headline": "GPT‑6 and Intelligent UI for everyone",
-   "outlet": "openai.com",
-   "outlet_name": "openai.com",
+   "headline": "Mistral's 1 trillion-parameter open weights model is 'Le Chonk'",
+   "outlet": "news.lavx.hu",
+   "outlet_name": "news.lavx.hu",
    "label": "CONFIRMED",
-   "url": "https://openai.com/index/gpt-6-for-everyone/"
+   "url": "https://news.lavx.hu/article/mistral-s-1-trillion-parameter-open-weights-model-is-le-chonk"
+  },
+  {
+   "headline": "Surface Laptop Ultra laptop equipped with NVIDIA RTX Spark released, priced from 513,480…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002110/"
   },
   {
    "headline": "Introducing Claude Haiku 5.5 on AWS",
@@ -116,18 +123,11 @@
    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/"
   },
   {
-   "headline": "NVIDIA RTX Spark laptops launch October 16, prices start at $2,599",
-   "outlet": "VideoCardz.com",
-   "outlet_name": "VideoCardz.com",
-   "label": "REPORTED",
-   "url": "https://videocardz.com/newz/nvidia-rtx-spark-laptops-launch-october-16-prices-start-at-2599"
-  },
-  {
-   "headline": "Bringing Gemini in Chrome with auto browse to India",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Claude Haiku 5.5: Intelligence, Performance and Price Analysis",
+   "outlet": "artificialanalysis.ai",
+   "outlet_name": "artificialanalysis.ai",
    "label": "CONFIRMED",
-   "url": "https://blog.google/intl/en-in/products/bringing-gemini-in-chrome-with-auto-browse-to-india/"
+   "url": "https://artificialanalysis.ai/models/claude-haiku-5-5"
   },
   {
    "headline": "AI safety group outlines demands for legislation, warns lawmakers",
@@ -137,14 +137,14 @@
    "url": "https://www.msn.com/en-us/news/other/ai-safety-group-outlines-demands-for-legislation-warns-lawmakers/ar-AA2dLtge"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 13400,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/20.mp3",
- "audio_seconds": 54.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/21.mp3",
+ "audio_seconds": 47.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip.\nConfirmed, per The Decoder: Claude Haiku 5.5 arrives with massive price cuts proving the AI pricing arms race is far from over.\nReported by CNBC: Anthropic unveils a new, cheaper Haiku model.\nReported by Cyber Press: GitHub Copilot CLI Flaw Uses Encrypted Prompts to Leak Developer Secrets in Autopilot Mode.\nConfirmed, per Yahoo! Finance Canada: McDonald’s sued over AI pricing tool in proposed antitrust class action.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: Microsoft is giving Copilot more control over Windows and your files.\nConfirmed, per The Verge: ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons.\nConfirmed, per TechRadar: Huawei and DeepSeek release open source AI tools in a bid to lower Nvidia exposure — but will programmers make the switch.\nConfirmed, per Hoodline: FCC Considers AI Robocall Waiver Before Midterms.\nReported by CoinGape: Anthropic Launches Claude Haiku 5.5 Ahead of November $2T IPO.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
