@@ -1,105 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T12:20:02Z",
- "hour": "2026-10-07T12:00:00Z",
+ "generated_at": "2026-10-07T13:20:02Z",
+ "hour": "2026-10-07T13:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "McDonald’s sued for alleged antitrust violations by using AI tool to determine pricing for franchises",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit",
+   "title": "US, China, EU: three paths to regulating AI",
+   "outlet": "Macau Business",
+   "outlet_name": "Macau Business",
+   "url": "https://macaubusiness.com/us-china-eu-three-paths-to-regulating-ai-2/",
    "label": "CONFIRMED",
-   "summary_1line": "McDonald’s faces antitrust lawsuit over alleged AI-driven price coordination across franchises.",
-   "published_at": "2026-10-07T11:00:08Z"
+   "summary_1line": "US, China, EU take different paths to regulate AI, with new rules on safety, children, and economic impact.",
+   "published_at": "2026-10-07T09:35:15Z"
   },
   {
-   "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+   "title": "Tencent Music integrated DeepSeek into its streaming service. Now parent company Tencent is among the biggest backers of the AI company’s $12B+ funding round (report)",
+   "outlet": "Music Business Worldwide",
+   "outlet_name": "Music Business Worldwide",
+   "url": "https://www.musicbusinessworldwide.com/tencent-music-integrated-deepseek-into-its-streaming-service-now-parent-company-tencent-is-among-the-biggest-backers-of-the-ai-companys-12b-funding-round-report/",
+   "label": "STILL OPEN",
+   "summary_1line": "DeepSeek raises $12B+ in funding, with Tencent and CATL leading, targeting 2027 IPO.",
+   "published_at": "2026-10-07T11:49:26Z"
+  },
+  {
+   "title": "China’s open-weight AI models are winning global users. Who is capturing the value?",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3370012/chinas-open-weight-ai-models-are-winning-global-users-who-capturing-value?utm_source=rss_feed",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI's Dots AI helps buy a couch but misreads names and makes awkward emotional responses.",
-   "published_at": "2026-10-07T11:00:00Z"
+   "summary_1line": "China's open AI models gain global users but developers lose revenue to third parties.",
+   "published_at": "2026-10-07T11:00:09Z"
   },
   {
-   "title": "GBM with the Cisco Secured AI Factory and NVIDIA launches UAEs latest AI Hub",
-   "outlet": "intlbm",
-   "outlet_name": "intlbm",
-   "url": "https://intlbm.com/2026/10/07/gbm-with-the-cisco-secured-ai-factory-and-nvidia-launches-uaes-latest-ai-hub/",
-   "label": "REPORTED",
-   "summary_1line": "GBM launches UAE’s first AI Lab with Cisco and NVIDIA for GCC enterprises.",
-   "published_at": "2026-10-07T10:53:48Z"
-  },
-  {
-   "title": "Google DeepMind launches EmbeddingGemma 2 for on-device AI search",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/gemini/articles/google-deepmind-launches-embeddinggemma-2-091515015.html",
-   "label": "REPORTED",
-   "summary_1line": "Google DeepMind launches EmbeddingGemma 2 for on-device AI search across text, image, video and audio.",
-   "published_at": "2026-10-07T09:15:15Z"
-  },
-  {
-   "title": "Grok Bot for Founder-Led Sales",
-   "outlet": "xAI",
-   "outlet_name": "xAI",
-   "url": "https://x.ai/bot/guides/grok-bot-for-founder-led-sales",
+   "title": "KI von OpenAI löst wohl Hunderte weitere Mathematikprobleme",
+   "outlet": "FAZ",
+   "outlet_name": "FAZ",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-von-openai-loest-wohl-hunderte-weitere-mathematikprobleme-accg-201295709.html",
    "label": "CONFIRMED",
-   "summary_1line": "Founders can automate early sales with Grok Bot's suite of specialized AI bots.",
-   "published_at": "2026-10-06T19:20:25Z"
+   "summary_1line": "OpenAI shares AI-solved math results, including progress on three Millennium Prize Problems.",
+   "published_at": "2026-10-07T11:20:28Z"
+  },
+  {
+   "title": "Business News | Mistral Launches 1-trillion-parameter Large 4 Model, Plans Open-weight Release by Month-end",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "url": "https://www.latestly.com/agency-news/business-news-mistral-launches-1-trillion-parameter-large-4-model-plans-open-weight-release-by-month-end-7635494.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Mistral launches 1-trillion-parameter ML4 model with public preview and open-weight release by month-end.",
+   "published_at": "2026-10-06T20:24:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "McDonald’s sued for alleged antitrust violations by using AI tool to determine pricing…",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "US, China, EU: three paths to regulating AI",
+   "outlet": "Macau Business",
+   "outlet_name": "Macau Business",
    "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/business/2026/oct/07/mcdonalds-ai-prices-lawsuit"
+   "url": "https://macaubusiness.com/us-china-eu-three-paths-to-regulating-ai-2/"
   },
   {
-   "headline": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
+   "headline": "Tencent Music integrated DeepSeek into its streaming service. Now parent company Tencent…",
+   "outlet": "Music Business Worldwide",
+   "outlet_name": "Music Business Worldwide",
+   "label": "STILL OPEN",
+   "url": "https://www.musicbusinessworldwide.com/tencent-music-integrated-deepseek-into-its-streaming-service-now-parent-company-tencent-is-among-the-biggest-backers-of-the-ai-companys-12b-funding-round-report/"
+  },
+  {
+   "headline": "China’s open-weight AI models are winning global users. Who is capturing the value?",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
    "label": "CONFIRMED",
-   "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/"
+   "url": "https://www.scmp.com/tech/tech-trends/article/3370012/chinas-open-weight-ai-models-are-winning-global-users-who-capturing-value?utm_source=rss_feed"
   },
   {
-   "headline": "GBM with the Cisco Secured AI Factory and NVIDIA launches UAEs latest AI Hub",
-   "outlet": "intlbm",
-   "outlet_name": "intlbm",
-   "label": "REPORTED",
-   "url": "https://intlbm.com/2026/10/07/gbm-with-the-cisco-secured-ai-factory-and-nvidia-launches-uaes-latest-ai-hub/"
-  },
-  {
-   "headline": "Google DeepMind launches EmbeddingGemma 2 for on-device AI search",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/gemini/articles/google-deepmind-launches-embeddinggemma-2-091515015.html"
-  },
-  {
-   "headline": "Grok Bot for Founder-Led Sales",
-   "outlet": "xAI",
-   "outlet_name": "xAI",
+   "headline": "KI von OpenAI löst wohl Hunderte weitere Mathematikprobleme",
+   "outlet": "FAZ",
+   "outlet_name": "FAZ",
    "label": "CONFIRMED",
-   "url": "https://x.ai/bot/guides/grok-bot-for-founder-led-sales"
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-von-openai-loest-wohl-hunderte-weitere-mathematikprobleme-accg-201295709.html"
   },
   {
-   "headline": "How Does Mistral Large 4 Compare To Its Competitors?",
-   "outlet": "AI Magazine",
-   "outlet_name": "AI Magazine",
-   "label": "REPORTED",
-   "url": "https://aimagazine.com/news/how-does-mistral-large-4-compare-to-its-competitors"
+   "headline": "Business News | Mistral Launches 1-trillion-parameter Large 4 Model, Plans Open-weight…",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "label": "CONFIRMED",
+   "url": "https://www.latestly.com/agency-news/business-news-mistral-launches-1-trillion-parameter-large-4-model-plans-open-weight-release-by-month-end-7635494.html"
   },
   {
-   "headline": "Japanese book wholesaler admits selling books to Anthropic, raising AI training concerns",
-   "outlet": "Qazinform",
-   "outlet_name": "Qazinform",
-   "label": "REPORTED",
-   "url": "https://qazinform.com/news/japanese-book-wholesaler-admits-selling-books-to-anthropic-raising-ai-training-concerns-3532f0"
+   "headline": "OpenAI's mathematical breakthroughs roil the field",
+   "outlet": "semafor.com",
+   "outlet_name": "Semafor",
+   "label": "STILL OPEN",
+   "url": "https://www.semafor.com/article/10/07/2026/openais-mathematical-breakthroughs-roil-the-field"
+  },
+  {
+   "headline": "OpenAI’s ChatGPT for teens is an unsafe mess, testing finds",
+   "outlet": "Futurism on MSN",
+   "outlet_name": "Futurism on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/openai-s-chatgpt-for-teens-is-an-unsafe-mess-testing-finds/ar-AA2dJKwy"
   },
   {
    "headline": "The Sequence Learning Loop - Issue 946: Learning About OpenAI DevDay Releases and Gemini…",
@@ -107,6 +107,13 @@
    "outlet_name": "thesequence.substack.com",
    "label": "STILL OPEN",
    "url": "https://thesequence.substack.com/p/the-sequence-learning-loop-issue-f1b"
+  },
+  {
+   "headline": "Aleph Alpha and Mistral releases raise hopes for Europe’s sovereign AI ambitions",
+   "outlet": "sifted.eu",
+   "outlet_name": "sifted.eu",
+   "label": "REPORTED",
+   "url": "https://sifted.eu/articles/aleph-alpha-kolibri-mistral-chonk-frontier-ai/"
   },
   {
    "headline": "16 AI models in one month: DeepSeek, Chinese AI firms step up launch race despite…",
@@ -123,28 +130,21 @@
    "url": "https://www.msn.com/en-us/news/other/most-us-voters-say-trump-congress-dont-take-ai-risks-seriously-reutersipsos-poll-finds/ar-AA2dJJiE"
   },
   {
-   "headline": "OpenAI’s ChatGPT for teens is an unsafe mess, testing finds",
-   "outlet": "Futurism on MSN",
-   "outlet_name": "Futurism on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/openai-s-chatgpt-for-teens-is-an-unsafe-mess-testing-finds/ar-AA2dJKwy"
-  },
-  {
-   "headline": "Why Google Lets Claude Into Workspace, and What It Means for Companies",
-   "outlet": "www.trendingtopics.eu",
-   "outlet_name": "www.trendingtopics.eu",
+   "headline": "Microsoft and OpenAI just got hit with another copyright lawsuit",
+   "outlet": "Windows Report on MSN",
+   "outlet_name": "Windows Report on MSN",
    "label": "REPORTED",
-   "url": "https://www.trendingtopics.eu/google-workspace-claude-ai-agents/"
+   "url": "https://www.msn.com/en-xl/news/other/microsoft-and-openai-just-got-hit-with-another-copyright-lawsuit/ar-AA2dK6ig"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 14200,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 14100,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/12.mp3",
- "audio_seconds": 50.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/13.mp3",
+ "audio_seconds": 67.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Guardian: McDonald’s sued for alleged antitrust violations by using AI tool to determine pricing for franchises.\nConfirmed, per Wired: OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me.\nReported by intlbm: GBM with the Cisco Secured AI Factory and NVIDIA launches UAEs latest AI Hub.\nReported by Yahoo Tech: Google DeepMind launches EmbeddingGemma 2 for on-device AI search.\nConfirmed, per xAI: Grok Bot for Founder-Led Sales.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nUS, China, and the European Union are taking different paths to regulate artificial intelligence, with new rules addressing safety, children, and economic impact. That's confirmed by Macau Business.\nTencent Music has integrated DeepSeek into its streaming service. Now parent company Tencent is among the biggest backers of the artificial intelligence company's $12B+ funding round, still open per Music Business Worldwide.\nChina's open artificial intelligence models are gaining global users. But developers are losing revenue to third parties, confirmed by South China Morning Post.\nOpenAI has shared artificial intelligence solved math results, including progress on three Millennium Prize Problems. That's confirmed by FAZ.\nMistral has launched a 1-trillion-parameter Large 4 model with a public preview and open-weight release planned by month-end, confirmed by LatestLY.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
