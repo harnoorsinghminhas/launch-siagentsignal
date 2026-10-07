@@ -1,105 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T07:20:02Z",
- "hour": "2026-10-07T07:00:00Z",
+ "generated_at": "2026-10-07T08:20:02Z",
+ "hour": "2026-10-07T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI cyber risks ‘went up 10-fold’ after Anthropic’s Mythos, JPMorgan CEO says",
-   "outlet": "The Financial Express",
-   "outlet_name": "The Financial Express",
-   "url": "https://www.financialexpress.com/world-news/us-news/ai-cyber-risks-went-up-10-fold-after-anthropics-mythos-jpmorgan-ceo-says/4355248/",
+   "title": "MAS rolls out AI risk management guidelines for Singapore’s financial sector",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
+   "url": "https://www.businesstimes.com.sg/singapore/economy-policy/mas-rolls-out-ai-risk-management-guidelines-singapores-financial-sector",
    "label": "CONFIRMED",
-   "summary_1line": "Dimon warns AI agents pose new cyber risks, citing Anthropic's Mythos and Hugging Face incidents.",
-   "published_at": "2026-10-06T21:47:00Z"
+   "summary_1line": "MAS launches AI risk guidelines for Singapore financial sector, effective Oct 7, 2027.",
+   "published_at": "2026-10-07T06:09:00Z"
   },
   {
-   "title": "MN Law Banning AI ‘Nudification’ on Pause After Federal Appeals Court Decision",
-   "outlet": "Lakeland PBS",
-   "outlet_name": "Lakeland PBS",
-   "url": "https://lptv.org/mn-law-banning-ai-nudification-on-pause-after-federal-appeals-court-decision/",
+   "title": "GitHub Copilot CLI Flaw Lets Attackers Steal Developer Secrets Using Encrypted Prompt Injection",
+   "outlet": "GBHackers News",
+   "outlet_name": "GBHackers News",
+   "url": "https://gbhackers.com/github-copilot-cli-flaw/",
    "label": "REPORTED",
-   "summary_1line": "Minnesota's AI nudification law paused after federal court sides with xAI.",
-   "published_at": "2026-10-07T06:13:31Z"
+   "summary_1line": "GitHub Copilot CLI flaw exposes secrets via encrypted prompts in 28 seconds.",
+   "published_at": "2026-10-07T05:10:03Z"
   },
   {
-   "title": "France's Mistral launches AI model it says outperforms some Chinese rivals",
-   "outlet": "AsiaOne",
-   "outlet_name": "AsiaOne",
-   "url": "https://www.asiaone.com/money/frances-mistral-launches-ai-model-it-says-outperforms-some-chinese-rivals",
-   "label": "REPORTED",
-   "summary_1line": "Mistral launches new AI model, outperforming Chinese rivals in key areas, with public release on Oct 27.",
-   "published_at": "2026-10-06T17:00:00Z"
-  },
-  {
-   "title": "ServiceNow launches AI workflow tools to scale enterprise AI in India",
-   "outlet": "techgig",
-   "outlet_name": "techgig",
-   "url": "https://www.techgig.com/news/ai/servicenow-launches-ai-workflow-tools-to-scale-enterprise-ai-in-india/134726775",
+   "title": "Anthropic opens its most powerful AI models to more security teams",
+   "outlet": "ET BrandEquity",
+   "outlet_name": "ET BrandEquity",
+   "url": "https://brandequity.economictimes.indiatimes.com/news/digital/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/134757983",
    "label": "CONFIRMED",
-   "summary_1line": "ServiceNow launches AI tools in India to unify enterprise AI workflows and boost developer capabilities.",
-   "published_at": "2026-10-06T00:16:00Z"
+   "summary_1line": "Anthropic expands AI security testing to teams with critical infrastructure access.",
+   "published_at": "2026-10-06T23:32:00Z"
   },
   {
-   "title": "Nvidia's Buyback Shield and AI Safety Push Meet a Hard Question From Lenders",
-   "outlet": "AD HOC NEWS",
-   "outlet_name": "AD HOC NEWS",
-   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/nvidia-s-buyback-shield-and-ai-safety-push-meet-a-hard-question-from/70250505",
+   "title": "DOD Halts Use of Anthropic AI After Court Upholds Supply Chain Risk Designation",
+   "outlet": "Homeland Security Today",
+   "outlet_name": "Homeland Security Today",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaW1tNnJFRF9JM3FlcFZXcjhSNG1ja3F6dTAzWHgxTUtYQV9jRVVISVdsNXlvRXNVZTc3SmlYNjhfemdPeUo0U1U0M3BOR1VBVDFKdjNpbEdaN0RMZU9fSDk4Wk5pYUN4V1g2X1hzdjY1TUlCWEFjUlJQN3JpaGV0dC1VclN5Z1NGbHg0ZlFpdnlTNjZVSEIyb2ZkOTJWVG01d3g4QlB1ZmVYd1pkMUtqZmxaU25Qc3h3ZkZQQnlyU1I3SUxMb1QwTXUzQkRPWmhpTDBjX3RIVFlRTnlNTUE?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Nvidia boosts buybacks and launches AI safety platform amid lender scrutiny.",
-   "published_at": "2026-10-07T04:40:29Z"
+   "summary_1line": null,
+   "published_at": "2026-10-07T07:28:11Z"
+  },
+  {
+   "title": "Trump Rules Out US-China Joint Ventures on AI",
+   "outlet": "MediaNama",
+   "outlet_name": "MediaNama",
+   "url": "https://www.medianama.com/2026/10/223-trump-rejects-us-china-ai-cooperation/",
+   "label": "REPORTED",
+   "summary_1line": "Trump rejects US-China AI joint ventures, announces voluntary tech industry AI safety pact.",
+   "published_at": "2026-10-07T06:29:52Z"
   }
  ],
  "ticker": [
   {
-   "headline": "AI cyber risks ‘went up 10-fold’ after Anthropic’s Mythos, JPMorgan CEO says",
-   "outlet": "The Financial Express",
-   "outlet_name": "The Financial Express",
+   "headline": "MAS rolls out AI risk management guidelines for Singapore’s financial sector",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
    "label": "CONFIRMED",
-   "url": "https://www.financialexpress.com/world-news/us-news/ai-cyber-risks-went-up-10-fold-after-anthropics-mythos-jpmorgan-ceo-says/4355248/"
+   "url": "https://www.businesstimes.com.sg/singapore/economy-policy/mas-rolls-out-ai-risk-management-guidelines-singapores-financial-sector"
   },
   {
-   "headline": "MN Law Banning AI ‘Nudification’ on Pause After Federal Appeals Court Decision",
-   "outlet": "Lakeland PBS",
-   "outlet_name": "Lakeland PBS",
+   "headline": "GitHub Copilot CLI Flaw Lets Attackers Steal Developer Secrets Using Encrypted Prompt…",
+   "outlet": "GBHackers News",
+   "outlet_name": "GBHackers News",
    "label": "REPORTED",
-   "url": "https://lptv.org/mn-law-banning-ai-nudification-on-pause-after-federal-appeals-court-decision/"
+   "url": "https://gbhackers.com/github-copilot-cli-flaw/"
   },
   {
-   "headline": "France's Mistral launches AI model it says outperforms some Chinese rivals",
-   "outlet": "AsiaOne",
-   "outlet_name": "AsiaOne",
-   "label": "REPORTED",
-   "url": "https://www.asiaone.com/money/frances-mistral-launches-ai-model-it-says-outperforms-some-chinese-rivals"
-  },
-  {
-   "headline": "ServiceNow launches AI workflow tools to scale enterprise AI in India",
-   "outlet": "techgig",
-   "outlet_name": "techgig",
+   "headline": "Anthropic opens its most powerful AI models to more security teams",
+   "outlet": "ET BrandEquity",
+   "outlet_name": "ET BrandEquity",
    "label": "CONFIRMED",
-   "url": "https://www.techgig.com/news/ai/servicenow-launches-ai-workflow-tools-to-scale-enterprise-ai-in-india/134726775"
+   "url": "https://brandequity.economictimes.indiatimes.com/news/digital/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/134757983"
   },
   {
-   "headline": "Nvidia's Buyback Shield and AI Safety Push Meet a Hard Question From Lenders",
-   "outlet": "AD HOC NEWS",
-   "outlet_name": "AD HOC NEWS",
+   "headline": "DOD Halts Use of Anthropic AI After Court Upholds Supply Chain Risk Designation",
+   "outlet": "Homeland Security Today",
+   "outlet_name": "Homeland Security Today",
    "label": "REPORTED",
-   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/nvidia-s-buyback-shield-and-ai-safety-push-meet-a-hard-question-from/70250505"
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaW1tNnJFRF9JM3FlcFZXcjhSNG1ja3F6dTAzWHgxTUtYQV9jRVVISVdsNXlvRXNVZTc3SmlYNjhfemdPeUo0U1U0M3BOR1VBVDFKdjNpbEdaN0RMZU9fSDk4Wk5pYUN4V1g2X1hzdjY1TUlCWEFjUlJQN3JpaGV0dC1VclN5Z1NGbHg0ZlFpdnlTNjZVSEIyb2ZkOTJWVG01d3g4QlB1ZmVYd1pkMUtqZmxaU25Qc3h3ZkZQQnlyU1I3SUxMb1QwTXUzQkRPWmhpTDBjX3RIVFlRTnlNTUE?oc=5"
   },
   {
-   "headline": "Google retires a Gemini image model 154 days after release, on 23 days' notice",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
+   "headline": "Trump Rules Out US-China Joint Ventures on AI",
+   "outlet": "MediaNama",
+   "outlet_name": "MediaNama",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHlNZ2FQZmVHYk83ZVJsV2FBODFjaUV5TjU5ZmlfM3VCaGY2LXFSbWtYd3JwaXZaeGU0UDBPUHAtU1dDV2ZMcTJkdUs2S0FsWkJTUV84ZGdhZWFJdGpHUzNBMzJuc0VqQW9wN0JGRFFLVnNPbXR6S0dXSnA5UV96TGZ4T1hGM1E1S29HNTVmMXM4RzQ?oc=5"
+   "url": "https://www.medianama.com/2026/10/223-trump-rejects-us-china-ai-cooperation/"
   },
   {
-   "headline": "Anthropic launches its new Cyber Verification Program, with Mythos 5.1 open to verified…",
-   "outlet": "Pasquale Pillitteri",
-   "outlet_name": "Pasquale Pillitteri",
+   "headline": "SpaceX will für Nvidia-Bestellung wohl 40 Mrd. Dollar finanzieren",
+   "outlet": "Börsen-Zeitung",
+   "outlet_name": "Börsen-Zeitung",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPelBKNVRvMXpxTXctTGM1Qjd4OWk0SGEtbm14TEt6U1NtMDN2SElrT0VZR01oTGx1VDd3MHgzdDJ6RWliYWRTU3NpbUpYbG9meDMzeTFiU0tCZ25VekhDaE9HZnNYbVRoTXZ0S1FKRzZROW12dFBkVG1GQWVhbXZaVXVsQU1DX3pPQmtQZnJkZ0R6c3hid1hXVnR0N3Rodw?oc=5"
+   "url": "https://www.boersen-zeitung.de/unternehmen-branchen/spacex-will-fuer-nvidia-bestellung-wohl-40-mrd-dollar-finanzieren"
+  },
+  {
+   "headline": "Mistral unveils 'Le Chonk' to compete with Chinese open-weight AI models",
+   "outlet": "The Hindu",
+   "outlet_name": "The Hindu",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaUlFTGk2UFJDUmhzd1JMcXdzTEZkQW4yWTBIRm1zekNDVXFjczJaaEZsR2V0RXpLWkNXLUhhSmRPVnJ4SEdYdmxsMDVJRTgzb0RPNDhhSmY4Q3FHZmFmM3N5OUpXeTR3TGRlT3lPbGJBblJRZGc1XzRSNlBRVHM2VWhiNmpKaXVMLXpVT3FYdFgtZjNkOTB0Nk4tZmhnNG9DcHEzZFBKMXNFRW85UjdvTndiVG40ZXhYanVLelp1cmZZRUxrU0szNTNma3pSWV9y0gHXAUFVX3lxTE5EZTdGM1dRYlFFLWpaN1RmWm1JSDU5MVNLMUwyVmhpZ01jenBTYWpqNVVmdlBvUEt4cWJWWDZNMXRybFN2MnBWcTAwWG1HVDVHX09FZlBQVTVDZWtlTk1kZXJQblVNemhTd1FJbEpLeG9PbmlHV2VqTUo4NEVPV1k1dlk1R1p6UVVtX0xleTctd2VPWjNZUTAxUnlWRTNkakRRaXZNX2lSaDJWdjB0TzNDR0Nfdm5RZmhic2FYTVI5dGdYM19XWG5pYURfdkR0RXFkeVVCcTE4?oc=5"
+  },
+  {
+   "headline": "Mistral launches ‘Chonk’ to give clients full control over their data in sovereign AI push",
+   "outlet": "Malay Mail",
+   "outlet_name": "Malay Mail",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYkk5WGs1Z1pmcTE2TmZTWTJpQWtwd2pjSHgxclQ5bTJPcjlVcWhPdVBzTVZWLU41M2VITzMyTGpNaEh2NW55X0lQZVo5Y0JiSEJxaTluc2FBSXBmci1fZUZ6X255UHlfd3lNOGJPbWQ0TE84dm05cF9KUE8wSFdKbElfNkptZFFZUXhMNmJucGlaN1ZSZFRPZ0E5UE1OeGUzcGRlaDE2QUl4dE9iQktzSDdwRWxHV1VXZU13X1pRQXZ4UHhtejdZV2xteFRwS0FNYlR3c3FvUXNwa0xRUjBCRnNwTUzSAeoBQVVfeXFMTTBWbHY5c2k1QlByN2JpeHFpeE5BZklhUjF5YkVST0ZOVDZjRS1BRmdjQ0gwZHJGT2JoQVRrbXZhTVNieW1TM29HT2RlTGVGdFh4UEpicm1mSl9kdjNxSUFKLW1yMHVwRVNWRzFSV2VncDN4VVlmVTFZYm0wbnRtOXdpSkY1QTBITzZvSjFIREtwTFVOSmFkdWNXU21WdHNQYWpHbkdrTnc2bmFXcU1wVUxwd1RTTFFSUU5ZaG9GOTRuQ3FqdlptUGpUX2Q5aFJWcm5fMWVFd2dXZDhWMVlTRmUyWUFQa2F6V3JR?oc=5"
   },
   {
    "headline": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million…",
@@ -109,42 +116,35 @@
    "url": "https://www.marktechpost.com/2026/10/06/meta-ai-open-sources-rebalancer-a-c-assignment-solver-that-runs-about-40-million-placement-problems-a-day/"
   },
   {
+   "headline": "Moonshot AI eyes Hong Kong IPO after $50 billion valuation as DeepSeek raises capital",
+   "outlet": "Euronews on MSN",
+   "outlet_name": "Euronews on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-au/money/general/moonshot-ai-eyes-hong-kong-ipo-after-50-billion-valuation-as-deepseek-raises-capital/ar-AA2dFbAS"
+  },
+  {
+   "headline": "IMF chief urges countries to do more to curb debt and regulate AI",
+   "outlet": "Associated Press News on MSN",
+   "outlet_name": "Associated Press News on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/imf-chief-urges-countries-to-do-more-to-curb-debt-and-regulate-ai/ar-AA2dITd8"
+  },
+  {
    "headline": "Claude just made one of its biggest moves against Gemini yet",
    "outlet": "androidauthority.com",
    "outlet_name": "androidauthority.com",
    "label": "REPORTED",
    "url": "https://www.androidauthority.com/claude-google-workspace-add-on-3719889/"
-  },
-  {
-   "headline": "Moonshot AI eyes Hong Kong IPO after $50 billion valuation as DeepSeek raises capital",
-   "outlet": "Euronews on MSN",
-   "outlet_name": "Euronews on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/money/general/moonshot-ai-eyes-hong-kong-ipo-after-50-billion-valuation-as-deepseek-raises-capital/ar-AA2dFdOf"
-  },
-  {
-   "headline": "OpenAI Releases 722 Math Manuscripts From Hidden Model",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55Q08tYWZDdE9Ra1JvWGFxNXY2aG1USUdKN1FhZ2FyU1RiaXRvYzdiWnBaQVR6Y0p3UkxYMjZJTm0wN1NyYjVwQ2ZPVllkTTEzajhFaDJkZHNndklEdlJEanY4TkRQNG42dWtEbVQ5QnhOUFJqb2c?oc=5"
-  },
-  {
-   "headline": "Businesses warned of ransomware and AI-enabled cybercrime at Anfield event",
-   "outlet": "Wirral Globe on MSN",
-   "outlet_name": "Wirral Globe on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-gb/news/other/businesses-warned-of-ransomware-and-ai-enabled-cybercrime-at-anfield-event/ar-AA2dInW4"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
  "articles_24h_rounded": 14400,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/07.mp3",
- "audio_seconds": 60.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/08.mp3",
+ "audio_seconds": 62.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nJPMorgan's CEO warns that artificial intelligence cyber risks went up 10-fold after Anthropic's Mythos, according to The Financial Express, Confirmed.\nMinnesota's artificial intelligence nudification law is on pause after a federal appeals court decision, per Lakeland PBS, Reported.\nMistral launches a new artificial intelligence model it says outperforms some Chinese rivals, with public release on Oct 27, according to AsiaOne, Reported.\nServiceNow launches artificial intelligence workflow tools in India to scale enterprise artificial intelligence and boost developer capabilities, per techgig, Confirmed.\nNvidia boosts buybacks and launches an artificial intelligence safety platform amid lender scrutiny, according to AD HOC NEWS, Reported.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSingapore's financial sector has new guidance. Confirmed by The Business Times: MAS rolls out AI risk management guidelines effective Oct 7, 2027.\nA flaw in GitHub Copilot CLI exposes developer secrets through encrypted prompt injection. Reported by GBHackers News: attackers can steal secrets in 28 seconds.\nAnthropic expands access to its most powerful models for security testing. Confirmed by ET BrandEquity: teams with critical infrastructure access can now use them.\nThe Department of Defense halts use of Anthropic AI following a court decision. Reported by Homeland Security Today: the supply chain risk designation has been upheld.\nTrump rejects joint ventures between US and Chinese companies on artificial intelligence. Reported by MediaNama: he announces a voluntary tech industry artificial intelligence safety pact.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
