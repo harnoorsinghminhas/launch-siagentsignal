@@ -1,82 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T02:20:02Z",
- "hour": "2026-10-07T02:00:00Z",
+ "generated_at": "2026-10-07T03:20:02Z",
+ "hour": "2026-10-07T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Expanding our enterprise inference capacity with IBM Cloud and NVIDIA",
-   "outlet": "Together AI",
-   "outlet_name": "Together AI",
-   "url": "https://www.together.ai/blog/expanding-our-enterprise-inference-capacity-with-ibm-cloud-and-nvidia",
+   "title": "Nvidia Unveils Record $150 Billion Buyback, Topping Apple",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/finance/2026/10/07/nvidia-unveils-record-150-billion-buyback-topping-apple",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia boosts buyback to $150B, yields and Nasdaq hit records, ASML acquires SVG to lead EUV tech.",
+   "published_at": "2026-10-07T01:00:05Z"
+  },
+  {
+   "title": "AI Watch: Mistral unveils Le Chonk, OpenAI adds watermark, SpaceX eyes NVIDIA chips",
+   "outlet": "CNBC TV18",
+   "outlet_name": "CNBC TV18",
+   "url": "https://www.cnbctv18.com/videos/technology/spacex-40-billion-nvidia-ai-chips-mistral-openai-meta-anthropic-ai-news-20006250.htm",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-07T00:40:59Z"
+   "published_at": "2026-10-07T02:32:59Z"
   },
   {
-   "title": "Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude",
-   "outlet": "People Matters",
-   "outlet_name": "People Matters",
-   "url": "https://www.peoplematters.in/news/ai-and-emerging-tech/microsoft-and-meta-push-employees-towards-in-house-ai-tools-over-anthropics-claude-52558",
-   "label": "CONFIRMED",
-   "summary_1line": "Microsoft and Meta cut internal use of Anthropic's Claude to boost in-house AI tools.",
-   "published_at": "2026-10-06T17:00:00Z"
-  },
-  {
-   "title": "Why Anthropic is turning to religion to shape Claude’s values, and asking if AI can be conscious",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
-   "url": "https://indianexpress.com/article/explained/explained-ai/anthropic-claude-ai-consciousness-religious-leaders-10909349/",
+   "title": "Ant International’s Antom supports Google Gemini in expanding access to AI Service in Asia",
+   "outlet": "Cyprus Shipping News",
+   "outlet_name": "Cyprus Shipping News",
+   "url": "https://cyprusshippingnews.com/2026/10/07/ant-internationals-antom-supports-google-gemini-in-expanding-access-to-ai-service-in-asia/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic consults religious leaders on Claude's moral values and possible consciousness.",
-   "published_at": "2026-10-07T00:51:35Z"
+   "summary_1line": "Antom and Google Gemini launch AI access in Indonesia for 10M users via digital platforms.",
+   "published_at": "2026-10-07T02:18:25Z"
   },
   {
-   "title": "Boston Dynamics names Amazon AI executive as CEO",
-   "outlet": "NBC Boston",
-   "outlet_name": "NBC Boston",
-   "url": "https://www.nbcboston.com/boston-business-journal/boston-dynamics-new-ceo-amazon-ai/4026832/",
+   "title": "DeepSeek Nearing Completion of 100 Billion Yuan Funding Round at 500 Billion Yuan Valuation",
+   "outlet": "SBS News",
+   "outlet_name": "SBS News",
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008786546",
    "label": "REPORTED",
-   "summary_1line": "Boston Dynamics names Rohit Prasad CEO, effective Oct. 7.",
-   "published_at": "2026-10-07T00:32:14Z"
+   "summary_1line": "DeepSeek raises 100B yuan, plans 160K AI chips, targeting IPO next year.",
+   "published_at": "2026-10-06T13:41:00Z"
+  },
+  {
+   "title": "Robots still can't build Nvidia's AI servers as well as people can",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
+   "url": "https://www.digitimes.com/news/a20261006PD223/automation-manufacturing-robot-foxconn-nvidia.html",
+   "label": "REPORTED",
+   "summary_1line": "AI server supply chains moving toward regional manufacturing.",
+   "published_at": "2026-10-07T00:45:26Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Expanding our enterprise inference capacity with IBM Cloud and NVIDIA",
-   "outlet": "Together AI",
-   "outlet_name": "Together AI",
+   "headline": "Nvidia Unveils Record $150 Billion Buyback, Topping Apple",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
    "label": "REPORTED",
-   "url": "https://www.together.ai/blog/expanding-our-enterprise-inference-capacity-with-ibm-cloud-and-nvidia"
+   "url": "https://en.sedaily.com/finance/2026/10/07/nvidia-unveils-record-150-billion-buyback-topping-apple"
   },
   {
-   "headline": "Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude",
-   "outlet": "People Matters",
-   "outlet_name": "People Matters",
-   "label": "CONFIRMED",
-   "url": "https://www.peoplematters.in/news/ai-and-emerging-tech/microsoft-and-meta-push-employees-towards-in-house-ai-tools-over-anthropics-claude-52558"
+   "headline": "AI Watch: Mistral unveils Le Chonk, OpenAI adds watermark, SpaceX eyes NVIDIA chips",
+   "outlet": "CNBC TV18",
+   "outlet_name": "CNBC TV18",
+   "label": "REPORTED",
+   "url": "https://www.cnbctv18.com/videos/technology/spacex-40-billion-nvidia-ai-chips-mistral-openai-meta-anthropic-ai-news-20006250.htm"
   },
   {
-   "headline": "Why Anthropic is turning to religion to shape Claude’s values, and asking if AI can be…",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
+   "headline": "Ant International’s Antom supports Google Gemini in expanding access to AI Service in Asia",
+   "outlet": "Cyprus Shipping News",
+   "outlet_name": "Cyprus Shipping News",
    "label": "REPORTED",
-   "url": "https://indianexpress.com/article/explained/explained-ai/anthropic-claude-ai-consciousness-religious-leaders-10909349/"
+   "url": "https://cyprusshippingnews.com/2026/10/07/ant-internationals-antom-supports-google-gemini-in-expanding-access-to-ai-service-in-asia/"
   },
   {
-   "headline": "Boston Dynamics names Amazon AI executive as CEO",
-   "outlet": "NBC Boston",
-   "outlet_name": "NBC Boston",
+   "headline": "DeepSeek Nearing Completion of 100 Billion Yuan Funding Round at 500 Billion Yuan…",
+   "outlet": "SBS News",
+   "outlet_name": "SBS News",
    "label": "REPORTED",
-   "url": "https://www.nbcboston.com/boston-business-journal/boston-dynamics-new-ceo-amazon-ai/4026832/"
+   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008786546"
   },
   {
-   "headline": "OpenAI’s largest mathematics release tackles 4,000 problems with Lean-checked proofs",
-   "outlet": "interestingengineering.com",
-   "outlet_name": "interestingengineering.com",
+   "headline": "Robots still can't build Nvidia's AI servers as well as people can",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
    "label": "REPORTED",
-   "url": "https://interestingengineering.com/ai-robotics/openai-largest-math-release-lean-proofs"
+   "url": "https://www.digitimes.com/news/a20261006PD223/automation-manufacturing-robot-foxconn-nvidia.html"
+  },
+  {
+   "headline": "Mistral unveils trillion-parameter open model, challenges Chinese rivals",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9hNktHcU4yU0hlZGpxTlRRbm9Sbk1oNjBKbktsbEFFa1pNSTFCWFNoNTZ2Nk1Jd0Z3T3N5ZzVjQzBCMHBaTWhMQmE3RUlqUU5UZkNNekhIWWc4VVEtUldOWENyTFBmeGFXQncxTGdoaWtxMmRYYUxnY0Nn0gGOAUFVX3lxTE9QbjNMdVcwS1hxeGFrTmptVXVzNDFfcUZMOU1DTTFrMkMtQTJGSWFNbmxXWnJ6SXZtdV81V0JEUm94d2x1RHJlYklIVkpxSVl3bWVkcXRiaDBySXdRTEp2eHpFUHVMeE5hNlktaFV5TFpEYVNMUmY5WUloSHlaWEhCVE5pcjlYczdtTmpGQXc?oc=5"
+  },
+  {
+   "headline": "Claude Core Researcher Predicts AI Could Surpass All Human Capabilities Within a Few Years",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "label": "STILL OPEN",
+   "url": "https://eu.36kr.com/en/p/4014585839210629"
+  },
+  {
+   "headline": "Higher Tariffs, More Imports: How the AI Boom Helped Offset the Hit",
+   "outlet": "Fort Worth Inc.",
+   "outlet_name": "Fort Worth Inc.",
+   "label": "REPORTED",
+   "url": "https://fortworthinc.com/news/dallas-fed-ai-boom-helped-u-s-imports-grow-despite-tariffs/"
   },
   {
    "headline": "OpenAI’s human rights lead: What the military could do with AI keeps me up at night",
@@ -86,27 +116,6 @@
    "url": "https://www.msn.com/en-us/news/other/openai-s-human-rights-lead-what-the-military-could-do-with-ai-keeps-me-up-at-night/ar-AA2dHFhw"
   },
   {
-   "headline": "OpenAI Releases Decisions API in Public Beta, Powered by GPT-6 Luna",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "REPORTED",
-   "url": "https://www.unite.ai/openai-releases-decisions-api-in-public-beta-powered-by-gpt-6-luna/"
-  },
-  {
-   "headline": "Where do we draw the line on AI in court filings?",
-   "outlet": "lexifina.com",
-   "outlet_name": "lexifina.com",
-   "label": "REPORTED",
-   "url": "https://lexifina.com/blog/where-to-draw-the-line-on-ai-in-court-filings"
-  },
-  {
-   "headline": "Google Gemini Now Has an Interactive Map on Mobile",
-   "outlet": "VOI.ID",
-   "outlet_name": "VOI.ID",
-   "label": "REPORTED",
-   "url": "https://voi.id/zh/technology-zh/596969"
-  },
-  {
    "headline": "llm-openai-decisions 0.1a0",
    "outlet": "simonwillison.net",
    "outlet_name": "simonwillison.net",
@@ -114,28 +123,28 @@
    "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/"
   },
   {
-   "headline": "DeepSeek Nearing Completion of 100 Billion Yuan Funding Round at 500 Billion Yuan…",
-   "outlet": "news.sbs.co.kr",
-   "outlet_name": "news.sbs.co.kr",
+   "headline": "GLM-5.3's open release has yet to produce major attacks despite Anthropic's warnings…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5MX3A4Mm0tQ19ESGVNTjBrTVVOSmoxQnJuQTlpSHVEdFdFM3p5MWVxcGxYZDZGNWg3aEdNdWVWdTI3MlpnUTFVMjUwU0hLNnY4WkNFLTRJaTdCNHI0cVRBZkV2TW0tQlJobFpaQUpR?oc=5"
+   "url": "https://www.techmeme.com/261006/p48#a261006p48"
   },
   {
-   "headline": "AI researchers warn of risks as New York weighs regulation",
-   "outlet": "starcitytv.com",
-   "outlet_name": "starcitytv.com",
-   "label": "REPORTED",
-   "url": "https://www.starcitytv.com/ai-researchers-warn-of-risks-as-new-york-weighs-regulation/video_f14bdb51-a780-5e01-a283-400884fc5e79.html"
+   "headline": "OpenAI “rogue” agent activities found on Wikimedia projects",
+   "outlet": "simonwillison.net",
+   "outlet_name": "simonwillison.net",
+   "label": "STILL OPEN",
+   "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 15800,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/02.mp3",
- "audio_seconds": 42.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/03.mp3",
+ "audio_seconds": 84.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Together AI: Expanding our enterprise inference capacity with IBM Cloud and NVIDIA.\nConfirmed, per People Matters: Microsoft and Meta push employees towards in-house AI tools over Anthropic's Claude.\nReported by The Indian Express: Why Anthropic is turning to religion to shape Claude’s values, and asking if AI can be conscious.\nReported by NBC Boston: Boston Dynamics names Amazon AI executive as CEO.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia boosts its buyback to $150B, topping Apple, as yields and Nasdaq hit records. Reported by Seoul Economic Daily: ASML acquires SVG to lead EUV tech.\nMistral unveils Le Chonk, OpenAI adds watermark, and SpaceX eyes Nvidia chips. Reported by CNBC TV18: these moves shape the artificial intelligence landscape.\nAntom and Google Gemini launch artificial intelligence access in Indonesia for 10M users via digital platforms. Reported by Cyprus Shipping News: Ant International's Antom supports Google Gemini expanding access to artificial intelligence service in Asia.\nDeepSeek raises 100B yuan and plans 160K artificial intelligence chips, targeting an IPO next year. Reported by SBS News: DeepSeek nears completion of its 100 billion yuan funding round at 500 billion yuan valuation.\nArtificial intelligence server supply chains are moving toward regional manufacturing as robots still can't build Nvidia's servers as well as people can. Reported by digitimes: this shift reshapes global production.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
