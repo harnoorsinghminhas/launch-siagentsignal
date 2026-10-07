@@ -1,112 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T08:20:02Z",
- "hour": "2026-10-07T08:00:00Z",
+ "generated_at": "2026-10-07T09:20:02Z",
+ "hour": "2026-10-07T09:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "MAS rolls out AI risk management guidelines for Singapore’s financial sector",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
-   "url": "https://www.businesstimes.com.sg/singapore/economy-policy/mas-rolls-out-ai-risk-management-guidelines-singapores-financial-sector",
+   "title": "Anthropic Launches Cyber Verification Program for Claude Access",
+   "outlet": "TechJuice",
+   "outlet_name": "TechJuice",
+   "url": "https://www.techjuice.pk/anthropic-cyber-verification-program-claude-security/",
    "label": "CONFIRMED",
-   "summary_1line": "MAS launches AI risk guidelines for Singapore financial sector, effective Oct 7, 2027.",
-   "published_at": "2026-10-07T06:09:00Z"
+   "summary_1line": "Anthropic expands CVP with three tiers, enabling AI-powered vulnerability discovery and patching.",
+   "published_at": "2026-10-06T23:22:00Z"
   },
   {
-   "title": "GitHub Copilot CLI Flaw Lets Attackers Steal Developer Secrets Using Encrypted Prompt Injection",
-   "outlet": "GBHackers News",
-   "outlet_name": "GBHackers News",
-   "url": "https://gbhackers.com/github-copilot-cli-flaw/",
-   "label": "REPORTED",
-   "summary_1line": "GitHub Copilot CLI flaw exposes secrets via encrypted prompts in 28 seconds.",
-   "published_at": "2026-10-07T05:10:03Z"
-  },
-  {
-   "title": "Anthropic opens its most powerful AI models to more security teams",
-   "outlet": "ET BrandEquity",
-   "outlet_name": "ET BrandEquity",
-   "url": "https://brandequity.economictimes.indiatimes.com/news/digital/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/134757983",
+   "title": "Mistral launches ‘Chonk’ to give clients full control over their data in sovereign AI push",
+   "outlet": "Malay Mail",
+   "outlet_name": "Malay Mail",
+   "url": "https://www.malaymail.com/news/tech-gadgets/2026/10/07/mistral-launches-chonk-to-give-clients-full-control-over-their-data-in-sovereign-ai-push/238076",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic expands AI security testing to teams with critical infrastructure access.",
-   "published_at": "2026-10-06T23:32:00Z"
+   "summary_1line": "Mistral launches Chonk, a large open-weight AI model trained on 4,000 Nvidia chips and 160 languages.",
+   "published_at": "2026-10-06T18:00:00Z"
   },
   {
-   "title": "DOD Halts Use of Anthropic AI After Court Upholds Supply Chain Risk Designation",
-   "outlet": "Homeland Security Today",
-   "outlet_name": "Homeland Security Today",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaW1tNnJFRF9JM3FlcFZXcjhSNG1ja3F6dTAzWHgxTUtYQV9jRVVISVdsNXlvRXNVZTc3SmlYNjhfemdPeUo0U1U0M3BOR1VBVDFKdjNpbEdaN0RMZU9fSDk4Wk5pYUN4V1g2X1hzdjY1TUlCWEFjUlJQN3JpaGV0dC1VclN5Z1NGbHg0ZlFpdnlTNjZVSEIyb2ZkOTJWVG01d3g4QlB1ZmVYd1pkMUtqZmxaU25Qc3h3ZkZQQnlyU1I3SUxMb1QwTXUzQkRPWmhpTDBjX3RIVFlRTnlNTUE?oc=5",
+   "title": "UAE's 'very powerful' cyber defences can repel attacks, says Mistral AI boss",
+   "outlet": "The National",
+   "outlet_name": "The National",
+   "url": "https://www.thenationalnews.com/future/technology/2026/10/07/uaes-very-powerful-cyber-defences-can-repel-attacks-says-mistral-ai-boss/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-07T07:28:11Z"
+   "summary_1line": "Mistral AI to consider UAE data centre investment amid rising cyber threats from Iran.",
+   "published_at": "2026-10-07T07:20:36Z"
   },
   {
-   "title": "Trump Rules Out US-China Joint Ventures on AI",
-   "outlet": "MediaNama",
-   "outlet_name": "MediaNama",
-   "url": "https://www.medianama.com/2026/10/223-trump-rejects-us-china-ai-cooperation/",
+   "title": "Boston Dynamics names Amazon AI veteran Rohit Prasad as CEO",
+   "outlet": "The Korea Herald",
+   "outlet_name": "The Korea Herald",
+   "url": "https://www.koreaherald.com/article/10895825",
+   "label": "CONFIRMED",
+   "summary_1line": "Rohit Prasad joins Boston Dynamics as CEO to drive AI-powered robot commercialization.",
+   "published_at": "2026-10-06T18:01:00Z"
+  },
+  {
+   "title": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear winner",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/openai-vs-anthropic-states-map-2026-10",
    "label": "REPORTED",
-   "summary_1line": "Trump rejects US-China AI joint ventures, announces voluntary tech industry AI safety pact.",
-   "published_at": "2026-10-07T06:29:52Z"
+   "summary_1line": "OpenAI leads AI spending in 47 states, with Anthropic in three and DC.",
+   "published_at": "2026-10-07T08:03:01Z"
   }
  ],
  "ticker": [
   {
-   "headline": "MAS rolls out AI risk management guidelines for Singapore’s financial sector",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
+   "headline": "Anthropic Launches Cyber Verification Program for Claude Access",
+   "outlet": "TechJuice",
+   "outlet_name": "TechJuice",
    "label": "CONFIRMED",
-   "url": "https://www.businesstimes.com.sg/singapore/economy-policy/mas-rolls-out-ai-risk-management-guidelines-singapores-financial-sector"
-  },
-  {
-   "headline": "GitHub Copilot CLI Flaw Lets Attackers Steal Developer Secrets Using Encrypted Prompt…",
-   "outlet": "GBHackers News",
-   "outlet_name": "GBHackers News",
-   "label": "REPORTED",
-   "url": "https://gbhackers.com/github-copilot-cli-flaw/"
-  },
-  {
-   "headline": "Anthropic opens its most powerful AI models to more security teams",
-   "outlet": "ET BrandEquity",
-   "outlet_name": "ET BrandEquity",
-   "label": "CONFIRMED",
-   "url": "https://brandequity.economictimes.indiatimes.com/news/digital/anthropic-opens-its-most-powerful-ai-models-to-more-security-teams/134757983"
-  },
-  {
-   "headline": "DOD Halts Use of Anthropic AI After Court Upholds Supply Chain Risk Designation",
-   "outlet": "Homeland Security Today",
-   "outlet_name": "Homeland Security Today",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaW1tNnJFRF9JM3FlcFZXcjhSNG1ja3F6dTAzWHgxTUtYQV9jRVVISVdsNXlvRXNVZTc3SmlYNjhfemdPeUo0U1U0M3BOR1VBVDFKdjNpbEdaN0RMZU9fSDk4Wk5pYUN4V1g2X1hzdjY1TUlCWEFjUlJQN3JpaGV0dC1VclN5Z1NGbHg0ZlFpdnlTNjZVSEIyb2ZkOTJWVG01d3g4QlB1ZmVYd1pkMUtqZmxaU25Qc3h3ZkZQQnlyU1I3SUxMb1QwTXUzQkRPWmhpTDBjX3RIVFlRTnlNTUE?oc=5"
-  },
-  {
-   "headline": "Trump Rules Out US-China Joint Ventures on AI",
-   "outlet": "MediaNama",
-   "outlet_name": "MediaNama",
-   "label": "REPORTED",
-   "url": "https://www.medianama.com/2026/10/223-trump-rejects-us-china-ai-cooperation/"
-  },
-  {
-   "headline": "SpaceX will für Nvidia-Bestellung wohl 40 Mrd. Dollar finanzieren",
-   "outlet": "Börsen-Zeitung",
-   "outlet_name": "Börsen-Zeitung",
-   "label": "REPORTED",
-   "url": "https://www.boersen-zeitung.de/unternehmen-branchen/spacex-will-fuer-nvidia-bestellung-wohl-40-mrd-dollar-finanzieren"
-  },
-  {
-   "headline": "Mistral unveils 'Le Chonk' to compete with Chinese open-weight AI models",
-   "outlet": "The Hindu",
-   "outlet_name": "The Hindu",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaUlFTGk2UFJDUmhzd1JMcXdzTEZkQW4yWTBIRm1zekNDVXFjczJaaEZsR2V0RXpLWkNXLUhhSmRPVnJ4SEdYdmxsMDVJRTgzb0RPNDhhSmY4Q3FHZmFmM3N5OUpXeTR3TGRlT3lPbGJBblJRZGc1XzRSNlBRVHM2VWhiNmpKaXVMLXpVT3FYdFgtZjNkOTB0Nk4tZmhnNG9DcHEzZFBKMXNFRW85UjdvTndiVG40ZXhYanVLelp1cmZZRUxrU0szNTNma3pSWV9y0gHXAUFVX3lxTE5EZTdGM1dRYlFFLWpaN1RmWm1JSDU5MVNLMUwyVmhpZ01jenBTYWpqNVVmdlBvUEt4cWJWWDZNMXRybFN2MnBWcTAwWG1HVDVHX09FZlBQVTVDZWtlTk1kZXJQblVNemhTd1FJbEpLeG9PbmlHV2VqTUo4NEVPV1k1dlk1R1p6UVVtX0xleTctd2VPWjNZUTAxUnlWRTNkakRRaXZNX2lSaDJWdjB0TzNDR0Nfdm5RZmhic2FYTVI5dGdYM19XWG5pYURfdkR0RXFkeVVCcTE4?oc=5"
+   "url": "https://www.techjuice.pk/anthropic-cyber-verification-program-claude-security/"
   },
   {
    "headline": "Mistral launches ‘Chonk’ to give clients full control over their data in sovereign AI push",
    "outlet": "Malay Mail",
    "outlet_name": "Malay Mail",
+   "label": "CONFIRMED",
+   "url": "https://www.malaymail.com/news/tech-gadgets/2026/10/07/mistral-launches-chonk-to-give-clients-full-control-over-their-data-in-sovereign-ai-push/238076"
+  },
+  {
+   "headline": "UAE's 'very powerful' cyber defences can repel attacks, says Mistral AI boss",
+   "outlet": "The National",
+   "outlet_name": "The National",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYkk5WGs1Z1pmcTE2TmZTWTJpQWtwd2pjSHgxclQ5bTJPcjlVcWhPdVBzTVZWLU41M2VITzMyTGpNaEh2NW55X0lQZVo5Y0JiSEJxaTluc2FBSXBmci1fZUZ6X255UHlfd3lNOGJPbWQ0TE84dm05cF9KUE8wSFdKbElfNkptZFFZUXhMNmJucGlaN1ZSZFRPZ0E5UE1OeGUzcGRlaDE2QUl4dE9iQktzSDdwRWxHV1VXZU13X1pRQXZ4UHhtejdZV2xteFRwS0FNYlR3c3FvUXNwa0xRUjBCRnNwTUzSAeoBQVVfeXFMTTBWbHY5c2k1QlByN2JpeHFpeE5BZklhUjF5YkVST0ZOVDZjRS1BRmdjQ0gwZHJGT2JoQVRrbXZhTVNieW1TM29HT2RlTGVGdFh4UEpicm1mSl9kdjNxSUFKLW1yMHVwRVNWRzFSV2VncDN4VVlmVTFZYm0wbnRtOXdpSkY1QTBITzZvSjFIREtwTFVOSmFkdWNXU21WdHNQYWpHbkdrTnc2bmFXcU1wVUxwd1RTTFFSUU5ZaG9GOTRuQ3FqdlptUGpUX2Q5aFJWcm5fMWVFd2dXZDhWMVlTRmUyWUFQa2F6V3JR?oc=5"
+   "url": "https://www.thenationalnews.com/future/technology/2026/10/07/uaes-very-powerful-cyber-defences-can-repel-attacks-says-mistral-ai-boss/"
+  },
+  {
+   "headline": "Boston Dynamics names Amazon AI veteran Rohit Prasad as CEO",
+   "outlet": "The Korea Herald",
+   "outlet_name": "The Korea Herald",
+   "label": "CONFIRMED",
+   "url": "https://www.koreaherald.com/article/10895825"
+  },
+  {
+   "headline": "This map shows which states are paying for OpenAI vs Anthropic — and there's a clear…",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "REPORTED",
+   "url": "https://www.businessinsider.com/openai-vs-anthropic-states-map-2026-10"
+  },
+  {
+   "headline": "Breaking: Claude Seizes the \"Holy Grail\" of Probability Theory, AI Crosses the Finish…",
+   "outlet": "36 Kr",
+   "outlet_name": "36 Kr",
+   "label": "REPORTED",
+   "url": "https://eu.36kr.com/en/p/4015346980278153"
+  },
+  {
+   "headline": "\"Not safe for kids\": advocacy group urges OpenAI to keep teens off ChatGPT",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "label": "REPORTED",
+   "url": "https://www.axios.com/2026/10/07/chatgpt-teens-safety-risk-common-sense-media"
+  },
+  {
+   "headline": "Ivo Launches Open-Source DeepSeek Contract AI Model",
+   "outlet": "Artificial Lawyer",
+   "outlet_name": "Artificial Lawyer",
+   "label": "REPORTED",
+   "url": "https://www.artificiallawyer.com/2026/10/07/ivo-launches-open-source-deepseek-contract-ai-model/"
   },
   {
    "headline": "Meta AI Open-Sources Rebalancer: A C++ Assignment Solver That Runs About 40 Million…",
@@ -130,21 +130,21 @@
    "url": "https://www.msn.com/en-us/news/other/imf-chief-urges-countries-to-do-more-to-curb-debt-and-regulate-ai/ar-AA2dITd8"
   },
   {
-   "headline": "Claude just made one of its biggest moves against Gemini yet",
-   "outlet": "androidauthority.com",
-   "outlet_name": "androidauthority.com",
+   "headline": "Wikimedia Says Rogue OpenAI Agents Tried to Turn Its Tools Into Proxies",
+   "outlet": "securityweek.com",
+   "outlet_name": "securityweek.com",
    "label": "REPORTED",
-   "url": "https://www.androidauthority.com/claude-google-workspace-add-on-3719889/"
+   "url": "https://www.securityweek.com/wikimedia-says-rogue-openai-agents-tried-to-turn-its-tools-into-proxies/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 14400,
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 14300,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/08.mp3",
- "audio_seconds": 62.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/09.mp3",
+ "audio_seconds": 67.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSingapore's financial sector has new guidance. Confirmed by The Business Times: MAS rolls out AI risk management guidelines effective Oct 7, 2027.\nA flaw in GitHub Copilot CLI exposes developer secrets through encrypted prompt injection. Reported by GBHackers News: attackers can steal secrets in 28 seconds.\nAnthropic expands access to its most powerful models for security testing. Confirmed by ET BrandEquity: teams with critical infrastructure access can now use them.\nThe Department of Defense halts use of Anthropic AI following a court decision. Reported by Homeland Security Today: the supply chain risk designation has been upheld.\nTrump rejects joint ventures between US and Chinese companies on artificial intelligence. Reported by MediaNama: he announces a voluntary tech industry artificial intelligence safety pact.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic has launched a Cyber Verification Program for Claude access. Confirmed by TechJuice, the expansion includes three tiers for vulnerability discovery and patching.\nMistral has introduced Chonk, a large open-weight model trained on 4,000 Nvidia chips and 160 languages. Confirmed by Malay Mail, the model gives clients full control over their data.\nMistral's boss says the UAE has very powerful cyber defences to repel attacks. Reported by The National, the company is considering a data centre investment there.\nRohit Prasad, an Amazon veteran, has been named CEO of Boston Dynamics. Confirmed by The Korea Herald, he will drive artificial intelligence powered robot commercialization.\nOpenAI leads artificial intelligence spending in 47 states. Reported by Business Insider, Anthropic appears in three states and the District of Columbia.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
