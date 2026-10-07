@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T21:20:02Z",
- "hour": "2026-10-07T21:00:00Z",
+ "generated_at": "2026-10-07T22:20:03Z",
+ "hour": "2026-10-07T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Microsoft is giving Copilot more control over Windows and your files",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
    "label": "CONFIRMED",
-   "summary_1line": "Microsoft's Copilot gains local file access and OS actions via Hybrid Intelligence, launching in fall 2024.",
-   "published_at": "2026-10-07T19:28:42Z"
+   "summary_1line": "Nous Research raises $90M for enterprise AI agents, with $36M revenue and 24M+ clones.",
+   "published_at": "2026-10-07T20:48:45Z"
   },
   {
-   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+   "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI rolls out GPT-6 with interactive UI to all ChatGPT users, including free tier.",
-   "published_at": "2026-10-07T19:10:42Z"
+   "summary_1line": "Microsoft and Dell launch AI-ready PCs with RTX Spark chips for developers and content creation.",
+   "published_at": "2026-10-07T13:22:00Z"
   },
   {
-   "title": "Huawei and DeepSeek release open source AI tools in a bid to lower Nvidia exposure — but will programmers make the switch?",
-   "outlet": "TechRadar",
-   "outlet_name": "TechRadar",
-   "url": "https://www.techradar.com/pro/huawei-and-deepseek-release-open-source-ai-tools-in-a-bid-to-lower-nvidia-exposure-but-will-programmers-make-the-switch",
-   "label": "CONFIRMED",
-   "summary_1line": "Huawei and DeepSeek open-source Ascend tools to reduce Nvidia dependency.",
-   "published_at": "2026-10-07T19:20:00Z"
-  },
-  {
-   "title": "FCC Considers AI Robocall Waiver Before Midterms",
-   "outlet": "Hoodline",
-   "outlet_name": "Hoodline",
-   "url": "https://hoodline.com/2026/10/fcc-weighs-letting-ai-robocalls-flood-cell-phones-before-midterms/",
-   "label": "CONFIRMED",
-   "summary_1line": "FCC considers AI robocalls for political groups ahead of November elections.",
-   "published_at": "2026-10-07T19:43:33Z"
-  },
-  {
-   "title": "Anthropic Launches Claude Haiku 5.5 Ahead of November $2T IPO",
-   "outlet": "CoinGape",
-   "outlet_name": "CoinGape",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGJjNlVvUEZNRTU0WlVQRUZlckRlMzVVNVdwVl9WeGtGbkZsYW8xTXZYV3dJcV9scW9udkIxYUJvVnRsaHJrSW9uSlpCbzhDSmNKVWt2d3BORHJxbmFNX2s1N05uY0V0VGRHT3YwZmhRQ0pfazZNX09DNERzcldKVERIQzlha1RWQ1E?oc=5",
+   "title": "Microsoft (MSFT) announces $2599 AI laptop equipped with NVIDIA (NVDA) powerful chip to capture edge computing business opportunities",
+   "outlet": "CMoney投資網誌",
+   "outlet_name": "CMoney投資網誌",
+   "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-717707dd-c290-11f1-b039-5f727f53a7ae",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-07T20:37:08Z"
+   "summary_1line": "Microsoft's $2599 Surface Laptop Ultra with NVIDIA AI chips hits market in October.",
+   "published_at": "2026-10-07T20:48:25Z"
+  },
+  {
+   "title": "Microsoft Says New Flagship Laptop Features NVIDIA Chips, Outperforming Apple MacBook on Some AI Tasks",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "url": "https://finance.sina.com.cn/world/2026-10-08/doc-iniumumr7867136.shtml",
+   "label": "CONFIRMED",
+   "summary_1line": "Surface Laptop Ultra beats MacBook Pro in AI speed, priced at $2,599.",
+   "published_at": "2026-10-07T19:26:00Z"
+  },
+  {
+   "title": "Mistral Unveils Massive New AI Model, Says 'Le Chonk' Can Take On China's Best Open Systems",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/articles/mistral-unveils-massive-ai-model-184940587.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Mistral launches ML4, a 1.05-trillion-parameter open AI model, claiming it surpasses China's best in key domains.",
+   "published_at": "2026-10-06T18:49:40Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Microsoft is giving Copilot more control over Windows and your files",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
+   "headline": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence"
+   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/"
   },
   {
-   "headline": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
+   "headline": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+   "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/"
   },
   {
-   "headline": "Huawei and DeepSeek release open source AI tools in a bid to lower Nvidia exposure — but…",
-   "outlet": "TechRadar",
-   "outlet_name": "TechRadar",
-   "label": "CONFIRMED",
-   "url": "https://www.techradar.com/pro/huawei-and-deepseek-release-open-source-ai-tools-in-a-bid-to-lower-nvidia-exposure-but-will-programmers-make-the-switch"
-  },
-  {
-   "headline": "FCC Considers AI Robocall Waiver Before Midterms",
-   "outlet": "Hoodline",
-   "outlet_name": "Hoodline",
-   "label": "CONFIRMED",
-   "url": "https://hoodline.com/2026/10/fcc-weighs-letting-ai-robocalls-flood-cell-phones-before-midterms/"
-  },
-  {
-   "headline": "Anthropic Launches Claude Haiku 5.5 Ahead of November $2T IPO",
-   "outlet": "CoinGape",
-   "outlet_name": "CoinGape",
+   "headline": "Microsoft (MSFT) announces $2599 AI laptop equipped with NVIDIA (NVDA) powerful chip to…",
+   "outlet": "CMoney投資網誌",
+   "outlet_name": "CMoney投資網誌",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUGJjNlVvUEZNRTU0WlVQRUZlckRlMzVVNVdwVl9WeGtGbkZsYW8xTXZYV3dJcV9scW9udkIxYUJvVnRsaHJrSW9uSlpCbzhDSmNKVWt2d3BORHJxbmFNX2s1N05uY0V0VGRHT3YwZmhRQ0pfazZNX09DNERzcldKVERIQzlha1RWQ1E?oc=5"
+   "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-717707dd-c290-11f1-b039-5f727f53a7ae"
   },
   {
    "headline": "Microsoft Says New Flagship Laptop Features NVIDIA Chips, Outperforming Apple MacBook on…",
@@ -95,18 +81,39 @@
    "url": "https://finance.sina.com.cn/world/2026-10-08/doc-iniumumr7867136.shtml"
   },
   {
-   "headline": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
+   "headline": "Mistral Unveils Massive New AI Model, Says 'Le Chonk' Can Take On China's Best Open…",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
    "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/"
+   "url": "https://tech.yahoo.com/ai/articles/mistral-unveils-massive-ai-model-184940587.html"
   },
   {
-   "headline": "Mistral's 1 trillion-parameter open weights model is 'Le Chonk'",
-   "outlet": "news.lavx.hu",
-   "outlet_name": "news.lavx.hu",
-   "label": "CONFIRMED",
-   "url": "https://news.lavx.hu/article/mistral-s-1-trillion-parameter-open-weights-model-is-le-chonk"
+   "headline": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "REPORTED",
+   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-launches-haiku-5-5-204603013.html"
+  },
+  {
+   "headline": "OpenAI Rolls Out GPT-6 and 'Intelligent UI' in ChatGPT",
+   "outlet": "iClarified",
+   "outlet_name": "iClarified",
+   "label": "REPORTED",
+   "url": "https://www.iclarified.com/102657/openai-rolls-out-gpt-6-and-intelligent-ui-in-chatgpt"
+  },
+  {
+   "headline": "CrowdStrike, AWS And Nvidia Launch 4th Cybersecurity Accelerator As Agentic AI Security…",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "REPORTED",
+   "url": "https://es.tradingview.com/news/stocktwits:504bc87d3094b:0-crowdstrike-aws-and-nvidia-launch-4th-cybersecurity-accelerator-as-agentic-ai-security-push-grows/"
+  },
+  {
+   "headline": "Introducing Claude Haiku 5.5",
+   "outlet": "simonwillison.net",
+   "outlet_name": "simonwillison.net",
+   "label": "REPORTED",
+   "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
   },
   {
    "headline": "Surface Laptop Ultra laptop equipped with NVIDIA RTX Spark released, priced from 513,480…",
@@ -116,11 +123,11 @@
    "url": "https://www.itmedia.co.jp/aiplus/article/2610/08/2000002110/"
   },
   {
-   "headline": "Introducing Claude Haiku 5.5 on AWS",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
+   "headline": "Open Weights vs. Managed API: Which Qwen Deployment Fits a Regulated Enterprise?",
+   "outlet": "alibabacloud.com",
+   "outlet_name": "alibabacloud.com",
    "label": "REPORTED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/"
+   "url": "https://www.alibabacloud.com/blog/open-weights-vs--managed-api-which-qwen-deployment-fits-a-regulated-enterprise_603611"
   },
   {
    "headline": "Claude Haiku 5.5: Intelligence, Performance and Price Analysis",
@@ -128,23 +135,16 @@
    "outlet_name": "artificialanalysis.ai",
    "label": "CONFIRMED",
    "url": "https://artificialanalysis.ai/models/claude-haiku-5-5"
-  },
-  {
-   "headline": "AI safety group outlines demands for legislation, warns lawmakers",
-   "outlet": "The Hill on MSN",
-   "outlet_name": "The Hill on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/ai-safety-group-outlines-demands-for-legislation-warns-lawmakers/ar-AA2dLtge"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13400,
- "articles_24h_label": "about 13,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13500,
+ "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/21.mp3",
- "audio_seconds": 47.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/22.mp3",
+ "audio_seconds": 59.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: Microsoft is giving Copilot more control over Windows and your files.\nConfirmed, per The Verge: ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons.\nConfirmed, per TechRadar: Huawei and DeepSeek release open source AI tools in a bid to lower Nvidia exposure — but will programmers make the switch.\nConfirmed, per Hoodline: FCC Considers AI Robocall Waiver Before Midterms.\nReported by CoinGape: Anthropic Launches Claude Haiku 5.5 Ahead of November $2T IPO.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Nous Research confirms it hit $1.5B valuation, launches AI agents for business users.\nConfirmed, per TechCrunch: Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11.\nReported by CMoney投資網誌: Microsoft (MSFT) announces $2599 AI laptop equipped with NVIDIA (NVDA) powerful chip to capture edge computing business opportunities.\nConfirmed, per 新浪财经: Microsoft Says New Flagship Laptop Features NVIDIA Chips, Outperforming Apple MacBook on Some AI Tasks.\nConfirmed, per Yahoo Tech: Mistral Unveils Massive New AI Model, Says 'Le Chonk' Can Take On China's Best Open Systems.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
