@@ -1,91 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-07T23:20:02Z",
- "hour": "2026-10-07T23:00:00Z",
+ "generated_at": "2026-10-08T00:20:02Z",
+ "hour": "2026-10-08T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Tech Breakfast: SpaceX rumored to raise $40 billion to buy NVIDIA chips, AMD to increase investment in Taiwan",
-   "outlet": "TechOrange 科技報橘",
-   "outlet_name": "TechOrange 科技報橘",
-   "url": "https://techorange.com/2026/10/08/spacex-nvidia-ai-chips-amd-taiwan/",
+   "title": "Microsoft, Nvidia unveil new AI laptop for Windows",
+   "outlet": "The American Bazaar",
+   "outlet_name": "The American Bazaar",
+   "url": "https://americanbazaaronline.com/2026/10/07/microsoft-nvidia-unveil-new-ai-laptop-for-windows/",
    "label": "REPORTED",
-   "summary_1line": "SpaceX seeks $400B for AI chips; AMD, Google, Marvell expand investments amid rising demand.",
-   "published_at": "2026-10-07T21:30:00Z"
+   "summary_1line": "Microsoft and Nvidia launch AI-powered Surface Laptop Ultra for local AI workloads.",
+   "published_at": "2026-10-07T22:10:51Z"
   },
   {
-   "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
-   "outlet": "Decrypt News",
-   "outlet_name": "Decrypt News",
-   "url": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic launches cheaper, faster Haiku 5.5 with 72.4% OSWorld score and monthly API credits.",
-   "published_at": "2026-10-07T20:46:03Z"
+   "title": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html",
+   "label": "STILL OPEN",
+   "summary_1line": "New Constructs calls Anthropic's IPO 'the most ridiculous of 2026' due to losses and market risks.",
+   "published_at": "2026-10-07T22:29:41Z"
   },
   {
-   "title": "Utah Governor Signs Executive Order for Pro-Human AI",
-   "outlet": "GovTech",
-   "outlet_name": "GovTech",
-   "url": "https://www.govtech.com/artificial-intelligence/utah-governor-signs-executive-order-for-pro-human-ai",
-   "label": "CONFIRMED",
-   "summary_1line": "Utah's new AI order mandates human-guided, accountable AI use across state agencies.",
-   "published_at": "2026-10-07T20:59:24Z"
-  },
-  {
-   "title": "CrowdStrike, AWS And Nvidia Launch 4th Cybersecurity Accelerator As Agentic AI Security Push Grows",
+   "title": "Microsoft unveils new Surface laptops with Nvidia chips",
    "outlet": "TradingView",
    "outlet_name": "TradingView",
-   "url": "https://es.tradingview.com/news/stocktwits:504bc87d3094b:0-crowdstrike-aws-and-nvidia-launch-4th-cybersecurity-accelerator-as-agentic-ai-security-push-grows/",
+   "url": "https://www.tradingview.com/news/seekingalpha:a13fb3a2d094b:0-microsoft-unveils-new-surface-laptops-with-nvidia-chips/",
    "label": "REPORTED",
-   "summary_1line": "CrowdStrike, AWS, and Nvidia launch cybersecurity accelerator with global applications and $1B+ in alumni funding.",
-   "published_at": "2026-10-06T14:15:56Z"
+   "summary_1line": "Microsoft launches Surface laptops with Nvidia chips, targeting gaming and AI, and rolls out Copilot and Muse AI to Windows.",
+   "published_at": "2026-10-07T19:08:03Z"
   },
   {
-   "title": "OpenAI Rolls Out GPT-6 and 'Intelligent UI' in ChatGPT",
-   "outlet": "iClarified",
-   "outlet_name": "iClarified",
-   "url": "https://www.iclarified.com/102657/openai-rolls-out-gpt-6-and-intelligent-ui-in-chatgpt",
+   "title": "OpenAI fully rolls out GPT-6 to all ChatGPT users globally",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4016408854663042?f=rss",
    "label": "REPORTED",
-   "summary_1line": "OpenAI rolls out GPT-6 with interactive UI and faster web search in ChatGPT.",
-   "published_at": "2026-10-07T13:32:00Z"
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
+  },
+  {
+   "title": "GPT-6 and Intelligent UI for everyone",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-07T22:58:35Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Tech Breakfast: SpaceX rumored to raise $40 billion to buy NVIDIA chips, AMD to increase…",
-   "outlet": "TechOrange 科技報橘",
-   "outlet_name": "TechOrange 科技報橘",
+   "headline": "Microsoft, Nvidia unveil new AI laptop for Windows",
+   "outlet": "The American Bazaar",
+   "outlet_name": "The American Bazaar",
    "label": "REPORTED",
-   "url": "https://techorange.com/2026/10/08/spacex-nvidia-ai-chips-amd-taiwan/"
+   "url": "https://americanbazaaronline.com/2026/10/07/microsoft-nvidia-unveil-new-ai-laptop-for-windows/"
   },
   {
-   "headline": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
-   "outlet": "Decrypt News",
-   "outlet_name": "Decrypt News",
-   "label": "REPORTED",
-   "url": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model"
+   "headline": "Anthropic will be 'most ridiculous IPO' of year, analyst says",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "STILL OPEN",
+   "url": "https://www.cnbc.com/2026/10/07/anthropic-will-be-most-ridiculous-ipo-of-year-analyst-says.html"
   },
   {
-   "headline": "Utah Governor Signs Executive Order for Pro-Human AI",
-   "outlet": "GovTech",
-   "outlet_name": "GovTech",
-   "label": "CONFIRMED",
-   "url": "https://www.govtech.com/artificial-intelligence/utah-governor-signs-executive-order-for-pro-human-ai"
-  },
-  {
-   "headline": "CrowdStrike, AWS And Nvidia Launch 4th Cybersecurity Accelerator As Agentic AI Security…",
+   "headline": "Microsoft unveils new Surface laptops with Nvidia chips",
    "outlet": "TradingView",
    "outlet_name": "TradingView",
    "label": "REPORTED",
-   "url": "https://es.tradingview.com/news/stocktwits:504bc87d3094b:0-crowdstrike-aws-and-nvidia-launch-4th-cybersecurity-accelerator-as-agentic-ai-security-push-grows/"
+   "url": "https://www.tradingview.com/news/seekingalpha:a13fb3a2d094b:0-microsoft-unveils-new-surface-laptops-with-nvidia-chips/"
   },
   {
-   "headline": "OpenAI Rolls Out GPT-6 and 'Intelligent UI' in ChatGPT",
-   "outlet": "iClarified",
-   "outlet_name": "iClarified",
+   "headline": "OpenAI fully rolls out GPT-6 to all ChatGPT users globally",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
    "label": "REPORTED",
-   "url": "https://www.iclarified.com/102657/openai-rolls-out-gpt-6-and-intelligent-ui-in-chatgpt"
+   "url": "https://36kr.com/newsflashes/4016408854663042?f=rss"
+  },
+  {
+   "headline": "GPT-6 and Intelligent UI for everyone",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZcDg5SXNmVWFZbnFGQkVMYjVFNjBxeUVDWlN2RFJNREhRb0xXbmRsUWhWRnkzOWNHSjgxT3ROQk96VkZ3OHR4X2JrZDNmUThOa3ZJWU9zcw?oc=5"
   },
   {
    "headline": "OpenAI and DeepSeek Valuations Signal Growing AI Investment Boom",
@@ -95,6 +95,13 @@
    "url": "https://www.tekedia.com/openai-and-deepseek-valuations-signal-growing-ai-investment-boom/"
   },
   {
+   "headline": "Some guardrails on ChatGPT for Teens don’t work as promised, watchdog group says",
+   "outlet": "Hartford Courant",
+   "outlet_name": "Hartford Courant",
+   "label": "CONFIRMED",
+   "url": "https://www.courant.com/2026/10/07/chatgpt-teens-safety/"
+  },
+  {
    "headline": "JPMorgan CEO: Anthropic Mythos Hacked Real Companies and Drove Cyber Risk Up Tenfold",
    "outlet": "Tech Times",
    "outlet_name": "Tech Times",
@@ -102,11 +109,18 @@
    "url": "https://www.techtimes.com/articles/328745/20261007/jpmorgan-ceo-anthropic-mythos-hacked-real-companies-drove-cyber-risk-tenfold.htm"
   },
   {
-   "headline": "Introducing Claude Haiku 5.5",
-   "outlet": "simonwillison.net",
-   "outlet_name": "simonwillison.net",
+   "headline": "AI policy deadline to be missed by Anne Arundel school board",
+   "outlet": "Baltimore Sun",
+   "outlet_name": "Baltimore Sun",
    "label": "REPORTED",
-   "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
+   "url": "https://www.baltimoresun.com/2026/10/07/anne-arundel-state-deadline-ai-policy/"
+  },
+  {
+   "headline": "Anthropic releases \"Claude Haiku 5.5\", significantly improving performance from \"Haiku…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/news/article/2610/08/2000002112/"
   },
   {
    "headline": "Mistral Large 4 Enters Preview With 1M-Token Context and Higher API Prices",
@@ -116,35 +130,21 @@
    "url": "https://www.eweek.com/news/mistral-large-4-public-preview-enterprise-ai/"
   },
   {
-   "headline": "Open Weights vs. Managed API: Which Qwen Deployment Fits a Regulated Enterprise?",
-   "outlet": "alibabacloud.com",
-   "outlet_name": "alibabacloud.com",
-   "label": "REPORTED",
-   "url": "https://www.alibabacloud.com/blog/open-weights-vs--managed-api-which-qwen-deployment-fits-a-regulated-enterprise_603611"
-  },
-  {
    "headline": "Lina Khan says AI companies are not exempt from regulations as their products repeatedly…",
    "outlet": "The Cool Down on MSN",
    "outlet_name": "The Cool Down on MSN",
    "label": "CONFIRMED",
    "url": "https://www.msn.com/en-us/news/other/lina-khan-says-ai-companies-are-not-exempt-from-regulations-as-their-products-repeatedly-cross-legal-lines/ar-AA2dMDC8"
-  },
-  {
-   "headline": "Microsoft plays the Windows card in the AI game, with help from Nvidia",
-   "outlet": "GeekWire on MSN",
-   "outlet_name": "GeekWire on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/microsoft-plays-the-windows-card-in-the-ai-game-with-help-from-nvidia/ar-AA2dM8OS"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 13500,
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 13600,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/07/23.mp3",
- "audio_seconds": 65.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/00.mp3",
+ "audio_seconds": 42.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSpaceX is seeking $40 billion to purchase chips, with AMD, Google, and Marvell expanding their investments amid rising demand. Reported by TechOrange 科技報橘.\nAnthropic launches Haiku 5.5, its cheapest and fastest Claude model yet, achieving a 72.4% OSWorld score and offering monthly API credits. Reported by Decrypt News.\nUtah's governor signed an executive order mandating human-guided and accountable artificial intelligence use across state agencies. Confirmed by GovTech.\nCrowdStrike, AWS, and Nvidia launched a cybersecurity accelerator with global applications and $1 billion in alumni funding. Reported by TradingView.\nOpenAI rolled out GPT-6 with an interactive UI and faster web search capabilities in ChatGPT. Reported by iClarified.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The American Bazaar: Microsoft, Nvidia unveil new AI laptop for Windows.\nStill open, per CNBC: Anthropic will be 'most ridiculous IPO' of year, analyst says.\nReported by TradingView: Microsoft unveils new Surface laptops with Nvidia chips.\nReported by 36氪: OpenAI fully rolls out GPT-6 to all ChatGPT users globally.\nReported by OpenAI: GPT-6 and Intelligent UI for everyone.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
