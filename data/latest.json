@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T14:20:02Z",
- "hour": "2026-10-08T14:00:00Z",
+ "generated_at": "2026-10-08T15:20:02Z",
+ "hour": "2026-10-08T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Eminence Grey and Lumen Partner to Deliver Sovereign AI Infrastructure Across the U.S.",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/news-releases/eminence-grey-and-lumen-partner-to-deliver-sovereign-ai-infrastructure-across-the-us-302901935.html",
+   "title": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free",
    "label": "CONFIRMED",
-   "summary_1line": "Eminence Grey and Lumen partner for sovereign AI infrastructure in the U.S.",
-   "published_at": "2026-10-08T12:30:00Z"
+   "summary_1line": "Meta and OpenAI launch AI agents Muse and Dots as personal assistants with cute mascots.",
+   "published_at": "2026-10-08T14:00:00Z"
   },
   {
-   "title": "The more capable AI is, the bigger the risk bill? Anthropic's $2 trillion valuation faces 'AI runaway' storm _ Rolling News _ Finance",
-   "outlet": "证券之星",
-   "outlet_name": "证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pMDYxVHh0enV4V1lPYldYdUIxTzhRci1qLU1KMmFucDFaMUxYV2lUT0kyTTkzR2pFaFMwZkhNNzFLdUV1UGtZdTBhMTB3dHNyRnFmNVNNNFVaN0VwRk1pbg?oc=5",
+   "title": "Hexaware Becomes an Anthropic Preferred Partner, Bringing Claude to the Core of Its AI-native Platforms",
+   "outlet": "PR Newswire UK",
+   "outlet_name": "PR Newswire UK",
+   "url": "https://www.prnewswire.co.uk/news-releases/hexaware-becomes-an-anthropic-preferred-partner-bringing-claude-to-the-core-of-its-ai-native-platforms-302902493.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Hexaware and Anthropic partner to deliver AI-driven outcomes via Claude in enterprise IT and software engineering.",
+   "published_at": "2026-10-08T13:15:00Z"
+  },
+  {
+   "title": "Nvidia-backed AI drug discovery company Iambic seeks US listing, aiming to raise up to $159 million",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4017212219608967?f=rss",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-08T13:38:25Z"
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
   },
   {
-   "title": "Gemini 4 Argon Could Launch Today: Full Specs, Benchmarks & Features",
-   "outlet": "Nokiapoweruser",
-   "outlet_name": "Nokiapoweruser",
-   "url": "https://nokiapoweruser.com/gemini-4-argon-launch-specs-pricing-benchmarks/",
-   "label": "STILL OPEN",
-   "summary_1line": "Google's Gemini 4 Argon launches today with 1M output capacity and aggressive pricing, signaling a major AI ecosystem shift.",
-   "published_at": "2026-10-08T12:08:24Z"
+   "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+   "label": "CONFIRMED",
+   "summary_1line": "Uber and Pony.ai to launch robotaxi tests in London, expanding from prior Middle East and Zagreb operations.",
+   "published_at": "2026-10-08T12:53:39Z"
   },
   {
-   "title": "Google DeepMind’s London AI drug spinout eyes $50bn valuation",
-   "outlet": "City AM",
-   "outlet_name": "City AM",
-   "url": "https://www.cityam.com/google-deepminds-london-ai-drug-spinout-eyes-50bn-valuation/",
-   "label": "STILL OPEN",
-   "summary_1line": "Isomorphic Labs seeks $50bn valuation in AI drug discovery funding.",
-   "published_at": "2026-10-08T12:05:07Z"
-  },
-  {
-   "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-08T12:01:28Z"
+   "title": "State AI Laws Up the Ante for Human Oversight of Job Decisions",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
+   "url": "https://news.bloomberglaw.com/artificial-intelligence/state-ai-laws-up-the-ante-for-human-oversight-of-job-decisions",
+   "label": "CONFIRMED",
+   "summary_1line": "California mandates human oversight for AI hiring and firing, with similar laws emerging in other states.",
+   "published_at": "2026-10-08T09:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Eminence Grey and Lumen Partner to Deliver Sovereign AI Infrastructure Across the U.S.",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "Can you trust Meta’s Muse or OpenAI’s Dots to run your life?",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/eminence-grey-and-lumen-partner-to-deliver-sovereign-ai-infrastructure-across-the-us-302901935.html"
+   "url": "https://www.theverge.com/podcast/1007408/meta-muse-openai-dots-ai-agent-race-privacy-free"
   },
   {
-   "headline": "The more capable AI is, the bigger the risk bill? Anthropic's $2 trillion valuation faces…",
-   "outlet": "证券之星",
-   "outlet_name": "证券之星",
+   "headline": "Hexaware Becomes an Anthropic Preferred Partner, Bringing Claude to the Core of Its…",
+   "outlet": "PR Newswire UK",
+   "outlet_name": "PR Newswire UK",
+   "label": "CONFIRMED",
+   "url": "https://www.prnewswire.co.uk/news-releases/hexaware-becomes-an-anthropic-preferred-partner-bringing-claude-to-the-core-of-its-ai-native-platforms-302902493.html"
+  },
+  {
+   "headline": "Nvidia-backed AI drug discovery company Iambic seeks US listing, aiming to raise up to…",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pMDYxVHh0enV4V1lPYldYdUIxTzhRci1qLU1KMmFucDFaMUxYV2lUT0kyTTkzR2pFaFMwZkhNNzFLdUV1UGtZdTBhMTB3dHNyRnFmNVNNNFVaN0VwRk1pbg?oc=5"
-  },
-  {
-   "headline": "Gemini 4 Argon Could Launch Today: Full Specs, Benchmarks & Features",
-   "outlet": "Nokiapoweruser",
-   "outlet_name": "Nokiapoweruser",
-   "label": "STILL OPEN",
-   "url": "https://nokiapoweruser.com/gemini-4-argon-launch-specs-pricing-benchmarks/"
-  },
-  {
-   "headline": "Google DeepMind’s London AI drug spinout eyes $50bn valuation",
-   "outlet": "City AM",
-   "outlet_name": "City AM",
-   "label": "STILL OPEN",
-   "url": "https://www.cityam.com/google-deepminds-london-ai-drug-spinout-eyes-50bn-valuation/"
-  },
-  {
-   "headline": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "label": "REPORTED",
-   "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/"
+   "url": "https://36kr.com/newsflashes/4017212219608967?f=rss"
   },
   {
    "headline": "Uber and China’s Pony.ai plan to launch robotaxis in London",
@@ -95,6 +81,13 @@
    "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/"
   },
   {
+   "headline": "State AI Laws Up the Ante for Human Oversight of Job Decisions",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
+   "label": "CONFIRMED",
+   "url": "https://news.bloomberglaw.com/artificial-intelligence/state-ai-laws-up-the-ante-for-human-oversight-of-job-decisions"
+  },
+  {
    "headline": "Microsoft launches new Surface laptops with Nvidia, Windows expands local AI capabilities",
    "outlet": "Telecompaper",
    "outlet_name": "Telecompaper",
@@ -102,49 +95,56 @@
    "url": "https://www.telecompaper.com/news/microsoft-launches-new-surface-laptops-with-nvidia-windows-expands-local-ai-capabilities--1584989"
   },
   {
-   "headline": "Gallatin AI Announces $50 Million Series A to Accelerate Transformation of Military…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "AWS launches open-source Physical AI Toolchain for robotics",
+   "outlet": "The Robot Report",
+   "outlet_name": "The Robot Report",
    "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/gallatin-ai-announces-50-million-series-a-to-accelerate-transformation-of-military-logistics-302902399.html"
+   "url": "https://www.therobotreport.com/aws-launches-open-source-physical-ai-toolchain-for-robotics/"
   },
   {
-   "headline": "Google Cloud introduces the Gemini agent.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
+   "headline": "Copilot goes local as Surface Laptop Ultra starts at $2,599",
+   "outlet": "BetaNews",
+   "outlet_name": "BetaNews",
+   "label": "REPORTED",
+   "url": "https://betanews.com/article/windows-local-ai-agents-surface-laptop-ultra/"
   },
   {
-   "headline": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
-   "outlet": "cloud.google.com",
-   "outlet_name": "cloud.google.com",
-   "label": "CONFIRMED",
-   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
+   "headline": "McDonald's AI Price-Fixing Federal Lawsuit: What It Means for Every Big Mac You Buy",
+   "outlet": "Latin Times",
+   "outlet_name": "Latin Times",
+   "label": "REPORTED",
+   "url": "https://www.latintimes.com/mcdonalds-ai-price-fixing-federal-lawsuit-what-it-means-every-big-mac-you-buy-599956"
   },
   {
-   "headline": "Anthropic is going public: A 5-year-old company with a 2 trillion valuation, who is…",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
-   "label": "STILL OPEN",
-   "url": "https://www.tmtpost.com/8161055.html"
+   "headline": "Google Cloud Unveils Gemini, Its Universal Agent for Work",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/google-cloud-unveils-gemini-its-universal-agent-for-work/"
   },
   {
-   "headline": "Rein Security Raises $25 Million to Guard AI Agents at Runtime",
-   "outlet": "securityweek.com",
-   "outlet_name": "securityweek.com",
-   "label": "CONFIRMED",
-   "url": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/"
+   "headline": "FTC Returns More than $15.8 Million to Consumers Misled by Cash Advance App Company Cleo…",
+   "outlet": "ftc.gov",
+   "outlet_name": "ftc.gov",
+   "label": "REPORTED",
+   "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-returns-more-158-million-consumers-misled-cash-advance-app-company-cleo-ai"
+  },
+  {
+   "headline": "Show HN: Ask Claude about any UK company – no API key needed",
+   "outlet": "registrum.co.uk",
+   "outlet_name": "registrum.co.uk",
+   "label": "REPORTED",
+   "url": "https://registrum.co.uk/mcp"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 13700,
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 13600,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/14.mp3",
- "audio_seconds": 56.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/15.mp3",
+ "audio_seconds": 63.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per PR Newswire: Eminence Grey and Lumen Partner to Deliver Sovereign AI Infrastructure Across the U.S.\nReported by 证券之星: The more capable AI is, the bigger the risk bill? Anthropic's $2 trillion valuation faces 'AI runaway' storm _ Rolling News _ Finance.\nStill open, per Nokiapoweruser: Gemini 4 Argon Could Launch Today: Full Specs, Benchmarks & Features.\nStill open, per City AM: Google DeepMind’s London AI drug spinout eyes $50bn valuation.\nReported by Reuters: Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMeta and OpenAI are launching personal assistant agents called Muse and Dots with cute mascots, according to Confirmed reporting by The Verge.\nHexaware has become an Anthropic Preferred Partner, bringing Claude to the core of its artificial intelligence native platforms for enterprise outcomes, Confirmed by PR Newswire UK.\nA Nvidia-backed artificial intelligence drug discovery company called Iambic is seeking a US listing and aiming to raise up to 159 million dollars, Reported by 36氪.\nUber and Pony.ai plan to launch robotaxi tests in London, expanding from their previous operations in the Middle East and Zagreb, Confirmed by TechCrunch.\nCalifornia now mandates human oversight for artificial intelligence hiring and firing decisions, with similar laws emerging in other states, Confirmed by Bloomberg Law News.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
