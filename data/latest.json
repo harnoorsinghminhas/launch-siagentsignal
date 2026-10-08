@@ -1,112 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T03:20:02Z",
- "hour": "2026-10-08T03:00:00Z",
+ "generated_at": "2026-10-08T04:20:02Z",
+ "hour": "2026-10-08T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Stepping up bets on AI layout, SpaceX plans to raise 40 billion USD to buy NVIDIA chips",
-   "outlet": "三立新聞",
-   "outlet_name": "三立新聞",
-   "url": "https://www.setn.com/news/1918597",
+   "title": "AI chip boom pushes Samsung profits to record $80bn",
+   "outlet": "bbc.co.uk",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
    "label": "CONFIRMED",
-   "summary_1line": "SpaceX seeks $400B for NVIDIA chips, with Apollo leading financing by 2027.",
-   "published_at": "2026-10-07T06:32:00Z"
+   "summary_1line": "Samsung's profits hit $80bn as AI chip demand surges globally.",
+   "published_at": "2026-10-08T01:59:54Z"
   },
   {
-   "title": "NVIDIA RTX Spark & DGX Station launch on Windows",
-   "outlet": "HardwareZone Singapore",
-   "outlet_name": "HardwareZone Singapore",
-   "url": "https://www.hardwarezone.com.sg/pc/nvidia-rtx-spark-microsoft-ai-pc-dgx-station-announcement",
+   "title": "SK Hynix establishes AI Environment Research Institute... Chey Tae-won 'takes the lead in eco-friendly semiconductor transition'",
+   "outlet": "아이뉴스24",
+   "outlet_name": "아이뉴스24",
+   "url": "http://www.inews24.com/view/2013049",
+   "label": "CONFIRMED",
+   "summary_1line": "SK하이닉스 설립 AI 환경연구소, 반도체 산업의 친환경 전환을 추진한다.",
+   "published_at": "2026-10-08T01:43:53Z"
+  },
+  {
+   "title": "Mecka AI reveals $60-million USD Series B round backed by Sequoia, Nvidia",
+   "outlet": "BetaKit",
+   "outlet_name": "BetaKit",
+   "url": "https://betakit.com/mecka-ai-reveals-60-million-usd-series-b-round-backed-by-sequoia-nvidia/",
    "label": "REPORTED",
-   "summary_1line": "NVIDIA launches RTX Spark laptops on 16 Oct and unveils DGX Station for Windows with trillion-parameter AI support.",
-   "published_at": "2026-10-07T21:37:02Z"
+   "summary_1line": "Mecka AI raises $60M to scale robotics data layer with major tech backers.",
+   "published_at": "2026-10-08T01:20:06Z"
   },
   {
-   "title": "Another major case of AI chip financing, Broadcom rumored to raise over 50 billion USD for OpenAI following Anthropic",
-   "outlet": "經濟日報",
-   "outlet_name": "經濟日報",
-   "url": "https://money.udn.com/money/story/5599/9801829",
-   "label": "STILL OPEN",
-   "summary_1line": "Broadcom and others explore massive AI chip financing amid rising data center costs.",
-   "published_at": "2026-10-07T23:01:42Z"
+   "title": "Musk goes all-in! SpaceX reportedly plans to raise 1.2 trillion TWD to buy massive NVIDIA chips, financing plan revealed | International News | Global",
+   "outlet": "NOWnews今日新聞",
+   "outlet_name": "NOWnews今日新聞",
+   "url": "https://www.nownews.com/news/6881278",
+   "label": "CONFIRMED",
+   "summary_1line": "SpaceX plans 400B USD AI chip funding, with 100B bank loans and 300B bonds, to boost AI operations via NVIDIA chips.",
+   "published_at": "2026-10-07T02:49:32Z"
   },
   {
-   "title": "DeepSeek doubles funding target to $15 billion ahead of 2027 IPO: Who has committed and where will the money go?",
-   "outlet": "Mint",
-   "outlet_name": "Mint",
-   "url": "https://www.livemint.com/ai/artificial-intelligence/deepseek-doubles-funding-target-to-15-billion-ahead-of-2027-ipo-who-has-committed-and-where-will-the-money-go-11791420388901.html",
+   "title": "Surface Laptop Ultra, Local Copilot AI, and More: Everything Announced at Microsoft's Fall Event",
+   "outlet": "PCMag UK",
+   "outlet_name": "PCMag UK",
+   "url": "https://uk.pcmag.com/laptops/167696/microsoft-surface-windows-event-2026-live-announcements-and-analysis",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek raises 100 billion yuan, targeting 2027 IPO with 160,000 Huawei AI accelerators.",
-   "published_at": "2026-10-07T18:20:00Z"
-  },
-  {
-   "title": "Did DeepSeek Raise Hundreds of Billions of Yuan in Financing Immediately After Liang Wenfeng Took Action?",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "url": "https://eu.36kr.com/en/p/4015344253210761",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek raised up to 1 trillion yuan in financing, sparking a market reaction after its R1 model outperformed rivals with low costs.",
-   "published_at": "2026-10-08T01:41:49Z"
+   "summary_1line": "Microsoft unveils Surface Laptop Ultra with Nvidia RTX Spark and Local Copilot AI.",
+   "published_at": "2026-10-07T21:40:19Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Stepping up bets on AI layout, SpaceX plans to raise 40 billion USD to buy NVIDIA chips",
-   "outlet": "三立新聞",
-   "outlet_name": "三立新聞",
+   "headline": "AI chip boom pushes Samsung profits to record $80bn",
+   "outlet": "bbc.co.uk",
+   "outlet_name": "BBC",
    "label": "CONFIRMED",
-   "url": "https://www.setn.com/news/1918597"
+   "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss"
   },
   {
-   "headline": "NVIDIA RTX Spark & DGX Station launch on Windows",
-   "outlet": "HardwareZone Singapore",
-   "outlet_name": "HardwareZone Singapore",
-   "label": "REPORTED",
-   "url": "https://www.hardwarezone.com.sg/pc/nvidia-rtx-spark-microsoft-ai-pc-dgx-station-announcement"
-  },
-  {
-   "headline": "Another major case of AI chip financing, Broadcom rumored to raise over 50 billion USD…",
-   "outlet": "經濟日報",
-   "outlet_name": "經濟日報",
-   "label": "STILL OPEN",
-   "url": "https://money.udn.com/money/story/5599/9801829"
-  },
-  {
-   "headline": "DeepSeek doubles funding target to $15 billion ahead of 2027 IPO: Who has committed and…",
-   "outlet": "Mint",
-   "outlet_name": "Mint",
-   "label": "REPORTED",
-   "url": "https://www.livemint.com/ai/artificial-intelligence/deepseek-doubles-funding-target-to-15-billion-ahead-of-2027-ipo-who-has-committed-and-where-will-the-money-go-11791420388901.html"
-  },
-  {
-   "headline": "Did DeepSeek Raise Hundreds of Billions of Yuan in Financing Immediately After Liang…",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4015344253210761"
-  },
-  {
-   "headline": "Multiple South Korean banks hacked with suspected AI involvement, Lee Jae-myung calls for…",
-   "outlet": "新浪新闻",
-   "outlet_name": "新浪新闻",
-   "label": "REPORTED",
-   "url": "https://news.sina.com.cn/w/2026-10-08/doc-iniunezt4068450.shtml"
-  },
-  {
-   "headline": "California’s AI Governance Vote Is a Market Signal — Not Just a Policy Move",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "label": "REPORTED",
-   "url": "https://forkast.news/californias-ai-governance-vote-is-a-market-signal-not-just-a-policy-move/"
-  },
-  {
-   "headline": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
+   "headline": "SK Hynix establishes AI Environment Research Institute... Chey Tae-won 'takes the lead in…",
+   "outlet": "아이뉴스24",
+   "outlet_name": "아이뉴스24",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/money/general/samsung-flags-80-billion-profit-on-ai-boom-highest-quarterly-for-any-tech-company/ar-AA2dMfBo"
+   "url": "http://www.inews24.com/view/2013049"
+  },
+  {
+   "headline": "Mecka AI reveals $60-million USD Series B round backed by Sequoia, Nvidia",
+   "outlet": "BetaKit",
+   "outlet_name": "BetaKit",
+   "label": "REPORTED",
+   "url": "https://betakit.com/mecka-ai-reveals-60-million-usd-series-b-round-backed-by-sequoia-nvidia/"
+  },
+  {
+   "headline": "Musk goes all-in! SpaceX reportedly plans to raise 1.2 trillion TWD to buy massive NVIDIA…",
+   "outlet": "NOWnews今日新聞",
+   "outlet_name": "NOWnews今日新聞",
+   "label": "CONFIRMED",
+   "url": "https://www.nownews.com/news/6881278"
+  },
+  {
+   "headline": "Surface Laptop Ultra, Local Copilot AI, and More: Everything Announced at Microsoft's…",
+   "outlet": "PCMag UK",
+   "outlet_name": "PCMag UK",
+   "label": "REPORTED",
+   "url": "https://uk.pcmag.com/laptops/167696/microsoft-surface-windows-event-2026-live-announcements-and-analysis"
+  },
+  {
+   "headline": "Anthropic expands AI model suite with low-cost, high-speed Haiku 5.5 launch",
+   "outlet": "Yahoo Finance Australia",
+   "outlet_name": "Yahoo Finance Australia",
+   "label": "REPORTED",
+   "url": "https://au.finance.yahoo.com/news/anthropic-expands-ai-model-suite-203012523.html"
+  },
+  {
+   "headline": "Four New California Laws Reshape the Rules for Workplace AI",
+   "outlet": "The National Law Review",
+   "outlet_name": "The National Law Review",
+   "label": "CONFIRMED",
+   "url": "https://natlawreview.com/article/four-new-california-laws-reshape-rules-workplace-ai"
+  },
+  {
+   "headline": "OpenAI rolls out GPT 6 for all users, introduces Intelligent UI for more interactive…",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
+   "label": "REPORTED",
+   "url": "https://www.digit.in/news/general/openai-rolls-out-gpt-6-for-all-users-introduces-intelligent-ui-for-more-interactive-chatgpt-responses.html"
   },
   {
    "headline": "GPT-6 launches globally, Claude Haiku 5.5 price drops, the AI circle didn't rest this…",
@@ -130,21 +130,21 @@
    "url": "https://sspai.com/post/115455"
   },
   {
-   "headline": "AI Developers Would Be Liable for Errant Agents Under Draft House Bill (Oct 7, 2026)",
-   "outlet": "VitalLaw.com",
-   "outlet_name": "VitalLaw.com",
+   "headline": "Anthropic has released Claude Haiku 5.5 October 7, 2026",
+   "outlet": "artificialanalysis.ai",
+   "outlet_name": "artificialanalysis.ai",
    "label": "REPORTED",
-   "url": "https://www.vitallaw.com/news/ai-developers-would-be-liable-for-errant-agents-under-draft-house-bill/cspd01d486aa5267614d2bb497b6dab3396ded"
+   "url": "https://artificialanalysis.ai/articles/claude-haiku-5-5"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 13800,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13900,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/03.mp3",
- "audio_seconds": 57.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/04.mp3",
+ "audio_seconds": 60.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed by 三立新聞: SpaceX plans to raise 40 billion USD to buy NVIDIA chips, with Apollo leading the financing by 2027.\nNVIDIA launches RTX Spark laptops on October 16 and unveils DGX Station for Windows, reported by HardwareZone Singapore, with trillion-parameter artificial intelligence support.\nStill open per 經濟日報: Broadcom is rumored to raise over 50 billion USD for OpenAI, following similar major chip financing deals.\nDeepSeek doubles its funding target to 15 billion dollars ahead of a 2027 IPO, reported by Mint, with 160,000 Huawei artificial intelligence accelerators planned.\nReported by 36Kr: DeepSeek raised up to 1 trillion yuan in financing after its R1 model outperformed rivals with low costs.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BBC: AI chip boom pushes Samsung profits to record $80bn.\nConfirmed, per 아이뉴스24: SK Hynix establishes AI Environment Research Institute... Chey Tae-won 'takes the lead in eco-friendly semiconductor transition'.\nReported by BetaKit: Mecka AI reveals $60-million USD Series B round backed by Sequoia, Nvidia.\nConfirmed, per NOWnews今日新聞: Musk goes all-in! SpaceX reportedly plans to raise 1.2 trillion TWD to buy massive NVIDIA chips, financing plan revealed | International News | Global.\nReported by PCMag UK: Surface Laptop Ultra, Local Copilot AI, and More: Everything Announced at Microsoft's Fall Event.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
