@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T18:20:02Z",
- "hour": "2026-10-08T18:00:00Z",
+ "generated_at": "2026-10-08T19:20:02Z",
+ "hour": "2026-10-08T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "USA Today becomes the latest publisher to sue OpenAI",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+   "title": "Google Cloud launches universal ‘Gemini Agent’ with deep app integration",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-cloud-launches-universal-gemini-agent-with-deep-app-integration/articleshow/134796576.cms",
+   "label": "CONFIRMED",
+   "summary_1line": "Google launches Gemini agent for enterprises with autonomous workflows and deep Workspace integration.",
+   "published_at": "2026-10-08T17:13:00Z"
+  },
+  {
+   "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "url": "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house",
+   "label": "CONFIRMED",
+   "summary_1line": "Trump calls AI users 'the enemy' as White House uses both terms.",
+   "published_at": "2026-10-08T17:46:19Z"
+  },
+  {
+   "title": "Claude Sonnet 5.5 halves cache-read prices. Migration can still change your bill",
+   "outlet": "OpenTools",
+   "outlet_name": "OpenTools",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xRG9IOHllb2htZXpBX0FLemc0WlpfQmJhV3ZmeHZDaU9JVmFXcVZIUFg5VEVkSUdlTlNfTnFvYUl0SDFPeGozd28zMEpBTzF4NlNWbWdKMktnQWFaZG9NYmFNVEMtWGZkUXd3T1N4VEQwMEgwMXM1ZXAySQ?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-08T17:58:33Z"
+   "published_at": "2026-10-08T18:50:50Z"
   },
   {
-   "title": "Anthropic bans ‘abusive or cruel behavior’ towards Claude",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic bans abusive behavior and expands AI misuse rules for Claude.",
-   "published_at": "2026-10-08T17:00:00Z"
-  },
-  {
-   "title": "India to release AI regulation consultation paper within a month: Ashwini Vaishnaw",
-   "outlet": "Exchange4Media",
-   "outlet_name": "Exchange4Media",
-   "url": "https://www.exchange4media.com/digital-news/india-to-release-ai-regulation-consultation-paper-within-a-month-ashwini-vaishnaw-158990.html",
-   "label": "CONFIRMED",
-   "summary_1line": "India to release AI regulation consultation paper in next month, focusing on safety and deepfakes.",
-   "published_at": "2026-10-08T10:10:24Z"
-  },
-  {
-   "title": "FTC advancing on its AI safety probe",
-   "outlet": "semafor.com",
-   "outlet_name": "Semafor",
-   "url": "https://www.semafor.com/article/10/08/2026/ftc-advancing-on-its-ai-safety-probe",
+   "title": "Anthropic Bars \"Cruel Behaviour\" Towards Its Models As A Part Of New Policy",
+   "outlet": "OfficeChai",
+   "outlet_name": "OfficeChai",
+   "url": "https://officechai.com/ai/anthropic-bars-cruel-behaviour-towards-its-models-as-a-part-of-new-policy/",
    "label": "REPORTED",
-   "summary_1line": "FTC prepares AI probe amid public disclosure and self-regulation pledge.",
-   "published_at": "2026-10-08T17:01:27Z"
+   "summary_1line": null,
+   "published_at": "2026-10-08T18:34:22Z"
   },
   {
-   "title": "Microsoft Copilot targeted by bundling complaints in Belgium",
-   "outlet": "Global Competition Review",
-   "outlet_name": "Global Competition Review",
-   "url": "https://globalcompetitionreview.com/article/microsoft-copilot-targeted-bundling-complaints-in-belgium",
+   "title": "Elon Musk says Grok Bot will use Suno’s AI music models, alongside Anthropic’s Claude and Midjourney",
+   "outlet": "Music Business Worldwide",
+   "outlet_name": "Music Business Worldwide",
+   "url": "https://www.musicbusinessworldwide.com/elon-musk-says-grok-bot-will-use-sunos-ai-music-models-alongside-anthropics-claude-and-midjourney/",
    "label": "REPORTED",
-   "summary_1line": "Belgium raises complaints over Microsoft bundling Copilot in its productivity suite.",
-   "published_at": "2026-10-08T16:55:16Z"
+   "summary_1line": "Musk says Grok Bot will use Suno, Claude Opus 5.5, and Midjourney, amid new music copyright lawsuits.",
+   "published_at": "2026-10-08T17:10:31Z"
   }
  ],
  "ticker": [
   {
-   "headline": "USA Today becomes the latest publisher to sue OpenAI",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "REPORTED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
-  },
-  {
-   "headline": "Anthropic bans ‘abusive or cruel behavior’ towards Claude",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
+   "headline": "Google Cloud launches universal ‘Gemini Agent’ with deep app integration",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-cloud-launches-universal-gemini-agent-with-deep-app-integration/articleshow/134796576.cms"
   },
   {
-   "headline": "India to release AI regulation consultation paper within a month: Ashwini Vaishnaw",
-   "outlet": "Exchange4Media",
-   "outlet_name": "Exchange4Media",
+   "headline": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
    "label": "CONFIRMED",
-   "url": "https://www.exchange4media.com/digital-news/india-to-release-ai-regulation-consultation-paper-within-a-month-ashwini-vaishnaw-158990.html"
+   "url": "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house"
   },
   {
-   "headline": "FTC advancing on its AI safety probe",
-   "outlet": "semafor.com",
-   "outlet_name": "Semafor",
+   "headline": "Claude Sonnet 5.5 halves cache-read prices. Migration can still change your bill",
+   "outlet": "OpenTools",
+   "outlet_name": "OpenTools",
    "label": "REPORTED",
-   "url": "https://www.semafor.com/article/10/08/2026/ftc-advancing-on-its-ai-safety-probe"
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xRG9IOHllb2htZXpBX0FLemc0WlpfQmJhV3ZmeHZDaU9JVmFXcVZIUFg5VEVkSUdlTlNfTnFvYUl0SDFPeGozd28zMEpBTzF4NlNWbWdKMktnQWFaZG9NYmFNVEMtWGZkUXd3T1N4VEQwMEgwMXM1ZXAySQ?oc=5"
   },
   {
-   "headline": "Microsoft Copilot targeted by bundling complaints in Belgium",
-   "outlet": "Global Competition Review",
-   "outlet_name": "Global Competition Review",
+   "headline": "Anthropic Bars \"Cruel Behaviour\" Towards Its Models As A Part Of New Policy",
+   "outlet": "OfficeChai",
+   "outlet_name": "OfficeChai",
    "label": "REPORTED",
-   "url": "https://globalcompetitionreview.com/article/microsoft-copilot-targeted-bundling-complaints-in-belgium"
+   "url": "https://officechai.com/ai/anthropic-bars-cruel-behaviour-towards-its-models-as-a-part-of-new-policy/"
+  },
+  {
+   "headline": "Elon Musk says Grok Bot will use Suno’s AI music models, alongside Anthropic’s Claude and…",
+   "outlet": "Music Business Worldwide",
+   "outlet_name": "Music Business Worldwide",
+   "label": "REPORTED",
+   "url": "https://www.musicbusinessworldwide.com/elon-musk-says-grok-bot-will-use-sunos-ai-music-models-alongside-anthropics-claude-and-midjourney/"
+  },
+  {
+   "headline": "Regulators are trying to protect you from being fired by AI – here’s how",
+   "outlet": "zdnet.com",
+   "outlet_name": "ZDNet",
+   "label": "REPORTED",
+   "url": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/"
   },
   {
    "headline": "SpaceXAI Hit With Biometric Suit Over Images Uploaded to Grok",
@@ -95,25 +102,18 @@
    "url": "https://news.bloomberglaw.com/business-and-practice/spacexai-hit-with-biometric-suit-over-images-uploaded-to-grok"
   },
   {
+   "headline": "MessageWatcher Launches AI Policy Builder, a Ready-Made Library of Compliance Rules for…",
+   "outlet": "EIN Presswire",
+   "outlet_name": "EIN Presswire",
+   "label": "REPORTED",
+   "url": "https://www.einpresswire.com/article/948249171/messagewatcher-launches-ai-policy-builder-a-ready-made-library-of-compliance-rules-for-sec-finra-and-state-reqs"
+  },
+  {
    "headline": "2026 Usage Policy update \\ Anthropic",
    "outlet": "anthropic.com",
    "outlet_name": "anthropic.com",
    "label": "CONFIRMED",
    "url": "https://www.anthropic.com/news/2026-usage-policy-update"
-  },
-  {
-   "headline": "Google Cloud introduces the Gemini agent.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
-  },
-  {
-   "headline": "Read Article Arena Alignment Index Today we are introducing the Arena Alignment Index…",
-   "outlet": "lmarena.ai",
-   "outlet_name": "lmarena.ai",
-   "label": "REPORTED",
-   "url": "https://lmarena.ai/blog/ai-alignment-index"
   },
   {
    "headline": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -123,28 +123,28 @@
    "url": "https://openai.com/index/oracle"
   },
   {
-   "headline": "AT&T + OpenAI Partner for Legal AI Workflows",
-   "outlet": "artificiallawyer.com",
-   "outlet_name": "artificiallawyer.com",
+   "headline": "Does Claude Feel the Whip?",
+   "outlet": "noemamag.com",
+   "outlet_name": "noemamag.com",
    "label": "REPORTED",
-   "url": "https://www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows/"
+   "url": "https://www.noemamag.com/does-claude-feel-the-whip/"
   },
   {
-   "headline": "USA TODAY verklagt OpenAI wegen urheberrechtlich geschützter Nachrichteninhalte im…",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
+   "headline": "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
    "label": "REPORTED",
-   "url": "https://www.unite.ai/de/usa-today-sues-openai-over-copyrighted-news-content-in-ai-training/"
+   "url": "https://www.techmeme.com/261008/p39#a261008p39"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13500,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13400,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/18.mp3",
- "audio_seconds": 54.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/19.mp3",
+ "audio_seconds": 50.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nUSA Today is suing OpenAI over copyright concerns. Reported by The Verge: the publisher joins others taking legal action against the company.\nAnthropic has expanded rules against abusive behavior toward Claude. Confirmed by The Verge: the company is strengthening its misuse policies.\nIndia plans to release an AI regulation consultation paper next month. Confirmed by Exchange4Media: the effort will focus on safety and deepfakes.\nThe FTC is moving forward with its artificial intelligence safety investigation. Reported by Semafor: the agency is preparing its probe amid public disclosure.\nMicrosoft is facing bundling complaints over Copilot in Belgium. Reported by Global Competition Review: the country raised concerns about the productivity suite integration.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Times of India: Google Cloud launches universal ‘Gemini Agent’ with deep app integration.\nConfirmed, per Axios: Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it.\nReported by OpenTools: Claude Sonnet 5.5 halves cache-read prices. Migration can still change your bill.\nReported by OfficeChai: Anthropic Bars \"Cruel Behaviour\" Towards Its Models As A Part Of New Policy.\nReported by Music Business Worldwide: Elon Musk says Grok Bot will use Suno’s AI music models, alongside Anthropic’s Claude and Midjourney.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
