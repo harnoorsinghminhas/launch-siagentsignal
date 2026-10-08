@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T06:20:02Z",
- "hour": "2026-10-08T06:00:00Z",
+ "generated_at": "2026-10-08T07:20:02Z",
+ "hour": "2026-10-08T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o",
+   "title": "The eve of DeepSeek's 100 billion yuan financing agreement: Money is not the problem, chips are",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
+   "url": "https://www.21jingji.com/article/20261008/herald/e524fe8e37e85be32fcc5c2418c8cde5.html",
    "label": "CONFIRMED",
-   "summary_1line": "ChatGPT for Teens shows limited teen use but fails to alert parents on self-harm, raising safety concerns.",
-   "published_at": "2026-10-07T20:21:58Z"
+   "summary_1line": "DeepSeek raises up to 1000 billion CNY, driven by new model success and rising AI sector funding.",
+   "published_at": "2026-10-08T04:46:00Z"
   },
   {
-   "title": "Anthropic expands cybersecurity program for advanced AI testing",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
-   "url": "https://www.digitimes.com/news/a20261007PD250/anthropic-cybersecurity-testing-security-claude.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic expands AI cybersecurity testing to vetted teams with higher-end models.",
-   "published_at": "2026-10-08T03:45:00Z"
-  },
-  {
-   "title": "Elon Musk’s Grok sues Minnesota for right to keep ‘nudifying’ images",
-   "outlet": "Baptist News Global",
-   "outlet_name": "Baptist News Global",
-   "url": "https://baptistnews.com/article/elon-musks-grok-sues-minnesota-for-right-to-keep-nudifying-images/",
-   "label": "REPORTED",
-   "summary_1line": "xAI sues Minnesota over AI-generated nudification ban, claiming free speech violation.",
-   "published_at": "2026-10-08T04:04:15Z"
-  },
-  {
-   "title": "DeepMind spinout Isomorphic Labs in talks to raise funds at $40B–$50B valuation: report",
+   "title": "Common Sense Media warns ChatGPT for Teens carries ‘Unacceptable Risk’",
    "outlet": "TradingView",
    "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/seekingalpha:1742dba9d094b:0-deepmind-spinout-isomorphic-labs-in-talks-to-raise-funds-at-40b-50b-valuation-report/",
-   "label": "REPORTED",
-   "summary_1line": "Isomorphic Labs seeks $40B–$50B funding; $300M joint AI research investment with Meta, DeepMind and Biohub.",
-   "published_at": "2026-10-08T04:21:00Z"
+   "url": "https://www.tradingview.com/news/invezz:e261e2031094b:0-common-sense-media-warns-chatgpt-for-teens-carries-unacceptable-risk/",
+   "label": "CONFIRMED",
+   "summary_1line": "Common Sense Media finds ChatGPT for Teens unsafe, urging OpenAI to pause marketing.",
+   "published_at": "2026-10-07T11:30:00Z"
   },
   {
-   "title": "AI: Nvidia’s Open Source ‘AI Factory’ Push vs China. AI-RTZ #1233 (Part 1)",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "url": "https://michaelparekh.substack.com/p/ai-nvidias-open-source-ai-factory",
+   "title": "Claude Invests $100M to Launch AI Training Programs: Is Your First AI Diploma Coming?",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "url": "https://eu.36kr.com/en/p/4016354742669443",
    "label": "REPORTED",
-   "summary_1line": "Reflection AI launches Beam, an open-source AI model designed for sovereign AI, backed by Nvidia and targeting enterprise use.",
-   "published_at": "2026-10-08T04:10:08Z"
+   "summary_1line": "Anthropic launches $100M AI training program for 10K engineers with real-world assessments.",
+   "published_at": "2026-10-08T06:02:04Z"
+  },
+  {
+   "title": "A tech crowd was polled on buying Anthropic shares at a $3 trillion valuation. Only 3 hands went up.",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/anthropic-ipo-market-investor-demand-2026-10",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic's IPO could test AI hype against market scrutiny amid cautious investor demand.",
+   "published_at": "2026-10-08T05:56:37Z"
+  },
+  {
+   "title": "Microsoft and NVIDIA Launch Surface Laptop Ultra with RTX Spark Chip, Introduce AI Assistant Scout",
+   "outlet": "KuCoin",
+   "outlet_name": "KuCoin",
+   "url": "https://www.kucoin.com/news/flash/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-chip-introduce-ai-assistant-scout",
+   "label": "REPORTED",
+   "summary_1line": "Microsoft's Surface Laptop Ultra beats MacBook Pro in AI speed, launches at $2,599.",
+   "published_at": "2026-10-08T04:09:02Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
+   "headline": "The eve of DeepSeek's 100 billion yuan financing agreement: Money is not the problem…",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
    "label": "CONFIRMED",
-   "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o"
+   "url": "https://www.21jingji.com/article/20261008/herald/e524fe8e37e85be32fcc5c2418c8cde5.html"
   },
   {
-   "headline": "Anthropic expands cybersecurity program for advanced AI testing",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
-   "label": "CONFIRMED",
-   "url": "https://www.digitimes.com/news/a20261007PD250/anthropic-cybersecurity-testing-security-claude.html"
-  },
-  {
-   "headline": "Elon Musk’s Grok sues Minnesota for right to keep ‘nudifying’ images",
-   "outlet": "Baptist News Global",
-   "outlet_name": "Baptist News Global",
-   "label": "REPORTED",
-   "url": "https://baptistnews.com/article/elon-musks-grok-sues-minnesota-for-right-to-keep-nudifying-images/"
-  },
-  {
-   "headline": "DeepMind spinout Isomorphic Labs in talks to raise funds at $40B–$50B valuation: report",
+   "headline": "Common Sense Media warns ChatGPT for Teens carries ‘Unacceptable Risk’",
    "outlet": "TradingView",
    "outlet_name": "TradingView",
-   "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/seekingalpha:1742dba9d094b:0-deepmind-spinout-isomorphic-labs-in-talks-to-raise-funds-at-40b-50b-valuation-report/"
+   "label": "CONFIRMED",
+   "url": "https://www.tradingview.com/news/invezz:e261e2031094b:0-common-sense-media-warns-chatgpt-for-teens-carries-unacceptable-risk/"
   },
   {
-   "headline": "AI: Nvidia’s Open Source ‘AI Factory’ Push vs China. AI-RTZ #1233 (Part 1)",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
+   "headline": "Claude Invests $100M to Launch AI Training Programs: Is Your First AI Diploma Coming?",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
    "label": "REPORTED",
-   "url": "https://michaelparekh.substack.com/p/ai-nvidias-open-source-ai-factory"
+   "url": "https://eu.36kr.com/en/p/4016354742669443"
+  },
+  {
+   "headline": "A tech crowd was polled on buying Anthropic shares at a $3 trillion valuation. Only 3…",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "REPORTED",
+   "url": "https://www.businessinsider.com/anthropic-ipo-market-investor-demand-2026-10"
   },
   {
    "headline": "Microsoft and NVIDIA Launch Surface Laptop Ultra with RTX Spark Chip, Introduce AI…",
@@ -95,56 +88,63 @@
    "url": "https://www.kucoin.com/news/flash/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-chip-introduce-ai-assistant-scout"
   },
   {
-   "headline": "Australiens KI-Anhörung: Anthropic schlägt robots.txt-Sperre für Werke vor",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
+   "headline": "Watch Google DeepMind's AI Drug Spinoff, Isomorphic Labs, Seeks Funding at Valuation of…",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://borncity.com/news/australiens-ki-anhoerung-anthropic-schlaegt-robots-txt-sperre-fuer-werke-vor/"
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEJuX1pGT2FSdjBBY1RFOXp0Z21qSm1pRXRDTnQ0anh1UGRpMkR2dUR6OHNkNWRGaWZUNGdIdndfWnNzMjJodHdmQXVNMHJXeWJISURFVmJfS0pEdmxmMFRuZUNEaEhaa3QxUGRSRE9MMFVBcC1BRUVOYThlMFNURm1mM3JGcVBaRVhJR1NESXlIQTlJYldUWHUzSFhENGc5ZTVPTUdhTU9CMU0?oc=5"
   },
   {
-   "headline": "The eve of DeepSeek's 100 billion yuan financing agreement: Money is not the problem…",
-   "outlet": "21财经",
-   "outlet_name": "21财经",
+   "headline": "Open-Source AI Agent Maker Nous Research Raises $90M",
+   "outlet": "Wowtale",
+   "outlet_name": "Wowtale",
    "label": "REPORTED",
-   "url": "https://www.21jingji.com/article/20261008/herald/e524fe8e37e85be32fcc5c2418c8cde5.html"
+   "url": "https://en.wowtale.net/2026/10/08/235416/"
   },
   {
-   "headline": "Claude Code developer says detailed prompting is unnecessary",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
+   "headline": "Google rolls out Gemini 'Auto-Browse' agentic task automation in Chrome for India",
+   "outlet": "Adgully",
+   "outlet_name": "Adgully",
    "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/112381/claude-code-developer-says-detailed-prompting-is-unnecessary"
+   "url": "https://www.adgully.com/post/21873/google-rolls-out-gemini-auto-browse-agentic-task-automation-in-chrome-for-india"
   },
   {
-   "headline": "AI Regulation and Intellectual Property in Anesthesiology",
-   "outlet": "Anesthesiology News",
-   "outlet_name": "Anesthesiology News",
+   "headline": "Claude breaks into the territory of domestic low-cost models: Zhipu and MiniMax decline",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
    "label": "REPORTED",
-   "url": "https://www.anesthesiologynews.com/Technology/Article/10-26/AI-Regulation-and-Intellectual-Property-in-Anesthesiology/81756"
+   "url": "https://news.futunn.com/flash/1000695005/claude-enters-the-core-market-of-low-cost-domestic-ai"
   },
   {
-   "headline": "Watchdogs slam OpenAI’s claim that teens use ChatGPT less than 15 minutes per day",
-   "outlet": "New York Post on MSN",
-   "outlet_name": "New York Post on MSN",
+   "headline": "Copilot Gets Control of Windows and Your Files as Microsoft’s Recall Bill Comes Due",
+   "outlet": "Martin Cid Magazine",
+   "outlet_name": "Martin Cid Magazine",
+   "label": "REPORTED",
+   "url": "https://www.martincid.com/technology-sv/microsoft-copilot-windows-files-control-recall/"
+  },
+  {
+   "headline": "DeepSeek reportedly nears $12 billion funding round backed by Tencent and CATL",
+   "outlet": "technode.com",
+   "outlet_name": "technode.com",
    "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/watchdogs-slam-openai-s-claim-that-teens-use-chatgpt-less-than-15-minutes-per-day/ar-AA2dMdUv"
+   "url": "https://technode.com/2026/10/08/deepseek-reportedly-nears-12-billion-funding-round-backed-by-tencent-and-catl/"
   },
   {
-   "headline": "ChatGPT adds \"Smart Interface\", interactive charts and buttons directly usable",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
+   "headline": "Microsoft Execution Containers: Policy-driven containment for AI agents",
+   "outlet": "blogs.windows.com",
+   "outlet_name": "blogs.windows.com",
    "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/08/gpt-6-powers-a-new-intelligent-ui-in-chatgpt/"
+   "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 13800,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/06.mp3",
- "audio_seconds": 53.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/07.mp3",
+ "audio_seconds": 82.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BBC: OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'.\nConfirmed, per digitimes: Anthropic expands cybersecurity program for advanced AI testing.\nReported by Baptist News Global: Elon Musk’s Grok sues Minnesota for right to keep ‘nudifying’ images.\nReported by TradingView: DeepMind spinout Isomorphic Labs in talks to raise funds at $40B–$50B valuation: report.\nReported by AI: Reset to Zero: AI: Nvidia’s Open Source ‘AI Factory’ Push vs China. AI-RTZ #1233 (Part 1).\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek raises up to 1000 billion CNY, driven by new model success and rising sector funding. Confirmed by 21财经: money is not the problem, chips are.\nCommon Sense Media finds ChatGPT for Teens unsafe, urging OpenAI to pause marketing. Confirmed by TradingView: the platform carries unacceptable risk.\nAnthropic launches a 100M training program for 10K engineers with real-world assessments. Reported by 36Kr: is your first artificial intelligence diploma coming?\nAnthropic's IPO could test artificial intelligence hype against market scrutiny amid cautious investor demand. Reported by Business Insider: a tech crowd was polled on buying shares at a 3 trillion valuation, and only 3 hands went up.\nMicrosoft's Surface Laptop Ultra beats MacBook Pro in artificial intelligence speed, launching at 2599 dollars. Reported by KuCoin: Microsoft and NVIDIA launch the device with RTX Spark Chip and introduce artificial intelligence Assistant Scout.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
