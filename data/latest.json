@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T04:20:02Z",
- "hour": "2026-10-08T04:00:00Z",
+ "generated_at": "2026-10-08T05:20:02Z",
+ "hour": "2026-10-08T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI chip boom pushes Samsung profits to record $80bn",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+   "title": "OpenAI rolls out GPT 6 for all users, introduces Intelligent UI for more interactive ChatGPT responses",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
+   "url": "https://www.digit.in/news/general/openai-rolls-out-gpt-6-for-all-users-introduces-intelligent-ui-for-more-interactive-chatgpt-responses.html",
    "label": "CONFIRMED",
-   "summary_1line": "Samsung's profits hit $80bn as AI chip demand surges globally.",
-   "published_at": "2026-10-08T01:59:54Z"
+   "summary_1line": "OpenAI rolls out GPT-6 with interactive UI to all ChatGPT users.",
+   "published_at": "2026-10-07T17:00:00Z"
   },
   {
-   "title": "SK Hynix establishes AI Environment Research Institute... Chey Tae-won 'takes the lead in eco-friendly semiconductor transition'",
-   "outlet": "아이뉴스24",
-   "outlet_name": "아이뉴스24",
-   "url": "http://www.inews24.com/view/2013049",
-   "label": "CONFIRMED",
-   "summary_1line": "SK하이닉스 설립 AI 환경연구소, 반도체 산업의 친환경 전환을 추진한다.",
-   "published_at": "2026-10-08T01:43:53Z"
+   "title": "SpaceX rumored to plan 40 billion US dollar financing to massively purchase NVIDIA AI chips | FTV News",
+   "outlet": "LINE TODAY",
+   "outlet_name": "LINE TODAY",
+   "url": "https://today.line.me/tw/v3/article/aGploaW",
+   "label": "STILL OPEN",
+   "summary_1line": "SpaceX reportedly seeks $400B for Nvidia AI chips, with Apollo and PIMCO involved.",
+   "published_at": "2026-10-07T16:03:26Z"
   },
   {
-   "title": "Mecka AI reveals $60-million USD Series B round backed by Sequoia, Nvidia",
-   "outlet": "BetaKit",
-   "outlet_name": "BetaKit",
-   "url": "https://betakit.com/mecka-ai-reveals-60-million-usd-series-b-round-backed-by-sequoia-nvidia/",
+   "title": "Samsung flags US$80 billion profit on AI boom, highest quarterly for any tech company",
+   "outlet": "The Standard (HK)",
+   "outlet_name": "The Standard (HK)",
+   "url": "https://www.thestandard.com.hk/finance/article/344930/Samsung-flags-US80-billion-profit-on-AI-boom-highest-quarterly-for-any-tech-company",
+   "label": "CONFIRMED",
+   "summary_1line": "Samsung projects 107.4 trillion won profit in Q3, driven by AI chip demand and HBM growth.",
+   "published_at": "2026-10-08T02:27:37Z"
+  },
+  {
+   "title": "Chinese-speaking hacker possibly linked to AI-driven attacks on S. Korean banks: report",
+   "outlet": "Yonhap News Agency",
+   "outlet_name": "Yonhap News Agency",
+   "url": "https://en.yna.co.kr/view/AEN20261008002200320",
+   "label": "STILL OPEN",
+   "summary_1line": "Chinese-speaking hacker used AI tools to breach South Korean banks, seeking to sell stolen data.",
+   "published_at": "2026-10-08T00:46:33Z"
+  },
+  {
+   "title": "Anthropic expands AI model suite with low-cost, high-speed Haiku 5.5 launch",
+   "outlet": "Yahoo Finance Australia",
+   "outlet_name": "Yahoo Finance Australia",
+   "url": "https://au.finance.yahoo.com/news/anthropic-expands-ai-model-suite-203012523.html",
    "label": "REPORTED",
-   "summary_1line": "Mecka AI raises $60M to scale robotics data layer with major tech backers.",
-   "published_at": "2026-10-08T01:20:06Z"
-  },
-  {
-   "title": "Musk goes all-in! SpaceX reportedly plans to raise 1.2 trillion TWD to buy massive NVIDIA chips, financing plan revealed | International News | Global",
-   "outlet": "NOWnews今日新聞",
-   "outlet_name": "NOWnews今日新聞",
-   "url": "https://www.nownews.com/news/6881278",
-   "label": "CONFIRMED",
-   "summary_1line": "SpaceX plans 400B USD AI chip funding, with 100B bank loans and 300B bonds, to boost AI operations via NVIDIA chips.",
-   "published_at": "2026-10-07T02:49:32Z"
-  },
-  {
-   "title": "Surface Laptop Ultra, Local Copilot AI, and More: Everything Announced at Microsoft's Fall Event",
-   "outlet": "PCMag UK",
-   "outlet_name": "PCMag UK",
-   "url": "https://uk.pcmag.com/laptops/167696/microsoft-surface-windows-event-2026-live-announcements-and-analysis",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft unveils Surface Laptop Ultra with Nvidia RTX Spark and Local Copilot AI.",
-   "published_at": "2026-10-07T21:40:19Z"
+   "summary_1line": "Anthropic launches cheaper, faster Haiku 5.5 with 75% cost drop and 72.4% OSWorld score.",
+   "published_at": "2026-10-07T20:30:12Z"
   }
  ],
  "ticker": [
   {
-   "headline": "AI chip boom pushes Samsung profits to record $80bn",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
+   "headline": "OpenAI rolls out GPT 6 for all users, introduces Intelligent UI for more interactive…",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
    "label": "CONFIRMED",
-   "url": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss"
+   "url": "https://www.digit.in/news/general/openai-rolls-out-gpt-6-for-all-users-introduces-intelligent-ui-for-more-interactive-chatgpt-responses.html"
   },
   {
-   "headline": "SK Hynix establishes AI Environment Research Institute... Chey Tae-won 'takes the lead in…",
-   "outlet": "아이뉴스24",
-   "outlet_name": "아이뉴스24",
+   "headline": "SpaceX rumored to plan 40 billion US dollar financing to massively purchase NVIDIA AI…",
+   "outlet": "LINE TODAY",
+   "outlet_name": "LINE TODAY",
+   "label": "STILL OPEN",
+   "url": "https://today.line.me/tw/v3/article/aGploaW"
+  },
+  {
+   "headline": "Samsung flags US$80 billion profit on AI boom, highest quarterly for any tech company",
+   "outlet": "The Standard (HK)",
+   "outlet_name": "The Standard (HK)",
    "label": "CONFIRMED",
-   "url": "http://www.inews24.com/view/2013049"
+   "url": "https://www.thestandard.com.hk/finance/article/344930/Samsung-flags-US80-billion-profit-on-AI-boom-highest-quarterly-for-any-tech-company"
   },
   {
-   "headline": "Mecka AI reveals $60-million USD Series B round backed by Sequoia, Nvidia",
-   "outlet": "BetaKit",
-   "outlet_name": "BetaKit",
-   "label": "REPORTED",
-   "url": "https://betakit.com/mecka-ai-reveals-60-million-usd-series-b-round-backed-by-sequoia-nvidia/"
-  },
-  {
-   "headline": "Musk goes all-in! SpaceX reportedly plans to raise 1.2 trillion TWD to buy massive NVIDIA…",
-   "outlet": "NOWnews今日新聞",
-   "outlet_name": "NOWnews今日新聞",
-   "label": "CONFIRMED",
-   "url": "https://www.nownews.com/news/6881278"
-  },
-  {
-   "headline": "Surface Laptop Ultra, Local Copilot AI, and More: Everything Announced at Microsoft's…",
-   "outlet": "PCMag UK",
-   "outlet_name": "PCMag UK",
-   "label": "REPORTED",
-   "url": "https://uk.pcmag.com/laptops/167696/microsoft-surface-windows-event-2026-live-announcements-and-analysis"
+   "headline": "Chinese-speaking hacker possibly linked to AI-driven attacks on S. Korean banks: report",
+   "outlet": "Yonhap News Agency",
+   "outlet_name": "Yonhap News Agency",
+   "label": "STILL OPEN",
+   "url": "https://en.yna.co.kr/view/AEN20261008002200320"
   },
   {
    "headline": "Anthropic expands AI model suite with low-cost, high-speed Haiku 5.5 launch",
@@ -95,39 +88,46 @@
    "url": "https://au.finance.yahoo.com/news/anthropic-expands-ai-model-suite-203012523.html"
   },
   {
-   "headline": "Four New California Laws Reshape the Rules for Workplace AI",
-   "outlet": "The National Law Review",
-   "outlet_name": "The National Law Review",
+   "headline": "MSI Unveils Prestige N16 Flip AI+: An NVIDIA RTX Spark",
+   "outlet": "Impulse Gamer",
+   "outlet_name": "Impulse Gamer",
+   "label": "REPORTED",
+   "url": "https://www.impulsegamer.com/msi-unveils-prestige-n16-flip-ai-an-nvidia-rtx-spark/"
+  },
+  {
+   "headline": "OpenAI used AI to help write email warning Australian government AI had hacked its…",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://natlawreview.com/article/four-new-california-laws-reshape-rules-workplace-ai"
+   "url": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites"
   },
   {
-   "headline": "OpenAI rolls out GPT 6 for all users, introduces Intelligent UI for more interactive…",
-   "outlet": "Digit",
-   "outlet_name": "Digit",
+   "headline": "Elon Musk’s Grok sues Minnesota for right to keep ‘nudifying’ images",
+   "outlet": "Baptist News Global",
+   "outlet_name": "Baptist News Global",
    "label": "REPORTED",
-   "url": "https://www.digit.in/news/general/openai-rolls-out-gpt-6-for-all-users-introduces-intelligent-ui-for-more-interactive-chatgpt-responses.html"
+   "url": "https://baptistnews.com/article/elon-musks-grok-sues-minnesota-for-right-to-keep-nudifying-images/"
   },
   {
-   "headline": "GPT-6 launches globally, Claude Haiku 5.5 price drops, the AI circle didn't rest this…",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
+   "headline": "The Permission High Wall Built by Apple Bypassed via \"Detour\" by Meta AI Assistant",
+   "outlet": "InfoQ-CN",
+   "outlet_name": "InfoQ-CN",
    "label": "REPORTED",
-   "url": "https://www.tmtpost.com/8160689.html"
+   "url": "https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh"
   },
   {
-   "headline": "New Claude model released! Benchmark destroys GPT-6 Luna, price is even cheaper than…",
-   "outlet": "qbitai.com",
-   "outlet_name": "qbitai.com",
-   "label": "REPORTED",
-   "url": "https://www.qbitai.com/2026/10/501832.html"
-  },
-  {
-   "headline": "Paid Morning Briefing: Microsoft releases Windows-related new products, two Google AI…",
-   "outlet": "sspai.com",
-   "outlet_name": "sspai.com",
+   "headline": "Watchdogs slam OpenAI’s claim that teens use ChatGPT less than 15 minutes per day",
+   "outlet": "New York Post on MSN",
+   "outlet_name": "New York Post on MSN",
    "label": "STILL OPEN",
-   "url": "https://sspai.com/post/115455"
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/watchdogs-slam-openai-s-claim-that-teens-use-chatgpt-less-than-15-minutes-per-day/ar-AA2dMdUv"
+  },
+  {
+   "headline": "4,000 prompt tests fail, ChatGPT Teen version misses over 1/4 of crisis referrals",
+   "outlet": "technews.tw",
+   "outlet_name": "technews.tw",
+   "label": "CONFIRMED",
+   "url": "https://technews.tw/2026/10/08/openais-chatgpt-for-teens-poses-unacceptable-risk/"
   },
   {
    "headline": "Anthropic has released Claude Haiku 5.5 October 7, 2026",
@@ -138,13 +138,13 @@
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13900,
+ "articles_24h_rounded": 13800,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/04.mp3",
- "audio_seconds": 60.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/05.mp3",
+ "audio_seconds": 55.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BBC: AI chip boom pushes Samsung profits to record $80bn.\nConfirmed, per 아이뉴스24: SK Hynix establishes AI Environment Research Institute... Chey Tae-won 'takes the lead in eco-friendly semiconductor transition'.\nReported by BetaKit: Mecka AI reveals $60-million USD Series B round backed by Sequoia, Nvidia.\nConfirmed, per NOWnews今日新聞: Musk goes all-in! SpaceX reportedly plans to raise 1.2 trillion TWD to buy massive NVIDIA chips, financing plan revealed | International News | Global.\nReported by PCMag UK: Surface Laptop Ultra, Local Copilot AI, and More: Everything Announced at Microsoft's Fall Event.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Digit: OpenAI rolls out GPT 6 for all users, introduces Intelligent UI for more interactive ChatGPT responses.\nStill open, per LINE TODAY: SpaceX rumored to plan 40 billion US dollar financing to massively purchase NVIDIA AI chips | FTV News.\nConfirmed, per The Standard (HK): Samsung flags US$80 billion profit on AI boom, highest quarterly for any tech company.\nStill open, per Yonhap News Agency: Chinese-speaking hacker possibly linked to AI-driven attacks on S. Korean banks: report.\nReported by Yahoo Finance Australia: Anthropic expands AI model suite with low-cost, high-speed Haiku 5.5 launch.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
