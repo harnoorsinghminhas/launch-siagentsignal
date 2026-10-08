@@ -1,119 +1,63 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T07:20:02Z",
- "hour": "2026-10-08T07:00:00Z",
+ "generated_at": "2026-10-08T08:20:02Z",
+ "hour": "2026-10-08T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "The eve of DeepSeek's 100 billion yuan financing agreement: Money is not the problem, chips are",
-   "outlet": "21财经",
-   "outlet_name": "21财经",
-   "url": "https://www.21jingji.com/article/20261008/herald/e524fe8e37e85be32fcc5c2418c8cde5.html",
+   "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek raises up to 1000 billion CNY, driven by new model success and rising AI sector funding.",
-   "published_at": "2026-10-08T04:46:00Z"
+   "summary_1line": "Manus raises $500M post-Meta acquisition block, signaling investor confidence in AI agents.",
+   "published_at": "2026-10-08T06:32:57Z"
   },
   {
-   "title": "Common Sense Media warns ChatGPT for Teens carries ‘Unacceptable Risk’",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/invezz:e261e2031094b:0-common-sense-media-warns-chatgpt-for-teens-carries-unacceptable-risk/",
+   "title": "Copilot Gets Control of Windows and Your Files as Microsoft’s Recall Bill Comes Due",
+   "outlet": "Martin Cid Magazine",
+   "outlet_name": "Martin Cid Magazine",
+   "url": "https://www.martincid.com/technology-sv/microsoft-copilot-windows-files-control-recall/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-08T05:13:56Z"
+  },
+  {
+   "title": "Anthropic launches Claude Haiku 5.5, its fastest and cheapest AI model yet",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-launches-claude-haiku-5-5-its-fastest-and-cheapest-ai-model-yet/articleshow/134780000.cms",
    "label": "CONFIRMED",
-   "summary_1line": "Common Sense Media finds ChatGPT for Teens unsafe, urging OpenAI to pause marketing.",
-   "published_at": "2026-10-07T11:30:00Z"
+   "summary_1line": "Anthropic launches Claude Haiku 5.5, a faster, cheaper model with new cybersecurity safeguards.",
+   "published_at": "2026-10-07T21:35:00Z"
   },
   {
-   "title": "Claude Invests $100M to Launch AI Training Programs: Is Your First AI Diploma Coming?",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "url": "https://eu.36kr.com/en/p/4016354742669443",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic launches $100M AI training program for 10K engineers with real-world assessments.",
-   "published_at": "2026-10-08T06:02:04Z"
+   "title": "Equipped with Nvidia RTX Spark super chip! ASUS ProArt AI laptop opens for pre-order, aggressively attacking on-premises model computing",
+   "outlet": "知新聞",
+   "outlet_name": "知新聞",
+   "url": "https://www.knews.com.tw/news/976DA0CDB4A8135EA35389A7988CF730",
+   "label": "CONFIRMED",
+   "summary_1line": "ASUS RTX Spark laptops enable local AI workflows with privacy and cost benefits.",
+   "published_at": "2026-10-08T05:40:00Z"
   },
   {
-   "title": "A tech crowd was polled on buying Anthropic shares at a $3 trillion valuation. Only 3 hands went up.",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/anthropic-ipo-market-investor-demand-2026-10",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's IPO could test AI hype against market scrutiny amid cautious investor demand.",
-   "published_at": "2026-10-08T05:56:37Z"
-  },
-  {
-   "title": "Microsoft and NVIDIA Launch Surface Laptop Ultra with RTX Spark Chip, Introduce AI Assistant Scout",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "url": "https://www.kucoin.com/news/flash/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-chip-introduce-ai-assistant-scout",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft's Surface Laptop Ultra beats MacBook Pro in AI speed, launches at $2,599.",
-   "published_at": "2026-10-08T04:09:02Z"
+   "title": "Microsoft’s Nvidia-powered Surface Ultra laptop put a price on its hybrid AI ambitions: All details",
+   "outlet": "Business Today",
+   "outlet_name": "Business Today",
+   "url": "https://www.businesstoday.in/technology/news/story/microsofts-nvidia-powered-surface-ultra-laptop-put-a-price-on-its-hybrid-ai-ambitions-560307-2026-10-08",
+   "label": "CONFIRMED",
+   "summary_1line": "Microsoft's Surface Ultra runs AI locally with Nvidia's Spark, offering 2.1x faster generation and up to $5,899 pricing.",
+   "published_at": "2026-10-07T22:13:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "The eve of DeepSeek's 100 billion yuan financing agreement: Money is not the problem…",
-   "outlet": "21财经",
-   "outlet_name": "21财经",
+   "headline": "AI startup Manus raises $500 million in first funding round since Meta breakup",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.21jingji.com/article/20261008/herald/e524fe8e37e85be32fcc5c2418c8cde5.html"
-  },
-  {
-   "headline": "Common Sense Media warns ChatGPT for Teens carries ‘Unacceptable Risk’",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "CONFIRMED",
-   "url": "https://www.tradingview.com/news/invezz:e261e2031094b:0-common-sense-media-warns-chatgpt-for-teens-carries-unacceptable-risk/"
-  },
-  {
-   "headline": "Claude Invests $100M to Launch AI Training Programs: Is Your First AI Diploma Coming?",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4016354742669443"
-  },
-  {
-   "headline": "A tech crowd was polled on buying Anthropic shares at a $3 trillion valuation. Only 3…",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://www.businessinsider.com/anthropic-ipo-market-investor-demand-2026-10"
-  },
-  {
-   "headline": "Microsoft and NVIDIA Launch Surface Laptop Ultra with RTX Spark Chip, Introduce AI…",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "label": "REPORTED",
-   "url": "https://www.kucoin.com/news/flash/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-chip-introduce-ai-assistant-scout"
-  },
-  {
-   "headline": "Watch Google DeepMind's AI Drug Spinoff, Isomorphic Labs, Seeks Funding at Valuation of…",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEJuX1pGT2FSdjBBY1RFOXp0Z21qSm1pRXRDTnQ0anh1UGRpMkR2dUR6OHNkNWRGaWZUNGdIdndfWnNzMjJodHdmQXVNMHJXeWJISURFVmJfS0pEdmxmMFRuZUNEaEhaa3QxUGRSRE9MMFVBcC1BRUVOYThlMFNURm1mM3JGcVBaRVhJR1NESXlIQTlJYldUWHUzSFhENGc5ZTVPTUdhTU9CMU0?oc=5"
-  },
-  {
-   "headline": "Open-Source AI Agent Maker Nous Research Raises $90M",
-   "outlet": "Wowtale",
-   "outlet_name": "Wowtale",
-   "label": "REPORTED",
-   "url": "https://en.wowtale.net/2026/10/08/235416/"
-  },
-  {
-   "headline": "Google rolls out Gemini 'Auto-Browse' agentic task automation in Chrome for India",
-   "outlet": "Adgully",
-   "outlet_name": "Adgully",
-   "label": "REPORTED",
-   "url": "https://www.adgully.com/post/21873/google-rolls-out-gemini-auto-browse-agentic-task-automation-in-chrome-for-india"
-  },
-  {
-   "headline": "Claude breaks into the territory of domestic low-cost models: Zhipu and MiniMax decline",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
-   "label": "REPORTED",
-   "url": "https://news.futunn.com/flash/1000695005/claude-enters-the-core-market-of-low-cost-domestic-ai"
+   "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html"
   },
   {
    "headline": "Copilot Gets Control of Windows and Your Files as Microsoft’s Recall Bill Comes Due",
@@ -123,11 +67,67 @@
    "url": "https://www.martincid.com/technology-sv/microsoft-copilot-windows-files-control-recall/"
   },
   {
+   "headline": "Anthropic launches Claude Haiku 5.5, its fastest and cheapest AI model yet",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "label": "CONFIRMED",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-launches-claude-haiku-5-5-its-fastest-and-cheapest-ai-model-yet/articleshow/134780000.cms"
+  },
+  {
+   "headline": "Equipped with Nvidia RTX Spark super chip! ASUS ProArt AI laptop opens for pre-order…",
+   "outlet": "知新聞",
+   "outlet_name": "知新聞",
+   "label": "CONFIRMED",
+   "url": "https://www.knews.com.tw/news/976DA0CDB4A8135EA35389A7988CF730"
+  },
+  {
+   "headline": "Microsoft’s Nvidia-powered Surface Ultra laptop put a price on its hybrid AI ambitions…",
+   "outlet": "Business Today",
+   "outlet_name": "Business Today",
+   "label": "CONFIRMED",
+   "url": "https://www.businesstoday.in/technology/news/story/microsofts-nvidia-powered-surface-ultra-laptop-put-a-price-on-its-hybrid-ai-ambitions-560307-2026-10-08"
+  },
+  {
+   "headline": "Watch Google DeepMind's AI Drug Spinoff, Isomorphic Labs, Seeks Funding at Valuation of…",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEJuX1pGT2FSdjBBY1RFOXp0Z21qSm1pRXRDTnQ0anh1UGRpMkR2dUR6OHNkNWRGaWZUNGdIdndfWnNzMjJodHdmQXVNMHJXeWJISURFVmJfS0pEdmxmMFRuZUNEaEhaa3QxUGRSRE9MMFVBcC1BRUVOYThlMFNURm1mM3JGcVBaRVhJR1NESXlIQTlJYldUWHUzSFhENGc5ZTVPTUdhTU9CMU0?oc=5"
+  },
+  {
+   "headline": "Google rolls out Gemini 'Auto-Browse' agentic task automation in Chrome for India",
+   "outlet": "Adgully",
+   "outlet_name": "Adgully",
+   "label": "REPORTED",
+   "url": "https://www.adgully.com/post/21873/google-rolls-out-gemini-auto-browse-agentic-task-automation-in-chrome-for-india"
+  },
+  {
+   "headline": "OpenAI and Anthropic support mandatory AI incident reporting in Australia",
+   "outlet": "Digital Watch Observatory",
+   "outlet_name": "Digital Watch Observatory",
+   "label": "REPORTED",
+   "url": "https://dig.watch/updates/openai-anthropic-back-ai-incident-reporting"
+  },
+  {
+   "headline": "Claude breaks into the territory of domestic low-cost models: Zhipu and MiniMax decline",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
+   "label": "REPORTED",
+   "url": "https://news.futunn.com/flash/1000695005/claude-enters-the-core-market-of-low-cost-domestic-ai"
+  },
+  {
    "headline": "DeepSeek reportedly nears $12 billion funding round backed by Tencent and CATL",
    "outlet": "technode.com",
    "outlet_name": "technode.com",
    "label": "STILL OPEN",
    "url": "https://technode.com/2026/10/08/deepseek-reportedly-nears-12-billion-funding-round-backed-by-tencent-and-catl/"
+  },
+  {
+   "headline": "Nous Research Raises $90 Million for Open-Source A.I. Agent Hermes",
+   "outlet": "www.trendingtopics.eu",
+   "outlet_name": "www.trendingtopics.eu",
+   "label": "REPORTED",
+   "url": "https://www.trendingtopics.eu/nous-research-raises-90-million-hermes/"
   },
   {
    "headline": "Microsoft Execution Containers: Policy-driven containment for AI agents",
@@ -137,14 +137,14 @@
    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
  "articles_24h_rounded": 13800,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/07.mp3",
- "audio_seconds": 82.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/08.mp3",
+ "audio_seconds": 67.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek raises up to 1000 billion CNY, driven by new model success and rising sector funding. Confirmed by 21财经: money is not the problem, chips are.\nCommon Sense Media finds ChatGPT for Teens unsafe, urging OpenAI to pause marketing. Confirmed by TradingView: the platform carries unacceptable risk.\nAnthropic launches a 100M training program for 10K engineers with real-world assessments. Reported by 36Kr: is your first artificial intelligence diploma coming?\nAnthropic's IPO could test artificial intelligence hype against market scrutiny amid cautious investor demand. Reported by Business Insider: a tech crowd was polled on buying shares at a 3 trillion valuation, and only 3 hands went up.\nMicrosoft's Surface Laptop Ultra beats MacBook Pro in artificial intelligence speed, launching at 2599 dollars. Reported by KuCoin: Microsoft and NVIDIA launch the device with RTX Spark Chip and introduce artificial intelligence Assistant Scout.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nManus raised $500 million in its first funding round since separating from Meta, reported by CNBC as Confirmed, showing strong investor backing for AI agents.\nMicrosoft's Copilot is gaining control over Windows and your files as the company's Recall feature faces scrutiny, Reported by Martin Cid Magazine.\nAnthropic has launched Claude Haiku 5.5, its fastest and cheapest model yet with new cybersecurity safeguards, Confirmed by The Times of India.\nASUS is opening pre-orders for ProArt AI laptops equipped with Nvidia RTX Spark super chips, enabling local artificial intelligence workflows, Confirmed per 知新聞.\nMicrosoft's Surface Ultra laptop runs artificial intelligence locally using Nvidia's Spark, with pricing up to $5,899, Confirmed by Business Today.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
