@@ -1,98 +1,70 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T21:20:02Z",
- "hour": "2026-10-08T21:00:00Z",
+ "generated_at": "2026-10-08T22:20:02Z",
+ "hour": "2026-10-08T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google brings agentic AI to Gemini, starting with businesses",
+   "title": "Exclusive: Senate Investigation Challenges Big Tech’s Case for AI Data Centers",
+   "outlet": "Time Magazine",
+   "outlet_name": "Time Magazine",
+   "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
+   "label": "CONFIRMED",
+   "summary_1line": "Senate finds Big Tech hides data center costs, with firms refusing to disclose permanent jobs and using tax breaks.",
+   "published_at": "2026-10-08T19:56:08Z"
+  },
+  {
+   "title": "Google launches Gemini agent as AI giants race to build autonomous workers",
+   "outlet": "The American Bazaar",
+   "outlet_name": "The American Bazaar",
+   "url": "https://americanbazaaronline.com/2026/10/08/google-launches-gemini-agent-as-ai-giants-race-to-build-autonomous-workers-489653/",
+   "label": "CONFIRMED",
+   "summary_1line": "Google launches Gemini agent for workplace tasks, with 80% of AI customers and 90% of Fortune 100 using it.",
+   "published_at": "2026-10-08T19:52:59Z"
+  },
+  {
+   "title": "Singapore regulator sets phased AI risk guidelines for financial institutions",
+   "outlet": "Asia Asset Management",
+   "outlet_name": "Asia Asset Management",
+   "url": "https://www.asiaasset.com/regulation-compliance/singapore-ai-risk-financial-institutions/",
+   "label": "CONFIRMED",
+   "summary_1line": "MAS rolls out AI risk guidelines for financial firms, effective 2027.",
+   "published_at": "2026-10-08T16:23:12Z"
+  },
+  {
+   "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
    "label": "CONFIRMED",
-   "summary_1line": "Google launches Gemini AI agent for businesses, enabling task execution and secure system integration.",
-   "published_at": "2026-10-08T18:18:00Z"
+   "summary_1line": "Three OpenAI researchers deny misconduct and warn of a chilling effect on safety culture.",
+   "published_at": "2026-10-08T20:04:26Z"
   },
   {
-   "title": "A teen tried to navigate Canadian mountains with Claude",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/world/2026/oct/08/teen-hike-claude-ai-directions-rescue-canada-mountain",
+   "title": "Generative AI tools usage, data privacy concerns among youth-led organisations",
+   "outlet": "Business & Financial Times",
+   "outlet_name": "Business & Financial Times",
+   "url": "https://thebftonline.com/article/generative-ai-tools-usage-data-privacy-concerns-among-youth-led-organisations",
    "label": "CONFIRMED",
-   "summary_1line": "Hiker lost on British Columbia climb after following AI's incorrect route directions.",
-   "published_at": "2026-10-08T19:53:48Z"
-  },
-  {
-   "title": "Press Release: Carter, Thompson Reintroduce Bill to Create CISA AI Task Force",
-   "outlet": "Quiver Quantitative",
-   "outlet_name": "Quiver Quantitative",
-   "url": "https://www.quiverquant.com/news/Press+Release%3A+Carter%2C+Thompson+Reintroduce+Bill+to+Create+CISA+AI+Task+Force",
-   "label": "CONFIRMED",
-   "summary_1line": "Carter and Thompson reintroduce AI bill to create CISA task force for AI safety and national security.",
-   "published_at": "2026-10-08T18:21:00Z"
-  },
-  {
-   "title": "[03:16 Real-time News] Broadcom (AVGO) Drops About 5% / Rumored to Raise Over $50 Billion to Bet on OpenAI Custom AI Chips",
-   "outlet": "CMoney投資網誌",
-   "outlet_name": "CMoney投資網誌",
-   "url": "https://cmnews.com.tw/article/cmoneyairesearcher-b4c1bee8-c34c-11f1-8a9a-351065462407",
-   "label": "STILL OPEN",
-   "summary_1line": "Broadcom reports 5% drop as it plans $500B for AI chips with OpenAI.",
-   "published_at": "2026-10-08T19:16:04Z"
-  },
-  {
-   "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-   "label": "CONFIRMED",
-   "summary_1line": "Arena raises $200M, adds AI alignment leaderboard with OpenAI models at top.",
-   "published_at": "2026-10-08T18:19:45Z"
+   "summary_1line": "Youth-led groups use generative AI, raising data privacy concerns.",
+   "published_at": "2026-10-08T19:57:14Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google brings agentic AI to Gemini, starting with businesses",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "Exclusive: Senate Investigation Challenges Big Tech’s Case for AI Data Centers",
+   "outlet": "Time Magazine",
+   "outlet_name": "Time Magazine",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/"
+   "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/"
   },
   {
-   "headline": "A teen tried to navigate Canadian mountains with Claude",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "Google launches Gemini agent as AI giants race to build autonomous workers",
+   "outlet": "The American Bazaar",
+   "outlet_name": "The American Bazaar",
    "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/world/2026/oct/08/teen-hike-claude-ai-directions-rescue-canada-mountain"
-  },
-  {
-   "headline": "Press Release: Carter, Thompson Reintroduce Bill to Create CISA AI Task Force",
-   "outlet": "Quiver Quantitative",
-   "outlet_name": "Quiver Quantitative",
-   "label": "CONFIRMED",
-   "url": "https://www.quiverquant.com/news/Press+Release%3A+Carter%2C+Thompson+Reintroduce+Bill+to+Create+CISA+AI+Task+Force"
-  },
-  {
-   "headline": "[03:16 Real-time News] Broadcom (AVGO) Drops About 5% / Rumored to Raise Over $50 Billion…",
-   "outlet": "CMoney投資網誌",
-   "outlet_name": "CMoney投資網誌",
-   "label": "STILL OPEN",
-   "url": "https://cmnews.com.tw/article/cmoneyairesearcher-b4c1bee8-c34c-11f1-8a9a-351065462407"
-  },
-  {
-   "headline": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
-  },
-  {
-   "headline": "Pioneering safety researcher Paul Christiano unpacks AI’s “dangerous moment”",
-   "outlet": "BetaKit",
-   "outlet_name": "BetaKit",
-   "label": "REPORTED",
-   "url": "https://betakit.com/pioneering-safety-researcher-paul-christiano-unpacks-ais-dangerous-moment/"
+   "url": "https://americanbazaaronline.com/2026/10/08/google-launches-gemini-agent-as-ai-giants-race-to-build-autonomous-workers-489653/"
   },
   {
    "headline": "Singapore regulator sets phased AI risk guidelines for financial institutions",
@@ -102,6 +74,27 @@
    "url": "https://www.asiaasset.com/regulation-compliance/singapore-ai-risk-financial-institutions/"
   },
   {
+   "headline": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+  },
+  {
+   "headline": "Generative AI tools usage, data privacy concerns among youth-led organisations",
+   "outlet": "Business & Financial Times",
+   "outlet_name": "Business & Financial Times",
+   "label": "CONFIRMED",
+   "url": "https://thebftonline.com/article/generative-ai-tools-usage-data-privacy-concerns-among-youth-led-organisations"
+  },
+  {
+   "headline": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
+   "outlet": "Decrypt News",
+   "outlet_name": "Decrypt News",
+   "label": "REPORTED",
+   "url": "https://decrypt.co/380545/google-gemini-coworker-own-email-address"
+  },
+  {
    "headline": "An opt-in vulnerability-finding service for open-source software \\ Anthropic",
    "outlet": "anthropic.com",
    "outlet_name": "anthropic.com",
@@ -109,11 +102,18 @@
    "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source"
   },
   {
-   "headline": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Anthropic launches AI cybersecurity program for critical infrastructure",
+   "outlet": "mezha.net",
+   "outlet_name": "mezha.net",
+   "label": "REPORTED",
+   "url": "https://mezha.net/eng/news/3804281f_anthropic_launches_ai/"
+  },
+  {
+   "headline": "USA Today sues OpenAI for over $250 million, alleging willful copyright infringement",
+   "outlet": "Forbes on MSN",
+   "outlet_name": "Forbes on MSN",
    "label": "CONFIRMED",
-   "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/"
+   "url": "https://www.msn.com/en-us/news/other/usa-today-sues-openai-for-over-250-million-alleging-willful-copyright-infringement/ar-AA2dPYkn"
   },
   {
    "headline": "Build live dashboards and animate explainers with Claude",
@@ -123,28 +123,28 @@
    "url": "https://claude.com/resources/articles/dashboards-and-motion"
   },
   {
-   "headline": "USA Today sues OpenAI for over $250 million, alleging willful copyright infringement",
-   "outlet": "Forbes on MSN",
-   "outlet_name": "Forbes on MSN",
+   "headline": "Microsoft and NVIDIA team up to launch AI laptops",
+   "outlet": "매일경제 on MSN",
+   "outlet_name": "매일경제 on MSN",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/other/usa-today-sues-openai-for-over-250-million-alleging-willful-copyright-infringement/ar-AA2dPYkn"
+   "url": "https://www.msn.com/ko-kr/news/other/ms-엔비디아-손잡고-인공지능-노트북-출시/ar-AA2dOar2"
   },
   {
-   "headline": "Anthropic launches AI cybersecurity program for critical infrastructure",
-   "outlet": "mezha.net",
-   "outlet_name": "mezha.net",
-   "label": "REPORTED",
-   "url": "https://mezha.net/eng/news/3804281f_anthropic_launches_ai/"
+   "headline": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from four different outlets.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 13800,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/21.mp3",
- "audio_seconds": 49.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/22.mp3",
+ "audio_seconds": 49.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Google brings agentic AI to Gemini, starting with businesses.\nConfirmed, per The Guardian: A teen tried to navigate Canadian mountains with Claude.\nConfirmed, per Quiver Quantitative: Press Release: Carter, Thompson Reintroduce Bill to Create CISA AI Task Force.\nStill open, per CMoney投資網誌: [03:16 Real-time News] Broadcom (AVGO) Drops About 5% / Rumored to Raise Over $50 Billion to Bet on OpenAI Custom AI Chips.\nConfirmed, per TechCrunch: Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Time Magazine: Exclusive: Senate Investigation Challenges Big Tech’s Case for AI Data Centers.\nConfirmed, per The American Bazaar: Google launches Gemini agent as AI giants race to build autonomous workers.\nConfirmed, per Asia Asset Management: Singapore regulator sets phased AI risk guidelines for financial institutions.\nConfirmed, per TechCrunch: Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect.\nConfirmed, per Business & Financial Times: Generative AI tools usage, data privacy concerns among youth-led organisations.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
