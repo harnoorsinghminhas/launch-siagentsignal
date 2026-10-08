@@ -1,126 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T22:20:02Z",
- "hour": "2026-10-08T22:00:00Z",
+ "generated_at": "2026-10-08T23:20:02Z",
+ "hour": "2026-10-08T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Exclusive: Senate Investigation Challenges Big Tech’s Case for AI Data Centers",
-   "outlet": "Time Magazine",
-   "outlet_name": "Time Magazine",
-   "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/",
+   "title": "Anthropic launches free AI security scans for open-source projects",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
    "label": "CONFIRMED",
-   "summary_1line": "Senate finds Big Tech hides data center costs, with firms refusing to disclose permanent jobs and using tax breaks.",
-   "published_at": "2026-10-08T19:56:08Z"
+   "summary_1line": "Anthropic launches free AI security scans for open-source projects with no human review.",
+   "published_at": "2026-10-08T14:53:00Z"
   },
   {
-   "title": "Google launches Gemini agent as AI giants race to build autonomous workers",
-   "outlet": "The American Bazaar",
-   "outlet_name": "The American Bazaar",
-   "url": "https://americanbazaaronline.com/2026/10/08/google-launches-gemini-agent-as-ai-giants-race-to-build-autonomous-workers-489653/",
+   "title": "Connecticut Governor Lamont: AI regulation should have been led by Federal Government, not states",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/video/2026/10/08/connecticut-governor-lamont-ai-regulation-should-have-been-led-by-federal-government-not-states.html",
    "label": "CONFIRMED",
-   "summary_1line": "Google launches Gemini agent for workplace tasks, with 80% of AI customers and 90% of Fortune 100 using it.",
-   "published_at": "2026-10-08T19:52:59Z"
+   "summary_1line": "Connecticut Governor Lamont says AI regulation should be federal, not state-led.",
+   "published_at": "2026-10-08T20:58:32Z"
   },
   {
-   "title": "Singapore regulator sets phased AI risk guidelines for financial institutions",
-   "outlet": "Asia Asset Management",
-   "outlet_name": "Asia Asset Management",
-   "url": "https://www.asiaasset.com/regulation-compliance/singapore-ai-risk-financial-institutions/",
+   "title": "Anthropic Adds Claude Dashboards and Motion Tools for Workplace Productivity - News and Statistics",
+   "outlet": "IndexBox",
+   "outlet_name": "IndexBox",
+   "url": "https://www.indexbox.io/blog/anthropic-launches-claude-dashboards-and-motion-tools-for-no-code-data-visualization/",
    "label": "CONFIRMED",
-   "summary_1line": "MAS rolls out AI risk guidelines for financial firms, effective 2027.",
-   "published_at": "2026-10-08T16:23:12Z"
+   "summary_1line": "Anthropic launches no-code data tools for Claude, with dashboards and animations in beta.",
+   "published_at": "2026-10-08T20:01:32Z"
   },
   {
-   "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+   "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
+   "outlet": "Decrypt News",
+   "outlet_name": "Decrypt News",
+   "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
    "label": "CONFIRMED",
-   "summary_1line": "Three OpenAI researchers deny misconduct and warn of a chilling effect on safety culture.",
-   "published_at": "2026-10-08T20:04:26Z"
+   "summary_1line": "Manus raises $500M, resumes independence after China cancels Meta's $2B acquisition.",
+   "published_at": "2026-10-08T21:46:03Z"
   },
   {
-   "title": "Generative AI tools usage, data privacy concerns among youth-led organisations",
-   "outlet": "Business & Financial Times",
-   "outlet_name": "Business & Financial Times",
-   "url": "https://thebftonline.com/article/generative-ai-tools-usage-data-privacy-concerns-among-youth-led-organisations",
-   "label": "CONFIRMED",
-   "summary_1line": "Youth-led groups use generative AI, raising data privacy concerns.",
-   "published_at": "2026-10-08T19:57:14Z"
+   "title": "Introducing the Anthropic Cyber Mission",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-08T09:04:16Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Exclusive: Senate Investigation Challenges Big Tech’s Case for AI Data Centers",
-   "outlet": "Time Magazine",
-   "outlet_name": "Time Magazine",
+   "headline": "Anthropic launches free AI security scans for open-source projects",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://time.com/article/2026/10/08/senate-investigation-ai-data-centers/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
   },
   {
-   "headline": "Google launches Gemini agent as AI giants race to build autonomous workers",
-   "outlet": "The American Bazaar",
-   "outlet_name": "The American Bazaar",
+   "headline": "Connecticut Governor Lamont: AI regulation should have been led by Federal Government…",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://americanbazaaronline.com/2026/10/08/google-launches-gemini-agent-as-ai-giants-race-to-build-autonomous-workers-489653/"
+   "url": "https://www.cnbc.com/video/2026/10/08/connecticut-governor-lamont-ai-regulation-should-have-been-led-by-federal-government-not-states.html"
   },
   {
-   "headline": "Singapore regulator sets phased AI risk guidelines for financial institutions",
-   "outlet": "Asia Asset Management",
-   "outlet_name": "Asia Asset Management",
+   "headline": "Anthropic Adds Claude Dashboards and Motion Tools for Workplace Productivity - News and…",
+   "outlet": "IndexBox",
+   "outlet_name": "IndexBox",
    "label": "CONFIRMED",
-   "url": "https://www.asiaasset.com/regulation-compliance/singapore-ai-risk-financial-institutions/"
+   "url": "https://www.indexbox.io/blog/anthropic-launches-claude-dashboards-and-motion-tools-for-no-code-data-visualization/"
   },
   {
-   "headline": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
-  },
-  {
-   "headline": "Generative AI tools usage, data privacy concerns among youth-led organisations",
-   "outlet": "Business & Financial Times",
-   "outlet_name": "Business & Financial Times",
-   "label": "CONFIRMED",
-   "url": "https://thebftonline.com/article/generative-ai-tools-usage-data-privacy-concerns-among-youth-led-organisations"
-  },
-  {
-   "headline": "Google Wants Gemini to Be Your Next Coworker—Complete With Its Own Email Address",
+   "headline": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
    "outlet": "Decrypt News",
    "outlet_name": "Decrypt News",
-   "label": "REPORTED",
-   "url": "https://decrypt.co/380545/google-gemini-coworker-own-email-address"
+   "label": "CONFIRMED",
+   "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china"
   },
   {
-   "headline": "An opt-in vulnerability-finding service for open-source software \\ Anthropic",
+   "headline": "Introducing the Anthropic Cyber Mission",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5"
+  },
+  {
+   "headline": "Anthropic to users: be nice to Claude AI — new policy bars ‘abusive or cruel behavior’ to…",
+   "outlet": "New York Post",
+   "outlet_name": "New York Post",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ0NrbkNIaXFUOUdjTElxYmthZktoTnR2UXFScTZZdmtVSDZ5dFV0STl6SHc5eXJzaFh0MHRLeTBCdEo3Q000cHFyaV9xdWtUSUx0ZXZGMkw4Mk1KaFhneG9ZTjFkVlEtdDEzQnp2VUxBcGRDU3lxV1pNZEVEcUJwd1prbzZiUDZpNDR0ZkYyTkYzaWlmZGJwR3BlRWc0ZEk5X1VTNnoyc0s5UHlvb3BYa3ZER3ZWSTMyQ0FFV3c2WnQ3ZGZrVHEyZw?oc=5"
+  },
+  {
+   "headline": "Using Claude Science to produce the first complete map of the sky in UV light \\ Anthropic",
    "outlet": "anthropic.com",
    "outlet_name": "anthropic.com",
    "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source"
+   "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky"
   },
   {
-   "headline": "Anthropic launches AI cybersecurity program for critical infrastructure",
-   "outlet": "mezha.net",
-   "outlet_name": "mezha.net",
+   "headline": "AI pricing lawsuit against McDonald's raises new antitrust questions",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/money/companies/ai-pricing-lawsuit-against-mcdonalds-raises-new-antitrust-questions/ar-AA2dQVpK"
+  },
+  {
+   "headline": "Microsoft Officially Unveils Surface Laptop Ultra And Surface RTX Spark Dev Box With…",
+   "outlet": "Pokde.Net",
+   "outlet_name": "Pokde.Net",
    "label": "REPORTED",
-   "url": "https://mezha.net/eng/news/3804281f_anthropic_launches_ai/"
+   "url": "https://pokde.net/gadget/laptop/microsoft-surface-laptop-ultra"
   },
   {
-   "headline": "USA Today sues OpenAI for over $250 million, alleging willful copyright infringement",
-   "outlet": "Forbes on MSN",
-   "outlet_name": "Forbes on MSN",
+   "headline": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
+   "outlet": "blogs.nvidia.com",
+   "outlet_name": "blogs.nvidia.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/usa-today-sues-openai-for-over-250-million-alleging-willful-copyright-infringement/ar-AA2dPYkn"
+   "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/"
   },
   {
-   "headline": "Build live dashboards and animate explainers with Claude",
-   "outlet": "claude.com",
-   "outlet_name": "claude.com",
-   "label": "CONFIRMED",
-   "url": "https://claude.com/resources/articles/dashboards-and-motion"
+   "headline": "Alphacool introduces single-slot water blocks for NVIDIA RTX PRO Blackwell and AMD Radeon…",
+   "outlet": "VideoCardz.com",
+   "outlet_name": "VideoCardz.com",
+   "label": "REPORTED",
+   "url": "https://videocardz.com/newz/alphacool-introduces-single-slot-water-blocks-for-nvidia-rtx-pro-blackwell-and-amd-radeon-ai-pro-gpus"
   },
   {
    "headline": "Microsoft and NVIDIA team up to launch AI laptops",
@@ -128,23 +135,16 @@
    "outlet_name": "매일경제 on MSN",
    "label": "REPORTED",
    "url": "https://www.msn.com/ko-kr/news/other/ms-엔비디아-손잡고-인공지능-노트북-출시/ar-AA2dOar2"
-  },
-  {
-   "headline": "ML Drift: Next-Gen GPU AI/ML Inference at the Edge",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://developers.googleblog.com/ml-drift-next-gen-gpu-aiml-inference-at-the-edge/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13800,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 13700,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/22.mp3",
- "audio_seconds": 49.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/23.mp3",
+ "audio_seconds": 44.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Time Magazine: Exclusive: Senate Investigation Challenges Big Tech’s Case for AI Data Centers.\nConfirmed, per The American Bazaar: Google launches Gemini agent as AI giants race to build autonomous workers.\nConfirmed, per Asia Asset Management: Singapore regulator sets phased AI risk guidelines for financial institutions.\nConfirmed, per TechCrunch: Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect.\nConfirmed, per Business & Financial Times: Generative AI tools usage, data privacy concerns among youth-led organisations.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: Anthropic launches free AI security scans for open-source projects.\nConfirmed, per CNBC: Connecticut Governor Lamont: AI regulation should have been led by Federal Government, not states.\nConfirmed, per IndexBox: Anthropic Adds Claude Dashboards and Motion Tools for Workplace Productivity - News and Statistics.\nConfirmed, per Decrypt News: AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition.\nReported by Anthropic: Introducing the Anthropic Cyber Mission.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
