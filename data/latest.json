@@ -1,150 +1,150 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T12:20:02Z",
- "hour": "2026-10-08T12:00:00Z",
+ "generated_at": "2026-10-08T13:20:02Z",
+ "hour": "2026-10-08T13:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Safety Alert: 3 Fired Researchers Urge AI Monitoring",
-   "outlet": "Analytics Insight",
-   "outlet_name": "Analytics Insight",
-   "url": "https://www.analyticsinsight.net/news/openai-safety-alert-3-fired-researchers-urge-ai-monitoring",
+   "title": "TSMC Third-Quarter Revenue Jumps 51% on AI Chip Demand",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/international/2026/10/08/tsmc-third-quarter-revenue-jumps-51-percent-on-ai-chip",
+   "label": "CONFIRMED",
+   "summary_1line": "TSMC's Q3 revenue jumps 51% on AI chip demand, with 75% revenue from North America.",
+   "published_at": "2026-10-08T09:40:24Z"
+  },
+  {
+   "title": "Video / Jensen Huang assists! Microsoft launches new laptops with NVIDIA chips to challenge Apple, AI model speed is twice as fast",
+   "outlet": "TVBS新聞網",
+   "outlet_name": "TVBS新聞網",
+   "url": "https://news.tvbs.com.tw/life/4033624",
+   "label": "CONFIRMED",
+   "summary_1line": "NVIDIA and Microsoft launch AI-powered laptop with on-device processing, twice as fast as Apple's MacBook Pro M5.",
+   "published_at": "2026-10-08T11:29:00Z"
+  },
+  {
+   "title": "Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
+   "label": "CONFIRMED",
+   "summary_1line": "Nvidia launches Halos for Robotics in June 2026 to enable safe autonomous robot deployments.",
+   "published_at": "2026-10-08T11:15:33Z"
+  },
+  {
+   "title": "Chinese hacker targeted South Korean banks using Claude, AI agent: CrowdStrike",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
+   "url": "https://www.indiatoday.in/world/story/south-korean-bank-cyberattacks-china-based-suspect-artex-claude-3012485-2026-10-08",
+   "label": "CONFIRMED",
+   "summary_1line": "Chinese hacker used AI tools to target South Korean banks, with 25K and 119 customers affected.",
+   "published_at": "2026-10-08T04:24:00Z"
+  },
+  {
+   "title": "Microsoft launches strongest Surface with NVIDIA chips, Musk also rumored to spend 1.2 trillion NT dollars to buy AI chips",
+   "outlet": "三立新聞",
+   "outlet_name": "三立新聞",
+   "url": "https://inews.setn.com/news/1919324",
    "label": "REPORTED",
-   "summary_1line": "Three OpenAI researchers warn of safety risks as AI agents gain autonomy.",
-   "published_at": "2026-10-08T03:01:00Z"
-  },
-  {
-   "title": "Rein Security raises $25 million Series A as companies struggle to control their AI agents",
-   "outlet": "CTech",
-   "outlet_name": "CTech",
-   "url": "https://www.calcalistech.com/ctechnews/article/rkf52cnimg",
-   "label": "CONFIRMED",
-   "summary_1line": "Rein Security raises $25M, securing AI agents in real time as AI adoption outpaces security.",
-   "published_at": "2026-10-08T10:00:00Z"
-  },
-  {
-   "title": "Amazon Web Services integrates Zhipu GLM-5.3, Tencent increases investment in overseas computing power! OpenAI officially launches GPT-6! Tech sector undergoes deep adjustments after the holiday, Cloud Computing ETF Harv",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "url": "https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupafi7714814.shtml",
-   "label": "REPORTED",
-   "summary_1line": "A股科技股回调，GPT-6上线，云计算ETF吸金，AI任务执行推动云服务需求升级。",
-   "published_at": "2026-10-08T08:04:00Z"
-  },
-  {
-   "title": "ChatGPT hits a roadblock! Able to solve millennium math problems, but paper reproducibility is as low as 13.98%?",
-   "outlet": "量子位 QbitAI",
-   "outlet_name": "量子位 QbitAI",
-   "url": "https://www.qbitai.com/2026/10/501995.html",
-   "label": "CONFIRMED",
-   "summary_1line": "GPT-6 Astra achieves only 13.98% reliable scientific replication in 93 tasks, revealing a gap in AI's ability to reproduce published research.",
-   "published_at": "2026-10-08T09:28:44Z"
-  },
-  {
-   "title": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC analysis finds",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Top donors in 2026 midterms shift to GOP, with $93M to Trump's super PAC and $90M from Elon Musk.",
-   "published_at": "2026-10-08T10:00:02Z"
+   "summary_1line": "Microsoft's new Surface laptop with RTX Spark and MXC offers on-device AI, outperforming MacBook Pro and enhancing AI agent security.",
+   "published_at": "2026-10-08T11:05:43Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Safety Alert: 3 Fired Researchers Urge AI Monitoring",
-   "outlet": "Analytics Insight",
-   "outlet_name": "Analytics Insight",
+   "headline": "TSMC Third-Quarter Revenue Jumps 51% on AI Chip Demand",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "label": "CONFIRMED",
+   "url": "https://en.sedaily.com/international/2026/10/08/tsmc-third-quarter-revenue-jumps-51-percent-on-ai-chip"
+  },
+  {
+   "headline": "Video / Jensen Huang assists! Microsoft launches new laptops with NVIDIA chips to…",
+   "outlet": "TVBS新聞網",
+   "outlet_name": "TVBS新聞網",
+   "label": "CONFIRMED",
+   "url": "https://news.tvbs.com.tw/life/4033624"
+  },
+  {
+   "headline": "Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "label": "CONFIRMED",
+   "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
+  },
+  {
+   "headline": "Chinese hacker targeted South Korean banks using Claude, AI agent: CrowdStrike",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
+   "label": "CONFIRMED",
+   "url": "https://www.indiatoday.in/world/story/south-korean-bank-cyberattacks-china-based-suspect-artex-claude-3012485-2026-10-08"
+  },
+  {
+   "headline": "Microsoft launches strongest Surface with NVIDIA chips, Musk also rumored to spend 1.2…",
+   "outlet": "三立新聞",
+   "outlet_name": "三立新聞",
    "label": "REPORTED",
-   "url": "https://www.analyticsinsight.net/news/openai-safety-alert-3-fired-researchers-urge-ai-monitoring"
+   "url": "https://inews.setn.com/news/1919324"
   },
   {
-   "headline": "Rein Security raises $25 million Series A as companies struggle to control their AI agents",
-   "outlet": "CTech",
-   "outlet_name": "CTech",
+   "headline": "Samsung flags 783% profit jump to record $80bn as AI chip boom also lifts TSMC sales",
+   "outlet": "Euronews.com",
+   "outlet_name": "Euronews",
    "label": "CONFIRMED",
-   "url": "https://www.calcalistech.com/ctechnews/article/rkf52cnimg"
+   "url": "https://www.euronews.com/2026/10/08/samsung-flags-783-profit-jump-to-record-80bn-as-ai-chip-boom-also-lifts-tsmc-sales"
   },
   {
-   "headline": "Amazon Web Services integrates Zhipu GLM-5.3, Tencent increases investment in overseas…",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
+   "headline": "Google DeepMind’s London AI drug spinout eyes $50bn valuation",
+   "outlet": "City AM",
+   "outlet_name": "City AM",
+   "label": "STILL OPEN",
+   "url": "https://www.cityam.com/google-deepminds-london-ai-drug-spinout-eyes-50bn-valuation/"
+  },
+  {
+   "headline": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://finance.sina.com.cn/jjxw/2026-10-08/doc-iniupafi7714814.shtml"
+   "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/"
   },
   {
-   "headline": "ChatGPT hits a roadblock! Able to solve millennium math problems, but paper…",
-   "outlet": "量子位 QbitAI",
-   "outlet_name": "量子位 QbitAI",
+   "headline": "India steps up AI regulation push with consultation paper likely next month. Deepfakes…",
+   "outlet": "ThePrint",
+   "outlet_name": "ThePrint",
    "label": "CONFIRMED",
-   "url": "https://www.qbitai.com/2026/10/501995.html"
-  },
-  {
-   "headline": "Republican megadonors dominate 2026 midterm election as crypto and AI money surges, CNBC…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/08/2026-midterm-election-megadonors.html"
-  },
-  {
-   "headline": "CaiZhong ETF Trend Indicator | Anthropic launches Claude Haiku 5.5 with 75% cost…",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "label": "REPORTED",
-   "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-08/doc-iniupafc4415192.shtml"
-  },
-  {
-   "headline": "Growth Demands More Than AI: Transformation, Protection and Response Readiness Is Key…",
-   "outlet": "PA Media",
-   "outlet_name": "PA Media",
-   "label": "CONFIRMED",
-   "url": "https://pressreleasehub.pa.media/article/growth-demands-more-than-ai-transformation-protection-and-response-readiness-is-key-protiviti-and-nc-state-survey-finds-85556.html"
-  },
-  {
-   "headline": "AI Hooks for Claude Code, Cursor, and Codex: Block Secrets",
-   "outlet": "GitGuardian Blog",
-   "outlet_name": "GitGuardian Blog",
-   "label": "REPORTED",
-   "url": "https://blog.gitguardian.com/ai-hooks-ai-coding-assistants/"
-  },
-  {
-   "headline": "TSMC Q3 revenue surges 51%… beating expectations on AI semiconductor demand",
-   "outlet": "파이낸셜뉴스",
-   "outlet_name": "파이낸셜뉴스",
-   "label": "CONFIRMED",
-   "url": "https://www.fnnews.com/news/202610081601423290"
+   "url": "https://theprint.in/india/governance/india-steps-up-ai-regulation-push-with-consultation-paper-likely-next-month-deepfakes-safety-in-focus/3065386/"
   },
   {
    "headline": "Google Cloud introduces the Gemini agent.",
    "outlet": "blog.google",
    "outlet_name": "blog.google",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
   },
   {
-   "headline": "Samsung flags 783% profit jump to record $80bn as AI chip boom also lifts TSMC sales",
-   "outlet": "AOL.co.uk",
-   "outlet_name": "AOL.co.uk",
+   "headline": "Welcome to Gemini at Work 2026: Introducing the Gemini agent",
+   "outlet": "cloud.google.com",
+   "outlet_name": "cloud.google.com",
    "label": "CONFIRMED",
-   "url": "https://www.aol.co.uk/articles/samsung-flags-783-profit-jump-091132000.html"
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/welcome-to-gemini-at-work-2026"
   },
   {
-   "headline": "Law Commission proposes sweeping product liability reforms to bring AI and software…",
-   "outlet": "legaltechnology.com",
-   "outlet_name": "legaltechnology.com",
-   "label": "REPORTED",
-   "url": "https://legaltechnology.com/law-commission-proposes-sweeping-product-liability-reforms-to-bring-ai-and-software-within-scope/"
+   "headline": "Anthropic is going public: A 5-year-old company with a 2 trillion valuation, who is…",
+   "outlet": "tmtpost.com",
+   "outlet_name": "tmtpost.com",
+   "label": "STILL OPEN",
+   "url": "https://www.tmtpost.com/8161055.html"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 13800,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/12.mp3",
- "audio_seconds": 63.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/13.mp3",
+ "audio_seconds": 53.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThree OpenAI researchers warn of safety risks as artificial intelligence agents gain autonomy, reported by Analytics Insight.\nRein Security raises 25 million dollars, confirmed by CTech, securing artificial intelligence agents in real time as adoption outpaces security.\nReported by 新浪财经: Amazon Web Services integrates Zhipu GLM-5.3 and Tencent increases investment in overseas computing power as GPT-6 officially launches.\nConfirmed by 量子位 QbitAI: GPT-6 Astra achieves only 13.98 percent reliable scientific replication in 93 tasks, revealing gaps in artificial intelligence's ability to reproduce published research.\nTop donors in 2026 midterms shift to the GOP, confirmed by CNBC, with 93 million dollars to Trump's super PAC and 90 million from Elon Musk.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Seoul Economic Daily: TSMC Third-Quarter Revenue Jumps 51% on AI Chip Demand.\nConfirmed, per TVBS新聞網: Video / Jensen Huang assists! Microsoft launches new laptops with NVIDIA chips to challenge Apple, AI model speed is twice as fast.\nConfirmed, per Ars Technica: Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots.\nConfirmed, per India Today: Chinese hacker targeted South Korean banks using Claude, AI agent: CrowdStrike.\nReported by 三立新聞: Microsoft launches strongest Surface with NVIDIA chips, Musk also rumored to spend 1.2 trillion NT dollars to buy AI chips.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
