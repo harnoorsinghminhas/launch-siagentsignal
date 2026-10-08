@@ -1,119 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T19:20:02Z",
- "hour": "2026-10-08T19:00:00Z",
+ "generated_at": "2026-10-08T20:20:03Z",
+ "hour": "2026-10-08T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google Cloud launches universal ‘Gemini Agent’ with deep app integration",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-cloud-launches-universal-gemini-agent-with-deep-app-integration/articleshow/134796576.cms",
+   "title": "Anthropic changes usage policy to ban model abuse and election interference",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
    "label": "CONFIRMED",
-   "summary_1line": "Google launches Gemini agent for enterprises with autonomous workflows and deep Workspace integration.",
-   "published_at": "2026-10-08T17:13:00Z"
+   "summary_1line": "Anthropic bans prolonged abuse of Claude and deceptive campaigns in new policy update.",
+   "published_at": "2026-10-08T18:16:24Z"
   },
   {
-   "title": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+   "title": "Exclusive: Anthropic's plan to protect critical infrastructure",
    "outlet": "axios.com",
    "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house",
+   "url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity",
    "label": "CONFIRMED",
-   "summary_1line": "Trump calls AI users 'the enemy' as White House uses both terms.",
-   "published_at": "2026-10-08T17:46:19Z"
+   "summary_1line": "Anthropic launches AI defense program for power grids and utilities with Claude tools and free scans.",
+   "published_at": "2026-10-08T19:00:18Z"
   },
   {
-   "title": "Claude Sonnet 5.5 halves cache-read prices. Migration can still change your bill",
-   "outlet": "OpenTools",
-   "outlet_name": "OpenTools",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xRG9IOHllb2htZXpBX0FLemc0WlpfQmJhV3ZmeHZDaU9JVmFXcVZIUFg5VEVkSUdlTlNfTnFvYUl0SDFPeGozd28zMEpBTzF4NlNWbWdKMktnQWFaZG9NYmFNVEMtWGZkUXd3T1N4VEQwMEgwMXM1ZXAySQ?oc=5",
+   "title": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime",
+   "outlet": "SemiAnalysis",
+   "outlet_name": "SemiAnalysis",
+   "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
+   "label": "CONFIRMED",
+   "summary_1line": "China releases AI safety framework 3.0 amid US-China AI safety debate, emphasizing application controls over frontier risks.",
+   "published_at": "2026-10-08T17:46:05Z"
+  },
+  {
+   "title": "$25 Billion Reflection AI, Backed By Nvidia (NASDAQ: NVDA), Prepares To Launch Open-Source Model That Could Reshape Enterprise AI",
+   "outlet": "Foreign Policy Journal",
+   "outlet_name": "Foreign Policy Journal",
+   "url": "https://www.foreignpolicyjournal.com/2026/10/08/25-billion-reflection-ai-backed-by-nvidia-nasdaq-nvda-prepares-to-launch-open-source-model-that-could-reshape-enterprise-ai/",
+   "label": "STILL OPEN",
+   "summary_1line": "Reflection AI, valued at $25B, prepares to launch open-source AI model to compete with centralized providers.",
+   "published_at": "2026-10-08T17:44:00Z"
+  },
+  {
+   "title": "Anthropic launches dashboard, animation tools for Claude",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHVwaVJjdGlQNnJKRlNkNUdmMG9SSlZPRVVGd0pqcFJkMHY5Q0xTcEd1RDJtUWl0N1dXSHFvTVpDYk9DN2xqd3cwa1BMa0Qta2EwSm9pQ1Z0WmFyRmxyT1F4eERULWtaOVVyd3NrXzZSam1wdzlSWUFTcmNLNUQzYmZzeW9VRW44dE05Z0JYQS1KQTQ0ZDRWelktQWZOQ0k?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-08T18:50:50Z"
-  },
-  {
-   "title": "Anthropic Bars \"Cruel Behaviour\" Towards Its Models As A Part Of New Policy",
-   "outlet": "OfficeChai",
-   "outlet_name": "OfficeChai",
-   "url": "https://officechai.com/ai/anthropic-bars-cruel-behaviour-towards-its-models-as-a-part-of-new-policy/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-08T18:34:22Z"
-  },
-  {
-   "title": "Elon Musk says Grok Bot will use Suno’s AI music models, alongside Anthropic’s Claude and Midjourney",
-   "outlet": "Music Business Worldwide",
-   "outlet_name": "Music Business Worldwide",
-   "url": "https://www.musicbusinessworldwide.com/elon-musk-says-grok-bot-will-use-sunos-ai-music-models-alongside-anthropics-claude-and-midjourney/",
-   "label": "REPORTED",
-   "summary_1line": "Musk says Grok Bot will use Suno, Claude Opus 5.5, and Midjourney, amid new music copyright lawsuits.",
-   "published_at": "2026-10-08T17:10:31Z"
+   "published_at": "2026-10-08T19:08:01Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google Cloud launches universal ‘Gemini Agent’ with deep app integration",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "Anthropic changes usage policy to ban model abuse and election interference",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-cloud-launches-universal-gemini-agent-with-deep-app-integration/articleshow/134796576.cms"
+   "url": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/"
   },
   {
-   "headline": "Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it",
+   "headline": "Exclusive: Anthropic's plan to protect critical infrastructure",
    "outlet": "axios.com",
    "outlet_name": "Axios",
    "label": "CONFIRMED",
-   "url": "https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house"
+   "url": "https://www.axios.com/2026/10/08/anthropic-critical-infrastructure-cybersecurity"
   },
   {
-   "headline": "Claude Sonnet 5.5 halves cache-read prices. Migration can still change your bill",
-   "outlet": "OpenTools",
-   "outlet_name": "OpenTools",
+   "headline": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime",
+   "outlet": "SemiAnalysis",
+   "outlet_name": "SemiAnalysis",
+   "label": "CONFIRMED",
+   "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier"
+  },
+  {
+   "headline": "$25 Billion Reflection AI, Backed By Nvidia (NASDAQ: NVDA), Prepares To Launch…",
+   "outlet": "Foreign Policy Journal",
+   "outlet_name": "Foreign Policy Journal",
+   "label": "STILL OPEN",
+   "url": "https://www.foreignpolicyjournal.com/2026/10/08/25-billion-reflection-ai-backed-by-nvidia-nasdaq-nvda-prepares-to-launch-open-source-model-that-could-reshape-enterprise-ai/"
+  },
+  {
+   "headline": "Anthropic launches dashboard, animation tools for Claude",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xRG9IOHllb2htZXpBX0FLemc0WlpfQmJhV3ZmeHZDaU9JVmFXcVZIUFg5VEVkSUdlTlNfTnFvYUl0SDFPeGozd28zMEpBTzF4NlNWbWdKMktnQWFaZG9NYmFNVEMtWGZkUXd3T1N4VEQwMEgwMXM1ZXAySQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbHVwaVJjdGlQNnJKRlNkNUdmMG9SSlZPRVVGd0pqcFJkMHY5Q0xTcEd1RDJtUWl0N1dXSHFvTVpDYk9DN2xqd3cwa1BMa0Qta2EwSm9pQ1Z0WmFyRmxyT1F4eERULWtaOVVyd3NrXzZSam1wdzlSWUFTcmNLNUQzYmZzeW9VRW44dE05Z0JYQS1KQTQ0ZDRWelktQWZOQ0k?oc=5"
   },
   {
-   "headline": "Anthropic Bars \"Cruel Behaviour\" Towards Its Models As A Part Of New Policy",
-   "outlet": "OfficeChai",
-   "outlet_name": "OfficeChai",
+   "headline": "Is Gemini Down? Here’s What’s Happening With Google’s AI",
+   "outlet": "Revista Merca2.0",
+   "outlet_name": "Revista Merca2.0",
+   "label": "CONFIRMED",
+   "url": "https://www.merca20.com/is-gemini-down-heres-whats-happening-with-googles-ai/"
+  },
+  {
+   "headline": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "REPORTED",
-   "url": "https://officechai.com/ai/anthropic-bars-cruel-behaviour-towards-its-models-as-a-part-of-new-policy/"
+   "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
   },
   {
-   "headline": "Elon Musk says Grok Bot will use Suno’s AI music models, alongside Anthropic’s Claude and…",
-   "outlet": "Music Business Worldwide",
-   "outlet_name": "Music Business Worldwide",
+   "headline": "Pioneering safety researcher Paul Christiano unpacks AI’s “dangerous moment”",
+   "outlet": "BetaKit",
+   "outlet_name": "BetaKit",
    "label": "REPORTED",
-   "url": "https://www.musicbusinessworldwide.com/elon-musk-says-grok-bot-will-use-sunos-ai-music-models-alongside-anthropics-claude-and-midjourney/"
+   "url": "https://betakit.com/pioneering-safety-researcher-paul-christiano-unpacks-ais-dangerous-moment/"
   },
   {
-   "headline": "Regulators are trying to protect you from being fired by AI – here’s how",
-   "outlet": "zdnet.com",
-   "outlet_name": "ZDNet",
-   "label": "REPORTED",
-   "url": "https://www.zdnet.com/innovation/how-state-regulators-protect-you-fired-by-ai/"
+   "headline": "Google launches workplace AI agent that gets its own email address",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/gemini-agent-workspace-identity-europe"
   },
   {
-   "headline": "SpaceXAI Hit With Biometric Suit Over Images Uploaded to Grok",
-   "outlet": "Bloomberg Law News",
-   "outlet_name": "Bloomberg Law News",
-   "label": "REPORTED",
-   "url": "https://news.bloomberglaw.com/business-and-practice/spacexai-hit-with-biometric-suit-over-images-uploaded-to-grok"
-  },
-  {
-   "headline": "MessageWatcher Launches AI Policy Builder, a Ready-Made Library of Compliance Rules for…",
-   "outlet": "EIN Presswire",
-   "outlet_name": "EIN Presswire",
-   "label": "REPORTED",
-   "url": "https://www.einpresswire.com/article/948249171/messagewatcher-launches-ai-policy-builder-a-ready-made-library-of-compliance-rules-for-sec-finra-and-state-reqs"
-  },
-  {
-   "headline": "2026 Usage Policy update \\ Anthropic",
+   "headline": "An opt-in vulnerability-finding service for open-source software \\ Anthropic",
    "outlet": "anthropic.com",
    "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/news/2026-usage-policy-update"
+   "label": "REPORTED",
+   "url": "https://www.anthropic.com/research/launching-opt-in-vuln-finding-service-for-open-source"
+  },
+  {
+   "headline": "Introducing the Anthropic Cyber Mission \\ Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "REPORTED",
+   "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
   },
   {
    "headline": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -121,30 +135,16 @@
    "outlet_name": "openai.com",
    "label": "REPORTED",
    "url": "https://openai.com/index/oracle"
-  },
-  {
-   "headline": "Does Claude Feel the Whip?",
-   "outlet": "noemamag.com",
-   "outlet_name": "noemamag.com",
-   "label": "REPORTED",
-   "url": "https://www.noemamag.com/does-claude-feel-the-whip/"
-  },
-  {
-   "headline": "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
-   "label": "REPORTED",
-   "url": "https://www.techmeme.com/261008/p39#a261008p39"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13400,
- "articles_24h_label": "about 13,000",
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 13500,
+ "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/19.mp3",
- "audio_seconds": 50.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/20.mp3",
+ "audio_seconds": 47.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Times of India: Google Cloud launches universal ‘Gemini Agent’ with deep app integration.\nConfirmed, per Axios: Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it.\nReported by OpenTools: Claude Sonnet 5.5 halves cache-read prices. Migration can still change your bill.\nReported by OfficeChai: Anthropic Bars \"Cruel Behaviour\" Towards Its Models As A Part Of New Policy.\nReported by Music Business Worldwide: Elon Musk says Grok Bot will use Suno’s AI music models, alongside Anthropic’s Claude and Midjourney.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Anthropic changes usage policy to ban model abuse and election interference.\nConfirmed, per Axios: Exclusive: Anthropic's plan to protect critical infrastructure.\nConfirmed, per SemiAnalysis: Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime.\nStill open, per Foreign Policy Journal: $25 Billion Reflection AI, Backed By Nvidia (NASDAQ: NVDA), Prepares To Launch Open-Source Model That Could Reshape Enterprise AI.\nReported by Reuters: Anthropic launches dashboard, animation tools for Claude.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
