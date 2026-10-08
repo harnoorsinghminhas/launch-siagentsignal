@@ -1,98 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T13:20:02Z",
- "hour": "2026-10-08T13:00:00Z",
+ "generated_at": "2026-10-08T14:20:02Z",
+ "hour": "2026-10-08T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "TSMC Third-Quarter Revenue Jumps 51% on AI Chip Demand",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
-   "url": "https://en.sedaily.com/international/2026/10/08/tsmc-third-quarter-revenue-jumps-51-percent-on-ai-chip",
+   "title": "Eminence Grey and Lumen Partner to Deliver Sovereign AI Infrastructure Across the U.S.",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/eminence-grey-and-lumen-partner-to-deliver-sovereign-ai-infrastructure-across-the-us-302901935.html",
    "label": "CONFIRMED",
-   "summary_1line": "TSMC's Q3 revenue jumps 51% on AI chip demand, with 75% revenue from North America.",
-   "published_at": "2026-10-08T09:40:24Z"
+   "summary_1line": "Eminence Grey and Lumen partner for sovereign AI infrastructure in the U.S.",
+   "published_at": "2026-10-08T12:30:00Z"
   },
   {
-   "title": "Video / Jensen Huang assists! Microsoft launches new laptops with NVIDIA chips to challenge Apple, AI model speed is twice as fast",
-   "outlet": "TVBS新聞網",
-   "outlet_name": "TVBS新聞網",
-   "url": "https://news.tvbs.com.tw/life/4033624",
-   "label": "CONFIRMED",
-   "summary_1line": "NVIDIA and Microsoft launch AI-powered laptop with on-device processing, twice as fast as Apple's MacBook Pro M5.",
-   "published_at": "2026-10-08T11:29:00Z"
-  },
-  {
-   "title": "Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/",
-   "label": "CONFIRMED",
-   "summary_1line": "Nvidia launches Halos for Robotics in June 2026 to enable safe autonomous robot deployments.",
-   "published_at": "2026-10-08T11:15:33Z"
-  },
-  {
-   "title": "Chinese hacker targeted South Korean banks using Claude, AI agent: CrowdStrike",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "url": "https://www.indiatoday.in/world/story/south-korean-bank-cyberattacks-china-based-suspect-artex-claude-3012485-2026-10-08",
-   "label": "CONFIRMED",
-   "summary_1line": "Chinese hacker used AI tools to target South Korean banks, with 25K and 119 customers affected.",
-   "published_at": "2026-10-08T04:24:00Z"
-  },
-  {
-   "title": "Microsoft launches strongest Surface with NVIDIA chips, Musk also rumored to spend 1.2 trillion NT dollars to buy AI chips",
-   "outlet": "三立新聞",
-   "outlet_name": "三立新聞",
-   "url": "https://inews.setn.com/news/1919324",
+   "title": "The more capable AI is, the bigger the risk bill? Anthropic's $2 trillion valuation faces 'AI runaway' storm _ Rolling News _ Finance",
+   "outlet": "证券之星",
+   "outlet_name": "证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pMDYxVHh0enV4V1lPYldYdUIxTzhRci1qLU1KMmFucDFaMUxYV2lUT0kyTTkzR2pFaFMwZkhNNzFLdUV1UGtZdTBhMTB3dHNyRnFmNVNNNFVaN0VwRk1pbg?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Microsoft's new Surface laptop with RTX Spark and MXC offers on-device AI, outperforming MacBook Pro and enhancing AI agent security.",
-   "published_at": "2026-10-08T11:05:43Z"
+   "summary_1line": null,
+   "published_at": "2026-10-08T13:38:25Z"
+  },
+  {
+   "title": "Gemini 4 Argon Could Launch Today: Full Specs, Benchmarks & Features",
+   "outlet": "Nokiapoweruser",
+   "outlet_name": "Nokiapoweruser",
+   "url": "https://nokiapoweruser.com/gemini-4-argon-launch-specs-pricing-benchmarks/",
+   "label": "STILL OPEN",
+   "summary_1line": "Google's Gemini 4 Argon launches today with 1M output capacity and aggressive pricing, signaling a major AI ecosystem shift.",
+   "published_at": "2026-10-08T12:08:24Z"
+  },
+  {
+   "title": "Google DeepMind’s London AI drug spinout eyes $50bn valuation",
+   "outlet": "City AM",
+   "outlet_name": "City AM",
+   "url": "https://www.cityam.com/google-deepminds-london-ai-drug-spinout-eyes-50bn-valuation/",
+   "label": "STILL OPEN",
+   "summary_1line": "Isomorphic Labs seeks $50bn valuation in AI drug discovery funding.",
+   "published_at": "2026-10-08T12:05:07Z"
+  },
+  {
+   "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-08T12:01:28Z"
   }
  ],
  "ticker": [
   {
-   "headline": "TSMC Third-Quarter Revenue Jumps 51% on AI Chip Demand",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
+   "headline": "Eminence Grey and Lumen Partner to Deliver Sovereign AI Infrastructure Across the U.S.",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
    "label": "CONFIRMED",
-   "url": "https://en.sedaily.com/international/2026/10/08/tsmc-third-quarter-revenue-jumps-51-percent-on-ai-chip"
+   "url": "https://www.prnewswire.com/news-releases/eminence-grey-and-lumen-partner-to-deliver-sovereign-ai-infrastructure-across-the-us-302901935.html"
   },
   {
-   "headline": "Video / Jensen Huang assists! Microsoft launches new laptops with NVIDIA chips to…",
-   "outlet": "TVBS新聞網",
-   "outlet_name": "TVBS新聞網",
-   "label": "CONFIRMED",
-   "url": "https://news.tvbs.com.tw/life/4033624"
-  },
-  {
-   "headline": "Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "label": "CONFIRMED",
-   "url": "https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/"
-  },
-  {
-   "headline": "Chinese hacker targeted South Korean banks using Claude, AI agent: CrowdStrike",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "label": "CONFIRMED",
-   "url": "https://www.indiatoday.in/world/story/south-korean-bank-cyberattacks-china-based-suspect-artex-claude-3012485-2026-10-08"
-  },
-  {
-   "headline": "Microsoft launches strongest Surface with NVIDIA chips, Musk also rumored to spend 1.2…",
-   "outlet": "三立新聞",
-   "outlet_name": "三立新聞",
+   "headline": "The more capable AI is, the bigger the risk bill? Anthropic's $2 trillion valuation faces…",
+   "outlet": "证券之星",
+   "outlet_name": "证券之星",
    "label": "REPORTED",
-   "url": "https://inews.setn.com/news/1919324"
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pMDYxVHh0enV4V1lPYldYdUIxTzhRci1qLU1KMmFucDFaMUxYV2lUT0kyTTkzR2pFaFMwZkhNNzFLdUV1UGtZdTBhMTB3dHNyRnFmNVNNNFVaN0VwRk1pbg?oc=5"
   },
   {
-   "headline": "Samsung flags 783% profit jump to record $80bn as AI chip boom also lifts TSMC sales",
-   "outlet": "Euronews.com",
-   "outlet_name": "Euronews",
-   "label": "CONFIRMED",
-   "url": "https://www.euronews.com/2026/10/08/samsung-flags-783-profit-jump-to-record-80bn-as-ai-chip-boom-also-lifts-tsmc-sales"
+   "headline": "Gemini 4 Argon Could Launch Today: Full Specs, Benchmarks & Features",
+   "outlet": "Nokiapoweruser",
+   "outlet_name": "Nokiapoweruser",
+   "label": "STILL OPEN",
+   "url": "https://nokiapoweruser.com/gemini-4-argon-launch-specs-pricing-benchmarks/"
   },
   {
    "headline": "Google DeepMind’s London AI drug spinout eyes $50bn valuation",
@@ -109,11 +88,25 @@
    "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/"
   },
   {
-   "headline": "India steps up AI regulation push with consultation paper likely next month. Deepfakes…",
-   "outlet": "ThePrint",
-   "outlet_name": "ThePrint",
+   "headline": "Uber and China’s Pony.ai plan to launch robotaxis in London",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://theprint.in/india/governance/india-steps-up-ai-regulation-push-with-consultation-paper-likely-next-month-deepfakes-safety-in-focus/3065386/"
+   "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/"
+  },
+  {
+   "headline": "Microsoft launches new Surface laptops with Nvidia, Windows expands local AI capabilities",
+   "outlet": "Telecompaper",
+   "outlet_name": "Telecompaper",
+   "label": "REPORTED",
+   "url": "https://www.telecompaper.com/news/microsoft-launches-new-surface-laptops-with-nvidia-windows-expands-local-ai-capabilities--1584989"
+  },
+  {
+   "headline": "Gallatin AI Announces $50 Million Series A to Accelerate Transformation of Military…",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "CONFIRMED",
+   "url": "https://www.prnewswire.com/news-releases/gallatin-ai-announces-50-million-series-a-to-accelerate-transformation-of-military-logistics-302902399.html"
   },
   {
    "headline": "Google Cloud introduces the Gemini agent.",
@@ -135,16 +128,23 @@
    "outlet_name": "tmtpost.com",
    "label": "STILL OPEN",
    "url": "https://www.tmtpost.com/8161055.html"
+  },
+  {
+   "headline": "Rein Security Raises $25 Million to Guard AI Agents at Runtime",
+   "outlet": "securityweek.com",
+   "outlet_name": "securityweek.com",
+   "label": "CONFIRMED",
+   "url": "https://www.securityweek.com/rein-security-raises-25-million-to-guard-ai-agents-at-runtime/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13800,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 13700,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/13.mp3",
- "audio_seconds": 53.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/14.mp3",
+ "audio_seconds": 56.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Seoul Economic Daily: TSMC Third-Quarter Revenue Jumps 51% on AI Chip Demand.\nConfirmed, per TVBS新聞網: Video / Jensen Huang assists! Microsoft launches new laptops with NVIDIA chips to challenge Apple, AI model speed is twice as fast.\nConfirmed, per Ars Technica: Nvidia’s big bet on physical AI aims for safer robotaxis, humanoid robots.\nConfirmed, per India Today: Chinese hacker targeted South Korean banks using Claude, AI agent: CrowdStrike.\nReported by 三立新聞: Microsoft launches strongest Surface with NVIDIA chips, Musk also rumored to spend 1.2 trillion NT dollars to buy AI chips.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per PR Newswire: Eminence Grey and Lumen Partner to Deliver Sovereign AI Infrastructure Across the U.S.\nReported by 证券之星: The more capable AI is, the bigger the risk bill? Anthropic's $2 trillion valuation faces 'AI runaway' storm _ Rolling News _ Finance.\nStill open, per Nokiapoweruser: Gemini 4 Argon Could Launch Today: Full Specs, Benchmarks & Features.\nStill open, per City AM: Google DeepMind’s London AI drug spinout eyes $50bn valuation.\nReported by Reuters: Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
