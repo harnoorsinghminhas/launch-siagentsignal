@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T08:20:02Z",
- "hour": "2026-10-08T08:00:00Z",
+ "generated_at": "2026-10-08T09:20:02Z",
+ "hour": "2026-10-08T09:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Manus raises $500M post-Meta acquisition block, signaling investor confidence in AI agents.",
-   "published_at": "2026-10-08T06:32:57Z"
+   "title": "OpenAI introduces new AI study tools for teenage students",
+   "outlet": "Digital Watch Observatory",
+   "outlet_name": "Digital Watch Observatory",
+   "url": "https://dig.watch/updates/openai-ai-study-tools-teenage-students",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI launches study tools for teens, including a College Planner and revision cards.",
+   "published_at": "2026-10-08T07:43:18Z"
   },
   {
-   "title": "Copilot Gets Control of Windows and Your Files as Microsoft’s Recall Bill Comes Due",
-   "outlet": "Martin Cid Magazine",
-   "outlet_name": "Martin Cid Magazine",
-   "url": "https://www.martincid.com/technology-sv/microsoft-copilot-windows-files-control-recall/",
+   "title": "Claude's strongest mini model debuts with prices plummeting 90 percent, rivaling DeepSeek?",
+   "outlet": "智东西",
+   "outlet_name": "智东西",
+   "url": "https://zhidx.com/p/598985.html",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic's Claude Haiku 5.5 offers 75% lower costs and stronger smart agent capabilities for lightweight tasks.",
+   "published_at": "2026-10-08T07:03:25Z"
+  },
+  {
+   "title": "AI startup Manus raises $500m after Meta acquisition blocked by China",
+   "outlet": "Yahoo Finance Singapore",
+   "outlet_name": "Yahoo Finance Singapore",
+   "url": "https://sg.finance.yahoo.com/news/ai-startup-manus-raises-500m-075135748.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Manus raises $500M, launches AI app Cue, after resuming independence from Meta.",
+   "published_at": "2026-10-08T07:51:35Z"
+  },
+  {
+   "title": "US AI firm Anthropic enables Chinese-language options for Claude chatbot",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot?utm_source=rss_feed",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic adds Chinese-language support to Claude for overseas users, with UnionPay briefly shown as payment option.",
+   "published_at": "2026-10-08T07:38:25Z"
+  },
+  {
+   "title": "Watch Google DeepMind's AI Drug Spinoff, Isomorphic Labs, Seeks Funding at Valuation of $40 Billion",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEJuX1pGT2FSdjBBY1RFOXp0Z21qSm1pRXRDTnQ0anh1UGRpMkR2dUR6OHNkNWRGaWZUNGdIdndfWnNzMjJodHdmQXVNMHJXeWJISURFVmJfS0pEdmxmMFRuZUNEaEhaa3QxUGRSRE9MMFVBcC1BRUVOYThlMFNURm1mM3JGcVBaRVhJR1NESXlIQTlJYldUWHUzSFhENGc5ZTVPTUdhTU9CMU0?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-08T05:13:56Z"
-  },
-  {
-   "title": "Anthropic launches Claude Haiku 5.5, its fastest and cheapest AI model yet",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-launches-claude-haiku-5-5-its-fastest-and-cheapest-ai-model-yet/articleshow/134780000.cms",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic launches Claude Haiku 5.5, a faster, cheaper model with new cybersecurity safeguards.",
-   "published_at": "2026-10-07T21:35:00Z"
-  },
-  {
-   "title": "Equipped with Nvidia RTX Spark super chip! ASUS ProArt AI laptop opens for pre-order, aggressively attacking on-premises model computing",
-   "outlet": "知新聞",
-   "outlet_name": "知新聞",
-   "url": "https://www.knews.com.tw/news/976DA0CDB4A8135EA35389A7988CF730",
-   "label": "CONFIRMED",
-   "summary_1line": "ASUS RTX Spark laptops enable local AI workflows with privacy and cost benefits.",
-   "published_at": "2026-10-08T05:40:00Z"
-  },
-  {
-   "title": "Microsoft’s Nvidia-powered Surface Ultra laptop put a price on its hybrid AI ambitions: All details",
-   "outlet": "Business Today",
-   "outlet_name": "Business Today",
-   "url": "https://www.businesstoday.in/technology/news/story/microsofts-nvidia-powered-surface-ultra-laptop-put-a-price-on-its-hybrid-ai-ambitions-560307-2026-10-08",
-   "label": "CONFIRMED",
-   "summary_1line": "Microsoft's Surface Ultra runs AI locally with Nvidia's Spark, offering 2.1x faster generation and up to $5,899 pricing.",
-   "published_at": "2026-10-07T22:13:00Z"
+   "published_at": "2026-10-08T00:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "AI startup Manus raises $500 million in first funding round since Meta breakup",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/08/manus-fund-raise-meta-muse-tencent.html"
-  },
-  {
-   "headline": "Copilot Gets Control of Windows and Your Files as Microsoft’s Recall Bill Comes Due",
-   "outlet": "Martin Cid Magazine",
-   "outlet_name": "Martin Cid Magazine",
+   "headline": "OpenAI introduces new AI study tools for teenage students",
+   "outlet": "Digital Watch Observatory",
+   "outlet_name": "Digital Watch Observatory",
    "label": "REPORTED",
-   "url": "https://www.martincid.com/technology-sv/microsoft-copilot-windows-files-control-recall/"
+   "url": "https://dig.watch/updates/openai-ai-study-tools-teenage-students"
   },
   {
-   "headline": "Anthropic launches Claude Haiku 5.5, its fastest and cheapest AI model yet",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "CONFIRMED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-launches-claude-haiku-5-5-its-fastest-and-cheapest-ai-model-yet/articleshow/134780000.cms"
+   "headline": "Claude's strongest mini model debuts with prices plummeting 90 percent, rivaling DeepSeek?",
+   "outlet": "智东西",
+   "outlet_name": "智东西",
+   "label": "REPORTED",
+   "url": "https://zhidx.com/p/598985.html"
   },
   {
-   "headline": "Equipped with Nvidia RTX Spark super chip! ASUS ProArt AI laptop opens for pre-order…",
-   "outlet": "知新聞",
-   "outlet_name": "知新聞",
+   "headline": "AI startup Manus raises $500m after Meta acquisition blocked by China",
+   "outlet": "Yahoo Finance Singapore",
+   "outlet_name": "Yahoo Finance Singapore",
    "label": "CONFIRMED",
-   "url": "https://www.knews.com.tw/news/976DA0CDB4A8135EA35389A7988CF730"
+   "url": "https://sg.finance.yahoo.com/news/ai-startup-manus-raises-500m-075135748.html"
   },
   {
-   "headline": "Microsoft’s Nvidia-powered Surface Ultra laptop put a price on its hybrid AI ambitions…",
-   "outlet": "Business Today",
-   "outlet_name": "Business Today",
-   "label": "CONFIRMED",
-   "url": "https://www.businesstoday.in/technology/news/story/microsofts-nvidia-powered-surface-ultra-laptop-put-a-price-on-its-hybrid-ai-ambitions-560307-2026-10-08"
+   "headline": "US AI firm Anthropic enables Chinese-language options for Claude chatbot",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
+   "label": "REPORTED",
+   "url": "https://www.scmp.com/tech/big-tech/article/3370154/us-ai-firm-anthropic-enables-chinese-language-options-claude-chatbot?utm_source=rss_feed"
   },
   {
    "headline": "Watch Google DeepMind's AI Drug Spinoff, Isomorphic Labs, Seeks Funding at Valuation of…",
@@ -95,34 +88,6 @@
    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNEJuX1pGT2FSdjBBY1RFOXp0Z21qSm1pRXRDTnQ0anh1UGRpMkR2dUR6OHNkNWRGaWZUNGdIdndfWnNzMjJodHdmQXVNMHJXeWJISURFVmJfS0pEdmxmMFRuZUNEaEhaa3QxUGRSRE9MMFVBcC1BRUVOYThlMFNURm1mM3JGcVBaRVhJR1NESXlIQTlJYldUWHUzSFhENGc5ZTVPTUdhTU9CMU0?oc=5"
   },
   {
-   "headline": "Google rolls out Gemini 'Auto-Browse' agentic task automation in Chrome for India",
-   "outlet": "Adgully",
-   "outlet_name": "Adgully",
-   "label": "REPORTED",
-   "url": "https://www.adgully.com/post/21873/google-rolls-out-gemini-auto-browse-agentic-task-automation-in-chrome-for-india"
-  },
-  {
-   "headline": "OpenAI and Anthropic support mandatory AI incident reporting in Australia",
-   "outlet": "Digital Watch Observatory",
-   "outlet_name": "Digital Watch Observatory",
-   "label": "REPORTED",
-   "url": "https://dig.watch/updates/openai-anthropic-back-ai-incident-reporting"
-  },
-  {
-   "headline": "Claude breaks into the territory of domestic low-cost models: Zhipu and MiniMax decline",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
-   "label": "REPORTED",
-   "url": "https://news.futunn.com/flash/1000695005/claude-enters-the-core-market-of-low-cost-domestic-ai"
-  },
-  {
-   "headline": "DeepSeek reportedly nears $12 billion funding round backed by Tencent and CATL",
-   "outlet": "technode.com",
-   "outlet_name": "technode.com",
-   "label": "STILL OPEN",
-   "url": "https://technode.com/2026/10/08/deepseek-reportedly-nears-12-billion-funding-round-backed-by-tencent-and-catl/"
-  },
-  {
    "headline": "Nous Research Raises $90 Million for Open-Source A.I. Agent Hermes",
    "outlet": "www.trendingtopics.eu",
    "outlet_name": "www.trendingtopics.eu",
@@ -130,21 +95,56 @@
    "url": "https://www.trendingtopics.eu/nous-research-raises-90-million-hermes/"
   },
   {
-   "headline": "Microsoft Execution Containers: Policy-driven containment for AI agents",
-   "outlet": "blogs.windows.com",
-   "outlet_name": "blogs.windows.com",
+   "headline": "Japan's large bookstore wholesaler confirms selling a large number of books to Anthropic…",
+   "outlet": "technews.tw",
+   "outlet_name": "technews.tw",
    "label": "REPORTED",
-   "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/"
+   "url": "https://technews.tw/2026/10/08/anthropics-mass-book-buying-in-japan-stirs-publisher-backlash/"
+  },
+  {
+   "headline": "ChatGPT for teens may make it harder for kids in mental health crises to disconnect…",
+   "outlet": "Baller Alert on MSN",
+   "outlet_name": "Baller Alert on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/chatgpt-for-teens-may-make-it-harder-for-kids-in-mental-health-crises-to-disconnect-study-claims/ar-AA2dNWmZ"
+  },
+  {
+   "headline": "After Navier-Stokes, OpenAI’s 377 math results leave experts demanding a voice",
+   "outlet": "interestingengineering.com",
+   "outlet_name": "interestingengineering.com",
+   "label": "REPORTED",
+   "url": "https://interestingengineering.com/ai-robotics/openai-377-math-results-mathematicians-concerns"
+  },
+  {
+   "headline": "Claude OF DUTY – a browser FPS with no art assets",
+   "outlet": "claude-of-duty.com",
+   "outlet_name": "claude-of-duty.com",
+   "label": "REPORTED",
+   "url": "https://claude-of-duty.com/"
+  },
+  {
+   "headline": "Claude Gave the Brainfuck Ray Tracer a 9000x Speedup",
+   "outlet": "danangell.com",
+   "outlet_name": "danangell.com",
+   "label": "REPORTED",
+   "url": "https://danangell.com/blog/posts/brainfuck-ray-tracer-optimization/"
+  },
+  {
+   "headline": "Sonata Software Achieves the 2026–2027 Microsoft AI Business Solutions Inner Circle Award",
+   "outlet": "TheWire.in",
+   "outlet_name": "TheWire.in",
+   "label": "REPORTED",
+   "url": "https://m.thewire.in/article/ptiprnews/sonata-software-achieves-the-2026-2027-microsoft-ai-business-solutions-inner-circle-award"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 13800,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/08.mp3",
- "audio_seconds": 67.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/09.mp3",
+ "audio_seconds": 67.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nManus raised $500 million in its first funding round since separating from Meta, reported by CNBC as Confirmed, showing strong investor backing for AI agents.\nMicrosoft's Copilot is gaining control over Windows and your files as the company's Recall feature faces scrutiny, Reported by Martin Cid Magazine.\nAnthropic has launched Claude Haiku 5.5, its fastest and cheapest model yet with new cybersecurity safeguards, Confirmed by The Times of India.\nASUS is opening pre-orders for ProArt AI laptops equipped with Nvidia RTX Spark super chips, enabling local artificial intelligence workflows, Confirmed per 知新聞.\nMicrosoft's Surface Ultra laptop runs artificial intelligence locally using Nvidia's Spark, with pricing up to $5,899, Confirmed by Business Today.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI launches study tools for teenage students, including a College Planner and revision cards, reported by Digital Watch Observatory.\nAnthropic's Claude Haiku 5.5 offers 75% lower costs and stronger smart agent capabilities for lightweight tasks. Reported by 智东西: Claude's strongest mini model debuts with prices plummeting 90 percent, rivaling DeepSeek.\nManus raises 500M and launches artificial intelligence app Cue after resuming independence from Meta. Confirmed by Yahoo Finance Singapore.\nAnthropic adds Chinese-language support to Claude for overseas users, with UnionPay briefly shown as payment option. Reported by South China Morning Post: US artificial intelligence firm Anthropic enables Chinese-language options for Claude chatbot.\nReported by Bloomberg: Watch Google DeepMind's artificial intelligence Drug Spinoff, Isomorphic Labs, Seeks Funding at Valuation of 40 Billion.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
