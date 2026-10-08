@@ -1,98 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T17:20:02Z",
- "hour": "2026-10-08T17:00:00Z",
+ "generated_at": "2026-10-08T18:20:02Z",
+ "hour": "2026-10-08T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia RTX Spark Laptops Will Start at $2,600, Launch October 16",
-   "outlet": "ExtremeTech",
-   "outlet_name": "ExtremeTech",
-   "url": "https://www.extremetech.com/computing/nvidia-rtx-spark-laptops-will-start-at-2600-launch-october-16",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft and Nvidia launch high-end RTX Spark laptops with AI features, priced from $2,600 to over $7,000.",
-   "published_at": "2026-10-08T15:45:25Z"
-  },
-  {
-   "title": "Dell launches powerful new mini-PC with 128 GB RAM and Nvidia RTX Spark",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
-   "url": "https://www.notebookcheck.net/Dell-launches-powerful-new-mini-PC-with-128-GB-RAM-and-Nvidia-RTX-Spark.1419181.0.html",
-   "label": "REPORTED",
-   "summary_1line": "Dell's new Creator Edition Desktop offers 128GB RAM and 4TB storage with high-end RTX Spark specs.",
-   "published_at": "2026-10-08T15:14:00Z"
-  },
-  {
-   "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOdExScjJHVHppUWxYLXBCT05xMGRwOWpQYmdkblAwdFM0alZ3SXlSUkNFbFFVUnJQM1hVSXA3d0JsWDh5U2dOZFhB?oc=5",
+   "title": "USA Today becomes the latest publisher to sue OpenAI",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-08T16:50:52Z"
+   "published_at": "2026-10-08T17:58:33Z"
   },
   {
-   "title": "DeepSeek completes nearly 100 billion yuan in financing, led by Tencent and CATL, with plans for a 2027 IPO",
-   "outlet": "虎嗅网",
-   "outlet_name": "虎嗅网",
-   "url": "https://www.huxiu.com/article/4895902.html",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek raises 800-1000 billion RMB, with Tencent and Ningde时代 leading, to prepare for 2027 IPO and integrate power with AI.",
-   "published_at": "2026-10-08T09:51:10Z"
+   "title": "Anthropic bans ‘abusive or cruel behavior’ towards Claude",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic bans abusive behavior and expands AI misuse rules for Claude.",
+   "published_at": "2026-10-08T17:00:00Z"
   },
   {
-   "title": "JPMorgan’s Dimon Says Anthropic’s Mythos AI Model Has Increased Cybersecurity Risk Tenfold",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "url": "https://www.tekedia.com/jpmorgans-dimon-says-anthropics-mythos-ai-model-has-increased-cybersecurity-risk-tenfold/",
+   "title": "India to release AI regulation consultation paper within a month: Ashwini Vaishnaw",
+   "outlet": "Exchange4Media",
+   "outlet_name": "Exchange4Media",
+   "url": "https://www.exchange4media.com/digital-news/india-to-release-ai-regulation-consultation-paper-within-a-month-ashwini-vaishnaw-158990.html",
+   "label": "CONFIRMED",
+   "summary_1line": "India to release AI regulation consultation paper in next month, focusing on safety and deepfakes.",
+   "published_at": "2026-10-08T10:10:24Z"
+  },
+  {
+   "title": "FTC advancing on its AI safety probe",
+   "outlet": "semafor.com",
+   "outlet_name": "Semafor",
+   "url": "https://www.semafor.com/article/10/08/2026/ftc-advancing-on-its-ai-safety-probe",
    "label": "REPORTED",
-   "summary_1line": "Dimon warns AI systems like Mythos have dramatically escalated cybersecurity risks for banks.",
-   "published_at": "2026-10-08T11:04:35Z"
+   "summary_1line": "FTC prepares AI probe amid public disclosure and self-regulation pledge.",
+   "published_at": "2026-10-08T17:01:27Z"
+  },
+  {
+   "title": "Microsoft Copilot targeted by bundling complaints in Belgium",
+   "outlet": "Global Competition Review",
+   "outlet_name": "Global Competition Review",
+   "url": "https://globalcompetitionreview.com/article/microsoft-copilot-targeted-bundling-complaints-in-belgium",
+   "label": "REPORTED",
+   "summary_1line": "Belgium raises complaints over Microsoft bundling Copilot in its productivity suite.",
+   "published_at": "2026-10-08T16:55:16Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia RTX Spark Laptops Will Start at $2,600, Launch October 16",
-   "outlet": "ExtremeTech",
-   "outlet_name": "ExtremeTech",
+   "headline": "USA Today becomes the latest publisher to sue OpenAI",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "REPORTED",
-   "url": "https://www.extremetech.com/computing/nvidia-rtx-spark-laptops-will-start-at-2600-launch-october-16"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit"
   },
   {
-   "headline": "Dell launches powerful new mini-PC with 128 GB RAM and Nvidia RTX Spark",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
-   "label": "REPORTED",
-   "url": "https://www.notebookcheck.net/Dell-launches-powerful-new-mini-PC-with-128-GB-RAM-and-Nvidia-RTX-Spark.1419181.0.html"
+   "headline": "Anthropic bans ‘abusive or cruel behavior’ towards Claude",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "label": "CONFIRMED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
   },
   {
-   "headline": "Pollo AI turns creative ideas into campaigns with OpenAI",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOdExScjJHVHppUWxYLXBCT05xMGRwOWpQYmdkblAwdFM0alZ3SXlSUkNFbFFVUnJQM1hVSXA3d0JsWDh5U2dOZFhB?oc=5"
+   "headline": "India to release AI regulation consultation paper within a month: Ashwini Vaishnaw",
+   "outlet": "Exchange4Media",
+   "outlet_name": "Exchange4Media",
+   "label": "CONFIRMED",
+   "url": "https://www.exchange4media.com/digital-news/india-to-release-ai-regulation-consultation-paper-within-a-month-ashwini-vaishnaw-158990.html"
   },
   {
-   "headline": "DeepSeek completes nearly 100 billion yuan in financing, led by Tencent and CATL, with…",
-   "outlet": "虎嗅网",
-   "outlet_name": "虎嗅网",
+   "headline": "FTC advancing on its AI safety probe",
+   "outlet": "semafor.com",
+   "outlet_name": "Semafor",
    "label": "REPORTED",
-   "url": "https://www.huxiu.com/article/4895902.html"
+   "url": "https://www.semafor.com/article/10/08/2026/ftc-advancing-on-its-ai-safety-probe"
   },
   {
-   "headline": "JPMorgan’s Dimon Says Anthropic’s Mythos AI Model Has Increased Cybersecurity Risk Tenfold",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
+   "headline": "Microsoft Copilot targeted by bundling complaints in Belgium",
+   "outlet": "Global Competition Review",
+   "outlet_name": "Global Competition Review",
    "label": "REPORTED",
-   "url": "https://www.tekedia.com/jpmorgans-dimon-says-anthropics-mythos-ai-model-has-increased-cybersecurity-risk-tenfold/"
+   "url": "https://globalcompetitionreview.com/article/microsoft-copilot-targeted-bundling-complaints-in-belgium"
   },
   {
-   "headline": "USA Today Sues OpenAI, Claiming It Unlawfully Used Reporting To Train And Operate Models",
-   "outlet": "Forbes",
-   "outlet_name": "Forbes",
+   "headline": "SpaceXAI Hit With Biometric Suit Over Images Uploaded to Grok",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRjF2WG9zTGRlUkhaYzM1YTdDd1JCa3BjVXZ6Y1hMQUt2dzVLSlVxZS1vb3dHV09wQ1FwR0hxb3o5MEtJaWgxNWtpRENNaWR6MGlhLUEyRzNmVDB5NkhkbDVQa1RnZmdsUG5xWTFFS09FSE9yU25qT2o4bGhQdjVsXzBFekp3MXZjeXhUcmRNR1RSQlI1WWdOQWg5UnRfVkRvaXBnU2N1M1lYdXJadGRWUmM3WTRXckl4Y0pWb0UtckoxYkVMR05KS184aVVMa1U?oc=5"
+   "url": "https://news.bloomberglaw.com/business-and-practice/spacexai-hit-with-biometric-suit-over-images-uploaded-to-grok"
+  },
+  {
+   "headline": "2026 Usage Policy update \\ Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/news/2026-usage-policy-update"
   },
   {
    "headline": "Google Cloud introduces the Gemini agent.",
@@ -102,20 +109,6 @@
    "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-at-work/"
   },
   {
-   "headline": "Building on our commitment to American scientific discovery \\ Anthropic",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/news/genesis-mission-commitment"
-  },
-  {
-   "headline": "FTC Returns More than $15.8 Million to Consumers Misled by Cash Advance App Company Cleo…",
-   "outlet": "ftc.gov",
-   "outlet_name": "ftc.gov",
-   "label": "CONFIRMED",
-   "url": "https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-returns-more-158-million-consumers-misled-cash-advance-app-company-cleo-ai"
-  },
-  {
    "headline": "Read Article Arena Alignment Index Today we are introducing the Arena Alignment Index…",
    "outlet": "lmarena.ai",
    "outlet_name": "lmarena.ai",
@@ -123,28 +116,35 @@
    "url": "https://lmarena.ai/blog/ai-alignment-index"
   },
   {
-   "headline": "AI startup Manus raises $500m after Meta acquisition blocked by China",
-   "outlet": "Agence France-Presse on MSN",
-   "outlet_name": "Agence France-Presse on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-gb/money/general/ai-startup-manus-raises-500m-after-meta-acquisition-blocked-by-china/ar-AA2dOeQn"
+   "headline": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+   "outlet": "openai.com",
+   "outlet_name": "openai.com",
+   "label": "REPORTED",
+   "url": "https://openai.com/index/oracle"
   },
   {
-   "headline": "Apps that run on your Claude or ChatGPT plan",
-   "outlet": "bringyourownsub.com",
-   "outlet_name": "bringyourownsub.com",
+   "headline": "AT&T + OpenAI Partner for Legal AI Workflows",
+   "outlet": "artificiallawyer.com",
+   "outlet_name": "artificiallawyer.com",
    "label": "REPORTED",
-   "url": "https://bringyourownsub.com/"
+   "url": "https://www.artificiallawyer.com/2026/10/08/att-openai-partner-for-legal-ai-workflows/"
+  },
+  {
+   "headline": "USA TODAY verklagt OpenAI wegen urheberrechtlich geschützter Nachrichteninhalte im…",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "REPORTED",
+   "url": "https://www.unite.ai/de/usa-today-sues-openai-over-copyrighted-news-content-in-ai-training/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 13500,
- "articles_24h_label": "about 14,000",
+ "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/17.mp3",
- "audio_seconds": 55.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/18.mp3",
+ "audio_seconds": 54.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by ExtremeTech: Nvidia RTX Spark Laptops Will Start at $2,600, Launch October 16.\nReported by Notebookcheck: Dell launches powerful new mini-PC with 128 GB RAM and Nvidia RTX Spark.\nReported by OpenAI: Pollo AI turns creative ideas into campaigns with OpenAI.\nReported by 虎嗅网: DeepSeek completes nearly 100 billion yuan in financing, led by Tencent and CATL, with plans for a 2027 IPO.\nReported by Tekedia: JPMorgan’s Dimon Says Anthropic’s Mythos AI Model Has Increased Cybersecurity Risk Tenfold.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nUSA Today is suing OpenAI over copyright concerns. Reported by The Verge: the publisher joins others taking legal action against the company.\nAnthropic has expanded rules against abusive behavior toward Claude. Confirmed by The Verge: the company is strengthening its misuse policies.\nIndia plans to release an AI regulation consultation paper next month. Confirmed by Exchange4Media: the effort will focus on safety and deepfakes.\nThe FTC is moving forward with its artificial intelligence safety investigation. Reported by Semafor: the agency is preparing its probe amid public disclosure.\nMicrosoft is facing bundling complaints over Copilot in Belgium. Reported by Global Competition Review: the country raised concerns about the productivity suite integration.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
