@@ -1,98 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T02:20:02Z",
- "hour": "2026-10-08T02:00:00Z",
+ "generated_at": "2026-10-08T03:20:02Z",
+ "hour": "2026-10-08T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Broadcom Seeks to Raise $30 Billion in Debt to Purchase OpenAI Custom AI Chips",
-   "outlet": "디지털데일리",
-   "outlet_name": "디지털데일리",
-   "url": "https://www.ddaily.co.kr/page/view/2026100809015320265",
+   "title": "Stepping up bets on AI layout, SpaceX plans to raise 40 billion USD to buy NVIDIA chips",
+   "outlet": "三立新聞",
+   "outlet_name": "三立新聞",
+   "url": "https://www.setn.com/news/1918597",
    "label": "CONFIRMED",
-   "summary_1line": "Broadcom explores $300B debt financing for OpenAI's custom AI chips.",
-   "published_at": "2026-10-08T00:02:02Z"
+   "summary_1line": "SpaceX seeks $400B for NVIDIA chips, with Apollo leading financing by 2027.",
+   "published_at": "2026-10-07T06:32:00Z"
   },
   {
-   "title": "Dell unveils XPS 16 Creator Edition with Nvidia RTX Spark",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/112069/dell-unveils-xps-16-creator-edition-with-nvidia-rtx-spark",
-   "label": "CONFIRMED",
-   "summary_1line": "Dell launches XPS 16 Creator Edition with RTX Spark for on-device AI workloads.",
-   "published_at": "2026-10-07T23:54:34Z"
-  },
-  {
-   "title": "OpenAI rolls out GPT-6 with visuals, interactive features and faster responses",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-rolls-out-gpt-6-with-visuals-interactive-features-and-faster-responses-10911660/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI rolls out GPT-6 with interactive UI to 1.2B weekly users.",
-   "published_at": "2026-10-07T18:43:00Z"
-  },
-  {
-   "title": "Lenovo launches AI Express with NVIDIA to support enterprise AI factory buildout",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/112145/lenovo-launches-ai-express-with-nvidia-to-support-enterprise-ai-factory-buildout",
+   "title": "NVIDIA RTX Spark & DGX Station launch on Windows",
+   "outlet": "HardwareZone Singapore",
+   "outlet_name": "HardwareZone Singapore",
+   "url": "https://www.hardwarezone.com.sg/pc/nvidia-rtx-spark-microsoft-ai-pc-dgx-station-announcement",
    "label": "REPORTED",
-   "summary_1line": "Lenovo launches AI Express with NVIDIA for scalable, tailored AI infrastructure in Asia-Pacific.",
-   "published_at": "2026-10-08T00:35:24Z"
+   "summary_1line": "NVIDIA launches RTX Spark laptops on 16 Oct and unveils DGX Station for Windows with trillion-parameter AI support.",
+   "published_at": "2026-10-07T21:37:02Z"
   },
   {
-   "title": "DeepSeek Reportedly Set to Raise Up to $15 Billion — With Tencent Among the Leading Backers",
-   "outlet": "Digital Music News",
-   "outlet_name": "Digital Music News",
-   "url": "https://www.digitalmusicnews.com/2026/10/07/deepseek-funding-tencent/",
+   "title": "Another major case of AI chip financing, Broadcom rumored to raise over 50 billion USD for OpenAI following Anthropic",
+   "outlet": "經濟日報",
+   "outlet_name": "經濟日報",
+   "url": "https://money.udn.com/money/story/5599/9801829",
    "label": "STILL OPEN",
-   "summary_1line": "DeepSeek reportedly raises $15B with Tencent, integrating AI into music platforms.",
-   "published_at": "2026-10-07T16:47:00Z"
+   "summary_1line": "Broadcom and others explore massive AI chip financing amid rising data center costs.",
+   "published_at": "2026-10-07T23:01:42Z"
+  },
+  {
+   "title": "DeepSeek doubles funding target to $15 billion ahead of 2027 IPO: Who has committed and where will the money go?",
+   "outlet": "Mint",
+   "outlet_name": "Mint",
+   "url": "https://www.livemint.com/ai/artificial-intelligence/deepseek-doubles-funding-target-to-15-billion-ahead-of-2027-ipo-who-has-committed-and-where-will-the-money-go-11791420388901.html",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek raises 100 billion yuan, targeting 2027 IPO with 160,000 Huawei AI accelerators.",
+   "published_at": "2026-10-07T18:20:00Z"
+  },
+  {
+   "title": "Did DeepSeek Raise Hundreds of Billions of Yuan in Financing Immediately After Liang Wenfeng Took Action?",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "url": "https://eu.36kr.com/en/p/4015344253210761",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek raised up to 1 trillion yuan in financing, sparking a market reaction after its R1 model outperformed rivals with low costs.",
+   "published_at": "2026-10-08T01:41:49Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Broadcom Seeks to Raise $30 Billion in Debt to Purchase OpenAI Custom AI Chips",
-   "outlet": "디지털데일리",
-   "outlet_name": "디지털데일리",
+   "headline": "Stepping up bets on AI layout, SpaceX plans to raise 40 billion USD to buy NVIDIA chips",
+   "outlet": "三立新聞",
+   "outlet_name": "三立新聞",
    "label": "CONFIRMED",
-   "url": "https://www.ddaily.co.kr/page/view/2026100809015320265"
+   "url": "https://www.setn.com/news/1918597"
   },
   {
-   "headline": "Dell unveils XPS 16 Creator Edition with Nvidia RTX Spark",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "label": "CONFIRMED",
-   "url": "https://www.digitaltoday.co.kr/en/view/112069/dell-unveils-xps-16-creator-edition-with-nvidia-rtx-spark"
-  },
-  {
-   "headline": "OpenAI rolls out GPT-6 with visuals, interactive features and faster responses",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
-   "label": "CONFIRMED",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-rolls-out-gpt-6-with-visuals-interactive-features-and-faster-responses-10911660/"
-  },
-  {
-   "headline": "Lenovo launches AI Express with NVIDIA to support enterprise AI factory buildout",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
+   "headline": "NVIDIA RTX Spark & DGX Station launch on Windows",
+   "outlet": "HardwareZone Singapore",
+   "outlet_name": "HardwareZone Singapore",
    "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/112145/lenovo-launches-ai-express-with-nvidia-to-support-enterprise-ai-factory-buildout"
+   "url": "https://www.hardwarezone.com.sg/pc/nvidia-rtx-spark-microsoft-ai-pc-dgx-station-announcement"
   },
   {
-   "headline": "DeepSeek Reportedly Set to Raise Up to $15 Billion — With Tencent Among the Leading…",
-   "outlet": "Digital Music News",
-   "outlet_name": "Digital Music News",
+   "headline": "Another major case of AI chip financing, Broadcom rumored to raise over 50 billion USD…",
+   "outlet": "經濟日報",
+   "outlet_name": "經濟日報",
    "label": "STILL OPEN",
-   "url": "https://www.digitalmusicnews.com/2026/10/07/deepseek-funding-tencent/"
+   "url": "https://money.udn.com/money/story/5599/9801829"
   },
   {
-   "headline": "Mobilint NPU mounted on Nuri rocket, \"First domestic AI semiconductor to enter space\"",
-   "outlet": "와우테일",
-   "outlet_name": "와우테일",
-   "label": "CONFIRMED",
-   "url": "https://wowtale.net/2026/10/08/265987/"
+   "headline": "DeepSeek doubles funding target to $15 billion ahead of 2027 IPO: Who has committed and…",
+   "outlet": "Mint",
+   "outlet_name": "Mint",
+   "label": "REPORTED",
+   "url": "https://www.livemint.com/ai/artificial-intelligence/deepseek-doubles-funding-target-to-15-billion-ahead-of-2027-ipo-who-has-committed-and-where-will-the-money-go-11791420388901.html"
+  },
+  {
+   "headline": "Did DeepSeek Raise Hundreds of Billions of Yuan in Financing Immediately After Liang…",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "label": "REPORTED",
+   "url": "https://eu.36kr.com/en/p/4015344253210761"
   },
   {
    "headline": "Multiple South Korean banks hacked with suspected AI involvement, Lee Jae-myung calls for…",
@@ -102,11 +95,11 @@
    "url": "https://news.sina.com.cn/w/2026-10-08/doc-iniunezt4068450.shtml"
   },
   {
-   "headline": "Jessica Tarlov Warns Elon Musk Will Play Massive Role in Midterm Misinformation: ‘Grok’s…",
-   "outlet": "TheWrap",
-   "outlet_name": "TheWrap",
+   "headline": "California’s AI Governance Vote Is a Market Signal — Not Just a Policy Move",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
    "label": "REPORTED",
-   "url": "https://www.thewrap.com/media-platforms/politics/jessica-tarlov-elon-musk-grok-midterm-election-misinformation/"
+   "url": "https://forkast.news/californias-ai-governance-vote-is-a-market-signal-not-just-a-policy-move/"
   },
   {
    "headline": "Samsung flags $80 billion profit on AI boom, highest quarterly for any tech company",
@@ -123,11 +116,18 @@
    "url": "https://www.tmtpost.com/8160689.html"
   },
   {
-   "headline": "Haiku 5.5 released, Anthropic starts scattering money",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
+   "headline": "New Claude model released! Benchmark destroys GPT-6 Luna, price is even cheaper than…",
+   "outlet": "qbitai.com",
+   "outlet_name": "qbitai.com",
    "label": "REPORTED",
-   "url": "https://www.tmtpost.com/8160574.html"
+   "url": "https://www.qbitai.com/2026/10/501832.html"
+  },
+  {
+   "headline": "Paid Morning Briefing: Microsoft releases Windows-related new products, two Google AI…",
+   "outlet": "sspai.com",
+   "outlet_name": "sspai.com",
+   "label": "STILL OPEN",
+   "url": "https://sspai.com/post/115455"
   },
   {
    "headline": "AI Developers Would Be Liable for Errant Agents Under Draft House Bill (Oct 7, 2026)",
@@ -137,14 +137,14 @@
    "url": "https://www.vitallaw.com/news/ai-developers-would-be-liable-for-errant-agents-under-draft-house-bill/cspd01d486aa5267614d2bb497b6dab3396ded"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 13600,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 13800,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/02.mp3",
- "audio_seconds": 51.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/03.mp3",
+ "audio_seconds": 57.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per 디지털데일리: Broadcom Seeks to Raise $30 Billion in Debt to Purchase OpenAI Custom AI Chips.\nConfirmed, per 디지털투데이: Dell unveils XPS 16 Creator Edition with Nvidia RTX Spark.\nConfirmed, per The Indian Express: OpenAI rolls out GPT-6 with visuals, interactive features and faster responses.\nReported by 디지털투데이: Lenovo launches AI Express with NVIDIA to support enterprise AI factory buildout.\nStill open, per Digital Music News: DeepSeek Reportedly Set to Raise Up to $15 Billion — With Tencent Among the Leading Backers.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed by 三立新聞: SpaceX plans to raise 40 billion USD to buy NVIDIA chips, with Apollo leading the financing by 2027.\nNVIDIA launches RTX Spark laptops on October 16 and unveils DGX Station for Windows, reported by HardwareZone Singapore, with trillion-parameter artificial intelligence support.\nStill open per 經濟日報: Broadcom is rumored to raise over 50 billion USD for OpenAI, following similar major chip financing deals.\nDeepSeek doubles its funding target to 15 billion dollars ahead of a 2027 IPO, reported by Mint, with 160,000 Huawei artificial intelligence accelerators planned.\nReported by 36Kr: DeepSeek raised up to 1 trillion yuan in financing after its R1 model outperformed rivals with low costs.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
