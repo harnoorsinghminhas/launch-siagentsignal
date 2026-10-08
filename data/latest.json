@@ -1,105 +1,70 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T05:20:02Z",
- "hour": "2026-10-08T05:00:00Z",
+ "generated_at": "2026-10-08T06:20:02Z",
+ "hour": "2026-10-08T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI rolls out GPT 6 for all users, introduces Intelligent UI for more interactive ChatGPT responses",
-   "outlet": "Digit",
-   "outlet_name": "Digit",
-   "url": "https://www.digit.in/news/general/openai-rolls-out-gpt-6-for-all-users-introduces-intelligent-ui-for-more-interactive-chatgpt-responses.html",
+   "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI rolls out GPT-6 with interactive UI to all ChatGPT users.",
-   "published_at": "2026-10-07T17:00:00Z"
+   "summary_1line": "ChatGPT for Teens shows limited teen use but fails to alert parents on self-harm, raising safety concerns.",
+   "published_at": "2026-10-07T20:21:58Z"
   },
   {
-   "title": "SpaceX rumored to plan 40 billion US dollar financing to massively purchase NVIDIA AI chips | FTV News",
-   "outlet": "LINE TODAY",
-   "outlet_name": "LINE TODAY",
-   "url": "https://today.line.me/tw/v3/article/aGploaW",
-   "label": "STILL OPEN",
-   "summary_1line": "SpaceX reportedly seeks $400B for Nvidia AI chips, with Apollo and PIMCO involved.",
-   "published_at": "2026-10-07T16:03:26Z"
-  },
-  {
-   "title": "Samsung flags US$80 billion profit on AI boom, highest quarterly for any tech company",
-   "outlet": "The Standard (HK)",
-   "outlet_name": "The Standard (HK)",
-   "url": "https://www.thestandard.com.hk/finance/article/344930/Samsung-flags-US80-billion-profit-on-AI-boom-highest-quarterly-for-any-tech-company",
+   "title": "Anthropic expands cybersecurity program for advanced AI testing",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
+   "url": "https://www.digitimes.com/news/a20261007PD250/anthropic-cybersecurity-testing-security-claude.html",
    "label": "CONFIRMED",
-   "summary_1line": "Samsung projects 107.4 trillion won profit in Q3, driven by AI chip demand and HBM growth.",
-   "published_at": "2026-10-08T02:27:37Z"
+   "summary_1line": "Anthropic expands AI cybersecurity testing to vetted teams with higher-end models.",
+   "published_at": "2026-10-08T03:45:00Z"
   },
   {
-   "title": "Chinese-speaking hacker possibly linked to AI-driven attacks on S. Korean banks: report",
-   "outlet": "Yonhap News Agency",
-   "outlet_name": "Yonhap News Agency",
-   "url": "https://en.yna.co.kr/view/AEN20261008002200320",
-   "label": "STILL OPEN",
-   "summary_1line": "Chinese-speaking hacker used AI tools to breach South Korean banks, seeking to sell stolen data.",
-   "published_at": "2026-10-08T00:46:33Z"
-  },
-  {
-   "title": "Anthropic expands AI model suite with low-cost, high-speed Haiku 5.5 launch",
-   "outlet": "Yahoo Finance Australia",
-   "outlet_name": "Yahoo Finance Australia",
-   "url": "https://au.finance.yahoo.com/news/anthropic-expands-ai-model-suite-203012523.html",
+   "title": "Elon Musk’s Grok sues Minnesota for right to keep ‘nudifying’ images",
+   "outlet": "Baptist News Global",
+   "outlet_name": "Baptist News Global",
+   "url": "https://baptistnews.com/article/elon-musks-grok-sues-minnesota-for-right-to-keep-nudifying-images/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic launches cheaper, faster Haiku 5.5 with 75% cost drop and 72.4% OSWorld score.",
-   "published_at": "2026-10-07T20:30:12Z"
+   "summary_1line": "xAI sues Minnesota over AI-generated nudification ban, claiming free speech violation.",
+   "published_at": "2026-10-08T04:04:15Z"
+  },
+  {
+   "title": "DeepMind spinout Isomorphic Labs in talks to raise funds at $40B–$50B valuation: report",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/seekingalpha:1742dba9d094b:0-deepmind-spinout-isomorphic-labs-in-talks-to-raise-funds-at-40b-50b-valuation-report/",
+   "label": "REPORTED",
+   "summary_1line": "Isomorphic Labs seeks $40B–$50B funding; $300M joint AI research investment with Meta, DeepMind and Biohub.",
+   "published_at": "2026-10-08T04:21:00Z"
+  },
+  {
+   "title": "AI: Nvidia’s Open Source ‘AI Factory’ Push vs China. AI-RTZ #1233 (Part 1)",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "url": "https://michaelparekh.substack.com/p/ai-nvidias-open-source-ai-factory",
+   "label": "REPORTED",
+   "summary_1line": "Reflection AI launches Beam, an open-source AI model designed for sovereign AI, backed by Nvidia and targeting enterprise use.",
+   "published_at": "2026-10-08T04:10:08Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI rolls out GPT 6 for all users, introduces Intelligent UI for more interactive…",
-   "outlet": "Digit",
-   "outlet_name": "Digit",
+   "headline": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
    "label": "CONFIRMED",
-   "url": "https://www.digit.in/news/general/openai-rolls-out-gpt-6-for-all-users-introduces-intelligent-ui-for-more-interactive-chatgpt-responses.html"
+   "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o"
   },
   {
-   "headline": "SpaceX rumored to plan 40 billion US dollar financing to massively purchase NVIDIA AI…",
-   "outlet": "LINE TODAY",
-   "outlet_name": "LINE TODAY",
-   "label": "STILL OPEN",
-   "url": "https://today.line.me/tw/v3/article/aGploaW"
-  },
-  {
-   "headline": "Samsung flags US$80 billion profit on AI boom, highest quarterly for any tech company",
-   "outlet": "The Standard (HK)",
-   "outlet_name": "The Standard (HK)",
+   "headline": "Anthropic expands cybersecurity program for advanced AI testing",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
    "label": "CONFIRMED",
-   "url": "https://www.thestandard.com.hk/finance/article/344930/Samsung-flags-US80-billion-profit-on-AI-boom-highest-quarterly-for-any-tech-company"
-  },
-  {
-   "headline": "Chinese-speaking hacker possibly linked to AI-driven attacks on S. Korean banks: report",
-   "outlet": "Yonhap News Agency",
-   "outlet_name": "Yonhap News Agency",
-   "label": "STILL OPEN",
-   "url": "https://en.yna.co.kr/view/AEN20261008002200320"
-  },
-  {
-   "headline": "Anthropic expands AI model suite with low-cost, high-speed Haiku 5.5 launch",
-   "outlet": "Yahoo Finance Australia",
-   "outlet_name": "Yahoo Finance Australia",
-   "label": "REPORTED",
-   "url": "https://au.finance.yahoo.com/news/anthropic-expands-ai-model-suite-203012523.html"
-  },
-  {
-   "headline": "MSI Unveils Prestige N16 Flip AI+: An NVIDIA RTX Spark",
-   "outlet": "Impulse Gamer",
-   "outlet_name": "Impulse Gamer",
-   "label": "REPORTED",
-   "url": "https://www.impulsegamer.com/msi-unveils-prestige-n16-flip-ai-an-nvidia-rtx-spark/"
-  },
-  {
-   "headline": "OpenAI used AI to help write email warning Australian government AI had hacked its…",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites"
+   "url": "https://www.digitimes.com/news/a20261007PD250/anthropic-cybersecurity-testing-security-claude.html"
   },
   {
    "headline": "Elon Musk’s Grok sues Minnesota for right to keep ‘nudifying’ images",
@@ -109,11 +74,53 @@
    "url": "https://baptistnews.com/article/elon-musks-grok-sues-minnesota-for-right-to-keep-nudifying-images/"
   },
   {
-   "headline": "The Permission High Wall Built by Apple Bypassed via \"Detour\" by Meta AI Assistant",
-   "outlet": "InfoQ-CN",
-   "outlet_name": "InfoQ-CN",
+   "headline": "DeepMind spinout Isomorphic Labs in talks to raise funds at $40B–$50B valuation: report",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "REPORTED",
-   "url": "https://www.infoq.cn/article/s2Rt9t0yqUFk6VYV33Mh"
+   "url": "https://www.tradingview.com/news/seekingalpha:1742dba9d094b:0-deepmind-spinout-isomorphic-labs-in-talks-to-raise-funds-at-40b-50b-valuation-report/"
+  },
+  {
+   "headline": "AI: Nvidia’s Open Source ‘AI Factory’ Push vs China. AI-RTZ #1233 (Part 1)",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "label": "REPORTED",
+   "url": "https://michaelparekh.substack.com/p/ai-nvidias-open-source-ai-factory"
+  },
+  {
+   "headline": "Microsoft and NVIDIA Launch Surface Laptop Ultra with RTX Spark Chip, Introduce AI…",
+   "outlet": "KuCoin",
+   "outlet_name": "KuCoin",
+   "label": "REPORTED",
+   "url": "https://www.kucoin.com/news/flash/microsoft-and-nvidia-launch-surface-laptop-ultra-with-rtx-spark-chip-introduce-ai-assistant-scout"
+  },
+  {
+   "headline": "Australiens KI-Anhörung: Anthropic schlägt robots.txt-Sperre für Werke vor",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "label": "REPORTED",
+   "url": "https://borncity.com/news/australiens-ki-anhoerung-anthropic-schlaegt-robots-txt-sperre-fuer-werke-vor/"
+  },
+  {
+   "headline": "The eve of DeepSeek's 100 billion yuan financing agreement: Money is not the problem…",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
+   "label": "REPORTED",
+   "url": "https://www.21jingji.com/article/20261008/herald/e524fe8e37e85be32fcc5c2418c8cde5.html"
+  },
+  {
+   "headline": "Claude Code developer says detailed prompting is unnecessary",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "label": "REPORTED",
+   "url": "https://www.digitaltoday.co.kr/en/view/112381/claude-code-developer-says-detailed-prompting-is-unnecessary"
+  },
+  {
+   "headline": "AI Regulation and Intellectual Property in Anesthesiology",
+   "outlet": "Anesthesiology News",
+   "outlet_name": "Anesthesiology News",
+   "label": "REPORTED",
+   "url": "https://www.anesthesiologynews.com/Technology/Article/10-26/AI-Regulation-and-Intellectual-Property-in-Anesthesiology/81756"
   },
   {
    "headline": "Watchdogs slam OpenAI’s claim that teens use ChatGPT less than 15 minutes per day",
@@ -123,28 +130,21 @@
    "url": "https://www.msn.com/en-us/technology/artificial-intelligence/watchdogs-slam-openai-s-claim-that-teens-use-chatgpt-less-than-15-minutes-per-day/ar-AA2dMdUv"
   },
   {
-   "headline": "4,000 prompt tests fail, ChatGPT Teen version misses over 1/4 of crisis referrals",
+   "headline": "ChatGPT adds \"Smart Interface\", interactive charts and buttons directly usable",
    "outlet": "technews.tw",
    "outlet_name": "technews.tw",
-   "label": "CONFIRMED",
-   "url": "https://technews.tw/2026/10/08/openais-chatgpt-for-teens-poses-unacceptable-risk/"
-  },
-  {
-   "headline": "Anthropic has released Claude Haiku 5.5 October 7, 2026",
-   "outlet": "artificialanalysis.ai",
-   "outlet_name": "artificialanalysis.ai",
    "label": "REPORTED",
-   "url": "https://artificialanalysis.ai/articles/claude-haiku-5-5"
+   "url": "https://technews.tw/2026/10/08/gpt-6-powers-a-new-intelligent-ui-in-chatgpt/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 13800,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/05.mp3",
- "audio_seconds": 55.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/06.mp3",
+ "audio_seconds": 53.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Digit: OpenAI rolls out GPT 6 for all users, introduces Intelligent UI for more interactive ChatGPT responses.\nStill open, per LINE TODAY: SpaceX rumored to plan 40 billion US dollar financing to massively purchase NVIDIA AI chips | FTV News.\nConfirmed, per The Standard (HK): Samsung flags US$80 billion profit on AI boom, highest quarterly for any tech company.\nStill open, per Yonhap News Agency: Chinese-speaking hacker possibly linked to AI-driven attacks on S. Korean banks: report.\nReported by Yahoo Finance Australia: Anthropic expands AI model suite with low-cost, high-speed Haiku 5.5 launch.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BBC: OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'.\nConfirmed, per digitimes: Anthropic expands cybersecurity program for advanced AI testing.\nReported by Baptist News Global: Elon Musk’s Grok sues Minnesota for right to keep ‘nudifying’ images.\nReported by TradingView: DeepMind spinout Isomorphic Labs in talks to raise funds at $40B–$50B valuation: report.\nReported by AI: Reset to Zero: AI: Nvidia’s Open Source ‘AI Factory’ Push vs China. AI-RTZ #1233 (Part 1).\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
