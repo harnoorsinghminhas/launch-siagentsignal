@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T15:20:01Z",
- "hour": "2026-10-09T15:00:00Z",
+ "generated_at": "2026-10-09T16:20:01Z",
+ "hour": "2026-10-09T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Litigating Damages Done By AI Agents Exposes Gaps In Criminal Law",
-   "outlet": "Legis1",
-   "outlet_name": "Legis1",
-   "url": "https://legis1.com/news/ai-agent-liability-harms-expose-gap-in-federal",
-   "label": "REPORTED",
-   "summary_1line": "CRS report urges new laws to hold humans accountable for AI agent harms without operator intent.",
-   "published_at": "2026-10-09T13:55:38Z"
+   "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
+   "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic launches AI-powered OSS Scanner with 29K vulnerability scans and 584 advisories.",
+   "published_at": "2026-10-09T05:47:00Z"
   },
   {
-   "title": "AI systems could come under UK product liability law, expert body proposes",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "url": "https://www.mlex.com/mlex/articles/2536139/ai-systems-could-come-under-uk-product-liability-law-expert-body-proposes",
-   "label": "REPORTED",
-   "summary_1line": "UK proposes AI systems under product liability law for defective AI harms.",
-   "published_at": "2026-10-09T12:27:45Z"
+   "title": "Being mean to AI could get you banned as Anthropic introduces new rules against abusing Claude",
+   "outlet": "TechSpot",
+   "outlet_name": "TechSpot",
+   "url": "https://www.techspot.com/news/114153-mean-ai-could-get-you-banned-anthropic-introduces.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic bans abusive behavior toward Claude, updates policy for November 12.",
+   "published_at": "2026-10-09T03:16:00Z"
   },
   {
-   "title": "Gemini Flash-Lite for free users; effort can ‘use more of your limit’",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/gemini-flash-lite-free-users-nano-banana-2-1",
-   "label": "REPORTED",
-   "summary_1line": "Free Gemini users lose two models; AI Plus loses Pro; AI Ultra keeps all.",
-   "published_at": "2026-10-09T12:20:26Z"
-  },
-  {
-   "title": "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "url": "https://thenewstack.io/decision-models-system-one/",
-   "label": "REPORTED",
-   "summary_1line": "AWS, Upstage, Ollama adopt System One API; OpenAI offers limited Decisions API with no published schema.",
-   "published_at": "2026-10-09T12:03:50Z"
-  },
-  {
-   "title": "Anthropic launches Claude Dashboards and Motion for data visualisation",
-   "outlet": "Tech Edition",
-   "outlet_name": "Tech Edition",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXlJcldDQUp3TGJLTzJLVS1RM0VsbFUyWmd6NlVvLTFtM18zT2p6U1BTeVg0YWxteUQyUG56cXJscG02TldMYkYzbGsycDd0LXhVTEh1VlA5QlJVM0tYYmQ3Q2JVZ0NmWEI5ZTBBMXhHbHpQdmgydF9oUF8xMGxoRmVWUmNPdDNLdk1wemFfNHRlUHg3X1lfc2J3?oc=5",
+   "title": "OpenAI Leads Global AI Acquisition Spree: 195 Verified AI Mergers & Acquisitions Unveiled, Top Single Deal Hits $11 Billion Valuation",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1bnpycUNDRUx3bjdXd1FnVUhuWTFxWWhuQmdQY3NDNmd3bFdzOHE5bGxxblpuZ2cyaVp0ZUNVZk1YUlVXbHZVcXc4WVlaMVFueE9n?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-09T14:40:56Z"
+   "published_at": "2026-10-09T15:54:34Z"
+  },
+  {
+   "title": "The AI election: Wall Street braces for midterms amid mounting opposition to data centers",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/09/the-ai-election-wall-street-braces-for-midterms-impact-on-data-centers.html",
+   "label": "CONFIRMED",
+   "summary_1line": "AI policy faces political and market tension ahead of 2026 midterms.",
+   "published_at": "2026-10-09T15:00:22Z"
+  },
+  {
+   "title": "USA Today network, including Courier Journal, sue OpenAI",
+   "outlet": "WKU Public Radio",
+   "outlet_name": "WKU Public Radio",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmZiT09vZTByNWRNR0dyNWFKQmtwNEd0bUFOSHpkdlNYc1dDZjU4YUM3NTQ3emwyNThCTHBFYy12MndodjVUV19CZExBa0hYc2hwN3lzcVBNYnh1R2JtbVhjam9fbVBwVy15enQ5ejlXWThKbW41RHRIcy01MjFlM2gtbGhpOEFiVktfMC1YMVVGZw?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-09T15:35:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Litigating Damages Done By AI Agents Exposes Gaps In Criminal Law",
-   "outlet": "Legis1",
-   "outlet_name": "Legis1",
-   "label": "REPORTED",
-   "url": "https://legis1.com/news/ai-agent-liability-harms-expose-gap-in-federal"
+   "headline": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
+   "label": "CONFIRMED",
+   "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html"
   },
   {
-   "headline": "AI systems could come under UK product liability law, expert body proposes",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "label": "REPORTED",
-   "url": "https://www.mlex.com/mlex/articles/2536139/ai-systems-could-come-under-uk-product-liability-law-expert-body-proposes"
+   "headline": "Being mean to AI could get you banned as Anthropic introduces new rules against abusing…",
+   "outlet": "TechSpot",
+   "outlet_name": "TechSpot",
+   "label": "CONFIRMED",
+   "url": "https://www.techspot.com/news/114153-mean-ai-could-get-you-banned-anthropic-introduces.html"
   },
   {
-   "headline": "Gemini Flash-Lite for free users; effort can ‘use more of your limit’",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
+   "headline": "OpenAI Leads Global AI Acquisition Spree: 195 Verified AI Mergers & Acquisitions…",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
    "label": "REPORTED",
-   "url": "https://thenextweb.com/news/gemini-flash-lite-free-users-nano-banana-2-1"
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1bnpycUNDRUx3bjdXd1FnVUhuWTFxWWhuQmdQY3NDNmd3bFdzOHE5bGxxblpuZ2cyaVp0ZUNVZk1YUlVXbHZVcXc4WVlaMVFueE9n?oc=5"
   },
   {
-   "headline": "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "label": "REPORTED",
-   "url": "https://thenewstack.io/decision-models-system-one/"
+   "headline": "The AI election: Wall Street braces for midterms amid mounting opposition to data centers",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/09/the-ai-election-wall-street-braces-for-midterms-impact-on-data-centers.html"
   },
   {
-   "headline": "Anthropic launches Claude Dashboards and Motion for data visualisation",
-   "outlet": "Tech Edition",
-   "outlet_name": "Tech Edition",
+   "headline": "USA Today network, including Courier Journal, sue OpenAI",
+   "outlet": "WKU Public Radio",
+   "outlet_name": "WKU Public Radio",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXlJcldDQUp3TGJLTzJLVS1RM0VsbFUyWmd6NlVvLTFtM18zT2p6U1BTeVg0YWxteUQyUG56cXJscG02TldMYkYzbGsycDd0LXhVTEh1VlA5QlJVM0tYYmQ3Q2JVZ0NmWEI5ZTBBMXhHbHpQdmgydF9oUF8xMGxoRmVWUmNPdDNLdk1wemFfNHRlUHg3X1lfc2J3?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmZiT09vZTByNWRNR0dyNWFKQmtwNEd0bUFOSHpkdlNYc1dDZjU4YUM3NTQ3emwyNThCTHBFYy12MndodjVUV19CZExBa0hYc2hwN3lzcVBNYnh1R2JtbVhjam9fbVBwVy15enQ5ejlXWThKbW41RHRIcy01MjFlM2gtbGhpOEFiVktfMC1YMVVGZw?oc=5"
+  },
+  {
+   "headline": "Anthropic will ban sustained, needless abuse of Claude",
+   "outlet": "The Rundown AI",
+   "outlet_name": "The Rundown AI",
+   "label": "REPORTED",
+   "url": "https://www.therundown.ai/news/anthropic-claude-abuse-rule-ai-welfare"
   },
   {
    "headline": "Anthropic Usage Policy to prohibit \"abusive or cruel behavior\" toward Claude",
@@ -102,18 +109,25 @@
    "url": "https://www.rte.ie/news/2026/1009/1594692-cybersecurity-attacks-ai/"
   },
   {
-   "headline": "China AI developers publish safety tests for just 3.6% of model releases, report finds",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/china-ai-developers-publish-safety-tests-for-just-36-of-model-releases-report-finds/ar-AA2dTRSg"
-  },
-  {
-   "headline": "AI Bubble Teetering on the Brink as OpenAI Admits to Massive Financial Failure",
+   "headline": "Mathematicians React With Fury as OpenAI Releases Hundreds of New AI-Generated Proofs",
    "outlet": "futurism.com",
    "outlet_name": "futurism.com",
-   "label": "STILL OPEN",
-   "url": "https://futurism.com/future-society/ai-financial-bubble-openai-billions-failure"
+   "label": "REPORTED",
+   "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-furious"
+  },
+  {
+   "headline": "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite",
+   "outlet": "infoq.com",
+   "outlet_name": "infoq.com",
+   "label": "REPORTED",
+   "url": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
+  },
+  {
+   "headline": "Anthropic-linked $366m data center project filed for in Cedar Creek, Texas",
+   "outlet": "datacenterdynamics.com",
+   "outlet_name": "datacenterdynamics.com",
+   "label": "REPORTED",
+   "url": "https://www.datacenterdynamics.com/en/news/anthropic-linked-366m-data-center-project-filed-for-in-cedar-creek-texas/"
   },
   {
    "headline": "Your Claude Code Bill Demystified: It’s Not the Model, It’s the Context",
@@ -121,30 +135,16 @@
    "outlet_name": "levelup.gitconnected.com",
    "label": "REPORTED",
    "url": "https://levelup.gitconnected.com/your-claude-code-bill-demystified-its-not-the-model-it-s-the-context-f4ecaab5317f?source=rss------artificial_intelligence-5"
-  },
-  {
-   "headline": "Who is Rohit Prasad? The Indian-origin former Amazon AI executive now leading humanoid…",
-   "outlet": "Hindustan Times on MSN",
-   "outlet_name": "Hindustan Times on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/who-is-rohit-prasad-the-indian-origin-former-amazon-ai-executive-now-leading-humanoid-robot-maker-boston-dynamics/ar-AA2dTzUC"
-  },
-  {
-   "headline": "Claude Dashboards: The Jupyter Notebooks of Agent Age",
-   "outlet": "ssp.sh",
-   "outlet_name": "ssp.sh",
-   "label": "REPORTED",
-   "url": "https://www.ssp.sh/brain/claude-dashboards/"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13000,
+ "articles_24h_rounded": 13100,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/15.mp3",
- "audio_seconds": 47.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/16.mp3",
+ "audio_seconds": 64.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Legis1: Litigating Damages Done By AI Agents Exposes Gaps In Criminal Law.\nReported by MLex: AI systems could come under UK product liability law, expert body proposes.\nReported by The Next Web: Gemini Flash-Lite for free users; effort can ‘use more of your limit’.\nReported by The New Stack: AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.\nReported by Tech Edition: Anthropic launches Claude Dashboards and Motion for data visualisation.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic launches an open-source vulnerability scanner powered by artificial intelligence, processing 29K scans and identifying 584 advisories. Confirmed by The Hacker News.\nAnthropic updates its policies to ban abusive behavior toward Claude, with new rules taking effect November 12. Confirmed by TechSpot.\nOpenAI leads a global acquisition wave with 195 verified artificial intelligence mergers and acquisitions, including a single deal valued at 11 billion dollars. Reported by 36Kr.\nArtificial intelligence policy faces mounting political and market tension as Wall Street prepares for the 2026 midterms. Confirmed by CNBC.\nUSA Today network outlets, including the Courier Journal, sue OpenAI. Reported by WKU Public Radio.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
