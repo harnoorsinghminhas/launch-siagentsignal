@@ -1,98 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T06:20:04Z",
- "hour": "2026-10-09T06:00:00Z",
+ "generated_at": "2026-10-09T07:20:03Z",
+ "hour": "2026-10-09T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google Cloud introduces Gemini AI agent for enterprise workflows",
-   "outlet": "Tech Wire Asia",
-   "outlet_name": "Tech Wire Asia",
-   "url": "https://techwireasia.com/2026/10/google-gemini-ai-agent-enterprise-workflows/",
+   "title": "OpenAI says it has fired three researchers for violating sensitive information policy",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkJyLTlxV1UzUFZzYVFBejJ0S2NsTVoxb1JRZVdTTHhYaHI5eGQ3MHRaanlOQzBsU0RUXzcwUV9FTHZnUmNGUjRjV1pwTUhHNnVKektQcVFGTHR4YWFZSnNQZjEwcG01dEVBUk1xM285ZDYyQnU0cjRFQXNSLXZzQjZjOHJZVGxibTAzcVdxcmg2cnJNUGd3YVU4NXdCX1ExZzVrbGN4c0NGTnRXUU9YUG9KUHFCRTRqek9Z?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Google's Gemini AI agent automates enterprise tasks across apps and platforms.",
-   "published_at": "2026-10-09T04:04:47Z"
+   "summary_1line": null,
+   "published_at": "2026-10-09T06:30:00Z"
   },
   {
-   "title": "Insiders say DeepSeek new round of financing exceeds 80 billion yuan, Moonshot AI valuation around 50 billion dollars",
-   "outlet": "茉莉花新闻网",
-   "outlet_name": "茉莉花新闻网",
-   "url": "https://molihua.org/zonghe-437/",
+   "title": "Anthropic Launches Presidential Engagement Program for 2028 Elections, Hiring Lead at $295K-$345K",
+   "outlet": "AI Weekly",
+   "outlet_name": "AI Weekly",
+   "url": "https://aiweekly.co/alerts/anthropic-launches-presidential-engagement-program-for-2028-elections-hiring",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic hires political lead for 2028 election engagement at $295K–$345K.",
+   "published_at": "2026-10-09T05:01:48Z"
+  },
+  {
+   "title": "Google Gemini 4 Argon: Early Access Launched for Select Users, Public Release Slated for Today",
+   "outlet": "36 Kr",
+   "outlet_name": "36 Kr",
+   "url": "https://eu.36kr.com/en/p/4018114874609798",
    "label": "STILL OPEN",
-   "summary_1line": "DeepSeek's funding target exceeds 800 billion RMB, Moonshot valued at 500 billion USD, both aiming for 2027 listings.",
-   "published_at": "2026-10-08T22:50:12Z"
+   "summary_1line": "Google's Gemini 4 Argon appears in public tools and submits real code, sparking speculation of imminent release.",
+   "published_at": "2026-10-09T05:33:54Z"
   },
   {
-   "title": "ChatGPT for Teens an ‘unacceptable risk’ to young users: What a new report says",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
-   "url": "https://indianexpress.com/article/explained/explained-ai/chatgpt-for-teens-safety-report-common-sense-media-10912975/",
+   "title": "Cause of DeepSeek acting up found, ByteDance Seed team paper reveals phase sensitivity",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "url": "https://finance.sina.com.cn/jjxw/2026-10-09/doc-iniuqywm6973590.shtml",
    "label": "CONFIRMED",
-   "summary_1line": "ChatGPT for Teens fails age detection and crisis alerts in new test, raising safety concerns.",
-   "published_at": "2026-10-08T19:40:00Z"
+   "summary_1line": "DeepSeek's 'drawdown' explained by phase sensitivity in long-text processing.",
+   "published_at": "2026-10-09T04:04:00Z"
   },
   {
-   "title": "SA calls for global treaty to regulate military AI and autonomous weapons",
-   "outlet": "The Citizen",
-   "outlet_name": "The Citizen",
-   "url": "https://www.citizen.co.za/lifestyle/technology/sa-calls-global-treaty-regulate-military-ai-and-autonomous-weapons/",
-   "label": "REPORTED",
-   "summary_1line": "South Africa urges global AI military rules to ensure human oversight and peace.",
-   "published_at": "2026-10-09T04:13:11Z"
-  },
-  {
-   "title": "Nobel-winning AI scientist John Jumper said he was leaving Google DeepMind for Anthropic, drawing praise from Google AI chief Demis Hassabis",
-   "outlet": "Hindustan Times",
-   "outlet_name": "Hindustan Times",
-   "url": "https://www.hindustantimes.com/world-news/us-news/nobelwinning-ai-scientist-john-jumper-said-he-was-leaving-google-deepmind-for-anthropic-drawing-praise-from-google-ai-chief-demis-hassabis-101791450539598.html",
-   "label": "REPORTED",
-   "summary_1line": "Nobel-winning AI scientist John Jumper leaves Google for Anthropic, amid AI talent race.",
-   "published_at": "2026-10-09T04:11:00Z"
+   "title": "'Something truly catastrophic will happen': Former OpenAI researchers sound the alarm, claim they were fired for prioritising AI safety",
+   "outlet": "WION",
+   "outlet_name": "WION",
+   "url": "https://www.wionews.com/world/something-truly-catastrophic-will-happen-former-openai-employees-sound-the-alarm-claim-they-were-fired-for-prioritising-ai-safety-1791511799924",
+   "label": "CONFIRMED",
+   "summary_1line": "Three OpenAI researchers accuse company of firing them over AI safety concerns, citing chilling effect on internal culture.",
+   "published_at": "2026-10-09T02:14:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google Cloud introduces Gemini AI agent for enterprise workflows",
-   "outlet": "Tech Wire Asia",
-   "outlet_name": "Tech Wire Asia",
+   "headline": "OpenAI says it has fired three researchers for violating sensitive information policy",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://techwireasia.com/2026/10/google-gemini-ai-agent-enterprise-workflows/"
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkJyLTlxV1UzUFZzYVFBejJ0S2NsTVoxb1JRZVdTTHhYaHI5eGQ3MHRaanlOQzBsU0RUXzcwUV9FTHZnUmNGUjRjV1pwTUhHNnVKektQcVFGTHR4YWFZSnNQZjEwcG01dEVBUk1xM285ZDYyQnU0cjRFQXNSLXZzQjZjOHJZVGxibTAzcVdxcmg2cnJNUGd3YVU4NXdCX1ExZzVrbGN4c0NGTnRXUU9YUG9KUHFCRTRqek9Z?oc=5"
   },
   {
-   "headline": "Insiders say DeepSeek new round of financing exceeds 80 billion yuan, Moonshot AI…",
-   "outlet": "茉莉花新闻网",
-   "outlet_name": "茉莉花新闻网",
+   "headline": "Anthropic Launches Presidential Engagement Program for 2028 Elections, Hiring Lead at…",
+   "outlet": "AI Weekly",
+   "outlet_name": "AI Weekly",
+   "label": "REPORTED",
+   "url": "https://aiweekly.co/alerts/anthropic-launches-presidential-engagement-program-for-2028-elections-hiring"
+  },
+  {
+   "headline": "Google Gemini 4 Argon: Early Access Launched for Select Users, Public Release Slated for…",
+   "outlet": "36 Kr",
+   "outlet_name": "36 Kr",
    "label": "STILL OPEN",
-   "url": "https://molihua.org/zonghe-437/"
-  },
-  {
-   "headline": "ChatGPT for Teens an ‘unacceptable risk’ to young users: What a new report says",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
-   "label": "CONFIRMED",
-   "url": "https://indianexpress.com/article/explained/explained-ai/chatgpt-for-teens-safety-report-common-sense-media-10912975/"
-  },
-  {
-   "headline": "SA calls for global treaty to regulate military AI and autonomous weapons",
-   "outlet": "The Citizen",
-   "outlet_name": "The Citizen",
-   "label": "REPORTED",
-   "url": "https://www.citizen.co.za/lifestyle/technology/sa-calls-global-treaty-regulate-military-ai-and-autonomous-weapons/"
-  },
-  {
-   "headline": "Nobel-winning AI scientist John Jumper said he was leaving Google DeepMind for Anthropic…",
-   "outlet": "Hindustan Times",
-   "outlet_name": "Hindustan Times",
-   "label": "REPORTED",
-   "url": "https://www.hindustantimes.com/world-news/us-news/nobelwinning-ai-scientist-john-jumper-said-he-was-leaving-google-deepmind-for-anthropic-drawing-praise-from-google-ai-chief-demis-hassabis-101791450539598.html"
+   "url": "https://eu.36kr.com/en/p/4018114874609798"
   },
   {
    "headline": "Cause of DeepSeek acting up found, ByteDance Seed team paper reveals phase sensitivity",
    "outlet": "新浪财经",
    "outlet_name": "新浪财经",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://finance.sina.com.cn/jjxw/2026-10-09/doc-iniuqywm6973590.shtml"
+  },
+  {
+   "headline": "'Something truly catastrophic will happen': Former OpenAI researchers sound the alarm…",
+   "outlet": "WION",
+   "outlet_name": "WION",
+   "label": "CONFIRMED",
+   "url": "https://www.wionews.com/world/something-truly-catastrophic-will-happen-former-openai-employees-sound-the-alarm-claim-they-were-fired-for-prioritising-ai-safety-1791511799924"
+  },
+  {
+   "headline": "Anthropic bans sustained 'abusive or cruel behavior' toward Claude in new usage policy",
+   "outlet": "Dealroom",
+   "outlet_name": "Dealroom",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcHhsdHBxX1pBblN2RXRMaDUxc1RrQVhEZEVfTWlPZUdyMnZPdDdHTXR4RTdIenU2Nlp2dkd4cmxuLXRsb2NJbmlxRmdxekR4dUQ4SzJjeXNqUHBkTzUtM2hoYnBQWGlRQ3ZVQUVRSlBVQzNkUEFaXzVUNnJDN2RIeE5SMFlyVXMxX0ZmRzdTeHhDcG9PM29zMGVyNWx3QV9Mbld5Wnk3bUJmWkFPWkZnSm1uMmhsWEpYaHc?oc=5"
   },
   {
    "headline": "Grok Bots Will Now Run Grokipedia — What That Means",
@@ -100,13 +100,6 @@
    "outlet_name": "BASENOR",
    "label": "REPORTED",
    "url": "https://www.basenor.com/blogs/news/grok-bots-will-now-run-grokipedia-what-that-means"
-  },
-  {
-   "headline": "Why ChatGPT ads won’t likely impact holiday sales in a major way this year",
-   "outlet": "Modern Retail",
-   "outlet_name": "Modern Retail",
-   "label": "REPORTED",
-   "url": "https://www.modernretail.co/marketing/why-chatgpt-ads-wont-likely-impact-holiday-sales-in-a-major-way-this-year/"
   },
   {
    "headline": "Anthropic launches new cyber defense initiative \"Cyber Mission\" including free…",
@@ -123,28 +116,35 @@
    "url": "https://www.msn.com/en-us/news/other/surface-laptop-ultra-local-copilot-ai-and-more-everything-announced-at-microsofts-fall-event/ar-AA2dIV7d"
   },
   {
-   "headline": "Fired Open AI safety researchers say they were pushed out over ‘suspicious’ circumstances",
-   "outlet": "CNN on MSN",
-   "outlet_name": "CNN on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/general/fired-open-ai-safety-researchers-say-they-were-pushed-out-over-suspicious-circumstances/ar-AA2dRlCV"
+   "headline": "Mistral unveils ML4 and claims it can rival closed AI models",
+   "outlet": "mezha.net",
+   "outlet_name": "mezha.net",
+   "label": "STILL OPEN",
+   "url": "https://mezha.net/eng/news/40f4ccc6_mistral_unveils_ml4/"
   },
   {
-   "headline": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
+   "headline": "OpenAI faces fresh copyright lawsuit, accused of using news stories to train ChatGPT",
+   "outlet": "Times Now on MSN",
+   "outlet_name": "Times Now on MSN",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261009/p1#a261009p1"
+   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/openai-faces-fresh-copyright-lawsuit-accused-of-using-news-stories-to-train-chatgpt/ar-AA2dS3xP"
+  },
+  {
+   "headline": "Anthropic is cracking down on people who bully Claude",
+   "outlet": "androidauthority.com",
+   "outlet_name": "androidauthority.com",
+   "label": "REPORTED",
+   "url": "https://www.androidauthority.com/anthropic-claude-abuse-policy-3721062/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 13300,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 13200,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/06.mp3",
- "audio_seconds": 61.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/07.mp3",
+ "audio_seconds": 64.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle Cloud introduces Gemini AI agent for enterprise workflows. Reported by Tech Wire Asia: Google's Gemini agent automates enterprise tasks across apps and platforms.\nDeepSeek's funding target exceeds 800 billion RMB, while Moonshot valued at 500 billion dollars. Still open, per 茉莉花新闻网: both companies aim for 2027 listings.\nChatGPT for Teens fails age detection and crisis alerts in new testing. Confirmed by The Indian Express: the app raises safety concerns for young users.\nSouth Africa urges global rules to regulate military artificial intelligence and autonomous weapons. Reported by The Citizen: the country calls for human oversight and peace.\nNobel-winning scientist John Jumper leaves Google for Anthropic amid the talent race. Reported by Hindustan Times: Google DeepMind chief Demis Hassabis praised the move.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Reuters: OpenAI says it has fired three researchers for violating sensitive information policy.\nReported by AI Weekly: Anthropic Launches Presidential Engagement Program for 2028 Elections, Hiring Lead at $295K-$345K.\nStill open, per 36 Kr: Google Gemini 4 Argon: Early Access Launched for Select Users, Public Release Slated for Today.\nConfirmed, per 新浪财经: Cause of DeepSeek acting up found, ByteDance Seed team paper reveals phase sensitivity.\nConfirmed, per WION: 'Something truly catastrophic will happen': Former OpenAI researchers sound the alarm, claim they were fired for prioritising AI safety.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
