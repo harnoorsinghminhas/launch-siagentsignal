@@ -1,91 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T00:20:02Z",
- "hour": "2026-10-09T00:00:00Z",
+ "generated_at": "2026-10-09T01:20:02Z",
+ "hour": "2026-10-09T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "3 fired OpenAI researchers release letter saying their axing will leave ‘chilling’ effects on company culture",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/openai-researchers-fired-release-letter-company-culture-2026-10",
-   "label": "REPORTED",
-   "summary_1line": "Three OpenAI researchers say they were fired for speaking with third-party safety groups.",
-   "published_at": "2026-10-08T22:38:56Z"
-  },
-  {
-   "title": "Anthropic launches Cyber Mission to defend power grids and open-source code",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/anthropic-cyber-mission-critical-infrastructure/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic launches cyber mission to defend power grids and open-source code with AI tools and $100M credits.",
-   "published_at": "2026-10-08T14:42:00Z"
-  },
-  {
-   "title": "Anthropic is launching a ‘presidential engagement’ effort to advise candidates on AI policy ahead of the 2028 election",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-08T23:14:52Z"
-  },
-  {
-   "title": "Microsoft Unveils $2,600 Surface Laptop Ultra As Nvidia-Powered AI Pcs Target Developers",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "url": "https://www.tekedia.com/microsoft-unveils-2600-surface-laptop-ultra-as-nvidia-powered-ai-pcs-target-developers/",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft launches AI-powered Surface PCs for local AI workloads and developers.",
-   "published_at": "2026-10-08T17:06:46Z"
-  },
-  {
-   "title": "Gemini Agent Unifies Workflows, Cuts Costs",
-   "outlet": "Blockchain News",
-   "outlet_name": "Blockchain News",
-   "url": "https://blockchain.news/ainews/gemini-agent-unifies-workflows-cuts-costs",
+   "title": "Anthropic Bans AI Model Abuse, Tightens Rules on Deception",
+   "outlet": "DataBreachToday",
+   "outlet_name": "DataBreachToday",
+   "url": "https://www.databreachtoday.com/anthropic-bans-ai-model-abuse-tightens-rules-on-deception-a-33048",
    "label": "CONFIRMED",
-   "summary_1line": "Google's Gemini agent unifies AI tasks for enterprises with persistent memory and multi-agent orchestration.",
-   "published_at": "2026-10-08T03:05:00Z"
+   "summary_1line": "Anthropic bans deceptive AI use and surveillance, clarifying ethical boundaries for Claude models.",
+   "published_at": "2026-10-07T17:00:00Z"
+  },
+  {
+   "title": "Chula Vista adopts AI policy barring predictive policing, biometric surveillance without council OK",
+   "outlet": "San Diego Union-Tribune",
+   "outlet_name": "San Diego Union-Tribune",
+   "url": "https://www.sandiegouniontribune.com/2026/10/08/chula-vista-adopts-ai-policy-barring-predictive-policing-biometric-surveillance-without-council-ok/",
+   "label": "CONFIRMED",
+   "summary_1line": "Chula Vista adopts AI policy banning surveillance, requiring human oversight and bi-annual reviews.",
+   "published_at": "2026-10-08T23:47:02Z"
+  },
+  {
+   "title": "Trump signs executive order: Federal agencies banned from using \"AI\", switched to \"Super Intelligence SI\", says non-compliers are enemies of the White House",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
+   "url": "https://tech.ifeng.com/c/8x4cIIU5la2",
+   "label": "CONFIRMED",
+   "summary_1line": "Trump demands 'superintelligence' over 'AI' in federal use; SpaceX may rename its AI division.",
+   "published_at": "2026-10-08T22:51:46Z"
+  },
+  {
+   "title": "McDonald’s AI Pricing Lawsuit Highlights Growing Antitrust Risk: What Companies Need to Know",
+   "outlet": "Kelley Drye & Warren LLP",
+   "outlet_name": "Kelley Drye & Warren LLP",
+   "url": "https://www.kelleydrye.com/viewpoints/client-advisories/mcdonalds-ai-pricing-lawsuit-highlights-growing-antitrust-risk-what-companies-need-to-know",
+   "label": "CONFIRMED",
+   "summary_1line": "McDonald’s AI pricing tool faces antitrust lawsuit over data sharing and price recommendations.",
+   "published_at": "2026-10-08T21:32:00Z"
+  },
+  {
+   "title": "OpenAI launches Ultrafast version of GPT-6.1 Sol",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4017870610501508?f=rss",
+   "label": "REPORTED",
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
   }
  ],
  "ticker": [
   {
-   "headline": "3 fired OpenAI researchers release letter saying their axing will leave ‘chilling’…",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://www.businessinsider.com/openai-researchers-fired-release-letter-company-culture-2026-10"
-  },
-  {
-   "headline": "Anthropic launches Cyber Mission to defend power grids and open-source code",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/anthropic-cyber-mission-critical-infrastructure/"
-  },
-  {
-   "headline": "Anthropic is launching a ‘presidential engagement’ effort to advise candidates on AI…",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/"
-  },
-  {
-   "headline": "Microsoft Unveils $2,600 Surface Laptop Ultra As Nvidia-Powered AI Pcs Target Developers",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "label": "REPORTED",
-   "url": "https://www.tekedia.com/microsoft-unveils-2600-surface-laptop-ultra-as-nvidia-powered-ai-pcs-target-developers/"
-  },
-  {
-   "headline": "Gemini Agent Unifies Workflows, Cuts Costs",
-   "outlet": "Blockchain News",
-   "outlet_name": "Blockchain News",
+   "headline": "Anthropic Bans AI Model Abuse, Tightens Rules on Deception",
+   "outlet": "DataBreachToday",
+   "outlet_name": "DataBreachToday",
    "label": "CONFIRMED",
-   "url": "https://blockchain.news/ainews/gemini-agent-unifies-workflows-cuts-costs"
+   "url": "https://www.databreachtoday.com/anthropic-bans-ai-model-abuse-tightens-rules-on-deception-a-33048"
+  },
+  {
+   "headline": "Chula Vista adopts AI policy barring predictive policing, biometric surveillance without…",
+   "outlet": "San Diego Union-Tribune",
+   "outlet_name": "San Diego Union-Tribune",
+   "label": "CONFIRMED",
+   "url": "https://www.sandiegouniontribune.com/2026/10/08/chula-vista-adopts-ai-policy-barring-predictive-policing-biometric-surveillance-without-council-ok/"
+  },
+  {
+   "headline": "Trump signs executive order: Federal agencies banned from using \"AI\", switched to \"Super…",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
+   "label": "CONFIRMED",
+   "url": "https://tech.ifeng.com/c/8x4cIIU5la2"
+  },
+  {
+   "headline": "McDonald’s AI Pricing Lawsuit Highlights Growing Antitrust Risk: What Companies Need to…",
+   "outlet": "Kelley Drye & Warren LLP",
+   "outlet_name": "Kelley Drye & Warren LLP",
+   "label": "CONFIRMED",
+   "url": "https://www.kelleydrye.com/viewpoints/client-advisories/mcdonalds-ai-pricing-lawsuit-highlights-growing-antitrust-risk-what-companies-need-to-know"
+  },
+  {
+   "headline": "OpenAI launches Ultrafast version of GPT-6.1 Sol",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "label": "REPORTED",
+   "url": "https://36kr.com/newsflashes/4017870610501508?f=rss"
   },
   {
    "headline": "Cramer says Thursday's AI sell-off proves the value of this age-old investing strategy",
@@ -95,13 +95,6 @@
    "url": "https://www.cnbc.com/2026/10/08/jim-cramer-diversification-ai-selloff.html"
   },
   {
-   "headline": "Nvidia to invest $1 billion over the next five years to support US scientific research",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "label": "REPORTED",
-   "url": "https://36kr.com/newsflashes/4017827045478533?f=rss"
-  },
-  {
    "headline": "OpenAI annualized revenue is $20 billion less than previously reported expectations",
    "outlet": "36氪",
    "outlet_name": "36氪",
@@ -109,18 +102,32 @@
    "url": "https://36kr.com/newsflashes/4017829245341833?f=rss"
   },
   {
-   "headline": "Anthropic bans 'cruel' behavior against its Claude AI",
-   "outlet": "Agence France-Presse on MSN",
-   "outlet_name": "Agence France-Presse on MSN",
+   "headline": "Nvidia and Microsoft have integrated a data center chip into a $2,599 laptop",
+   "outlet": "RS Web Solutions",
+   "outlet_name": "RS Web Solutions",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-gb/lifestyle/other/anthropic-bans-cruel-behavior-against-its-claude-ai/ar-AA2dQMRS"
+   "url": "https://www.rswebsols.com/news/nvidia-and-microsoft-have-integrated-a-data-center-chip-into-a-2599-laptop/"
   },
   {
-   "headline": "AI pricing lawsuit against McDonald's raises new antitrust questions",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/money/general/ai-pricing-lawsuit-against-mcdonald-s-raises-new-antitrust-questions/ar-AA2dQVpK"
+   "headline": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
+   "outlet": "The Star",
+   "outlet_name": "The Star",
+   "label": "REPORTED",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/nvidia-backed-upscale-ai-launches-platform-to-connect-chips-from-rival-suppliers"
+  },
+  {
+   "headline": "Alphacool introduces single-slot water blocks for NVIDIA RTX PRO Blackwell and AMD Radeon…",
+   "outlet": "VideoCardz.com",
+   "outlet_name": "VideoCardz.com",
+   "label": "REPORTED",
+   "url": "https://videocardz.com/newz/alphacool-introduces-single-slot-water-blocks-for-nvidia-rtx-pro-blackwell-and-amd-radeon-ai-pro-gpus"
+  },
+  {
+   "headline": "Google Launches Gemini Work Agent to Perform Tasks Across Business Apps",
+   "outlet": "The420.in",
+   "outlet_name": "The420.in",
+   "label": "REPORTED",
+   "url": "https://the420.in/google-gemini-work-agent-enterprise-ai-launch/"
   },
   {
    "headline": "Study in The Lancet suggests AI could improve patient-physician relationships.",
@@ -128,23 +135,16 @@
    "outlet_name": "blog.google",
    "label": "CONFIRMED",
    "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
-  },
-  {
-   "headline": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
-   "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13700,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13600,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/00.mp3",
- "audio_seconds": 53.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/01.mp3",
+ "audio_seconds": 64.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Business Insider: 3 fired OpenAI researchers release letter saying their axing will leave ‘chilling’ effects on company culture.\nReported by Crypto Briefing: Anthropic launches Cyber Mission to defend power grids and open-source code.\nReported by Fortune: Anthropic is launching a ‘presidential engagement’ effort to advise candidates on AI policy ahead of the 2028 election.\nReported by Tekedia: Microsoft Unveils $2,600 Surface Laptop Ultra As Nvidia-Powered AI Pcs Target Developers.\nConfirmed, per Blockchain News: Gemini Agent Unifies Workflows, Cuts Costs.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic bans deceptive artificial intelligence use and surveillance, clarifying ethical boundaries. Confirmed by DataBreachToday: the company tightens rules on deception.\nChula Vista adopts a policy banning surveillance and predictive policing without council approval. Confirmed by San Diego Union-Tribune: the city requires human oversight and bi-annual reviews.\nTrump demands federal agencies use superintelligence instead of artificial intelligence terminology. Confirmed per 凤凰网科技: non-compliers are called enemies of the White House, and SpaceX may rename its artificial intelligence division.\nMcDonald's artificial intelligence pricing tool faces an antitrust lawsuit. Confirmed by Kelley Drye & Warren LLP: the lawsuit highlights concerns over data sharing and price recommendations.\nOpenAI launches an ultrafast version of GPT-6.1 Sol. Reported by 36氪: a security check is underway for user access safety.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
