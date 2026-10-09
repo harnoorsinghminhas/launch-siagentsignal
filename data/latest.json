@@ -1,119 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-08T23:20:02Z",
- "hour": "2026-10-08T23:00:00Z",
+ "generated_at": "2026-10-09T00:20:02Z",
+ "hour": "2026-10-09T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic launches free AI security scans for open-source projects",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic launches free AI security scans for open-source projects with no human review.",
-   "published_at": "2026-10-08T14:53:00Z"
+   "title": "3 fired OpenAI researchers release letter saying their axing will leave ‘chilling’ effects on company culture",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/openai-researchers-fired-release-letter-company-culture-2026-10",
+   "label": "REPORTED",
+   "summary_1line": "Three OpenAI researchers say they were fired for speaking with third-party safety groups.",
+   "published_at": "2026-10-08T22:38:56Z"
   },
   {
-   "title": "Connecticut Governor Lamont: AI regulation should have been led by Federal Government, not states",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/08/connecticut-governor-lamont-ai-regulation-should-have-been-led-by-federal-government-not-states.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Connecticut Governor Lamont says AI regulation should be federal, not state-led.",
-   "published_at": "2026-10-08T20:58:32Z"
+   "title": "Anthropic launches Cyber Mission to defend power grids and open-source code",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/anthropic-cyber-mission-critical-infrastructure/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic launches cyber mission to defend power grids and open-source code with AI tools and $100M credits.",
+   "published_at": "2026-10-08T14:42:00Z"
   },
   {
-   "title": "Anthropic Adds Claude Dashboards and Motion Tools for Workplace Productivity - News and Statistics",
-   "outlet": "IndexBox",
-   "outlet_name": "IndexBox",
-   "url": "https://www.indexbox.io/blog/anthropic-launches-claude-dashboards-and-motion-tools-for-no-code-data-visualization/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic launches no-code data tools for Claude, with dashboards and animations in beta.",
-   "published_at": "2026-10-08T20:01:32Z"
-  },
-  {
-   "title": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
-   "outlet": "Decrypt News",
-   "outlet_name": "Decrypt News",
-   "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
-   "label": "CONFIRMED",
-   "summary_1line": "Manus raises $500M, resumes independence after China cancels Meta's $2B acquisition.",
-   "published_at": "2026-10-08T21:46:03Z"
-  },
-  {
-   "title": "Introducing the Anthropic Cyber Mission",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5",
+   "title": "Anthropic is launching a ‘presidential engagement’ effort to advise candidates on AI policy ahead of the 2028 election",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-08T09:04:16Z"
+   "published_at": "2026-10-08T23:14:52Z"
+  },
+  {
+   "title": "Microsoft Unveils $2,600 Surface Laptop Ultra As Nvidia-Powered AI Pcs Target Developers",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "url": "https://www.tekedia.com/microsoft-unveils-2600-surface-laptop-ultra-as-nvidia-powered-ai-pcs-target-developers/",
+   "label": "REPORTED",
+   "summary_1line": "Microsoft launches AI-powered Surface PCs for local AI workloads and developers.",
+   "published_at": "2026-10-08T17:06:46Z"
+  },
+  {
+   "title": "Gemini Agent Unifies Workflows, Cuts Costs",
+   "outlet": "Blockchain News",
+   "outlet_name": "Blockchain News",
+   "url": "https://blockchain.news/ainews/gemini-agent-unifies-workflows-cuts-costs",
+   "label": "CONFIRMED",
+   "summary_1line": "Google's Gemini agent unifies AI tasks for enterprises with persistent memory and multi-agent orchestration.",
+   "published_at": "2026-10-08T03:05:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic launches free AI security scans for open-source projects",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner"
+   "headline": "3 fired OpenAI researchers release letter saying their axing will leave ‘chilling’…",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "REPORTED",
+   "url": "https://www.businessinsider.com/openai-researchers-fired-release-letter-company-culture-2026-10"
   },
   {
-   "headline": "Connecticut Governor Lamont: AI regulation should have been led by Federal Government…",
-   "outlet": "CNBC",
+   "headline": "Anthropic launches Cyber Mission to defend power grids and open-source code",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/anthropic-cyber-mission-critical-infrastructure/"
+  },
+  {
+   "headline": "Anthropic is launching a ‘presidential engagement’ effort to advise candidates on AI…",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "REPORTED",
+   "url": "https://fortune.com/2026/10/08/anthropic-presidential-engagement-program-hiring-political-lead-2028-elections/"
+  },
+  {
+   "headline": "Microsoft Unveils $2,600 Surface Laptop Ultra As Nvidia-Powered AI Pcs Target Developers",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "label": "REPORTED",
+   "url": "https://www.tekedia.com/microsoft-unveils-2600-surface-laptop-ultra-as-nvidia-powered-ai-pcs-target-developers/"
+  },
+  {
+   "headline": "Gemini Agent Unifies Workflows, Cuts Costs",
+   "outlet": "Blockchain News",
+   "outlet_name": "Blockchain News",
+   "label": "CONFIRMED",
+   "url": "https://blockchain.news/ainews/gemini-agent-unifies-workflows-cuts-costs"
+  },
+  {
+   "headline": "Cramer says Thursday's AI sell-off proves the value of this age-old investing strategy",
+   "outlet": "cnbc.com",
    "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/08/connecticut-governor-lamont-ai-regulation-should-have-been-led-by-federal-government-not-states.html"
+   "url": "https://www.cnbc.com/2026/10/08/jim-cramer-diversification-ai-selloff.html"
   },
   {
-   "headline": "Anthropic Adds Claude Dashboards and Motion Tools for Workplace Productivity - News and…",
-   "outlet": "IndexBox",
-   "outlet_name": "IndexBox",
-   "label": "CONFIRMED",
-   "url": "https://www.indexbox.io/blog/anthropic-launches-claude-dashboards-and-motion-tools-for-no-code-data-visualization/"
-  },
-  {
-   "headline": "AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition",
-   "outlet": "Decrypt News",
-   "outlet_name": "Decrypt News",
-   "label": "CONFIRMED",
-   "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china"
-  },
-  {
-   "headline": "Introducing the Anthropic Cyber Mission",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
+   "headline": "Nvidia to invest $1 billion over the next five years to support US scientific research",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SRkRRLThCQk54NV9hR0E5akl4LVNfanczWXU2cExpb2tyd3M4bGtFbWx6ekVPOUw5bDRzRjNhSlJ3ZjJqQklIMTVMNmNjXzNwaGtsb1lJeVItOXVaMlVuQk1BelE?oc=5"
+   "url": "https://36kr.com/newsflashes/4017827045478533?f=rss"
   },
   {
-   "headline": "Anthropic to users: be nice to Claude AI — new policy bars ‘abusive or cruel behavior’ to…",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
+   "headline": "OpenAI annualized revenue is $20 billion less than previously reported expectations",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZ0NrbkNIaXFUOUdjTElxYmthZktoTnR2UXFScTZZdmtVSDZ5dFV0STl6SHc5eXJzaFh0MHRLeTBCdEo3Q000cHFyaV9xdWtUSUx0ZXZGMkw4Mk1KaFhneG9ZTjFkVlEtdDEzQnp2VUxBcGRDU3lxV1pNZEVEcUJwd1prbzZiUDZpNDR0ZkYyTkYzaWlmZGJwR3BlRWc0ZEk5X1VTNnoyc0s5UHlvb3BYa3ZER3ZWSTMyQ0FFV3c2WnQ3ZGZrVHEyZw?oc=5"
+   "url": "https://36kr.com/newsflashes/4017829245341833?f=rss"
   },
   {
-   "headline": "Using Claude Science to produce the first complete map of the sky in UV light \\ Anthropic",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
+   "headline": "Anthropic bans 'cruel' behavior against its Claude AI",
+   "outlet": "Agence France-Presse on MSN",
+   "outlet_name": "Agence France-Presse on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/the-missing-map-of-the-sky"
+   "url": "https://www.msn.com/en-gb/lifestyle/other/anthropic-bans-cruel-behavior-against-its-claude-ai/ar-AA2dQMRS"
   },
   {
    "headline": "AI pricing lawsuit against McDonald's raises new antitrust questions",
    "outlet": "Reuters on MSN",
    "outlet_name": "Reuters on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/money/companies/ai-pricing-lawsuit-against-mcdonalds-raises-new-antitrust-questions/ar-AA2dQVpK"
+   "url": "https://www.msn.com/en-us/money/general/ai-pricing-lawsuit-against-mcdonald-s-raises-new-antitrust-questions/ar-AA2dQVpK"
   },
   {
-   "headline": "Microsoft Officially Unveils Surface Laptop Ultra And Surface RTX Spark Dev Box With…",
-   "outlet": "Pokde.Net",
-   "outlet_name": "Pokde.Net",
-   "label": "REPORTED",
-   "url": "https://pokde.net/gadget/laptop/microsoft-surface-laptop-ultra"
+   "headline": "Study in The Lancet suggests AI could improve patient-physician relationships.",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
   },
   {
    "headline": "Into the Omniverse: How Developers Turn Ideas Into Simulations With Frontier AI Agents",
@@ -121,30 +135,16 @@
    "outlet_name": "blogs.nvidia.com",
    "label": "CONFIRMED",
    "url": "https://blogs.nvidia.com/blog/developers-simulations-frontier-ai-agents/"
-  },
-  {
-   "headline": "Alphacool introduces single-slot water blocks for NVIDIA RTX PRO Blackwell and AMD Radeon…",
-   "outlet": "VideoCardz.com",
-   "outlet_name": "VideoCardz.com",
-   "label": "REPORTED",
-   "url": "https://videocardz.com/newz/alphacool-introduces-single-slot-water-blocks-for-nvidia-rtx-pro-blackwell-and-amd-radeon-ai-pro-gpus"
-  },
-  {
-   "headline": "Microsoft and NVIDIA team up to launch AI laptops",
-   "outlet": "매일경제 on MSN",
-   "outlet_name": "매일경제 on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/ko-kr/news/other/ms-엔비디아-손잡고-인공지능-노트북-출시/ar-AA2dOar2"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 13700,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/08/23.mp3",
- "audio_seconds": 44.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/00.mp3",
+ "audio_seconds": 53.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: Anthropic launches free AI security scans for open-source projects.\nConfirmed, per CNBC: Connecticut Governor Lamont: AI regulation should have been led by Federal Government, not states.\nConfirmed, per IndexBox: Anthropic Adds Claude Dashboards and Motion Tools for Workplace Productivity - News and Statistics.\nConfirmed, per Decrypt News: AI Startup Manus Raises $500 Million After China Nixed Meta’s $2 Billion Acquisition.\nReported by Anthropic: Introducing the Anthropic Cyber Mission.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Business Insider: 3 fired OpenAI researchers release letter saying their axing will leave ‘chilling’ effects on company culture.\nReported by Crypto Briefing: Anthropic launches Cyber Mission to defend power grids and open-source code.\nReported by Fortune: Anthropic is launching a ‘presidential engagement’ effort to advise candidates on AI policy ahead of the 2028 election.\nReported by Tekedia: Microsoft Unveils $2,600 Surface Laptop Ultra As Nvidia-Powered AI Pcs Target Developers.\nConfirmed, per Blockchain News: Gemini Agent Unifies Workflows, Cuts Costs.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
