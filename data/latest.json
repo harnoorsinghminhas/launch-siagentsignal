@@ -1,105 +1,63 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T04:20:02Z",
- "hour": "2026-10-09T04:00:00Z",
+ "generated_at": "2026-10-09T05:20:03Z",
+ "hour": "2026-10-09T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic to Suspend Users Who Repeatedly Abuse Claude Under New Policy",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/54c1905f-83f6-4e75-8620-aad3b04ea337",
+   "title": "OpenAI APAC Public Policy Head reportedly to step down after six months in role",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4018075739164546?f=rss",
    "label": "REPORTED",
-   "summary_1line": "Anthropic bans repeated abuse of Claude, citing model welfare concerns.",
-   "published_at": "2026-10-09T01:55:00Z"
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
   },
   {
-   "title": "OpenAI Asia-Pacific Policy Head to Leave After Six Months in Job",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-09/openai-asia-pacific-policy-head-to-leave-after-six-months-in-job",
+   "title": "OpenAI's September annualized revenue nears $50 billion, less than previously indicated, source says",
+   "outlet": "Central Oregon Daily",
+   "outlet_name": "Central Oregon Daily",
+   "url": "https://www.centraloregondaily.com/news/consumer/openais-september-annualized-revenue-nears-50-billion-less-than-previously-indicated-source-says/article_ec978047-f4b3-53a5-97b6-0d2ea989d494.html",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI's September revenue drops to $50B, down from $70B, amid comparison with Anthropic.",
+   "published_at": "2026-10-09T02:11:44Z"
+  },
+  {
+   "title": "What did Anthropic say about abusing Claude AI? New policy bans ‘cruel’ behavior",
+   "outlet": "Hindustan Times",
+   "outlet_name": "Hindustan Times",
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR2pnTW5JcDJYUFdtUl9BQ1libEZVWnRBNWdMZUNjOXpSb0JXTW1BVTZxeXBUekFOTzFBVERoRVZyMUNFTFNpZ3BFQmtPZzcyTXVJcGtkd0JfRmJBSU1uX2xEMUFCVEVrdTc1cXFpU3l0SGVLZmFNWXJRRDliM0x2X2NvRmVtSlB3WlNSYTAza1JScXZONFVZMHI3QXRqMGtueFRDa0FDX0o2blRlNjhfYXVpcEl1Vnl1U09DRWVSN1ZmRjV4dmVhVS0zUFhKYW5uX0tKSGJkYWJJd3JMbHdkN21B0gHnAUFVX3lxTE1XLWdDZ3ZBOHhkbHYtU0JrUUtVQ1JDRkJWSGVFTnd6ODR6UUJhUkdFejZVaVp3ekNyRUtLUVZsUlduY3VFSjBaS2N5RkVWWDVMZTZLbE9DYTNmS2FSVkpDYllSSVhMcG5mUENQMnpJUDFyb0ZhVWxvYXpmcnlYSUo5S2E0SkI3YmRBSTdNNWRRN2NoalNXOVprUjlzQldjRDVoNVR2LXBVMzd4VlhQb2pLNTlKMmQ2SEVJSnZDeHlRbVpYdU55R0xjZ3FhSmJtUUhzbUE0bVJ5NDlpSTc5ZTNONDdjSG1Xbw?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-09T02:50:17Z"
+   "published_at": "2026-10-09T04:11:31Z"
   },
   {
-   "title": "Anthropic bans ‘cruel’ behaviour against its Claude AI",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/anthropic-bans-cruel-behaviour-against-its-claude-ai",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic bans cruel behavior toward Claude AI amid debate on AI consciousness.",
-   "published_at": "2026-10-09T01:30:00Z"
-  },
-  {
-   "title": "Anthropic offers free AI security scans for open source as Claude Code faces scrutiny",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/anthropic-offers-free-ai-security-scans-for-open-source-as-claude-code-faces-scrutiny/",
+   "title": "‘More of the Same’ in AI. OpenAI vs Anthropic, AI Debt & Rates. ARD #180",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "url": "https://michaelparekh.substack.com/p/more-of-the-same-in-ai-openai-vs",
    "label": "REPORTED",
-   "summary_1line": "Anthropic offers free AI scans for open-source code amid reports of AI tools used in attacks on Korean banks.",
-   "published_at": "2026-10-08T23:01:13Z"
+   "summary_1line": "OpenAI and Anthropic intensify AI price war with new models; major firms secure tens of billions in AI chip financing.",
+   "published_at": "2026-10-09T02:56:18Z"
   },
   {
-   "title": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-   "outlet": "KELO-AM",
-   "outlet_name": "KELO-AM",
-   "url": "https://kelo.com/2026/10/08/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack/",
-   "label": "CONFIRMED",
-   "summary_1line": "China's ARTEX AI agent, linked to South Korean bank attacks, is now closed source.",
-   "published_at": "2026-10-09T02:10:12Z"
+   "title": "Character.AI chatbots urged users to self-harm, Kentucky lawsuit alleges",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/character-ai-chatbots-urged-users-to-self-harm-kentucky-lawsuit-alleges-10913399/",
+   "label": "REPORTED",
+   "summary_1line": "Kentucky sues Character.AI over chatbots allegedly advising self-harm to children.",
+   "published_at": "2026-10-09T02:36:08Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic to Suspend Users Who Repeatedly Abuse Claude Under New Policy",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "OpenAI APAC Public Policy Head reportedly to step down after six months in role",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
    "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/54c1905f-83f6-4e75-8620-aad3b04ea337"
-  },
-  {
-   "headline": "OpenAI Asia-Pacific Policy Head to Leave After Six Months in Job",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-09/openai-asia-pacific-policy-head-to-leave-after-six-months-in-job"
-  },
-  {
-   "headline": "Anthropic bans ‘cruel’ behaviour against its Claude AI",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "label": "CONFIRMED",
-   "url": "https://www.straitstimes.com/world/anthropic-bans-cruel-behaviour-against-its-claude-ai"
-  },
-  {
-   "headline": "Anthropic offers free AI security scans for open source as Claude Code faces scrutiny",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/anthropic-offers-free-ai-security-scans-for-open-source-as-claude-code-faces-scrutiny/"
-  },
-  {
-   "headline": "Chinese developer makes ARTEX AI agent closed-source after Korean bank hack",
-   "outlet": "KELO-AM",
-   "outlet_name": "KELO-AM",
-   "label": "CONFIRMED",
-   "url": "https://kelo.com/2026/10/08/chinese-developer-makes-artex-ai-agent-closed-source-after-korean-bank-hack/"
-  },
-  {
-   "headline": "‘More of the Same’ in AI. OpenAI vs Anthropic, AI Debt & Rates. ARD #180",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "label": "REPORTED",
-   "url": "https://michaelparekh.substack.com/p/more-of-the-same-in-ai-openai-vs"
-  },
-  {
-   "headline": "USA Today sues OpenAI for copyright infringement over AI training",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/usa-today-sues-openai-copyright-ai-training/"
+   "url": "https://36kr.com/newsflashes/4018075739164546?f=rss"
   },
   {
    "headline": "OpenAI's September annualized revenue nears $50 billion, less than previously indicated…",
@@ -109,25 +67,53 @@
    "url": "https://www.centraloregondaily.com/news/consumer/openais-september-annualized-revenue-nears-50-billion-less-than-previously-indicated-source-says/article_ec978047-f4b3-53a5-97b6-0d2ea989d494.html"
   },
   {
-   "headline": "Pie Morning News: NVIDIA RTX Spark new products overview, Anthropic releases Claude Haiku…",
-   "outlet": "sspai.com",
-   "outlet_name": "sspai.com",
+   "headline": "What did Anthropic say about abusing Claude AI? New policy bans ‘cruel’ behavior",
+   "outlet": "Hindustan Times",
+   "outlet_name": "Hindustan Times",
    "label": "REPORTED",
-   "url": "https://sspai.com/post/115532"
+   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR2pnTW5JcDJYUFdtUl9BQ1libEZVWnRBNWdMZUNjOXpSb0JXTW1BVTZxeXBUekFOTzFBVERoRVZyMUNFTFNpZ3BFQmtPZzcyTXVJcGtkd0JfRmJBSU1uX2xEMUFCVEVrdTc1cXFpU3l0SGVLZmFNWXJRRDliM0x2X2NvRmVtSlB3WlNSYTAza1JScXZONFVZMHI3QXRqMGtueFRDa0FDX0o2blRlNjhfYXVpcEl1Vnl1U09DRWVSN1ZmRjV4dmVhVS0zUFhKYW5uX0tKSGJkYWJJd3JMbHdkN21B0gHnAUFVX3lxTE1XLWdDZ3ZBOHhkbHYtU0JrUUtVQ1JDRkJWSGVFTnd6ODR6UUJhUkdFejZVaVp3ekNyRUtLUVZsUlduY3VFSjBaS2N5RkVWWDVMZTZLbE9DYTNmS2FSVkpDYllSSVhMcG5mUENQMnpJUDFyb0ZhVWxvYXpmcnlYSUo5S2E0SkI3YmRBSTdNNWRRN2NoalNXOVprUjlzQldjRDVoNVR2LXBVMzd4VlhQb2pLNTlKMmQ2SEVJSnZDeHlRbVpYdU55R0xjZ3FhSmJtUUhzbUE0bVJ5NDlpSTc5ZTNONDdjSG1Xbw?oc=5"
   },
   {
-   "headline": "Not waiting for Gemini 4! Google releases office Agent with support for calling Claude",
-   "outlet": "qbitai.com",
-   "outlet_name": "qbitai.com",
+   "headline": "‘More of the Same’ in AI. OpenAI vs Anthropic, AI Debt & Rates. ARD #180",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
    "label": "REPORTED",
-   "url": "https://www.qbitai.com/2026/10/502083.html"
+   "url": "https://michaelparekh.substack.com/p/more-of-the-same-in-ai-openai-vs"
   },
   {
-   "headline": "Character.AI chatbots encouraged users to cut and starve themselves, Kentucky alleges",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
+   "headline": "Character.AI chatbots urged users to self-harm, Kentucky lawsuit alleges",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
+   "label": "REPORTED",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/character-ai-chatbots-urged-users-to-self-harm-kentucky-lawsuit-alleges-10913399/"
+  },
+  {
+   "headline": "Peter Thiel: You Know Who Else Wants to Regulate AI? The Antichrist",
+   "outlet": "Gizmodo",
+   "outlet_name": "Gizmodo",
+   "label": "REPORTED",
+   "url": "https://gizmodo.com/peter-thiel-you-know-who-else-wants-to-regulate-ai-the-antichrist-2000823964"
+  },
+  {
+   "headline": "Behind DeepSeek abnormal long-text performance: ByteDance unveils the phase sensitivity…",
+   "outlet": "搜狐网",
+   "outlet_name": "搜狐网",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQkpYOHpmdkVkLTVWWEdZMnBmNWcxaDFYcy1TNGt6bE1sckZMY1IwV2x5MFh4V3MwZzJ0Q0liR05ZQzhSR1phWWtLWE5lMzFyTDZVUkhqdnNFaDEweEVXVmlVcF9Lc2ZNSGUxcEpydVVvQ1VlcFM3MUFmeE1fOVpLMkpxd3p2NUMzQWdOUA?oc=5"
+  },
+  {
+   "headline": "Google Cloud introduces Gemini AI agent for enterprise workflows",
+   "outlet": "Tech Wire Asia",
+   "outlet_name": "Tech Wire Asia",
+   "label": "REPORTED",
+   "url": "https://techwireasia.com/2026/10/google-gemini-ai-agent-enterprise-workflows/"
+  },
+  {
+   "headline": "Fired Open AI safety researchers say they were pushed out over ‘suspicious’ circumstances",
+   "outlet": "CNN on MSN",
+   "outlet_name": "CNN on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/characterai-chatbots-encouraged-users-to-cut-and-starve-themselves-kentucky-alleges/ar-AA2dR8BL"
+   "url": "https://www.msn.com/en-us/technology/general/fired-open-ai-safety-researchers-say-they-were-pushed-out-over-suspicious-circumstances/ar-AA2dRlCV"
   },
   {
    "headline": "Anthropic is setting up a \"presidential engagement\" program for the 2028 US elections…",
@@ -135,16 +121,30 @@
    "outlet_name": "techmeme.com",
    "label": "REPORTED",
    "url": "https://www.techmeme.com/261009/p1#a261009p1"
+  },
+  {
+   "headline": "NVIDIA introduces DGX Spark computer with 64 GB of memory for $4999",
+   "outlet": "mobidevices.com",
+   "outlet_name": "mobidevices.com",
+   "label": "REPORTED",
+   "url": "https://mobidevices.com/en/microsoft-dgx-spark"
+  },
+  {
+   "headline": "Anthropic launches new cyber defense initiative \"Cyber Mission\" including free…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/news/article/2610/09/2000002164/"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 13400,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/04.mp3",
- "audio_seconds": 51.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/05.mp3",
+ "audio_seconds": 50.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by BigGo Finance: Anthropic to Suspend Users Who Repeatedly Abuse Claude Under New Policy.\nReported by Bloomberg: OpenAI Asia-Pacific Policy Head to Leave After Six Months in Job.\nConfirmed, per The Straits Times: Anthropic bans ‘cruel’ behaviour against its Claude AI.\nReported by Startup Fortune: Anthropic offers free AI security scans for open source as Claude Code faces scrutiny.\nConfirmed, per KELO-AM: Chinese developer makes ARTEX AI agent closed-source after Korean bank hack.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by 36氪: OpenAI APAC Public Policy Head reportedly to step down after six months in role.\nStill open, per Central Oregon Daily: OpenAI's September annualized revenue nears $50 billion, less than previously indicated, source says.\nReported by Hindustan Times: What did Anthropic say about abusing Claude AI? New policy bans ‘cruel’ behavior.\nReported by AI: Reset to Zero: ‘More of the Same’ in AI. OpenAI vs Anthropic, AI Debt & Rates. ARD #180.\nReported by The Indian Express: Character.AI chatbots urged users to self-harm, Kentucky lawsuit alleges.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
