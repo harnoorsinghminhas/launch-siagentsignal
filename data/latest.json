@@ -1,112 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T17:20:02Z",
- "hour": "2026-10-09T17:00:00Z",
+ "generated_at": "2026-10-09T18:20:04Z",
+ "hour": "2026-10-09T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Says Fired Safety Researchers Breached Trust, Not That They Voiced Concerns",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/42df000d-7828-4bae-a271-c0197099d568",
+   "title": "Anthropic To Ban \"Cruel Behavior\" Against Claude AI",
+   "outlet": "KFBK News Radio",
+   "outlet_name": "KFBK News Radio",
+   "url": "https://kfbk.iheart.com/content/2026-10-09-anthropic-to-ban-cruel-behavior-against-claude-ai/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI fires safety researchers over sensitive info breach; they say it was about speaking out, not safety concerns.",
-   "published_at": "2026-10-09T15:05:00Z"
+   "summary_1line": "Anthropic bans cruel behavior toward Claude and lets models exit distressing chats.",
+   "published_at": "2026-10-09T10:40:00Z"
   },
   {
-   "title": "KONST Raises $30M Series B funding Led by ADATA Technology to Scale Up AI Data Center Buildout in Asia and Advance Its Token Factory Strategy",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/news-releases/konst-raises-30m-series-b-funding-led-by-adata-technology-to-scale-up-ai-data-center-buildout-in-asia-and-advance-its-token-factory-strategy-302903455.html",
-   "label": "CONFIRMED",
-   "summary_1line": "KONST raises $30M to scale AI data centers and launch Token Factory for enterprises in Asia.",
-   "published_at": "2026-10-09T15:00:00Z"
-  },
-  {
-   "title": "GBM Launches UAE AI Lab Built on Cisco and NVIDIA Infrastructure",
-   "outlet": "PCMag Middle East",
-   "outlet_name": "PCMag Middle East",
-   "url": "https://me.pcmag.com/en/ai/38288/gbm-launches-uae-ai-lab-built-on-cisco-and-nvidia-infrastructure",
+   "title": "USA Today’s OpenAI lawsuit puts AI rights in focus",
+   "outlet": "ContentGrip",
+   "outlet_name": "ContentGrip",
+   "url": "https://www.contentgrip.com/usa-today-openai-copyright-lawsuit/",
    "label": "REPORTED",
-   "summary_1line": "GBM launches UAE’s first AI Lab with Cisco and NVIDIA for secure, local AI testing.",
-   "published_at": "2026-10-09T10:36:50Z"
+   "summary_1line": "USA Today sues OpenAI for $250M over alleged unauthorized use of journalism.",
+   "published_at": "2026-10-09T10:58:08Z"
   },
   {
-   "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-   "outlet": "bbc.com",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.com/news/articles/cr86z33pdy9vo",
+   "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-09T17:53:14Z"
+  },
+  {
+   "title": "Danu Robotics’ fight to build a better recycling robot",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
    "label": "CONFIRMED",
-   "summary_1line": "Nikon disqualifies AI-generated scientific video from its microscopy competition.",
-   "published_at": "2026-10-09T15:49:51Z"
+   "summary_1line": "Amy Ma’s Danu Robotics robot improves recycling with AI, targeting $20B market and offering $485K ROI.",
+   "published_at": "2026-10-09T16:45:00Z"
   },
   {
-   "title": "Anthropic claims Chinese AI firms secretly use Claude. Is it true?",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
-   "url": "https://amp.scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic claims Chinese firms secretly use Claude via fraudulent accounts and proxy networks.",
-   "published_at": "2026-10-09T13:30:07Z"
+   "title": "Gallatin AI Announces $50M Series A to Accelerate Transformation of Military Logistics",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
+   "url": "https://theaiinsider.tech/2026/10/09/gallatin-ai-announces-50m-series-a-to-accelerate-transformation-of-military-logistics/",
+   "label": "CONFIRMED",
+   "summary_1line": "Gallatin AI raises $50M to scale AI logistics platform used by U.S. military units globally.",
+   "published_at": "2026-10-09T15:46:31Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Says Fired Safety Researchers Breached Trust, Not That They Voiced Concerns",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "Anthropic To Ban \"Cruel Behavior\" Against Claude AI",
+   "outlet": "KFBK News Radio",
+   "outlet_name": "KFBK News Radio",
    "label": "CONFIRMED",
-   "url": "https://finance.biggo.com/news/42df000d-7828-4bae-a271-c0197099d568"
+   "url": "https://kfbk.iheart.com/content/2026-10-09-anthropic-to-ban-cruel-behavior-against-claude-ai/"
   },
   {
-   "headline": "KONST Raises $30M Series B funding Led by ADATA Technology to Scale Up AI Data Center…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/konst-raises-30m-series-b-funding-led-by-adata-technology-to-scale-up-ai-data-center-buildout-in-asia-and-advance-its-token-factory-strategy-302903455.html"
-  },
-  {
-   "headline": "GBM Launches UAE AI Lab Built on Cisco and NVIDIA Infrastructure",
-   "outlet": "PCMag Middle East",
-   "outlet_name": "PCMag Middle East",
+   "headline": "USA Today’s OpenAI lawsuit puts AI rights in focus",
+   "outlet": "ContentGrip",
+   "outlet_name": "ContentGrip",
    "label": "REPORTED",
-   "url": "https://me.pcmag.com/en/ai/38288/gbm-launches-uae-ai-lab-built-on-cisco-and-nvidia-infrastructure"
+   "url": "https://www.contentgrip.com/usa-today-openai-copyright-lawsuit/"
   },
   {
-   "headline": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
-   "outlet": "bbc.com",
-   "outlet_name": "BBC",
-   "label": "CONFIRMED",
-   "url": "https://www.bbc.com/news/articles/cr86z33pdy9vo"
-  },
-  {
-   "headline": "Anthropic claims Chinese AI firms secretly use Claude. Is it true?",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
-   "label": "STILL OPEN",
-   "url": "https://amp.scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true"
-  },
-  {
-   "headline": "China AI developers publish safety tests for just 3.6% of model releases, report finds",
-   "outlet": "WTVB",
-   "outlet_name": "WTVB",
-   "label": "CONFIRMED",
-   "url": "https://wtvbam.com/2026/10/09/china-ai-developers-publish-safety-tests-for-just-3-6-of-model-releases-report-finds/"
-  },
-  {
-   "headline": "How AI, data centres and cybersecurity are reshaping security",
-   "outlet": "Lombard Odier",
-   "outlet_name": "Lombard Odier",
-   "label": "CONFIRMED",
-   "url": "https://www.lombardodier.com/insights/2026/october/defence-goes-digital.html"
-  },
-  {
-   "headline": "Mathematicians React With Fury as OpenAI Releases Hundreds of New AI-Generated Proofs",
-   "outlet": "futurism.com",
-   "outlet_name": "futurism.com",
+   "headline": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
    "label": "REPORTED",
-   "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-furious"
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zVEh5T3B2VWRZc25KOGxJYndILXRwa1l5YlhNb0NmeE5BQ0laTm1pRGNDUmY4SHNjeFllZHVrcmZYeklqU2JrMngtbHhQTWpfZGtwSUVOS2s?oc=5"
+  },
+  {
+   "headline": "Danu Robotics’ fight to build a better recycling robot",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/"
+  },
+  {
+   "headline": "Gallatin AI Announces $50M Series A to Accelerate Transformation of Military Logistics",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
+   "label": "CONFIRMED",
+   "url": "https://theaiinsider.tech/2026/10/09/gallatin-ai-announces-50m-series-a-to-accelerate-transformation-of-military-logistics/"
+  },
+  {
+   "headline": "Rein Security’s $25M Series A Points to Where the Agent Security Demand Is Really Biting",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "label": "REPORTED",
+   "url": "https://forkast.news/rein-securitys-25m-series-a-points-to-where-the-agent-security-demand-is-really-biting/"
+  },
+  {
+   "headline": "TradeSun sues ChatGPT’s OpenAI over copyright infringement",
+   "outlet": "Global Trade Review",
+   "outlet_name": "Global Trade Review",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVG0wQUdrMGItbGVVRUF1N2tuTjYxSmhSaWZLcW96QmZDLWVXNlVRbG5PVWVmd0s1LWpBT1JKSmI5a3l1NzhNWlF4YVAyUEtwUFJ4THFQZGlLWDBneHBvTmJiWFVQR1lZdWdESWlpT2cteGtwNm5YZW5Td05QNndUZnhvd040NHBGT1NtRWhzMjBiR3RXQ1lwS2ZTOEQxUQ?oc=5"
+  },
+  {
+   "headline": "The biggest changes Anthropic just made to Claude’s rules",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "REPORTED",
+   "url": "https://www.businessinsider.com/anthropic-changes-rules-claude-usage-policy-2026-10"
+  },
+  {
+   "headline": "Chick-fil-A is keeping humans at the drive-thru while McDonald’s tests AI ordering and…",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "REPORTED",
+   "url": "https://fortune.com/2026/10/09/chick-fil-a-mcdonalds-ai-drive-thru-ordering-pricing-lawsuit/"
+  },
+  {
+   "headline": "Trio of workers fired by OpenAI: read their warning letter in full",
+   "outlet": "Newsweek on MSN",
+   "outlet_name": "Newsweek on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/money/general/trio-of-workers-fired-by-openai-read-their-warning-letter-in-full/ar-AA2dSZpj"
+  },
+  {
+   "headline": "USA Today vs OpenAI: Key questions over ChatGPT training data, news copyright and whether…",
+   "outlet": "The Economic Times on MSN",
+   "outlet_name": "The Economic Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/usa-today-vs-openai-key-questions-over-chatgpt-training-data-news-copyright-and-whether-publishers-should-be-paid-for-their-work/ar-AA2dUzNo"
   },
   {
    "headline": "Democrats prepare to battle over AI regulation",
@@ -114,37 +135,16 @@
    "outlet_name": "Transformer on MSN",
    "label": "CONFIRMED",
    "url": "https://www.msn.com/en-us/news/other/democrats-prepare-to-battle-over-ai-regulation/ar-AA2dU3zk"
-  },
-  {
-   "headline": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
-   "label": "REPORTED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/"
-  },
-  {
-   "headline": "xAI's Michael Roberson joins OpenAI infrastructure team as commissioning program manager",
-   "outlet": "datacenterdynamics.com",
-   "outlet_name": "datacenterdynamics.com",
-   "label": "REPORTED",
-   "url": "https://www.datacenterdynamics.com/en/news/xais-michael-roberson-joins-openai-infrastructure-team-as-commissioning-program-manager/"
-  },
-  {
-   "headline": "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite",
-   "outlet": "infoq.com",
-   "outlet_name": "infoq.com",
-   "label": "REPORTED",
-   "url": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 13000,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/17.mp3",
- "audio_seconds": 49.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/18.mp3",
+ "audio_seconds": 50.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BigGo Finance: OpenAI Says Fired Safety Researchers Breached Trust, Not That They Voiced Concerns.\nConfirmed, per PR Newswire: KONST Raises $30M Series B funding Led by ADATA Technology to Scale Up AI Data Center Buildout in Asia and Advance Its Token Factory Strategy.\nReported by PCMag Middle East: GBM Launches UAE AI Lab Built on Cisco and NVIDIA Infrastructure.\nConfirmed, per BBC: Prize-winning image which sparked backlash was AI-generated, Nikon rules.\nStill open, per South China Morning Post: Anthropic claims Chinese AI firms secretly use Claude. Is it true.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per KFBK News Radio: Anthropic To Ban \"Cruel Behavior\" Against Claude AI.\nReported by ContentGrip: USA Today’s OpenAI lawsuit puts AI rights in focus.\nReported by OpenAI: Asana cuts model costs 76x in browser tests with GPT-6.1 Sol.\nConfirmed, per TechCrunch: Danu Robotics’ fight to build a better recycling robot.\nConfirmed, per AI Insider: Gallatin AI Announces $50M Series A to Accelerate Transformation of Military Logistics.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
