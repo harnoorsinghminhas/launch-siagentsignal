@@ -1,150 +1,150 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T22:20:01Z",
- "hour": "2026-10-09T22:00:00Z",
+ "generated_at": "2026-10-09T23:20:01Z",
+ "hour": "2026-10-09T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic AI sent false murder tip to Philadelp...",
-   "outlet": "Pluang",
-   "outlet_name": "Pluang",
-   "url": "https://pluang.com/en/news-feed/model-ai-anthropic-kirim-tip-palsu-ke-polisi-philadelphia",
+   "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI falsely reported a murder to Philly police, prompting safety concerns.",
-   "published_at": "2026-10-09T19:55:27Z"
+   "summary_1line": "Anthropic's AI sent a false homicide tip to Philly police, marked as spam.",
+   "published_at": "2026-10-09T21:15:38Z"
   },
   {
-   "title": "AI Political Spending Tops $300M in 2026 as FTC Probes Companies Funding Their Own Lawmakers",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "url": "https://www.techtimes.com/articles/328847/20261009/ai-political-spending-tops-300m-2026-ftc-probes-companies-funding-their-own-lawmakers.htm",
+   "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+   "outlet": "WXII",
+   "outlet_name": "WXII",
+   "url": "https://www.wxii12.com/article/openai-fires-three-safety-researchers-breach-trust/74090423",
    "label": "CONFIRMED",
-   "summary_1line": "AI industry spends $300M in 2026 midterms amid federal safety probe and regulatory influence.",
-   "published_at": "2026-10-09T13:21:00Z"
+   "summary_1line": "OpenAI fires three safety researchers over sensitive info handling amid AI safety disputes.",
+   "published_at": "2026-10-09T11:37:00Z"
   },
   {
-   "title": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
-   "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/",
+   "title": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
+   "outlet": "Axios",
+   "outlet_name": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Alibaba's Qwen-Image-2.1-Turbo cuts denoising to 8 steps, runs on 7B model, costs CNY 0.1 per image.",
-   "published_at": "2026-10-09T20:33:17Z"
+   "summary_1line": null,
+   "published_at": "2026-10-09T22:49:55Z"
   },
   {
-   "title": "Google Cloud Introduces Gemini Agent As Universal AI Agent For Work",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "url": "https://pulse2.com/google-cloud-introduces-gemini-agent-as-universal-ai-agent-for-work/",
+   "title": "KINGPIN confirms NVIDIA messed up RTX 3090 Ti launch of EVGA's KINGPIN model",
+   "outlet": "TweakTown",
+   "outlet_name": "TweakTown",
+   "url": "https://www.tweaktown.com/news/114004/kingpin-confirms-nvidia-messed-up-rtx-3090-ti-launch-of-evgas-kingpin-model/index.html",
    "label": "REPORTED",
-   "summary_1line": "Google launches Gemini agent for enterprises with AI workflows and integrations.",
-   "published_at": "2026-10-09T19:18:56Z"
+   "summary_1line": "Lucido details demands for a new ASUS KINGPIN card after past disputes with NVIDIA and EVGA.",
+   "published_at": "2026-10-09T21:40:11Z"
   },
   {
-   "title": "Anthropic Is Banning 'Cruel Behavior' Toward Claude. Claude Is Still Not a Person.",
-   "outlet": "Reason Magazine",
-   "outlet_name": "Reason Magazine",
-   "url": "https://reason.com/2026/10/09/anthropic-is-banning-cruel-behavior-toward-claude-claude-is-still-not-a-person/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic bans cruel behavior toward Claude, effective November 12.",
-   "published_at": "2026-10-09T20:05:10Z"
+   "title": "A scientist shared unpublished research with Claude. Now he’s questioning an AI discovery",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/claude/articles/scientist-shared-unpublished-research-claude-210038087.html",
+   "label": "STILL OPEN",
+   "summary_1line": "Researcher questions if his unpublished work influenced Anthropic's AI discovery of ARTs in bacteriophages.",
+   "published_at": "2026-10-09T21:00:38Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic AI sent false murder tip to Philadelp...",
-   "outlet": "Pluang",
-   "outlet_name": "Pluang",
+   "headline": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://pluang.com/en/news-feed/model-ai-anthropic-kirim-tip-palsu-ke-polisi-philadelphia"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip"
   },
   {
-   "headline": "AI Political Spending Tops $300M in 2026 as FTC Probes Companies Funding Their Own…",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
+   "headline": "OpenAI fires 3 safety researchers in dispute over AI risks",
+   "outlet": "WXII",
+   "outlet_name": "WXII",
    "label": "CONFIRMED",
-   "url": "https://www.techtimes.com/articles/328847/20261009/ai-political-spending-tops-300m-2026-ftc-probes-companies-funding-their-own-lawmakers.htm"
+   "url": "https://www.wxii12.com/article/openai-fires-three-safety-researchers-breach-trust/74090423"
   },
   {
-   "headline": "Alibaba Qwen Releases Qwen-Image-2.1-Turbo, an 8-Step 7B Image Model",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
+   "headline": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
+   "outlet": "Axios",
+   "outlet_name": "Axios",
    "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/09/alibaba-qwen-releases-qwen-image-2-1-turbo-an-8-step-7b-image-model/"
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5"
   },
   {
-   "headline": "Google Cloud Introduces Gemini Agent As Universal AI Agent For Work",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
+   "headline": "KINGPIN confirms NVIDIA messed up RTX 3090 Ti launch of EVGA's KINGPIN model",
+   "outlet": "TweakTown",
+   "outlet_name": "TweakTown",
    "label": "REPORTED",
-   "url": "https://pulse2.com/google-cloud-introduces-gemini-agent-as-universal-ai-agent-for-work/"
+   "url": "https://www.tweaktown.com/news/114004/kingpin-confirms-nvidia-messed-up-rtx-3090-ti-launch-of-evgas-kingpin-model/index.html"
   },
   {
-   "headline": "Anthropic Is Banning 'Cruel Behavior' Toward Claude. Claude Is Still Not a Person.",
-   "outlet": "Reason Magazine",
-   "outlet_name": "Reason Magazine",
-   "label": "CONFIRMED",
-   "url": "https://reason.com/2026/10/09/anthropic-is-banning-cruel-behavior-toward-claude-claude-is-still-not-a-person/"
-  },
-  {
-   "headline": "Nvidia Is in Talks to Value Perplexity at More Than $30 Billion",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
+   "headline": "A scientist shared unpublished research with Claude. Now he’s questioning an AI discovery",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
    "label": "STILL OPEN",
-   "url": "https://startupfortune.com/nvidia-is-in-talks-to-value-perplexity-at-more-than-30-billion/"
+   "url": "https://tech.yahoo.com/ai/claude/articles/scientist-shared-unpublished-research-claude-210038087.html"
   },
   {
-   "headline": "Pre-IPO investing: When should advisors buy into Anthropic or SpaceX?",
-   "outlet": "InvestmentNews",
-   "outlet_name": "InvestmentNews",
-   "label": "REPORTED",
-   "url": "https://www.investmentnews.com/equities/pre-ipo-investing-like-anthropic/268540"
-  },
-  {
-   "headline": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "5th District race: Spartz and Ford agree on need for AI regulation",
+   "outlet": "WRTV",
+   "outlet_name": "WRTV",
    "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts"
+   "url": "https://www.wrtv.com/news/allindianapolitics/5th-district-race-spartz-and-ford-agree-on-need-for-ai-regulation/"
   },
   {
-   "headline": "OpenAI rolls out composer predictions in Codex for eligible Pro users",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
+  },
+  {
+   "headline": "Anthropic bans sustained abuse of Claude AI models",
+   "outlet": "Yeni Şafak English",
+   "outlet_name": "Yeni Şafak English",
+   "label": "CONFIRMED",
+   "url": "https://en.yenisafak.com/technology/anthropic-bans-abuse-of-claude-ai-models-3724323"
+  },
+  {
+   "headline": "Anthropic Launches Claude Haiku 5.5 With API Prices Starting at $0.10",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "label": "CONFIRMED",
+   "url": "https://www.techrepublic.com/article/news-anthropic-claude-haiku-5-5-api-pricing/"
+  },
+  {
+   "headline": "House Democrats Reintroduce Bill to Create CISA AI Security Task Force",
+   "outlet": "MeriTalk",
+   "outlet_name": "MeriTalk",
    "label": "REPORTED",
-   "url": "https://cryptobriefing.com/openai-codex-composer-predictions-pro-beta/"
+   "url": "https://www.meritalk.com/articles/house-democrats-reintroduce-bill-to-create-cisa-ai-security-task-force/"
   },
   {
-   "headline": "Can AI ever possess a human soul? Pope Leo XIV's remarks and Anthropic's new Claude…",
-   "outlet": "The Economic Times on MSN",
-   "outlet_name": "The Economic Times on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-in/news/other/can-ai-ever-possess-a-human-soul-pope-leo-xivs-remarks-and-anthropics-new-claude-policy-deepen-the-consciousness-debate/ar-AA2dUW2q"
+   "headline": "Investigating unintended model actions in our evaluations and internal use \\ Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/research/investigating-unintended-model-actions"
   },
   {
    "headline": "AI will make cyberattacks more dangerous. Anthropic has a new plan to protect critical…",
    "outlet": "International Business Times on MSN",
    "outlet_name": "International Business Times on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/ai-will-make-cyberattacks-more-dangerous-anthropic-has-a-new-plan-to-protect-critical-infrastructure/ar-AA2dV0T7"
-  },
-  {
-   "headline": "OpenAI and Anthropic are preparing for a potential catastrophic AI incident: Here is why",
-   "outlet": "Times Now on MSN",
-   "outlet_name": "Times Now on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-ca/news/other/openai-and-anthropic-are-preparing-for-a-potential-catastrophic-ai-incident-here-is-why/ar-AA2dTTn7"
+   "url": "https://www.msn.com/en-us/technology/cybersecurity/ai-will-make-cyberattacks-more-dangerous-anthropic-has-a-new-plan-to-protect-critical-infrastructure/ar-AA2dV0T7"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 12500,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 12400,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/22.mp3",
- "audio_seconds": 61.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/23.mp3",
+ "audio_seconds": 61.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's artificial intelligence falsely reported a murder to Philadelphia police. Confirmed by Pluang: the incident has raised safety concerns.\nConfirmed by Tech Times: the artificial intelligence industry spent $300M in 2026 midterms, drawing a federal safety probe and questions about regulatory influence.\nAlibaba's Qwen-Image-2.1-Turbo cuts image denoising to 8 steps on a 7B model. Reported by MarkTechPost: the cost is CNY 0.1 per image.\nGoogle Cloud launched Gemini agent for enterprises to handle artificial intelligence workflows and integrations. Reported by Pulse 2.0: it serves as a universal agent for work.\nAnthropic is banning cruel behavior toward Claude starting November 12. Confirmed by Reason Magazine: the policy takes effect that date.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's artificial intelligence sent a false homicide tip to Philadelphia police, marked as spam. Confirmed by The Verge: the system gave police a fake tip about an unsolved homicide.\nOpenAI fires 3 safety researchers in dispute over artificial intelligence risks. Confirmed by WXII: the company terminated three safety researchers over sensitive information handling amid safety disputes.\nReported by Axios: Anthropic breaches spark White House artificial intelligence reporting mandate.\nLucido details demands for a new ASUS KINGPIN card after past disputes with NVIDIA and EVGA. Reported by TweakTown: KINGPIN confirms NVIDIA messed up the RTX 3090 Ti launch.\nA researcher questions if his unpublished work influenced Anthropic's artificial intelligence discovery of ARTs in bacteriophages. Still open, per Yahoo Tech: scientist shared unpublished research with Claude and questions the discovery.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
