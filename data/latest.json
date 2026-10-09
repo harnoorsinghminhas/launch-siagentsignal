@@ -1,105 +1,63 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T14:20:01Z",
- "hour": "2026-10-09T14:00:00Z",
+ "generated_at": "2026-10-09T15:20:01Z",
+ "hour": "2026-10-09T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.com/news/articles/cvlydn8d3lkjo",
-   "label": "STILL OPEN",
-   "summary_1line": "Former OpenAI researchers say they were fired for safety concerns; company claims information breach.",
-   "published_at": "2026-10-09T09:30:49Z"
+   "title": "Litigating Damages Done By AI Agents Exposes Gaps In Criminal Law",
+   "outlet": "Legis1",
+   "outlet_name": "Legis1",
+   "url": "https://legis1.com/news/ai-agent-liability-harms-expose-gap-in-federal",
+   "label": "REPORTED",
+   "summary_1line": "CRS report urges new laws to hold humans accountable for AI agent harms without operator intent.",
+   "published_at": "2026-10-09T13:55:38Z"
   },
   {
-   "title": "Can You Get Banned For Bullying AI? Anthropic Introduces New Conduct Rules For Claude Users",
-   "outlet": "Free Press Journal",
-   "outlet_name": "Free Press Journal",
-   "url": "https://www.freepressjournal.in/tech/can-you-get-banned-for-bullying-ai-anthropic-introduces-new-conduct-rules-for-claude-users",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic bans sustained abuse of Claude, sparking debate on AI emotions and moral status.",
-   "published_at": "2026-10-09T04:47:00Z"
-  },
-  {
-   "title": "OpenAI's revenue scare, Delta earnings, what investors think of a Starbucks-Chipotle deal and more in Morning Squawk",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/09/5-things-to-know-before-the-stock-market-opens.html",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI's revenue shortfall causes tech stocks to fall; SpaceX and Chipotle news drive market moves.",
-   "published_at": "2026-10-09T12:40:30Z"
-  },
-  {
-   "title": "OpenAI, Anthropic, Meta asked by EU about AI law compliance, tech chief says",
+   "title": "AI systems could come under UK product liability law, expert body proposes",
    "outlet": "MLex",
    "outlet_name": "MLex",
-   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2536118/openai-anthropic-meta-asked-by-eu-about-ai-law-compliance-tech-chief-says",
+   "url": "https://www.mlex.com/mlex/articles/2536139/ai-systems-could-come-under-uk-product-liability-law-expert-body-proposes",
    "label": "REPORTED",
-   "summary_1line": "EU asks 30+ firms, including OpenAI and Meta, on AI law compliance.",
-   "published_at": "2026-10-09T11:49:38Z"
+   "summary_1line": "UK proposes AI systems under product liability law for defective AI harms.",
+   "published_at": "2026-10-09T12:27:45Z"
   },
   {
-   "title": "Google Unveils Unified Gemini AI Agent",
-   "outlet": "Dataconomy",
-   "outlet_name": "Dataconomy",
-   "url": "https://dataconomy.com/2026/10/09/google-unveils-unified-gemini-ai-agent/",
+   "title": "Gemini Flash-Lite for free users; effort can ‘use more of your limit’",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/gemini-flash-lite-free-users-nano-banana-2-1",
    "label": "REPORTED",
-   "summary_1line": "Google's Gemini AI agent rolls out to businesses, connecting to enterprise tools and enabling task automation.",
-   "published_at": "2026-10-09T12:28:32Z"
+   "summary_1line": "Free Gemini users lose two models; AI Plus loses Pro; AI Ultra keeps all.",
+   "published_at": "2026-10-09T12:20:26Z"
+  },
+  {
+   "title": "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
+   "url": "https://thenewstack.io/decision-models-system-one/",
+   "label": "REPORTED",
+   "summary_1line": "AWS, Upstage, Ollama adopt System One API; OpenAI offers limited Decisions API with no published schema.",
+   "published_at": "2026-10-09T12:03:50Z"
+  },
+  {
+   "title": "Anthropic launches Claude Dashboards and Motion for data visualisation",
+   "outlet": "Tech Edition",
+   "outlet_name": "Tech Edition",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXlJcldDQUp3TGJLTzJLVS1RM0VsbFUyWmd6NlVvLTFtM18zT2p6U1BTeVg0YWxteUQyUG56cXJscG02TldMYkYzbGsycDd0LXhVTEh1VlA5QlJVM0tYYmQ3Q2JVZ0NmWEI5ZTBBMXhHbHpQdmgydF9oUF8xMGxoRmVWUmNPdDNLdk1wemFfNHRlUHg3X1lfc2J3?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-09T14:40:56Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
-   "label": "STILL OPEN",
-   "url": "https://www.bbc.com/news/articles/cvlydn8d3lkjo"
-  },
-  {
-   "headline": "Can You Get Banned For Bullying AI? Anthropic Introduces New Conduct Rules For Claude…",
-   "outlet": "Free Press Journal",
-   "outlet_name": "Free Press Journal",
-   "label": "CONFIRMED",
-   "url": "https://www.freepressjournal.in/tech/can-you-get-banned-for-bullying-ai-anthropic-introduces-new-conduct-rules-for-claude-users"
-  },
-  {
-   "headline": "OpenAI's revenue scare, Delta earnings, what investors think of a Starbucks-Chipotle deal…",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/09/5-things-to-know-before-the-stock-market-opens.html"
-  },
-  {
-   "headline": "OpenAI, Anthropic, Meta asked by EU about AI law compliance, tech chief says",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
+   "headline": "Litigating Damages Done By AI Agents Exposes Gaps In Criminal Law",
+   "outlet": "Legis1",
+   "outlet_name": "Legis1",
    "label": "REPORTED",
-   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2536118/openai-anthropic-meta-asked-by-eu-about-ai-law-compliance-tech-chief-says"
-  },
-  {
-   "headline": "Google Unveils Unified Gemini AI Agent",
-   "outlet": "Dataconomy",
-   "outlet_name": "Dataconomy",
-   "label": "REPORTED",
-   "url": "https://dataconomy.com/2026/10/09/google-unveils-unified-gemini-ai-agent/"
-  },
-  {
-   "headline": "AI chatbots advised kids to cut, starve or kill themselves, claims lawsuit in US |…",
-   "outlet": "Inshorts",
-   "outlet_name": "Inshorts",
-   "label": "STILL OPEN",
-   "url": "https://inshorts.com/en/news/ai-chatbots-advised-kids-to-cut--starve-or-kill-themselves--claims-lawsuit-in-us-1791538241009"
-  },
-  {
-   "headline": "Who is Rohit Prasad? The Indian-origin former Amazon AI executive now leading humanoid…",
-   "outlet": "Hindustan Times",
-   "outlet_name": "Hindustan Times",
-   "label": "CONFIRMED",
-   "url": "https://www.hindustantimes.com/trending/who-is-rohit-prasad-the-indian-origin-former-amazon-ai-executive-now-leading-humanoid-robot-maker-boston-dynamics-101791544430837.html"
+   "url": "https://legis1.com/news/ai-agent-liability-harms-expose-gap-in-federal"
   },
   {
    "headline": "AI systems could come under UK product liability law, expert body proposes",
@@ -109,6 +67,48 @@
    "url": "https://www.mlex.com/mlex/articles/2536139/ai-systems-could-come-under-uk-product-liability-law-expert-body-proposes"
   },
   {
+   "headline": "Gemini Flash-Lite for free users; effort can ‘use more of your limit’",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "label": "REPORTED",
+   "url": "https://thenextweb.com/news/gemini-flash-lite-free-users-nano-banana-2-1"
+  },
+  {
+   "headline": "AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
+   "label": "REPORTED",
+   "url": "https://thenewstack.io/decision-models-system-one/"
+  },
+  {
+   "headline": "Anthropic launches Claude Dashboards and Motion for data visualisation",
+   "outlet": "Tech Edition",
+   "outlet_name": "Tech Edition",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXlJcldDQUp3TGJLTzJLVS1RM0VsbFUyWmd6NlVvLTFtM18zT2p6U1BTeVg0YWxteUQyUG56cXJscG02TldMYkYzbGsycDd0LXhVTEh1VlA5QlJVM0tYYmQ3Q2JVZ0NmWEI5ZTBBMXhHbHpQdmgydF9oUF8xMGxoRmVWUmNPdDNLdk1wemFfNHRlUHg3X1lfc2J3?oc=5"
+  },
+  {
+   "headline": "Anthropic Usage Policy to prohibit \"abusive or cruel behavior\" toward Claude",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/legal/aup"
+  },
+  {
+   "headline": "OpenAI sacks three safety researchers for breach of trust",
+   "outlet": "RTE.ie",
+   "outlet_name": "RTE.ie",
+   "label": "CONFIRMED",
+   "url": "https://www.rte.ie/news/2026/1009/1594692-cybersecurity-attacks-ai/"
+  },
+  {
+   "headline": "China AI developers publish safety tests for just 3.6% of model releases, report finds",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/china-ai-developers-publish-safety-tests-for-just-36-of-model-releases-report-finds/ar-AA2dTRSg"
+  },
+  {
    "headline": "AI Bubble Teetering on the Brink as OpenAI Admits to Massive Financial Failure",
    "outlet": "futurism.com",
    "outlet_name": "futurism.com",
@@ -116,11 +116,18 @@
    "url": "https://futurism.com/future-society/ai-financial-bubble-openai-billions-failure"
   },
   {
-   "headline": "USA Today sues OpenAI for over $250 million over AI training copyright infringement",
-   "outlet": "Windows Report on MSN",
-   "outlet_name": "Windows Report on MSN",
+   "headline": "Your Claude Code Bill Demystified: It’s Not the Model, It’s the Context",
+   "outlet": "levelup.gitconnected.com",
+   "outlet_name": "levelup.gitconnected.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-xl/news/other/usa-today-sues-openai-for-over-250-million-over-ai-training-copyright-infringement/ar-AA2dThFH"
+   "url": "https://levelup.gitconnected.com/your-claude-code-bill-demystified-its-not-the-model-it-s-the-context-f4ecaab5317f?source=rss------artificial_intelligence-5"
+  },
+  {
+   "headline": "Who is Rohit Prasad? The Indian-origin former Amazon AI executive now leading humanoid…",
+   "outlet": "Hindustan Times on MSN",
+   "outlet_name": "Hindustan Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/who-is-rohit-prasad-the-indian-origin-former-amazon-ai-executive-now-leading-humanoid-robot-maker-boston-dynamics/ar-AA2dTzUC"
   },
   {
    "headline": "Claude Dashboards: The Jupyter Notebooks of Agent Age",
@@ -128,23 +135,16 @@
    "outlet_name": "ssp.sh",
    "label": "REPORTED",
    "url": "https://www.ssp.sh/brain/claude-dashboards/"
-  },
-  {
-   "headline": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-   "outlet": "thehackernews.com",
-   "outlet_name": "thehackernews.com",
-   "label": "CONFIRMED",
-   "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by nine different outlets in the last few hours.",
- "articles_24h_rounded": 13100,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13000,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/14.mp3",
- "audio_seconds": 59.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/15.mp3",
+ "audio_seconds": 47.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nFormer OpenAI researchers say they were fired for prioritising safety, while the company claims an information breach occurred. Still open, per BBC.\nAnthropic has introduced new conduct rules banning sustained abuse of Claude, sparking debate on artificial intelligence emotions and moral status. Confirmed by Free Press Journal.\nOpenAI's revenue shortfall is causing tech stocks to fall, with SpaceX and Chipotle news driving market moves. Confirmed, per CNBC.\nReported by MLex: the EU has asked 30 or more firms, including OpenAI and Meta, about artificial intelligence law compliance.\nGoogle's Gemini artificial intelligence agent is rolling out to businesses, connecting to enterprise tools and enabling task automation. Reported by Dataconomy.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Legis1: Litigating Damages Done By AI Agents Exposes Gaps In Criminal Law.\nReported by MLex: AI systems could come under UK product liability law, expert body proposes.\nReported by The Next Web: Gemini Flash-Lite for free users; effort can ‘use more of your limit’.\nReported by The New Stack: AWS, Upstage and Ollama agree on a decision-model API. OpenAI hasn’t signed on.\nReported by Tech Edition: Anthropic launches Claude Dashboards and Motion for data visualisation.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
