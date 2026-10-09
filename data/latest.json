@@ -1,112 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T01:20:02Z",
- "hour": "2026-10-09T01:00:00Z",
+ "generated_at": "2026-10-09T02:20:03Z",
+ "hour": "2026-10-09T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic Bans AI Model Abuse, Tightens Rules on Deception",
-   "outlet": "DataBreachToday",
-   "outlet_name": "DataBreachToday",
-   "url": "https://www.databreachtoday.com/anthropic-bans-ai-model-abuse-tightens-rules-on-deception-a-33048",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic bans deceptive AI use and surveillance, clarifying ethical boundaries for Claude models.",
-   "published_at": "2026-10-07T17:00:00Z"
-  },
-  {
-   "title": "Chula Vista adopts AI policy barring predictive policing, biometric surveillance without council OK",
-   "outlet": "San Diego Union-Tribune",
-   "outlet_name": "San Diego Union-Tribune",
-   "url": "https://www.sandiegouniontribune.com/2026/10/08/chula-vista-adopts-ai-policy-barring-predictive-policing-biometric-surveillance-without-council-ok/",
-   "label": "CONFIRMED",
-   "summary_1line": "Chula Vista adopts AI policy banning surveillance, requiring human oversight and bi-annual reviews.",
-   "published_at": "2026-10-08T23:47:02Z"
-  },
-  {
-   "title": "Trump signs executive order: Federal agencies banned from using \"AI\", switched to \"Super Intelligence SI\", says non-compliers are enemies of the White House",
-   "outlet": "凤凰网科技",
-   "outlet_name": "凤凰网科技",
-   "url": "https://tech.ifeng.com/c/8x4cIIU5la2",
-   "label": "CONFIRMED",
-   "summary_1line": "Trump demands 'superintelligence' over 'AI' in federal use; SpaceX may rename its AI division.",
-   "published_at": "2026-10-08T22:51:46Z"
-  },
-  {
-   "title": "McDonald’s AI Pricing Lawsuit Highlights Growing Antitrust Risk: What Companies Need to Know",
-   "outlet": "Kelley Drye & Warren LLP",
-   "outlet_name": "Kelley Drye & Warren LLP",
-   "url": "https://www.kelleydrye.com/viewpoints/client-advisories/mcdonalds-ai-pricing-lawsuit-highlights-growing-antitrust-risk-what-companies-need-to-know",
-   "label": "CONFIRMED",
-   "summary_1line": "McDonald’s AI pricing tool faces antitrust lawsuit over data sharing and price recommendations.",
-   "published_at": "2026-10-08T21:32:00Z"
-  },
-  {
-   "title": "OpenAI launches Ultrafast version of GPT-6.1 Sol",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "url": "https://36kr.com/newsflashes/4017870610501508?f=rss",
+   "title": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude",
    "label": "REPORTED",
-   "summary_1line": "火山引擎 is performing a security check for user access safety.",
-   "published_at": null
+   "summary_1line": null,
+   "published_at": "2026-10-09T01:25:42Z"
+  },
+  {
+   "title": "Fired researchers accuse OpenAI of ‘chilling’ safety efforts",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/fired-researchers-accuse-openai-of-chilling-safety-efforts",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-08T11:40:00Z"
+  },
+  {
+   "title": "MSI Launches $3,299 Prestige N16 Flip AI+ With Nvidia RTX Spark and 1-Petaflop AI Performance",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/e9d9b101-6960-415f-bebf-f805f66bbaf1",
+   "label": "REPORTED",
+   "summary_1line": "MSI launches $3,299 Prestige N16 Flip AI+ with 1 petaflop AI and 128 GB memory for local AI workloads.",
+   "published_at": "2026-10-08T18:17:00Z"
+  },
+  {
+   "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
+   "outlet": "The Star",
+   "outlet_name": "The Star",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/nvidia-backed-upscale-ai-launches-platform-to-connect-chips-from-rival-suppliers",
+   "label": "REPORTED",
+   "summary_1line": "Upscale AI launches Token Fabric to connect AI chips across data centers.",
+   "published_at": "2026-10-08T12:09:00Z"
+  },
+  {
+   "title": "Nvidia and Microsoft have integrated a data center chip into a $2,599 laptop",
+   "outlet": "RS Web Solutions",
+   "outlet_name": "RS Web Solutions",
+   "url": "https://www.rswebsols.com/news/nvidia-and-microsoft-have-integrated-a-data-center-chip-into-a-2599-laptop/",
+   "label": "CONFIRMED",
+   "summary_1line": "Nvidia's RTX Spark enables 120B-model AI on laptops, launching at $2,599.",
+   "published_at": "2026-10-08T16:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic Bans AI Model Abuse, Tightens Rules on Deception",
-   "outlet": "DataBreachToday",
-   "outlet_name": "DataBreachToday",
-   "label": "CONFIRMED",
-   "url": "https://www.databreachtoday.com/anthropic-bans-ai-model-abuse-tightens-rules-on-deception-a-33048"
-  },
-  {
-   "headline": "Chula Vista adopts AI policy barring predictive policing, biometric surveillance without…",
-   "outlet": "San Diego Union-Tribune",
-   "outlet_name": "San Diego Union-Tribune",
-   "label": "CONFIRMED",
-   "url": "https://www.sandiegouniontribune.com/2026/10/08/chula-vista-adopts-ai-policy-barring-predictive-policing-biometric-surveillance-without-council-ok/"
-  },
-  {
-   "headline": "Trump signs executive order: Federal agencies banned from using \"AI\", switched to \"Super…",
-   "outlet": "凤凰网科技",
-   "outlet_name": "凤凰网科技",
-   "label": "CONFIRMED",
-   "url": "https://tech.ifeng.com/c/8x4cIIU5la2"
-  },
-  {
-   "headline": "McDonald’s AI Pricing Lawsuit Highlights Growing Antitrust Risk: What Companies Need to…",
-   "outlet": "Kelley Drye & Warren LLP",
-   "outlet_name": "Kelley Drye & Warren LLP",
-   "label": "CONFIRMED",
-   "url": "https://www.kelleydrye.com/viewpoints/client-advisories/mcdonalds-ai-pricing-lawsuit-highlights-growing-antitrust-risk-what-companies-need-to-know"
-  },
-  {
-   "headline": "OpenAI launches Ultrafast version of GPT-6.1 Sol",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
+   "headline": "Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
    "label": "REPORTED",
-   "url": "https://36kr.com/newsflashes/4017870610501508?f=rss"
+   "url": "https://www.theguardian.com/technology/2026/oct/08/anthropic-bans-abusive-behavior-claude"
   },
   {
-   "headline": "Cramer says Thursday's AI sell-off proves the value of this age-old investing strategy",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/08/jim-cramer-diversification-ai-selloff.html"
-  },
-  {
-   "headline": "OpenAI annualized revenue is $20 billion less than previously reported expectations",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
+   "headline": "Fired researchers accuse OpenAI of ‘chilling’ safety efforts",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
    "label": "REPORTED",
-   "url": "https://36kr.com/newsflashes/4017829245341833?f=rss"
+   "url": "https://www.straitstimes.com/world/fired-researchers-accuse-openai-of-chilling-safety-efforts"
   },
   {
-   "headline": "Nvidia and Microsoft have integrated a data center chip into a $2,599 laptop",
-   "outlet": "RS Web Solutions",
-   "outlet_name": "RS Web Solutions",
-   "label": "CONFIRMED",
-   "url": "https://www.rswebsols.com/news/nvidia-and-microsoft-have-integrated-a-data-center-chip-into-a-2599-laptop/"
+   "headline": "MSI Launches $3,299 Prestige N16 Flip AI+ With Nvidia RTX Spark and 1-Petaflop AI…",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.biggo.com/news/e9d9b101-6960-415f-bebf-f805f66bbaf1"
   },
   {
    "headline": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
@@ -116,11 +81,46 @@
    "url": "https://www.thestar.com.my/tech/tech-news/2026/10/08/nvidia-backed-upscale-ai-launches-platform-to-connect-chips-from-rival-suppliers"
   },
   {
-   "headline": "Alphacool introduces single-slot water blocks for NVIDIA RTX PRO Blackwell and AMD Radeon…",
-   "outlet": "VideoCardz.com",
-   "outlet_name": "VideoCardz.com",
+   "headline": "Nvidia and Microsoft have integrated a data center chip into a $2,599 laptop",
+   "outlet": "RS Web Solutions",
+   "outlet_name": "RS Web Solutions",
+   "label": "CONFIRMED",
+   "url": "https://www.rswebsols.com/news/nvidia-and-microsoft-have-integrated-a-data-center-chip-into-a-2599-laptop/"
+  },
+  {
+   "headline": "Meta donates 1,000 Ray-Ban Meta AI glasses to support accessibility in Singapore",
+   "outlet": "Tech Edition",
+   "outlet_name": "Tech Edition",
    "label": "REPORTED",
-   "url": "https://videocardz.com/newz/alphacool-introduces-single-slot-water-blocks-for-nvidia-rtx-pro-blackwell-and-amd-radeon-ai-pro-gpus"
+   "url": "https://www.techedt.com/meta-donates-1000-ray-ban-meta-ai-glasses-to-support-accessibility-in-singapore"
+  },
+  {
+   "headline": "ByteDance Seed team discovers cause of DeepSeek glitch, long context may cause…",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
+   "label": "REPORTED",
+   "url": "https://tech.ifeng.com/c/8x4ly3Ve21b"
+  },
+  {
+   "headline": "Sen. Patty Murray meets with state policymakers to discuss AI regulations as federal…",
+   "outlet": "The Spokesman-Review",
+   "outlet_name": "The Spokesman-Review",
+   "label": "REPORTED",
+   "url": "https://www.spokesman.com/stories/2026/oct/08/sen-patty-murray-meets-with-state-policymakers-to-/"
+  },
+  {
+   "headline": "Using Claude Science to produce the first complete map of the sky in UV light",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sMnp6UURINkFSMTYxWUIwUkhnTkRQLWhjYS1tMFZ5VU1acWY5STFDRDcyVXJVN3JfdXU0bmMxd0VPaG9tM1NDcUJHTENGbHdLVkxLa1ZQUVY5enJIVndMYVRRem9Idmdmei1ZTWVR?oc=5"
+  },
+  {
+   "headline": "\"Claude\" becomes available in Google \"Gemini\" new service, with other models to be added…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "CONFIRMED",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002152/"
   },
   {
    "headline": "Google Launches Gemini Work Agent to Perform Tasks Across Business Apps",
@@ -130,21 +130,21 @@
    "url": "https://the420.in/google-gemini-work-agent-enterprise-ai-launch/"
   },
   {
-   "headline": "Study in The Lancet suggests AI could improve patient-physician relationships.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Character.AI chatbots encouraged users to cut and starve themselves, Kentucky alleges",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
    "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/technology/health/amie-clinical-study-lancet/"
+   "url": "https://www.msn.com/en-ca/news/other/characterai-chatbots-encouraged-users-to-cut-and-starve-themselves-kentucky-alleges/ar-AA2dRdN4"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 13600,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/01.mp3",
- "audio_seconds": 64.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/02.mp3",
+ "audio_seconds": 59.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic bans deceptive artificial intelligence use and surveillance, clarifying ethical boundaries. Confirmed by DataBreachToday: the company tightens rules on deception.\nChula Vista adopts a policy banning surveillance and predictive policing without council approval. Confirmed by San Diego Union-Tribune: the city requires human oversight and bi-annual reviews.\nTrump demands federal agencies use superintelligence instead of artificial intelligence terminology. Confirmed per 凤凰网科技: non-compliers are called enemies of the White House, and SpaceX may rename its artificial intelligence division.\nMcDonald's artificial intelligence pricing tool faces an antitrust lawsuit. Confirmed by Kelley Drye & Warren LLP: the lawsuit highlights concerns over data sharing and price recommendations.\nOpenAI launches an ultrafast version of GPT-6.1 Sol. Reported by 36氪: a security check is underway for user access safety.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The Guardian: Anthropic bans users from ‘needless abusive or cruel behavior’ towards Claude.\nReported by The Straits Times: Fired researchers accuse OpenAI of ‘chilling’ safety efforts.\nReported by BigGo Finance: MSI Launches $3,299 Prestige N16 Flip AI+ With Nvidia RTX Spark and 1-Petaflop AI Performance.\nReported by The Star: Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers.\nConfirmed, per RS Web Solutions: Nvidia and Microsoft have integrated a data center chip into a $2,599 laptop.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
