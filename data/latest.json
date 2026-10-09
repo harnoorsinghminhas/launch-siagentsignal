@@ -1,112 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T16:20:01Z",
- "hour": "2026-10-09T16:00:00Z",
+ "generated_at": "2026-10-09T17:20:02Z",
+ "hour": "2026-10-09T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-   "outlet": "The Hacker News",
-   "outlet_name": "The Hacker News",
-   "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+   "title": "OpenAI Says Fired Safety Researchers Breached Trust, Not That They Voiced Concerns",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/42df000d-7828-4bae-a271-c0197099d568",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic launches AI-powered OSS Scanner with 29K vulnerability scans and 584 advisories.",
-   "published_at": "2026-10-09T05:47:00Z"
+   "summary_1line": "OpenAI fires safety researchers over sensitive info breach; they say it was about speaking out, not safety concerns.",
+   "published_at": "2026-10-09T15:05:00Z"
   },
   {
-   "title": "Being mean to AI could get you banned as Anthropic introduces new rules against abusing Claude",
-   "outlet": "TechSpot",
-   "outlet_name": "TechSpot",
-   "url": "https://www.techspot.com/news/114153-mean-ai-could-get-you-banned-anthropic-introduces.html",
+   "title": "KONST Raises $30M Series B funding Led by ADATA Technology to Scale Up AI Data Center Buildout in Asia and Advance Its Token Factory Strategy",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/konst-raises-30m-series-b-funding-led-by-adata-technology-to-scale-up-ai-data-center-buildout-in-asia-and-advance-its-token-factory-strategy-302903455.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic bans abusive behavior toward Claude, updates policy for November 12.",
-   "published_at": "2026-10-09T03:16:00Z"
+   "summary_1line": "KONST raises $30M to scale AI data centers and launch Token Factory for enterprises in Asia.",
+   "published_at": "2026-10-09T15:00:00Z"
   },
   {
-   "title": "OpenAI Leads Global AI Acquisition Spree: 195 Verified AI Mergers & Acquisitions Unveiled, Top Single Deal Hits $11 Billion Valuation",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1bnpycUNDRUx3bjdXd1FnVUhuWTFxWWhuQmdQY3NDNmd3bFdzOHE5bGxxblpuZ2cyaVp0ZUNVZk1YUlVXbHZVcXc4WVlaMVFueE9n?oc=5",
+   "title": "GBM Launches UAE AI Lab Built on Cisco and NVIDIA Infrastructure",
+   "outlet": "PCMag Middle East",
+   "outlet_name": "PCMag Middle East",
+   "url": "https://me.pcmag.com/en/ai/38288/gbm-launches-uae-ai-lab-built-on-cisco-and-nvidia-infrastructure",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-09T15:54:34Z"
+   "summary_1line": "GBM launches UAE’s first AI Lab with Cisco and NVIDIA for secure, local AI testing.",
+   "published_at": "2026-10-09T10:36:50Z"
   },
   {
-   "title": "The AI election: Wall Street braces for midterms amid mounting opposition to data centers",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/09/the-ai-election-wall-street-braces-for-midterms-impact-on-data-centers.html",
+   "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+   "outlet": "bbc.com",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.com/news/articles/cr86z33pdy9vo",
    "label": "CONFIRMED",
-   "summary_1line": "AI policy faces political and market tension ahead of 2026 midterms.",
-   "published_at": "2026-10-09T15:00:22Z"
+   "summary_1line": "Nikon disqualifies AI-generated scientific video from its microscopy competition.",
+   "published_at": "2026-10-09T15:49:51Z"
   },
   {
-   "title": "USA Today network, including Courier Journal, sue OpenAI",
-   "outlet": "WKU Public Radio",
-   "outlet_name": "WKU Public Radio",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmZiT09vZTByNWRNR0dyNWFKQmtwNEd0bUFOSHpkdlNYc1dDZjU4YUM3NTQ3emwyNThCTHBFYy12MndodjVUV19CZExBa0hYc2hwN3lzcVBNYnh1R2JtbVhjam9fbVBwVy15enQ5ejlXWThKbW41RHRIcy01MjFlM2gtbGhpOEFiVktfMC1YMVVGZw?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-09T15:35:00Z"
+   "title": "Anthropic claims Chinese AI firms secretly use Claude. Is it true?",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
+   "url": "https://amp.scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic claims Chinese firms secretly use Claude via fraudulent accounts and proxy networks.",
+   "published_at": "2026-10-09T13:30:07Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-   "outlet": "The Hacker News",
-   "outlet_name": "The Hacker News",
+   "headline": "OpenAI Says Fired Safety Researchers Breached Trust, Not That They Voiced Concerns",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
    "label": "CONFIRMED",
-   "url": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html"
+   "url": "https://finance.biggo.com/news/42df000d-7828-4bae-a271-c0197099d568"
   },
   {
-   "headline": "Being mean to AI could get you banned as Anthropic introduces new rules against abusing…",
-   "outlet": "TechSpot",
-   "outlet_name": "TechSpot",
+   "headline": "KONST Raises $30M Series B funding Led by ADATA Technology to Scale Up AI Data Center…",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
    "label": "CONFIRMED",
-   "url": "https://www.techspot.com/news/114153-mean-ai-could-get-you-banned-anthropic-introduces.html"
+   "url": "https://www.prnewswire.com/news-releases/konst-raises-30m-series-b-funding-led-by-adata-technology-to-scale-up-ai-data-center-buildout-in-asia-and-advance-its-token-factory-strategy-302903455.html"
   },
   {
-   "headline": "OpenAI Leads Global AI Acquisition Spree: 195 Verified AI Mergers & Acquisitions…",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
+   "headline": "GBM Launches UAE AI Lab Built on Cisco and NVIDIA Infrastructure",
+   "outlet": "PCMag Middle East",
+   "outlet_name": "PCMag Middle East",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1bnpycUNDRUx3bjdXd1FnVUhuWTFxWWhuQmdQY3NDNmd3bFdzOHE5bGxxblpuZ2cyaVp0ZUNVZk1YUlVXbHZVcXc4WVlaMVFueE9n?oc=5"
+   "url": "https://me.pcmag.com/en/ai/38288/gbm-launches-uae-ai-lab-built-on-cisco-and-nvidia-infrastructure"
   },
   {
-   "headline": "The AI election: Wall Street braces for midterms amid mounting opposition to data centers",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+   "outlet": "bbc.com",
+   "outlet_name": "BBC",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/09/the-ai-election-wall-street-braces-for-midterms-impact-on-data-centers.html"
+   "url": "https://www.bbc.com/news/articles/cr86z33pdy9vo"
   },
   {
-   "headline": "USA Today network, including Courier Journal, sue OpenAI",
-   "outlet": "WKU Public Radio",
-   "outlet_name": "WKU Public Radio",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmZiT09vZTByNWRNR0dyNWFKQmtwNEd0bUFOSHpkdlNYc1dDZjU4YUM3NTQ3emwyNThCTHBFYy12MndodjVUV19CZExBa0hYc2hwN3lzcVBNYnh1R2JtbVhjam9fbVBwVy15enQ5ejlXWThKbW41RHRIcy01MjFlM2gtbGhpOEFiVktfMC1YMVVGZw?oc=5"
+   "headline": "Anthropic claims Chinese AI firms secretly use Claude. Is it true?",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
+   "label": "STILL OPEN",
+   "url": "https://amp.scmp.com/tech/tech-war/article/3370317/anthropic-claims-chinese-ai-firms-secretly-use-claude-it-true"
   },
   {
-   "headline": "Anthropic will ban sustained, needless abuse of Claude",
-   "outlet": "The Rundown AI",
-   "outlet_name": "The Rundown AI",
-   "label": "REPORTED",
-   "url": "https://www.therundown.ai/news/anthropic-claude-abuse-rule-ai-welfare"
-  },
-  {
-   "headline": "Anthropic Usage Policy to prohibit \"abusive or cruel behavior\" toward Claude",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
+   "headline": "China AI developers publish safety tests for just 3.6% of model releases, report finds",
+   "outlet": "WTVB",
+   "outlet_name": "WTVB",
    "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/legal/aup"
+   "url": "https://wtvbam.com/2026/10/09/china-ai-developers-publish-safety-tests-for-just-3-6-of-model-releases-report-finds/"
   },
   {
-   "headline": "OpenAI sacks three safety researchers for breach of trust",
-   "outlet": "RTE.ie",
-   "outlet_name": "RTE.ie",
+   "headline": "How AI, data centres and cybersecurity are reshaping security",
+   "outlet": "Lombard Odier",
+   "outlet_name": "Lombard Odier",
    "label": "CONFIRMED",
-   "url": "https://www.rte.ie/news/2026/1009/1594692-cybersecurity-attacks-ai/"
+   "url": "https://www.lombardodier.com/insights/2026/october/defence-goes-digital.html"
   },
   {
    "headline": "Mathematicians React With Fury as OpenAI Releases Hundreds of New AI-Generated Proofs",
@@ -116,35 +109,42 @@
    "url": "https://futurism.com/artificial-intelligence/mathematicians-openai-furious"
   },
   {
+   "headline": "Democrats prepare to battle over AI regulation",
+   "outlet": "Transformer on MSN",
+   "outlet_name": "Transformer on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/democrats-prepare-to-battle-over-ai-regulation/ar-AA2dU3zk"
+  },
+  {
+   "headline": "How Postman runs Agent Mode for 40 million developers on Amazon Bedrock",
+   "outlet": "aws.amazon.com",
+   "outlet_name": "aws.amazon.com",
+   "label": "REPORTED",
+   "url": "https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/"
+  },
+  {
+   "headline": "xAI's Michael Roberson joins OpenAI infrastructure team as commissioning program manager",
+   "outlet": "datacenterdynamics.com",
+   "outlet_name": "datacenterdynamics.com",
+   "label": "REPORTED",
+   "url": "https://www.datacenterdynamics.com/en/news/xais-michael-roberson-joins-openai-infrastructure-team-as-commissioning-program-manager/"
+  },
+  {
    "headline": "Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite",
    "outlet": "infoq.com",
    "outlet_name": "infoq.com",
    "label": "REPORTED",
    "url": "https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global"
-  },
-  {
-   "headline": "Anthropic-linked $366m data center project filed for in Cedar Creek, Texas",
-   "outlet": "datacenterdynamics.com",
-   "outlet_name": "datacenterdynamics.com",
-   "label": "REPORTED",
-   "url": "https://www.datacenterdynamics.com/en/news/anthropic-linked-366m-data-center-project-filed-for-in-cedar-creek-texas/"
-  },
-  {
-   "headline": "Your Claude Code Bill Demystified: It’s Not the Model, It’s the Context",
-   "outlet": "levelup.gitconnected.com",
-   "outlet_name": "levelup.gitconnected.com",
-   "label": "REPORTED",
-   "url": "https://levelup.gitconnected.com/your-claude-code-bill-demystified-its-not-the-model-it-s-the-context-f4ecaab5317f?source=rss------artificial_intelligence-5"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13100,
+ "articles_24h_rounded": 13000,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/16.mp3",
- "audio_seconds": 64.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/17.mp3",
+ "audio_seconds": 49.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic launches an open-source vulnerability scanner powered by artificial intelligence, processing 29K scans and identifying 584 advisories. Confirmed by The Hacker News.\nAnthropic updates its policies to ban abusive behavior toward Claude, with new rules taking effect November 12. Confirmed by TechSpot.\nOpenAI leads a global acquisition wave with 195 verified artificial intelligence mergers and acquisitions, including a single deal valued at 11 billion dollars. Reported by 36Kr.\nArtificial intelligence policy faces mounting political and market tension as Wall Street prepares for the 2026 midterms. Confirmed by CNBC.\nUSA Today network outlets, including the Courier Journal, sue OpenAI. Reported by WKU Public Radio.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BigGo Finance: OpenAI Says Fired Safety Researchers Breached Trust, Not That They Voiced Concerns.\nConfirmed, per PR Newswire: KONST Raises $30M Series B funding Led by ADATA Technology to Scale Up AI Data Center Buildout in Asia and Advance Its Token Factory Strategy.\nReported by PCMag Middle East: GBM Launches UAE AI Lab Built on Cisco and NVIDIA Infrastructure.\nConfirmed, per BBC: Prize-winning image which sparked backlash was AI-generated, Nikon rules.\nStill open, per South China Morning Post: Anthropic claims Chinese AI firms secretly use Claude. Is it true.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
