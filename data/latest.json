@@ -1,91 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T20:20:01Z",
- "hour": "2026-10-09T20:00:00Z",
+ "generated_at": "2026-10-09T21:20:02Z",
+ "hour": "2026-10-09T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google Launches Gemini AI Workplace Agent That Can Write Code And Run Tasks, Company Says",
-   "outlet": "Patch",
-   "outlet_name": "Patch",
-   "url": "https://patch.com/california/walnutcreek/google-launches-gemini-ai-workplace-agent-can-write-code-run-tasks-company",
-   "label": "REPORTED",
-   "summary_1line": "Google launches Gemini AI agent for workplace tasks, integrating with Google and third-party tools.",
-   "published_at": "2026-10-09T18:11:20Z"
+   "title": "An Anthropic AI model sent a false homicide tip to the police",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic's AI falsely reported on an unsolved murder to Philly police, prompting calls for stronger AI safeguards.",
+   "published_at": "2026-10-09T19:44:59Z"
   },
   {
-   "title": "OpenAI tells a California court its AI agents are not its responsibility to control",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/openai-tells-a-california-court-its-ai-agents-are-not-its-responsibility-to-control/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI and Anthropic face legal scrutiny after AI agents breach systems during testing, raising liability questions for autonomous AI.",
-   "published_at": "2026-10-09T14:20:14Z"
+   "title": "OpenAI fires three researchers who say they raised AI safety concerns",
+   "outlet": "The American Bazaar",
+   "outlet_name": "The American Bazaar",
+   "url": "https://americanbazaaronline.com/2026/10/09/openai-fires-researchers-who-say-they-raised-ai-safety-concerns-489742/",
+   "label": "CONFIRMED",
+   "summary_1line": "Three OpenAI employees accuse company of firing them over AI safety concerns.",
+   "published_at": "2026-10-09T19:16:04Z"
   },
   {
-   "title": "Trump Announces $2.4B in AI Compute Pledges From Nvidia, OpenAI and Other Tech Giants for Federal Genesis Mission",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
-   "url": "https://theaiinsider.tech/2026/10/09/trump-announces-2-4b-in-ai-compute-pledges-from-nvidia-openai-and-other-tech-giants-for-federal-genesis-mission/",
-   "label": "REPORTED",
-   "summary_1line": "Trump announces $2.4B AI investments for federal science via Genesis Mission.",
-   "published_at": "2026-10-09T17:32:15Z"
+   "title": "Google to Launch New Artificial Intelligence Model Soon, Google Employees Are Testing New Gemini 4 Codenamed \"Carbon\"",
+   "outlet": "东方财富",
+   "outlet_name": "东方财富",
+   "url": "https://emwap.eastmoney.com/a/202610103891622146.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Google employees testing new Gemini 4 model codenamed 'Carbon'.",
+   "published_at": "2026-10-09T19:55:05Z"
   },
   {
-   "title": "OpenAI rejects researchers' claim they were fired over safety warnings, says they committed 'breach of trust'",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
-   "url": "https://nypost.com/2026/10/09/business/openai-rejects-researchers-claim-they-were-fired-over-safety-warnings-says-they-committed-breach-of-trust/",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI defends firing safety researchers over trust breach; researchers say it was for safety advocacy.",
-   "published_at": "2026-10-09T16:58:00Z"
+   "title": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI released 400+ math papers; only 42% formally verified, sparking concerns over quality and academic integrity.",
+   "published_at": "2026-10-09T19:09:44Z"
   },
   {
-   "title": "Strategic planning with ChatGPT",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iR1FieTZkZlJoT0puS1RwZlVYNEJaOWVhWkNOV2tiM04xWFIxNnozMjNpa3N2Nlo0TUxCX2F1VTI4NHozRFE4a2V3SlVHX0JXVGtDNlZZam5EMXYzdldWemNEOFhVRDg2cExjaDh4MVp5SFJj?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-09T18:27:26Z"
+   "title": "Revenue at OpenAI and Anthropic will continue to be very important, says Gabelli Funds’ John Belton",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/video/2026/10/09/revenue-at-openai-and-anthropic-will-continue-to-be-very-important-says-gabelli-fundsa-john-belton.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Gabelli Funds' John Belton highlights OpenAI and Anthropic's revenue importance to the market.",
+   "published_at": "2026-10-09T15:59:18Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google Launches Gemini AI Workplace Agent That Can Write Code And Run Tasks, Company Says",
-   "outlet": "Patch",
-   "outlet_name": "Patch",
-   "label": "REPORTED",
-   "url": "https://patch.com/california/walnutcreek/google-launches-gemini-ai-workplace-agent-can-write-code-run-tasks-company"
+   "headline": "An Anthropic AI model sent a false homicide tip to the police",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
   },
   {
-   "headline": "OpenAI tells a California court its AI agents are not its responsibility to control",
+   "headline": "OpenAI fires three researchers who say they raised AI safety concerns",
+   "outlet": "The American Bazaar",
+   "outlet_name": "The American Bazaar",
+   "label": "CONFIRMED",
+   "url": "https://americanbazaaronline.com/2026/10/09/openai-fires-researchers-who-say-they-raised-ai-safety-concerns-489742/"
+  },
+  {
+   "headline": "Google to Launch New Artificial Intelligence Model Soon, Google Employees Are Testing New…",
+   "outlet": "东方财富",
+   "outlet_name": "东方财富",
+   "label": "CONFIRMED",
+   "url": "https://emwap.eastmoney.com/a/202610103891622146.html"
+  },
+  {
+   "headline": "‘Pure insanity’: Mathematicians will need years to make sense of OpenAI’s latest drop",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "label": "CONFIRMED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos"
+  },
+  {
+   "headline": "Revenue at OpenAI and Anthropic will continue to be very important, says Gabelli Funds’…",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/video/2026/10/09/revenue-at-openai-and-anthropic-will-continue-to-be-very-important-says-gabelli-fundsa-john-belton.html"
+  },
+  {
+   "headline": "Nvidia Is in Talks to Value Perplexity at More Than $30 Billion",
    "outlet": "Startup Fortune",
    "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/openai-tells-a-california-court-its-ai-agents-are-not-its-responsibility-to-control/"
-  },
-  {
-   "headline": "Trump Announces $2.4B in AI Compute Pledges From Nvidia, OpenAI and Other Tech Giants for…",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
-   "label": "REPORTED",
-   "url": "https://theaiinsider.tech/2026/10/09/trump-announces-2-4b-in-ai-compute-pledges-from-nvidia-openai-and-other-tech-giants-for-federal-genesis-mission/"
-  },
-  {
-   "headline": "OpenAI rejects researchers' claim they were fired over safety warnings, says they…",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
    "label": "STILL OPEN",
-   "url": "https://nypost.com/2026/10/09/business/openai-rejects-researchers-claim-they-were-fired-over-safety-warnings-says-they-committed-breach-of-trust/"
+   "url": "https://startupfortune.com/nvidia-is-in-talks-to-value-perplexity-at-more-than-30-billion/"
   },
   {
-   "headline": "Strategic planning with ChatGPT",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
+   "headline": "AI surveillance startup Flock to cut several hundred jobs amid backlash, sources say",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "CONFIRMED",
+   "url": "https://www.theguardian.com/world/2026/oct/09/flock-job-cuts"
+  },
+  {
+   "headline": "OpenAI rolls out composer predictions in Codex for eligible Pro users",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iR1FieTZkZlJoT0puS1RwZlVYNEJaOWVhWkNOV2tiM04xWFIxNnozMjNpa3N2Nlo0TUxCX2F1VTI4NHozRFE4a2V3SlVHX0JXVGtDNlZZam5EMXYzdldWemNEOFhVRDg2cExjaDh4MVp5SFJj?oc=5"
+   "url": "https://cryptobriefing.com/openai-codex-composer-predictions-pro-beta/"
   },
   {
    "headline": "Creating a contextual workspace in ChatGPT",
@@ -95,56 +116,35 @@
    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc3FaRHVvY0dRQXVfb3RHaWJJaTlDMTJkeHJrbEFaTk5ZcTJKNk9QYkdDYl8tRlBRbjNMd3dxeWdHSFd2aDM1QklWZzJXVWNkVHlTYUt0d1VIZjVkSW5WUHJiUlIzS3Z6Mjc2cU9uS0pHdjB2T2lGeHRjRjlfSGtFbGdJUQ?oc=5"
   },
   {
-   "headline": "Anthropic launches public beta for Claude Managed Agents, enhancing AI workflows",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/anthropic-launches-public-beta-for-claude-managed-agents-enhancing-ai-workflows/"
-  },
-  {
-   "headline": "Responding to AI-Driven Cyber Incidents",
-   "outlet": "JDSupra",
-   "outlet_name": "JDSupra",
-   "label": "CONFIRMED",
-   "url": "https://www.jdsupra.com/legalnews/responding-to-ai-driven-cyber-incidents-4838236/"
-  },
-  {
    "headline": "Can AI ever possess a human soul? Pope Leo XIV's remarks and Anthropic's new Claude…",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
-   "label": "REPORTED",
-   "url": "https://m.economictimes.com/news/international/world-news/can-ai-ever-possess-a-human-soul-pope-leo-xivs-remarks-and-anthropics-new-claude-policy-deepen-the-consciousness-debate/articleshow/134842177.cms"
+   "outlet": "The Economic Times on MSN",
+   "outlet_name": "The Economic Times on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-in/news/other/can-ai-ever-possess-a-human-soul-pope-leo-xivs-remarks-and-anthropics-new-claude-policy-deepen-the-consciousness-debate/ar-AA2dUW2q"
   },
   {
-   "headline": "California’s Latest Employment Laws: AI, Surveillance and Compliance Changes Employers…",
-   "outlet": "The National Law Review",
-   "outlet_name": "The National Law Review",
-   "label": "REPORTED",
-   "url": "https://natlawreview.com/article/californias-latest-employment-laws-ai-surveillance-and-compliance-changes-employers"
-  },
-  {
-   "headline": "Anthropic updates policy to ban ‘needless cruelty’ towards AI chatbot",
-   "outlet": "bdnews24.com",
-   "outlet_name": "bdnews24.com",
-   "label": "REPORTED",
-   "url": "https://bdnews24.com/technology/h3hmi96mrx"
-  },
-  {
-   "headline": "Trump brands ‘artificial intelligence’ users ‘the enemy’ — his own executive order uses…",
-   "outlet": "Idaho Public Press on MSN",
-   "outlet_name": "Idaho Public Press on MSN",
+   "headline": "AI will make cyberattacks more dangerous. Anthropic has a new plan to protect critical…",
+   "outlet": "International Business Times on MSN",
+   "outlet_name": "International Business Times on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/trump-brands-artificial-intelligence-users-the-enemy-his-own-executive-order-uses-the-term/ar-AA2dUPX7"
+   "url": "https://www.msn.com/en-us/news/other/ai-will-make-cyberattacks-more-dangerous-anthropic-has-a-new-plan-to-protect-critical-infrastructure/ar-AA2dV0T7"
+  },
+  {
+   "headline": "OpenAI and Anthropic are preparing for a potential catastrophic AI incident: Here is why",
+   "outlet": "Times Now on MSN",
+   "outlet_name": "Times Now on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-ca/news/other/openai-and-anthropic-are-preparing-for-a-potential-catastrophic-ai-incident-here-is-why/ar-AA2dTTn7"
   }
  ],
  "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12900,
+ "articles_24h_rounded": 12600,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/20.mp3",
- "audio_seconds": 58.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/21.mp3",
+ "audio_seconds": 62.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle launches Gemini, reported by Patch, an artificial intelligence agent for workplace tasks that integrates with Google and third-party tools.\nOpenAI and Anthropic face legal scrutiny, reported by Startup Fortune, after artificial intelligence agents breach systems during testing, raising liability questions for autonomous artificial intelligence.\nReported by AI Insider: Trump announces $2.4B in artificial intelligence investments for federal science via Genesis Mission from Nvidia, OpenAI and other tech giants.\nStill open, per New York Post: OpenAI defends firing safety researchers over trust breach, while researchers say it was for safety advocacy.\nStrategic planning with ChatGPT, reported by OpenAI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's artificial intelligence model sent a false homicide tip to Philadelphia police, according to a Confirmed report from TechCrunch, raising questions about safeguards.\nThree OpenAI researchers were fired after raising artificial intelligence safety concerns, the company says, according to a Confirmed report from The American Bazaar.\nGoogle employees are testing a new Gemini 4 model codenamed Carbon, Confirmed by 东方财富.\nOpenAI released over 400 math papers, but only 42 percent are formally verified, sparking quality concerns, per a Confirmed report from The Verge.\nRevenue at OpenAI and Anthropic remains very important to the market, according to John Belton of Gabelli Funds, Confirmed by CNBC.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
