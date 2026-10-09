@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T09:20:01Z",
- "hour": "2026-10-09T09:00:00Z",
+ "generated_at": "2026-10-09T10:20:02Z",
+ "hour": "2026-10-09T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic launches free AI-powered security scanner for open-source software projects",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-launches-free-ai-powered-security-scanner-for-open-source-software-projects/articleshow/134820465.cms",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's OSS Scanner scans open-source projects for security flaws using AI, with 85% detection rate and early positive feedback.",
-   "published_at": "2026-10-09T00:30:00Z"
-  },
-  {
-   "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5",
+   "title": "$20 billion gap: OpenAI's revenue forecast raises fresh concerns",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTW9jLXd0OGNHUHo0TmFjdGgzWU9KalhZZV9CMFBDTnV6YmZINzNXSVczd2xaRFdkS0Y0T25uVnhiTUpJYjJLT2JMSUtnOHgxQWdTYzc0Qk0ycEdMdXVSczFVbkRxb29pZ1MwNGJuWWp0YkxRTTFuV1VBcXVjdmdQLXVaZ3NXdE9PZk4tUUl5SkxQUjlNekhKUU5sZF83OG1CYXFVSVgtOA?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-09T08:36:37Z"
+   "published_at": "2026-10-09T09:20:11Z"
   },
   {
-   "title": "The Rrace for healthcare AI: Why Europe needs to move beyond regulation",
-   "outlet": "Decode39",
-   "outlet_name": "Decode39",
-   "url": "https://decode39.com/16915/16915/",
-   "label": "REPORTED",
-   "summary_1line": "Leite outlines Italy's role in advancing trusted AI in healthcare through regulatory and operational reforms.",
-   "published_at": "2026-10-09T08:01:01Z"
+   "title": "Chinese AI tool pulled to prevent 'misuse' after South Korea hacks",
+   "outlet": "Yahoo Finance UK",
+   "outlet_name": "Yahoo Finance UK",
+   "url": "https://uk.finance.yahoo.com/news/chinese-ai-tool-pulled-prevent-074408978.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Artex, an AI security tool, was misused in bank hacks; developer shuts down project.",
+   "published_at": "2026-10-09T07:44:08Z"
   },
   {
-   "title": "How do Chinese brands achieve leapfrog development? DeepSeek, South Korea, robots, Xiaomi, Sheffield",
-   "outlet": "新浪军事",
-   "outlet_name": "新浪军事",
-   "url": "https://mil.news.sina.com.cn/2026-10-09/doc-iniurfei6915481.shtml",
+   "title": "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
+   "outlet": "The Register",
+   "outlet_name": "The Register",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3IyOXRJbWpGdFQ1NDhGdjZXNm9udktlLTM0Tm8wYXlyVWs0T082c3lRZ0tyQzI5NXBCcmhIV2ZTQlVVY3o2dU1pOG1pTDFrWF92YmNsREEwd0tUd3gwOXNPR204ckVlWTF6d3FLWS1WdGtZaV9TSm9BTXlSN0pseU8tRHZabGNmOVEwUXIxVDlYMHhtWUR0aDlSQkdmZVd6ZHJpS1ZaREtESnRrN2wtUmZmeEJWVW0yck9sUFhodTQ1LWVpcHlFdlRwTTF3S04yR2c?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Chinese brands shift from cheap, good products to innovation in emotion, experience, data, and intelligence.",
-   "published_at": "2026-10-09T07:55:00Z"
+   "summary_1line": null,
+   "published_at": "2026-10-09T09:46:00Z"
   },
   {
-   "title": "Maths will never be solved: Google DeepMind's Pushmeet Kohli says after mathematicians boycott OpenAI",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "url": "https://www.indiatoday.in/technology/news/story/maths-will-never-be-solved-google-deepminds-pushmeet-kohli-says-after-mathematicians-boycott-openai-3013098-2026-10-09",
+   "title": "Even ‘Law & Order’ Is Terrified of AI",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
+   "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/",
    "label": "REPORTED",
-   "summary_1line": "Mathematicians boycott OpenAI over AI research; Kohli says AI empowers, not replaces, mathematicians.",
-   "published_at": "2026-10-09T07:25:42Z"
+   "summary_1line": null,
+   "published_at": "2026-10-09T10:00:00Z"
+  },
+  {
+   "title": "OpenAI bans Russian and Iranian accounts over AI-powered fake news campaigns targeting global audiences",
+   "outlet": "Business Today",
+   "outlet_name": "Business Today",
+   "url": "https://www.businesstoday.in/technology/news/story/openai-bans-russian-and-iranian-accounts-over-ai-powered-fake-news-campaigns-targeting-global-audiences-560608-2026-10-09",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI bans Russian and Iranian AI-driven influence operations targeting Latin America and global media.",
+   "published_at": "2026-10-09T07:15:51Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic launches free AI-powered security scanner for open-source software projects",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "$20 billion gap: OpenAI's revenue forecast raises fresh concerns",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTW9jLXd0OGNHUHo0TmFjdGgzWU9KalhZZV9CMFBDTnV6YmZINzNXSVczd2xaRFdkS0Y0T25uVnhiTUpJYjJLT2JMSUtnOHgxQWdTYzc0Qk0ycEdMdXVSczFVbkRxb29pZ1MwNGJuWWp0YkxRTTFuV1VBcXVjdmdQLXVaZ3NXdE9PZk4tUUl5SkxQUjlNekhKUU5sZF83OG1CYXFVSVgtOA?oc=5"
+  },
+  {
+   "headline": "Chinese AI tool pulled to prevent 'misuse' after South Korea hacks",
+   "outlet": "Yahoo Finance UK",
+   "outlet_name": "Yahoo Finance UK",
    "label": "CONFIRMED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-launches-free-ai-powered-security-scanner-for-open-source-software-projects/articleshow/134820465.cms"
+   "url": "https://uk.finance.yahoo.com/news/chinese-ai-tool-pulled-prevent-074408978.html"
   },
   {
-   "headline": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
+   "headline": "Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill",
+   "outlet": "The Register",
+   "outlet_name": "The Register",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE84ZWdQSjhwVnlVaDZqRXBJd3VoZ3o1a0ZtVExMZXhzMkZNN3o4SWMzbWxHNVEzcWl4N3AyTXh0a3p1MGpNRjVv?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNR3IyOXRJbWpGdFQ1NDhGdjZXNm9udktlLTM0Tm8wYXlyVWs0T082c3lRZ0tyQzI5NXBCcmhIV2ZTQlVVY3o2dU1pOG1pTDFrWF92YmNsREEwd0tUd3gwOXNPR204ckVlWTF6d3FLWS1WdGtZaV9TSm9BTXlSN0pseU8tRHZabGNmOVEwUXIxVDlYMHhtWUR0aDlSQkdmZVd6ZHJpS1ZaREtESnRrN2wtUmZmeEJWVW0yck9sUFhodTQ1LWVpcHlFdlRwTTF3S04yR2c?oc=5"
   },
   {
-   "headline": "The Rrace for healthcare AI: Why Europe needs to move beyond regulation",
-   "outlet": "Decode39",
-   "outlet_name": "Decode39",
+   "headline": "Even ‘Law & Order’ Is Terrified of AI",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
    "label": "REPORTED",
-   "url": "https://decode39.com/16915/16915/"
-  },
-  {
-   "headline": "How do Chinese brands achieve leapfrog development? DeepSeek, South Korea, robots…",
-   "outlet": "新浪军事",
-   "outlet_name": "新浪军事",
-   "label": "REPORTED",
-   "url": "https://mil.news.sina.com.cn/2026-10-09/doc-iniurfei6915481.shtml"
-  },
-  {
-   "headline": "Maths will never be solved: Google DeepMind's Pushmeet Kohli says after mathematicians…",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "label": "REPORTED",
-   "url": "https://www.indiatoday.in/technology/news/story/maths-will-never-be-solved-google-deepminds-pushmeet-kohli-says-after-mathematicians-boycott-openai-3013098-2026-10-09"
+   "url": "https://www.wired.com/story/even-law-and-order-is-terrified-of-ai/"
   },
   {
    "headline": "OpenAI bans Russian and Iranian accounts over AI-powered fake news campaigns targeting…",
@@ -93,6 +86,27 @@
    "outlet_name": "Business Today",
    "label": "REPORTED",
    "url": "https://www.businesstoday.in/technology/news/story/openai-bans-russian-and-iranian-accounts-over-ai-powered-fake-news-campaigns-targeting-global-audiences-560608-2026-10-09"
+  },
+  {
+   "headline": "OpenAI doubles down on decision to fire three AI safety researchers",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "label": "REPORTED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+  },
+  {
+   "headline": "GBM launches UAE's first AI laboratory with Cisco and Nvidia",
+   "outlet": "Telecompaper",
+   "outlet_name": "Telecompaper",
+   "label": "REPORTED",
+   "url": "https://www.telecompaper.com/news/gbm-launches-uaes-first-ai-laboratory-with-cisco-and-nvidia--1585181"
+  },
+  {
+   "headline": "Claude Dashboards and Motion Launch With Adobe",
+   "outlet": "The Neuron",
+   "outlet_name": "The Neuron",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9aNl84Q3pLSy1vaFg4LXk5b3VodFFja3FWb3pidWVVdXJudkxwd3lOVGRXNS1tQW5mR3VlUzNTZFB1eFNKbGtqdXp2SExiWlhHaFdIVS00WWdJcEE4c2JLS05RR1VFclFYUFQ3NXpRZEI2a05t?oc=5"
   },
   {
    "headline": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
@@ -109,11 +123,11 @@
    "url": "https://www.msn.com/en-au/money/general/google-launches-gemini-ai-agent-that-can-work-for-a-group-of-people-not-just-individuals/ar-AA2dPTbH"
   },
   {
-   "headline": "Letting AI act as a driver to drive a Toyota to buy burgers, GPT-6 Astra bravely tackles…",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
+   "headline": "Nvidia defends open source AI alliance, saying hundreds and hundreds of companies being…",
+   "outlet": "tech.eu",
+   "outlet_name": "tech.eu",
    "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/09/ai-driven-corolla/"
+   "url": "https://tech.eu/2026/10/09/nvidia-defends-open-secure-ai-alliance-saying-hundreds-and-hundreds-of-companies-being-vetted/"
   },
   {
    "headline": "Nace beat GPT-6 Astra on its own parsing index at 1/10 the cost",
@@ -121,30 +135,16 @@
    "outlet_name": "nace.ai",
    "label": "REPORTED",
    "url": "https://www.nace.ai/blog/document-intelligence-launch"
-  },
-  {
-   "headline": "Aleph Alpha and Mistral launches fuel Europe's sovereign AI push",
-   "outlet": "renascence.io",
-   "outlet_name": "renascence.io",
-   "label": "REPORTED",
-   "url": "https://www.renascence.io/news/96889/aleph-alpha-mistral-launches-fuel-europes-sovereign-ai-push"
-  },
-  {
-   "headline": "Cutting another 5,000 jobs! Porsche clearly returns to fuel cars, high-end models plan…",
-   "outlet": "leiphone.com",
-   "outlet_name": "leiphone.com",
-   "label": "REPORTED",
-   "url": "https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 13100,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/09.mp3",
- "audio_seconds": 77.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/10.mp3",
+ "audio_seconds": 46.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's OSS Scanner uses artificial intelligence to find security flaws in open-source projects, achieving an 85% detection rate. Confirmed by The Times of India: the tool has received early positive feedback.\nSophos has cut threat investigation time by 96% using OpenAI Daybreak. Reported by OpenAI: the advancement speeds up security threat analysis significantly.\nItaly is advancing trusted artificial intelligence in healthcare through regulatory and operational reforms. Reported by Decode39: Leite outlines the country's role in this healthcare artificial intelligence progress.\nChinese brands are shifting from cheap, good products to innovation in emotion, experience, data, and intelligence. Reported by 新浪军事: DeepSeek, South Korea, robots, Xiaomi, and Sheffield exemplify this leapfrog development.\nArtificial intelligence empowers rather than replaces mathematicians, according to Google DeepMind's Pushmeet Kohli. Reported by India Today: this comes after mathematicians boycott OpenAI over artificial intelligence research.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNBC: $20 billion gap: OpenAI's revenue forecast raises fresh concerns.\nConfirmed, per Yahoo Finance UK: Chinese AI tool pulled to prevent 'misuse' after South Korea hacks.\nReported by The Register: Microsoft and Anthropic play invoice tennis with startup's $17,600 Claude bill.\nReported by Wired: Even ‘Law & Order’ Is Terrified of AI.\nReported by Business Today: OpenAI bans Russian and Iranian accounts over AI-powered fake news campaigns targeting global audiences.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
