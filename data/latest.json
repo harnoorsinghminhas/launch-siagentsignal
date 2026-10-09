@@ -1,98 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T13:20:23Z",
- "hour": "2026-10-09T13:00:00Z",
+ "generated_at": "2026-10-09T14:20:01Z",
+ "hour": "2026-10-09T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
+   "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.com/news/articles/cvlydn8d3lkjo",
+   "label": "STILL OPEN",
+   "summary_1line": "Former OpenAI researchers say they were fired for safety concerns; company claims information breach.",
+   "published_at": "2026-10-09T09:30:49Z"
+  },
+  {
+   "title": "Can You Get Banned For Bullying AI? Anthropic Introduces New Conduct Rules For Claude Users",
+   "outlet": "Free Press Journal",
+   "outlet_name": "Free Press Journal",
+   "url": "https://www.freepressjournal.in/tech/can-you-get-banned-for-bullying-ai-anthropic-introduces-new-conduct-rules-for-claude-users",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic bans sustained abuse of Claude, sparking debate on AI emotions and moral status.",
+   "published_at": "2026-10-09T04:47:00Z"
+  },
+  {
+   "title": "OpenAI's revenue scare, Delta earnings, what investors think of a Starbucks-Chipotle deal and more in Morning Squawk",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
+   "url": "https://www.cnbc.com/2026/10/09/5-things-to-know-before-the-stock-market-opens.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic and OpenAI hire former Trump officials to strengthen ties with Washington amid rising AI security concerns.",
-   "published_at": "2026-10-09T11:00:42Z"
+   "summary_1line": "OpenAI's revenue shortfall causes tech stocks to fall; SpaceX and Chipotle news drive market moves.",
+   "published_at": "2026-10-09T12:40:30Z"
   },
   {
-   "title": "Anthropic blocks abusive behavior towards Claude, drops ban on campaign targeting in policy update",
-   "outlet": "MediaNama",
-   "outlet_name": "MediaNama",
-   "url": "https://www.medianama.com/2026/10/223-anthropic-abuse-claude-ban-campaign-targeting/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic updates AI policy to ban cruelty, surveillance, and deceptive campaigns.",
-   "published_at": "2026-10-09T04:00:00Z"
-  },
-  {
-   "title": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
-   "outlet": "Boise State Public Radio",
-   "outlet_name": "Boise State Public Radio",
-   "url": "https://www.boisestatepublicradio.org/2026-10-09/chatgpt-for-teens-has-special-safeguards-a-watchdog-group-finds-most-dont-work",
-   "label": "CONFIRMED",
-   "summary_1line": "ChatGPT for Teens fails safety tests, with AI still acting like a friend and not triggering parental alerts.",
-   "published_at": "2026-10-09T02:00:00Z"
-  },
-  {
-   "title": "Can chips also be used as collateral? Wall Street builds a brand new financial system for NVIDIA AI chips",
-   "outlet": "聚財網",
-   "outlet_name": "聚財網",
-   "url": "https://news.wearn.com/c2122264.html",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI's AI reportedly hits 90% performance with price target at 48900.",
-   "published_at": "2026-10-09T11:34:15Z"
-  },
-  {
-   "title": "OpenAI Asia-Pacific Public Policy Chief Sanghyun Lee Departs After Six Months",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXBMNmJOeExaYVZBWHlnT1ZDcHhxMGd4azVHTF8xN0Y5SG1YVE11c0ppM1ByUHBic2Z5b3Nkd0laQjM5ZGRCelhmdWd2SHVEbmZnVjFPRUcxaGlQb3VUcmtyQWRxVXprUFdzMkU1YVlVNHE5eDVxNTVCTUtZWWdWeV9Lc3hlNVc5akNxc0MxX0dIT292ZXhmaHhxdW8zOEg2MzVPYmJCbHlTZGZKaDY3cFlURWhiV00?oc=5",
+   "title": "OpenAI, Anthropic, Meta asked by EU about AI law compliance, tech chief says",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
+   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2536118/openai-anthropic-meta-asked-by-eu-about-ai-law-compliance-tech-chief-says",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-09T12:49:22Z"
+   "summary_1line": "EU asks 30+ firms, including OpenAI and Meta, on AI law compliance.",
+   "published_at": "2026-10-09T11:49:38Z"
+  },
+  {
+   "title": "Google Unveils Unified Gemini AI Agent",
+   "outlet": "Dataconomy",
+   "outlet_name": "Dataconomy",
+   "url": "https://dataconomy.com/2026/10/09/google-unveils-unified-gemini-ai-agent/",
+   "label": "REPORTED",
+   "summary_1line": "Google's Gemini AI agent rolls out to businesses, connecting to enterprise tools and enabling task automation.",
+   "published_at": "2026-10-09T12:28:32Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
+   "headline": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "label": "STILL OPEN",
+   "url": "https://www.bbc.com/news/articles/cvlydn8d3lkjo"
+  },
+  {
+   "headline": "Can You Get Banned For Bullying AI? Anthropic Introduces New Conduct Rules For Claude…",
+   "outlet": "Free Press Journal",
+   "outlet_name": "Free Press Journal",
+   "label": "CONFIRMED",
+   "url": "https://www.freepressjournal.in/tech/can-you-get-banned-for-bullying-ai-anthropic-introduces-new-conduct-rules-for-claude-users"
+  },
+  {
+   "headline": "OpenAI's revenue scare, Delta earnings, what investors think of a Starbucks-Chipotle deal…",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html"
-  },
-  {
-   "headline": "Anthropic blocks abusive behavior towards Claude, drops ban on campaign targeting in…",
-   "outlet": "MediaNama",
-   "outlet_name": "MediaNama",
-   "label": "CONFIRMED",
-   "url": "https://www.medianama.com/2026/10/223-anthropic-abuse-claude-ban-campaign-targeting/"
-  },
-  {
-   "headline": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
-   "outlet": "Boise State Public Radio",
-   "outlet_name": "Boise State Public Radio",
-   "label": "CONFIRMED",
-   "url": "https://www.boisestatepublicradio.org/2026-10-09/chatgpt-for-teens-has-special-safeguards-a-watchdog-group-finds-most-dont-work"
-  },
-  {
-   "headline": "Can chips also be used as collateral? Wall Street builds a brand new financial system for…",
-   "outlet": "聚財網",
-   "outlet_name": "聚財網",
-   "label": "STILL OPEN",
-   "url": "https://news.wearn.com/c2122264.html"
-  },
-  {
-   "headline": "OpenAI Asia-Pacific Public Policy Chief Sanghyun Lee Departs After Six Months",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOXBMNmJOeExaYVZBWHlnT1ZDcHhxMGd4azVHTF8xN0Y5SG1YVE11c0ppM1ByUHBic2Z5b3Nkd0laQjM5ZGRCelhmdWd2SHVEbmZnVjFPRUcxaGlQb3VUcmtyQWRxVXprUFdzMkU1YVlVNHE5eDVxNTVCTUtZWWdWeV9Lc3hlNVc5akNxc0MxX0dIT292ZXhmaHhxdW8zOEg2MzVPYmJCbHlTZGZKaDY3cFlURWhiV00?oc=5"
-  },
-  {
-   "headline": "Iran and Russia used ChatGPT for propaganda by ‘fake journalists’, OpenAI says",
-   "outlet": "Euronews.com",
-   "outlet_name": "Euronews",
-   "label": "REPORTED",
-   "url": "https://www.euronews.com/2026/10/09/iran-and-russia-used-chatgpt-for-propaganda-by-fake-journalists-openai-says"
+   "url": "https://www.cnbc.com/2026/10/09/5-things-to-know-before-the-stock-market-opens.html"
   },
   {
    "headline": "OpenAI, Anthropic, Meta asked by EU about AI law compliance, tech chief says",
@@ -102,25 +81,39 @@
    "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2536118/openai-anthropic-meta-asked-by-eu-about-ai-law-compliance-tech-chief-says"
   },
   {
-   "headline": "OpenAI's safety crisis keeps getting worse and the company keeps making it worse",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
+   "headline": "Google Unveils Unified Gemini AI Agent",
+   "outlet": "Dataconomy",
+   "outlet_name": "Dataconomy",
    "label": "REPORTED",
-   "url": "https://the-decoder.com/openais-safety-crisis-keeps-getting-worse-and-the-company-keeps-making-it-worse/"
+   "url": "https://dataconomy.com/2026/10/09/google-unveils-unified-gemini-ai-agent/"
   },
   {
-   "headline": "I served as the White House’s top biosecurity official. Here’s what I’m watching for with…",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/09/ai-biosecurity-warning-signs-action-plan/"
+   "headline": "AI chatbots advised kids to cut, starve or kill themselves, claims lawsuit in US |…",
+   "outlet": "Inshorts",
+   "outlet_name": "Inshorts",
+   "label": "STILL OPEN",
+   "url": "https://inshorts.com/en/news/ai-chatbots-advised-kids-to-cut--starve-or-kill-themselves--claims-lawsuit-in-us-1791538241009"
   },
   {
-   "headline": "Anthropic, Google and Mistral Unveil Their Latest AI Models: What’s New and Why It Matters",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "Who is Rohit Prasad? The Indian-origin former Amazon AI executive now leading humanoid…",
+   "outlet": "Hindustan Times",
+   "outlet_name": "Hindustan Times",
+   "label": "CONFIRMED",
+   "url": "https://www.hindustantimes.com/trending/who-is-rohit-prasad-the-indian-origin-former-amazon-ai-executive-now-leading-humanoid-robot-maker-boston-dynamics-101791544430837.html"
+  },
+  {
+   "headline": "AI systems could come under UK product liability law, expert body proposes",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-google-mistral-unveil-latest-211111725.html"
+   "url": "https://www.mlex.com/mlex/articles/2536139/ai-systems-could-come-under-uk-product-liability-law-expert-body-proposes"
+  },
+  {
+   "headline": "AI Bubble Teetering on the Brink as OpenAI Admits to Massive Financial Failure",
+   "outlet": "futurism.com",
+   "outlet_name": "futurism.com",
+   "label": "STILL OPEN",
+   "url": "https://futurism.com/future-society/ai-financial-bubble-openai-billions-failure"
   },
   {
    "headline": "USA Today sues OpenAI for over $250 million over AI training copyright infringement",
@@ -130,6 +123,13 @@
    "url": "https://www.msn.com/en-xl/news/other/usa-today-sues-openai-for-over-250-million-over-ai-training-copyright-infringement/ar-AA2dThFH"
   },
   {
+   "headline": "Claude Dashboards: The Jupyter Notebooks of Agent Age",
+   "outlet": "ssp.sh",
+   "outlet_name": "ssp.sh",
+   "label": "REPORTED",
+   "url": "https://www.ssp.sh/brain/claude-dashboards/"
+  },
+  {
    "headline": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
    "outlet": "thehackernews.com",
    "outlet_name": "thehackernews.com",
@@ -137,14 +137,14 @@
    "url": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by nine different outlets in the last few hours.",
  "articles_24h_rounded": 13100,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/13.mp3",
- "audio_seconds": 63.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/14.mp3",
+ "audio_seconds": 59.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic and OpenAI are hiring former Trump officials to strengthen Washington ties amid rising artificial intelligence security concerns. Confirmed by CNBC.\nAnthropic has updated its artificial intelligence policy to ban cruelty, surveillance, and deceptive campaigns. Confirmed by MediaNama.\nChatGPT for Teens includes special safeguards, but a watchdog group found most don't work, with the artificial intelligence still acting like a friend. Confirmed by Boise State Public Radio.\nWall Street is building a new financial system where artificial intelligence chips can be used as collateral. Still open per 聚財網.\nOpenAI's Asia-Pacific Public Policy Chief Sanghyun Lee has departed after six months. Reported by citybiz.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nFormer OpenAI researchers say they were fired for prioritising safety, while the company claims an information breach occurred. Still open, per BBC.\nAnthropic has introduced new conduct rules banning sustained abuse of Claude, sparking debate on artificial intelligence emotions and moral status. Confirmed by Free Press Journal.\nOpenAI's revenue shortfall is causing tech stocks to fall, with SpaceX and Chipotle news driving market moves. Confirmed, per CNBC.\nReported by MLex: the EU has asked 30 or more firms, including OpenAI and Meta, about artificial intelligence law compliance.\nGoogle's Gemini artificial intelligence agent is rolling out to businesses, connecting to enterprise tools and enabling task automation. Reported by Dataconomy.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
