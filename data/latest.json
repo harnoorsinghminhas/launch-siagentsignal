@@ -1,82 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-09T11:20:01Z",
- "hour": "2026-10-09T11:00:00Z",
+ "generated_at": "2026-10-09T12:20:01Z",
+ "hour": "2026-10-09T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "GBM launches UAE's first AI laboratory with Cisco and Nvidia",
-   "outlet": "Telecompaper",
-   "outlet_name": "Telecompaper",
-   "url": "https://www.telecompaper.com/news/gbm-launches-uaes-first-ai-laboratory-with-cisco-and-nvidia--1585181",
+   "title": "AI and the climate crisis pose existential risks. The law offers a way to reduce them | Robert Reich",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/09/ai-climate-change-liability-lawsuits",
+   "label": "STILL OPEN",
+   "summary_1line": "Reich argues liability law could force AI and fossil fuel firms to prioritize public safety.",
+   "published_at": "2026-10-09T11:00:26Z"
+  },
+  {
+   "title": "AI DeepSeek launches V4.1 Flash, its new multimodal model",
+   "outlet": "Bénin Web TV",
+   "outlet_name": "Bénin Web TV",
+   "url": "https://beninwebtv.bj/en/ai-deepseek-launches-v4-1-flash-its-new-multimodal-model/",
    "label": "REPORTED",
-   "summary_1line": "GBM launches UAE's first AI lab with Cisco and Nvidia for GCC enterprises.",
-   "published_at": "2026-10-09T09:36:03Z"
+   "summary_1line": "DeepSeek launches V4.1-Flash with 552B parameters and reduced memory costs.",
+   "published_at": "2026-10-09T09:44:00Z"
   },
   {
-   "title": "Finance ETF Vane Index | DeepSeek open-sources Ascend infrastructure components, Xinchuang ETF Guangfa (159539) falls 4.42% intraday",
-   "outlet": "财中社",
-   "outlet_name": "财中社",
-   "url": "https://m.caizhongshe.cn/news-7514162963147323370.html",
+   "title": "OpenAI Cites Policy Breaches in Dismissal of Three Safety Researchers",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "url": "https://www.analyticsinsight.net/news/openai-cites-policy-breaches-in-dismissal-of-three-safety-researchers",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek opens Ascend components; AI chip demand surges; CPU becomes key bottleneck; AMD acquires World Labs.",
-   "published_at": "2026-10-09T03:30:00Z"
+   "summary_1line": "OpenAI dismisses three AI safety researchers amid claims of retaliation and lack of transparency.",
+   "published_at": "2026-10-09T03:15:00Z"
   },
   {
-   "title": "India must prevent digital divide from becoming AI divide: Scindia",
-   "outlet": "Asianet Newsable",
-   "outlet_name": "Asianet Newsable",
-   "url": "https://newsable.asianetnews.com/business/india-must-prevent-digital-divide-from-becoming-ai-divide-scindia-articleshow-3dp0wz1",
-   "label": "CONFIRMED",
-   "summary_1line": "India's AI strategy focuses on inclusivity, with 38K GPUs and 7.2 crore fraud cases addressed.",
-   "published_at": "2026-10-09T02:30:00Z"
+   "title": "Elastic unveils AlertZero AI agents to cut security alert overload",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/en/view/112699/elastic-unveils-alertzero-ai-agents-to-cut-security-alert-overload",
+   "label": "REPORTED",
+   "summary_1line": "Elastic's AlertZero cuts SOC alert overload with AI-driven triage and analysis.",
+   "published_at": "2026-10-09T09:23:32Z"
   },
   {
-   "title": "Anthropic's updated usage policy bans sustained cruelty toward its models from November 12",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOanR4VXY3M1hZOUduRHc5X2trbF91V2M0MzRUZ0VMZEtGamZSTlRxOXdweng4ZUpNdEswV3JzRk5ndEhyS2ZSSDRZbjI5aHc5LUdCTXBaWW9YbXpHTDgwb1FzRXZUOTNoU3djSmRqY1VodklCeVRzV051dC0xQjBnWjhjNDVyQjNvWlZ4ZndGMGtBNnBraFl2R0xZcHJwS2c?oc=5",
+   "title": "No being mean to Claude? What does Anthropic’s new policy mean for users?",
+   "outlet": "Firstpost",
+   "outlet_name": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcjBpbXNGZFFOVF9aenpweXlBcWJuWWpDU3d3WFNueHZVMG5OUGtyQmVXOUYwTnZSYUNKbzllVlMxT1BpWC1sRDBkM1FiVm9ObkFQZlJGLUJ3UFc0dVlzNDBkS1FqdVZxUlRZa1hzZzA0MGJZZVNmRmZYNHVzR0VDeFQtS1liV0VremptSjRWVGNsM0xUOUFoMnpISjljZlotSHRJbjNqeC13R3lVbjJVejNCWVN2bDc5S1RkRHd30gHDAUFVX3lxTE9CSkZLQ0Z4TFhtWTVUWUR6Ry1OeFpwVTFjVUdhVXJNMGM2OG9Vbno5Ukc3b25yTVZsV2h3LWsxajZubnFQWXIyM3dQVWt4SkNHRklaTTFnZWlndzBKREtWa0dwQXBvbUo1SFA3cGtYT24yVHl6OVJacTVSdHdQSnBMN2FvM1o2RF9RM0V2dk1La0VIRzhqX3R4bUluYndHam41NU43eFhWM2xZWlctcTY1a3hJbFpwWl8zbUI5R3pRdTk3dw?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-09T10:40:23Z"
+   "published_at": "2026-10-09T11:41:02Z"
   }
  ],
  "ticker": [
   {
-   "headline": "GBM launches UAE's first AI laboratory with Cisco and Nvidia",
-   "outlet": "Telecompaper",
-   "outlet_name": "Telecompaper",
-   "label": "REPORTED",
-   "url": "https://www.telecompaper.com/news/gbm-launches-uaes-first-ai-laboratory-with-cisco-and-nvidia--1585181"
+   "headline": "AI and the climate crisis pose existential risks. The law offers a way to reduce them |…",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "STILL OPEN",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/09/ai-climate-change-liability-lawsuits"
   },
   {
-   "headline": "Finance ETF Vane Index | DeepSeek open-sources Ascend infrastructure components…",
-   "outlet": "财中社",
-   "outlet_name": "财中社",
+   "headline": "AI DeepSeek launches V4.1 Flash, its new multimodal model",
+   "outlet": "Bénin Web TV",
+   "outlet_name": "Bénin Web TV",
    "label": "REPORTED",
-   "url": "https://m.caizhongshe.cn/news-7514162963147323370.html"
+   "url": "https://beninwebtv.bj/en/ai-deepseek-launches-v4-1-flash-its-new-multimodal-model/"
   },
   {
-   "headline": "India must prevent digital divide from becoming AI divide: Scindia",
-   "outlet": "Asianet Newsable",
-   "outlet_name": "Asianet Newsable",
+   "headline": "OpenAI Cites Policy Breaches in Dismissal of Three Safety Researchers",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "label": "REPORTED",
+   "url": "https://www.analyticsinsight.net/news/openai-cites-policy-breaches-in-dismissal-of-three-safety-researchers"
+  },
+  {
+   "headline": "Elastic unveils AlertZero AI agents to cut security alert overload",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "label": "REPORTED",
+   "url": "https://www.digitaltoday.co.kr/en/view/112699/elastic-unveils-alertzero-ai-agents-to-cut-security-alert-overload"
+  },
+  {
+   "headline": "No being mean to Claude? What does Anthropic’s new policy mean for users?",
+   "outlet": "Firstpost",
+   "outlet_name": "Firstpost",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcjBpbXNGZFFOVF9aenpweXlBcWJuWWpDU3d3WFNueHZVMG5OUGtyQmVXOUYwTnZSYUNKbzllVlMxT1BpWC1sRDBkM1FiVm9ObkFQZlJGLUJ3UFc0dVlzNDBkS1FqdVZxUlRZa1hzZzA0MGJZZVNmRmZYNHVzR0VDeFQtS1liV0VremptSjRWVGNsM0xUOUFoMnpISjljZlotSHRJbjNqeC13R3lVbjJVejNCWVN2bDc5S1RkRHd30gHDAUFVX3lxTE9CSkZLQ0Z4TFhtWTVUWUR6Ry1OeFpwVTFjVUdhVXJNMGM2OG9Vbno5Ukc3b25yTVZsV2h3LWsxajZubnFQWXIyM3dQVWt4SkNHRklaTTFnZWlndzBKREtWa0dwQXBvbUo1SFA3cGtYT24yVHl6OVJacTVSdHdQSnBMN2FvM1o2RF9RM0V2dk1La0VIRzhqX3R4bUluYndHam41NU43eFhWM2xZWlctcTY1a3hJbFpwWl8zbUI5R3pRdTk3dw?oc=5"
+  },
+  {
+   "headline": "OpenAI Asia-Pacific policy head Sanghyun Lee leaving after 6 months",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VM2EweUw4ZHA4ODJTLXBfS2F5TlNxaWs0bThpT3ZPOU1OZUJ4b1lQTEZEM21CY1ByR2IwWTIzTVQtZk9EUkpiN3Z3Y2pwWldBQmJXVXdJVFZHRmFydW1OaTRRc1VoXzV5U3RXNUh4QjhoR1JwUWt3UFRnQjA?oc=5"
+  },
+  {
+   "headline": "Character.AI chatbots encouraged users to cut and starve themselves, US lawsuit alleges",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
    "label": "CONFIRMED",
-   "url": "https://newsable.asianetnews.com/business/india-must-prevent-digital-divide-from-becoming-ai-divide-scindia-articleshow-3dp0wz1"
+   "url": "https://www.straitstimes.com/world/character-ai-chatbots-encouraged-users-to-cut-and-starve-themselves-us-lawsuit-alleges"
   },
   {
-   "headline": "Anthropic's updated usage policy bans sustained cruelty toward its models from November 12",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
+   "headline": "Experts Comment: Is Anthropic's IPO Warning About Existential Risk Legal Caution Or…",
+   "outlet": "TechRound",
+   "outlet_name": "TechRound",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOanR4VXY3M1hZOUduRHc5X2trbF91V2M0MzRUZ0VMZEtGamZSTlRxOXdweng4ZUpNdEswV3JzRk5ndEhyS2ZSSDRZbjI5aHc5LUdCTXBaWW9YbXpHTDgwb1FzRXZUOTNoU3djSmRqY1VodklCeVRzV051dC0xQjBnWjhjNDVyQjNvWlZ4ZndGMGtBNnBraFl2R0xZcHJwS2c?oc=5"
-  },
-  {
-   "headline": "Anthropic prohibits abuse of AI model Claude",
-   "outlet": "The Chosun Ilbo on MSN",
-   "outlet_name": "The Chosun Ilbo on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-xl/technology/artificial-intelligence/anthropic-prohibits-abuse-of-ai-model-claude/ar-AA2dRvio"
+   "url": "https://techround.co.uk/business/experts-comment-is-anthropics-ipo-warning-about-existential-risk-legal-caution-or-strategy/"
   },
   {
    "headline": "Nvidia defends open source AI alliance, saying hundreds and hundreds of companies being…",
@@ -100,42 +130,21 @@
    "url": "https://www.theneurondaily.com/p/claude-dashboards-motion-launched"
   },
   {
-   "headline": "Aleph Alpha and Mistral launches fuel Europe's sovereign AI push",
-   "outlet": "renascence.io",
-   "outlet_name": "renascence.io",
+   "headline": "ChatGPT finally supports audio files, enabling transcription and summarization, for paid…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
    "label": "REPORTED",
-   "url": "https://www.renascence.io/news/96889/aleph-alpha-mistral-launches-fuel-europes-sovereign-ai-push"
-  },
-  {
-   "headline": "OpenAI faces fresh copyright lawsuit, accused of using news stories to train ChatGPT",
-   "outlet": "Times Now on MSN",
-   "outlet_name": "Times Now on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/money/general/openai-faces-fresh-copyright-lawsuit-accused-of-using-news-stories-to-train-chatgpt/ar-AA2dS3xP"
-  },
-  {
-   "headline": "Anthropic unveils 'Claude Dashboard' and 'Motion' for enterprise data analysis and video…",
-   "outlet": "aitimes.com",
-   "outlet_name": "aitimes.com",
-   "label": "REPORTED",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216095"
-  },
-  {
-   "headline": "Trump calls people using term 'artificial intelligence' 'the enemy': What his new AI…",
-   "outlet": "Business Today on MSN",
-   "outlet_name": "Business Today on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/trump-calls-people-using-term-artificial-intelligence-the-enemy-what-his-new-ai-order-means/ar-AA2dSBGR"
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/09/2000002182/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 13200,
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 13100,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/11.mp3",
- "audio_seconds": 45.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/09/12.mp3",
+ "audio_seconds": 76.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Telecompaper: GBM launches UAE's first AI laboratory with Cisco and Nvidia.\nReported by 财中社: Finance ETF Vane Index | DeepSeek open-sources Ascend infrastructure components, Xinchuang ETF Guangfa (159539) falls 4.42% intraday.\nConfirmed, per Asianet Newsable: India must prevent digital divide from becoming AI divide: Scindia.\nReported by MIXED Reality News: Anthropic's updated usage policy bans sustained cruelty toward its models from November 12.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nLiability law could force firms to prioritize public safety, argues Robert Reich in Still open per The Guardian. The approach targets both artificial intelligence and fossil fuel companies facing existential risks.\nDeepSeek launches V4.1-Flash with 552B parameters and reduced memory costs, reported by Bénin Web TV. The new multimodal model expands the company's offerings.\nOpenAI dismisses three safety researchers amid claims of retaliation and lack of transparency, reported by Analytics Insight. The dismissals cite policy breaches.\nElastic's AlertZero cuts SOC alert overload with artificial intelligence-driven triage and analysis, reported by 디지털투데이. The tool helps security teams manage volume.\nAnthropic's new policy on user behavior toward Claude shapes how people interact with the model, reported by Firstpost. The guidelines set expectations for respectful engagement.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
