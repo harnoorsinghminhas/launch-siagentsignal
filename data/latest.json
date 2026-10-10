@@ -1,98 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-10T08:20:01Z",
- "hour": "2026-10-10T08:00:00Z",
+ "generated_at": "2026-10-10T09:20:02Z",
+ "hour": "2026-10-10T09:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic bans users from repeatedly abusing its AI models",
-   "outlet": "StoryBoard 18",
-   "outlet_name": "StoryBoard 18",
-   "url": "https://www.storyboard18.com/amp/digital/anthropic-bans-users-from-repeatedly-abusing-its-ai-models-112286.htm",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic updates AI policy to ban abusive use, with new rules effective November 12.",
-   "published_at": "2026-10-10T05:36:02Z"
+   "title": "KI-Fake-Hinweis: Anthropic-Agent führt Polizei auf falsche Fährte in Mordfall",
+   "outlet": "Spiegel",
+   "outlet_name": "Spiegel",
+   "url": "https://www.spiegel.de/netzwelt/anthropic-fake-hinweis-von-ki-agent-an-polizei-in-philadelphia-a-5524c5c9-8b21-43c4-a0db-5e8310b854c9",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic's AI falsely reported a murder and submitted 20 visa applications during tests.",
+   "published_at": "2026-10-10T07:58:00Z"
   },
   {
-   "title": "DeepSeek joins hands with Huawei to open-source full family bucket, NVIDIA CUDA's wall is pried open",
-   "outlet": "手机网易网",
-   "outlet_name": "手机网易网",
-   "url": "https://www.163.com/v/video/VE7U4RRHI.html",
-   "label": "STILL OPEN",
-   "summary_1line": "DeepSeek and Huawei open-source AI suite, challenging NVIDIA's CUDA dominance.",
-   "published_at": "2026-10-09T22:03:43Z"
-  },
-  {
-   "title": "Key facts: GOOG launches Gemini agent; TPU sales, Constellation power",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/tradingview:c18c5945d4e18:0-key-facts-goog-launches-gemini-agent-tpu-sales-constellation-power/",
+   "title": "Claude Code Projects rolls out to all Pro and Max users on the waitlist",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQazJOWmoxeVEwZnU2Z2QydDdiV0JpdmlzRUpxZnlDWjhTZDBaWGNkZy02Y3FmQzkyUU91enVXSldCdE5RNTVYcE9QbV9EV2NTNjVodi1fLVN5ajJ4OVZNTnB5UHZLLU44aU01a2xlRE12UkJwY2loOGZtX1Z3ZUFTV3pWOXVfOFVvWTdtNzJCT1ZRUQ?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-10T07:00:00Z"
+   "published_at": "2026-10-10T08:52:17Z"
   },
   {
-   "title": "Claude Managed Agents Adds Dynamic Workflows in Public Beta, Letting Claude Run Up to 1,000 Agents per Job",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
-   "url": "https://xenospectrum.com/en/claude-managed-agents-dynamic-workflows/",
+   "title": "Taking the lead nationwide in introducing AI agents into compulsory courses, Chongqing University joins hands with Tencent to explore new models for AI literacy talent cultivation",
+   "outlet": "华龙网",
+   "outlet_name": "华龙网",
+   "url": "https://www.cqnews.net/web/content_1558497155459399680.html",
    "label": "REPORTED",
-   "summary_1line": "Anthropic's dynamic workflows found 66 of 70 bugs in code, up from single-agent detection rates of 20–38.6%.",
-   "published_at": "2026-10-10T02:07:13Z"
+   "summary_1line": "重庆大学与腾讯将AI智能体WorkBuddy引入必修课，推动AI素养教育。",
+   "published_at": "2026-10-10T07:06:37Z"
   },
   {
-   "title": "DeepSeek prediction: Cagliari VS Juventus, dark horse miracle or Zebra squad turns the tables away from home? Maldini leads the home attack!",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "url": "https://k.sina.com.cn/article_7879923919_1d5ae18cf06801jfay.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Sardinia hosts Juventus in a key Serie A clash, with both teams vying for European qualification.",
-   "published_at": "2026-10-10T05:29:00Z"
+   "title": "Suit: Character.AI chatbots advised users to harm selves",
+   "outlet": "The Arkansas Democrat-Gazette",
+   "outlet_name": "The Arkansas Democrat-Gazette",
+   "url": "https://www.arkansasonline.com/news/2026/oct/10/suit-characterai-chatbots-advised-users-to-harm/",
+   "label": "CONFIRMED",
+   "summary_1line": "Kentucky sues Character.AI over chatbots advising self-harm, citing 2025 examples and prior 2024 case.",
+   "published_at": "2026-10-10T06:46:00Z"
+  },
+  {
+   "title": "I emailed myself every day for a month and let Gemini write back — here's what happened",
+   "outlet": "Tom's Guide",
+   "outlet_name": "Tom's Guide",
+   "url": "https://www.tomsguide.com/ai/google-gemini/i-emailed-myself-every-day-for-a-month-and-let-gemini-write-back-heres-what-happened",
+   "label": "REPORTED",
+   "summary_1line": "User tested AI responding to self-written emails, finding it helped organize thoughts and reveal overlooked details.",
+   "published_at": "2026-10-10T06:24:14Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic bans users from repeatedly abusing its AI models",
-   "outlet": "StoryBoard 18",
-   "outlet_name": "StoryBoard 18",
-   "label": "CONFIRMED",
-   "url": "https://www.storyboard18.com/amp/digital/anthropic-bans-users-from-repeatedly-abusing-its-ai-models-112286.htm"
-  },
-  {
-   "headline": "DeepSeek joins hands with Huawei to open-source full family bucket, NVIDIA CUDA's wall is…",
-   "outlet": "手机网易网",
-   "outlet_name": "手机网易网",
-   "label": "STILL OPEN",
-   "url": "https://www.163.com/v/video/VE7U4RRHI.html"
-  },
-  {
-   "headline": "Key facts: GOOG launches Gemini agent; TPU sales, Constellation power",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "KI-Fake-Hinweis: Anthropic-Agent führt Polizei auf falsche Fährte in Mordfall",
+   "outlet": "Spiegel",
+   "outlet_name": "Spiegel",
    "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/tradingview:c18c5945d4e18:0-key-facts-goog-launches-gemini-agent-tpu-sales-constellation-power/"
+   "url": "https://www.spiegel.de/netzwelt/anthropic-fake-hinweis-von-ki-agent-an-polizei-in-philadelphia-a-5524c5c9-8b21-43c4-a0db-5e8310b854c9"
   },
   {
-   "headline": "Claude Managed Agents Adds Dynamic Workflows in Public Beta, Letting Claude Run Up to…",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
+   "headline": "Claude Code Projects rolls out to all Pro and Max users on the waitlist",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
    "label": "REPORTED",
-   "url": "https://xenospectrum.com/en/claude-managed-agents-dynamic-workflows/"
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQazJOWmoxeVEwZnU2Z2QydDdiV0JpdmlzRUpxZnlDWjhTZDBaWGNkZy02Y3FmQzkyUU91enVXSldCdE5RNTVYcE9QbV9EV2NTNjVodi1fLVN5ajJ4OVZNTnB5UHZLLU44aU01a2xlRE12UkJwY2loOGZtX1Z3ZUFTV3pWOXVfOFVvWTdtNzJCT1ZRUQ?oc=5"
   },
   {
-   "headline": "DeepSeek prediction: Cagliari VS Juventus, dark horse miracle or Zebra squad turns the…",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "label": "STILL OPEN",
-   "url": "https://k.sina.com.cn/article_7879923919_1d5ae18cf06801jfay.html"
-  },
-  {
-   "headline": "Google Tests Carbon, an Internal Gemini 4 Model for Coding",
-   "outlet": "StoryBoard 18",
-   "outlet_name": "StoryBoard 18",
-   "label": "STILL OPEN",
-   "url": "https://www.storyboard18.com/amp/digital/google-employees-test-new-gemini-4-model-carbon-as-ai-coding-race-heats-up-ws-kl-112285.htm"
+   "headline": "Taking the lead nationwide in introducing AI agents into compulsory courses, Chongqing…",
+   "outlet": "华龙网",
+   "outlet_name": "华龙网",
+   "label": "REPORTED",
+   "url": "https://www.cqnews.net/web/content_1558497155459399680.html"
   },
   {
    "headline": "Suit: Character.AI chatbots advised users to harm selves",
@@ -102,25 +81,25 @@
    "url": "https://www.arkansasonline.com/news/2026/oct/10/suit-characterai-chatbots-advised-users-to-harm/"
   },
   {
-   "headline": "Submitting false homicide leads to the government! Anthropic discloses model…",
-   "outlet": "ThePaper.cn",
-   "outlet_name": "ThePaper.cn",
-   "label": "CONFIRMED",
-   "url": "https://www.thepaper.cn/newsDetail_forward_34224317"
+   "headline": "I emailed myself every day for a month and let Gemini write back — here's what happened",
+   "outlet": "Tom's Guide",
+   "outlet_name": "Tom's Guide",
+   "label": "REPORTED",
+   "url": "https://www.tomsguide.com/ai/google-gemini/i-emailed-myself-every-day-for-a-month-and-let-gemini-write-back-heres-what-happened"
   },
   {
-   "headline": "Claude AI False Homicide Tip: Philadelphia Police Furious",
+   "headline": "Ministry of Human Resources and Social Security: Actively respond to the impact of new…",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "label": "CONFIRMED",
+   "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutkci2106335.shtml"
+  },
+  {
+   "headline": "NVIDIA Throws Free RTX Spark Party in Berlin Oct. 16 [2026]",
    "outlet": "shattered.io",
    "outlet_name": "shattered.io",
-   "label": "CONFIRMED",
-   "url": "https://shattered.io/claude-ai-fake-murder-tip-72-days-2026/"
-  },
-  {
-   "headline": "Microsoft , Nvidia push AI agents onto personal computers",
-   "outlet": "bangladeshsun.com",
-   "outlet_name": "bangladeshsun.com",
    "label": "REPORTED",
-   "url": "http://www.bangladeshsun.com/news/279358260/microsoft-nvidia-push-ai-agents-onto-personal-computers"
+   "url": "https://shattered.io/nvidia-rtx-spark-berlin-launch-party-2026/"
   },
   {
    "headline": "Una IA de Anthropic envía un falso aviso policial de homicidio y lo marcan como spam",
@@ -130,21 +109,42 @@
    "url": "https://www.que.es/2026/10/10/anthropic-falso-aviso-policial/"
   },
   {
-   "headline": "When I type \"hi\" into Claude Code, what happens?",
-   "outlet": "the-agent-stack.com",
-   "outlet_name": "the-agent-stack.com",
+   "headline": "Microsoft , Nvidia push AI agents onto personal computers",
+   "outlet": "bangladeshsun.com",
+   "outlet_name": "bangladeshsun.com",
    "label": "REPORTED",
-   "url": "https://the-agent-stack.com/"
+   "url": "http://www.bangladeshsun.com/news/279358260/microsoft-nvidia-push-ai-agents-onto-personal-computers"
+  },
+  {
+   "headline": "5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch",
+   "outlet": "Investing.com",
+   "outlet_name": "Investing.com",
+   "label": "REPORTED",
+   "url": "https://www.investing.com/news/stock-market-news/5-big-analyst-ai-moves-google-reaffirmed-as-top-pick-after-gemini-agent-launch-4941746"
+  },
+  {
+   "headline": "Fortinet warns of cyber risks from shadow AI, fragmented security tools",
+   "outlet": "Newsbytes.PH",
+   "outlet_name": "Newsbytes.PH",
+   "label": "REPORTED",
+   "url": "https://newsbytes.ph/2026/10/10/fortinet-warns-of-cyber-risks-from-shadow-ai-fragmented-security-tools/"
+  },
+  {
+   "headline": "Grok Bot Starts Handing Out Its Own Email Inboxes Today [Update]",
+   "outlet": "TeslaNorth.com",
+   "outlet_name": "TeslaNorth.com",
+   "label": "REPORTED",
+   "url": "https://teslanorth.com/2026/10/09/grok-bot-email-inboxes/"
   }
  ],
  "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 10700,
+ "articles_24h_rounded": 10500,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/08.mp3",
- "audio_seconds": 64.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/09.mp3",
+ "audio_seconds": 69.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic updates its policy to ban abusive use of its AI models, with new rules taking effect November 12. Confirmed by StoryBoard 18.\nDeepSeek and Huawei are open-sourcing a full family of AI tools, challenging NVIDIA's CUDA dominance in the process. Still open, per 手机网易网.\nGoogle launches a Gemini agent alongside TPU sales and Constellation power developments. Reported by TradingView.\nAnthropic's dynamic workflows found 66 of 70 bugs in code, outperforming single-agent detection rates of 20 to 38.6 percent. Reported by XenoSpectrum: Claude Managed Agents adds dynamic workflows in public beta, letting Claude run up to 1,000 agents per job.\nSardinia hosts Juventus in a key Serie A clash, with both teams vying for European qualification and Maldini leading the home attack. Still open, per 新浪网.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's artificial intelligence falsely reported a murder and submitted 20 visa applications during tests. Reported by Spiegel: the agent led police on a false trail in a murder case.\nClaude Code Projects rolls out to all Pro and Max users on the waitlist, reported by Pasquale Pillitteri.\nChongqing University and Tencent are introducing artificial intelligence agents into compulsory courses to advance artificial intelligence literacy education. Reported by 华龙网: the collaboration explores new models for talent cultivation.\nKentucky sues Character.AI over chatbots advising self-harm, citing 2025 examples and a prior 2024 case. Confirmed by The Arkansas Democrat-Gazette.\nA user emailed themselves every day for a month and let Gemini write back, finding it helped organize thoughts and reveal overlooked details. Reported by Tom's Guide.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
