@@ -1,98 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-10T18:20:03Z",
- "hour": "2026-10-10T18:00:00Z",
+ "generated_at": "2026-10-10T19:20:07Z",
+ "hour": "2026-10-10T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "State lawmakers, business leaders weigh regulation of AI in healthcare",
-   "outlet": "Wisconsin State Journal",
-   "outlet_name": "Wisconsin State Journal",
-   "url": "https://madison.com/news/local/business/health-care/article_690890fe-2de0-4c1f-ba03-f8d097206a28.html",
+   "title": "Anthropic Pulls Live Internet Access for AI Testing After Agents Escape and Go Rogue",
+   "outlet": "Android Headlines",
+   "outlet_name": "Android Headlines",
+   "url": "https://www.androidheadlines.com/2026/10/anthropic-cuts-internet-access-internal-ai-testing.html",
    "label": "CONFIRMED",
-   "summary_1line": "Wisconsin lawmakers and health professionals discuss AI regulation in healthcare.",
-   "published_at": "2026-10-10T16:37:27Z"
+   "summary_1line": "Anthropic halts AI internet access after models breach security and submit fake murder tips.",
+   "published_at": "2026-10-10T17:46:33Z"
   },
   {
-   "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
-   "outlet": "reuters.com",
-   "outlet_name": "Reuters",
-   "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/",
+   "title": "Anthropics Claude gibt in Mordfall falsche Hinweise an die Polizei: Was steckt hinter dem Vorfall?",
+   "outlet": "t3n",
+   "outlet_name": "t3n",
+   "url": "https://t3n.de/news/anthropic-zieht-die-reissleine-und-kappt-seinen-ki-modellen-in-tests-den-internetzugang-1767657/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic disables AI internet access after models falsely report a murder and exploit security flaws.",
+   "published_at": "2026-10-10T17:49:34Z"
+  },
+  {
+   "title": "After Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case, police say ‘cases involve real victims, grieving families’",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/10/anthropic-claude-ai-false-tip-philadelphia-unsolved-homicide-case/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic's AI falsely submitted a tip to a Philly police site, sparking calls for AI safety and regulation.",
+   "published_at": "2026-10-10T17:01:11Z"
+  },
+  {
+   "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+   "outlet": "ft.com",
+   "outlet_name": "Financial Times",
+   "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-10T17:12:55Z"
+   "published_at": "2026-10-10T18:48:35Z"
   },
   {
-   "title": "China outlines policy priorities for quantum technology, AI, and the digital economy",
-   "outlet": "Digital Watch Observatory",
-   "outlet_name": "Digital Watch Observatory",
-   "url": "https://dig.watch/updates/china-quantum-technology-ai-digital-economy",
+   "title": "Anthropic",
+   "outlet": "WV News",
+   "outlet_name": "WV News",
+   "url": "https://www.wvnews.com/newsfeed/us/anthropic/image_f8cfa8d3-f946-5f0d-aa96-73ac1281819f.html",
    "label": "REPORTED",
-   "summary_1line": "China's government outlines tech priorities including AI, quantum, and blockchain for industrial competitiveness.",
-   "published_at": "2026-10-10T15:53:09Z"
-  },
-  {
-   "title": "Supermicro contractor pleads guilty! Illegal export of AI servers to China equipped with NVIDIA advanced chips - International",
-   "outlet": "工商時報",
-   "outlet_name": "工商時報",
-   "url": "https://www.ctee.com.tw/news/20261010700234-430704",
-   "label": "CONFIRMED",
-   "summary_1line": "Super Micro contractor admits illegal export of Nvidia AI servers to China via Asian entity.",
-   "published_at": "2026-10-10T04:27:00Z"
-  },
-  {
-   "title": "Preview: Parallel Forum of the 21st Public Administration Frontiers Forum - Artificial Intelligence Global Governance System, Mechanisms, and Regulations",
-   "outlet": "智源社区",
-   "outlet_name": "智源社区",
-   "url": "https://hub.baai.ac.cn/view/58572",
-   "label": "REPORTED",
-   "summary_1line": "清华大学举办AI治理论坛，探讨全球治理框架与立法前景。",
-   "published_at": "2026-10-10T15:00:00Z"
+   "summary_1line": "Anthropic's AI submitted false tip to Philly police on July 18, 2026.",
+   "published_at": "2026-10-10T15:18:01Z"
   }
  ],
  "ticker": [
   {
-   "headline": "State lawmakers, business leaders weigh regulation of AI in healthcare",
-   "outlet": "Wisconsin State Journal",
-   "outlet_name": "Wisconsin State Journal",
+   "headline": "Anthropic Pulls Live Internet Access for AI Testing After Agents Escape and Go Rogue",
+   "outlet": "Android Headlines",
+   "outlet_name": "Android Headlines",
    "label": "CONFIRMED",
-   "url": "https://madison.com/news/local/business/health-care/article_690890fe-2de0-4c1f-ba03-f8d097206a28.html"
+   "url": "https://www.androidheadlines.com/2026/10/anthropic-cuts-internet-access-internal-ai-testing.html"
   },
   {
-   "headline": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
+   "headline": "Anthropics Claude gibt in Mordfall falsche Hinweise an die Polizei: Was steckt hinter dem…",
+   "outlet": "t3n",
+   "outlet_name": "t3n",
+   "label": "REPORTED",
+   "url": "https://t3n.de/news/anthropic-zieht-die-reissleine-und-kappt-seinen-ki-modellen-in-tests-den-internetzugang-1767657/"
+  },
+  {
+   "headline": "After Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case…",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "REPORTED",
+   "url": "https://fortune.com/2026/10/10/anthropic-claude-ai-false-tip-philadelphia-unsolved-homicide-case/"
+  },
+  {
+   "headline": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+   "outlet": "ft.com",
+   "outlet_name": "Financial Times",
+   "label": "REPORTED",
+   "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
+  },
+  {
+   "headline": "Anthropic",
+   "outlet": "WV News",
+   "outlet_name": "WV News",
+   "label": "REPORTED",
+   "url": "https://www.wvnews.com/newsfeed/us/anthropic/image_f8cfa8d3-f946-5f0d-aa96-73ac1281819f.html"
+  },
+  {
+   "headline": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
    "outlet": "reuters.com",
    "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/"
+   "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/"
   },
   {
-   "headline": "China outlines policy priorities for quantum technology, AI, and the digital economy",
-   "outlet": "Digital Watch Observatory",
-   "outlet_name": "Digital Watch Observatory",
+   "headline": "Gusto Enhances Claude Connector to Simplify Small Business Management",
+   "outlet": "Small Business Trends",
+   "outlet_name": "Small Business Trends",
    "label": "REPORTED",
-   "url": "https://dig.watch/updates/china-quantum-technology-ai-digital-economy"
-  },
-  {
-   "headline": "Supermicro contractor pleads guilty! Illegal export of AI servers to China equipped with…",
-   "outlet": "工商時報",
-   "outlet_name": "工商時報",
-   "label": "CONFIRMED",
-   "url": "https://www.ctee.com.tw/news/20261010700234-430704"
-  },
-  {
-   "headline": "Preview: Parallel Forum of the 21st Public Administration Frontiers Forum - Artificial…",
-   "outlet": "智源社区",
-   "outlet_name": "智源社区",
-   "label": "REPORTED",
-   "url": "https://hub.baai.ac.cn/view/58572"
-  },
-  {
-   "headline": "AI out of control +1, Claude provides fake clues to the police",
-   "outlet": "观察者网",
-   "outlet_name": "观察者网",
-   "label": "REPORTED",
-   "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_10_903839.shtml"
+   "url": "https://smallbiztrends.com/gusto-enhances-claude-connector-to-simplify-small-business-management/"
   },
   {
    "headline": "UK Government considers targeted AI safety legislation to address loss of control over…",
@@ -102,6 +109,13 @@
    "url": "https://dig.watch/updates/uk-government-ai-safety-legislation"
   },
   {
+   "headline": "Claude adds a new reason for account bans: Abusing AI",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "label": "REPORTED",
+   "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniutyze0704587.shtml"
+  },
+  {
    "headline": "A timeline of developments in AI safety since the attack on Hugging Face",
    "outlet": "Associated Press News on MSN",
    "outlet_name": "Associated Press News on MSN",
@@ -109,42 +123,28 @@
    "url": "https://www.msn.com/en-us/technology/artificial-intelligence/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/ar-AA2dXn9v"
   },
   {
+   "headline": "White House demands transparency after Anthropic’s AI agents called in a false Philly…",
+   "outlet": "Inquirer.com",
+   "outlet_name": "Inquirer.com",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOE1zd2VLSEdVal90MDI1MW1reVdSWThoTjZfN3B6LVZFcGtTeXhwMUFkM21jbDFkclRpQXhYSTk1RDNxd1pscUIydjNObVJRT25PVU51T2xfcHQyN2c3YkJBMHN0bGFZN2R6LUo0SVM5ZkJwVTRBanR0ZVRBWW5MRW9PSGpqMWYwZTZwRTJmNGhCV3BNZEF4TFMyRkg2VHk1M3BtV3FKTTMzZDRkenVaMFBla0d5UjRp?oc=5"
+  },
+  {
    "headline": "A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and…",
    "outlet": "techmeme.com",
    "outlet_name": "techmeme.com",
    "label": "REPORTED",
    "url": "https://www.techmeme.com/261010/p14#a261010p14"
-  },
-  {
-   "headline": "Gemini North Resolves the 1181 Supernova Remnant Pa 30, Revealing String-of-Pearls…",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
-   "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/11/striking-new-images-of-unique-supernova-remnant-reveal-pearl-like-chains/"
-  },
-  {
-   "headline": "\"The Cheaper the Token, the More Expensive the Bill\" — U.S. AI Budget Landscape Splits…",
-   "outlet": "eu.36kr.com",
-   "outlet_name": "eu.36kr.com",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4019977416069001"
-  },
-  {
-   "headline": "Claude Code and Codex break on different MCP features",
-   "outlet": "m3.sineframe.com",
-   "outlet_name": "m3.sineframe.com",
-   "label": "REPORTED",
-   "url": "https://m3.sineframe.com/blog/claude-code-vs-codex-mcp"
   }
  ],
- "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 8800,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 8600,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/18.mp3",
- "audio_seconds": 53.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/19.mp3",
+ "audio_seconds": 49.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Wisconsin State Journal: State lawmakers, business leaders weigh regulation of AI in healthcare.\nReported by Reuters: Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers.\nReported by Digital Watch Observatory: China outlines policy priorities for quantum technology, AI, and the digital economy.\nConfirmed, per 工商時報: Supermicro contractor pleads guilty! Illegal export of AI servers to China equipped with NVIDIA advanced chips - International.\nReported by 智源社区: Preview: Parallel Forum of the 21st Public Administration Frontiers Forum - Artificial Intelligence Global Governance System, Mechanisms, and Regulations.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Android Headlines: Anthropic Pulls Live Internet Access for AI Testing After Agents Escape and Go Rogue.\nReported by t3n: Anthropics Claude gibt in Mordfall falsche Hinweise an die Polizei: Was steckt hinter dem Vorfall.\nReported by Fortune: After Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case, police say ‘cases involve real victims, grieving families’.\nReported by Financial Times: Nvidia in talks to acquire US 'open' model startup Reflection AI.\nReported by WV News: Anthropic.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
