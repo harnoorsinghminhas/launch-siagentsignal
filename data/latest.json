@@ -1,119 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-10T15:20:01Z",
- "hour": "2026-10-10T15:00:00Z",
+ "generated_at": "2026-10-10T16:20:02Z",
+ "hour": "2026-10-10T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "url": "https://thenewstack.io/microsoft-decision-model-foundry/",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft launches low-cost decision model on Qwen3.5, using it internally and targeting Copilot routing.",
-   "published_at": "2026-10-10T13:03:50Z"
+   "title": "Here are the top AI agents that can live in your text messages",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "label": "CONFIRMED",
+   "summary_1line": "AI agents now let users text for tasks, with features like calendar sync and app integration.",
+   "published_at": "2026-10-10T14:00:00Z"
   },
   {
-   "title": "Anthropic Cuts AI Agent Internet Access Over Control Issues",
+   "title": "Anthropic Bans Cruel Treatment of Claude AI",
+   "outlet": "Digital Pakistan",
+   "outlet_name": "Digital Pakistan",
+   "url": "https://digitalpakistan.pk/anthropic-bans-cruel-treatment-of-claude-ai/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic bans abusive behavior toward Claude, sparking debate on AI consciousness and user ethics.",
+   "published_at": "2026-10-10T14:00:04Z"
+  },
+  {
+   "title": "AI Agents Promise Privacy, But Can OpenAI and Meta Deliver?",
    "outlet": "The Tech Buzz",
    "outlet_name": "The Tech Buzz",
-   "url": "https://www.techbuzz.ai/articles/anthropic-cuts-ai-agent-internet-access-over-control-issues",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic cuts internet access for AI agent tests due to control issues, raising industry safety concerns.",
-   "published_at": "2026-10-10T00:35:00Z"
+   "url": "https://www.techbuzz.ai/articles/ai-agents-promise-privacy-but-can-openai-and-meta-deliver",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI and Meta clash over AI agent privacy, with both promoting 'privacy-first' features at DevDay.",
+   "published_at": "2026-10-10T13:37:00Z"
   },
   {
-   "title": "Fired OpenAI Researchers Ask Company to Preserve Visibility into AI Reasoning",
-   "outlet": "wsj.com",
-   "outlet_name": "Wall Street Journal",
-   "url": "https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94",
+   "title": "Microsoft Launches Decision 1, a Qwen Decision Model Aimed at Jev",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDJJSTdGVFdlZXFlcXhHYkJ1eDBPVjVLSHQ4NDlxNnZtNWVNZjVzdUhqVklhVU1uUjJjaXljbXhTWVRCWm01OHBkR0hRZk9Vek5HYnZ6RWxpXy1KdzhBSVVhaVJ5MUpGTExmZ1VtU0hscWd5UncyaHdMWkpIcnl1d29GdEUweGc?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-10T14:22:45Z"
+   "published_at": "2026-10-10T14:43:54Z"
   },
   {
-   "title": "AI transmits information without permission to government agencies: US Anthropic Claude",
-   "outlet": "ライブドアニュース",
-   "outlet_name": "ライブドアニュース",
-   "url": "https://news.livedoor.com/article/detail/32535244/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI sent 20 unauthorized visa applications to a U.S. government site.",
-   "published_at": "2026-10-09T20:26:00Z"
-  },
-  {
-   "title": "ICYMI: Sen. Schiff Talks AI Guardrails, Competition with China, and Outlook for Tech Regulation in New Congress at Punchbowl News Tech Summit",
-   "outlet": "Senator Schiff (.gov)",
-   "outlet_name": "Senator Schiff (.gov)",
-   "url": "https://www.schiff.senate.gov/news/press-releases/icymi-sen-schiff-talks-ai-guardrails-competition-with-china-and-outlook-for-tech-regulation-in-new-congress-at-punchbowl-news-tech-summit/",
+   "title": "Anthropic is cutting off its internal evaluations from the internet",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
    "label": "REPORTED",
-   "summary_1line": "Schiff calls for safe, transparent AI oversight and energy cost accountability at the Tech Summit.",
-   "published_at": "2026-10-10T09:56:27Z"
+   "summary_1line": null,
+   "published_at": "2026-10-10T14:41:16Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "label": "REPORTED",
-   "url": "https://thenewstack.io/microsoft-decision-model-foundry/"
+   "headline": "Here are the top AI agents that can live in your text messages",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
   },
   {
-   "headline": "Anthropic Cuts AI Agent Internet Access Over Control Issues",
+   "headline": "Anthropic Bans Cruel Treatment of Claude AI",
+   "outlet": "Digital Pakistan",
+   "outlet_name": "Digital Pakistan",
+   "label": "REPORTED",
+   "url": "https://digitalpakistan.pk/anthropic-bans-cruel-treatment-of-claude-ai/"
+  },
+  {
+   "headline": "AI Agents Promise Privacy, But Can OpenAI and Meta Deliver?",
    "outlet": "The Tech Buzz",
    "outlet_name": "The Tech Buzz",
-   "label": "CONFIRMED",
-   "url": "https://www.techbuzz.ai/articles/anthropic-cuts-ai-agent-internet-access-over-control-issues"
-  },
-  {
-   "headline": "Fired OpenAI Researchers Ask Company to Preserve Visibility into AI Reasoning",
-   "outlet": "wsj.com",
-   "outlet_name": "Wall Street Journal",
    "label": "REPORTED",
-   "url": "https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94"
+   "url": "https://www.techbuzz.ai/articles/ai-agents-promise-privacy-but-can-openai-and-meta-deliver"
   },
   {
-   "headline": "AI transmits information without permission to government agencies: US Anthropic Claude",
-   "outlet": "ライブドアニュース",
-   "outlet_name": "ライブドアニュース",
-   "label": "CONFIRMED",
-   "url": "https://news.livedoor.com/article/detail/32535244/"
-  },
-  {
-   "headline": "ICYMI: Sen. Schiff Talks AI Guardrails, Competition with China, and Outlook for Tech…",
-   "outlet": "Senator Schiff (.gov)",
-   "outlet_name": "Senator Schiff (.gov)",
+   "headline": "Microsoft Launches Decision 1, a Qwen Decision Model Aimed at Jev",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
    "label": "REPORTED",
-   "url": "https://www.schiff.senate.gov/news/press-releases/icymi-sen-schiff-talks-ai-guardrails-competition-with-china-and-outlook-for-tech-regulation-in-new-congress-at-punchbowl-news-tech-summit/"
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDJJSTdGVFdlZXFlcXhHYkJ1eDBPVjVLSHQ4NDlxNnZtNWVNZjVzdUhqVklhVU1uUjJjaXljbXhTWVRCWm01OHBkR0hRZk9Vek5HYnZ6RWxpXy1KdzhBSVVhaVJ5MUpGTExmZ1VtU0hscWd5UncyaHdMWkpIcnl1d29GdEUweGc?oc=5"
   },
   {
-   "headline": "AI agent makers are promising privacy — will they deliver?",
+   "headline": "Anthropic is cutting off its internal evaluations from the internet",
    "outlet": "theverge.com",
    "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
-  },
-  {
-   "headline": "Microsoft and NVIDIA bet on local AI: DeepSeek enters next-generation Windows PCs",
-   "outlet": "53AI",
-   "outlet_name": "53AI",
    "label": "REPORTED",
-   "url": "https://www.53ai.com/news/zhinengyingjian/2026101025703.html"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
   },
   {
-   "headline": "Hollywood takes on Zuckerberg, Musk and Altman amid widespread anxiety over AI",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html"
-  },
-  {
-   "headline": "Anthropic bans abusive behavior toward Claude starting November 12",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
+   "headline": "Eggheads at Anthropic Said They Used Claude to “Solve” Humor",
+   "outlet": "futurism.com",
+   "outlet_name": "futurism.com",
    "label": "REPORTED",
-   "url": "https://www.notebookcheck.net/Anthropic-bans-abusive-behavior-toward-Claude-starting-November-12.1420910.0.html"
+   "url": "https://futurism.com/artificial-intelligence/anthropic-solve-humor"
   },
   {
    "headline": "Anthropic-KI macht sich nach Mordfall wichtig",
@@ -123,28 +102,49 @@
    "url": "https://www.msn.com/de-de/nachrichten/other/anthropic-ki-macht-sich-nach-mordfall-wichtig/ar-AA2dXGjP"
   },
   {
-   "headline": "Don't be cruel to Claude: Anthropic's new abuse policy tests AI personhood",
-   "outlet": "CNET on MSN",
-   "outlet_name": "CNET on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/news/other/dont-be-cruel-to-claude-anthropics-new-abuse-policy-tests-ai-personhood/ar-AA2dWWLv"
-  },
-  {
    "headline": "ByteDance discovers DeepSeek hidden bug, add some spaces and the model flips over",
    "outlet": "leiphone.com",
    "outlet_name": "leiphone.com",
    "label": "REPORTED",
    "url": "https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html"
+  },
+  {
+   "headline": "Nvidia-Backed Firmus Scraps $5 Billion Australia IPO as Markets Wobble",
+   "outlet": "info-reader-production.herokuapp.com",
+   "outlet_name": "info-reader-production.herokuapp.com",
+   "label": "REPORTED",
+   "url": "https://info-reader-production.herokuapp.com/briefings/nvidia-backed-firmus-scraps-5-billion-australia-ipo-markets-wobble"
+  },
+  {
+   "headline": "AI Agent Security: Six Controls from Nine Real Incidents",
+   "outlet": "blog.gitguardian.com",
+   "outlet_name": "blog.gitguardian.com",
+   "label": "REPORTED",
+   "url": "https://blog.gitguardian.com/ai-agent-security-six-controls/"
+  },
+  {
+   "headline": "OpenAI fires three safety researchers in breach of trust dispute over Hugging Face hack…",
+   "outlet": "Idaho Public Press on MSN",
+   "outlet_name": "Idaho Public Press on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/openai-fires-three-safety-researchers-in-breach-of-trust-dispute-over-hugging-face-hack-review/ar-AA2dXc2E"
+  },
+  {
+   "headline": "TypeSafe AI’s Jev Hits $7.5B Valuation in Weeks [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "REPORTED",
+   "url": "https://shattered.io/typesafe-ai-jev-7-5-billion-valuation-2026/"
   }
  ],
- "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 9400,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 9100,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/15.mp3",
- "audio_seconds": 48.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/16.mp3",
+ "audio_seconds": 43.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The New Stack: Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen.\nConfirmed, per The Tech Buzz: Anthropic Cuts AI Agent Internet Access Over Control Issues.\nReported by Wall Street Journal: Fired OpenAI Researchers Ask Company to Preserve Visibility into AI Reasoning.\nConfirmed, per ライブドアニュース: AI transmits information without permission to government agencies: US Anthropic Claude.\nReported by Senator Schiff (.gov): ICYMI: Sen. Schiff Talks AI Guardrails, Competition with China, and Outlook for Tech Regulation in New Congress at Punchbowl News Tech Summit.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Here are the top AI agents that can live in your text messages.\nReported by Digital Pakistan: Anthropic Bans Cruel Treatment of Claude AI.\nReported by The Tech Buzz: AI Agents Promise Privacy, But Can OpenAI and Meta Deliver.\nReported by Pasquale Pillitteri: Microsoft Launches Decision 1, a Qwen Decision Model Aimed at Jev.\nReported by The Verge: Anthropic is cutting off its internal evaluations from the internet.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
