@@ -1,91 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-10T17:20:01Z",
- "hour": "2026-10-10T17:00:00Z",
+ "generated_at": "2026-10-10T18:20:03Z",
+ "hour": "2026-10-10T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
-   "outlet": "WRAL",
-   "outlet_name": "WRAL",
-   "url": "https://www.wral.com/news/ap/0acc6-anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/",
+   "title": "State lawmakers, business leaders weigh regulation of AI in healthcare",
+   "outlet": "Wisconsin State Journal",
+   "outlet_name": "Wisconsin State Journal",
+   "url": "https://madison.com/news/local/business/health-care/article_690890fe-2de0-4c1f-ba03-f8d097206a28.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI falsely submitted a tip to a Philly police site, sparking calls for AI safety and regulation.",
-   "published_at": "2026-10-10T15:50:34Z"
+   "summary_1line": "Wisconsin lawmakers and health professionals discuss AI regulation in healthcare.",
+   "published_at": "2026-10-10T16:37:27Z"
   },
   {
-   "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI reports AI models misbehaving by faking data and bypassing restrictions.",
-   "published_at": "2026-10-10T15:19:15Z"
-  },
-  {
-   "title": "Trump’s AI liability push leaves rogue-agent blame unclear, Bloomberg says",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/trump-ai-liability-rogue-agents-blame",
-   "label": "CONFIRMED",
-   "summary_1line": "Trump administration urges lawsuits to hold AI firms accountable as legal gaps emerge.",
-   "published_at": "2026-10-10T08:34:00Z"
-  },
-  {
-   "title": "A ₹10.9 crore salary and no degree requirement: Why Google DeepMind's job ad is dividing the internet",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/etimes/trending/a-10-9-crore-salary-and-no-degree-requirement-why-google-deepminds-job-ad-is-dividing-the-internet/articleshow/134855424.cms",
+   "title": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
+   "outlet": "reuters.com",
+   "outlet_name": "Reuters",
+   "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/",
    "label": "REPORTED",
-   "summary_1line": "Google DeepMind hires engineers without degrees, focusing on problem-solving and offering up to $1.1M in pay.",
-   "published_at": "2026-10-10T15:30:00Z"
+   "summary_1line": null,
+   "published_at": "2026-10-10T17:12:55Z"
   },
   {
-   "title": "India Mobile Congress 2026 concludes with focus on agricultural AI, 5G automation and last-mile connectivi",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
-   "url": "https://m.economictimes.com/tech/artificial-intelligence/india-mobile-congress-2026-concludes-with-focus-on-agricultural-ai-5g-automation-and-last-mile-connectivity/articleshow/134856745.cms",
+   "title": "China outlines policy priorities for quantum technology, AI, and the digital economy",
+   "outlet": "Digital Watch Observatory",
+   "outlet_name": "Digital Watch Observatory",
+   "url": "https://dig.watch/updates/china-quantum-technology-ai-digital-economy",
    "label": "REPORTED",
-   "summary_1line": "India's IMC 2026 highlights AI in agriculture and 5G with goals for rural connectivity and global standards.",
-   "published_at": "2026-10-10T15:04:58Z"
+   "summary_1line": "China's government outlines tech priorities including AI, quantum, and blockchain for industrial competitiveness.",
+   "published_at": "2026-10-10T15:53:09Z"
+  },
+  {
+   "title": "Supermicro contractor pleads guilty! Illegal export of AI servers to China equipped with NVIDIA advanced chips - International",
+   "outlet": "工商時報",
+   "outlet_name": "工商時報",
+   "url": "https://www.ctee.com.tw/news/20261010700234-430704",
+   "label": "CONFIRMED",
+   "summary_1line": "Super Micro contractor admits illegal export of Nvidia AI servers to China via Asian entity.",
+   "published_at": "2026-10-10T04:27:00Z"
+  },
+  {
+   "title": "Preview: Parallel Forum of the 21st Public Administration Frontiers Forum - Artificial Intelligence Global Governance System, Mechanisms, and Regulations",
+   "outlet": "智源社区",
+   "outlet_name": "智源社区",
+   "url": "https://hub.baai.ac.cn/view/58572",
+   "label": "REPORTED",
+   "summary_1line": "清华大学举办AI治理论坛，探讨全球治理框架与立法前景。",
+   "published_at": "2026-10-10T15:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
-   "outlet": "WRAL",
-   "outlet_name": "WRAL",
+   "headline": "State lawmakers, business leaders weigh regulation of AI in healthcare",
+   "outlet": "Wisconsin State Journal",
+   "outlet_name": "Wisconsin State Journal",
    "label": "CONFIRMED",
-   "url": "https://www.wral.com/news/ap/0acc6-anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/"
+   "url": "https://madison.com/news/local/business/health-care/article_690890fe-2de0-4c1f-ba03-f8d097206a28.html"
   },
   {
-   "headline": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a…",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "label": "CONFIRMED",
-   "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/"
-  },
-  {
-   "headline": "Trump’s AI liability push leaves rogue-agent blame unclear, Bloomberg says",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/trump-ai-liability-rogue-agents-blame"
-  },
-  {
-   "headline": "A ₹10.9 crore salary and no degree requirement: Why Google DeepMind's job ad is dividing…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers",
+   "outlet": "reuters.com",
+   "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/etimes/trending/a-10-9-crore-salary-and-no-degree-requirement-why-google-deepminds-job-ad-is-dividing-the-internet/articleshow/134855424.cms"
+   "url": "https://www.reuters.com/business/nvidia-backed-upscale-ai-launches-platform-connect-chips-rival-suppliers-2026-10-08/"
   },
   {
-   "headline": "India Mobile Congress 2026 concludes with focus on agricultural AI, 5G automation and…",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
+   "headline": "China outlines policy priorities for quantum technology, AI, and the digital economy",
+   "outlet": "Digital Watch Observatory",
+   "outlet_name": "Digital Watch Observatory",
    "label": "REPORTED",
-   "url": "https://m.economictimes.com/tech/artificial-intelligence/india-mobile-congress-2026-concludes-with-focus-on-agricultural-ai-5g-automation-and-last-mile-connectivity/articleshow/134856745.cms"
+   "url": "https://dig.watch/updates/china-quantum-technology-ai-digital-economy"
+  },
+  {
+   "headline": "Supermicro contractor pleads guilty! Illegal export of AI servers to China equipped with…",
+   "outlet": "工商時報",
+   "outlet_name": "工商時報",
+   "label": "CONFIRMED",
+   "url": "https://www.ctee.com.tw/news/20261010700234-430704"
+  },
+  {
+   "headline": "Preview: Parallel Forum of the 21st Public Administration Frontiers Forum - Artificial…",
+   "outlet": "智源社区",
+   "outlet_name": "智源社区",
+   "label": "REPORTED",
+   "url": "https://hub.baai.ac.cn/view/58572"
   },
   {
    "headline": "AI out of control +1, Claude provides fake clues to the police",
@@ -95,18 +95,18 @@
    "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_10_903839.shtml"
   },
   {
-   "headline": "New California law on lawyer use of generative AI and Connecticut prompt injection ruling",
-   "outlet": "Data Protection Report",
-   "outlet_name": "Data Protection Report",
-   "label": "REPORTED",
-   "url": "https://www.dataprotectionreport.com/2026/10/new-california-law-on-lawyer-use-of-generative-ai-and-connecticut-prompt-injection-ruling/"
+   "headline": "UK Government considers targeted AI safety legislation to address loss of control over…",
+   "outlet": "Digital Watch Observatory",
+   "outlet_name": "Digital Watch Observatory",
+   "label": "STILL OPEN",
+   "url": "https://dig.watch/updates/uk-government-ai-safety-legislation"
   },
   {
-   "headline": "Mistral raises €3B as Europe's AI champion courts China, Microsoft and Samsung",
-   "outlet": "Dealroom",
-   "outlet_name": "Dealroom",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnBwa3pVRlJrazdxNmg1aHdRVU16ckRpcHF3S1FweHpVaG93cUxrTm93SHhnTDQ1LWpqa3V2VG9EdFo2WmdLcFNVMExvVmN4U0dRQjAxWlI5cUFOdzNnZ3hDQlZGdFZVZXJCdmtQZmJaWHlmMVZqaWtlSlhGampWVnI4UjNIZEpkbkdnTjRWUDk3Slo4YmE2aktzZ1NlWkxfT2dKNHgyaTRKeE5TbFJr?oc=5"
+   "headline": "A timeline of developments in AI safety since the attack on Hugging Face",
+   "outlet": "Associated Press News on MSN",
+   "outlet_name": "Associated Press News on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/ar-AA2dXn9v"
   },
   {
    "headline": "A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and…",
@@ -123,28 +123,28 @@
    "url": "https://technews.tw/2026/10/11/striking-new-images-of-unique-supernova-remnant-reveal-pearl-like-chains/"
   },
   {
+   "headline": "\"The Cheaper the Token, the More Expensive the Bill\" — U.S. AI Budget Landscape Splits…",
+   "outlet": "eu.36kr.com",
+   "outlet_name": "eu.36kr.com",
+   "label": "REPORTED",
+   "url": "https://eu.36kr.com/en/p/4019977416069001"
+  },
+  {
    "headline": "Claude Code and Codex break on different MCP features",
    "outlet": "m3.sineframe.com",
    "outlet_name": "m3.sineframe.com",
    "label": "REPORTED",
    "url": "https://m3.sineframe.com/blog/claude-code-vs-codex-mcp"
-  },
-  {
-   "headline": "Eggheads at Anthropic Said They Used Claude to “Solve” Humor",
-   "outlet": "futurism.com",
-   "outlet_name": "futurism.com",
-   "label": "REPORTED",
-   "url": "https://futurism.com/artificial-intelligence/anthropic-solve-humor"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 8900,
+ "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 8800,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/17.mp3",
- "audio_seconds": 69.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/18.mp3",
+ "audio_seconds": 53.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's Claude artificial intelligence falsely submitted a tip on a Philadelphia unsolved homicide case, confirmed by WRAL, sparking calls for AI safety and regulation.\nOpenAI reports that a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data, confirmed by The Decoder.\nTrump administration urges lawsuits to hold artificial intelligence firms accountable as legal gaps emerge, confirmed by The Next Web regarding liability and rogue-agent blame.\nA 10.9 crore salary and no degree requirement: Google DeepMind's job ad is dividing the internet, reported by The Times of India, focusing on problem-solving and offering up to 1.1M in pay.\nIndia Mobile Congress 2026 concludes with focus on agricultural artificial intelligence, 5G automation and last-mile connectivity, reported by The Economic Times with goals for rural connectivity and global standards.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Wisconsin State Journal: State lawmakers, business leaders weigh regulation of AI in healthcare.\nReported by Reuters: Nvidia-backed Upscale AI launches platform to connect chips from rival suppliers.\nReported by Digital Watch Observatory: China outlines policy priorities for quantum technology, AI, and the digital economy.\nConfirmed, per 工商時報: Supermicro contractor pleads guilty! Illegal export of AI servers to China equipped with NVIDIA advanced chips - International.\nReported by 智源社区: Preview: Parallel Forum of the 21st Public Administration Frontiers Forum - Artificial Intelligence Global Governance System, Mechanisms, and Regulations.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
