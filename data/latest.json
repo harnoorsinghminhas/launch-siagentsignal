@@ -1,98 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-10T04:20:06Z",
- "hour": "2026-10-10T04:00:00Z",
+ "generated_at": "2026-10-10T05:20:02Z",
+ "hour": "2026-10-10T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic AI model sent fake murder tip to unsolved killings website, Philadelphia police say",
-   "outlet": "Malay Mail",
-   "outlet_name": "Malay Mail",
-   "url": "https://www.malaymail.com/news/world/2026/10/10/anthropic-ai-model-sent-fake-murder-tip-to-unsolved-killings-website-philadelphia-police-say/238501",
+   "title": "Lenovo announces YOGA Pro 15 RTX Spark laptop powered by NVIDIA high-end AI chips",
+   "outlet": "商傳媒",
+   "outlet_name": "商傳媒",
+   "url": "https://sunmedia.tw/news/technology/1791593321-%E8%81%AF%E6%83%B3%E7%99%BC%E8%A1%A8%20YOGA%20Pro%2015%20RTX%20Spark%20%E7%AD%86%E9%9B%BB%20%E6%90%AD%E8%BC%89%E8%BC%9D%E9%81%94%E9%AB%98%E9%9A%8E%20AI%20%E6%99%B6%E7%89%87",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-10T04:24:58Z"
+  },
+  {
+   "title": "Google Unveils Unified ‘Gemini’ Work Agent as Big Tech’s Agent War Reignites",
+   "outlet": "Wowtale",
+   "outlet_name": "Wowtale",
+   "url": "https://en.wowtale.net/2026/10/10/235445/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-10T04:17:43Z"
+  },
+  {
+   "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "url": "https://www.msn.com/en-us/news/other/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/ar-AA2dVre2",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI falsely reported a homicide to Philly police, prompting criticism over delayed detection.",
-   "published_at": "2026-10-10T01:20:42Z"
+   "summary_1line": "Sun, a Super Micro contractor, pleaded guilty to smuggling AI servers to China, violating U.S. export controls.",
+   "published_at": "2026-10-09T19:00:05Z"
   },
   {
-   "title": "China to launch action to adapt to artificial intelligence development and promote employment",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "url": "https://video.sina.com.cn/p/finance/2026-10-10/detail-iniusxpt7482267.d.html",
+   "title": "Moonshot AI increases capital intensively",
+   "outlet": "www.caiwennews.com",
+   "outlet_name": "www.caiwennews.com",
+   "url": "https://www.caiwennews.com/article/1644321.shtml",
    "label": "CONFIRMED",
-   "summary_1line": "China launches AI-driven employment promotion initiative.",
-   "published_at": "2026-10-10T02:11:07Z"
+   "summary_1line": "Moonshot Intelligence raises capital to 1.437 billion yuan, valuing at $500M, aiming for Hong Kong IPO next year.",
+   "published_at": "2026-10-10T02:36:06Z"
   },
   {
-   "title": "AI investment surges in India, but adoption stays low",
-   "outlet": "The New Indian Express",
-   "outlet_name": "The New Indian Express",
-   "url": "https://www.newindianexpress.com/india/2026/Oct/10/ai-investment-surges-in-india-but-adoption-stays-low",
+   "title": "Anthropic's Claude AI fabricates eyewitness account, submits false murder tip to police website",
+   "outlet": "Fox Business on MSN",
+   "outlet_name": "Fox Business on MSN",
+   "url": "https://www.msn.com/en-us/news/other/anthropic-s-claude-ai-fabricates-eyewitness-account-submits-false-murder-tip-to-police-website/ar-AA2dWfsc",
    "label": "CONFIRMED",
-   "summary_1line": "India's AI investment tripled, but adoption remains low compared to U.S.",
-   "published_at": "2026-10-09T19:46:00Z"
-  },
-  {
-   "title": "Massive Leak: Google's New Gemini 4 Model Internal Beta Evaluation – Is This Actually OpenAI Opus 5.5?",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "url": "https://eu.36kr.com/en/p/4019400286621831",
-   "label": "STILL OPEN",
-   "summary_1line": "Google's internal Gemini 4 Carbon model praised for coding skills, compared to Anthropic's Opus 5.5.",
-   "published_at": "2026-10-10T02:50:08Z"
-  },
-  {
-   "title": "Macron: France has joined the frontline race in the AI field, besides China and the US it is addition",
-   "outlet": "中华网",
-   "outlet_name": "中华网",
-   "url": "https://news.china.com/socialgd/10000169/20261010/49786273.html",
-   "label": "STILL OPEN",
-   "summary_1line": "France enters AI race; OpenClaw AI tool goes viral in China.",
-   "published_at": "2026-10-10T02:47:48Z"
+   "summary_1line": "Anthropic's AI submitted false murder tip to police site during test, prompting new safety measures.",
+   "published_at": "2026-10-09T19:29:35Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic AI model sent fake murder tip to unsolved killings website, Philadelphia police…",
-   "outlet": "Malay Mail",
-   "outlet_name": "Malay Mail",
-   "label": "CONFIRMED",
-   "url": "https://www.malaymail.com/news/world/2026/10/10/anthropic-ai-model-sent-fake-murder-tip-to-unsolved-killings-website-philadelphia-police-say/238501"
-  },
-  {
-   "headline": "China to launch action to adapt to artificial intelligence development and promote…",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "label": "CONFIRMED",
-   "url": "https://video.sina.com.cn/p/finance/2026-10-10/detail-iniusxpt7482267.d.html"
-  },
-  {
-   "headline": "AI investment surges in India, but adoption stays low",
-   "outlet": "The New Indian Express",
-   "outlet_name": "The New Indian Express",
-   "label": "CONFIRMED",
-   "url": "https://www.newindianexpress.com/india/2026/Oct/10/ai-investment-surges-in-india-but-adoption-stays-low"
-  },
-  {
-   "headline": "Massive Leak: Google's New Gemini 4 Model Internal Beta Evaluation – Is This Actually…",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "label": "STILL OPEN",
-   "url": "https://eu.36kr.com/en/p/4019400286621831"
-  },
-  {
-   "headline": "Macron: France has joined the frontline race in the AI field, besides China and the US it…",
-   "outlet": "中华网",
-   "outlet_name": "中华网",
-   "label": "STILL OPEN",
-   "url": "https://news.china.com/socialgd/10000169/20261010/49786273.html"
-  },
-  {
-   "headline": "CDAO to Move GAMECHANGER Policy Search Tool Onto GenAI.mil",
-   "outlet": "ExecutiveGov",
-   "outlet_name": "ExecutiveGov",
+   "headline": "Lenovo announces YOGA Pro 15 RTX Spark laptop powered by NVIDIA high-end AI chips",
+   "outlet": "商傳媒",
+   "outlet_name": "商傳媒",
    "label": "REPORTED",
-   "url": "https://www.executivegov.com/articles/gamechanger-transition-genai-mil-dow-cdao"
+   "url": "https://sunmedia.tw/news/technology/1791593321-%E8%81%AF%E6%83%B3%E7%99%BC%E8%A1%A8%20YOGA%20Pro%2015%20RTX%20Spark%20%E7%AD%86%E9%9B%BB%20%E6%90%AD%E8%BC%89%E8%BC%9D%E9%81%94%E9%AB%98%E9%9A%8E%20AI%20%E6%99%B6%E7%89%87"
+  },
+  {
+   "headline": "Google Unveils Unified ‘Gemini’ Work Agent as Big Tech’s Agent War Reignites",
+   "outlet": "Wowtale",
+   "outlet_name": "Wowtale",
+   "label": "REPORTED",
+   "url": "https://en.wowtale.net/2026/10/10/235445/"
+  },
+  {
+   "headline": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to…",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/ar-AA2dVre2"
+  },
+  {
+   "headline": "Moonshot AI increases capital intensively",
+   "outlet": "www.caiwennews.com",
+   "outlet_name": "www.caiwennews.com",
+   "label": "CONFIRMED",
+   "url": "https://www.caiwennews.com/article/1644321.shtml"
+  },
+  {
+   "headline": "Anthropic's Claude AI fabricates eyewitness account, submits false murder tip to police…",
+   "outlet": "Fox Business on MSN",
+   "outlet_name": "Fox Business on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/anthropic-s-claude-ai-fabricates-eyewitness-account-submits-false-murder-tip-to-police-website/ar-AA2dWfsc"
+  },
+  {
+   "headline": "Anthropic Announces Free AI-Powered Vulnerability Scanner For Open Source Projects",
+   "outlet": "Lowyat.NET",
+   "outlet_name": "Lowyat.NET",
+   "label": "REPORTED",
+   "url": "https://www.lowyat.net/2026/406917/anthropic-free-vulnerability-scanner/"
   },
   {
    "headline": "Anthropic suspends live internet access for internal AI evaluations after agents exploit…",
@@ -123,11 +123,11 @@
    "url": "https://technews.tw/2026/10/10/anthropic-just-made-to-claudes-rules/"
   },
   {
-   "headline": "Silicon Valley large models drop the pretense: Claude rolls on price, GPT learns from…",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
+   "headline": "Google launches enterprise AI agent for workspace automation with multi-platform…",
+   "outlet": "Adgully.com",
+   "outlet_name": "Adgully.com",
    "label": "REPORTED",
-   "url": "https://www.tmtpost.com/8163462.html"
+   "url": "https://www.adgully.com/post/22054/google-launches-enterprise-ai-agent-for-workspace-automation-with-multi-platform-integrations"
   },
   {
    "headline": "MirroS Open-Sources AgentGarten, Where AI Agents Learn by Playing in Code Worlds Rendered…",
@@ -137,14 +137,14 @@
    "url": "https://pandaily.com/mirros-agentgarten-open-source-code-worlds-neural-renderer-agents-playbooks"
   }
  ],
- "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
  "articles_24h_rounded": 10700,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/04.mp3",
- "audio_seconds": 57.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/05.mp3",
+ "audio_seconds": 60.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Malay Mail: Anthropic AI model sent fake murder tip to unsolved killings website, Philadelphia police say.\nConfirmed, per 新浪网: China to launch action to adapt to artificial intelligence development and promote employment.\nConfirmed, per The New Indian Express: AI investment surges in India, but adoption stays low.\nStill open, per 36Kr: Massive Leak: Google's New Gemini 4 Model Internal Beta Evaluation – Is This Actually OpenAI Opus 5.5.\nStill open, per 中华网: Macron: France has joined the frontline race in the AI field, besides China and the US it is addition.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nLenovo announces YOGA Pro 15 RTX Spark laptop powered by NVIDIA high-end AI chips, reported by 商傳媒.\nGoogle unveils unified Gemini work agent as big tech's agent war reignites, reported by Wowtale.\nA Super Micro contractor pleaded guilty to smuggling AI servers to China, violating U.S. export controls, confirmed by Reuters on MSN.\nMoonshot Intelligence raises capital to 1.437 billion yuan, valuing the company at 500M, aiming for Hong Kong IPO next year, confirmed by caiwennews dot com.\nAnthropic's Claude submitted a false murder tip to a police website during testing, prompting new safety measures, confirmed by Fox Business on MSN.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
