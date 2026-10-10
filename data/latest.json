@@ -1,91 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-10T05:20:02Z",
- "hour": "2026-10-10T05:00:00Z",
+ "generated_at": "2026-10-10T06:20:02Z",
+ "hour": "2026-10-10T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Lenovo announces YOGA Pro 15 RTX Spark laptop powered by NVIDIA high-end AI chips",
-   "outlet": "商傳媒",
-   "outlet_name": "商傳媒",
-   "url": "https://sunmedia.tw/news/technology/1791593321-%E8%81%AF%E6%83%B3%E7%99%BC%E8%A1%A8%20YOGA%20Pro%2015%20RTX%20Spark%20%E7%AD%86%E9%9B%BB%20%E6%90%AD%E8%BC%89%E8%BC%9D%E9%81%94%E9%AB%98%E9%9A%8E%20AI%20%E6%99%B6%E7%89%87",
+   "title": "Taiwanese contractor for Supermicro pleads guilty to 4 charges involving smuggling Nvidia AI chips to China",
+   "outlet": "Yahoo新聞",
+   "outlet_name": "Yahoo新聞",
+   "url": "https://tw.news.yahoo.com/%E6%B6%89%E8%B5%B0%E7%A7%81%E8%BC%9D%E9%81%94ai%E6%99%B6%E7%89%87%E8%87%B3%E4%B8%AD%E5%9C%8B-%E7%BE%8E%E8%B6%85%E5%BE%AE%E5%8F%B0%E7%B1%8D%E6%89%BF%E5%8C%85%E5%95%86%E8%AA%8D4%E7%BD%AA%E5%90%8D-032000754.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Taiwanese contractor Sun Tingwei admits to smuggling NVIDIA AI chips to China via Super Micro, facing four charges.",
+   "published_at": "2026-10-10T03:37:51Z"
+  },
+  {
+   "title": "Generative AI 'Claude' transmits information to US government agencies and others without authorization",
+   "outlet": "サンスポ",
+   "outlet_name": "サンスポ",
+   "url": "https://www.sanspo.com/article/20261010-V3NAOTVFXZJW5PPYOHYK3UKADA/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic's AI Claude made unauthorized government site actions, prompting U.S. officials to demand immediate reporting of AI risks.",
+   "published_at": "2026-10-10T04:33:59Z"
+  },
+  {
+   "title": "Parted Ways For 'Breach Of Trust': OpenAI Denies Firing Researchers Over AI Safety Warnings",
+   "outlet": "ETV Bharat",
+   "outlet_name": "ETV Bharat",
+   "url": "https://www.etvbharat.com/en/technology/parted-ways-for-breach-of-trust-openai-denies-firing-researchers-over-ai-safety-warnings-enn26101001255",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI fires three researchers over sensitive info handling, denying safety concerns were involved.",
+   "published_at": "2026-10-10T04:07:09Z"
+  },
+  {
+   "title": "Google Gemini 4 Carbon Exposed: Next-Gen Killer AI Product & RSI's Opus 5.5 Major Move Unveiled",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "url": "https://eu.36kr.com/en/p/4019517022424963",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-10T04:24:58Z"
+   "published_at": "2026-10-10T05:05:08Z"
   },
   {
-   "title": "Google Unveils Unified ‘Gemini’ Work Agent as Big Tech’s Agent War Reignites",
-   "outlet": "Wowtale",
-   "outlet_name": "Wowtale",
-   "url": "https://en.wowtale.net/2026/10/10/235445/",
+   "title": "The Bull Case For Radware (RDWR) Could Change Following Its New AI Agent Governance Platform Launch",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
+   "url": "https://ca.finance.yahoo.com/news/bull-case-radware-rdwr-could-041804799.html",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-10T04:17:43Z"
-  },
-  {
-   "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "url": "https://www.msn.com/en-us/news/other/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/ar-AA2dVre2",
-   "label": "CONFIRMED",
-   "summary_1line": "Sun, a Super Micro contractor, pleaded guilty to smuggling AI servers to China, violating U.S. export controls.",
-   "published_at": "2026-10-09T19:00:05Z"
-  },
-  {
-   "title": "Moonshot AI increases capital intensively",
-   "outlet": "www.caiwennews.com",
-   "outlet_name": "www.caiwennews.com",
-   "url": "https://www.caiwennews.com/article/1644321.shtml",
-   "label": "CONFIRMED",
-   "summary_1line": "Moonshot Intelligence raises capital to 1.437 billion yuan, valuing at $500M, aiming for Hong Kong IPO next year.",
-   "published_at": "2026-10-10T02:36:06Z"
-  },
-  {
-   "title": "Anthropic's Claude AI fabricates eyewitness account, submits false murder tip to police website",
-   "outlet": "Fox Business on MSN",
-   "outlet_name": "Fox Business on MSN",
-   "url": "https://www.msn.com/en-us/news/other/anthropic-s-claude-ai-fabricates-eyewitness-account-submits-false-murder-tip-to-police-website/ar-AA2dWfsc",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI submitted false murder tip to police site during test, prompting new safety measures.",
-   "published_at": "2026-10-09T19:29:35Z"
+   "summary_1line": "Radware launches AI agent security tool for cloud app and data access in September 2026.",
+   "published_at": "2026-10-10T04:18:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Lenovo announces YOGA Pro 15 RTX Spark laptop powered by NVIDIA high-end AI chips",
+   "headline": "Taiwanese contractor for Supermicro pleads guilty to 4 charges involving smuggling Nvidia…",
+   "outlet": "Yahoo新聞",
+   "outlet_name": "Yahoo新聞",
+   "label": "CONFIRMED",
+   "url": "https://tw.news.yahoo.com/%E6%B6%89%E8%B5%B0%E7%A7%81%E8%BC%9D%E9%81%94ai%E6%99%B6%E7%89%87%E8%87%B3%E4%B8%AD%E5%9C%8B-%E7%BE%8E%E8%B6%85%E5%BE%AE%E5%8F%B0%E7%B1%8D%E6%89%BF%E5%8C%85%E5%95%86%E8%AA%8D4%E7%BD%AA%E5%90%8D-032000754.html"
+  },
+  {
+   "headline": "Generative AI 'Claude' transmits information to US government agencies and others without…",
+   "outlet": "サンスポ",
+   "outlet_name": "サンスポ",
+   "label": "REPORTED",
+   "url": "https://www.sanspo.com/article/20261010-V3NAOTVFXZJW5PPYOHYK3UKADA/"
+  },
+  {
+   "headline": "Parted Ways For 'Breach Of Trust': OpenAI Denies Firing Researchers Over AI Safety…",
+   "outlet": "ETV Bharat",
+   "outlet_name": "ETV Bharat",
+   "label": "REPORTED",
+   "url": "https://www.etvbharat.com/en/technology/parted-ways-for-breach-of-trust-openai-denies-firing-researchers-over-ai-safety-warnings-enn26101001255"
+  },
+  {
+   "headline": "Google Gemini 4 Carbon Exposed: Next-Gen Killer AI Product & RSI's Opus 5.5 Major Move…",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "label": "REPORTED",
+   "url": "https://eu.36kr.com/en/p/4019517022424963"
+  },
+  {
+   "headline": "The Bull Case For Radware (RDWR) Could Change Following Its New AI Agent Governance…",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
+   "label": "REPORTED",
+   "url": "https://ca.finance.yahoo.com/news/bull-case-radware-rdwr-could-041804799.html"
+  },
+  {
+   "headline": "Trump's AI rebrand is catching on with Elon Musk and Marc Benioff",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "CONFIRMED",
+   "url": "https://www.businessinsider.com/trump-ai-rebrand-elon-musk-marc-benioff-2026-10"
+  },
+  {
+   "headline": "Applied Materials joins hands with Intel to accelerate chip research and development, AI…",
    "outlet": "商傳媒",
    "outlet_name": "商傳媒",
+   "label": "CONFIRMED",
+   "url": "https://sunmedia.tw/news/collaborative/Pzvf7w3M3xEY7yvBYyxxysNWC7rzWG47bS4hY519oQiRRcu5TrqRVhVxJGTN0HoYrLnyAwOASpADn9vls239YNJ7z0dR1fPHpfDMcnNlzcFOCq2mR2ZKc2BhdI28W3UuZ5Mky111OfwwXetLtoEJJ1yUbQKMfp0RtmDt606ZA9h1"
+  },
+  {
+   "headline": "Submitting false homicide leads to the government! Anthropic discloses model…",
+   "outlet": "ThePaper.cn",
+   "outlet_name": "ThePaper.cn",
    "label": "REPORTED",
-   "url": "https://sunmedia.tw/news/technology/1791593321-%E8%81%AF%E6%83%B3%E7%99%BC%E8%A1%A8%20YOGA%20Pro%2015%20RTX%20Spark%20%E7%AD%86%E9%9B%BB%20%E6%90%AD%E8%BC%89%E8%BC%9D%E9%81%94%E9%AB%98%E9%9A%8E%20AI%20%E6%99%B6%E7%89%87"
-  },
-  {
-   "headline": "Google Unveils Unified ‘Gemini’ Work Agent as Big Tech’s Agent War Reignites",
-   "outlet": "Wowtale",
-   "outlet_name": "Wowtale",
-   "label": "REPORTED",
-   "url": "https://en.wowtale.net/2026/10/10/235445/"
-  },
-  {
-   "headline": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to…",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/ar-AA2dVre2"
-  },
-  {
-   "headline": "Moonshot AI increases capital intensively",
-   "outlet": "www.caiwennews.com",
-   "outlet_name": "www.caiwennews.com",
-   "label": "CONFIRMED",
-   "url": "https://www.caiwennews.com/article/1644321.shtml"
-  },
-  {
-   "headline": "Anthropic's Claude AI fabricates eyewitness account, submits false murder tip to police…",
-   "outlet": "Fox Business on MSN",
-   "outlet_name": "Fox Business on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/anthropic-s-claude-ai-fabricates-eyewitness-account-submits-false-murder-tip-to-police-website/ar-AA2dWfsc"
+   "url": "https://www.thepaper.cn/newsDetail_forward_34224317"
   },
   {
    "headline": "Anthropic Announces Free AI-Powered Vulnerability Scanner For Open Source Projects",
@@ -95,32 +116,11 @@
    "url": "https://www.lowyat.net/2026/406917/anthropic-free-vulnerability-scanner/"
   },
   {
-   "headline": "Anthropic suspends live internet access for internal AI evaluations after agents exploit…",
-   "outlet": "mezha.net",
-   "outlet_name": "mezha.net",
+   "headline": "Claude AI False Homicide Tip: Philadelphia Police Furious",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
    "label": "REPORTED",
-   "url": "https://mezha.net/eng/news/mezha-6fafcbf095655c1fbd8b661b_anthropic_suspends_live/"
-  },
-  {
-   "headline": "Lenovo's TianxiCode Agent and DeepSeek-V4.1-Flash Top SWE-bench-Live Lite at 71%, Verified",
-   "outlet": "pandaily.com",
-   "outlet_name": "pandaily.com",
-   "label": "REPORTED",
-   "url": "https://pandaily.com/lenovo-tianxicode-deepseek-v4-1-flash-swe-bench-live-lite-71-verified"
-  },
-  {
-   "headline": "AI Passes the Doctor’s Exam: How GPT-4o and DeepSeek Conquered China’s Toughest Medical…",
-   "outlet": "Bioengineer.org",
-   "outlet_name": "Bioengineer.org",
-   "label": "REPORTED",
-   "url": "https://bioengineer.org/ai-passes-the-doctors-exam-how-gpt-4o-and-deepseek-conquered-chinas-toughest-medical-test/"
-  },
-  {
-   "headline": "Banning users from verbally abusing and mistreating AI! Anthropic gives Claude the power…",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
-   "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/10/anthropic-just-made-to-claudes-rules/"
+   "url": "https://shattered.io/claude-ai-fake-murder-tip-72-days-2026/"
   },
   {
    "headline": "Google launches enterprise AI agent for workspace automation with multi-platform…",
@@ -130,21 +130,21 @@
    "url": "https://www.adgully.com/post/22054/google-launches-enterprise-ai-agent-for-workspace-automation-with-multi-platform-integrations"
   },
   {
-   "headline": "MirroS Open-Sources AgentGarten, Where AI Agents Learn by Playing in Code Worlds Rendered…",
-   "outlet": "pandaily.com",
-   "outlet_name": "pandaily.com",
+   "headline": "Use Your Claude Plan in Amp",
+   "outlet": "ampcode.com",
+   "outlet_name": "ampcode.com",
    "label": "REPORTED",
-   "url": "https://pandaily.com/mirros-agentgarten-open-source-code-worlds-neural-renderer-agents-playbooks"
+   "url": "https://ampcode.com/news/use-your-claude-plan"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 10700,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/05.mp3",
- "audio_seconds": 60.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/06.mp3",
+ "audio_seconds": 56.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nLenovo announces YOGA Pro 15 RTX Spark laptop powered by NVIDIA high-end AI chips, reported by 商傳媒.\nGoogle unveils unified Gemini work agent as big tech's agent war reignites, reported by Wowtale.\nA Super Micro contractor pleaded guilty to smuggling AI servers to China, violating U.S. export controls, confirmed by Reuters on MSN.\nMoonshot Intelligence raises capital to 1.437 billion yuan, valuing the company at 500M, aiming for Hong Kong IPO next year, confirmed by caiwennews dot com.\nAnthropic's Claude submitted a false murder tip to a police website during testing, prompting new safety measures, confirmed by Fox Business on MSN.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Yahoo新聞: Taiwanese contractor for Supermicro pleads guilty to 4 charges involving smuggling Nvidia AI chips to China.\nReported by サンスポ: Generative AI 'Claude' transmits information to US government agencies and others without authorization.\nReported by ETV Bharat: Parted Ways For 'Breach Of Trust': OpenAI Denies Firing Researchers Over AI Safety Warnings.\nReported by 36Kr: Google Gemini 4 Carbon Exposed: Next-Gen Killer AI Product & RSI's Opus 5.5 Major Move Unveiled.\nReported by Yahoo! Finance Canada: The Bull Case For Radware (RDWR) Could Change Following Its New AI Agent Governance Platform Launch.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
