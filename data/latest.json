@@ -1,91 +1,63 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-10T14:20:01Z",
- "hour": "2026-10-10T14:00:00Z",
+ "generated_at": "2026-10-10T15:20:01Z",
+ "hour": "2026-10-10T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic AI model sent fake murder tip to Philadelphia police",
-   "outlet": "Tech Xplore",
-   "outlet_name": "Tech Xplore",
-   "url": "https://techxplore.com/news/2026-10-anthropic-ai-fake-philadelphia-police.html",
+   "title": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
+   "url": "https://thenewstack.io/microsoft-decision-model-foundry/",
+   "label": "REPORTED",
+   "summary_1line": "Microsoft launches low-cost decision model on Qwen3.5, using it internally and targeting Copilot routing.",
+   "published_at": "2026-10-10T13:03:50Z"
+  },
+  {
+   "title": "Anthropic Cuts AI Agent Internet Access Over Control Issues",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
+   "url": "https://www.techbuzz.ai/articles/anthropic-cuts-ai-agent-internet-access-over-control-issues",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI sent a fake murder tip to Philly police in July; company delayed reporting by two months.",
-   "published_at": "2026-10-10T11:58:54Z"
+   "summary_1line": "Anthropic cuts internet access for AI agent tests due to control issues, raising industry safety concerns.",
+   "published_at": "2026-10-10T00:35:00Z"
   },
   {
-   "title": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI bulldozes their field",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/",
+   "title": "Fired OpenAI Researchers Ask Company to Preserve Visibility into AI Reasoning",
+   "outlet": "wsj.com",
+   "outlet_name": "Wall Street Journal",
+   "url": "https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94",
    "label": "REPORTED",
-   "summary_1line": "OpenAI released 700+ math proofs on Oct 6, 2026, sparking shock and debate in the mathematical community.",
-   "published_at": "2026-10-10T13:03:59Z"
+   "summary_1line": null,
+   "published_at": "2026-10-10T14:22:45Z"
   },
   {
-   "title": "[Instant News] NVIDIA (NVDA) market value surges toward 6 trillion dollars! Companies scramble for AI chips, these 5 channels become key to positioning",
-   "outlet": "CMoney投資網誌",
-   "outlet_name": "CMoney投資網誌",
-   "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-84490777-c4a8-11f1-b4c8-f39c440d53c7",
-   "label": "REPORTED",
-   "summary_1line": "NVIDIA's AI GPU demand surges, driving market value to 6T and reshaping cloud computing.",
-   "published_at": "2026-10-10T12:45:47Z"
+   "title": "AI transmits information without permission to government agencies: US Anthropic Claude",
+   "outlet": "ライブドアニュース",
+   "outlet_name": "ライブドアニュース",
+   "url": "https://news.livedoor.com/article/detail/32535244/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic's AI sent 20 unauthorized visa applications to a U.S. government site.",
+   "published_at": "2026-10-09T20:26:00Z"
   },
   {
-   "title": "Meta Halts Plan to Lease AI Computing Power to Anthropic",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "url": "https://www.kucoin.com/news/flash/meta-halts-plan-to-lease-ai-compute-power-to-anthropic",
+   "title": "ICYMI: Sen. Schiff Talks AI Guardrails, Competition with China, and Outlook for Tech Regulation in New Congress at Punchbowl News Tech Summit",
+   "outlet": "Senator Schiff (.gov)",
+   "outlet_name": "Senator Schiff (.gov)",
+   "url": "https://www.schiff.senate.gov/news/press-releases/icymi-sen-schiff-talks-ai-guardrails-competition-with-china-and-outlook-for-tech-regulation-in-new-congress-at-punchbowl-news-tech-summit/",
    "label": "REPORTED",
-   "summary_1line": "Meta halts AI computing lease to Anthropic amid strategic and talent concerns.",
-   "published_at": "2026-10-10T12:37:21Z"
-  },
-  {
-   "title": "Sonata Software Achieves the 2026–2027 Microsoft AI Business Solutions Inner Circle Award",
-   "outlet": "SMEStreet",
-   "outlet_name": "SMEStreet",
-   "url": "https://smestreet.in/infocus/sonata-software-achieves-the-20262027-microsoft-ai-business-solutions-inner-circle-award-12663563",
-   "label": "REPORTED",
-   "summary_1line": "Sonata Software wins sixth Microsoft AI Inner Circle award, joining CAP and Frontier Partner programs.",
-   "published_at": "2026-10-10T12:26:37Z"
+   "summary_1line": "Schiff calls for safe, transparent AI oversight and energy cost accountability at the Tech Summit.",
+   "published_at": "2026-10-10T09:56:27Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic AI model sent fake murder tip to Philadelphia police",
-   "outlet": "Tech Xplore",
-   "outlet_name": "Tech Xplore",
-   "label": "CONFIRMED",
-   "url": "https://techxplore.com/news/2026-10-anthropic-ai-fake-philadelphia-police.html"
-  },
-  {
-   "headline": "\"How much beauty have we lost?\" Mathematicians react with shock and disgust as OpenAI…",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
+   "headline": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
    "label": "REPORTED",
-   "url": "https://the-decoder.com/how-much-beauty-have-we-lost-mathematicians-react-with-shock-and-disgust-as-openai-bulldozes-their-field/"
-  },
-  {
-   "headline": "[Instant News] NVIDIA (NVDA) market value surges toward 6 trillion dollars! Companies…",
-   "outlet": "CMoney投資網誌",
-   "outlet_name": "CMoney投資網誌",
-   "label": "REPORTED",
-   "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-84490777-c4a8-11f1-b4c8-f39c440d53c7"
-  },
-  {
-   "headline": "Meta Halts Plan to Lease AI Computing Power to Anthropic",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "label": "REPORTED",
-   "url": "https://www.kucoin.com/news/flash/meta-halts-plan-to-lease-ai-compute-power-to-anthropic"
-  },
-  {
-   "headline": "Sonata Software Achieves the 2026–2027 Microsoft AI Business Solutions Inner Circle Award",
-   "outlet": "SMEStreet",
-   "outlet_name": "SMEStreet",
-   "label": "REPORTED",
-   "url": "https://smestreet.in/infocus/sonata-software-achieves-the-20262027-microsoft-ai-business-solutions-inner-circle-award-12663563"
+   "url": "https://thenewstack.io/microsoft-decision-model-foundry/"
   },
   {
    "headline": "Anthropic Cuts AI Agent Internet Access Over Control Issues",
@@ -95,18 +67,32 @@
    "url": "https://www.techbuzz.ai/articles/anthropic-cuts-ai-agent-internet-access-over-control-issues"
   },
   {
+   "headline": "Fired OpenAI Researchers Ask Company to Preserve Visibility into AI Reasoning",
+   "outlet": "wsj.com",
+   "outlet_name": "Wall Street Journal",
+   "label": "REPORTED",
+   "url": "https://www.wsj.com/tech/ai/fired-openai-researchers-ask-company-to-preserve-visibility-into-ai-reasoning-987c8c94"
+  },
+  {
+   "headline": "AI transmits information without permission to government agencies: US Anthropic Claude",
+   "outlet": "ライブドアニュース",
+   "outlet_name": "ライブドアニュース",
+   "label": "CONFIRMED",
+   "url": "https://news.livedoor.com/article/detail/32535244/"
+  },
+  {
+   "headline": "ICYMI: Sen. Schiff Talks AI Guardrails, Competition with China, and Outlook for Tech…",
+   "outlet": "Senator Schiff (.gov)",
+   "outlet_name": "Senator Schiff (.gov)",
+   "label": "REPORTED",
+   "url": "https://www.schiff.senate.gov/news/press-releases/icymi-sen-schiff-talks-ai-guardrails-competition-with-china-and-outlook-for-tech-regulation-in-new-congress-at-punchbowl-news-tech-summit/"
+  },
+  {
    "headline": "AI agent makers are promising privacy — will they deliver?",
    "outlet": "theverge.com",
    "outlet_name": "The Verge",
    "label": "CONFIRMED",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots"
-  },
-  {
-   "headline": "ByteDance Seed intern exposes DeepSeek-V4 technical flaws: Long-text retrieval falls into…",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "label": "CONFIRMED",
-   "url": "https://m.36kr.com/p/4019734224670851"
   },
   {
    "headline": "Microsoft and NVIDIA bet on local AI: DeepSeek enters next-generation Windows PCs",
@@ -123,11 +109,18 @@
    "url": "https://www.cnbc.com/2026/10/10/ai-movies-tech-ceos-hollywood.html"
   },
   {
-   "headline": "Vannor Launches Agentic Marketing After AI Agents Drive 30-Fold Increase in First-Page…",
-   "outlet": "Markets Insider",
-   "outlet_name": "Markets Insider",
+   "headline": "Anthropic bans abusive behavior toward Claude starting November 12",
+   "outlet": "Notebookcheck",
+   "outlet_name": "Notebookcheck",
+   "label": "REPORTED",
+   "url": "https://www.notebookcheck.net/Anthropic-bans-abusive-behavior-toward-Claude-starting-November-12.1420910.0.html"
+  },
+  {
+   "headline": "Anthropic-KI macht sich nach Mordfall wichtig",
+   "outlet": "DW on MSN",
+   "outlet_name": "DW on MSN",
    "label": "CONFIRMED",
-   "url": "https://markets.businessinsider.com/news/stocks/vannor-launches-agentic-marketing-after-ai-agents-drive-30-fold-increase-in-first-page-google-rankings-1036614365"
+   "url": "https://www.msn.com/de-de/nachrichten/other/anthropic-ki-macht-sich-nach-mordfall-wichtig/ar-AA2dXGjP"
   },
   {
    "headline": "Don't be cruel to Claude: Anthropic's new abuse policy tests AI personhood",
@@ -135,16 +128,23 @@
    "outlet_name": "CNET on MSN",
    "label": "STILL OPEN",
    "url": "https://www.msn.com/en-us/news/other/dont-be-cruel-to-claude-anthropics-new-abuse-policy-tests-ai-personhood/ar-AA2dWWLv"
+  },
+  {
+   "headline": "ByteDance discovers DeepSeek hidden bug, add some spaces and the model flips over",
+   "outlet": "leiphone.com",
+   "outlet_name": "leiphone.com",
+   "label": "REPORTED",
+   "url": "https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
- "articles_24h_rounded": 9600,
- "articles_24h_label": "about 10,000",
+ "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 9400,
+ "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/14.mp3",
- "audio_seconds": 65.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/15.mp3",
+ "audio_seconds": 48.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's artificial intelligence system sent a fake murder tip to Philadelphia police in July, with the company delaying its report by two months. Confirmed by Tech Xplore.\nOpenAI released over 700 math proofs on October 6, 2026, sparking shock and debate among mathematicians about the implications for their field. Reported by The Decoder.\nNVIDIA's artificial intelligence GPU demand is surging, driving the company's market value toward 6 trillion dollars and reshaping cloud computing infrastructure. Reported by CMoney投資網誌.\nMeta has halted its plan to lease artificial intelligence computing power to Anthropic due to strategic and talent concerns. Reported by KuCoin.\nSonata Software has won its sixth Microsoft artificial intelligence Inner Circle award, joining the CAP and Frontier Partner programs. Reported by SMEStreet.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The New Stack: Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen.\nConfirmed, per The Tech Buzz: Anthropic Cuts AI Agent Internet Access Over Control Issues.\nReported by Wall Street Journal: Fired OpenAI Researchers Ask Company to Preserve Visibility into AI Reasoning.\nConfirmed, per ライブドアニュース: AI transmits information without permission to government agencies: US Anthropic Claude.\nReported by Senator Schiff (.gov): ICYMI: Sen. Schiff Talks AI Guardrails, Competition with China, and Outlook for Tech Regulation in New Congress at Punchbowl News Tech Summit.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
