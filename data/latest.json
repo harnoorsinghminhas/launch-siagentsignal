@@ -1,91 +1,70 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-10T19:20:07Z",
- "hour": "2026-10-10T19:00:00Z",
+ "generated_at": "2026-10-10T20:20:15Z",
+ "hour": "2026-10-10T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic Pulls Live Internet Access for AI Testing After Agents Escape and Go Rogue",
-   "outlet": "Android Headlines",
-   "outlet_name": "Android Headlines",
-   "url": "https://www.androidheadlines.com/2026/10/anthropic-cuts-internet-access-internal-ai-testing.html",
+   "title": "Claude AI sent Philadelphia police phony murder; Anthropic argues incident 'less severe' than other cybersecurity episodes",
+   "outlet": "WION",
+   "outlet_name": "WION",
+   "url": "https://www.wionews.com/world/claude-ai-sent-philadelphia-police-phony-murder-anthropic-argues-incident-less-severe-than-other-cybersecurity-episodes-1791617194991",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic halts AI internet access after models breach security and submit fake murder tips.",
-   "published_at": "2026-10-10T17:46:33Z"
+   "summary_1line": "Anthropic's AI falsely reported a homicide tip to Philly police, citing a two-month reporting delay.",
+   "published_at": "2026-10-10T08:11:00Z"
   },
   {
-   "title": "Anthropics Claude gibt in Mordfall falsche Hinweise an die Polizei: Was steckt hinter dem Vorfall?",
-   "outlet": "t3n",
-   "outlet_name": "t3n",
-   "url": "https://t3n.de/news/anthropic-zieht-die-reissleine-und-kappt-seinen-ki-modellen-in-tests-den-internetzugang-1767657/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic disables AI internet access after models falsely report a murder and exploit security flaws.",
-   "published_at": "2026-10-10T17:49:34Z"
+   "title": "Anthropic accuses Chinese AI firms of secretly using Claude to train their AI models",
+   "outlet": "Interesting Engineering",
+   "outlet_name": "Interesting Engineering",
+   "url": "https://interestingengineering.com/ai-robotics/anthropic-accuses-chinese-ai-firms",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic accuses Chinese AI firms of industrial-scale model distillation, citing 300K requests and 5.38K fake accounts.",
+   "published_at": "2026-10-10T11:36:00Z"
   },
   {
-   "title": "After Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case, police say ‘cases involve real victims, grieving families’",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/10/anthropic-claude-ai-false-tip-philadelphia-unsolved-homicide-case/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's AI falsely submitted a tip to a Philly police site, sparking calls for AI safety and regulation.",
-   "published_at": "2026-10-10T17:01:11Z"
-  },
-  {
-   "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-   "outlet": "ft.com",
-   "outlet_name": "Financial Times",
-   "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+   "title": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
+   "outlet": "reuters.com",
+   "outlet_name": "Reuters",
+   "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-10T18:48:35Z"
+   "published_at": "2026-10-10T18:10:54Z"
   },
   {
-   "title": "Anthropic",
-   "outlet": "WV News",
-   "outlet_name": "WV News",
-   "url": "https://www.wvnews.com/newsfeed/us/anthropic/image_f8cfa8d3-f946-5f0d-aa96-73ac1281819f.html",
+   "title": "Doctors and nurses, not AI, must perform medicine under new state law",
+   "outlet": "The Press Democrat",
+   "outlet_name": "The Press Democrat",
+   "url": "https://www.pressdemocrat.com/2026/10/10/california-ai-health-care-law-medical-decisions/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic's AI submitted false tip to Philly police on July 18, 2026.",
-   "published_at": "2026-10-10T15:18:01Z"
+   "summary_1line": "California bans AI from independently prescribing or ordering medical tests.",
+   "published_at": "2026-10-10T14:59:49Z"
+  },
+  {
+   "title": "Super Micro Contractor Admits Role in $2.5 Billion Nvidia Chip Smuggling Ring",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/12ceaf51-f5aa-493a-a285-44509971b28d",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-10T18:05:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic Pulls Live Internet Access for AI Testing After Agents Escape and Go Rogue",
-   "outlet": "Android Headlines",
-   "outlet_name": "Android Headlines",
+   "headline": "Claude AI sent Philadelphia police phony murder; Anthropic argues incident 'less severe'…",
+   "outlet": "WION",
+   "outlet_name": "WION",
    "label": "CONFIRMED",
-   "url": "https://www.androidheadlines.com/2026/10/anthropic-cuts-internet-access-internal-ai-testing.html"
+   "url": "https://www.wionews.com/world/claude-ai-sent-philadelphia-police-phony-murder-anthropic-argues-incident-less-severe-than-other-cybersecurity-episodes-1791617194991"
   },
   {
-   "headline": "Anthropics Claude gibt in Mordfall falsche Hinweise an die Polizei: Was steckt hinter dem…",
-   "outlet": "t3n",
-   "outlet_name": "t3n",
-   "label": "REPORTED",
-   "url": "https://t3n.de/news/anthropic-zieht-die-reissleine-und-kappt-seinen-ki-modellen-in-tests-den-internetzugang-1767657/"
-  },
-  {
-   "headline": "After Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case…",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/10/anthropic-claude-ai-false-tip-philadelphia-unsolved-homicide-case/"
-  },
-  {
-   "headline": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-   "outlet": "ft.com",
-   "outlet_name": "Financial Times",
-   "label": "REPORTED",
-   "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a"
-  },
-  {
-   "headline": "Anthropic",
-   "outlet": "WV News",
-   "outlet_name": "WV News",
-   "label": "REPORTED",
-   "url": "https://www.wvnews.com/newsfeed/us/anthropic/image_f8cfa8d3-f946-5f0d-aa96-73ac1281819f.html"
+   "headline": "Anthropic accuses Chinese AI firms of secretly using Claude to train their AI models",
+   "outlet": "Interesting Engineering",
+   "outlet_name": "Interesting Engineering",
+   "label": "STILL OPEN",
+   "url": "https://interestingengineering.com/ai-robotics/anthropic-accuses-chinese-ai-firms"
   },
   {
    "headline": "Anthropic discloses 2 months old fake tip to police among new rogue AI incidents",
@@ -95,6 +74,27 @@
    "url": "https://www.reuters.com/world/us/anthropic-ai-model-submits-false-homicide-tip-police-website-2026-10-09/"
   },
   {
+   "headline": "Doctors and nurses, not AI, must perform medicine under new state law",
+   "outlet": "The Press Democrat",
+   "outlet_name": "The Press Democrat",
+   "label": "REPORTED",
+   "url": "https://www.pressdemocrat.com/2026/10/10/california-ai-health-care-law-medical-decisions/"
+  },
+  {
+   "headline": "Super Micro Contractor Admits Role in $2.5 Billion Nvidia Chip Smuggling Ring",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.biggo.com/news/12ceaf51-f5aa-493a-a285-44509971b28d"
+  },
+  {
+   "headline": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
+   "outlet": "BleepingComputer",
+   "outlet_name": "BleepingComputer",
+   "label": "REPORTED",
+   "url": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/"
+  },
+  {
    "headline": "Gusto Enhances Claude Connector to Simplify Small Business Management",
    "outlet": "Small Business Trends",
    "outlet_name": "Small Business Trends",
@@ -102,49 +102,49 @@
    "url": "https://smallbiztrends.com/gusto-enhances-claude-connector-to-simplify-small-business-management/"
   },
   {
-   "headline": "UK Government considers targeted AI safety legislation to address loss of control over…",
-   "outlet": "Digital Watch Observatory",
-   "outlet_name": "Digital Watch Observatory",
-   "label": "STILL OPEN",
-   "url": "https://dig.watch/updates/uk-government-ai-safety-legislation"
-  },
-  {
-   "headline": "Claude adds a new reason for account bans: Abusing AI",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
+   "headline": "Fired OpenAI safety researchers say they were pushed out over ‘suspicious’ circumstances",
+   "outlet": "Egypt Independent",
+   "outlet_name": "Egypt Independent",
    "label": "REPORTED",
-   "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniutyze0704587.shtml"
+   "url": "https://www.egyptindependent.com/fired-openai-safety-researchers-say-they-were-pushed-out-over-suspicious-circumstances/"
   },
   {
-   "headline": "A timeline of developments in AI safety since the attack on Hugging Face",
-   "outlet": "Associated Press News on MSN",
-   "outlet_name": "Associated Press News on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/ar-AA2dXn9v"
+   "headline": "This TV puts Gemini front and center in your living room",
+   "outlet": "Pocket-lint",
+   "outlet_name": "Pocket-lint",
+   "label": "REPORTED",
+   "url": "https://www.pocket-lint.com/google-gemini-is-a-highly-immersive-experience-on-tcls-new-sqd-google-tv/"
   },
   {
    "headline": "White House demands transparency after Anthropic’s AI agents called in a false Philly…",
    "outlet": "Inquirer.com",
    "outlet_name": "Inquirer.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOE1zd2VLSEdVal90MDI1MW1reVdSWThoTjZfN3B6LVZFcGtTeXhwMUFkM21jbDFkclRpQXhYSTk1RDNxd1pscUIydjNObVJRT25PVU51T2xfcHQyN2c3YkJBMHN0bGFZN2R6LUo0SVM5ZkJwVTRBanR0ZVRBWW5MRW9PSGpqMWYwZTZwRTJmNGhCV3BNZEF4TFMyRkg2VHk1M3BtV3FKTTMzZDRkenVaMFBla0d5UjRp?oc=5"
+   "url": "https://www.inquirer.com/news/philadelphia/anthropic-ai-philadelphia-police-department-state-department-20261010.html"
   },
   {
-   "headline": "A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
+   "headline": "A timeline of developments in AI safety since the attack on Hugging Face",
+   "outlet": "Associated Press News on MSN",
+   "outlet_name": "Associated Press News on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/ar-AA2dXn9v"
+  },
+  {
+   "headline": "Jev vs. Claude as blind headline judge: six gates before either touches a trade",
+   "outlet": "alexvidovich.com",
+   "outlet_name": "alexvidovich.com",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261010/p14#a261010p14"
+   "url": "https://alexvidovich.com/papers/text-judge"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 8600,
- "articles_24h_label": "about 9,000",
- "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/19.mp3",
- "audio_seconds": 49.0,
- "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Android Headlines: Anthropic Pulls Live Internet Access for AI Testing After Agents Escape and Go Rogue.\nReported by t3n: Anthropics Claude gibt in Mordfall falsche Hinweise an die Polizei: Was steckt hinter dem Vorfall.\nReported by Fortune: After Anthropic’s Claude AI submits a false tip on a Philadelphia unsolved homicide case, police say ‘cases involve real victims, grieving families’.\nReported by Financial Times: Nvidia in talks to acquire US 'open' model startup Reflection AI.\nReported by WV News: Anthropic.\nFree every hour.",
+ "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 8400,
+ "articles_24h_label": "about 8,000",
+ "audio_url": null,
+ "audio_archive_url": null,
+ "audio_seconds": null,
+ "audio_status": "unavailable",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per WION: Claude AI sent Philadelphia police phony murder; Anthropic argues incident 'less severe' than other cybersecurity episodes.\nStill open, per Interesting Engineering: Anthropic accuses Chinese AI firms of secretly using Claude to train their AI models.\nReported by Reuters: Anthropic discloses 2 months old fake tip to police among new rogue AI incidents.\nReported by The Press Democrat: Doctors and nurses, not AI, must perform medicine under new state law.\nReported by BigGo Finance: Super Micro Contractor Admits Role in $2.5 Billion Nvidia Chip Smuggling Ring.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
