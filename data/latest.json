@@ -1,98 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-10T03:20:01Z",
- "hour": "2026-10-10T03:00:00Z",
+ "generated_at": "2026-10-10T04:20:06Z",
+ "hour": "2026-10-10T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Supermicro contractor pleads guilty to involvement in transshipping Nvidia AI chip servers to China | International",
-   "outlet": "中央社 CNA",
-   "outlet_name": "中央社 CNA",
-   "url": "https://www.cna.com.tw/news/aopl/202610100023.aspx",
+   "title": "Anthropic AI model sent fake murder tip to unsolved killings website, Philadelphia police say",
+   "outlet": "Malay Mail",
+   "outlet_name": "Malay Mail",
+   "url": "https://www.malaymail.com/news/world/2026/10/10/anthropic-ai-model-sent-fake-murder-tip-to-unsolved-killings-website-philadelphia-police-say/238501",
    "label": "CONFIRMED",
-   "summary_1line": "Super Micro contractor admits to illegal export of Nvidia AI servers to China.",
-   "published_at": "2026-10-10T00:56:00Z"
+   "summary_1line": "Anthropic's AI falsely reported a homicide to Philly police, prompting criticism over delayed detection.",
+   "published_at": "2026-10-10T01:20:42Z"
   },
   {
-   "title": "Microsoft Surface Laptop Ultra debuts with built-in Nvidia AI chip offering offline computing power surpassing Apple",
-   "outlet": "商傳媒",
-   "outlet_name": "商傳媒",
-   "url": "https://sunmedia.tw/news/technology/1791591784-%E5%BE%AE%E8%BB%9F%20Surface%20Laptop%20Ultra%20%E7%99%BB%E5%A0%B4%20%E8%BC%9D%E9%81%94AI%E6%99%B6%E7%89%87%E5%85%A7%E5%BB%BA%E9%9B%A2%E7%B7%9A%E9%81%8B%E7%AE%97%E8%83%BD%E5%8A%9B%E8%B6%85%E8%98%8B%E6%9E%9C",
-   "label": "REPORTED",
-   "summary_1line": "Surface Laptop Ultra with RTX Spark chip beats MacBook Pro M5 in offline AI, launching 10/16.",
-   "published_at": "2026-10-10T01:16:36Z"
-  },
-  {
-   "title": "Anthropic AI agent sent fake murder tip to US police in testing glitch",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
-   "url": "https://www.scmp.com/news/world/united-states-canada/article/3370414/anthropic-ai-model-sent-fake-murder-tip-us-police-hit-government-sites",
+   "title": "China to launch action to adapt to artificial intelligence development and promote employment",
+   "outlet": "新浪网",
+   "outlet_name": "新浪网",
+   "url": "https://video.sina.com.cn/p/finance/2026-10-10/detail-iniusxpt7482267.d.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI sent fake murder tip to Philly police in July, prompting safety concerns.",
-   "published_at": "2026-10-10T00:51:36Z"
+   "summary_1line": "China launches AI-driven employment promotion initiative.",
+   "published_at": "2026-10-10T02:11:07Z"
   },
   {
-   "title": "Stelato V800 initiates free brake pedal upgrade; Dongchedi refutes AI-forged disciplinary notice; Seed team locates root cause of DeepSeek glitch",
-   "outlet": "SmartHey",
-   "outlet_name": "SmartHey",
-   "url": "https://www.smarthey.com/detail/643091602610.html",
-   "label": "REPORTED",
-   "summary_1line": "尊界V800免费升级制动踏板，懂车帝辟谣AI伪造通知，Seed定位DeepSeek‘抽风’原因。",
-   "published_at": "2026-10-10T01:13:00Z"
+   "title": "AI investment surges in India, but adoption stays low",
+   "outlet": "The New Indian Express",
+   "outlet_name": "The New Indian Express",
+   "url": "https://www.newindianexpress.com/india/2026/Oct/10/ai-investment-surges-in-india-but-adoption-stays-low",
+   "label": "CONFIRMED",
+   "summary_1line": "India's AI investment tripled, but adoption remains low compared to U.S.",
+   "published_at": "2026-10-09T19:46:00Z"
   },
   {
-   "title": "Grok Can Simulate Anything: 4 Details That Matter",
-   "outlet": "BASENOR",
-   "outlet_name": "BASENOR",
-   "url": "https://www.basenor.com/blogs/news/grok-can-simulate-anything-4-details-that-matter",
-   "label": "REPORTED",
-   "summary_1line": "Elon Musk's Grok can simulate any scenario via xAI's world model and multi-agent tech.",
-   "published_at": "2026-10-10T01:04:19Z"
+   "title": "Massive Leak: Google's New Gemini 4 Model Internal Beta Evaluation – Is This Actually OpenAI Opus 5.5?",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "url": "https://eu.36kr.com/en/p/4019400286621831",
+   "label": "STILL OPEN",
+   "summary_1line": "Google's internal Gemini 4 Carbon model praised for coding skills, compared to Anthropic's Opus 5.5.",
+   "published_at": "2026-10-10T02:50:08Z"
+  },
+  {
+   "title": "Macron: France has joined the frontline race in the AI field, besides China and the US it is addition",
+   "outlet": "中华网",
+   "outlet_name": "中华网",
+   "url": "https://news.china.com/socialgd/10000169/20261010/49786273.html",
+   "label": "STILL OPEN",
+   "summary_1line": "France enters AI race; OpenClaw AI tool goes viral in China.",
+   "published_at": "2026-10-10T02:47:48Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Supermicro contractor pleads guilty to involvement in transshipping Nvidia AI chip…",
-   "outlet": "中央社 CNA",
-   "outlet_name": "中央社 CNA",
+   "headline": "Anthropic AI model sent fake murder tip to unsolved killings website, Philadelphia police…",
+   "outlet": "Malay Mail",
+   "outlet_name": "Malay Mail",
    "label": "CONFIRMED",
-   "url": "https://www.cna.com.tw/news/aopl/202610100023.aspx"
+   "url": "https://www.malaymail.com/news/world/2026/10/10/anthropic-ai-model-sent-fake-murder-tip-to-unsolved-killings-website-philadelphia-police-say/238501"
   },
   {
-   "headline": "Microsoft Surface Laptop Ultra debuts with built-in Nvidia AI chip offering offline…",
-   "outlet": "商傳媒",
-   "outlet_name": "商傳媒",
-   "label": "REPORTED",
-   "url": "https://sunmedia.tw/news/technology/1791591784-%E5%BE%AE%E8%BB%9F%20Surface%20Laptop%20Ultra%20%E7%99%BB%E5%A0%B4%20%E8%BC%9D%E9%81%94AI%E6%99%B6%E7%89%87%E5%85%A7%E5%BB%BA%E9%9B%A2%E7%B7%9A%E9%81%8B%E7%AE%97%E8%83%BD%E5%8A%9B%E8%B6%85%E8%98%8B%E6%9E%9C"
-  },
-  {
-   "headline": "Anthropic AI agent sent fake murder tip to US police in testing glitch",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
+   "headline": "China to launch action to adapt to artificial intelligence development and promote…",
+   "outlet": "新浪网",
+   "outlet_name": "新浪网",
    "label": "CONFIRMED",
-   "url": "https://www.scmp.com/news/world/united-states-canada/article/3370414/anthropic-ai-model-sent-fake-murder-tip-us-police-hit-government-sites"
+   "url": "https://video.sina.com.cn/p/finance/2026-10-10/detail-iniusxpt7482267.d.html"
   },
   {
-   "headline": "Stelato V800 initiates free brake pedal upgrade; Dongchedi refutes AI-forged disciplinary…",
-   "outlet": "SmartHey",
-   "outlet_name": "SmartHey",
-   "label": "REPORTED",
-   "url": "https://www.smarthey.com/detail/643091602610.html"
+   "headline": "AI investment surges in India, but adoption stays low",
+   "outlet": "The New Indian Express",
+   "outlet_name": "The New Indian Express",
+   "label": "CONFIRMED",
+   "url": "https://www.newindianexpress.com/india/2026/Oct/10/ai-investment-surges-in-india-but-adoption-stays-low"
   },
   {
-   "headline": "Grok Can Simulate Anything: 4 Details That Matter",
-   "outlet": "BASENOR",
-   "outlet_name": "BASENOR",
-   "label": "REPORTED",
-   "url": "https://www.basenor.com/blogs/news/grok-can-simulate-anything-4-details-that-matter"
+   "headline": "Massive Leak: Google's New Gemini 4 Model Internal Beta Evaluation – Is This Actually…",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "label": "STILL OPEN",
+   "url": "https://eu.36kr.com/en/p/4019400286621831"
   },
   {
-   "headline": "Elections N.W.T. developing policy for AI use in future territorial elections",
-   "outlet": "Yahoo News Canada",
-   "outlet_name": "Yahoo News Canada",
-   "label": "REPORTED",
-   "url": "https://ca.news.yahoo.com/elections-n-w-t-developing-002917694.html"
+   "headline": "Macron: France has joined the frontline race in the AI field, besides China and the US it…",
+   "outlet": "中华网",
+   "outlet_name": "中华网",
+   "label": "STILL OPEN",
+   "url": "https://news.china.com/socialgd/10000169/20261010/49786273.html"
   },
   {
    "headline": "CDAO to Move GAMECHANGER Policy Search Tool Onto GenAI.mil",
@@ -102,18 +95,32 @@
    "url": "https://www.executivegov.com/articles/gamechanger-transition-genai-mil-dow-cdao"
   },
   {
-   "headline": "AI disaster could happen within a year, OpenAI and Anthropic are already simulating…",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "label": "CONFIRMED",
-   "url": "https://m.36kr.com/p/4019262394486921"
+   "headline": "Anthropic suspends live internet access for internal AI evaluations after agents exploit…",
+   "outlet": "mezha.net",
+   "outlet_name": "mezha.net",
+   "label": "REPORTED",
+   "url": "https://mezha.net/eng/news/mezha-6fafcbf095655c1fbd8b661b_anthropic_suspends_live/"
   },
   {
-   "headline": "Introducing Microsoft 365 Copilot in LiteLLM",
-   "outlet": "docs.litellm.ai",
-   "outlet_name": "docs.litellm.ai",
+   "headline": "Lenovo's TianxiCode Agent and DeepSeek-V4.1-Flash Top SWE-bench-Live Lite at 71%, Verified",
+   "outlet": "pandaily.com",
+   "outlet_name": "pandaily.com",
    "label": "REPORTED",
-   "url": "https://docs.litellm.ai/blog/microsoft-365-copilot"
+   "url": "https://pandaily.com/lenovo-tianxicode-deepseek-v4-1-flash-swe-bench-live-lite-71-verified"
+  },
+  {
+   "headline": "AI Passes the Doctor’s Exam: How GPT-4o and DeepSeek Conquered China’s Toughest Medical…",
+   "outlet": "Bioengineer.org",
+   "outlet_name": "Bioengineer.org",
+   "label": "REPORTED",
+   "url": "https://bioengineer.org/ai-passes-the-doctors-exam-how-gpt-4o-and-deepseek-conquered-chinas-toughest-medical-test/"
+  },
+  {
+   "headline": "Banning users from verbally abusing and mistreating AI! Anthropic gives Claude the power…",
+   "outlet": "technews.tw",
+   "outlet_name": "technews.tw",
+   "label": "REPORTED",
+   "url": "https://technews.tw/2026/10/10/anthropic-just-made-to-claudes-rules/"
   },
   {
    "headline": "Silicon Valley large models drop the pretense: Claude rolls on price, GPT learns from…",
@@ -123,28 +130,21 @@
    "url": "https://www.tmtpost.com/8163462.html"
   },
   {
-   "headline": "Show HN: Claude Opus 5.5 Video prompts and skills",
-   "outlet": "reclip.io",
-   "outlet_name": "reclip.io",
+   "headline": "MirroS Open-Sources AgentGarten, Where AI Agents Learn by Playing in Code Worlds Rendered…",
+   "outlet": "pandaily.com",
+   "outlet_name": "pandaily.com",
    "label": "REPORTED",
-   "url": "https://www.reclip.io/claude-opus-5-5-video-prompts"
-  },
-  {
-   "headline": "Higher market share yet greater losses! Are AI agent portals the next gold mine or money…",
-   "outlet": "finance.technews.tw",
-   "outlet_name": "finance.technews.tw",
-   "label": "STILL OPEN",
-   "url": "https://finance.technews.tw/2026/10/10/higher-market-share-more-losses-ai-agent-portals-openai-meta-goldmine-money-pit/"
+   "url": "https://pandaily.com/mirros-agentgarten-open-source-code-worlds-neural-renderer-agents-playbooks"
   }
  ],
- "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12000,
- "articles_24h_label": "about 12,000",
+ "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 10700,
+ "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/03.mp3",
- "audio_seconds": 52.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/04.mp3",
+ "audio_seconds": 57.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per 中央社 CNA: Supermicro contractor pleads guilty to involvement in transshipping Nvidia AI chip servers to China | International.\nReported by 商傳媒: Microsoft Surface Laptop Ultra debuts with built-in Nvidia AI chip offering offline computing power surpassing Apple.\nConfirmed, per South China Morning Post: Anthropic AI agent sent fake murder tip to US police in testing glitch.\nReported by SmartHey: Stelato V800 initiates free brake pedal upgrade; Dongchedi refutes AI-forged disciplinary notice; Seed team locates root cause of DeepSeek glitch.\nReported by BASENOR: Grok Can Simulate Anything: 4 Details That Matter.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Malay Mail: Anthropic AI model sent fake murder tip to unsolved killings website, Philadelphia police say.\nConfirmed, per 新浪网: China to launch action to adapt to artificial intelligence development and promote employment.\nConfirmed, per The New Indian Express: AI investment surges in India, but adoption stays low.\nStill open, per 36Kr: Massive Leak: Google's New Gemini 4 Model Internal Beta Evaluation – Is This Actually OpenAI Opus 5.5.\nStill open, per 中华网: Macron: France has joined the frontline race in the AI field, besides China and the US it is addition.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
