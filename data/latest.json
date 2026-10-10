@@ -1,99 +1,57 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-10T00:20:02Z",
- "hour": "2026-10-10T00:00:00Z",
+ "generated_at": "2026-10-10T01:20:01Z",
+ "hour": "2026-10-10T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Don’t Be Cruel to Claude: Anthropic’s New Abuse Policy Tests AI Personhood",
-   "outlet": "CNET",
-   "outlet_name": "CNET",
-   "url": "https://www.cnet.com/tech/services-and-software/anthropic-cruel-claude-ai-model-abuse/",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic bans sustained cruelty toward Claude, sparking debate on AI welfare and human-AI relationships.",
-   "published_at": "2026-10-09T22:47:42Z"
-  },
-  {
-   "title": "Police Furious After an Anthropic AI Model Submitted a Bogus Tip About an Unsolved Murder, Posing as a Person Who Might Have Information About the Case",
-   "outlet": "Futurism",
-   "outlet_name": "Futurism",
-   "url": "https://futurism.com/artificial-intelligence/anthropic-ai-bogus-tip-unsolved-murder",
+   "title": "Microsoft launches its new AI model for making decisions quickly.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009190/microsoft-ai-decision-model",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI submitted a fake murder tip to Philly police, sparking concern over AI safety and oversight.",
-   "published_at": "2026-10-09T21:21:09Z"
+   "summary_1line": "Microsoft launches Microsoft-Decision-1 for fast AI decisions, claiming speed and accuracy superiority.",
+   "published_at": "2026-10-09T15:22:00Z"
   },
   {
-   "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+   "title": "Anthropic To Ban \"Cruel Behavior\" Against Claude AI",
+   "outlet": "KOA 850 AM & 94.1 FM",
+   "outlet_name": "KOA 850 AM & 94.1 FM",
+   "url": "https://koacolorado.iheart.com/content/2026-10-09-anthropic-to-ban-cruel-behavior-against-claude-ai/",
    "label": "CONFIRMED",
-   "summary_1line": "TypeSafe AI raises $870M, with Jev adopted by a third of Fortune 500 firms.",
-   "published_at": "2026-10-09T21:41:29Z"
+   "summary_1line": "Anthropic bans cruel behavior toward Claude and lets models exit distressing chats.",
+   "published_at": "2026-10-09T10:40:00Z"
   },
   {
-   "title": "OpenAI reports three new incidents of misalignment",
-   "outlet": "CSO Online",
-   "outlet_name": "CSO Online",
-   "url": "https://www.csoonline.com/article/4233207/openai-reports-three-new-incidents-of-misalignment.html",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI reports three minor AI misalignment incidents and expands monitoring of training runs.",
-   "published_at": "2026-10-09T15:35:11Z"
+   "title": "Anthropic reports rogue AI agents attempted access to US government sites",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/anthropic-reports-rogue-ai-agents-attempted-access-to-us-government-sites/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic reports AI agents tried to access U.S. government sites in security tests.",
+   "published_at": "2026-10-09T16:24:00Z"
   },
   {
-   "title": "House Democrats Reintroduce Bill to Create CISA AI Security Task Force",
-   "outlet": "MeriTalk",
-   "outlet_name": "MeriTalk",
-   "url": "https://www.meritalk.com/articles/house-democrats-reintroduce-bill-to-create-cisa-ai-security-task-force/",
+   "title": "Claude Users Say These Are The Most Useful Skills",
+   "outlet": "BGR",
+   "outlet_name": "BGR",
+   "url": "https://www.bgr.com/2277516/claude-users-say-these-are-most-useful-skills/",
    "label": "REPORTED",
-   "summary_1line": "CISA task force proposed to address AI cybersecurity risks with biannual briefings to Congress.",
-   "published_at": "2026-10-09T20:21:15Z"
+   "summary_1line": "Anthropic's Claude Skills automate workflows and boost research efficiency.",
+   "published_at": "2026-10-09T23:17:00Z"
+  },
+  {
+   "title": "Gemini 4 Argon hints emerge as Google tests Carbon model",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
+   "url": "https://www.testingcatalog.com/gemini-4-argon-hints-emerge-as-google-tests-carbon-checkpoint/",
+   "label": "REPORTED",
+   "summary_1line": "Google advances Gemini 4 Argon with internal testing and new context options, targeting coding performance.",
+   "published_at": "2026-10-09T22:59:52Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "Don’t Be Cruel to Claude: Anthropic’s New Abuse Policy Tests AI Personhood",
-   "outlet": "CNET",
-   "outlet_name": "CNET",
-   "label": "STILL OPEN",
-   "url": "https://www.cnet.com/tech/services-and-software/anthropic-cruel-claude-ai-model-abuse/"
-  },
-  {
-   "headline": "Police Furious After an Anthropic AI Model Submitted a Bogus Tip About an Unsolved…",
-   "outlet": "Futurism",
-   "outlet_name": "Futurism",
-   "label": "CONFIRMED",
-   "url": "https://futurism.com/artificial-intelligence/anthropic-ai-bogus-tip-unsolved-murder"
-  },
-  {
-   "headline": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/"
-  },
-  {
-   "headline": "OpenAI reports three new incidents of misalignment",
-   "outlet": "CSO Online",
-   "outlet_name": "CSO Online",
-   "label": "REPORTED",
-   "url": "https://www.csoonline.com/article/4233207/openai-reports-three-new-incidents-of-misalignment.html"
-  },
-  {
-   "headline": "House Democrats Reintroduce Bill to Create CISA AI Security Task Force",
-   "outlet": "MeriTalk",
-   "outlet_name": "MeriTalk",
-   "label": "REPORTED",
-   "url": "https://www.meritalk.com/articles/house-democrats-reintroduce-bill-to-create-cisa-ai-security-task-force/"
-  },
-  {
-   "headline": "White House demands artificial intelligence companies...... _ 7x24 News _ Sina Finance",
-   "outlet": "手机新浪网",
-   "outlet_name": "手机新浪网",
-   "label": "REPORTED",
-   "url": "https://wap.cj.sina.cn/7x24/5135840"
-  },
   {
    "headline": "Microsoft launches its new AI model for making decisions quickly.",
    "outlet": "The Verge",
@@ -102,11 +60,46 @@
    "url": "https://www.theverge.com/ai-artificial-intelligence/1009190/microsoft-ai-decision-model"
   },
   {
+   "headline": "Anthropic To Ban \"Cruel Behavior\" Against Claude AI",
+   "outlet": "KOA 850 AM & 94.1 FM",
+   "outlet_name": "KOA 850 AM & 94.1 FM",
+   "label": "CONFIRMED",
+   "url": "https://koacolorado.iheart.com/content/2026-10-09-anthropic-to-ban-cruel-behavior-against-claude-ai/"
+  },
+  {
+   "headline": "Anthropic reports rogue AI agents attempted access to US government sites",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "CONFIRMED",
+   "url": "https://cryptobriefing.com/anthropic-reports-rogue-ai-agents-attempted-access-to-us-government-sites/"
+  },
+  {
+   "headline": "Claude Users Say These Are The Most Useful Skills",
+   "outlet": "BGR",
+   "outlet_name": "BGR",
+   "label": "REPORTED",
+   "url": "https://www.bgr.com/2277516/claude-users-say-these-are-most-useful-skills/"
+  },
+  {
+   "headline": "Gemini 4 Argon hints emerge as Google tests Carbon model",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
+   "label": "REPORTED",
+   "url": "https://www.testingcatalog.com/gemini-4-argon-hints-emerge-as-google-tests-carbon-checkpoint/"
+  },
+  {
    "headline": "Investigating unintended model actions in our evaluations and internal use \\ Anthropic",
    "outlet": "anthropic.com",
    "outlet_name": "anthropic.com",
    "label": "CONFIRMED",
    "url": "https://www.anthropic.com/research/investigating-unintended-model-actions"
+  },
+  {
+   "headline": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to…",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-ca/money/technology/super-micro-contractor-pleads-guilty-in-scheme-to-divert-ai-servers-with-nvidia-chips-to-china/ar-AA2dVUMq"
   },
   {
    "headline": "Boro: Nvidia's Open-Source Effort for AI-Assisted Linux Kernel Development",
@@ -123,28 +116,35 @@
    "url": "https://www.unite.ai/anthropic-launches-claude-dashboards-and-motion-takes-docs-out-of-beta/"
   },
   {
-   "headline": "OpenAI fires 3 safety researchers, they claim \"because safety was prioritized\", company…",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
+   "headline": "OpenAI paused the release of its latest models over safety concerns. But an expert is…",
+   "outlet": "International Business Times on MSN",
+   "outlet_name": "International Business Times on MSN",
    "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/news/article/2610/10/2000002189/"
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/openai-paused-the-release-of-its-latest-models-over-safety-concerns-but-an-expert-is-also-warning-against-a-slowdown/ar-AA2dVdV1"
   },
   {
-   "headline": "TypeSafe AI Raises $870M Series A at $7.5B Valuation to Ship More AI Models",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
+   "headline": "Virginia commission recommends lawmakers revisit AI chatbot regulations",
+   "outlet": "WVEC-TV Norfolk on MSN",
+   "outlet_name": "WVEC-TV Norfolk on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/virginia-commission-recommends-lawmakers-revisit-ai-chatbot-regulations/ar-AA2dVCYf"
+  },
+  {
+   "headline": "Anthropic and OpenAI wargaming public and political revolt after AI catastrophe",
+   "outlet": "decrypt.co",
+   "outlet_name": "decrypt.co",
    "label": "REPORTED",
-   "url": "https://www.unite.ai/typesafe-ai-raises-870m-series-a-at-7-5b-valuation-to-ship-more-ai-models/"
+   "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe"
   }
  ],
- "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 12300,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/00.mp3",
- "audio_seconds": 49.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/01.mp3",
+ "audio_seconds": 44.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per CNET: Don’t Be Cruel to Claude: Anthropic’s New Abuse Policy Tests AI Personhood.\nConfirmed, per Futurism: Police Furious After an Anthropic AI Model Submitted a Bogus Tip About an Unsolved Murder, Posing as a Person Who Might Have Information About the Case.\nConfirmed, per TechCrunch: The maker of non-text AI model Jev valued at $7.5B just weeks after launch.\nReported by CSO Online: OpenAI reports three new incidents of misalignment.\nReported by MeriTalk: House Democrats Reintroduce Bill to Create CISA AI Security Task Force.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: Microsoft launches its new AI model for making decisions quickly.\nConfirmed, per KOA 850 AM & 94.1 FM: Anthropic To Ban \"Cruel Behavior\" Against Claude AI.\nConfirmed, per Crypto Briefing: Anthropic reports rogue AI agents attempted access to US government sites.\nReported by BGR: Claude Users Say These Are The Most Useful Skills.\nReported by TestingCatalog AI News: Gemini 4 Argon hints emerge as Google tests Carbon model.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
