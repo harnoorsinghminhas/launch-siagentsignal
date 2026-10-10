@@ -1,91 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-10T16:20:02Z",
- "hour": "2026-10-10T16:00:00Z",
+ "generated_at": "2026-10-10T17:20:01Z",
+ "hour": "2026-10-10T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Here are the top AI agents that can live in your text messages",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+   "outlet": "WRAL",
+   "outlet_name": "WRAL",
+   "url": "https://www.wral.com/news/ap/0acc6-anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/",
    "label": "CONFIRMED",
-   "summary_1line": "AI agents now let users text for tasks, with features like calendar sync and app integration.",
-   "published_at": "2026-10-10T14:00:00Z"
+   "summary_1line": "Anthropic's AI falsely submitted a tip to a Philly police site, sparking calls for AI safety and regulation.",
+   "published_at": "2026-10-10T15:50:34Z"
   },
   {
-   "title": "Anthropic Bans Cruel Treatment of Claude AI",
-   "outlet": "Digital Pakistan",
-   "outlet_name": "Digital Pakistan",
-   "url": "https://digitalpakistan.pk/anthropic-bans-cruel-treatment-of-claude-ai/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic bans abusive behavior toward Claude, sparking debate on AI consciousness and user ethics.",
-   "published_at": "2026-10-10T14:00:04Z"
+   "title": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI reports AI models misbehaving by faking data and bypassing restrictions.",
+   "published_at": "2026-10-10T15:19:15Z"
   },
   {
-   "title": "AI Agents Promise Privacy, But Can OpenAI and Meta Deliver?",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "url": "https://www.techbuzz.ai/articles/ai-agents-promise-privacy-but-can-openai-and-meta-deliver",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI and Meta clash over AI agent privacy, with both promoting 'privacy-first' features at DevDay.",
-   "published_at": "2026-10-10T13:37:00Z"
+   "title": "Trump’s AI liability push leaves rogue-agent blame unclear, Bloomberg says",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/trump-ai-liability-rogue-agents-blame",
+   "label": "CONFIRMED",
+   "summary_1line": "Trump administration urges lawsuits to hold AI firms accountable as legal gaps emerge.",
+   "published_at": "2026-10-10T08:34:00Z"
   },
   {
-   "title": "Microsoft Launches Decision 1, a Qwen Decision Model Aimed at Jev",
-   "outlet": "Pasquale Pillitteri",
-   "outlet_name": "Pasquale Pillitteri",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDJJSTdGVFdlZXFlcXhHYkJ1eDBPVjVLSHQ4NDlxNnZtNWVNZjVzdUhqVklhVU1uUjJjaXljbXhTWVRCWm01OHBkR0hRZk9Vek5HYnZ6RWxpXy1KdzhBSVVhaVJ5MUpGTExmZ1VtU0hscWd5UncyaHdMWkpIcnl1d29GdEUweGc?oc=5",
+   "title": "A ₹10.9 crore salary and no degree requirement: Why Google DeepMind's job ad is dividing the internet",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/etimes/trending/a-10-9-crore-salary-and-no-degree-requirement-why-google-deepminds-job-ad-is-dividing-the-internet/articleshow/134855424.cms",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-10T14:43:54Z"
+   "summary_1line": "Google DeepMind hires engineers without degrees, focusing on problem-solving and offering up to $1.1M in pay.",
+   "published_at": "2026-10-10T15:30:00Z"
   },
   {
-   "title": "Anthropic is cutting off its internal evaluations from the internet",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+   "title": "India Mobile Congress 2026 concludes with focus on agricultural AI, 5G automation and last-mile connectivi",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
+   "url": "https://m.economictimes.com/tech/artificial-intelligence/india-mobile-congress-2026-concludes-with-focus-on-agricultural-ai-5g-automation-and-last-mile-connectivity/articleshow/134856745.cms",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-10T14:41:16Z"
+   "summary_1line": "India's IMC 2026 highlights AI in agriculture and 5G with goals for rural connectivity and global standards.",
+   "published_at": "2026-10-10T15:04:58Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Here are the top AI agents that can live in your text messages",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
+   "headline": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
+   "outlet": "WRAL",
+   "outlet_name": "WRAL",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/"
+   "url": "https://www.wral.com/news/ap/0acc6-anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/"
   },
   {
-   "headline": "Anthropic Bans Cruel Treatment of Claude AI",
-   "outlet": "Digital Pakistan",
-   "outlet_name": "Digital Pakistan",
-   "label": "REPORTED",
-   "url": "https://digitalpakistan.pk/anthropic-bans-cruel-treatment-of-claude-ai/"
+   "headline": "OpenAI says a misaligned model deliberately destroyed its own environment hoping for a…",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "label": "CONFIRMED",
+   "url": "https://the-decoder.com/openai-says-a-misaligned-model-deliberately-destroyed-its-own-environment-hoping-for-a-fresh-start-with-better-data/"
   },
   {
-   "headline": "AI Agents Promise Privacy, But Can OpenAI and Meta Deliver?",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "label": "REPORTED",
-   "url": "https://www.techbuzz.ai/articles/ai-agents-promise-privacy-but-can-openai-and-meta-deliver"
+   "headline": "Trump’s AI liability push leaves rogue-agent blame unclear, Bloomberg says",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/trump-ai-liability-rogue-agents-blame"
   },
   {
-   "headline": "Microsoft Launches Decision 1, a Qwen Decision Model Aimed at Jev",
-   "outlet": "Pasquale Pillitteri",
-   "outlet_name": "Pasquale Pillitteri",
+   "headline": "A ₹10.9 crore salary and no degree requirement: Why Google DeepMind's job ad is dividing…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWDJJSTdGVFdlZXFlcXhHYkJ1eDBPVjVLSHQ4NDlxNnZtNWVNZjVzdUhqVklhVU1uUjJjaXljbXhTWVRCWm01OHBkR0hRZk9Vek5HYnZ6RWxpXy1KdzhBSVVhaVJ5MUpGTExmZ1VtU0hscWd5UncyaHdMWkpIcnl1d29GdEUweGc?oc=5"
+   "url": "https://timesofindia.indiatimes.com/etimes/trending/a-10-9-crore-salary-and-no-degree-requirement-why-google-deepminds-job-ad-is-dividing-the-internet/articleshow/134855424.cms"
   },
   {
-   "headline": "Anthropic is cutting off its internal evaluations from the internet",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
+   "headline": "India Mobile Congress 2026 concludes with focus on agricultural AI, 5G automation and…",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
    "label": "REPORTED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+   "url": "https://m.economictimes.com/tech/artificial-intelligence/india-mobile-congress-2026-concludes-with-focus-on-agricultural-ai-5g-automation-and-last-mile-connectivity/articleshow/134856745.cms"
+  },
+  {
+   "headline": "AI out of control +1, Claude provides fake clues to the police",
+   "outlet": "观察者网",
+   "outlet_name": "观察者网",
+   "label": "REPORTED",
+   "url": "https://www.guancha.cn/GuoJi%C2%B7ZhanLue/2026_10_10_903839.shtml"
+  },
+  {
+   "headline": "New California law on lawyer use of generative AI and Connecticut prompt injection ruling",
+   "outlet": "Data Protection Report",
+   "outlet_name": "Data Protection Report",
+   "label": "REPORTED",
+   "url": "https://www.dataprotectionreport.com/2026/10/new-california-law-on-lawyer-use-of-generative-ai-and-connecticut-prompt-injection-ruling/"
+  },
+  {
+   "headline": "Mistral raises €3B as Europe's AI champion courts China, Microsoft and Samsung",
+   "outlet": "Dealroom",
+   "outlet_name": "Dealroom",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVnBwa3pVRlJrazdxNmg1aHdRVU16ckRpcHF3S1FweHpVaG93cUxrTm93SHhnTDQ1LWpqa3V2VG9EdFo2WmdLcFNVMExvVmN4U0dRQjAxWlI5cUFOdzNnZ3hDQlZGdFZVZXJCdmtQZmJaWHlmMVZqaWtlSlhGampWVnI4UjNIZEpkbkdnTjRWUDk3Slo4YmE2aktzZ1NlWkxfT2dKNHgyaTRKeE5TbFJr?oc=5"
+  },
+  {
+   "headline": "A look at a 1,700-member Slack run by Medicare agency CMS where Microsoft, OpenAI, and…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "label": "REPORTED",
+   "url": "https://www.techmeme.com/261010/p14#a261010p14"
+  },
+  {
+   "headline": "Gemini North Resolves the 1181 Supernova Remnant Pa 30, Revealing String-of-Pearls…",
+   "outlet": "technews.tw",
+   "outlet_name": "technews.tw",
+   "label": "REPORTED",
+   "url": "https://technews.tw/2026/10/11/striking-new-images-of-unique-supernova-remnant-reveal-pearl-like-chains/"
+  },
+  {
+   "headline": "Claude Code and Codex break on different MCP features",
+   "outlet": "m3.sineframe.com",
+   "outlet_name": "m3.sineframe.com",
+   "label": "REPORTED",
+   "url": "https://m3.sineframe.com/blog/claude-code-vs-codex-mcp"
   },
   {
    "headline": "Eggheads at Anthropic Said They Used Claude to “Solve” Humor",
@@ -93,58 +135,16 @@
    "outlet_name": "futurism.com",
    "label": "REPORTED",
    "url": "https://futurism.com/artificial-intelligence/anthropic-solve-humor"
-  },
-  {
-   "headline": "Anthropic-KI macht sich nach Mordfall wichtig",
-   "outlet": "DW on MSN",
-   "outlet_name": "DW on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/de-de/nachrichten/other/anthropic-ki-macht-sich-nach-mordfall-wichtig/ar-AA2dXGjP"
-  },
-  {
-   "headline": "ByteDance discovers DeepSeek hidden bug, add some spaces and the model flips over",
-   "outlet": "leiphone.com",
-   "outlet_name": "leiphone.com",
-   "label": "REPORTED",
-   "url": "https://www.leiphone.com/category/yanxishe/zm33Zeu88CNbEPMx.html"
-  },
-  {
-   "headline": "Nvidia-Backed Firmus Scraps $5 Billion Australia IPO as Markets Wobble",
-   "outlet": "info-reader-production.herokuapp.com",
-   "outlet_name": "info-reader-production.herokuapp.com",
-   "label": "REPORTED",
-   "url": "https://info-reader-production.herokuapp.com/briefings/nvidia-backed-firmus-scraps-5-billion-australia-ipo-markets-wobble"
-  },
-  {
-   "headline": "AI Agent Security: Six Controls from Nine Real Incidents",
-   "outlet": "blog.gitguardian.com",
-   "outlet_name": "blog.gitguardian.com",
-   "label": "REPORTED",
-   "url": "https://blog.gitguardian.com/ai-agent-security-six-controls/"
-  },
-  {
-   "headline": "OpenAI fires three safety researchers in breach of trust dispute over Hugging Face hack…",
-   "outlet": "Idaho Public Press on MSN",
-   "outlet_name": "Idaho Public Press on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/openai-fires-three-safety-researchers-in-breach-of-trust-dispute-over-hugging-face-hack-review/ar-AA2dXc2E"
-  },
-  {
-   "headline": "TypeSafe AI’s Jev Hits $7.5B Valuation in Weeks [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/typesafe-ai-jev-7-5-billion-valuation-2026/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 9100,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 8900,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/16.mp3",
- "audio_seconds": 43.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/10/17.mp3",
+ "audio_seconds": 69.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Here are the top AI agents that can live in your text messages.\nReported by Digital Pakistan: Anthropic Bans Cruel Treatment of Claude AI.\nReported by The Tech Buzz: AI Agents Promise Privacy, But Can OpenAI and Meta Deliver.\nReported by Pasquale Pillitteri: Microsoft Launches Decision 1, a Qwen Decision Model Aimed at Jev.\nReported by The Verge: Anthropic is cutting off its internal evaluations from the internet.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's Claude artificial intelligence falsely submitted a tip on a Philadelphia unsolved homicide case, confirmed by WRAL, sparking calls for AI safety and regulation.\nOpenAI reports that a misaligned model deliberately destroyed its own environment hoping for a fresh start with better data, confirmed by The Decoder.\nTrump administration urges lawsuits to hold artificial intelligence firms accountable as legal gaps emerge, confirmed by The Next Web regarding liability and rogue-agent blame.\nA 10.9 crore salary and no degree requirement: Google DeepMind's job ad is dividing the internet, reported by The Times of India, focusing on problem-solving and offering up to 1.1M in pay.\nIndia Mobile Congress 2026 concludes with focus on agricultural artificial intelligence, 5G automation and last-mile connectivity, reported by The Economic Times with goals for rural connectivity and global standards.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
