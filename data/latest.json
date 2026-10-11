@@ -1,150 +1,150 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-11T13:21:04Z",
- "hour": "2026-10-11T13:00:00Z",
+ "generated_at": "2026-10-11T15:20:43Z",
+ "hour": "2026-10-11T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Most US voters say Trump, Congress don't take AI risks seriously, poll finds",
-   "outlet": "Martinsville Bulletin",
-   "outlet_name": "Martinsville Bulletin",
-   "url": "https://martinsvillebulletin.com/news/nation-world/government-politics/article_19a6405b-118c-5459-81d4-510191419a6b.html",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-11T12:30:00Z"
-  },
-  {
-   "title": "5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch",
-   "outlet": "Yahoo Finance Australia",
-   "outlet_name": "Yahoo Finance Australia",
-   "url": "https://au.finance.yahoo.com/news/5-big-analyst-ai-moves-093011248.html",
-   "label": "REPORTED",
-   "summary_1line": "BMO boosts Alphabet, Wall Street raises Marvell targets, Citi cuts NXP over weak data center exposure.",
-   "published_at": "2026-10-11T09:30:11Z"
-  },
-  {
-   "title": "US police criticise Anthropic after Claude AI submits false information about an unsolved murder",
-   "outlet": "Yahoo News Canada",
-   "outlet_name": "Yahoo News Canada",
-   "url": "https://ca.news.yahoo.com/us-police-criticise-anthropic-claude-104542488.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's Claude AI falsely reported on an unsolved murder during testing, prompting police criticism.",
-   "published_at": "2026-10-11T10:45:42Z"
-  },
-  {
-   "title": "AI’s quiet safety gatekeepers are stepping into the spotlight",
-   "outlet": "CNBC",
+   "title": "AI is automating coding. So why are software developer job postings on the rise?",
+   "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html",
+   "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
    "label": "CONFIRMED",
-   "summary_1line": "AI firms enlist third-party evaluators to assess safety amid rapid model development and funding growth.",
-   "published_at": "2026-10-11T11:00:01Z"
+   "summary_1line": "Software dev job growth rises in senior AI roles despite overall market decline.",
+   "published_at": "2026-10-11T13:30:01Z"
   },
   {
-   "title": "Southwest Airlines Launches ChatGPT Plugin for Flight Searches",
-   "outlet": "Focus on Travel News",
-   "outlet_name": "Focus on Travel News",
-   "url": "https://ftnnews.com/travel-news/technology/southwest-airlines-chatgpt-plugin-flight-search/",
+   "title": "Report: ChatGPT's teen suicide safeguards failed to alert parents",
+   "outlet": "Channel 3000",
+   "outlet_name": "Channel 3000",
+   "url": "https://www.channel3000.com/news/shareable-stories/report-chatgpts-teen-suicide-safeguards-failed-to-alert-parents/article_d4019eb2-dfb1-500b-8667-f755f189dc0d.html",
+   "label": "CONFIRMED",
+   "summary_1line": "ChatGPT for Teens fails safety tests, prompting calls for pause and improved safeguards.",
+   "published_at": "2026-10-11T14:30:00Z"
+  },
+  {
+   "title": "Microsoft Unveils AI Model Based on Qwen",
+   "outlet": "ForkLog",
+   "outlet_name": "ForkLog",
+   "url": "https://forklog.com/en/microsoft-unveils-ai-model-based-on-qwen/",
    "label": "REPORTED",
-   "summary_1line": "Southwest launches ChatGPT plugin for flight discovery and destination search.",
-   "published_at": "2026-10-11T04:11:00Z"
+   "summary_1line": "Microsoft launches decision AI model based on Qwen, achieving top accuracy and speed across benchmarks.",
+   "published_at": "2026-10-11T11:25:06Z"
+  },
+  {
+   "title": "Supermicro contractor pleads guilty to transshipping NVIDIA AI chip servers to China",
+   "outlet": "大紀元",
+   "outlet_name": "大紀元",
+   "url": "https://www.epochtimes.com/b5/26/10/11/n14867873.htm",
+   "label": "CONFIRMED",
+   "summary_1line": "Super Micro contractor pleads guilty to illegal AI tech export to China.",
+   "published_at": "2026-10-11T12:44:00Z"
+  },
+  {
+   "title": "Nächste Pleite: Auch Bundesregierung nimmt Abstand von Mistral AI",
+   "outlet": "Dr. Windows",
+   "outlet_name": "Dr. Windows",
+   "url": "https://www.drwindows.de/news/naechste-pleite-auch-bundesregierung-nimmt-abstand-von-mistral-ai",
+   "label": "REPORTED",
+   "summary_1line": "Germany drops partnership with Mistral AI, citing performance doubts and favoring Aleph Alpha's Kolibri-1.",
+   "published_at": "2026-10-11T13:49:42Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Most US voters say Trump, Congress don't take AI risks seriously, poll finds",
-   "outlet": "Martinsville Bulletin",
-   "outlet_name": "Martinsville Bulletin",
-   "label": "REPORTED",
-   "url": "https://martinsvillebulletin.com/news/nation-world/government-politics/article_19a6405b-118c-5459-81d4-510191419a6b.html"
-  },
-  {
-   "headline": "5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch",
-   "outlet": "Yahoo Finance Australia",
-   "outlet_name": "Yahoo Finance Australia",
-   "label": "REPORTED",
-   "url": "https://au.finance.yahoo.com/news/5-big-analyst-ai-moves-093011248.html"
-  },
-  {
-   "headline": "US police criticise Anthropic after Claude AI submits false information about an unsolved…",
-   "outlet": "Yahoo News Canada",
-   "outlet_name": "Yahoo News Canada",
-   "label": "CONFIRMED",
-   "url": "https://ca.news.yahoo.com/us-police-criticise-anthropic-claude-104542488.html"
-  },
-  {
-   "headline": "AI’s quiet safety gatekeepers are stepping into the spotlight",
-   "outlet": "CNBC",
+   "headline": "AI is automating coding. So why are software developer job postings on the rise?",
+   "outlet": "cnbc.com",
    "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/11/ais-quiet-safety-gatekeepers-are-stepping-into-the-spotlight.html"
+   "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html"
   },
   {
-   "headline": "Southwest Airlines Launches ChatGPT Plugin for Flight Searches",
-   "outlet": "Focus on Travel News",
-   "outlet_name": "Focus on Travel News",
-   "label": "REPORTED",
-   "url": "https://ftnnews.com/travel-news/technology/southwest-airlines-chatgpt-plugin-flight-search/"
-  },
-  {
-   "headline": "Wikipedia finds rogue OpenAI agents made edits, hit APIs, and may have helped trigger…",
-   "outlet": "The Cool Down",
-   "outlet_name": "The Cool Down",
-   "label": "REPORTED",
-   "url": "https://www.thecooldown.com/green-tech/rogue-openai-agents-wikipedia-edits-outage/"
-  },
-  {
-   "headline": "AI is creating a 'human premium' for art created by people",
-   "outlet": "bbc.com",
-   "outlet_name": "BBC",
+   "headline": "Report: ChatGPT's teen suicide safeguards failed to alert parents",
+   "outlet": "Channel 3000",
+   "outlet_name": "Channel 3000",
    "label": "CONFIRMED",
-   "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo"
+   "url": "https://www.channel3000.com/news/shareable-stories/report-chatgpts-teen-suicide-safeguards-failed-to-alert-parents/article_d4019eb2-dfb1-500b-8667-f755f189dc0d.html"
   },
   {
-   "headline": "ChatGPT Was on My Medical Team",
-   "outlet": "The Israel Democracy Institute",
-   "outlet_name": "The Israel Democracy Institute",
+   "headline": "Microsoft Unveils AI Model Based on Qwen",
+   "outlet": "ForkLog",
+   "outlet_name": "ForkLog",
    "label": "REPORTED",
-   "url": "https://en.idi.org.il/articles/66416"
+   "url": "https://forklog.com/en/microsoft-unveils-ai-model-based-on-qwen/"
   },
   {
-   "headline": "NVIDIA wants to \"swallow\" this \"US-version DeepSeek\" _ International News",
-   "outlet": "大众网",
-   "outlet_name": "大众网",
-   "label": "STILL OPEN",
-   "url": "https://www.dzwww.com/xinwen/guojixinwen/gjsx/202610/t20261011_18192912.htm"
-  },
-  {
-   "headline": "Free Steam demo’s $1,000 daily AI bill forces developer to get bank loan",
-   "outlet": "dexerto.com",
-   "outlet_name": "dexerto.com",
-   "label": "REPORTED",
-   "url": "https://www.dexerto.com/gaming/free-steam-demos-1000-daily-ai-bill-forces-developer-to-get-bank-loan-3417925/"
-  },
-  {
-   "headline": "Microsoft’s Satya Nadella says AI models need an emergency brake",
-   "outlet": "TechCrunch on MSN",
-   "outlet_name": "TechCrunch on MSN",
+   "headline": "Supermicro contractor pleads guilty to transshipping NVIDIA AI chip servers to China",
+   "outlet": "大紀元",
+   "outlet_name": "大紀元",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/microsoft-s-satya-nadella-says-ai-models-need-an-emergency-brake/ar-AA2dYMdr"
+   "url": "https://www.epochtimes.com/b5/26/10/11/n14867873.htm"
   },
   {
-   "headline": "Elon Musk Wants Users To Shop By Uploading Credit Card Photos To Grok, Users Raise…",
-   "outlet": "NDTV on MSN",
-   "outlet_name": "NDTV on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-in/news/other/elon-musk-wants-users-to-shop-by-uploading-credit-card-photos-to-grok-users-raise-security-concerns/ar-AA2e0mzU"
+   "headline": "Nächste Pleite: Auch Bundesregierung nimmt Abstand von Mistral AI",
+   "outlet": "Dr. Windows",
+   "outlet_name": "Dr. Windows",
+   "label": "REPORTED",
+   "url": "https://www.drwindows.de/news/naechste-pleite-auch-bundesregierung-nimmt-abstand-von-mistral-ai"
+  },
+  {
+   "headline": "Google DeepMind is hiring engineers with ‘no degree required’: Pay up to Rs 10 crore",
+   "outlet": "Education Times",
+   "outlet_name": "Education Times",
+   "label": "REPORTED",
+   "url": "https://www.educationtimes.com/news/google-deepmind-is-hiring-engineers-with-no-degree-required-pay-up-to-rs-10-crore/articleshow/134872119.cms"
+  },
+  {
+   "headline": "Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at…",
+   "outlet": "Euronews.com",
+   "outlet_name": "Euronews",
+   "label": "CONFIRMED",
+   "url": "https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night"
+  },
+  {
+   "headline": "Unsealed Kentucky Lawsuit Says Character.AI Bot Told Teens Where to Cut Themselves",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
+   "label": "REPORTED",
+   "url": "https://hoodline.com/2026/10/unsealed-kentucky-lawsuit-says-character-ai-bot-told-teens-where-to-cut-themselves/"
+  },
+  {
+   "headline": "Financial Times: Nvidia discusses increasing investment or acquiring Reflection AI",
+   "outlet": "經濟日報",
+   "outlet_name": "經濟日報",
+   "label": "REPORTED",
+   "url": "https://money.udn.com/money/story/123398/9807836"
+  },
+  {
+   "headline": "AI mass-produces mathematical results, Shing-Tung Yau: Impact like a tsunami, must surf…",
+   "outlet": "新京报",
+   "outlet_name": "新京报",
+   "label": "CONFIRMED",
+   "url": "https://www.bjnews.com.cn/detail/1791713429129493.html"
+  },
+  {
+   "headline": "A Practical Guide to OpenAI's New Decisions API",
+   "outlet": "towardsdatascience.com",
+   "outlet_name": "towardsdatascience.com",
+   "label": "REPORTED",
+   "url": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/"
+  },
+  {
+   "headline": "Microsoft CEO Satya Nadella flags risks of advanced AI models amid OpenAI agent…",
+   "outlet": "Mint on MSN",
+   "outlet_name": "Mint on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/microsoft-ceo-satya-nadella-flags-risks-of-advanced-ai-models-amid-openai-agent-incidents-calls-for-emergency-brake/ar-AA2dZPJK"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7400,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/13.mp3",
- "audio_seconds": 46.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/15.mp3",
+ "audio_seconds": 48.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Martinsville Bulletin: Most US voters say Trump, Congress don't take AI risks seriously, poll finds.\nReported by Yahoo Finance Australia: 5 big analyst AI moves: Google reaffirmed as top pick after Gemini agent launch.\nConfirmed, per Yahoo News Canada: US police criticise Anthropic after Claude AI submits false information about an unsolved murder.\nConfirmed, per CNBC: AI’s quiet safety gatekeepers are stepping into the spotlight.\nReported by Focus on Travel News: Southwest Airlines Launches ChatGPT Plugin for Flight Searches.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: AI is automating coding. So why are software developer job postings on the rise.\nConfirmed, per Channel 3000: Report: ChatGPT's teen suicide safeguards failed to alert parents.\nReported by ForkLog: Microsoft Unveils AI Model Based on Qwen.\nConfirmed, per 大紀元: Supermicro contractor pleads guilty to transshipping NVIDIA AI chip servers to China.\nReported by Dr. Windows: Nächste Pleite: Auch Bundesregierung nimmt Abstand von Mistral AI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
