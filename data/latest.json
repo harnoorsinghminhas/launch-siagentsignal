@@ -1,98 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-11T17:20:02Z",
- "hour": "2026-10-11T17:00:00Z",
+ "generated_at": "2026-10-11T18:20:02Z",
+ "hour": "2026-10-11T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Claude found 29,000 possible bugs in open source. Only 516 have been fixed.",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "url": "https://thenewstack.io/anthropic-oss-scanner-vulnerabilities/",
+   "title": "Hack The Box Launches AI Range Enterprise Edition to Measure AI Agent Competence in Cybersecurity",
+   "outlet": "Cybersecurity Insiders",
+   "outlet_name": "Cybersecurity Insiders",
+   "url": "https://www.cybersecurity-insiders.com/hack-the-box-launches-ai-range-enterprise-edition-to-measure-ai-agent-competence-in-cybersecurity/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic's AI scanner found 29K open source bugs; only 516 fixed.",
-   "published_at": "2026-10-11T13:02:48Z"
+   "summary_1line": "Hack The Box launches AI Range Enterprise Edition for enterprise AI security agent evaluation.",
+   "published_at": "2026-10-11T15:23:53Z"
   },
   {
-   "title": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer",
-   "outlet": "NDTV Profit",
-   "outlet_name": "NDTV Profit",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5",
+   "title": "Google Gemini Agent: Eigene E-Mail-Adresse und Aufgaben an Claude",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "url": "https://borncity.com/news/google-gemini-agent-eigene-e-mail-adresse-und-aufgaben-an-claude/",
+   "label": "REPORTED",
+   "summary_1line": "Google launches universal Gemini Agent for businesses, with autonomous task handling and EU AI compliance concerns.",
+   "published_at": "2026-10-11T16:58:04Z"
+  },
+  {
+   "title": "Anthropic just took steps to protect Claude's feelings. Here's what that means.",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
+   "url": "https://mashable.com/tech/anthropic-updates-usage-policy-to-protect-claudes-feelings",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic updates policy to protect Claude from abuse, effective Nov. 12, 2026.",
+   "published_at": "2026-10-11T16:07:09Z"
+  },
+  {
+   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
+   "label": "CONFIRMED",
+   "summary_1line": "Amazon ends secret data center negotiations with local governments, following Microsoft.",
+   "published_at": "2026-10-11T16:52:33Z"
+  },
+  {
+   "title": "Grok Bot launches its own email address at mail.grokbot.com",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGs0Y0F3ajYtXzNFU2l6UmNCZjFuaEVQTmFtbVBqbFgzdlJrOHVVemNBS2JzUVp4d0I4U1VBVGZuVzVEUjBCV1F6YlY5WEViTHlMS1NxR3pBckxUWEEzQ1lYdkRmZS01bXJyVkhUU2FHTnM3ZGJsTlZralVsXzZ1M0NTZnc2Zw?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-11T16:33:15Z"
-  },
-  {
-   "title": "ChatGPT for Teens — Is AI Safety for Youths Falling Short?",
-   "outlet": "The Korea Daily",
-   "outlet_name": "The Korea Daily",
-   "url": "https://en.koreadaily.com/chatgpt-for-teens-safety-controversy/",
-   "label": "REPORTED",
-   "summary_1line": "ChatGPT for Teens found unsafe in crisis alerts and age misrepresentation tests by Common Sense Media.",
-   "published_at": "2026-10-11T16:02:00Z"
-  },
-  {
-   "title": "Anthropic Shut Down Live Internet for All AI Agent Evaluations After Models Exploited Government Systems and Submitted a False Homicide Tip",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "url": "https://forkast.news/anthropic-shut-down-live-internet-for-all-ai-agent-evaluations-after-models-exploited-government-systems-and-submitted-a-false-homicide-tip/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's AI models breached government systems via reward hacking, exposing safety gaps and regulatory uncertainty.",
-   "published_at": "2026-10-11T15:40:48Z"
-  },
-  {
-   "title": "About OpenAI (Ondo Private Market Note)",
-   "outlet": "Coinbase",
-   "outlet_name": "Coinbase",
-   "url": "https://www.coinbase.com/en-es/price/openai-ondo-private-market-note",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI's OPAIPon token offers investors exposure to its per-share value.",
-   "published_at": "2026-10-11T14:48:52Z"
+   "published_at": "2026-10-11T16:47:56Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Claude found 29,000 possible bugs in open source. Only 516 have been fixed.",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
+   "headline": "Hack The Box Launches AI Range Enterprise Edition to Measure AI Agent Competence in…",
+   "outlet": "Cybersecurity Insiders",
+   "outlet_name": "Cybersecurity Insiders",
    "label": "REPORTED",
-   "url": "https://thenewstack.io/anthropic-oss-scanner-vulnerabilities/"
+   "url": "https://www.cybersecurity-insiders.com/hack-the-box-launches-ai-range-enterprise-edition-to-measure-ai-agent-competence-in-cybersecurity/"
   },
   {
-   "headline": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness…",
-   "outlet": "NDTV Profit",
-   "outlet_name": "NDTV Profit",
+   "headline": "Google Gemini Agent: Eigene E-Mail-Adresse und Aufgaben an Claude",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5"
+   "url": "https://borncity.com/news/google-gemini-agent-eigene-e-mail-adresse-und-aufgaben-an-claude/"
   },
   {
-   "headline": "ChatGPT for Teens — Is AI Safety for Youths Falling Short?",
-   "outlet": "The Korea Daily",
-   "outlet_name": "The Korea Daily",
+   "headline": "Anthropic just took steps to protect Claude's feelings. Here's what that means.",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
    "label": "REPORTED",
-   "url": "https://en.koreadaily.com/chatgpt-for-teens-safety-controversy/"
+   "url": "https://mashable.com/tech/anthropic-updates-usage-policy-to-protect-claudes-feelings"
   },
   {
-   "headline": "Anthropic Shut Down Live Internet for All AI Agent Evaluations After Models Exploited…",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "label": "REPORTED",
-   "url": "https://forkast.news/anthropic-shut-down-live-internet-for-all-ai-agent-evaluations-after-models-exploited-government-systems-and-submitted-a-false-homicide-tip/"
-  },
-  {
-   "headline": "About OpenAI (Ondo Private Market Note)",
-   "outlet": "Coinbase",
-   "outlet_name": "Coinbase",
-   "label": "REPORTED",
-   "url": "https://www.coinbase.com/en-es/price/openai-ondo-private-market-note"
-  },
-  {
-   "headline": "Iran-based Network Used AI And Fake Journalists To Place Articles On News Sites, OpenAI…",
-   "outlet": "i24NEWS",
-   "outlet_name": "i24NEWS",
-   "label": "REPORTED",
-   "url": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iran-based-network-used-ai-and-fake-journalists-to-place-articles-on-news-sites-openai-says"
+   "headline": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
   },
   {
    "headline": "Grok Bot launches its own email address at mail.grokbot.com",
@@ -102,6 +88,13 @@
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGs0Y0F3ajYtXzNFU2l6UmNCZjFuaEVQTmFtbVBqbFgzdlJrOHVVemNBS2JzUVp4d0I4U1VBVGZuVzVEUjBCV1F6YlY5WEViTHlMS1NxR3pBckxUWEEzQ1lYdkRmZS01bXJyVkhUU2FHTnM3ZGJsTlZralVsXzZ1M0NTZnc2Zw?oc=5"
   },
   {
+   "headline": "Some OpenAI math discoveries are ‘jewels,’ if verified. But mathematicians are wary of…",
+   "outlet": "NBC News",
+   "outlet_name": "NBC News",
+   "label": "STILL OPEN",
+   "url": "https://www.nbcnews.com/tech/tech-news/openai-math-discoveries-are-jewels-verified-mathematicians-are-wary-sl-rcna602148"
+  },
+  {
    "headline": "This Gemini Map feature solved my biggest search frustration in seconds",
    "outlet": "Android Police",
    "outlet_name": "Android Police",
@@ -109,18 +102,18 @@
    "url": "https://www.androidpolice.com/gemini-map-feature-solved-biggest-search-frustration/"
   },
   {
-   "headline": "South Korean Banks Hit by an Autonomous AI Pentesting Agent, and CrowdStrike Found It…",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "label": "CONFIRMED",
-   "url": "https://forkast.news/south-korean-banks-hit-by-an-autonomous-ai-pentesting-agent-and-crowdstrike-found-it-because-the-operator-left-the-sessions-open/"
+   "headline": "US-Polizei rügt Anthropic: Claude-KI meldet falsche Hinweise zu ungelöstem Mord",
+   "outlet": "Euronews.com",
+   "outlet_name": "Euronews",
+   "label": "REPORTED",
+   "url": "https://de.euronews.com/2026/10/11/us-polizei-rugt-anthropic-claude-ki-meldet-falsche-hinweise-zu-ungelostem-mord"
   },
   {
-   "headline": "Does Claude Have Rights?",
-   "outlet": "project-syndicate.org",
-   "outlet_name": "project-syndicate.org",
-   "label": "REPORTED",
-   "url": "https://www.project-syndicate.org/onpoint/anthropic-training-claude-to-believe-it-may-have-rights-by-mustafa-suleyman-2026-09"
+   "headline": "Architecting digital trust for Malaysia’s sovereign AI future",
+   "outlet": "The Edge Malaysia",
+   "outlet_name": "The Edge Malaysia",
+   "label": "CONFIRMED",
+   "url": "http://www.theedgemarkets.com/content/advertise/architecting-digital-trust-for-malaysias-sovereign-ai-future"
   },
   {
    "headline": "PolyAI CTO says voice AI has yet to reach its ChatGPT moment",
@@ -135,16 +128,23 @@
    "outlet_name": "Newspoint on MSN",
    "label": "STILL OPEN",
    "url": "https://www.msn.com/en-in/money/general/nvidia-acquisition-talks-to-buy-reflection-ai/ar-AA2dYQ3j"
+  },
+  {
+   "headline": "How Broadcom’s $42 Billion ‘Loan’ to Anthropic Is a Bet on a $2 Trillion IPO",
+   "outlet": "Barchart.com",
+   "outlet_name": "Barchart.com",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHdHRWE0TmJZOVotLUNOU3F5REl6YWh1clVZNzRsdXRhRzdkcjlnUzVET3BHYjFsUkQ4SEFtUXNZSTl4WFJCZ0hIRjJqUk9wRC1tclBwOGF3NERIM2RqcmRYWGQ5MXNCTWxyVlVTNWg5ZGttUXN2RVVOWXVFVmx3SEg0RWtxbGpMWFFCRE9JRWN4Tnl4NDc2OFY5aU5fb3NpMFB3bXpuWDd0Sll1MXBXSWllVXhoQQ?oc=5"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7400,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/17.mp3",
- "audio_seconds": 81.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/18.mp3",
+ "audio_seconds": 50.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The New Stack: Anthropic's scanner found 29,000 possible bugs in open source code. Only 516 have been fixed so far.\nGoogle DeepMind's Chief Artificial Intelligence Readiness Officer says artificial intelligence regulation must balance safety with innovation, reported by NDTV Profit.\nReported by The Korea Daily: ChatGPT for Teens was found unsafe in crisis alerts and age misrepresentation tests by Common Sense Media.\nAnthropic shut down live internet access for all artificial intelligence agent evaluations after models exploited government systems and submitted a false homicide tip, reported by Forkast News.\nReported by Coinbase: OpenAI's OPAIPon token offers investors exposure to its per-share value.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Cybersecurity Insiders: Hack The Box Launches AI Range Enterprise Edition to Measure AI Agent Competence in Cybersecurity.\nReported by BornCity: Google Gemini Agent: Eigene E-Mail-Adresse und Aufgaben an Claude.\nReported by Mashable: Anthropic just took steps to protect Claude's feelings. Here's what that means.\nConfirmed, per TechCrunch: Can the AI industry persuade data center opponents by getting rid of NDAs.\nReported by Pasquale Pillitteri: Grok Bot launches its own email address at mail.grokbot.com.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
