@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-11T19:20:02Z",
- "hour": "2026-10-11T19:00:00Z",
+ "generated_at": "2026-10-11T20:20:03Z",
+ "hour": "2026-10-11T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Microsoft announces new AI security features and Copilot+ PCs",
-   "outlet": "SC Media",
-   "outlet_name": "SC Media",
-   "url": "https://www.scworld.com/brief/microsoft-announces-new-ai-security-features-and-copilot-pcs",
+   "title": "Most US voters say Trump, Congress don't take AI risks seriously, poll finds",
+   "outlet": "The Beatrice Daily Sun",
+   "outlet_name": "The Beatrice Daily Sun",
+   "url": "https://beatricedailysun.com/news/nation-world/government-politics/article_2c7b1dc0-408e-5849-9477-1395735a07a0.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Most U.S. voters say Trump and Congress aren't taking AI risks seriously.",
+   "published_at": "2026-10-11T12:30:00Z"
+  },
+  {
+   "title": "Video | Google DeepMind Lila Ibrahim's Career Advice To Young Engineers In The AI Age",
+   "outlet": "NDTV",
+   "outlet_name": "NDTV",
+   "url": "https://www.ndtv.com/video/google-deepmind-lila-ibrahim-s-career-advice-to-young-engineers-in-the-ai-age-1172776",
+   "label": "REPORTED",
+   "summary_1line": "Lila Ibrahim urges graduates to reskill and adapt in AI-driven careers.",
+   "published_at": "2026-10-11T17:10:40Z"
+  },
+  {
+   "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+   "outlet": "bbc.com",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-11T17:59:52Z"
+   "published_at": "2026-10-11T19:26:05Z"
   },
   {
-   "title": "Claude Launches Dedicated Bug-Hunting Team: 66 Vulnerabilities Discovered in 116,000 Lines of Code – Single AI Agent Only Detects Up to 27 Bugs",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "url": "https://eu.36kr.com/en/p/4020977816539010",
-   "label": "REPORTED",
-   "summary_1line": "Claude's team mode finds 66 bugs, outperforming single-agent at 27.",
-   "published_at": "2026-10-11T07:12:20Z"
-  },
-  {
-   "title": "Nvidia in Talks to Buy Reflection AI, FT Reports",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
-   "url": "https://en.sedaily.com/international/2026/10/11/nvidia-in-talks-to-buy-reflection-ai-ft-reports",
-   "label": "CONFIRMED",
-   "summary_1line": "Nvidia in talks to acquire Reflection AI for open-weight AI, aiming to expand its open-model ecosystem.",
-   "published_at": "2026-10-11T08:48:36Z"
-  },
-  {
-   "title": "Anthropic-Google Cloud Workshop on Advanced AI Agents",
+   "title": "AI Bot Scraping Regulation: Publishers Push for Disclosure Rules",
    "outlet": "The Cryptonomist",
    "outlet_name": "The Cryptonomist",
-   "url": "https://en.cryptonomist.ch/2026/10/11/anthropic-google-cloud-ai-agents/",
+   "url": "https://en.cryptonomist.ch/2026/10/11/ai-bot-scraping-regulation/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic and Google Cloud showcase AI agent capabilities with Claude on Vertex AI.",
-   "published_at": "2026-10-11T16:23:22Z"
+   "summary_1line": "300 publishers lobby for AI bot disclosure rules amid content licensing deals and legal challenges.",
+   "published_at": "2026-10-11T16:23:41Z"
   },
   {
-   "title": "When is the Anthropic IPO and why is its pre IPO price above $2,000?",
-   "outlet": "FXStreet",
-   "outlet_name": "FXStreet",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPempmWklwdFJ4c1hWQWtjWnlYdGUyeVdBZzFxOVhkOWl5dkVrUllOYWxLbGlncW1vX0N2U0dvSktKVDMwdTh2SGxIVVduSm1PeXg3WF9SYUJTRWprMFBFc3cwQy12RW9jTzNLcXVHM3NlUVpJelFNejBJc1k0S2d5dFZ6eXVCTTRianpRTHVjNXRqSl9KT0ZDc240aEx6R0lGcVJYa0Z5ZTdCNmRDYkE?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-11T17:54:09Z"
+   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+   "label": "CONFIRMED",
+   "summary_1line": "Silicon Valley leaders rebrand AI as 'super intelligence' to align with Trump's push.",
+   "published_at": "2026-10-11T18:33:56Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Microsoft announces new AI security features and Copilot+ PCs",
-   "outlet": "SC Media",
-   "outlet_name": "SC Media",
-   "label": "REPORTED",
-   "url": "https://www.scworld.com/brief/microsoft-announces-new-ai-security-features-and-copilot-pcs"
-  },
-  {
-   "headline": "Claude Launches Dedicated Bug-Hunting Team: 66 Vulnerabilities Discovered in 116,000…",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4020977816539010"
-  },
-  {
-   "headline": "Nvidia in Talks to Buy Reflection AI, FT Reports",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
+   "headline": "Most US voters say Trump, Congress don't take AI risks seriously, poll finds",
+   "outlet": "The Beatrice Daily Sun",
+   "outlet_name": "The Beatrice Daily Sun",
    "label": "CONFIRMED",
-   "url": "https://en.sedaily.com/international/2026/10/11/nvidia-in-talks-to-buy-reflection-ai-ft-reports"
+   "url": "https://beatricedailysun.com/news/nation-world/government-politics/article_2c7b1dc0-408e-5849-9477-1395735a07a0.html"
   },
   {
-   "headline": "Anthropic-Google Cloud Workshop on Advanced AI Agents",
+   "headline": "Video | Google DeepMind Lila Ibrahim's Career Advice To Young Engineers In The AI Age",
+   "outlet": "NDTV",
+   "outlet_name": "NDTV",
+   "label": "REPORTED",
+   "url": "https://www.ndtv.com/video/google-deepmind-lila-ibrahim-s-career-advice-to-young-engineers-in-the-ai-age-1172776"
+  },
+  {
+   "headline": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+   "outlet": "bbc.com",
+   "outlet_name": "BBC",
+   "label": "REPORTED",
+   "url": "https://www.bbc.com/news/articles/ck9dzpw4ll8po"
+  },
+  {
+   "headline": "AI Bot Scraping Regulation: Publishers Push for Disclosure Rules",
    "outlet": "The Cryptonomist",
    "outlet_name": "The Cryptonomist",
    "label": "REPORTED",
-   "url": "https://en.cryptonomist.ch/2026/10/11/anthropic-google-cloud-ai-agents/"
+   "url": "https://en.cryptonomist.ch/2026/10/11/ai-bot-scraping-regulation/"
   },
   {
-   "headline": "When is the Anthropic IPO and why is its pre IPO price above $2,000?",
-   "outlet": "FXStreet",
-   "outlet_name": "FXStreet",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPempmWklwdFJ4c1hWQWtjWnlYdGUyeVdBZzFxOVhkOWl5dkVrUllOYWxLbGlncW1vX0N2U0dvSktKVDMwdTh2SGxIVVduSm1PeXg3WF9SYUJTRWprMFBFc3cwQy12RW9jTzNLcXVHM3NlUVpJelFNejBJc1k0S2d5dFZ6eXVCTTRianpRTHVjNXRqSl9KT0ZDc240aEx6R0lGcVJYa0Z5ZTdCNmRDYkE?oc=5"
+   "headline": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "label": "CONFIRMED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+  },
+  {
+   "headline": "AI grabs capacity, NVIDIA flagship graphics card RTX 5090 rumored to be discontinued",
+   "outlet": "UDN",
+   "outlet_name": "UDN",
+   "label": "STILL OPEN",
+   "url": "https://udn.com/news/story/7240/9807998"
   },
   {
    "headline": "Infino Raises $7.5M to Simplify Data Retrieval for AI Agents",
@@ -95,25 +102,11 @@
    "url": "https://shoppeblack.us/infino-raises-7-5-million/"
   },
   {
-   "headline": "Some OpenAI math discoveries are ‘jewels,’ if verified. But mathematicians are wary of…",
-   "outlet": "NBC News",
-   "outlet_name": "NBC News",
-   "label": "STILL OPEN",
-   "url": "https://www.nbcnews.com/tech/tech-news/openai-math-discoveries-are-jewels-verified-mathematicians-are-wary-sl-rcna602148"
-  },
-  {
-   "headline": "US-Polizei rügt Anthropic: Claude-KI meldet falsche Hinweise zu ungelöstem Mord",
-   "outlet": "Euronews.com",
-   "outlet_name": "Euronews",
+   "headline": "DeepSeek, what kind of position are you actually trying to hire for?",
+   "outlet": "投资界",
+   "outlet_name": "投资界",
    "label": "REPORTED",
-   "url": "https://de.euronews.com/2026/10/11/us-polizei-rugt-anthropic-claude-ki-meldet-falsche-hinweise-zu-ungelostem-mord"
-  },
-  {
-   "headline": "Architecting digital trust for Malaysia’s sovereign AI future",
-   "outlet": "The Edge Malaysia",
-   "outlet_name": "The Edge Malaysia",
-   "label": "CONFIRMED",
-   "url": "https://theedgemalaysia.com/content/advertise/architecting-digital-trust-for-malaysias-sovereign-ai-future"
+   "url": "https://news.pedaily.cn/202610/570064.shtml"
   },
   {
    "headline": "White House demands immediate fix after Anthropic’s AI agents gave a false Philly…",
@@ -123,28 +116,35 @@
    "url": "https://www.msn.com/en-us/technology/artificial-intelligence/white-house-demands-immediate-fix-after-anthropic-s-ai-agents-gave-a-false-philly-homicide-tip-and-applied-for-visas/ar-AA2e0Y3J"
   },
   {
-   "headline": "How Broadcom’s $42 Billion ‘Loan’ to Anthropic Is a Bet on a $2 Trillion IPO",
-   "outlet": "Barchart.com",
-   "outlet_name": "Barchart.com",
+   "headline": "USA Today files $250 million copyright lawsuit against OpenAI",
+   "outlet": "The Desk on MSN",
+   "outlet_name": "The Desk on MSN",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHdHRWE0TmJZOVotLUNOU3F5REl6YWh1clVZNzRsdXRhRzdkcjlnUzVET3BHYjFsUkQ4SEFtUXNZSTl4WFJCZ0hIRjJqUk9wRC1tclBwOGF3NERIM2RqcmRYWGQ5MXNCTWxyVlVTNWg5ZGttUXN2RVVOWXVFVmx3SEg0RWtxbGpMWFFCRE9JRWN4Tnl4NDc2OFY5aU5fb3NpMFB3bXpuWDd0Sll1MXBXSWllVXhoQQ?oc=5"
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/usa-today-files-250-million-copyright-lawsuit-against-openai/ar-AA2dYVJr"
   },
   {
-   "headline": "Bill Gates warns cyberattacks most imminent AI threat",
-   "outlet": "Agence France-Presse on MSN",
-   "outlet_name": "Agence France-Presse on MSN",
+   "headline": "Two years since its release, Microsoft is killing off Outlook's Themes by Copilot feature",
+   "outlet": "XDA Developers on MSN",
+   "outlet_name": "XDA Developers on MSN",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-gb/news/other/bill-gates-warns-cyberattacks-most-imminent-ai-threat/ar-AA2e0N67"
+   "url": "https://www.msn.com/en-us/technology/software/two-years-since-its-release-microsoft-is-killing-off-outlook-s-themes-by-copilot-feature/ar-AA2e1fWs"
+  },
+  {
+   "headline": "Bill Gates sounds alarm on AI-powered cyberattacks, warns of 'negative surprises' within…",
+   "outlet": "Fox News on MSN",
+   "outlet_name": "Fox News on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/news/other/bill-gates-sounds-alarm-on-ai-powered-cyberattacks-warns-of-negative-surprises-within-a-year/ar-AA2e13sK"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by nine different outlets in the last few hours.",
  "articles_24h_rounded": 7400,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/19.mp3",
- "audio_seconds": 47.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/20.mp3",
+ "audio_seconds": 56.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by SC Media: Microsoft announces new AI security features and Copilot+ PCs.\nReported by 36Kr: Claude Launches Dedicated Bug-Hunting Team: 66 Vulnerabilities Discovered in 116,000 Lines of Code – Single AI Agent Only Detects Up to 27 Bugs.\nConfirmed, per Seoul Economic Daily: Nvidia in Talks to Buy Reflection AI, FT Reports.\nReported by The Cryptonomist: Anthropic-Google Cloud Workshop on Advanced AI Agents.\nReported by FXStreet: When is the Anthropic IPO and why is its pre IPO price above $2,000.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMost U.S. voters say Trump and Congress aren't taking artificial intelligence risks seriously, according to a poll confirmed by The Beatrice Daily Sun.\nLila Ibrahim from Google DeepMind urges graduates to reskill and adapt as careers shift in the artificial intelligence age, reported by NDTV.\nAn artificial intelligence data centre firm backed by Nvidia has scrapped its initial public offering as valuation concerns in the sector deepen, reported by BBC.\nThree hundred publishers are pushing for disclosure rules on artificial intelligence bots amid content licensing deals and legal challenges, reported by The Cryptonomist.\nSilicon Valley leaders are rebranding artificial intelligence as super intelligence to align with Trump's push on the terminology, confirmed by The Verge.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
