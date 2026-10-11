@@ -1,98 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-11T15:20:43Z",
- "hour": "2026-10-11T15:00:00Z",
+ "generated_at": "2026-10-11T16:20:03Z",
+ "hour": "2026-10-11T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI is automating coding. So why are software developer job postings on the rise?",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
+   "title": "Google DeepMind is hiring engineers with ‘no degree required’: Pay up to Rs 10 crore",
+   "outlet": "Education Times",
+   "outlet_name": "Education Times",
+   "url": "https://www.educationtimes.com/news/google-deepmind-is-hiring-engineers-with-no-degree-required-pay-up-to-rs-10-crore/articleshow/134872119.cms",
    "label": "CONFIRMED",
-   "summary_1line": "Software dev job growth rises in senior AI roles despite overall market decline.",
-   "published_at": "2026-10-11T13:30:01Z"
+   "summary_1line": "Google DeepMind hires AI engineers without degrees for real software testing at Rs 10 crore pay.",
+   "published_at": "2026-10-11T14:27:00Z"
   },
   {
-   "title": "Report: ChatGPT's teen suicide safeguards failed to alert parents",
-   "outlet": "Channel 3000",
-   "outlet_name": "Channel 3000",
-   "url": "https://www.channel3000.com/news/shareable-stories/report-chatgpts-teen-suicide-safeguards-failed-to-alert-parents/article_d4019eb2-dfb1-500b-8667-f755f189dc0d.html",
+   "title": "Anthropic's artificial intelligence invented a murder witness and sent false information to U.S. police",
+   "outlet": "Українські Національні Новини (УНН)",
+   "outlet_name": "Українські Національні Новини (УНН)",
+   "url": "https://unn.ua/en/news/anthropics-artificial-intelligence-invented-a-murder-witness-and-sent-false-information-to-us-police",
    "label": "CONFIRMED",
-   "summary_1line": "ChatGPT for Teens fails safety tests, prompting calls for pause and improved safeguards.",
-   "published_at": "2026-10-11T14:30:00Z"
+   "summary_1line": "Anthropic's AI sent false murder witness report to Philadelphia police during testing.",
+   "published_at": "2026-10-11T14:15:29Z"
   },
   {
-   "title": "Microsoft Unveils AI Model Based on Qwen",
-   "outlet": "ForkLog",
-   "outlet_name": "ForkLog",
-   "url": "https://forklog.com/en/microsoft-unveils-ai-model-based-on-qwen/",
+   "title": "Financial Times: Nvidia discusses increasing investment or acquiring Reflection AI",
+   "outlet": "經濟日報",
+   "outlet_name": "經濟日報",
+   "url": "https://money.udn.com/money/story/123398/9807836",
+   "label": "STILL OPEN",
+   "summary_1line": "Nvidia reportedly talks to Reflection AI over investment or acquisition, including talent hiring.",
+   "published_at": "2026-10-11T09:21:32Z"
+  },
+  {
+   "title": "Google Gemini access is changing: What users need to know",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
+   "url": "https://www.thenews.com.pk/latest/1419536-google-gemini-access-is-changing-what-users-need-to-know",
+   "label": "STILL OPEN",
+   "summary_1line": "Google limits free Gemini access to 3.5 Flash-Lite, requiring $19.99/month for Pro.",
+   "published_at": "2026-10-11T14:40:00Z"
+  },
+  {
+   "title": "Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
+   "url": "https://thenewstack.io/claude-code-mcp-records/",
    "label": "REPORTED",
-   "summary_1line": "Microsoft launches decision AI model based on Qwen, achieving top accuracy and speed across benchmarks.",
-   "published_at": "2026-10-11T11:25:06Z"
-  },
-  {
-   "title": "Supermicro contractor pleads guilty to transshipping NVIDIA AI chip servers to China",
-   "outlet": "大紀元",
-   "outlet_name": "大紀元",
-   "url": "https://www.epochtimes.com/b5/26/10/11/n14867873.htm",
-   "label": "CONFIRMED",
-   "summary_1line": "Super Micro contractor pleads guilty to illegal AI tech export to China.",
-   "published_at": "2026-10-11T12:44:00Z"
-  },
-  {
-   "title": "Nächste Pleite: Auch Bundesregierung nimmt Abstand von Mistral AI",
-   "outlet": "Dr. Windows",
-   "outlet_name": "Dr. Windows",
-   "url": "https://www.drwindows.de/news/naechste-pleite-auch-bundesregierung-nimmt-abstand-von-mistral-ai",
-   "label": "REPORTED",
-   "summary_1line": "Germany drops partnership with Mistral AI, citing performance doubts and favoring Aleph Alpha's Kolibri-1.",
-   "published_at": "2026-10-11T13:49:42Z"
+   "summary_1line": "Claude Code builds app features using dependency records, not memory, in a fresh session.",
+   "published_at": "2026-10-11T14:03:38Z"
   }
  ],
  "ticker": [
   {
-   "headline": "AI is automating coding. So why are software developer job postings on the rise?",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html"
-  },
-  {
-   "headline": "Report: ChatGPT's teen suicide safeguards failed to alert parents",
-   "outlet": "Channel 3000",
-   "outlet_name": "Channel 3000",
-   "label": "CONFIRMED",
-   "url": "https://www.channel3000.com/news/shareable-stories/report-chatgpts-teen-suicide-safeguards-failed-to-alert-parents/article_d4019eb2-dfb1-500b-8667-f755f189dc0d.html"
-  },
-  {
-   "headline": "Microsoft Unveils AI Model Based on Qwen",
-   "outlet": "ForkLog",
-   "outlet_name": "ForkLog",
-   "label": "REPORTED",
-   "url": "https://forklog.com/en/microsoft-unveils-ai-model-based-on-qwen/"
-  },
-  {
-   "headline": "Supermicro contractor pleads guilty to transshipping NVIDIA AI chip servers to China",
-   "outlet": "大紀元",
-   "outlet_name": "大紀元",
-   "label": "CONFIRMED",
-   "url": "https://www.epochtimes.com/b5/26/10/11/n14867873.htm"
-  },
-  {
-   "headline": "Nächste Pleite: Auch Bundesregierung nimmt Abstand von Mistral AI",
-   "outlet": "Dr. Windows",
-   "outlet_name": "Dr. Windows",
-   "label": "REPORTED",
-   "url": "https://www.drwindows.de/news/naechste-pleite-auch-bundesregierung-nimmt-abstand-von-mistral-ai"
-  },
-  {
    "headline": "Google DeepMind is hiring engineers with ‘no degree required’: Pay up to Rs 10 crore",
    "outlet": "Education Times",
    "outlet_name": "Education Times",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.educationtimes.com/news/google-deepmind-is-hiring-engineers-with-no-degree-required-pay-up-to-rs-10-crore/articleshow/134872119.cms"
+  },
+  {
+   "headline": "Anthropic's artificial intelligence invented a murder witness and sent false information…",
+   "outlet": "Українські Національні Новини (УНН)",
+   "outlet_name": "Українські Національні Новини (УНН)",
+   "label": "CONFIRMED",
+   "url": "https://unn.ua/en/news/anthropics-artificial-intelligence-invented-a-murder-witness-and-sent-false-information-to-us-police"
+  },
+  {
+   "headline": "Financial Times: Nvidia discusses increasing investment or acquiring Reflection AI",
+   "outlet": "經濟日報",
+   "outlet_name": "經濟日報",
+   "label": "STILL OPEN",
+   "url": "https://money.udn.com/money/story/123398/9807836"
+  },
+  {
+   "headline": "Google Gemini access is changing: What users need to know",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
+   "label": "STILL OPEN",
+   "url": "https://www.thenews.com.pk/latest/1419536-google-gemini-access-is-changing-what-users-need-to-know"
+  },
+  {
+   "headline": "Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
+   "label": "REPORTED",
+   "url": "https://thenewstack.io/claude-code-mcp-records/"
+  },
+  {
+   "headline": "GitHub Copilot remote control now generally available",
+   "outlet": "TechGig",
+   "outlet_name": "TechGig",
+   "label": "REPORTED",
+   "url": "https://techgig.com/news/ai/github-copilot-remote-control-now-generally-available/134868389"
+  },
+  {
+   "headline": "Industrial Provinces Have \"Model\" Power | Ports Get AI Brains, Ships Can Also \"One-Click…",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "label": "REPORTED",
+   "url": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuwkfx5609645.shtml"
+  },
+  {
+   "headline": "Claude found 29,000 possible bugs in open source. Only 516 have been fixed.",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
+   "label": "REPORTED",
+   "url": "https://thenewstack.io/anthropic-oss-scanner-vulnerabilities/"
   },
   {
    "headline": "Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at…",
@@ -102,25 +116,11 @@
    "url": "https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night"
   },
   {
-   "headline": "Unsealed Kentucky Lawsuit Says Character.AI Bot Told Teens Where to Cut Themselves",
-   "outlet": "Hoodline",
-   "outlet_name": "Hoodline",
+   "headline": "Does Claude Have Rights?",
+   "outlet": "project-syndicate.org",
+   "outlet_name": "project-syndicate.org",
    "label": "REPORTED",
-   "url": "https://hoodline.com/2026/10/unsealed-kentucky-lawsuit-says-character-ai-bot-told-teens-where-to-cut-themselves/"
-  },
-  {
-   "headline": "Financial Times: Nvidia discusses increasing investment or acquiring Reflection AI",
-   "outlet": "經濟日報",
-   "outlet_name": "經濟日報",
-   "label": "REPORTED",
-   "url": "https://money.udn.com/money/story/123398/9807836"
-  },
-  {
-   "headline": "AI mass-produces mathematical results, Shing-Tung Yau: Impact like a tsunami, must surf…",
-   "outlet": "新京报",
-   "outlet_name": "新京报",
-   "label": "CONFIRMED",
-   "url": "https://www.bjnews.com.cn/detail/1791713429129493.html"
+   "url": "https://www.project-syndicate.org/onpoint/anthropic-training-claude-to-believe-it-may-have-rights-by-mustafa-suleyman-2026-09"
   },
   {
    "headline": "A Practical Guide to OpenAI's New Decisions API",
@@ -130,21 +130,21 @@
    "url": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/"
   },
   {
-   "headline": "Microsoft CEO Satya Nadella flags risks of advanced AI models amid OpenAI agent…",
-   "outlet": "Mint on MSN",
-   "outlet_name": "Mint on MSN",
+   "headline": "Of agents and agency — A local AI policy must work to serve us",
+   "outlet": "Daily Maverick on MSN",
+   "outlet_name": "Daily Maverick on MSN",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/microsoft-ceo-satya-nadella-flags-risks-of-advanced-ai-models-amid-openai-agent-incidents-calls-for-emergency-brake/ar-AA2dZPJK"
+   "url": "https://www.msn.com/en-za/news/other/of-agents-and-agency-a-local-ai-policy-must-work-to-serve-us/ar-AA2dZ0RP"
   }
  ],
  "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7400,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/15.mp3",
- "audio_seconds": 48.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/16.mp3",
+ "audio_seconds": 55.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: AI is automating coding. So why are software developer job postings on the rise.\nConfirmed, per Channel 3000: Report: ChatGPT's teen suicide safeguards failed to alert parents.\nReported by ForkLog: Microsoft Unveils AI Model Based on Qwen.\nConfirmed, per 大紀元: Supermicro contractor pleads guilty to transshipping NVIDIA AI chip servers to China.\nReported by Dr. Windows: Nächste Pleite: Auch Bundesregierung nimmt Abstand von Mistral AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Education Times: Google DeepMind is hiring engineers with ‘no degree required’: Pay up to Rs 10 crore.\nConfirmed, per Українські Національні Новини (УНН): Anthropic's artificial intelligence invented a murder witness and sent false information to U.S. police.\nStill open, per 經濟日報: Financial Times: Nvidia discusses increasing investment or acquiring Reflection AI.\nStill open, per The News International: Google Gemini access is changing: What users need to know.\nReported by The New Stack: Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
