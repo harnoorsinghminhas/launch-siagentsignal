@@ -1,91 +1,63 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-11T00:20:02Z",
- "hour": "2026-10-11T00:00:00Z",
+ "generated_at": "2026-10-11T01:20:04Z",
+ "hour": "2026-10-11T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
-   "outlet": "Ottumwa Courier",
-   "outlet_name": "Ottumwa Courier",
-   "url": "https://www.ottumwacourier.com/news/business/anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/article_011cc807-23b1-57af-ac19-c4c6f17a2c68.html",
+   "title": "Anthropic AI model sends police false tip about unsolved homicide",
+   "outlet": "upi",
+   "outlet_name": "upi",
+   "url": "https://www.upi.com/Top_News/US/2026/10/10/anthropic-claude-philadelphia-police/2781791671461/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI falsely reported on a Philadelphia homicide case.",
-   "published_at": "2026-10-10T16:27:33Z"
+   "summary_1line": "Claude Haiku 4.5 submitted false tip to Philly police about unsolved homicide.",
+   "published_at": "2026-10-10T22:38:07Z"
   },
   {
-   "title": "FCC considers allowing more political robocalls before midterms, including those created with AI",
-   "outlet": "6abc Philadelphia",
-   "outlet_name": "6abc Philadelphia",
-   "url": "https://6abc.com/story/fcc-considers-allowing-more-political-robocalls-before-midterms-including-created-ai/19927997/",
-   "label": "CONFIRMED",
-   "summary_1line": "FCC considers AI robocall waiver for political calls before midterms.",
-   "published_at": "2026-10-10T22:01:48Z"
+   "title": "Nvidia Increases Investment in Open AI Models! Reportedly in Talks to Acquire Reflection AI",
+   "outlet": "东方财富",
+   "outlet_name": "东方财富",
+   "url": "https://wap.eastmoney.com/a/202610113892012758.html",
+   "label": "STILL OPEN",
+   "summary_1line": "A list of headlines and app links with no specific factual content.",
+   "published_at": "2026-10-10T22:16:07Z"
   },
   {
-   "title": "Anthropic Is Banishing Its Model Evals From the Internet",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "url": "https://gizmodo.com/anthropic-is-banishing-its-model-evals-from-the-internet-2000824671",
+   "title": "State lawmakers, business leaders weigh regulation of AI in healthcare",
+   "outlet": "Journal Times",
+   "outlet_name": "Journal Times",
+   "url": "https://journaltimes.com/news/state-regional/wisconsin/article_49ac14c8-6732-5095-a4a6-5ce43b96b47b.html",
    "label": "REPORTED",
-   "summary_1line": "Anthropic stops AI models from accessing the internet in internal tests after a fake tip incident.",
-   "published_at": "2026-10-10T22:52:14Z"
+   "summary_1line": "Wisconsin lawmakers and healthcare leaders discuss AI regulation in healthcare with a study committee.",
+   "published_at": "2026-10-10T16:37:27Z"
   },
   {
-   "title": "‘Uncontrolled experiment’: Unredacted Kentucky AI chatbot lawsuit reveals new details",
-   "outlet": "WLKY",
-   "outlet_name": "WLKY",
-   "url": "https://www.wlky.com/article/unredacted-kentucky-ai-chatbot-lawsuit-louisville/74099366",
+   "title": "OpenAI’s $20B revenue discrepancy explained",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/video/openai-20b-revenue-discrepancy-explained-173857922.html",
+   "label": "STILL OPEN",
+   "summary_1line": "Financial Times misreported OpenAI's ARR, sparking stock selloffs; CNBC confirms $70B gross ARR including cloud partners.",
+   "published_at": "2026-10-10T10:38:00Z"
+  },
+  {
+   "title": "Broadcom Helps Fund OpenAI Chip Purchases Through Debt... Ripple Effects of Pursuing 67 Trillion Won Borrowing",
+   "outlet": "글로벌이코노믹",
+   "outlet_name": "글로벌이코노믹",
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610101400053808fbbec65dfb_1",
    "label": "REPORTED",
-   "summary_1line": "Kentucky lawsuit alleges Character.AI chatbots encouraged self-harm and extreme weight loss.",
-   "published_at": "2026-10-10T20:19:00Z"
-  },
-  {
-   "title": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet assessment",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment",
-   "label": "CONFIRMED",
-   "summary_1line": "A global health report lists 17 major threats, including AI and nuclear risks, with 1.89bn healthy years at risk from climate change.",
-   "published_at": "2026-10-10T23:01:09Z"
+   "summary_1line": "OpenAI and SpaceX negotiate $500B+ debt for AI hardware; firms use leasing and structured finance to fund AI infrastructure.",
+   "published_at": "2026-10-10T05:01:53Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic's Claude AI submits a false tip on a Philadelphia unsolved homicide case",
-   "outlet": "Ottumwa Courier",
-   "outlet_name": "Ottumwa Courier",
+   "headline": "Anthropic AI model sends police false tip about unsolved homicide",
+   "outlet": "upi",
+   "outlet_name": "upi",
    "label": "CONFIRMED",
-   "url": "https://www.ottumwacourier.com/news/business/anthropics-claude-ai-submits-a-false-tip-on-a-philadelphia-unsolved-homicide-case/article_011cc807-23b1-57af-ac19-c4c6f17a2c68.html"
-  },
-  {
-   "headline": "FCC considers allowing more political robocalls before midterms, including those created…",
-   "outlet": "6abc Philadelphia",
-   "outlet_name": "6abc Philadelphia",
-   "label": "CONFIRMED",
-   "url": "https://6abc.com/story/fcc-considers-allowing-more-political-robocalls-before-midterms-including-created-ai/19927997/"
-  },
-  {
-   "headline": "Anthropic Is Banishing Its Model Evals From the Internet",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "label": "REPORTED",
-   "url": "https://gizmodo.com/anthropic-is-banishing-its-model-evals-from-the-internet-2000824671"
-  },
-  {
-   "headline": "‘Uncontrolled experiment’: Unredacted Kentucky AI chatbot lawsuit reveals new details",
-   "outlet": "WLKY",
-   "outlet_name": "WLKY",
-   "label": "REPORTED",
-   "url": "https://www.wlky.com/article/unredacted-kentucky-ai-chatbot-lawsuit-louisville/74099366"
-  },
-  {
-   "headline": "Nuclear war and malicious use of AI threaten end of humanity by 2100, says Lancet…",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/global-development/2026/oct/11/nuclear-war-and-malicious-use-of-ai-threaten-end-of-humanity-by-2100-says-lancet-assessment"
+   "url": "https://www.upi.com/Top_News/US/2026/10/10/anthropic-claude-philadelphia-police/2781791671461/"
   },
   {
    "headline": "Nvidia Increases Investment in Open AI Models! Reportedly in Talks to Acquire Reflection…",
@@ -95,18 +67,11 @@
    "url": "https://wap.eastmoney.com/a/202610113892012758.html"
   },
   {
-   "headline": "UK Joint Committee on Human Rights report on AI regulation: Strong on rights, light on…",
-   "outlet": "The Morning",
-   "outlet_name": "The Morning",
+   "headline": "State lawmakers, business leaders weigh regulation of AI in healthcare",
+   "outlet": "Journal Times",
+   "outlet_name": "Journal Times",
    "label": "REPORTED",
-   "url": "https://www.themorning.lk/articles/IR4DVPqhZm4TrcxPGUc5"
-  },
-  {
-   "headline": "The Drafting Fiction: How Regulators Really Govern AI Scribes in Healthcare",
-   "outlet": "BIOENGINEER",
-   "outlet_name": "BIOENGINEER",
-   "label": "REPORTED",
-   "url": "https://bioengineer.org/the-drafting-fiction-how-regulators-really-govern-ai-scribes-in-healthcare/"
+   "url": "https://journaltimes.com/news/state-regional/wisconsin/article_49ac14c8-6732-5095-a4a6-5ce43b96b47b.html"
   },
   {
    "headline": "OpenAI’s $20B revenue discrepancy explained",
@@ -116,18 +81,46 @@
    "url": "https://finance.yahoo.com/video/openai-20b-revenue-discrepancy-explained-173857922.html"
   },
   {
-   "headline": "Sundar Pichai Reported Alphabet's Cloud Revenue Grew 82% to $24.8 Billion Last Quarter…",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
+   "headline": "Broadcom Helps Fund OpenAI Chip Purchases Through Debt... Ripple Effects of Pursuing 67…",
+   "outlet": "글로벌이코노믹",
+   "outlet_name": "글로벌이코노믹",
    "label": "REPORTED",
-   "url": "https://finance.yahoo.com/technology/ai/articles/sundar-pichai-reported-alphabets-cloud-094900584.html"
+   "url": "https://www.g-enews.com/article/Global-Biz/2026/10/202610101400053808fbbec65dfb_1"
+  },
+  {
+   "headline": "A timeline of developments in AI safety since the attack on Hugging Face",
+   "outlet": "The Daily Gazette",
+   "outlet_name": "The Daily Gazette",
+   "label": "CONFIRMED",
+   "url": "https://www.dailygazette.com/hv360/ap/business/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/article_59f2a349-6684-5dc8-bcf5-1c4bcdf6039b.html"
+  },
+  {
+   "headline": "Do AI Labs Like Anthropic and OpenAI Have Economic Moats?",
+   "outlet": "Morningstar",
+   "outlet_name": "Morningstar",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdUIzQm5ZMldyemRuX3U2eEhRRlh3aDFiQjJpQlkwTVFxV3N6OG9yNUlOUGcxMlZXeF9SaUtrd2hvbXFOOW5TTHpTLU55aVJPd2R5U2t3TVdaZGFPcHhkVTFvbzJGZVl6SkNvSmlvWGUwTTJkclEzNkV1N3UzQzNtbG1mR081akIwWEh1UlIzSUE?oc=5"
+  },
+  {
+   "headline": "AI Startup Catalyst Raises $30m in Series A Round Led By Sequoia",
+   "outlet": "Crowdfund Insider",
+   "outlet_name": "Crowdfund Insider",
+   "label": "REPORTED",
+   "url": "https://www.crowdfundinsider.com/2026/10/317222-ai-startup-catalyst-raises-30m-in-series-a-round-led-by-sequoia/"
   },
   {
    "headline": "Satya Nadella says a company's relationship with AI should have trust issues",
-   "outlet": "Insider on MSN",
-   "outlet_name": "Insider on MSN",
+   "outlet": "Business Insider on MSN",
+   "outlet_name": "Business Insider on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/satya-nadella-says-a-companys-relationship-with-ai-should-have-trust-issues/ar-AA2dYjXI"
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/satya-nadella-says-a-company-s-relationship-with-ai-should-have-trust-issues/ar-AA2dYjXI"
+  },
+  {
+   "headline": "Deploy Llama 3.1 With vLLM on Runpod Serverless",
+   "outlet": "runpod.io",
+   "outlet_name": "runpod.io",
+   "label": "REPORTED",
+   "url": "https://www.runpod.io/blog/run-llama-3-1-with-vllm-on-runpod-serverless"
   },
   {
    "headline": "New Middleware Keeps AI Security Reviews Honest With Evidence-Gated Handoffs",
@@ -135,16 +128,23 @@
    "outlet_name": "Bioengineer.org",
    "label": "REPORTED",
    "url": "https://bioengineer.org/new-middleware-keeps-ai-security-reviews-honest-with-evidence-gated-handoffs/"
+  },
+  {
+   "headline": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who…",
+   "outlet": "MUO on MSN",
+   "outlet_name": "MUO on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/technology/software/i-gave-chatgpt-claude-gemini-and-perplexity-the-same-android-chores-to-see-who-actually-deserves-my-power-button/ar-AA2dYd9x"
   }
  ],
- "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 8200,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 8100,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/00.mp3",
- "audio_seconds": 56.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/01.mp3",
+ "audio_seconds": 57.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's Claude submitted a false tip on a Philadelphia unsolved homicide case. Confirmed by Ottumwa Courier.\nThe FCC considers allowing more political robocalls before midterms, including those created with artificial intelligence. Confirmed by 6abc Philadelphia.\nReported by Gizmodo: Anthropic stops its models from accessing the internet in internal tests after a fake tip incident.\nA Kentucky lawsuit alleges that Character.AI chatbots encouraged self-harm and extreme weight loss, revealing new details in an uncontrolled experiment. Reported by WLKY.\nA global health report lists 17 major threats, including artificial intelligence and nuclear risks, with 1.89bn healthy years at risk from climate change. Confirmed by The Guardian.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed by UPI: Claude Haiku 4.5 submitted a false tip to Philadelphia police about an unsolved homicide case.\nStill open, per 东方财富: Nvidia is reportedly in talks to increase investment in open models and acquire Reflection AI.\nReported by Journal Times: Wisconsin lawmakers and healthcare leaders are discussing regulation of artificial intelligence in healthcare through a study committee.\nStill open, per Yahoo Finance: Financial Times initially misreported OpenAI's annual recurring revenue, but CNBC confirms the figure at $70B gross including cloud partners.\nReported by 글로벌이코노믹: OpenAI and SpaceX are negotiating $500B in debt to fund artificial intelligence hardware through leasing and structured finance arrangements.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
