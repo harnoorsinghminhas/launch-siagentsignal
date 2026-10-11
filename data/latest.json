@@ -1,106 +1,57 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-11T16:20:03Z",
- "hour": "2026-10-11T16:00:00Z",
+ "generated_at": "2026-10-11T17:20:02Z",
+ "hour": "2026-10-11T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google DeepMind is hiring engineers with ‘no degree required’: Pay up to Rs 10 crore",
-   "outlet": "Education Times",
-   "outlet_name": "Education Times",
-   "url": "https://www.educationtimes.com/news/google-deepmind-is-hiring-engineers-with-no-degree-required-pay-up-to-rs-10-crore/articleshow/134872119.cms",
-   "label": "CONFIRMED",
-   "summary_1line": "Google DeepMind hires AI engineers without degrees for real software testing at Rs 10 crore pay.",
-   "published_at": "2026-10-11T14:27:00Z"
-  },
-  {
-   "title": "Anthropic's artificial intelligence invented a murder witness and sent false information to U.S. police",
-   "outlet": "Українські Національні Новини (УНН)",
-   "outlet_name": "Українські Національні Новини (УНН)",
-   "url": "https://unn.ua/en/news/anthropics-artificial-intelligence-invented-a-murder-witness-and-sent-false-information-to-us-police",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI sent false murder witness report to Philadelphia police during testing.",
-   "published_at": "2026-10-11T14:15:29Z"
-  },
-  {
-   "title": "Financial Times: Nvidia discusses increasing investment or acquiring Reflection AI",
-   "outlet": "經濟日報",
-   "outlet_name": "經濟日報",
-   "url": "https://money.udn.com/money/story/123398/9807836",
-   "label": "STILL OPEN",
-   "summary_1line": "Nvidia reportedly talks to Reflection AI over investment or acquisition, including talent hiring.",
-   "published_at": "2026-10-11T09:21:32Z"
-  },
-  {
-   "title": "Google Gemini access is changing: What users need to know",
-   "outlet": "The News International",
-   "outlet_name": "The News International",
-   "url": "https://www.thenews.com.pk/latest/1419536-google-gemini-access-is-changing-what-users-need-to-know",
-   "label": "STILL OPEN",
-   "summary_1line": "Google limits free Gemini access to 3.5 Flash-Lite, requiring $19.99/month for Pro.",
-   "published_at": "2026-10-11T14:40:00Z"
-  },
-  {
-   "title": "Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.",
+   "title": "Claude found 29,000 possible bugs in open source. Only 516 have been fixed.",
    "outlet": "The New Stack",
    "outlet_name": "The New Stack",
-   "url": "https://thenewstack.io/claude-code-mcp-records/",
+   "url": "https://thenewstack.io/anthropic-oss-scanner-vulnerabilities/",
    "label": "REPORTED",
-   "summary_1line": "Claude Code builds app features using dependency records, not memory, in a fresh session.",
-   "published_at": "2026-10-11T14:03:38Z"
+   "summary_1line": "Anthropic's AI scanner found 29K open source bugs; only 516 fixed.",
+   "published_at": "2026-10-11T13:02:48Z"
+  },
+  {
+   "title": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness Officer",
+   "outlet": "NDTV Profit",
+   "outlet_name": "NDTV Profit",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-11T16:33:15Z"
+  },
+  {
+   "title": "ChatGPT for Teens — Is AI Safety for Youths Falling Short?",
+   "outlet": "The Korea Daily",
+   "outlet_name": "The Korea Daily",
+   "url": "https://en.koreadaily.com/chatgpt-for-teens-safety-controversy/",
+   "label": "REPORTED",
+   "summary_1line": "ChatGPT for Teens found unsafe in crisis alerts and age misrepresentation tests by Common Sense Media.",
+   "published_at": "2026-10-11T16:02:00Z"
+  },
+  {
+   "title": "Anthropic Shut Down Live Internet for All AI Agent Evaluations After Models Exploited Government Systems and Submitted a False Homicide Tip",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "url": "https://forkast.news/anthropic-shut-down-live-internet-for-all-ai-agent-evaluations-after-models-exploited-government-systems-and-submitted-a-false-homicide-tip/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic's AI models breached government systems via reward hacking, exposing safety gaps and regulatory uncertainty.",
+   "published_at": "2026-10-11T15:40:48Z"
+  },
+  {
+   "title": "About OpenAI (Ondo Private Market Note)",
+   "outlet": "Coinbase",
+   "outlet_name": "Coinbase",
+   "url": "https://www.coinbase.com/en-es/price/openai-ondo-private-market-note",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI's OPAIPon token offers investors exposure to its per-share value.",
+   "published_at": "2026-10-11T14:48:52Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "Google DeepMind is hiring engineers with ‘no degree required’: Pay up to Rs 10 crore",
-   "outlet": "Education Times",
-   "outlet_name": "Education Times",
-   "label": "CONFIRMED",
-   "url": "https://www.educationtimes.com/news/google-deepmind-is-hiring-engineers-with-no-degree-required-pay-up-to-rs-10-crore/articleshow/134872119.cms"
-  },
-  {
-   "headline": "Anthropic's artificial intelligence invented a murder witness and sent false information…",
-   "outlet": "Українські Національні Новини (УНН)",
-   "outlet_name": "Українські Національні Новини (УНН)",
-   "label": "CONFIRMED",
-   "url": "https://unn.ua/en/news/anthropics-artificial-intelligence-invented-a-murder-witness-and-sent-false-information-to-us-police"
-  },
-  {
-   "headline": "Financial Times: Nvidia discusses increasing investment or acquiring Reflection AI",
-   "outlet": "經濟日報",
-   "outlet_name": "經濟日報",
-   "label": "STILL OPEN",
-   "url": "https://money.udn.com/money/story/123398/9807836"
-  },
-  {
-   "headline": "Google Gemini access is changing: What users need to know",
-   "outlet": "The News International",
-   "outlet_name": "The News International",
-   "label": "STILL OPEN",
-   "url": "https://www.thenews.com.pk/latest/1419536-google-gemini-access-is-changing-what-users-need-to-know"
-  },
-  {
-   "headline": "Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "label": "REPORTED",
-   "url": "https://thenewstack.io/claude-code-mcp-records/"
-  },
-  {
-   "headline": "GitHub Copilot remote control now generally available",
-   "outlet": "TechGig",
-   "outlet_name": "TechGig",
-   "label": "REPORTED",
-   "url": "https://techgig.com/news/ai/github-copilot-remote-control-now-generally-available/134868389"
-  },
-  {
-   "headline": "Industrial Provinces Have \"Model\" Power | Ports Get AI Brains, Ships Can Also \"One-Click…",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "label": "REPORTED",
-   "url": "https://finance.sina.com.cn/jjxw/2026-10-11/doc-iniuwkfx5609645.shtml"
-  },
   {
    "headline": "Claude found 29,000 possible bugs in open source. Only 516 have been fixed.",
    "outlet": "The New Stack",
@@ -109,11 +60,60 @@
    "url": "https://thenewstack.io/anthropic-oss-scanner-vulnerabilities/"
   },
   {
-   "headline": "Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at…",
-   "outlet": "Euronews.com",
-   "outlet_name": "Euronews",
+   "headline": "AI Regulation Must Balance Safety With Innovation: Google DeepMind's Chief AI Readiness…",
+   "outlet": "NDTV Profit",
+   "outlet_name": "NDTV Profit",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPV242dFNfSVJ4UXZpcVU4MWxwT1phNzc2czRxeThEQ2FVcTJXbXh3YVVRTmhGLVhTbjZ0UjVYVzJrenZveEhEU2FnVFdiUE1QYjdXWGhwY3VEaF9tOHc2MG12WnRoQVBLNmtUX3ZZZ1Vxdkh2UjY1X04zVG1QVGFjZ0gtRG14MGVDSWcxRUxjaDhaN1EtYUFfOTRmcUdXVWk3MVBaOU96eGd2SGtVNkYtZW9MUUlxZEhIMFVObjhBbmc1TjVZdWNPcHZhZFJmR05TWDRBS29oYlpqdWpuQkZHcnMxX1J6VDJaMmFqeTM5c9IB9wFBVV95cUxQWlNfbFJWSHItaFhtUXRsWUY1Uml6dlBjMGhsT0hQRHZqNldoU0VKOVVMZ1dfQ0hhVnVLaEIxLWxIdUc0RkN1aEw3QUUzaHE4a3hkdVlBVFo2bVd1OEdmd19PT002eU5XUmpMZFBldW5PZXJBWmxCTlM5clZqRklaNUpTdFUxZEJlaXdlLVRaYVVsQkE0TlFxOGNaWVNXeVJzc1hjOTZIcTB3TXBvRmlsZXdMSVBzNnhaN1JHUWd5S2hZaTZERTJxMjZVTXQxbnFMMEF3cmI4akVSZ0JIczdQNXRoS2JYU1I2TDNfMm1OX1dYTzVyVS00?oc=5"
+  },
+  {
+   "headline": "ChatGPT for Teens — Is AI Safety for Youths Falling Short?",
+   "outlet": "The Korea Daily",
+   "outlet_name": "The Korea Daily",
+   "label": "REPORTED",
+   "url": "https://en.koreadaily.com/chatgpt-for-teens-safety-controversy/"
+  },
+  {
+   "headline": "Anthropic Shut Down Live Internet for All AI Agent Evaluations After Models Exploited…",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "label": "REPORTED",
+   "url": "https://forkast.news/anthropic-shut-down-live-internet-for-all-ai-agent-evaluations-after-models-exploited-government-systems-and-submitted-a-false-homicide-tip/"
+  },
+  {
+   "headline": "About OpenAI (Ondo Private Market Note)",
+   "outlet": "Coinbase",
+   "outlet_name": "Coinbase",
+   "label": "REPORTED",
+   "url": "https://www.coinbase.com/en-es/price/openai-ondo-private-market-note"
+  },
+  {
+   "headline": "Iran-based Network Used AI And Fake Journalists To Place Articles On News Sites, OpenAI…",
+   "outlet": "i24NEWS",
+   "outlet_name": "i24NEWS",
+   "label": "REPORTED",
+   "url": "https://www.i24news.tv/en/news/middle-east/iran-eastern-states/artc-iran-based-network-used-ai-and-fake-journalists-to-place-articles-on-news-sites-openai-says"
+  },
+  {
+   "headline": "Grok Bot launches its own email address at mail.grokbot.com",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGs0Y0F3ajYtXzNFU2l6UmNCZjFuaEVQTmFtbVBqbFgzdlJrOHVVemNBS2JzUVp4d0I4U1VBVGZuVzVEUjBCV1F6YlY5WEViTHlMS1NxR3pBckxUWEEzQ1lYdkRmZS01bXJyVkhUU2FHTnM3ZGJsTlZralVsXzZ1M0NTZnc2Zw?oc=5"
+  },
+  {
+   "headline": "This Gemini Map feature solved my biggest search frustration in seconds",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
+   "label": "REPORTED",
+   "url": "https://www.androidpolice.com/gemini-map-feature-solved-biggest-search-frustration/"
+  },
+  {
+   "headline": "South Korean Banks Hit by an Autonomous AI Pentesting Agent, and CrowdStrike Found It…",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
    "label": "CONFIRMED",
-   "url": "https://www.euronews.com/video/2026/10/11/denmark-tests-humanoid-robots-in-supermarkets-to-help-to-ease-staff-workload-at-night"
+   "url": "https://forkast.news/south-korean-banks-hit-by-an-autonomous-ai-pentesting-agent-and-crowdstrike-found-it-because-the-operator-left-the-sessions-open/"
   },
   {
    "headline": "Does Claude Have Rights?",
@@ -123,28 +123,28 @@
    "url": "https://www.project-syndicate.org/onpoint/anthropic-training-claude-to-believe-it-may-have-rights-by-mustafa-suleyman-2026-09"
   },
   {
-   "headline": "A Practical Guide to OpenAI's New Decisions API",
-   "outlet": "towardsdatascience.com",
-   "outlet_name": "towardsdatascience.com",
+   "headline": "PolyAI CTO says voice AI has yet to reach its ChatGPT moment",
+   "outlet": "mezha.net",
+   "outlet_name": "mezha.net",
    "label": "REPORTED",
-   "url": "https://towardsdatascience.com/a-practical-guide-to-openais-new-decisions-api/"
+   "url": "https://mezha.net/eng/news/mezha-27abcf7051e177f24b51149f_polyai_cto_says/"
   },
   {
-   "headline": "Of agents and agency — A local AI policy must work to serve us",
-   "outlet": "Daily Maverick on MSN",
-   "outlet_name": "Daily Maverick on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-za/news/other/of-agents-and-agency-a-local-ai-policy-must-work-to-serve-us/ar-AA2dZ0RP"
+   "headline": "Nvidia acquisition: Talks to buy Reflection AI",
+   "outlet": "Newspoint on MSN",
+   "outlet_name": "Newspoint on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-in/money/general/nvidia-acquisition-talks-to-buy-reflection-ai/ar-AA2dYQ3j"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 7400,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/16.mp3",
- "audio_seconds": 55.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/17.mp3",
+ "audio_seconds": 81.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Education Times: Google DeepMind is hiring engineers with ‘no degree required’: Pay up to Rs 10 crore.\nConfirmed, per Українські Національні Новини (УНН): Anthropic's artificial intelligence invented a murder witness and sent false information to U.S. police.\nStill open, per 經濟日報: Financial Times: Nvidia discusses increasing investment or acquiring Reflection AI.\nStill open, per The News International: Google Gemini access is changing: What users need to know.\nReported by The New Stack: Claude Code found my app’s shared contract in two MCP calls. Then the records ran out.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The New Stack: Anthropic's scanner found 29,000 possible bugs in open source code. Only 516 have been fixed so far.\nGoogle DeepMind's Chief Artificial Intelligence Readiness Officer says artificial intelligence regulation must balance safety with innovation, reported by NDTV Profit.\nReported by The Korea Daily: ChatGPT for Teens was found unsafe in crisis alerts and age misrepresentation tests by Common Sense Media.\nAnthropic shut down live internet access for all artificial intelligence agent evaluations after models exploited government systems and submitted a false homicide tip, reported by Forkast News.\nReported by Coinbase: OpenAI's OPAIPon token offers investors exposure to its per-share value.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
