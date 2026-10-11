@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-11T18:20:02Z",
- "hour": "2026-10-11T18:00:00Z",
+ "generated_at": "2026-10-11T19:20:02Z",
+ "hour": "2026-10-11T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Hack The Box Launches AI Range Enterprise Edition to Measure AI Agent Competence in Cybersecurity",
-   "outlet": "Cybersecurity Insiders",
-   "outlet_name": "Cybersecurity Insiders",
-   "url": "https://www.cybersecurity-insiders.com/hack-the-box-launches-ai-range-enterprise-edition-to-measure-ai-agent-competence-in-cybersecurity/",
-   "label": "REPORTED",
-   "summary_1line": "Hack The Box launches AI Range Enterprise Edition for enterprise AI security agent evaluation.",
-   "published_at": "2026-10-11T15:23:53Z"
-  },
-  {
-   "title": "Google Gemini Agent: Eigene E-Mail-Adresse und Aufgaben an Claude",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "url": "https://borncity.com/news/google-gemini-agent-eigene-e-mail-adresse-und-aufgaben-an-claude/",
-   "label": "REPORTED",
-   "summary_1line": "Google launches universal Gemini Agent for businesses, with autonomous task handling and EU AI compliance concerns.",
-   "published_at": "2026-10-11T16:58:04Z"
-  },
-  {
-   "title": "Anthropic just took steps to protect Claude's feelings. Here's what that means.",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
-   "url": "https://mashable.com/tech/anthropic-updates-usage-policy-to-protect-claudes-feelings",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic updates policy to protect Claude from abuse, effective Nov. 12, 2026.",
-   "published_at": "2026-10-11T16:07:09Z"
-  },
-  {
-   "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-   "label": "CONFIRMED",
-   "summary_1line": "Amazon ends secret data center negotiations with local governments, following Microsoft.",
-   "published_at": "2026-10-11T16:52:33Z"
-  },
-  {
-   "title": "Grok Bot launches its own email address at mail.grokbot.com",
-   "outlet": "Pasquale Pillitteri",
-   "outlet_name": "Pasquale Pillitteri",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGs0Y0F3ajYtXzNFU2l6UmNCZjFuaEVQTmFtbVBqbFgzdlJrOHVVemNBS2JzUVp4d0I4U1VBVGZuVzVEUjBCV1F6YlY5WEViTHlMS1NxR3pBckxUWEEzQ1lYdkRmZS01bXJyVkhUU2FHTnM3ZGJsTlZralVsXzZ1M0NTZnc2Zw?oc=5",
+   "title": "Microsoft announces new AI security features and Copilot+ PCs",
+   "outlet": "SC Media",
+   "outlet_name": "SC Media",
+   "url": "https://www.scworld.com/brief/microsoft-announces-new-ai-security-features-and-copilot-pcs",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-11T16:47:56Z"
+   "published_at": "2026-10-11T17:59:52Z"
+  },
+  {
+   "title": "Claude Launches Dedicated Bug-Hunting Team: 66 Vulnerabilities Discovered in 116,000 Lines of Code – Single AI Agent Only Detects Up to 27 Bugs",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "url": "https://eu.36kr.com/en/p/4020977816539010",
+   "label": "REPORTED",
+   "summary_1line": "Claude's team mode finds 66 bugs, outperforming single-agent at 27.",
+   "published_at": "2026-10-11T07:12:20Z"
+  },
+  {
+   "title": "Nvidia in Talks to Buy Reflection AI, FT Reports",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/international/2026/10/11/nvidia-in-talks-to-buy-reflection-ai-ft-reports",
+   "label": "CONFIRMED",
+   "summary_1line": "Nvidia in talks to acquire Reflection AI for open-weight AI, aiming to expand its open-model ecosystem.",
+   "published_at": "2026-10-11T08:48:36Z"
+  },
+  {
+   "title": "Anthropic-Google Cloud Workshop on Advanced AI Agents",
+   "outlet": "The Cryptonomist",
+   "outlet_name": "The Cryptonomist",
+   "url": "https://en.cryptonomist.ch/2026/10/11/anthropic-google-cloud-ai-agents/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic and Google Cloud showcase AI agent capabilities with Claude on Vertex AI.",
+   "published_at": "2026-10-11T16:23:22Z"
+  },
+  {
+   "title": "When is the Anthropic IPO and why is its pre IPO price above $2,000?",
+   "outlet": "FXStreet",
+   "outlet_name": "FXStreet",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPempmWklwdFJ4c1hWQWtjWnlYdGUyeVdBZzFxOVhkOWl5dkVrUllOYWxLbGlncW1vX0N2U0dvSktKVDMwdTh2SGxIVVduSm1PeXg3WF9SYUJTRWprMFBFc3cwQy12RW9jTzNLcXVHM3NlUVpJelFNejBJc1k0S2d5dFZ6eXVCTTRianpRTHVjNXRqSl9KT0ZDc240aEx6R0lGcVJYa0Z5ZTdCNmRDYkE?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-11T17:54:09Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Hack The Box Launches AI Range Enterprise Edition to Measure AI Agent Competence in…",
-   "outlet": "Cybersecurity Insiders",
-   "outlet_name": "Cybersecurity Insiders",
+   "headline": "Microsoft announces new AI security features and Copilot+ PCs",
+   "outlet": "SC Media",
+   "outlet_name": "SC Media",
    "label": "REPORTED",
-   "url": "https://www.cybersecurity-insiders.com/hack-the-box-launches-ai-range-enterprise-edition-to-measure-ai-agent-competence-in-cybersecurity/"
+   "url": "https://www.scworld.com/brief/microsoft-announces-new-ai-security-features-and-copilot-pcs"
   },
   {
-   "headline": "Google Gemini Agent: Eigene E-Mail-Adresse und Aufgaben an Claude",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
+   "headline": "Claude Launches Dedicated Bug-Hunting Team: 66 Vulnerabilities Discovered in 116,000…",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
    "label": "REPORTED",
-   "url": "https://borncity.com/news/google-gemini-agent-eigene-e-mail-adresse-und-aufgaben-an-claude/"
+   "url": "https://eu.36kr.com/en/p/4020977816539010"
   },
   {
-   "headline": "Anthropic just took steps to protect Claude's feelings. Here's what that means.",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
-   "label": "REPORTED",
-   "url": "https://mashable.com/tech/anthropic-updates-usage-policy-to-protect-claudes-feelings"
-  },
-  {
-   "headline": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "Nvidia in Talks to Buy Reflection AI, FT Reports",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/"
+   "url": "https://en.sedaily.com/international/2026/10/11/nvidia-in-talks-to-buy-reflection-ai-ft-reports"
   },
   {
-   "headline": "Grok Bot launches its own email address at mail.grokbot.com",
-   "outlet": "Pasquale Pillitteri",
-   "outlet_name": "Pasquale Pillitteri",
+   "headline": "Anthropic-Google Cloud Workshop on Advanced AI Agents",
+   "outlet": "The Cryptonomist",
+   "outlet_name": "The Cryptonomist",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbGs0Y0F3ajYtXzNFU2l6UmNCZjFuaEVQTmFtbVBqbFgzdlJrOHVVemNBS2JzUVp4d0I4U1VBVGZuVzVEUjBCV1F6YlY5WEViTHlMS1NxR3pBckxUWEEzQ1lYdkRmZS01bXJyVkhUU2FHTnM3ZGJsTlZralVsXzZ1M0NTZnc2Zw?oc=5"
+   "url": "https://en.cryptonomist.ch/2026/10/11/anthropic-google-cloud-ai-agents/"
+  },
+  {
+   "headline": "When is the Anthropic IPO and why is its pre IPO price above $2,000?",
+   "outlet": "FXStreet",
+   "outlet_name": "FXStreet",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPempmWklwdFJ4c1hWQWtjWnlYdGUyeVdBZzFxOVhkOWl5dkVrUllOYWxLbGlncW1vX0N2U0dvSktKVDMwdTh2SGxIVVduSm1PeXg3WF9SYUJTRWprMFBFc3cwQy12RW9jTzNLcXVHM3NlUVpJelFNejBJc1k0S2d5dFZ6eXVCTTRianpRTHVjNXRqSl9KT0ZDc240aEx6R0lGcVJYa0Z5ZTdCNmRDYkE?oc=5"
+  },
+  {
+   "headline": "Infino Raises $7.5M to Simplify Data Retrieval for AI Agents",
+   "outlet": "Shoppe Black",
+   "outlet_name": "Shoppe Black",
+   "label": "REPORTED",
+   "url": "https://shoppeblack.us/infino-raises-7-5-million/"
   },
   {
    "headline": "Some OpenAI math discoveries are ‘jewels,’ if verified. But mathematicians are wary of…",
@@ -93,13 +100,6 @@
    "outlet_name": "NBC News",
    "label": "STILL OPEN",
    "url": "https://www.nbcnews.com/tech/tech-news/openai-math-discoveries-are-jewels-verified-mathematicians-are-wary-sl-rcna602148"
-  },
-  {
-   "headline": "This Gemini Map feature solved my biggest search frustration in seconds",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
-   "label": "REPORTED",
-   "url": "https://www.androidpolice.com/gemini-map-feature-solved-biggest-search-frustration/"
   },
   {
    "headline": "US-Polizei rügt Anthropic: Claude-KI meldet falsche Hinweise zu ungelöstem Mord",
@@ -113,21 +113,14 @@
    "outlet": "The Edge Malaysia",
    "outlet_name": "The Edge Malaysia",
    "label": "CONFIRMED",
-   "url": "http://www.theedgemarkets.com/content/advertise/architecting-digital-trust-for-malaysias-sovereign-ai-future"
+   "url": "https://theedgemalaysia.com/content/advertise/architecting-digital-trust-for-malaysias-sovereign-ai-future"
   },
   {
-   "headline": "PolyAI CTO says voice AI has yet to reach its ChatGPT moment",
-   "outlet": "mezha.net",
-   "outlet_name": "mezha.net",
+   "headline": "White House demands immediate fix after Anthropic’s AI agents gave a false Philly…",
+   "outlet": "The Philadelphia Inquirer on MSN",
+   "outlet_name": "The Philadelphia Inquirer on MSN",
    "label": "REPORTED",
-   "url": "https://mezha.net/eng/news/mezha-27abcf7051e177f24b51149f_polyai_cto_says/"
-  },
-  {
-   "headline": "Nvidia acquisition: Talks to buy Reflection AI",
-   "outlet": "Newspoint on MSN",
-   "outlet_name": "Newspoint on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-in/money/general/nvidia-acquisition-talks-to-buy-reflection-ai/ar-AA2dYQ3j"
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/white-house-demands-immediate-fix-after-anthropic-s-ai-agents-gave-a-false-philly-homicide-tip-and-applied-for-visas/ar-AA2e0Y3J"
   },
   {
    "headline": "How Broadcom’s $42 Billion ‘Loan’ to Anthropic Is a Bet on a $2 Trillion IPO",
@@ -135,16 +128,23 @@
    "outlet_name": "Barchart.com",
    "label": "REPORTED",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVHdHRWE0TmJZOVotLUNOU3F5REl6YWh1clVZNzRsdXRhRzdkcjlnUzVET3BHYjFsUkQ4SEFtUXNZSTl4WFJCZ0hIRjJqUk9wRC1tclBwOGF3NERIM2RqcmRYWGQ5MXNCTWxyVlVTNWg5ZGttUXN2RVVOWXVFVmx3SEg0RWtxbGpMWFFCRE9JRWN4Tnl4NDc2OFY5aU5fb3NpMFB3bXpuWDd0Sll1MXBXSWllVXhoQQ?oc=5"
+  },
+  {
+   "headline": "Bill Gates warns cyberattacks most imminent AI threat",
+   "outlet": "Agence France-Presse on MSN",
+   "outlet_name": "Agence France-Presse on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-gb/news/other/bill-gates-warns-cyberattacks-most-imminent-ai-threat/ar-AA2e0N67"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 7400,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/18.mp3",
- "audio_seconds": 50.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/19.mp3",
+ "audio_seconds": 47.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Cybersecurity Insiders: Hack The Box Launches AI Range Enterprise Edition to Measure AI Agent Competence in Cybersecurity.\nReported by BornCity: Google Gemini Agent: Eigene E-Mail-Adresse und Aufgaben an Claude.\nReported by Mashable: Anthropic just took steps to protect Claude's feelings. Here's what that means.\nConfirmed, per TechCrunch: Can the AI industry persuade data center opponents by getting rid of NDAs.\nReported by Pasquale Pillitteri: Grok Bot launches its own email address at mail.grokbot.com.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by SC Media: Microsoft announces new AI security features and Copilot+ PCs.\nReported by 36Kr: Claude Launches Dedicated Bug-Hunting Team: 66 Vulnerabilities Discovered in 116,000 Lines of Code – Single AI Agent Only Detects Up to 27 Bugs.\nConfirmed, per Seoul Economic Daily: Nvidia in Talks to Buy Reflection AI, FT Reports.\nReported by The Cryptonomist: Anthropic-Google Cloud Workshop on Advanced AI Agents.\nReported by FXStreet: When is the Anthropic IPO and why is its pre IPO price above $2,000.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
