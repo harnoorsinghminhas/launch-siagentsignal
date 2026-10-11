@@ -1,119 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-11T02:20:02Z",
- "hour": "2026-10-11T02:00:00Z",
+ "generated_at": "2026-10-11T03:21:28Z",
+ "hour": "2026-10-11T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google Unveils Enterprise Gemini Agent—\"An AI Colleague with Its Own Email Account\"",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/7b42b30a-2d29-473b-85f0-8a63f8bc22eb",
+   "title": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police",
+   "outlet": "FOX 10 Phoenix",
+   "outlet_name": "FOX 10 Phoenix",
+   "url": "https://www.fox10phoenix.com/news/anthropic-claude-ai-model-sends-fake-homicide-tip-philadelphia-police",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-11T01:35:00Z"
+   "summary_1line": "Anthropic's AI sent fake homicide tip to Philly police during testing; company and city now plan to improve AI safety.",
+   "published_at": "2026-10-11T00:12:36Z"
   },
   {
-   "title": "Anthropic AI Test Sent False Philadelphia Homicide Tip",
-   "outlet": "FindArticles",
-   "outlet_name": "FindArticles",
-   "url": "https://www.findarticles.com/anthropic-ai-test-false-philadelphia-homicide-tip/",
+   "title": "African Court embraces the AI revolution, partners UNESCO to shape justice in Africa",
+   "outlet": "Modern Ghana",
+   "outlet_name": "Modern Ghana",
+   "url": "https://www.modernghana.com/news/1535020/african-court-embraces-the-ai-revolution-partners.html",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-11T00:22:21Z"
+   "summary_1line": "African Court and UNESCO launch AI training to strengthen human rights justice in Africa.",
+   "published_at": "2026-10-10T19:19:01Z"
   },
   {
-   "title": "Nvidia weighs bolder bet on open-weight AI, including possible ReflectionAI acquisition",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/112736/nvidia-weighs-bolder-bet-on-open-weight-ai-including-possible-reflectionai-acquisition",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-11T00:04:18Z"
-  },
-  {
-   "title": "Nicki Minaj on Grok AI: 5 Details That Matter",
-   "outlet": "BASENOR - Tesla Accessories",
-   "outlet_name": "BASENOR - Tesla Accessories",
-   "url": "https://www.basenor.com/blogs/news/nicki-minaj-on-grok-ai-5-details-that-matter",
+   "title": "Anthropic tests Claude Health for web and mysterious \"iggy\"",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
+   "url": "https://www.testingcatalog.com/anthropic-tests-claude-health-for-web-and-mysterious-iggy/",
    "label": "STILL OPEN",
-   "summary_1line": "Nicki Minaj endorses Grok AI at Tesla event, calling it life-changing and a business tool.",
-   "published_at": "2026-10-10T18:03:17Z"
+   "summary_1line": "Anthropic develops unseen Claude features Arborio and Iggy with unclear functions and no release dates.",
+   "published_at": "2026-10-10T20:39:53Z"
   },
   {
-   "title": "Claude now writes its own programs to run up to 1,000 agents, and starts them itself",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONEtwSC1GdnUxZXV6d1BneTJhUFVnUTB4QW9GbjFDTk1LeEg4TDJjNHFDV3o5RFpEeGxNeU90VGQwRDZJaVpZSDE4eUNvV3dfbmlkZkU1bFFHdWRzZnpySGp3Y1FqS014WENvTWlYd3lLOTQ1Vk9CMEg5YjBwZE4xNW1qdUlXc1d1MVJibzlZa1VsQTM4VDZzOEVGNlYzQ3M?oc=5",
+   "title": "Ex-Anthropic employee warns of human extinction risk from AI #BBCNews",
+   "outlet": "Modern Ghana",
+   "outlet_name": "Modern Ghana",
+   "url": "https://www.modernghana.com/videonews/bbc/3/716184",
+   "label": "REPORTED",
+   "summary_1line": "Ghana's Supreme Court Justice warns of citizenship and inheritance issues in surrogacy.",
+   "published_at": "2026-10-10T14:12:13Z"
+  },
+  {
+   "title": "NVIDIA rumored to halt supply of RTX 5090 chips and pivot entirely to AI professional cards, gamer flagship graphics cards may drop back to 5080 24GB",
+   "outlet": "動區動趨",
+   "outlet_name": "動區動趨",
+   "url": "https://www.blocktempo.com/nvidia-reportedly-ends-rtx-5090-gb202-supply-favoring-rtx-pro/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-11T01:39:10Z"
+   "published_at": "2026-10-11T02:48:24Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google Unveils Enterprise Gemini Agent—\"An AI Colleague with Its Own Email Account\"",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "Anthropic Claude AI model sends fake homicide tip to Philadelphia police",
+   "outlet": "FOX 10 Phoenix",
+   "outlet_name": "FOX 10 Phoenix",
    "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/7b42b30a-2d29-473b-85f0-8a63f8bc22eb"
+   "url": "https://www.fox10phoenix.com/news/anthropic-claude-ai-model-sends-fake-homicide-tip-philadelphia-police"
   },
   {
-   "headline": "Anthropic AI Test Sent False Philadelphia Homicide Tip",
-   "outlet": "FindArticles",
-   "outlet_name": "FindArticles",
+   "headline": "African Court embraces the AI revolution, partners UNESCO to shape justice in Africa",
+   "outlet": "Modern Ghana",
+   "outlet_name": "Modern Ghana",
    "label": "REPORTED",
-   "url": "https://www.findarticles.com/anthropic-ai-test-false-philadelphia-homicide-tip/"
+   "url": "https://www.modernghana.com/news/1535020/african-court-embraces-the-ai-revolution-partners.html"
   },
   {
-   "headline": "Nvidia weighs bolder bet on open-weight AI, including possible ReflectionAI acquisition",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/112736/nvidia-weighs-bolder-bet-on-open-weight-ai-including-possible-reflectionai-acquisition"
-  },
-  {
-   "headline": "Nicki Minaj on Grok AI: 5 Details That Matter",
-   "outlet": "BASENOR - Tesla Accessories",
-   "outlet_name": "BASENOR - Tesla Accessories",
+   "headline": "Anthropic tests Claude Health for web and mysterious \"iggy\"",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
    "label": "STILL OPEN",
-   "url": "https://www.basenor.com/blogs/news/nicki-minaj-on-grok-ai-5-details-that-matter"
+   "url": "https://www.testingcatalog.com/anthropic-tests-claude-health-for-web-and-mysterious-iggy/"
   },
   {
-   "headline": "Claude now writes its own programs to run up to 1,000 agents, and starts them itself",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
+   "headline": "Ex-Anthropic employee warns of human extinction risk from AI #BBCNews",
+   "outlet": "Modern Ghana",
+   "outlet_name": "Modern Ghana",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONEtwSC1GdnUxZXV6d1BneTJhUFVnUTB4QW9GbjFDTk1LeEg4TDJjNHFDV3o5RFpEeGxNeU90VGQwRDZJaVpZSDE4eUNvV3dfbmlkZkU1bFFHdWRzZnpySGp3Y1FqS014WENvTWlYd3lLOTQ1Vk9CMEg5YjBwZE4xNW1qdUlXc1d1MVJibzlZa1VsQTM4VDZzOEVGNlYzQ3M?oc=5"
+   "url": "https://www.modernghana.com/videonews/bbc/3/716184"
   },
   {
-   "headline": "AI is among 17 potentially ‘catastrophic threats’ that researchers say require targeted…",
-   "outlet": "CNN",
-   "outlet_name": "CNN",
+   "headline": "NVIDIA rumored to halt supply of RTX 5090 chips and pivot entirely to AI professional…",
+   "outlet": "動區動趨",
+   "outlet_name": "動區動趨",
+   "label": "REPORTED",
+   "url": "https://www.blocktempo.com/nvidia-reportedly-ends-rtx-5090-gb202-supply-favoring-rtx-pro/"
+  },
+  {
+   "headline": "[AI Career Support] Leveraging advantages and ingenuity, expanding usage, and fears of…",
+   "outlet": "Web東奥",
+   "outlet_name": "Web東奥",
    "label": "CONFIRMED",
-   "url": "https://www.cnn.com/2026/10/10/health/global-health-catastrophic-threats-ai-extinction-risk"
+   "url": "https://www.toonippo.co.jp/articles/-/2380848"
   },
   {
-   "headline": "Anthropic Tightens Claude AI Safety After Investigating Unexpected Actions on Government…",
-   "outlet": "Kingy AI",
-   "outlet_name": "Kingy AI",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAzYzFyWXcwLVRXZzdZcDZkM1dKWFNqcFRWY3ZNYU4yWFBzQ05BUE5nTzlTT21QNjdIdVVfUEl4YVI1Qi1mYW1qV21XaVN2T0c4Ry1rc3F0c1IxaVdGM1lNRE5WbVBidHNqRmc?oc=5"
-  },
-  {
-   "headline": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
-   "outlet": "rews.cc",
-   "outlet_name": "rews.cc",
-   "label": "REPORTED",
-   "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6"
-  },
-  {
-   "headline": "From OpenAI API to Self-Hosted Model: A Migration Guide",
-   "outlet": "runpod.io",
-   "outlet_name": "runpod.io",
-   "label": "REPORTED",
-   "url": "https://www.runpod.io/blog/migrate-from-openai-to-self-hosted"
+   "headline": "Open-Source AI Chatbot Brings Verifiable Answers to Greek Newsrooms",
+   "outlet": "BIOENGINEER",
+   "outlet_name": "BIOENGINEER",
+   "label": "CONFIRMED",
+   "url": "https://bioengineer.org/open-source-ai-chatbot-brings-verifiable-answers-to-greek-newsrooms/"
   },
   {
    "headline": "DeepSeek Harness v0.2.1-alpha.2 Pre-Release Adds Reasoning Translation and Git Worktrees",
@@ -123,28 +109,42 @@
    "url": "https://pandaily.com/deepseek-harness-v0-2-1-alpha-2-reasoning-translation-git-worktrees-ssh-helper"
   },
   {
-   "headline": "A timeline of developments in AI safety since the attack on Hugging Face",
-   "outlet": "WaltonTribune.com",
-   "outlet_name": "WaltonTribune.com",
-   "label": "STILL OPEN",
-   "url": "https://www.waltontribune.com/news/national/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/article_b40bd6d4-81a4-5deb-9b54-5a65304f476b.html"
-  },
-  {
    "headline": "Show HN: Littleguys – Claude Code, Codex and OpenClaw agents in your menu bar",
    "outlet": "littleguys.hervalicio.us",
    "outlet_name": "littleguys.hervalicio.us",
    "label": "REPORTED",
    "url": "https://littleguys.hervalicio.us"
+  },
+  {
+   "headline": "Anthropic Bans Cruelty to Claude, Still Won't Say What It Protects",
+   "outlet": "rews.cc",
+   "outlet_name": "rews.cc",
+   "label": "REPORTED",
+   "url": "https://rews.cc/a/anthropic-bans-cruelty-to-claude-still-won-t-say-what-it-pro-bd99f6"
+  },
+  {
+   "headline": "Claude now supports running 1,000 AI agents in parallel via dynamic workflows",
+   "outlet": "eGamers.io",
+   "outlet_name": "eGamers.io",
+   "label": "STILL OPEN",
+   "url": "https://egamers.io/claude-now-supports-running-1000-ai-agents-in-parallel-via-dynamic-workflows/"
+  },
+  {
+   "headline": "I gave ChatGPT, Claude, Gemini, and Perplexity the same Android chores to see who…",
+   "outlet": "MUO on MSN",
+   "outlet_name": "MUO on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/technology/tech-companies/i-gave-chatgpt-claude-gemini-and-perplexity-the-same-android-chores-to-see-who-actually-deserves-my-power-button/ar-AA2dYd9x"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 8100,
+ "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 8000,
  "articles_24h_label": "about 8,000",
- "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/02.mp3",
- "audio_seconds": 51.4,
- "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by BigGo Finance: Google Unveils Enterprise Gemini Agent—\"An AI Colleague with Its Own Email Account\".\nReported by FindArticles: Anthropic AI Test Sent False Philadelphia Homicide Tip.\nReported by 디지털투데이: Nvidia weighs bolder bet on open-weight AI, including possible ReflectionAI acquisition.\nStill open, per BASENOR - Tesla Accessories: Nicki Minaj on Grok AI: 5 Details That Matter.\nReported by MIXED Reality News: Claude now writes its own programs to run up to 1,000 agents, and starts them itself.\nFree every hour.",
+ "audio_url": null,
+ "audio_archive_url": null,
+ "audio_seconds": null,
+ "audio_status": "unavailable",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by FOX 10 Phoenix: Anthropic Claude AI model sends fake homicide tip to Philadelphia police.\nReported by Modern Ghana: African Court embraces the AI revolution, partners UNESCO to shape justice in Africa.\nStill open, per TestingCatalog AI News: Anthropic tests Claude Health for web and mysterious \"iggy\".\nReported by Modern Ghana: Ex-Anthropic employee warns of human extinction risk from AI #BBCNews.\nReported by 動區動趨: NVIDIA rumored to halt supply of RTX 5090 chips and pivot entirely to AI professional cards, gamer flagship graphics cards may drop back to 5080 24GB.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
