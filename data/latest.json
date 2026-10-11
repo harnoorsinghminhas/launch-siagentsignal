@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-11T06:20:49Z",
- "hour": "2026-10-11T06:00:00Z",
+ "generated_at": "2026-10-11T07:20:07Z",
+ "hour": "2026-10-11T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek Bot is here! Community version, DSH can be used by installing a plugin",
-   "outlet": "凤凰网科技",
-   "outlet_name": "凤凰网科技",
-   "url": "https://tech.ifeng.com/c/8x8GYcufBf8",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek-Bot, a community-built AI tool, enables persistent memory and plugin-based bot teams.",
-   "published_at": "2026-10-11T04:28:43Z"
-  },
-  {
-   "title": "Legendary Claude Integration: Can Google Make a Stunning Comeback Through Agent AI?",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "url": "https://eu.36kr.com/en/p/4020868909618823",
-   "label": "REPORTED",
-   "summary_1line": "Google launches Gemini Agent to integrate with Workspace and collaborate with Claude for enterprise tasks.",
-   "published_at": "2026-10-11T04:22:05Z"
-  },
-  {
-   "title": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
-   "outlet": "CNBC",
+   "title": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+   "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html",
+   "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html",
    "label": "CONFIRMED",
-   "summary_1line": "Nadella urges AI safety with emergency brakes and human controls amid rising concerns.",
-   "published_at": "2026-10-10T20:59:28Z"
+   "summary_1line": "Retailers deploy AI for pricing, raising concerns over personalized and dynamic prices affecting consumer choice and inflation data.",
+   "published_at": "2026-10-11T05:00:01Z"
   },
   {
-   "title": "In-depth: The covert price war of US-China large models: OpenAI tightens profits to the right, domestic large models wildly roll out subsidies to the left - Sohu",
-   "outlet": "搜狐",
-   "outlet_name": "搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFUycFE3ZVNOT0M5WFpYUThmRnRrSlg0LXZ0czRQeFN3VWRrU1I3MzdwbV9YMkZ1TG1DUDl5UUJOb0xFYVRhVVE4NGNKX3NENm5CU3NqcDRVZGo4N3A1WVJWalVGb0ZaRXlsd0tGLURkaGNUeXp6SGhhLVh4UmRRRDQyY3hyUElwZ3pMYQ?oc=5",
+   "title": "AI: Anthropic vs OpenAI, the Subscription Value Gap. AI-RTZ #1236",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "url": "https://michaelparekh.substack.com/p/ai-anthropic-vs-openai-the-subscription",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-11T05:04:33Z"
+   "summary_1line": "Anthropic's subscriptions now offer more value than OpenAI's, especially at mid-tier models.",
+   "published_at": "2026-10-11T05:03:32Z"
   },
   {
-   "title": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
-   "outlet": "Online Tech Tips",
-   "outlet_name": "Online Tech Tips",
-   "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/",
+   "title": "Character.AI chatbots promoted self-harm, harmful dieting, lawsuit alleges",
+   "outlet": "Storyboard18",
+   "outlet_name": "Storyboard18",
+   "url": "https://www.storyboard18.com/amp/digital/character-ai-chatbots-promoted-self-harm-harmful-dieting-lawsuit-alleges-112321.htm",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-11T04:53:09Z"
+   "summary_1line": "Kentucky lawsuit reveals harmful chatbot interactions on Character.AI, prompting legal scrutiny of AI companion platforms.",
+   "published_at": "2026-10-11T04:51:02Z"
+  },
+  {
+   "title": "Jensen Huang makes a move against DeepSeek! NVIDIA reportedly in talks to acquire US AI startup, Trump's son also places bets",
+   "outlet": "ETtoday財經雲",
+   "outlet_name": "ETtoday財經雲",
+   "url": "https://finance.ettoday.net/news/3252666",
+   "label": "STILL OPEN",
+   "summary_1line": "NVIDIA reportedly explores acquiring Reflection AI to boost U.S. AI competitiveness.",
+   "published_at": "2026-10-11T04:40:00Z"
+  },
+  {
+   "title": "PAIWorld of the Institute of Industrial Artificial Intelligence, Chinese Academy of Sciences, to be released at the 2026 Physical AI and World Models Conference",
+   "outlet": "新华网江苏频道",
+   "outlet_name": "新华网江苏频道",
+   "url": "http://js.news.cn/20261011/16e7dc16845a460cb69f7c74ecbfb715/c.html",
+   "label": "REPORTED",
+   "summary_1line": "PAIWorld models real-world motion, to be unveiled at 2026 physical AI conference.",
+   "published_at": "2026-10-11T03:19:30Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek Bot is here! Community version, DSH can be used by installing a plugin",
-   "outlet": "凤凰网科技",
-   "outlet_name": "凤凰网科技",
-   "label": "REPORTED",
-   "url": "https://tech.ifeng.com/c/8x8GYcufBf8"
-  },
-  {
-   "headline": "Legendary Claude Integration: Can Google Make a Stunning Comeback Through Agent AI?",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4020868909618823"
-  },
-  {
-   "headline": "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control",
-   "outlet": "CNBC",
+   "headline": "AI may change the price of your Big Mac and groceries — what this means for shoppers",
+   "outlet": "cnbc.com",
    "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/10/microsoft-satya-nadella-ai-emergency-brake-safety.html"
+   "url": "https://www.cnbc.com/2026/10/11/ai-dynamic-pricing-shoppers-groceries.html"
   },
   {
-   "headline": "In-depth: The covert price war of US-China large models: OpenAI tightens profits to the…",
-   "outlet": "搜狐",
-   "outlet_name": "搜狐",
+   "headline": "AI: Anthropic vs OpenAI, the Subscription Value Gap. AI-RTZ #1236",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWFUycFE3ZVNOT0M5WFpYUThmRnRrSlg0LXZ0czRQeFN3VWRrU1I3MzdwbV9YMkZ1TG1DUDl5UUJOb0xFYVRhVVE4NGNKX3NENm5CU3NqcDRVZGo4N3A1WVJWalVGb0ZaRXlsd0tGLURkaGNUeXp6SGhhLVh4UmRRRDQyY3hyUElwZ3pMYQ?oc=5"
+   "url": "https://michaelparekh.substack.com/p/ai-anthropic-vs-openai-the-subscription"
   },
   {
-   "headline": "OpenAI Math Release: What’s Real in the 722 AI Manuscripts",
-   "outlet": "Online Tech Tips",
-   "outlet_name": "Online Tech Tips",
+   "headline": "Character.AI chatbots promoted self-harm, harmful dieting, lawsuit alleges",
+   "outlet": "Storyboard18",
+   "outlet_name": "Storyboard18",
    "label": "REPORTED",
-   "url": "https://www.online-tech-tips.com/openai-math-solutions-release-722-proofs/"
+   "url": "https://www.storyboard18.com/amp/digital/character-ai-chatbots-promoted-self-harm-harmful-dieting-lawsuit-alleges-112321.htm"
   },
   {
    "headline": "Jensen Huang makes a move against DeepSeek! NVIDIA reportedly in talks to acquire US AI…",
@@ -113,7 +99,21 @@
    "outlet": "TheDesk.net",
    "outlet_name": "TheDesk.net",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13bFQ3RWRnZTlzR1pfcGZxSWd1QjVnNEZqcVE1dkpsYzFiVXVTOS1yNmxoVmtBUU8zR0syUGZkVURhZHQtWjVKLW5FbTYwdzR6TndVcTF1ZUIzZlk5TU1kUkp6Zjg4UWMzZ0NSMUs3TGN3QkNjZlBDNDI4QQ?oc=5"
+   "url": "https://thedesk.net/2026/10/usa-today-openai-copyright-lawsuit-chatgpt/"
+  },
+  {
+   "headline": "Every lawsuit against an AI company",
+   "outlet": "ailawsuittracker.com",
+   "outlet_name": "ailawsuittracker.com",
+   "label": "REPORTED",
+   "url": "https://ailawsuittracker.com/"
+  },
+  {
+   "headline": "Nvidia acquisition: Talks to buy Reflection AI",
+   "outlet": "Newspoint on MSN",
+   "outlet_name": "Newspoint on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-in/news/other/nvidia-acquisition-talks-to-buy-reflection-ai/ar-AA2dYQ3j"
   },
   {
    "headline": "Bringing in the Claude forefather, can Google turn things around with Agents?",
@@ -130,21 +130,21 @@
    "url": "https://www.techmeme.com/261011/p2#a261011p2"
   },
   {
-   "headline": "AI Layer – Claude Code Plugins with DuckDB Memory and CI Workflows",
-   "outlet": "gitlab.com",
-   "outlet_name": "gitlab.com",
-   "label": "STILL OPEN",
-   "url": "https://gitlab.com/kriscodes2-claude-plugins/ai-layer"
+   "headline": "Anthropic AI's unauthorized visa, murder report spur security demands",
+   "outlet": "The Chosun Ilbo on MSN",
+   "outlet_name": "The Chosun Ilbo on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-xl/news/other/anthropic-ai-s-unauthorized-visa-murder-report-spur-security-demands/ar-AA2dZrGD"
   }
  ],
- "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 7800,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 7700,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/06.mp3",
- "audio_seconds": 60.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/07.mp3",
+ "audio_seconds": 58.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by 凤凰网科技: DeepSeek Bot is here! Community version, DSH can be used by installing a plugin.\nReported by 36氪: Legendary Claude Integration: Can Google Make a Stunning Comeback Through Agent AI.\nConfirmed, per CNBC: Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control.\nReported by 搜狐: In-depth: The covert price war of US-China large models: OpenAI tightens profits to the right, domestic large models wildly roll out subsidies to the left - Sohu.\nReported by Online Tech Tips: OpenAI Math Release: What’s Real in the 722 AI Manuscripts.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: AI may change the price of your Big Mac and groceries — what this means for shoppers.\nReported by AI: Reset to Zero: AI: Anthropic vs OpenAI, the Subscription Value Gap. AI-RTZ #1236.\nReported by Storyboard18: Character.AI chatbots promoted self-harm, harmful dieting, lawsuit alleges.\nStill open, per ETtoday財經雲: Jensen Huang makes a move against DeepSeek! NVIDIA reportedly in talks to acquire US AI startup, Trump's son also places bets.\nReported by 新华网江苏频道: PAIWorld of the Institute of Industrial Artificial Intelligence, Chinese Academy of Sciences, to be released at the 2026 Physical AI and World Models Conference.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
