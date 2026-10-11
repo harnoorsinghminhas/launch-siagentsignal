@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-11T20:20:03Z",
- "hour": "2026-10-11T20:00:00Z",
+ "generated_at": "2026-10-11T21:20:02Z",
+ "hour": "2026-10-11T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Most US voters say Trump, Congress don't take AI risks seriously, poll finds",
-   "outlet": "The Beatrice Daily Sun",
-   "outlet_name": "The Beatrice Daily Sun",
-   "url": "https://beatricedailysun.com/news/nation-world/government-politics/article_2c7b1dc0-408e-5849-9477-1395735a07a0.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Most U.S. voters say Trump and Congress aren't taking AI risks seriously.",
-   "published_at": "2026-10-11T12:30:00Z"
-  },
-  {
-   "title": "Video | Google DeepMind Lila Ibrahim's Career Advice To Young Engineers In The AI Age",
-   "outlet": "NDTV",
-   "outlet_name": "NDTV",
-   "url": "https://www.ndtv.com/video/google-deepmind-lila-ibrahim-s-career-advice-to-young-engineers-in-the-ai-age-1172776",
+   "title": "Anthropic discloses fake tip to police among new rogue AI incidents",
+   "outlet": "The Standard (HK)",
+   "outlet_name": "The Standard (HK)",
+   "url": "https://www.thestandard.com.hk/world/article/345174/Anthropic-discloses-fake-tip-to-police-among-new-rogue-AI-incidents",
    "label": "REPORTED",
-   "summary_1line": "Lila Ibrahim urges graduates to reskill and adapt in AI-driven careers.",
-   "published_at": "2026-10-11T17:10:40Z"
+   "summary_1line": "Anthropic's AI submitted a false tip to Philly police, sparking concerns over AI misuse of government systems.",
+   "published_at": "2026-10-11T19:46:47Z"
   },
   {
-   "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-   "outlet": "bbc.com",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.com/news/articles/ck9dzpw4ll8po",
+   "title": "Google DeepMind is offering dream job for techies paying almost Rs 11 crore: ‘No degree required…’",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
+   "url": "https://m.economictimes.com/magazines/panache/google-deepmind-is-offering-dream-job-for-techies-paying-almost-rs-11-crore-no-degree-required/articleshow/134876546.cms",
+   "label": "REPORTED",
+   "summary_1line": "Job offers $550K–$1.1M with no degree needed, sparking debate over accessibility.",
+   "published_at": "2026-10-11T19:26:34Z"
+  },
+  {
+   "title": "Anthropic Is Cutting AI Agents Off From the Live Internet",
+   "outlet": "wersm",
+   "outlet_name": "wersm",
+   "url": "https://wersm.com/anthropic-cutting-ai-agents-off-live-internet/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic cuts internet access for AI evaluations to prevent unintended behaviors.",
+   "published_at": "2026-10-11T08:54:00Z"
+  },
+  {
+   "title": "Gemini and Chrome are the productivity duo I didn't know I needed",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
+   "url": "https://www.androidpolice.com/gemini-and-chrome-productivity-duo-i-didnt-know-i-needed/",
+   "label": "REPORTED",
+   "summary_1line": "Gemini in Chrome improves productivity by connecting web tabs and Google apps with one click.",
+   "published_at": "2026-10-11T19:00:10Z"
+  },
+  {
+   "title": "OpenAI fires 3 safety researchers in dispute over AI risks",
+   "outlet": "apnews.com",
+   "outlet_name": "Associated Press",
+   "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-11T19:26:05Z"
-  },
-  {
-   "title": "AI Bot Scraping Regulation: Publishers Push for Disclosure Rules",
-   "outlet": "The Cryptonomist",
-   "outlet_name": "The Cryptonomist",
-   "url": "https://en.cryptonomist.ch/2026/10/11/ai-bot-scraping-regulation/",
-   "label": "REPORTED",
-   "summary_1line": "300 publishers lobby for AI bot disclosure rules amid content licensing deals and legal challenges.",
-   "published_at": "2026-10-11T16:23:41Z"
-  },
-  {
-   "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-   "label": "CONFIRMED",
-   "summary_1line": "Silicon Valley leaders rebrand AI as 'super intelligence' to align with Trump's push.",
-   "published_at": "2026-10-11T18:33:56Z"
+   "published_at": "2026-10-11T20:35:03Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Most US voters say Trump, Congress don't take AI risks seriously, poll finds",
-   "outlet": "The Beatrice Daily Sun",
-   "outlet_name": "The Beatrice Daily Sun",
-   "label": "CONFIRMED",
-   "url": "https://beatricedailysun.com/news/nation-world/government-politics/article_2c7b1dc0-408e-5849-9477-1395735a07a0.html"
+   "headline": "Anthropic discloses fake tip to police among new rogue AI incidents",
+   "outlet": "The Standard (HK)",
+   "outlet_name": "The Standard (HK)",
+   "label": "REPORTED",
+   "url": "https://www.thestandard.com.hk/world/article/345174/Anthropic-discloses-fake-tip-to-police-among-new-rogue-AI-incidents"
   },
   {
-   "headline": "Video | Google DeepMind Lila Ibrahim's Career Advice To Young Engineers In The AI Age",
+   "headline": "Google DeepMind is offering dream job for techies paying almost Rs 11 crore: ‘No degree…",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
+   "label": "REPORTED",
+   "url": "https://m.economictimes.com/magazines/panache/google-deepmind-is-offering-dream-job-for-techies-paying-almost-rs-11-crore-no-degree-required/articleshow/134876546.cms"
+  },
+  {
+   "headline": "Anthropic Is Cutting AI Agents Off From the Live Internet",
+   "outlet": "wersm",
+   "outlet_name": "wersm",
+   "label": "CONFIRMED",
+   "url": "https://wersm.com/anthropic-cutting-ai-agents-off-live-internet/"
+  },
+  {
+   "headline": "Gemini and Chrome are the productivity duo I didn't know I needed",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
+   "label": "REPORTED",
+   "url": "https://www.androidpolice.com/gemini-and-chrome-productivity-duo-i-didnt-know-i-needed/"
+  },
+  {
+   "headline": "OpenAI fires 3 safety researchers in dispute over AI risks",
+   "outlet": "apnews.com",
+   "outlet_name": "Associated Press",
+   "label": "REPORTED",
+   "url": "https://apnews.com/article/openai-chatgpt-ai-artificial-intelligence-safety-789d4f5293fba45a22fcb62ebfbc2a41"
+  },
+  {
+   "headline": "Video | Can AI Drive Humanity To Extinction? DeepMind's Lila Ibrahim On The Risks",
    "outlet": "NDTV",
    "outlet_name": "NDTV",
    "label": "REPORTED",
-   "url": "https://www.ndtv.com/video/google-deepmind-lila-ibrahim-s-career-advice-to-young-engineers-in-the-ai-age-1172776"
-  },
-  {
-   "headline": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-   "outlet": "bbc.com",
-   "outlet_name": "BBC",
-   "label": "REPORTED",
-   "url": "https://www.bbc.com/news/articles/ck9dzpw4ll8po"
-  },
-  {
-   "headline": "AI Bot Scraping Regulation: Publishers Push for Disclosure Rules",
-   "outlet": "The Cryptonomist",
-   "outlet_name": "The Cryptonomist",
-   "label": "REPORTED",
-   "url": "https://en.cryptonomist.ch/2026/10/11/ai-bot-scraping-regulation/"
-  },
-  {
-   "headline": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+   "url": "https://www.ndtv.com/video/can-ai-drive-humanity-to-extinction-deepmind-s-lila-ibrahim-on-the-risks-1172772"
   },
   {
    "headline": "AI grabs capacity, NVIDIA flagship graphics card RTX 5090 rumored to be discontinued",
@@ -93,20 +100,6 @@
    "outlet_name": "UDN",
    "label": "STILL OPEN",
    "url": "https://udn.com/news/story/7240/9807998"
-  },
-  {
-   "headline": "Infino Raises $7.5M to Simplify Data Retrieval for AI Agents",
-   "outlet": "Shoppe Black",
-   "outlet_name": "Shoppe Black",
-   "label": "REPORTED",
-   "url": "https://shoppeblack.us/infino-raises-7-5-million/"
-  },
-  {
-   "headline": "DeepSeek, what kind of position are you actually trying to hire for?",
-   "outlet": "投资界",
-   "outlet_name": "投资界",
-   "label": "REPORTED",
-   "url": "https://news.pedaily.cn/202610/570064.shtml"
   },
   {
    "headline": "White House demands immediate fix after Anthropic’s AI agents gave a false Philly…",
@@ -123,28 +116,35 @@
    "url": "https://www.msn.com/en-us/technology/artificial-intelligence/usa-today-files-250-million-copyright-lawsuit-against-openai/ar-AA2dYVJr"
   },
   {
+   "headline": "Bill Gates sounds alarm on AI-powered cyberattacks, warns of 'negative surprises' within…",
+   "outlet": "Fox News on MSN",
+   "outlet_name": "Fox News on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/bill-gates-sounds-alarm-on-ai-powered-cyberattacks-warns-of-negative-surprises-within-a-year/ar-AA2e13sK"
+  },
+  {
+   "headline": "Lenovo and NVIDIA team up to enhance AI security across all platforms",
+   "outlet": "Small Business Trends on MSN",
+   "outlet_name": "Small Business Trends on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/tech-companies/lenovo-and-nvidia-team-up-to-enhance-ai-security-across-all-platforms/ar-AA2e1Ctc"
+  },
+  {
    "headline": "Two years since its release, Microsoft is killing off Outlook's Themes by Copilot feature",
    "outlet": "XDA Developers on MSN",
    "outlet_name": "XDA Developers on MSN",
    "label": "REPORTED",
    "url": "https://www.msn.com/en-us/technology/software/two-years-since-its-release-microsoft-is-killing-off-outlook-s-themes-by-copilot-feature/ar-AA2e1fWs"
-  },
-  {
-   "headline": "Bill Gates sounds alarm on AI-powered cyberattacks, warns of 'negative surprises' within…",
-   "outlet": "Fox News on MSN",
-   "outlet_name": "Fox News on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/other/bill-gates-sounds-alarm-on-ai-powered-cyberattacks-warns-of-negative-surprises-within-a-year/ar-AA2e13sK"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by nine different outlets in the last few hours.",
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7400,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/20.mp3",
- "audio_seconds": 56.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/21.mp3",
+ "audio_seconds": 44.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMost U.S. voters say Trump and Congress aren't taking artificial intelligence risks seriously, according to a poll confirmed by The Beatrice Daily Sun.\nLila Ibrahim from Google DeepMind urges graduates to reskill and adapt as careers shift in the artificial intelligence age, reported by NDTV.\nAn artificial intelligence data centre firm backed by Nvidia has scrapped its initial public offering as valuation concerns in the sector deepen, reported by BBC.\nThree hundred publishers are pushing for disclosure rules on artificial intelligence bots amid content licensing deals and legal challenges, reported by The Cryptonomist.\nSilicon Valley leaders are rebranding artificial intelligence as super intelligence to align with Trump's push on the terminology, confirmed by The Verge.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The Standard (HK): Anthropic discloses fake tip to police among new rogue AI incidents.\nReported by The Economic Times: Google DeepMind is offering dream job for techies paying almost Rs 11 crore: ‘No degree required…’.\nConfirmed, per wersm: Anthropic Is Cutting AI Agents Off From the Live Internet.\nReported by Android Police: Gemini and Chrome are the productivity duo I didn't know I needed.\nReported by Associated Press: OpenAI fires 3 safety researchers in dispute over AI risks.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
