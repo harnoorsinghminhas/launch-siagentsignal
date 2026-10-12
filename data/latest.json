@@ -1,112 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T16:20:02Z",
- "hour": "2026-10-12T16:00:00Z",
+ "generated_at": "2026-10-12T17:20:02Z",
+ "hour": "2026-10-12T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout",
-   "label": "CONFIRMED",
-   "summary_1line": "Microsoft's Maia 300 chip boosts AI efficiency and will roll out in 2027.",
-   "published_at": "2026-10-12T06:00:00Z"
-  },
-  {
-   "title": "The White House wants AI companies to police themselves. OpenAI just showed why that's dangerous",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/12/openai-whistleblowers-ai-safety-keep-firing-sam-altman/",
+   "title": "UK To Evaluate AI Models Before Release, Reversing Trump Policy",
+   "outlet": "NDTV Profit",
+   "outlet_name": "NDTV Profit",
+   "url": "https://www.ndtvprofit.com/world/uk-to-evaluate-ai-models-before-release-reversing-trump-policy-12175489",
    "label": "REPORTED",
-   "summary_1line": "OpenAI fired safety staff after claiming info leaks, despite promising independent evaluator access.",
-   "published_at": "2026-10-12T13:03:41Z"
+   "summary_1line": "UK gains access to AI models before release, reversing US policy requiring White House approval.",
+   "published_at": "2026-10-12T16:04:12Z"
   },
   {
-   "title": "Google DeepMind's Lila Ibrahim on balancing AI innovation and safety",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/12/google-deepminds-lila-ibrahim-on-balancing-ai-innovation-and-safety.html",
+   "title": "Microsoft president says UK is best placed to drive AI regulation",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
    "label": "CONFIRMED",
-   "summary_1line": "Lila Ibrahim explains AI safety must be built into tech from the start.",
-   "published_at": "2026-10-12T14:38:17Z"
+   "summary_1line": "Brad Smith urges U.K. to lead global AI safety amid U.S. pushback and tech leaders' calls for stronger oversight.",
+   "published_at": "2026-10-12T15:31:19Z"
   },
   {
-   "title": "INNO3D Announces AGS-4UMGX-R1 4U GPU Server With NVIDIA MGX",
-   "outlet": "TechPowerUp",
-   "outlet_name": "TechPowerUp",
-   "url": "https://www.techpowerup.com/353624/inno3d-announces-ags-4umgx-r1-4u-gpu-server-with-nvidia-mgx",
+   "title": "\"Nvidia's Dominance Remains... AI Investment Should Focus on Big Tech and Semiconductors\"",
+   "outlet": "뉴시스",
+   "outlet_name": "뉴시스",
+   "url": "https://www.newsis.com/view/NISX20261012_0003821898",
    "label": "REPORTED",
-   "summary_1line": "INNO3D launches AGS-4UMGX-R1 GPU server for AI and HPC workloads.",
-   "published_at": "2026-10-12T14:32:12Z"
+   "summary_1line": "Nvidia still leads AI infrastructure; investment must focus on big tech and semiconductors.",
+   "published_at": "2026-10-12T15:24:00Z"
   },
   {
-   "title": "OpenAI’s GPT-6 may lead to robotics breakthrough as soon as next year: Unitree founder",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder?utm_source=rss_feed",
-   "label": "STILL OPEN",
-   "summary_1line": "Wang Xingxing speculates GPT-6 could lead to robotics breakthrough in one to two years.",
-   "published_at": "2026-10-12T13:30:07Z"
+   "title": "Microsoft unveils Maia 300 AI chip to boost Copilot, Teams and other services",
+   "outlet": "Tech Edition",
+   "outlet_name": "Tech Edition",
+   "url": "https://www.techedt.com/microsoft-unveils-maia-300-ai-chip-to-boost-copilot-teams-and-other-services",
+   "label": "REPORTED",
+   "summary_1line": "Microsoft's Maia 300 boosts AI inference with 40% efficiency gain and 7x token throughput.",
+   "published_at": "2026-10-12T15:17:53Z"
+  },
+  {
+   "title": "L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring NVIDIA Accelerated AI-Native Factory",
+   "outlet": "ELE Times",
+   "outlet_name": "ELE Times",
+   "url": "https://www.eletimes.ai/lt-technology-services-launches-ei-lab-for-manufacturing-and-operations-featuring-nvidia-accelerated-ai-native-factory",
+   "label": "REPORTED",
+   "summary_1line": "L&T Technology Services opens AI-Native EI Lab in Bengaluru for digital manufacturing experiences.",
+   "published_at": "2026-10-12T10:46:37Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Microsoft’s new AI chip makes it less reliant on Nvidia’s GPUs",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/news/1009465/microsoft-maia-300-chip-improvements-rollout"
-  },
-  {
-   "headline": "The White House wants AI companies to police themselves. OpenAI just showed why that's…",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
+   "headline": "UK To Evaluate AI Models Before Release, Reversing Trump Policy",
+   "outlet": "NDTV Profit",
+   "outlet_name": "NDTV Profit",
    "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/12/openai-whistleblowers-ai-safety-keep-firing-sam-altman/"
+   "url": "https://www.ndtvprofit.com/world/uk-to-evaluate-ai-models-before-release-reversing-trump-policy-12175489"
   },
   {
-   "headline": "Google DeepMind's Lila Ibrahim on balancing AI innovation and safety",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "Microsoft president says UK is best placed to drive AI regulation",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/12/google-deepminds-lila-ibrahim-on-balancing-ai-innovation-and-safety.html"
+   "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/"
   },
   {
-   "headline": "INNO3D Announces AGS-4UMGX-R1 4U GPU Server With NVIDIA MGX",
-   "outlet": "TechPowerUp",
-   "outlet_name": "TechPowerUp",
+   "headline": "\"Nvidia's Dominance Remains... AI Investment Should Focus on Big Tech and Semiconductors\"",
+   "outlet": "뉴시스",
+   "outlet_name": "뉴시스",
    "label": "REPORTED",
-   "url": "https://www.techpowerup.com/353624/inno3d-announces-ags-4umgx-r1-4u-gpu-server-with-nvidia-mgx"
+   "url": "https://www.newsis.com/view/NISX20261012_0003821898"
   },
   {
-   "headline": "OpenAI’s GPT-6 may lead to robotics breakthrough as soon as next year: Unitree founder",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
-   "label": "STILL OPEN",
-   "url": "https://www.scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder?utm_source=rss_feed"
-  },
-  {
-   "headline": "Intel CEO Lip-Bu Tan may have just agreed with Nvidia CEO Jensen Huang and Meta's former…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "Microsoft unveils Maia 300 AI chip to boost Copilot, Teams and other services",
+   "outlet": "Tech Edition",
+   "outlet_name": "Tech Edition",
    "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/intel-ceo-lip-bu-tan-may-have-just-agreed-with-nvidia-ceo-jensen-huang-and-metas-former-chief-ai-scientist-yann-lecun-on-open-source-ai-models/articleshow/134894607.cms"
+   "url": "https://www.techedt.com/microsoft-unveils-maia-300-ai-chip-to-boost-copilot-teams-and-other-services"
   },
   {
-   "headline": "Introducing AMD Helion, Agentic AI Compute at Rack Scale",
-   "outlet": "Markets Insider",
-   "outlet_name": "Markets Insider",
-   "label": "CONFIRMED",
-   "url": "https://markets.businessinsider.com/news/stocks/introducing-amd-helion-agentic-ai-compute-at-rack-scale-1036616460"
+   "headline": "L&T Technology Services Launches EI Lab for Manufacturing and Operations, Featuring…",
+   "outlet": "ELE Times",
+   "outlet_name": "ELE Times",
+   "label": "REPORTED",
+   "url": "https://www.eletimes.ai/lt-technology-services-launches-ei-lab-for-manufacturing-and-operations-featuring-nvidia-accelerated-ai-native-factory"
   },
   {
-   "headline": "OpenAI Fires 3 Safety Researchers, Then Defends Decision Amid Oversight Dispute",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
+   "headline": "Xiaomi now makes the highest-scoring AI model you can download, and its API costs a…",
+   "outlet": "Techish",
+   "outlet_name": "Techish",
    "label": "CONFIRMED",
-   "url": "https://www.techrepublic.com/article/news-openai-fires-three-ai-safety-researchers/"
+   "url": "https://tech-ish.com/2026/10/12/xiaomi-mimo-v2-6-pro-top-open-ai-model/"
+  },
+  {
+   "headline": "Intel’s Tan backs Chinese open-weight AI, siding with Nvidia’s Huang",
+   "outlet": "Cryptopolitan",
+   "outlet_name": "Cryptopolitan",
+   "label": "CONFIRMED",
+   "url": "https://www.cryptopolitan.com/intel-tan-backs-chinese-open-weight-ai/"
   },
   {
    "headline": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
@@ -130,21 +123,28 @@
    "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
   },
   {
-   "headline": "Bill Gates warns of 'grim' future if AI falls into wrong hands",
-   "outlet": "Daily Mail on MSN",
-   "outlet_name": "Daily Mail on MSN",
+   "headline": "Nvidia Negotiates Investment or Acquisition of Open Source Startup Reflection AI",
+   "outlet": "TIKR.com",
+   "outlet_name": "TIKR.com",
+   "label": "STILL OPEN",
+   "url": "https://www.tikr.com/blog/nvidia-reflection-ai-investment-acquisition-talks"
+  },
+  {
+   "headline": "Simulating student learning for better AI tutoring",
+   "outlet": "microsoft.com",
+   "outlet_name": "microsoft.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/bill-gates-warns-of-grim-future-if-ai-falls-into-wrong-hands/ar-AA2e4DXA"
+   "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring/"
   }
  ],
- "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 11100,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 11300,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/16.mp3",
- "audio_seconds": 61.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/17.mp3",
+ "audio_seconds": 63.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMicrosoft's new Maia 300 chip boosts efficiency and will roll out in 2027, making the company less reliant on Nvidia's GPUs. Confirmed by The Verge.\nReported by Fortune: OpenAI fired safety staff after claiming information leaks, despite promising independent evaluator access, showing why self-policing poses risks.\nLila Ibrahim from Google DeepMind explains that safety must be built into technology from the start to balance innovation and protection. Confirmed by CNBC.\nINNO3D launches the AGS-4UMGX-R1 GPU server for artificial intelligence and high-performance computing workloads. Reported by TechPowerUp.\nWang Xingxing speculates GPT-6 could lead to robotics breakthrough in one to two years, still open per South China Morning Post.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe UK will evaluate artificial intelligence models before their release, reversing US policy that required White House approval. Reported by NDTV Profit.\nMicrosoft president Brad Smith urges the UK to lead global artificial intelligence safety efforts amid US pushback and calls for stronger oversight. Confirmed by TechCrunch.\nNvidia still leads in artificial intelligence infrastructure, and investment should focus on big tech and semiconductors. Reported by 뉴시스.\nMicrosoft's Maia 300 boosts artificial intelligence inference with 40% efficiency gain and 7x token throughput. Reported by Tech Edition.\nL&T Technology Services opens an artificial intelligence native EI Lab in Bengaluru for digital manufacturing experiences. Reported by ELE Times.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
