@@ -1,98 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T04:20:02Z",
- "hour": "2026-10-12T04:00:00Z",
+ "generated_at": "2026-10-12T05:20:03Z",
+ "hour": "2026-10-12T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Amazon emerges as potential buyer of Israeli AI startup Decart at $7 billion",
-   "outlet": "CTech",
-   "outlet_name": "CTech",
-   "url": "https://www.calcalistech.com/ctechnews/article/ec25jzet0",
-   "label": "STILL OPEN",
-   "summary_1line": "Amazon reportedly seeks $7B deal for AI startup Decart after Anthropic pulls out.",
-   "published_at": "2026-10-11T06:35:00Z"
-  },
-  {
-   "title": "DeepSeek cache optimization technology triggers price cut controversy among US companies, NVIDIA report clearly adopts its FP8 training scheme",
-   "outlet": "虎嗅网",
-   "outlet_name": "虎嗅网",
-   "url": "https://www.huxiu.com/article/4896715.html",
-   "label": "STILL OPEN",
-   "summary_1line": "DeepSeek's KV cache tech is cited in U.S. AI price drops, with NVIDIA confirming use of its FP8 training method in public report.",
-   "published_at": "2026-10-12T02:22:05Z"
-  },
-  {
-   "title": "Using AI as a shield to insult fans, this 'E Russian' should have been hammered long ago | E Russian | DeepSeek | racial discrimination _ Sina News",
-   "outlet": "手机新浪网",
-   "outlet_name": "手机新浪网",
-   "url": "https://www.sina.cn/news/detail/5353140907935184.html",
-   "label": "REPORTED",
-   "summary_1line": "User using DeepSeek published racist content, facing backlash on Chinese internet.",
-   "published_at": "2026-10-12T02:21:00Z"
-  },
-  {
-   "title": "Big Tech shifts terminology after Trump warns AI users are White House enemies",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/113138/big-tech-shifts-terminology-after-trump-warns-ai-users-are-white-house-enemies",
-   "label": "REPORTED",
-   "summary_1line": "Trump and Silicon Valley leaders adopt 'super intelligence' to redefine AI, with $1B pledged for research over 5 years.",
-   "published_at": "2026-10-12T01:58:55Z"
-  },
-  {
-   "title": "Gemini Enterprise: Google Unveils New AI Agent for Businesses",
-   "outlet": "Basic Tutorials",
-   "outlet_name": "Basic Tutorials",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMG1yenRyZlFmcVNna3dXQnMtQllZcEFaZm9RUG8xV3ZrUl82N1NhNXBLX2lrczVDc0c1WTE4WHlzWHF6YVY5X3JtaVY3eTkzZHpsemtoQjdZdG1kalN5N0c5TE1maG0tamJ6Umd4RUpUSFF4aHdLZnpHVXhmeG9BbU5QME93QkNWVDNmcEFVVVRha3JlZnY5cjNR?oc=5",
+   "title": "Bill Gates to OpenAI CEO Sam Altman, who says AI fears sound like 'bad science fiction': All responsible",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-to-openai-ceo-sam-altman-who-says-ai-fears-sound-like-bad-science-fiction-all-responsible-ai-leaders-including-you-are-telling-the-world-/articleshow/134882705.cms",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-12T02:44:43Z"
+   "published_at": "2026-10-12T04:46:00Z"
+  },
+  {
+   "title": "Mistral unveils ML4 open-weight model, touts edge over Chinese rivals",
+   "outlet": "DIGITIMES",
+   "outlet_name": "DIGITIMES",
+   "url": "https://www.digitimes.com/news/a20261012PD201/startup-anthropic-performance-2026-openai.html",
+   "label": "REPORTED",
+   "summary_1line": "Mistral launches public preview of 1-trillion-parameter ML4 model for October 2026 release.",
+   "published_at": "2026-10-11T13:02:00Z"
+  },
+  {
+   "title": "Federal Government Scraps Mistral: AI Framework Agreement with SAP Off the Table for Now",
+   "outlet": "Basic Tutorials",
+   "outlet_name": "Basic Tutorials",
+   "url": "https://basic-tutorials.com/news/federal-government-scraps-mistral-ai-framework-agreement-with-sap-off-the-table-for-now/",
+   "label": "REPORTED",
+   "summary_1line": "Germany drops AI deal with Mistral and SAP, citing no reasons.",
+   "published_at": "2026-10-12T03:20:36Z"
+  },
+  {
+   "title": "Anthropic's Claude model made bogus murder tip-off to US police",
+   "outlet": "ABC (Australian Broadcasting Corporation)",
+   "outlet_name": "ABC (Australian Broadcasting Corporation)",
+   "url": "https://www.abc.net.au/news/2026-10-12/anthropic-claude-ai-model-false-murder-tip-off-explained/107254596",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic's AI submitted a false police tip, sparking calls for stronger AI safety and oversight.",
+   "published_at": "2026-10-11T17:00:00Z"
+  },
+  {
+   "title": "Bill Gates warns cyberattacks most imminent AI threat",
+   "outlet": "The Star",
+   "outlet_name": "The Star",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/12/bill-gates-warns-cyberattacks-most-imminent-ai-threat",
+   "label": "REPORTED",
+   "summary_1line": "Gates warns AI cyberattacks will rise as safeguards are removed.",
+   "published_at": "2026-10-12T03:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Amazon emerges as potential buyer of Israeli AI startup Decart at $7 billion",
-   "outlet": "CTech",
-   "outlet_name": "CTech",
-   "label": "STILL OPEN",
-   "url": "https://www.calcalistech.com/ctechnews/article/ec25jzet0"
-  },
-  {
-   "headline": "DeepSeek cache optimization technology triggers price cut controversy among US companies…",
-   "outlet": "虎嗅网",
-   "outlet_name": "虎嗅网",
-   "label": "STILL OPEN",
-   "url": "https://www.huxiu.com/article/4896715.html"
-  },
-  {
-   "headline": "Using AI as a shield to insult fans, this 'E Russian' should have been hammered long ago…",
-   "outlet": "手机新浪网",
-   "outlet_name": "手机新浪网",
+   "headline": "Bill Gates to OpenAI CEO Sam Altman, who says AI fears sound like 'bad science fiction'…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
    "label": "REPORTED",
-   "url": "https://www.sina.cn/news/detail/5353140907935184.html"
-  },
-  {
-   "headline": "Big Tech shifts terminology after Trump warns AI users are White House enemies",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/113138/big-tech-shifts-terminology-after-trump-warns-ai-users-are-white-house-enemies"
-  },
-  {
-   "headline": "Gemini Enterprise: Google Unveils New AI Agent for Businesses",
-   "outlet": "Basic Tutorials",
-   "outlet_name": "Basic Tutorials",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMG1yenRyZlFmcVNna3dXQnMtQllZcEFaZm9RUG8xV3ZrUl82N1NhNXBLX2lrczVDc0c1WTE4WHlzWHF6YVY5X3JtaVY3eTkzZHpsemtoQjdZdG1kalN5N0c5TE1maG0tamJ6Umd4RUpUSFF4aHdLZnpHVXhmeG9BbU5QME93QkNWVDNmcEFVVVRha3JlZnY5cjNR?oc=5"
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-to-openai-ceo-sam-altman-who-says-ai-fears-sound-like-bad-science-fiction-all-responsible-ai-leaders-including-you-are-telling-the-world-/articleshow/134882705.cms"
   },
   {
    "headline": "Mistral unveils ML4 open-weight model, touts edge over Chinese rivals",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
+   "outlet": "DIGITIMES",
+   "outlet_name": "DIGITIMES",
    "label": "REPORTED",
    "url": "https://www.digitimes.com/news/a20261012PD201/startup-anthropic-performance-2026-openai.html"
+  },
+  {
+   "headline": "Federal Government Scraps Mistral: AI Framework Agreement with SAP Off the Table for Now",
+   "outlet": "Basic Tutorials",
+   "outlet_name": "Basic Tutorials",
+   "label": "REPORTED",
+   "url": "https://basic-tutorials.com/news/federal-government-scraps-mistral-ai-framework-agreement-with-sap-off-the-table-for-now/"
+  },
+  {
+   "headline": "Anthropic's Claude model made bogus murder tip-off to US police",
+   "outlet": "ABC (Australian Broadcasting Corporation)",
+   "outlet_name": "ABC (Australian Broadcasting Corporation)",
+   "label": "CONFIRMED",
+   "url": "https://www.abc.net.au/news/2026-10-12/anthropic-claude-ai-model-false-murder-tip-off-explained/107254596"
+  },
+  {
+   "headline": "Bill Gates warns cyberattacks most imminent AI threat",
+   "outlet": "The Star",
+   "outlet_name": "The Star",
+   "label": "REPORTED",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/12/bill-gates-warns-cyberattacks-most-imminent-ai-threat"
+  },
+  {
+   "headline": "White House restores UK access to advanced AI models for pre-release safety checks",
+   "outlet": "Firstpost",
+   "outlet_name": "Firstpost",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRWR4Yjk3bXhUdV9sZmlYeF9fSUhUOE9sMk03cndPdmdpOWxjWHdxUF95RDdQN0IydWIwb3EyVFgyWWpQWE9SM2pCc09Ranp2UngyclJ6N2gxZ1VIb3YyOWl3b1dTekdyQWN0QkhFbTNHMGZjX1ZqZXZIWVNPaXJDUFVJLTZTQW40WFRzU1puTEpqa1NmM1VpSkhHWXFkV1B1XzJDdjhIM3hDbUdqRlloVnlaZ1VFM2RCLU1oUktndFY0YWNBQVHSAcsBQVVfeXFMTmtMUXhJMzRueUJVN0FmbEhWR1N1THJhQnNqYzJHNFpId0k3NlFnMDFsYTJOVExsTHVtTXcwMUtPbHFzMTNFMHlXOFBKelBGaFNmNVo2aGRkQ2FQT0E1LVFNc0RRMzliaW56eW1ZWXp2UWVMQzN2ZWdzZEVXU1ZrM2FrcXVFSXR5aVkzaHIyZUNYUDlSUEJERFhpWjlsR1RkdUJDU3A3dVZvSDBDWWpZUi1jWmM4blhXa0FUNlc2UHJQX1MwMDVlOHp1OWM?oc=5"
+  },
+  {
+   "headline": "Nvidia Eyes Reflection AI Acquisition: A Major Move That Could Reshape the Future of…",
+   "outlet": "Kingy AI",
+   "outlet_name": "Kingy AI",
+   "label": "REPORTED",
+   "url": "https://kingy.ai/news/nvidia-reflection-ai-acquisition/"
+  },
+  {
+   "headline": "Claude Launches Free AI Security Scanner For Open Source Projects",
+   "outlet": "Trak.in",
+   "outlet_name": "Trak.in",
+   "label": "REPORTED",
+   "url": "https://trak.in/stories/claude-launches-free-ai-security-scanner-for-open-source-projects/"
+  },
+  {
+   "headline": "US reverses course on Britain's testing of AI models, Telegraph says",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/us-reverses-course-on-britain-s-testing-of-ai-models-telegraph-says/ar-AA2e2fuT"
   },
   {
    "headline": "Trump administration pivots AI regulation: incidents involving models must be immediately…",
@@ -102,49 +123,28 @@
    "url": "https://infosecu.technews.tw/2026/10/12/trumps-ai-liability-push-opens-blame-game-for-models-gone-rogue/"
   },
   {
-   "headline": "Linus Torvalds Working on a Hefty Linux Kernel Improvement with Claude Code",
-   "outlet": "phoronix.com",
-   "outlet_name": "phoronix.com",
+   "headline": "Antragsflut durch KI: Warum Sozialgerichte dank ChatGPT und Co. kaum noch hinterher kommen",
+   "outlet": "MDR.de",
+   "outlet_name": "MDR.de",
    "label": "REPORTED",
-   "url": "https://www.phoronix.com/news/Linus-Torvalds-Claude-Code"
+   "url": "https://www.mdr.de/nachrichten/deutschland/gesellschaft/antraege-sozialgerichte-chatgpt,ki-antragsflut-100.html"
   },
   {
-   "headline": "OpenAI Substantially Improves ChatGPT Sycophancy, but Teen Version Protection Loopholes…",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
+   "headline": "Anthropic exposes AI agent testing gone wrong, Claude actually sends false murder report…",
+   "outlet": "infosecu.technews.tw",
+   "outlet_name": "infosecu.technews.tw",
    "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/12/openai-improves-ai-blind-conformity/"
-  },
-  {
-   "headline": "Grok 4.7 Release: Pricing, Benchmarks vs Claude 5.5",
-   "outlet": "tech-insider.org",
-   "outlet_name": "tech-insider.org",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOG9HTUVVZ1ZJd3RhLWw0UW4zenVvdG1GV3VtaG4zdE9RRlVCOWg0a3Y3aUMyQlFtMWJ1UWplLUl0LU4tNVRPWHhkSmRCUE1DOGtkeDZqR0h6SDhPZmxLcktnNXdmT0tIVGJudGlvX0pfTnVRbmZCYzFnSVhNTDdpOA?oc=5"
-  },
-  {
-   "headline": "TSMC procures even core AI chip components in the US... US-completed semiconductor…",
-   "outlet": "세계일보 on MSN",
-   "outlet_name": "세계일보 on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/ko-kr/news/world/tsmc-美서-ai칩-핵심부품까지-조달-반도체-생산-패키징-미국서-완결-가시화/ar-AA2e2kZd"
-  },
-  {
-   "headline": "Tianhong Artificial Intelligence ETF (561460) Sees Net Inflows Exceeding 3.1 Billion Yuan…",
-   "outlet": "Jiemian.com",
-   "outlet_name": "Jiemian.com",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5vZGJQUVVvaG1WY0Q0ZnNEOGNJQzkzVEIxbG9jZC1FMTRjOGJSdU1ZMm40TWs0ZF9WclBveUcxajFUZi1aNm1aZGZaVEpOUzZvTUt1blZUalU?oc=5"
+   "url": "https://infosecu.technews.tw/2026/10/12/anthropic-ai-model-sent-fake-homicide-tip-to-philadelphia-police/"
   }
  ],
- "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 8800,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 8900,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/04.mp3",
- "audio_seconds": 58.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/05.mp3",
+ "audio_seconds": 51.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAmazon emerges as a potential buyer of Israeli artificial intelligence startup Decart at $7 billion, Still open per CTech, after Anthropic pulls out.\nDeepSeek's cache optimization technology is cited in United States artificial intelligence price cuts, Still open per 虎嗅网, with NVIDIA confirming use of its FP8 training method.\nA user deployed DeepSeek to publish racist content, facing backlash on the Chinese internet, Reported by 手机新浪网.\nTrump and Silicon Valley leaders adopt super intelligence terminology to redefine the field, with $1 billion pledged for research over 5 years, Reported by 디지털투데이.\nGoogle unveils a new artificial intelligence agent for businesses called Gemini Enterprise, Reported by Basic Tutorials.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The Times of India: Bill Gates to OpenAI CEO Sam Altman, who says AI fears sound like 'bad science fiction': All responsible.\nReported by DIGITIMES: Mistral unveils ML4 open-weight model, touts edge over Chinese rivals.\nReported by Basic Tutorials: Federal Government Scraps Mistral: AI Framework Agreement with SAP Off the Table for Now.\nConfirmed, per ABC (Australian Broadcasting Corporation): Anthropic's Claude model made bogus murder tip-off to US police.\nReported by The Star: Bill Gates warns cyberattacks most imminent AI threat.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
