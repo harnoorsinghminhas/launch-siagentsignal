@@ -1,98 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T08:20:02Z",
- "hour": "2026-10-12T08:00:00Z",
+ "generated_at": "2026-10-12T09:20:02Z",
+ "hour": "2026-10-12T09:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "eMemory subsidiary secures security trust position, security IP enters Meta AI chip",
-   "outlet": "UDN",
-   "outlet_name": "UDN",
-   "url": "https://udn.com/news/story/7240/9809145",
-   "label": "CONFIRMED",
-   "summary_1line": "力旺子公司熵碼科技資安IP打入Meta與安謀資料中心處理器，卡位安全信任環節。",
-   "published_at": "2026-10-12T04:44:16Z"
+   "title": "DeepSeek’s cost-saving AI may lead to inaccuracy in model performance: research",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3370550/deepseeks-cost-saving-ai-may-lead-inaccuracy-model-performance-research?utm_source=rss_feed",
+   "label": "STILL OPEN",
+   "summary_1line": "DeepSeek’s memory-saving tech may reduce model reliability, per new unpeer-reviewed research.",
+   "published_at": "2026-10-12T07:00:07Z"
   },
   {
-   "title": "Kangana Ranaut gets interim relief in personality rights case as Delhi High Court directs removal of AI",
+   "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
+   "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+   "label": "CONFIRMED",
+   "summary_1line": "AI-augmented cyberattack targets WordPress, e-commerce, and Ukrainian infrastructure, with 628K records stolen.",
+   "published_at": "2026-10-12T07:26:00Z"
+  },
+  {
+   "title": "AI infrastructure provider Infinigence AI raises RMB 2.3 billion in Series C funding",
+   "outlet": "TechNode",
+   "outlet_name": "TechNode",
+   "url": "https://technode.com/2026/10/12/ai-infrastructure-provider-infinigence-ai-raises-rmb-2-3-billion-in-series-c-funding/",
+   "label": "CONFIRMED",
+   "summary_1line": "Infinigence AI raises RMB 2.3B, hits 40x token growth, cuts token time and cost.",
+   "published_at": "2026-10-12T06:58:27Z"
+  },
+  {
+   "title": "UK best placed to lead on global AI safety rules",
+   "outlet": "MarketScreener",
+   "outlet_name": "MarketScreener",
+   "url": "https://www.marketscreener.com/news/uk-best-placed-to-lead-on-global-ai-safety-rules-microsoft-president-ce785ddcde88f326",
+   "label": "CONFIRMED",
+   "summary_1line": "Brad Smith says UK leads AI safety, citing institute work and US policy shift.",
+   "published_at": "2026-10-12T00:01:00Z"
+  },
+  {
+   "title": "Google DeepMind is hiring AI engineers for its new team with salary of up to $1.1 million, no degree requ",
    "outlet": "The Times of India",
    "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-gets-interim-relief-in-personality-rights-case-as-delhi-high-court-directs-removal-of-ai-deepfakes-fake-speeches-and-manipulated-content-within-72-hours/articleshow/134885009.cms",
-   "label": "CONFIRMED",
-   "summary_1line": "Delhi HC protects Kangana Ranaut from AI deepfakes and fabricated content.",
-   "published_at": "2026-10-12T06:41:00Z"
-  },
-  {
-   "title": "Resilinc and Microsoft Bring Supply Chain Risk Intelligence into Copilot",
-   "outlet": "EME Outlook Magazine",
-   "outlet_name": "EME Outlook Magazine",
-   "url": "https://www.emeoutlookmag.com/industry-insights/resilinc-and-microsoft-bring-supply-chain-risk-intelligence-into-copilot",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-deepmind-is-hiring-ai-engineers-for-its-new-team-with-salary-of-up-to-1-1-million-no-degree-required-all-the-company-wants-is-/articleshow/134885970.cms",
    "label": "REPORTED",
-   "summary_1line": "Resilinc's Copilot plugin delivers real-time supply chain risk intelligence to procurement teams.",
-   "published_at": "2026-10-12T06:00:00Z"
-  },
-  {
-   "title": "California Bans Employers From Using AI Alone to Fire Workers Under New Law",
-   "outlet": "Law Commentary",
-   "outlet_name": "Law Commentary",
-   "url": "https://www.lawcommentary.com/articles/california-ai-firing-law-newsom-sb-947",
-   "label": "REPORTED",
-   "summary_1line": "California bans AI-only worker discipline, requiring human review and transparency.",
-   "published_at": "2026-10-12T05:25:33Z"
-  },
-  {
-   "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-12T07:53:00Z"
+   "summary_1line": "Google DeepMind hires engineers to build real-world coding tests for Gemini, with pay from $550K to $1.1M.",
+   "published_at": "2026-10-12T07:24:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "eMemory subsidiary secures security trust position, security IP enters Meta AI chip",
-   "outlet": "UDN",
-   "outlet_name": "UDN",
-   "label": "CONFIRMED",
-   "url": "https://udn.com/news/story/7240/9809145"
+   "headline": "DeepSeek’s cost-saving AI may lead to inaccuracy in model performance: research",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
+   "label": "STILL OPEN",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3370550/deepseeks-cost-saving-ai-may-lead-inaccuracy-model-performance-research?utm_source=rss_feed"
   },
   {
-   "headline": "Kangana Ranaut gets interim relief in personality rights case as Delhi High Court directs…",
+   "headline": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
+   "label": "CONFIRMED",
+   "url": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html"
+  },
+  {
+   "headline": "AI infrastructure provider Infinigence AI raises RMB 2.3 billion in Series C funding",
+   "outlet": "TechNode",
+   "outlet_name": "TechNode",
+   "label": "CONFIRMED",
+   "url": "https://technode.com/2026/10/12/ai-infrastructure-provider-infinigence-ai-raises-rmb-2-3-billion-in-series-c-funding/"
+  },
+  {
+   "headline": "UK best placed to lead on global AI safety rules",
+   "outlet": "MarketScreener",
+   "outlet_name": "MarketScreener",
+   "label": "CONFIRMED",
+   "url": "https://www.marketscreener.com/news/uk-best-placed-to-lead-on-global-ai-safety-rules-microsoft-president-ce785ddcde88f326"
+  },
+  {
+   "headline": "Google DeepMind is hiring AI engineers for its new team with salary of up to $1.1…",
    "outlet": "The Times of India",
    "outlet_name": "The Times of India",
-   "label": "CONFIRMED",
-   "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-gets-interim-relief-in-personality-rights-case-as-delhi-high-court-directs-removal-of-ai-deepfakes-fake-speeches-and-manipulated-content-within-72-hours/articleshow/134885009.cms"
+   "label": "REPORTED",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-deepmind-is-hiring-ai-engineers-for-its-new-team-with-salary-of-up-to-1-1-million-no-degree-required-all-the-company-wants-is-/articleshow/134885970.cms"
   },
   {
-   "headline": "Resilinc and Microsoft Bring Supply Chain Risk Intelligence into Copilot",
-   "outlet": "EME Outlook Magazine",
-   "outlet_name": "EME Outlook Magazine",
+   "headline": "Combined revenue of domestic \"AI Six Little Dragons\" only 10% of OpenAI+Anthropic? Though…",
+   "outlet": "华尔街见闻",
+   "outlet_name": "华尔街见闻",
    "label": "REPORTED",
-   "url": "https://www.emeoutlookmag.com/industry-insights/resilinc-and-microsoft-bring-supply-chain-risk-intelligence-into-copilot"
-  },
-  {
-   "headline": "California Bans Employers From Using AI Alone to Fire Workers Under New Law",
-   "outlet": "Law Commentary",
-   "outlet_name": "Law Commentary",
-   "label": "REPORTED",
-   "url": "https://www.lawcommentary.com/articles/california-ai-firing-law-newsom-sb-947"
-  },
-  {
-   "headline": "AI less regulated than milk, Microsoft president says in warning over safety",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "label": "REPORTED",
-   "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
-  },
-  {
-   "headline": "Nvidia releases an open voice AI that talks while it listens, with a catch",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmpoMHVIMTNnSkc5aG5TdjgtSlJMUzFscnU0Zl9JTDZpeTd0NDh0anpOTGNBMGF1M1FtTVVoLW93aVhVSlUxWXA4ZDR4S0U3eXdYenBQVEtNamczaE8wVUxhSzVDeTFjc1FFM05nSFhpenQ3akRoYm45NnFDVUFWX2otQTd6MWIyLUxIMmpFYk03VDN0bUl4RlN1Ym1fcF84UkdB?oc=5"
+   "url": "https://wallstreetcn.com/articles/3783416"
   },
   {
    "headline": "Singapore regulator sets AI rules for banks and insurers",
@@ -102,18 +102,25 @@
    "url": "https://www.financexmagazine.com/post/singapore-regulator-sets-ai-rules-for-banks-and-insurers"
   },
   {
-   "headline": "DeepSeek’s cost-saving AI may lead to inaccuracy in model performance: research",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
-   "label": "STILL OPEN",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3370550/deepseeks-cost-saving-ai-may-lead-inaccuracy-model-performance-research?utm_source=rss_feed"
+   "headline": "Nvidia releases an open voice AI that talks while it listens, with a catch",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmpoMHVIMTNnSkc5aG5TdjgtSlJMUzFscnU0Zl9JTDZpeTd0NDh0anpOTGNBMGF1M1FtTVVoLW93aVhVSlUxWXA4ZDR4S0U3eXdYenBQVEtNamczaE8wVUxhSzVDeTFjc1FFM05nSFhpenQ3akRoYm45NnFDVUFWX2otQTd6MWIyLUxIMmpFYk03VDN0bUl4RlN1Ym1fcF84UkdB?oc=5"
   },
   {
-   "headline": "White House to allow UK to test cutting-edge AI models as Andy Burnham sidelines Keir…",
-   "outlet": "GB News on MSN",
-   "outlet_name": "GB News on MSN",
+   "headline": "AI demand ignites supply-demand imbalance, memory price surge drives global semiconductor…",
+   "outlet": "TechNews 科技新報",
+   "outlet_name": "TechNews 科技新報",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/white-house-to-allow-uk-to-test-cutting-edge-ai-models-as-andy-burnham-sidelines-keir-starmer-project/ar-AA2e29h3"
+   "url": "https://technews.tw/2026/10/12/soaring-memory-prices-drove-a-119-surge-in-global-semiconductor-revenue/"
+  },
+  {
+   "headline": "KINGPIN: NVIDIA Forced 1 Connector on RTX 3090 Ti Card [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "REPORTED",
+   "url": "https://shattered.io/kingpin-nvidia-single-connector-rtx-3090-ti-2026/"
   },
   {
    "headline": "The UK House of Lords became the first legislative body to allow MPs to use AI voice.",
@@ -123,28 +130,21 @@
    "url": "https://www.vietnam.vn/en/thuong-vien-anh-tro-thanh-co-quan-lap-phap-dau-tien-cho-phep-nghi-si-su-dung-giong-noi-ai"
   },
   {
-   "headline": "Decision Model Microsoft-Decision-1 Launched, Challenging Low Cost and Judgment Speed…",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
+   "headline": "Great Wall Motor Wey CEO Zhao Yongpo: The greatest luxury is not the sofa, it's the…",
+   "outlet": "leiphone.com",
+   "outlet_name": "leiphone.com",
    "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/12/microsoft-introduces-microsoft-decision-1/"
-  },
-  {
-   "headline": "AI infrastructure provider Infinigence AI raises RMB 2.3 billion in Series C funding",
-   "outlet": "technode.com",
-   "outlet_name": "technode.com",
-   "label": "REPORTED",
-   "url": "https://technode.com/2026/10/12/ai-infrastructure-provider-infinigence-ai-raises-rmb-2-3-billion-in-series-c-funding/"
+   "url": "https://www.leiphone.com/category/zaobao/xstKMq1hNFUDGs69.html"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 9300,
- "articles_24h_label": "about 9,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 9500,
+ "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/08.mp3",
- "audio_seconds": 59.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/09.mp3",
+ "audio_seconds": 51.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\neMemory's subsidiary has secured a security trust position, with its security intellectual property entering Meta and Arm data center processors. Confirmed by UDN.\nDelhi High Court has directed removal of artificial intelligence deepfakes and fabricated content involving Kangana Ranaut. Confirmed by The Times of India.\nResilinc's Copilot plugin delivers real-time supply chain risk intelligence to procurement teams. Reported by EME Outlook Magazine.\nCalifornia has banned employers from using artificial intelligence alone to fire workers, requiring human review and transparency. Reported by Law Commentary.\nMicrosoft's president warns that artificial intelligence is less regulated than milk. Reported by The Guardian.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek's memory-saving technology may reduce model reliability, according to new research still open per South China Morning Post.\nAn AI-augmented cyberattack confirmed by The Hacker News targeted WordPress and e-commerce platforms, stealing over 628,000 Ukrainian records.\nInfinigence AI raised RMB 2.3 billion in Series C funding, confirmed by TechNode, achieving 40x token growth while cutting costs.\nBrad Smith says the UK is best positioned to lead on global artificial intelligence safety rules, confirmed by MarketScreener.\nGoogle DeepMind is hiring engineers to build real-world coding tests for Gemini, with salaries ranging from $550K to $1.1 million, reported by The Times of India.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
