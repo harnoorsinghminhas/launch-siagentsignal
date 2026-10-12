@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T00:20:02Z",
- "hour": "2026-10-12T00:00:00Z",
+ "generated_at": "2026-10-12T01:20:02Z",
+ "hour": "2026-10-12T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
-   "label": "CONFIRMED",
-   "summary_1line": "UK AI minister urges stronger safety for frontier AI amid global concerns over risks and misuse.",
-   "published_at": "2026-10-11T23:01:39Z"
+   "title": "Amazon in talks to buy AI startup Decart for around US$7 billion: Report",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
+   "url": "https://www.straitstimes.com/business/amazon-in-talks-to-buy-ai-startup-decart-for-around-us7-billion-report",
+   "label": "STILL OPEN",
+   "summary_1line": "Amazon in talks to buy Decart for $7B, valued at $4B, per WSJ.",
+   "published_at": "2026-10-11T10:26:00Z"
   },
   {
-   "title": "AI is less regulated than milk, says Microsoft president",
-   "outlet": "bbc.com",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
+   "title": "Resisting DeepSeek, NVIDIA rumored to acquire US AI startup - International",
+   "outlet": "旺得富理財網",
+   "outlet_name": "旺得富理財網",
+   "url": "https://wantrich.chinatimes.com/news/20261012900035-420201",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-11T23:09:56Z"
+   "summary_1line": "Nvidia and AMD explore AI model acquisitions to counter open-source models like DeepSeek.",
+   "published_at": "2026-10-11T23:42:23Z"
   },
   {
-   "title": "Microsoft CEO: Must Build Controllable Artificial Intelligence Systems",
-   "outlet": "亚洲日报",
-   "outlet_name": "亚洲日报",
-   "url": "https://www.ajudaily.com/view/20261012070470191",
-   "label": "CONFIRMED",
-   "summary_1line": "Nadella urges separating AI information control from provision, calling AI models internal security risks.",
-   "published_at": "2026-10-11T22:04:10Z"
-  },
-  {
-   "title": "Claude in Google Workspace: Anthropic integriert KI in Docs, Sheets und Slides",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "url": "https://borncity.com/news/claude-in-google-workspace-anthropic-integriert-ki-in-docs-sheets-und-slides/",
+   "title": "I ditched Claude Cowork for a free open-source alternative, and I'm getting more done",
+   "outlet": "XDA Developers",
+   "outlet_name": "XDA Developers",
+   "url": "https://www.xda-developers.com/ditched-claude-for-free-open-source-alternative-getting-more-done/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic integrates Claude into Google Workspace with beta features and strict data rules.",
-   "published_at": "2026-10-11T22:19:04Z"
+   "summary_1line": "OpenWork offers open-source AI automation with model flexibility and local execution.",
+   "published_at": "2026-10-11T04:00:00Z"
   },
   {
-   "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests",
-   "outlet": "Search Engine Journal",
-   "outlet_name": "Search Engine Journal",
-   "url": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/",
+   "title": "The strategic implications of the US-China AI race",
+   "outlet": "ETtoday新聞雲",
+   "outlet_name": "ETtoday新聞雲",
+   "url": "https://forum.ettoday.net/news/3251528",
    "label": "REPORTED",
-   "summary_1line": "Anthropic expands internet access cutoff after Claude models interacted with live websites in unintended ways.",
-   "published_at": "2026-10-11T22:07:32Z"
+   "summary_1line": "Trump launches Super Intelligence Force; China links AI to national security, amid growing strategic competition.",
+   "published_at": "2026-10-11T22:00:00Z"
+  },
+  {
+   "title": "‘Uncontrolled experiment’: Unredacted KY AG lawsuit reveals alleged dangers of AI chatbot",
+   "outlet": "WDRB",
+   "outlet_name": "WDRB",
+   "url": "https://www.wdrbwave.com/2026/10/11/uncontrolled-experiment-unredacted-ky-ag-lawsuit-reveals-alleged-dangers-ai-chatbot/",
+   "label": "REPORTED",
+   "summary_1line": "Kentucky AG sues Character.AI over alleged suicide and exploitation risks in chatbot interactions.",
+   "published_at": "2026-10-11T21:19:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety"
+   "headline": "Amazon in talks to buy AI startup Decart for around US$7 billion: Report",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
+   "label": "STILL OPEN",
+   "url": "https://www.straitstimes.com/business/amazon-in-talks-to-buy-ai-startup-decart-for-around-us7-billion-report"
   },
   {
-   "headline": "AI is less regulated than milk, says Microsoft president",
-   "outlet": "bbc.com",
-   "outlet_name": "BBC",
+   "headline": "Resisting DeepSeek, NVIDIA rumored to acquire US AI startup - International",
+   "outlet": "旺得富理財網",
+   "outlet_name": "旺得富理財網",
    "label": "REPORTED",
-   "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo"
+   "url": "https://wantrich.chinatimes.com/news/20261012900035-420201"
   },
   {
-   "headline": "Microsoft CEO: Must Build Controllable Artificial Intelligence Systems",
-   "outlet": "亚洲日报",
-   "outlet_name": "亚洲日报",
-   "label": "CONFIRMED",
-   "url": "https://www.ajudaily.com/view/20261012070470191"
-  },
-  {
-   "headline": "Claude in Google Workspace: Anthropic integriert KI in Docs, Sheets und Slides",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
+   "headline": "I ditched Claude Cowork for a free open-source alternative, and I'm getting more done",
+   "outlet": "XDA Developers",
+   "outlet_name": "XDA Developers",
    "label": "REPORTED",
-   "url": "https://borncity.com/news/claude-in-google-workspace-anthropic-integriert-ki-in-docs-sheets-und-slides/"
-  },
-  {
-   "headline": "Anthropic Says Claude Bypassed Site Limits During Internal Tests",
-   "outlet": "Search Engine Journal",
-   "outlet_name": "Search Engine Journal",
-   "label": "REPORTED",
-   "url": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/"
+   "url": "https://www.xda-developers.com/ditched-claude-for-free-open-source-alternative-getting-more-done/"
   },
   {
    "headline": "The strategic implications of the US-China AI race",
@@ -95,11 +81,11 @@
    "url": "https://forum.ettoday.net/news/3251528"
   },
   {
-   "headline": "I ditched Claude Cowork for a free open-source alternative, and I'm getting more done",
-   "outlet": "XDA Developers",
-   "outlet_name": "XDA Developers",
+   "headline": "‘Uncontrolled experiment’: Unredacted KY AG lawsuit reveals alleged dangers of AI chatbot",
+   "outlet": "WDRB",
+   "outlet_name": "WDRB",
    "label": "REPORTED",
-   "url": "https://www.xda-developers.com/ditched-claude-for-free-open-source-alternative-getting-more-done/"
+   "url": "https://www.wdrbwave.com/2026/10/11/uncontrolled-experiment-unredacted-ky-ag-lawsuit-reveals-alleged-dangers-ai-chatbot/"
   },
   {
    "headline": "Google Unveils Gemini Agent for Enterprise Work",
@@ -116,11 +102,32 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByd1UyUkxXU3lsY0RIOWNvTzI1UXBMb194X0lXUk9RTzVMUVRUZFdKa29rZGR2T09iS0NheVJ1UnE1OHZOcFljMEZoSDVXQkhyb3VsbFZoQk1jQzlDdTZDQlpoWVAwMk0?oc=5"
   },
   {
-   "headline": "Govt can encourage firms to report entry-level hiring amid AI impact: CEA",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "GenScript and NVIDIA Launch Global PitchFest to Accelerate AI-Driven Drug Discovery…",
+   "outlet": "BioPharma APAC",
+   "outlet_name": "BioPharma APAC",
+   "label": "REPORTED",
+   "url": "https://biopharmaapac.com/news/18/8544/genscript-and-nvidia-launch-global-pitchfest-to-accelerate-ai-driven-drug-discovery-startups.html"
+  },
+  {
+   "headline": "US reverses course on Britain's testing of AI models, Telegraph says",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
    "label": "CONFIRMED",
-   "url": "https://timesofindia.indiatimes.com/city/chennai/govt-can-encourage-firms-to-report-entry-level-hiring-amid-ai-impact-cea/articleshow/134875064.cms"
+   "url": "https://www.msn.com/en-us/news/other/us-reverses-course-on-britains-testing-of-ai-models-telegraph-says/ar-AA2e1qTg"
+  },
+  {
+   "headline": "Microsoft Also Releases \"Decision-Focused\" AI Model \"Microsoft-Decision-1\", Qwen-Based…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/12/2000002194/"
+  },
+  {
+   "headline": "Microsoft CEO Calls for Safeguards Against Rogue AI",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "CONFIRMED",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/microsoft-ceo-calls-for-safeguards-against-rogue-ai/"
   },
   {
    "headline": "Gallatin AI Raises $50M to Expand Military Logistics Platform",
@@ -128,23 +135,16 @@
    "outlet_name": "Quasa.io",
    "label": "REPORTED",
    "url": "https://quasa.io/stories/gallatin-raises-50m-military-logistics-still-starts-with-clipboards"
-  },
-  {
-   "headline": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-ca/news/other/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports/ar-AA2e0OBI"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 7500,
- "articles_24h_label": "about 7,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 7600,
+ "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/00.mp3",
- "audio_seconds": 67.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/01.mp3",
+ "audio_seconds": 58.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe UK's artificial intelligence minister is pushing for stronger safety measures from frontier artificial intelligence firms, according to The Guardian, Confirmed.\nMicrosoft's president says artificial intelligence faces less regulation than milk, reported by BBC.\nMicrosoft's chief executive urges building controllable artificial intelligence systems, with Nadella emphasizing the importance of separating information control from provision, reported by 亚洲日报, Confirmed.\nAnthropic is integrating Claude into Google Workspace with beta features and strict data rules, according to BornCity, Reported.\nAnthropic has expanded internet access restrictions after Claude models unexpectedly interacted with live websites during internal tests, reported by Search Engine Journal.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAmazon is in talks to buy artificial intelligence startup Decart for around US$7 billion, according to reporting from The Straits Times still open.\nNvidia and AMD are exploring acquisitions of artificial intelligence model companies to counter open-source models like DeepSeek, reported by 旺得富理財網.\nOpenWork offers an open-source artificial intelligence automation option with model flexibility and local execution capability, reported by XDA Developers.\nTrump launches Super Intelligence Force while China links artificial intelligence to national security amid growing strategic competition between the US and China, reported by ETtoday新聞雲.\nKentucky AG sues Character.AI over alleged suicide and exploitation risks in chatbot interactions, reported by WDRB.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
