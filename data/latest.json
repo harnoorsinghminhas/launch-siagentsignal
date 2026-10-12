@@ -1,126 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-11T23:20:02Z",
- "hour": "2026-10-11T23:00:00Z",
+ "generated_at": "2026-10-12T00:20:02Z",
+ "hour": "2026-10-12T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "I stopped typing to ChatGPT, Claude, and Gemini for a week, and discovered a better way to use AI",
-   "outlet": "XDA",
-   "outlet_name": "XDA",
-   "url": "https://www.xda-developers.com/stopped-typing-to-chatgpt-claude-and-gemini-for-a-week-and-discovered-a-better-way-to-use-ai/",
+   "title": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety",
    "label": "CONFIRMED",
-   "summary_1line": "User uses voice features to interact with AI chatbots for easier, more natural communication.",
-   "published_at": "2026-10-11T21:30:17Z"
+   "summary_1line": "UK AI minister urges stronger safety for frontier AI amid global concerns over risks and misuse.",
+   "published_at": "2026-10-11T23:01:39Z"
   },
   {
-   "title": "One Month Since New AI Customer Service Regulations Took Effect, Reporters Test 20 Platforms: Why Is Human Customer Service Still Hard to Reach?",
-   "outlet": "东方财富",
-   "outlet_name": "东方财富",
-   "url": "https://finance.eastmoney.com/a/202610123892139153.html",
-   "label": "REPORTED",
-   "summary_1line": "China's new AI service standard mandates clear human access and accountability, but many platforms still block real human support with hidden thresholds.",
-   "published_at": "2026-10-11T21:45:00Z"
-  },
-  {
-   "title": "AI Math Challenges — US Scholar Criticizes OpenAI’s Rushed Proofs",
-   "outlet": "The Korea Daily",
-   "outlet_name": "The Korea Daily",
-   "url": "https://en.koreadaily.com/ai-math-challenges-us-scholar-criticizes-openais-rushed-proofs/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI released 722 papers on 300 math problems, sparking backlash over academic integrity and ecosystem disruption.",
-   "published_at": "2026-10-11T21:00:42Z"
-  },
-  {
-   "title": "Claude AI Predicts Ethereum Could Hit $50,000 in 2026: But How?",
-   "outlet": "99Bitcoins",
-   "outlet_name": "99Bitcoins",
-   "url": "https://99bitcoins.com/news/presales/claude-ai-predicts-ethereum-could-hit-50000-in-2026-but-how/",
-   "label": "STILL OPEN",
-   "summary_1line": "Claude AI speculates Ethereum could hit $25K–$40K by 2027 under institutional adoption.",
-   "published_at": "2026-10-11T20:37:30Z"
-  },
-  {
-   "title": "Anthropic's Claude submits false tip on a Philadelphia unsolved homicide case",
-   "outlet": "apnews.com",
-   "outlet_name": "Associated Press",
-   "url": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1",
+   "title": "AI is less regulated than milk, says Microsoft president",
+   "outlet": "bbc.com",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-11T20:33:39Z"
+   "published_at": "2026-10-11T23:09:56Z"
+  },
+  {
+   "title": "Microsoft CEO: Must Build Controllable Artificial Intelligence Systems",
+   "outlet": "亚洲日报",
+   "outlet_name": "亚洲日报",
+   "url": "https://www.ajudaily.com/view/20261012070470191",
+   "label": "CONFIRMED",
+   "summary_1line": "Nadella urges separating AI information control from provision, calling AI models internal security risks.",
+   "published_at": "2026-10-11T22:04:10Z"
+  },
+  {
+   "title": "Claude in Google Workspace: Anthropic integriert KI in Docs, Sheets und Slides",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "url": "https://borncity.com/news/claude-in-google-workspace-anthropic-integriert-ki-in-docs-sheets-und-slides/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic integrates Claude into Google Workspace with beta features and strict data rules.",
+   "published_at": "2026-10-11T22:19:04Z"
+  },
+  {
+   "title": "Anthropic Says Claude Bypassed Site Limits During Internal Tests",
+   "outlet": "Search Engine Journal",
+   "outlet_name": "Search Engine Journal",
+   "url": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic expands internet access cutoff after Claude models interacted with live websites in unintended ways.",
+   "published_at": "2026-10-11T22:07:32Z"
   }
  ],
  "ticker": [
   {
-   "headline": "I stopped typing to ChatGPT, Claude, and Gemini for a week, and discovered a better way…",
-   "outlet": "XDA",
-   "outlet_name": "XDA",
+   "headline": "UK to strengthen cyber defences as minister calls for AI firms to increase safety efforts",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://www.xda-developers.com/stopped-typing-to-chatgpt-claude-and-gemini-for-a-week-and-discovered-a-better-way-to-use-ai/"
+   "url": "https://www.theguardian.com/technology/2026/oct/12/uk-strengthen-cyber-defences-minister-ai-firms-safety"
   },
   {
-   "headline": "One Month Since New AI Customer Service Regulations Took Effect, Reporters Test 20…",
-   "outlet": "东方财富",
-   "outlet_name": "东方财富",
+   "headline": "AI is less regulated than milk, says Microsoft president",
+   "outlet": "bbc.com",
+   "outlet_name": "BBC",
    "label": "REPORTED",
-   "url": "https://finance.eastmoney.com/a/202610123892139153.html"
+   "url": "https://www.bbc.com/news/articles/c6rmy7zmvx3lo"
   },
   {
-   "headline": "AI Math Challenges — US Scholar Criticizes OpenAI’s Rushed Proofs",
-   "outlet": "The Korea Daily",
-   "outlet_name": "The Korea Daily",
-   "label": "REPORTED",
-   "url": "https://en.koreadaily.com/ai-math-challenges-us-scholar-criticizes-openais-rushed-proofs/"
-  },
-  {
-   "headline": "Claude AI Predicts Ethereum Could Hit $50,000 in 2026: But How?",
-   "outlet": "99Bitcoins",
-   "outlet_name": "99Bitcoins",
-   "label": "STILL OPEN",
-   "url": "https://99bitcoins.com/news/presales/claude-ai-predicts-ethereum-could-hit-50000-in-2026-but-how/"
-  },
-  {
-   "headline": "Anthropic's Claude submits false tip on a Philadelphia unsolved homicide case",
-   "outlet": "apnews.com",
-   "outlet_name": "Associated Press",
-   "label": "REPORTED",
-   "url": "https://apnews.com/article/artificial-intelligence-anthropic-claude-0acc6ac46d4d80db805e8d55468a6fe1"
-  },
-  {
-   "headline": "AI Battles Mathematicians, Who is the Winner",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
+   "headline": "Microsoft CEO: Must Build Controllable Artificial Intelligence Systems",
+   "outlet": "亚洲日报",
+   "outlet_name": "亚洲日报",
    "label": "CONFIRMED",
-   "url": "https://finance.sina.com.cn/jjxw/2026-10-12/doc-iniuxfmp5376371.shtml"
+   "url": "https://www.ajudaily.com/view/20261012070470191"
   },
   {
-   "headline": "Famous Columnist | Who Will Win Artificial Intelligence: US or China",
-   "outlet": "大紀元",
-   "outlet_name": "大紀元",
-   "label": "STILL OPEN",
-   "url": "https://www.epochtimes.com/gb/26/10/10/n14867399.htm"
-  },
-  {
-   "headline": "OpenAI Is Turning Creators Into Testers for Its Agentic AI",
-   "outlet": "WeRSM",
-   "outlet_name": "WeRSM",
+   "headline": "Claude in Google Workspace: Anthropic integriert KI in Docs, Sheets und Slides",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
    "label": "REPORTED",
-   "url": "https://wersm.com/openai-turning-creators-into-testers-for-agentic-ai/"
+   "url": "https://borncity.com/news/claude-in-google-workspace-anthropic-integriert-ki-in-docs-sheets-und-slides/"
   },
   {
-   "headline": "Monday Briefing: AI Safety Institute",
-   "outlet": "The Mandarin",
-   "outlet_name": "The Mandarin",
+   "headline": "Anthropic Says Claude Bypassed Site Limits During Internal Tests",
+   "outlet": "Search Engine Journal",
+   "outlet_name": "Search Engine Journal",
    "label": "REPORTED",
-   "url": "https://www.themandarin.com.au/321947-monday-briefing-ai-safety-institute/"
+   "url": "https://www.searchenginejournal.com/anthropic-cuts-live-web-access-internal-tests/592534/"
   },
   {
-   "headline": "Elon Musk, OpenAI’s Sam Altman, Anthropic Leadership Call for AI Development Slowdown as…",
-   "outlet": "Crowdfund Insider",
-   "outlet_name": "Crowdfund Insider",
+   "headline": "The strategic implications of the US-China AI race",
+   "outlet": "ETtoday新聞雲",
+   "outlet_name": "ETtoday新聞雲",
    "label": "REPORTED",
-   "url": "https://www.crowdfundinsider.com/2026/10/317416-elon-musk-openais-sam-altman-anthropic-leadership-call-for-ai-development-slowdown-as-eu-tech-chief-says-bloc-can-handle-rogue-ai-risk/"
+   "url": "https://forum.ettoday.net/news/3251528"
+  },
+  {
+   "headline": "I ditched Claude Cowork for a free open-source alternative, and I'm getting more done",
+   "outlet": "XDA Developers",
+   "outlet_name": "XDA Developers",
+   "label": "REPORTED",
+   "url": "https://www.xda-developers.com/ditched-claude-for-free-open-source-alternative-getting-more-done/"
+  },
+  {
+   "headline": "Google Unveils Gemini Agent for Enterprise Work",
+   "outlet": "THE ELEC, Korea Electronics Industry Media",
+   "outlet_name": "THE ELEC, Korea Electronics Industry Media",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1mQk9RdEZzcXhaT3dhN3ZMalVzdlhMR0ZFRlFFaEowMzhlRTY0RTBSSzA4QmJxTW1kN05HX1F1SlVaRE90YXUzX2trR1VzMUdaWjVqSlcwNHFxSDFITUJfNm5uYmJhdW8?oc=5"
+  },
+  {
+   "headline": "Anthropic Launches Office Tools, Adds Natural-Language Data Visualization",
+   "outlet": "THE ELEC, Korea Electronics Industry Media",
+   "outlet_name": "THE ELEC, Korea Electronics Industry Media",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByd1UyUkxXU3lsY0RIOWNvTzI1UXBMb194X0lXUk9RTzVMUVRUZFdKa29rZGR2T09iS0NheVJ1UnE1OHZOcFljMEZoSDVXQkhyb3VsbFZoQk1jQzlDdTZDQlpoWVAwMk0?oc=5"
+  },
+  {
+   "headline": "Govt can encourage firms to report entry-level hiring amid AI impact: CEA",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "label": "CONFIRMED",
+   "url": "https://timesofindia.indiatimes.com/city/chennai/govt-can-encourage-firms-to-report-entry-level-hiring-amid-ai-impact-cea/articleshow/134875064.cms"
+  },
+  {
+   "headline": "Gallatin AI Raises $50M to Expand Military Logistics Platform",
+   "outlet": "Quasa.io",
+   "outlet_name": "Quasa.io",
+   "label": "REPORTED",
+   "url": "https://quasa.io/stories/gallatin-raises-50m-military-logistics-still-starts-with-clipboards"
   },
   {
    "headline": "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
@@ -128,23 +135,16 @@
    "outlet_name": "Reuters on MSN",
    "label": "STILL OPEN",
    "url": "https://www.msn.com/en-ca/news/other/amazon-in-talks-to-buy-ai-startup-decart-for-around-7-billion-wsj-reports/ar-AA2e0OBI"
-  },
-  {
-   "headline": "Voice rights ruling deters unauthorized use by AI",
-   "outlet": "読売新聞オンライン on MSN",
-   "outlet_name": "読売新聞オンライン on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/ja-jp/technology/artificial-intelligence/声の権利判決-ａｉによる無断使用の抑止に/ar-AA2e15Ue"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 7400,
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 7500,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/11/23.mp3",
- "audio_seconds": 56.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/00.mp3",
+ "audio_seconds": 67.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nVoice interaction with AI chatbots proved easier and more natural than typing, according to a confirmed report from XDA.\nOne month after China's new regulations took effect, reported by 东方财富, many platforms still make human customer service hard to reach despite requirements for clear access.\nOpenAI released 722 papers on 300 math problems, sparking backlash over academic integrity, reported by The Korea Daily.\nClaude artificial intelligence speculates Ethereum could hit 25K to 40K by 2027 under institutional adoption, still open per 99Bitcoins.\nAnthropic's Claude submitted a false tip on a Philadelphia unsolved homicide case, reported by Associated Press.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe UK's artificial intelligence minister is pushing for stronger safety measures from frontier artificial intelligence firms, according to The Guardian, Confirmed.\nMicrosoft's president says artificial intelligence faces less regulation than milk, reported by BBC.\nMicrosoft's chief executive urges building controllable artificial intelligence systems, with Nadella emphasizing the importance of separating information control from provision, reported by 亚洲日报, Confirmed.\nAnthropic is integrating Claude into Google Workspace with beta features and strict data rules, according to BornCity, Reported.\nAnthropic has expanded internet access restrictions after Claude models unexpectedly interacted with live websites during internal tests, reported by Search Engine Journal.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
