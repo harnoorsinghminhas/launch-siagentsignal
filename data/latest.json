@@ -1,150 +1,150 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T07:20:02Z",
- "hour": "2026-10-12T07:00:00Z",
+ "generated_at": "2026-10-12T08:20:02Z",
+ "hour": "2026-10-12T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek Bot released! Just install a plugin to use it!",
-   "outlet": "53AI",
-   "outlet_name": "53AI",
-   "url": "https://www.53ai.com/news/OpenSourceLLM/2026101278950.html",
+   "title": "eMemory subsidiary secures security trust position, security IP enters Meta AI chip",
+   "outlet": "UDN",
+   "outlet_name": "UDN",
+   "url": "https://udn.com/news/story/7240/9809145",
    "label": "CONFIRMED",
-   "summary_1line": "FeiZ opens DeepSeek Bot, letting users build teams of AI bots with roles and memory.",
-   "published_at": "2026-10-12T05:40:29Z"
+   "summary_1line": "力旺子公司熵碼科技資安IP打入Meta與安謀資料中心處理器，卡位安全信任環節。",
+   "published_at": "2026-10-12T04:44:16Z"
   },
   {
-   "title": "Microsoft Uses Alibaba's Qwen to Build Decision-Making Model, May Roll Out to All Fields",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "url": "https://36kr.com/newsflashes/4022459116736393?f=rss",
+   "title": "Kangana Ranaut gets interim relief in personality rights case as Delhi High Court directs removal of AI",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-gets-interim-relief-in-personality-rights-case-as-delhi-high-court-directs-removal-of-ai-deepfakes-fake-speeches-and-manipulated-content-within-72-hours/articleshow/134885009.cms",
+   "label": "CONFIRMED",
+   "summary_1line": "Delhi HC protects Kangana Ranaut from AI deepfakes and fabricated content.",
+   "published_at": "2026-10-12T06:41:00Z"
+  },
+  {
+   "title": "Resilinc and Microsoft Bring Supply Chain Risk Intelligence into Copilot",
+   "outlet": "EME Outlook Magazine",
+   "outlet_name": "EME Outlook Magazine",
+   "url": "https://www.emeoutlookmag.com/industry-insights/resilinc-and-microsoft-bring-supply-chain-risk-intelligence-into-copilot",
    "label": "REPORTED",
-   "summary_1line": "火山引擎 is performing a security check for user access safety.",
-   "published_at": null
+   "summary_1line": "Resilinc's Copilot plugin delivers real-time supply chain risk intelligence to procurement teams.",
+   "published_at": "2026-10-12T06:00:00Z"
   },
   {
-   "title": "Claude emerges as fastest-growing AI skill in Korean job postings",
-   "outlet": "The Korea Times",
-   "outlet_name": "The Korea Times",
-   "url": "https://www.koreatimes.co.kr/business/20261012/claude-emerges-as-fastest-growing-ai-skill-in-korean-job-postings",
+   "title": "California Bans Employers From Using AI Alone to Fire Workers Under New Law",
+   "outlet": "Law Commentary",
+   "outlet_name": "Law Commentary",
+   "url": "https://www.lawcommentary.com/articles/california-ai-firing-law-newsom-sb-947",
    "label": "REPORTED",
-   "summary_1line": "Claude surges 770% in Korean job posts, outpacing other AI tools.",
-   "published_at": "2026-10-12T05:06:03Z"
+   "summary_1line": "California bans AI-only worker discipline, requiring human review and transparency.",
+   "published_at": "2026-10-12T05:25:33Z"
   },
   {
-   "title": "Another reason for Claude bans: Abusing AI",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "url": "https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxrzp7290617.shtml",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic bans continuous abuse of Claude, allowing exceptions for creative or research use.",
-   "published_at": "2026-10-12T03:39:00Z"
-  },
-  {
-   "title": "Equipping DeepSeek Harness (DSH) with a bot plugin to turn DSH into a bot system - OSCHINA - Open Source x AI · Developer Ecosystem Community",
-   "outlet": "OSCHINA",
-   "outlet_name": "OSCHINA",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JeERNUWxxdkJqMHh6TFU2LXJqRUhBbzJyVFE2UzAydXpyTThQaWRPNW40Ti1ycHRLNTVjYTI3aGYwR195TTFIOVNqbw?oc=5",
+   "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-12T06:07:43Z"
+   "published_at": "2026-10-12T07:53:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek Bot released! Just install a plugin to use it!",
-   "outlet": "53AI",
-   "outlet_name": "53AI",
+   "headline": "eMemory subsidiary secures security trust position, security IP enters Meta AI chip",
+   "outlet": "UDN",
+   "outlet_name": "UDN",
    "label": "CONFIRMED",
-   "url": "https://www.53ai.com/news/OpenSourceLLM/2026101278950.html"
+   "url": "https://udn.com/news/story/7240/9809145"
   },
   {
-   "headline": "Microsoft Uses Alibaba's Qwen to Build Decision-Making Model, May Roll Out to All Fields",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
+   "headline": "Kangana Ranaut gets interim relief in personality rights case as Delhi High Court directs…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "label": "CONFIRMED",
+   "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/kangana-ranaut-gets-interim-relief-in-personality-rights-case-as-delhi-high-court-directs-removal-of-ai-deepfakes-fake-speeches-and-manipulated-content-within-72-hours/articleshow/134885009.cms"
+  },
+  {
+   "headline": "Resilinc and Microsoft Bring Supply Chain Risk Intelligence into Copilot",
+   "outlet": "EME Outlook Magazine",
+   "outlet_name": "EME Outlook Magazine",
    "label": "REPORTED",
-   "url": "https://36kr.com/newsflashes/4022459116736393?f=rss"
+   "url": "https://www.emeoutlookmag.com/industry-insights/resilinc-and-microsoft-bring-supply-chain-risk-intelligence-into-copilot"
   },
   {
-   "headline": "Claude emerges as fastest-growing AI skill in Korean job postings",
-   "outlet": "The Korea Times",
-   "outlet_name": "The Korea Times",
+   "headline": "California Bans Employers From Using AI Alone to Fire Workers Under New Law",
+   "outlet": "Law Commentary",
+   "outlet_name": "Law Commentary",
    "label": "REPORTED",
-   "url": "https://www.koreatimes.co.kr/business/20261012/claude-emerges-as-fastest-growing-ai-skill-in-korean-job-postings"
+   "url": "https://www.lawcommentary.com/articles/california-ai-firing-law-newsom-sb-947"
   },
   {
-   "headline": "Another reason for Claude bans: Abusing AI",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
+   "headline": "AI less regulated than milk, Microsoft president says in warning over safety",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
    "label": "REPORTED",
-   "url": "https://finance.sina.com.cn/wm/2026-10-12/doc-iniuxrzp7290617.shtml"
+   "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules"
   },
   {
-   "headline": "Equipping DeepSeek Harness (DSH) with a bot plugin to turn DSH into a bot system…",
-   "outlet": "OSCHINA",
-   "outlet_name": "OSCHINA",
+   "headline": "Nvidia releases an open voice AI that talks while it listens, with a catch",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JeERNUWxxdkJqMHh6TFU2LXJqRUhBbzJyVFE2UzAydXpyTThQaWRPNW40Ti1ycHRLNTVjYTI3aGYwR195TTFIOVNqbw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQmpoMHVIMTNnSkc5aG5TdjgtSlJMUzFscnU0Zl9JTDZpeTd0NDh0anpOTGNBMGF1M1FtTVVoLW93aVhVSlUxWXA4ZDR4S0U3eXdYenBQVEtNamczaE8wVUxhSzVDeTFjc1FFM05nSFhpenQ3akRoYm45NnFDVUFWX2otQTd6MWIyLUxIMmpFYk03VDN0bUl4RlN1Ym1fcF84UkdB?oc=5"
   },
   {
-   "headline": "Cumulative 4.3 billion, domestic largest AI Infra financing born, Inception Labs secures…",
-   "outlet": "36 Kr",
-   "outlet_name": "36 Kr",
+   "headline": "Singapore regulator sets AI rules for banks and insurers",
+   "outlet": "FinanceX Magazine",
+   "outlet_name": "FinanceX Magazine",
    "label": "REPORTED",
-   "url": "https://www.36kr.com/p/4022354331160454"
+   "url": "https://www.financexmagazine.com/post/singapore-regulator-sets-ai-rules-for-banks-and-insurers"
   },
   {
-   "headline": "Kore.ai Launches Autoloop To Improve AI Agent Performance",
-   "outlet": "APAC Media",
-   "outlet_name": "APAC Media",
-   "label": "REPORTED",
-   "url": "https://apacnewsnetwork.com/2026/10/kore-ai-launches-autoloop-to-improve-ai-agent-performance/"
-  },
-  {
-   "headline": "Tencent's Penguin Intelligence Releases Q3 AI Trends Report: Agent Empowerment and…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/7cd78f29-200d-4c3e-804d-95f3994bfe2a"
-  },
-  {
-   "headline": "Nvidia Eyes Reflection AI Acquisition: A Major Move That Could Reshape the Future of…",
-   "outlet": "Kingy AI",
-   "outlet_name": "Kingy AI",
-   "label": "REPORTED",
-   "url": "https://kingy.ai/news/nvidia-reflection-ai-acquisition/"
-  },
-  {
-   "headline": "Nvidia Rumored to Acquire 'American Version of DeepSeek'! The Calculation Behind…",
-   "outlet": "TVBS新聞網",
-   "outlet_name": "TVBS新聞網",
+   "headline": "DeepSeek’s cost-saving AI may lead to inaccuracy in model performance: research",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
    "label": "STILL OPEN",
-   "url": "https://news.tvbs.com.tw/world/4034891"
+   "url": "https://www.scmp.com/tech/tech-trends/article/3370550/deepseeks-cost-saving-ai-may-lead-inaccuracy-model-performance-research?utm_source=rss_feed"
   },
   {
    "headline": "White House to allow UK to test cutting-edge AI models as Andy Burnham sidelines Keir…",
    "outlet": "GB News on MSN",
    "outlet_name": "GB News on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/white-house-to-allow-uk-to-test-cutting-edge-ai-models-as-andy-burnham-sidelines-keir-starmer-project/ar-AA2e2clD"
+   "url": "https://www.msn.com/en-us/news/other/white-house-to-allow-uk-to-test-cutting-edge-ai-models-as-andy-burnham-sidelines-keir-starmer-project/ar-AA2e29h3"
   },
   {
-   "headline": "OpenAI legt Hunderte mathematische künstliche Intelligenz-Manuskripte offen",
-   "outlet": "Nachrichten.fr",
-   "outlet_name": "Nachrichten.fr",
+   "headline": "The UK House of Lords became the first legislative body to allow MPs to use AI voice.",
+   "outlet": "Vietnam.vn",
+   "outlet_name": "Vietnam.vn",
    "label": "REPORTED",
-   "url": "https://nachrichten.fr/openai-legt-hunderte-mathematische-kunstliche-intelligenz-manuskripte-offen/"
+   "url": "https://www.vietnam.vn/en/thuong-vien-anh-tro-thanh-co-quan-lap-phap-dau-tien-cho-phep-nghi-si-su-dung-giong-noi-ai"
+  },
+  {
+   "headline": "Decision Model Microsoft-Decision-1 Launched, Challenging Low Cost and Judgment Speed…",
+   "outlet": "technews.tw",
+   "outlet_name": "technews.tw",
+   "label": "REPORTED",
+   "url": "https://technews.tw/2026/10/12/microsoft-introduces-microsoft-decision-1/"
+  },
+  {
+   "headline": "AI infrastructure provider Infinigence AI raises RMB 2.3 billion in Series C funding",
+   "outlet": "technode.com",
+   "outlet_name": "technode.com",
+   "label": "REPORTED",
+   "url": "https://technode.com/2026/10/12/ai-infrastructure-provider-infinigence-ai-raises-rmb-2-3-billion-in-series-c-funding/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 9200,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 9300,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/07.mp3",
- "audio_seconds": 62.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/08.mp3",
+ "audio_seconds": 59.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nFeiZ opens DeepSeek Bot, letting users build teams of bots with roles and memory. Confirmed by 53AI.\nReported by 36氪: Microsoft uses Alibaba's Qwen to build decision-making models that may roll out across fields. 火山引擎 is performing a security check for user access safety.\nClaude surges 770 percent in Korean job posts, outpacing other artificial intelligence tools. Reported by The Korea Times: Claude emerges as the fastest-growing artificial intelligence skill.\nAnthropic bans continuous abuse of Claude, allowing exceptions for creative or research use. Reported by 新浪财经.\nDeepSeek Harness can be equipped with a bot plugin to turn it into a bot system. Reported by OSCHINA.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\neMemory's subsidiary has secured a security trust position, with its security intellectual property entering Meta and Arm data center processors. Confirmed by UDN.\nDelhi High Court has directed removal of artificial intelligence deepfakes and fabricated content involving Kangana Ranaut. Confirmed by The Times of India.\nResilinc's Copilot plugin delivers real-time supply chain risk intelligence to procurement teams. Reported by EME Outlook Magazine.\nCalifornia has banned employers from using artificial intelligence alone to fire workers, requiring human review and transparency. Reported by Law Commentary.\nMicrosoft's president warns that artificial intelligence is less regulated than milk. Reported by The Guardian.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
