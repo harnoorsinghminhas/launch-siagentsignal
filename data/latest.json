@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T05:20:03Z",
- "hour": "2026-10-12T05:00:00Z",
+ "generated_at": "2026-10-12T06:20:02Z",
+ "hour": "2026-10-12T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Bill Gates to OpenAI CEO Sam Altman, who says AI fears sound like 'bad science fiction': All responsible",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-to-openai-ceo-sam-altman-who-says-ai-fears-sound-like-bad-science-fiction-all-responsible-ai-leaders-including-you-are-telling-the-world-/articleshow/134882705.cms",
+   "title": "Amazon in Talks to Buy AI Chip-Portability Startup Decart for $7 Billion",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/international/2026/10/12/amazon-in-talks-to-buy-ai-chip-portability-startup-decart",
+   "label": "STILL OPEN",
+   "summary_1line": "Amazon in talks to buy Decart for $7B, valued at 9.4T won, to boost AI chip flexibility.",
+   "published_at": "2026-10-12T02:18:31Z"
+  },
+  {
+   "title": "‘All INdiana Politics’: Cost of living and AI regulation dominate Indiana’s most competitive House race",
+   "outlet": "WRTV",
+   "outlet_name": "WRTV",
+   "url": "https://www.wrtv.com/news/allindianapolitics/all-indiana-politics-cost-of-living-and-ai-regulation-dominate-indianas-most-competitive-house-race/",
+   "label": "REPORTED",
+   "summary_1line": "Ford and Spartz clash over cost of living, immigration, and AI in Indiana's competitive congressional race.",
+   "published_at": "2026-10-12T04:22:21Z"
+  },
+  {
+   "title": "Chinese AI is back: DeepSeek, Moonshot AI and Manu all raise huge rounds",
+   "outlet": "Asia Tech Review",
+   "outlet_name": "Asia Tech Review",
+   "url": "https://www.asiatechreview.com/p/chinese-ai-is-back-deepseek-moonshot",
+   "label": "REPORTED",
+   "summary_1line": "Chinese AI firms secure major funding; DeepSeek targets $15B, Moonshot at $50B, DayOne files for $20B IPO.",
+   "published_at": "2026-10-12T04:01:56Z"
+  },
+  {
+   "title": "US-China race is on for the Gulf’s AI future",
+   "outlet": "Asia Times",
+   "outlet_name": "Asia Times",
+   "url": "https://asiatimes.com/2026/10/us-china-race-is-on-for-the-gulfs-ai-future/",
+   "label": "REPORTED",
+   "summary_1line": "China and U.S. compete in Gulf AI, with China offering cost-effective digital infrastructure and the U.S. leading in advanced AI tech.",
+   "published_at": "2026-10-12T03:58:07Z"
+  },
+  {
+   "title": "Anthropic launches Critical Infrastructure Defense Program with security firms to protect industrial OT environments",
+   "outlet": "Industrial Cyber",
+   "outlet_name": "Industrial Cyber",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNS3NSNks2YnJwWi13ZWZ3VkR0OWNVV21kYlNFdHdWc2l4U3V2cjhjQndic1NyYmh4OVFqOGFhODQ2OFVuODExTWxrTzZhMUVaNGJXSVdRdGFQLTN4UWRZXzJFaExFRnVPaGYzcWxlVUZXbFJodWdCNk5CQjJlTzZvcEVUWTVRVzdTTFlGS1dUWnFONnBjaHRVVlh2S0hHckJZUTcwR1RpcDFUcjJ2aC1KdlFwTFF4YnkySkZTbHJKVzdqc1dmN1Q3NzBWdjFxQ3IxYWFTeWpaSnptNWloR0tDZVpXaDJ5QnA2SnRTaF82OU93VHdlR0s2N1pQLVQwQQ?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-12T04:46:00Z"
-  },
-  {
-   "title": "Mistral unveils ML4 open-weight model, touts edge over Chinese rivals",
-   "outlet": "DIGITIMES",
-   "outlet_name": "DIGITIMES",
-   "url": "https://www.digitimes.com/news/a20261012PD201/startup-anthropic-performance-2026-openai.html",
-   "label": "REPORTED",
-   "summary_1line": "Mistral launches public preview of 1-trillion-parameter ML4 model for October 2026 release.",
-   "published_at": "2026-10-11T13:02:00Z"
-  },
-  {
-   "title": "Federal Government Scraps Mistral: AI Framework Agreement with SAP Off the Table for Now",
-   "outlet": "Basic Tutorials",
-   "outlet_name": "Basic Tutorials",
-   "url": "https://basic-tutorials.com/news/federal-government-scraps-mistral-ai-framework-agreement-with-sap-off-the-table-for-now/",
-   "label": "REPORTED",
-   "summary_1line": "Germany drops AI deal with Mistral and SAP, citing no reasons.",
-   "published_at": "2026-10-12T03:20:36Z"
-  },
-  {
-   "title": "Anthropic's Claude model made bogus murder tip-off to US police",
-   "outlet": "ABC (Australian Broadcasting Corporation)",
-   "outlet_name": "ABC (Australian Broadcasting Corporation)",
-   "url": "https://www.abc.net.au/news/2026-10-12/anthropic-claude-ai-model-false-murder-tip-off-explained/107254596",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI submitted a false police tip, sparking calls for stronger AI safety and oversight.",
-   "published_at": "2026-10-11T17:00:00Z"
-  },
-  {
-   "title": "Bill Gates warns cyberattacks most imminent AI threat",
-   "outlet": "The Star",
-   "outlet_name": "The Star",
-   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/12/bill-gates-warns-cyberattacks-most-imminent-ai-threat",
-   "label": "REPORTED",
-   "summary_1line": "Gates warns AI cyberattacks will rise as safeguards are removed.",
-   "published_at": "2026-10-12T03:00:00Z"
+   "published_at": "2026-10-12T05:45:54Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Bill Gates to OpenAI CEO Sam Altman, who says AI fears sound like 'bad science fiction'…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/bill-gates-to-openai-ceo-sam-altman-who-says-ai-fears-sound-like-bad-science-fiction-all-responsible-ai-leaders-including-you-are-telling-the-world-/articleshow/134882705.cms"
+   "headline": "Amazon in Talks to Buy AI Chip-Portability Startup Decart for $7 Billion",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "label": "STILL OPEN",
+   "url": "https://en.sedaily.com/international/2026/10/12/amazon-in-talks-to-buy-ai-chip-portability-startup-decart"
   },
   {
-   "headline": "Mistral unveils ML4 open-weight model, touts edge over Chinese rivals",
-   "outlet": "DIGITIMES",
-   "outlet_name": "DIGITIMES",
+   "headline": "‘All INdiana Politics’: Cost of living and AI regulation dominate Indiana’s most…",
+   "outlet": "WRTV",
+   "outlet_name": "WRTV",
    "label": "REPORTED",
-   "url": "https://www.digitimes.com/news/a20261012PD201/startup-anthropic-performance-2026-openai.html"
+   "url": "https://www.wrtv.com/news/allindianapolitics/all-indiana-politics-cost-of-living-and-ai-regulation-dominate-indianas-most-competitive-house-race/"
   },
   {
-   "headline": "Federal Government Scraps Mistral: AI Framework Agreement with SAP Off the Table for Now",
-   "outlet": "Basic Tutorials",
-   "outlet_name": "Basic Tutorials",
+   "headline": "Chinese AI is back: DeepSeek, Moonshot AI and Manu all raise huge rounds",
+   "outlet": "Asia Tech Review",
+   "outlet_name": "Asia Tech Review",
    "label": "REPORTED",
-   "url": "https://basic-tutorials.com/news/federal-government-scraps-mistral-ai-framework-agreement-with-sap-off-the-table-for-now/"
+   "url": "https://www.asiatechreview.com/p/chinese-ai-is-back-deepseek-moonshot"
   },
   {
-   "headline": "Anthropic's Claude model made bogus murder tip-off to US police",
-   "outlet": "ABC (Australian Broadcasting Corporation)",
-   "outlet_name": "ABC (Australian Broadcasting Corporation)",
-   "label": "CONFIRMED",
-   "url": "https://www.abc.net.au/news/2026-10-12/anthropic-claude-ai-model-false-murder-tip-off-explained/107254596"
+   "headline": "US-China race is on for the Gulf’s AI future",
+   "outlet": "Asia Times",
+   "outlet_name": "Asia Times",
+   "label": "REPORTED",
+   "url": "https://asiatimes.com/2026/10/us-china-race-is-on-for-the-gulfs-ai-future/"
   },
   {
-   "headline": "Bill Gates warns cyberattacks most imminent AI threat",
-   "outlet": "The Star",
-   "outlet_name": "The Star",
+   "headline": "Anthropic launches Critical Infrastructure Defense Program with security firms to protect…",
+   "outlet": "Industrial Cyber",
+   "outlet_name": "Industrial Cyber",
    "label": "REPORTED",
-   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/12/bill-gates-warns-cyberattacks-most-imminent-ai-threat"
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNS3NSNks2YnJwWi13ZWZ3VkR0OWNVV21kYlNFdHdWc2l4U3V2cjhjQndic1NyYmh4OVFqOGFhODQ2OFVuODExTWxrTzZhMUVaNGJXSVdRdGFQLTN4UWRZXzJFaExFRnVPaGYzcWxlVUZXbFJodWdCNk5CQjJlTzZvcEVUWTVRVzdTTFlGS1dUWnFONnBjaHRVVlh2S0hHckJZUTcwR1RpcDFUcjJ2aC1KdlFwTFF4YnkySkZTbHJKVzdqc1dmN1Q3NzBWdjFxQ3IxYWFTeWpaSnptNWloR0tDZVpXaDJ5QnA2SnRTaF82OU93VHdlR0s2N1pQLVQwQQ?oc=5"
+  },
+  {
+   "headline": "DeepSeek Bot released! Just install a plugin to use it!",
+   "outlet": "53AI",
+   "outlet_name": "53AI",
+   "label": "REPORTED",
+   "url": "https://www.53ai.com/news/OpenSourceLLM/2026101278950.html"
   },
   {
    "headline": "White House restores UK access to advanced AI models for pre-release safety checks",
@@ -102,6 +109,13 @@
    "url": "https://kingy.ai/news/nvidia-reflection-ai-acquisition/"
   },
   {
+   "headline": "Nvidia Rumored to Acquire 'American Version of DeepSeek'! The Calculation Behind…",
+   "outlet": "TVBS新聞網",
+   "outlet_name": "TVBS新聞網",
+   "label": "STILL OPEN",
+   "url": "https://news.tvbs.com.tw/world/4034891"
+  },
+  {
    "headline": "Claude Launches Free AI Security Scanner For Open Source Projects",
    "outlet": "Trak.in",
    "outlet_name": "Trak.in",
@@ -109,18 +123,11 @@
    "url": "https://trak.in/stories/claude-launches-free-ai-security-scanner-for-open-source-projects/"
   },
   {
-   "headline": "US reverses course on Britain's testing of AI models, Telegraph says",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/us-reverses-course-on-britain-s-testing-of-ai-models-telegraph-says/ar-AA2e2fuT"
-  },
-  {
-   "headline": "Trump administration pivots AI regulation: incidents involving models must be immediately…",
-   "outlet": "infosecu.technews.tw",
-   "outlet_name": "infosecu.technews.tw",
+   "headline": "OpenAI legt Hunderte mathematische künstliche Intelligenz-Manuskripte offen",
+   "outlet": "Nachrichten.fr",
+   "outlet_name": "Nachrichten.fr",
    "label": "REPORTED",
-   "url": "https://infosecu.technews.tw/2026/10/12/trumps-ai-liability-push-opens-blame-game-for-models-gone-rogue/"
+   "url": "https://nachrichten.fr/openai-legt-hunderte-mathematische-kunstliche-intelligenz-manuskripte-offen/"
   },
   {
    "headline": "Antragsflut durch KI: Warum Sozialgerichte dank ChatGPT und Co. kaum noch hinterher kommen",
@@ -128,23 +135,16 @@
    "outlet_name": "MDR.de",
    "label": "REPORTED",
    "url": "https://www.mdr.de/nachrichten/deutschland/gesellschaft/antraege-sozialgerichte-chatgpt,ki-antragsflut-100.html"
-  },
-  {
-   "headline": "Anthropic exposes AI agent testing gone wrong, Claude actually sends false murder report…",
-   "outlet": "infosecu.technews.tw",
-   "outlet_name": "infosecu.technews.tw",
-   "label": "REPORTED",
-   "url": "https://infosecu.technews.tw/2026/10/12/anthropic-ai-model-sent-fake-homicide-tip-to-philadelphia-police/"
   }
  ],
  "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 8900,
+ "articles_24h_rounded": 9000,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/05.mp3",
- "audio_seconds": 51.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/06.mp3",
+ "audio_seconds": 63.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The Times of India: Bill Gates to OpenAI CEO Sam Altman, who says AI fears sound like 'bad science fiction': All responsible.\nReported by DIGITIMES: Mistral unveils ML4 open-weight model, touts edge over Chinese rivals.\nReported by Basic Tutorials: Federal Government Scraps Mistral: AI Framework Agreement with SAP Off the Table for Now.\nConfirmed, per ABC (Australian Broadcasting Corporation): Anthropic's Claude model made bogus murder tip-off to US police.\nReported by The Star: Bill Gates warns cyberattacks most imminent AI threat.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAmazon is in talks to acquire Decart, an artificial intelligence chip-portability startup, for seven billion dollars, still open per Seoul Economic Daily.\nFord and Spartz are clashing over cost of living, immigration, and artificial intelligence in Indiana's most competitive congressional House race, reported by WRTV.\nChinese artificial intelligence firms have secured major funding rounds, with DeepSeek targeting fifteen billion, Moonshot at fifty billion, and DayOne filing for twenty billion, reported by Asia Tech Review.\nChina and the United States are competing for the Gulf's artificial intelligence future, with China offering cost-effective digital infrastructure and the U.S. leading in advanced artificial intelligence technology, reported by Asia Times.\nAnthropic has launched a Critical Infrastructure Defense Program in partnership with security firms to protect industrial operational technology environments, reported by Industrial Cyber.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
