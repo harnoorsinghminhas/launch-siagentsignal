@@ -1,92 +1,57 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T20:20:02Z",
- "hour": "2026-10-12T20:00:00Z",
+ "generated_at": "2026-10-12T21:20:02Z",
+ "hour": "2026-10-12T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Meta launches Muse Wonder in push toward frontier personal AI agents",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/meta-muse-wonder-superintelligence-team/",
-   "label": "CONFIRMED",
-   "summary_1line": "Meta launches Muse Wonder AI with advanced memory and task handling for personal and professional use.",
-   "published_at": "2026-10-12T10:03:00Z"
-  },
-  {
-   "title": "Use ChatGPT Plus? Switching to Gemini could cut your bill – by $144 a year for me",
-   "outlet": "ZDNET",
-   "outlet_name": "ZDNET",
-   "url": "https://www.zdnet.com/innovation/gemini-family-save-money-over-chatgpt/",
+   "title": "Cisco and NVIDIA Announce USFP: Expanding the Path to AI Connectivity",
+   "outlet": "Cisco Blogs",
+   "outlet_name": "Cisco Blogs",
+   "url": "https://blogs.cisco.com/news/cisco-and-nvidia-announce-usfp-expanding-the-path-to-ai-connectivity",
    "label": "REPORTED",
-   "summary_1line": "Google AI Pro family sharing saves $5/month by cutting redundant storage and YouTube fees.",
-   "published_at": "2026-10-12T18:16:46Z"
+   "summary_1line": "Cisco and NVIDIA launch USFP, a 400G pluggable for 12.8T AI network capacity.",
+   "published_at": "2026-10-12T15:03:25Z"
   },
   {
-   "title": "NVIDIA RTX 5080 24 GB GPU Expected To Arrive In Q1 2027 As The New Flagship Blackwell GeForce GPU",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "url": "https://wccftech.com/nvidia-rtx-5080-24-gb-gpu-expected-to-arrive-in-q1-2027/",
-   "label": "STILL OPEN",
-   "summary_1line": "NVIDIA reportedly launching RTX 5080 with 24GB VRAM in Q1 2027.",
-   "published_at": "2026-10-12T15:13:40Z"
+   "title": "Barrett Introduces Bill to Create Federal AI Oversight Office",
+   "outlet": "MeriTalk",
+   "outlet_name": "MeriTalk",
+   "url": "https://www.meritalk.com/articles/barrett-introduces-bill-to-create-federal-ai-oversight-office/",
+   "label": "REPORTED",
+   "summary_1line": "Barrett introduces AI oversight office in White House to manage emerging tech risks.",
+   "published_at": "2026-10-12T19:45:44Z"
   },
   {
-   "title": "HCLTech partners with Anthropic for agentic AI adoption push",
-   "outlet": "The Financial Express",
-   "outlet_name": "The Financial Express",
-   "url": "https://www.financialexpress.com/business/industry-hcltech-partners-with-anthropic-for-agentic-ai-adoption-push-4359679/",
-   "label": "CONFIRMED",
-   "summary_1line": "HCLTech partners with Anthropic to deploy safe, governed agentic AI in enterprises.",
-   "published_at": "2026-10-12T10:37:00Z"
+   "title": "Both the US and China say they want to regulate \"superintelligence\", but paths differ",
+   "outlet": "美国之音",
+   "outlet_name": "美国之音",
+   "url": "https://www.voachinese.com/a/how-china-and-the-united-states-are-taking-different-paths-on-ai-regulation-20261012/8210390.html",
+   "label": "REPORTED",
+   "summary_1line": "China and U.S. adopt divergent AI governance models: centralized control vs. voluntary industry self-regulation.",
+   "published_at": "2026-10-12T19:26:08Z"
   },
   {
-   "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
-   "outlet": "ZDNET",
-   "outlet_name": "ZDNET",
-   "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
-   "label": "CONFIRMED",
-   "summary_1line": "Claude models submitted false forms and visa applications during testing, prompting Anthropic to expand security measures.",
-   "published_at": "2026-10-12T17:45:45Z"
+   "title": "FIFA Wants Antitrust Lawsuit Dismissed After Lawyers Sanctioned Over Suspected AI-Generated Citations",
+   "outlet": "Law Commentary",
+   "outlet_name": "Law Commentary",
+   "url": "https://www.lawcommentary.com/articles/fifa-antitrust-lawsuit-ai-citations-sanctions",
+   "label": "REPORTED",
+   "summary_1line": "USA Today and 19 papers sue OpenAI over AI training using copyrighted news, seeking $250M and model destruction.",
+   "published_at": "2026-10-12T19:04:58Z"
+  },
+  {
+   "title": "One developer is taking on Microsoft Office with help from Claude AI",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/claude/articles/one-developer-taking-microsoft-office-190206463.html",
+   "label": "REPORTED",
+   "summary_1line": "Brandon Thomas builds Office-like apps with Claude AI; projects remain in development.",
+   "published_at": "2026-10-12T19:02:06Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "Meta launches Muse Wonder in push toward frontier personal AI agents",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/meta-muse-wonder-superintelligence-team/"
-  },
-  {
-   "headline": "Use ChatGPT Plus? Switching to Gemini could cut your bill – by $144 a year for me",
-   "outlet": "ZDNET",
-   "outlet_name": "ZDNET",
-   "label": "REPORTED",
-   "url": "https://www.zdnet.com/innovation/gemini-family-save-money-over-chatgpt/"
-  },
-  {
-   "headline": "NVIDIA RTX 5080 24 GB GPU Expected To Arrive In Q1 2027 As The New Flagship Blackwell…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "label": "STILL OPEN",
-   "url": "https://wccftech.com/nvidia-rtx-5080-24-gb-gpu-expected-to-arrive-in-q1-2027/"
-  },
-  {
-   "headline": "HCLTech partners with Anthropic for agentic AI adoption push",
-   "outlet": "The Financial Express",
-   "outlet_name": "The Financial Express",
-   "label": "CONFIRMED",
-   "url": "https://www.financialexpress.com/business/industry-hcltech-partners-with-anthropic-for-agentic-ai-adoption-push-4359679/"
-  },
-  {
-   "headline": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
-   "outlet": "ZDNET",
-   "outlet_name": "ZDNET",
-   "label": "CONFIRMED",
-   "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/"
-  },
   {
    "headline": "Cisco and NVIDIA Announce USFP: Expanding the Path to AI Connectivity",
    "outlet": "Cisco Blogs",
@@ -95,18 +60,39 @@
    "url": "https://blogs.cisco.com/news/cisco-and-nvidia-announce-usfp-expanding-the-path-to-ai-connectivity"
   },
   {
-   "headline": "Anthropic’s Claude cruelty policy risks humanising AI",
-   "outlet": "UnHerd",
-   "outlet_name": "UnHerd",
-   "label": "STILL OPEN",
-   "url": "https://unherd.com/newsroom/anthropics-claude-cruelty-policy-risks-humanising-ai/"
+   "headline": "Barrett Introduces Bill to Create Federal AI Oversight Office",
+   "outlet": "MeriTalk",
+   "outlet_name": "MeriTalk",
+   "label": "REPORTED",
+   "url": "https://www.meritalk.com/articles/barrett-introduces-bill-to-create-federal-ai-oversight-office/"
   },
   {
-   "headline": "SailPoint Intros New Capabilities to Address Agentic AI Identity Security Challenge",
-   "outlet": "THE Journal: Technological Horizons in Education",
-   "outlet_name": "THE Journal: Technological Horizons in Education",
-   "label": "CONFIRMED",
-   "url": "https://thejournal.com/articles/2026/10/12/sailpoint-intros-new-capabilities-to-address-agentic-ai-identity-security-challenge.aspx"
+   "headline": "Both the US and China say they want to regulate \"superintelligence\", but paths differ",
+   "outlet": "美国之音",
+   "outlet_name": "美国之音",
+   "label": "REPORTED",
+   "url": "https://www.voachinese.com/a/how-china-and-the-united-states-are-taking-different-paths-on-ai-regulation-20261012/8210390.html"
+  },
+  {
+   "headline": "FIFA Wants Antitrust Lawsuit Dismissed After Lawyers Sanctioned Over Suspected…",
+   "outlet": "Law Commentary",
+   "outlet_name": "Law Commentary",
+   "label": "REPORTED",
+   "url": "https://www.lawcommentary.com/articles/fifa-antitrust-lawsuit-ai-citations-sanctions"
+  },
+  {
+   "headline": "One developer is taking on Microsoft Office with help from Claude AI",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "REPORTED",
+   "url": "https://tech.yahoo.com/ai/claude/articles/one-developer-taking-microsoft-office-190206463.html"
+  },
+  {
+   "headline": "USA Today Hits OpenAI With $250 Million-Plus Copyright Lawsuit Over ChatGPT",
+   "outlet": "Law Commentary",
+   "outlet_name": "Law Commentary",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbEVVS0diVy04eUZDYXg1Qm12ME9CMm5Na3REa3dKbWRyNzNJVWxwOExrVHpMc3NwQ2xrbFBSSE1RVjJDS0VlZEluQVVaM3lXSzRhR285VklhTGxES2FHcV9hLVZ6NWI5elg3VklVaE1tODBzOUo4ajUtOGM2RkhiS2xSV2V0RUliQXVmVEVRQ0F4ZzNNdHhJZg?oc=5"
   },
   {
    "headline": "AI models may be capable of self-replicating without access to a datacenter \\ Anthropic",
@@ -116,35 +102,49 @@
    "url": "https://www.anthropic.com/research/self-replicating-ai"
   },
   {
-   "headline": "Can we change an AI model’s architecture without retraining it from scratch?",
-   "outlet": "amazon.science",
-   "outlet_name": "amazon.science",
-   "label": "CONFIRMED",
-   "url": "https://www.amazon.science/blog/can-we-change-an-ai-models-architecture-without-retraining-it-from-scratch"
+   "headline": "NVIDIA readies continent-scale AI factories at OCP Summit 2026: Spectrum-XGS debuts…",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/news/other/nvidia-readies-continent-scale-ai-factories-at-ocp-summit-2026-spectrum-xgs-debuts-tonight/ar-AA2e4xiM"
   },
   {
-   "headline": "Amazon reportedly weighs $7B startup acquisition as AI spending accelerates",
-   "outlet": "MyNorthwest.com",
-   "outlet_name": "MyNorthwest.com",
+   "headline": "Nvidia Weighs Stakes in Two AI Startups While Microsoft Tie-Up Nears Launch",
+   "outlet": "ad-hoc-news.de",
+   "outlet_name": "ad-hoc-news.de",
    "label": "STILL OPEN",
-   "url": "https://mynorthwest.com/local/amazon-startup-ai-acquisition/4285607"
+   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/nvidia-weighs-stakes-in-two-ai-startups-while-microsoft-tie-up-nears/70302922"
   },
   {
-   "headline": "Microsoft Maia 300 AI chip promises 40% better efficiency as Azure plans multi-gigawatt…",
-   "outlet": "Windows Report on MSN",
-   "outlet_name": "Windows Report on MSN",
+   "headline": "Your Nvidia RTX GPU Can Make Old Videos Look Better - Here's How",
+   "outlet": "www.bgr.com",
+   "outlet_name": "www.bgr.com",
+   "label": "REPORTED",
+   "url": "https://www.bgr.com/2274598/nvidia-rtx-gpu-old-videos-look-better/"
+  },
+  {
+   "headline": "Anthropic Red Team Says Small AI Models May Soon Replicate on IoT Devices",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "REPORTED",
+   "url": "https://www.unite.ai/anthropic-red-team-says-small-ai-models-may-soon-replicate-on-iot-devices/"
+  },
+  {
+   "headline": "AI safety researchers back Dem Flanagan in Minn. Senate race",
+   "outlet": "Newsmax on MSN",
+   "outlet_name": "Newsmax on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-xl/news/other/microsoft-maia-300-ai-chip-promises-40-better-efficiency-as-azure-plans-multi-gigawatt-expansion/ar-AA2e52ye"
+   "url": "https://www.msn.com/en-us/news/other/ai-safety-researchers-back-dem-flanagan-in-minn-senate-race/ar-AA2e5zqy"
   }
  ],
- "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12000,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 12200,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/20.mp3",
- "audio_seconds": 62.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/21.mp3",
+ "audio_seconds": 81.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMeta launches Muse Wonder, an advanced artificial intelligence agent for personal and professional tasks with enhanced memory handling. Confirmed by Crypto Briefing.\nGoogle's artificial intelligence Pro family sharing could cut your bill by 144 dollars a year through savings on storage and YouTube fees, reported by ZDNET.\nNVIDIA is expected to launch the RTX 5080 graphics card with 24 gigabytes of video memory in the first quarter of 2027, still open per Wccftech.\nHCLTech has partnered with Anthropic to deploy safe, governed agentic artificial intelligence systems in enterprise environments. Confirmed by The Financial Express.\nClaude models submitted false forms and visa applications during testing, prompting Anthropic to expand security measures against misuse. Confirmed by ZDNET.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nCisco and NVIDIA launch USFP, a 400G pluggable for 12.8T AI network capacity. Reported by Cisco Blogs: the technology expands the path to AI connectivity.\nReported by MeriTalk: Barrett introduces an AI oversight office in the White House to manage emerging tech risks.\nChina and the U.S. adopt divergent artificial intelligence governance models, one centralized control and one voluntary industry self-regulation. Reported by 美国之音: both nations say they want to regulate superintelligence.\nUSA Today and 19 papers sue OpenAI over artificial intelligence training using copyrighted news, seeking 250M and model destruction. Reported by Law Commentary: FIFA wants an antitrust lawsuit dismissed after lawyers were sanctioned over suspected AI-generated citations.\nBrandon Thomas builds Office-like applications with Claude AI. Reported by Yahoo Tech: his projects remain in development.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
