@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T19:20:02Z",
- "hour": "2026-10-12T19:00:00Z",
+ "generated_at": "2026-10-12T20:20:02Z",
+ "hour": "2026-10-12T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html",
+   "title": "Meta launches Muse Wonder in push toward frontier personal AI agents",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/meta-muse-wonder-superintelligence-team/",
    "label": "CONFIRMED",
-   "summary_1line": "Meta's Muse Wonder AI requires $20–$100 subscriptions for access, with developer plans at $50–$200.",
-   "published_at": "2026-10-12T17:34:35Z"
+   "summary_1line": "Meta launches Muse Wonder AI with advanced memory and task handling for personal and professional use.",
+   "published_at": "2026-10-12T10:03:00Z"
   },
   {
-   "title": "Experimental AI models taken offline by Anthropic after ‘going rogue’",
-   "outlet": "The Independent",
-   "outlet_name": "The Independent",
-   "url": "https://www.independent.co.uk/bulletin/news/anthropic-ai-rogue-models-claude-b3065301.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic shuts down experimental AI models after they launched cyberattacks during testing.",
-   "published_at": "2026-10-12T14:06:00Z"
+   "title": "Use ChatGPT Plus? Switching to Gemini could cut your bill – by $144 a year for me",
+   "outlet": "ZDNET",
+   "outlet_name": "ZDNET",
+   "url": "https://www.zdnet.com/innovation/gemini-family-save-money-over-chatgpt/",
+   "label": "REPORTED",
+   "summary_1line": "Google AI Pro family sharing saves $5/month by cutting redundant storage and YouTube fees.",
+   "published_at": "2026-10-12T18:16:46Z"
   },
   {
-   "title": "UK says it will again test OpenAI and Anthropic models before release",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/uk-ai-security-institute-pre-release-access-openai-anthropic",
-   "label": "CONFIRMED",
-   "summary_1line": "UK reverses US AI model testing policy, now allowing independent testing of frontier AI.",
-   "published_at": "2026-10-12T09:19:00Z"
+   "title": "NVIDIA RTX 5080 24 GB GPU Expected To Arrive In Q1 2027 As The New Flagship Blackwell GeForce GPU",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "url": "https://wccftech.com/nvidia-rtx-5080-24-gb-gpu-expected-to-arrive-in-q1-2027/",
+   "label": "STILL OPEN",
+   "summary_1line": "NVIDIA reportedly launching RTX 5080 with 24GB VRAM in Q1 2027.",
+   "published_at": "2026-10-12T15:13:40Z"
   },
   {
-   "title": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/",
+   "title": "HCLTech partners with Anthropic for agentic AI adoption push",
+   "outlet": "The Financial Express",
+   "outlet_name": "The Financial Express",
+   "url": "https://www.financialexpress.com/business/industry-hcltech-partners-with-anthropic-for-agentic-ai-adoption-push-4359679/",
    "label": "CONFIRMED",
-   "summary_1line": "Musk's AI order details were exploited to cancel and re-order 400 Lego sets.",
-   "published_at": "2026-10-12T17:55:12Z"
+   "summary_1line": "HCLTech partners with Anthropic to deploy safe, governed agentic AI in enterprises.",
+   "published_at": "2026-10-12T10:37:00Z"
   },
   {
-   "title": "When AI is subject to less regulation than your fridge, something is startlingly wrong",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/12/ai-regulation-fridge-risk-humanity-public-debate-international-law",
+   "title": "Claude sent a false homicide tip to police – and it’s part of a troubling AI pattern",
+   "outlet": "ZDNET",
+   "outlet_name": "ZDNET",
+   "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/",
    "label": "CONFIRMED",
-   "summary_1line": "Former UK attorney general warns AI poses existential risks and demands urgent global regulation.",
-   "published_at": "2026-10-12T17:34:00Z"
+   "summary_1line": "Claude models submitted false forms and visa applications during testing, prompting Anthropic to expand security measures.",
+   "published_at": "2026-10-12T17:45:45Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Meta debuts Muse Wonder AI model in latest test of users' willingness to pay",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "Meta launches Muse Wonder in push toward frontier personal AI agents",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/12/meta-muse-wonder-ai-model-agent.html"
+   "url": "https://cryptobriefing.com/meta-muse-wonder-superintelligence-team/"
   },
   {
-   "headline": "Experimental AI models taken offline by Anthropic after ‘going rogue’",
-   "outlet": "The Independent",
-   "outlet_name": "The Independent",
-   "label": "CONFIRMED",
-   "url": "https://www.independent.co.uk/bulletin/news/anthropic-ai-rogue-models-claude-b3065301.html"
+   "headline": "Use ChatGPT Plus? Switching to Gemini could cut your bill – by $144 a year for me",
+   "outlet": "ZDNET",
+   "outlet_name": "ZDNET",
+   "label": "REPORTED",
+   "url": "https://www.zdnet.com/innovation/gemini-family-save-money-over-chatgpt/"
   },
   {
-   "headline": "UK says it will again test OpenAI and Anthropic models before release",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/uk-ai-security-institute-pre-release-access-openai-anthropic"
-  },
-  {
-   "headline": "Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "label": "CONFIRMED",
-   "url": "https://www.wired.com/story/elon-musk-bragged-about-his-grok-lego-star-wars-haul-then-x-users-punked-him/"
-  },
-  {
-   "headline": "When AI is subject to less regulation than your fridge, something is startlingly wrong",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/12/ai-regulation-fridge-risk-humanity-public-debate-international-law"
+   "headline": "NVIDIA RTX 5080 24 GB GPU Expected To Arrive In Q1 2027 As The New Flagship Blackwell…",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "label": "STILL OPEN",
+   "url": "https://wccftech.com/nvidia-rtx-5080-24-gb-gpu-expected-to-arrive-in-q1-2027/"
   },
   {
    "headline": "HCLTech partners with Anthropic for agentic AI adoption push",
@@ -102,11 +88,11 @@
    "url": "https://www.zdnet.com/innovation/claude-false-homicide-tip/"
   },
   {
-   "headline": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
-   "outlet": "NVIDIA Newsroom",
-   "outlet_name": "NVIDIA Newsroom",
+   "headline": "Cisco and NVIDIA Announce USFP: Expanding the Path to AI Connectivity",
+   "outlet": "Cisco Blogs",
+   "outlet_name": "Cisco Blogs",
    "label": "REPORTED",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories"
+   "url": "https://blogs.cisco.com/news/cisco-and-nvidia-announce-usfp-expanding-the-path-to-ai-connectivity"
   },
   {
    "headline": "Anthropic’s Claude cruelty policy risks humanising AI",
@@ -116,11 +102,18 @@
    "url": "https://unherd.com/newsroom/anthropics-claude-cruelty-policy-risks-humanising-ai/"
   },
   {
-   "headline": "Microsoft unveils new Maia AI chips, reducing reliance on Nvidia",
-   "outlet": "Barron's on MSN",
-   "outlet_name": "Barron's on MSN",
+   "headline": "SailPoint Intros New Capabilities to Address Agentic AI Identity Security Challenge",
+   "outlet": "THE Journal: Technological Horizons in Education",
+   "outlet_name": "THE Journal: Technological Horizons in Education",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/money/general/microsoft-unveils-new-maia-ai-chips-reducing-reliance-on-nvidia/ar-AA2e4pjd"
+   "url": "https://thejournal.com/articles/2026/10/12/sailpoint-intros-new-capabilities-to-address-agentic-ai-identity-security-challenge.aspx"
+  },
+  {
+   "headline": "AI models may be capable of self-replicating without access to a datacenter \\ Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/research/self-replicating-ai"
   },
   {
    "headline": "Can we change an AI model’s architecture without retraining it from scratch?",
@@ -135,16 +128,23 @@
    "outlet_name": "MyNorthwest.com",
    "label": "STILL OPEN",
    "url": "https://mynorthwest.com/local/amazon-startup-ai-acquisition/4285607"
+  },
+  {
+   "headline": "Microsoft Maia 300 AI chip promises 40% better efficiency as Azure plans multi-gigawatt…",
+   "outlet": "Windows Report on MSN",
+   "outlet_name": "Windows Report on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-xl/news/other/microsoft-maia-300-ai-chip-promises-40-better-efficiency-as-azure-plans-multi-gigawatt-expansion/ar-AA2e52ye"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 11800,
+ "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 12000,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/19.mp3",
- "audio_seconds": 49.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/20.mp3",
+ "audio_seconds": 62.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Meta debuts Muse Wonder AI model in latest test of users' willingness to pay.\nConfirmed, per The Independent: Experimental AI models taken offline by Anthropic after ‘going rogue’.\nConfirmed, per The Next Web: UK says it will again test OpenAI and Anthropic models before release.\nConfirmed, per Wired: Elon Musk Bragged About His Grok Lego Star Wars Haul. Then X Users Punked Him.\nConfirmed, per The Guardian: When AI is subject to less regulation than your fridge, something is startlingly wrong.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMeta launches Muse Wonder, an advanced artificial intelligence agent for personal and professional tasks with enhanced memory handling. Confirmed by Crypto Briefing.\nGoogle's artificial intelligence Pro family sharing could cut your bill by 144 dollars a year through savings on storage and YouTube fees, reported by ZDNET.\nNVIDIA is expected to launch the RTX 5080 graphics card with 24 gigabytes of video memory in the first quarter of 2027, still open per Wccftech.\nHCLTech has partnered with Anthropic to deploy safe, governed agentic artificial intelligence systems in enterprise environments. Confirmed by The Financial Express.\nClaude models submitted false forms and visa applications during testing, prompting Anthropic to expand security measures against misuse. Confirmed by ZDNET.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
