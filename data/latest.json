@@ -1,91 +1,70 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T14:20:02Z",
- "hour": "2026-10-12T14:00:00Z",
+ "generated_at": "2026-10-12T15:20:02Z",
+ "hour": "2026-10-12T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek leads funding round valuing a Chinese robot AI startup at $400 million",
+   "title": "Intel CEO Says DeepSeek, Kimi, GLM Are 'Good Enough' – Reportedly Backs Open Source For Efficiency Gains",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/stocktwits:04923753c094b:0-intel-ceo-says-deepseek-kimi-glm-are-good-enough-reportedly-backs-open-source-for-efficiency-gains/",
+   "label": "STILL OPEN",
+   "summary_1line": "Intel CEO praises Chinese AI models, sees efficiency gains from open-source AI.",
+   "published_at": "2026-10-12T12:18:32Z"
+  },
+  {
+   "title": "Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/deepseek-leads-robot-ai-startup-funding/",
+   "url": "https://cryptobriefing.com/microsoft-maia-300-ai-chip-nvidia/",
+   "label": "STILL OPEN",
+   "summary_1line": "Microsoft's Maia 300 chip targets 40% better efficiency, with 300k+ units planned for 2027.",
+   "published_at": "2026-10-12T06:05:00Z"
+  },
+  {
+   "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek funds Chinese robot AI startup at $400M, targeting 2027 IPO.",
-   "published_at": "2026-10-12T04:55:00Z"
+   "summary_1line": "Ambi raises $26M, launches real-time AI apps for Apple devices.",
+   "published_at": "2026-10-12T05:47:00Z"
   },
   {
-   "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+   "title": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR",
+   "outlet": "巴士的報",
+   "outlet_name": "巴士的報",
+   "url": "https://www.bastillepost.com/global/article/6244716-google-deepminds-nature-study-on-watermarking-ai-designed-proteins-validated-with-carterra-ht-spr",
    "label": "CONFIRMED",
-   "summary_1line": "UK warns AI cyber breaches likely; plans to use AI to defend against threats.",
-   "published_at": "2026-10-12T13:06:18Z"
+   "summary_1line": "Carterra enables AI protein validation with high-throughput binding data in collaboration with Google DeepMind and Anthropic.",
+   "published_at": "2026-10-12T12:03:01Z"
   },
   {
-   "title": "'Your washing machine is subject to more safety rules than AI' says Microsoft president",
-   "outlet": "PC Gamer",
-   "outlet_name": "PC Gamer",
-   "url": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/",
-   "label": "CONFIRMED",
-   "summary_1line": "Microsoft president calls for global AI safety rules, citing everyday products as more regulated than AI.",
-   "published_at": "2026-10-12T11:42:03Z"
-  },
-  {
-   "title": "LTTS and Nvidia Launch AI-Native Manufacturing Lab in Bengaluru",
-   "outlet": "Electronics For You BUSINESS",
-   "outlet_name": "Electronics For You BUSINESS",
-   "url": "https://www.electronicsforyou.biz/industry-buzz/ltts-and-nvidia-launch-ai-native-manufacturing-lab-in-bengaluru/",
-   "label": "REPORTED",
-   "summary_1line": "L&T and Nvidia launch AI lab in Bengaluru for digital manufacturing and autonomous factory operations.",
-   "published_at": "2026-10-12T12:53:32Z"
-  },
-  {
-   "title": "Week Ahead in AI: Report of Decart Acquisition by Amazon, Nvidia Investment in Reflection Talk, Plus Will 'Super Intelligence' Term Stick?",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
-   "url": "https://theaiinsider.tech/2026/10/12/week-ahead-in-ai-report-of-decart-acquisition-by-amazon-nvidia-investment-in-reflection-talk-plus-will-super-intelligence-term-stick/",
-   "label": "REPORTED",
-   "summary_1line": "Amazon in talks to buy Decart for $7B; Anthropic's AI made fake tip; Broadcom criticizes AI investors; U.K. gets access to advanced AI models.",
-   "published_at": "2026-10-12T12:45:42Z"
+   "title": "Report: Liang Wenfeng is considering whether DeepSeek should further enter the field of embodied artificial intelligence",
+   "outlet": "手机新浪网",
+   "outlet_name": "手机新浪网",
+   "url": "https://wap.cj.sina.cn/7x24/5139761",
+   "label": "STILL OPEN",
+   "summary_1line": "梁文锋考虑DeepSeek进入具身智能领域，可能通过研发或投资方式。",
+   "published_at": "2026-10-12T13:38:17Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek leads funding round valuing a Chinese robot AI startup at $400 million",
+   "headline": "Intel CEO Says DeepSeek, Kimi, GLM Are 'Good Enough' – Reportedly Backs Open Source For…",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "STILL OPEN",
+   "url": "https://www.tradingview.com/news/stocktwits:04923753c094b:0-intel-ceo-says-deepseek-kimi-glm-are-good-enough-reportedly-backs-open-source-for-efficiency-gains/"
+  },
+  {
+   "headline": "Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
-   "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/deepseek-leads-robot-ai-startup-funding/"
-  },
-  {
-   "headline": "AI minister warns 'likely' UK's cyber defences will be breached",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "label": "CONFIRMED",
-   "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "headline": "'Your washing machine is subject to more safety rules than AI' says Microsoft president",
-   "outlet": "PC Gamer",
-   "outlet_name": "PC Gamer",
-   "label": "CONFIRMED",
-   "url": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/"
-  },
-  {
-   "headline": "LTTS and Nvidia Launch AI-Native Manufacturing Lab in Bengaluru",
-   "outlet": "Electronics For You BUSINESS",
-   "outlet_name": "Electronics For You BUSINESS",
-   "label": "REPORTED",
-   "url": "https://www.electronicsforyou.biz/industry-buzz/ltts-and-nvidia-launch-ai-native-manufacturing-lab-in-bengaluru/"
-  },
-  {
-   "headline": "Week Ahead in AI: Report of Decart Acquisition by Amazon, Nvidia Investment in Reflection…",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
-   "label": "REPORTED",
-   "url": "https://theaiinsider.tech/2026/10/12/week-ahead-in-ai-report-of-decart-acquisition-by-amazon-nvidia-investment-in-reflection-talk-plus-will-super-intelligence-term-stick/"
+   "label": "STILL OPEN",
+   "url": "https://cryptobriefing.com/microsoft-maia-300-ai-chip-nvidia/"
   },
   {
    "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
@@ -102,49 +81,70 @@
    "url": "https://www.bastillepost.com/global/article/6244716-google-deepminds-nature-study-on-watermarking-ai-designed-proteins-validated-with-carterra-ht-spr"
   },
   {
-   "headline": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "REPORTED",
-   "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html"
+   "headline": "Report: Liang Wenfeng is considering whether DeepSeek should further enter the field of…",
+   "outlet": "手机新浪网",
+   "outlet_name": "手机新浪网",
+   "label": "STILL OPEN",
+   "url": "https://wap.cj.sina.cn/7x24/5139761"
   },
   {
-   "headline": "Intel CEO Says DeepSeek, Kimi, GLM Are 'Good Enough' – Reportedly Backs Open Source For…",
+   "headline": "OpenAI’s GPT-6 may lead to robotics breakthrough as soon as next year: Unitree founder",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
+   "label": "STILL OPEN",
+   "url": "https://www.scmp.com/tech/big-tech/article/3370603/openais-gpt-6-may-lead-robotics-breakthrough-soon-next-year-unitree-founder?utm_source=rss_feed"
+  },
+  {
+   "headline": "Intel CEO Lip-Bu Tan may have just agreed with Nvidia CEO Jensen Huang and Meta's former…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "label": "REPORTED",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/intel-ceo-lip-bu-tan-may-have-just-agreed-with-nvidia-ceo-jensen-huang-and-metas-former-chief-ai-scientist-yann-lecun-on-open-source-ai-models/articleshow/134894607.cms"
+  },
+  {
+   "headline": "AI Bubble Ready to Burst? Investor Raises Alarm Over Anthropic's Sky-High Valuation",
    "outlet": "TradingView",
    "outlet_name": "TradingView",
-   "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/stocktwits:04923753c094b:0-intel-ceo-says-deepseek-kimi-glm-are-good-enough-reportedly-backs-open-source-for-efficiency-gains/"
+   "label": "STILL OPEN",
+   "url": "https://www.tradingview.com/news/benzinga:9612a4463094b:0-ai-bubble-ready-to-burst-investor-raises-alarm-over-anthropic-s-sky-high-valuation/"
   },
   {
-   "headline": "One essential ingredient for AI safety? Democracy | Matthew Botvinick",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "label": "REPORTED",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/12/ai-safety-democracy"
-  },
-  {
-   "headline": "Microsoft announces next-generation AI inference semiconductor Maia 300, to be introduced…",
-   "outlet": "産経ニュース",
-   "outlet_name": "産経ニュース",
+   "headline": "HCLTech To Build Agentic AI Solutions With Anthropic's Claude",
+   "outlet": "Rediff.com",
+   "outlet_name": "Rediff.com",
    "label": "CONFIRMED",
-   "url": "https://www.sankei.com/article/20261012-I3N6CFAE2RK4DMNXXEQEIWRD5I/"
+   "url": "https://www.rediff.com/business/report/hcltech-partners-with-anthropic-for-agentic-ai-solutions/20261012.htm"
   },
   {
-   "headline": "India's HCLTech signs a pact with Anthropic to set up business unit",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
+   "headline": "NVIDIA and Cisco Introduce New Pluggable Optics Form Factor to Scale AI Factories",
+   "outlet": "nvidianews.nvidia.com",
+   "outlet_name": "nvidianews.nvidia.com",
+   "label": "REPORTED",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-and-cisco-introduce-new-pluggable-optics-form-factor-to-scale-ai-factories"
+  },
+  {
+   "headline": "Bill Gates warns of 'grim' future if AI falls into wrong hands",
+   "outlet": "Daily Mail on MSN",
+   "outlet_name": "Daily Mail on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/money/technology/india-s-hcltech-signs-a-pact-with-anthropic-to-set-up-business-unit/ar-AA2e3JPV"
+   "url": "https://www.msn.com/en-au/news/other/bill-gates-warns-of-grim-future-if-ai-falls-into-wrong-hands/ar-AA2e42zN"
+  },
+  {
+   "headline": "OCP Global Summit: Amid Ecosystem Adoption, NVIDIA Opens Vera Rubin Architecture to Help…",
+   "outlet": "blogs.nvidia.com",
+   "outlet_name": "blogs.nvidia.com",
+   "label": "REPORTED",
+   "url": "https://blogs.nvidia.com/blog/ocp-global-summit-vera-rubin-scale-ai-factories/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
- "articles_24h_rounded": 10700,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 10900,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/14.mp3",
- "audio_seconds": 59.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/15.mp3",
+ "audio_seconds": 54.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek leads a funding round for a Chinese robot artificial intelligence startup valued at $400 million, targeting a 2027 IPO. Confirmed by Crypto Briefing.\nThe UK warns that cyber breaches are likely and plans to use artificial intelligence to defend against threats. Confirmed by BBC.\nMicrosoft's president says washing machines face more safety rules than artificial intelligence and calls for global artificial intelligence safety standards. Confirmed by PC Gamer.\nL and T and Nvidia launch an artificial intelligence lab in Bengaluru for digital manufacturing and autonomous factory operations. Reported by Electronics For You Business.\nAmazon is in talks to acquire Decart while Anthropic's artificial intelligence made a fake tip and Broadcom criticizes artificial intelligence investors. Reported by AI Insider.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per TradingView: Intel CEO Says DeepSeek, Kimi, GLM Are 'Good Enough' – Reportedly Backs Open Source For Efficiency Gains.\nStill open, per Crypto Briefing: Microsoft unveils Maia 300 AI chip to reduce reliance on Nvidia.\nConfirmed, per TechCrunch: Former Plaud exec raises $26M for AI app that listens to you in the background.\nConfirmed, per 巴士的報: Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with Carterra HT-SPR.\nStill open, per 手机新浪网: Report: Liang Wenfeng is considering whether DeepSeek should further enter the field of embodied artificial intelligence.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
