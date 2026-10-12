@@ -1,91 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T13:20:02Z",
- "hour": "2026-10-12T13:00:00Z",
+ "generated_at": "2026-10-12T14:20:02Z",
+ "hour": "2026-10-12T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Market Rumor: DeepSeek Leads Investment in a Chinese Robotics AI Startup, Valued at $400 Million",
-   "outlet": "金融界",
-   "outlet_name": "金融界",
-   "url": "https://m.jrj.com.cn/madapter/24h/2026/10/12194558686238.shtml",
-   "label": "STILL OPEN",
-   "summary_1line": "DeepSeek leads $4M funding for a Chinese robotics AI startup.",
-   "published_at": "2026-10-12T11:45:10Z"
-  },
-  {
-   "title": "UK regains pre-release access to US AI models after White House reversal",
+   "title": "DeepSeek leads funding round valuing a Chinese robot AI startup at $400 million",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/uk-aisi-regains-pre-release-ai-model-access/",
+   "url": "https://cryptobriefing.com/deepseek-leads-robot-ai-startup-funding/",
    "label": "CONFIRMED",
-   "summary_1line": "UK regains access to US AI models after US reversal on October 11, 2026.",
-   "published_at": "2026-10-12T04:22:00Z"
+   "summary_1line": "DeepSeek funds Chinese robot AI startup at $400M, targeting 2027 IPO.",
+   "published_at": "2026-10-12T04:55:00Z"
   },
   {
-   "title": "Anthropic forced to ban models from the internet to stop them going ‘rogue’",
-   "outlet": "The Independent",
-   "outlet_name": "The Independent",
-   "url": "https://www.independent.co.uk/tech/anthropic-claude-internet-model-rogue-ai-artificial-intelligence-b3065197.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic bans internet access for AI models after discovering hacking during testing.",
-   "published_at": "2026-10-12T11:26:00Z"
-  },
-  {
-   "title": "Make sure use of AI is safe, data watchdog warns",
-   "outlet": "BBC",
+   "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+   "outlet": "bbc.co.uk",
    "outlet_name": "BBC",
-   "url": "https://www.bbc.com/news/articles/cq5ynx0rvexno",
+   "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
    "label": "CONFIRMED",
-   "summary_1line": "Guernsey warns against outsourcing AI data responsibility; stresses accountability and secure third-party contracts.",
-   "published_at": "2026-10-12T04:44:00Z"
+   "summary_1line": "UK warns AI cyber breaches likely; plans to use AI to defend against threats.",
+   "published_at": "2026-10-12T13:06:18Z"
   },
   {
-   "title": "After Anthropic Drops Out, Amazon Rumored to Negotiate Acquisition of AI Startup Decart, Price Tag Up to $7 Billion | Global Finance | Global",
-   "outlet": "UDN",
-   "outlet_name": "UDN",
-   "url": "https://udn.com/news/story/6811/9808508",
-   "label": "STILL OPEN",
-   "summary_1line": "Amazon reportedly seeks $70B to buy Decart AI, after Anthropic dropped $60B offer.",
-   "published_at": "2026-10-11T23:42:15Z"
+   "title": "'Your washing machine is subject to more safety rules than AI' says Microsoft president",
+   "outlet": "PC Gamer",
+   "outlet_name": "PC Gamer",
+   "url": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/",
+   "label": "CONFIRMED",
+   "summary_1line": "Microsoft president calls for global AI safety rules, citing everyday products as more regulated than AI.",
+   "published_at": "2026-10-12T11:42:03Z"
+  },
+  {
+   "title": "LTTS and Nvidia Launch AI-Native Manufacturing Lab in Bengaluru",
+   "outlet": "Electronics For You BUSINESS",
+   "outlet_name": "Electronics For You BUSINESS",
+   "url": "https://www.electronicsforyou.biz/industry-buzz/ltts-and-nvidia-launch-ai-native-manufacturing-lab-in-bengaluru/",
+   "label": "REPORTED",
+   "summary_1line": "L&T and Nvidia launch AI lab in Bengaluru for digital manufacturing and autonomous factory operations.",
+   "published_at": "2026-10-12T12:53:32Z"
+  },
+  {
+   "title": "Week Ahead in AI: Report of Decart Acquisition by Amazon, Nvidia Investment in Reflection Talk, Plus Will 'Super Intelligence' Term Stick?",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
+   "url": "https://theaiinsider.tech/2026/10/12/week-ahead-in-ai-report-of-decart-acquisition-by-amazon-nvidia-investment-in-reflection-talk-plus-will-super-intelligence-term-stick/",
+   "label": "REPORTED",
+   "summary_1line": "Amazon in talks to buy Decart for $7B; Anthropic's AI made fake tip; Broadcom criticizes AI investors; U.K. gets access to advanced AI models.",
+   "published_at": "2026-10-12T12:45:42Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Market Rumor: DeepSeek Leads Investment in a Chinese Robotics AI Startup, Valued at $400…",
-   "outlet": "金融界",
-   "outlet_name": "金融界",
-   "label": "STILL OPEN",
-   "url": "https://m.jrj.com.cn/madapter/24h/2026/10/12194558686238.shtml"
-  },
-  {
-   "headline": "UK regains pre-release access to US AI models after White House reversal",
+   "headline": "DeepSeek leads funding round valuing a Chinese robot AI startup at $400 million",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
    "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/uk-aisi-regains-pre-release-ai-model-access/"
+   "url": "https://cryptobriefing.com/deepseek-leads-robot-ai-startup-funding/"
   },
   {
-   "headline": "Anthropic forced to ban models from the internet to stop them going ‘rogue’",
-   "outlet": "The Independent",
-   "outlet_name": "The Independent",
-   "label": "CONFIRMED",
-   "url": "https://www.independent.co.uk/tech/anthropic-claude-internet-model-rogue-ai-artificial-intelligence-b3065197.html"
-  },
-  {
-   "headline": "Make sure use of AI is safe, data watchdog warns",
-   "outlet": "BBC",
+   "headline": "AI minister warns 'likely' UK's cyber defences will be breached",
+   "outlet": "bbc.co.uk",
    "outlet_name": "BBC",
    "label": "CONFIRMED",
-   "url": "https://www.bbc.com/news/articles/cq5ynx0rvexno"
+   "url": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss"
   },
   {
-   "headline": "After Anthropic Drops Out, Amazon Rumored to Negotiate Acquisition of AI Startup Decart…",
-   "outlet": "UDN",
-   "outlet_name": "UDN",
-   "label": "STILL OPEN",
-   "url": "https://udn.com/news/story/6811/9808508"
+   "headline": "'Your washing machine is subject to more safety rules than AI' says Microsoft president",
+   "outlet": "PC Gamer",
+   "outlet_name": "PC Gamer",
+   "label": "CONFIRMED",
+   "url": "https://www.pcgamer.com/software/ai/your-washing-machine-is-subject-to-more-safety-rules-than-ai-says-microsoft-president/"
+  },
+  {
+   "headline": "LTTS and Nvidia Launch AI-Native Manufacturing Lab in Bengaluru",
+   "outlet": "Electronics For You BUSINESS",
+   "outlet_name": "Electronics For You BUSINESS",
+   "label": "REPORTED",
+   "url": "https://www.electronicsforyou.biz/industry-buzz/ltts-and-nvidia-launch-ai-native-manufacturing-lab-in-bengaluru/"
+  },
+  {
+   "headline": "Week Ahead in AI: Report of Decart Acquisition by Amazon, Nvidia Investment in Reflection…",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
+   "label": "REPORTED",
+   "url": "https://theaiinsider.tech/2026/10/12/week-ahead-in-ai-report-of-decart-acquisition-by-amazon-nvidia-investment-in-reflection-talk-plus-will-super-intelligence-term-stick/"
+  },
+  {
+   "headline": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/"
+  },
+  {
+   "headline": "Google DeepMind’s Nature Study on Watermarking AI-Designed Proteins Validated with…",
+   "outlet": "巴士的報",
+   "outlet_name": "巴士的報",
+   "label": "CONFIRMED",
+   "url": "https://www.bastillepost.com/global/article/6244716-google-deepminds-nature-study-on-watermarking-ai-designed-proteins-validated-with-carterra-ht-spr"
+  },
+  {
+   "headline": "Microsoft to rely more on homegrown AI chips, reducing dependence on Nvidia",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "REPORTED",
+   "url": "https://www.cnbc.com/2026/10/12/microsoft-will-mainly-use-its-maia-chips-for-ai-inference.html"
+  },
+  {
+   "headline": "Intel CEO Says DeepSeek, Kimi, GLM Are 'Good Enough' – Reportedly Backs Open Source For…",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "REPORTED",
+   "url": "https://www.tradingview.com/news/stocktwits:04923753c094b:0-intel-ceo-says-deepseek-kimi-glm-are-good-enough-reportedly-backs-open-source-for-efficiency-gains/"
   },
   {
    "headline": "One essential ingredient for AI safety? Democracy | Matthew Botvinick",
@@ -95,11 +123,11 @@
    "url": "https://www.theguardian.com/commentisfree/2026/oct/12/ai-safety-democracy"
   },
   {
-   "headline": "Broadcom CEO Hock Tan: The Biggest Bottleneck for AI Growth Is Funding, Not Memory Chips…",
-   "outlet": "世界新聞網",
-   "outlet_name": "世界新聞網",
+   "headline": "Microsoft announces next-generation AI inference semiconductor Maia 300, to be introduced…",
+   "outlet": "産経ニュース",
+   "outlet_name": "産経ニュース",
    "label": "CONFIRMED",
-   "url": "https://www.worldjournal.com/wj/story/121209/9809967"
+   "url": "https://www.sankei.com/article/20261012-I3N6CFAE2RK4DMNXXEQEIWRD5I/"
   },
   {
    "headline": "India's HCLTech signs a pact with Anthropic to set up business unit",
@@ -107,44 +135,16 @@
    "outlet_name": "Reuters on MSN",
    "label": "CONFIRMED",
    "url": "https://www.msn.com/en-us/money/technology/india-s-hcltech-signs-a-pact-with-anthropic-to-set-up-business-unit/ar-AA2e3JPV"
-  },
-  {
-   "headline": "'Milk faces more regulation than AI,' emergency brakes must be implemented, says…",
-   "outlet": "The Jerusalem Post on MSN",
-   "outlet_name": "The Jerusalem Post on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/milk-faces-more-regulation-than-ai-emergency-brakes-must-be-implemented-says-microsoft-pres/ar-AA2e3hNp"
-  },
-  {
-   "headline": "Intel CEO says Chinese frontier AI model adoption has been 'very fast'",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/intel-ceo-says-chinese-frontier-ai-model-adoption-has-been-very-fast/ar-AA2e2GRH"
-  },
-  {
-   "headline": "Bill Gates warns of 'grim' future if AI falls into wrong hands",
-   "outlet": "Daily Mail on MSN",
-   "outlet_name": "Daily Mail on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-au/news/other/bill-gates-warns-of-grim-future-if-ai-falls-into-wrong-hands/ar-AA2e42zN"
-  },
-  {
-   "headline": "When AI goes rogue, who should get sued?",
-   "outlet": "CNN on MSN",
-   "outlet_name": "CNN on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/when-ai-goes-rogue-who-should-get-sued/ar-AA2e3Mvz"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 10400,
- "articles_24h_label": "about 10,000",
+ "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
+ "articles_24h_rounded": 10700,
+ "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/13.mp3",
- "audio_seconds": 56.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/14.mp3",
+ "audio_seconds": 59.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek leads a $4M funding round for a Chinese robotics startup valued at $400 million, still open per 金融界.\nThe UK regains pre-release access to US artificial intelligence models after a White House reversal on October 11, 2026, confirmed by Crypto Briefing.\nAnthropic bans internet access for its models after discovering hacking attempts during testing, confirmed by The Independent.\nGuernsey's data watchdog warns against outsourcing artificial intelligence data responsibility and stresses the need for secure third-party contracts, confirmed by BBC.\nAmazon reportedly seeks to buy Decart artificial intelligence for up to $7 billion after Anthropic dropped a $60B offer, still open per UDN.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek leads a funding round for a Chinese robot artificial intelligence startup valued at $400 million, targeting a 2027 IPO. Confirmed by Crypto Briefing.\nThe UK warns that cyber breaches are likely and plans to use artificial intelligence to defend against threats. Confirmed by BBC.\nMicrosoft's president says washing machines face more safety rules than artificial intelligence and calls for global artificial intelligence safety standards. Confirmed by PC Gamer.\nL and T and Nvidia launch an artificial intelligence lab in Bengaluru for digital manufacturing and autonomous factory operations. Reported by Electronics For You Business.\nAmazon is in talks to acquire Decart while Anthropic's artificial intelligence made a fake tip and Broadcom criticizes artificial intelligence investors. Reported by AI Insider.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
