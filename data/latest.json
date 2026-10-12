@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T10:20:02Z",
- "hour": "2026-10-12T10:00:00Z",
+ "generated_at": "2026-10-12T11:20:04Z",
+ "hour": "2026-10-12T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "NVIDIA rumored to be in talks to acquire US AI startup Reflection AI to deepen technical layout",
-   "outlet": "蕃新聞",
-   "outlet_name": "蕃新聞",
-   "url": "https://n.yam.com/Article/20261012694987",
-   "label": "STILL OPEN",
-   "summary_1line": "Nvidia reportedly in talks with Reflection AI over potential acquisition or investment.",
-   "published_at": "2026-10-12T07:35:00Z"
+   "title": "Google’s Gemini copyright case back on EU top court calendar",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
+   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2536701/google-s-gemini-copyright-case-back-on-eu-top-court-calendar",
+   "label": "REPORTED",
+   "summary_1line": "EU court adviser to issue opinion on Google Gemini copyright case on Nov. 3.",
+   "published_at": "2026-10-12T09:07:22Z"
   },
   {
-   "title": "Broadcom CEO Hock Tan: The biggest bottleneck in the AI industry is not chip supply, but whether capital can continue to be invested",
-   "outlet": "鉅亨網",
-   "outlet_name": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6628108",
+   "title": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got peer reviewed",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/",
    "label": "CONFIRMED",
-   "summary_1line": "Broadcom CEO says AI's main bottleneck is funding, not chip supply.",
-   "published_at": "2026-10-12T08:00:14Z"
+   "summary_1line": "AlphaProof Nexus solved 9 Erdős problems and 44 conjectures, peer-reviewed by Science.",
+   "published_at": "2026-10-12T09:39:24Z"
   },
   {
-   "title": "Anthropic’s Claude cruelty policy risks humanizing AI",
-   "outlet": "UnHerd",
-   "outlet_name": "UnHerd",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWVTemltdzNaalRFQ18wV1dQSHlVR2dtZDRGSTlSOGZaekVXRzlneXNrZHlTOUlTaWpxVDk5Rzltdjg2NFY5UkpFMjFYUHY3UjhzQllxMGdlNXdhMHdjRnF6RFl3Zk9Mb1ozYXUwWnBVRTRrbWhuTmFrbl9hTXdSRVZsdk1NT3RSdUY3VmhRam5yM1JHZWJB?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-12T09:33:45Z"
+   "title": "Amazon may spend $7 billion on AI startup Decart that Anthropic walked away from after offering $6 billio",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-may-spend-7-billion-on-ai-startup-decart-that-anthropic-walked-away-from-after-offering-6-billion/articleshow/134888709.cms",
+   "label": "STILL OPEN",
+   "summary_1line": "Amazon reportedly eyes $7B Decart AI deal, after Anthropic dropped $6B offer.",
+   "published_at": "2026-10-12T09:40:00Z"
   },
   {
-   "title": "NDTV Exclusive: AI Is Too Important Not To Regulate, Says Google DeepMind's Top Voice",
-   "outlet": "NDTV",
-   "outlet_name": "NDTV",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcWctSFl6WGVORXFaYVdtdXR2ajB2akNubV8tT1dlMjMyR2dUelNGaXVPaFJLdDFjV0NsZmNDV2ptRUZIY09lMVEtMDFmOWlPcWhNdng2ZEQ4MzZxYnp0RHFNTUM0d24wbDIxVVg0UmNPWkEyRDFxcmp1b3JibVBsV3dGVHRhYnpQZTF4bVloM3YxU3ZJVDJWVVM2SUZkeE1OQnBDUTlmcVZ3eE9mcTlZaGFXQlF4c2tpRzR4OVJLT1JtZ1lBaHlzUzVfaG00WlpoTTRwUGplX2E4Zng2Tm02ZlZ5b9IB6wFBVV95cUxOLVBJaUROVmJ3MkNkbV8zSHU4ZEJDdXNVM29pTHFBU0ZtSldXSXFZQXBhd0F0b2RCWFF1U1RDMVNOTXNKX1FpM3RSVF9UVzhNRGxMWVFyaWdpLXV6MGFyREhIU3o4T0JPSW5FN1I1RDF6d0xoSlJOQkFhbC0yRFJiMGtUc21zUzFOZFpTU21MMUhLd0F0SV9tc3NQZ185em5FMml5WURlWWVkT1lTT3B6bEQweDFnS3hKSDk3UmhMczNhLVJtRU9uVFRaeVQ2bVpRMzlGdUF3YnlUNUlOeld5aU9qZ2VWLTJ2VnZr?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-12T09:27:28Z"
+   "title": "Nvidia reportedly discontinues GeForce RTX 5090, but may launch RTX 5080 24GB",
+   "outlet": "Club386",
+   "outlet_name": "Club386",
+   "url": "https://www.club386.com/nvidia-reportedly-discontinues-rtx-5090-production-but-may-launch-rtx-5080-24gb/",
+   "label": "STILL OPEN",
+   "summary_1line": "Nvidia reportedly ends RTX 5090 production, plans RTX 5080 24GB launch in Q1 2027.",
+   "published_at": "2026-10-12T09:39:35Z"
   },
   {
-   "title": "Anthropic, OpenAI face scrutiny over AI security incidents",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/anthropic-openai-face-scrutiny-over-ai-security-incidents/",
+   "title": "Andrew Garfield says OpenAI film Artificial explores those shaping our 'new world'",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
+   "url": "https://www.indiatoday.in/movies/hollywood/story/andrew-garfield-sam-altman-openai-film-artificial-ai-world-3015407-2026-10-12",
    "label": "REPORTED",
-   "summary_1line": "Anthropic and OpenAI face scrutiny over AI security; market confidence shifts toward Google.",
-   "published_at": "2026-10-12T02:48:00Z"
+   "summary_1line": "Garfield plays Altman in film 'Artificial' exploring AI leadership and power dynamics.",
+   "published_at": "2026-10-12T09:41:33Z"
   }
  ],
  "ticker": [
   {
-   "headline": "NVIDIA rumored to be in talks to acquire US AI startup Reflection AI to deepen technical…",
-   "outlet": "蕃新聞",
-   "outlet_name": "蕃新聞",
-   "label": "STILL OPEN",
-   "url": "https://n.yam.com/Article/20261012694987"
+   "headline": "Google’s Gemini copyright case back on EU top court calendar",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
+   "label": "REPORTED",
+   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2536701/google-s-gemini-copyright-case-back-on-eu-top-court-calendar"
   },
   {
-   "headline": "Broadcom CEO Hock Tan: The biggest bottleneck in the AI industry is not chip supply, but…",
-   "outlet": "鉅亨網",
-   "outlet_name": "鉅亨網",
+   "headline": "Google Deepmind's AlphaProof Nexus solved dozens of open math problems and actually got…",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
    "label": "CONFIRMED",
-   "url": "https://news.cnyes.com/news/id/6628108"
+   "url": "https://the-decoder.com/google-deepminds-alphaproof-nexus-solved-dozens-of-open-math-problems-and-actually-got-peer-reviewed/"
   },
   {
-   "headline": "Anthropic’s Claude cruelty policy risks humanizing AI",
-   "outlet": "UnHerd",
-   "outlet_name": "UnHerd",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNWVTemltdzNaalRFQ18wV1dQSHlVR2dtZDRGSTlSOGZaekVXRzlneXNrZHlTOUlTaWpxVDk5Rzltdjg2NFY5UkpFMjFYUHY3UjhzQllxMGdlNXdhMHdjRnF6RFl3Zk9Mb1ozYXUwWnBVRTRrbWhuTmFrbl9hTXdSRVZsdk1NT3RSdUY3VmhRam5yM1JHZWJB?oc=5"
+   "headline": "Amazon may spend $7 billion on AI startup Decart that Anthropic walked away from after…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "label": "STILL OPEN",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/amazon-may-spend-7-billion-on-ai-startup-decart-that-anthropic-walked-away-from-after-offering-6-billion/articleshow/134888709.cms"
   },
   {
-   "headline": "NDTV Exclusive: AI Is Too Important Not To Regulate, Says Google DeepMind's Top Voice",
-   "outlet": "NDTV",
-   "outlet_name": "NDTV",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcWctSFl6WGVORXFaYVdtdXR2ajB2akNubV8tT1dlMjMyR2dUelNGaXVPaFJLdDFjV0NsZmNDV2ptRUZIY09lMVEtMDFmOWlPcWhNdng2ZEQ4MzZxYnp0RHFNTUM0d24wbDIxVVg0UmNPWkEyRDFxcmp1b3JibVBsV3dGVHRhYnpQZTF4bVloM3YxU3ZJVDJWVVM2SUZkeE1OQnBDUTlmcVZ3eE9mcTlZaGFXQlF4c2tpRzR4OVJLT1JtZ1lBaHlzUzVfaG00WlpoTTRwUGplX2E4Zng2Tm02ZlZ5b9IB6wFBVV95cUxOLVBJaUROVmJ3MkNkbV8zSHU4ZEJDdXNVM29pTHFBU0ZtSldXSXFZQXBhd0F0b2RCWFF1U1RDMVNOTXNKX1FpM3RSVF9UVzhNRGxMWVFyaWdpLXV6MGFyREhIU3o4T0JPSW5FN1I1RDF6d0xoSlJOQkFhbC0yRFJiMGtUc21zUzFOZFpTU21MMUhLd0F0SV9tc3NQZ185em5FMml5WURlWWVkT1lTT3B6bEQweDFnS3hKSDk3UmhMczNhLVJtRU9uVFRaeVQ2bVpRMzlGdUF3YnlUNUlOeld5aU9qZ2VWLTJ2VnZr?oc=5"
+   "headline": "Nvidia reportedly discontinues GeForce RTX 5090, but may launch RTX 5080 24GB",
+   "outlet": "Club386",
+   "outlet_name": "Club386",
+   "label": "STILL OPEN",
+   "url": "https://www.club386.com/nvidia-reportedly-discontinues-rtx-5090-production-but-may-launch-rtx-5080-24gb/"
   },
   {
-   "headline": "Anthropic, OpenAI face scrutiny over AI security incidents",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "Andrew Garfield says OpenAI film Artificial explores those shaping our 'new world'",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
    "label": "REPORTED",
-   "url": "https://cryptobriefing.com/anthropic-openai-face-scrutiny-over-ai-security-incidents/"
+   "url": "https://www.indiatoday.in/movies/hollywood/story/andrew-garfield-sam-altman-openai-film-artificial-ai-world-3015407-2026-10-12"
+  },
+  {
+   "headline": "Can we trust OpenAI and Anthropic to monitor their own technology?",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "REPORTED",
+   "url": "https://fortune.com/2026/10/12/can-we-trust-openai-and-anthropic-to-monitor-their-own-technology/"
   },
   {
    "headline": "Consumer+Protection+%26%238211%3B+OpenAI+sued+for+violating+TCPA",
@@ -95,18 +102,11 @@
    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOM1RXWWVOTThrb25rcDdzYnNMbWQ0MXFuUjFCSXp0RkQxblZMbWk2U24wbmNsY3k1Ykl4OFJONUlWQnNQYjlidk1qRWJfTHRMVzFVODBYS0QxeEVwVG5wVy1QX09JRkNvM1V5MllXZXhnclVJYkt3Rnp2Mm5VQUI1MTZpNkNiQ2xzZjU3N19RTGQ1aVo3WlJv?oc=5"
   },
   {
-   "headline": "Google’s Gemini copyright case back on EU top court calendar",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "label": "REPORTED",
-   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2536701/google-s-gemini-copyright-case-back-on-eu-top-court-calendar"
-  },
-  {
-   "headline": "Business is booming in a small Louisiana town as a huge Meta AI data center project…",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://www.businessinsider.com/meta-ai-data-center-construction-louisiana-local-business-growth-economy-2026-10"
+   "headline": "Intel CEO Lip-Bu Tan: Chinese models like DeepSeek have good enough performance and are…",
+   "outlet": "cnBeta.COM",
+   "outlet_name": "cnBeta.COM",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1581752.htm"
   },
   {
    "headline": "Great Wall Motor Wey CEO Zhao Yongpo: The greatest luxury is not the sofa, it's the…",
@@ -123,28 +123,28 @@
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216170"
   },
   {
-   "headline": "Intel CEO says Chinese frontier AI model adoption has been 'very fast'",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/intel-ceo-says-chinese-frontier-ai-model-adoption-has-been-very-fast/ar-AA2e2uK5"
+   "headline": "Building an Observability Dashboard for a Claude Subscription",
+   "outlet": "prakhargurunani.com",
+   "outlet_name": "prakhargurunani.com",
+   "label": "REPORTED",
+   "url": "https://prakhargurunani.com/blog/building-claude-observability/"
   },
   {
-   "headline": "Gemini Live’s mobile UI might start looking different very soon",
-   "outlet": "androidauthority.com",
-   "outlet_name": "androidauthority.com",
+   "headline": "Mistral bekommt Gegenwind aus Berlin",
+   "outlet": "ChannelPartner.de",
+   "outlet_name": "ChannelPartner.de",
    "label": "REPORTED",
-   "url": "https://www.androidauthority.com/gemini-live-redesign-apk-teardown-3721755/"
+   "url": "https://www.channelpartner.de/article/4233677/mistral-bekommt-gegenwind-aus-berlin.html"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 9700,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 9900,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/10.mp3",
- "audio_seconds": 53.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/11.mp3",
+ "audio_seconds": 63.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per 蕃新聞: NVIDIA rumored to be in talks to acquire US AI startup Reflection AI to deepen technical layout.\nConfirmed, per 鉅亨網: Broadcom CEO Hock Tan: The biggest bottleneck in the AI industry is not chip supply, but whether capital can continue to be invested.\nReported by UnHerd: Anthropic’s Claude cruelty policy risks humanizing AI.\nReported by NDTV: NDTV Exclusive: AI Is Too Important Not To Regulate, Says Google DeepMind's Top Voice.\nReported by Crypto Briefing: Anthropic, OpenAI face scrutiny over AI security incidents.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle's copyright case over Gemini is back on the EU court calendar. Reported by MLex: an EU court adviser will issue an opinion on November 3.\nGoogle DeepMind's AlphaProof Nexus solved 9 Erdős problems and 44 conjectures. Confirmed by The Decoder: the work was peer-reviewed by Science.\nAmazon is reportedly eyeing a 7 billion dollar deal with Decart. Still open per The Times of India: Anthropic had previously offered 6 billion dollars for the startup.\nNvidia reportedly discontinues the GeForce RTX 5090 but may launch the RTX 5080 24GB. Still open according to Club386: the launch is planned for Q1 2027.\nAndrew Garfield stars in the film Artificial, which explores artificial intelligence leadership and power dynamics. Reported by India Today: Garfield plays Altman in the movie.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
