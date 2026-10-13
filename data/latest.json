@@ -1,126 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T09:20:02Z",
- "hour": "2026-10-13T09:00:00Z",
+ "generated_at": "2026-10-13T10:20:03Z",
+ "hour": "2026-10-13T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic warns AI models could soon copy themselves across home devices",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T08:27:20Z"
-  },
-  {
-   "title": "Qwen Releases Three New Personal Agent Hardware Products: AI Glasses and AI Earphones",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "url": "https://36kr.com/newsflashes/4024022324269186?f=rss",
-   "label": "REPORTED",
-   "summary_1line": "火山引擎 is performing a security check for user access safety.",
-   "published_at": null
-  },
-  {
-   "title": "Nvidia AI Chip Shipments Fall 44% In China As Huawei Closes Gap",
-   "outlet": "TechBooky",
-   "outlet_name": "TechBooky",
-   "url": "https://www.techbooky.com/nvidia-ai-chip-shipments-fall-44-in-china-as-huawei-closes-gap/",
+   "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "url": "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals",
    "label": "CONFIRMED",
-   "summary_1line": "Nvidia's AI chip sales in China dropped 44% as Huawei closes the gap.",
-   "published_at": "2026-10-13T00:02:00Z"
+   "summary_1line": "Microsoft's Maia 300 chip will power AI inference in 2027, amid broader industry shift to custom silicon.",
+   "published_at": "2026-10-13T09:00:07Z"
   },
   {
-   "title": "UK Regains Early Access to AI Models After Reported White House Reversal",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "url": "https://www.techrepublic.com/article/news-uk-ai-model-access-white-house-reversal-emea/",
-   "label": "STILL OPEN",
-   "summary_1line": "UK regains access to advanced AI models for pre-release testing after White House reversal.",
-   "published_at": "2026-10-13T08:12:21Z"
+   "title": "Elon Musk’s xAI unifies Grok, Cursor and X Premium under a single subscription; launches 'The X Subscription'",
+   "outlet": "Storyboard18",
+   "outlet_name": "Storyboard18",
+   "url": "https://www.storyboard18.com/amp/digital/elon-musks-xai-unifies-grok-cursor-and-x-premium-under-a-single-subscription-launches-the-x-subscription-ws-l-112445.htm",
+   "label": "REPORTED",
+   "summary_1line": "xAI unifies Grok, Cursor and X Premium in new The X Subscription.",
+   "published_at": "2026-10-13T03:58:43Z"
   },
   {
-   "title": "Anthropic says safeguards cut Claude distillation 90%-99%",
-   "outlet": "Independent Journal Review",
-   "outlet_name": "Independent Journal Review",
-   "url": "https://ijr.com/discover/tech-2026-10-13-anthropic-says-safeguards-cut-claude-distillation-9099-dbcbcd1b",
+   "title": "Tech Bridge Programme by Beyondsoft and IMDA brings AI capabilities and solutions from international markets to Singapore SMEs",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "url": "https://www.prnewswire.com/apac/news-releases/tech-bridge-programme-by-beyondsoft-and-imda-brings-ai-capabilities-and-solutions-from-international-markets-to-singapore-smes-302905134.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic cuts distillation attacks by 90-99% using new safeguards, blocking data harvesting from Claude.",
-   "published_at": "2026-10-12T22:24:00Z"
+   "summary_1line": "Singapore launches Tech Bridge to connect 1,000 SMEs with proven AI solutions via 60-day trials.",
+   "published_at": "2026-10-13T08:15:00Z"
+  },
+  {
+   "title": "Hack The Box Launches AI Range Enterprise Edition to Measure AI Agent Competence in Cybersecurity",
+   "outlet": "Cybersecurity Insiders",
+   "outlet_name": "Cybersecurity Insiders",
+   "url": "https://www.cybersecurity-insiders.com/hack-the-box-launches-ai-range-enterprise-edition-to-measure-ai-agent-competence-in-cybersecurity-2/",
+   "label": "REPORTED",
+   "summary_1line": "Hack The Box launches AI Range Enterprise to assess AI agent and human cybersecurity competence.",
+   "published_at": "2026-10-13T07:06:50Z"
+  },
+  {
+   "title": "AI has learned \"parasitic reproduction\", Anthropic uses 15 broken TV boxes to feed large models",
+   "outlet": "爱范儿",
+   "outlet_name": "爱范儿",
+   "url": "https://www.ifanr.com/1683992?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic tested a small AI model on 15 Android TV boxes, showing it can replicate and deploy across devices with improved success over generations.",
+   "published_at": "2026-10-13T08:51:30Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic warns AI models could soon copy themselves across home devices",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "label": "CONFIRMED",
+   "url": "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals"
+  },
+  {
+   "headline": "Elon Musk’s xAI unifies Grok, Cursor and X Premium under a single subscription; launches…",
+   "outlet": "Storyboard18",
+   "outlet_name": "Storyboard18",
    "label": "REPORTED",
-   "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html"
+   "url": "https://www.storyboard18.com/amp/digital/elon-musks-xai-unifies-grok-cursor-and-x-premium-under-a-single-subscription-launches-the-x-subscription-ws-l-112445.htm"
   },
   {
-   "headline": "Qwen Releases Three New Personal Agent Hardware Products: AI Glasses and AI Earphones",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
+   "headline": "Tech Bridge Programme by Beyondsoft and IMDA brings AI capabilities and solutions from…",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "CONFIRMED",
+   "url": "https://www.prnewswire.com/apac/news-releases/tech-bridge-programme-by-beyondsoft-and-imda-brings-ai-capabilities-and-solutions-from-international-markets-to-singapore-smes-302905134.html"
+  },
+  {
+   "headline": "Hack The Box Launches AI Range Enterprise Edition to Measure AI Agent Competence in…",
+   "outlet": "Cybersecurity Insiders",
+   "outlet_name": "Cybersecurity Insiders",
    "label": "REPORTED",
-   "url": "https://36kr.com/newsflashes/4024022324269186?f=rss"
+   "url": "https://www.cybersecurity-insiders.com/hack-the-box-launches-ai-range-enterprise-edition-to-measure-ai-agent-competence-in-cybersecurity-2/"
   },
   {
-   "headline": "Nvidia AI Chip Shipments Fall 44% In China As Huawei Closes Gap",
-   "outlet": "TechBooky",
-   "outlet_name": "TechBooky",
-   "label": "CONFIRMED",
-   "url": "https://www.techbooky.com/nvidia-ai-chip-shipments-fall-44-in-china-as-huawei-closes-gap/"
-  },
-  {
-   "headline": "UK Regains Early Access to AI Models After Reported White House Reversal",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "label": "STILL OPEN",
-   "url": "https://www.techrepublic.com/article/news-uk-ai-model-access-white-house-reversal-emea/"
-  },
-  {
-   "headline": "Anthropic says safeguards cut Claude distillation 90%-99%",
-   "outlet": "Independent Journal Review",
-   "outlet_name": "Independent Journal Review",
-   "label": "CONFIRMED",
-   "url": "https://ijr.com/discover/tech-2026-10-13-anthropic-says-safeguards-cut-claude-distillation-9099-dbcbcd1b"
-  },
-  {
-   "headline": "Cisco & NVIDIA Launch New Pluggable Optics for AI Factories",
-   "outlet": "Data Centre Magazine",
-   "outlet_name": "Data Centre Magazine",
+   "headline": "AI has learned \"parasitic reproduction\", Anthropic uses 15 broken TV boxes to feed large…",
+   "outlet": "爱范儿",
+   "outlet_name": "爱范儿",
    "label": "REPORTED",
-   "url": "https://datacentremagazine.com/news/inside-cisco-and-nvidias-pluggable-optics-for-ai-factories"
+   "url": "https://www.ifanr.com/1683992?utm_source=rss&utm_medium=rss&utm_campaign="
   },
   {
-   "headline": "Anthropic launches free AI vulnerability scanner as Google's open source bug bounty halts",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
+   "headline": "Nvidia’s China AI chip market share falls to 34% as Huawei gains ground: IDC",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "REPORTED",
+   "url": "https://www.tradingview.com/news/seekingalpha:62d1b5de5094b:0-nvidia-s-china-ai-chip-market-share-falls-to-34-as-huawei-gains-ground-idc/"
+  },
+  {
+   "headline": "AI models may soon self-replicate without access to data centers, Anthropic warns",
+   "outlet": "ET Enterprise AI",
+   "outlet_name": "ET Enterprise AI",
+   "label": "REPORTED",
+   "url": "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/ai-models-may-soon-self-replicate-without-access-to-data-centers-anthropic-warns/134911101"
+  },
+  {
+   "headline": "Auditor and Seller: Anthropic Freely Scans Vulnerabilities for the Open Source World, Who…",
+   "outlet": "tmtpost.com",
+   "outlet_name": "tmtpost.com",
+   "label": "REPORTED",
+   "url": "https://www.tmtpost.com/8166715.html"
+  },
+  {
+   "headline": "Houthis used Anthropic AI to develop ballistic missiles",
+   "outlet": "The Statesman on MSN",
+   "outlet_name": "The Statesman on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/anthropic-launches-free-ai-vulnerability-scanner-as-google-s-open-source-bug-bounty-halts/ar-AA2e7kYI"
+   "url": "https://www.msn.com/en-in/news/world/houthis-used-anthropic-ai-to-develop-ballistic-missiles/ar-AA2e7XQq"
   },
   {
-   "headline": "Your smart TV or oven could become a target for self-replicating AI, warns Anthropic",
-   "outlet": "Times Now on MSN",
-   "outlet_name": "Times Now on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/your-smart-tv-or-oven-could-become-a-target-for-self-replicating-ai-warns-anthropic/ar-AA2e7nBF"
-  },
-  {
-   "headline": "US and European regulators step up oversight of banks’ AI risks — Cyprus Mail",
-   "outlet": "UA.NEWS",
-   "outlet_name": "UA.NEWS",
-   "label": "CONFIRMED",
-   "url": "https://ua.news/en/world/reguliatori-ssha-ta-evropi-posiliuiut-nagliad-za-shi-rizikami-bankiv-cyprus-mail"
-  },
-  {
-   "headline": "Reflection AI's Beam sells governments AI independence; Nvidia in talks to acquire it",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/news/other/reflection-ais-beam-sells-governments-ai-independence-nvidia-in-talks-to-acquire-it/ar-AA2e7veK"
+   "headline": "Navitas, Nvidia Launch 24 kW Power Delivery Board for AI Data Centers",
+   "outlet": "marketscreener.com",
+   "outlet_name": "marketscreener.com",
+   "label": "REPORTED",
+   "url": "https://www.marketscreener.com/news/navitas-nvidia-launch-24-kw-power-delivery-board-for-ai-data-centers-ce785ddddb89f625"
   },
   {
    "headline": "Anthropic: KI-Modelle können sich auch ohne Cloud vervielfältigen",
@@ -138,13 +138,13 @@
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 12400,
+ "articles_24h_rounded": 12500,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/09.mp3",
- "audio_seconds": 47.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/10.mp3",
+ "audio_seconds": 69.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNBC: Anthropic warns AI models could soon copy themselves across home devices.\nReported by 36氪: Qwen Releases Three New Personal Agent Hardware Products: AI Glasses and AI Earphones.\nConfirmed, per TechBooky: Nvidia AI Chip Shipments Fall 44% In China As Huawei Closes Gap.\nStill open, per TechRepublic: UK Regains Early Access to AI Models After Reported White House Reversal.\nConfirmed, per Independent Journal Review: Anthropic says safeguards cut Claude distillation 90%-99%.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMicrosoft's Maia 300 chip will power artificial intelligence inference in 2027, confirmed by Axios, as the industry shifts toward custom silicon and Nvidia's major customers become competitors.\nReported by Storyboard18: Elon Musk's xAI unifies Grok, Cursor and X Premium under a single subscription called The X Subscription.\nSingapore launches Tech Bridge to connect 1,000 SMEs with proven artificial intelligence solutions via 60-day trials, confirmed by PR Newswire as a program by Beyondsoft and IMDA.\nReported by Cybersecurity Insiders: Hack The Box launches artificial intelligence Range Enterprise to assess artificial intelligence agent and human cybersecurity competence.\nAnthropic tested a small artificial intelligence model on 15 Android TV boxes, reported by 爱范儿, showing it can replicate and deploy across devices with improved success over generations.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
