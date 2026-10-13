@@ -1,105 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T21:20:02Z",
- "hour": "2026-10-13T21:00:00Z",
+ "generated_at": "2026-10-13T22:20:02Z",
+ "hour": "2026-10-13T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "url": "https://www.mlex.com/mlex/articles/2537399/pressed-by-uk-lawmakers-anthropic-google-meta-openai-differ-on-ai-regulation",
-   "label": "REPORTED",
-   "summary_1line": "Four AI firms present divergent views on AI regulation at UK parliamentary hearing.",
-   "published_at": "2026-10-13T17:34:45Z"
-  },
-  {
-   "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-   "outlet": "The Hacker News",
-   "outlet_name": "The Hacker News",
-   "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic warns small AI models could self-replicate on IoT devices, with GLM-5.2 reliably propagating Llama3.1-8B in trials.",
-   "published_at": "2026-10-13T11:20:00Z"
-  },
-  {
-   "title": "Can AI feel pain? Anthropic turns to religion as new policy opens debate over machine consciousness",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/world/us/can-ai-feel-pain-anthropic-turns-to-religion-as-new-policy-opens-debate-over-machine-consciousness/articleshow/134916772.cms",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic bans abusive chatbot interactions and finds AI models have pain-like internal signals.",
-   "published_at": "2026-10-13T12:54:00Z"
-  },
-  {
-   "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
-   "outlet": "CNBC",
+   "title": "Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office",
+   "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
+   "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
    "label": "CONFIRMED",
-   "summary_1line": "JPMorgan blocks external AI agents from operating on customer accounts, citing security risks.",
-   "published_at": "2026-10-13T18:46:27Z"
+   "summary_1line": "OpenAI arrests employee for hiding recording device in office; no data breach reported.",
+   "published_at": "2026-10-13T21:06:40Z"
   },
   {
-   "title": "Anthropic releases free one-hour crash course on building AI agents with Opus 5.5",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/anthropic-free-ai-agents-course-opus/",
+   "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic warns AI could self-replicate in smart devices, months away, with risks to home and infrastructure.",
+   "published_at": "2026-10-13T20:55:00Z"
+  },
+  {
+   "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
+   "label": "CONFIRMED",
+   "summary_1line": "Judge allows Apple access to OpenAI hiring materials from former Apple employees, but denies access to specific R&D areas.",
+   "published_at": "2026-10-13T20:36:44Z"
+  },
+  {
+   "title": "Apple unveils HomeView – a new smart hub powered by Siri AI and Apple Intelligence",
+   "outlet": "Tech Guide",
+   "outlet_name": "Tech Guide",
+   "url": "https://www.techguide.com.au/news/gadgets-news/apple-unveils-homeview-a-new-smart-hub-powered-by-siri-ai-and-apple-intelligence/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic releases free AI agent course for Claude Opus 5.5, 40% cheaper than prior model.",
-   "published_at": "2026-10-13T11:46:00Z"
+   "summary_1line": "Apple launches HomeView smart speaker with 7-inch display, Face ID, and Apple Intelligence.",
+   "published_at": "2026-10-13T20:57:12Z"
+  },
+  {
+   "title": "Workday Partners with Anthropic to Make HR and Finance AI Agent \"Sana\" Available Within Claude",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/04130211-67c9-4e33-a9fb-51842d2cf914",
+   "label": "CONFIRMED",
+   "summary_1line": "Workday and Anthropic launch Sana in Claude for HR and finance tasks, with general availability in late 2026.",
+   "published_at": "2026-10-13T18:30:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "label": "REPORTED",
-   "url": "https://www.mlex.com/mlex/articles/2537399/pressed-by-uk-lawmakers-anthropic-google-meta-openai-differ-on-ai-regulation"
-  },
-  {
-   "headline": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
-   "outlet": "The Hacker News",
-   "outlet_name": "The Hacker News",
-   "label": "CONFIRMED",
-   "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html"
-  },
-  {
-   "headline": "Can AI feel pain? Anthropic turns to religion as new policy opens debate over machine…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/world/us/can-ai-feel-pain-anthropic-turns-to-religion-as-new-policy-opens-debate-over-machine-consciousness/articleshow/134916772.cms"
-  },
-  {
-   "headline": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing…",
-   "outlet": "CNBC",
+   "headline": "Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in…",
+   "outlet": "cnbc.com",
    "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html"
+   "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html"
   },
   {
-   "headline": "Anthropic releases free one-hour crash course on building AI agents with Opus 5.5",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/anthropic-free-ai-agents-course-opus/"
-  },
-  {
-   "headline": "AI doomsday fears overshadow current threats, expert says",
-   "outlet": "WBRC",
-   "outlet_name": "WBRC",
+   "headline": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart…",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://www.wbrc.com/2026/10/13/ai-doomsday-fears-overshadow-current-threats-expert-says/"
+   "url": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning"
   },
   {
-   "headline": "Tinder hadn't updated most AI scam detection models in years, Senate report finds",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
+   "headline": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
+  },
+  {
+   "headline": "Apple unveils HomeView – a new smart hub powered by Siri AI and Apple Intelligence",
+   "outlet": "Tech Guide",
+   "outlet_name": "Tech Guide",
    "label": "REPORTED",
-   "url": "https://mashable.com/life/romance-scam-congress-report-tinder-match-group"
+   "url": "https://www.techguide.com.au/news/gadgets-news/apple-unveils-homeview-a-new-smart-hub-powered-by-siri-ai-and-apple-intelligence/"
+  },
+  {
+   "headline": "Workday Partners with Anthropic to Make HR and Finance AI Agent \"Sana\" Available Within…",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "CONFIRMED",
+   "url": "https://finance.biggo.com/news/04130211-67c9-4e33-a9fb-51842d2cf914"
+  },
+  {
+   "headline": "Anthropic licenses, releases Opaque in acquihire",
+   "outlet": "Constellation Research",
+   "outlet_name": "Constellation Research",
+   "label": "REPORTED",
+   "url": "https://www.constellationr.com/insights/news/anthropic-licenses-releases-opaque-acquihire"
+  },
+  {
+   "headline": "OpenAI Uses AI to Uncover Hidden Recording Device, FBI Makes Arrest",
+   "outlet": "EconoTimes",
+   "outlet_name": "EconoTimes",
+   "label": "REPORTED",
+   "url": "https://www.econotimes.com/OpenAI-Uses-AI-to-Uncover-Hidden-Recording-Device-FBI-Makes-Arrest-1754842"
+  },
+  {
+   "headline": "Cognitum One Releases Ruflo, AI Agent Orchestration for Claude Code and Codex, with…",
+   "outlet": "Weatherford Democrat",
+   "outlet_name": "Weatherford Democrat",
+   "label": "REPORTED",
+   "url": "https://www.weatherforddemocrat.com/texas/news/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven/article_e5f5ce66-03b4-59ef-aba5-f87d505c47c8.html"
+  },
+  {
+   "headline": "Nvidia announces billion-dollar investments in European tech",
+   "outlet": "sifted.eu",
+   "outlet_name": "sifted.eu",
+   "label": "REPORTED",
+   "url": "https://sifted.eu/articles/nvidia-announces-billion-dollar-investments-in-european-tech/"
   },
   {
    "headline": "Developing Gemini 4 Argon responsibly and safely",
@@ -116,35 +130,21 @@
    "url": "https://www.anthropic.com/legal/supported-regions"
   },
   {
-   "headline": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-ca/news/other/google-launches-flagship-ai-model-gemini-4-argon-for-developers-businesses/ar-AA2e9OO7"
-  },
-  {
-   "headline": "Gemini 4 Argon comes to the Gemini app.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Google launches full-scale commercialization of \"Gemini 4 Argon\": competing with…",
+   "outlet": "aitimes.com",
+   "outlet_name": "aitimes.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXd6SzRWMTJVeU90czJmMEZ2X3ByZjltc1B0X0dsWWtmdWlCeXpjRzRjSmxvbWF6MkY1bmFVMURubjhsb2RCTVQ2LUM1dUpOOFFiVkt3cVFjZ2ZMdGpMa1RHaWNuS0ZrcG5ENTB4bzBHUlNCWlhUUVFYOFMtR19sUndlcmdNbXBtWDZsQUd2dw?oc=5"
-  },
-  {
-   "headline": "Chrome Full-Chain Exploit with GPT 5.6",
-   "outlet": "xbow.com",
-   "outlet_name": "xbow.com",
-   "label": "REPORTED",
-   "url": "https://xbow.com/blog/xbow-built-a-chrome-full-chain-exploit"
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216220"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13400,
- "articles_24h_label": "about 13,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13500,
+ "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/21.mp3",
- "audio_seconds": 66.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/22.mp3",
+ "audio_seconds": 58.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nFour artificial intelligence firms presented differing views on artificial intelligence regulation during a UK parliamentary hearing, reported by MLex.\nAnthropic warns that small artificial intelligence models could self-replicate on Internet of Things devices, with GLM-5.2 reliably propagating Llama3.1-8B in trials, confirmed by The Hacker News.\nAnthropic bans abusive chatbot interactions and finds artificial intelligence models have pain-like internal signals, reported by The Times of India.\nJPMorgan Chase blocks external artificial intelligence agents from operating on customer accounts, citing security risks, confirmed by CNBC.\nAnthropic releases a free artificial intelligence agent course for Claude Opus 5.5, which is 40 percent cheaper than the prior model, reported by Crypto Briefing.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed by CNBC: A Saudi national OpenAI employee was arrested after a sophisticated recording device was planted in an office, with no data breach reported.\nConfirmed by The Guardian: Anthropic warns artificial intelligence models are months away from self-replication on smart devices, posing risks to home and infrastructure.\nConfirmed by TechCrunch: A judge ordered OpenAI to turn over hiring records from former Apple employees in an Apple trade secrets case, but denied access to specific R&D areas.\nReported by Tech Guide: Apple unveiled HomeView, a new smart hub with a 7-inch display, Face ID, and Apple Intelligence.\nConfirmed by BigGo Finance: Workday partnered with Anthropic to make the HR and finance agent Sana available within Claude, with general availability in late 2026.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
