@@ -1,91 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T16:20:02Z",
- "hour": "2026-10-13T16:00:00Z",
+ "generated_at": "2026-10-13T17:20:02Z",
+ "hour": "2026-10-13T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Permeta Launches FERC.ai, Bringing the FERC e-Library to Claude, Copilot and ChatGPT",
-   "outlet": "The Joplin Globe",
-   "outlet_name": "The Joplin Globe",
-   "url": "https://www.joplinglobe.com/region/permeta-launches-ferc-ai-bringing-the-ferc-e-library-to-claude-copilot-and-chatgpt/article_6caa88e0-89d7-5c38-a990-65cc3174194c.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Permeta launches FERC.ai to let users search FERC's public record via AI tools with source citations.",
-   "published_at": "2026-10-13T07:02:00Z"
-  },
-  {
-   "title": "Google finally releases Gemini 4 Argon",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T16:00:00Z"
-  },
-  {
-   "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+   "title": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic to reveal Q3 financials ahead of possible $2 trillion IPO, with revenue estimates up to $100 billion.",
-   "published_at": "2026-10-13T14:55:51Z"
-  },
-  {
-   "title": "Employees all over the world find themselves monitored by AI at work",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/09/ai-monitoring-the-workplace",
+   "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
    "label": "CONFIRMED",
-   "summary_1line": "Co-op uses AI to monitor staff calls, sparking worker outrage and new California laws.",
-   "published_at": "2026-10-13T13:56:56Z"
+   "summary_1line": "Character.ai files for bankruptcy, with Disney and Google involved in a sale and licensing deal.",
+   "published_at": "2026-10-13T15:16:30Z"
   },
   {
-   "title": "Inside Real Estate Launches BoldTrail MCP, Connecting BoldTrail to ChatGPT, Claude, and the Assistants Agents Use Every Day",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/news-releases/inside-real-estate-launches-boldtrail-mcp-connecting-boldtrail-to-chatgpt-claude-and-the-assistants-agents-use-every-day-302907019.html",
-   "label": "REPORTED",
-   "summary_1line": "Inside Real Estate launches BoldTrail MCP to let agents use AI in real estate workflows via ChatGPT and Claude.",
-   "published_at": "2026-10-13T08:00:00Z"
+   "title": "Britain’s MI5 spy chief warns of Iranian threats, AI-fuelled cyber risks: 'UK entering new era of national security’ | World News",
+   "outlet": "Hindustan Times",
+   "outlet_name": "Hindustan Times",
+   "url": "https://www.hindustantimes.com/world-news/britains-mi5-spy-chief-warns-of-iranian-threats-ai-fuelled-cyber-risks-uk-entering-new-era-of-national-security-101791900800308.html",
+   "label": "CONFIRMED",
+   "summary_1line": "MI5 warns of Iranian military threats and AI-driven cyber risks in UK, citing new era of national security.",
+   "published_at": "2026-10-13T15:06:21Z"
+  },
+  {
+   "title": "Anthropic warns of self-replicating AI worm threat that doesn't need data centers to self-improve and spread — current deployment is impractical but could become a worry as tech improves",
+   "outlet": "Tom's Hardware",
+   "outlet_name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-of-self-replicating-ai-worm-threat-that-doesnt-need-data-centers-to-self-improve-and-spread-current-deployment-is-impractical-but-could-become-a-worry-as-tech-improves",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic shows AI could theoretically replicate across devices, but current models and hardware make it impractical.",
+   "published_at": "2026-10-13T14:00:00Z"
+  },
+  {
+   "title": "The FDA’s GenAI proposal: evolving regulation for an evolved medtech era",
+   "outlet": "Medical Device Network",
+   "outlet_name": "Medical Device Network",
+   "url": "https://www.medicaldevice-network.com/features/the-fda-genai-regulatory-proposal-evolving-regulation-for-an-evolved-medtech-era/",
+   "label": "CONFIRMED",
+   "summary_1line": "FDA releases formal guidance on regulating GenAI in medical devices.",
+   "published_at": "2026-10-13T14:02:07Z"
+  },
+  {
+   "title": "The new Apple TV 4K brings Siri AI to your room",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-tv-4k-brings-siri-143017316.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Apple TV 4K with Siri AI launches November 13 for $299, featuring hands-free voice control and surround sound.",
+   "published_at": "2026-10-13T14:30:17Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Permeta Launches FERC.ai, Bringing the FERC e-Library to Claude, Copilot and ChatGPT",
-   "outlet": "The Joplin Globe",
-   "outlet_name": "The Joplin Globe",
-   "label": "CONFIRMED",
-   "url": "https://www.joplinglobe.com/region/permeta-launches-ferc-ai-bringing-the-ferc-e-library-to-claude-copilot-and-chatgpt/article_6caa88e0-89d7-5c38-a990-65cc3174194c.html"
-  },
-  {
-   "headline": "Google finally releases Gemini 4 Argon",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "label": "REPORTED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
-  },
-  {
-   "headline": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech…",
+   "headline": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and…",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "label": "STILL OPEN",
-   "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html"
-  },
-  {
-   "headline": "Employees all over the world find themselves monitored by AI at work",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/technology/2026/oct/09/ai-monitoring-the-workplace"
+   "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html"
   },
   {
-   "headline": "Inside Real Estate Launches BoldTrail MCP, Connecting BoldTrail to ChatGPT, Claude, and…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "Britain’s MI5 spy chief warns of Iranian threats, AI-fuelled cyber risks: 'UK entering…",
+   "outlet": "Hindustan Times",
+   "outlet_name": "Hindustan Times",
+   "label": "CONFIRMED",
+   "url": "https://www.hindustantimes.com/world-news/britains-mi5-spy-chief-warns-of-iranian-threats-ai-fuelled-cyber-risks-uk-entering-new-era-of-national-security-101791900800308.html"
+  },
+  {
+   "headline": "Anthropic warns of self-replicating AI worm threat that doesn't need data centers to…",
+   "outlet": "Tom's Hardware",
+   "outlet_name": "Tom's Hardware",
+   "label": "CONFIRMED",
+   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-of-self-replicating-ai-worm-threat-that-doesnt-need-data-centers-to-self-improve-and-spread-current-deployment-is-impractical-but-could-become-a-worry-as-tech-improves"
+  },
+  {
+   "headline": "The FDA’s GenAI proposal: evolving regulation for an evolved medtech era",
+   "outlet": "Medical Device Network",
+   "outlet_name": "Medical Device Network",
+   "label": "CONFIRMED",
+   "url": "https://www.medicaldevice-network.com/features/the-fda-genai-regulatory-proposal-evolving-regulation-for-an-evolved-medtech-era/"
+  },
+  {
+   "headline": "The new Apple TV 4K brings Siri AI to your room",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "CONFIRMED",
+   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-tv-4k-brings-siri-143017316.html"
+  },
+  {
+   "headline": "Nvidia rolls out faster DLSS 5 model ahead of RTX Spark launch",
+   "outlet": "KitGuru",
+   "outlet_name": "KitGuru",
    "label": "REPORTED",
-   "url": "https://www.prnewswire.com/news-releases/inside-real-estate-launches-boldtrail-mcp-connecting-boldtrail-to-chatgpt-claude-and-the-assistants-agents-use-every-day-302907019.html"
+   "url": "https://www.kitguru.net/gaming/matthew-wilson/nvidia-rolls-out-faster-dlss-5-model-ahead-of-rtx-spark-launch/"
+  },
+  {
+   "headline": "Senate seeker El-Sayed digs in against AI, backs 'kill switch' bill",
+   "outlet": "KTXS",
+   "outlet_name": "KTXS",
+   "label": "CONFIRMED",
+   "url": "https://ktxs.com/news/nation-world/senate-seeker-michan-democrat-abdul-el-sayed-digs-in-against-ai-backs-kill-switch-bill-republican-mike-rogers-2026-midterm-elections"
+  },
+  {
+   "headline": "Meta’s New Muse Wonder Models Challenge OpenAI, but Access Comes With Limits",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "label": "CONFIRMED",
+   "url": "https://www.techrepublic.com/article/news-meta-muse-wonder-ai-models-launch/"
+  },
+  {
+   "headline": "Gemini 4 Argon for Robotics",
+   "outlet": "deepmind.google",
+   "outlet_name": "deepmind.google",
+   "label": "CONFIRMED",
+   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+  },
+  {
+   "headline": "Gemini 4 Argon comes to the Gemini app.",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/"
   },
   {
    "headline": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
@@ -95,56 +130,21 @@
    "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/"
   },
   {
-   "headline": "Wilson Sonsini Spinoff SixFifty Launches Employment Law AI Agent",
-   "outlet": "Law.com",
-   "outlet_name": "Law.com",
+   "headline": "Microsoft makes 'biggest bet yet' on its own silicon, unveils new AI chip to reduce…",
+   "outlet": "GeekWire on MSN",
+   "outlet_name": "GeekWire on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.law.com/legaltechnews/2026/10/13/wilson-sonsini-spinoff-sixfifty-launches-employment-law-ai-agent/"
-  },
-  {
-   "headline": "Gemini 4 Argon for Robotics",
-   "outlet": "deepmind.google",
-   "outlet_name": "deepmind.google",
-   "label": "REPORTED",
-   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
-  },
-  {
-   "headline": "Gemini 4 Argon: Built to solve your hardest problems",
-   "outlet": "deepmind.google",
-   "outlet_name": "deepmind.google",
-   "label": "REPORTED",
-   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
-  },
-  {
-   "headline": "Gemini 4 Argon is now available for developers.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "REPORTED",
-   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/"
-  },
-  {
-   "headline": "Gemini 4 Argon comes to the Gemini app.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "REPORTED",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/"
-  },
-  {
-   "headline": "Digits Launches Write MCP, the Safe Way for AI Agents to do Accounting",
-   "outlet": "markets.businessinsider.com",
-   "outlet_name": "markets.businessinsider.com",
-   "label": "CONFIRMED",
-   "url": "https://markets.businessinsider.com/news/stocks/digits-launches-write-mcp-the-safe-way-for-ai-agents-to-do-accounting-1036620708"
+   "url": "https://www.msn.com/en-us/technology/tech-companies/microsoft-makes-biggest-bet-yet-on-its-own-silicon-unveils-new-ai-chip-to-reduce-reliance-on-nvidia/ar-AA2e4Op6"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13000,
+ "tidbit": "Did you know… one story this hour was carried by 14 different outlets in the last few hours.",
+ "articles_24h_rounded": 13200,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/16.mp3",
- "audio_seconds": 57.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/17.mp3",
+ "audio_seconds": 62.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nPermeta launches FERC.ai to let users search the FERC public record through Claude, Copilot and ChatGPT with source citations. Confirmed by The Joplin Globe.\nGoogle has released Gemini 4 Argon. Reported by The Verge.\nAnthropic will reveal Q3 financials ahead of a possible 2 trillion dollar IPO, with revenue estimates up to 100 billion dollars. Still open, per CNBC.\nCo-op uses artificial intelligence to monitor staff calls, sparking worker outrage and new California laws. Confirmed by The Guardian.\nInside Real Estate launches BoldTrail MCP to let agents use artificial intelligence in real estate workflows via ChatGPT and Claude. Reported by PR Newswire.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nCharacter.ai files for bankruptcy over costs and litigation, with Disney and Google involved in a sale and licensing deal. This is confirmed by CNBC.\nBritain's MI5 spy chief warns of Iranian military threats and cyber risks fueled by advanced technology, citing a new era of national security concerns. Confirmed by Hindustan Times.\nAnthropic warns that artificial intelligence could theoretically replicate across devices without needing data centers, though current models and hardware make this impractical today. Confirmed by Tom's Hardware.\nThe FDA releases formal guidance on regulating generative artificial intelligence in medical devices as the technology evolves. Confirmed by Medical Device Network.\nApple TV 4K with voice-controlled artificial intelligence launches November 13 for 299 dollars, featuring hands-free control and surround sound. Confirmed by Yahoo Tech.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
