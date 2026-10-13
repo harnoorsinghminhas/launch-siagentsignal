@@ -1,112 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T05:20:02Z",
- "hour": "2026-10-13T05:00:00Z",
+ "generated_at": "2026-10-13T06:20:02Z",
+ "hour": "2026-10-13T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Claude Code now fences nine policy variables off from the plugins you install",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1dFSkRhSXFFR0ZqWklHQnJ4Q3F2MU14Y3dWOGx5SmdubVBsYkVpdG9qblF5VEJfcmVONUlmbHRjSkpxTTlGd1F1YnJlN1FGWGdFTnNMaGNva3Vlc0dvT0JKZURjYWQ0ME1MdlRpUVVJdXlwZUNxZi1uZmwwN2RwZHBFSHpfb1Fsc3d6ZU1Rc016Zw?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T04:58:41Z"
+   "title": "Meta says its new AI models on par with OpenAI, Anthropic",
+   "outlet": "CNA",
+   "outlet_name": "CNA",
+   "url": "https://www.channelnewsasia.com/business/meta-says-its-new-ai-models-par-openai-anthropic-6454151",
+   "label": "CONFIRMED",
+   "summary_1line": "Meta launches Wonder AI models rivaling OpenAI and Anthropic, with new apps and hardware for paid users.",
+   "published_at": "2026-10-13T02:36:18Z"
   },
   {
-   "title": "DeepSeek will complete 100 billion yuan in financing",
-   "outlet": "36 Kr",
-   "outlet_name": "36 Kr",
-   "url": "https://36kr.com/newsflashes/4023639578038151",
-   "label": "REPORTED",
-   "summary_1line": "火山引擎 is performing a security check for user access safety.",
-   "published_at": "2026-10-13T03:04:59Z"
+   "title": "Microsoft Unveils Maia 300 AI Chip In A Bid To Cut Dependence On Nvidia & AMD",
+   "outlet": "Free Press Journal",
+   "outlet_name": "Free Press Journal",
+   "url": "https://www.freepressjournal.in/tech/microsoft-unveils-maia-300-ai-chip-in-a-bid-to-cut-dependence-on-nvidia-amd",
+   "label": "CONFIRMED",
+   "summary_1line": "Microsoft's Maia 300 chip boosts AI efficiency and scales to 2027, targeting 1M chips with 40% more tokens per megawatt.",
+   "published_at": "2026-10-12T20:55:00Z"
   },
   {
-   "title": "Microsoft Develops Self-Owned AI Chip! Will NVIDIA's Hegemony Change?",
-   "outlet": "蕃新聞",
-   "outlet_name": "蕃新聞",
-   "url": "https://n.yam.com/Article/20261013550131",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft's Azure Maia 300 AI chip, with 96 accelerators per rack, starts 2027 deployment.",
-   "published_at": "2026-10-13T02:12:00Z"
+   "title": "IMF Managing Director warns artificial intelligence poses a \"slow-moving tsunami\" to employment and taxation",
+   "outlet": "新浪网",
+   "outlet_name": "新浪网",
+   "url": "https://video.sina.com.cn/p/finance/2026-10-12/detail-iniuyari7238159.d.html",
+   "label": "CONFIRMED",
+   "summary_1line": "IMF warns AI could cause a tsunami in jobs and taxes.",
+   "published_at": "2026-10-13T03:59:00Z"
   },
   {
-   "title": "Testlio Launches LeoSuccess™, an AI Copilot for the Next Era of Test Orchestration",
+   "title": "Qianwen is available on HarmonyOS PC, powered by Qwen large model! Mobile Live Window and service cards upgraded simultaneously",
+   "outlet": "极客公园",
+   "outlet_name": "极客公园",
+   "url": "https://www.geekpark.net/news/372276",
+   "label": "REPORTED",
+   "summary_1line": "Huawei's Mate 90 with HarmonyOS 7 gets AI features like ride sharing, video progress, and tutoring cards.",
+   "published_at": "2026-10-13T04:58:25Z"
+  },
+  {
+   "title": "ProcurePro Lets Contractors Talk to Their Live Procurement Data Through Microsoft Copilot and Claude",
    "outlet": "CustomerThink",
    "outlet_name": "CustomerThink",
-   "url": "https://customerthink.com/testlio-launches-leosuccess-an-ai-copilot-for-the-next-era-of-test-orchestration/",
+   "url": "https://customerthink.com/procurepro-lets-contractors-talk-to-their-live-procurement-data-through-microsoft-copilot-and-claude/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T04:31:40Z"
-  },
-  {
-   "title": "Anthropic Has Bigger Problems Than Claude's Feelings",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUNzWFVPeTBFYUlOem4zVTRhXzdNSmV4aEx3WDZQZWtiLWlFb09DM1JqT3RqQXhVVjQ2N2U5eWdVbWJvbVZacDdHWG5pZjdteFAzOVRtRkdtSWQxUlBWbkdYRGw3Y1ZaQWdKTmlad1c3Nk1VdUZ1RHRVTzA5SkdBRS03amhzY1VaNW5yN0VWSWNzdWZ2ZC1pNzAyU0pRYTZyVzJvU1Y1YjdsUlJuNnREdGh4WmlpZWRFV1B0U1hR?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T04:00:00Z"
+   "summary_1line": "ProcurePro enables AI tools to access real-time data for proactive margin management in construction.",
+   "published_at": "2026-10-13T04:40:06Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Claude Code now fences nine policy variables off from the plugins you install",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1dFSkRhSXFFR0ZqWklHQnJ4Q3F2MU14Y3dWOGx5SmdubVBsYkVpdG9qblF5VEJfcmVONUlmbHRjSkpxTTlGd1F1YnJlN1FGWGdFTnNMaGNva3Vlc0dvT0JKZURjYWQ0ME1MdlRpUVVJdXlwZUNxZi1uZmwwN2RwZHBFSHpfb1Fsc3d6ZU1Rc016Zw?oc=5"
+   "headline": "Meta says its new AI models on par with OpenAI, Anthropic",
+   "outlet": "CNA",
+   "outlet_name": "CNA",
+   "label": "CONFIRMED",
+   "url": "https://www.channelnewsasia.com/business/meta-says-its-new-ai-models-par-openai-anthropic-6454151"
   },
   {
-   "headline": "DeepSeek will complete 100 billion yuan in financing",
-   "outlet": "36 Kr",
-   "outlet_name": "36 Kr",
-   "label": "REPORTED",
-   "url": "https://36kr.com/newsflashes/4023639578038151"
+   "headline": "Microsoft Unveils Maia 300 AI Chip In A Bid To Cut Dependence On Nvidia & AMD",
+   "outlet": "Free Press Journal",
+   "outlet_name": "Free Press Journal",
+   "label": "CONFIRMED",
+   "url": "https://www.freepressjournal.in/tech/microsoft-unveils-maia-300-ai-chip-in-a-bid-to-cut-dependence-on-nvidia-amd"
   },
   {
-   "headline": "Microsoft Develops Self-Owned AI Chip! Will NVIDIA's Hegemony Change?",
-   "outlet": "蕃新聞",
-   "outlet_name": "蕃新聞",
-   "label": "REPORTED",
-   "url": "https://n.yam.com/Article/20261013550131"
+   "headline": "IMF Managing Director warns artificial intelligence poses a \"slow-moving tsunami\" to…",
+   "outlet": "新浪网",
+   "outlet_name": "新浪网",
+   "label": "CONFIRMED",
+   "url": "https://video.sina.com.cn/p/finance/2026-10-12/detail-iniuyari7238159.d.html"
   },
   {
-   "headline": "Testlio Launches LeoSuccess™, an AI Copilot for the Next Era of Test Orchestration",
+   "headline": "Qianwen is available on HarmonyOS PC, powered by Qwen large model! Mobile Live Window and…",
+   "outlet": "极客公园",
+   "outlet_name": "极客公园",
+   "label": "REPORTED",
+   "url": "https://www.geekpark.net/news/372276"
+  },
+  {
+   "headline": "ProcurePro Lets Contractors Talk to Their Live Procurement Data Through Microsoft Copilot…",
    "outlet": "CustomerThink",
    "outlet_name": "CustomerThink",
    "label": "REPORTED",
-   "url": "https://customerthink.com/testlio-launches-leosuccess-an-ai-copilot-for-the-next-era-of-test-orchestration/"
-  },
-  {
-   "headline": "Anthropic Has Bigger Problems Than Claude's Feelings",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUNzWFVPeTBFYUlOem4zVTRhXzdNSmV4aEx3WDZQZWtiLWlFb09DM1JqT3RqQXhVVjQ2N2U5eWdVbWJvbVZacDdHWG5pZjdteFAzOVRtRkdtSWQxUlBWbkdYRGw3Y1ZaQWdKTmlad1c3Nk1VdUZ1RHRVTzA5SkdBRS03amhzY1VaNW5yN0VWSWNzdWZ2ZC1pNzAyU0pRYTZyVzJvU1Y1YjdsUlJuNnREdGh4WmlpZWRFV1B0U1hR?oc=5"
-  },
-  {
-   "headline": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-ca/news/other/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap-report-finds/ar-AA2e6MYO"
-  },
-  {
-   "headline": "Meta unveils high-performance AI models to power Muse",
-   "outlet": "The Chosun Ilbo on MSN",
-   "outlet_name": "The Chosun Ilbo on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-xl/technology/tech-companies/meta-unveils-high-performance-ai-models-to-power-muse/ar-AA2e5FRu"
+   "url": "https://customerthink.com/procurepro-lets-contractors-talk-to-their-live-procurement-data-through-microsoft-copilot-and-claude/"
   },
   {
    "headline": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
    "outlet": "blogs.nvidia.com",
    "outlet_name": "blogs.nvidia.com",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/"
+  },
+  {
+   "headline": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds",
+   "outlet": "The Economic Times on MSN",
+   "outlet_name": "The Economic Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap-report-finds/ar-AA2e72SJ"
+  },
+  {
+   "headline": "Apple readies HomeView hub as Anthropic tightens Claude rules",
+   "outlet": "fox10tv.com",
+   "outlet_name": "fox10tv.com",
+   "label": "CONFIRMED",
+   "url": "https://www.fox10tv.com/video/2026/10/13/apple-readies-homeview-hub-anthropic-tightens-claude-rules/"
+  },
+  {
+   "headline": "DXC Technology Partners with LangChain to Scale Governed AI Agents",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/dxc-technology-partners-with-langchain-to-scale-governed-ai-agents/"
+  },
+  {
+   "headline": "Show HN: GPT-3.5 answered, GPT-4 voided; I built an EOS gate for AGI",
+   "outlet": "getswiftapi.com",
+   "outlet_name": "getswiftapi.com",
+   "label": "REPORTED",
+   "url": "https://getswiftapi.com"
   },
   {
    "headline": "'Open Software, Proprietary Chips' Aiming at NVIDIA, Qualcomm's Consecutive Acquisitions…",
@@ -121,30 +135,16 @@
    "outlet_name": "sidheart.gumroad.com",
    "label": "REPORTED",
    "url": "https://sidheart.gumroad.com/l/claudeguard"
-  },
-  {
-   "headline": "Anthropic points to signs of self-replicating AI, 26B model runs on fifteen 55-dollar TV…",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
-   "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/"
-  },
-  {
-   "headline": "Ex-OpenAI researcher in talks to raise $15 million from Peak XV, Bessemer for new AI…",
-   "outlet": "Moneycontrol.com",
-   "outlet_name": "Moneycontrol.com",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSmtrQ21MZG5lNGQyWkU4M2JPMDhtYXlocTJSclRWRG5uUTNFc21qMG5hS0o4LUdkTHZ0YTRMQk1SSzhZOVBwUmVieFVoeWxzNGRseEQ5Um1rM2N3NlJyU1FRdXZJNUp3R2hzMHhXUTZZaTdpcXV6ZUI2ZXpxcFNzaW54VTFocHJDcjJDLWJRTzlqYW5Gb0JvVnVvTTR0U3ZKRjM4OTV4QUQwYWVlaUpuNVdTS2cwQm9LSi1xMGItOExnOHRwLWdNcWEwMXBWYUxfbVpadlRlVWYwNlptUFVFTEVDbGRadW9zak5R0gHwAUFVX3lxTE1lNy1fanVoMHNrMEdHX3EyZUJndURaLURDWVpqeHN2LWlQTXNnRW1zdmhiSExmanZpb3ViZHJ2b0VoaHlyblpaTXJzNWdZamlsckQxMF9VNFlBZVFkT2QwRmVFMk1NOFp0ZzlzcGtwY2dlTC0tSGNKcVRiWk9vX0hSTS16eFM5cFphOFFfMk5lQ04teDhfdEl3VllkaFBsMlBvcUhPNXNRSW1FcENnMmx5Mlp0WmZnUFVrRjFtQ1FuNHdQWEMxWENhVWdzTndFWTZWemN3bTExbjFvT2I0bTZ3amxpZkR2bzBwWjVmaDZlMw?oc=5"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 11900,
+ "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 12000,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/05.mp3",
- "audio_seconds": 42.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/06.mp3",
+ "audio_seconds": 56.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by MIXED Reality News: Claude Code now fences nine policy variables off from the plugins you install.\nReported by 36 Kr: DeepSeek will complete 100 billion yuan in financing.\nReported by 蕃新聞: Microsoft Develops Self-Owned AI Chip! Will NVIDIA's Hegemony Change.\nReported by CustomerThink: Testlio Launches LeoSuccess™, an AI Copilot for the Next Era of Test Orchestration.\nReported by Bloomberg: Anthropic Has Bigger Problems Than Claude's Feelings.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNA: Meta says its new AI models on par with OpenAI, Anthropic.\nConfirmed, per Free Press Journal: Microsoft Unveils Maia 300 AI Chip In A Bid To Cut Dependence On Nvidia & AMD.\nConfirmed, per 新浪网: IMF Managing Director warns artificial intelligence poses a \"slow-moving tsunami\" to employment and taxation.\nReported by 极客公园: Qianwen is available on HarmonyOS PC, powered by Qwen large model! Mobile Live Window and service cards upgraded simultaneously.\nReported by CustomerThink: ProcurePro Lets Contractors Talk to Their Live Procurement Data Through Microsoft Copilot and Claude.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
