@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T19:20:02Z",
- "hour": "2026-10-13T19:00:00Z",
+ "generated_at": "2026-10-13T20:20:02Z",
+ "hour": "2026-10-13T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google launches new frontier model Gemini 4 Argon with deeper reasoning",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/gemini-4-argon-model-launch/",
+   "title": "Anthropic says AI models could soon copy themselves across your devices — with or without you",
+   "outlet": "Straight Arrow News",
+   "outlet_name": "Straight Arrow News",
+   "url": "https://san.com/cc/anthropic-says-ai-models-could-soon-copy-themselves-across-your-devices-with-or-without-you/",
    "label": "CONFIRMED",
-   "summary_1line": "Google launches Gemini 4 Argon with deep reasoning, 99% accuracy, and 2.85x faster inference.",
-   "published_at": "2026-10-13T09:20:00Z"
+   "summary_1line": "Anthropic warns small AI models could replicate across home IoT devices in months.",
+   "published_at": "2026-10-13T10:30:00Z"
   },
   {
-   "title": "SpaceX Unifies X Premium, Grok, and Cursor Under a Single 'X Subscription'",
-   "outlet": "PCMag Australia",
-   "outlet_name": "PCMag Australia",
-   "url": "https://au.pcmag.com/ai/120412/spacex-unifies-x-premium-grok-and-cursor-under-a-single-x-subscription",
-   "label": "CONFIRMED",
-   "summary_1line": "SpaceX launches The X Subscription with tiers from $8 to $200 monthly, bundling AI and coding tools.",
-   "published_at": "2026-10-13T09:10:00Z"
+   "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
+   "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-13T19:35:29Z"
   },
   {
-   "title": "Redesigning source control at Anthropic",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+   "title": "Google brings its AI coding platform to its Gemini app on Mac.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/tech/1010415/google-antigravity-gemini-app-mac",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic built Scion to scale AI-driven code development beyond git’s limits.",
-   "published_at": "2026-10-13T16:00:43Z"
+   "summary_1line": "Google adds Antigravity coding tools to Gemini app on Mac for AI Ultra subscribers.",
+   "published_at": "2026-10-13T11:15:00Z"
   },
   {
-   "title": "Anthropic warns of AI 'worms' spreading across smart gadgets",
-   "outlet": "Tech Xplore",
-   "outlet_name": "Tech Xplore",
-   "url": "https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic warns AI worms could spread across smart gadgets, mimicking botnets.",
-   "published_at": "2026-10-13T09:50:00Z"
+   "title": "NVIDIA Doubles DLSS 5 Speed And Slashes VRAM Use For RTX Spark Launch",
+   "outlet": "HotHardware",
+   "outlet_name": "HotHardware",
+   "url": "https://hothardware.com/news/nvidia-doubles-dlss-5-speed-rtx-spark",
+   "label": "REPORTED",
+   "summary_1line": "NVIDIA doubles DLSS 5 speed, cuts VRAM use, and rolls it out to key games and RTX Spark.",
+   "published_at": "2026-10-13T18:55:00Z"
   },
   {
-   "title": "Apple unveils new smart home devices that showcase upgraded Siri AI",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai",
-   "label": "CONFIRMED",
-   "summary_1line": "Apple launches HomeView at $299 with Siri AI, shipping next month.",
-   "published_at": "2026-10-13T16:25:28Z"
+   "title": "Grok cases highlight risks for AI companies under Illinois privacy law",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "url": "https://www.reuters.com/legal/government/grok-cases-highlight-risks-ai-companies-under-illinois-privacy-law-2026-10-13/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-13T18:21:43Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Google launches new frontier model Gemini 4 Argon with deeper reasoning",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "Anthropic says AI models could soon copy themselves across your devices — with or without…",
+   "outlet": "Straight Arrow News",
+   "outlet_name": "Straight Arrow News",
    "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/gemini-4-argon-model-launch/"
+   "url": "https://san.com/cc/anthropic-says-ai-models-could-soon-copy-themselves-across-your-devices-with-or-without-you/"
   },
   {
-   "headline": "SpaceX Unifies X Premium, Grok, and Cursor Under a Single 'X Subscription'",
-   "outlet": "PCMag Australia",
-   "outlet_name": "PCMag Australia",
-   "label": "CONFIRMED",
-   "url": "https://au.pcmag.com/ai/120412/spacex-unifies-x-premium-grok-and-cursor-under-a-single-x-subscription"
+   "headline": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
+   "label": "REPORTED",
+   "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/"
   },
   {
-   "headline": "Redesigning source control at Anthropic",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
+   "headline": "Google brings its AI coding platform to its Gemini app on Mac.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+   "url": "https://www.theverge.com/tech/1010415/google-antigravity-gemini-app-mac"
   },
   {
-   "headline": "Anthropic warns of AI 'worms' spreading across smart gadgets",
-   "outlet": "Tech Xplore",
-   "outlet_name": "Tech Xplore",
-   "label": "STILL OPEN",
-   "url": "https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html"
-  },
-  {
-   "headline": "Apple unveils new smart home devices that showcase upgraded Siri AI",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai"
+   "headline": "NVIDIA Doubles DLSS 5 Speed And Slashes VRAM Use For RTX Spark Launch",
+   "outlet": "HotHardware",
+   "outlet_name": "HotHardware",
+   "label": "REPORTED",
+   "url": "https://hothardware.com/news/nvidia-doubles-dlss-5-speed-rtx-spark"
   },
   {
    "headline": "Grok cases highlight risks for AI companies under Illinois privacy law",
@@ -102,6 +95,20 @@
    "url": "https://wap.eastmoney.com/a/202610143894532533.html"
   },
   {
+   "headline": "Returning to Number 1 on AI Rankings: Google Opens Gemini 4 Argon Large Model with 50%…",
+   "outlet": "驱动之家",
+   "outlet_name": "驱动之家",
+   "label": "REPORTED",
+   "url": "https://news.mydrivers.com/1/1157/1157226.htm"
+  },
+  {
+   "headline": "Can AI feel pain? Anthropic turns to religion as new policy opens debate over machine…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "label": "REPORTED",
+   "url": "https://timesofindia.indiatimes.com/world/us/can-ai-feel-pain-anthropic-turns-to-religion-as-new-policy-opens-debate-over-machine-consciousness/articleshow/134916772.cms"
+  },
+  {
    "headline": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
@@ -116,18 +123,11 @@
    "url": "https://qz.com/anthropic-q3-financials-investors-ipo-101326"
   },
   {
-   "headline": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on…",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing…",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
-  },
-  {
-   "headline": "Apple announces the HomePod Mini 2, but it isn’t ready for Siri AI at launch",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai"
+   "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html"
   },
   {
    "headline": "Developing Gemini 4 Argon responsibly and safely",
@@ -137,14 +137,14 @@
    "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 13300,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 13400,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/19.mp3",
- "audio_seconds": 34.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/20.mp3",
+ "audio_seconds": 48.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Crypto Briefing: Google launches new frontier model Gemini 4 Argon with deeper reasoning.\nConfirmed, per PCMag Australia: SpaceX Unifies X Premium, Grok, and Cursor Under a Single 'X Subscription'.\nConfirmed, per Anthropic: Redesigning source control at Anthropic.\nStill open, per Tech Xplore: Anthropic warns of AI 'worms' spreading across smart gadgets.\nConfirmed, per The Guardian: Apple unveils new smart home devices that showcase upgraded Siri AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Straight Arrow News: Anthropic says AI models could soon copy themselves across your devices — with or without you.\nReported by Wired: OpenAI and Anthropic Tell British Lawmakers: Regulate Us.\nConfirmed, per The Verge: Google brings its AI coding platform to its Gemini app on Mac.\nReported by HotHardware: NVIDIA Doubles DLSS 5 Speed And Slashes VRAM Use For RTX Spark Launch.\nReported by Reuters: Grok cases highlight risks for AI companies under Illinois privacy law.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
