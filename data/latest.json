@@ -1,98 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T17:20:02Z",
- "hour": "2026-10-13T17:00:00Z",
+ "generated_at": "2026-10-13T18:20:02Z",
+ "hour": "2026-10-13T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and litigation",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Character.ai files for bankruptcy, with Disney and Google involved in a sale and licensing deal.",
-   "published_at": "2026-10-13T15:16:30Z"
+   "title": "Nvidia set to announce $2 billion in European AI investments this week",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/nvidia-2-billion-ai-investments-europe/",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia to announce $2B in EU AI investments, supporting sovereign AI and 18K+ Blackwell GPUs.",
+   "published_at": "2026-10-13T08:51:00Z"
   },
   {
-   "title": "Britain’s MI5 spy chief warns of Iranian threats, AI-fuelled cyber risks: 'UK entering new era of national security’ | World News",
-   "outlet": "Hindustan Times",
-   "outlet_name": "Hindustan Times",
-   "url": "https://www.hindustantimes.com/world-news/britains-mi5-spy-chief-warns-of-iranian-threats-ai-fuelled-cyber-risks-uk-entering-new-era-of-national-security-101791900800308.html",
-   "label": "CONFIRMED",
-   "summary_1line": "MI5 warns of Iranian military threats and AI-driven cyber risks in UK, citing new era of national security.",
-   "published_at": "2026-10-13T15:06:21Z"
+   "title": "Florida’s OpenAI Lawsuit: Can Section 230 Protect ChatGPT?",
+   "outlet": "Best Lawyers",
+   "outlet_name": "Best Lawyers",
+   "url": "https://www.bestlawyers.com/article/florida-openai-lawsuit-section-230-chatgpt/8552",
+   "label": "STILL OPEN",
+   "summary_1line": "Florida sues OpenAI over alleged AI advice leading to a campus shooting; jurisdictional fight looms over Section 230.",
+   "published_at": "2026-10-13T13:02:49Z"
   },
   {
-   "title": "Anthropic warns of self-replicating AI worm threat that doesn't need data centers to self-improve and spread — current deployment is impractical but could become a worry as tech improves",
-   "outlet": "Tom's Hardware",
-   "outlet_name": "Tom's Hardware",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-of-self-replicating-ai-worm-threat-that-doesnt-need-data-centers-to-self-improve-and-spread-current-deployment-is-impractical-but-could-become-a-worry-as-tech-improves",
+   "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic shows AI could theoretically replicate across devices, but current models and hardware make it impractical.",
-   "published_at": "2026-10-13T14:00:00Z"
+   "summary_1line": "Google rolls out Gemini 4 Argon to paying users, citing efficiency gains and bug detection.",
+   "published_at": "2026-10-13T16:00:02Z"
   },
   {
-   "title": "The FDA’s GenAI proposal: evolving regulation for an evolved medtech era",
-   "outlet": "Medical Device Network",
-   "outlet_name": "Medical Device Network",
-   "url": "https://www.medicaldevice-network.com/features/the-fda-genai-regulatory-proposal-evolving-regulation-for-an-evolved-medtech-era/",
-   "label": "CONFIRMED",
-   "summary_1line": "FDA releases formal guidance on regulating GenAI in medical devices.",
-   "published_at": "2026-10-13T14:02:07Z"
+   "title": "Mirantis Integrates Open-Source NVIDIA Run:ai with k0rdent AI for Full Stack NVIDIA DSX AI Factory Operations",
+   "outlet": "The National Law Review",
+   "outlet_name": "The National Law Review",
+   "url": "https://natlawreview.com/press-releases/mirantis-integrates-open-source-nvidia-run-ai-k0rdent-ai-full-stack-nvidia",
+   "label": "REPORTED",
+   "summary_1line": "Mirantis integrates NVIDIA Run:ai with k0rdent AI for full-stack AI factory operations.",
+   "published_at": "2026-10-13T15:31:12Z"
   },
   {
-   "title": "The new Apple TV 4K brings Siri AI to your room",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-tv-4k-brings-siri-143017316.html",
+   "title": "Senate seeker El-Sayed digs in against AI, backs 'kill switch' bill",
+   "outlet": "KTXS",
+   "outlet_name": "KTXS",
+   "url": "https://ktxs.com/news/nation-world/senate-seeker-michan-democrat-abdul-el-sayed-digs-in-against-ai-backs-kill-switch-bill-republican-mike-rogers-2026-midterm-elections",
    "label": "CONFIRMED",
-   "summary_1line": "Apple TV 4K with Siri AI launches November 13 for $299, featuring hands-free voice control and surround sound.",
-   "published_at": "2026-10-13T14:30:17Z"
+   "summary_1line": "El-Sayed backs AI 'kill switch' bill amid public fears over rapid AI development.",
+   "published_at": "2026-10-13T16:06:11Z"
   }
  ],
  "ticker": [
   {
-   "headline": "AI companion startup Character.ai files for Chapter 11 bankruptcy, citing costs and…",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/13/character-ai-chapter-11-disney-bid.html"
-  },
-  {
-   "headline": "Britain’s MI5 spy chief warns of Iranian threats, AI-fuelled cyber risks: 'UK entering…",
-   "outlet": "Hindustan Times",
-   "outlet_name": "Hindustan Times",
-   "label": "CONFIRMED",
-   "url": "https://www.hindustantimes.com/world-news/britains-mi5-spy-chief-warns-of-iranian-threats-ai-fuelled-cyber-risks-uk-entering-new-era-of-national-security-101791900800308.html"
-  },
-  {
-   "headline": "Anthropic warns of self-replicating AI worm threat that doesn't need data centers to…",
-   "outlet": "Tom's Hardware",
-   "outlet_name": "Tom's Hardware",
-   "label": "CONFIRMED",
-   "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropic-warns-of-self-replicating-ai-worm-threat-that-doesnt-need-data-centers-to-self-improve-and-spread-current-deployment-is-impractical-but-could-become-a-worry-as-tech-improves"
-  },
-  {
-   "headline": "The FDA’s GenAI proposal: evolving regulation for an evolved medtech era",
-   "outlet": "Medical Device Network",
-   "outlet_name": "Medical Device Network",
-   "label": "CONFIRMED",
-   "url": "https://www.medicaldevice-network.com/features/the-fda-genai-regulatory-proposal-evolving-regulation-for-an-evolved-medtech-era/"
-  },
-  {
-   "headline": "The new Apple TV 4K brings Siri AI to your room",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-tv-4k-brings-siri-143017316.html"
-  },
-  {
-   "headline": "Nvidia rolls out faster DLSS 5 model ahead of RTX Spark launch",
-   "outlet": "KitGuru",
-   "outlet_name": "KitGuru",
+   "headline": "Nvidia set to announce $2 billion in European AI investments this week",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
    "label": "REPORTED",
-   "url": "https://www.kitguru.net/gaming/matthew-wilson/nvidia-rolls-out-faster-dlss-5-model-ahead-of-rtx-spark-launch/"
+   "url": "https://cryptobriefing.com/nvidia-2-billion-ai-investments-europe/"
+  },
+  {
+   "headline": "Florida’s OpenAI Lawsuit: Can Section 230 Protect ChatGPT?",
+   "outlet": "Best Lawyers",
+   "outlet_name": "Best Lawyers",
+   "label": "STILL OPEN",
+   "url": "https://www.bestlawyers.com/article/florida-openai-lawsuit-section-230-chatgpt/8552"
+  },
+  {
+   "headline": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
+   "label": "CONFIRMED",
+   "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+  },
+  {
+   "headline": "Mirantis Integrates Open-Source NVIDIA Run:ai with k0rdent AI for Full Stack NVIDIA DSX…",
+   "outlet": "The National Law Review",
+   "outlet_name": "The National Law Review",
+   "label": "REPORTED",
+   "url": "https://natlawreview.com/press-releases/mirantis-integrates-open-source-nvidia-run-ai-k0rdent-ai-full-stack-nvidia"
   },
   {
    "headline": "Senate seeker El-Sayed digs in against AI, backs 'kill switch' bill",
@@ -102,32 +88,25 @@
    "url": "https://ktxs.com/news/nation-world/senate-seeker-michan-democrat-abdul-el-sayed-digs-in-against-ai-backs-kill-switch-bill-republican-mike-rogers-2026-midterm-elections"
   },
   {
-   "headline": "Meta’s New Muse Wonder Models Challenge OpenAI, but Access Comes With Limits",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
+   "headline": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on…",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.techrepublic.com/article/news-meta-muse-wonder-ai-models-launch/"
+   "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
   },
   {
-   "headline": "Gemini 4 Argon for Robotics",
-   "outlet": "deepmind.google",
-   "outlet_name": "deepmind.google",
-   "label": "CONFIRMED",
-   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+   "headline": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5"
   },
   {
-   "headline": "Gemini 4 Argon comes to the Gemini app.",
+   "headline": "Gemini 4 Argon: Built to solve your hardest problems",
    "outlet": "blog.google",
    "outlet_name": "blog.google",
    "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/"
-  },
-  {
-   "headline": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
-   "outlet": "developer.nvidia.com",
-   "outlet_name": "developer.nvidia.com",
-   "label": "CONFIRMED",
-   "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/"
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
   },
   {
    "headline": "Microsoft makes 'biggest bet yet' on its own silicon, unveils new AI chip to reduce…",
@@ -135,16 +114,37 @@
    "outlet_name": "GeekWire on MSN",
    "label": "CONFIRMED",
    "url": "https://www.msn.com/en-us/technology/tech-companies/microsoft-makes-biggest-bet-yet-on-its-own-silicon-unveils-new-ai-chip-to-reduce-reliance-on-nvidia/ar-AA2e4Op6"
+  },
+  {
+   "headline": "Redesigning source control at Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+  },
+  {
+   "headline": "Developing Gemini 4 Argon responsibly and safely",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "REPORTED",
+   "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/"
+  },
+  {
+   "headline": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for…",
+   "outlet": "engineering.fb.com",
+   "outlet_name": "engineering.fb.com",
+   "label": "CONFIRMED",
+   "url": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by 14 different outlets in the last few hours.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 13200,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/17.mp3",
- "audio_seconds": 62.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/18.mp3",
+ "audio_seconds": 52.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nCharacter.ai files for bankruptcy over costs and litigation, with Disney and Google involved in a sale and licensing deal. This is confirmed by CNBC.\nBritain's MI5 spy chief warns of Iranian military threats and cyber risks fueled by advanced technology, citing a new era of national security concerns. Confirmed by Hindustan Times.\nAnthropic warns that artificial intelligence could theoretically replicate across devices without needing data centers, though current models and hardware make this impractical today. Confirmed by Tom's Hardware.\nThe FDA releases formal guidance on regulating generative artificial intelligence in medical devices as the technology evolves. Confirmed by Medical Device Network.\nApple TV 4K with voice-controlled artificial intelligence launches November 13 for 299 dollars, featuring hands-free control and surround sound. Confirmed by Yahoo Tech.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Crypto Briefing: Nvidia set to announce $2 billion in European AI investments this week.\nStill open, per Best Lawyers: Florida’s OpenAI Lawsuit: Can Section 230 Protect ChatGPT.\nConfirmed, per Ars Technica: Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay.\nReported by The National Law Review: Mirantis Integrates Open-Source NVIDIA Run:ai with k0rdent AI for Full Stack NVIDIA DSX AI Factory Operations.\nConfirmed, per KTXS: Senate seeker El-Sayed digs in against AI, backs 'kill switch' bill.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
