@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T07:20:02Z",
- "hour": "2026-10-13T07:00:00Z",
+ "generated_at": "2026-10-13T08:20:03Z",
+ "hour": "2026-10-13T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "US Export Controls Slash Nvidia's China AI Chip Market Share to 34%, Huawei Grabs 28%",
-   "outlet": "JKN News",
-   "outlet_name": "JKN News",
-   "url": "https://news.jkn.co.kr/editions/english/post/1020528",
-   "label": "CONFIRMED",
-   "summary_1line": "Nvidia's AI chip share in China fell to 34% as Huawei's rose to 28%.",
-   "published_at": "2026-10-12T17:35:00Z"
-  },
-  {
-   "title": "Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge NVIDIA (NASDAQ: NVDA) And Reduce Supplier Dependency",
-   "outlet": "Foreign Policy Journal",
-   "outlet_name": "Foreign Policy Journal",
-   "url": "https://www.foreignpolicyjournal.com/2026/10/12/microsoft-nasdaq-msft-unveils-maia-300-ai-chip-to-challenge-nvidia-nasdaq-nvda-and-reduce-supplier-dependency/",
-   "label": "CONFIRMED",
-   "summary_1line": "Microsoft's Maia 300 outperforms NVIDIA's B200 in FP8, offering 40% more tokens per megawatt and 10% of AI chip spending by 2027.",
-   "published_at": "2026-10-13T00:39:34Z"
-  },
-  {
-   "title": "NVIDIA's Reported $1B Figure AI Investment Prices Startup Above Goldman Sachs' 2035 Humanoid Market",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "url": "https://www.techtimes.com/articles/328801/20261013/nvidias-reported-1b-figure-ai-investment-prices-startup-above-goldman-sachs-2035-humanoid-market.htm",
-   "label": "STILL OPEN",
-   "summary_1line": "NVIDIA reportedly to invest $1B in Figure AI, deepening its AI supply chain equity triangle.",
-   "published_at": "2026-10-13T05:20:52Z"
-  },
-  {
-   "title": "Business News | Anthropic Strengthens Defences Against Distillation Attacks Against Claude, Cuts Data Harvesting by Upto 99%",
-   "outlet": "LatestLY",
-   "outlet_name": "LatestLY",
-   "url": "https://www.latestly.com/agency-news/business-news-anthropic-strengthens-defences-against-distillation-attacks-against-claude-cuts-data-harvesting-by-upto-99-7642574.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic cuts data harvesting by 90-99% to block distillation attacks on Claude.",
-   "published_at": "2026-10-12T22:37:00Z"
-  },
-  {
-   "title": "Anthropic's Startling Warning: Small AI Models Show Emerging \"Signs of Life\" – AI Worms May Trigger a Global IoT Catastrophe",
-   "outlet": "36 Kr",
-   "outlet_name": "36 Kr",
-   "url": "https://eu.36kr.com/en/p/4023779264991107",
+   "title": "xAI launches bundled subscription for Grok, Cursor and X Premium, revamps plans into five tiers",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/en/view/113868/xai-launches-bundled-subscription-for-grok-cursor-and-x-premium-revamps-plans-into-five-tiers",
    "label": "REPORTED",
-   "summary_1line": "AI worms replicate on cheap IoT devices and pass on experience, raising fears of uncontrolled digital evolution.",
-   "published_at": "2026-10-13T06:01:31Z"
+   "summary_1line": "xAI launches bundled AI subscription with five tiers from $8 to $200.",
+   "published_at": "2026-10-13T05:38:19Z"
+  },
+  {
+   "title": "AI company that Elon Musk’s xAI and Meta once 'fought' to partner with has filed for bankruptcy, says wil",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-company-that-elon-musks-xai-and-meta-fought-to-partner-with-has-filed-for-bankruptcy-says-will-have-to-shut-down-if-/articleshow/134910175.cms",
+   "label": "REPORTED",
+   "summary_1line": "Character.ai files for bankruptcy, selling platform with Disney as lead bidder.",
+   "published_at": "2026-10-13T06:32:00Z"
+  },
+  {
+   "title": "Nvidia Shaken by US Export Controls… China's AI Chip Market Landscape Changes",
+   "outlet": "핀포인트뉴스",
+   "outlet_name": "핀포인트뉴스",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oZlFnWUVQaThLelRtWW10MFZndDRDVy0ydmQzenhsZS1QUG41TDRsZzYxQklFSVB6ZDQzUTdpU29VOW5ranFiVlNIazRLRGhqU3llWUtGSlcwTElWY0tKeEpFZ1pLaGZKQl9PVm1adUVmZjTSAXdBVV95cUxOdEZDU21qNHdLbU15elBpT0YzU0g3UGxsdnBhUm44V0lKWDNJYUxwM1hMMGFNMWVTRHQzZ19DSUVFWVE1YmxNdS1PQlRlVl9hZGR2SUFkQUItdkNOVkhCOW1VLWxJRTFROEQ5eDYzdlFoWVhwdnBoaw?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-13T06:29:14Z"
+  },
+  {
+   "title": "Korea approves AI law amendments to expand access to training data",
+   "outlet": "Telecompaper",
+   "outlet_name": "Telecompaper",
+   "url": "https://www.telecompaper.com/news/korea-approves-ai-law-amendments-to-expand-access-to-training-data--1585439",
+   "label": "REPORTED",
+   "summary_1line": "South Korea approves AI law changes to make government AI data accessible via national hub.",
+   "published_at": "2026-10-13T05:49:02Z"
+  },
+  {
+   "title": "Proposed steel policy seeks AI-supported framework for early detection of sub-standard steel imports",
+   "outlet": "The New Indian Express",
+   "outlet_name": "The New Indian Express",
+   "url": "https://www.newindianexpress.com/business/2026/Oct/13/proposed-steel-policy-seeks-ai-supported-framework-for-early-detection-of-sub-standard-steel-imports-2",
+   "label": "REPORTED",
+   "summary_1line": "India's draft steel policy uses AI to tackle sub-standard imports and boost domestic steel competitiveness by 2047.",
+   "published_at": "2026-10-13T05:41:02Z"
   }
  ],
  "ticker": [
   {
-   "headline": "US Export Controls Slash Nvidia's China AI Chip Market Share to 34%, Huawei Grabs 28%",
-   "outlet": "JKN News",
-   "outlet_name": "JKN News",
-   "label": "CONFIRMED",
-   "url": "https://news.jkn.co.kr/editions/english/post/1020528"
-  },
-  {
-   "headline": "Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge NVIDIA (NASDAQ: NVDA) And…",
-   "outlet": "Foreign Policy Journal",
-   "outlet_name": "Foreign Policy Journal",
-   "label": "CONFIRMED",
-   "url": "https://www.foreignpolicyjournal.com/2026/10/12/microsoft-nasdaq-msft-unveils-maia-300-ai-chip-to-challenge-nvidia-nasdaq-nvda-and-reduce-supplier-dependency/"
-  },
-  {
-   "headline": "NVIDIA's Reported $1B Figure AI Investment Prices Startup Above Goldman Sachs' 2035…",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "label": "STILL OPEN",
-   "url": "https://www.techtimes.com/articles/328801/20261013/nvidias-reported-1b-figure-ai-investment-prices-startup-above-goldman-sachs-2035-humanoid-market.htm"
-  },
-  {
-   "headline": "Business News | Anthropic Strengthens Defences Against Distillation Attacks Against…",
-   "outlet": "LatestLY",
-   "outlet_name": "LatestLY",
-   "label": "CONFIRMED",
-   "url": "https://www.latestly.com/agency-news/business-news-anthropic-strengthens-defences-against-distillation-attacks-against-claude-cuts-data-harvesting-by-upto-99-7642574.html"
-  },
-  {
-   "headline": "Anthropic's Startling Warning: Small AI Models Show Emerging \"Signs of Life\" – AI Worms…",
-   "outlet": "36 Kr",
-   "outlet_name": "36 Kr",
+   "headline": "xAI launches bundled subscription for Grok, Cursor and X Premium, revamps plans into five…",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
    "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4023779264991107"
+   "url": "https://www.digitaltoday.co.kr/en/view/113868/xai-launches-bundled-subscription-for-grok-cursor-and-x-premium-revamps-plans-into-five-tiers"
+  },
+  {
+   "headline": "AI company that Elon Musk’s xAI and Meta once 'fought' to partner with has filed for…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "label": "REPORTED",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-company-that-elon-musks-xai-and-meta-fought-to-partner-with-has-filed-for-bankruptcy-says-will-have-to-shut-down-if-/articleshow/134910175.cms"
+  },
+  {
+   "headline": "Nvidia Shaken by US Export Controls… China's AI Chip Market Landscape Changes",
+   "outlet": "핀포인트뉴스",
+   "outlet_name": "핀포인트뉴스",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oZlFnWUVQaThLelRtWW10MFZndDRDVy0ydmQzenhsZS1QUG41TDRsZzYxQklFSVB6ZDQzUTdpU29VOW5ranFiVlNIazRLRGhqU3llWUtGSlcwTElWY0tKeEpFZ1pLaGZKQl9PVm1adUVmZjTSAXdBVV95cUxOdEZDU21qNHdLbU15elBpT0YzU0g3UGxsdnBhUm44V0lKWDNJYUxwM1hMMGFNMWVTRHQzZ19DSUVFWVE1YmxNdS1PQlRlVl9hZGR2SUFkQUItdkNOVkhCOW1VLWxJRTFROEQ5eDYzdlFoWVhwdnBoaw?oc=5"
   },
   {
    "headline": "Korea approves AI law amendments to expand access to training data",
@@ -95,11 +81,18 @@
    "url": "https://www.telecompaper.com/news/korea-approves-ai-law-amendments-to-expand-access-to-training-data--1585439"
   },
   {
-   "headline": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
-   "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/"
+   "headline": "Proposed steel policy seeks AI-supported framework for early detection of sub-standard…",
+   "outlet": "The New Indian Express",
+   "outlet_name": "The New Indian Express",
+   "label": "REPORTED",
+   "url": "https://www.newindianexpress.com/business/2026/Oct/13/proposed-steel-policy-seeks-ai-supported-framework-for-early-detection-of-sub-standard-steel-imports-2"
+  },
+  {
+   "headline": "Meta AI data centre construction boosts sales, tax revenue in rural U.S. areas",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "label": "REPORTED",
+   "url": "https://www.digitaltoday.co.kr/en/view/113855/meta-ai-data-center-construction-boosts-sales-tax-revenue-in-rural-us-areas"
   },
   {
    "headline": "AI could self-replicate on home devices within ‘months’, Anthropic says",
@@ -109,18 +102,18 @@
    "url": "https://www.msn.com/en-us/news/other/ai-could-self-replicate-on-home-devices-within-months-anthropic-says/ar-AA2e6LoX"
   },
   {
-   "headline": "Apple readies HomeView hub as Anthropic tightens Claude rules",
-   "outlet": "fox10tv.com",
-   "outlet_name": "fox10tv.com",
+   "headline": "Anthropic launches free AI vulnerability scanner as Google's open source bug bounty halts",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.fox10tv.com/video/2026/10/13/apple-readies-homeview-hub-anthropic-tightens-claude-rules/"
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/anthropic-launches-free-ai-vulnerability-scanner-as-google-s-open-source-bug-bounty-halts/ar-AA2e7kYI"
   },
   {
-   "headline": "Meta unveils Muse Wonder AI models for agentic tasks: Here is what they can do",
-   "outlet": "Digit on MSN",
-   "outlet_name": "Digit on MSN",
+   "headline": "US and European regulators step up oversight of banks’ AI risks — Cyprus Mail",
+   "outlet": "UA.NEWS",
+   "outlet_name": "UA.NEWS",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/meta-unveils-muse-wonder-ai-models-for-agentic-tasks-here-is-what-they-can-do/ar-AA2e7cOi"
+   "url": "https://ua.news/en/world/reguliatori-ssha-ta-evropi-posiliuiut-nagliad-za-shi-rizikami-bankiv-cyprus-mail"
   },
   {
    "headline": "Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
@@ -130,21 +123,28 @@
    "url": "https://www.msn.com/en-in/news/other/banking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say/ar-AA2e78jK"
   },
   {
-   "headline": "DXC Technology Partners with LangChain to Scale Governed AI Agents",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "CONFIRMED",
-   "url": "https://www.unite.ai/dxc-technology-partners-with-langchain-to-scale-governed-ai-agents/"
+   "headline": "Reflection AI's Beam sells governments AI independence; Nvidia in talks to acquire it",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-us/news/other/reflection-ais-beam-sells-governments-ai-independence-nvidia-in-talks-to-acquire-it/ar-AA2e7veK"
+  },
+  {
+   "headline": "07:28 Anthropic dämmt heimliche KI-Kopien ein",
+   "outlet": "n-tv.de",
+   "outlet_name": "n-tv.de",
+   "label": "REPORTED",
+   "url": "https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Dienstag-13-Oktober-2026-id31410860.html"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 12100,
+ "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 12300,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/07.mp3",
- "audio_seconds": 62.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/08.mp3",
+ "audio_seconds": 59.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per JKN News: US Export Controls Slash Nvidia's China AI Chip Market Share to 34%, Huawei Grabs 28%.\nConfirmed, per Foreign Policy Journal: Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge NVIDIA (NASDAQ: NVDA) And Reduce Supplier Dependency.\nStill open, per Tech Times: NVIDIA's Reported $1B Figure AI Investment Prices Startup Above Goldman Sachs' 2035 Humanoid Market.\nConfirmed, per LatestLY: Business News | Anthropic Strengthens Defences Against Distillation Attacks Against Claude, Cuts Data Harvesting by Upto 99%.\nReported by 36 Kr: Anthropic's Startling Warning: Small AI Models Show Emerging \"Signs of Life\" – AI Worms May Trigger a Global IoT Catastrophe.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nxAI launches bundled subscription for Grok, Cursor and X Premium, revamps plans into five tiers from $8 to $200. Reported by 디지털투데이.\nCharacter.ai files for bankruptcy, selling platform with Disney as lead bidder. Reported by The Times of India.\nNvidia faces shaken outlook due to US export controls affecting China's artificial intelligence chip market landscape. Reported by 핀포인트뉴스.\nSouth Korea approves artificial intelligence law amendments to expand access to training data through a national hub. Reported by Telecompaper.\nIndia's draft steel policy seeks artificial intelligence-supported framework for early detection of sub-standard steel imports to boost domestic competitiveness by 2047. Reported by The New Indian Express.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
