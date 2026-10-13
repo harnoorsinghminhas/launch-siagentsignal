@@ -1,91 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T22:20:02Z",
- "hour": "2026-10-13T22:00:00Z",
+ "generated_at": "2026-10-13T23:20:02Z",
+ "hour": "2026-10-13T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in office",
+   "title": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+   "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI arrests employee for hiding recording device in office; no data breach reported.",
-   "published_at": "2026-10-13T21:06:40Z"
+   "summary_1line": "Anthropic seeks court rehearing after Pentagon blacklists its AI models over safety commitments.",
+   "published_at": "2026-10-13T22:54:21Z"
   },
   {
-   "title": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart devices",
+   "title": "OpenAI employee arrested after recording device found in office",
    "outlet": "The Guardian",
    "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic warns AI could self-replicate in smart devices, months away, with risks to home and infrastructure.",
-   "published_at": "2026-10-13T20:55:00Z"
-  },
-  {
-   "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-   "label": "CONFIRMED",
-   "summary_1line": "Judge allows Apple access to OpenAI hiring materials from former Apple employees, but denies access to specific R&D areas.",
-   "published_at": "2026-10-13T20:36:44Z"
-  },
-  {
-   "title": "Apple unveils HomeView – a new smart hub powered by Siri AI and Apple Intelligence",
-   "outlet": "Tech Guide",
-   "outlet_name": "Tech Guide",
-   "url": "https://www.techguide.com.au/news/gadgets-news/apple-unveils-homeview-a-new-smart-hub-powered-by-siri-ai-and-apple-intelligence/",
+   "url": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device",
    "label": "REPORTED",
-   "summary_1line": "Apple launches HomeView smart speaker with 7-inch display, Face ID, and Apple Intelligence.",
-   "published_at": "2026-10-13T20:57:12Z"
+   "summary_1line": null,
+   "published_at": "2026-10-13T22:09:00Z"
   },
   {
-   "title": "Workday Partners with Anthropic to Make HR and Finance AI Agent \"Sana\" Available Within Claude",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/04130211-67c9-4e33-a9fb-51842d2cf914",
+   "title": "Google AI Customer Service Privacy Lawsuit Gets Doubtful Judge",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
+   "url": "https://news.bloomberglaw.com/ip-law/google-ai-customer-service-privacy-lawsuit-gets-doubtful-judge",
+   "label": "REPORTED",
+   "summary_1line": "Judge questions if California law covers Google's use of customer call recordings for AI training.",
+   "published_at": "2026-10-13T21:41:00Z"
+  },
+  {
+   "title": "Nvidia’s share of China’s AI chip market falls to 34% as Huawei closes in",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/nvidia-china-market-share-falls-huawei/",
    "label": "CONFIRMED",
-   "summary_1line": "Workday and Anthropic launch Sana in Claude for HR and finance tasks, with general availability in late 2026.",
-   "published_at": "2026-10-13T18:30:00Z"
+   "summary_1line": "Nvidia's China AI chip share drops to 34% as Huawei and domestic rivals grow.",
+   "published_at": "2026-10-13T12:58:14Z"
+  },
+  {
+   "title": "Apple wins early access to OpenAI documents and employee testimony in trade secrets lawsuit",
+   "outlet": "9to5Mac",
+   "outlet_name": "9to5Mac",
+   "url": "https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/",
+   "label": "REPORTED",
+   "summary_1line": "Judge grants Apple partial expedited discovery in trade secrets lawsuit against former employees and OpenAI.",
+   "published_at": "2026-10-13T20:45:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Saudi national OpenAI employee arrested after 'sophisticated recording device' planted in…",
+   "headline": "Anthropic urges court in Washington, D.C. to rehear appeal of Pentagon blacklisting",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html"
+   "url": "https://www.cnbc.com/2026/10/13/anthropic-wants-court-in-dc-to-rehear-appeal-of-pentagon-blacklist-.html"
   },
   {
-   "headline": "AI in your oven? Anthropic warns models ‘months away’ from self-replication on smart…",
+   "headline": "OpenAI employee arrested after recording device found in office",
    "outlet": "The Guardian",
    "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/technology/2026/oct/13/anthropic-ai-replicators-warning"
-  },
-  {
-   "headline": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/"
-  },
-  {
-   "headline": "Apple unveils HomeView – a new smart hub powered by Siri AI and Apple Intelligence",
-   "outlet": "Tech Guide",
-   "outlet_name": "Tech Guide",
    "label": "REPORTED",
-   "url": "https://www.techguide.com.au/news/gadgets-news/apple-unveils-homeview-a-new-smart-hub-powered-by-siri-ai-and-apple-intelligence/"
+   "url": "https://www.theguardian.com/technology/2026/oct/13/openai-employee-arrested-hidden-recording-device"
   },
   {
-   "headline": "Workday Partners with Anthropic to Make HR and Finance AI Agent \"Sana\" Available Within…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "Google AI Customer Service Privacy Lawsuit Gets Doubtful Judge",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
+   "label": "REPORTED",
+   "url": "https://news.bloomberglaw.com/ip-law/google-ai-customer-service-privacy-lawsuit-gets-doubtful-judge"
+  },
+  {
+   "headline": "Nvidia’s share of China’s AI chip market falls to 34% as Huawei closes in",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
    "label": "CONFIRMED",
-   "url": "https://finance.biggo.com/news/04130211-67c9-4e33-a9fb-51842d2cf914"
+   "url": "https://cryptobriefing.com/nvidia-china-market-share-falls-huawei/"
+  },
+  {
+   "headline": "Apple wins early access to OpenAI documents and employee testimony in trade secrets…",
+   "outlet": "9to5Mac",
+   "outlet_name": "9to5Mac",
+   "label": "REPORTED",
+   "url": "https://9to5mac.com/2026/10/13/apple-wins-early-access-to-openai-documents-and-employee-testimony-in-trade-secrets-lawsuit/"
+  },
+  {
+   "headline": "Study: AI coding tools do not write accessible code",
+   "outlet": "The Bismarck Tribune",
+   "outlet_name": "The Bismarck Tribune",
+   "label": "STILL OPEN",
+   "url": "https://bismarcktribune.com/news/nation-world/business/article_401e54cb-f5e2-5ff6-b861-3fd02e0da418.html"
+  },
+  {
+   "headline": "AI could soon spread through cheap smart devices, Anthropic warns",
+   "outlet": "Scripps News",
+   "outlet_name": "Scripps News",
+   "label": "CONFIRMED",
+   "url": "https://www.scrippsnews.com/science-and-tech/artificial-intelligence/ai-could-soon-spread-through-cheap-smart-devices-anthropic-warns"
   },
   {
    "headline": "Anthropic licenses, releases Opaque in acquihire",
@@ -95,18 +109,18 @@
    "url": "https://www.constellationr.com/insights/news/anthropic-licenses-releases-opaque-acquihire"
   },
   {
-   "headline": "OpenAI Uses AI to Uncover Hidden Recording Device, FBI Makes Arrest",
-   "outlet": "EconoTimes",
-   "outlet_name": "EconoTimes",
-   "label": "REPORTED",
-   "url": "https://www.econotimes.com/OpenAI-Uses-AI-to-Uncover-Hidden-Recording-Device-FBI-Makes-Arrest-1754842"
-  },
-  {
    "headline": "Cognitum One Releases Ruflo, AI Agent Orchestration for Claude Code and Codex, with…",
    "outlet": "Weatherford Democrat",
    "outlet_name": "Weatherford Democrat",
    "label": "REPORTED",
    "url": "https://www.weatherforddemocrat.com/texas/news/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven/article_e5f5ce66-03b4-59ef-aba5-f87d505c47c8.html"
+  },
+  {
+   "headline": "xAI launches bundled SaaS subscription",
+   "outlet": "SaasRise",
+   "outlet_name": "SaasRise",
+   "label": "REPORTED",
+   "url": "https://www.saasrise.com/news/xai-unveils-8200-bundled-subscription-for-grok-cursor-x-premium-773dac92-9055-4234-ba66-1feb308b32d5"
   },
   {
    "headline": "Nvidia announces billion-dollar investments in European tech",
@@ -116,35 +130,21 @@
    "url": "https://sifted.eu/articles/nvidia-announces-billion-dollar-investments-in-european-tech/"
   },
   {
-   "headline": "Developing Gemini 4 Argon responsibly and safely",
-   "outlet": "deepmind.google",
-   "outlet_name": "deepmind.google",
-   "label": "CONFIRMED",
-   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
-  },
-  {
-   "headline": "Supported Regions Policy",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/legal/supported-regions"
-  },
-  {
-   "headline": "Google launches full-scale commercialization of \"Gemini 4 Argon\": competing with…",
-   "outlet": "aitimes.com",
-   "outlet_name": "aitimes.com",
+   "headline": "Show HN: Open-source Mac menu bar app for Claude, Codex and Cursor",
+   "outlet": "agentmuster.app",
+   "outlet_name": "agentmuster.app",
    "label": "REPORTED",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216220"
+   "url": "https://agentmuster.app/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
  "articles_24h_rounded": 13500,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/22.mp3",
- "audio_seconds": 58.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/23.mp3",
+ "audio_seconds": 56.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed by CNBC: A Saudi national OpenAI employee was arrested after a sophisticated recording device was planted in an office, with no data breach reported.\nConfirmed by The Guardian: Anthropic warns artificial intelligence models are months away from self-replication on smart devices, posing risks to home and infrastructure.\nConfirmed by TechCrunch: A judge ordered OpenAI to turn over hiring records from former Apple employees in an Apple trade secrets case, but denied access to specific R&D areas.\nReported by Tech Guide: Apple unveiled HomeView, a new smart hub with a 7-inch display, Face ID, and Apple Intelligence.\nConfirmed by BigGo Finance: Workday partnered with Anthropic to make the HR and finance agent Sana available within Claude, with general availability in late 2026.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed by CNBC: Anthropic urges a court in Washington, D.C. to rehear its appeal after the Pentagon blacklisted its artificial intelligence models over safety commitments.\nReported by The Guardian: An OpenAI employee was arrested after a recording device was found in an office.\nReported by Bloomberg Law News: A judge questions whether California law covers Google's use of customer call recordings for artificial intelligence training in a privacy lawsuit.\nConfirmed by Crypto Briefing: Nvidia's share of China's artificial intelligence chip market falls to 34 percent as Huawei closes in with domestic rivals.\nReported by 9to5Mac: A judge grants Apple partial expedited discovery in a trade secrets lawsuit against former employees and OpenAI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
