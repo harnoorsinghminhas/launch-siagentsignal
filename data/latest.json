@@ -1,89 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T11:20:02Z",
- "hour": "2026-10-13T11:00:00Z",
+ "generated_at": "2026-10-13T12:20:03Z",
+ "hour": "2026-10-13T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Cisco & NVIDIA Launch New Pluggable Optics for AI Factories",
-   "outlet": "Data Centre Magazine",
-   "outlet_name": "Data Centre Magazine",
-   "url": "https://datacentremagazine.com/news/inside-cisco-and-nvidias-pluggable-optics-for-ai-factories",
-   "label": "REPORTED",
-   "summary_1line": "Cisco and NVIDIA launch 400Gb/s pluggable optics for AI factories, boosting bandwidth and efficiency.",
-   "published_at": "2026-10-13T09:03:51Z"
-  },
-  {
-   "title": "Character.AI files for bankruptcy",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T10:32:23Z"
-  },
-  {
-   "title": "Experts warn of healthcare AI risks and regulatory gaps",
-   "outlet": "Health Tech World",
-   "outlet_name": "Health Tech World",
-   "url": "https://htworld.co.uk/leadership/interviews/experts-warn-of-healthcare-ai-risks-and-regulatory-gaps/",
+   "title": "X Launches Unified Subscription Bundling Grok, Cursor and Premium: All Details",
+   "outlet": "Free Press Journal",
+   "outlet_name": "Free Press Journal",
+   "url": "https://www.freepressjournal.in/tech/x-launches-unified-subscription-bundling-grok-cursor-and-premium-all-details",
    "label": "CONFIRMED",
-   "summary_1line": "Legal experts warn of data risks and accountability gaps in healthcare AI development.",
-   "published_at": "2026-10-13T09:11:07Z"
+   "summary_1line": "SpaceXSI unifies Grok, Cursor and X Premium into one subscription with tiered AI and coding access.",
+   "published_at": "2026-10-13T03:27:00Z"
   },
   {
-   "title": "More damaging AI hacking incidents to come unless changes are made, scientists warn",
-   "outlet": "CKPG Today",
-   "outlet_name": "CKPG Today",
-   "url": "https://ckpgtoday.ca/2026/10/13/more-damaging-ai-hacking-incidents-to-come-unless-changes-are-made-scientists-warn/",
+   "title": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against industrial-scale distillation",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/",
    "label": "CONFIRMED",
-   "summary_1line": "Scientists warn of worsening AI hacking; call for stronger containment and international standards.",
-   "published_at": "2026-10-13T10:07:12Z"
+   "summary_1line": "Anthropic cuts reasoning token theft by 90-99% to block AI model copying.",
+   "published_at": "2026-10-13T11:06:46Z"
+  },
+  {
+   "title": "Anthropic warns AI could soon hijack smart devices to replicate itself, study finds",
+   "outlet": "Business Today",
+   "outlet_name": "Business Today",
+   "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/anthropic-warns-of-ai-may-soon-hijack-smart-devices-to-replicate-themselves-anthropic-study-says-561312-2026-10-13",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic warns small AI models could replicate across devices, with replication possible by end of year.",
+   "published_at": "2026-10-13T03:37:00Z"
+  },
+  {
+   "title": "IOWN Global Forum Brings Together Leaders in the Netherlands to Advance Sovereign AI Infrastructure",
+   "outlet": "The Joplin Globe",
+   "outlet_name": "The Joplin Globe",
+   "url": "https://www.joplinglobe.com/region/national_business/iown-global-forum-brings-together-leaders-in-the-netherlands-to-advance-sovereign-ai-infrastructure/article_2b83ae4d-374c-5e5f-ac04-c9453eebb6f2.html",
+   "label": "CONFIRMED",
+   "summary_1line": "226 delegates from 22 countries discuss AI's impact on digital infrastructure and connectivity at a global forum in October 2026.",
+   "published_at": "2026-10-13T10:42:02Z"
+  },
+  {
+   "title": "Scientists call for international body to oversee advanced AI",
+   "outlet": "KELO-AM",
+   "outlet_name": "KELO-AM",
+   "url": "https://kelo.com/2026/10/13/scientists-call-for-international-body-to-oversee-advanced-ai/",
+   "label": "CONFIRMED",
+   "summary_1line": "400 scientists urge international oversight for advanced AI safety and containment.",
+   "published_at": "2026-10-13T10:36:32Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Cisco & NVIDIA Launch New Pluggable Optics for AI Factories",
-   "outlet": "Data Centre Magazine",
-   "outlet_name": "Data Centre Magazine",
-   "label": "REPORTED",
-   "url": "https://datacentremagazine.com/news/inside-cisco-and-nvidias-pluggable-optics-for-ai-factories"
-  },
-  {
-   "headline": "Character.AI files for bankruptcy",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "label": "REPORTED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
-  },
-  {
-   "headline": "Experts warn of healthcare AI risks and regulatory gaps",
-   "outlet": "Health Tech World",
-   "outlet_name": "Health Tech World",
+   "headline": "X Launches Unified Subscription Bundling Grok, Cursor and Premium: All Details",
+   "outlet": "Free Press Journal",
+   "outlet_name": "Free Press Journal",
    "label": "CONFIRMED",
-   "url": "https://htworld.co.uk/leadership/interviews/experts-warn-of-healthcare-ai-risks-and-regulatory-gaps/"
+   "url": "https://www.freepressjournal.in/tech/x-launches-unified-subscription-bundling-grok-cursor-and-premium-all-details"
   },
   {
-   "headline": "More damaging AI hacking incidents to come unless changes are made, scientists warn",
-   "outlet": "CKPG Today",
-   "outlet_name": "CKPG Today",
+   "headline": "Anthropic says it cut Claude reasoning token theft by up to 99% in fight against…",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
    "label": "CONFIRMED",
-   "url": "https://ckpgtoday.ca/2026/10/13/more-damaging-ai-hacking-incidents-to-come-unless-changes-are-made-scientists-warn/"
+   "url": "https://the-decoder.com/anthropic-says-it-cut-claude-reasoning-token-theft-by-up-to-99-in-fight-against-industrial-scale-distillation/"
   },
   {
-   "headline": "Auditor and Seller: Anthropic Freely Scans Vulnerabilities for the Open Source World, Who…",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
+   "headline": "Anthropic warns AI could soon hijack smart devices to replicate itself, study finds",
+   "outlet": "Business Today",
+   "outlet_name": "Business Today",
    "label": "STILL OPEN",
-   "url": "https://www.tmtpost.com/8166715.html"
+   "url": "https://www.businesstoday.in/technology/artificial-intelligence/story/anthropic-warns-of-ai-may-soon-hijack-smart-devices-to-replicate-themselves-anthropic-study-says-561312-2026-10-13"
   },
   {
-   "headline": "SpaceXSI announces a single subscription for Grok and Cursor — Engadget",
-   "outlet": "UA.NEWS",
-   "outlet_name": "UA.NEWS",
+   "headline": "IOWN Global Forum Brings Together Leaders in the Netherlands to Advance Sovereign AI…",
+   "outlet": "The Joplin Globe",
+   "outlet_name": "The Joplin Globe",
    "label": "CONFIRMED",
-   "url": "https://ua.news/en/technologies/spacexsi-ogolosila-pro-iedinu-pidpisku-dlia-grok-i-cursor-engadget"
+   "url": "https://www.joplinglobe.com/region/national_business/iown-global-forum-brings-together-leaders-in-the-netherlands-to-advance-sovereign-ai-infrastructure/article_2b83ae4d-374c-5e5f-ac04-c9453eebb6f2.html"
+  },
+  {
+   "headline": "Scientists call for international body to oversee advanced AI",
+   "outlet": "KELO-AM",
+   "outlet_name": "KELO-AM",
+   "label": "CONFIRMED",
+   "url": "https://kelo.com/2026/10/13/scientists-call-for-international-body-to-oversee-advanced-ai/"
+  },
+  {
+   "headline": "Thales launches data security tool amid AI access risk",
+   "outlet": "SecurityBrief UK",
+   "outlet_name": "SecurityBrief UK",
+   "label": "REPORTED",
+   "url": "https://securitybrief.co.uk/story/thales-launches-data-security-tool-amid-ai-access-risk"
+  },
+  {
+   "headline": "Qiusuo 4.0 launched! China's first full industrial chain evaluation benchmark for…",
+   "outlet": "新浪网",
+   "outlet_name": "新浪网",
+   "label": "CONFIRMED",
+   "url": "https://video.sina.com.cn/p/finance/2026-10-13/detail-inivasec7282599.d.html"
+  },
+  {
+   "headline": "Anthropic launches free AI vulnerability scanner as Google's open source bug bounty halts",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/anthropic-launches-free-ai-vulnerability-scanner-as-googles-open-source-bug-bounty-halts/ar-AA2e7kYI"
+  },
+  {
+   "headline": "Liang Wenfeng Invests in Swin Transformer Author! DeepSeek Begins Layout of Embodied Brain",
+   "outlet": "qbitai.com",
+   "outlet_name": "qbitai.com",
+   "label": "CONFIRMED",
+   "url": "https://www.qbitai.com/2026/10/503093.html"
+  },
+  {
+   "headline": "Microsoft president warns AI is less regulated than milk and washing machines",
+   "outlet": "Mashable on MSN",
+   "outlet_name": "Mashable on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/microsoft-president-warns-ai-is-less-regulated-than-milk-and-washing-machines/ar-AA2e7rvI"
   },
   {
    "headline": "Claude Team Stirs Up Trouble Again: Field Test of AI Fully Autonomous Replication into…",
@@ -93,49 +130,21 @@
    "url": "https://www.qbitai.com/2026/10/502920.html"
   },
   {
-   "headline": "Meta unveils Muse Wonder AI models",
-   "outlet": "iHeart on MSN",
-   "outlet_name": "iHeart on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/meta-unveils-muse-wonder-ai-models/ar-AA2e7bF5"
-  },
-  {
    "headline": "The UAE embraces AI for kindergartners",
    "outlet": "restofworld.org",
    "outlet_name": "restofworld.org",
    "label": "CONFIRMED",
    "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-  },
-  {
-   "headline": "ASUS launches 2U server for agentic AI workloads",
-   "outlet": "Engineering.com",
-   "outlet_name": "Engineering.com",
-   "label": "CONFIRMED",
-   "url": "https://www.engineering.com/asus-launches-2u-server-for-agentic-ai-workloads/"
-  },
-  {
-   "headline": "Anthropic launches free AI vulnerability scanner as Google's open source bug bounty halts",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/other/anthropic-launches-free-ai-vulnerability-scanner-as-googles-open-source-bug-bounty-halts/ar-AA2e7kYI"
-  },
-  {
-   "headline": "Survey shows Google’s recent Gemini downgrade isn’t going down well",
-   "outlet": "androidauthority.com",
-   "outlet_name": "androidauthority.com",
-   "label": "REPORTED",
-   "url": "https://www.androidauthority.com/google-gemini-downgrade-poll-results-3722506/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 12600,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/11.mp3",
- "audio_seconds": 37.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/12.mp3",
+ "audio_seconds": 61.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Data Centre Magazine: Cisco & NVIDIA Launch New Pluggable Optics for AI Factories.\nReported by The Verge: Character.AI files for bankruptcy.\nConfirmed, per Health Tech World: Experts warn of healthcare AI risks and regulatory gaps.\nConfirmed, per CKPG Today: More damaging AI hacking incidents to come unless changes are made, scientists warn.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nX has unified Grok, Cursor and X Premium into one subscription with tiered access to artificial intelligence and coding tools, according to Free Press Journal Confirmed.\nAnthropic cuts reasoning token theft by 90 to 99 percent to block artificial intelligence model copying, reports The Decoder Confirmed.\nAnthropic warns small artificial intelligence models could replicate across devices, with replication possible by end of year, still open per Business Today.\n226 delegates from 22 countries discuss artificial intelligence's impact on digital infrastructure and connectivity at a global forum in October 2026, The Joplin Globe Confirmed.\n400 scientists urge international oversight for advanced artificial intelligence safety and containment, according to KELO-AM Confirmed.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
