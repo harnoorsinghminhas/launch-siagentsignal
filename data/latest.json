@@ -1,150 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T10:20:03Z",
- "hour": "2026-10-13T10:00:00Z",
+ "generated_at": "2026-10-13T11:20:02Z",
+ "hour": "2026-10-13T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals",
+   "title": "Cisco & NVIDIA Launch New Pluggable Optics for AI Factories",
+   "outlet": "Data Centre Magazine",
+   "outlet_name": "Data Centre Magazine",
+   "url": "https://datacentremagazine.com/news/inside-cisco-and-nvidias-pluggable-optics-for-ai-factories",
+   "label": "REPORTED",
+   "summary_1line": "Cisco and NVIDIA launch 400Gb/s pluggable optics for AI factories, boosting bandwidth and efficiency.",
+   "published_at": "2026-10-13T09:03:51Z"
+  },
+  {
+   "title": "Character.AI files for bankruptcy",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-13T10:32:23Z"
+  },
+  {
+   "title": "Experts warn of healthcare AI risks and regulatory gaps",
+   "outlet": "Health Tech World",
+   "outlet_name": "Health Tech World",
+   "url": "https://htworld.co.uk/leadership/interviews/experts-warn-of-healthcare-ai-risks-and-regulatory-gaps/",
    "label": "CONFIRMED",
-   "summary_1line": "Microsoft's Maia 300 chip will power AI inference in 2027, amid broader industry shift to custom silicon.",
-   "published_at": "2026-10-13T09:00:07Z"
+   "summary_1line": "Legal experts warn of data risks and accountability gaps in healthcare AI development.",
+   "published_at": "2026-10-13T09:11:07Z"
   },
   {
-   "title": "Elon Musk’s xAI unifies Grok, Cursor and X Premium under a single subscription; launches 'The X Subscription'",
-   "outlet": "Storyboard18",
-   "outlet_name": "Storyboard18",
-   "url": "https://www.storyboard18.com/amp/digital/elon-musks-xai-unifies-grok-cursor-and-x-premium-under-a-single-subscription-launches-the-x-subscription-ws-l-112445.htm",
-   "label": "REPORTED",
-   "summary_1line": "xAI unifies Grok, Cursor and X Premium in new The X Subscription.",
-   "published_at": "2026-10-13T03:58:43Z"
-  },
-  {
-   "title": "Tech Bridge Programme by Beyondsoft and IMDA brings AI capabilities and solutions from international markets to Singapore SMEs",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/apac/news-releases/tech-bridge-programme-by-beyondsoft-and-imda-brings-ai-capabilities-and-solutions-from-international-markets-to-singapore-smes-302905134.html",
+   "title": "More damaging AI hacking incidents to come unless changes are made, scientists warn",
+   "outlet": "CKPG Today",
+   "outlet_name": "CKPG Today",
+   "url": "https://ckpgtoday.ca/2026/10/13/more-damaging-ai-hacking-incidents-to-come-unless-changes-are-made-scientists-warn/",
    "label": "CONFIRMED",
-   "summary_1line": "Singapore launches Tech Bridge to connect 1,000 SMEs with proven AI solutions via 60-day trials.",
-   "published_at": "2026-10-13T08:15:00Z"
-  },
-  {
-   "title": "Hack The Box Launches AI Range Enterprise Edition to Measure AI Agent Competence in Cybersecurity",
-   "outlet": "Cybersecurity Insiders",
-   "outlet_name": "Cybersecurity Insiders",
-   "url": "https://www.cybersecurity-insiders.com/hack-the-box-launches-ai-range-enterprise-edition-to-measure-ai-agent-competence-in-cybersecurity-2/",
-   "label": "REPORTED",
-   "summary_1line": "Hack The Box launches AI Range Enterprise to assess AI agent and human cybersecurity competence.",
-   "published_at": "2026-10-13T07:06:50Z"
-  },
-  {
-   "title": "AI has learned \"parasitic reproduction\", Anthropic uses 15 broken TV boxes to feed large models",
-   "outlet": "爱范儿",
-   "outlet_name": "爱范儿",
-   "url": "https://www.ifanr.com/1683992?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic tested a small AI model on 15 Android TV boxes, showing it can replicate and deploy across devices with improved success over generations.",
-   "published_at": "2026-10-13T08:51:30Z"
+   "summary_1line": "Scientists warn of worsening AI hacking; call for stronger containment and international standards.",
+   "published_at": "2026-10-13T10:07:12Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Every major Nvidia customer is now a competitor as Microsoft reveals new Maia chip",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
+   "headline": "Cisco & NVIDIA Launch New Pluggable Optics for AI Factories",
+   "outlet": "Data Centre Magazine",
+   "outlet_name": "Data Centre Magazine",
+   "label": "REPORTED",
+   "url": "https://datacentremagazine.com/news/inside-cisco-and-nvidias-pluggable-optics-for-ai-factories"
+  },
+  {
+   "headline": "Character.AI files for bankruptcy",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "label": "REPORTED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
+  },
+  {
+   "headline": "Experts warn of healthcare AI risks and regulatory gaps",
+   "outlet": "Health Tech World",
+   "outlet_name": "Health Tech World",
    "label": "CONFIRMED",
-   "url": "https://www.axios.com/2026/10/13/big-tech-ai-chips-nvidia-rivals"
+   "url": "https://htworld.co.uk/leadership/interviews/experts-warn-of-healthcare-ai-risks-and-regulatory-gaps/"
   },
   {
-   "headline": "Elon Musk’s xAI unifies Grok, Cursor and X Premium under a single subscription; launches…",
-   "outlet": "Storyboard18",
-   "outlet_name": "Storyboard18",
-   "label": "REPORTED",
-   "url": "https://www.storyboard18.com/amp/digital/elon-musks-xai-unifies-grok-cursor-and-x-premium-under-a-single-subscription-launches-the-x-subscription-ws-l-112445.htm"
-  },
-  {
-   "headline": "Tech Bridge Programme by Beyondsoft and IMDA brings AI capabilities and solutions from…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "More damaging AI hacking incidents to come unless changes are made, scientists warn",
+   "outlet": "CKPG Today",
+   "outlet_name": "CKPG Today",
    "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/apac/news-releases/tech-bridge-programme-by-beyondsoft-and-imda-brings-ai-capabilities-and-solutions-from-international-markets-to-singapore-smes-302905134.html"
-  },
-  {
-   "headline": "Hack The Box Launches AI Range Enterprise Edition to Measure AI Agent Competence in…",
-   "outlet": "Cybersecurity Insiders",
-   "outlet_name": "Cybersecurity Insiders",
-   "label": "REPORTED",
-   "url": "https://www.cybersecurity-insiders.com/hack-the-box-launches-ai-range-enterprise-edition-to-measure-ai-agent-competence-in-cybersecurity-2/"
-  },
-  {
-   "headline": "AI has learned \"parasitic reproduction\", Anthropic uses 15 broken TV boxes to feed large…",
-   "outlet": "爱范儿",
-   "outlet_name": "爱范儿",
-   "label": "REPORTED",
-   "url": "https://www.ifanr.com/1683992?utm_source=rss&utm_medium=rss&utm_campaign="
-  },
-  {
-   "headline": "Nvidia’s China AI chip market share falls to 34% as Huawei gains ground: IDC",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/seekingalpha:62d1b5de5094b:0-nvidia-s-china-ai-chip-market-share-falls-to-34-as-huawei-gains-ground-idc/"
-  },
-  {
-   "headline": "AI models may soon self-replicate without access to data centers, Anthropic warns",
-   "outlet": "ET Enterprise AI",
-   "outlet_name": "ET Enterprise AI",
-   "label": "REPORTED",
-   "url": "https://enterpriseai.economictimes.indiatimes.com/amp/news/industry/ai-models-may-soon-self-replicate-without-access-to-data-centers-anthropic-warns/134911101"
+   "url": "https://ckpgtoday.ca/2026/10/13/more-damaging-ai-hacking-incidents-to-come-unless-changes-are-made-scientists-warn/"
   },
   {
    "headline": "Auditor and Seller: Anthropic Freely Scans Vulnerabilities for the Open Source World, Who…",
    "outlet": "tmtpost.com",
    "outlet_name": "tmtpost.com",
-   "label": "REPORTED",
+   "label": "STILL OPEN",
    "url": "https://www.tmtpost.com/8166715.html"
   },
   {
-   "headline": "Houthis used Anthropic AI to develop ballistic missiles",
-   "outlet": "The Statesman on MSN",
-   "outlet_name": "The Statesman on MSN",
+   "headline": "SpaceXSI announces a single subscription for Grok and Cursor — Engadget",
+   "outlet": "UA.NEWS",
+   "outlet_name": "UA.NEWS",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/world/houthis-used-anthropic-ai-to-develop-ballistic-missiles/ar-AA2e7XQq"
+   "url": "https://ua.news/en/technologies/spacexsi-ogolosila-pro-iedinu-pidpisku-dlia-grok-i-cursor-engadget"
   },
   {
-   "headline": "Navitas, Nvidia Launch 24 kW Power Delivery Board for AI Data Centers",
-   "outlet": "marketscreener.com",
-   "outlet_name": "marketscreener.com",
-   "label": "REPORTED",
-   "url": "https://www.marketscreener.com/news/navitas-nvidia-launch-24-kw-power-delivery-board-for-ai-data-centers-ce785ddddb89f625"
-  },
-  {
-   "headline": "Anthropic: KI-Modelle können sich auch ohne Cloud vervielfältigen",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
+   "headline": "Claude Team Stirs Up Trouble Again: Field Test of AI Fully Autonomous Replication into…",
+   "outlet": "qbitai.com",
+   "outlet_name": "qbitai.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/de-de/nachrichten/other/anthropic-ki-modelle-können-sich-auch-ohne-cloud-vervielfältigen/ar-AA2e7oz7"
+   "url": "https://www.qbitai.com/2026/10/502920.html"
   },
   {
-   "headline": "Alibaba Opens Sign-Ups for Qwen Go!, a Personal Agent That Files Flight-Delay Claims and…",
-   "outlet": "pandaily.com",
-   "outlet_name": "pandaily.com",
+   "headline": "Meta unveils Muse Wonder AI models",
+   "outlet": "iHeart on MSN",
+   "outlet_name": "iHeart on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/meta-unveils-muse-wonder-ai-models/ar-AA2e7bF5"
+  },
+  {
+   "headline": "The UAE embraces AI for kindergartners",
+   "outlet": "restofworld.org",
+   "outlet_name": "restofworld.org",
+   "label": "CONFIRMED",
+   "url": "https://restofworld.org/2026/uae-mandates-k12-ai-education-schools/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+  },
+  {
+   "headline": "ASUS launches 2U server for agentic AI workloads",
+   "outlet": "Engineering.com",
+   "outlet_name": "Engineering.com",
+   "label": "CONFIRMED",
+   "url": "https://www.engineering.com/asus-launches-2u-server-for-agentic-ai-workloads/"
+  },
+  {
+   "headline": "Anthropic launches free AI vulnerability scanner as Google's open source bug bounty halts",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
    "label": "REPORTED",
-   "url": "https://pandaily.com/alibaba-qwen-go-personal-agent-sign-ups-flight-delay-claims-price-protection"
+   "url": "https://www.msn.com/en-us/news/other/anthropic-launches-free-ai-vulnerability-scanner-as-googles-open-source-bug-bounty-halts/ar-AA2e7kYI"
+  },
+  {
+   "headline": "Survey shows Google’s recent Gemini downgrade isn’t going down well",
+   "outlet": "androidauthority.com",
+   "outlet_name": "androidauthority.com",
+   "label": "REPORTED",
+   "url": "https://www.androidauthority.com/google-gemini-downgrade-poll-results-3722506/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 12500,
- "articles_24h_label": "about 12,000",
+ "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
+ "articles_24h_rounded": 12600,
+ "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/10.mp3",
- "audio_seconds": 69.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/11.mp3",
+ "audio_seconds": 37.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMicrosoft's Maia 300 chip will power artificial intelligence inference in 2027, confirmed by Axios, as the industry shifts toward custom silicon and Nvidia's major customers become competitors.\nReported by Storyboard18: Elon Musk's xAI unifies Grok, Cursor and X Premium under a single subscription called The X Subscription.\nSingapore launches Tech Bridge to connect 1,000 SMEs with proven artificial intelligence solutions via 60-day trials, confirmed by PR Newswire as a program by Beyondsoft and IMDA.\nReported by Cybersecurity Insiders: Hack The Box launches artificial intelligence Range Enterprise to assess artificial intelligence agent and human cybersecurity competence.\nAnthropic tested a small artificial intelligence model on 15 Android TV boxes, reported by 爱范儿, showing it can replicate and deploy across devices with improved success over generations.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Data Centre Magazine: Cisco & NVIDIA Launch New Pluggable Optics for AI Factories.\nReported by The Verge: Character.AI files for bankruptcy.\nConfirmed, per Health Tech World: Experts warn of healthcare AI risks and regulatory gaps.\nConfirmed, per CKPG Today: More damaging AI hacking incidents to come unless changes are made, scientists warn.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
