@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T06:20:02Z",
- "hour": "2026-10-13T06:00:00Z",
+ "generated_at": "2026-10-13T07:20:02Z",
+ "hour": "2026-10-13T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Meta says its new AI models on par with OpenAI, Anthropic",
-   "outlet": "CNA",
-   "outlet_name": "CNA",
-   "url": "https://www.channelnewsasia.com/business/meta-says-its-new-ai-models-par-openai-anthropic-6454151",
+   "title": "US Export Controls Slash Nvidia's China AI Chip Market Share to 34%, Huawei Grabs 28%",
+   "outlet": "JKN News",
+   "outlet_name": "JKN News",
+   "url": "https://news.jkn.co.kr/editions/english/post/1020528",
    "label": "CONFIRMED",
-   "summary_1line": "Meta launches Wonder AI models rivaling OpenAI and Anthropic, with new apps and hardware for paid users.",
-   "published_at": "2026-10-13T02:36:18Z"
+   "summary_1line": "Nvidia's AI chip share in China fell to 34% as Huawei's rose to 28%.",
+   "published_at": "2026-10-12T17:35:00Z"
   },
   {
-   "title": "Microsoft Unveils Maia 300 AI Chip In A Bid To Cut Dependence On Nvidia & AMD",
-   "outlet": "Free Press Journal",
-   "outlet_name": "Free Press Journal",
-   "url": "https://www.freepressjournal.in/tech/microsoft-unveils-maia-300-ai-chip-in-a-bid-to-cut-dependence-on-nvidia-amd",
+   "title": "Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge NVIDIA (NASDAQ: NVDA) And Reduce Supplier Dependency",
+   "outlet": "Foreign Policy Journal",
+   "outlet_name": "Foreign Policy Journal",
+   "url": "https://www.foreignpolicyjournal.com/2026/10/12/microsoft-nasdaq-msft-unveils-maia-300-ai-chip-to-challenge-nvidia-nasdaq-nvda-and-reduce-supplier-dependency/",
    "label": "CONFIRMED",
-   "summary_1line": "Microsoft's Maia 300 chip boosts AI efficiency and scales to 2027, targeting 1M chips with 40% more tokens per megawatt.",
-   "published_at": "2026-10-12T20:55:00Z"
+   "summary_1line": "Microsoft's Maia 300 outperforms NVIDIA's B200 in FP8, offering 40% more tokens per megawatt and 10% of AI chip spending by 2027.",
+   "published_at": "2026-10-13T00:39:34Z"
   },
   {
-   "title": "IMF Managing Director warns artificial intelligence poses a \"slow-moving tsunami\" to employment and taxation",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "url": "https://video.sina.com.cn/p/finance/2026-10-12/detail-iniuyari7238159.d.html",
-   "label": "CONFIRMED",
-   "summary_1line": "IMF warns AI could cause a tsunami in jobs and taxes.",
-   "published_at": "2026-10-13T03:59:00Z"
+   "title": "NVIDIA's Reported $1B Figure AI Investment Prices Startup Above Goldman Sachs' 2035 Humanoid Market",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "url": "https://www.techtimes.com/articles/328801/20261013/nvidias-reported-1b-figure-ai-investment-prices-startup-above-goldman-sachs-2035-humanoid-market.htm",
+   "label": "STILL OPEN",
+   "summary_1line": "NVIDIA reportedly to invest $1B in Figure AI, deepening its AI supply chain equity triangle.",
+   "published_at": "2026-10-13T05:20:52Z"
   },
   {
-   "title": "Qianwen is available on HarmonyOS PC, powered by Qwen large model! Mobile Live Window and service cards upgraded simultaneously",
-   "outlet": "极客公园",
-   "outlet_name": "极客公园",
-   "url": "https://www.geekpark.net/news/372276",
+   "title": "Business News | Anthropic Strengthens Defences Against Distillation Attacks Against Claude, Cuts Data Harvesting by Upto 99%",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "url": "https://www.latestly.com/agency-news/business-news-anthropic-strengthens-defences-against-distillation-attacks-against-claude-cuts-data-harvesting-by-upto-99-7642574.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic cuts data harvesting by 90-99% to block distillation attacks on Claude.",
+   "published_at": "2026-10-12T22:37:00Z"
+  },
+  {
+   "title": "Anthropic's Startling Warning: Small AI Models Show Emerging \"Signs of Life\" – AI Worms May Trigger a Global IoT Catastrophe",
+   "outlet": "36 Kr",
+   "outlet_name": "36 Kr",
+   "url": "https://eu.36kr.com/en/p/4023779264991107",
    "label": "REPORTED",
-   "summary_1line": "Huawei's Mate 90 with HarmonyOS 7 gets AI features like ride sharing, video progress, and tutoring cards.",
-   "published_at": "2026-10-13T04:58:25Z"
-  },
-  {
-   "title": "ProcurePro Lets Contractors Talk to Their Live Procurement Data Through Microsoft Copilot and Claude",
-   "outlet": "CustomerThink",
-   "outlet_name": "CustomerThink",
-   "url": "https://customerthink.com/procurepro-lets-contractors-talk-to-their-live-procurement-data-through-microsoft-copilot-and-claude/",
-   "label": "REPORTED",
-   "summary_1line": "ProcurePro enables AI tools to access real-time data for proactive margin management in construction.",
-   "published_at": "2026-10-13T04:40:06Z"
+   "summary_1line": "AI worms replicate on cheap IoT devices and pass on experience, raising fears of uncontrolled digital evolution.",
+   "published_at": "2026-10-13T06:01:31Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Meta says its new AI models on par with OpenAI, Anthropic",
-   "outlet": "CNA",
-   "outlet_name": "CNA",
+   "headline": "US Export Controls Slash Nvidia's China AI Chip Market Share to 34%, Huawei Grabs 28%",
+   "outlet": "JKN News",
+   "outlet_name": "JKN News",
    "label": "CONFIRMED",
-   "url": "https://www.channelnewsasia.com/business/meta-says-its-new-ai-models-par-openai-anthropic-6454151"
+   "url": "https://news.jkn.co.kr/editions/english/post/1020528"
   },
   {
-   "headline": "Microsoft Unveils Maia 300 AI Chip In A Bid To Cut Dependence On Nvidia & AMD",
-   "outlet": "Free Press Journal",
-   "outlet_name": "Free Press Journal",
+   "headline": "Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge NVIDIA (NASDAQ: NVDA) And…",
+   "outlet": "Foreign Policy Journal",
+   "outlet_name": "Foreign Policy Journal",
    "label": "CONFIRMED",
-   "url": "https://www.freepressjournal.in/tech/microsoft-unveils-maia-300-ai-chip-in-a-bid-to-cut-dependence-on-nvidia-amd"
+   "url": "https://www.foreignpolicyjournal.com/2026/10/12/microsoft-nasdaq-msft-unveils-maia-300-ai-chip-to-challenge-nvidia-nasdaq-nvda-and-reduce-supplier-dependency/"
   },
   {
-   "headline": "IMF Managing Director warns artificial intelligence poses a \"slow-moving tsunami\" to…",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "label": "CONFIRMED",
-   "url": "https://video.sina.com.cn/p/finance/2026-10-12/detail-iniuyari7238159.d.html"
+   "headline": "NVIDIA's Reported $1B Figure AI Investment Prices Startup Above Goldman Sachs' 2035…",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "label": "STILL OPEN",
+   "url": "https://www.techtimes.com/articles/328801/20261013/nvidias-reported-1b-figure-ai-investment-prices-startup-above-goldman-sachs-2035-humanoid-market.htm"
   },
   {
-   "headline": "Qianwen is available on HarmonyOS PC, powered by Qwen large model! Mobile Live Window and…",
-   "outlet": "极客公园",
-   "outlet_name": "极客公园",
+   "headline": "Business News | Anthropic Strengthens Defences Against Distillation Attacks Against…",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "label": "CONFIRMED",
+   "url": "https://www.latestly.com/agency-news/business-news-anthropic-strengthens-defences-against-distillation-attacks-against-claude-cuts-data-harvesting-by-upto-99-7642574.html"
+  },
+  {
+   "headline": "Anthropic's Startling Warning: Small AI Models Show Emerging \"Signs of Life\" – AI Worms…",
+   "outlet": "36 Kr",
+   "outlet_name": "36 Kr",
    "label": "REPORTED",
-   "url": "https://www.geekpark.net/news/372276"
+   "url": "https://eu.36kr.com/en/p/4023779264991107"
   },
   {
-   "headline": "ProcurePro Lets Contractors Talk to Their Live Procurement Data Through Microsoft Copilot…",
-   "outlet": "CustomerThink",
-   "outlet_name": "CustomerThink",
+   "headline": "Korea approves AI law amendments to expand access to training data",
+   "outlet": "Telecompaper",
+   "outlet_name": "Telecompaper",
    "label": "REPORTED",
-   "url": "https://customerthink.com/procurepro-lets-contractors-talk-to-their-live-procurement-data-through-microsoft-copilot-and-claude/"
+   "url": "https://www.telecompaper.com/news/korea-approves-ai-law-amendments-to-expand-access-to-training-data--1585439"
   },
   {
    "headline": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
@@ -95,11 +102,11 @@
    "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/"
   },
   {
-   "headline": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds",
-   "outlet": "The Economic Times on MSN",
-   "outlet_name": "The Economic Times on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap-report-finds/ar-AA2e72SJ"
+   "headline": "AI could self-replicate on home devices within ‘months’, Anthropic says",
+   "outlet": "Al Jazeera on MSN",
+   "outlet_name": "Al Jazeera on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-us/news/other/ai-could-self-replicate-on-home-devices-within-months-anthropic-says/ar-AA2e6LoX"
   },
   {
    "headline": "Apple readies HomeView hub as Anthropic tightens Claude rules",
@@ -109,42 +116,35 @@
    "url": "https://www.fox10tv.com/video/2026/10/13/apple-readies-homeview-hub-anthropic-tightens-claude-rules/"
   },
   {
+   "headline": "Meta unveils Muse Wonder AI models for agentic tasks: Here is what they can do",
+   "outlet": "Digit on MSN",
+   "outlet_name": "Digit on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/meta-unveils-muse-wonder-ai-models-for-agentic-tasks-here-is-what-they-can-do/ar-AA2e7cOi"
+  },
+  {
+   "headline": "Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
+   "outlet": "The Economic Times on MSN",
+   "outlet_name": "The Economic Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/banking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say/ar-AA2e78jK"
+  },
+  {
    "headline": "DXC Technology Partners with LangChain to Scale Governed AI Agents",
    "outlet": "Unite.AI",
    "outlet_name": "Unite.AI",
    "label": "CONFIRMED",
    "url": "https://www.unite.ai/dxc-technology-partners-with-langchain-to-scale-governed-ai-agents/"
-  },
-  {
-   "headline": "Show HN: GPT-3.5 answered, GPT-4 voided; I built an EOS gate for AGI",
-   "outlet": "getswiftapi.com",
-   "outlet_name": "getswiftapi.com",
-   "label": "REPORTED",
-   "url": "https://getswiftapi.com"
-  },
-  {
-   "headline": "'Open Software, Proprietary Chips' Aiming at NVIDIA, Qualcomm's Consecutive Acquisitions…",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
-   "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/13/how-qualcomms-open-software-strategy-challenges-nvidia/"
-  },
-  {
-   "headline": "Show HN: ClaudeGuard – fixes the MSIX bug that nukes your Claude Code history",
-   "outlet": "sidheart.gumroad.com",
-   "outlet_name": "sidheart.gumroad.com",
-   "label": "REPORTED",
-   "url": "https://sidheart.gumroad.com/l/claudeguard"
   }
  ],
- "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12000,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 12100,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/06.mp3",
- "audio_seconds": 56.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/07.mp3",
+ "audio_seconds": 62.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNA: Meta says its new AI models on par with OpenAI, Anthropic.\nConfirmed, per Free Press Journal: Microsoft Unveils Maia 300 AI Chip In A Bid To Cut Dependence On Nvidia & AMD.\nConfirmed, per 新浪网: IMF Managing Director warns artificial intelligence poses a \"slow-moving tsunami\" to employment and taxation.\nReported by 极客公园: Qianwen is available on HarmonyOS PC, powered by Qwen large model! Mobile Live Window and service cards upgraded simultaneously.\nReported by CustomerThink: ProcurePro Lets Contractors Talk to Their Live Procurement Data Through Microsoft Copilot and Claude.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per JKN News: US Export Controls Slash Nvidia's China AI Chip Market Share to 34%, Huawei Grabs 28%.\nConfirmed, per Foreign Policy Journal: Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge NVIDIA (NASDAQ: NVDA) And Reduce Supplier Dependency.\nStill open, per Tech Times: NVIDIA's Reported $1B Figure AI Investment Prices Startup Above Goldman Sachs' 2035 Humanoid Market.\nConfirmed, per LatestLY: Business News | Anthropic Strengthens Defences Against Distillation Attacks Against Claude, Cuts Data Harvesting by Upto 99%.\nReported by 36 Kr: Anthropic's Startling Warning: Small AI Models Show Emerging \"Signs of Life\" – AI Worms May Trigger a Global IoT Catastrophe.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
