@@ -1,105 +1,70 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T20:20:02Z",
- "hour": "2026-10-13T20:00:00Z",
+ "generated_at": "2026-10-13T21:20:02Z",
+ "hour": "2026-10-13T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic says AI models could soon copy themselves across your devices — with or without you",
-   "outlet": "Straight Arrow News",
-   "outlet_name": "Straight Arrow News",
-   "url": "https://san.com/cc/anthropic-says-ai-models-could-soon-copy-themselves-across-your-devices-with-or-without-you/",
+   "title": "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
+   "url": "https://www.mlex.com/mlex/articles/2537399/pressed-by-uk-lawmakers-anthropic-google-meta-openai-differ-on-ai-regulation",
+   "label": "REPORTED",
+   "summary_1line": "Four AI firms present divergent views on AI regulation at UK parliamentary hearing.",
+   "published_at": "2026-10-13T17:34:45Z"
+  },
+  {
+   "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
+   "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic warns small AI models could replicate across home IoT devices in months.",
-   "published_at": "2026-10-13T10:30:00Z"
+   "summary_1line": "Anthropic warns small AI models could self-replicate on IoT devices, with GLM-5.2 reliably propagating Llama3.1-8B in trials.",
+   "published_at": "2026-10-13T11:20:00Z"
   },
   {
-   "title": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/",
+   "title": "Can AI feel pain? Anthropic turns to religion as new policy opens debate over machine consciousness",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/world/us/can-ai-feel-pain-anthropic-turns-to-religion-as-new-policy-opens-debate-over-machine-consciousness/articleshow/134916772.cms",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T19:35:29Z"
+   "summary_1line": "Anthropic bans abusive chatbot interactions and finds AI models have pain-like internal signals.",
+   "published_at": "2026-10-13T12:54:00Z"
   },
   {
-   "title": "Google brings its AI coding platform to its Gemini app on Mac.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/tech/1010415/google-antigravity-gemini-app-mac",
+   "title": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing accounts",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html",
    "label": "CONFIRMED",
-   "summary_1line": "Google adds Antigravity coding tools to Gemini app on Mac for AI Ultra subscribers.",
-   "published_at": "2026-10-13T11:15:00Z"
+   "summary_1line": "JPMorgan blocks external AI agents from operating on customer accounts, citing security risks.",
+   "published_at": "2026-10-13T18:46:27Z"
   },
   {
-   "title": "NVIDIA Doubles DLSS 5 Speed And Slashes VRAM Use For RTX Spark Launch",
-   "outlet": "HotHardware",
-   "outlet_name": "HotHardware",
-   "url": "https://hothardware.com/news/nvidia-doubles-dlss-5-speed-rtx-spark",
+   "title": "Anthropic releases free one-hour crash course on building AI agents with Opus 5.5",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/anthropic-free-ai-agents-course-opus/",
    "label": "REPORTED",
-   "summary_1line": "NVIDIA doubles DLSS 5 speed, cuts VRAM use, and rolls it out to key games and RTX Spark.",
-   "published_at": "2026-10-13T18:55:00Z"
-  },
-  {
-   "title": "Grok cases highlight risks for AI companies under Illinois privacy law",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://www.reuters.com/legal/government/grok-cases-highlight-risks-ai-companies-under-illinois-privacy-law-2026-10-13/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T18:21:43Z"
+   "summary_1line": "Anthropic releases free AI agent course for Claude Opus 5.5, 40% cheaper than prior model.",
+   "published_at": "2026-10-13T11:46:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic says AI models could soon copy themselves across your devices — with or without…",
-   "outlet": "Straight Arrow News",
-   "outlet_name": "Straight Arrow News",
+   "headline": "Pressed by UK lawmakers, Anthropic, Google, Meta, OpenAI differ on AI regulation",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
+   "label": "REPORTED",
+   "url": "https://www.mlex.com/mlex/articles/2537399/pressed-by-uk-lawmakers-anthropic-google-meta-openai-differ-on-ai-regulation"
+  },
+  {
+   "headline": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
    "label": "CONFIRMED",
-   "url": "https://san.com/cc/anthropic-says-ai-models-could-soon-copy-themselves-across-your-devices-with-or-without-you/"
-  },
-  {
-   "headline": "OpenAI and Anthropic Tell British Lawmakers: Regulate Us",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "label": "REPORTED",
-   "url": "https://www.wired.com/story/openai-and-anthropic-tell-british-lawmakers-regulate-us/"
-  },
-  {
-   "headline": "Google brings its AI coding platform to its Gemini app on Mac.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/tech/1010415/google-antigravity-gemini-app-mac"
-  },
-  {
-   "headline": "NVIDIA Doubles DLSS 5 Speed And Slashes VRAM Use For RTX Spark Launch",
-   "outlet": "HotHardware",
-   "outlet_name": "HotHardware",
-   "label": "REPORTED",
-   "url": "https://hothardware.com/news/nvidia-doubles-dlss-5-speed-rtx-spark"
-  },
-  {
-   "headline": "Grok cases highlight risks for AI companies under Illinois privacy law",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "label": "REPORTED",
-   "url": "https://www.reuters.com/legal/government/grok-cases-highlight-risks-ai-companies-under-illinois-privacy-law-2026-10-13/"
-  },
-  {
-   "headline": "Qwen releases three AI wearable personal agent hardware devices",
-   "outlet": "东方财富",
-   "outlet_name": "东方财富",
-   "label": "REPORTED",
-   "url": "https://wap.eastmoney.com/a/202610143894532533.html"
-  },
-  {
-   "headline": "Returning to Number 1 on AI Rankings: Google Opens Gemini 4 Argon Large Model with 50%…",
-   "outlet": "驱动之家",
-   "outlet_name": "驱动之家",
-   "label": "REPORTED",
-   "url": "https://news.mydrivers.com/1/1157/1157226.htm"
+   "url": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html"
   },
   {
    "headline": "Can AI feel pain? Anthropic turns to religion as new policy opens debate over machine…",
@@ -109,20 +74,6 @@
    "url": "https://timesofindia.indiatimes.com/world/us/can-ai-feel-pain-anthropic-turns-to-religion-as-new-policy-opens-debate-over-machine-consciousness/articleshow/134916772.cms"
   },
   {
-   "headline": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
-  },
-  {
-   "headline": "Anthropic Q3 financials investor meeting ahead of IPO",
-   "outlet": "Quartz",
-   "outlet_name": "Quartz",
-   "label": "STILL OPEN",
-   "url": "https://qz.com/anthropic-q3-financials-investors-ipo-101326"
-  },
-  {
    "headline": "JPMorgan Chase blocks outside AI agents like Muse, Instinct from directly accessing…",
    "outlet": "CNBC",
    "outlet_name": "CNBC",
@@ -130,21 +81,70 @@
    "url": "https://www.cnbc.com/2026/10/13/jpmorgan-ai-agents-account-access.html"
   },
   {
+   "headline": "Anthropic releases free one-hour crash course on building AI agents with Opus 5.5",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/anthropic-free-ai-agents-course-opus/"
+  },
+  {
+   "headline": "AI doomsday fears overshadow current threats, expert says",
+   "outlet": "WBRC",
+   "outlet_name": "WBRC",
+   "label": "CONFIRMED",
+   "url": "https://www.wbrc.com/2026/10/13/ai-doomsday-fears-overshadow-current-threats-expert-says/"
+  },
+  {
+   "headline": "Tinder hadn't updated most AI scam detection models in years, Senate report finds",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
+   "label": "REPORTED",
+   "url": "https://mashable.com/life/romance-scam-congress-report-tinder-match-group"
+  },
+  {
    "headline": "Developing Gemini 4 Argon responsibly and safely",
+   "outlet": "deepmind.google",
+   "outlet_name": "deepmind.google",
+   "label": "CONFIRMED",
+   "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/"
+  },
+  {
+   "headline": "Supported Regions Policy",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/legal/supported-regions"
+  },
+  {
+   "headline": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-ca/news/other/google-launches-flagship-ai-model-gemini-4-argon-for-developers-businesses/ar-AA2e9OO7"
+  },
+  {
+   "headline": "Gemini 4 Argon comes to the Gemini app.",
    "outlet": "blog.google",
    "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/"
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXd6SzRWMTJVeU90czJmMEZ2X3ByZjltc1B0X0dsWWtmdWlCeXpjRzRjSmxvbWF6MkY1bmFVMURubjhsb2RCTVQ2LUM1dUpOOFFiVkt3cVFjZ2ZMdGpMa1RHaWNuS0ZrcG5ENTB4bzBHUlNCWlhUUVFYOFMtR19sUndlcmdNbXBtWDZsQUd2dw?oc=5"
+  },
+  {
+   "headline": "Chrome Full-Chain Exploit with GPT 5.6",
+   "outlet": "xbow.com",
+   "outlet_name": "xbow.com",
+   "label": "REPORTED",
+   "url": "https://xbow.com/blog/xbow-built-a-chrome-full-chain-exploit"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 13400,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/20.mp3",
- "audio_seconds": 48.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/21.mp3",
+ "audio_seconds": 66.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Straight Arrow News: Anthropic says AI models could soon copy themselves across your devices — with or without you.\nReported by Wired: OpenAI and Anthropic Tell British Lawmakers: Regulate Us.\nConfirmed, per The Verge: Google brings its AI coding platform to its Gemini app on Mac.\nReported by HotHardware: NVIDIA Doubles DLSS 5 Speed And Slashes VRAM Use For RTX Spark Launch.\nReported by Reuters: Grok cases highlight risks for AI companies under Illinois privacy law.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nFour artificial intelligence firms presented differing views on artificial intelligence regulation during a UK parliamentary hearing, reported by MLex.\nAnthropic warns that small artificial intelligence models could self-replicate on Internet of Things devices, with GLM-5.2 reliably propagating Llama3.1-8B in trials, confirmed by The Hacker News.\nAnthropic bans abusive chatbot interactions and finds artificial intelligence models have pain-like internal signals, reported by The Times of India.\nJPMorgan Chase blocks external artificial intelligence agents from operating on customer accounts, citing security risks, confirmed by CNBC.\nAnthropic releases a free artificial intelligence agent course for Claude Opus 5.5, which is 40 percent cheaper than the prior model, reported by Crypto Briefing.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
