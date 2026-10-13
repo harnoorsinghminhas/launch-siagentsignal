@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T15:20:02Z",
- "hour": "2026-10-13T15:00:00Z",
+ "generated_at": "2026-10-13T16:20:02Z",
+ "hour": "2026-10-13T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Cognitum One Releases Ruflo, AI Agent Orchestration for Claude Code and Codex, with Mission-Driven Mods and a Single Agent Control Plane",
-   "outlet": "Corsicana Daily Sun",
-   "outlet_name": "Corsicana Daily Sun",
-   "url": "https://www.corsicanadailysun.com/national/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven/article_7f4f56ef-4ec0-573a-b980-d563eb20e2f2.html",
+   "title": "Permeta Launches FERC.ai, Bringing the FERC e-Library to Claude, Copilot and ChatGPT",
+   "outlet": "The Joplin Globe",
+   "outlet_name": "The Joplin Globe",
+   "url": "https://www.joplinglobe.com/region/permeta-launches-ferc-ai-bringing-the-ferc-e-library-to-claude-copilot-and-chatgpt/article_6caa88e0-89d7-5c38-a990-65cc3174194c.html",
    "label": "CONFIRMED",
-   "summary_1line": "Cognitum One's Ruflo enables end-to-end AI agent workflows with human approval for engineering tasks.",
-   "published_at": "2026-10-13T13:51:40Z"
+   "summary_1line": "Permeta launches FERC.ai to let users search FERC's public record via AI tools with source citations.",
+   "published_at": "2026-10-13T07:02:00Z"
   },
   {
-   "title": "Netbox Labs partners with NVIDIA and Grafana Labs, announces new additions to the NetBox Infrastructure Intelligence Platform to Assemble the Intelligence Layer for AI ...",
-   "outlet": "The Star",
-   "outlet_name": "The Star",
-   "url": "https://www.thestar.com/globenewswire/netbox-labs-partners-with-nvidia-and-grafana-labs-announces-new-additions-to-the-netbox-infrastructure/article_1f63aa73-765b-5044-a511-74e3c7395c5d.html",
-   "label": "CONFIRMED",
-   "summary_1line": "NetBox Labs expands AI infrastructure platform with NVIDIA, Grafana, and new tools for design and observability.",
-   "published_at": "2026-10-13T05:03:00Z"
-  },
-  {
-   "title": "Nvidia Loses Ground in China as Huawei's AI Chip Shipments Nearly Double to 572,000",
-   "outlet": "kucoin",
-   "outlet_name": "kucoin",
-   "url": "https://www.kucoin.com/news/flash/nvidia-loses-ground-in-china-as-huawei-s-ai-chip-shipments-nearly-double-to-572-000",
-   "label": "CONFIRMED",
-   "summary_1line": "Nvidia's AI chip share in China drops to 34% as Huawei's shipments nearly double.",
-   "published_at": "2026-10-12T22:04:00Z"
-  },
-  {
-   "title": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
-   "label": "CONFIRMED",
-   "summary_1line": "SpaceX Super Intelligence launches bundled AI subscription with five tiers.",
-   "published_at": "2026-10-13T13:50:19Z"
-  },
-  {
-   "title": "Nvidia Rolls Out Software Blitz Ahead Of RTX Spark Laptop Launch",
-   "outlet": "SMBtech",
-   "outlet_name": "SMBtech",
-   "url": "https://smbtech.au/news/nvidia-rolls-out-software-blitz-ahead-of-rtx-spark-laptop-launch/",
+   "title": "Google finally releases Gemini 4 Argon",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon",
    "label": "REPORTED",
-   "summary_1line": "Nvidia launches AI models and gaming upgrades ahead of RTX Spark laptop sale on October 16.",
-   "published_at": "2026-10-13T13:07:52Z"
+   "summary_1line": null,
+   "published_at": "2026-10-13T16:00:00Z"
+  },
+  {
+   "title": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech trade",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic to reveal Q3 financials ahead of possible $2 trillion IPO, with revenue estimates up to $100 billion.",
+   "published_at": "2026-10-13T14:55:51Z"
+  },
+  {
+   "title": "Employees all over the world find themselves monitored by AI at work",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/09/ai-monitoring-the-workplace",
+   "label": "CONFIRMED",
+   "summary_1line": "Co-op uses AI to monitor staff calls, sparking worker outrage and new California laws.",
+   "published_at": "2026-10-13T13:56:56Z"
+  },
+  {
+   "title": "Inside Real Estate Launches BoldTrail MCP, Connecting BoldTrail to ChatGPT, Claude, and the Assistants Agents Use Every Day",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/inside-real-estate-launches-boldtrail-mcp-connecting-boldtrail-to-chatgpt-claude-and-the-assistants-agents-use-every-day-302907019.html",
+   "label": "REPORTED",
+   "summary_1line": "Inside Real Estate launches BoldTrail MCP to let agents use AI in real estate workflows via ChatGPT and Claude.",
+   "published_at": "2026-10-13T08:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Cognitum One Releases Ruflo, AI Agent Orchestration for Claude Code and Codex, with…",
-   "outlet": "Corsicana Daily Sun",
-   "outlet_name": "Corsicana Daily Sun",
+   "headline": "Permeta Launches FERC.ai, Bringing the FERC e-Library to Claude, Copilot and ChatGPT",
+   "outlet": "The Joplin Globe",
+   "outlet_name": "The Joplin Globe",
    "label": "CONFIRMED",
-   "url": "https://www.corsicanadailysun.com/national/cognitum-one-releases-ruflo-ai-agent-orchestration-for-claude-code-and-codex-with-mission-driven/article_7f4f56ef-4ec0-573a-b980-d563eb20e2f2.html"
+   "url": "https://www.joplinglobe.com/region/permeta-launches-ferc-ai-bringing-the-ferc-e-library-to-claude-copilot-and-chatgpt/article_6caa88e0-89d7-5c38-a990-65cc3174194c.html"
   },
   {
-   "headline": "Netbox Labs partners with NVIDIA and Grafana Labs, announces new additions to the NetBox…",
-   "outlet": "The Star",
-   "outlet_name": "The Star",
-   "label": "CONFIRMED",
-   "url": "https://www.thestar.com/globenewswire/netbox-labs-partners-with-nvidia-and-grafana-labs-announces-new-additions-to-the-netbox-infrastructure/article_1f63aa73-765b-5044-a511-74e3c7395c5d.html"
-  },
-  {
-   "headline": "Nvidia Loses Ground in China as Huawei's AI Chip Shipments Nearly Double to 572,000",
-   "outlet": "kucoin",
-   "outlet_name": "kucoin",
-   "label": "CONFIRMED",
-   "url": "https://www.kucoin.com/news/flash/nvidia-loses-ground-in-china-as-huawei-s-ai-chip-shipments-nearly-double-to-572-000"
-  },
-  {
-   "headline": "SpaceXSI bundles X Premium, Grok and Cursor into one subscription",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/"
-  },
-  {
-   "headline": "Nvidia Rolls Out Software Blitz Ahead Of RTX Spark Laptop Launch",
-   "outlet": "SMBtech",
-   "outlet_name": "SMBtech",
+   "headline": "Google finally releases Gemini 4 Argon",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
    "label": "REPORTED",
-   "url": "https://smbtech.au/news/nvidia-rolls-out-software-blitz-ahead-of-rtx-spark-laptop-launch/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+  },
+  {
+   "headline": "Anthropic to disclose new revenue numbers as AI lab financials become central to tech…",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "STILL OPEN",
+   "url": "https://www.cnbc.com/2026/10/13/anthropic-q3-financials-ipo.html"
   },
   {
    "headline": "Employees all over the world find themselves monitored by AI at work",
@@ -95,25 +81,18 @@
    "url": "https://www.theguardian.com/technology/2026/oct/09/ai-monitoring-the-workplace"
   },
   {
-   "headline": "Apple releases HomeView smart home hub with screen as showcase for Siri AI",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/13/apple-homeview-smart-home-siri-ai.html"
+   "headline": "Inside Real Estate Launches BoldTrail MCP, Connecting BoldTrail to ChatGPT, Claude, and…",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "REPORTED",
+   "url": "https://www.prnewswire.com/news-releases/inside-real-estate-launches-boldtrail-mcp-connecting-boldtrail-to-chatgpt-claude-and-the-assistants-agents-use-every-day-302907019.html"
   },
   {
-   "headline": "IMF Warns Of AI Market Correction, Cyber Threats To Financial System",
-   "outlet": "Channels Television",
-   "outlet_name": "Channels Television",
+   "headline": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
+   "outlet": "developer.nvidia.com",
+   "outlet_name": "developer.nvidia.com",
    "label": "CONFIRMED",
-   "url": "https://www.channelstv.com/2026/10/13/imf-warns-of-ai-market-correction-cyber-threats-to-financial-system/"
-  },
-  {
-   "headline": "Terrorists could use AI to target UK with drones and bioweapons, MI5 chief warns",
-   "outlet": "The Independent",
-   "outlet_name": "The Independent",
-   "label": "CONFIRMED",
-   "url": "https://www.independent.co.uk/news/uk/home-news/mi5-ai-uk-national-security-russia-iran-ken-mccallum-b3065898.html"
+   "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/"
   },
   {
    "headline": "Wilson Sonsini Spinoff SixFifty Launches Employment Law AI Agent",
@@ -123,11 +102,32 @@
    "url": "https://www.law.com/legaltechnews/2026/10/13/wilson-sonsini-spinoff-sixfifty-launches-employment-law-ai-agent/"
   },
   {
-   "headline": "NVIDIA Run:ai Is Now Open Source as Part of NVIDIA DSX AI Factory Platform",
-   "outlet": "developer.nvidia.com",
-   "outlet_name": "developer.nvidia.com",
+   "headline": "Gemini 4 Argon for Robotics",
+   "outlet": "deepmind.google",
+   "outlet_name": "deepmind.google",
    "label": "REPORTED",
-   "url": "https://developer.nvidia.com/blog/nvidia-runai-is-now-open-source-as-part-of-nvidia-dsx-ai-factory-platform/"
+   "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+  },
+  {
+   "headline": "Gemini 4 Argon: Built to solve your hardest problems",
+   "outlet": "deepmind.google",
+   "outlet_name": "deepmind.google",
+   "label": "REPORTED",
+   "url": "https://deepmind.google/blog/introducing-gemini-4-argon/"
+  },
+  {
+   "headline": "Gemini 4 Argon is now available for developers.",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "REPORTED",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-4-argon/"
+  },
+  {
+   "headline": "Gemini 4 Argon comes to the Gemini app.",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "REPORTED",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-4-argon-availability/"
   },
   {
    "headline": "Digits Launches Write MCP, the Safe Way for AI Agents to do Accounting",
@@ -138,13 +138,13 @@
   }
  ],
  "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12900,
+ "articles_24h_rounded": 13000,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/15.mp3",
- "audio_seconds": 75.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/16.mp3",
+ "audio_seconds": 57.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nCognitum One has released Ruflo, an agent orchestration tool for Claude Code and Codex. According to the Corsicana Daily Sun, Confirmed: the system enables end-to-end agent workflows with human approval for engineering tasks.\nNetBox Labs has partnered with NVIDIA and Grafana Labs to expand its Infrastructure Intelligence Platform. The Star reports Confirmed: the expansion includes new tools for design and observability to assemble an intelligence layer.\nNvidia's share of China's chip market has dropped to 34 percent as Huawei's shipments nearly double to 572,000. kucoin reports Confirmed: Huawei is gaining ground against Nvidia in the region.\nSpaceX Super Intelligence has bundled X Premium, Grok and Cursor into one subscription service. TechCrunch reports Confirmed: the bundle launches with five subscription tiers.\nNvidia is launching artificial intelligence models and gaming upgrades ahead of its RTX Spark laptop sale on October 16. SMBtech Reported: the company is rolling out a software update for the new laptops.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nPermeta launches FERC.ai to let users search the FERC public record through Claude, Copilot and ChatGPT with source citations. Confirmed by The Joplin Globe.\nGoogle has released Gemini 4 Argon. Reported by The Verge.\nAnthropic will reveal Q3 financials ahead of a possible 2 trillion dollar IPO, with revenue estimates up to 100 billion dollars. Still open, per CNBC.\nCo-op uses artificial intelligence to monitor staff calls, sparking worker outrage and new California laws. Confirmed by The Guardian.\nInside Real Estate launches BoldTrail MCP to let agents use artificial intelligence in real estate workflows via ChatGPT and Claude. Reported by PR Newswire.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
