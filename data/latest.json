@@ -1,105 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T00:20:02Z",
- "hour": "2026-10-13T00:00:00Z",
+ "generated_at": "2026-10-13T01:20:02Z",
+ "hour": "2026-10-13T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Microsoft AI Chip Chief Says HBM Is Scarce, Secures Supply Five Years Out",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
-   "url": "https://en.sedaily.com/international/2026/10/12/microsoft-ai-chip-chief-says-hbm-is-scarce-secures-supply",
-   "label": "CONFIRMED",
-   "summary_1line": "Microsoft and AMD secure five-year HBM supply with Korean firms amid AI memory crunch.",
-   "published_at": "2026-10-12T13:55:27Z"
-  },
-  {
-   "title": "Microsoft president says AI faces fewer safety rules than milk in call for global regulation",
-   "outlet": "Fox Business",
-   "outlet_name": "Fox Business",
-   "url": "https://www.foxbusiness.com/technology/microsoft-president-says-ai-faces-fewer-safety-rules-than-milk-call-global-regulation",
+   "title": "Intel launches new GPU chip to challenge NVIDIA, striving hard for AI transformation",
+   "outlet": "鉅亨網",
+   "outlet_name": "鉅亨網",
+   "url": "https://news.cnyes.com/news/id/6628980",
    "label": "REPORTED",
-   "summary_1line": "Smith urges global AI safety rules, citing milk and washing machines as having stricter rules than AI.",
-   "published_at": "2026-10-12T21:55:00Z"
+   "summary_1line": "Intel launches AI-focused GPU D-Series with partners for data center AI inference.",
+   "published_at": "2026-10-12T23:20:53Z"
   },
   {
-   "title": "Lenovo Googlebook 15 Launches With Gemini AI And OLED Display",
-   "outlet": "Explosion Network",
-   "outlet_name": "Explosion Network",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUV9kSXNuSE1qS2V1VnhLUTV5aUM0YXBSZEQySXhTSDFqS083b2tKazNpMVVhTUs3d1ltS0VKOWVFcGl4Q3dFME9tb1pRR3dBS1c3SkxuNnM2WkFrd0hQZlNOS1RiTGVLdmIwWUtrbXNzUEN3LWhvYUN2RHlvNC1lYjRuTU5RZ1pTMWs5TnNHWEU4N2RkSGc?oc=5",
+   "title": "RPT: XAI - Launches the X Subscription Combin",
+   "outlet": "Moomoo",
+   "outlet_name": "Moomoo",
+   "url": "https://www.moomoo.com/news/flash/1000964905/rpt-xai-launches-the-x-subscription-combining-grok-grok-bot",
+   "label": "REPORTED",
+   "summary_1line": "Users are prompted to enable JavaScript for website functionality.",
+   "published_at": "2026-10-12T23:20:05Z"
+  },
+  {
+   "title": "Nvidia and Cisco introduce new pluggable optical transceiver form factor to expand AI factories",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4023495126962057?f=rss",
+   "label": "REPORTED",
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
+  },
+  {
+   "title": "Anthropic brings 10 free AI courses to Coursera, including training for teachers",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "url": "https://www.edtechinnovationhub.com/news/anthropic-brings-10-free-ai-courses-to-coursera-including-training-for-teachers",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic launches 10 free AI courses on Coursera for teachers, developers, and small-business owners.",
+   "published_at": "2026-10-12T23:49:51Z"
+  },
+  {
+   "title": "\"Cannot Rely Only on Nvidia\"... MS Unveils AI Chip 'Maia 300'",
+   "outlet": "뉴스웨이",
+   "outlet_name": "뉴스웨이",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pM0xjblEyQ0NZYWpTdzAwX0VGbEUwemgyVG4xMHlta2xGcGhJMHNVN1hCbGFvUmNiMFZUZ2E5SlZqUUhmUkhxazQ1eW90R2RUX1l1MXMtYjdXOW8xSmNrb2E0R2VmQ1BzeGc?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-12T23:54:34Z"
-  },
-  {
-   "title": "Anthropic’s Frontier Red Team suggests some AI models “may be months away from being capable enough to self-replicate.”",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDhBdl9OMm1aOTh0UmlORVpWX0VfQ0lqcW12dGUySzlMb3BtdFhQM08tUV9yRF9hMHBjNEEzSHNGMW8wR2IzVTlKQ05pTUpoZzlmUW1kT2dtU3BOb2RqelA5NzdKTnhZb0FMRWVEb0pyV0VRNDdPcEtFUVhvTC1Dbk9OUFFlR1JMMVc3Q1NobHdubU1kSEN3VUhKaVBMcjVhX1pBalNLMFc2WWEy?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-12T23:47:53Z"
-  },
-  {
-   "title": "Anthropic MCP SDK flaw lets attackers hijack logins",
-   "outlet": "SecurityBrief Asia",
-   "outlet_name": "SecurityBrief Asia",
-   "url": "https://securitybrief.asia/story/anthropic-mcp-sdk-flaw-lets-attackers-hijack-logins",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's MCP SDK flaw lets attackers hijack logins via OAuth, with patch released in 2.2.0 and 1.30.0.",
-   "published_at": "2026-10-12T21:03:51Z"
+   "published_at": "2026-10-13T00:45:13Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Microsoft AI Chip Chief Says HBM Is Scarce, Secures Supply Five Years Out",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
+   "headline": "Intel launches new GPU chip to challenge NVIDIA, striving hard for AI transformation",
+   "outlet": "鉅亨網",
+   "outlet_name": "鉅亨網",
+   "label": "REPORTED",
+   "url": "https://news.cnyes.com/news/id/6628980"
+  },
+  {
+   "headline": "RPT: XAI - Launches the X Subscription Combin",
+   "outlet": "Moomoo",
+   "outlet_name": "Moomoo",
+   "label": "REPORTED",
+   "url": "https://www.moomoo.com/news/flash/1000964905/rpt-xai-launches-the-x-subscription-combining-grok-grok-bot"
+  },
+  {
+   "headline": "Nvidia and Cisco introduce new pluggable optical transceiver form factor to expand AI…",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "label": "REPORTED",
+   "url": "https://36kr.com/newsflashes/4023495126962057?f=rss"
+  },
+  {
+   "headline": "Anthropic brings 10 free AI courses to Coursera, including training for teachers",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "label": "REPORTED",
+   "url": "https://www.edtechinnovationhub.com/news/anthropic-brings-10-free-ai-courses-to-coursera-including-training-for-teachers"
+  },
+  {
+   "headline": "\"Cannot Rely Only on Nvidia\"... MS Unveils AI Chip 'Maia 300'",
+   "outlet": "뉴스웨이",
+   "outlet_name": "뉴스웨이",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pM0xjblEyQ0NZYWpTdzAwX0VGbEUwemgyVG4xMHlta2xGcGhJMHNVN1hCbGFvUmNiMFZUZ2E5SlZqUUhmUkhxazQ1eW90R2RUX1l1MXMtYjdXOW8xSmNrb2E0R2VmQ1BzeGc?oc=5"
+  },
+  {
+   "headline": "David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was…",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://en.sedaily.com/international/2026/10/12/microsoft-ai-chip-chief-says-hbm-is-scarce-secures-supply"
-  },
-  {
-   "headline": "Microsoft president says AI faces fewer safety rules than milk in call for global…",
-   "outlet": "Fox Business",
-   "outlet_name": "Fox Business",
-   "label": "REPORTED",
-   "url": "https://www.foxbusiness.com/technology/microsoft-president-says-ai-faces-fewer-safety-rules-than-milk-call-global-regulation"
-  },
-  {
-   "headline": "Lenovo Googlebook 15 Launches With Gemini AI And OLED Display",
-   "outlet": "Explosion Network",
-   "outlet_name": "Explosion Network",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUV9kSXNuSE1qS2V1VnhLUTV5aUM0YXBSZEQySXhTSDFqS083b2tKazNpMVVhTUs3d1ltS0VKOWVFcGl4Q3dFME9tb1pRR3dBS1c3SkxuNnM2WkFrd0hQZlNOS1RiTGVLdmIwWUtrbXNzUEN3LWhvYUN2RHlvNC1lYjRuTU5RZ1pTMWs5TnNHWEU4N2RkSGc?oc=5"
-  },
-  {
-   "headline": "Anthropic’s Frontier Red Team suggests some AI models “may be months away from being…",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDhBdl9OMm1aOTh0UmlORVpWX0VfQ0lqcW12dGUySzlMb3BtdFhQM08tUV9yRF9hMHBjNEEzSHNGMW8wR2IzVTlKQ05pTUpoZzlmUW1kT2dtU3BOb2RqelA5NzdKTnhZb0FMRWVEb0pyV0VRNDdPcEtFUVhvTC1Dbk9OUFFlR1JMMVc3Q1NobHdubU1kSEN3VUhKaVBMcjVhX1pBalNLMFc2WWEy?oc=5"
-  },
-  {
-   "headline": "Anthropic MCP SDK flaw lets attackers hijack logins",
-   "outlet": "SecurityBrief Asia",
-   "outlet_name": "SecurityBrief Asia",
-   "label": "REPORTED",
-   "url": "https://securitybrief.asia/story/anthropic-mcp-sdk-flaw-lets-attackers-hijack-logins"
-  },
-  {
-   "headline": "Meta announces its largest AI model \"Muse Wonder\", enhancing memory and persistence, to…",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
-   "label": "CONFIRMED",
-   "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/"
-  },
-  {
-   "headline": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon…",
-   "outlet": "marktechpost.com",
-   "outlet_name": "marktechpost.com",
-   "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/"
+   "url": "https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb"
   },
   {
    "headline": "Microsoft's chairman warns: AI is being regulated more loosely than washing machines.",
@@ -109,42 +102,49 @@
    "url": "https://www.vietnam.vn/en/chu-tich-microsoft-canh-bao-ai-dang-duoc-quan-ly-long-hon-ca-may-giat"
   },
   {
-   "headline": "Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and…",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Meta announces its largest AI model \"Muse Wonder\", enhancing memory and persistence, to…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
    "label": "CONFIRMED",
-   "url": "https://android-developers.googleblog.com/2026/10/googlebook-linux-terminal-preview-vm.html"
+   "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/"
   },
   {
-   "headline": "OCP Summit 2026: Powering AI with Open Innovations in Scale-Up, Scale-Out, and…",
-   "outlet": "engineering.fb.com",
-   "outlet_name": "engineering.fb.com",
+   "headline": "Strengthening our defenses against distillation attacks \\ Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
    "label": "CONFIRMED",
-   "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/"
+   "url": "https://www.anthropic.com/research/distillation-defenses"
   },
   {
-   "headline": "Amazon in talks to shell out $7,000,000,000 for Israeli AI startup after Anthropic walked…",
-   "outlet": "The Daily Caller on MSN",
-   "outlet_name": "The Daily Caller on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/money/general/amazon-in-talks-to-shell-out-7-000-000-000-for-israeli-ai-startup-after-anthropic-walked-away/ar-AA2e5dUI"
+   "headline": "Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI",
+   "outlet": "askbaab.com",
+   "outlet_name": "askbaab.com",
+   "label": "REPORTED",
+   "url": "https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai"
   },
   {
-   "headline": "New service \"Gemini Agent\" is for enterprises, no additional charge for \"Gemini…",
+   "headline": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+   "outlet": "nirajrajgor.com",
+   "outlet_name": "nirajrajgor.com",
+   "label": "REPORTED",
+   "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
+  },
+  {
+   "headline": "OpenAI executive reveals lessons from \"AI runaway accident\", the key to \"safe driving\"",
    "outlet": "itmedia.co.jp",
    "outlet_name": "itmedia.co.jp",
    "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/"
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002180/"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 12600,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/00.mp3",
- "audio_seconds": 92.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/01.mp3",
+ "audio_seconds": 71.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Seoul Economic Daily: Microsoft AI Chip Chief Says HBM Is Scarce, Secures Supply Five Years Out.\nReported by Fox Business: Microsoft president says AI faces fewer safety rules than milk in call for global regulation.\nReported by Explosion Network: Lenovo Googlebook 15 Launches With Gemini AI And OLED Display.\nReported by The Verge: Anthropic’s Frontier Red Team suggests some AI models “may be months away from being capable enough to self-replicate.”.\nReported by SecurityBrief Asia: Anthropic MCP SDK flaw lets attackers hijack logins.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nIntel launches a new GPU chip designed to challenge NVIDIA. Reported by 鉅亨網: Intel is introducing its AI-focused GPU D-Series with partners for data center artificial intelligence inference.\nXAI is launching a subscription combination. Reported by Moomoo: users are being prompted to enable JavaScript for website functionality.\nNVIDIA and Cisco are introducing a new pluggable optical transceiver form factor to expand artificial intelligence factories. Reported by 36氪: the new technology is designed to support data center expansion.\nAnthropic brings 10 free courses to Coursera. Reported by EdTech Innovation Hub: Anthropic launches 10 free artificial intelligence courses on Coursera for teachers, developers, and small-business owners.\nMicrosoft unveils an artificial intelligence chip called Maia 300. Reported by 뉴스웨이: Microsoft says it cannot rely only on NVIDIA for its artificial intelligence chip needs.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
