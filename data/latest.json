@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-12T23:20:02Z",
- "hour": "2026-10-12T23:00:00Z",
+ "generated_at": "2026-10-13T00:20:02Z",
+ "hour": "2026-10-13T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "RSA launches Agent ID for regulated AI agent control",
-   "outlet": "IT Brief UK",
-   "outlet_name": "IT Brief UK",
-   "url": "https://itbrief.co.uk/story/rsa-launches-agent-id-for-regulated-ai-agent-control",
-   "label": "REPORTED",
-   "summary_1line": "RSA launches Agent ID to govern AI agents in regulated sectors, with full rollout in 2027.",
-   "published_at": "2026-10-12T20:49:00Z"
+   "title": "Microsoft AI Chip Chief Says HBM Is Scarce, Secures Supply Five Years Out",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/international/2026/10/12/microsoft-ai-chip-chief-says-hbm-is-scarce-secures-supply",
+   "label": "CONFIRMED",
+   "summary_1line": "Microsoft and AMD secure five-year HBM supply with Korean firms amid AI memory crunch.",
+   "published_at": "2026-10-12T13:55:27Z"
   },
   {
-   "title": "OpenAI Fired Three Researchers Who Kept Voluntary Safety Audits Running; No Law Protected Them",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "url": "https://www.techtimes.com/articles/328891/20261012/openai-fired-three-researchers-who-kept-voluntary-safety-audits-running-no-law-protected-them.htm",
+   "title": "Microsoft president says AI faces fewer safety rules than milk in call for global regulation",
+   "outlet": "Fox Business",
+   "outlet_name": "Fox Business",
+   "url": "https://www.foxbusiness.com/technology/microsoft-president-says-ai-faces-fewer-safety-rules-than-milk-call-global-regulation",
    "label": "REPORTED",
-   "summary_1line": "OpenAI fired three safety researchers, sparking concern over a chilling effect on AI safety speech.",
-   "published_at": "2026-10-12T14:17:47Z"
+   "summary_1line": "Smith urges global AI safety rules, citing milk and washing machines as having stricter rules than AI.",
+   "published_at": "2026-10-12T21:55:00Z"
   },
   {
-   "title": "New California education laws address AI, staffing, student supports and more",
-   "outlet": "OCDE Newsroom",
-   "outlet_name": "OCDE Newsroom",
-   "url": "https://newsroom.ocde.us/new-california-education-laws-address-ai-staffing-student-supports-and-more/",
+   "title": "Lenovo Googlebook 15 Launches With Gemini AI And OLED Display",
+   "outlet": "Explosion Network",
+   "outlet_name": "Explosion Network",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUV9kSXNuSE1qS2V1VnhLUTV5aUM0YXBSZEQySXhTSDFqS083b2tKazNpMVVhTUs3d1ltS0VKOWVFcGl4Q3dFME9tb1pRR3dBS1c3SkxuNnM2WkFrd0hQZlNOS1RiTGVLdmIwWUtrbXNzUEN3LWhvYUN2RHlvNC1lYjRuTU5RZ1pTMWs5TnNHWEU4N2RkSGc?oc=5",
    "label": "REPORTED",
-   "summary_1line": "California's 2025–26 education laws introduce AI safeguards, device restrictions, and new assessment frameworks for schools.",
-   "published_at": "2026-10-12T21:30:00Z"
+   "summary_1line": null,
+   "published_at": "2026-10-12T23:54:34Z"
   },
   {
-   "title": "Anthropic is making a $100 million bet on deployed AI engineers, and it seeks 5 key attributes",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/anthropic-invests-100-m-train-deployed-ai-engineers-fde-2026-10",
+   "title": "Anthropic’s Frontier Red Team suggests some AI models “may be months away from being capable enough to self-replicate.”",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDhBdl9OMm1aOTh0UmlORVpWX0VfQ0lqcW12dGUySzlMb3BtdFhQM08tUV9yRF9hMHBjNEEzSHNGMW8wR2IzVTlKQ05pTUpoZzlmUW1kT2dtU3BOb2RqelA5NzdKTnhZb0FMRWVEb0pyV0VRNDdPcEtFUVhvTC1Dbk9OUFFlR1JMMVc3Q1NobHdubU1kSEN3VUhKaVBMcjVhX1pBalNLMFc2WWEy?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Anthropic launches $100M FDE training to build AI skills across companies.",
-   "published_at": "2026-10-12T21:17:56Z"
+   "summary_1line": null,
+   "published_at": "2026-10-12T23:47:53Z"
   },
   {
-   "title": "OpenAI Ownership Explained: Who Really Controls ChatGPT?",
-   "outlet": "CEOWORLD magazine",
-   "outlet_name": "CEOWORLD magazine",
-   "url": "https://ceoworld.biz/2026/10/13/openai-ownership-explained-who-really-controls-chatgpt/",
+   "title": "Anthropic MCP SDK flaw lets attackers hijack logins",
+   "outlet": "SecurityBrief Asia",
+   "outlet_name": "SecurityBrief Asia",
+   "url": "https://securitybrief.asia/story/anthropic-mcp-sdk-flaw-lets-attackers-hijack-logins",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's 2025 restructuring separates financial ownership from governance, with the foundation holding key control rights.",
-   "published_at": "2026-10-12T21:13:23Z"
+   "summary_1line": "Anthropic's MCP SDK flaw lets attackers hijack logins via OAuth, with patch released in 2.2.0 and 1.30.0.",
+   "published_at": "2026-10-12T21:03:51Z"
   }
  ],
  "ticker": [
   {
-   "headline": "RSA launches Agent ID for regulated AI agent control",
-   "outlet": "IT Brief UK",
-   "outlet_name": "IT Brief UK",
-   "label": "REPORTED",
-   "url": "https://itbrief.co.uk/story/rsa-launches-agent-id-for-regulated-ai-agent-control"
+   "headline": "Microsoft AI Chip Chief Says HBM Is Scarce, Secures Supply Five Years Out",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "label": "CONFIRMED",
+   "url": "https://en.sedaily.com/international/2026/10/12/microsoft-ai-chip-chief-says-hbm-is-scarce-secures-supply"
   },
   {
-   "headline": "OpenAI Fired Three Researchers Who Kept Voluntary Safety Audits Running; No Law Protected…",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
+   "headline": "Microsoft president says AI faces fewer safety rules than milk in call for global…",
+   "outlet": "Fox Business",
+   "outlet_name": "Fox Business",
    "label": "REPORTED",
-   "url": "https://www.techtimes.com/articles/328891/20261012/openai-fired-three-researchers-who-kept-voluntary-safety-audits-running-no-law-protected-them.htm"
+   "url": "https://www.foxbusiness.com/technology/microsoft-president-says-ai-faces-fewer-safety-rules-than-milk-call-global-regulation"
   },
   {
-   "headline": "New California education laws address AI, staffing, student supports and more",
-   "outlet": "OCDE Newsroom",
-   "outlet_name": "OCDE Newsroom",
+   "headline": "Lenovo Googlebook 15 Launches With Gemini AI And OLED Display",
+   "outlet": "Explosion Network",
+   "outlet_name": "Explosion Network",
    "label": "REPORTED",
-   "url": "https://newsroom.ocde.us/new-california-education-laws-address-ai-staffing-student-supports-and-more/"
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUV9kSXNuSE1qS2V1VnhLUTV5aUM0YXBSZEQySXhTSDFqS083b2tKazNpMVVhTUs3d1ltS0VKOWVFcGl4Q3dFME9tb1pRR3dBS1c3SkxuNnM2WkFrd0hQZlNOS1RiTGVLdmIwWUtrbXNzUEN3LWhvYUN2RHlvNC1lYjRuTU5RZ1pTMWs5TnNHWEU4N2RkSGc?oc=5"
   },
   {
-   "headline": "Anthropic is making a $100 million bet on deployed AI engineers, and it seeks 5 key…",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
+   "headline": "Anthropic’s Frontier Red Team suggests some AI models “may be months away from being…",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "REPORTED",
-   "url": "https://www.businessinsider.com/anthropic-invests-100-m-train-deployed-ai-engineers-fde-2026-10"
-  },
-  {
-   "headline": "OpenAI Ownership Explained: Who Really Controls ChatGPT?",
-   "outlet": "CEOWORLD magazine",
-   "outlet_name": "CEOWORLD magazine",
-   "label": "REPORTED",
-   "url": "https://ceoworld.biz/2026/10/13/openai-ownership-explained-who-really-controls-chatgpt/"
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUDhBdl9OMm1aOTh0UmlORVpWX0VfQ0lqcW12dGUySzlMb3BtdFhQM08tUV9yRF9hMHBjNEEzSHNGMW8wR2IzVTlKQ05pTUpoZzlmUW1kT2dtU3BOb2RqelA5NzdKTnhZb0FMRWVEb0pyV0VRNDdPcEtFUVhvTC1Dbk9OUFFlR1JMMVc3Q1NobHdubU1kSEN3VUhKaVBMcjVhX1pBalNLMFc2WWEy?oc=5"
   },
   {
    "headline": "Anthropic MCP SDK flaw lets attackers hijack logins",
@@ -95,11 +88,11 @@
    "url": "https://securitybrief.asia/story/anthropic-mcp-sdk-flaw-lets-attackers-hijack-logins"
   },
   {
-   "headline": "Attackers are using custom GPTs to implement ClickFix attacks in a new RAT campaign",
-   "outlet": "IBM",
-   "outlet_name": "IBM",
-   "label": "REPORTED",
-   "url": "https://www.ibm.com/think/news/custom-gpt-clickfix-attacks"
+   "headline": "Meta announces its largest AI model \"Muse Wonder\", enhancing memory and persistence, to…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "CONFIRMED",
+   "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/"
   },
   {
    "headline": "Alibaba Qwen Introduces QwenGyre: Elastic Reinforcement Learning RL for XLong-Horizon…",
@@ -107,6 +100,13 @@
    "outlet_name": "marktechpost.com",
    "label": "REPORTED",
    "url": "https://www.marktechpost.com/2026/10/12/alibaba-qwen-introduces-qwengyre-elastic-reinforcement-learning-rl-for-xlong-horizon-agents/"
+  },
+  {
+   "headline": "Microsoft's chairman warns: AI is being regulated more loosely than washing machines.",
+   "outlet": "Vietnam.vn",
+   "outlet_name": "Vietnam.vn",
+   "label": "CONFIRMED",
+   "url": "https://www.vietnam.vn/en/chu-tich-microsoft-canh-bao-ai-dang-duoc-quan-ly-long-hon-ca-may-giat"
   },
   {
    "headline": "Introducing the Googlebook Linux Terminal Preview: A VM-Backed Environment for AI and…",
@@ -123,28 +123,28 @@
    "url": "https://engineering.fb.com/2026/10/12/open-source/ocp-summit-2026-powering-ai-with-open-innovations-in-scale-up-scale-out-and-scale-across-networks/"
   },
   {
-   "headline": "Anthropic Red Team Says Small AI Models May Soon Replicate on IoT Devices",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "CONFIRMED",
-   "url": "https://www.unite.ai/anthropic-red-team-says-small-ai-models-may-soon-replicate-on-iot-devices/"
-  },
-  {
    "headline": "Amazon in talks to shell out $7,000,000,000 for Israeli AI startup after Anthropic walked…",
    "outlet": "The Daily Caller on MSN",
    "outlet_name": "The Daily Caller on MSN",
    "label": "STILL OPEN",
    "url": "https://www.msn.com/en-us/money/general/amazon-in-talks-to-shell-out-7-000-000-000-for-israeli-ai-startup-after-anthropic-walked-away/ar-AA2e5dUI"
+  },
+  {
+   "headline": "New service \"Gemini Agent\" is for enterprises, no additional charge for \"Gemini…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 12500,
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 12600,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/12/23.mp3",
- "audio_seconds": 61.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/00.mp3",
+ "audio_seconds": 92.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nRSA launches Agent ID to govern artificial intelligence agents in regulated sectors, with full rollout in 2027. Reported by IT Brief UK.\nOpenAI fired three safety researchers, sparking concern over a chilling effect on artificial intelligence safety speech. Reported by Tech Times.\nCalifornia's 2025–26 education laws introduce artificial intelligence safeguards, device restrictions, and new assessment frameworks for schools. Reported by OCDE Newsroom.\nAnthropic launches $100 million FDE training to build artificial intelligence skills across companies. Reported by Business Insider.\nOpenAI's 2025 restructuring separates financial ownership from governance, with the foundation holding key control rights. Reported by CEOWORLD magazine.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Seoul Economic Daily: Microsoft AI Chip Chief Says HBM Is Scarce, Secures Supply Five Years Out.\nReported by Fox Business: Microsoft president says AI faces fewer safety rules than milk in call for global regulation.\nReported by Explosion Network: Lenovo Googlebook 15 Launches With Gemini AI And OLED Display.\nReported by The Verge: Anthropic’s Frontier Red Team suggests some AI models “may be months away from being capable enough to self-replicate.”.\nReported by SecurityBrief Asia: Anthropic MCP SDK flaw lets attackers hijack logins.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
