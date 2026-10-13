@@ -1,91 +1,70 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T04:20:02Z",
- "hour": "2026-10-13T04:00:00Z",
+ "generated_at": "2026-10-13T05:20:02Z",
+ "hour": "2026-10-13T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "MS unveils AI semiconductor 'Maia 300'… lowering dependence on NVIDIA",
-   "outlet": "한국일보",
-   "outlet_name": "한국일보",
-   "url": "https://www.hankookilbo.com/news/article/A2026101309410000660",
-   "label": "CONFIRMED",
-   "summary_1line": "Microsoft's Myia 300 chip offers 40% higher efficiency than latest GPUs, to be deployed at gigawatt scale next year.",
-   "published_at": "2026-10-13T02:16:00Z"
-  },
-  {
-   "title": "Meta releases new AI model named Muse Wonder",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "url": "https://www.moomoo.com/hans/news/video/1000984094/meta-releases-new-ai-model-called-muse-wonder",
-   "label": "CONFIRMED",
-   "summary_1line": "Article failed to load; no content available.",
-   "published_at": "2026-10-13T02:44:29Z"
-  },
-  {
-   "title": "Microsoft president says AI regulation looser than for milk or washing machines",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/113691/microsoft-president-says-ai-regulation-looser-than-for-milk-or-washing-machines",
-   "label": "CONFIRMED",
-   "summary_1line": "Smith warns AI risks exceed household products; Britain could lead global AI safety norms.",
-   "published_at": "2026-10-13T01:12:13Z"
-  },
-  {
-   "title": "SOSLAB and Semunite Sign MOU for LiDAR-Based AI Application and Business Expansion",
-   "outlet": "뉴시스",
-   "outlet_name": "뉴시스",
-   "url": "https://www.newsis.com/view/NISX20261013_0003823571",
-   "label": "CONFIRMED",
-   "summary_1line": "EssoSLab and Seminaite partner on laida-AI tech for autonomous mobility and robotics.",
-   "published_at": "2026-10-13T01:43:17Z"
-  },
-  {
-   "title": "Ecosia drops Mistral AI models for Chinese open-weight alternatives",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
-   "url": "https://www.digitimes.com/news/a20261013PD222/europe-search-engine-france-mistral-ai.html",
+   "title": "Claude Code now fences nine policy variables off from the plugins you install",
+   "outlet": "MIXED Reality News",
+   "outlet_name": "MIXED Reality News",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1dFSkRhSXFFR0ZqWklHQnJ4Q3F2MU14Y3dWOGx5SmdubVBsYkVpdG9qblF5VEJfcmVONUlmbHRjSkpxTTlGd1F1YnJlN1FGWGdFTnNMaGNva3Vlc0dvT0JKZURjYWQ0ME1MdlRpUVVJdXlwZUNxZi1uZmwwN2RwZHBFSHpfb1Fsc3d6ZU1Rc016Zw?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Ecosia drops Mistral AI for open-source models, including Chinese ones.",
-   "published_at": "2026-10-13T02:45:21Z"
+   "summary_1line": null,
+   "published_at": "2026-10-13T04:58:41Z"
+  },
+  {
+   "title": "DeepSeek will complete 100 billion yuan in financing",
+   "outlet": "36 Kr",
+   "outlet_name": "36 Kr",
+   "url": "https://36kr.com/newsflashes/4023639578038151",
+   "label": "REPORTED",
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": "2026-10-13T03:04:59Z"
+  },
+  {
+   "title": "Microsoft Develops Self-Owned AI Chip! Will NVIDIA's Hegemony Change?",
+   "outlet": "蕃新聞",
+   "outlet_name": "蕃新聞",
+   "url": "https://n.yam.com/Article/20261013550131",
+   "label": "REPORTED",
+   "summary_1line": "Microsoft's Azure Maia 300 AI chip, with 96 accelerators per rack, starts 2027 deployment.",
+   "published_at": "2026-10-13T02:12:00Z"
+  },
+  {
+   "title": "Testlio Launches LeoSuccess™, an AI Copilot for the Next Era of Test Orchestration",
+   "outlet": "CustomerThink",
+   "outlet_name": "CustomerThink",
+   "url": "https://customerthink.com/testlio-launches-leosuccess-an-ai-copilot-for-the-next-era-of-test-orchestration/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-13T04:31:40Z"
+  },
+  {
+   "title": "Anthropic Has Bigger Problems Than Claude's Feelings",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUNzWFVPeTBFYUlOem4zVTRhXzdNSmV4aEx3WDZQZWtiLWlFb09DM1JqT3RqQXhVVjQ2N2U5eWdVbWJvbVZacDdHWG5pZjdteFAzOVRtRkdtSWQxUlBWbkdYRGw3Y1ZaQWdKTmlad1c3Nk1VdUZ1RHRVTzA5SkdBRS03amhzY1VaNW5yN0VWSWNzdWZ2ZC1pNzAyU0pRYTZyVzJvU1Y1YjdsUlJuNnREdGh4WmlpZWRFV1B0U1hR?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-13T04:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "MS unveils AI semiconductor 'Maia 300'… lowering dependence on NVIDIA",
-   "outlet": "한국일보",
-   "outlet_name": "한국일보",
-   "label": "CONFIRMED",
-   "url": "https://www.hankookilbo.com/news/article/A2026101309410000660"
-  },
-  {
-   "headline": "Meta releases new AI model named Muse Wonder",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "label": "CONFIRMED",
-   "url": "https://www.moomoo.com/hans/news/video/1000984094/meta-releases-new-ai-model-called-muse-wonder"
-  },
-  {
-   "headline": "Microsoft president says AI regulation looser than for milk or washing machines",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "label": "CONFIRMED",
-   "url": "https://www.digitaltoday.co.kr/en/view/113691/microsoft-president-says-ai-regulation-looser-than-for-milk-or-washing-machines"
-  },
-  {
-   "headline": "SOSLAB and Semunite Sign MOU for LiDAR-Based AI Application and Business Expansion",
-   "outlet": "뉴시스",
-   "outlet_name": "뉴시스",
-   "label": "CONFIRMED",
-   "url": "https://www.newsis.com/view/NISX20261013_0003823571"
-  },
-  {
-   "headline": "Ecosia drops Mistral AI models for Chinese open-weight alternatives",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
+   "headline": "Claude Code now fences nine policy variables off from the plugins you install",
+   "outlet": "MIXED Reality News",
+   "outlet_name": "MIXED Reality News",
    "label": "REPORTED",
-   "url": "https://www.digitimes.com/news/a20261013PD222/europe-search-engine-france-mistral-ai.html"
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX1dFSkRhSXFFR0ZqWklHQnJ4Q3F2MU14Y3dWOGx5SmdubVBsYkVpdG9qblF5VEJfcmVONUlmbHRjSkpxTTlGd1F1YnJlN1FGWGdFTnNMaGNva3Vlc0dvT0JKZURjYWQ0ME1MdlRpUVVJdXlwZUNxZi1uZmwwN2RwZHBFSHpfb1Fsc3d6ZU1Rc016Zw?oc=5"
+  },
+  {
+   "headline": "DeepSeek will complete 100 billion yuan in financing",
+   "outlet": "36 Kr",
+   "outlet_name": "36 Kr",
+   "label": "REPORTED",
+   "url": "https://36kr.com/newsflashes/4023639578038151"
   },
   {
    "headline": "Microsoft Develops Self-Owned AI Chip! Will NVIDIA's Hegemony Change?",
@@ -95,32 +74,53 @@
    "url": "https://n.yam.com/Article/20261013550131"
   },
   {
-   "headline": "DeepSeek to Complete 100 Billion Yuan Financing",
-   "outlet": "华尔街见闻",
-   "outlet_name": "华尔街见闻",
+   "headline": "Testlio Launches LeoSuccess™, an AI Copilot for the Next Era of Test Orchestration",
+   "outlet": "CustomerThink",
+   "outlet_name": "CustomerThink",
    "label": "REPORTED",
-   "url": "https://wallstreetcn.com/articles/3783495"
+   "url": "https://customerthink.com/testlio-launches-leosuccess-an-ai-copilot-for-the-next-era-of-test-orchestration/"
   },
   {
-   "headline": "DeepSeek's second round of financing planned to increase to 100 billion, fundraising…",
-   "outlet": "搜狐",
-   "outlet_name": "搜狐",
+   "headline": "Anthropic Has Bigger Problems Than Claude's Feelings",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlNpQWxidThsUC1GSHU0RFA1OENLcWx6bnRrUmVNNHU4VzU5TlFYVERiNHhwTXJPQ2lIMmcwOEdCYy1qRFlQNkdRNzJ3Szc2TUZLRUtWbWJRcVJ6UDRYZHhDNXU3bmxFVkVwd09wV0w1YlZ5enJEbU9oTGUyMnhBU3NNOEc4SThWbFBBQw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQUNzWFVPeTBFYUlOem4zVTRhXzdNSmV4aEx3WDZQZWtiLWlFb09DM1JqT3RqQXhVVjQ2N2U5eWdVbWJvbVZacDdHWG5pZjdteFAzOVRtRkdtSWQxUlBWbkdYRGw3Y1ZaQWdKTmlad1c3Nk1VdUZ1RHRVTzA5SkdBRS03amhzY1VaNW5yN0VWSWNzdWZ2ZC1pNzAyU0pRYTZyVzJvU1Y1YjdsUlJuNnREdGh4WmlpZWRFV1B0U1hR?oc=5"
   },
   {
-   "headline": "Reports say Liang Wenfeng closely contacting embodied AI entrepreneurs, DeepSeek plans to…",
-   "outlet": "中华网",
-   "outlet_name": "中华网",
-   "label": "STILL OPEN",
-   "url": "https://news.china.com/socialgd/10000169/20261013/49791365.html"
+   "headline": "Nvidia's China AI-chip share falls as Huawei closes gap, report finds",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-ca/news/other/nvidias-china-ai-chip-share-falls-as-huawei-closes-gap-report-finds/ar-AA2e6MYO"
   },
   {
-   "headline": "Nvidia Ties Open Rack Designs to Windows PC Launch as Reflection AI Talks Stay Unsettled",
-   "outlet": "ad-hoc-news.de",
-   "outlet_name": "ad-hoc-news.de",
-   "label": "STILL OPEN",
-   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/nvidia-ties-open-rack-designs-to-windows-pc-launch-as-reflection-ai-talks/70307296"
+   "headline": "Meta unveils high-performance AI models to power Muse",
+   "outlet": "The Chosun Ilbo on MSN",
+   "outlet_name": "The Chosun Ilbo on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-xl/technology/tech-companies/meta-unveils-high-performance-ai-models-to-power-muse/ar-AA2e5FRu"
+  },
+  {
+   "headline": "From Earth to Orbit, France’s Ecosystem Delivers Agentic Computing at Scale With NVIDIA",
+   "outlet": "blogs.nvidia.com",
+   "outlet_name": "blogs.nvidia.com",
+   "label": "REPORTED",
+   "url": "https://blogs.nvidia.com/blog/france-ecosystem-agentic-computing/"
+  },
+  {
+   "headline": "'Open Software, Proprietary Chips' Aiming at NVIDIA, Qualcomm's Consecutive Acquisitions…",
+   "outlet": "technews.tw",
+   "outlet_name": "technews.tw",
+   "label": "REPORTED",
+   "url": "https://technews.tw/2026/10/13/how-qualcomms-open-software-strategy-challenges-nvidia/"
+  },
+  {
+   "headline": "Show HN: ClaudeGuard – fixes the MSIX bug that nukes your Claude Code history",
+   "outlet": "sidheart.gumroad.com",
+   "outlet_name": "sidheart.gumroad.com",
+   "label": "REPORTED",
+   "url": "https://sidheart.gumroad.com/l/claudeguard"
   },
   {
    "headline": "Anthropic points to signs of self-replicating AI, 26B model runs on fifteen 55-dollar TV…",
@@ -130,21 +130,21 @@
    "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/"
   },
   {
-   "headline": "Google's usage of Gemini has changed",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
+   "headline": "Ex-OpenAI researcher in talks to raise $15 million from Peak XV, Bessemer for new AI…",
+   "outlet": "Moneycontrol.com",
+   "outlet_name": "Moneycontrol.com",
    "label": "REPORTED",
-   "url": "https://www.tmtpost.com/8166223.html"
+   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSmtrQ21MZG5lNGQyWkU4M2JPMDhtYXlocTJSclRWRG5uUTNFc21qMG5hS0o4LUdkTHZ0YTRMQk1SSzhZOVBwUmVieFVoeWxzNGRseEQ5Um1rM2N3NlJyU1FRdXZJNUp3R2hzMHhXUTZZaTdpcXV6ZUI2ZXpxcFNzaW54VTFocHJDcjJDLWJRTzlqYW5Gb0JvVnVvTTR0U3ZKRjM4OTV4QUQwYWVlaUpuNVdTS2cwQm9LSi1xMGItOExnOHRwLWdNcWEwMXBWYUxfbVpadlRlVWYwNlptUFVFTEVDbGRadW9zak5R0gHwAUFVX3lxTE1lNy1fanVoMHNrMEdHX3EyZUJndURaLURDWVpqeHN2LWlQTXNnRW1zdmhiSExmanZpb3ViZHJ2b0VoaHlyblpaTXJzNWdZamlsckQxMF9VNFlBZVFkT2QwRmVFMk1NOFp0ZzlzcGtwY2dlTC0tSGNKcVRiWk9vX0hSTS16eFM5cFphOFFfMk5lQ04teDhfdEl3VllkaFBsMlBvcUhPNXNRSW1FcENnMmx5Mlp0WmZnUFVrRjFtQ1FuNHdQWEMxWENhVWdzTndFWTZWemN3bTExbjFvT2I0bTZ3amxpZkR2bzBwWjVmaDZlMw?oc=5"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 11900,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/04.mp3",
- "audio_seconds": 48.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/05.mp3",
+ "audio_seconds": 42.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per 한국일보: MS unveils AI semiconductor 'Maia 300'… lowering dependence on NVIDIA.\nConfirmed, per Moomoo: Meta releases new AI model named Muse Wonder.\nConfirmed, per 디지털투데이: Microsoft president says AI regulation looser than for milk or washing machines.\nConfirmed, per 뉴시스: SOSLAB and Semunite Sign MOU for LiDAR-Based AI Application and Business Expansion.\nReported by digitimes: Ecosia drops Mistral AI models for Chinese open-weight alternatives.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by MIXED Reality News: Claude Code now fences nine policy variables off from the plugins you install.\nReported by 36 Kr: DeepSeek will complete 100 billion yuan in financing.\nReported by 蕃新聞: Microsoft Develops Self-Owned AI Chip! Will NVIDIA's Hegemony Change.\nReported by CustomerThink: Testlio Launches LeoSuccess™, an AI Copilot for the Next Era of Test Orchestration.\nReported by Bloomberg: Anthropic Has Bigger Problems Than Claude's Feelings.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
