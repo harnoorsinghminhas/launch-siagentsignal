@@ -1,91 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T18:20:02Z",
- "hour": "2026-10-13T18:00:00Z",
+ "generated_at": "2026-10-13T19:20:02Z",
+ "hour": "2026-10-13T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia set to announce $2 billion in European AI investments this week",
+   "title": "Google launches new frontier model Gemini 4 Argon with deeper reasoning",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/nvidia-2-billion-ai-investments-europe/",
-   "label": "REPORTED",
-   "summary_1line": "Nvidia to announce $2B in EU AI investments, supporting sovereign AI and 18K+ Blackwell GPUs.",
-   "published_at": "2026-10-13T08:51:00Z"
+   "url": "https://cryptobriefing.com/gemini-4-argon-model-launch/",
+   "label": "CONFIRMED",
+   "summary_1line": "Google launches Gemini 4 Argon with deep reasoning, 99% accuracy, and 2.85x faster inference.",
+   "published_at": "2026-10-13T09:20:00Z"
   },
   {
-   "title": "Florida’s OpenAI Lawsuit: Can Section 230 Protect ChatGPT?",
-   "outlet": "Best Lawyers",
-   "outlet_name": "Best Lawyers",
-   "url": "https://www.bestlawyers.com/article/florida-openai-lawsuit-section-230-chatgpt/8552",
+   "title": "SpaceX Unifies X Premium, Grok, and Cursor Under a Single 'X Subscription'",
+   "outlet": "PCMag Australia",
+   "outlet_name": "PCMag Australia",
+   "url": "https://au.pcmag.com/ai/120412/spacex-unifies-x-premium-grok-and-cursor-under-a-single-x-subscription",
+   "label": "CONFIRMED",
+   "summary_1line": "SpaceX launches The X Subscription with tiers from $8 to $200 monthly, bundling AI and coding tools.",
+   "published_at": "2026-10-13T09:10:00Z"
+  },
+  {
+   "title": "Redesigning source control at Anthropic",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic built Scion to scale AI-driven code development beyond git’s limits.",
+   "published_at": "2026-10-13T16:00:43Z"
+  },
+  {
+   "title": "Anthropic warns of AI 'worms' spreading across smart gadgets",
+   "outlet": "Tech Xplore",
+   "outlet_name": "Tech Xplore",
+   "url": "https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html",
    "label": "STILL OPEN",
-   "summary_1line": "Florida sues OpenAI over alleged AI advice leading to a campus shooting; jurisdictional fight looms over Section 230.",
-   "published_at": "2026-10-13T13:02:49Z"
+   "summary_1line": "Anthropic warns AI worms could spread across smart gadgets, mimicking botnets.",
+   "published_at": "2026-10-13T09:50:00Z"
   },
   {
-   "title": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/",
+   "title": "Apple unveils new smart home devices that showcase upgraded Siri AI",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai",
    "label": "CONFIRMED",
-   "summary_1line": "Google rolls out Gemini 4 Argon to paying users, citing efficiency gains and bug detection.",
-   "published_at": "2026-10-13T16:00:02Z"
-  },
-  {
-   "title": "Mirantis Integrates Open-Source NVIDIA Run:ai with k0rdent AI for Full Stack NVIDIA DSX AI Factory Operations",
-   "outlet": "The National Law Review",
-   "outlet_name": "The National Law Review",
-   "url": "https://natlawreview.com/press-releases/mirantis-integrates-open-source-nvidia-run-ai-k0rdent-ai-full-stack-nvidia",
-   "label": "REPORTED",
-   "summary_1line": "Mirantis integrates NVIDIA Run:ai with k0rdent AI for full-stack AI factory operations.",
-   "published_at": "2026-10-13T15:31:12Z"
-  },
-  {
-   "title": "Senate seeker El-Sayed digs in against AI, backs 'kill switch' bill",
-   "outlet": "KTXS",
-   "outlet_name": "KTXS",
-   "url": "https://ktxs.com/news/nation-world/senate-seeker-michan-democrat-abdul-el-sayed-digs-in-against-ai-backs-kill-switch-bill-republican-mike-rogers-2026-midterm-elections",
-   "label": "CONFIRMED",
-   "summary_1line": "El-Sayed backs AI 'kill switch' bill amid public fears over rapid AI development.",
-   "published_at": "2026-10-13T16:06:11Z"
+   "summary_1line": "Apple launches HomeView at $299 with Siri AI, shipping next month.",
+   "published_at": "2026-10-13T16:25:28Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia set to announce $2 billion in European AI investments this week",
+   "headline": "Google launches new frontier model Gemini 4 Argon with deeper reasoning",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/nvidia-2-billion-ai-investments-europe/"
+   "label": "CONFIRMED",
+   "url": "https://cryptobriefing.com/gemini-4-argon-model-launch/"
   },
   {
-   "headline": "Florida’s OpenAI Lawsuit: Can Section 230 Protect ChatGPT?",
-   "outlet": "Best Lawyers",
-   "outlet_name": "Best Lawyers",
+   "headline": "SpaceX Unifies X Premium, Grok, and Cursor Under a Single 'X Subscription'",
+   "outlet": "PCMag Australia",
+   "outlet_name": "PCMag Australia",
+   "label": "CONFIRMED",
+   "url": "https://au.pcmag.com/ai/120412/spacex-unifies-x-premium-grok-and-cursor-under-a-single-x-subscription"
+  },
+  {
+   "headline": "Redesigning source control at Anthropic",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+  },
+  {
+   "headline": "Anthropic warns of AI 'worms' spreading across smart gadgets",
+   "outlet": "Tech Xplore",
+   "outlet_name": "Tech Xplore",
    "label": "STILL OPEN",
-   "url": "https://www.bestlawyers.com/article/florida-openai-lawsuit-section-230-chatgpt/8552"
+   "url": "https://techxplore.com/news/2026-10-anthropic-ai-worms-smart-gadgets.html"
   },
   {
-   "headline": "Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
+   "headline": "Apple unveils new smart home devices that showcase upgraded Siri AI",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+   "url": "https://www.theguardian.com/technology/2026/oct/13/apple-new-smart-home-device-ai"
   },
   {
-   "headline": "Mirantis Integrates Open-Source NVIDIA Run:ai with k0rdent AI for Full Stack NVIDIA DSX…",
-   "outlet": "The National Law Review",
-   "outlet_name": "The National Law Review",
+   "headline": "Grok cases highlight risks for AI companies under Illinois privacy law",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://natlawreview.com/press-releases/mirantis-integrates-open-source-nvidia-run-ai-k0rdent-ai-full-stack-nvidia"
+   "url": "https://www.reuters.com/legal/government/grok-cases-highlight-risks-ai-companies-under-illinois-privacy-law-2026-10-13/"
   },
   {
-   "headline": "Senate seeker El-Sayed digs in against AI, backs 'kill switch' bill",
-   "outlet": "KTXS",
-   "outlet_name": "KTXS",
+   "headline": "Qwen releases three AI wearable personal agent hardware devices",
+   "outlet": "东方财富",
+   "outlet_name": "东方财富",
+   "label": "REPORTED",
+   "url": "https://wap.eastmoney.com/a/202610143894532533.html"
+  },
+  {
+   "headline": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://ktxs.com/news/nation-world/senate-seeker-michan-democrat-abdul-el-sayed-digs-in-against-ai-backs-kill-switch-bill-republican-mike-rogers-2026-midterm-elections"
+   "url": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/"
+  },
+  {
+   "headline": "Anthropic Q3 financials investor meeting ahead of IPO",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
+   "label": "STILL OPEN",
+   "url": "https://qz.com/anthropic-q3-financials-investors-ipo-101326"
   },
   {
    "headline": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on…",
@@ -95,56 +123,28 @@
    "url": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/"
   },
   {
-   "headline": "Google launches flagship AI model Gemini 4 Argon for developers, businesses",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQclhsaXp4NUtqeVJDQTNIUjVXQVdJcnNXYnpYZUFTZm4wY3UxcTM1SzJvdzRBNE9HaURlNG1obzFGQ0o3R0pWNVJfNGFDOUdFZnhfdEJxSkszQ2hZQlowMjdCbVliRE9uX3A5ak1CYkJHOEV1elBYRWgtUHBwdF9lcWEyUGdjbmhQb2JONkpNeWhLTHgzQzRhRFRnZTEwcDRCa3k3RkpxY0c5Z1RsSlFCSmQwNmRmQQ?oc=5"
-  },
-  {
-   "headline": "Gemini 4 Argon: Built to solve your hardest problems",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Apple announces the HomePod Mini 2, but it isn’t ready for Siri AI at launch",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
-  },
-  {
-   "headline": "Microsoft makes 'biggest bet yet' on its own silicon, unveils new AI chip to reduce…",
-   "outlet": "GeekWire on MSN",
-   "outlet_name": "GeekWire on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/tech-companies/microsoft-makes-biggest-bet-yet-on-its-own-silicon-unveils-new-ai-chip-to-reduce-reliance-on-nvidia/ar-AA2e4Op6"
-  },
-  {
-   "headline": "Redesigning source control at Anthropic",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/engineering/redesigning-source-control"
+   "url": "https://www.theverge.com/tech/1009672/homepod-mini-2-announced-apple-siri-ai"
   },
   {
    "headline": "Developing Gemini 4 Argon responsibly and safely",
    "outlet": "blog.google",
    "outlet_name": "blog.google",
-   "label": "REPORTED",
-   "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/"
-  },
-  {
-   "headline": "Meta’s Generative Ads Model (GEM): Scaling the Central Model and Compute Engine for…",
-   "outlet": "engineering.fb.com",
-   "outlet_name": "engineering.fb.com",
    "label": "CONFIRMED",
-   "url": "https://engineering.fb.com/2026/10/13/ml-applications/generative-ads-model-gem-scaling-frontier-ads-ai/"
+   "url": "https://blog.google/innovation-and-ai/technology/safety-security/gemini-4-model-safety-security/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 13200,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 13300,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/18.mp3",
- "audio_seconds": 52.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/19.mp3",
+ "audio_seconds": 34.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Crypto Briefing: Nvidia set to announce $2 billion in European AI investments this week.\nStill open, per Best Lawyers: Florida’s OpenAI Lawsuit: Can Section 230 Protect ChatGPT.\nConfirmed, per Ars Technica: Gemini 4 Argon begins rolling out in Gemini app and Antigravity, but only if you pay.\nReported by The National Law Review: Mirantis Integrates Open-Source NVIDIA Run:ai with k0rdent AI for Full Stack NVIDIA DSX AI Factory Operations.\nConfirmed, per KTXS: Senate seeker El-Sayed digs in against AI, backs 'kill switch' bill.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Crypto Briefing: Google launches new frontier model Gemini 4 Argon with deeper reasoning.\nConfirmed, per PCMag Australia: SpaceX Unifies X Premium, Grok, and Cursor Under a Single 'X Subscription'.\nConfirmed, per Anthropic: Redesigning source control at Anthropic.\nStill open, per Tech Xplore: Anthropic warns of AI 'worms' spreading across smart gadgets.\nConfirmed, per The Guardian: Apple unveils new smart home devices that showcase upgraded Siri AI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
