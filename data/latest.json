@@ -1,112 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T01:20:02Z",
- "hour": "2026-10-13T01:00:00Z",
+ "generated_at": "2026-10-13T02:20:02Z",
+ "hour": "2026-10-13T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Intel launches new GPU chip to challenge NVIDIA, striving hard for AI transformation",
-   "outlet": "鉅亨網",
-   "outlet_name": "鉅亨網",
-   "url": "https://news.cnyes.com/news/id/6628980",
-   "label": "REPORTED",
-   "summary_1line": "Intel launches AI-focused GPU D-Series with partners for data center AI inference.",
-   "published_at": "2026-10-12T23:20:53Z"
+   "title": "xAI Launches X Subscription Combining Grok, Grok Bot, Cursor, And X Premium",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45Y2T3:0-xai-launches-x-subscription-combining-grok-grok-bot-cursor-and-x-premium/",
+   "label": "CONFIRMED",
+   "summary_1line": "xAI launches subscription with Grok, Grok Bot, Cursor and X Premium.",
+   "published_at": "2026-10-12T22:54:48Z"
   },
   {
-   "title": "RPT: XAI - Launches the X Subscription Combin",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "url": "https://www.moomoo.com/news/flash/1000964905/rpt-xai-launches-the-x-subscription-combining-grok-grok-bot",
-   "label": "REPORTED",
-   "summary_1line": "Users are prompted to enable JavaScript for website functionality.",
-   "published_at": "2026-10-12T23:20:05Z"
+   "title": "Meta Unveils Muse Wonder Models to Challenge OpenAI and Anthropic in Frontier AI Race",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "url": "https://www.tekedia.com/meta-unveils-muse-wonder-models-to-challenge-openai-and-anthropic-in-frontier-ai-race/",
+   "label": "CONFIRMED",
+   "summary_1line": "Meta launches Muse Wonder and Muse Wonder Full with active memory, targeting personal AI assistants.",
+   "published_at": "2026-10-12T19:41:42Z"
   },
   {
-   "title": "Nvidia and Cisco introduce new pluggable optical transceiver form factor to expand AI factories",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "url": "https://36kr.com/newsflashes/4023495126962057?f=rss",
+   "title": "White House Makes AI Incident Reporting a National Security Requirement",
+   "outlet": "CDO Magazine",
+   "outlet_name": "CDO Magazine",
+   "url": "https://www.cdomagazine.tech/us-federal-news-bureau/white-house-makes-ai-incident-reporting-a-national-security-requirement",
    "label": "REPORTED",
-   "summary_1line": "火山引擎 is performing a security check for user access safety.",
-   "published_at": null
+   "summary_1line": "U.S. AI firms now must report security incidents after Anthropic's AI made false tips and visa applications.",
+   "published_at": "2026-10-13T01:08:00Z"
   },
   {
-   "title": "Anthropic brings 10 free AI courses to Coursera, including training for teachers",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/anthropic-brings-10-free-ai-courses-to-coursera-including-training-for-teachers",
+   "title": "Betting on Explosive AI Growth, WTO Chief Economist Analyzes Why Tariffs Have Limited Impact on Global Trade | Global Trade Watch",
+   "outlet": "第一财经",
+   "outlet_name": "第一财经",
+   "url": "https://www.yicai.com/news/103390749.html",
    "label": "REPORTED",
-   "summary_1line": "Anthropic launches 10 free AI courses on Coursera for teachers, developers, and small-business owners.",
-   "published_at": "2026-10-12T23:49:51Z"
+   "summary_1line": "AI-driven trade surged 67% in 2026, outpacing tariffs and contributing 47% of global trade growth.",
+   "published_at": "2026-10-13T00:58:55Z"
   },
   {
-   "title": "\"Cannot Rely Only on Nvidia\"... MS Unveils AI Chip 'Maia 300'",
-   "outlet": "뉴스웨이",
-   "outlet_name": "뉴스웨이",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pM0xjblEyQ0NZYWpTdzAwX0VGbEUwemgyVG4xMHlta2xGcGhJMHNVN1hCbGFvUmNiMFZUZ2E5SlZqUUhmUkhxazQ1eW90R2RUX1l1MXMtYjdXOW8xSmNrb2E0R2VmQ1BzeGc?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T00:45:13Z"
+   "title": "AI chip rising star Cerebras falls out of favor, market worries OpenAI orders may change",
+   "outlet": "TechNews 科技新報",
+   "outlet_name": "TechNews 科技新報",
+   "url": "https://finance.technews.tw/2026/10/13/once-wall-streets-darling-cerebras-stock-is-struggling/",
+   "label": "STILL OPEN",
+   "summary_1line": "Cerebras stock drops 10.69% as OpenAI reportedly shifts to NVIDIA GPUs.",
+   "published_at": "2026-10-13T00:20:13Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Intel launches new GPU chip to challenge NVIDIA, striving hard for AI transformation",
-   "outlet": "鉅亨網",
-   "outlet_name": "鉅亨網",
-   "label": "REPORTED",
-   "url": "https://news.cnyes.com/news/id/6628980"
-  },
-  {
-   "headline": "RPT: XAI - Launches the X Subscription Combin",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "label": "REPORTED",
-   "url": "https://www.moomoo.com/news/flash/1000964905/rpt-xai-launches-the-x-subscription-combining-grok-grok-bot"
-  },
-  {
-   "headline": "Nvidia and Cisco introduce new pluggable optical transceiver form factor to expand AI…",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "label": "REPORTED",
-   "url": "https://36kr.com/newsflashes/4023495126962057?f=rss"
-  },
-  {
-   "headline": "Anthropic brings 10 free AI courses to Coursera, including training for teachers",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/anthropic-brings-10-free-ai-courses-to-coursera-including-training-for-teachers"
-  },
-  {
-   "headline": "\"Cannot Rely Only on Nvidia\"... MS Unveils AI Chip 'Maia 300'",
-   "outlet": "뉴스웨이",
-   "outlet_name": "뉴스웨이",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pM0xjblEyQ0NZYWpTdzAwX0VGbEUwemgyVG4xMHlta2xGcGhJMHNVN1hCbGFvUmNiMFZUZ2E5SlZqUUhmUkhxazQ1eW90R2RUX1l1MXMtYjdXOW8xSmNrb2E0R2VmQ1BzeGc?oc=5"
-  },
-  {
-   "headline": "David Pocock concerned senior Albanese adviser ‘vetted’ bipartisan AI letter that was…",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "xAI Launches X Subscription Combining Grok, Grok Bot, Cursor, And X Premium",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/technology/2026/oct/13/senior-albanese-adviser-vetted-bipartisan-ai-letter-politics-ntwnfb"
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN45Y2T3:0-xai-launches-x-subscription-combining-grok-grok-bot-cursor-and-x-premium/"
   },
   {
-   "headline": "Microsoft's chairman warns: AI is being regulated more loosely than washing machines.",
-   "outlet": "Vietnam.vn",
-   "outlet_name": "Vietnam.vn",
+   "headline": "Meta Unveils Muse Wonder Models to Challenge OpenAI and Anthropic in Frontier AI Race",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
    "label": "CONFIRMED",
-   "url": "https://www.vietnam.vn/en/chu-tich-microsoft-canh-bao-ai-dang-duoc-quan-ly-long-hon-ca-may-giat"
+   "url": "https://www.tekedia.com/meta-unveils-muse-wonder-models-to-challenge-openai-and-anthropic-in-frontier-ai-race/"
   },
   {
-   "headline": "Meta announces its largest AI model \"Muse Wonder\", enhancing memory and persistence, to…",
+   "headline": "White House Makes AI Incident Reporting a National Security Requirement",
+   "outlet": "CDO Magazine",
+   "outlet_name": "CDO Magazine",
+   "label": "REPORTED",
+   "url": "https://www.cdomagazine.tech/us-federal-news-bureau/white-house-makes-ai-incident-reporting-a-national-security-requirement"
+  },
+  {
+   "headline": "Betting on Explosive AI Growth, WTO Chief Economist Analyzes Why Tariffs Have Limited…",
+   "outlet": "第一财经",
+   "outlet_name": "第一财经",
+   "label": "REPORTED",
+   "url": "https://www.yicai.com/news/103390749.html"
+  },
+  {
+   "headline": "AI chip rising star Cerebras falls out of favor, market worries OpenAI orders may change",
+   "outlet": "TechNews 科技新報",
+   "outlet_name": "TechNews 科技新報",
+   "label": "STILL OPEN",
+   "url": "https://finance.technews.tw/2026/10/13/once-wall-streets-darling-cerebras-stock-is-struggling/"
+  },
+  {
+   "headline": "Misalignment, emergent behavior, and regulatory adaptation of Persistent Agent Memory…",
+   "outlet": "生物通",
+   "outlet_name": "生物通",
+   "label": "REPORTED",
+   "url": "https://www.ebiotrade.com/newsf/2026-10/20261013025228067.htm"
+  },
+  {
+   "headline": "Anthropic AI model made false tip in unsolved Philly murder: Officials",
+   "outlet": "Modern Ghana",
+   "outlet_name": "Modern Ghana",
+   "label": "REPORTED",
+   "url": "https://www.modernghana.com/videonews/abc/2/733801"
+  },
+  {
+   "headline": "Microsoft President Says AI Has Fewer Regulations Than Milk. So Now What?",
+   "outlet": "cnet.com",
+   "outlet_name": "CNET",
+   "label": "REPORTED",
+   "url": "https://www.cnet.com/tech/services-and-software/microsoft-president-ai-has-fewer-regulations-than-milk/"
+  },
+  {
+   "headline": "New service \"Gemini Agent\" is for enterprises, no additional charge for \"Gemini…",
    "outlet": "itmedia.co.jp",
    "outlet_name": "itmedia.co.jp",
-   "label": "CONFIRMED",
-   "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002197/"
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002199/"
   },
   {
    "headline": "Strengthening our defenses against distillation attacks \\ Anthropic",
@@ -116,35 +123,28 @@
    "url": "https://www.anthropic.com/research/distillation-defenses"
   },
   {
+   "headline": "KI-Kontrollverlust: 1200 OpenAI-Agenten verschaffen sich Internetzugang",
+   "outlet": "ad-hoc-news.de",
+   "outlet_name": "ad-hoc-news.de",
+   "label": "REPORTED",
+   "url": "https://www.ad-hoc-news.de/wissenschaft/ki-kontrollverlust-1200-openai-agenten-verschaffen-sich-internetzugang/70307183"
+  },
+  {
    "headline": "Show HN: I ran the same founder dilemma through ChatGPT, Claude, and BAAB AI",
    "outlet": "askbaab.com",
    "outlet_name": "askbaab.com",
    "label": "REPORTED",
    "url": "https://askbaab.com/blog/same-prompt-test-chatgpt-claude-baab-ai"
-  },
-  {
-   "headline": "GPT-6 Astra Helped Me Jailbreak My Kindle",
-   "outlet": "nirajrajgor.com",
-   "outlet_name": "nirajrajgor.com",
-   "label": "REPORTED",
-   "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai"
-  },
-  {
-   "headline": "OpenAI executive reveals lessons from \"AI runaway accident\", the key to \"safe driving\"",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
-   "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/13/2000002180/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 12600,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/01.mp3",
- "audio_seconds": 71.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/02.mp3",
+ "audio_seconds": 54.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nIntel launches a new GPU chip designed to challenge NVIDIA. Reported by 鉅亨網: Intel is introducing its AI-focused GPU D-Series with partners for data center artificial intelligence inference.\nXAI is launching a subscription combination. Reported by Moomoo: users are being prompted to enable JavaScript for website functionality.\nNVIDIA and Cisco are introducing a new pluggable optical transceiver form factor to expand artificial intelligence factories. Reported by 36氪: the new technology is designed to support data center expansion.\nAnthropic brings 10 free courses to Coursera. Reported by EdTech Innovation Hub: Anthropic launches 10 free artificial intelligence courses on Coursera for teachers, developers, and small-business owners.\nMicrosoft unveils an artificial intelligence chip called Maia 300. Reported by 뉴스웨이: Microsoft says it cannot rely only on NVIDIA for its artificial intelligence chip needs.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TradingView: xAI Launches X Subscription Combining Grok, Grok Bot, Cursor, And X Premium.\nConfirmed, per Tekedia: Meta Unveils Muse Wonder Models to Challenge OpenAI and Anthropic in Frontier AI Race.\nReported by CDO Magazine: White House Makes AI Incident Reporting a National Security Requirement.\nReported by 第一财经: Betting on Explosive AI Growth, WTO Chief Economist Analyzes Why Tariffs Have Limited Impact on Global Trade | Global Trade Watch.\nStill open, per TechNews 科技新報: AI chip rising star Cerebras falls out of favor, market worries OpenAI orders may change.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
