@@ -1,105 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T03:20:02Z",
- "hour": "2026-10-13T03:00:00Z",
+ "generated_at": "2026-10-13T04:20:02Z",
+ "hour": "2026-10-13T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Introducing The X Subscription",
-   "outlet": "xAI",
-   "outlet_name": "xAI",
-   "url": "https://x.ai/news/x-subscription",
+   "title": "MS unveils AI semiconductor 'Maia 300'… lowering dependence on NVIDIA",
+   "outlet": "한국일보",
+   "outlet_name": "한국일보",
+   "url": "https://www.hankookilbo.com/news/article/A2026101309410000660",
    "label": "CONFIRMED",
-   "summary_1line": "X launches The X Subscription with shared AI usage and team features.",
-   "published_at": "2026-10-12T22:41:48Z"
+   "summary_1line": "Microsoft's Myia 300 chip offers 40% higher efficiency than latest GPUs, to be deployed at gigawatt scale next year.",
+   "published_at": "2026-10-13T02:16:00Z"
   },
   {
-   "title": "Users keep rejecting Copilot, and now Microsoft is killing its AI themes in Outlook (New) for Windows",
-   "outlet": "Windows Latest",
-   "outlet_name": "Windows Latest",
-   "url": "https://www.windowslatest.com/2026/10/13/users-keep-rejecting-copilot-and-now-microsoft-is-killing-its-ai-themes-in-outlook-new-for-windows/",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft retiring Copilot themes and 'Wrap up your day' in Outlook by late 2026.",
-   "published_at": "2026-10-13T01:07:38Z"
+   "title": "Meta releases new AI model named Muse Wonder",
+   "outlet": "Moomoo",
+   "outlet_name": "Moomoo",
+   "url": "https://www.moomoo.com/hans/news/video/1000984094/meta-releases-new-ai-model-called-muse-wonder",
+   "label": "CONFIRMED",
+   "summary_1line": "Article failed to load; no content available.",
+   "published_at": "2026-10-13T02:44:29Z"
   },
   {
-   "title": "Anthropic Eyeing Data Center Investment in Australia, Envoy Says",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-13/anthropic-eyeing-data-center-investment-in-australia-envoy-says",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T02:56:42Z"
+   "title": "Microsoft president says AI regulation looser than for milk or washing machines",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/en/view/113691/microsoft-president-says-ai-regulation-looser-than-for-milk-or-washing-machines",
+   "label": "CONFIRMED",
+   "summary_1line": "Smith warns AI risks exceed household products; Britain could lead global AI safety norms.",
+   "published_at": "2026-10-13T01:12:13Z"
   },
   {
-   "title": "Misalignment, emergent behavior, and regulatory adaptation of Persistent Agent Memory under the EU AI Act and NIS2",
-   "outlet": "生物通",
-   "outlet_name": "生物通",
-   "url": "https://www.ebiotrade.com/newsf/2026-10/20261013025228067.htm",
-   "label": "REPORTED",
-   "summary_1line": "A paper analyzes agentic AI risks under EU AI Act and NIS2, focusing on persistent memory and regulatory gaps.",
-   "published_at": "2026-10-13T00:14:47Z"
+   "title": "SOSLAB and Semunite Sign MOU for LiDAR-Based AI Application and Business Expansion",
+   "outlet": "뉴시스",
+   "outlet_name": "뉴시스",
+   "url": "https://www.newsis.com/view/NISX20261013_0003823571",
+   "label": "CONFIRMED",
+   "summary_1line": "EssoSLab and Seminaite partner on laida-AI tech for autonomous mobility and robotics.",
+   "published_at": "2026-10-13T01:43:17Z"
   },
   {
-   "title": "NTT Data in final talks to build Anthropic's first data centre in Japan, Nikkei reports",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaDNpQmc0SlhGM0F0cjVrUU1PUVBoWGlFeWNjTU12RFlLWGQwN2xnM3JjNGktZ1V4Qi1OWmR6czVEM09TOHdCOFBfeG9OM083MFdwRFFkOEFDckUzTnNYVlJDaExGT09ERzdfR0NKSzkwUXJrbDByZk4tQjV1VFNBSTd6SFJ6TUI4dDdDa0d6OGNIMVJSNnY3QjlYSEJ2UGdlMHkzYXFoNmFLdU5nX2NpR1Nwck9NRDVRRFRfN1NibjhMMjVVWHdINGIwVG5MbFBk?oc=5",
+   "title": "Ecosia drops Mistral AI models for Chinese open-weight alternatives",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
+   "url": "https://www.digitimes.com/news/a20261013PD222/europe-search-engine-france-mistral-ai.html",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T02:51:00Z"
+   "summary_1line": "Ecosia drops Mistral AI for open-source models, including Chinese ones.",
+   "published_at": "2026-10-13T02:45:21Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Introducing The X Subscription",
-   "outlet": "xAI",
-   "outlet_name": "xAI",
+   "headline": "MS unveils AI semiconductor 'Maia 300'… lowering dependence on NVIDIA",
+   "outlet": "한국일보",
+   "outlet_name": "한국일보",
    "label": "CONFIRMED",
-   "url": "https://x.ai/news/x-subscription"
+   "url": "https://www.hankookilbo.com/news/article/A2026101309410000660"
   },
   {
-   "headline": "Users keep rejecting Copilot, and now Microsoft is killing its AI themes in Outlook (New)…",
-   "outlet": "Windows Latest",
-   "outlet_name": "Windows Latest",
+   "headline": "Meta releases new AI model named Muse Wonder",
+   "outlet": "Moomoo",
+   "outlet_name": "Moomoo",
+   "label": "CONFIRMED",
+   "url": "https://www.moomoo.com/hans/news/video/1000984094/meta-releases-new-ai-model-called-muse-wonder"
+  },
+  {
+   "headline": "Microsoft president says AI regulation looser than for milk or washing machines",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "label": "CONFIRMED",
+   "url": "https://www.digitaltoday.co.kr/en/view/113691/microsoft-president-says-ai-regulation-looser-than-for-milk-or-washing-machines"
+  },
+  {
+   "headline": "SOSLAB and Semunite Sign MOU for LiDAR-Based AI Application and Business Expansion",
+   "outlet": "뉴시스",
+   "outlet_name": "뉴시스",
+   "label": "CONFIRMED",
+   "url": "https://www.newsis.com/view/NISX20261013_0003823571"
+  },
+  {
+   "headline": "Ecosia drops Mistral AI models for Chinese open-weight alternatives",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
    "label": "REPORTED",
-   "url": "https://www.windowslatest.com/2026/10/13/users-keep-rejecting-copilot-and-now-microsoft-is-killing-its-ai-themes-in-outlook-new-for-windows/"
+   "url": "https://www.digitimes.com/news/a20261013PD222/europe-search-engine-france-mistral-ai.html"
   },
   {
-   "headline": "Anthropic Eyeing Data Center Investment in Australia, Envoy Says",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "Microsoft Develops Self-Owned AI Chip! Will NVIDIA's Hegemony Change?",
+   "outlet": "蕃新聞",
+   "outlet_name": "蕃新聞",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-13/anthropic-eyeing-data-center-investment-in-australia-envoy-says"
+   "url": "https://n.yam.com/Article/20261013550131"
   },
   {
-   "headline": "Misalignment, emergent behavior, and regulatory adaptation of Persistent Agent Memory…",
-   "outlet": "生物通",
-   "outlet_name": "生物通",
+   "headline": "DeepSeek to Complete 100 Billion Yuan Financing",
+   "outlet": "华尔街见闻",
+   "outlet_name": "华尔街见闻",
    "label": "REPORTED",
-   "url": "https://www.ebiotrade.com/newsf/2026-10/20261013025228067.htm"
+   "url": "https://wallstreetcn.com/articles/3783495"
   },
   {
-   "headline": "NTT Data in final talks to build Anthropic's first data centre in Japan, Nikkei reports",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
+   "headline": "DeepSeek's second round of financing planned to increase to 100 billion, fundraising…",
+   "outlet": "搜狐",
+   "outlet_name": "搜狐",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaDNpQmc0SlhGM0F0cjVrUU1PUVBoWGlFeWNjTU12RFlLWGQwN2xnM3JjNGktZ1V4Qi1OWmR6czVEM09TOHdCOFBfeG9OM083MFdwRFFkOEFDckUzTnNYVlJDaExGT09ERzdfR0NKSzkwUXJrbDByZk4tQjV1VFNBSTd6SFJ6TUI4dDdDa0d6OGNIMVJSNnY3QjlYSEJ2UGdlMHkzYXFoNmFLdU5nX2NpR1Nwck9NRDVRRFRfN1NibjhMMjVVWHdINGIwVG5MbFBk?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSlNpQWxidThsUC1GSHU0RFA1OENLcWx6bnRrUmVNNHU4VzU5TlFYVERiNHhwTXJPQ2lIMmcwOEdCYy1qRFlQNkdRNzJ3Szc2TUZLRUtWbWJRcVJ6UDRYZHhDNXU3bmxFVkVwd09wV0w1YlZ5enJEbU9oTGUyMnhBU3NNOEc4SThWbFBBQw?oc=5"
   },
   {
-   "headline": "Reports say DeepSeek to complete 100 billion yuan financing, with pre-money valuation of…",
+   "headline": "Reports say Liang Wenfeng closely contacting embodied AI entrepreneurs, DeepSeek plans to…",
    "outlet": "中华网",
    "outlet_name": "中华网",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82d3N2UHpKQWlNOHVYdk5tUmJnT2xVUTlzejBfUzU0dVhUdE90RGd4QmRwdmswVFlDMTI0TTdyTVJPczJxc284TE9fSzJ0RWJpOUVVQWU1YVkycFpCMUQxRTNkTm83WDlfWkhHRHczelA?oc=5"
-  },
-  {
-   "headline": "Intel names its Nvidia rival chip the GPU D270 with 480GB of memory",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/intel-names-its-nvidia-rival-chip-the-gpu-d270-with-480gb-of-memory/"
+   "label": "STILL OPEN",
+   "url": "https://news.china.com/socialgd/10000169/20261013/49791365.html"
   },
   {
    "headline": "Nvidia Ties Open Rack Designs to Windows PC Launch as Reflection AI Talks Stay Unsettled",
@@ -109,11 +123,11 @@
    "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/nvidia-ties-open-rack-designs-to-windows-pc-launch-as-reflection-ai-talks/70307296"
   },
   {
-   "headline": "Strengthening our defenses against distillation attacks \\ Anthropic",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/distillation-defenses"
+   "headline": "Anthropic points to signs of self-replicating AI, 26B model runs on fifteen 55-dollar TV…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/news/article/2610/13/2000002204/"
   },
   {
    "headline": "Google's usage of Gemini has changed",
@@ -121,30 +135,16 @@
    "outlet_name": "tmtpost.com",
    "label": "REPORTED",
    "url": "https://www.tmtpost.com/8166223.html"
-  },
-  {
-   "headline": "KI-Kontrollverlust: 1200 OpenAI-Agenten verschaffen sich Internetzugang",
-   "outlet": "ad-hoc-news.de",
-   "outlet_name": "ad-hoc-news.de",
-   "label": "REPORTED",
-   "url": "https://www.ad-hoc-news.de/wissenschaft/ki-kontrollverlust-1200-openai-agenten-verschaffen-sich-internetzugang/70307183"
-  },
-  {
-   "headline": "NVIDIA and Cisco jointly launch new USFP optical modules, significantly boosting AI…",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
-   "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/13/nvidia-and-cisco-introduce-usfp-optics-for-ai-fabrics/"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12700,
- "articles_24h_label": "about 13,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 11900,
+ "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/03.mp3",
- "audio_seconds": 51.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/04.mp3",
+ "audio_seconds": 48.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per xAI: Introducing The X Subscription.\nReported by Windows Latest: Users keep rejecting Copilot, and now Microsoft is killing its AI themes in Outlook (New) for Windows.\nReported by Bloomberg: Anthropic Eyeing Data Center Investment in Australia, Envoy Says.\nReported by 生物通: Misalignment, emergent behavior, and regulatory adaptation of Persistent Agent Memory under the EU AI Act and NIS2.\nReported by Reuters: NTT Data in final talks to build Anthropic's first data centre in Japan, Nikkei reports.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per 한국일보: MS unveils AI semiconductor 'Maia 300'… lowering dependence on NVIDIA.\nConfirmed, per Moomoo: Meta releases new AI model named Muse Wonder.\nConfirmed, per 디지털투데이: Microsoft president says AI regulation looser than for milk or washing machines.\nConfirmed, per 뉴시스: SOSLAB and Semunite Sign MOU for LiDAR-Based AI Application and Business Expansion.\nReported by digitimes: Ecosia drops Mistral AI models for Chinese open-weight alternatives.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
