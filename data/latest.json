@@ -1,105 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-13T08:20:03Z",
- "hour": "2026-10-13T08:00:00Z",
+ "generated_at": "2026-10-13T09:20:02Z",
+ "hour": "2026-10-13T09:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "xAI launches bundled subscription for Grok, Cursor and X Premium, revamps plans into five tiers",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/113868/xai-launches-bundled-subscription-for-grok-cursor-and-x-premium-revamps-plans-into-five-tiers",
-   "label": "REPORTED",
-   "summary_1line": "xAI launches bundled AI subscription with five tiers from $8 to $200.",
-   "published_at": "2026-10-13T05:38:19Z"
-  },
-  {
-   "title": "AI company that Elon Musk’s xAI and Meta once 'fought' to partner with has filed for bankruptcy, says wil",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-company-that-elon-musks-xai-and-meta-fought-to-partner-with-has-filed-for-bankruptcy-says-will-have-to-shut-down-if-/articleshow/134910175.cms",
-   "label": "REPORTED",
-   "summary_1line": "Character.ai files for bankruptcy, selling platform with Disney as lead bidder.",
-   "published_at": "2026-10-13T06:32:00Z"
-  },
-  {
-   "title": "Nvidia Shaken by US Export Controls… China's AI Chip Market Landscape Changes",
-   "outlet": "핀포인트뉴스",
-   "outlet_name": "핀포인트뉴스",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oZlFnWUVQaThLelRtWW10MFZndDRDVy0ydmQzenhsZS1QUG41TDRsZzYxQklFSVB6ZDQzUTdpU29VOW5ranFiVlNIazRLRGhqU3llWUtGSlcwTElWY0tKeEpFZ1pLaGZKQl9PVm1adUVmZjTSAXdBVV95cUxOdEZDU21qNHdLbU15elBpT0YzU0g3UGxsdnBhUm44V0lKWDNJYUxwM1hMMGFNMWVTRHQzZ19DSUVFWVE1YmxNdS1PQlRlVl9hZGR2SUFkQUItdkNOVkhCOW1VLWxJRTFROEQ5eDYzdlFoWVhwdnBoaw?oc=5",
+   "title": "Anthropic warns AI models could soon copy themselves across home devices",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-13T06:29:14Z"
+   "published_at": "2026-10-13T08:27:20Z"
   },
   {
-   "title": "Korea approves AI law amendments to expand access to training data",
-   "outlet": "Telecompaper",
-   "outlet_name": "Telecompaper",
-   "url": "https://www.telecompaper.com/news/korea-approves-ai-law-amendments-to-expand-access-to-training-data--1585439",
+   "title": "Qwen Releases Three New Personal Agent Hardware Products: AI Glasses and AI Earphones",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4024022324269186?f=rss",
    "label": "REPORTED",
-   "summary_1line": "South Korea approves AI law changes to make government AI data accessible via national hub.",
-   "published_at": "2026-10-13T05:49:02Z"
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
   },
   {
-   "title": "Proposed steel policy seeks AI-supported framework for early detection of sub-standard steel imports",
-   "outlet": "The New Indian Express",
-   "outlet_name": "The New Indian Express",
-   "url": "https://www.newindianexpress.com/business/2026/Oct/13/proposed-steel-policy-seeks-ai-supported-framework-for-early-detection-of-sub-standard-steel-imports-2",
-   "label": "REPORTED",
-   "summary_1line": "India's draft steel policy uses AI to tackle sub-standard imports and boost domestic steel competitiveness by 2047.",
-   "published_at": "2026-10-13T05:41:02Z"
+   "title": "Nvidia AI Chip Shipments Fall 44% In China As Huawei Closes Gap",
+   "outlet": "TechBooky",
+   "outlet_name": "TechBooky",
+   "url": "https://www.techbooky.com/nvidia-ai-chip-shipments-fall-44-in-china-as-huawei-closes-gap/",
+   "label": "CONFIRMED",
+   "summary_1line": "Nvidia's AI chip sales in China dropped 44% as Huawei closes the gap.",
+   "published_at": "2026-10-13T00:02:00Z"
+  },
+  {
+   "title": "UK Regains Early Access to AI Models After Reported White House Reversal",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/news-uk-ai-model-access-white-house-reversal-emea/",
+   "label": "STILL OPEN",
+   "summary_1line": "UK regains access to advanced AI models for pre-release testing after White House reversal.",
+   "published_at": "2026-10-13T08:12:21Z"
+  },
+  {
+   "title": "Anthropic says safeguards cut Claude distillation 90%-99%",
+   "outlet": "Independent Journal Review",
+   "outlet_name": "Independent Journal Review",
+   "url": "https://ijr.com/discover/tech-2026-10-13-anthropic-says-safeguards-cut-claude-distillation-9099-dbcbcd1b",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic cuts distillation attacks by 90-99% using new safeguards, blocking data harvesting from Claude.",
+   "published_at": "2026-10-12T22:24:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "xAI launches bundled subscription for Grok, Cursor and X Premium, revamps plans into five…",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
+   "headline": "Anthropic warns AI models could soon copy themselves across home devices",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
    "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/113868/xai-launches-bundled-subscription-for-grok-cursor-and-x-premium-revamps-plans-into-five-tiers"
+   "url": "https://www.cnbc.com/2026/10/13/anthropic-ai-models-self-replication-smart-devices.html"
   },
   {
-   "headline": "AI company that Elon Musk’s xAI and Meta once 'fought' to partner with has filed for…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "Qwen Releases Three New Personal Agent Hardware Products: AI Glasses and AI Earphones",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
    "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/ai-company-that-elon-musks-xai-and-meta-fought-to-partner-with-has-filed-for-bankruptcy-says-will-have-to-shut-down-if-/articleshow/134910175.cms"
+   "url": "https://36kr.com/newsflashes/4024022324269186?f=rss"
   },
   {
-   "headline": "Nvidia Shaken by US Export Controls… China's AI Chip Market Landscape Changes",
-   "outlet": "핀포인트뉴스",
-   "outlet_name": "핀포인트뉴스",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oZlFnWUVQaThLelRtWW10MFZndDRDVy0ydmQzenhsZS1QUG41TDRsZzYxQklFSVB6ZDQzUTdpU29VOW5ranFiVlNIazRLRGhqU3llWUtGSlcwTElWY0tKeEpFZ1pLaGZKQl9PVm1adUVmZjTSAXdBVV95cUxOdEZDU21qNHdLbU15elBpT0YzU0g3UGxsdnBhUm44V0lKWDNJYUxwM1hMMGFNMWVTRHQzZ19DSUVFWVE1YmxNdS1PQlRlVl9hZGR2SUFkQUItdkNOVkhCOW1VLWxJRTFROEQ5eDYzdlFoWVhwdnBoaw?oc=5"
+   "headline": "Nvidia AI Chip Shipments Fall 44% In China As Huawei Closes Gap",
+   "outlet": "TechBooky",
+   "outlet_name": "TechBooky",
+   "label": "CONFIRMED",
+   "url": "https://www.techbooky.com/nvidia-ai-chip-shipments-fall-44-in-china-as-huawei-closes-gap/"
   },
   {
-   "headline": "Korea approves AI law amendments to expand access to training data",
-   "outlet": "Telecompaper",
-   "outlet_name": "Telecompaper",
-   "label": "REPORTED",
-   "url": "https://www.telecompaper.com/news/korea-approves-ai-law-amendments-to-expand-access-to-training-data--1585439"
-  },
-  {
-   "headline": "Proposed steel policy seeks AI-supported framework for early detection of sub-standard…",
-   "outlet": "The New Indian Express",
-   "outlet_name": "The New Indian Express",
-   "label": "REPORTED",
-   "url": "https://www.newindianexpress.com/business/2026/Oct/13/proposed-steel-policy-seeks-ai-supported-framework-for-early-detection-of-sub-standard-steel-imports-2"
-  },
-  {
-   "headline": "Meta AI data centre construction boosts sales, tax revenue in rural U.S. areas",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/113855/meta-ai-data-center-construction-boosts-sales-tax-revenue-in-rural-us-areas"
-  },
-  {
-   "headline": "AI could self-replicate on home devices within ‘months’, Anthropic says",
-   "outlet": "Al Jazeera on MSN",
-   "outlet_name": "Al Jazeera on MSN",
+   "headline": "UK Regains Early Access to AI Models After Reported White House Reversal",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
    "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/news/other/ai-could-self-replicate-on-home-devices-within-months-anthropic-says/ar-AA2e6LoX"
+   "url": "https://www.techrepublic.com/article/news-uk-ai-model-access-white-house-reversal-emea/"
+  },
+  {
+   "headline": "Anthropic says safeguards cut Claude distillation 90%-99%",
+   "outlet": "Independent Journal Review",
+   "outlet_name": "Independent Journal Review",
+   "label": "CONFIRMED",
+   "url": "https://ijr.com/discover/tech-2026-10-13-anthropic-says-safeguards-cut-claude-distillation-9099-dbcbcd1b"
+  },
+  {
+   "headline": "Cisco & NVIDIA Launch New Pluggable Optics for AI Factories",
+   "outlet": "Data Centre Magazine",
+   "outlet_name": "Data Centre Magazine",
+   "label": "REPORTED",
+   "url": "https://datacentremagazine.com/news/inside-cisco-and-nvidias-pluggable-optics-for-ai-factories"
   },
   {
    "headline": "Anthropic launches free AI vulnerability scanner as Google's open source bug bounty halts",
@@ -109,18 +102,18 @@
    "url": "https://www.msn.com/en-us/technology/artificial-intelligence/anthropic-launches-free-ai-vulnerability-scanner-as-google-s-open-source-bug-bounty-halts/ar-AA2e7kYI"
   },
   {
+   "headline": "Your smart TV or oven could become a target for self-replicating AI, warns Anthropic",
+   "outlet": "Times Now on MSN",
+   "outlet_name": "Times Now on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/your-smart-tv-or-oven-could-become-a-target-for-self-replicating-ai-warns-anthropic/ar-AA2e7nBF"
+  },
+  {
    "headline": "US and European regulators step up oversight of banks’ AI risks — Cyprus Mail",
    "outlet": "UA.NEWS",
    "outlet_name": "UA.NEWS",
    "label": "CONFIRMED",
    "url": "https://ua.news/en/world/reguliatori-ssha-ta-evropi-posiliuiut-nagliad-za-shi-rizikami-bankiv-cyprus-mail"
-  },
-  {
-   "headline": "Banking watchdogs ramp up AI scrutiny as stability fears mount, sources say",
-   "outlet": "The Economic Times on MSN",
-   "outlet_name": "The Economic Times on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/banking-watchdogs-ramp-up-ai-scrutiny-as-stability-fears-mount-sources-say/ar-AA2e78jK"
   },
   {
    "headline": "Reflection AI's Beam sells governments AI independence; Nvidia in talks to acquire it",
@@ -130,21 +123,28 @@
    "url": "https://www.msn.com/en-us/news/other/reflection-ais-beam-sells-governments-ai-independence-nvidia-in-talks-to-acquire-it/ar-AA2e7veK"
   },
   {
-   "headline": "07:28 Anthropic dämmt heimliche KI-Kopien ein",
-   "outlet": "n-tv.de",
-   "outlet_name": "n-tv.de",
+   "headline": "Anthropic: KI-Modelle können sich auch ohne Cloud vervielfältigen",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/de-de/nachrichten/other/anthropic-ki-modelle-können-sich-auch-ohne-cloud-vervielfältigen/ar-AA2e7oz7"
+  },
+  {
+   "headline": "Alibaba Opens Sign-Ups for Qwen Go!, a Personal Agent That Files Flight-Delay Claims and…",
+   "outlet": "pandaily.com",
+   "outlet_name": "pandaily.com",
    "label": "REPORTED",
-   "url": "https://www.n-tv.de/wirtschaft/der_boersen_tag/Der-Boersen-Tag-Dienstag-13-Oktober-2026-id31410860.html"
+   "url": "https://pandaily.com/alibaba-qwen-go-personal-agent-sign-ups-flight-delay-claims-price-protection"
   }
  ],
- "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12300,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 12400,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/08.mp3",
- "audio_seconds": 59.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/13/09.mp3",
+ "audio_seconds": 47.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nxAI launches bundled subscription for Grok, Cursor and X Premium, revamps plans into five tiers from $8 to $200. Reported by 디지털투데이.\nCharacter.ai files for bankruptcy, selling platform with Disney as lead bidder. Reported by The Times of India.\nNvidia faces shaken outlook due to US export controls affecting China's artificial intelligence chip market landscape. Reported by 핀포인트뉴스.\nSouth Korea approves artificial intelligence law amendments to expand access to training data through a national hub. Reported by Telecompaper.\nIndia's draft steel policy seeks artificial intelligence-supported framework for early detection of sub-standard steel imports to boost domestic competitiveness by 2047. Reported by The New Indian Express.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNBC: Anthropic warns AI models could soon copy themselves across home devices.\nReported by 36氪: Qwen Releases Three New Personal Agent Hardware Products: AI Glasses and AI Earphones.\nConfirmed, per TechBooky: Nvidia AI Chip Shipments Fall 44% In China As Huawei Closes Gap.\nStill open, per TechRepublic: UK Regains Early Access to AI Models After Reported White House Reversal.\nConfirmed, per Independent Journal Review: Anthropic says safeguards cut Claude distillation 90%-99%.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
