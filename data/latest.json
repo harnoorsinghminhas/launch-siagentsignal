@@ -1,105 +1,75 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-14T07:20:02Z",
- "hour": "2026-10-14T07:00:00Z",
+ "generated_at": "2026-10-14T08:20:02Z",
+ "hour": "2026-10-14T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "6% Gap Between NVIDIA & Huawei: China's AI Chip Market Competitive Landscape Shifts",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "url": "https://eu.36kr.com/en/p/4024302190728839",
-   "label": "CONFIRMED",
-   "summary_1line": "NVIDIA's AI chip share in China fell to 34% as Huawei's shipments rose, driven by non-GPU accelerators.",
-   "published_at": "2026-10-14T05:02:51Z"
-  },
-  {
-   "title": "NVIDIA RTX Spark Launches Friday: 74-Billion-Parameter AI Fits in 24GB Laptop",
+   "title": "AI Self-Replication on IoT Devices Months Away, Anthropic Red Team Finds",
    "outlet": "Tech Times",
    "outlet_name": "Tech Times",
-   "url": "https://www.techtimes.com/articles/328981/20261014/nvidia-rtx-spark-launches-friday-74-billion-parameter-ai-fits-24gb-laptop.htm",
-   "label": "REPORTED",
-   "summary_1line": "NVIDIA's RTX Spark runs a 74B-parameter AI model in 24GB memory via sparse activation and 2-bit quantization.",
-   "published_at": "2026-10-13T22:40:00Z"
+   "url": "https://www.techtimes.com/articles/328984/20261014/ai-self-replication-iot-devices-months-away-anthropic-red-team-finds.htm",
+   "label": "CONFIRMED",
+   "summary_1line": "AI model runs on 8 of 9 IoT devices; full self-replication projected by year-end.",
+   "published_at": "2026-10-13T23:05:00Z"
   },
   {
-   "title": "Anthropic Asks Appeals Court to Rehear Fight Over Security Risk",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObW43Vmx0ZDI0c3dMOWkxc3ppS2ZjY0JFUnJkTTNrdzh6N1ZhcTQtNmlYYnQyRzR4alVzVkNleWRvNHltSWFoc1RYN0ZMUEVUNkFBdVE2bHJCMW5FVVdiMmR6Q0Y4LUpsaUwxYUIxd3p6OTU5VlRnTXNOWm82UzlQZnNfZWNNLTM4eWl4SjlDMzM1RHZfcGxTRnZrY21tRkg0WVhzaTFKNDF4RG1pakNxMktjaGk?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T22:24:46Z"
+   "title": "Japan declares 'state of emergency in cyberspace' as AI unleashes mass ransomware waves",
+   "outlet": "UNILAD Tech",
+   "outlet_name": "UNILAD Tech",
+   "url": "https://www.uniladtech.com/news/ai/ai-ransomware-waves-japan-state-of-emergency-cyberspace-931445-20261013",
+   "label": "CONFIRMED",
+   "summary_1line": "AI-assisted cyber attacks hit Japan's top brands and infrastructure, prompting emergency response and ID reforms.",
+   "published_at": "2026-10-13T15:42:35Z"
   },
   {
-   "title": "Netbox Labs partners with NVIDIA and Grafana Labs, announces new additions to the NetBox Infrastructure Intelligence Platform to Assemble the Intelligence Layer for AI Datacenter and Enterprise Infrastructure Buildouts",
-   "outlet": "Koreabizwire",
-   "outlet_name": "Koreabizwire",
-   "url": "http://koreabizwire.com/netbox-labs-partners-with-nvidia-and-grafana-labs-announces-new-additions-to-the-netbox-infrastructure-intelligence-platform-to-assemble-the-intelligence-layer-for-ai-datacenter-and-enterprise-infras/360930",
+   "title": "NVIDIA unveils Jetson Orin Nano 2 for edge AI robotics",
+   "outlet": "techgig",
+   "outlet_name": "techgig",
+   "url": "https://techgig.com/news/ai/nvidia-unveils-jetson-orin-nano-2-for-edge-ai-robotics/134930001",
    "label": "REPORTED",
-   "summary_1line": "A security procedure is underway to prevent automated registration.",
-   "published_at": "2026-10-13T16:16:58Z"
+   "summary_1line": "NVIDIA's Jetson Orin Nano 2 delivers double AI performance and 40% better power efficiency for edge AI devices.",
+   "published_at": "2026-10-13T17:30:00Z"
   },
   {
-   "title": "Nvidia's big spenders turn into competitors... Microsoft, Google, OpenAI delve into 'inference' with custom chips",
-   "outlet": "뉴시스",
-   "outlet_name": "뉴시스",
-   "url": "https://www.newsis.com/view/NISX20261014_0003825504",
+   "title": "Google launches Gemini 4 Argon, targets complex coding, cybersecurity and scientific research",
+   "outlet": "The Hindu BusinessLine",
+   "outlet_name": "The Hindu BusinessLine",
+   "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-argon-targets-complex-coding-cybersecurity-and-scientific-research/article71582177.ece",
    "label": "REPORTED",
-   "summary_1line": "Big tech firms launch in-house AI chips for inference, challenging NVIDIA's market lead.",
-   "published_at": "2026-10-14T05:26:16Z"
+   "summary_1line": "Google launches Gemini 4 Argon with 95% input discount, first Vals Index rank, and real-world use in coding, research, and security.",
+   "published_at": "2026-10-13T13:49:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "6% Gap Between NVIDIA & Huawei: China's AI Chip Market Competitive Landscape Shifts",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "label": "CONFIRMED",
-   "url": "https://eu.36kr.com/en/p/4024302190728839"
-  },
-  {
-   "headline": "NVIDIA RTX Spark Launches Friday: 74-Billion-Parameter AI Fits in 24GB Laptop",
+   "headline": "AI Self-Replication on IoT Devices Months Away, Anthropic Red Team Finds",
    "outlet": "Tech Times",
    "outlet_name": "Tech Times",
-   "label": "REPORTED",
-   "url": "https://www.techtimes.com/articles/328981/20261014/nvidia-rtx-spark-launches-friday-74-billion-parameter-ai-fits-24gb-laptop.htm"
-  },
-  {
-   "headline": "Anthropic Asks Appeals Court to Rehear Fight Over Security Risk",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObW43Vmx0ZDI0c3dMOWkxc3ppS2ZjY0JFUnJkTTNrdzh6N1ZhcTQtNmlYYnQyRzR4alVzVkNleWRvNHltSWFoc1RYN0ZMUEVUNkFBdVE2bHJCMW5FVVdiMmR6Q0Y4LUpsaUwxYUIxd3p6OTU5VlRnTXNOWm82UzlQZnNfZWNNLTM4eWl4SjlDMzM1RHZfcGxTRnZrY21tRkg0WVhzaTFKNDF4RG1pakNxMktjaGk?oc=5"
-  },
-  {
-   "headline": "Netbox Labs partners with NVIDIA and Grafana Labs, announces new additions to the NetBox…",
-   "outlet": "Koreabizwire",
-   "outlet_name": "Koreabizwire",
-   "label": "REPORTED",
-   "url": "http://koreabizwire.com/netbox-labs-partners-with-nvidia-and-grafana-labs-announces-new-additions-to-the-netbox-infrastructure-intelligence-platform-to-assemble-the-intelligence-layer-for-ai-datacenter-and-enterprise-infras/360930"
-  },
-  {
-   "headline": "Nvidia's big spenders turn into competitors... Microsoft, Google, OpenAI delve into…",
-   "outlet": "뉴시스",
-   "outlet_name": "뉴시스",
-   "label": "REPORTED",
-   "url": "https://www.newsis.com/view/NISX20261014_0003825504"
-  },
-  {
-   "headline": "Sunil Mittal Warns AI Is Outpacing Regulation",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-14/sunil-mittal-warns-ai-is-outpacing-regulation-video"
-  },
-  {
-   "headline": "Google launches Gemini 4 Argon AI globally for complex business tasks",
-   "outlet": "Newsable Asianet News on MSN",
-   "outlet_name": "Newsable Asianet News on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/google-launches-gemini-4-argon-ai-globally-for-complex-business-tasks/ar-AA2ebleo"
+   "url": "https://www.techtimes.com/articles/328984/20261014/ai-self-replication-iot-devices-months-away-anthropic-red-team-finds.htm"
+  },
+  {
+   "headline": "Japan declares 'state of emergency in cyberspace' as AI unleashes mass ransomware waves",
+   "outlet": "UNILAD Tech",
+   "outlet_name": "UNILAD Tech",
+   "label": "CONFIRMED",
+   "url": "https://www.uniladtech.com/news/ai/ai-ransomware-waves-japan-state-of-emergency-cyberspace-931445-20261013"
+  },
+  {
+   "headline": "NVIDIA unveils Jetson Orin Nano 2 for edge AI robotics",
+   "outlet": "techgig",
+   "outlet_name": "techgig",
+   "label": "REPORTED",
+   "url": "https://techgig.com/news/ai/nvidia-unveils-jetson-orin-nano-2-for-edge-ai-robotics/134930001"
+  },
+  {
+   "headline": "Google launches Gemini 4 Argon, targets complex coding, cybersecurity and scientific…",
+   "outlet": "The Hindu BusinessLine",
+   "outlet_name": "The Hindu BusinessLine",
+   "label": "REPORTED",
+   "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-argon-targets-complex-coding-cybersecurity-and-scientific-research/article71582177.ece"
   },
   {
    "headline": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the…",
@@ -116,11 +86,11 @@
    "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/"
   },
   {
-   "headline": "Grab announces new Thailand initiative with OpenAI",
-   "outlet": "news8000.com",
-   "outlet_name": "news8000.com",
+   "headline": "Anthropic appeals Department of Defense supply chain risk designation, requests retrial…",
+   "outlet": "aitimes.com",
+   "outlet_name": "aitimes.com",
    "label": "REPORTED",
-   "url": "https://www.news8000.com/lifestyle/money/grab-announces-new-thailand-initiative-with-openai/article_c03274a7-6993-5e9e-8536-44748b5bb96c.html"
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216255"
   },
   {
    "headline": "Response speed 3 times faster than Claude Code, achieving truly infinite context! APUS AI…",
@@ -130,21 +100,42 @@
    "url": "https://www.qbitai.com/2026/10/503165.html"
   },
   {
-   "headline": "Traces of Anthropic's next model 'Fable 5.5' detected...\"Expected to launch this week\"",
+   "headline": "Enabling an AI-first European economy",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/"
+  },
+  {
+   "headline": "Google rolls out Gemini 4 Argon AI model after restricted release: Check capabilities and…",
+   "outlet": "Digit on MSN",
+   "outlet_name": "Digit on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/technology/software/google-rolls-out-gemini-4-argon-ai-model-after-restricted-release-check-capabilities-and-availability/ar-AA2ec7IJ"
+  },
+  {
+   "headline": "Privacy campaigners to ask court to ban sale of Meta AI glasses",
+   "outlet": "DutchNews.nl",
+   "outlet_name": "DutchNews.nl",
+   "label": "REPORTED",
+   "url": "https://www.dutchnews.nl/2026/10/privacy-campaigners-to-ask-court-to-ban-sale-of-meta-ai-glasses/"
+  },
+  {
+   "headline": "FBI arrests employee for alleged illegal wiretapping of OpenAI internal meeting room",
    "outlet": "aitimes.com",
    "outlet_name": "aitimes.com",
-   "label": "STILL OPEN",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216251"
+   "label": "CONFIRMED",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216245"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
  "articles_24h_rounded": 17000,
  "articles_24h_label": "about 17,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/07.mp3",
- "audio_seconds": 58.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/08.mp3",
+ "audio_seconds": 54.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per 36Kr: 6% Gap Between NVIDIA & Huawei: China's AI Chip Market Competitive Landscape Shifts.\nReported by Tech Times: NVIDIA RTX Spark Launches Friday: 74-Billion-Parameter AI Fits in 24GB Laptop.\nReported by Bloomberg: Anthropic Asks Appeals Court to Rehear Fight Over Security Risk.\nReported by Koreabizwire: Netbox Labs partners with NVIDIA and Grafana Labs, announces new additions to the NetBox Infrastructure Intelligence Platform to Assemble the Intelligence Layer for AI Datacenter and Enterprise Infrastructure Buildouts.\nReported by 뉴시스: Nvidia's big spenders turn into competitors... Microsoft, Google, OpenAI delve into 'inference' with custom chips.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's red team found an artificial intelligence model running on 8 of 9 IoT devices, with full self-replication projected by year-end. Confirmed by Tech Times.\nConfirmed by UNILAD Tech: artificial intelligence-assisted cyber attacks have hit Japan's top brands and infrastructure, prompting the nation to declare a state of emergency in cyberspace.\nNVIDIA's Jetson Orin Nano 2 delivers double artificial intelligence performance and 40 percent better power efficiency for edge artificial intelligence devices. Reported by techgig.\nGoogle launches Gemini 4 Argon with a 95 percent input discount, targeting complex coding, cybersecurity and scientific research. Reported by The Hindu BusinessLine.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
