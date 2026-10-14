@@ -1,119 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-14T04:20:03Z",
- "hour": "2026-10-14T04:00:00Z",
+ "generated_at": "2026-10-14T05:20:03Z",
+ "hour": "2026-10-14T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "8Dian1Ke | ChaPanda Involved in IPO Fraud, Trading Suspended; Apple Rapidly Releases 3 Smart Home New Products, Total Market Value Hits All-Time High Again; DeepSeek to Complete 100 Billion Yuan Financing",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "url": "https://36kr.com/p/4025027267580036?f=rss",
+   "title": "AI Strategy Committee Vice Chairman Ha Jung-woo visits Semiconductor Exhibition... \"Will find ways to expand ecosystem\"",
+   "outlet": "디지털데일리",
+   "outlet_name": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026101411342872461",
+   "label": "CONFIRMED",
+   "summary_1line": "Ha Jeong-u visits semiconductor firms to expand AI ecosystem policies.",
+   "published_at": "2026-10-14T03:53:31Z"
+  },
+  {
+   "title": "Anthropic warns small AI models may soon self-replicate on smart home devices without data centres",
+   "outlet": "The Financial Express",
+   "outlet_name": "The Financial Express",
+   "url": "https://www.financialexpress.com/life/technology-anthropic-warns-small-ai-models-may-soon-self-replicate-on-smart-home-devices-without-data-centres-4360761/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic finds small AI models can replicate on IoT devices, with 9B model running on 8/9 hardware types.",
+   "published_at": "2026-10-13T20:33:00Z"
+  },
+  {
+   "title": "OpenAI employee accused of bugging an executive conference room",
+   "outlet": "nbcnews.com",
+   "outlet_name": "NBC News",
+   "url": "https://www.nbcnews.com/video/openai-employee-accused-of-bugging-an-executive-conference-room-271539781828",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI employee arrested for allegedly bugging executive room in San Francisco.",
+   "published_at": "2026-10-14T03:02:16Z"
+  },
+  {
+   "title": "Market Take | Anthropic Investor Day: Can New Revenue Numbers Revive the AI Trade?",
+   "outlet": "Moomoo",
+   "outlet_name": "Moomoo",
+   "url": "https://www.moomoo.com/community/feed/anthropic-investor-day-can-new-revenue-numbers-revive-the-ai-117436847030278",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic reportedly to reveal Q3 financials on Oct 14, with key metrics on revenue, profitability and compute spending.",
+   "published_at": "2026-10-14T02:14:37Z"
+  },
+  {
+   "title": "US Export Controls Slash Nvidia's China AI Chip Market Share to 34%, Huawei Grabs 28% : Global : JKN",
+   "outlet": "재경일보",
+   "outlet_name": "재경일보",
+   "url": "https://news.jkn.co.kr/editions/english/post/1020528",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's GPT-6 scores 92% on MMLU, rolling out to ChatGPT Plus next week.",
-   "published_at": null
-  },
-  {
-   "title": "Just now, Gemini 4 released! Cost-performance ratio \"slaughters\" GPT-6 and Opus 5.5, returning to the Big Three",
-   "outlet": "爱范儿",
-   "outlet_name": "爱范儿",
-   "url": "https://www.ifanr.com/1684241?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "label": "REPORTED",
-   "summary_1line": "Google launches Gemini 4 Argon, a powerful AI model for complex tasks, with low-cost API access and real-world performance.",
-   "published_at": "2026-10-14T02:56:48Z"
-  },
-  {
-   "title": "Market news: Singapore introduces new initiatives to strengthen artificial intelligence security, establishing the Frontier AI Resilience and Safety Working Group",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
-   "url": "https://news.futunn.com/flash/1001062146/market-news-singapore-introduces-new-measures-to-strengthen-ai-safety",
-   "label": "CONFIRMED",
-   "summary_1line": "JavaScript must be enabled to use the page.",
-   "published_at": "2026-10-14T02:39:12Z"
-  },
-  {
-   "title": "Compal Accelerates Time-to-AI with Next-Generation NVIDIA Platforms at OCP Global Summit 2026",
-   "outlet": "FT Markets",
-   "outlet_name": "FT Markets",
-   "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610132200PR_NEWS_USPRX____HK70857-1",
-   "label": "CONFIRMED",
-   "summary_1line": "Compal shows how NVIDIA's next-gen AI tech can be rapidly deployed in data centers.",
-   "published_at": "2026-10-13T19:01:00Z"
-  },
-  {
-   "title": "An engineer at OpenAI arrested for allegedly installing wiretapping equipment",
-   "outlet": "京报网",
-   "outlet_name": "京报网",
-   "url": "https://xinwen.bjd.com.cn/content/s6aceee99e4b039a8e2f248d3.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Saudi engineer arrested at OpenAI for installing hidden listening device in office.",
-   "published_at": "2026-10-13T16:53:13Z"
+   "summary_1line": "Nvidia's AI chip market share in China fell to 34% as Huawei's rose to 28%.",
+   "published_at": "2026-10-13T05:35:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "8Dian1Ke | ChaPanda Involved in IPO Fraud, Trading Suspended; Apple Rapidly Releases 3…",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
+   "headline": "AI Strategy Committee Vice Chairman Ha Jung-woo visits Semiconductor Exhibition... \"Will…",
+   "outlet": "디지털데일리",
+   "outlet_name": "디지털데일리",
+   "label": "CONFIRMED",
+   "url": "https://www.ddaily.co.kr/page/view/2026101411342872461"
+  },
+  {
+   "headline": "Anthropic warns small AI models may soon self-replicate on smart home devices without…",
+   "outlet": "The Financial Express",
+   "outlet_name": "The Financial Express",
+   "label": "CONFIRMED",
+   "url": "https://www.financialexpress.com/life/technology-anthropic-warns-small-ai-models-may-soon-self-replicate-on-smart-home-devices-without-data-centres-4360761/"
+  },
+  {
+   "headline": "OpenAI employee accused of bugging an executive conference room",
+   "outlet": "nbcnews.com",
+   "outlet_name": "NBC News",
+   "label": "CONFIRMED",
+   "url": "https://www.nbcnews.com/video/openai-employee-accused-of-bugging-an-executive-conference-room-271539781828"
+  },
+  {
+   "headline": "Market Take | Anthropic Investor Day: Can New Revenue Numbers Revive the AI Trade?",
+   "outlet": "Moomoo",
+   "outlet_name": "Moomoo",
+   "label": "STILL OPEN",
+   "url": "https://www.moomoo.com/community/feed/anthropic-investor-day-can-new-revenue-numbers-revive-the-ai-117436847030278"
+  },
+  {
+   "headline": "US Export Controls Slash Nvidia's China AI Chip Market Share to 34%, Huawei Grabs 28%…",
+   "outlet": "재경일보",
+   "outlet_name": "재경일보",
    "label": "REPORTED",
-   "url": "https://36kr.com/p/4025027267580036?f=rss"
+   "url": "https://news.jkn.co.kr/editions/english/post/1020528"
   },
   {
-   "headline": "Just now, Gemini 4 released! Cost-performance ratio \"slaughters\" GPT-6 and Opus 5.5…",
-   "outlet": "爱范儿",
-   "outlet_name": "爱范儿",
+   "headline": "AI Mastered Parasitic Reproduction: Anthropic Successfully Runs Large Language Models on…",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
    "label": "REPORTED",
-   "url": "https://www.ifanr.com/1684241?utm_source=rss&utm_medium=rss&utm_campaign="
+   "url": "https://eu.36kr.com/en/p/4025038181912450"
   },
   {
-   "headline": "Market news: Singapore introduces new initiatives to strengthen artificial intelligence…",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
+   "headline": "Samsung Electronics showcases comprehensive AI semiconductor technologies including HBM4E…",
+   "outlet": "연합뉴스",
+   "outlet_name": "연합뉴스",
    "label": "CONFIRMED",
-   "url": "https://news.futunn.com/flash/1001062146/market-news-singapore-introduces-new-measures-to-strengthen-ai-safety"
+   "url": "https://www.yna.co.kr/amp/view/AKR20261014042300003"
   },
   {
-   "headline": "Compal Accelerates Time-to-AI with Next-Generation NVIDIA Platforms at OCP Global Summit…",
-   "outlet": "FT Markets",
-   "outlet_name": "FT Markets",
-   "label": "CONFIRMED",
-   "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610132200PR_NEWS_USPRX____HK70857-1"
-  },
-  {
-   "headline": "An engineer at OpenAI arrested for allegedly installing wiretapping equipment",
-   "outlet": "京报网",
-   "outlet_name": "京报网",
-   "label": "CONFIRMED",
-   "url": "https://xinwen.bjd.com.cn/content/s6aceee99e4b039a8e2f248d3.html"
-  },
-  {
-   "headline": "Philly Cops Blast Anthropic Over Fake Murder Tip",
-   "outlet": "Newser",
-   "outlet_name": "Newser",
+   "headline": "Anthropic Appeals US Court Ruling on Pentagon AI Ban",
+   "outlet": "Aktualita.co",
+   "outlet_name": "Aktualita.co",
    "label": "REPORTED",
-   "url": "https://www.newser.com/story/398078/philly-cops-blast-anthropic-over-fake-murder-tip.html"
+   "url": "https://aktualita.co/en/technology/anthropic-appeals-us-court-ruling-on-pentagon-ai-ban"
   },
   {
-   "headline": "Congress should keep AI out of American military decisions",
-   "outlet": "The Michigan Daily",
-   "outlet_name": "The Michigan Daily",
+   "headline": "OpenAI employees secretly hid recorders to steal secrets, FBI swiftly arrests and…",
+   "outlet": "infosecu.technews.tw",
+   "outlet_name": "infosecu.technews.tw",
    "label": "REPORTED",
-   "url": "https://www.michigandaily.com/opinion/columns/congress-should-keep-ai-out-of-american-military-decisions/"
+   "url": "https://infosecu.technews.tw/2026/10/14/saudi-national-arrested-for-installing-surreptitious-audio-recording-device-at-openai/"
   },
   {
-   "headline": "Google DeepMind and Singapore Government announce new AI tool to protect citizens against…",
-   "outlet": "deepmind.google",
-   "outlet_name": "deepmind.google",
-   "label": "CONFIRMED",
-   "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/"
-  },
-  {
-   "headline": "Anthropic seeks court rehearing in fight against Pentagon blacklisting",
-   "outlet": "NDTV Profit on MSN",
-   "outlet_name": "NDTV Profit on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/anthropic-seeks-court-rehearing-in-fight-against-pentagon-blacklisting/ar-AA2ebJwp"
+   "headline": "Google launches Gemini 4 Argon AI globally for complex business tasks",
+   "outlet": "Newsable Asianet News on MSN",
+   "outlet_name": "Newsable Asianet News on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/google-launches-gemini-4-argon-ai-globally-for-complex-business-tasks/ar-AA2ebleo"
   },
   {
    "headline": "Google DeepMind and GovTech Unveil On-Device Scam Detection Model",
@@ -123,28 +130,21 @@
    "url": "https://www.unite.ai/google-deepmind-and-govtech-unveil-on-device-scam-detection-model/"
   },
   {
-   "headline": "Google launches new frontier AI model Gemini 4 Argon for businesses and developers",
-   "outlet": "Cryptopolitan on MSN",
-   "outlet_name": "Cryptopolitan on MSN",
+   "headline": "Nvidia's Europe Push Collides With a Financing Squeeze in AI Infrastructure",
+   "outlet": "ad-hoc-news.de",
+   "outlet_name": "ad-hoc-news.de",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/other/google-launches-new-frontier-ai-model-gemini-4-argon-for-businesses-and-developers/ar-AA2eayfM"
-  },
-  {
-   "headline": "Microsoft’s Brad Smith calls for ‘real and effective’ AI safety standards",
-   "outlet": "Free Malaysia Today on MSN",
-   "outlet_name": "Free Malaysia Today on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-my/technology/artificial-intelligence/microsoft-s-brad-smith-calls-for-real-and-effective-ai-safety-standards/ar-AA2ebrKY"
+   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/nvidia-s-europe-push-collides-with-a-financing-squeeze-in-ai/70319257"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 13700,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/04.mp3",
- "audio_seconds": 79.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/05.mp3",
+ "audio_seconds": 56.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nApple rapidly releases 3 smart home new products as total market value hits all-time high again. Reported by 36氪: ChaPanda involved in IPO fraud with trading suspended and DeepSeek completing 100 billion yuan financing.\nGoogle launches Gemini 4 with cost-performance ratio that challenges GPT-6 and Opus 5.5. Reported by 爱范儿: Gemini 4 Argon offers powerful artificial intelligence for complex tasks with low-cost API access.\nSingapore introduces new initiatives to strengthen artificial intelligence security by establishing the Frontier AI Resilience and Safety Working Group. Confirmed by 富途牛牛: market news covers these strengthened protections.\nCompal accelerates time-to-AI deployment with next-generation NVIDIA platforms at OCP Global Summit 2026. Confirmed by FT Markets: NVIDIA's next-gen artificial intelligence technology enables rapid data center deployment.\nAn engineer at OpenAI was arrested for allegedly installing wiretapping equipment in the office. Confirmed by 京报网: a Saudi engineer faced arrest for installing a hidden listening device.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nHa Jung-woo, vice chairman of the strategy committee, visits semiconductor firms to expand ecosystem policies. Confirmed by 디지털데일리.\nSmall models can replicate on IoT devices, with a 9B model running on 8 out of 9 hardware types. Confirmed by The Financial Express.\nAn OpenAI employee was arrested for allegedly bugging an executive conference room in San Francisco. Confirmed by NBC News.\nAnthropic is reportedly set to reveal Q3 financials on Oct 14, with key metrics on revenue, profitability and compute spending. Still open, per Moomoo.\nNvidia's artificial intelligence chip market share in China fell to 34 percent as Huawei's rose to 28 percent. Reported by 재경일보.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
