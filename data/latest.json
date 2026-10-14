@@ -1,103 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-14T08:20:02Z",
- "hour": "2026-10-14T08:00:00Z",
+ "generated_at": "2026-10-14T09:20:02Z",
+ "hour": "2026-10-14T09:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI Self-Replication on IoT Devices Months Away, Anthropic Red Team Finds",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "url": "https://www.techtimes.com/articles/328984/20261014/ai-self-replication-iot-devices-months-away-anthropic-red-team-finds.htm",
-   "label": "CONFIRMED",
-   "summary_1line": "AI model runs on 8 of 9 IoT devices; full self-replication projected by year-end.",
-   "published_at": "2026-10-13T23:05:00Z"
-  },
-  {
-   "title": "Japan declares 'state of emergency in cyberspace' as AI unleashes mass ransomware waves",
-   "outlet": "UNILAD Tech",
-   "outlet_name": "UNILAD Tech",
-   "url": "https://www.uniladtech.com/news/ai/ai-ransomware-waves-japan-state-of-emergency-cyberspace-931445-20261013",
-   "label": "CONFIRMED",
-   "summary_1line": "AI-assisted cyber attacks hit Japan's top brands and infrastructure, prompting emergency response and ID reforms.",
-   "published_at": "2026-10-13T15:42:35Z"
-  },
-  {
-   "title": "NVIDIA unveils Jetson Orin Nano 2 for edge AI robotics",
-   "outlet": "techgig",
-   "outlet_name": "techgig",
-   "url": "https://techgig.com/news/ai/nvidia-unveils-jetson-orin-nano-2-for-edge-ai-robotics/134930001",
+   "title": "DeepSeek Nears $14 Billion Funding Round, Double Its Original Target",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/international/2026/10/14/deepseek-nears-14-billion-funding-round-double-its-original",
    "label": "REPORTED",
-   "summary_1line": "NVIDIA's Jetson Orin Nano 2 delivers double AI performance and 40% better power efficiency for edge AI devices.",
-   "published_at": "2026-10-13T17:30:00Z"
+   "summary_1line": "DeepSeek doubles funding to 100 billion yuan, boosts data center with 160,000 AI chips, eyes IPO by next year.",
+   "published_at": "2026-10-14T07:41:25Z"
   },
   {
-   "title": "Google launches Gemini 4 Argon, targets complex coding, cybersecurity and scientific research",
-   "outlet": "The Hindu BusinessLine",
-   "outlet_name": "The Hindu BusinessLine",
-   "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-argon-targets-complex-coding-cybersecurity-and-scientific-research/article71582177.ece",
+   "title": "Anthropic Executive Says Open-Source AI Models Are Higher Risk",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk",
    "label": "REPORTED",
-   "summary_1line": "Google launches Gemini 4 Argon with 95% input discount, first Vals Index rank, and real-world use in coding, research, and security.",
-   "published_at": "2026-10-13T13:49:00Z"
+   "summary_1line": null,
+   "published_at": "2026-10-14T08:48:30Z"
+  },
+  {
+   "title": "X introduces unified subscription combining Grok, Cursor and X Premium",
+   "outlet": "Social Samosa",
+   "outlet_name": "Social Samosa",
+   "url": "https://www.socialsamosa.com/news-2/x-unified-subscription-combining-grok-cursor-x-premium-12674459",
+   "label": "REPORTED",
+   "summary_1line": "X launches unified subscription for social media, Grok, and Cursor with shared usage pool.",
+   "published_at": "2026-10-13T23:38:00Z"
+  },
+  {
+   "title": "KI: Wanze in OpenAI-Konferenzraum entdeckt – Mitarbeiter festgenommen",
+   "outlet": "WirtschaftsWoche",
+   "outlet_name": "WirtschaftsWoche",
+   "url": "https://www.wiwo.de/technologie/digitale-welt/brisanter-fund-wanze-in-openai-konferenzraum-mitarbeiter-festgenommen/100262056.html",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI employee accused of placing spy device in conference room; faces up to 5 years in prison.",
+   "published_at": "2026-10-14T01:08:33Z"
+  },
+  {
+   "title": "NVIDIA Readies RTX Spark Software for Friday Laptop Launch",
+   "outlet": "Technobezz",
+   "outlet_name": "Technobezz",
+   "url": "https://www.technobezz.com/news/nvidia-rtx-spark-software-friday-laptop-launch",
+   "label": "REPORTED",
+   "summary_1line": "NVIDIA launches RTX Spark updates with local AI, gaming, and creative tools ahead of October 16.",
+   "published_at": "2026-10-13T18:26:32Z"
   }
  ],
  "ticker": [
   {
-   "headline": "AI Self-Replication on IoT Devices Months Away, Anthropic Red Team Finds",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "label": "CONFIRMED",
-   "url": "https://www.techtimes.com/articles/328984/20261014/ai-self-replication-iot-devices-months-away-anthropic-red-team-finds.htm"
-  },
-  {
-   "headline": "Japan declares 'state of emergency in cyberspace' as AI unleashes mass ransomware waves",
-   "outlet": "UNILAD Tech",
-   "outlet_name": "UNILAD Tech",
-   "label": "CONFIRMED",
-   "url": "https://www.uniladtech.com/news/ai/ai-ransomware-waves-japan-state-of-emergency-cyberspace-931445-20261013"
-  },
-  {
-   "headline": "NVIDIA unveils Jetson Orin Nano 2 for edge AI robotics",
-   "outlet": "techgig",
-   "outlet_name": "techgig",
+   "headline": "DeepSeek Nears $14 Billion Funding Round, Double Its Original Target",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
    "label": "REPORTED",
-   "url": "https://techgig.com/news/ai/nvidia-unveils-jetson-orin-nano-2-for-edge-ai-robotics/134930001"
+   "url": "https://en.sedaily.com/international/2026/10/14/deepseek-nears-14-billion-funding-round-double-its-original"
   },
   {
-   "headline": "Google launches Gemini 4 Argon, targets complex coding, cybersecurity and scientific…",
-   "outlet": "The Hindu BusinessLine",
-   "outlet_name": "The Hindu BusinessLine",
+   "headline": "Anthropic Executive Says Open-Source AI Models Are Higher Risk",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://www.thehindubusinessline.com/info-tech/google-launches-gemini-4-argon-targets-complex-coding-cybersecurity-and-scientific-research/article71582177.ece"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk"
   },
   {
-   "headline": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the…",
-   "outlet": "nvidianews.nvidia.com",
-   "outlet_name": "nvidianews.nvidia.com",
-   "label": "CONFIRMED",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years"
+   "headline": "X introduces unified subscription combining Grok, Cursor and X Premium",
+   "outlet": "Social Samosa",
+   "outlet_name": "Social Samosa",
+   "label": "REPORTED",
+   "url": "https://www.socialsamosa.com/news-2/x-unified-subscription-combining-grok-cursor-x-premium-12674459"
   },
   {
-   "headline": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
-   "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/"
+   "headline": "KI: Wanze in OpenAI-Konferenzraum entdeckt – Mitarbeiter festgenommen",
+   "outlet": "WirtschaftsWoche",
+   "outlet_name": "WirtschaftsWoche",
+   "label": "STILL OPEN",
+   "url": "https://www.wiwo.de/technologie/digitale-welt/brisanter-fund-wanze-in-openai-konferenzraum-mitarbeiter-festgenommen/100262056.html"
+  },
+  {
+   "headline": "NVIDIA Readies RTX Spark Software for Friday Laptop Launch",
+   "outlet": "Technobezz",
+   "outlet_name": "Technobezz",
+   "label": "REPORTED",
+   "url": "https://www.technobezz.com/news/nvidia-rtx-spark-software-friday-laptop-launch"
   },
   {
    "headline": "Anthropic appeals Department of Defense supply chain risk designation, requests retrial…",
    "outlet": "aitimes.com",
    "outlet_name": "aitimes.com",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216255"
   },
   {
-   "headline": "Response speed 3 times faster than Claude Code, achieving truly infinite context! APUS AI…",
-   "outlet": "qbitai.com",
-   "outlet_name": "qbitai.com",
-   "label": "REPORTED",
-   "url": "https://www.qbitai.com/2026/10/503165.html"
+   "headline": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/"
   },
   {
    "headline": "Enabling an AI-first European economy",
@@ -107,11 +109,11 @@
    "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/"
   },
   {
-   "headline": "Google rolls out Gemini 4 Argon AI model after restricted release: Check capabilities and…",
-   "outlet": "Digit on MSN",
-   "outlet_name": "Digit on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/technology/software/google-rolls-out-gemini-4-argon-ai-model-after-restricted-release-check-capabilities-and-availability/ar-AA2ec7IJ"
+   "headline": "OpenAI pursues acquisition of specialized startup to strengthen cybersecurity",
+   "outlet": "aitimes.com",
+   "outlet_name": "aitimes.com",
+   "label": "CONFIRMED",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216256"
   },
   {
    "headline": "Privacy campaigners to ask court to ban sale of Meta AI glasses",
@@ -121,21 +123,28 @@
    "url": "https://www.dutchnews.nl/2026/10/privacy-campaigners-to-ask-court-to-ban-sale-of-meta-ai-glasses/"
   },
   {
-   "headline": "FBI arrests employee for alleged illegal wiretapping of OpenAI internal meeting room",
-   "outlet": "aitimes.com",
-   "outlet_name": "aitimes.com",
-   "label": "CONFIRMED",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216245"
+   "headline": "Google rolls out Gemini 4 Argon AI model after restricted release: Check capabilities and…",
+   "outlet": "Digit on MSN",
+   "outlet_name": "Digit on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/google-rolls-out-gemini-4-argon-ai-model-after-restricted-release-check-capabilities-and-availability/ar-AA2ec7IJ"
+  },
+  {
+   "headline": "'Probability of AI being able to build AI exceeds 50% in 2027' - Anthropic co-founder…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 17000,
  "articles_24h_label": "about 17,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/08.mp3",
- "audio_seconds": 54.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/09.mp3",
+ "audio_seconds": 45.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's red team found an artificial intelligence model running on 8 of 9 IoT devices, with full self-replication projected by year-end. Confirmed by Tech Times.\nConfirmed by UNILAD Tech: artificial intelligence-assisted cyber attacks have hit Japan's top brands and infrastructure, prompting the nation to declare a state of emergency in cyberspace.\nNVIDIA's Jetson Orin Nano 2 delivers double artificial intelligence performance and 40 percent better power efficiency for edge artificial intelligence devices. Reported by techgig.\nGoogle launches Gemini 4 Argon with a 95 percent input discount, targeting complex coding, cybersecurity and scientific research. Reported by The Hindu BusinessLine.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Seoul Economic Daily: DeepSeek Nears $14 Billion Funding Round, Double Its Original Target.\nReported by Bloomberg: Anthropic Executive Says Open-Source AI Models Are Higher Risk.\nReported by Social Samosa: X introduces unified subscription combining Grok, Cursor and X Premium.\nStill open, per WirtschaftsWoche: KI: Wanze in OpenAI-Konferenzraum entdeckt – Mitarbeiter festgenommen.\nReported by Technobezz: NVIDIA Readies RTX Spark Software for Friday Laptop Launch.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
