@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-14T05:20:03Z",
- "hour": "2026-10-14T05:00:00Z",
+ "generated_at": "2026-10-14T06:20:02Z",
+ "hour": "2026-10-14T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI Strategy Committee Vice Chairman Ha Jung-woo visits Semiconductor Exhibition... \"Will find ways to expand ecosystem\"",
-   "outlet": "디지털데일리",
-   "outlet_name": "디지털데일리",
-   "url": "https://www.ddaily.co.kr/page/view/2026101411342872461",
-   "label": "CONFIRMED",
-   "summary_1line": "Ha Jeong-u visits semiconductor firms to expand AI ecosystem policies.",
-   "published_at": "2026-10-14T03:53:31Z"
-  },
-  {
-   "title": "Anthropic warns small AI models may soon self-replicate on smart home devices without data centres",
-   "outlet": "The Financial Express",
-   "outlet_name": "The Financial Express",
-   "url": "https://www.financialexpress.com/life/technology-anthropic-warns-small-ai-models-may-soon-self-replicate-on-smart-home-devices-without-data-centres-4360761/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic finds small AI models can replicate on IoT devices, with 9B model running on 8/9 hardware types.",
-   "published_at": "2026-10-13T20:33:00Z"
-  },
-  {
-   "title": "OpenAI employee accused of bugging an executive conference room",
-   "outlet": "nbcnews.com",
-   "outlet_name": "NBC News",
-   "url": "https://www.nbcnews.com/video/openai-employee-accused-of-bugging-an-executive-conference-room-271539781828",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI employee arrested for allegedly bugging executive room in San Francisco.",
-   "published_at": "2026-10-14T03:02:16Z"
-  },
-  {
-   "title": "Market Take | Anthropic Investor Day: Can New Revenue Numbers Revive the AI Trade?",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "url": "https://www.moomoo.com/community/feed/anthropic-investor-day-can-new-revenue-numbers-revive-the-ai-117436847030278",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic reportedly to reveal Q3 financials on Oct 14, with key metrics on revenue, profitability and compute spending.",
-   "published_at": "2026-10-14T02:14:37Z"
-  },
-  {
-   "title": "US Export Controls Slash Nvidia's China AI Chip Market Share to 34%, Huawei Grabs 28% : Global : JKN",
-   "outlet": "재경일보",
-   "outlet_name": "재경일보",
-   "url": "https://news.jkn.co.kr/editions/english/post/1020528",
+   "title": "Nvidia tripped up by US regulations... China AI semiconductor market share plummets to 34%",
+   "outlet": "블루밍비트",
+   "outlet_name": "블루밍비트",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQNldRQjFWTm4ybnAwZWJRNFdycTR4NEFrZHFxMUFtby1zTnJyUXhvTVFTRE14Nkd0VTJpM0xoX2VuSW1QbV9tdmlJVklTYThq?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Nvidia's AI chip market share in China fell to 34% as Huawei's rose to 28%.",
-   "published_at": "2026-10-13T05:35:00Z"
+   "summary_1line": null,
+   "published_at": "2026-10-14T05:35:11Z"
+  },
+  {
+   "title": "FBI Arrests OpenAI Employee as Anthropic Warns of Self-Replicating AI Spreading to Smart Devices",
+   "outlet": "Brave New Coin",
+   "outlet_name": "Brave New Coin",
+   "url": "https://bravenewcoin.com/insights/fbi-arrests-openai-employee-as-anthropic-warns-of-self-replicating-ai-spreading-to-smart-devices",
+   "label": "REPORTED",
+   "summary_1line": "FBI arrests OpenAI employee over hidden device; Anthropic warns of self-replicating AI on smart devices.",
+   "published_at": "2026-10-14T04:19:06Z"
+  },
+  {
+   "title": "Saudi-born engineer for OpenAI arrested for planting listening bug",
+   "outlet": "aljazeera.com",
+   "outlet_name": "Al Jazeera",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI finds listening bug in office, linked to Saudi engineer.",
+   "published_at": "2026-10-14T04:16:13Z"
+  },
+  {
+   "title": "AI Mastered Parasitic Reproduction: Anthropic Successfully Runs Large Language Models on 15 Old Obsolete TV Set-Top Boxes",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "url": "https://eu.36kr.com/en/p/4025038181912450",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic runs a 26B AI on 15 TV boxes, showing slow but possible self-replication in IoT devices.",
+   "published_at": "2026-10-14T04:02:35Z"
+  },
+  {
+   "title": "Samsung Electronics showcases comprehensive AI semiconductor technologies including HBM4E at semiconductor exhibition",
+   "outlet": "연합뉴스",
+   "outlet_name": "연합뉴스",
+   "url": "https://www.yna.co.kr/amp/view/AKR20261014042300003",
+   "label": "CONFIRMED",
+   "summary_1line": "Samsung shows AI semiconductors at SEDEX 2026, plans 360 trillion won investment in Yongin.",
+   "published_at": "2026-10-14T01:00:02Z"
   }
  ],
  "ticker": [
   {
-   "headline": "AI Strategy Committee Vice Chairman Ha Jung-woo visits Semiconductor Exhibition... \"Will…",
-   "outlet": "디지털데일리",
-   "outlet_name": "디지털데일리",
-   "label": "CONFIRMED",
-   "url": "https://www.ddaily.co.kr/page/view/2026101411342872461"
-  },
-  {
-   "headline": "Anthropic warns small AI models may soon self-replicate on smart home devices without…",
-   "outlet": "The Financial Express",
-   "outlet_name": "The Financial Express",
-   "label": "CONFIRMED",
-   "url": "https://www.financialexpress.com/life/technology-anthropic-warns-small-ai-models-may-soon-self-replicate-on-smart-home-devices-without-data-centres-4360761/"
-  },
-  {
-   "headline": "OpenAI employee accused of bugging an executive conference room",
-   "outlet": "nbcnews.com",
-   "outlet_name": "NBC News",
-   "label": "CONFIRMED",
-   "url": "https://www.nbcnews.com/video/openai-employee-accused-of-bugging-an-executive-conference-room-271539781828"
-  },
-  {
-   "headline": "Market Take | Anthropic Investor Day: Can New Revenue Numbers Revive the AI Trade?",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "label": "STILL OPEN",
-   "url": "https://www.moomoo.com/community/feed/anthropic-investor-day-can-new-revenue-numbers-revive-the-ai-117436847030278"
-  },
-  {
-   "headline": "US Export Controls Slash Nvidia's China AI Chip Market Share to 34%, Huawei Grabs 28%…",
-   "outlet": "재경일보",
-   "outlet_name": "재경일보",
+   "headline": "Nvidia tripped up by US regulations... China AI semiconductor market share plummets to 34%",
+   "outlet": "블루밍비트",
+   "outlet_name": "블루밍비트",
    "label": "REPORTED",
-   "url": "https://news.jkn.co.kr/editions/english/post/1020528"
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQNldRQjFWTm4ybnAwZWJRNFdycTR4NEFrZHFxMUFtby1zTnJyUXhvTVFTRE14Nkd0VTJpM0xoX2VuSW1QbV9tdmlJVklTYThq?oc=5"
+  },
+  {
+   "headline": "FBI Arrests OpenAI Employee as Anthropic Warns of Self-Replicating AI Spreading to Smart…",
+   "outlet": "Brave New Coin",
+   "outlet_name": "Brave New Coin",
+   "label": "REPORTED",
+   "url": "https://bravenewcoin.com/insights/fbi-arrests-openai-employee-as-anthropic-warns-of-self-replicating-ai-spreading-to-smart-devices"
+  },
+  {
+   "headline": "Saudi-born engineer for OpenAI arrested for planting listening bug",
+   "outlet": "aljazeera.com",
+   "outlet_name": "Al Jazeera",
+   "label": "REPORTED",
+   "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/openai-employee-listening-device-spying-saudi-fozan?traffic_source=rss"
   },
   {
    "headline": "AI Mastered Parasitic Reproduction: Anthropic Successfully Runs Large Language Models on…",
@@ -102,11 +88,25 @@
    "url": "https://www.yna.co.kr/amp/view/AKR20261014042300003"
   },
   {
-   "headline": "Anthropic Appeals US Court Ruling on Pentagon AI Ban",
-   "outlet": "Aktualita.co",
-   "outlet_name": "Aktualita.co",
+   "headline": "Gemini 4 vs GPT-6 Astra: Same Score, Five-Times Price",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
    "label": "REPORTED",
-   "url": "https://aktualita.co/en/technology/anthropic-appeals-us-court-ruling-on-pentagon-ai-ban"
+   "url": "https://www.orcarouter.ai/blog/gemini-4-vs-gpt-6-astra"
+  },
+  {
+   "headline": "Google launches Gemini 4 Argon AI globally for complex business tasks",
+   "outlet": "Newsable Asianet News on MSN",
+   "outlet_name": "Newsable Asianet News on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/google-launches-gemini-4-argon-ai-globally-for-complex-business-tasks/ar-AA2ebleo"
+  },
+  {
+   "headline": "Grab announces new Thailand initiative with OpenAI",
+   "outlet": "news8000.com",
+   "outlet_name": "news8000.com",
+   "label": "REPORTED",
+   "url": "https://www.news8000.com/lifestyle/money/grab-announces-new-thailand-initiative-with-openai/article_c03274a7-6993-5e9e-8536-44748b5bb96c.html"
   },
   {
    "headline": "OpenAI employees secretly hid recorders to steal secrets, FBI swiftly arrests and…",
@@ -116,18 +116,18 @@
    "url": "https://infosecu.technews.tw/2026/10/14/saudi-national-arrested-for-installing-surreptitious-audio-recording-device-at-openai/"
   },
   {
-   "headline": "Google launches Gemini 4 Argon AI globally for complex business tasks",
-   "outlet": "Newsable Asianet News on MSN",
-   "outlet_name": "Newsable Asianet News on MSN",
+   "headline": "NVIDIA Commits $250 Million to Advance UK Agentic Safety and Security Research Over the…",
+   "outlet": "nvidianews.nvidia.com",
+   "outlet_name": "nvidianews.nvidia.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/google-launches-gemini-4-argon-ai-globally-for-complex-business-tasks/ar-AA2ebleo"
+   "url": "https://nvidianews.nvidia.com/news/nvidia-commits-250-million-to-advance-uk-agentic-safety-and-security-research-over-the-next-five-years"
   },
   {
-   "headline": "Google DeepMind and GovTech Unveil On-Device Scam Detection Model",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
+   "headline": "European Cities Deploy NVIDIA-Powered AI Agents to Run Smarter Urban Operations",
+   "outlet": "blogs.nvidia.com",
+   "outlet_name": "blogs.nvidia.com",
    "label": "REPORTED",
-   "url": "https://www.unite.ai/google-deepmind-and-govtech-unveil-on-device-scam-detection-model/"
+   "url": "https://blogs.nvidia.com/blog/european-cities-agents-urban-operations/"
   },
   {
    "headline": "Nvidia's Europe Push Collides With a Financing Squeeze in AI Infrastructure",
@@ -137,14 +137,14 @@
    "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/nvidia-s-europe-push-collides-with-a-financing-squeeze-in-ai/70319257"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13700,
- "articles_24h_label": "about 14,000",
+ "tidbit": "Did you know… about 17,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 17000,
+ "articles_24h_label": "about 17,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/05.mp3",
- "audio_seconds": 56.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/06.mp3",
+ "audio_seconds": 17.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nHa Jung-woo, vice chairman of the strategy committee, visits semiconductor firms to expand ecosystem policies. Confirmed by 디지털데일리.\nSmall models can replicate on IoT devices, with a 9B model running on 8 out of 9 hardware types. Confirmed by The Financial Express.\nAn OpenAI employee was arrested for allegedly bugging an executive conference room in San Francisco. Confirmed by NBC News.\nAnthropic is reportedly set to reveal Q3 financials on Oct 14, with key metrics on revenue, profitability and compute spending. Still open, per Moomoo.\nNvidia's artificial intelligence chip market share in China fell to 34 percent as Huawei's rose to 28 percent. Reported by 재경일보.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia faces headwinds from US regulations as China's AI semiconductor market share drops to 34 percent, reported by 블루밍비트.\nAn OpenAI employee was arrested by the FBI over a hidden device, while Anthropic warns of self-replicating artificial intelligence spreading to smart devices, reported by Brave New Coin.\nOpenAI discovered a listening bug in its office linked to a Saudi-born engineer, reported by Al Jazeera.\nAnthropic successfully runs a large language model on 15 old TV set-top boxes, demonstrating self-replication in IoT devices, reported by 36Kr.\nSamsung Electronics showcased comprehensive AI semiconductor technologies including HBM4E at a semiconductor exhibition and plans a 360 trillion won investment in Yongin, confirmed by 연합뉴스.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
