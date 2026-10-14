@@ -1,98 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-14T09:20:02Z",
- "hour": "2026-10-14T09:00:00Z",
+ "generated_at": "2026-10-14T10:20:02Z",
+ "hour": "2026-10-14T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek Nears $14 Billion Funding Round, Double Its Original Target",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
-   "url": "https://en.sedaily.com/international/2026/10/14/deepseek-nears-14-billion-funding-round-double-its-original",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek doubles funding to 100 billion yuan, boosts data center with 160,000 AI chips, eyes IPO by next year.",
-   "published_at": "2026-10-14T07:41:25Z"
+   "title": "Anthropic Warns Against Self-Replicating ‘AI Worms’ That Can Infect Smart Home, IoT Tech",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "url": "https://www.techtimes.com/articles/328973/20261014/anthropic-warns-against-self-replicating-ai-worms-that-can-infect-smart-home-iot-tech.htm",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic warns AI worms could spread across smart home devices by end of year.",
+   "published_at": "2026-10-14T07:00:06Z"
   },
   {
-   "title": "Anthropic Executive Says Open-Source AI Models Are Higher Risk",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk",
+   "title": "Anthropic asks full appeals court to revisit Pentagon national security ruling",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/anthropic-appeals-court-national-security-ruling/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic seeks full court review of Pentagon's national security designation.",
+   "published_at": "2026-10-14T01:42:55Z"
+  },
+  {
+   "title": "Meta AI glasses face Dutch court fight over privacy concerns",
+   "outlet": "Cybernews",
+   "outlet_name": "Cybernews",
+   "url": "https://cybernews.com/news/meta-glasses-lawsuit/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-14T08:48:30Z"
+   "published_at": "2026-10-14T08:26:15Z"
   },
   {
-   "title": "X introduces unified subscription combining Grok, Cursor and X Premium",
-   "outlet": "Social Samosa",
-   "outlet_name": "Social Samosa",
-   "url": "https://www.socialsamosa.com/news-2/x-unified-subscription-combining-grok-cursor-x-premium-12674459",
+   "title": "OutSysyems Embraces Claude -",
+   "outlet": "Insurance Edge",
+   "outlet_name": "Insurance Edge",
+   "url": "https://insurance-edge.net/2026/10/14/outsysyems-embraces-claude/",
    "label": "REPORTED",
-   "summary_1line": "X launches unified subscription for social media, Grok, and Cursor with shared usage pool.",
-   "published_at": "2026-10-13T23:38:00Z"
+   "summary_1line": "OutSystems launches Agent Experience for AI coding with enterprise governance and security.",
+   "published_at": "2026-10-14T07:46:02Z"
   },
   {
-   "title": "KI: Wanze in OpenAI-Konferenzraum entdeckt – Mitarbeiter festgenommen",
-   "outlet": "WirtschaftsWoche",
-   "outlet_name": "WirtschaftsWoche",
-   "url": "https://www.wiwo.de/technologie/digitale-welt/brisanter-fund-wanze-in-openai-konferenzraum-mitarbeiter-festgenommen/100262056.html",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI employee accused of placing spy device in conference room; faces up to 5 years in prison.",
-   "published_at": "2026-10-14T01:08:33Z"
-  },
-  {
-   "title": "NVIDIA Readies RTX Spark Software for Friday Laptop Launch",
-   "outlet": "Technobezz",
-   "outlet_name": "Technobezz",
-   "url": "https://www.technobezz.com/news/nvidia-rtx-spark-software-friday-laptop-launch",
+   "title": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research",
    "label": "REPORTED",
-   "summary_1line": "NVIDIA launches RTX Spark updates with local AI, gaming, and creative tools ahead of October 16.",
-   "published_at": "2026-10-13T18:26:32Z"
+   "summary_1line": null,
+   "published_at": "2026-10-14T10:10:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek Nears $14 Billion Funding Round, Double Its Original Target",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
-   "label": "REPORTED",
-   "url": "https://en.sedaily.com/international/2026/10/14/deepseek-nears-14-billion-funding-round-double-its-original"
-  },
-  {
-   "headline": "Anthropic Executive Says Open-Source AI Models Are Higher Risk",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-14/anthropic-executive-says-open-source-ai-models-are-higher-risk"
-  },
-  {
-   "headline": "X introduces unified subscription combining Grok, Cursor and X Premium",
-   "outlet": "Social Samosa",
-   "outlet_name": "Social Samosa",
-   "label": "REPORTED",
-   "url": "https://www.socialsamosa.com/news-2/x-unified-subscription-combining-grok-cursor-x-premium-12674459"
-  },
-  {
-   "headline": "KI: Wanze in OpenAI-Konferenzraum entdeckt – Mitarbeiter festgenommen",
-   "outlet": "WirtschaftsWoche",
-   "outlet_name": "WirtschaftsWoche",
-   "label": "STILL OPEN",
-   "url": "https://www.wiwo.de/technologie/digitale-welt/brisanter-fund-wanze-in-openai-konferenzraum-mitarbeiter-festgenommen/100262056.html"
-  },
-  {
-   "headline": "NVIDIA Readies RTX Spark Software for Friday Laptop Launch",
-   "outlet": "Technobezz",
-   "outlet_name": "Technobezz",
-   "label": "REPORTED",
-   "url": "https://www.technobezz.com/news/nvidia-rtx-spark-software-friday-laptop-launch"
-  },
-  {
-   "headline": "Anthropic appeals Department of Defense supply chain risk designation, requests retrial…",
-   "outlet": "aitimes.com",
-   "outlet_name": "aitimes.com",
+   "headline": "Anthropic Warns Against Self-Replicating ‘AI Worms’ That Can Infect Smart Home, IoT Tech",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
    "label": "CONFIRMED",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216255"
+   "url": "https://www.techtimes.com/articles/328973/20261014/anthropic-warns-against-self-replicating-ai-worms-that-can-infect-smart-home-iot-tech.htm"
+  },
+  {
+   "headline": "Anthropic asks full appeals court to revisit Pentagon national security ruling",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/anthropic-appeals-court-national-security-ruling/"
+  },
+  {
+   "headline": "Meta AI glasses face Dutch court fight over privacy concerns",
+   "outlet": "Cybernews",
+   "outlet_name": "Cybernews",
+   "label": "REPORTED",
+   "url": "https://cybernews.com/news/meta-glasses-lawsuit/"
+  },
+  {
+   "headline": "OutSysyems Embraces Claude -",
+   "outlet": "Insurance Edge",
+   "outlet_name": "Insurance Edge",
+   "label": "REPORTED",
+   "url": "https://insurance-edge.net/2026/10/14/outsysyems-embraces-claude/"
+  },
+  {
+   "headline": "Nvidia, worth $5.5tn, donates $250m to UK for AI safety research",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "label": "REPORTED",
+   "url": "https://www.theguardian.com/technology/2026/oct/14/nvidia-donates-to-uk-ai-safety-research"
+  },
+  {
+   "headline": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech…",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "REPORTED",
+   "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism"
+  },
+  {
+   "headline": "AI Symposium: Milan Sonka on regulation, education and the future of AI",
+   "outlet": "Corridor Business Journal",
+   "outlet_name": "Corridor Business Journal",
+   "label": "REPORTED",
+   "url": "https://corridorbusiness.com/ai-symposium-milan-sonka-on-regulation-education-and-the-future-of-ai/"
   },
   {
    "headline": "We’re powering European scientific discovery with advanced AI compute and frontier models.",
@@ -102,11 +109,11 @@
    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/were-powering-european-scientific-discovery-with-advanced-ai-compute-and-frontier-models/"
   },
   {
-   "headline": "Enabling an AI-first European economy",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Samsara launches AI agents for fleet management and compliance",
+   "outlet": "www.fleetpoint.org",
+   "outlet_name": "www.fleetpoint.org",
    "label": "CONFIRMED",
-   "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/european-economic-impact-report/"
+   "url": "https://www.fleetpoint.org/fleet-management-2/samsara-launches-ai-agents-for-fleet-management-and-compliance/"
   },
   {
    "headline": "OpenAI pursues acquisition of specialized startup to strengthen cybersecurity",
@@ -116,35 +123,28 @@
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216256"
   },
   {
-   "headline": "Privacy campaigners to ask court to ban sale of Meta AI glasses",
-   "outlet": "DutchNews.nl",
-   "outlet_name": "DutchNews.nl",
-   "label": "REPORTED",
-   "url": "https://www.dutchnews.nl/2026/10/privacy-campaigners-to-ask-court-to-ban-sale-of-meta-ai-glasses/"
-  },
-  {
-   "headline": "Google rolls out Gemini 4 Argon AI model after restricted release: Check capabilities and…",
-   "outlet": "Digit on MSN",
-   "outlet_name": "Digit on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/google-rolls-out-gemini-4-argon-ai-model-after-restricted-release-check-capabilities-and-availability/ar-AA2ec7IJ"
-  },
-  {
    "headline": "'Probability of AI being able to build AI exceeds 50% in 2027' - Anthropic co-founder…",
    "outlet": "itmedia.co.jp",
    "outlet_name": "itmedia.co.jp",
    "label": "REPORTED",
    "url": "https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/"
+  },
+  {
+   "headline": "😸 Google launched Gemini 4 Argon, tying GPT-6",
+   "outlet": "theneurondaily.com",
+   "outlet_name": "theneurondaily.com",
+   "label": "REPORTED",
+   "url": "https://www.theneurondaily.com/p/google-launched-gemini-4-argon-tying-gpt-6-b85b"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 17000,
  "articles_24h_label": "about 17,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/09.mp3",
- "audio_seconds": 45.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/10.mp3",
+ "audio_seconds": 46.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Seoul Economic Daily: DeepSeek Nears $14 Billion Funding Round, Double Its Original Target.\nReported by Bloomberg: Anthropic Executive Says Open-Source AI Models Are Higher Risk.\nReported by Social Samosa: X introduces unified subscription combining Grok, Cursor and X Premium.\nStill open, per WirtschaftsWoche: KI: Wanze in OpenAI-Konferenzraum entdeckt – Mitarbeiter festgenommen.\nReported by Technobezz: NVIDIA Readies RTX Spark Software for Friday Laptop Launch.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Tech Times: Anthropic Warns Against Self-Replicating ‘AI Worms’ That Can Infect Smart Home, IoT Tech.\nReported by Crypto Briefing: Anthropic asks full appeals court to revisit Pentagon national security ruling.\nReported by Cybernews: Meta AI glasses face Dutch court fight over privacy concerns.\nReported by Insurance Edge: OutSysyems Embraces Claude -.\nReported by The Guardian: Nvidia, worth $5.5tn, donates $250m to UK for AI safety research.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
