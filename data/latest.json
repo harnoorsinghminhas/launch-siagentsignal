@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-14T11:20:02Z",
- "hour": "2026-10-14T11:00:00Z",
+ "generated_at": "2026-10-14T12:20:02Z",
+ "hour": "2026-10-14T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight",
+   "title": "Anthropic urges court to rehear appeal of Pentagon blacklisting",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONVoyVWFBbEJhaUE5ZDc1QkdsNnNfN3ozaWlITU9laGs0UWZjeHdsVllWeV9QRDg2TmZnOU9kanFDVmdYZC03TDhzSFU5d2pUY3IxeE9pRjNVWUtOZG9nLWtMMWI2cWZpTVZ0OVc0dFMtaTc1TlUzS0M1c25fOThjeEhtYmxlU2VHMC1UNHJUUlJEOS10S2dnLTZIcHdZLXplVG81YmdMS3hXQQ?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-14T10:41:28Z"
+  },
+  {
+   "title": "OpenAI races to make its next flagship safe to ship as 'loop transformer' concerns grow",
+   "outlet": "Dealroom",
+   "outlet_name": "Dealroom",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0MtTkVGcTZjN3d0MTk0d0ozWG1VR2tESUk5N0lrei1CTTRSdWNYajlRVVpXWFAtZjBDY2VpZmZxTThzOHhyT09lQkJEWVJxRWxlVUhOQlc3RzJkNHlLdklwQTU1cVctWjR5MEttanVoX3lVQ3JWTkw5VUMxNExIRUNXWXFmSWc4VUkzc01UeXZkZjlBaE5lS1ZBUFl1M0d0OVFLODQ3ZXhZWTFXaHBSUUNfVHBFdTE2c01n?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-14T11:57:25Z"
+  },
+  {
+   "title": "OpenAI May Hold Back Next Generation Model for Checks, CFO Says",
    "outlet": "bloomberg.com",
    "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-14/openai-may-hold-back-next-generation-model-for-checks-video",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-14T10:30:00Z"
+   "published_at": "2026-10-14T11:55:13Z"
   },
   {
-   "title": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/",
+   "title": "Alibaba Unveils Qwen AI Smart Glasses, Shares Rise 2%",
+   "outlet": "EconoTimes",
+   "outlet_name": "EconoTimes",
+   "url": "https://www.econotimes.com/Alibaba-Unveils-Qwen-AI-Smart-Glasses-Shares-Rise-2-1754896",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-14T11:00:30Z"
+   "published_at": "2026-10-14T02:53:00Z"
   },
   {
-   "title": "AI Weekly: Anthropic's rogue police tip, Garfield plays Altman",
+   "title": "NEWSLETTER: Rockefeller Foundation teams with OpenAI to fix your potholes",
    "outlet": "Reuters",
    "outlet_name": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ydmpsSkFrZTd6TTZsSXNOb3VYTS01QVNqMHlVdGNDZG1CS250SGkyY0pVTExoSkhGSjFSMF9xOHFlSjV6MVI3QTdKTjlWajNRZ2pLcVhFdzZaMk1EUFdXam5FQXFqcjg?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmV0MFRHSWpSWUt3YmdwODFVa2sxSlpibUJ2eHg5ekZZNFBvcGtQNkRYNmRFNG1qUjhwY29OMVFYZnRZMUNRYU1kY0Z4MDlibVFXeTcwb2hsNVVjb2VxSVhKSmEwZG4zTHZiN0RKdVdtekI4emNyVHhRX1lFVDdUWFRlNW80UmZXeHEzMEpmeHJFOWVtNXRaaGlkeXFJalltdlZFLXNqQVFRMGN2WEVZMWw3QWZqdGZEeFplNWl3TmRFYjF4dHFZZmJnaWx0U1M3c1BpQkh3?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-14T10:32:43Z"
-  },
-  {
-   "title": "China-market iPhones Add Three AI Model Filings as Apple Intelligence Nears Mainland Launch",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmX00xZXhRYkQ2a3dZMGxEaTIxLTE2cGMxSU5xZkR3eW5qNVc5MVJlbV9PWVJaN282S09DWlpfWVNWTjVZa1NHdmx6NlJ2SS11ZjNqS2FXdUJsZDJ4NzZPZWlnVjlxWkRpdGs2ZGdtYTBPUGRzVUE?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-14T10:26:00Z"
-  },
-  {
-   "title": "Revenue Growth Agent Launches Model Context Protocol Connector, Bringing Company-Specific Sales Intelligence Into ChatGPT and Claude",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/news-releases/revenue-growth-agent-launches-model-context-protocol-connector-bringing-company-specific-sales-intelligence-into-chatgpt-and-claude-302907680.html",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-14T10:05:00Z"
+   "published_at": "2026-10-14T11:11:15Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Apple, OpenAI Head to Court in High-Stakes AI Trade Secret Fight",
+   "headline": "Anthropic urges court to rehear appeal of Pentagon blacklisting",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONVoyVWFBbEJhaUE5ZDc1QkdsNnNfN3ozaWlITU9laGs0UWZjeHdsVllWeV9QRDg2TmZnOU9kanFDVmdYZC03TDhzSFU5d2pUY3IxeE9pRjNVWUtOZG9nLWtMMWI2cWZpTVZ0OVc0dFMtaTc1TlUzS0M1c25fOThjeEhtYmxlU2VHMC1UNHJUUlJEOS10S2dnLTZIcHdZLXplVG81YmdMS3hXQQ?oc=5"
+  },
+  {
+   "headline": "OpenAI races to make its next flagship safe to ship as 'loop transformer' concerns grow",
+   "outlet": "Dealroom",
+   "outlet_name": "Dealroom",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNb0MtTkVGcTZjN3d0MTk0d0ozWG1VR2tESUk5N0lrei1CTTRSdWNYajlRVVpXWFAtZjBDY2VpZmZxTThzOHhyT09lQkJEWVJxRWxlVUhOQlc3RzJkNHlLdklwQTU1cVctWjR5MEttanVoX3lVQ3JWTkw5VUMxNExIRUNXWXFmSWc4VUkzc01UeXZkZjlBaE5lS1ZBUFl1M0d0OVFLODQ3ZXhZWTFXaHBSUUNfVHBFdTE2c01n?oc=5"
+  },
+  {
+   "headline": "OpenAI May Hold Back Next Generation Model for Checks, CFO Says",
    "outlet": "bloomberg.com",
    "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-openai-head-to-court-in-high-stakes-ai-trade-secret-fight"
+   "url": "https://www.bloomberg.com/news/videos/2026-10-14/openai-may-hold-back-next-generation-model-for-checks-video"
   },
   {
-   "headline": "OpenAI, Google pushing new AI models easily tricked into making nudes, researchers say",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
+   "headline": "Alibaba Unveils Qwen AI Smart Glasses, Shares Rise 2%",
+   "outlet": "EconoTimes",
+   "outlet_name": "EconoTimes",
    "label": "REPORTED",
-   "url": "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
+   "url": "https://www.econotimes.com/Alibaba-Unveils-Qwen-AI-Smart-Glasses-Shares-Rise-2-1754896"
   },
   {
-   "headline": "AI Weekly: Anthropic's rogue police tip, Garfield plays Altman",
+   "headline": "NEWSLETTER: Rockefeller Foundation teams with OpenAI to fix your potholes",
    "outlet": "Reuters",
    "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ydmpsSkFrZTd6TTZsSXNOb3VYTS01QVNqMHlVdGNDZG1CS250SGkyY0pVTExoSkhGSjFSMF9xOHFlSjV6MVI3QTdKTjlWajNRZ2pLcVhFdzZaMk1EUFdXam5FQXFqcjg?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbmV0MFRHSWpSWUt3YmdwODFVa2sxSlpibUJ2eHg5ekZZNFBvcGtQNkRYNmRFNG1qUjhwY29OMVFYZnRZMUNRYU1kY0Z4MDlibVFXeTcwb2hsNVVjb2VxSVhKSmEwZG4zTHZiN0RKdVdtekI4emNyVHhRX1lFVDdUWFRlNW80UmZXeHEzMEpmeHJFOWVtNXRaaGlkeXFJalltdlZFLXNqQVFRMGN2WEVZMWw3QWZqdGZEeFplNWl3TmRFYjF4dHFZZmJnaWx0U1M3c1BpQkh3?oc=5"
   },
   {
-   "headline": "China-market iPhones Add Three AI Model Filings as Apple Intelligence Nears Mainland…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "Google Deepmind's Hassabis calls AI hacks 'early warning shots'",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmX00xZXhRYkQ2a3dZMGxEaTIxLTE2cGMxSU5xZkR3eW5qNVc5MVJlbV9PWVJaN282S09DWlpfWVNWTjVZa1NHdmx6NlJ2SS11ZjNqS2FXdUJsZDJ4NzZPZWlnVjlxWkRpdGs2ZGdtYTBPUGRzVUE?oc=5"
-  },
-  {
-   "headline": "Revenue Growth Agent Launches Model Context Protocol Connector, Bringing Company-Specific…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "label": "REPORTED",
-   "url": "https://www.prnewswire.com/news-releases/revenue-growth-agent-launches-model-context-protocol-connector-bringing-company-specific-sales-intelligence-into-chatgpt-and-claude-302907680.html"
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRUpQLTQySlpPSFREYzVycnZUeHhKeWh5TFZTSmw0elFKaVB0THNKYU44eHdhQnJBOS1aNFk2MzlRblBlbzZEa0J4ZFk0VFkxaTdubmpWNVUwaFNwV3pkbHpHYU1XWFlaTGp1MU1vRlNMdkU0Tm9ZU3BweUktbDgxbktvWXl2UzZsVW93LVFPbkZyVDFudHQ2Z3FzQjM1bnZRa3RfbWQ1ME44RFBhVXJiM19aWQ?oc=5"
   },
   {
    "headline": "😸 Google launched Gemini 4 Argon, tying GPT-6",
@@ -109,18 +116,18 @@
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTkdSSUZhN0FCaFhhM3YyYXlsRTBxeEdWSG44ellKcUNic2Q5S1ptT2NvMG5Ddnl4TlhLVjFKbkEtdHRsRjZSY0RfeHRxZmdDXzhyY1NaOXRmOF81cXpCUlVOdWZVU1NKWU5xajBXRGxFc3hlYWhNbjRTTDFGQUc3dEVwTVhuU1JrcVZXaVc0WW9lVklZMUdkUWFQdW9tYTBkcThEQ3E3NGNiTDNnMVJUZ0lzeG15a1gtd1VYZi1yd3JkVkF0S3lfVw?oc=5"
   },
   {
-   "headline": "Open-source AI models carry more cybersecurity risks: Anthropic executive",
-   "outlet": "Business Standard",
-   "outlet_name": "Business Standard",
+   "headline": "Anthropic Signs Singapore Government MOU as New Office Opens",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNeWNVb2hucHEyS1pwM0xYV3JPSnV1VU5aVERNTllqZXZRc05tTHBNakNTZ0I4YWZ0eGNFdUZON2xVV3h2NVN0T0dSZkNmQi1iOUxTRnlYODNrZVhjTWlRX0V5SDZ1aUctanpFcUpHQm5JWHJSYjl1VzlmU3BjN2JtWEdoVGlOOHRJc0o2RVNmd3V1WEtGWWNTYnMwWS1QX3dpMU40bVBuTzllYzdCLW5ISVlxa0dEYmpYZ0JobE9HNlFheXVMdHFzdTJUT2FvYjlTUkF6U0N0MEpIODMtdlBlb29DZDZETFdORElHSjNYZUttaWvSAfgBQVVfeXFMTUpaZXM1WnVLUS1XN29SSngybXlrdmVRR0VaZUdxRWs2TlRMNTVoMEgyZy1sWU5nZTFHSzNQQlZMcEt4UmwzLTNlbUJlakg2eS1KekY4NXNaOHVqSUVNQUt3WUxQc183d21GelUwZkFhNTYzUy1oTFNRSHlHVU5qSUJtQWpINU1oazdLOHBnVHJCUHRRbU80SThia3ZwRl9Ndzk4T3Z1ajlsSUdkQ0hqY1ZHOTc1Y05XczAtMC1KcV9yX2RwVHB3N0VZcE1lTFJoRDRDSW9XWDB1NFZvXy0ydVpjWkxVeGRxbkUzdmQ5M3Y1clhnR244Tkc?oc=5"
+   "url": "https://www.unite.ai/anthropic-signs-singapore-government-mou-as-new-office-opens/"
   },
   {
-   "headline": "Digest: Apple Wins Early Access to OpenAI Evidence; Tencent Raises $5.7bn in Bond Sale",
-   "outlet": "ExchangeWire",
-   "outlet_name": "ExchangeWire",
+   "headline": "UK regulator reviews X’s compliance as Grok faces new restrictions over sexual content",
+   "outlet": "bdnews24.com",
+   "outlet_name": "bdnews24.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNanp0X2JkZjkwUFhRdUZlcU9jdkdsVW1NNkxuWDlDd19jbXpqdndmUThydHFuS3RpWXNuNmQ2UDFLS1M4SzdhNGlISHI2YXZFZC1zQXRMcS1wSEd6WHZnS0Z1ZGVscjQtdEVMT0RMcTF4ZHRKR2ZyZHVCX2tuOWpxWWtCa1F3bExZUW52VkxITHJ5YU1SeGp6TGR6S2w3amJqSld6emdMTkJCa0thSm1TUlo3bTVQaXFfVDFMeUY2VjQzVGNGeHVnZw?oc=5"
+   "url": "https://bdnews24.com/technology/ppjk1xbgh6"
   },
   {
    "headline": "Digital Hollywood University to introduce 'Claude' university-wide──First in Japan to…",
@@ -128,23 +135,16 @@
    "outlet_name": "itmedia.co.jp",
    "label": "REPORTED",
    "url": "https://www.itmedia.co.jp/news/article/2610/14/2000002278/"
-  },
-  {
-   "headline": "Nvidia Unveils Vera CPU Rack Specification for Agentic AI",
-   "outlet": "www.thelec.net",
-   "outlet_name": "www.thelec.net",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkaTdZYVRPaGptQnRSSlA5YW1kc3dSdlJCSW10LWtxM0o0S2xET1FlMkdJOXlCUGI0Y1RTc3UwZzI2R3BtcWtqRkhwZm9hTjlLRC1BYnhiVXBQNTNpV25ETEtnN3pvMnM?oc=5"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 17,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 17100,
  "articles_24h_label": "about 17,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/11.mp3",
- "audio_seconds": 57.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/12.mp3",
+ "audio_seconds": 71.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nApple and OpenAI are heading to court in a high-stakes dispute over trade secrets, reported by Bloomberg.\nOpenAI and Google are pushing new artificial intelligence models that researchers say can be easily tricked into making nudes, reported by Ars Technica.\nAnthropic had a rogue police tip, and there's a story about Garfield playing Altman, reported by Reuters.\nChina-market iPhones are adding three artificial intelligence model filings as Apple Intelligence nears a mainland launch, reported by BigGo Finance.\nA Revenue Growth Agent has launched a Model Context Protocol Connector that brings company-specific sales intelligence into ChatGPT and Claude, reported by PR Newswire.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic is asking a court to reconsider its appeal of a Pentagon blacklisting decision. Reported by CNBC: the company is pushing back against the ban.\nOpenAI is working to ensure its next flagship model is ready to release as concerns grow about loop transformer technology. Reported by Dealroom: the company is racing to make safety checks.\nOpenAI's chief financial officer says the company may delay releasing its next generation model to allow for additional checks. Reported by Bloomberg: safety reviews could affect the timeline.\nAlibaba has unveiled Qwen artificial intelligence smart glasses and shares rose 2 percent following the announcement. Reported by EconoTimes: the company is expanding into wearable artificial intelligence devices.\nThe Rockefeller Foundation is partnering with OpenAI to address infrastructure problems like potholes in communities. Reported by Reuters: the collaboration aims to improve urban conditions.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
