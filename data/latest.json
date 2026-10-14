@@ -1,126 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-14T00:20:02Z",
- "hour": "2026-10-14T00:00:00Z",
+ "generated_at": "2026-10-14T01:20:03Z",
+ "hour": "2026-10-14T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Uses AI to Uncover Hidden Recording Device, FBI Makes Arrest",
-   "outlet": "EconoTimes",
-   "outlet_name": "EconoTimes",
-   "url": "https://www.econotimes.com/OpenAI-Uses-AI-to-Uncover-Hidden-Recording-Device-FBI-Makes-Arrest-1754842",
+   "title": "More than 400 researchers call for stronger AI testing safeguards.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010565/more-than-400-researchers-call-for-stronger-ai-testing-safeguards",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI used AI to investigate a hidden device, leading to an employee's firing and FBI arrest.",
-   "published_at": "2026-10-13T14:30:00Z"
+   "summary_1line": "400+ researchers call for AI containment safeguards and global oversight.",
+   "published_at": "2026-10-13T19:31:52Z"
   },
   {
-   "title": "Anthropic Asks Appeals Court to Rehear Fight Over Security Risk",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-13/anthropic-asks-appeals-court-to-rehear-fight-over-security-risk",
+   "title": "Nvidia Announces Investment in French Medical Website Doctolib, Plans to Use AI to Improve Services",
+   "outlet": "自由財經",
+   "outlet_name": "自由財經",
+   "url": "https://ec.ltn.com.tw/article/breakingnews/5605352",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-13T22:24:46Z"
+   "summary_1line": "NVIDIA to acquire minority stake in Doctolib to boost AI-driven healthcare services.",
+   "published_at": "2026-10-13T21:00:05Z"
   },
   {
-   "title": "Anthropic Rolls Out Defenses to Block AI Model Distillation",
-   "outlet": "BankInfoSecurity",
-   "outlet_name": "BankInfoSecurity",
-   "url": "https://www.bankinfosecurity.com/anthropic-rolls-out-defenses-to-block-ai-model-distillation-a-33093",
+   "title": "Spionagefall bei OpenAI: FBI nimmt Mitarbeiter fest",
+   "outlet": "FAZ",
+   "outlet_name": "FAZ",
+   "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/spionagefall-bei-openai-fbi-nimmt-mitarbeiter-fest-201315487.html",
    "label": "REPORTED",
-   "summary_1line": "Anthropic blocks AI distillation, cutting extracted tokens by 10 to 100 times.",
-   "published_at": "2026-10-13T21:19:16Z"
+   "summary_1line": "A former OpenAI employee was arrested for installing a spy device in San Francisco offices, detected by OpenAI's AI.",
+   "published_at": "2026-10-13T23:38:00Z"
   },
   {
-   "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
-   "label": "CONFIRMED",
-   "summary_1line": "Feldman predicts home AI assistants will know users and handle purchases by 2026.",
-   "published_at": "2026-10-13T23:05:34Z"
+   "title": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
+   "outlet": "Gizmodo",
+   "outlet_name": "Gizmodo",
+   "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460",
+   "label": "STILL OPEN",
+   "summary_1line": "Regulators warn of AI-driven banking risks, with attacks linked to Chinese AI agents using Anthropic's Claude Code.",
+   "published_at": "2026-10-13T23:29:31Z"
   },
   {
-   "title": "AI could soon spread through cheap smart devices, Anthropic warns",
-   "outlet": "Scripps News",
-   "outlet_name": "Scripps News",
-   "url": "https://www.scrippsnews.com/science-and-tech/artificial-intelligence/ai-could-soon-spread-through-cheap-smart-devices-anthropic-warns",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic warns small AI models could replicate on IoT devices by 2026, with one model successfully spreading across eight devices.",
-   "published_at": "2026-10-13T05:13:00Z"
+   "title": "'I am not an AI-friendly actor': Nicolas Cage says he refused to sign Amazon AI waiver",
+   "outlet": "nbcnews.com",
+   "outlet_name": "NBC News",
+   "url": "https://www.nbcnews.com/video/nicolas-cage-declares-he-is-not-an-ai-friendly-actor-at-new-york-comic-con-271528005843",
+   "label": "REPORTED",
+   "summary_1line": "Nicolas Cage refuses Amazon AI waiver, fueling Hollywood AI debate.",
+   "published_at": "2026-10-13T23:26:10Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Uses AI to Uncover Hidden Recording Device, FBI Makes Arrest",
-   "outlet": "EconoTimes",
-   "outlet_name": "EconoTimes",
+   "headline": "More than 400 researchers call for stronger AI testing safeguards.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.econotimes.com/OpenAI-Uses-AI-to-Uncover-Hidden-Recording-Device-FBI-Makes-Arrest-1754842"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1010565/more-than-400-researchers-call-for-stronger-ai-testing-safeguards"
   },
   {
-   "headline": "Anthropic Asks Appeals Court to Rehear Fight Over Security Risk",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "Nvidia Announces Investment in French Medical Website Doctolib, Plans to Use AI to…",
+   "outlet": "自由財經",
+   "outlet_name": "自由財經",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-13/anthropic-asks-appeals-court-to-rehear-fight-over-security-risk"
+   "url": "https://ec.ltn.com.tw/article/breakingnews/5605352"
   },
   {
-   "headline": "Anthropic Rolls Out Defenses to Block AI Model Distillation",
-   "outlet": "BankInfoSecurity",
-   "outlet_name": "BankInfoSecurity",
+   "headline": "Spionagefall bei OpenAI: FBI nimmt Mitarbeiter fest",
+   "outlet": "FAZ",
+   "outlet_name": "FAZ",
    "label": "REPORTED",
-   "url": "https://www.bankinfosecurity.com/anthropic-rolls-out-defenses-to-block-ai-model-distillation-a-33093"
+   "url": "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/spionagefall-bei-openai-fbi-nimmt-mitarbeiter-fest-201315487.html"
   },
   {
-   "headline": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at…",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+   "headline": "Shifting AI Doomsday Predictions Reportedly Worry Banking Regulators",
+   "outlet": "Gizmodo",
+   "outlet_name": "Gizmodo",
+   "label": "STILL OPEN",
+   "url": "https://gizmodo.com/shifting-ai-doomsday-predictions-reportedly-worry-banking-regulators-2000825460"
   },
   {
-   "headline": "AI could soon spread through cheap smart devices, Anthropic warns",
-   "outlet": "Scripps News",
-   "outlet_name": "Scripps News",
-   "label": "CONFIRMED",
-   "url": "https://www.scrippsnews.com/science-and-tech/artificial-intelligence/ai-could-soon-spread-through-cheap-smart-devices-anthropic-warns"
-  },
-  {
-   "headline": "xAI launches bundled SaaS subscription",
-   "outlet": "SaasRise",
-   "outlet_name": "SaasRise",
+   "headline": "'I am not an AI-friendly actor': Nicolas Cage says he refused to sign Amazon AI waiver",
+   "outlet": "nbcnews.com",
+   "outlet_name": "NBC News",
    "label": "REPORTED",
-   "url": "https://www.saasrise.com/news/xai-unveils-8200-bundled-subscription-for-grok-cursor-x-premium-773dac92-9055-4234-ba66-1feb308b32d5"
+   "url": "https://www.nbcnews.com/video/nicolas-cage-declares-he-is-not-an-ai-friendly-actor-at-new-york-comic-con-271528005843"
   },
   {
-   "headline": "SpaceX just combined Grok, Cursor, and X into one mega plan",
-   "outlet": "TESLARATI",
-   "outlet_name": "TESLARATI",
-   "label": "CONFIRMED",
-   "url": "https://www.teslarati.com/spacex-just-combined-grok-cursor-and-x-into-one-mega-plan/"
-  },
-  {
-   "headline": "Lawmakers ask FAA to pause use of new AI tool in DC-area flight management",
-   "outlet": "Livemint",
-   "outlet_name": "Livemint",
-   "label": "CONFIRMED",
-   "url": "https://www.livemint.com/technology/lawmakers-ask-faa-to-pause-use-of-new-ai-tool-in-dc-area-flight-management-11791920909814.html"
-  },
-  {
-   "headline": "Character.AI owes Google and Big Law firms nearly $7M, court filings show",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
+   "headline": "AI 'worms' could infest your home devices within months, Anthropic warns",
+   "outlet": "Modern Ghana",
+   "outlet_name": "Modern Ghana",
    "label": "REPORTED",
-   "url": "https://www.businessinsider.com/character-ai-owes-google-law-firms-million-court-filings-show-2026-10"
+   "url": "https://www.modernghana.com/amp/videonews/734504"
   },
   {
-   "headline": "Enlighten Designs achieves Select partner tier in the Claude Partner Network, helping…",
-   "outlet": "The National Law Review",
-   "outlet_name": "The National Law Review",
+   "headline": "Employee fired for using AI-assisted office work: Court rules it was reasonable use and…",
+   "outlet": "华商网",
+   "outlet_name": "华商网",
    "label": "REPORTED",
-   "url": "https://natlawreview.com/press-releases/enlighten-designs-achieves-select-partner-tier-claude-partner-network"
+   "url": "https://news.hsw.cn/system/2026/1014/1966564.shtml"
+  },
+  {
+   "headline": "Anthropic Appeals Pentagon AI Blacklist in Federal Court",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbTlORFVRb2U4YkNOVm9sT1FiV2Vic2NoZ21Xd1lHN0hjb3NIWC04YmhGa3BYNHdqX3dFcGR6OHZiLThIZlVoc1Q5dzE1NTQtcXh4NUtad2t4MXBPXzFHOFhIaXNRcXlvZ1NSdnl4ZEMyOTcxRVllbnhtbzR4WEFvZWppamoza0FkeGw2N1oxQ1pmbTQ?oc=5"
+  },
+  {
+   "headline": "Grok Bot's Expanding Capabilities: 4 Details That Matter",
+   "outlet": "BASENOR - Tesla Accessories",
+   "outlet_name": "BASENOR - Tesla Accessories",
+   "label": "REPORTED",
+   "url": "https://www.basenor.com/blogs/news/grok-bots-expanding-capabilities-4-details-that-matter"
+  },
+  {
+   "headline": "Anthropic seeks rehearing of case over Pentagon's security risk branding",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQlUyMjJEVkZpNDJXTXQtc09tN1BTTFl5T2JoUjBpa29Ud0dCQUk5am9ndUxQbElNdjBSTHJMNExaaDRCa2hkdThOOE9aTGVpNmt3WEJmbU93dEIwSmlSMlNXRVBvME1rcDNKZ3lGYWpJY1VOVFVYeEItdXNDeFlMQzIyTGIzUG9ITmFtVUNBcnZhVVdMX0pfVS1wVEZfU3lqZ0ZrNHJZQ1RESVRfSHN6QjYyNkh2dVJ5elhwRkp3?oc=5"
   },
   {
    "headline": "OpenAI engineer arrested for allegedly planting spy device in office",
@@ -130,21 +130,21 @@
    "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/"
   },
   {
-   "headline": "Show HN: Open-source Mac menu bar app for Claude, Codex and Cursor",
-   "outlet": "agentmuster.app",
-   "outlet_name": "agentmuster.app",
+   "headline": "llm-gemini 0.35",
+   "outlet": "simonwillison.net",
+   "outlet_name": "simonwillison.net",
    "label": "REPORTED",
-   "url": "https://agentmuster.app/"
+   "url": "https://simonwillison.net/2026/Oct/13/llm-gemini/"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 13600,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/00.mp3",
- "audio_seconds": 55.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/01.mp3",
+ "audio_seconds": 62.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI used artificial intelligence to investigate a hidden device, leading to an employee's firing and FBI arrest, Confirmed by EconoTimes.\nReported by Bloomberg: Anthropic asked an appeals court to rehear a fight over security risk.\nAnthropic rolled out defenses to block artificial intelligence model distillation, cutting extracted tokens by 10 to 100 times, Reported by BankInfoSecurity.\nConfirmed by TechCrunch: A CEO predicts home artificial intelligence assistants will know users and handle purchases by 2026.\nAnthropic warns small artificial intelligence models could replicate on Internet of Things devices by 2026, with one model successfully spreading across eight devices, Confirmed by Scripps News.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMore than 400 researchers call for stronger testing safeguards and global oversight of artificial intelligence systems, as confirmed by The Verge.\nNvidia announces plans to acquire a minority stake in Doctolib to boost artificial intelligence driven healthcare services, reported by 自由財經.\nA former OpenAI employee was arrested for installing a spy device in San Francisco offices, which was detected by OpenAI's artificial intelligence, reported by FAZ.\nBanking regulators warn of artificial intelligence driven risks, with attacks linked to Chinese artificial intelligence agents using Anthropic's Claude Code, still open per Gizmodo.\nNicolas Cage refused to sign an Amazon artificial intelligence waiver, fueling Hollywood artificial intelligence debate, reported by NBC News.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
