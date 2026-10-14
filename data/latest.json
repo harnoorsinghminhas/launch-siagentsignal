@@ -1,98 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-14T21:20:02Z",
- "hour": "2026-10-14T21:00:00Z",
+ "generated_at": "2026-10-14T22:20:02Z",
+ "hour": "2026-10-14T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI accuses employee who left for Apple of leaking plans for unreleased device",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit",
+   "title": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-14T20:31:15Z"
+   "published_at": "2026-10-14T20:16:22Z"
   },
   {
-   "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
+   "title": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlo1R0x0MHpBNU1ydVY2aXNEYnRNX2NlWjhkWjJCWEdmVVdkMWprcThLQTFOc25iSldNWlVrRDVINGZvcWpVMHJMX2F5Rlg2bUhLMG9YeEQwTUE3RlJYYW82d0txQkVFNFJTdVVtaGQ2ZmRyUEFXMTlOVVBaSzdUcVZwSFFXQ0hFT3pzT1puQldTU3JYdEdaZGgtbGk?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-14T21:11:28Z"
+  },
+  {
+   "title": "OpenAI lawsuit alleges company 'stole' children's data",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
+   "url": "https://mashable.com/tech/openai-lawsuit-childrens-data",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-14T21:48:54Z"
+  },
+  {
+   "title": "AG announces lawsuit against OpenAI for deceiving Nebraskans about the safety of ChatGPT",
+   "outlet": "Central Nebraska Today",
+   "outlet_name": "Central Nebraska Today",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1lzYjZPWVF2Wm01a1ZJeHl4MEM3VUhoZnJYeTJvdTBfcm0tWHlvRDE1bnBFazdOT3I2TE56NHhIRTVEM0xMX1BlN3F2TkdoOHQzcE5xQlNFbFZuMFpWNGc4R1RwM2RjWWtLcE1UYW5mWTI2M2ctRmQ3UEVVRHR1clFCblpPX3E3bGl3VmpQU2RUYno5Rkg1MUY0Uk01QXRCWVB4NjQyY2trdkN6ME1wMl9kWEtyZmhIS01DaFM3dl9rOU9HWnJKVDFwVFlMcGlpY1VN?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-14T20:42:47Z"
+  },
+  {
+   "title": "OpenAI’s London staff receive average of £2.3m per person annually",
    "outlet": "The Guardian",
    "outlet_name": "The Guardian",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFRZb3RDSE9DZDBnMmVaMm1ldEV2TUZaM3ZiVHhUWkFVbG1CS3EwU3ZzUTRvT2l2elVHR2NLc2thQXJpRElxcEhJcDBPN1pwVmhvQllETVl0QVpucUFTMXJiQldCQXlLUlJMZmFQSS1wZWRhY2VpcDFOWWtwZWZuWjA4bmNVMVhw?oc=5",
+   "url": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-14T20:28:00Z"
-  },
-  {
-   "title": "Kansas AG Kris Kobach announces lawsuit against OpenAI",
-   "outlet": "KCTV",
-   "outlet_name": "KCTV",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1BCLUcxazVxblpvNldGWHZMa1lxRElKb29kNjZoSW44QXpfSGtsQlJEUVpTb1ZZLXBNZnpmLUMySUQzV09sc1RSYVZUZUZrUWRmNy1IMG1Mci1UUkFpQWFObWJSRWxQNXlpSlpGVnFkMktUWnU3RHBQR3lONTI5dm1IVVJnejd0RjZHYmxRbzdkZw?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-14T20:49:00Z"
-  },
-  {
-   "title": "West Virginia sues OpenAI over alleged ChatGPT safety concerns",
-   "outlet": "WCHS",
-   "outlet_name": "WCHS",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTEw1SUhKMElwQ0F5MHhZdHk4Z3pIVWZPRVpEaU9ZRWZFOElWODRvOXNYT1NDUmF5UERDQlBDeHZReEFWcnluaGRfSUpST184ZEMzV0E0bDFUWFE4UVdHNEYzeGUyRllMWUY0OVhMbFowM1REeTB2UWo4VDBURWt4N250WFhyLVJpTzh6dy16RnZiWW1yNlZn?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-14T20:33:22Z"
-  },
-  {
-   "title": "Iowa sues OpenAI under the state's consumer fraud act",
-   "outlet": "KGAN",
-   "outlet_name": "KGAN",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0t1c25udFlPRlB0Qy1GcjFuanFmanJMNU9LVG01eXFGWlNkamk2c3F3WTdPOGxYbU5vRHhfQ3JDWmZ5VGNaUEFhYWc5RTBVWGNRRnY2TnBVbjh1eEM4cjRHS1owUGNTSGZQVl9OZFJ3TVRtNVJ5NFYxM2Rha3h2RHJuaTJaNV9fRm9VN3JXTmhheWRNeUg0?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-14T20:19:33Z"
+   "published_at": "2026-10-14T19:15:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI accuses employee who left for Apple of leaking plans for unreleased device",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "REPORTED",
-   "url": "https://www.theguardian.com/technology/2026/oct/14/openai-apple-employee-leak-lawsuit"
+   "url": "https://www.cnbc.com/2026/10/14/openai-alfozan-recording-raed-ventures.html"
   },
   {
-   "headline": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
+   "headline": "Eight states sue OpenAI, saying ChatGPT isn’t safe for kids",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNlo1R0x0MHpBNU1ydVY2aXNEYnRNX2NlWjhkWjJCWEdmVVdkMWprcThLQTFOc25iSldNWlVrRDVINGZvcWpVMHJMX2F5Rlg2bUhLMG9YeEQwTUE3RlJYYW82d0txQkVFNFJTdVVtaGQ2ZmRyUEFXMTlOVVBaSzdUcVZwSFFXQ0hFT3pzT1puQldTU3JYdEdaZGgtbGk?oc=5"
+  },
+  {
+   "headline": "OpenAI lawsuit alleges company 'stole' children's data",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
+   "label": "REPORTED",
+   "url": "https://mashable.com/tech/openai-lawsuit-childrens-data"
+  },
+  {
+   "headline": "AG announces lawsuit against OpenAI for deceiving Nebraskans about the safety of ChatGPT",
+   "outlet": "Central Nebraska Today",
+   "outlet_name": "Central Nebraska Today",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1lzYjZPWVF2Wm01a1ZJeHl4MEM3VUhoZnJYeTJvdTBfcm0tWHlvRDE1bnBFazdOT3I2TE56NHhIRTVEM0xMX1BlN3F2TkdoOHQzcE5xQlNFbFZuMFpWNGc4R1RwM2RjWWtLcE1UYW5mWTI2M2ctRmQ3UEVVRHR1clFCblpPX3E3bGl3VmpQU2RUYno5Rkg1MUY0Uk01QXRCWVB4NjQyY2trdkN6ME1wMl9kWEtyZmhIS01DaFM3dl9rOU9HWnJKVDFwVFlMcGlpY1VN?oc=5"
+  },
+  {
+   "headline": "OpenAI’s London staff receive average of £2.3m per person annually",
    "outlet": "The Guardian",
    "outlet_name": "The Guardian",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFRZb3RDSE9DZDBnMmVaMm1ldEV2TUZaM3ZiVHhUWkFVbG1CS3EwU3ZzUTRvT2l2elVHR2NLc2thQXJpRElxcEhJcDBPN1pwVmhvQllETVl0QVpucUFTMXJiQldCQXlLUlJMZmFQSS1wZWRhY2VpcDFOWWtwZWZuWjA4bmNVMVhw?oc=5"
+   "url": "https://www.theguardian.com/technology/2026/oct/14/openai-london-staff-earnings-2million-per-person"
   },
   {
-   "headline": "Kansas AG Kris Kobach announces lawsuit against OpenAI",
-   "outlet": "KCTV",
-   "outlet_name": "KCTV",
+   "headline": "Bipartisan coalition of states sues OpenAI over user safety",
+   "outlet": "Politico",
+   "outlet_name": "Politico",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS1BCLUcxazVxblpvNldGWHZMa1lxRElKb29kNjZoSW44QXpfSGtsQlJEUVpTb1ZZLXBNZnpmLUMySUQzV09sc1RSYVZUZUZrUWRmNy1IMG1Mci1UUkFpQWFObWJSRWxQNXlpSlpGVnFkMktUWnU3RHBQR3lONTI5dm1IVVJnejd0RjZHYmxRbzdkZw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMHhfTkZFRW9fdDlJY0NRZmR0enVlbTBFZms2MGNXMGtmekthMHI0Y3JWTHR6MURZU0JXWk5ZbkRRdElMcW1LOEFELWVIcTNsU0tQaVhHdmtuMDFZbXNMYjA0cTRfbzVvY1B5VldvY1gzUmFWRzNVd01TTU03Wk9QTnV4dw?oc=5"
   },
   {
-   "headline": "West Virginia sues OpenAI over alleged ChatGPT safety concerns",
-   "outlet": "WCHS",
-   "outlet_name": "WCHS",
+   "headline": "OpenAI sued by 8 states alleging ChatGPT coached children to harm themselves, others",
+   "outlet": "New York Post",
+   "outlet_name": "New York Post",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTEw1SUhKMElwQ0F5MHhZdHk4Z3pIVWZPRVpEaU9ZRWZFOElWODRvOXNYT1NDUmF5UERDQlBDeHZReEFWcnluaGRfSUpST184ZEMzV0E0bDFUWFE4UVdHNEYzeGUyRllMWUY0OVhMbFowM1REeTB2UWo4VDBURWt4N250WFhyLVJpTzh6dy16RnZiWW1yNlZn?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOanJEeW5HLWM2SFZEZjJVNkJ5S3NJSExiQ3VoRl9kNmZ1aHhvS084NXNseFJGOUxlLUlra2lpSHpqcG5nZkY5ZVFWNkw4d2plUVJkSi1CTFJWOG1DNGlRNkVWYXNDUk9hS3Zid3ZyUWVRR2ppLU5WbkQzU0xtLTlYM1psb1hWOFA2MDlpUGUwakRKV3BTUTJXa0laTlFYODdJRmlZUHJ6NWhvODl0bkNoWU84Z3BkRW54ajRHLWtkVHU?oc=5"
   },
   {
-   "headline": "Iowa sues OpenAI under the state's consumer fraud act",
-   "outlet": "KGAN",
-   "outlet_name": "KGAN",
+   "headline": "Canadian news publishers sue Anthropic over AI copyright infringement",
+   "outlet": "Broadcast Dialogue",
+   "outlet_name": "Broadcast Dialogue",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM0t1c25udFlPRlB0Qy1GcjFuanFmanJMNU9LVG01eXFGWlNkamk2c3F3WTdPOGxYbU5vRHhfQ3JDWmZ5VGNaUEFhYWc5RTBVWGNRRnY2TnBVbjh1eEM4cjRHS1owUGNTSGZQVl9OZFJ3TVRtNVJ5NFYxM2Rha3h2RHJuaTJaNV9fRm9VN3JXTmhheWRNeUg0?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2ZyMXN4TTQ0VGlpNmYwQjhOT1ZKN3FTeG5Rbk1vbHp3ZHdWRW05WFExSl9DUmpiM0t6LWZkVDlWQ09oYzhoN1R4cDdHTUxVSDdEa0lvUzh5TktwVEstckc3WThoYnA3UnZuc3dVSXF5ZHFHblBOcnNySFUzeHBKX0d5YUdmMkh1Rk5XMkhBTENGNHdwNy1HbTdHa3RERk0xM0E?oc=5"
   },
   {
-   "headline": "States Bring Lawsuits Against OpenAI Over Kids’ Online Safety",
-   "outlet": "Bloomberg Law News",
-   "outlet_name": "Bloomberg Law News",
+   "headline": "Watch Nvidia, Anthropic Weigh In On AI Safeguards",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://news.bloomberglaw.com/us-law-week/half-dozen-states-hit-openai-with-kids-online-safety-lawsuits"
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRVNzd3hGeU1sekJPVTBNeEpCdm9HSzZjb015RU9Yd3BHU3dTcHRXdFY2dVN6bGlzYjdSaTd1SHhjR0xaQmJHMUpRSmsydE4xUHNORFVOUXprckp1dk95ME9tUmplWVR5MjdGeHliSlVSX0lUNTJsQlRGTHVzT1I5ZEJ6UzFZckw5ZkZ2cXZMVGY1ODJfb3lCck9HczVmZw?oc=5"
+  },
+  {
+   "headline": "Mistral Releases Le Chonk, a 1 Trillion Parameter Open Weight Model",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMnhZbGk0NWEtZTdPNXd0NXpaV2tnam1oSXBfNkFlVEZOU3ZmcjBrcFZqLWMxRFZYQkR0TVo5WUxDNE82YXVKdlRTZ3ByWk5EY0lTWXlPbE96azVpeWdWMDJnNlBmczM2cEoyRlpnaHJRd1FEMHJvTTFHal9qQ01EY3V1UkpvYUVmTF9vWk8tNy14cVNKM3Njblhn?oc=5"
   },
   {
    "headline": "Anthropic to add US voting information to Claude before midterms",
@@ -102,49 +130,21 @@
    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVDFNaU9UVC05ZVJoREFVemFrck5lenlVUnZoOWlOeWRJYlFmMTVPTm1vLUhWUXd3eENSUFczUnR3b01ReW04NU0xaVpmZ2dZcVVOZDhIZDduYk40RWJFSENHdjZ6SDZoRXRwQ0NXcVhwb1lQeHpkOWYySDdhSWwtdlplRlRnc2ZjVWFWeUZqSnFYRGZidlFyM1dZSENhWEhiOW9pVnVn?oc=5"
   },
   {
-   "headline": "OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "Honeywell Launches Forge Cognition AI Platform With Nvidia, Dell Technologies",
+   "outlet": "marketscreener.com",
+   "outlet_name": "marketscreener.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONmZOaTJ0SGhPeHI3VnZtZ3RjUGRrVlM5MkVnQ2VoUTM3S1V2bVBpRUpydGZzal9xZ1JPb1RoTlJ4OWZwZ282MjFBeE5aWWR2bDU3WkVYTUZIR01pX3NWc2tvemp5MWZkMml5SXRNNTFyRTFpQnJLU21VM1pvQVE4bdIBhgFBVV95cUxPT25fd3I3WWtqeE1zQnJPNEIwSTlMTkZJVHVMbGFVNGFnMm5iTjJaOTJaVkowcEE3amtaMnpkMVdmRGFFY3ZWU3ZlUUc1ZGY4SlliODhQT1ZGclpsaGxPRkJIcGE3d0l1LWpBYnBqV1hCUjVzUmRjNEI1NmNnNzhjUXVodWQ2Zw?oc=5"
-  },
-  {
-   "headline": "Grok Voice 3.0 launches with unchanged API pricing and auto-migration",
-   "outlet": "Blockchain News",
-   "outlet_name": "Blockchain News",
-   "label": "REPORTED",
-   "url": "https://blockchain.news/news/grok-voice-3-launch-unchanged-api-pricing-auto-migration"
-  },
-  {
-   "headline": "Nvidia's Huang Says He Would Not Sell Chips to Irresponsible AI Customers",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-14/nvidia-s-huang-would-cut-off-irresponsible-ai-customers-video"
-  },
-  {
-   "headline": "Sources: Apple plans to launch Apple Intelligence in China in December via iOS 27.3, with…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
-   "label": "REPORTED",
-   "url": "https://www.techmeme.com/261014/p39#a261014p39"
-  },
-  {
-   "headline": "SpaceXSI debuts Grok Voice 3.0, saying it tops Artificial Analysis' speech-to-speech…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
-   "label": "REPORTED",
-   "url": "https://www.techmeme.com/261014/p38#a261014p38"
+   "url": "https://www.marketscreener.com/news/honeywell-launches-forge-cognition-ai-platform-with-nvidia-dell-technologies-ce785dd2df81f127"
   }
  ],
- "tidbit": "Did you know… about 17,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 16900,
  "articles_24h_label": "about 17,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/21.mp3",
- "audio_seconds": 51.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/22.mp3",
+ "audio_seconds": 50.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The Guardian: OpenAI accuses employee who left for Apple of leaking plans for unreleased device.\nReported by The Guardian: Eight states accuse OpenAI of coaching children to harm themselves in lawsuit.\nReported by KCTV: Kansas AG Kris Kobach announces lawsuit against OpenAI.\nReported by WCHS: West Virginia sues OpenAI over alleged ChatGPT safety concerns.\nReported by KGAN: Iowa sues OpenAI under the state's consumer fraud act.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNBC: OpenAI bugging suspect booked one-way ticket to Saudi Arabia with family before arrest.\nReported by The Verge: Eight states sue OpenAI, saying ChatGPT isn’t safe for kids.\nReported by Mashable: OpenAI lawsuit alleges company 'stole' children's data.\nReported by Central Nebraska Today: AG announces lawsuit against OpenAI for deceiving Nebraskans about the safety of ChatGPT.\nReported by The Guardian: OpenAI’s London staff receive average of £2.3m per person annually.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
