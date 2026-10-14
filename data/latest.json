@@ -1,112 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-14T18:20:02Z",
- "hour": "2026-10-14T18:00:00Z",
+ "generated_at": "2026-10-14T19:20:03Z",
+ "hour": "2026-10-14T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DOJ says Saudi national arrested for installing audio recording device at OpenAI",
-   "outlet": "CNBC",
+   "title": "Eight US states sue OpenAI, claiming ChatGPT harms children",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-14T18:48:08Z"
+  },
+  {
+   "title": "NVIDIA to invest USD 250 million in UK AI safety research over five years",
+   "outlet": "Devdiscourse",
+   "outlet_name": "Devdiscourse",
+   "url": "https://www.devdiscourse.com/article/business/3992165-nvidia-to-invest-usd-250-million-in-uk-ai-safety-research-over-five-years?amp",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-14T09:21:57Z"
+  },
+  {
+   "title": "Optro Launches Domain-Trained Agents for Audit, Compliance, Third-Party Risk, and AI Governance",
+   "outlet": "PR Newswire UK",
+   "outlet_name": "PR Newswire UK",
+   "url": "https://www.prnewswire.co.uk/news-releases/optro-launches-domain-trained-agents-for-audit-compliance-third-party-risk-and-ai-governance-302907940.html",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-14T15:30:00Z"
+  },
+  {
+   "title": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
+   "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk1nM1J6OUhnaHZUMVdCUmVEZU9BWUtldjJLWVZyaEo5dzJrRWc3R251Vm1PVVo3V3d0MkdjSFpvVHdhcnY3cHN1LUp0R1pDbzNYelBTWi1icGFnMENLMm8tTk1xSXJaM2hqSmJDRVpBVXZoY2FZelk3Q2xoS1VnSlMwb0I3ZFBfbWRnUElPelV0bi1yX3o0TlhzclBjb1c1Z2ZWQUExTnhBNUdzZUVOZ0VvSUpzRTZjT1JnbV9BYko?oc=5",
+   "url": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-14T17:34:43Z"
+   "published_at": "2026-10-14T17:25:34Z"
   },
   {
-   "title": "Amp puts AI agents to work beyond code with OpenAI models",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5",
+   "title": "Anthropic Seeks Full Appeals Court Review of Pentagon Ban",
+   "outlet": "GovInfoSecurity",
+   "outlet_name": "GovInfoSecurity",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemxmOEg3Ym5IU1FHLUxSTXJ3a3pNei1MdEZMQXYzZXhBV2FyT0xjSFhubmQ0aEJUY1pLVmVtai12MGQ2bGVXcEptWUhpc2hQZWg0eGFoY0lIb1A2VjljRmdfT2xmc0FjaU5IWEJ4RW5pVkp6UmZXX3drUVJ0NzB5YzV3cVUxMVBqTEdCdXczSXBjdlVZQ2dsNGpR?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-14T17:09:39Z"
-  },
-  {
-   "title": "Anthropic Co-Founder Jack Clark Urges Urgency on AI Safety Regulation",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/cfa04bc8-c09e-4418-87d6-a4a24b6095d8",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-14T16:05:00Z"
-  },
-  {
-   "title": "Nvidia CEO Says He Would Cut Off Customers Who Build Unsafe AI",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-14T17:34:47Z"
-  },
-  {
-   "title": "AI Boom Drives ASML Higher as Nvidia Bets on Europe",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-14/bloomberg-tech-10-14-2026-video",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-14T17:34:15Z"
+   "published_at": "2026-10-14T18:47:43Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DOJ says Saudi national arrested for installing audio recording device at OpenAI",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "Eight US states sue OpenAI, claiming ChatGPT harms children",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk1nM1J6OUhnaHZUMVdCUmVEZU9BWUtldjJLWVZyaEo5dzJrRWc3R251Vm1PVVo3V3d0MkdjSFpvVHdhcnY3cHN1LUp0R1pDbzNYelBTWi1icGFnMENLMm8tTk1xSXJaM2hqSmJDRVpBVXZoY2FZelk3Q2xoS1VnSlMwb0I3ZFBfbWRnUElPelV0bi1yX3o0TlhzclBjb1c1Z2ZWQUExTnhBNUdzZUVOZ0VvSUpzRTZjT1JnbV9BYko?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5"
   },
   {
-   "headline": "Amp puts AI agents to work beyond code with OpenAI models",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
+   "headline": "NVIDIA to invest USD 250 million in UK AI safety research over five years",
+   "outlet": "Devdiscourse",
+   "outlet_name": "Devdiscourse",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FRTNMUjRTQzRBT1ZmeVlqZ1Q4Q2VVSHppUUM3SThLVGVtb1FNYkRxMDA0NFRzWmxaTWlmdWV6S2hUa2hUaG9sZDJJRW1zWFZraWNaTzJR?oc=5"
+   "url": "https://www.devdiscourse.com/article/business/3992165-nvidia-to-invest-usd-250-million-in-uk-ai-safety-research-over-five-years?amp"
   },
   {
-   "headline": "Anthropic Co-Founder Jack Clark Urges Urgency on AI Safety Regulation",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "Optro Launches Domain-Trained Agents for Audit, Compliance, Third-Party Risk, and AI…",
+   "outlet": "PR Newswire UK",
+   "outlet_name": "PR Newswire UK",
    "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/cfa04bc8-c09e-4418-87d6-a4a24b6095d8"
-  },
-  {
-   "headline": "Nvidia CEO Says He Would Cut Off Customers Who Build Unsafe AI",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-14/nvidia-ceo-says-he-would-cut-off-customers-who-build-unsafe-ai"
-  },
-  {
-   "headline": "AI Boom Drives ASML Higher as Nvidia Bets on Europe",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-14/bloomberg-tech-10-14-2026-video"
+   "url": "https://www.prnewswire.co.uk/news-releases/optro-launches-domain-trained-agents-for-audit-compliance-third-party-risk-and-ai-governance-302907940.html"
   },
   {
    "headline": "OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor",
-   "outlet": "CNBC",
+   "outlet": "cnbc.com",
    "outlet_name": "CNBC",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0JzN09IZDJjcHJLS1lCWnZKYlpOLVBJLUl1RDFoV2t1eFNZVEtONFdFR19qYURJX3poOTJvUmNrZGxTczB3MFZRWVIzQnZPNzJ6YXVpZHNlQ2NDVWJNTXNCUnNRQ0F2VTVEcUVVbWx6OTJmZDEzbndaSmdSOTJ4SnZCSllZNWo1blVTVFB0RG1pUTNrd0F4Wk9pZk1iRGpVVXdhUjktOGbSAa4BQVVfeXFMT28zWXA2LU9ySEV3c3pscnlJNVFkY05ZN2ZwaTc4cTZNOTQwazg1ckJaSm1ObTNIa0w1TThkUXBiNGx5SVhwZWJHYTgwaktsdnYteFU4d0VwaE5Mam1ON2FlSWp5NjdwQ3NLUF8wQnVsc1VoVFpGWllGcEs1VTBULXJUbHdTUy1NYmxlSlF6VTVrWGN4WTNrbXZWOER4VEpLUjI0WmVjbF9JaTNtVDdB?oc=5"
+   "url": "https://www.cnbc.com/2026/10/14/openais-sachin-katti-to-leave-infrastructure-role-stay-on-as-advisor.html"
   },
   {
-   "headline": "Google Launches a Gemini AI Agent for Businesses (2026)",
-   "outlet": "ALM Corp",
-   "outlet_name": "ALM Corp",
+   "headline": "Anthropic Seeks Full Appeals Court Review of Pentagon Ban",
+   "outlet": "GovInfoSecurity",
+   "outlet_name": "GovInfoSecurity",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtaVNjRWxBTVpkOTIxVnFReHBLd0pvLWU5bnVPWmdiZnZZX25pYVVwdVZKUVNGN014YUsyYzBWXzZJQjNfalk4clF3YUp4Qm02VmcxRXBkRnA1eWRFY2Y5UXB3OE5hX0tFTWN5ZVA2NHo1bUdRR0lV?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOemxmOEg3Ym5IU1FHLUxSTXJ3a3pNei1MdEZMQXYzZXhBV2FyT0xjSFhubmQ0aEJUY1pLVmVtai12MGQ2bGVXcEptWUhpc2hQZWg0eGFoY0lIb1A2VjljRmdfT2xmc0FjaU5IWEJ4RW5pVkp6UmZXX3drUVJ0NzB5YzV3cVUxMVBqTEdCdXczSXBjdlVZQ2dsNGpR?oc=5"
   },
   {
-   "headline": "As Wall Street banks finance and adopt AI, risks mount on both fronts",
-   "outlet": "CNA",
-   "outlet_name": "CNA",
+   "headline": "Grok Voice 3.0 Launches With Improved Call Handling and Sub-Second Latency",
+   "outlet": "iClarified",
+   "outlet_name": "iClarified",
    "label": "REPORTED",
-   "url": "https://www.channelnewsasia.com/business/wall-street-banks-finance-and-adopt-ai-risks-mount-both-fronts-6460121"
+   "url": "https://www.iclarified.com/102831/grok-voice-30-launches-with-improved-call-handling-and-sub-second-latency"
+  },
+  {
+   "headline": "Arrested OpenAI Engineer Booked a One-Way Ticket to Saudi Arabia",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-14/arrested-openai-engineer-booked-a-one-way-ticket-to-saudi-arabia"
+  },
+  {
+   "headline": "Google’s Gemini 4 Argon Launch Puts A Deadline On Its Price Advantage",
+   "outlet": "Forbes",
+   "outlet_name": "Forbes",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZW9aTmFSNkpiNGRNRDVGZ2RxRTBQYlBKbE85M2VEck0zVXJqc0V0cGFqNHdTQ284WHo5ZUtSQ0JzaHZNMWhwekFJYUgxeVE3VTY0QXdWNW51WXcwVlVoaThsNExNSEo3U2hBZWFPOWJqR0tFWGp3VkxoUkJLaUUyX1VCT0x3ejVaRGdLNGxPNXRuT2Voa3RTVk1fWG5QbGtDdGphTXFhU2o4TFBuRVZRcXhQVVcxaFFaT291TUZqYzJqTFpocjlVSw?oc=5"
+  },
+  {
+   "headline": "Bank of America hired 1,000 contractors to patch software flaws exposed by Anthropic's…",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "REPORTED",
+   "url": "https://www.cnbc.com/2026/10/14/anthropic-mythos-bank-of-america-hiring-cost.html"
   },
   {
    "headline": "NVIDIA and Semiconductor Leaders Advance AI Across Chip Design and Manufacturing for…",
@@ -128,23 +135,16 @@
    "outlet_name": "unherd.com",
    "label": "REPORTED",
    "url": "https://unherd.com/newsroom/anthropics-claude-cruelty-policy-risks-humanising-ai/"
-  },
-  {
-   "headline": "Apple’s Trade Secret Case Against OpenAI Goes to Court",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLWp4emJxUHViUnhFVWQ2Q1hobVRPMmRFdXl3QnBOMkRsWWR2N0t0TU1LT2lsLUhJeG9zeVVHdEtGbmo3MmlDSWRUeFAwbFZNM1NZeld6Mzl4aERPMGdCdnFMX1R5alBZenhNYXJSN3NibGVkVEpqaEsyRGxFTGdaOXZ2YTluZHFZQUJTSg?oc=5"
   }
  ],
- "tidbit": "Did you know… about 17,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 17000,
  "articles_24h_label": "about 17,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/18.mp3",
- "audio_seconds": 54.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/14/19.mp3",
+ "audio_seconds": 48.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNBC: DOJ says Saudi national arrested for installing audio recording device at OpenAI.\nReported by OpenAI: Amp puts AI agents to work beyond code with OpenAI models.\nReported by BigGo Finance: Anthropic Co-Founder Jack Clark Urges Urgency on AI Safety Regulation.\nReported by Bloomberg: Nvidia CEO Says He Would Cut Off Customers Who Build Unsafe AI.\nReported by Bloomberg: AI Boom Drives ASML Higher as Nvidia Bets on Europe.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Reuters: Eight US states sue OpenAI, claiming ChatGPT harms children.\nReported by Devdiscourse: NVIDIA to invest USD 250 million in UK AI safety research over five years.\nReported by PR Newswire UK: Optro Launches Domain-Trained Agents for Audit, Compliance, Third-Party Risk, and AI Governance.\nReported by CNBC: OpenAI’s Sachin Katti to leave infrastructure role, stay on as advisor.\nReported by GovInfoSecurity: Anthropic Seeks Full Appeals Court Review of Pentagon Ban.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
