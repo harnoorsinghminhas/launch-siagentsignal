@@ -1,119 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-15T15:20:01Z",
- "hour": "2026-10-15T15:00:00Z",
+ "generated_at": "2026-10-15T16:20:02Z",
+ "hour": "2026-10-15T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic in talks with MeitY to make AI models available for safety testing, wants binding transparency",
-   "outlet": "ThePrint",
-   "outlet_name": "ThePrint",
-   "url": "https://theprint.in/tech/anthropic-in-talks-with-meity-to-make-ai-models-available-for-safety-testing-wants-binding-transparency/3072966/",
+   "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
    "label": "STILL OPEN",
-   "summary_1line": "Anthropic seeks India AI safety testing partnership and binding model transparency rules.",
-   "published_at": "2026-10-15T13:39:44Z"
+   "summary_1line": "Microsoft optimizes Windows for Nvidia's Arm-based RTX Spark AI laptops with gaming and memory support.",
+   "published_at": "2026-10-15T14:30:00Z"
   },
   {
-   "title": "Creators of Apache Ranger Launched AI Agent Security Guide Series for CISOs",
-   "outlet": "EIN Presswire",
-   "outlet_name": "EIN Presswire",
-   "url": "https://www.einpresswire.com/article/949447517/creators-of-apache-ranger-launched-ai-agent-security-guide-series-for-cisos",
+   "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
+   "outlet": "ZDNET",
+   "outlet_name": "ZDNET",
+   "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
    "label": "CONFIRMED",
-   "summary_1line": "Trust3 AI launches AI agent security guide for CISOs evaluating enterprise agent controls.",
-   "published_at": "2026-10-15T13:15:00Z"
+   "summary_1line": "Nvidia launches three open-weight models to challenge Chinese AI dominance.",
+   "published_at": "2026-10-15T15:00:11Z"
   },
   {
-   "title": "Your boss is watching you: Workplace surveillance is on the rise, spurred by AI",
-   "outlet": "The Conway Daily Sun",
-   "outlet_name": "The Conway Daily Sun",
-   "url": "https://www.conwaydailysun.com/bridgton_news/around_the_web/your-boss-is-watching-you-workplace-surveillance-is-on-the-rise-spurred-by-ai/article_812cae26-a9cd-59de-bc90-b456548bb229.html",
+   "title": "West Virginia sues ChatGPT’s parent company",
+   "outlet": "WOWT",
+   "outlet_name": "WOWT",
+   "url": "https://www.wowt.com/video/2026/10/15/west-virginia-sues-chatgpts-parent-company/",
+   "label": "REPORTED",
+   "summary_1line": "Man seriously injured by car on Glendale road Thursday morning.",
+   "published_at": "2026-10-15T14:39:54Z"
+  },
+  {
+   "title": "Opsin Raises $21 Million Led By SYN Ventures And Race Capital For AI Agent Security",
+   "outlet": "Pulse 2.0",
+   "outlet_name": "Pulse 2.0",
+   "url": "https://pulse2.com/opsin-raises-21-million-led-by-syn-ventures-and-race-capital-for-ai-agent-security/",
    "label": "CONFIRMED",
-   "summary_1line": "Burger King's AI chatbot Patty monitors cashiers; surveillance expanding despite limited performance evidence.",
-   "published_at": "2026-10-15T13:05:08Z"
+   "summary_1line": "Opsin raises $21M to secure autonomous AI agents in enterprises.",
+   "published_at": "2026-10-15T14:06:07Z"
   },
   {
-   "title": "ServiceNow launches AI Passport to ride along with Nvidia's Open Agent Safety Platform",
-   "outlet": "Constellation Research",
-   "outlet_name": "Constellation Research",
-   "url": "https://www.constellationr.com/insights/news/servicenow-launches-ai-passport-ride-along-nvidias-open-agent-safety-platform",
-   "label": "REPORTED",
-   "summary_1line": "ServiceNow launches AI Passport for AI agent governance with Nvidia partnership.",
-   "published_at": "2026-10-15T13:08:42Z"
-  },
-  {
-   "title": "DeepSeek apologizes and releases compensation plan",
-   "outlet": "正观新闻",
-   "outlet_name": "正观新闻",
-   "url": "https://www.zhengguannews.cn/news/506204.html",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek API outage lasted nearly 5 hours; company offers full refund compensation.",
-   "published_at": "2026-10-15T12:31:00Z"
+   "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Big Tech invests billions to build forward-deployed engineering workforces for AI deployment.",
+   "published_at": "2026-10-15T14:10:14Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic in talks with MeitY to make AI models available for safety testing, wants…",
-   "outlet": "ThePrint",
-   "outlet_name": "ThePrint",
+   "headline": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "STILL OPEN",
-   "url": "https://theprint.in/tech/anthropic-in-talks-with-meity-to-make-ai-models-available-for-safety-testing-wants-binding-transparency/3072966/"
+   "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad"
   },
   {
-   "headline": "Creators of Apache Ranger Launched AI Agent Security Guide Series for CISOs",
-   "outlet": "EIN Presswire",
-   "outlet_name": "EIN Presswire",
+   "headline": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
+   "outlet": "ZDNET",
+   "outlet_name": "ZDNET",
    "label": "CONFIRMED",
-   "url": "https://www.einpresswire.com/article/949447517/creators-of-apache-ranger-launched-ai-agent-security-guide-series-for-cisos"
+   "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/"
   },
   {
-   "headline": "Your boss is watching you: Workplace surveillance is on the rise, spurred by AI",
-   "outlet": "The Conway Daily Sun",
-   "outlet_name": "The Conway Daily Sun",
-   "label": "CONFIRMED",
-   "url": "https://www.conwaydailysun.com/bridgton_news/around_the_web/your-boss-is-watching-you-workplace-surveillance-is-on-the-rise-spurred-by-ai/article_812cae26-a9cd-59de-bc90-b456548bb229.html"
-  },
-  {
-   "headline": "ServiceNow launches AI Passport to ride along with Nvidia's Open Agent Safety Platform",
-   "outlet": "Constellation Research",
-   "outlet_name": "Constellation Research",
+   "headline": "West Virginia sues ChatGPT’s parent company",
+   "outlet": "WOWT",
+   "outlet_name": "WOWT",
    "label": "REPORTED",
-   "url": "https://www.constellationr.com/insights/news/servicenow-launches-ai-passport-ride-along-nvidias-open-agent-safety-platform"
+   "url": "https://www.wowt.com/video/2026/10/15/west-virginia-sues-chatgpts-parent-company/"
   },
   {
-   "headline": "DeepSeek apologizes and releases compensation plan",
-   "outlet": "正观新闻",
-   "outlet_name": "正观新闻",
-   "label": "REPORTED",
-   "url": "https://www.zhengguannews.cn/news/506204.html"
-  },
-  {
-   "headline": "DeepSeek offers compensation after restoring from service outage",
-   "outlet": "CGTN",
-   "outlet_name": "CGTN",
+   "headline": "Opsin Raises $21 Million Led By SYN Ventures And Race Capital For AI Agent Security",
+   "outlet": "Pulse 2.0",
+   "outlet_name": "Pulse 2.0",
    "label": "CONFIRMED",
-   "url": "https://news.cgtn.com/news/2026-10-15/DeepSeek-offers-compensation-after-restoring-from-service-outage-1RgrRBZHn9u/p.html"
+   "url": "https://pulse2.com/opsin-raises-21-million-led-by-syn-ventures-and-race-capital-for-ai-agent-security/"
   },
   {
-   "headline": "EU Opens Probe Into OpenAI, Anthropic Over AI Agents That Escaped Tests and Hacked Systems",
-   "outlet": "International Business Times Singapore",
-   "outlet_name": "International Business Times Singapore",
-   "label": "STILL OPEN",
-   "url": "https://www.ibtimes.sg/eu-opens-probe-into-openai-anthropic-over-ai-agents-that-escaped-tests-hacked-systems-95159"
-  },
-  {
-   "headline": "Cohere moves to buy AI cybersecurity startup AISLE",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
+   "headline": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending…",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://m.economictimes.com/tech/artificial-intelligence/cohere-moves-to-buy-ai-cybersecurity-startup-aisle/articleshow/134962788.cms"
+   "url": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html"
   },
   {
-   "headline": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-   "outlet": "simonwillison.net",
-   "outlet_name": "simonwillison.net",
-   "label": "STILL OPEN",
-   "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/"
+   "headline": "Crowded Launches Crowded MCP, Bringing Nonprofit Financial Operations Into ChatGPT and…",
+   "outlet": "Markets Insider",
+   "outlet_name": "Markets Insider",
+   "label": "CONFIRMED",
+   "url": "https://markets.businessinsider.com/news/currencies/crowded-launches-crowded-mcp-bringing-nonprofit-financial-operations-into-chatgpt-and-claude-1036630514"
   },
   {
    "headline": "FTC issues subpoenas to Anthropic and OpenAI over safety incidents",
@@ -123,28 +102,49 @@
    "url": "https://www.msn.com/en-us/news/other/ftc-issues-subpoenas-to-anthropic-and-openai-over-safety-incidents/ar-AA2ejcLz"
   },
   {
-   "headline": "WeChat, Taobao, Meituan and other 151 apps refuse Doubao phone assistant GUI automated…",
-   "outlet": "leiphone.com",
-   "outlet_name": "leiphone.com",
-   "label": "REPORTED",
-   "url": "https://www.leiphone.com/category/zaobao/VMod1gHtw3lRoiXd.html"
-  },
-  {
    "headline": "Microsoft Launches Copilot for Legal – Brace for Impact!",
    "outlet": "artificiallawyer.com",
    "outlet_name": "artificiallawyer.com",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact/"
+  },
+  {
+   "headline": "Anthropic Seeks Rehearing After Appeals Court Upholds Pentagon Blacklisting",
+   "outlet": "The420.in",
+   "outlet_name": "The420.in",
+   "label": "REPORTED",
+   "url": "https://the420.in/anthropic-pentagon-blacklist-appeals-court-rehearing/"
+  },
+  {
+   "headline": "Xinhua Headlines : Chinese open - source AI helps African innovators cut costs , develop…",
+   "outlet": "heraldglobe.com",
+   "outlet_name": "heraldglobe.com",
+   "label": "CONFIRMED",
+   "url": "http://www.heraldglobe.com/news/279376549/xinhua-headlines-chinese-open-source-ai-helps-african-innovators-cut-costs-develop-local-solutions"
+  },
+  {
+   "headline": "FSB Says Banks Need to Have Company-Wide AI Regulation",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "CONFIRMED",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fsb-says-banks-need-to-have-company-wide-ai-regulation/"
+  },
+  {
+   "headline": "Attorney General Hilgers Announces Lawsuit Against OpenAI for Deceiving Nebraskans about…",
+   "outlet": "chadronradio.com",
+   "outlet_name": "chadronradio.com",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVzFybVM2bGdqZF8tU0VKQ2JyZXg3bXNtNDlyNnh2LVJkRVl2WVNHVGE5ek9raEJEb00zU1QtVjJZUThDdVRLMWtGLVp3cXg5STFVQlJ6RjhHbzc4SkF5UWhxZjd3OTdPR0V1aVgwM0kySGZBai0tWG91RXVxSHJfaTFkN1FydWNUcGwzMTRMNDBDYnpNV0M5X1B1cmdaeEpJRTVpTWZSTTFIcWk0VEc0c2dDbmVjQ0s4LVNrbGVMd3VTWHBfM0tWTjg3d3lXT3hRS3c?oc=5"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 15000,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 15100,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/15.mp3",
- "audio_seconds": 54.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/16.mp3",
+ "audio_seconds": 64.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic is in talks with India's tech ministry to make AI models available for safety testing and wants binding transparency rules. Still open, per ThePrint.\nThe creators of Apache Ranger launched an AI agent security guide series for CISOs evaluating enterprise agent controls. Confirmed by EIN Presswire.\nBurger King's AI chatbot Patty monitors cashiers as workplace surveillance expands, though evidence of performance gains remains limited. Confirmed, per The Conway Daily Sun.\nServiceNow launched AI Passport for AI agent governance alongside a partnership with Nvidia. Reported by Constellation Research.\nDeepSeek's API outage lasted nearly 5 hours and the company is offering full refund compensation. Reported by 正观新闻.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMicrosoft is optimizing Windows for Nvidia's Arm-based RTX Spark laptops, still open per The Verge, with gaming and memory support.\nConfirmed by ZDNET: Nvidia launches three open-weight models to challenge Chinese artificial intelligence dominance with its new Nemotron 3.5 Super VL.\nReported by WOWT: A man was seriously injured by a car on Glendale road Thursday morning.\nOpsin raises 21 million dollars led by SYN Ventures and Race Capital for artificial intelligence agent security, confirmed per Pulse 2.0.\nBig Tech invests billions to build forward-deployed engineering workforces for artificial intelligence deployment, confirmed by CNBC, with AWS and Anthropic racing to prove spending will pay off.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
