@@ -1,98 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-15T21:20:01Z",
- "hour": "2026-10-15T21:00:00Z",
+ "generated_at": "2026-10-15T22:20:01Z",
+ "hour": "2026-10-15T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Meta launches an open-weight AI model that runs on Macs",
+   "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+   "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
    "label": "CONFIRMED",
-   "summary_1line": "Meta launches Muse Spark Open, an open-weight model optimized for Mac computers.",
-   "published_at": "2026-10-15T20:04:53Z"
+   "summary_1line": "Anthropic grants METR researchers employee-level access to independently assess its AI safety practices.",
+   "published_at": "2026-10-15T19:14:26Z"
   },
   {
-   "title": "Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/15/eight-states-sue-openai-saying-chatgpt-hurt-kids-and-lied-to-adults/",
-   "label": "REPORTED",
-   "summary_1line": "Eight states sue OpenAI over ChatGPT's alleged harm to children and consumer deception.",
-   "published_at": "2026-10-15T19:07:11Z"
-  },
-  {
-   "title": "Anthropic is giving AI safety evaluators “employee-like” access to its systems.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1012308/anthropic-metr-employee-like-access",
+   "title": "Your boss is watching you: Workplace surveillance is on the rise, spurred by AI",
+   "outlet": "Roanoke Times",
+   "outlet_name": "Roanoke Times",
+   "url": "https://roanoke.com/news/nation-world/business/article_599398a2-e114-555a-8f27-f5ba31559c0f.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic grants METR safety evaluators deep system access with redaction controls.",
-   "published_at": "2026-10-15T11:37:00Z"
+   "summary_1line": "Burger King deploys AI chatbot to monitor cashier behavior; researchers question surveillance effectiveness.",
+   "published_at": "2026-10-15T14:13:38Z"
   },
   {
-   "title": "Amazon shuts out Elon Musk’s Grok Bot so he may just build his own rival store",
-   "outlet": "TESLARATI",
-   "outlet_name": "TESLARATI",
-   "url": "https://www.teslarati.com/elon-musk-grok-bot-amazon-shopping/",
+   "title": "Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge Nvidia (NASDAQ: NVDA) On Cost",
+   "outlet": "Foreign Policy Journal",
+   "outlet_name": "Foreign Policy Journal",
+   "url": "https://www.foreignpolicyjournal.com/2026/10/15/microsoft-nasdaq-msft-unveils-maia-300-ai-chip-to-challenge-nvidia-nasdaq-nvda-on-cost/",
    "label": "STILL OPEN",
-   "summary_1line": "Amazon blocks Grok Bot; Musk hints at rival store and cryptic Roadster thruster demo.",
-   "published_at": "2026-10-15T12:34:00Z"
+   "summary_1line": "Microsoft launches Maia 300 chip to cut AI data center costs, reducing Nvidia dependency.",
+   "published_at": "2026-10-15T13:11:00Z"
   },
   {
-   "title": "Senate Preparing to Roll Out Anthropic’s Claude for Staff Use",
-   "outlet": "Bloomberg Government News",
-   "outlet_name": "Bloomberg Government News",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEIycmF3b1RDNTluMzNjRm5LTjRtYXJiZXVqX0VzR2M2Ql9XZEJDbUNITEdyTmQzdk5GcUNkX2pVdzIzMnIxbkpUb2Jlb240c2dTQUZHcmdjTzZITGxuT1lJXzhiR1oxeVFrdDB5S1pscjlZSWd2UThic0pDbTdzYXlIeUxlQUI0aVdTb2VmVTI3RUFnaFZZcV9qb0FpbkVIbDhMT3NkX05vVnJJ?oc=5",
+   "title": "8 states sue OpenAI over teen safety risk",
+   "outlet": "KVUE",
+   "outlet_name": "KVUE",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzdYVVBRNVl4b25xdllFS0lyMnAyYk1yT2JqS0t2UTVIRWdGRzN3X0VHODhvUlNpYl8wTXMyenh4dTFGYUUzV2Vmd1BLdkFBNG4yNTJqVWFkTFRXNHNaTFBHRU95eUY1dFB3VVk4U2RYdHN3Z3E1Yk5UWVFrS2YzNFZ0cmM3QXJDM3c5cldzekxmbHdFYy10TF80RFlWVXM4V2w3cFlzYw?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-15T18:31:00Z"
+   "published_at": "2026-10-15T21:42:00Z"
+  },
+  {
+   "title": "Bloomberg Law Brings Dockets and Litigation Intelligence to Microsoft Copilot",
+   "outlet": "AOL.com",
+   "outlet_name": "AOL",
+   "url": "https://www.aol.com/articles/bloomberg-law-brings-dockets-litigation-184800000.html",
+   "label": "REPORTED",
+   "summary_1line": "Bloomberg Law integrates dockets and litigation intelligence into Microsoft Copilot.",
+   "published_at": "2026-10-15T18:50:18Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Meta launches an open-weight AI model that runs on Macs",
+   "headline": "Anthropic is letting METR researchers look under the hood with employee-level access",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+   "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
   },
   {
-   "headline": "Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/15/eight-states-sue-openai-saying-chatgpt-hurt-kids-and-lied-to-adults/"
-  },
-  {
-   "headline": "Anthropic is giving AI safety evaluators “employee-like” access to its systems.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
+   "headline": "Your boss is watching you: Workplace surveillance is on the rise, spurred by AI",
+   "outlet": "Roanoke Times",
+   "outlet_name": "Roanoke Times",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1012308/anthropic-metr-employee-like-access"
+   "url": "https://roanoke.com/news/nation-world/business/article_599398a2-e114-555a-8f27-f5ba31559c0f.html"
   },
   {
-   "headline": "Amazon shuts out Elon Musk’s Grok Bot so he may just build his own rival store",
-   "outlet": "TESLARATI",
-   "outlet_name": "TESLARATI",
+   "headline": "Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge Nvidia (NASDAQ: NVDA) On…",
+   "outlet": "Foreign Policy Journal",
+   "outlet_name": "Foreign Policy Journal",
    "label": "STILL OPEN",
-   "url": "https://www.teslarati.com/elon-musk-grok-bot-amazon-shopping/"
+   "url": "https://www.foreignpolicyjournal.com/2026/10/15/microsoft-nasdaq-msft-unveils-maia-300-ai-chip-to-challenge-nvidia-nasdaq-nvda-on-cost/"
   },
   {
-   "headline": "Senate Preparing to Roll Out Anthropic’s Claude for Staff Use",
-   "outlet": "Bloomberg Government News",
-   "outlet_name": "Bloomberg Government News",
+   "headline": "8 states sue OpenAI over teen safety risk",
+   "outlet": "KVUE",
+   "outlet_name": "KVUE",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEIycmF3b1RDNTluMzNjRm5LTjRtYXJiZXVqX0VzR2M2Ql9XZEJDbUNITEdyTmQzdk5GcUNkX2pVdzIzMnIxbkpUb2Jlb240c2dTQUZHcmdjTzZITGxuT1lJXzhiR1oxeVFrdDB5S1pscjlZSWd2UThic0pDbTdzYXlIeUxlQUI0aVdTb2VmVTI3RUFnaFZZcV9qb0FpbkVIbDhMT3NkX05vVnJJ?oc=5"
-  },
-  {
-   "headline": "NVIDIA Announces The 120B Nemotron 3.5 Super VL Model For AI Agents And 2 Tiny 4 GB And…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "label": "REPORTED",
-   "url": "https://wccftech.com/nvidia-announces-the-120b-nemotron-3-5-super-vl-model-for-ai-agents-and-2-tiny-4-gb-and-24-gb-edge-models-under-the-nemotron-3-5-bolt-umbrella/"
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzdYVVBRNVl4b25xdllFS0lyMnAyYk1yT2JqS0t2UTVIRWdGRzN3X0VHODhvUlNpYl8wTXMyenh4dTFGYUUzV2Vmd1BLdkFBNG4yNTJqVWFkTFRXNHNaTFBHRU95eUY1dFB3VVk4U2RYdHN3Z3E1Yk5UWVFrS2YzNFZ0cmM3QXJDM3c5cldzekxmbHdFYy10TF80RFlWVXM4V2w3cFlzYw?oc=5"
   },
   {
    "headline": "Bloomberg Law Brings Dockets and Litigation Intelligence to Microsoft Copilot",
@@ -102,18 +88,18 @@
    "url": "https://www.aol.com/articles/bloomberg-law-brings-dockets-litigation-184800000.html"
   },
   {
+   "headline": "Meta releases open-weight Muse Spark model for coding, agentic tasks",
+   "outlet": "Central Oregon Daily",
+   "outlet_name": "Central Oregon Daily",
+   "label": "REPORTED",
+   "url": "https://www.centraloregondaily.com/news/consumer/meta-releases-open-weight-muse-spark-model-for-coding-agentic-tasks/article_acb60c26-3a97-54c0-accf-25494d711556.html"
+  },
+  {
    "headline": "Nvidia and Cisco unveil next-gen network interface built for the AI data center boom",
    "outlet": "TechSpot",
    "outlet_name": "TechSpot",
    "label": "REPORTED",
    "url": "https://www.techspot.com/news/114222-nvidia-cisco-unveil-next-gen-network-interface-built.html"
-  },
-  {
-   "headline": "Straive expands enterprise AI services through OpenAI partnership",
-   "outlet": "150sec",
-   "outlet_name": "150sec",
-   "label": "REPORTED",
-   "url": "https://150sec.com/straive-expands-enterprise-ai-services-through-openai-partnership/"
   },
   {
    "headline": "FTC subpoenas OpenAI and Anthropic as AI safety incidents trigger consumer protection…",
@@ -123,28 +109,42 @@
    "url": "https://www.msn.com/en-us/money/general/ftc-subpoenas-openai-and-anthropic-as-ai-safety-incidents-trigger-consumer-protection-investigation/ar-AA2ek68q"
   },
   {
-   "headline": "How Meta Built Forum With AI-Native Engineering",
-   "outlet": "engineering.fb.com",
-   "outlet_name": "engineering.fb.com",
+   "headline": "Actual Computer turns your Nvidia DGX Station into a department-scale AI factory",
+   "outlet": "actual.inc",
+   "outlet_name": "actual.inc",
    "label": "CONFIRMED",
-   "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/"
+   "url": "https://actual.inc/company/blog/case-study-dgx-station-and-nemotron-3-5-super-vl"
   },
   {
-   "headline": "BoE Warns Banks Against AI Cybersecurity Risks",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
+   "headline": "Try Muse Spark Open for free on Together AI through 10/18 at 12 p.m. PT →",
+   "outlet": "together.ai",
+   "outlet_name": "together.ai",
    "label": "CONFIRMED",
-   "url": "https://www.pymnts.com/cybersecurity/2026/boe-warns-banks-against-ai-cybersecurity-risks/"
+   "url": "https://www.together.ai/models/muse-spark-open-promo"
+  },
+  {
+   "headline": "Self-replicating AI: Is your fridge a cybersecurity risk?",
+   "outlet": "DW on MSN",
+   "outlet_name": "DW on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-in/news/other/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/ar-AA2ejGIN"
+  },
+  {
+   "headline": "Tim Cook: Apple Intelligence integrates Alibaba's Qwen model, test version to launch in…",
+   "outlet": "qbitai.com",
+   "outlet_name": "qbitai.com",
+   "label": "REPORTED",
+   "url": "https://www.qbitai.com/2026/10/503640.html"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
  "articles_24h_rounded": 15400,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/21.mp3",
- "audio_seconds": 44.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/22.mp3",
+ "audio_seconds": 49.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Meta launches an open-weight AI model that runs on Macs.\nReported by Fortune: Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults.\nConfirmed, per The Verge: Anthropic is giving AI safety evaluators “employee-like” access to its systems.\nStill open, per TESLARATI: Amazon shuts out Elon Musk’s Grok Bot so he may just build his own rival store.\nReported by Bloomberg Government News: Senate Preparing to Roll Out Anthropic’s Claude for Staff Use.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Anthropic is letting METR researchers look under the hood with employee-level access.\nConfirmed, per Roanoke Times: Your boss is watching you: Workplace surveillance is on the rise, spurred by AI.\nStill open, per Foreign Policy Journal: Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge Nvidia (NASDAQ: NVDA) On Cost.\nReported by KVUE: 8 states sue OpenAI over teen safety risk.\nReported by AOL: Bloomberg Law Brings Dockets and Litigation Intelligence to Microsoft Copilot.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
