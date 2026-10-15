@@ -1,73 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-15T17:20:01Z",
- "hour": "2026-10-15T17:00:00Z",
+ "generated_at": "2026-10-15T18:20:01Z",
+ "hour": "2026-10-15T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says",
-   "outlet": "Ars Technica",
+   "title": "NVIDIA launches Nemotron 3.5 Super VL for multimodal agents",
+   "outlet": "Blockchain News",
+   "outlet_name": "Blockchain News",
+   "url": "https://blockchain.news/news/nvidia-nemotron-3-5-super-vl-multimodal-agents",
+   "label": "CONFIRMED",
+   "summary_1line": "NVIDIA launches Nemotron 3.5 Super VL, a 120B multimodal model for enterprise agents.",
+   "published_at": "2026-10-15T09:17:00Z"
+  },
+  {
+   "title": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+   "outlet": "arstechnica.com",
    "outlet_name": "Ars Technica",
    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
    "label": "STILL OPEN",
-   "summary_1line": "FTC probes OpenAI and Anthropic over AI safety incidents with formal investigative demands.",
+   "summary_1line": "FTC probes Anthropic and OpenAI over AI safety incidents and potential consumer deception.",
    "published_at": "2026-10-15T15:43:24Z"
   },
   {
-   "title": "Crowded Launches Crowded MCP, Bringing Nonprofit Financial Operations Into ChatGPT and Claude",
-   "outlet": "Markets Insider",
-   "outlet_name": "Markets Insider",
-   "url": "https://markets.businessinsider.com/news/currencies/crowded-launches-crowded-mcp-bringing-nonprofit-financial-operations-into-chatgpt-and-claude-1036630514",
+   "title": "Microsoft Copilot for Legal: What Will Be the Fallout?",
+   "outlet": "Artificial Lawyer",
+   "outlet_name": "Artificial Lawyer",
+   "url": "https://www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout/",
    "label": "CONFIRMED",
-   "summary_1line": "Crowded launches MCP connector linking nonprofit financial data to ChatGPT and Claude.",
-   "published_at": "2026-10-15T03:03:00Z"
+   "summary_1line": "Microsoft launches Copilot for Legal with 20+ skills integrated into Word.",
+   "published_at": "2026-10-15T15:32:59Z"
   },
   {
-   "title": "Anthropic Revenue Hits $16.8 Billion in Q3 Before IPO",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-15/anthropic-revenue-hits-16-8-billion-in-q3-before-ipo-video",
+   "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+   "outlet": "AP News",
+   "outlet_name": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-15T16:33:42Z"
+   "published_at": "2026-10-15T17:05:00Z"
+  },
+  {
+   "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+   "label": "CONFIRMED",
+   "summary_1line": "Ramp raises $1.85B at $60B valuation, expands into AI agents and model routing.",
+   "published_at": "2026-10-15T14:47:09Z"
   }
  ],
  "ticker": [
   {
-   "headline": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says",
-   "outlet": "Ars Technica",
+   "headline": "NVIDIA launches Nemotron 3.5 Super VL for multimodal agents",
+   "outlet": "Blockchain News",
+   "outlet_name": "Blockchain News",
+   "label": "CONFIRMED",
+   "url": "https://blockchain.news/news/nvidia-nemotron-3-5-super-vl-multimodal-agents"
+  },
+  {
+   "headline": "Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”",
+   "outlet": "arstechnica.com",
    "outlet_name": "Ars Technica",
    "label": "STILL OPEN",
    "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
   },
   {
-   "headline": "Crowded Launches Crowded MCP, Bringing Nonprofit Financial Operations Into ChatGPT and…",
-   "outlet": "Markets Insider",
-   "outlet_name": "Markets Insider",
+   "headline": "Microsoft Copilot for Legal: What Will Be the Fallout?",
+   "outlet": "Artificial Lawyer",
+   "outlet_name": "Artificial Lawyer",
    "label": "CONFIRMED",
-   "url": "https://markets.businessinsider.com/news/currencies/crowded-launches-crowded-mcp-bringing-nonprofit-financial-operations-into-chatgpt-and-claude-1036630514"
+   "url": "https://www.artificiallawyer.com/2026/10/15/microsoft-copilot-for-legal-what-will-be-the-fallout/"
   },
   {
-   "headline": "Anthropic Revenue Hits $16.8 Billion in Q3 Before IPO",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving…",
+   "outlet": "AP News",
+   "outlet_name": "AP News",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-15/anthropic-revenue-hits-16-8-billion-in-q3-before-ipo-video"
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOFdMbjctMUxlYlQ0VnBoa3Jpc09HdE9CWlM5b1NjbzhLZ2YwWWUtbTVucWVuMDZwRWozUmNUajh4bm45MjlZY0xiVHdxczJHQW5UZG9NdXEzLUVQaFZlUTB6cW53bVg5MUdpWExJRU5aYzRwVjNTMkY3U0NycUpsaEhRaHZ0cEw3N0xoTFpCZWZTemdsYkFJcGVCVVNhMjVLdmhJZUMyWWd3YTQxemh3MmZ6UHZiZw?oc=5"
   },
   {
-   "headline": "Microsoft Launches Copilot for Legal – Brace for Impact!",
-   "outlet": "artificiallawyer.com",
-   "outlet_name": "artificiallawyer.com",
+   "headline": "Ramp reaches $60B valuation as it pushes deeper into AI",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact/"
+   "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/"
   },
   {
-   "headline": "Anthropic Seeks Rehearing After Appeals Court Upholds Pentagon Blacklisting",
-   "outlet": "The420.in",
-   "outlet_name": "The420.in",
-   "label": "REPORTED",
-   "url": "https://the420.in/anthropic-pentagon-blacklist-appeals-court-rehearing/"
+   "headline": "Anthropic update on independent evaluators \\ Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
+  },
+  {
+   "headline": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+   "outlet": "nvidianews.nvidia.com",
+   "outlet_name": "nvidianews.nvidia.com",
+   "label": "CONFIRMED",
+   "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation"
+  },
+  {
+   "headline": "Nvidia CEO Jensen Huang urges US.-China dialogue on 'potentially dangerous' AI",
+   "outlet": "CNBC on MSN",
+   "outlet_name": "CNBC on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/money/markets/nvidia-must-work-with-chinese-ai-companies-on-safety-jensen-huang-tells-cnbc/ar-AA2eib1a"
+  },
+  {
+   "headline": "AI Startup Cohere Moves to Acquire Cybersecurity Firm AISLE",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "CONFIRMED",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-startup-cohere-moves-to-acquire-cybersecurity-firm-aisle/"
   },
   {
    "headline": "Hugging Face Releases Llama Windows",
@@ -77,27 +123,6 @@
    "url": "https://www.thurrott.com/a-i/local-ai/342899/hugging-face-releases-llama-windows"
   },
   {
-   "headline": "Xinhua Headlines : Chinese open - source AI helps African innovators cut costs , develop…",
-   "outlet": "heraldglobe.com",
-   "outlet_name": "heraldglobe.com",
-   "label": "CONFIRMED",
-   "url": "http://www.heraldglobe.com/news/279376549/xinhua-headlines-chinese-open-source-ai-helps-african-innovators-cut-costs-develop-local-solutions"
-  },
-  {
-   "headline": "How a Global Insurance Company and Scale Are Building a Real-Time Copilot With Nemotron",
-   "outlet": "scale.com",
-   "outlet_name": "scale.com",
-   "label": "CONFIRMED",
-   "url": "https://scale.com/blog/building-a-real-time-copilot-for-global-insurance-company"
-  },
-  {
-   "headline": "Cline Agents Harness Unlocks Benchmark-Leading Performance from NVIDIA Nemotron 3.5 Super…",
-   "outlet": "cline.ghost.io",
-   "outlet_name": "cline.ghost.io",
-   "label": "REPORTED",
-   "url": "https://cline.ghost.io/nvidia-nemotron-3-5-super-vl-cline-agent-harness/"
-  },
-  {
    "headline": "Attorney General Hilgers Announces Lawsuit Against OpenAI for Deceiving Nebraskans about…",
    "outlet": "chadronradio.com",
    "outlet_name": "chadronradio.com",
@@ -105,28 +130,21 @@
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVzFybVM2bGdqZF8tU0VKQ2JyZXg3bXNtNDlyNnh2LVJkRVl2WVNHVGE5ek9raEJEb00zU1QtVjJZUThDdVRLMWtGLVp3cXg5STFVQlJ6RjhHbzc4SkF5UWhxZjd3OTdPR0V1aVgwM0kySGZBai0tWG91RXVxSHJfaTFkN1FydWNUcGwzMTRMNDBDYnpNV0M5X1B1cmdaeEpJRTVpTWZSTTFIcWk0VEc0c2dDbmVjQ0s4LVNrbGVMd3VTWHBfM0tWTjg3d3lXT3hRS3c?oc=5"
   },
   {
-   "headline": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-   "outlet": "nvidianews.nvidia.com",
-   "outlet_name": "nvidianews.nvidia.com",
-   "label": "REPORTED",
-   "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation"
-  },
-  {
-   "headline": "400 publications are now partnering with us on our News AI pilot program.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "outlet": "deepmind.google",
+   "outlet_name": "deepmind.google",
    "label": "CONFIRMED",
-   "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/"
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from three different outlets.",
- "articles_24h_rounded": 15100,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 15200,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/17.mp3",
- "audio_seconds": 35.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/18.mp3",
+ "audio_seconds": 37.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per Ars Technica: FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says.\nConfirmed, per Markets Insider: Crowded Launches Crowded MCP, Bringing Nonprofit Financial Operations Into ChatGPT and Claude.\nReported by Bloomberg: Anthropic Revenue Hits $16.8 Billion in Q3 Before IPO.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Blockchain News: NVIDIA launches Nemotron 3.5 Super VL for multimodal agents.\nStill open, per Ars Technica: Report: FTC probes Anthropic, OpenAI after Trump dismissed AI fears as “hoax”.\nConfirmed, per Artificial Lawyer: Microsoft Copilot for Legal: What Will Be the Fallout.\nReported by AP News: States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults.\nConfirmed, per TechCrunch: Ramp reaches $60B valuation as it pushes deeper into AI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
