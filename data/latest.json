@@ -1,119 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-15T22:20:01Z",
- "hour": "2026-10-15T22:00:00Z",
+ "generated_at": "2026-10-15T23:20:01Z",
+ "hour": "2026-10-15T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic grants METR researchers employee-level access to independently assess its AI safety practices.",
-   "published_at": "2026-10-15T19:14:26Z"
-  },
-  {
-   "title": "Your boss is watching you: Workplace surveillance is on the rise, spurred by AI",
-   "outlet": "Roanoke Times",
-   "outlet_name": "Roanoke Times",
-   "url": "https://roanoke.com/news/nation-world/business/article_599398a2-e114-555a-8f27-f5ba31559c0f.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Burger King deploys AI chatbot to monitor cashier behavior; researchers question surveillance effectiveness.",
-   "published_at": "2026-10-15T14:13:38Z"
-  },
-  {
-   "title": "Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge Nvidia (NASDAQ: NVDA) On Cost",
-   "outlet": "Foreign Policy Journal",
-   "outlet_name": "Foreign Policy Journal",
-   "url": "https://www.foreignpolicyjournal.com/2026/10/15/microsoft-nasdaq-msft-unveils-maia-300-ai-chip-to-challenge-nvidia-nasdaq-nvda-on-cost/",
+   "title": "The FTC reportedly subpoenaed OpenAI and Anthropic for info on AI security incidents.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012368/the-ftc-reportedly-subpoenaed-openai-and-anthropic-for-info-on-ai-security-incidents",
    "label": "STILL OPEN",
-   "summary_1line": "Microsoft launches Maia 300 chip to cut AI data center costs, reducing Nvidia dependency.",
-   "published_at": "2026-10-15T13:11:00Z"
+   "summary_1line": "FTC reportedly subpoenas OpenAI and Anthropic over AI security and consumer protection.",
+   "published_at": "2026-10-15T12:45:00Z"
   },
   {
-   "title": "8 states sue OpenAI over teen safety risk",
-   "outlet": "KVUE",
-   "outlet_name": "KVUE",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzdYVVBRNVl4b25xdllFS0lyMnAyYk1yT2JqS0t2UTVIRWdGRzN3X0VHODhvUlNpYl8wTXMyenh4dTFGYUUzV2Vmd1BLdkFBNG4yNTJqVWFkTFRXNHNaTFBHRU95eUY1dFB3VVk4U2RYdHN3Z3E1Yk5UWVFrS2YzNFZ0cmM3QXJDM3c5cldzekxmbHdFYy10TF80RFlWVXM4V2w3cFlzYw?oc=5",
+   "title": "Apple Intelligence to launch in China in December after clearing regulatory hurdles",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/en/view/115326/apple-intelligence-to-launch-in-china-in-december-after-clearing-regulatory-hurdles",
+   "label": "REPORTED",
+   "summary_1line": "Apple Intelligence launches in China in December with Alibaba safeguards, excluding Gemini Siri.",
+   "published_at": "2026-10-15T21:14:18Z"
+  },
+  {
+   "title": "Trump posts AI-edited photo to brag about White House restoration work",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
+   "label": "CONFIRMED",
+   "summary_1line": "Trump's White House column photo flagged as AI-edited by Google detector.",
+   "published_at": "2026-10-15T21:09:33Z"
+  },
+  {
+   "title": "Watch Anthropic 3Q Revenue Hits $16.8 Billion Ahead of IPO",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFRnb3gxM1FMaEdLY1BEZ3FiamMwbU9WSW9CdlJscHVVZzhfRjhNUDJDY2kxczFhWDFuNnB3TGRQQy1SS3NkQUlGQ2RxRFZfbnpkYmRQUHlJZVNuWXZwX1MyWjhDd3ItdHhLMDBlcFlqVEdPaHV5aUo0clFjYk9RVXNLM21vNkw0Q0ZUaUpLTjlpOWVJYTM1dUN5RFgyMk9YUFlvZFNWXzl0UQ?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-15T21:42:00Z"
+   "published_at": "2026-10-15T17:49:36Z"
   },
   {
-   "title": "Bloomberg Law Brings Dockets and Litigation Intelligence to Microsoft Copilot",
-   "outlet": "AOL.com",
-   "outlet_name": "AOL",
-   "url": "https://www.aol.com/articles/bloomberg-law-brings-dockets-litigation-184800000.html",
-   "label": "REPORTED",
-   "summary_1line": "Bloomberg Law integrates dockets and litigation intelligence into Microsoft Copilot.",
-   "published_at": "2026-10-15T18:50:18Z"
+   "title": "SpaceXSI Launches Grok Voice 3.0 for AI Customer Support",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/news-spacexsi-grok-voice-3-ai-customer-support/",
+   "label": "STILL OPEN",
+   "summary_1line": "SpaceXSI launches Grok Voice 3.0 with top speech benchmarks, unchanged pricing.",
+   "published_at": "2026-10-15T12:56:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic is letting METR researchers look under the hood with employee-level access",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/"
-  },
-  {
-   "headline": "Your boss is watching you: Workplace surveillance is on the rise, spurred by AI",
-   "outlet": "Roanoke Times",
-   "outlet_name": "Roanoke Times",
-   "label": "CONFIRMED",
-   "url": "https://roanoke.com/news/nation-world/business/article_599398a2-e114-555a-8f27-f5ba31559c0f.html"
-  },
-  {
-   "headline": "Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge Nvidia (NASDAQ: NVDA) On…",
-   "outlet": "Foreign Policy Journal",
-   "outlet_name": "Foreign Policy Journal",
+   "headline": "The FTC reportedly subpoenaed OpenAI and Anthropic for info on AI security incidents.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "STILL OPEN",
-   "url": "https://www.foreignpolicyjournal.com/2026/10/15/microsoft-nasdaq-msft-unveils-maia-300-ai-chip-to-challenge-nvidia-nasdaq-nvda-on-cost/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012368/the-ftc-reportedly-subpoenaed-openai-and-anthropic-for-info-on-ai-security-incidents"
   },
   {
-   "headline": "8 states sue OpenAI over teen safety risk",
-   "outlet": "KVUE",
-   "outlet_name": "KVUE",
+   "headline": "Apple Intelligence to launch in China in December after clearing regulatory hurdles",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbzdYVVBRNVl4b25xdllFS0lyMnAyYk1yT2JqS0t2UTVIRWdGRzN3X0VHODhvUlNpYl8wTXMyenh4dTFGYUUzV2Vmd1BLdkFBNG4yNTJqVWFkTFRXNHNaTFBHRU95eUY1dFB3VVk4U2RYdHN3Z3E1Yk5UWVFrS2YzNFZ0cmM3QXJDM3c5cldzekxmbHdFYy10TF80RFlWVXM4V2w3cFlzYw?oc=5"
+   "url": "https://www.digitaltoday.co.kr/en/view/115326/apple-intelligence-to-launch-in-china-in-december-after-clearing-regulatory-hurdles"
   },
   {
-   "headline": "Bloomberg Law Brings Dockets and Litigation Intelligence to Microsoft Copilot",
-   "outlet": "AOL.com",
-   "outlet_name": "AOL",
-   "label": "REPORTED",
-   "url": "https://www.aol.com/articles/bloomberg-law-brings-dockets-litigation-184800000.html"
-  },
-  {
-   "headline": "Meta releases open-weight Muse Spark model for coding, agentic tasks",
-   "outlet": "Central Oregon Daily",
-   "outlet_name": "Central Oregon Daily",
-   "label": "REPORTED",
-   "url": "https://www.centraloregondaily.com/news/consumer/meta-releases-open-weight-muse-spark-model-for-coding-agentic-tasks/article_acb60c26-3a97-54c0-accf-25494d711556.html"
-  },
-  {
-   "headline": "Nvidia and Cisco unveil next-gen network interface built for the AI data center boom",
-   "outlet": "TechSpot",
-   "outlet_name": "TechSpot",
-   "label": "REPORTED",
-   "url": "https://www.techspot.com/news/114222-nvidia-cisco-unveil-next-gen-network-interface-built.html"
-  },
-  {
-   "headline": "FTC subpoenas OpenAI and Anthropic as AI safety incidents trigger consumer protection…",
-   "outlet": "International Business Times on MSN",
-   "outlet_name": "International Business Times on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/money/general/ftc-subpoenas-openai-and-anthropic-as-ai-safety-incidents-trigger-consumer-protection-investigation/ar-AA2ek68q"
-  },
-  {
-   "headline": "Actual Computer turns your Nvidia DGX Station into a department-scale AI factory",
-   "outlet": "actual.inc",
-   "outlet_name": "actual.inc",
+   "headline": "Trump posts AI-edited photo to brag about White House restoration work",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://actual.inc/company/blog/case-study-dgx-station-and-nemotron-3-5-super-vl"
+   "url": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column"
+  },
+  {
+   "headline": "Watch Anthropic 3Q Revenue Hits $16.8 Billion Ahead of IPO",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcFRnb3gxM1FMaEdLY1BEZ3FiamMwbU9WSW9CdlJscHVVZzhfRjhNUDJDY2kxczFhWDFuNnB3TGRQQy1SS3NkQUlGQ2RxRFZfbnpkYmRQUHlJZVNuWXZwX1MyWjhDd3ItdHhLMDBlcFlqVEdPaHV5aUo0clFjYk9RVXNLM21vNkw0Q0ZUaUpLTjlpOWVJYTM1dUN5RFgyMk9YUFlvZFNWXzl0UQ?oc=5"
+  },
+  {
+   "headline": "SpaceXSI Launches Grok Voice 3.0 for AI Customer Support",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "label": "STILL OPEN",
+   "url": "https://www.techrepublic.com/article/news-spacexsi-grok-voice-3-ai-customer-support/"
+  },
+  {
+   "headline": "Senate poised to add Claude to staffers’ AI tools",
+   "outlet": "Politico",
+   "outlet_name": "Politico",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEdYdXdudWxVSElEVjRJb1Q1T1FlQXZKNVVSUHRhS3hIeDZvNTlHSDJMNU1jSDk0SzVDWTdGd1NkX1JoMHA2bUthTkswZzdxMmxObG5vYVlQQTIwcHZEbE01dkpQOEpTOVR3ZlFQa1ZKLXpxY1M1dlN3YWVEeEpuTGtlY2I5UQ?oc=5"
+  },
+  {
+   "headline": "8 states, including Arizona, sue OpenAI",
+   "outlet": "FOX 10 Phoenix",
+   "outlet_name": "FOX 10 Phoenix",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1YQ1BFN003bnhST2RJR0lYWERRREEtc0l3bmVxa3VEQXhUY2xzMU15Szlad0VuUzZCSXhxUGtMLWtEd1JhRno0NDhzaW9jRGhqUlRQVzY5ZjZOZkRuYlFINExMZXJFZ9IBa0FVX3lxTE9Uc2JoSTBfRE44Y2dyN1h0Q1ZIWm55MlJidVpxLWc3Q1M4MmdkZzZRWkV3VUxoVS1wLUFKUG9uMi1Gc3BFZnN4ODl5Z1BQTmVlNXpOTEVlWlJlUWlwZnJLSTdSZjc0S1dQZjQw?oc=5"
+  },
+  {
+   "headline": "Ex-OpenAI engineer charged with planting recording device had one-way flight booked to…",
+   "outlet": "Fox News",
+   "outlet_name": "Fox News",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmJjWVV2and2TldhLVN6bk5xbHVXdXJmMWJPTi1CMGJxa01qS001cEhOeS0zRWlWU0tqbmpBLTZfamhIcnA1S093T0QySEZOZnhleDFWaE1BZ1Vlb1FfSWRjVHZ4Mks5cjVSemoyY3VXNnNCMGd4cThrTlplWWJxSUp2aklVVjFNVGlwMHRVLWFtWEVjVzlsSFFmWTdXaWhBSThmQWg1ekU5MWJaRFRHZWk0VC1PN21CMlHSAb8BQVVfeXFMUDBxTmFfV1ZpRmZCZjdUb05jUERHZ2xIMGkwdXJkbWR3LWUwcDQxQ21WNHNjR0dWQS02VlZBTmpsMFR0SGJYUTlfbEZkajdTdGpNQUpTQm9zbUxScG8yeGs4YlZHZ0tSbkR6X1VSSlZ4WTg4WlZUSjA2bk9TaTRjbkRmeXR2LVlWb0JwUENiM2VWWklhdXNFY2liOGtMN0tmYU1RaFExYWwyXzdodU1iXy1JbWI5cmxkLVJQRXhQMVE?oc=5"
+  },
+  {
+   "headline": "Meta launches new 'open' AI model to rival Chinese competition",
+   "outlet": "Channels Television on MSN",
+   "outlet_name": "Channels Television on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-xl/news/other/meta-launches-new-open-ai-model-to-rival-chinese-competition/ar-AA2ek9BD"
+  },
+  {
+   "headline": "Anthropic researchers sound warning that your fridge could become an AI cybersecurity risk",
+   "outlet": "DW.com",
+   "outlet_name": "DW.com",
+   "label": "STILL OPEN",
+   "url": "https://amp.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958"
+  },
+  {
+   "headline": "Nvidia debuts three new open AI models",
+   "outlet": "Yahoo Finance on MSN",
+   "outlet_name": "Yahoo Finance on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/nvidia-debuts-three-new-open-ai-models/ar-AA2ejllG"
   },
   {
    "headline": "Try Muse Spark Open for free on Together AI through 10/18 at 12 p.m. PT →",
@@ -121,30 +135,16 @@
    "outlet_name": "together.ai",
    "label": "CONFIRMED",
    "url": "https://www.together.ai/models/muse-spark-open-promo"
-  },
-  {
-   "headline": "Self-replicating AI: Is your fridge a cybersecurity risk?",
-   "outlet": "DW on MSN",
-   "outlet_name": "DW on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-in/news/other/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/ar-AA2ejGIN"
-  },
-  {
-   "headline": "Tim Cook: Apple Intelligence integrates Alibaba's Qwen model, test version to launch in…",
-   "outlet": "qbitai.com",
-   "outlet_name": "qbitai.com",
-   "label": "REPORTED",
-   "url": "https://www.qbitai.com/2026/10/503640.html"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
  "articles_24h_rounded": 15400,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/22.mp3",
- "audio_seconds": 49.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/23.mp3",
+ "audio_seconds": 46.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Anthropic is letting METR researchers look under the hood with employee-level access.\nConfirmed, per Roanoke Times: Your boss is watching you: Workplace surveillance is on the rise, spurred by AI.\nStill open, per Foreign Policy Journal: Microsoft (NASDAQ: MSFT) Unveils Maia 300 AI Chip To Challenge Nvidia (NASDAQ: NVDA) On Cost.\nReported by KVUE: 8 states sue OpenAI over teen safety risk.\nReported by AOL: Bloomberg Law Brings Dockets and Litigation Intelligence to Microsoft Copilot.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per The Verge: The FTC reportedly subpoenaed OpenAI and Anthropic for info on AI security incidents.\nReported by 디지털투데이: Apple Intelligence to launch in China in December after clearing regulatory hurdles.\nConfirmed, per The Verge: Trump posts AI-edited photo to brag about White House restoration work.\nReported by Bloomberg: Watch Anthropic 3Q Revenue Hits $16.8 Billion Ahead of IPO.\nStill open, per TechRepublic: SpaceXSI Launches Grok Voice 3.0 for AI Customer Support.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
