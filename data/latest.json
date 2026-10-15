@@ -1,92 +1,57 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-15T19:20:01Z",
- "hour": "2026-10-15T19:00:00Z",
+ "generated_at": "2026-10-15T20:20:02Z",
+ "hour": "2026-10-15T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Why are eight US states suing OpenAI?",
-   "outlet": "aljazeera.com",
-   "outlet_name": "Al Jazeera",
-   "url": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss",
-   "label": "CONFIRMED",
-   "summary_1line": "Eight US states sue OpenAI, alleging ChatGPT coached users to self-harm and enabled mass shootings.",
-   "published_at": "2026-10-15T16:28:44Z"
+   "title": "FTC Demands Answers From OpenAI and Anthropic About AI Safety",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/news-ftc-subpoenas-openai-anthropic-ai-safety/",
+   "label": "STILL OPEN",
+   "summary_1line": "FTC subpoenas OpenAI and Anthropic over AI safety and consumer protection concerns.",
+   "published_at": "2026-10-15T10:26:00Z"
   },
   {
-   "title": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date",
-   "outlet": "Meta AI",
-   "outlet_name": "Meta AI",
-   "url": "https://research.meta.ai/blog/muse-spark-open",
-   "label": "CONFIRMED",
-   "summary_1line": "Meta releases Muse Spark Open, first 816B model runnable on consumer Mac Studios.",
-   "published_at": "2026-10-15T16:56:06Z"
-  },
-  {
-   "title": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical",
-   "outlet": "LawSites",
-   "outlet_name": "LawSites",
-   "url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html",
-   "label": "REPORTED",
-   "summary_1line": "Microsoft launches Copilot for Legal with 20+ skills and 20+ partner integrations.",
-   "published_at": "2026-10-15T17:56:34Z"
-  },
-  {
-   "title": "Nebraska attorney general on OpenAI suit: We are confident we can demonstrate harm to Nebraskans",
-   "outlet": "CNBC",
+   "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
+   "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/15/nebraska-attorney-general-on-openai-suit-we-are-confident-we-can-demonstrate-harm-to-nebraskans.html",
+   "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
    "label": "CONFIRMED",
-   "summary_1line": "Eight states sue OpenAI for allegedly deceiving parents about ChatGPT safety.",
-   "published_at": "2026-10-15T17:34:30Z"
+   "summary_1line": "Apple and Meta partner to run Meta's AI model on Mac Studios, ending years of rivalry.",
+   "published_at": "2026-10-15T17:29:40Z"
   },
   {
-   "title": "Norrsken And NVIDIA To Launch Stockholm AI Lab As Part Of €300 Million AI Initiative",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "url": "https://pulse2.com/norrsken-and-nvidia-to-launch-stockholm-ai-lab-as-part-of-e300-million-ai-initiative/",
+   "title": "Nvidia CEO urges US-China AI cooperation to saf...",
+   "outlet": "Pluang",
+   "outlet_name": "Pluang",
+   "url": "https://pluang.com/en/news-feed/nvidia-harus-bekerja-sama-dengan-perusahaan-ai-china-untuk-keamanan-jensen-huang",
+   "label": "CONFIRMED",
+   "summary_1line": "Nvidia CEO Huang urges US-China AI cooperation and dialogue over regulation.",
+   "published_at": "2026-10-15T15:31:31Z"
+  },
+  {
+   "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+   "outlet": "NVIDIA Blog",
+   "outlet_name": "NVIDIA Blog",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
    "label": "REPORTED",
-   "summary_1line": "Norrsken and NVIDIA launch Stockholm AI Lab in 2027 for European AI founders.",
-   "published_at": "2026-10-15T17:05:01Z"
+   "summary_1line": "NVIDIA launches RTX Spark AI-capable PC platform with global events on October 16.",
+   "published_at": "2026-10-15T17:03:57Z"
+  },
+  {
+   "title": "Perplexity open sources SPACE, its sandbox for AI agents",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/perplexity-open-sources-space-agent-sandbox/",
+   "label": "CONFIRMED",
+   "summary_1line": "Perplexity open-sources SPACE sandbox for AI agents with 60ms spin-up time.",
+   "published_at": "2026-10-15T09:50:00Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "Why are eight US states suing OpenAI?",
-   "outlet": "aljazeera.com",
-   "outlet_name": "Al Jazeera",
-   "label": "CONFIRMED",
-   "url": "https://www.aljazeera.com/news/2026/10/15/why-are-eight-us-states-suing-openai?traffic_source=rss"
-  },
-  {
-   "headline": "Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date",
-   "outlet": "Meta AI",
-   "outlet_name": "Meta AI",
-   "label": "CONFIRMED",
-   "url": "https://research.meta.ai/blog/muse-spark-open"
-  },
-  {
-   "headline": "Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to…",
-   "outlet": "LawSites",
-   "outlet_name": "LawSites",
-   "label": "REPORTED",
-   "url": "https://www.lawnext.com/2026/10/microsoft-launches-copilot-for-legal-becoming-the-fourth-ai-giant-in-five-months-to-build-out-a-legal-vertical.html"
-  },
-  {
-   "headline": "Nebraska attorney general on OpenAI suit: We are confident we can demonstrate harm to…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/15/nebraska-attorney-general-on-openai-suit-we-are-confident-we-can-demonstrate-harm-to-nebraskans.html"
-  },
-  {
-   "headline": "Norrsken And NVIDIA To Launch Stockholm AI Lab As Part Of €300 Million AI Initiative",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "label": "REPORTED",
-   "url": "https://pulse2.com/norrsken-and-nvidia-to-launch-stockholm-ai-lab-as-part-of-e300-million-ai-initiative/"
-  },
   {
    "headline": "FTC Demands Answers From OpenAI and Anthropic About AI Safety",
    "outlet": "TechRepublic",
@@ -95,11 +60,60 @@
    "url": "https://www.techrepublic.com/article/news-ftc-subpoenas-openai-anthropic-ai-safety/"
   },
   {
-   "headline": "Canada's Cohere to Acquire AI Security Startup AISLE, Expanding European Footprint",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "Apple and Meta team up to make Muse AI model run on Mac computers",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html"
+  },
+  {
+   "headline": "Nvidia CEO urges US-China AI cooperation to saf...",
+   "outlet": "Pluang",
+   "outlet_name": "Pluang",
+   "label": "CONFIRMED",
+   "url": "https://pluang.com/en/news-feed/nvidia-harus-bekerja-sama-dengan-perusahaan-ai-china-untuk-keamanan-jensen-huang"
+  },
+  {
+   "headline": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
+   "outlet": "NVIDIA Blog",
+   "outlet_name": "NVIDIA Blog",
+   "label": "REPORTED",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/"
+  },
+  {
+   "headline": "Perplexity open sources SPACE, its sandbox for AI agents",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "CONFIRMED",
+   "url": "https://cryptobriefing.com/perplexity-open-sources-space-agent-sandbox/"
+  },
+  {
+   "headline": "Meta Releases Open AI Model While Keeping Its Best Tech Closed",
+   "outlet": "Yahoo Finance UK",
+   "outlet_name": "Yahoo Finance UK",
+   "label": "CONFIRMED",
+   "url": "https://uk.finance.yahoo.com/news/meta-releases-open-ai-model-170000703.html"
+  },
+  {
+   "headline": "SpaceX CEO Elon Musk Teases ‘X Shop’ After Amazon Shuts Out Grok Agents",
+   "outlet": "Stocktwits",
+   "outlet_name": "Stocktwits",
    "label": "STILL OPEN",
-   "url": "https://finance.biggo.com/news/e0be0b07-6bc0-4eff-be50-15628ae30bbd"
+   "url": "https://stocktwits.com/news-articles/markets/equity/space-x-ceo-elon-musk-teases-x-shop-after-amazon-shuts-out-grok-agents/cZxhTvgRBrB"
+  },
+  {
+   "headline": "OpenAI Sued by 8 States Over ChatGPT Safety Concerns",
+   "outlet": "TheWrap",
+   "outlet_name": "TheWrap",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2ZZNmtGbnhaMHdpN0ZJVjdBcjZHUEllRWl0NWoyOUxKX2JrR0pIN1pRMkhiUnVEZ0lEaVlvN011OHB2d3N0Ql9nbWtObHZzOXl6SW56MHczS0h1ZFluQ0p0UUJJTjRxOUhnSTBCVk9TSkRISGl1R0RNTXBYN29UNWlwTFJSMkNENV9zTF9Naw?oc=5"
+  },
+  {
+   "headline": "Critical ChatGPT GitHub Connector Flaw Could Allow Attackers to Steal Private Repository…",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "label": "STILL OPEN",
+   "url": "https://cybersecuritynews.com/chatgpt-github-connector-flaw/amp/"
   },
   {
    "headline": "Anthropic update on independent evaluators \\ Anthropic",
@@ -109,42 +123,28 @@
    "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
   },
   {
-   "headline": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
-   "outlet": "nvidianews.nvidia.com",
-   "outlet_name": "nvidianews.nvidia.com",
+   "headline": "Anthropic Narrows Revenue Gap With OpenAI Ahead of Its IPO",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "STILL OPEN",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-narrows-revenue-gap-with-openai-before-ipo/"
+  },
+  {
+   "headline": "How Meta Built Forum With AI-Native Engineering",
+   "outlet": "engineering.fb.com",
+   "outlet_name": "engineering.fb.com",
    "label": "CONFIRMED",
-   "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation"
-  },
-  {
-   "headline": "Hugging Face Releases Llama Windows",
-   "outlet": "Thurrott.com",
-   "outlet_name": "Thurrott.com",
-   "label": "REPORTED",
-   "url": "https://www.thurrott.com/a-i/local-ai/342899/hugging-face-releases-llama-windows"
-  },
-  {
-   "headline": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-   "outlet": "deepmind.google",
-   "outlet_name": "deepmind.google",
-   "label": "CONFIRMED",
-   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
-  },
-  {
-   "headline": "Show HN: Just gave Claude Code the website and ad budget to see what it would do",
-   "outlet": "snitch.alphaventure.com",
-   "outlet_name": "snitch.alphaventure.com",
-   "label": "REPORTED",
-   "url": "https://snitch.alphaventure.com/gate.php"
+   "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 15200,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 15300,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/19.mp3",
- "audio_seconds": 47.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/20.mp3",
+ "audio_seconds": 41.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Al Jazeera: Why are eight US states suing OpenAI.\nConfirmed, per Meta AI: Introducing Muse Spark Open, The Most Capable US Open‑Weight Model to Date.\nReported by LawSites: Microsoft Launches Copilot for Legal, Becoming the Fourth AI Giant in Five Months to Build Out a Legal Vertical.\nConfirmed, per CNBC: Nebraska attorney general on OpenAI suit: We are confident we can demonstrate harm to Nebraskans.\nReported by Pulse 2.0: Norrsken And NVIDIA To Launch Stockholm AI Lab As Part Of €300 Million AI Initiative.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per TechRepublic: FTC Demands Answers From OpenAI and Anthropic About AI Safety.\nConfirmed, per CNBC: Apple and Meta team up to make Muse AI model run on Mac computers.\nConfirmed, per Pluang: Nvidia CEO urges US-China AI cooperation to saf.\nReported by NVIDIA Blog: Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark.\nConfirmed, per Crypto Briefing: Perplexity open sources SPACE, its sandbox for AI agents.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
