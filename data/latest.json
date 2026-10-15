@@ -1,133 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-15T20:20:02Z",
- "hour": "2026-10-15T20:00:00Z",
+ "generated_at": "2026-10-15T21:20:01Z",
+ "hour": "2026-10-15T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "FTC Demands Answers From OpenAI and Anthropic About AI Safety",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "url": "https://www.techrepublic.com/article/news-ftc-subpoenas-openai-anthropic-ai-safety/",
-   "label": "STILL OPEN",
-   "summary_1line": "FTC subpoenas OpenAI and Anthropic over AI safety and consumer protection concerns.",
-   "published_at": "2026-10-15T10:26:00Z"
-  },
-  {
-   "title": "Apple and Meta team up to make Muse AI model run on Mac computers",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html",
+   "title": "Meta launches an open-weight AI model that runs on Macs",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
    "label": "CONFIRMED",
-   "summary_1line": "Apple and Meta partner to run Meta's AI model on Mac Studios, ending years of rivalry.",
-   "published_at": "2026-10-15T17:29:40Z"
+   "summary_1line": "Meta launches Muse Spark Open, an open-weight model optimized for Mac computers.",
+   "published_at": "2026-10-15T20:04:53Z"
   },
   {
-   "title": "Nvidia CEO urges US-China AI cooperation to saf...",
-   "outlet": "Pluang",
-   "outlet_name": "Pluang",
-   "url": "https://pluang.com/en/news-feed/nvidia-harus-bekerja-sama-dengan-perusahaan-ai-china-untuk-keamanan-jensen-huang",
-   "label": "CONFIRMED",
-   "summary_1line": "Nvidia CEO Huang urges US-China AI cooperation and dialogue over regulation.",
-   "published_at": "2026-10-15T15:31:31Z"
-  },
-  {
-   "title": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-   "outlet": "NVIDIA Blog",
-   "outlet_name": "NVIDIA Blog",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/",
+   "title": "Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/15/eight-states-sue-openai-saying-chatgpt-hurt-kids-and-lied-to-adults/",
    "label": "REPORTED",
-   "summary_1line": "NVIDIA launches RTX Spark AI-capable PC platform with global events on October 16.",
-   "published_at": "2026-10-15T17:03:57Z"
+   "summary_1line": "Eight states sue OpenAI over ChatGPT's alleged harm to children and consumer deception.",
+   "published_at": "2026-10-15T19:07:11Z"
   },
   {
-   "title": "Perplexity open sources SPACE, its sandbox for AI agents",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/perplexity-open-sources-space-agent-sandbox/",
+   "title": "Anthropic is giving AI safety evaluators “employee-like” access to its systems.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012308/anthropic-metr-employee-like-access",
    "label": "CONFIRMED",
-   "summary_1line": "Perplexity open-sources SPACE sandbox for AI agents with 60ms spin-up time.",
-   "published_at": "2026-10-15T09:50:00Z"
+   "summary_1line": "Anthropic grants METR safety evaluators deep system access with redaction controls.",
+   "published_at": "2026-10-15T11:37:00Z"
+  },
+  {
+   "title": "Amazon shuts out Elon Musk’s Grok Bot so he may just build his own rival store",
+   "outlet": "TESLARATI",
+   "outlet_name": "TESLARATI",
+   "url": "https://www.teslarati.com/elon-musk-grok-bot-amazon-shopping/",
+   "label": "STILL OPEN",
+   "summary_1line": "Amazon blocks Grok Bot; Musk hints at rival store and cryptic Roadster thruster demo.",
+   "published_at": "2026-10-15T12:34:00Z"
+  },
+  {
+   "title": "Senate Preparing to Roll Out Anthropic’s Claude for Staff Use",
+   "outlet": "Bloomberg Government News",
+   "outlet_name": "Bloomberg Government News",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEIycmF3b1RDNTluMzNjRm5LTjRtYXJiZXVqX0VzR2M2Ql9XZEJDbUNITEdyTmQzdk5GcUNkX2pVdzIzMnIxbkpUb2Jlb240c2dTQUZHcmdjTzZITGxuT1lJXzhiR1oxeVFrdDB5S1pscjlZSWd2UThic0pDbTdzYXlIeUxlQUI0aVdTb2VmVTI3RUFnaFZZcV9qb0FpbkVIbDhMT3NkX05vVnJJ?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-15T18:31:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "FTC Demands Answers From OpenAI and Anthropic About AI Safety",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "label": "STILL OPEN",
-   "url": "https://www.techrepublic.com/article/news-ftc-subpoenas-openai-anthropic-ai-safety/"
-  },
-  {
-   "headline": "Apple and Meta team up to make Muse AI model run on Mac computers",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "Meta launches an open-weight AI model that runs on Macs",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/15/apple-meta-partner-ai.html"
+   "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
   },
   {
-   "headline": "Nvidia CEO urges US-China AI cooperation to saf...",
-   "outlet": "Pluang",
-   "outlet_name": "Pluang",
-   "label": "CONFIRMED",
-   "url": "https://pluang.com/en/news-feed/nvidia-harus-bekerja-sama-dengan-perusahaan-ai-china-untuk-keamanan-jensen-huang"
-  },
-  {
-   "headline": "Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark",
-   "outlet": "NVIDIA Blog",
-   "outlet_name": "NVIDIA Blog",
+   "headline": "Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
    "label": "REPORTED",
-   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-launch-event-invite/"
+   "url": "https://fortune.com/2026/10/15/eight-states-sue-openai-saying-chatgpt-hurt-kids-and-lied-to-adults/"
   },
   {
-   "headline": "Perplexity open sources SPACE, its sandbox for AI agents",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "Anthropic is giving AI safety evaluators “employee-like” access to its systems.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/perplexity-open-sources-space-agent-sandbox/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012308/anthropic-metr-employee-like-access"
   },
   {
-   "headline": "Meta Releases Open AI Model While Keeping Its Best Tech Closed",
-   "outlet": "Yahoo Finance UK",
-   "outlet_name": "Yahoo Finance UK",
-   "label": "CONFIRMED",
-   "url": "https://uk.finance.yahoo.com/news/meta-releases-open-ai-model-170000703.html"
-  },
-  {
-   "headline": "SpaceX CEO Elon Musk Teases ‘X Shop’ After Amazon Shuts Out Grok Agents",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
+   "headline": "Amazon shuts out Elon Musk’s Grok Bot so he may just build his own rival store",
+   "outlet": "TESLARATI",
+   "outlet_name": "TESLARATI",
    "label": "STILL OPEN",
-   "url": "https://stocktwits.com/news-articles/markets/equity/space-x-ceo-elon-musk-teases-x-shop-after-amazon-shuts-out-grok-agents/cZxhTvgRBrB"
+   "url": "https://www.teslarati.com/elon-musk-grok-bot-amazon-shopping/"
   },
   {
-   "headline": "OpenAI Sued by 8 States Over ChatGPT Safety Concerns",
-   "outlet": "TheWrap",
-   "outlet_name": "TheWrap",
+   "headline": "Senate Preparing to Roll Out Anthropic’s Claude for Staff Use",
+   "outlet": "Bloomberg Government News",
+   "outlet_name": "Bloomberg Government News",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV2ZZNmtGbnhaMHdpN0ZJVjdBcjZHUEllRWl0NWoyOUxKX2JrR0pIN1pRMkhiUnVEZ0lEaVlvN011OHB2d3N0Ql9nbWtObHZzOXl6SW56MHczS0h1ZFluQ0p0UUJJTjRxOUhnSTBCVk9TSkRISGl1R0RNTXBYN29UNWlwTFJSMkNENV9zTF9Naw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeEIycmF3b1RDNTluMzNjRm5LTjRtYXJiZXVqX0VzR2M2Ql9XZEJDbUNITEdyTmQzdk5GcUNkX2pVdzIzMnIxbkpUb2Jlb240c2dTQUZHcmdjTzZITGxuT1lJXzhiR1oxeVFrdDB5S1pscjlZSWd2UThic0pDbTdzYXlIeUxlQUI0aVdTb2VmVTI3RUFnaFZZcV9qb0FpbkVIbDhMT3NkX05vVnJJ?oc=5"
   },
   {
-   "headline": "Critical ChatGPT GitHub Connector Flaw Could Allow Attackers to Steal Private Repository…",
-   "outlet": "CyberSecurityNews",
-   "outlet_name": "CyberSecurityNews",
+   "headline": "NVIDIA Announces The 120B Nemotron 3.5 Super VL Model For AI Agents And 2 Tiny 4 GB And…",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "label": "REPORTED",
+   "url": "https://wccftech.com/nvidia-announces-the-120b-nemotron-3-5-super-vl-model-for-ai-agents-and-2-tiny-4-gb-and-24-gb-edge-models-under-the-nemotron-3-5-bolt-umbrella/"
+  },
+  {
+   "headline": "Bloomberg Law Brings Dockets and Litigation Intelligence to Microsoft Copilot",
+   "outlet": "AOL.com",
+   "outlet_name": "AOL",
+   "label": "REPORTED",
+   "url": "https://www.aol.com/articles/bloomberg-law-brings-dockets-litigation-184800000.html"
+  },
+  {
+   "headline": "Nvidia and Cisco unveil next-gen network interface built for the AI data center boom",
+   "outlet": "TechSpot",
+   "outlet_name": "TechSpot",
+   "label": "REPORTED",
+   "url": "https://www.techspot.com/news/114222-nvidia-cisco-unveil-next-gen-network-interface-built.html"
+  },
+  {
+   "headline": "Straive expands enterprise AI services through OpenAI partnership",
+   "outlet": "150sec",
+   "outlet_name": "150sec",
+   "label": "REPORTED",
+   "url": "https://150sec.com/straive-expands-enterprise-ai-services-through-openai-partnership/"
+  },
+  {
+   "headline": "FTC subpoenas OpenAI and Anthropic as AI safety incidents trigger consumer protection…",
+   "outlet": "International Business Times on MSN",
+   "outlet_name": "International Business Times on MSN",
    "label": "STILL OPEN",
-   "url": "https://cybersecuritynews.com/chatgpt-github-connector-flaw/amp/"
-  },
-  {
-   "headline": "Anthropic update on independent evaluators \\ Anthropic",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators"
-  },
-  {
-   "headline": "Anthropic Narrows Revenue Gap With OpenAI Ahead of Its IPO",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
-   "label": "STILL OPEN",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-narrows-revenue-gap-with-openai-before-ipo/"
+   "url": "https://www.msn.com/en-us/money/general/ftc-subpoenas-openai-and-anthropic-as-ai-safety-incidents-trigger-consumer-protection-investigation/ar-AA2ek68q"
   },
   {
    "headline": "How Meta Built Forum With AI-Native Engineering",
@@ -135,16 +128,23 @@
    "outlet_name": "engineering.fb.com",
    "label": "CONFIRMED",
    "url": "https://engineering.fb.com/2026/10/15/ml-applications/how-meta-built-forum-ai-native-engineering/"
+  },
+  {
+   "headline": "BoE Warns Banks Against AI Cybersecurity Risks",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "CONFIRMED",
+   "url": "https://www.pymnts.com/cybersecurity/2026/boe-warns-banks-against-ai-cybersecurity-risks/"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 15300,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 15400,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/20.mp3",
- "audio_seconds": 41.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/21.mp3",
+ "audio_seconds": 44.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per TechRepublic: FTC Demands Answers From OpenAI and Anthropic About AI Safety.\nConfirmed, per CNBC: Apple and Meta team up to make Muse AI model run on Mac computers.\nConfirmed, per Pluang: Nvidia CEO urges US-China AI cooperation to saf.\nReported by NVIDIA Blog: Be There for the Beginning: Celebrate the Launch of NVIDIA RTX Spark.\nConfirmed, per Crypto Briefing: Perplexity open sources SPACE, its sandbox for AI agents.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Meta launches an open-weight AI model that runs on Macs.\nReported by Fortune: Eight states sue OpenAI saying ChatGPT hurt kids and lied to adults.\nConfirmed, per The Verge: Anthropic is giving AI safety evaluators “employee-like” access to its systems.\nStill open, per TESLARATI: Amazon shuts out Elon Musk’s Grok Bot so he may just build his own rival store.\nReported by Bloomberg Government News: Senate Preparing to Roll Out Anthropic’s Claude for Staff Use.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
