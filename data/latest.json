@@ -1,91 +1,45 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-15T16:20:02Z",
- "hour": "2026-10-15T16:00:00Z",
+ "generated_at": "2026-10-15T17:20:01Z",
+ "hour": "2026-10-15T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad",
+   "title": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/",
    "label": "STILL OPEN",
-   "summary_1line": "Microsoft optimizes Windows for Nvidia's Arm-based RTX Spark AI laptops with gaming and memory support.",
-   "published_at": "2026-10-15T14:30:00Z"
+   "summary_1line": "FTC probes OpenAI and Anthropic over AI safety incidents with formal investigative demands.",
+   "published_at": "2026-10-15T15:43:24Z"
   },
   {
-   "title": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
-   "outlet": "ZDNET",
-   "outlet_name": "ZDNET",
-   "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/",
+   "title": "Crowded Launches Crowded MCP, Bringing Nonprofit Financial Operations Into ChatGPT and Claude",
+   "outlet": "Markets Insider",
+   "outlet_name": "Markets Insider",
+   "url": "https://markets.businessinsider.com/news/currencies/crowded-launches-crowded-mcp-bringing-nonprofit-financial-operations-into-chatgpt-and-claude-1036630514",
    "label": "CONFIRMED",
-   "summary_1line": "Nvidia launches three open-weight models to challenge Chinese AI dominance.",
-   "published_at": "2026-10-15T15:00:11Z"
+   "summary_1line": "Crowded launches MCP connector linking nonprofit financial data to ChatGPT and Claude.",
+   "published_at": "2026-10-15T03:03:00Z"
   },
   {
-   "title": "West Virginia sues ChatGPT’s parent company",
-   "outlet": "WOWT",
-   "outlet_name": "WOWT",
-   "url": "https://www.wowt.com/video/2026/10/15/west-virginia-sues-chatgpts-parent-company/",
+   "title": "Anthropic Revenue Hits $16.8 Billion in Q3 Before IPO",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-15/anthropic-revenue-hits-16-8-billion-in-q3-before-ipo-video",
    "label": "REPORTED",
-   "summary_1line": "Man seriously injured by car on Glendale road Thursday morning.",
-   "published_at": "2026-10-15T14:39:54Z"
-  },
-  {
-   "title": "Opsin Raises $21 Million Led By SYN Ventures And Race Capital For AI Agent Security",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "url": "https://pulse2.com/opsin-raises-21-million-led-by-syn-ventures-and-race-capital-for-ai-agent-security/",
-   "label": "CONFIRMED",
-   "summary_1line": "Opsin raises $21M to secure autonomous AI agents in enterprises.",
-   "published_at": "2026-10-15T14:06:07Z"
-  },
-  {
-   "title": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending will pay off",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Big Tech invests billions to build forward-deployed engineering workforces for AI deployment.",
-   "published_at": "2026-10-15T14:10:14Z"
+   "summary_1line": null,
+   "published_at": "2026-10-15T16:33:42Z"
   }
  ],
  "ticker": [
   {
-   "headline": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
+   "headline": "FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
    "label": "STILL OPEN",
-   "url": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad"
-  },
-  {
-   "headline": "Nvidia’s new Nemotron 3.5 Super VL is another step forward for US open-weight AI",
-   "outlet": "ZDNET",
-   "outlet_name": "ZDNET",
-   "label": "CONFIRMED",
-   "url": "https://www.zdnet.com/innovation/nvidia-nemotron-3-5-super-vl-model-us-open-weight-ai/"
-  },
-  {
-   "headline": "West Virginia sues ChatGPT’s parent company",
-   "outlet": "WOWT",
-   "outlet_name": "WOWT",
-   "label": "REPORTED",
-   "url": "https://www.wowt.com/video/2026/10/15/west-virginia-sues-chatgpts-parent-company/"
-  },
-  {
-   "headline": "Opsin Raises $21 Million Led By SYN Ventures And Race Capital For AI Agent Security",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "label": "CONFIRMED",
-   "url": "https://pulse2.com/opsin-raises-21-million-led-by-syn-ventures-and-race-capital-for-ai-agent-security/"
-  },
-  {
-   "headline": "AWS, Anthropic race to deploy army of specialized engineers key to proving AI spending…",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/15/aws-anthropic-racing-to-deploy-army-of-specialized-ai-engineers.html"
+   "url": "https://arstechnica.com/tech-policy/2026/10/ftc-probes-if-openai-anthropic-security-incidents-harmed-americans-report-says/"
   },
   {
    "headline": "Crowded Launches Crowded MCP, Bringing Nonprofit Financial Operations Into ChatGPT and…",
@@ -95,11 +49,11 @@
    "url": "https://markets.businessinsider.com/news/currencies/crowded-launches-crowded-mcp-bringing-nonprofit-financial-operations-into-chatgpt-and-claude-1036630514"
   },
   {
-   "headline": "FTC issues subpoenas to Anthropic and OpenAI over safety incidents",
-   "outlet": "CBS News on MSN",
-   "outlet_name": "CBS News on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/news/other/ftc-issues-subpoenas-to-anthropic-and-openai-over-safety-incidents/ar-AA2ejcLz"
+   "headline": "Anthropic Revenue Hits $16.8 Billion in Q3 Before IPO",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-15/anthropic-revenue-hits-16-8-billion-in-q3-before-ipo-video"
   },
   {
    "headline": "Microsoft Launches Copilot for Legal – Brace for Impact!",
@@ -116,6 +70,13 @@
    "url": "https://the420.in/anthropic-pentagon-blacklist-appeals-court-rehearing/"
   },
   {
+   "headline": "Hugging Face Releases Llama Windows",
+   "outlet": "Thurrott.com",
+   "outlet_name": "Thurrott.com",
+   "label": "REPORTED",
+   "url": "https://www.thurrott.com/a-i/local-ai/342899/hugging-face-releases-llama-windows"
+  },
+  {
    "headline": "Xinhua Headlines : Chinese open - source AI helps African innovators cut costs , develop…",
    "outlet": "heraldglobe.com",
    "outlet_name": "heraldglobe.com",
@@ -123,11 +84,18 @@
    "url": "http://www.heraldglobe.com/news/279376549/xinhua-headlines-chinese-open-source-ai-helps-african-innovators-cut-costs-develop-local-solutions"
   },
   {
-   "headline": "FSB Says Banks Need to Have Company-Wide AI Regulation",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
+   "headline": "How a Global Insurance Company and Scale Are Building a Real-Time Copilot With Nemotron",
+   "outlet": "scale.com",
+   "outlet_name": "scale.com",
    "label": "CONFIRMED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/fsb-says-banks-need-to-have-company-wide-ai-regulation/"
+   "url": "https://scale.com/blog/building-a-real-time-copilot-for-global-insurance-company"
+  },
+  {
+   "headline": "Cline Agents Harness Unlocks Benchmark-Leading Performance from NVIDIA Nemotron 3.5 Super…",
+   "outlet": "cline.ghost.io",
+   "outlet_name": "cline.ghost.io",
+   "label": "REPORTED",
+   "url": "https://cline.ghost.io/nvidia-nemotron-3-5-super-vl-cline-agent-harness/"
   },
   {
    "headline": "Attorney General Hilgers Announces Lawsuit Against OpenAI for Deceiving Nebraskans about…",
@@ -135,16 +103,30 @@
    "outlet_name": "chadronradio.com",
    "label": "REPORTED",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVzFybVM2bGdqZF8tU0VKQ2JyZXg3bXNtNDlyNnh2LVJkRVl2WVNHVGE5ek9raEJEb00zU1QtVjJZUThDdVRLMWtGLVp3cXg5STFVQlJ6RjhHbzc4SkF5UWhxZjd3OTdPR0V1aVgwM0kySGZBai0tWG91RXVxSHJfaTFkN1FydWNUcGwzMTRMNDBDYnpNV0M5X1B1cmdaeEpJRTVpTWZSTTFIcWk0VEc0c2dDbmVjQ0s4LVNrbGVMd3VTWHBfM0tWTjg3d3lXT3hRS3c?oc=5"
+  },
+  {
+   "headline": "Adobe and NVIDIA Expand Collaboration to Speed Agentic Creation",
+   "outlet": "nvidianews.nvidia.com",
+   "outlet_name": "nvidianews.nvidia.com",
+   "label": "REPORTED",
+   "url": "https://nvidianews.nvidia.com/news/adobe-and-nvidia-expand-collaboration-to-speed-agentic-creation"
+  },
+  {
+   "headline": "400 publications are now partnering with us on our News AI pilot program.",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/products-and-platforms/products/news/news-ai-pilot-update-publishers/"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from three different outlets.",
  "articles_24h_rounded": 15100,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/16.mp3",
- "audio_seconds": 64.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/17.mp3",
+ "audio_seconds": 35.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMicrosoft is optimizing Windows for Nvidia's Arm-based RTX Spark laptops, still open per The Verge, with gaming and memory support.\nConfirmed by ZDNET: Nvidia launches three open-weight models to challenge Chinese artificial intelligence dominance with its new Nemotron 3.5 Super VL.\nReported by WOWT: A man was seriously injured by a car on Glendale road Thursday morning.\nOpsin raises 21 million dollars led by SYN Ventures and Race Capital for artificial intelligence agent security, confirmed per Pulse 2.0.\nBig Tech invests billions to build forward-deployed engineering workforces for artificial intelligence deployment, confirmed by CNBC, with AWS and Anthropic racing to prove spending will pay off.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per Ars Technica: FTC probes if OpenAI, Anthropic security incidents harmed Americans, report says.\nConfirmed, per Markets Insider: Crowded Launches Crowded MCP, Bringing Nonprofit Financial Operations Into ChatGPT and Claude.\nReported by Bloomberg: Anthropic Revenue Hits $16.8 Billion in Q3 Before IPO.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
