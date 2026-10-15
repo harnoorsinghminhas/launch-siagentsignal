@@ -1,119 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-15T14:20:01Z",
- "hour": "2026-10-15T14:00:00Z",
+ "generated_at": "2026-10-15T15:20:01Z",
+ "hour": "2026-10-15T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Nvidia's Huang advocates U.S.-China AI dialogue over regulation to manage risks.",
-   "published_at": "2026-10-15T04:12:00Z"
-  },
-  {
-   "title": "DeepSeek suffers another major outage as company offers user refunds",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/big-tech/article/3371047/deepseek-offers-user-refunds-after-suffering-another-major-outage",
-   "label": "CONFIRMED",
-   "summary_1line": "DeepSeek outage lasted nearly five hours; company offers week-long refunds.",
-   "published_at": "2026-10-15T12:55:26Z"
-  },
-  {
-   "title": "Apple Intelligence China launch plan for December",
-   "outlet": "NeoTeo",
-   "outlet_name": "NeoTeo",
-   "url": "https://www.neoteo.com/en/bloomberg-reports-apples-planned-china-debut-for-apple-intelligence",
+   "title": "Anthropic in talks with MeitY to make AI models available for safety testing, wants binding transparency",
+   "outlet": "ThePrint",
+   "outlet_name": "ThePrint",
+   "url": "https://theprint.in/tech/anthropic-in-talks-with-meity-to-make-ai-models-available-for-safety-testing-wants-binding-transparency/3072966/",
    "label": "STILL OPEN",
-   "summary_1line": "Apple Intelligence planned for China in December with Alibaba AI model approvals.",
-   "published_at": "2026-10-15T03:47:15Z"
+   "summary_1line": "Anthropic seeks India AI safety testing partnership and binding model transparency rules.",
+   "published_at": "2026-10-15T13:39:44Z"
   },
   {
-   "title": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html",
+   "title": "Creators of Apache Ranger Launched AI Agent Security Guide Series for CISOs",
+   "outlet": "EIN Presswire",
+   "outlet_name": "EIN Presswire",
+   "url": "https://www.einpresswire.com/article/949447517/creators-of-apache-ranger-launched-ai-agent-security-guide-series-for-cisos",
    "label": "CONFIRMED",
-   "summary_1line": "Amazon launches always-listening Bee wearables and card-sized recorder for AI market.",
-   "published_at": "2026-10-15T12:00:01Z"
+   "summary_1line": "Trust3 AI launches AI agent security guide for CISOs evaluating enterprise agent controls.",
+   "published_at": "2026-10-15T13:15:00Z"
   },
   {
-   "title": "Google DeepMind is building a new robotics lab in Cambridge.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1011807/google-deepmind-is-building-a-new-robotics-lab-in-cambridge",
+   "title": "Your boss is watching you: Workplace surveillance is on the rise, spurred by AI",
+   "outlet": "The Conway Daily Sun",
+   "outlet_name": "The Conway Daily Sun",
+   "url": "https://www.conwaydailysun.com/bridgton_news/around_the_web/your-boss-is-watching-you-workplace-surveillance-is-on-the-rise-spurred-by-ai/article_812cae26-a9cd-59de-bc90-b456548bb229.html",
    "label": "CONFIRMED",
-   "summary_1line": "Google DeepMind opens Cambridge robotics lab led by ex-Boston Dynamics CTO.",
-   "published_at": "2026-10-15T05:16:00Z"
+   "summary_1line": "Burger King's AI chatbot Patty monitors cashiers; surveillance expanding despite limited performance evidence.",
+   "published_at": "2026-10-15T13:05:08Z"
+  },
+  {
+   "title": "ServiceNow launches AI Passport to ride along with Nvidia's Open Agent Safety Platform",
+   "outlet": "Constellation Research",
+   "outlet_name": "Constellation Research",
+   "url": "https://www.constellationr.com/insights/news/servicenow-launches-ai-passport-ride-along-nvidias-open-agent-safety-platform",
+   "label": "REPORTED",
+   "summary_1line": "ServiceNow launches AI Passport for AI agent governance with Nvidia partnership.",
+   "published_at": "2026-10-15T13:08:42Z"
+  },
+  {
+   "title": "DeepSeek apologizes and releases compensation plan",
+   "outlet": "正观新闻",
+   "outlet_name": "正观新闻",
+   "url": "https://www.zhengguannews.cn/news/506204.html",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek API outage lasted nearly 5 hours; company offers full refund compensation.",
+   "published_at": "2026-10-15T12:31:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html"
-  },
-  {
-   "headline": "DeepSeek suffers another major outage as company offers user refunds",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
-   "label": "CONFIRMED",
-   "url": "https://www.scmp.com/tech/big-tech/article/3371047/deepseek-offers-user-refunds-after-suffering-another-major-outage"
-  },
-  {
-   "headline": "Apple Intelligence China launch plan for December",
-   "outlet": "NeoTeo",
-   "outlet_name": "NeoTeo",
+   "headline": "Anthropic in talks with MeitY to make AI models available for safety testing, wants…",
+   "outlet": "ThePrint",
+   "outlet_name": "ThePrint",
    "label": "STILL OPEN",
-   "url": "https://www.neoteo.com/en/bloomberg-reports-apples-planned-china-debut-for-apple-intelligence"
+   "url": "https://theprint.in/tech/anthropic-in-talks-with-meity-to-make-ai-models-available-for-safety-testing-wants-binding-transparency/3072966/"
   },
   {
-   "headline": "Amazon launches new Bee 'personal AI' devices that listen to conversations",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "Creators of Apache Ranger Launched AI Agent Security Guide Series for CISOs",
+   "outlet": "EIN Presswire",
+   "outlet_name": "EIN Presswire",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/15/amazon-bee-frontier-eclipse-ai-devices.html"
+   "url": "https://www.einpresswire.com/article/949447517/creators-of-apache-ranger-launched-ai-agent-security-guide-series-for-cisos"
   },
   {
-   "headline": "Google DeepMind is building a new robotics lab in Cambridge.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
+   "headline": "Your boss is watching you: Workplace surveillance is on the rise, spurred by AI",
+   "outlet": "The Conway Daily Sun",
+   "outlet_name": "The Conway Daily Sun",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1011807/google-deepmind-is-building-a-new-robotics-lab-in-cambridge"
+   "url": "https://www.conwaydailysun.com/bridgton_news/around_the_web/your-boss-is-watching-you-workplace-surveillance-is-on-the-rise-spurred-by-ai/article_812cae26-a9cd-59de-bc90-b456548bb229.html"
   },
   {
-   "headline": "Anthropic’s warning about 'AI Worms' and evil in your oven",
-   "outlet": "IOL",
-   "outlet_name": "IOL",
+   "headline": "ServiceNow launches AI Passport to ride along with Nvidia's Open Agent Safety Platform",
+   "outlet": "Constellation Research",
+   "outlet_name": "Constellation Research",
+   "label": "REPORTED",
+   "url": "https://www.constellationr.com/insights/news/servicenow-launches-ai-passport-ride-along-nvidias-open-agent-safety-platform"
+  },
+  {
+   "headline": "DeepSeek apologizes and releases compensation plan",
+   "outlet": "正观新闻",
+   "outlet_name": "正观新闻",
+   "label": "REPORTED",
+   "url": "https://www.zhengguannews.cn/news/506204.html"
+  },
+  {
+   "headline": "DeepSeek offers compensation after restoring from service outage",
+   "outlet": "CGTN",
+   "outlet_name": "CGTN",
+   "label": "CONFIRMED",
+   "url": "https://news.cgtn.com/news/2026-10-15/DeepSeek-offers-compensation-after-restoring-from-service-outage-1RgrRBZHn9u/p.html"
+  },
+  {
+   "headline": "EU Opens Probe Into OpenAI, Anthropic Over AI Agents That Escaped Tests and Hacked Systems",
+   "outlet": "International Business Times Singapore",
+   "outlet_name": "International Business Times Singapore",
    "label": "STILL OPEN",
-   "url": "https://iol.co.za/technology/software-and-internet/2026-10-15-anthropics-warning-about-ai-worms-and-evil-in-your-oven/"
+   "url": "https://www.ibtimes.sg/eu-opens-probe-into-openai-anthropic-over-ai-agents-that-escaped-tests-hacked-systems-95159"
   },
   {
-   "headline": "A New Lawsuit Accuses OpenAI of Misusing Kids' Private ChatGPT Conversations",
-   "outlet": "All About Cookies",
-   "outlet_name": "All About Cookies",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85Z1NUa1BLNkhjekIxWk1xTEtxMmZtMmY5LUxWWU5yUlBoaVRmM3lIamd2S2RHMzI4U1ZGREVVck1tOEo1WmJzR3JjUlN1YmxPMFNlUEpMbkxXOHVQZWpSNEFUSUxNTHA3aWhsSzJEcHZwREU?oc=5"
-  },
-  {
-   "headline": "Arizona attorney general sues ChatGPT founders over child safety",
-   "outlet": "Arizona Daily Star",
-   "outlet_name": "Arizona Daily Star",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkRoTkhXVGw5U0J6Zi15SlRpRHpMUUxMYWowLWdTcmJxUnBqcUpRamtwbE1yVC01RnA5c0hROGN0bXB6UWJTUGxNMVp4SWR6RXhETlRsOUVtSnhiM2NIWS15STl6SG9SSl9BSE5iU3ozNTkwUlIwd3h1V2MwX0pNcXAzeGFtUTlzMTh4S3RVaFgzeUd0YllJQ1k0cUxIS2xhUi0wUkN2REZXQkIt?oc=5"
-  },
-  {
-   "headline": "Acht US - Bundesstaaten verklagen OpenAI",
-   "outlet": "nordkurier.de",
-   "outlet_name": "nordkurier.de",
+   "headline": "Cohere moves to buy AI cybersecurity startup AISLE",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
    "label": "CONFIRMED",
-   "url": "https://www.nordkurier.de/wirtschaft/acht-us-bundesstaaten-verklagen-openai-4939047"
+   "url": "https://m.economictimes.com/tech/artificial-intelligence/cohere-moves-to-buy-ai-cybersecurity-startup-aisle/articleshow/134962788.cms"
   },
   {
    "headline": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
@@ -123,6 +116,13 @@
    "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/"
   },
   {
+   "headline": "FTC issues subpoenas to Anthropic and OpenAI over safety incidents",
+   "outlet": "CBS News on MSN",
+   "outlet_name": "CBS News on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-us/news/other/ftc-issues-subpoenas-to-anthropic-and-openai-over-safety-incidents/ar-AA2ejcLz"
+  },
+  {
    "headline": "WeChat, Taobao, Meituan and other 151 apps refuse Doubao phone assistant GUI automated…",
    "outlet": "leiphone.com",
    "outlet_name": "leiphone.com",
@@ -130,21 +130,21 @@
    "url": "https://www.leiphone.com/category/zaobao/VMod1gHtw3lRoiXd.html"
   },
   {
-   "headline": "Gemini 4 Argon rolls out: Benchmark scores reflect high mode, not subscriber default",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
+   "headline": "Microsoft Launches Copilot for Legal – Brace for Impact!",
+   "outlet": "artificiallawyer.com",
+   "outlet_name": "artificiallawyer.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/gemini-4-argon-rolls-out-benchmark-scores-reflect-high-mode-not-subscriber-default/ar-AA2eiaUC"
+   "url": "https://www.artificiallawyer.com/2026/10/15/microsoft-launches-copilot-for-legal-brace-for-impact/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 14900,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 15000,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/14.mp3",
- "audio_seconds": 68.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/15/15.mp3",
+ "audio_seconds": 54.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia's Jensen Huang tells CNBC that U.S. and Chinese artificial intelligence companies should work together on safety through dialogue rather than regulation to manage risks. Confirmed by CNBC.\nDeepSeek experienced a major outage lasting nearly five hours, and the company is offering users week-long refunds. Confirmed by South China Morning Post.\nApple Intelligence is planned for launch in China during December, with approvals from Alibaba's artificial intelligence model. Still open, per NeoTeo.\nAmazon has launched new Bee personal artificial intelligence devices, including wearables and a card-sized recorder that listen to conversations. Confirmed by CNBC.\nGoogle DeepMind is opening a new robotics lab in Cambridge, led by a former Boston Dynamics executive. Confirmed by The Verge.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic is in talks with India's tech ministry to make AI models available for safety testing and wants binding transparency rules. Still open, per ThePrint.\nThe creators of Apache Ranger launched an AI agent security guide series for CISOs evaluating enterprise agent controls. Confirmed by EIN Presswire.\nBurger King's AI chatbot Patty monitors cashiers as workplace surveillance expands, though evidence of performance gains remains limited. Confirmed, per The Conway Daily Sun.\nServiceNow launched AI Passport for AI agent governance alongside a partnership with Nvidia. Reported by Constellation Research.\nDeepSeek's API outage lasted nearly 5 hours and the company is offering full refund compensation. Reported by 正观新闻.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
