@@ -1,105 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T03:20:01Z",
- "hour": "2026-10-16T03:00:00Z",
+ "generated_at": "2026-10-16T04:20:01Z",
+ "hour": "2026-10-16T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
-   "label": "CONFIRMED",
-   "summary_1line": "Meta launches Muse Spark Open, claiming it rivals top Chinese open-weight AI models.",
-   "published_at": "2026-10-16T00:34:28Z"
-  },
-  {
-   "title": "Hawaii Mother Sues OpenAI Over Children’s Data as Eight States File Separate Lawsuits",
-   "outlet": "SFist",
-   "outlet_name": "SFist",
-   "url": "https://sfist.com/2026/10/15/hawaii-mother-sues-openai-over-childrens-data-as-eight-states-file-separate-lawsuits/",
+   "title": "Eight US states sue OpenAI, alleging ChatGPT harms children",
+   "outlet": "NZ Herald",
+   "outlet_name": "NZ Herald",
+   "url": "https://www.nzherald.co.nz/world/openai-lawsuits-eight-us-states-seek-pause-on-self-improving-ai-systems/I2BGI3AFIVDJZENUSV7LE5OK5A/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-15T17:54:00Z"
+   "published_at": "2026-10-16T03:28:59Z"
   },
   {
-   "title": "Anthropic offers AI policy expertise in Singapore pact",
-   "outlet": "Singapore Business Review",
-   "outlet_name": "Singapore Business Review",
-   "url": "https://sbr.com.sg/information-technology/news/anthropic-offers-ai-policy-expertise-in-singapore-pact",
+   "title": "GPT and Claude commanding robots to work, exactly what are they capable of? The first evaluation leaderboard is here",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "url": "http://www.36kr.com/p/4027929770152584",
+   "label": "REPORTED",
+   "summary_1line": "LLMs control robots but remain 100x slower and 10x costlier than humans.",
+   "published_at": "2026-10-16T02:31:20Z"
+  },
+  {
+   "title": "Why law firms should resist the lure of the AI spin-off",
+   "outlet": "ft.com",
+   "outlet_name": "Financial Times",
+   "url": "https://www.ft.com/content/0ce2a031-5c81-4b48-a4b1-d19585fd3a66?syn-25a6b1a6=1",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T02:10:12Z"
+   "published_at": "2026-10-16T04:00:27Z"
   },
   {
-   "title": "DeepSeek apologizes, compensation plan announced, full refund of consumption amount",
+   "title": "DeepSeek apologizes, announces compensation plan with full refund of bonus for service outage",
    "outlet": "中华网",
    "outlet_name": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94QkdQMk10NHNjVlVOaFZfbVpfaVlNYjkyT21RSENRcE5tX0JNakh1Z3d6NEVEY2U4U3BqSWVrSXh6TGZodXVJOWMyUkRMLXljZXhtM1FoVmZ0Wmdxa0hDSjFfU0NIellQcW5MV1lKMmY?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FMEp3R2d4VzJiYXRVS2JjTGE1OU91d0JoSzBsVU1Mai1xeTFiWXRHUnpwdzFOb09XN0JodHllQmdUZnRrVnVONmRMaUdkOFZ4bDJfeUV6ZnRSN25BTkd4enJUV2NFa0dReEdXTEZjMWg?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T02:40:11Z"
+   "published_at": "2026-10-16T03:29:38Z"
   },
   {
-   "title": "Microsoft Unveils 2.8 Trillion-Parameter AI Model, Claiming 4–12x Efficiency Gains Over DeepSeek",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MWmdoVzlXTlRVT3BybFV4V19hQkl4b3liMDZISEJDSVhSbnJsVWtnUVZUSUhpeUMxOHF3aVRlcWRNS3FldXozd19GM3pXWXB4blJtVkVVeXUyRVBhVDQ1T1I0Z0d3cDhXSU95cWg1M2lpVzhDTlE?oc=5",
+   "title": "Harmonic Security raises $50 million to govern employee AI tool usage",
+   "outlet": "SC Media",
+   "outlet_name": "SC Media",
+   "url": "https://www.scworld.com/brief/harmonic-security-raises-50-million-to-govern-employee-ai-tool-usage",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-16T02:35:00Z"
+   "summary_1line": "Harmonic Security raises $50M to expand AI governance platform for enterprises.",
+   "published_at": "2026-10-15T19:45:41Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model"
-  },
-  {
-   "headline": "Hawaii Mother Sues OpenAI Over Children’s Data as Eight States File Separate Lawsuits",
-   "outlet": "SFist",
-   "outlet_name": "SFist",
+   "headline": "Eight US states sue OpenAI, alleging ChatGPT harms children",
+   "outlet": "NZ Herald",
+   "outlet_name": "NZ Herald",
    "label": "REPORTED",
-   "url": "https://sfist.com/2026/10/15/hawaii-mother-sues-openai-over-childrens-data-as-eight-states-file-separate-lawsuits/"
+   "url": "https://www.nzherald.co.nz/world/openai-lawsuits-eight-us-states-seek-pause-on-self-improving-ai-systems/I2BGI3AFIVDJZENUSV7LE5OK5A/"
   },
   {
-   "headline": "Anthropic offers AI policy expertise in Singapore pact",
-   "outlet": "Singapore Business Review",
-   "outlet_name": "Singapore Business Review",
+   "headline": "GPT and Claude commanding robots to work, exactly what are they capable of? The first…",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
    "label": "REPORTED",
-   "url": "https://sbr.com.sg/information-technology/news/anthropic-offers-ai-policy-expertise-in-singapore-pact"
+   "url": "http://www.36kr.com/p/4027929770152584"
   },
   {
-   "headline": "DeepSeek apologizes, compensation plan announced, full refund of consumption amount",
+   "headline": "Why law firms should resist the lure of the AI spin-off",
+   "outlet": "ft.com",
+   "outlet_name": "Financial Times",
+   "label": "REPORTED",
+   "url": "https://www.ft.com/content/0ce2a031-5c81-4b48-a4b1-d19585fd3a66?syn-25a6b1a6=1"
+  },
+  {
+   "headline": "DeepSeek apologizes, announces compensation plan with full refund of bonus for service…",
    "outlet": "中华网",
    "outlet_name": "中华网",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94QkdQMk10NHNjVlVOaFZfbVpfaVlNYjkyT21RSENRcE5tX0JNakh1Z3d6NEVEY2U4U3BqSWVrSXh6TGZodXVJOWMyUkRMLXljZXhtM1FoVmZ0Wmdxa0hDSjFfU0NIellQcW5MV1lKMmY?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1FMEp3R2d4VzJiYXRVS2JjTGE1OU91d0JoSzBsVU1Mai1xeTFiWXRHUnpwdzFOb09XN0JodHllQmdUZnRrVnVONmRMaUdkOFZ4bDJfeUV6ZnRSN25BTkd4enJUV2NFa0dReEdXTEZjMWg?oc=5"
   },
   {
-   "headline": "Microsoft Unveils 2.8 Trillion-Parameter AI Model, Claiming 4–12x Efficiency Gains Over…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "Harmonic Security raises $50 million to govern employee AI tool usage",
+   "outlet": "SC Media",
+   "outlet_name": "SC Media",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MWmdoVzlXTlRVT3BybFV4V19hQkl4b3liMDZISEJDSVhSbnJsVWtnUVZUSUhpeUMxOHF3aVRlcWRNS3FldXozd19GM3pXWXB4blJtVkVVeXUyRVBhVDQ1T1I0Z0d3cDhXSU95cWg1M2lpVzhDTlE?oc=5"
+   "url": "https://www.scworld.com/brief/harmonic-security-raises-50-million-to-govern-employee-ai-tool-usage"
   },
   {
-   "headline": "DeepSeek releases service compensation notice: Will fully refund bonus credits based on…",
-   "outlet": "AIBase",
-   "outlet_name": "AIBase",
+   "headline": "DeepSeek releases compensation notice, fully refunding one week's consumption amount",
+   "outlet": "中华网",
+   "outlet_name": "中华网",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10RGs3YkJEVGxRekhQWXQtVGFjakp0ZDJLcVV6anpGZjVyWHFNMkZRNXgwVUpRNWpZUjUyTWVqVjV6VlUzUG9yZXBUS1N3QQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CTFhaWHl0dGNVNkFuZmlYM1daRjlUSVcxdndTVDR5bGRnQTRkWERld0l2c3h4c1M4M0hRZk43UVlBblFZSFRneXNyUHRqUTFEb3I3Sy1MOUpiYVVqRlIyazR4TXJjMTViOHprbGNySnU?oc=5"
   },
   {
-   "headline": "Cook Says Apple Intelligence to Test in China at End of Month; Maextro Responds to…",
-   "outlet": "DoNews",
-   "outlet_name": "DoNews",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RV2FiZ1JpU2RSZ20tT2xyTG82TlF1S3hLZ0xlcDZSYXRiQjg4eTZ6ZG9jbmdyV05vRjRXNm0tYlc0Z0lnWjdJeENydWJzLXRIS1lZSDlUTEtsN3ZfVGc?oc=5"
+   "headline": "Map Shows States That Are Trying To Get AI Out of Schools",
+   "outlet": "Newsweek",
+   "outlet_name": "Newsweek",
+   "label": "CONFIRMED",
+   "url": "https://www.newsweek.com/ai-politics/map-shows-states-that-are-trying-to-get-ai-out-of-schools-12574251"
   },
   {
    "headline": "Updated strategic priorities call out ratios legislation, strengthening political…",
@@ -109,25 +109,18 @@
    "url": "https://www.wsna.org/news/2026/updated-strategic-priorities-call-out-ratios-legislation-strengthening-political-presence-and-responsible-use-of-ai"
   },
   {
-   "headline": "FTC Issues Subpoenas to OpenAI and Anthropic in Escalating AI Safety Probe",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "Microsoft unveils MAI-Base-2, a MoE model with 2.8T total and 80B active parameters…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByTVFrLUViZnhFLTB5ZEVkeGFoWUIzQ3prXzdpNmgzZzlqckFtYlpXN21JTmVKa1RQa19LZ1lGZzg1aDJPalBXZmhUNDBFOG1UajA0ZzZGRW9TTTAxZ1pwQ284OGowWTRob251X0d5WVdyWHVsQnc?oc=5"
+   "url": "https://www.techmeme.com/261015/p59#a261015p59"
   },
   {
-   "headline": "Vessl AI Partners with Korea Investment & Securities to Push for Expanded AI…",
-   "outlet": "파이낸셜뉴스",
-   "outlet_name": "파이낸셜뉴스",
-   "label": "CONFIRMED",
-   "url": "https://www.fnnews.com/news/202610160901039879"
-  },
-  {
-   "headline": "Google launches Universal Cart in Search and Gemini app in US",
-   "outlet": "The Times of India on MSN",
-   "outlet_name": "The Times of India on MSN",
+   "headline": "NVIDIA RTX Spark Launch: 128GB Memory Rivals Apple",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/technology/software/google-launches-universal-cart-in-search-and-gemini-app-in-us/ar-AA2ejyak"
+   "url": "https://shattered.io/nvidia-rtx-spark-launch-apple-silicon-threat-2026/"
   },
   {
    "headline": "Perplexity Open-Sources SPACE, Its In-House Agent Sandbox Platform",
@@ -135,16 +128,23 @@
    "outlet_name": "Unite.AI",
    "label": "CONFIRMED",
    "url": "https://www.unite.ai/perplexity-open-sources-space-its-in-house-agent-sandbox-platform/"
+  },
+  {
+   "headline": "Global Times Reporter Visits Great Wall-2026 International Counter-Terrorism Forum: AI…",
+   "outlet": "163.com",
+   "outlet_name": "163.com",
+   "label": "CONFIRMED",
+   "url": "https://www.163.com/dy/article/L9BG9KKL0514R9OJ.html"
   }
  ],
  "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 15400,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/03.mp3",
- "audio_seconds": 58.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/04.mp3",
+ "audio_seconds": 53.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMeta launches Muse Spark Open, a new open-weight artificial intelligence model. Confirmed by The Guardian: Meta claims it rivals top Chinese open-weight models.\nA Hawaii mother is suing OpenAI over children's data. Reported by SFist: Eight states have filed separate lawsuits as well.\nAnthropic is offering artificial intelligence policy expertise through a Singapore pact. Reported by Singapore Business Review.\nDeepSeek has announced an apology and compensation plan. Reported by 中华网: The company is offering a full refund of consumption amounts.\nMicrosoft has unveiled a 2.8 trillion-parameter artificial intelligence model. Reported by BigGo Finance: Microsoft claims 4–12x efficiency gains over DeepSeek.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nEight US states are suing OpenAI, alleging that ChatGPT causes harm to children. Reported by NZ Herald.\nLarge language models can control robots but remain 100 times slower and 10 times costlier than humans, according to a new evaluation leaderboard. Reported by 36Kr.\nLaw firms should think carefully before pursuing spin-offs built on artificial intelligence technology. Reported by Financial Times.\nDeepSeek has apologized for a service outage and announced a compensation plan that includes a full refund of bonuses. Reported by 中华网.\nHarmonic Security raised 50 million dollars to expand its platform for governing how employees use artificial intelligence tools in enterprises. Reported by SC Media.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
