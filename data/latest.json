@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T22:20:02Z",
- "hour": "2026-10-16T22:00:00Z",
+ "generated_at": "2026-10-16T23:20:02Z",
+ "hour": "2026-10-16T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Carroll Schools has an AI policy for students, families and staff. Here’s what it says.",
-   "outlet": "Baltimore Sun",
-   "outlet_name": "Baltimore Sun",
-   "url": "https://www.baltimoresun.com/2026/10/16/carroll-public-schools-artificial-intelligence-rules/",
+   "title": "ChatGPT gave a man unlicensed medical advice, leading to mental health crisis, lawsuit alleges",
+   "outlet": "CBS News",
+   "outlet_name": "CBS News",
+   "url": "https://www.cbsnews.com/news/chatgpt-medical-advice-lawsuit/",
+   "label": "REPORTED",
+   "summary_1line": "Man sues OpenAI after ChatGPT gave medical advice, worsening his mental health.",
+   "published_at": "2026-10-16T21:22:07Z"
+  },
+  {
+   "title": "Ticker: States sue AI giant OpenAI; Addiction recovery boost",
+   "outlet": "Boston Herald",
+   "outlet_name": "Boston Herald",
+   "url": "https://www.bostonherald.com/2026/10/16/ticker-states-sue-ai-giant-openai-addiction-recovery-boost/",
+   "label": "REPORTED",
+   "summary_1line": "Eight states sue OpenAI over ChatGPT's harmful content and safety risks.",
+   "published_at": "2026-10-16T21:12:45Z"
+  },
+  {
+   "title": "Claude reveals ECDSA curve origins",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+   "label": "STILL OPEN",
+   "summary_1line": "ECDSA seeds found to be from lrand48 PRNG initialized with Unix timestamps, not passphrases.",
+   "published_at": "2026-10-16T17:02:00Z"
+  },
+  {
+   "title": "China says it will curb tech exports, including AI, citing national security risks",
+   "outlet": "PBS",
+   "outlet_name": "PBS",
+   "url": "https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks",
    "label": "CONFIRMED",
-   "summary_1line": "Carroll County Schools met almost all state AI law requirements a year ago.",
-   "published_at": "2026-10-16T20:06:03Z"
+   "summary_1line": "China to restrict AI and tech exports for national security, citing U.S. actions.",
+   "published_at": "2026-10-16T22:00:29Z"
   },
   {
-   "title": "Replit is no longer working with Anthropic, CEO says",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T21:22:28Z"
-  },
-  {
-   "title": "Introducing the CSU Campus Copilot Champions Program",
-   "outlet": "Colorado State University News",
-   "outlet_name": "Colorado State University News",
-   "url": "https://source.colostate.edu/introducing-the-csu-campus-copilot-champions-program/",
-   "label": "REPORTED",
-   "summary_1line": "CSU launches AI student program to train and deploy Copilot champions across campus.",
-   "published_at": "2026-10-16T16:05:38Z"
-  },
-  {
-   "title": "Anthropic pitches its own AI safety bill to lawmakers",
-   "outlet": "politico.com",
-   "outlet_name": "Politico",
-   "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-16T22:03:04Z"
-  },
-  {
-   "title": "Proofpoint To Acquire Varonis For $6.3 Billion To Create Data And AI Security Powerhouse",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "url": "https://pulse2.com/proofpoint-to-acquire-varonis-for-6-3-billion-to-create-data-and-ai-security-powerhouse/",
-   "label": "REPORTED",
-   "summary_1line": "Proofpoint acquires Varonis in $6.3B all-cash deal for AI and data security leadership.",
-   "published_at": "2026-10-16T19:12:10Z"
+   "published_at": "2026-10-16T18:34:49Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Carroll Schools has an AI policy for students, families and staff. Here’s what it says.",
-   "outlet": "Baltimore Sun",
-   "outlet_name": "Baltimore Sun",
+   "headline": "ChatGPT gave a man unlicensed medical advice, leading to mental health crisis, lawsuit…",
+   "outlet": "CBS News",
+   "outlet_name": "CBS News",
+   "label": "REPORTED",
+   "url": "https://www.cbsnews.com/news/chatgpt-medical-advice-lawsuit/"
+  },
+  {
+   "headline": "Ticker: States sue AI giant OpenAI; Addiction recovery boost",
+   "outlet": "Boston Herald",
+   "outlet_name": "Boston Herald",
+   "label": "REPORTED",
+   "url": "https://www.bostonherald.com/2026/10/16/ticker-states-sue-ai-giant-openai-addiction-recovery-boost/"
+  },
+  {
+   "headline": "Claude reveals ECDSA curve origins",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "label": "STILL OPEN",
+   "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
+  },
+  {
+   "headline": "China says it will curb tech exports, including AI, citing national security risks",
+   "outlet": "PBS",
+   "outlet_name": "PBS",
    "label": "CONFIRMED",
-   "url": "https://www.baltimoresun.com/2026/10/16/carroll-public-schools-artificial-intelligence-rules/"
-  },
-  {
-   "headline": "Replit is no longer working with Anthropic, CEO says",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
-  },
-  {
-   "headline": "Introducing the CSU Campus Copilot Champions Program",
-   "outlet": "Colorado State University News",
-   "outlet_name": "Colorado State University News",
-   "label": "REPORTED",
-   "url": "https://source.colostate.edu/introducing-the-csu-campus-copilot-champions-program/"
-  },
-  {
-   "headline": "Anthropic pitches its own AI safety bill to lawmakers",
-   "outlet": "politico.com",
-   "outlet_name": "Politico",
-   "label": "REPORTED",
-   "url": "https://www.politico.com/news/2026/10/16/anthropic-ai-safety-01124654"
-  },
-  {
-   "headline": "Proofpoint To Acquire Varonis For $6.3 Billion To Create Data And AI Security Powerhouse",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "label": "REPORTED",
-   "url": "https://pulse2.com/proofpoint-to-acquire-varonis-for-6-3-billion-to-create-data-and-ai-security-powerhouse/"
+   "url": "https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks"
   },
   {
    "headline": "Stack Overflow for Agents triples signups with ChatGPT plugin",
@@ -95,11 +88,18 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5"
   },
   {
-   "headline": "ChatGPT gave a man unlicensed medical advice, leading to mental health crisis, lawsuit…",
-   "outlet": "CBS News",
-   "outlet_name": "CBS News",
+   "headline": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
+   "outlet": "The Defiant",
+   "outlet_name": "The Defiant",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9nc3o2SFJyOWRoNm9nSnRUT1ZQY3d3a2VUOEhBdlA3LTJqV0dndFZSWVphZVJXd1dSSmwxRWs4S3hUdURsME1McWdBZHdpR3JMLTYtSGlSVnBZbDZpVG9RV1FXODMtMjU0T0FQNw?oc=5"
+   "url": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps"
+  },
+  {
+   "headline": "Nvidia's Jensen Huang: AI chips are in short supply, orders continue to pour in almost…",
+   "outlet": "新浪网",
+   "outlet_name": "新浪网",
+   "label": "REPORTED",
+   "url": "https://k.sina.com.cn/article_5952915705_162d248f906703qt5w.html"
   },
   {
    "headline": "Claude Mythos 5 vs Gemini 4 Argon: Gated vs GA at $2",
@@ -109,13 +109,6 @@
    "url": "https://www.orcarouter.ai/blog/claude-mythos-5-vs-gemini-4-argon"
   },
   {
-   "headline": "States sue OpenAI over allegedly hurting children and deceiving adults",
-   "outlet": "fastcompany.com",
-   "outlet_name": "fastcompany.com",
-   "label": "REPORTED",
-   "url": "https://www.fastcompany.com/91625470/openai-lawsuits-chatbot-chatgpt-artificial-intelligence?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
-  },
-  {
    "headline": "Working at the frontier shapes expectations for the future \\ Anthropic",
    "outlet": "anthropic.com",
    "outlet_name": "anthropic.com",
@@ -123,28 +116,35 @@
    "url": "https://www.anthropic.com/research/expectations-for-the-future"
   },
   {
+   "headline": "Oct 16, 2026 Economics How employment is changing at Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/research/employment-at-anthropic"
+  },
+  {
+   "headline": "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "label": "REPORTED",
+   "url": "https://www.techmeme.com/261016/p25#a261016p25"
+  },
+  {
    "headline": "Will AI-powered autonomous weapons obey the laws of war?",
    "outlet": "DW.com",
    "outlet_name": "DW.com",
    "label": "CONFIRMED",
    "url": "https://www.dw.com/en/will-ai-powered-autonomous-weapons-obey-the-laws-of-war/video-79679932"
-  },
-  {
-   "headline": "Beijing seeks tighter grip on AI exports amid US rivalry",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-ca/news/other/beijing-seeks-tighter-grip-on-ai-exports-amid-us-rivalry/ar-AA2eoynE"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
  "articles_24h_rounded": 13900,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/22.mp3",
- "audio_seconds": 42.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/23.mp3",
+ "audio_seconds": 49.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Baltimore Sun: Carroll Schools has an AI policy for students, families and staff. Here’s what it says.\nReported by TechCrunch: Replit is no longer working with Anthropic, CEO says.\nReported by Colorado State University News: Introducing the CSU Campus Copilot Champions Program.\nReported by Politico: Anthropic pitches its own AI safety bill to lawmakers.\nReported by Pulse 2.0: Proofpoint To Acquire Varonis For $6.3 Billion To Create Data And AI Security Powerhouse.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CBS News: ChatGPT gave a man unlicensed medical advice, leading to mental health crisis, lawsuit alleges.\nReported by Boston Herald: Ticker: States sue AI giant OpenAI; Addiction recovery boost.\nStill open, per Anthropic: Claude reveals ECDSA curve origins.\nConfirmed, per PBS: China says it will curb tech exports, including AI, citing national security risks.\nReported by OpenAI: Stack Overflow for Agents triples signups with ChatGPT plugin.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
