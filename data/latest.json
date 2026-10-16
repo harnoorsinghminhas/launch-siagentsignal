@@ -1,98 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T11:20:01Z",
- "hour": "2026-10-16T11:00:00Z",
+ "generated_at": "2026-10-16T12:20:01Z",
+ "hour": "2026-10-16T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China's 'AI chip shortage' becomes reality... compute infrastructure famine that stopped DeepSeek",
-   "outlet": "블루밍비트",
-   "outlet_name": "블루밍비트",
-   "url": "https://bloomingbit.io/feed/news/122354",
+   "title": "China plans to place 40 technologies including large language models and photovoltaic silicon wafers under export controls, initiating interim registration",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/00109a7c-e877-4c3f-b098-ed3841de8f90",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek outage exposes China's AI chip shortage and computing infrastructure gap.",
-   "published_at": "2026-10-16T09:10:20Z"
+   "summary_1line": "China expands export controls to 40 technologies including AI and semiconductors, requiring interim registration.",
+   "published_at": "2026-10-16T08:26:00Z"
   },
   {
-   "title": "OpenAI sued over children safety and data use",
-   "outlet": "Malwarebytes",
-   "outlet_name": "Malwarebytes",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEVBQmpzZEhEVnRmdEsxRVVLbVRVbnQ4bDh4c3N0VUstUzh5TXFXMERnV0RGNkljQVUwRHJyeXI2bFlnMWx0ZWdPRnRLczlVNkY0TUgwT3E4enhnMmxSdWhNU3BYQV9pVk9ES1J3aW1sV1pPQU1veXRjQy1xZU1PdXNLdE1TTWdHMi1MN2pucV9kdGwy?oc=5",
+   "title": "China is weighing export controls on AI.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012753/china-is-weighing-export-controls-on-ai",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T10:57:56Z"
+   "published_at": "2026-10-16T03:54:00Z"
   },
   {
-   "title": "Researcher warns AI worms raise the stakes on sloppy cybersecurity",
-   "outlet": "BNN Bloomberg",
-   "outlet_name": "BNN Bloomberg",
-   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/16/researcher-warns-ai-worms-raise-the-stakes-on-sloppy-cybersecurity/",
-   "label": "STILL OPEN",
-   "summary_1line": "AI-powered self-spreading malware could target smart home devices within months, researchers warn.",
-   "published_at": "2026-10-16T09:00:00Z"
-  },
-  {
-   "title": "WV, other states sue OpenAI, claiming ChatGPT chatbot deceives users, harms children",
-   "outlet": "Charleston Gazette-Mail",
-   "outlet_name": "Charleston Gazette-Mail",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUS1xeXJId2JhbFYtcW5NQmJ3NmJaYWtvcjBhZlo0MmZhR3pUOHZGTW9VM1ljcmU4N3ltb1duRExwZzVlTW5JSldBTmhCRFRVZ1dUNXFXV2FtRmZHQWRVXzlBMjRRdk9WMC1jYWpveFFLTG80aU5QaHpaZk41emV5cmpOSjRHQVQwN29XMXNHbzBtaS1qN043aF9aVks3RWVRMnhOdjN1c3pUMGpqSkJGeXZZazQyNkdlbDdkLTJJVy1MYWctTlhZbkNfRzJ3T05vV01sSHVaMEZhOWlrdjVGQnM4UVJxemI2QV8wOWVsb1lLaXZteWl1bFpnenUxMWZaOW5mZ0hxOUdwZTdx?oc=5",
+   "title": "Anthropic co-founder backs 'common sense standards' for AI regulation",
+   "outlet": "Nikkei Asia",
+   "outlet_name": "Nikkei Asia",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWG5EQmVOUzR0YzFRUnk1OURZTjNZNGdTTXhENkRmVFQtNElMMzdiU1BqY2ljSTAzTFUwVGdZVTRTZUZneFhVUi16VkpQWWR0MTkzMk9Zb0pvSjVaTGtfaGx0SkNTMng0bHFpU2hDTlJNS0F5alhIVU5vODE2THVYNzYyTlhrdXhqMC1nQ2h5VXNDS3NfUDg5d29vR0NEMzJjVDMzczc0QmJyRlFPMVRvckRYbjZJT2lnRElucFJPV0F1LUE1dE5hMWhGWGFNczls?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
+   "published_at": "2026-10-16T11:50:00Z"
+  },
+  {
+   "title": "Rates will keep going up for one major reason related to the AI boom, a top economist says",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/why-interest-rates-are-rising-ai-infrastructure-bond-yields-2026-10",
+   "label": "REPORTED",
+   "summary_1line": "AI capex boom keeps rates elevated as returns exceed borrowing costs.",
    "published_at": "2026-10-16T09:15:00Z"
   },
   {
-   "title": "AI Campaign Ads Flood Midterm Races Despite Calls for Regulation",
-   "outlet": "Bloomberg Government News",
-   "outlet_name": "Bloomberg Government News",
-   "url": "https://news.bgov.com/bloomberg-government-news/ai-campaign-ads-flood-midterm-races-despite-calls-for-regulation",
+   "title": "Apple lawyer to court in OpenAI theft case: We don’t need to check devices of all 400 former employees wh",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQQmRwalVwbmh4dDd2cEdQdDBFbUluc3N3SV85MXBpTDdSZ3h5QW9RZkppak1YeXh0ZjcxQTg3NmRORXI0TjhMSm90ZHBJbXVoa0dYSE5tR1dBQTc0Ymprd0oteTBPQzh5XzlsU1JrOW1BQWR2cDZ4MTB6UGU3d3BPcDlvbDJ5ZEJwTnRjUFc3UE9rdERIMGhGeDJIYWdkX0NGR2JCejNtN2RRTWZUR2J6X2N1bnJyaExIZHB0OUxCYk5WbXpXbTBicjQ0N05ITG5IRkI1MjVSTF8wUjZLNjZ4NVBlVU9lVnVJSDRyU0treHBhbTR3d2V1Z2NTRV9aTHQ0a1ZZNVhmTndjRDk1LXhXZTBUUlltOWcyVXcwaEx1WENMejBWcWM5ekNFM3R6c0dyNXliQmFRSXlMakxkMEtfVHQ5NHpSNkNsME1Wb2lqRFBscU3SAdgCQVVfeXFMUGg4LXhEMGJIeUVxRVItclJRcjRhb0VjUnVQUEUybjl5SHFMOHFRRnF3aFFmYURwZTB6aUtLTURHTEgtdlNmNmk1ZjRoajFaVmR5Q0RPbXlhZkY2TVFZNkQ4RndDVXl6dE1OVmpGUlo3SFNueTFSbGszTEhaNld0a19leXd5WUo3N3NJZ18wVHloZ2xNb1FzUUxxUVVzNXJqX1Zpc21FWVF4cnQtc280TldZaXo1TE15R25ZRU1pVEJGanhtY1ZlVmU0S0ZvbHpkai1wXzZzTGxqSmNKdHRGYVJ5dW5jY0F3UmhpZHBJOWFnUGxZbDlHV1hrY2FlWnJqU3BuU1FKNm1rVE5mVVJXLXQtOUJyTm1ZZF9YN25ScWZsSW5rU2pWaEtNUzl1cVB4SUFZN3FVNHNzbk9DTldMcTNIVjFrNkU5NXJUb01GcnV3Uk40WS1wMFA?oc=5",
    "label": "REPORTED",
-   "summary_1line": "AI-generated political ads proliferate in 2024 races, totaling at least $137 million.",
-   "published_at": "2026-10-16T09:00:00Z"
+   "summary_1line": null,
+   "published_at": "2026-10-16T11:23:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "China's 'AI chip shortage' becomes reality... compute infrastructure famine that stopped…",
-   "outlet": "블루밍비트",
-   "outlet_name": "블루밍비트",
+   "headline": "China plans to place 40 technologies including large language models and photovoltaic…",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
    "label": "CONFIRMED",
-   "url": "https://bloomingbit.io/feed/news/122354"
+   "url": "https://finance.biggo.com/news/00109a7c-e877-4c3f-b098-ed3841de8f90"
   },
   {
-   "headline": "OpenAI sued over children safety and data use",
-   "outlet": "Malwarebytes",
-   "outlet_name": "Malwarebytes",
+   "headline": "China is weighing export controls on AI.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEVBQmpzZEhEVnRmdEsxRVVLbVRVbnQ4bDh4c3N0VUstUzh5TXFXMERnV0RGNkljQVUwRHJyeXI2bFlnMWx0ZWdPRnRLczlVNkY0TUgwT3E4enhnMmxSdWhNU3BYQV9pVk9ES1J3aW1sV1pPQU1veXRjQy1xZU1PdXNLdE1TTWdHMi1MN2pucV9kdGwy?oc=5"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012753/china-is-weighing-export-controls-on-ai"
   },
   {
-   "headline": "Researcher warns AI worms raise the stakes on sloppy cybersecurity",
-   "outlet": "BNN Bloomberg",
-   "outlet_name": "BNN Bloomberg",
-   "label": "STILL OPEN",
-   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/16/researcher-warns-ai-worms-raise-the-stakes-on-sloppy-cybersecurity/"
-  },
-  {
-   "headline": "WV, other states sue OpenAI, claiming ChatGPT chatbot deceives users, harms children",
-   "outlet": "Charleston Gazette-Mail",
-   "outlet_name": "Charleston Gazette-Mail",
+   "headline": "Anthropic co-founder backs 'common sense standards' for AI regulation",
+   "outlet": "Nikkei Asia",
+   "outlet_name": "Nikkei Asia",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUS1xeXJId2JhbFYtcW5NQmJ3NmJaYWtvcjBhZlo0MmZhR3pUOHZGTW9VM1ljcmU4N3ltb1duRExwZzVlTW5JSldBTmhCRFRVZ1dUNXFXV2FtRmZHQWRVXzlBMjRRdk9WMC1jYWpveFFLTG80aU5QaHpaZk41emV5cmpOSjRHQVQwN29XMXNHbzBtaS1qN043aF9aVks3RWVRMnhOdjN1c3pUMGpqSkJGeXZZazQyNkdlbDdkLTJJVy1MYWctTlhZbkNfRzJ3T05vV01sSHVaMEZhOWlrdjVGQnM4UVJxemI2QV8wOWVsb1lLaXZteWl1bFpnenUxMWZaOW5mZ0hxOUdwZTdx?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWG5EQmVOUzR0YzFRUnk1OURZTjNZNGdTTXhENkRmVFQtNElMMzdiU1BqY2ljSTAzTFUwVGdZVTRTZUZneFhVUi16VkpQWWR0MTkzMk9Zb0pvSjVaTGtfaGx0SkNTMng0bHFpU2hDTlJNS0F5alhIVU5vODE2THVYNzYyTlhrdXhqMC1nQ2h5VXNDS3NfUDg5d29vR0NEMzJjVDMzczc0QmJyRlFPMVRvckRYbjZJT2lnRElucFJPV0F1LUE1dE5hMWhGWGFNczls?oc=5"
   },
   {
-   "headline": "AI Campaign Ads Flood Midterm Races Despite Calls for Regulation",
-   "outlet": "Bloomberg Government News",
-   "outlet_name": "Bloomberg Government News",
+   "headline": "Rates will keep going up for one major reason related to the AI boom, a top economist says",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
    "label": "REPORTED",
-   "url": "https://news.bgov.com/bloomberg-government-news/ai-campaign-ads-flood-midterm-races-despite-calls-for-regulation"
+   "url": "https://www.businessinsider.com/why-interest-rates-are-rising-ai-infrastructure-bond-yields-2026-10"
   },
   {
-   "headline": "Conservative AI safety group proposes export controls, visa restrictions",
-   "outlet": "semafor.com",
-   "outlet_name": "Semafor",
+   "headline": "Apple lawyer to court in OpenAI theft case: We don’t need to check devices of all 400…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
    "label": "REPORTED",
-   "url": "https://www.semafor.com/article/10/15/2026/conservative-ai-safety-group-proposes-export-controls-visa-restrictions"
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQQmRwalVwbmh4dDd2cEdQdDBFbUluc3N3SV85MXBpTDdSZ3h5QW9RZkppak1YeXh0ZjcxQTg3NmRORXI0TjhMSm90ZHBJbXVoa0dYSE5tR1dBQTc0Ymprd0oteTBPQzh5XzlsU1JrOW1BQWR2cDZ4MTB6UGU3d3BPcDlvbDJ5ZEJwTnRjUFc3UE9rdERIMGhGeDJIYWdkX0NGR2JCejNtN2RRTWZUR2J6X2N1bnJyaExIZHB0OUxCYk5WbXpXbTBicjQ0N05ITG5IRkI1MjVSTF8wUjZLNjZ4NVBlVU9lVnVJSDRyU0treHBhbTR3d2V1Z2NTRV9aTHQ0a1ZZNVhmTndjRDk1LXhXZTBUUlltOWcyVXcwaEx1WENMejBWcWM5ekNFM3R6c0dyNXliQmFRSXlMakxkMEtfVHQ5NHpSNkNsME1Wb2lqRFBscU3SAdgCQVVfeXFMUGg4LXhEMGJIeUVxRVItclJRcjRhb0VjUnVQUEUybjl5SHFMOHFRRnF3aFFmYURwZTB6aUtLTURHTEgtdlNmNmk1ZjRoajFaVmR5Q0RPbXlhZkY2TVFZNkQ4RndDVXl6dE1OVmpGUlo3SFNueTFSbGszTEhaNld0a19leXd5WUo3N3NJZ18wVHloZ2xNb1FzUUxxUVVzNXJqX1Zpc21FWVF4cnQtc280TldZaXo1TE15R25ZRU1pVEJGanhtY1ZlVmU0S0ZvbHpkai1wXzZzTGxqSmNKdHRGYVJ5dW5jY0F3UmhpZHBJOWFnUGxZbDlHV1hrY2FlWnJqU3BuU1FKNm1rVE5mVVJXLXQtOUJyTm1ZZF9YN25ScWZsSW5rU2pWaEtNUzl1cVB4SUFZN3FVNHNzbk9DTldMcTNIVjFrNkU5NXJUb01GcnV3Uk40WS1wMFA?oc=5"
   },
   {
    "headline": "As Elon Musk shows 'flying Tesla'; says, 'My OG Roadster is still orbiting Mars and…",
@@ -109,18 +102,11 @@
    "url": "https://techweez.com/2026/10/16/senate-committee-rejects-ai-bill-sending-it-back-to-the-drawing-board/"
   },
   {
-   "headline": "DOJ’s Retreat on AI Enforcement Puts Focus on State Regulators",
-   "outlet": "Bloomberg Law News",
-   "outlet_name": "Bloomberg Law News",
-   "label": "REPORTED",
-   "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/dojs-retreat-on-ai-enforcement-puts-focus-on-state-regulators"
-  },
-  {
-   "headline": "Nvidia’s Huang and Broadcom’s Tan See the AI Boom From Slightly Different Places",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/newsletters/2026-10-16/nvidia-s-huang-and-broadcom-s-tan-see-the-ai-boom-from-slightly-different-places"
+   "headline": "FTC issues subpoenas to OpenAI, Anthropic following AI safety issues",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-us/technology/tech-companies/ftc-issues-subpoenas-to-openai-anthropic-following-ai-safety-issues/ar-AA2elRKs"
   },
   {
    "headline": "Microsoft unveils 2.8 trillion parameter model ahead of official launch, highlighting…",
@@ -130,21 +116,35 @@
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216337"
   },
   {
-   "headline": "Anthropic fulfills AI safety promise, external evaluators get employee-level access to…",
-   "outlet": "finance.eastmoney.com",
-   "outlet_name": "finance.eastmoney.com",
+   "headline": "Volvo expands NVIDIA partnership for AI driving from city streets to parking garages",
+   "outlet": "Get CyberTrucked on MSN",
+   "outlet_name": "Get CyberTrucked on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-ca/news/other/volvo-expands-nvidia-partnership-for-ai-driving-from-city-streets-to-parking-garages/ar-AA2emW2Z"
+  },
+  {
+   "headline": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
+   "outlet": "securityweek.com",
+   "outlet_name": "securityweek.com",
    "label": "REPORTED",
-   "url": "https://finance.eastmoney.com/a/202610163898377718.html"
+   "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/"
+  },
+  {
+   "headline": "Silicon Valley AI is going wild, how much cost-performance advantage do DeepSeek and…",
+   "outlet": "tmtpost.com",
+   "outlet_name": "tmtpost.com",
+   "label": "REPORTED",
+   "url": "https://www.tmtpost.com/8170871.html"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 15300,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 15100,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/11.mp3",
- "audio_seconds": 50.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/12.mp3",
+ "audio_seconds": 53.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per 블루밍비트: China's 'AI chip shortage' becomes reality... compute infrastructure famine that stopped DeepSeek.\nReported by Malwarebytes: OpenAI sued over children safety and data use.\nStill open, per BNN Bloomberg: Researcher warns AI worms raise the stakes on sloppy cybersecurity.\nReported by Charleston Gazette-Mail: WV, other states sue OpenAI, claiming ChatGPT chatbot deceives users, harms children.\nReported by Bloomberg Government News: AI Campaign Ads Flood Midterm Races Despite Calls for Regulation.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BigGo Finance: China plans to place 40 technologies including large language models and photovoltaic silicon wafers under export controls, initiating interim registration.\nReported by The Verge: China is weighing export controls on AI.\nReported by Nikkei Asia: Anthropic co-founder backs 'common sense standards' for AI regulation.\nReported by Business Insider: Rates will keep going up for one major reason related to the AI boom, a top economist says.\nReported by The Times of India: Apple lawyer to court in OpenAI theft case: We don’t need to check devices of all 400 former employees wh.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
