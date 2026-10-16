@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T14:20:01Z",
- "hour": "2026-10-16T14:00:00Z",
+ "generated_at": "2026-10-16T15:20:01Z",
+ "hour": "2026-10-16T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China moves to curb tech exports, including AI, citing national security risks",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
-   "url": "https://ca.finance.yahoo.com/news/china-moves-curb-tech-exports-122129273.html",
+   "title": "Knudsen sues OpenAI over ChatGPT risks to Montana kids",
+   "outlet": "Nonstop Local News Montana",
+   "outlet_name": "Nonstop Local News Montana",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTnNlamxhSUxrQ1JqR1ZQNlFTanllZkRxRkN6TnBiOVMyeVhBVmdmdFVTbVRPcDhJWXNyam9MTDdzcUE3ZHRFMnJRS2p5dVZLNGZKM0ZtdVdnOVVfcVFDRlM2aG0ySkY5V2xVSjhJX1R2QlpzVGlQS2hsTTNwNEtRVG9pa1lfaHZZUEctcVVBaWJsWXJiQVJkeldHeHYybGsyZ0hWM1UwWG1yOUJOM0RDVG5jemFlQllPcWNKbVVrd1M0SGdsTmtaZml1LVE1aUxJOXlwNTF5ckNMTHBs?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T12:21:29Z"
+   "published_at": "2026-10-16T14:17:00Z"
   },
   {
-   "title": "Anthropic and General Catalyst: the market is mispricing resilience",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/16/investors-undervalue-business-resilience-anthropic-general-catalyst/",
-   "label": "REPORTED",
-   "summary_1line": "Markets underprice resilience until disruption makes its value obvious.",
-   "published_at": "2026-10-16T11:45:00Z"
+   "title": "Germany to announce AI partnership with Nvidia next week, sources say",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/germany-nvidia-ai-partnership-next-week",
+   "label": "STILL OPEN",
+   "summary_1line": "Germany to announce Nvidia AI partnership with hundreds of millions in investment.",
+   "published_at": "2026-10-16T06:02:00Z"
   },
   {
-   "title": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NYWVJdExzaWZ2OE04TGRrblVKZEtKN0c3NkE5WVhMN2FyZW91Z1VXZmgxWW00QlhjVDlVbmp6VDJXMHYxYV9aTEtBRk1QZ1RIazBvX3ExMTEzczZPNEljbVNtdkNuY3I2S1MwUkFVelJ0N3dkYlhLNdIBfkFVX3lxTE5jc3Z3a0dsUGF5dm9FYkVjT3Q3ZTFpY2E0U2o3WmU2S0JiSU1SRzB6WndGOGpmeFBxOEQ0U2lXUUwzNl8yS1dsWUJmYjViMEFFSmd4a0ZtRVRuT2JFUjRfTmlTX3d5NW1qQ2IyZXVKOVBYNThpNzRUYmp2U3Q0QQ?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-16T13:43:53Z"
-  },
-  {
-   "title": "Small business supports \"orphaned\" solar panel owners with Claude",
-   "outlet": "Axios",
-   "outlet_name": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHB3M011TkdBY0JRZ0E3b2tVQ3lkcGR0U3RLNmdxTUlQYkRrTnFkR2NCLU5CVzlJc2RnRmtZOGNNdkloSHJqT0MwaWJ1N0pjNnJ4bTZUVE95b3BnMHBFc3FQTnhkeUNySVVDOUZ6WDZmZFg5T3lySjk0b0VURFFBTjNLczFEMVJCTnppQnZ5dEw4S0VPeWhQRDFCdw?oc=5",
+   "title": "Nvidia Launches Three Nemotron AI Models, Including Two for Local AI Agents",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2JDNDU4MHZob0stQXVaa3VhRkd1Z1VSdmxmVDdkM3ZNS0xkTVlOMUdXTEFzNzJ2eFRhTThMbzl6eXFvN0twWlF5bUNQTzlIUmx3bUo0bllKRm9wR2J1U3JBTEVPei1waFVjcS16YVZCakpqa3F1cEdOb09rT0tfdmROZWtvVGU5Q212YkcwYw?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T13:37:46Z"
+   "published_at": "2026-10-16T14:48:16Z"
   },
   {
-   "title": "FLUX 3 Image Klein Compared to Qwen-Image 2.1 Turbo: License First",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "url": "https://www.orcarouter.ai/zh-CN/blog/flux-3-image-klein-vs-qwen-image-2-1-turbo",
+   "title": "Mistral rachète New Material et crée Solutions Design",
+   "outlet": "Brief IA",
+   "outlet_name": "Brief IA",
+   "url": "https://www.briefia.fr/article/mistral-rachete-new-material-et-cree-solutions-design",
    "label": "REPORTED",
-   "summary_1line": "Licensing terms, not specs, determine which open-weight image model to choose.",
-   "published_at": "2026-10-16T10:04:45Z"
+   "summary_1line": "Mistral acquires New Material to build full-stack AI enterprise solutions after €3B funding.",
+   "published_at": "2026-10-16T12:05:07Z"
+  },
+  {
+   "title": "Meta’s new terms may allow it to train AI on news sites for free",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+   "label": "STILL OPEN",
+   "summary_1line": "Meta's new terms may let it scrape publisher sites for free AI training starting October 30th.",
+   "published_at": "2026-10-16T14:02:40Z"
   }
  ],
  "ticker": [
   {
-   "headline": "China moves to curb tech exports, including AI, citing national security risks",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
+   "headline": "Knudsen sues OpenAI over ChatGPT risks to Montana kids",
+   "outlet": "Nonstop Local News Montana",
+   "outlet_name": "Nonstop Local News Montana",
    "label": "REPORTED",
-   "url": "https://ca.finance.yahoo.com/news/china-moves-curb-tech-exports-122129273.html"
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTnNlamxhSUxrQ1JqR1ZQNlFTanllZkRxRkN6TnBiOVMyeVhBVmdmdFVTbVRPcDhJWXNyam9MTDdzcUE3ZHRFMnJRS2p5dVZLNGZKM0ZtdVdnOVVfcVFDRlM2aG0ySkY5V2xVSjhJX1R2QlpzVGlQS2hsTTNwNEtRVG9pa1lfaHZZUEctcVVBaWJsWXJiQVJkeldHeHYybGsyZ0hWM1UwWG1yOUJOM0RDVG5jemFlQllPcWNKbVVrd1M0SGdsTmtaZml1LVE1aUxJOXlwNTF5ckNMTHBs?oc=5"
   },
   {
-   "headline": "Anthropic and General Catalyst: the market is mispricing resilience",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/16/investors-undervalue-business-resilience-anthropic-general-catalyst/"
+   "headline": "Germany to announce AI partnership with Nvidia next week, sources say",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "label": "STILL OPEN",
+   "url": "https://thenextweb.com/news/germany-nvidia-ai-partnership-next-week"
   },
   {
-   "headline": "Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "Nvidia Launches Three Nemotron AI Models, Including Two for Local AI Agents",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NYWVJdExzaWZ2OE04TGRrblVKZEtKN0c3NkE5WVhMN2FyZW91Z1VXZmgxWW00QlhjVDlVbmp6VDJXMHYxYV9aTEtBRk1QZ1RIazBvX3ExMTEzczZPNEljbVNtdkNuY3I2S1MwUkFVelJ0N3dkYlhLNdIBfkFVX3lxTE5jc3Z3a0dsUGF5dm9FYkVjT3Q3ZTFpY2E0U2o3WmU2S0JiSU1SRzB6WndGOGpmeFBxOEQ0U2lXUUwzNl8yS1dsWUJmYjViMEFFSmd4a0ZtRVRuT2JFUjRfTmlTX3d5NW1qQ2IyZXVKOVBYNThpNzRUYmp2U3Q0QQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPS2JDNDU4MHZob0stQXVaa3VhRkd1Z1VSdmxmVDdkM3ZNS0xkTVlOMUdXTEFzNzJ2eFRhTThMbzl6eXFvN0twWlF5bUNQTzlIUmx3bUo0bllKRm9wR2J1U3JBTEVPei1waFVjcS16YVZCakpqa3F1cEdOb09rT0tfdmROZWtvVGU5Q212YkcwYw?oc=5"
   },
   {
-   "headline": "Small business supports \"orphaned\" solar panel owners with Claude",
-   "outlet": "Axios",
-   "outlet_name": "Axios",
+   "headline": "Mistral rachète New Material et crée Solutions Design",
+   "outlet": "Brief IA",
+   "outlet_name": "Brief IA",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHB3M011TkdBY0JRZ0E3b2tVQ3lkcGR0U3RLNmdxTUlQYkRrTnFkR2NCLU5CVzlJc2RnRmtZOGNNdkloSHJqT0MwaWJ1N0pjNnJ4bTZUVE95b3BnMHBFc3FQTnhkeUNySVVDOUZ6WDZmZFg5T3lySjk0b0VURFFBTjNLczFEMVJCTnppQnZ5dEw4S0VPeWhQRDFCdw?oc=5"
+   "url": "https://www.briefia.fr/article/mistral-rachete-new-material-et-cree-solutions-design"
   },
   {
-   "headline": "FLUX 3 Image Klein Compared to Qwen-Image 2.1 Turbo: License First",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
+   "headline": "Meta’s new terms may allow it to train AI on news sites for free",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "label": "STILL OPEN",
+   "url": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers"
+  },
+  {
+   "headline": "Anthropic in Discussions With NYC Comptroller After IPO Letter",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://www.orcarouter.ai/zh-CN/blog/flux-3-image-klein-vs-qwen-image-2-1-turbo"
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUDNwaTg5bENnN0V3Um1pdXFMNDFZOTJPWTZtRk1xOV8wdWowa1hMakRLZWVOd3o5YW50MnMydDhKYWRtSzJvYlR3dExyWjJfMlJtTnkwN1o4MThLY04xQlF5MVlMQzB5WU9felhGZVRDTjdxUVF0TlJ4R1N0N2dVQkpRSjI1djlTbFg0bVRrVF9CQkdlZFowS3dUaUxGV290S1g0dVhJM0ttdGNHbWdWUXczZw?oc=5"
   },
   {
    "headline": "Meshy Debuts New In-House AI Model with Meshy Edit, Letting Users Change Selected Parts…",
@@ -93,6 +100,13 @@
    "outlet_name": "PR Newswire",
    "label": "REPORTED",
    "url": "https://www.prnewswire.com/news-releases/meshy-debuts-new-in-house-ai-model-with-meshy-edit-letting-users-change-selected-parts-of-a-3d-model-with-one-prompt-302911259.html"
+  },
+  {
+   "headline": "Nassau Street Partners Advises on $12 Million AI Fintech Capital Raise",
+   "outlet": "citybiz",
+   "outlet_name": "citybiz",
+   "label": "REPORTED",
+   "url": "https://www.citybiz.co/article/919914/nassau-street-partners-advises-on-12-million-ai-fintech-capital-raise/"
   },
   {
    "headline": "China unveils draft export controls on AI technologies and chips",
@@ -109,13 +123,6 @@
    "url": "https://www.fintechfutures.com/venture-capital-funding/wiremind-raises-35m-first-funding-round"
   },
   {
-   "headline": "Anthropic’s IPO could be the biggest ever. Your AI budget helps explain why",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "STILL OPEN",
-   "url": "https://fortune.com/2026/10/16/anthropics-ipo-could-be-the-biggest-ever-your-ai-budget-helps-explain-why/"
-  },
-  {
    "headline": "NVIDIA RTX Spark Laptops Launch Worldwide With Local AI Agent Support",
    "outlet": "Unite.AI",
    "outlet_name": "Unite.AI",
@@ -123,28 +130,21 @@
    "url": "https://www.unite.ai/nvidia-rtx-spark-laptops-launch-worldwide-with-local-ai-agent-support/"
   },
   {
-   "headline": "Forbes Global CEO Conference 2026: AI leaders tackle hype, regulation and security risks",
-   "outlet": "Forbes on MSN",
-   "outlet_name": "Forbes on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/forbes-global-ceo-conference-2026-ai-leaders-tackle-hype-regulation-and-security-risks/ar-AA2eneDp"
-  },
-  {
-   "headline": "8 States Sue OpenAI Over ChatGPT’s Alleged Risks to Children",
-   "outlet": "Law.com",
-   "outlet_name": "Law.com",
+   "headline": "Microsoft's Legal Copilot Rollout Collides With UK Regulatory Scrutiny",
+   "outlet": "ad-hoc-news.de",
+   "outlet_name": "ad-hoc-news.de",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNc1AyVTRmSnFhQkRkNkZ5d1B0Qklud29EM3o0RVJuMDBkUUVyeVFZUGREZWlYQmRLYTBOWFhvM1JRSUJaQl9Bd3BEcDIzWm0wdGhsOTJQaFZuRnNMLXd4MnlpT1N2bHJTVElaeUx0Y1pMVWhPbHRwd0Y1M0tqemJQZWRZWFlTT2tEaWw3UHNCLXZfNTR2N0E?oc=5"
+   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/microsoft-s-legal-copilot-rollout-collides-with-uk-regulatory-scrutiny/70341799"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 14800,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 14700,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/14.mp3",
- "audio_seconds": 50.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/15.mp3",
+ "audio_seconds": 44.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Yahoo! Finance Canada: China moves to curb tech exports, including AI, citing national security risks.\nReported by Fortune: Anthropic and General Catalyst: the market is mispricing resilience.\nReported by CNBC: Here's how the CoreWeave sell-off is affecting OpenAI vs. Anthropic valuations.\nReported by Axios: Small business supports \"orphaned\" solar panel owners with Claude.\nReported by OrcaRouter: FLUX 3 Image Klein Compared to Qwen-Image 2.1 Turbo: License First.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Nonstop Local News Montana: Knudsen sues OpenAI over ChatGPT risks to Montana kids.\nStill open, per The Next Web: Germany to announce AI partnership with Nvidia next week, sources say.\nReported by TechRepublic: Nvidia Launches Three Nemotron AI Models, Including Two for Local AI Agents.\nReported by Brief IA: Mistral rachète New Material et crée Solutions Design.\nStill open, per The Verge: Meta’s new terms may allow it to train AI on news sites for free.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
