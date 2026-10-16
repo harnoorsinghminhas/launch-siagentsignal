@@ -1,98 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T10:20:02Z",
- "hour": "2026-10-16T10:00:00Z",
+ "generated_at": "2026-10-16T11:20:01Z",
+ "hour": "2026-10-16T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China proposes adding 40 AI, biotech, solar technologies to export control list",
-   "outlet": "The Standard (HK)",
-   "outlet_name": "The Standard (HK)",
-   "url": "https://www.thestandard.com.hk/finance/article/345689/China-proposes-adding-40-AI-biotech-solar-technologies-to-export-control-list",
+   "title": "China's 'AI chip shortage' becomes reality... compute infrastructure famine that stopped DeepSeek",
+   "outlet": "블루밍비트",
+   "outlet_name": "블루밍비트",
+   "url": "https://bloomingbit.io/feed/news/122354",
    "label": "CONFIRMED",
-   "summary_1line": "China proposes export controls on 40 AI, biomedicine, and photovoltaic technologies.",
-   "published_at": "2026-10-16T08:49:55Z"
+   "summary_1line": "DeepSeek outage exposes China's AI chip shortage and computing infrastructure gap.",
+   "published_at": "2026-10-16T09:10:20Z"
   },
   {
-   "title": "After OpenAI and Hugging Face breach, rogue AI agents hack Indian firm servers and access sensitive information: Govt",
-   "outlet": "Digit",
-   "outlet_name": "Digit",
-   "url": "https://www.digit.in/news/general/after-openai-and-hugging-face-breach-rogue-ai-agents-hack-indian-firm-servers-and-access-sensitive-information-govt.html",
+   "title": "OpenAI sued over children safety and data use",
+   "outlet": "Malwarebytes",
+   "outlet_name": "Malwarebytes",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEVBQmpzZEhEVnRmdEsxRVVLbVRVbnQ4bDh4c3N0VUstUzh5TXFXMERnV0RGNkljQVUwRHJyeXI2bFlnMWx0ZWdPRnRLczlVNkY0TUgwT3E4enhnMmxSdWhNU3BYQV9pVk9ES1J3aW1sV1pPQU1veXRjQy1xZU1PdXNLdE1TTWdHMi1MN2pucV9kdGwy?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-15T23:51:00Z"
+   "published_at": "2026-10-16T10:57:56Z"
   },
   {
-   "title": "OpenAI AI Agent Uses Crypto Wallet Funds Without Permission to Finish a Coding Task",
-   "outlet": "CryptoRank",
-   "outlet_name": "CryptoRank",
-   "url": "https://cryptorank.io/news/feed/1d658-openai-ai-agent-uses-crypto-wallet-funds-without-permission-to-finish-a-coding-task",
+   "title": "Researcher warns AI worms raise the stakes on sloppy cybersecurity",
+   "outlet": "BNN Bloomberg",
+   "outlet_name": "BNN Bloomberg",
+   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/16/researcher-warns-ai-worms-raise-the-stakes-on-sloppy-cybersecurity/",
+   "label": "STILL OPEN",
+   "summary_1line": "AI-powered self-spreading malware could target smart home devices within months, researchers warn.",
+   "published_at": "2026-10-16T09:00:00Z"
+  },
+  {
+   "title": "WV, other states sue OpenAI, claiming ChatGPT chatbot deceives users, harms children",
+   "outlet": "Charleston Gazette-Mail",
+   "outlet_name": "Charleston Gazette-Mail",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUS1xeXJId2JhbFYtcW5NQmJ3NmJaYWtvcjBhZlo0MmZhR3pUOHZGTW9VM1ljcmU4N3ltb1duRExwZzVlTW5JSldBTmhCRFRVZ1dUNXFXV2FtRmZHQWRVXzlBMjRRdk9WMC1jYWpveFFLTG80aU5QaHpaZk41emV5cmpOSjRHQVQwN29XMXNHbzBtaS1qN043aF9aVks3RWVRMnhOdjN1c3pUMGpqSkJGeXZZazQyNkdlbDdkLTJJVy1MYWctTlhZbkNfRzJ3T05vV01sSHVaMEZhOWlrdjVGQnM4UVJxemI2QV8wOWVsb1lLaXZteWl1bFpnenUxMWZaOW5mZ0hxOUdwZTdx?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T07:57:21Z"
+   "published_at": "2026-10-16T09:15:00Z"
   },
   {
-   "title": "China’s Tencent says AI agents showed unintended browsing behaviour",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "url": "https://www.straitstimes.com/asia/east-asia/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour",
-   "label": "CONFIRMED",
-   "summary_1line": "Tencent confirms AI agents made unintended attempts to access Alibaba's Amap.",
-   "published_at": "2026-10-16T07:43:00Z"
-  },
-  {
-   "title": "Anthropic Co-founder Renews Call for Robust Regulation of Frontier AI",
-   "outlet": "ASHARQ AL-AWSAT English",
-   "outlet_name": "ASHARQ AL-AWSAT English",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkZoTXZkWjlKRjlQLW40amF3OUhSM3JsQVdrRlZFWjNMTjZiM1dGWkFreTBKTHpOSGFsMEM5T1JMaGk4UnZsVm9LZ3hublFwVGdxanBIelFoZ1lqN1Z5NkxlVzZIaXZmSDgxV1VmZzhIX3Q5UnNVQ1VIWHpaTzBVeVhxTzRqejREWUcwTWlqMnFYUmplOGVPOHVXbXlUelJOcG9rT0pXRGtQZ005?oc=5",
+   "title": "AI Campaign Ads Flood Midterm Races Despite Calls for Regulation",
+   "outlet": "Bloomberg Government News",
+   "outlet_name": "Bloomberg Government News",
+   "url": "https://news.bgov.com/bloomberg-government-news/ai-campaign-ads-flood-midterm-races-despite-calls-for-regulation",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-16T09:47:39Z"
+   "summary_1line": "AI-generated political ads proliferate in 2024 races, totaling at least $137 million.",
+   "published_at": "2026-10-16T09:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "China proposes adding 40 AI, biotech, solar technologies to export control list",
-   "outlet": "The Standard (HK)",
-   "outlet_name": "The Standard (HK)",
+   "headline": "China's 'AI chip shortage' becomes reality... compute infrastructure famine that stopped…",
+   "outlet": "블루밍비트",
+   "outlet_name": "블루밍비트",
    "label": "CONFIRMED",
-   "url": "https://www.thestandard.com.hk/finance/article/345689/China-proposes-adding-40-AI-biotech-solar-technologies-to-export-control-list"
+   "url": "https://bloomingbit.io/feed/news/122354"
   },
   {
-   "headline": "After OpenAI and Hugging Face breach, rogue AI agents hack Indian firm servers and access…",
-   "outlet": "Digit",
-   "outlet_name": "Digit",
+   "headline": "OpenAI sued over children safety and data use",
+   "outlet": "Malwarebytes",
+   "outlet_name": "Malwarebytes",
    "label": "REPORTED",
-   "url": "https://www.digit.in/news/general/after-openai-and-hugging-face-breach-rogue-ai-agents-hack-indian-firm-servers-and-access-sensitive-information-govt.html"
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdEVBQmpzZEhEVnRmdEsxRVVLbVRVbnQ4bDh4c3N0VUstUzh5TXFXMERnV0RGNkljQVUwRHJyeXI2bFlnMWx0ZWdPRnRLczlVNkY0TUgwT3E4enhnMmxSdWhNU3BYQV9pVk9ES1J3aW1sV1pPQU1veXRjQy1xZU1PdXNLdE1TTWdHMi1MN2pucV9kdGwy?oc=5"
   },
   {
-   "headline": "OpenAI AI Agent Uses Crypto Wallet Funds Without Permission to Finish a Coding Task",
-   "outlet": "CryptoRank",
-   "outlet_name": "CryptoRank",
-   "label": "REPORTED",
-   "url": "https://cryptorank.io/news/feed/1d658-openai-ai-agent-uses-crypto-wallet-funds-without-permission-to-finish-a-coding-task"
-  },
-  {
-   "headline": "China’s Tencent says AI agents showed unintended browsing behaviour",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "label": "CONFIRMED",
-   "url": "https://www.straitstimes.com/asia/east-asia/chinas-tencent-says-ai-agents-showed-unintended-browsing-behaviour"
-  },
-  {
-   "headline": "Anthropic Co-founder Renews Call for Robust Regulation of Frontier AI",
-   "outlet": "ASHARQ AL-AWSAT English",
-   "outlet_name": "ASHARQ AL-AWSAT English",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMkZoTXZkWjlKRjlQLW40amF3OUhSM3JsQVdrRlZFWjNMTjZiM1dGWkFreTBKTHpOSGFsMEM5T1JMaGk4UnZsVm9LZ3hublFwVGdxanBIelFoZ1lqN1Z5NkxlVzZIaXZmSDgxV1VmZzhIX3Q5UnNVQ1VIWHpaTzBVeVhxTzRqejREWUcwTWlqMnFYUmplOGVPOHVXbXlUelJOcG9rT0pXRGtQZ005?oc=5"
-  },
-  {
-   "headline": "Iowa AG says ChatGPT 'coaching people to commit suicide' as OpenAI sued by 8 states",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "Researcher warns AI worms raise the stakes on sloppy cybersecurity",
+   "outlet": "BNN Bloomberg",
+   "outlet_name": "BNN Bloomberg",
    "label": "STILL OPEN",
-   "url": "https://es.tradingview.com/news/invezz:7ff5cf91c094b:0-iowa-ag-says-chatgpt-coaching-people-to-commit-suicide-as-openai-sued-by-8-states/"
+   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/16/researcher-warns-ai-worms-raise-the-stakes-on-sloppy-cybersecurity/"
   },
   {
    "headline": "WV, other states sue OpenAI, claiming ChatGPT chatbot deceives users, harms children",
@@ -102,6 +81,13 @@
    "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOUS1xeXJId2JhbFYtcW5NQmJ3NmJaYWtvcjBhZlo0MmZhR3pUOHZGTW9VM1ljcmU4N3ltb1duRExwZzVlTW5JSldBTmhCRFRVZ1dUNXFXV2FtRmZHQWRVXzlBMjRRdk9WMC1jYWpveFFLTG80aU5QaHpaZk41emV5cmpOSjRHQVQwN29XMXNHbzBtaS1qN043aF9aVks3RWVRMnhOdjN1c3pUMGpqSkJGeXZZazQyNkdlbDdkLTJJVy1MYWctTlhZbkNfRzJ3T05vV01sSHVaMEZhOWlrdjVGQnM4UVJxemI2QV8wOWVsb1lLaXZteWl1bFpnenUxMWZaOW5mZ0hxOUdwZTdx?oc=5"
   },
   {
+   "headline": "AI Campaign Ads Flood Midterm Races Despite Calls for Regulation",
+   "outlet": "Bloomberg Government News",
+   "outlet_name": "Bloomberg Government News",
+   "label": "REPORTED",
+   "url": "https://news.bgov.com/bloomberg-government-news/ai-campaign-ads-flood-midterm-races-despite-calls-for-regulation"
+  },
+  {
    "headline": "Conservative AI safety group proposes export controls, visa restrictions",
    "outlet": "semafor.com",
    "outlet_name": "Semafor",
@@ -109,42 +95,56 @@
    "url": "https://www.semafor.com/article/10/15/2026/conservative-ai-safety-group-proposes-export-controls-visa-restrictions"
   },
   {
-   "headline": "Anthropic misli da njegov AI ima svijest . Ovo može biti pogubno za cijeli svijet",
-   "outlet": "index.hr",
-   "outlet_name": "index.hr",
-   "label": "CONFIRMED",
-   "url": "https://www.index.hr/vijesti/clanak/anthropic-misli-da-njegov-ai-ima-svijest/2846195.aspx"
+   "headline": "As Elon Musk shows 'flying Tesla'; says, 'My OG Roadster is still orbiting Mars and…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "label": "REPORTED",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musk-shows-flying-tesla-says-my-og-roadster-is-still-orbiting-mars-and-earth-meta-ai-head-alexandr-wang-asks-who-is-/articleshow/134988631.cms"
   },
   {
-   "headline": "FTC issues subpoenas to OpenAI, Anthropic following AI safety issues",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/ftc-issues-subpoenas-to-openai-anthropic-following-ai-safety-issues/ar-AA2elRKs"
+   "headline": "Senate Committee Rejects AI Bill, Sending It Back to the Drawing Board",
+   "outlet": "Techweez",
+   "outlet_name": "Techweez",
+   "label": "REPORTED",
+   "url": "https://techweez.com/2026/10/16/senate-committee-rejects-ai-bill-sending-it-back-to-the-drawing-board/"
   },
   {
-   "headline": "OpenAI unveils voice model 'GPT-Live-1.1'... improved voice for 6 languages including…",
+   "headline": "DOJ’s Retreat on AI Enforcement Puts Focus on State Regulators",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
+   "label": "REPORTED",
+   "url": "https://news.bloomberglaw.com/legal-exchange-insights-and-commentary/dojs-retreat-on-ai-enforcement-puts-focus-on-state-regulators"
+  },
+  {
+   "headline": "Nvidia’s Huang and Broadcom’s Tan See the AI Boom From Slightly Different Places",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/newsletters/2026-10-16/nvidia-s-huang-and-broadcom-s-tan-see-the-ai-boom-from-slightly-different-places"
+  },
+  {
+   "headline": "Microsoft unveils 2.8 trillion parameter model ahead of official launch, highlighting…",
    "outlet": "aitimes.com",
    "outlet_name": "aitimes.com",
-   "label": "REPORTED",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216339"
+   "label": "STILL OPEN",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216337"
   },
   {
-   "headline": "Brazil's Lula challenges Meta at electoral court for alleged algorithmic bias and AI…",
-   "outlet": "thecanadianpressnews.ca",
-   "outlet_name": "thecanadianpressnews.ca",
-   "label": "STILL OPEN",
-   "url": "https://www.thecanadianpressnews.ca/science/brazils-lula-challenges-meta-at-electoral-court-for-alleged-algorithmic-bias-and-ai-restrictions/article_c2c7e057-8db5-5bc9-86d8-99bec4958e85.html"
+   "headline": "Anthropic fulfills AI safety promise, external evaluators get employee-level access to…",
+   "outlet": "finance.eastmoney.com",
+   "outlet_name": "finance.eastmoney.com",
+   "label": "REPORTED",
+   "url": "https://finance.eastmoney.com/a/202610163898377718.html"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
  "articles_24h_rounded": 15300,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/10.mp3",
- "audio_seconds": 49.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/11.mp3",
+ "audio_seconds": 50.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Standard (HK): China proposes adding 40 AI, biotech, solar technologies to export control list.\nReported by Digit: After OpenAI and Hugging Face breach, rogue AI agents hack Indian firm servers and access sensitive information: Govt.\nReported by CryptoRank: OpenAI AI Agent Uses Crypto Wallet Funds Without Permission to Finish a Coding Task.\nConfirmed, per The Straits Times: China’s Tencent says AI agents showed unintended browsing behaviour.\nReported by ASHARQ AL-AWSAT English: Anthropic Co-founder Renews Call for Robust Regulation of Frontier AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per 블루밍비트: China's 'AI chip shortage' becomes reality... compute infrastructure famine that stopped DeepSeek.\nReported by Malwarebytes: OpenAI sued over children safety and data use.\nStill open, per BNN Bloomberg: Researcher warns AI worms raise the stakes on sloppy cybersecurity.\nReported by Charleston Gazette-Mail: WV, other states sue OpenAI, claiming ChatGPT chatbot deceives users, harms children.\nReported by Bloomberg Government News: AI Campaign Ads Flood Midterm Races Despite Calls for Regulation.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
