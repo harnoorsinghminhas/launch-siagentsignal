@@ -1,91 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T00:20:02Z",
- "hour": "2026-10-16T00:00:00Z",
+ "generated_at": "2026-10-16T01:20:01Z",
+ "hour": "2026-10-16T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia introduces new GPU library to advance AI integration in semiconductor design and fabs",
-   "outlet": "Digital Watch Observatory",
-   "outlet_name": "Digital Watch Observatory",
-   "url": "https://dig.watch/updates/nvidia-gpu-library-advances-ai-in-semiconductor",
-   "label": "STILL OPEN",
-   "summary_1line": "Nvidia launches cuPotential library to accelerate AI-driven semiconductor manufacturing.",
-   "published_at": "2026-10-15T22:30:06Z"
-  },
-  {
-   "title": "Meta unveils new ‘open’ AI model to rival Chinese competition",
-   "outlet": "Vanguard",
-   "outlet_name": "Vanguard",
-   "url": "https://www.vanguardngr.com/2026/10/meta-unveils-new-open-ai-model-to-rival-chinese-competition/",
+   "title": "ChatGPT can peek at your Chrome tabs now",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
    "label": "CONFIRMED",
-   "summary_1line": "Meta launches Muse Spark Open, optimized for Apple's M5 Ultra chips.",
-   "published_at": "2026-10-15T14:29:00Z"
+   "summary_1line": "ChatGPT Chrome extension now views and controls open browser tabs for automation.",
+   "published_at": "2026-10-15T22:43:23Z"
   },
   {
-   "title": "Brazil's Lula challenges Meta at electoral court for alleged algorithmic bias and AI restrictions",
-   "outlet": "Traverse City Record-Eagle",
-   "outlet_name": "Traverse City Record-Eagle",
-   "url": "https://www.record-eagle.com/ap/business/brazils-lula-challenges-meta-at-electoral-court-for-alleged-algorithmic-bias-and-ai-restrictions/article_678ab544-451e-581c-9bcb-139f4aa5cc8b.html",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-15T22:41:19Z"
+   "title": "US FTC subpoenas show White House’s regulatory response to AI risks",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
+   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2538668/us-ftc-subpoenas-show-white-house-s-regulatory-response-to-ai-risks",
+   "label": "CONFIRMED",
+   "summary_1line": "FTC subpoenas OpenAI and Anthropic as White House tightens AI oversight.",
+   "published_at": "2026-10-15T21:00:07Z"
   },
   {
-   "title": "US Senate poised to add Claude to staffers’ AI tools - Politico",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSC1BMENWOE51TXBEZWJxRjlrSFZRWmVqVzl3X096WFh6N1E4Mlh6cWtpbGhiY1lESTNnSFFkck91dElnekR5cWJDQ3JBTE01c1V6dmtQeXI2bGVSNTd5UG1fTjBiOHpTUktDVDV6UklkV2VMc2NkT2VQdVV6MXB0eU10MXdqRDZjRC03eGZldHctNUMxdU1sMVBSWC1jU0tlbzUxX05FVk5SMk9uS3ZrOGYzNkJNd0xIZ1kteDk1OUhvbklJSFl4b0tR?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-15T22:43:59Z"
+   "title": "Intel D270 AI chip debuts to provide greater computing space for large models",
+   "outlet": "商傳媒",
+   "outlet_name": "商傳媒",
+   "url": "https://sunmedia.tw/news/technology/1792104972-%E8%8B%B1%E7%89%B9%E7%88%BE%20D270%20AI%20%E6%99%B6%E7%89%87%E7%99%BB%E5%A0%B4%20%E7%82%BA%E5%A4%A7%E5%9E%8B%E6%A8%A1%E5%9E%8B%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%A7%E9%81%8B%E7%AE%97%E7%A9%BA%E9%96%93",
+   "label": "CONFIRMED",
+   "summary_1line": "Intel D270 AI chip supports 300B parameters with up to 480GB memory for inference.",
+   "published_at": "2026-10-15T22:57:19Z"
   },
   {
-   "title": "8 states, including Arizona, sue OpenAI",
-   "outlet": "FOX 10 Phoenix",
-   "outlet_name": "FOX 10 Phoenix",
-   "url": "https://www.fox10phoenix.com/video/fmc-dlja4zpe658tp6er",
+   "title": "Not just betting on AI chips, Bolt Graphics targets scientific computing and professional graphics, plans to raise $100 million, valuation looks to reach $700 million",
+   "outlet": "鉅亨網",
+   "outlet_name": "鉅亨網",
+   "url": "https://m.cnyes.com/news/id/6631682",
+   "label": "STILL OPEN",
+   "summary_1line": "Bolt Graphics seeks $100M at $700M valuation for non-AI GPU chips.",
+   "published_at": "2026-10-15T22:40:48Z"
+  },
+  {
+   "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+   "outlet": "Oskaloosa Herald",
+   "outlet_name": "Oskaloosa Herald",
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNnpLc3R4cUo2MUtfd0plTDRkNjBlOHpRNjhyX1FEUERrNlpzbWotdVNyMUx1S0c5cHFaUVRIaDZyYjdNYnB4Tk1fT0JvcG02QjA1QVhzaFVURG1HQWc5MFJFTDd0OV9JZUZVWDhoU1drNUFOQmhFSnB0T0diMkFxWm9JNVNFZG1rYlhTVUQ4RkdGSTdJNWdCZWhvOHpxMTl5YWloWkxybWhJdm1HTVhIN3pXUUFRZFJ2aFNmWUxZUnpQZHIydGZhZUs0V3pkVXQtem45OWFjZ2E5MVIxQkNBLVk1RV9jVURkZFpfV0xDS29LMWhtWGNudVF2Ui1jQlM1ekJNQnR6aE51VWtuTnpnNi1JaVlMaWQ2?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-15T22:27:03Z"
+   "published_at": "2026-10-15T22:45:57Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia introduces new GPU library to advance AI integration in semiconductor design and…",
-   "outlet": "Digital Watch Observatory",
-   "outlet_name": "Digital Watch Observatory",
-   "label": "STILL OPEN",
-   "url": "https://dig.watch/updates/nvidia-gpu-library-advances-ai-in-semiconductor"
-  },
-  {
-   "headline": "Meta unveils new ‘open’ AI model to rival Chinese competition",
-   "outlet": "Vanguard",
-   "outlet_name": "Vanguard",
+   "headline": "ChatGPT can peek at your Chrome tabs now",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.vanguardngr.com/2026/10/meta-unveils-new-open-ai-model-to-rival-chinese-competition/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
   },
   {
-   "headline": "Brazil's Lula challenges Meta at electoral court for alleged algorithmic bias and AI…",
-   "outlet": "Traverse City Record-Eagle",
-   "outlet_name": "Traverse City Record-Eagle",
-   "label": "REPORTED",
-   "url": "https://www.record-eagle.com/ap/business/brazils-lula-challenges-meta-at-electoral-court-for-alleged-algorithmic-bias-and-ai-restrictions/article_678ab544-451e-581c-9bcb-139f4aa5cc8b.html"
+   "headline": "US FTC subpoenas show White House’s regulatory response to AI risks",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
+   "label": "CONFIRMED",
+   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2538668/us-ftc-subpoenas-show-white-house-s-regulatory-response-to-ai-risks"
   },
   {
-   "headline": "US Senate poised to add Claude to staffers’ AI tools - Politico",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSC1BMENWOE51TXBEZWJxRjlrSFZRWmVqVzl3X096WFh6N1E4Mlh6cWtpbGhiY1lESTNnSFFkck91dElnekR5cWJDQ3JBTE01c1V6dmtQeXI2bGVSNTd5UG1fTjBiOHpTUktDVDV6UklkV2VMc2NkT2VQdVV6MXB0eU10MXdqRDZjRC03eGZldHctNUMxdU1sMVBSWC1jU0tlbzUxX05FVk5SMk9uS3ZrOGYzNkJNd0xIZ1kteDk1OUhvbklJSFl4b0tR?oc=5"
+   "headline": "Intel D270 AI chip debuts to provide greater computing space for large models",
+   "outlet": "商傳媒",
+   "outlet_name": "商傳媒",
+   "label": "CONFIRMED",
+   "url": "https://sunmedia.tw/news/technology/1792104972-%E8%8B%B1%E7%89%B9%E7%88%BE%20D270%20AI%20%E6%99%B6%E7%89%87%E7%99%BB%E5%A0%B4%20%E7%82%BA%E5%A4%A7%E5%9E%8B%E6%A8%A1%E5%9E%8B%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%A7%E9%81%8B%E7%AE%97%E7%A9%BA%E9%96%93"
   },
   {
-   "headline": "8 states, including Arizona, sue OpenAI",
-   "outlet": "FOX 10 Phoenix",
-   "outlet_name": "FOX 10 Phoenix",
+   "headline": "Not just betting on AI chips, Bolt Graphics targets scientific computing and professional…",
+   "outlet": "鉅亨網",
+   "outlet_name": "鉅亨網",
+   "label": "STILL OPEN",
+   "url": "https://m.cnyes.com/news/id/6631682"
+  },
+  {
+   "headline": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving…",
+   "outlet": "Oskaloosa Herald",
+   "outlet_name": "Oskaloosa Herald",
    "label": "REPORTED",
-   "url": "https://www.fox10phoenix.com/video/fmc-dlja4zpe658tp6er"
+   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNnpLc3R4cUo2MUtfd0plTDRkNjBlOHpRNjhyX1FEUERrNlpzbWotdVNyMUx1S0c5cHFaUVRIaDZyYjdNYnB4Tk1fT0JvcG02QjA1QVhzaFVURG1HQWc5MFJFTDd0OV9JZUZVWDhoU1drNUFOQmhFSnB0T0diMkFxWm9JNVNFZG1rYlhTVUQ4RkdGSTdJNWdCZWhvOHpxMTl5YWloWkxybWhJdm1HTVhIN3pXUUFRZFJ2aFNmWUxZUnpQZHIydGZhZUs0V3pkVXQtem45OWFjZ2E5MVIxQkNBLVk1RV9jVURkZFpfV0xDS29LMWhtWGNudVF2Ui1jQlM1ekJNQnR6aE51VWtuTnpnNi1JaVlMaWQ2?oc=5"
   },
   {
    "headline": "OpenAI's Dots head says AI means workers now have a choice between doing less or more",
@@ -102,49 +102,49 @@
    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmJjWVV2and2TldhLVN6bk5xbHVXdXJmMWJPTi1CMGJxa01qS001cEhOeS0zRWlWU0tqbmpBLTZfamhIcnA1S093T0QySEZOZnhleDFWaE1BZ1Vlb1FfSWRjVHZ4Mks5cjVSemoyY3VXNnNCMGd4cThrTlplWWJxSUp2aklVVjFNVGlwMHRVLWFtWEVjVzlsSFFmWTdXaWhBSThmQWg1ekU5MWJaRFRHZWk0VC1PN21CMlHSAb8BQVVfeXFMUDBxTmFfV1ZpRmZCZjdUb05jUERHZ2xIMGkwdXJkbWR3LWUwcDQxQ21WNHNjR0dWQS02VlZBTmpsMFR0SGJYUTlfbEZkajdTdGpNQUpTQm9zbUxScG8yeGs4YlZHZ0tSbkR6X1VSSlZ4WTg4WlZUSjA2bk9TaTRjbkRmeXR2LVlWb0JwUENiM2VWWklhdXNFY2liOGtMN0tmYU1RaFExYWwyXzdodU1iXy1JbWI5cmxkLVJQRXhQMVE?oc=5"
   },
   {
-   "headline": "ChatGPT can peek at your Chrome tabs now",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
+   "headline": "Cook Says Apple Intelligence to Test in China at End of Month; Maextro Responds to…",
+   "outlet": "DoNews",
+   "outlet_name": "DoNews",
    "label": "REPORTED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RV2FiZ1JpU2RSZ20tT2xyTG82TlF1S3hLZ0xlcDZSYXRiQjg4eTZ6ZG9jbmdyV05vRjRXNm0tYlc0Z0lnWjdJeENydWJzLXRIS1lZSDlUTEtsN3ZfVGc?oc=5"
   },
   {
-   "headline": "Nvidia debuts three new open AI models",
-   "outlet": "Yahoo Finance on MSN",
-   "outlet_name": "Yahoo Finance on MSN",
+   "headline": "DeepSeek Apologizes, Announces Compensation Plan",
+   "outlet": "搜狐网",
+   "outlet_name": "搜狐网",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbEdZNGlyY2h5VG5QRGMtVUtpSmtDcUJJU0NGM1FrOUcwWUw2eFA4THV6TTVULXdLQTBsLTVqMG9yUUVRcHhRRGVEMi1Jay1DQ2FkRXhjWWlmNEVuWDdRUmRVaE1MLWhUQmFlWDlyRDc3QktYd3VWa19oR2tleGNkZnVIb3VYMHoxcHhiS3RiSQ?oc=5"
+  },
+  {
+   "headline": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/nvidia-debuts-three-new-open-ai-models/ar-AA2ejllG"
-  },
-  {
-   "headline": "Anthropic researchers sound warning that your fridge could become an AI cybersecurity risk",
-   "outlet": "DW.com",
-   "outlet_name": "DW.com",
-   "label": "STILL OPEN",
-   "url": "https://amp.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958"
-  },
-  {
-   "headline": "Claude: Code Review is now generally available",
-   "outlet": "claude.com",
-   "outlet_name": "claude.com",
-   "label": "REPORTED",
-   "url": "https://claude.com/resources/articles/code-review-is-now-generally-available"
+   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
   },
   {
    "headline": "[TMT Post Morning News] Pan Gongsheng: Global imbalances cannot be adjusted by exchange…",
    "outlet": "tmtpost.com",
    "outlet_name": "tmtpost.com",
-   "label": "REPORTED",
+   "label": "STILL OPEN",
    "url": "https://www.tmtpost.com/8170437.html"
+  },
+  {
+   "headline": "Anthropic researchers warn that your fridge could become an AI cybersecurity risk",
+   "outlet": "DW.com",
+   "outlet_name": "DW.com",
+   "label": "STILL OPEN",
+   "url": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 15300,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/00.mp3",
- "audio_seconds": 46.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/01.mp3",
+ "audio_seconds": 52.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per Digital Watch Observatory: Nvidia introduces new GPU library to advance AI integration in semiconductor design and fabs.\nConfirmed, per Vanguard: Meta unveils new ‘open’ AI model to rival Chinese competition.\nReported by Traverse City Record-Eagle: Brazil's Lula challenges Meta at electoral court for alleged algorithmic bias and AI restrictions.\nReported by TradingView: US Senate poised to add Claude to staffers’ AI tools - Politico.\nReported by FOX 10 Phoenix: 8 states, including Arizona, sue OpenAI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: ChatGPT can peek at your Chrome tabs now.\nConfirmed, per MLex: US FTC subpoenas show White House’s regulatory response to AI risks.\nConfirmed, per 商傳媒: Intel D270 AI chip debuts to provide greater computing space for large models.\nStill open, per 鉅亨網: Not just betting on AI chips, Bolt Graphics targets scientific computing and professional graphics, plans to raise $100 million, valuation looks to reach $700 million.\nReported by Oskaloosa Herald: States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
