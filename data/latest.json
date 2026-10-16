@@ -1,105 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T01:20:01Z",
- "hour": "2026-10-16T01:00:00Z",
+ "generated_at": "2026-10-16T02:20:01Z",
+ "hour": "2026-10-16T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "ChatGPT can peek at your Chrome tabs now",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-   "label": "CONFIRMED",
-   "summary_1line": "ChatGPT Chrome extension now views and controls open browser tabs for automation.",
-   "published_at": "2026-10-15T22:43:23Z"
+   "title": "Financial regulators urge stronger cyber security amid AI-enabled cyber attacks",
+   "outlet": "RNZ",
+   "outlet_name": "RNZ",
+   "url": "https://www.rnz.co.nz/news/business/1952204/financial-regulators-urge-stronger-cyber-security-amid-ai-enabled-cyber-attacks",
+   "label": "REPORTED",
+   "summary_1line": "NZ regulators mandate AI cyber security oversight for financial institutions.",
+   "published_at": "2026-10-15T23:45:53Z"
   },
   {
-   "title": "US FTC subpoenas show White House’s regulatory response to AI risks",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2538668/us-ftc-subpoenas-show-white-house-s-regulatory-response-to-ai-risks",
-   "label": "CONFIRMED",
-   "summary_1line": "FTC subpoenas OpenAI and Anthropic as White House tightens AI oversight.",
-   "published_at": "2026-10-15T21:00:07Z"
-  },
-  {
-   "title": "Intel D270 AI chip debuts to provide greater computing space for large models",
-   "outlet": "商傳媒",
-   "outlet_name": "商傳媒",
-   "url": "https://sunmedia.tw/news/technology/1792104972-%E8%8B%B1%E7%89%B9%E7%88%BE%20D270%20AI%20%E6%99%B6%E7%89%87%E7%99%BB%E5%A0%B4%20%E7%82%BA%E5%A4%A7%E5%9E%8B%E6%A8%A1%E5%9E%8B%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%A7%E9%81%8B%E7%AE%97%E7%A9%BA%E9%96%93",
-   "label": "CONFIRMED",
-   "summary_1line": "Intel D270 AI chip supports 300B parameters with up to 480GB memory for inference.",
-   "published_at": "2026-10-15T22:57:19Z"
-  },
-  {
-   "title": "Not just betting on AI chips, Bolt Graphics targets scientific computing and professional graphics, plans to raise $100 million, valuation looks to reach $700 million",
-   "outlet": "鉅亨網",
-   "outlet_name": "鉅亨網",
-   "url": "https://m.cnyes.com/news/id/6631682",
-   "label": "STILL OPEN",
-   "summary_1line": "Bolt Graphics seeks $100M at $700M valuation for non-AI GPU chips.",
-   "published_at": "2026-10-15T22:40:48Z"
-  },
-  {
-   "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
-   "outlet": "Oskaloosa Herald",
-   "outlet_name": "Oskaloosa Herald",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNnpLc3R4cUo2MUtfd0plTDRkNjBlOHpRNjhyX1FEUERrNlpzbWotdVNyMUx1S0c5cHFaUVRIaDZyYjdNYnB4Tk1fT0JvcG02QjA1QVhzaFVURG1HQWc5MFJFTDd0OV9JZUZVWDhoU1drNUFOQmhFSnB0T0diMkFxWm9JNVNFZG1rYlhTVUQ4RkdGSTdJNWdCZWhvOHpxMTl5YWloWkxybWhJdm1HTVhIN3pXUUFRZFJ2aFNmWUxZUnpQZHIydGZhZUs0V3pkVXQtem45OWFjZ2E5MVIxQkNBLVk1RV9jVURkZFpfV0xDS29LMWhtWGNudVF2Ui1jQlM1ekJNQnR6aE51VWtuTnpnNi1JaVlMaWQ2?oc=5",
+   "title": "Iowa joins other states with a lawsuit against OpenAI",
+   "outlet": "KSCJ 1360",
+   "outlet_name": "KSCJ 1360",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGVYZGxnSHdWZ1dxOHRYdGVVd3ljSzBWVkladXRoUllCZUxyeEVzbXJYMHZETzRvQ1lyZ3I5Y1dQS1drWnRhYmxkaWdhZHlDOTNFMjJ4elRNOEpjc29PTnJoN3RHMW5Jb2lFSmltSy1VdWduZl81WTFNWWlLRVl2U3ljY3VJS0lPQWc?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-15T22:45:57Z"
+   "published_at": "2026-10-16T01:29:41Z"
+  },
+  {
+   "title": "Bringing GPT-Rosalind to academic research labs",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-15T21:04:31Z"
+  },
+  {
+   "title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-16T01:32:57Z"
+  },
+  {
+   "title": "Nvidia Releases Nemotron 3.5 Super VL Multimodal Large Model, Optimized for AI Agents, Supporting Text, Image, Document, and Video Understanding",
+   "outlet": "SmartHey",
+   "outlet_name": "SmartHey",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfZU5SN09qQ04tQnlEMEpjSV9HMnI4T2JoUVdqQUVMcE9XeGVwckVYamlPUVJ4dmNkNE1tQnpGbWFMREM3X0xsVWtEVmNEV3VpT3I5MUl3UzJRaUFCRkE?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-16T00:30:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "ChatGPT can peek at your Chrome tabs now",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
-  },
-  {
-   "headline": "US FTC subpoenas show White House’s regulatory response to AI risks",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "label": "CONFIRMED",
-   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2538668/us-ftc-subpoenas-show-white-house-s-regulatory-response-to-ai-risks"
-  },
-  {
-   "headline": "Intel D270 AI chip debuts to provide greater computing space for large models",
-   "outlet": "商傳媒",
-   "outlet_name": "商傳媒",
-   "label": "CONFIRMED",
-   "url": "https://sunmedia.tw/news/technology/1792104972-%E8%8B%B1%E7%89%B9%E7%88%BE%20D270%20AI%20%E6%99%B6%E7%89%87%E7%99%BB%E5%A0%B4%20%E7%82%BA%E5%A4%A7%E5%9E%8B%E6%A8%A1%E5%9E%8B%E6%8F%90%E4%BE%9B%E6%9B%B4%E5%A4%A7%E9%81%8B%E7%AE%97%E7%A9%BA%E9%96%93"
-  },
-  {
-   "headline": "Not just betting on AI chips, Bolt Graphics targets scientific computing and professional…",
-   "outlet": "鉅亨網",
-   "outlet_name": "鉅亨網",
-   "label": "STILL OPEN",
-   "url": "https://m.cnyes.com/news/id/6631682"
-  },
-  {
-   "headline": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving…",
-   "outlet": "Oskaloosa Herald",
-   "outlet_name": "Oskaloosa Herald",
+   "headline": "Financial regulators urge stronger cyber security amid AI-enabled cyber attacks",
+   "outlet": "RNZ",
+   "outlet_name": "RNZ",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNnpLc3R4cUo2MUtfd0plTDRkNjBlOHpRNjhyX1FEUERrNlpzbWotdVNyMUx1S0c5cHFaUVRIaDZyYjdNYnB4Tk1fT0JvcG02QjA1QVhzaFVURG1HQWc5MFJFTDd0OV9JZUZVWDhoU1drNUFOQmhFSnB0T0diMkFxWm9JNVNFZG1rYlhTVUQ4RkdGSTdJNWdCZWhvOHpxMTl5YWloWkxybWhJdm1HTVhIN3pXUUFRZFJ2aFNmWUxZUnpQZHIydGZhZUs0V3pkVXQtem45OWFjZ2E5MVIxQkNBLVk1RV9jVURkZFpfV0xDS29LMWhtWGNudVF2Ui1jQlM1ekJNQnR6aE51VWtuTnpnNi1JaVlMaWQ2?oc=5"
+   "url": "https://www.rnz.co.nz/news/business/1952204/financial-regulators-urge-stronger-cyber-security-amid-ai-enabled-cyber-attacks"
   },
   {
-   "headline": "OpenAI's Dots head says AI means workers now have a choice between doing less or more",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
+   "headline": "Iowa joins other states with a lawsuit against OpenAI",
+   "outlet": "KSCJ 1360",
+   "outlet_name": "KSCJ 1360",
    "label": "REPORTED",
-   "url": "https://www.businessinsider.com/openai-dots-head-ai-lets-workers-do-less-or-more-2026-10"
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGVYZGxnSHdWZ1dxOHRYdGVVd3ljSzBWVkladXRoUllCZUxyeEVzbXJYMHZETzRvQ1lyZ3I5Y1dQS1drWnRhYmxkaWdhZHlDOTNFMjJ4elRNOEpjc29PTnJoN3RHMW5Jb2lFSmltSy1VdWduZl81WTFNWWlLRVl2U3ljY3VJS0lPQWc?oc=5"
   },
   {
-   "headline": "Ex-OpenAI engineer charged with planting recording device had one-way flight booked to…",
-   "outlet": "Fox News",
-   "outlet_name": "Fox News",
+   "headline": "Bringing GPT-Rosalind to academic research labs",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmJjWVV2and2TldhLVN6bk5xbHVXdXJmMWJPTi1CMGJxa01qS001cEhOeS0zRWlWU0tqbmpBLTZfamhIcnA1S093T0QySEZOZnhleDFWaE1BZ1Vlb1FfSWRjVHZ4Mks5cjVSemoyY3VXNnNCMGd4cThrTlplWWJxSUp2aklVVjFNVGlwMHRVLWFtWEVjVzlsSFFmWTdXaWhBSThmQWg1ekU5MWJaRFRHZWk0VC1PN21CMlHSAb8BQVVfeXFMUDBxTmFfV1ZpRmZCZjdUb05jUERHZ2xIMGkwdXJkbWR3LWUwcDQxQ21WNHNjR0dWQS02VlZBTmpsMFR0SGJYUTlfbEZkajdTdGpNQUpTQm9zbUxScG8yeGs4YlZHZ0tSbkR6X1VSSlZ4WTg4WlZUSjA2bk9TaTRjbkRmeXR2LVlWb0JwUENiM2VWWklhdXNFY2liOGtMN0tmYU1RaFExYWwyXzdodU1iXy1JbWI5cmxkLVJQRXhQMVE?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5"
+  },
+  {
+   "headline": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners"
+  },
+  {
+   "headline": "Nvidia Releases Nemotron 3.5 Super VL Multimodal Large Model, Optimized for AI Agents…",
+   "outlet": "SmartHey",
+   "outlet_name": "SmartHey",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfZU5SN09qQ04tQnlEMEpjSV9HMnI4T2JoUVdqQUVMcE9XeGVwckVYamlPUVJ4dmNkNE1tQnpGbWFMREM3X0xsVWtEVmNEV3VpT3I5MUl3UzJRaUFCRkE?oc=5"
   },
   {
    "headline": "Cook Says Apple Intelligence to Test in China at End of Month; Maextro Responds to…",
@@ -130,21 +116,35 @@
    "url": "https://www.tmtpost.com/8170437.html"
   },
   {
-   "headline": "Anthropic researchers warn that your fridge could become an AI cybersecurity risk",
-   "outlet": "DW.com",
-   "outlet_name": "DW.com",
-   "label": "STILL OPEN",
-   "url": "https://www.dw.com/en/self-replicating-ai-is-your-fridge-a-cybersecurity-risk/a-79662958"
+   "headline": "Google launches Universal Cart in Search and Gemini app in US",
+   "outlet": "The Times of India on MSN",
+   "outlet_name": "The Times of India on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/technology/software/google-launches-universal-cart-in-search-and-gemini-app-in-us/ar-AA2ejyak"
+  },
+  {
+   "headline": "OpenAI Brings Computer Use to Chrome With ChatGPT Tab Controls",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "REPORTED",
+   "url": "https://www.unite.ai/openai-brings-computer-use-to-chrome-with-chatgpt-tab-controls/"
+  },
+  {
+   "headline": "KI-Deepfakes vor Gericht: OpenAI und Meta warnen vor kaum prüfbaren Beweisen",
+   "outlet": "ad-hoc-news.de",
+   "outlet_name": "ad-hoc-news.de",
+   "label": "REPORTED",
+   "url": "https://www.ad-hoc-news.de/wissenschaft/ki-deepfakes-vor-gericht-openai-und-meta-warnen-vor-kaum-pruefbaren/70334070"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 15300,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/01.mp3",
- "audio_seconds": 52.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/02.mp3",
+ "audio_seconds": 51.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: ChatGPT can peek at your Chrome tabs now.\nConfirmed, per MLex: US FTC subpoenas show White House’s regulatory response to AI risks.\nConfirmed, per 商傳媒: Intel D270 AI chip debuts to provide greater computing space for large models.\nStill open, per 鉅亨網: Not just betting on AI chips, Bolt Graphics targets scientific computing and professional graphics, plans to raise $100 million, valuation looks to reach $700 million.\nReported by Oskaloosa Herald: States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by RNZ: Financial regulators urge stronger cyber security amid AI-enabled cyber attacks.\nReported by KSCJ 1360: Iowa joins other states with a lawsuit against OpenAI.\nReported by OpenAI: Bringing GPT-Rosalind to academic research labs.\nReported by Bloomberg: Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners.\nReported by SmartHey: Nvidia Releases Nemotron 3.5 Super VL Multimodal Large Model, Optimized for AI Agents, Supporting Text, Image, Document, and Video Understanding.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
