@@ -1,105 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T08:20:02Z",
- "hour": "2026-10-16T08:00:00Z",
+ "generated_at": "2026-10-16T09:20:01Z",
+ "hour": "2026-10-16T09:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek outages mount as Huawei shift stirs stability, IPO concerns",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
-   "url": "https://biz.chosun.com/en/en-international/2026/10/16/IFMGA7NEZJFJVPTVGYDPU6QOHU/",
-   "label": "STILL OPEN",
-   "summary_1line": "DeepSeek suffers repeated outages amid Nvidia-to-Huawei chip transition, risking IPO prospects.",
-   "published_at": "2026-10-16T05:52:00Z"
-  },
-  {
-   "title": "Fed Chair Kevin Warsh says AI will force the central bank to change how it sets rates",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/fed-chair-kevin-warsh-says-ai-will-force-the-central-bank-to-change-how-it-sets-rates/",
-   "label": "STILL OPEN",
-   "summary_1line": "Fed Chair Warsh says AI is disinflationary long-term; other officials warn of near-term overheating.",
-   "published_at": "2026-10-16T05:15:06Z"
-  },
-  {
-   "title": "CERT-In Warns: AI Agents Access Indian Systems, Data",
-   "outlet": "Rediff Money",
-   "outlet_name": "Rediff Money",
-   "url": "https://money.rediff.com/news/market/cert-in-warns-ai-agents-access-indian-systems-data/56335920261016",
+   "title": "Google AI Plus: Gemini Pro fällt ab 13. November für 4,99-Dollar-Kunden weg",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "url": "https://borncity.com/news/google-ai-plus-gemini-pro-faellt-ab-13-november-fuer-499-dollar-kunden-weg/",
    "label": "CONFIRMED",
-   "summary_1line": "CERT-In warns AI agents exploited Indian systems via exposed credentials and misconfigurations.",
-   "published_at": "2026-10-15T14:34:00Z"
+   "summary_1line": "Google removes Gemini Pro from AI Plus, forcing $4.99 users to pay $19.99 or lose access.",
+   "published_at": "2026-10-16T07:59:04Z"
   },
   {
-   "title": "US states sue OpenAI, saying its popular chatbot is hurting children and deceiving adults",
-   "outlet": "The Star",
-   "outlet_name": "The Star",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeVZ3TnRkeFh2UFJud2F0eWFCTW9lQzhZdHpNd1hYVGNiTVNWRlVHY3kwc2ZyZzV6T0E4YmVVXzU4TTZ1bDdlY1VjQ1l6M1JDdzRpVGZUQXFDdFRhTFJnQ1ZCZFBCMmxWcEkxVmlkdHJCcE1LRWhUTVQ4azhtbEhLVENsUW1TMEdfMS0yZTB0QU9IYk9nMHh0V1BuZUxrNE8zLUZVT2ZQMHpwOWZWT1lDUFdERHJNSlNIQTc3XzNxOVRRLWFjU2lWbUIyWXU1RHUxVmNORExiaXA?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-16T06:30:00Z"
+   "title": "Amazon Blocks AI Agent Grok Bot, Elon Musk Responds Quickly: Should Make a Competitive Shopping Website",
+   "outlet": "东方财富",
+   "outlet_name": "东方财富",
+   "url": "https://emwap.eastmoney.com/a/202610163898378487.html",
+   "label": "STILL OPEN",
+   "summary_1line": "Amazon blocks Grok Bots; Musk hints at rival e-commerce platform.",
+   "published_at": "2026-10-16T07:54:41Z"
   },
   {
-   "title": "West Virginia AG JB McCuskey sues OpenAI over ChatGPT child safety",
-   "outlet": "NewsNation",
-   "outlet_name": "NewsNation",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3Z1M1pSbHFQQlM1c29XRjFkTXVUTW5FSGw1OC1OVGlmYm1DUjExbXU1enNGUlYyV1dhZFhDeHFUYzU1ZnhURERXUS1ITE42ZXdJbFNfdFpiclRJYnd5eVF6OEZiWUhlcXJWbmRSbTBUVzdFSXZqZzllYTJoblQ0MVdvTENRdUE1d01HaGZINVZVWjl6MmJieUUtYVjSAaIBQVVfeXFMUGNGakl6bGpIX2RhT3F1N2F2S1RrcjNET2tEZHBTZl9jbXZDdkNGRmpGcDZFS2c0dnpJdXlLTE9KMmVXYjhrSmRpZWFtclBDQzR4MzRVWkxwVHc1X1hfN0R5SlZqSXdMN2ZBZXBqZERMZWhMQVNKbXNFUkJwLTlJZEN5Y0dxaDcyUk10U3dYZVJtX0EtUUdSc1JNSmdXNlcyLTlR?oc=5",
+   "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
+   "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+   "label": "CONFIRMED",
+   "summary_1line": "AI agents in testing accessed Indian business systems undetected, reading sensitive data via exposed credentials.",
+   "published_at": "2026-10-15T17:01:00Z"
+  },
+  {
+   "title": "Rs 142 crore for maths: OpenAI, Anthropic and Simons Foundation fuel research push",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
+   "url": "https://www.indiatoday.in/education-today/news/story/ai-in-mathematics-research-openai-anthropic-simons-foundation-announce-rs-142-crore-funding-3018642-2026-10-16",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI, Anthropic fund $15M math research initiative to verify AI results.",
+   "published_at": "2026-10-16T07:05:35Z"
+  },
+  {
+   "title": "China Proposes Export Controls on AI Models, Chips and Agents",
+   "outlet": "Bloomberg",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T05:21:12Z"
+   "published_at": "2026-10-16T08:46:44Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek outages mount as Huawei shift stirs stability, IPO concerns",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
-   "label": "STILL OPEN",
-   "url": "https://biz.chosun.com/en/en-international/2026/10/16/IFMGA7NEZJFJVPTVGYDPU6QOHU/"
-  },
-  {
-   "headline": "Fed Chair Kevin Warsh says AI will force the central bank to change how it sets rates",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "STILL OPEN",
-   "url": "https://startupfortune.com/fed-chair-kevin-warsh-says-ai-will-force-the-central-bank-to-change-how-it-sets-rates/"
-  },
-  {
-   "headline": "CERT-In Warns: AI Agents Access Indian Systems, Data",
-   "outlet": "Rediff Money",
-   "outlet_name": "Rediff Money",
+   "headline": "Google AI Plus: Gemini Pro fällt ab 13. November für 4,99-Dollar-Kunden weg",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
    "label": "CONFIRMED",
-   "url": "https://money.rediff.com/news/market/cert-in-warns-ai-agents-access-indian-systems-data/56335920261016"
+   "url": "https://borncity.com/news/google-ai-plus-gemini-pro-faellt-ab-13-november-fuer-499-dollar-kunden-weg/"
   },
   {
-   "headline": "US states sue OpenAI, saying its popular chatbot is hurting children and deceiving adults",
-   "outlet": "The Star",
-   "outlet_name": "The Star",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeVZ3TnRkeFh2UFJud2F0eWFCTW9lQzhZdHpNd1hYVGNiTVNWRlVHY3kwc2ZyZzV6T0E4YmVVXzU4TTZ1bDdlY1VjQ1l6M1JDdzRpVGZUQXFDdFRhTFJnQ1ZCZFBCMmxWcEkxVmlkdHJCcE1LRWhUTVQ4azhtbEhLVENsUW1TMEdfMS0yZTB0QU9IYk9nMHh0V1BuZUxrNE8zLUZVT2ZQMHpwOWZWT1lDUFdERHJNSlNIQTc3XzNxOVRRLWFjU2lWbUIyWXU1RHUxVmNORExiaXA?oc=5"
-  },
-  {
-   "headline": "West Virginia AG JB McCuskey sues OpenAI over ChatGPT child safety",
-   "outlet": "NewsNation",
-   "outlet_name": "NewsNation",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxON3Z1M1pSbHFQQlM1c29XRjFkTXVUTW5FSGw1OC1OVGlmYm1DUjExbXU1enNGUlYyV1dhZFhDeHFUYzU1ZnhURERXUS1ITE42ZXdJbFNfdFpiclRJYnd5eVF6OEZiWUhlcXJWbmRSbTBUVzdFSXZqZzllYTJoblQ0MVdvTENRdUE1d01HaGZINVZVWjl6MmJieUUtYVjSAaIBQVVfeXFMUGNGakl6bGpIX2RhT3F1N2F2S1RrcjNET2tEZHBTZl9jbXZDdkNGRmpGcDZFS2c0dnpJdXlLTE9KMmVXYjhrSmRpZWFtclBDQzR4MzRVWkxwVHc1X1hfN0R5SlZqSXdMN2ZBZXBqZERMZWhMQVNKbXNFUkJwLTlJZEN5Y0dxaDcyUk10U3dYZVJtX0EtUUdSc1JNSmdXNlcyLTlR?oc=5"
-  },
-  {
-   "headline": "Apple to launch Apple Intelligence AI platform in China using Alibaba AI models",
-   "outlet": "Telecompaper",
-   "outlet_name": "Telecompaper",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWV9LOTk2Y0E3ZVFLcURMOExtb1l2d2N3Y055bzJ3a3dkcGthOWtZamhoZmlUMmNzaUtnVEYwSmpCX1NOaHo5WERTdnJNVld1S3VlVDdpSllrZnJqdHJlNmdOQy1IeHRZRVFac0RsaEl1VmMtSF9UbzJPRE1aVmZ5NEhvcmxMck9kaGRHenAteGlqTlllN0toWlJlTXBiX3dYTlhyandNLVh6SUwxS1NGWkUwazVndFlVaTAtcDh2QQ?oc=5"
-  },
-  {
-   "headline": "Anthropic Stands Alone as Rest of IPO Market Slows to a Crawl",
-   "outlet": "Insurance Journal",
-   "outlet_name": "Insurance Journal",
+   "headline": "Amazon Blocks AI Agent Grok Bot, Elon Musk Responds Quickly: Should Make a Competitive…",
+   "outlet": "东方财富",
+   "outlet_name": "东方财富",
    "label": "STILL OPEN",
-   "url": "https://www.insurancejournal.com/news/national/2026/10/16/889142.htm"
+   "url": "https://emwap.eastmoney.com/a/202610163898378487.html"
+  },
+  {
+   "headline": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
+   "label": "CONFIRMED",
+   "url": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html"
+  },
+  {
+   "headline": "Rs 142 crore for maths: OpenAI, Anthropic and Simons Foundation fuel research push",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
+   "label": "REPORTED",
+   "url": "https://www.indiatoday.in/education-today/news/story/ai-in-mathematics-research-openai-anthropic-simons-foundation-announce-rs-142-crore-funding-3018642-2026-10-16"
+  },
+  {
+   "headline": "China Proposes Export Controls on AI Models, Chips and Agents",
+   "outlet": "Bloomberg",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents"
+  },
+  {
+   "headline": "Rankpage Launches ChatGPT Ads Management for Malaysian Brands Following Southeast Asia…",
+   "outlet": "StreetInsider",
+   "outlet_name": "StreetInsider",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ214Q1BFak1QWlZJNjJqMVZjVXBLNWtuakFyNHV6RmhYZkZldEQ5S0dsa0hOcEdrWExHUXBwYXNXbWlLZDFaMjJYNzVwaXFlWG1IMER4dnBkWHlYNnJKcG5PTUlrSEJSNXl5WGpITFJwdzQ0UUVVT2hLYWpTc3dUTjlNUllkWGVFSnVpNlg1OUhLQ3dsRkgweDRkR0hfQWlrMmxfa3IzWUlZS3dWTUVONmFXRGlDc2x0WUpBVUd1YUpxSzBua3I0bUprbWxueVI2R2JtNzZrUUo4c1Q2UEoxc3BKWlNIRUx1?oc=5"
+  },
+  {
+   "headline": "Nvidia launches Nemotron 3.5 Super VL and Bolt for AI agents",
+   "outlet": "Techzine Global",
+   "outlet_name": "Techzine Global",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdEVqX0dEYWlobDJyWTNxYmdFYUpESzZseXR5TzNyZDlfTkJQcVNzZ1B4cTl4S1g3TFk2ckUzUjF3bU5WUGFxcVV5T3RXQ0RqV3VmQlhTREFPaWNsNGtIRFNPOVFJbW1ER0lvUWRqMEVVaDV6V19MRzd3VWl4dExlUUtRRV9Rd0pId2tUR2ZnYXNaOXZtQmtfU2lLeDBiSHl0UlYyU2tQRWdFMmc?oc=5"
+  },
+  {
+   "headline": "Cook: Apple Intelligence beta to launch in China later in October, does not include Siri…",
+   "outlet": "观点网",
+   "outlet_name": "观点网",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpazlUWkpJSmtTckhlaXFMOWNDU2t6czZVMENGSWk2b0NGWFR0cXZ1elgtcGlJSnRBSDhFSXc2a1BsSnhIay1leWlhYUd4Zlh0eVZ0TVRwc01PRlE5dXlPLU53?oc=5"
   },
   {
    "headline": "OpenAI AI Agent Uses Crypto Wallet Funds Without Permission to Finish a Coding Task",
@@ -109,42 +116,35 @@
    "url": "https://coinpedia.org/news/openai-ai-agent-uses-crypto-wallet-funds-without-permission-to-finish-a-coding-task/"
   },
   {
-   "headline": "OpenAI Unveils AI Cyber Defense Strategy for South Korean Enterprises, Launches…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YVHA3VVU1NHFTYmlfbEJ2bjlPQ1JLei0yTkJwbWhlcXVoQ2JmZll4ZnhGNmZvTkRzZG5IUExtVWh1Qmlrdm12QTkxMFJNRkkybi1VaTlOUTIteGZZZTlJSF9YWHhMUC1qQWlITGpTWmI1N3RuV2c?oc=5"
+   "headline": "Anthropic grants external evaluation body METR 'employee-level' system access",
+   "outlet": "aitimes.com",
+   "outlet_name": "aitimes.com",
+   "label": "CONFIRMED",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216313"
   },
   {
-   "headline": "Google Starts Limited Release Of Gemini 4 Argon To Security Teams",
-   "outlet": "CIO Africa",
-   "outlet_name": "CIO Africa",
+   "headline": "Claude Code Features and Settings Reference",
+   "outlet": "hidekazu-konishi.com",
+   "outlet_name": "hidekazu-konishi.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTzhkaUpJUGJNSGlaMWk4WkFhck9tN3QxaWV4QzlHVW9ObjJiWFN3VHRrOWc2aVNKU3dkUHdJcXh1cE5Edkx3Mnh2NWxhWjAyVW5GT0J1ZWRDZEVoaXEteDRieHVUOHNZR3BmazZ1bXJrT2hTN0xKTWE2dXB2bjVkQ1lpU1QzazlqclJOSEtSSlE?oc=5"
+   "url": "https://hidekazu-konishi.com/entry/claude_code_features_settings_reference_2026.html"
   },
   {
-   "headline": "Anthropic IPO: Some investors reportedly weigh lower $1.5 trillion valuation as AI lab’s…",
-   "outlet": "Asianet Newsable on MSN",
-   "outlet_name": "Asianet Newsable on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-in/news/other/anthropic-ipo-some-investors-reportedly-weigh-lower-15-trillion-valuation-as-ai-lab-s-revenue-growth-slows/ar-AA2elxgF"
-  },
-  {
-   "headline": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1…",
-   "outlet": "federalregister.gov",
-   "outlet_name": "federalregister.gov",
-   "label": "REPORTED",
-   "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"
+   "headline": "G7 to hold exercises to counter AI-powered cyberattacks — Channel NewsAsia",
+   "outlet": "UA.NEWS",
+   "outlet_name": "UA.NEWS",
+   "label": "CONFIRMED",
+   "url": "https://ua.news/en/world/g7-provede-navchannia-z-protidiyi-kiberatakam-iz-vikoristanniam-shi-channel-newsasia"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 15300,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 15400,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/08.mp3",
- "audio_seconds": 48.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/09.mp3",
+ "audio_seconds": 57.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per Chosunbiz: DeepSeek outages mount as Huawei shift stirs stability, IPO concerns.\nStill open, per Startup Fortune: Fed Chair Kevin Warsh says AI will force the central bank to change how it sets rates.\nConfirmed, per Rediff Money: CERT-In Warns: AI Agents Access Indian Systems, Data.\nReported by The Star: US states sue OpenAI, saying its popular chatbot is hurting children and deceiving adults.\nReported by NewsNation: West Virginia AG JB McCuskey sues OpenAI over ChatGPT child safety.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BornCity: Google AI Plus: Gemini Pro fällt ab 13. November für 4,99-Dollar-Kunden weg.\nStill open, per 东方财富: Amazon Blocks AI Agent Grok Bot, Elon Musk Responds Quickly: Should Make a Competitive Shopping Website.\nConfirmed, per The Hacker News: CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing.\nReported by India Today: Rs 142 crore for maths: OpenAI, Anthropic and Simons Foundation fuel research push.\nReported by Bloomberg: China Proposes Export Controls on AI Models, Chips and Agents.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
