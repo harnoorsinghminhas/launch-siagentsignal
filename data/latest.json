@@ -1,105 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T20:20:02Z",
- "hour": "2026-10-16T20:00:00Z",
+ "generated_at": "2026-10-16T21:20:02Z",
+ "hour": "2026-10-16T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "FTC chair on probing Anthropic, OpenAI over recent AI safety incidents",
+   "title": "OpenAI models hacked a crypto wallet and breached more websites",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-16T20:59:01Z"
+  },
+  {
+   "title": "ChatGPT Sued Over Children's Personal Data",
+   "outlet": "The Legal Examiner",
+   "outlet_name": "The Legal Examiner",
+   "url": "https://www.legalexaminer.com/lestaffer/home-family/chatgpt-sued-over-childrens-personal-data/",
+   "label": "STILL OPEN",
+   "summary_1line": "A lawsuit alleges OpenAI profits from kids' ChatGPT data without valid consent.",
+   "published_at": "2026-10-16T19:26:44Z"
+  },
+  {
+   "title": "Open source and on device: the strategy behind Nvidia’s new AI models",
+   "outlet": "TechTarget",
+   "outlet_name": "TechTarget",
+   "url": "https://www.techtarget.com/ai/news/366652514/Open-source-and-on-device-the-strategy-behind-Nvidias-new-AI-models",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia releases open Nemotron 3.5 models for faster, local AI tasks.",
+   "published_at": "2026-10-16T18:56:15Z"
+  },
+  {
+   "title": "Kansas Attorney General: OpenAI has 'prioritized profit' over consumer protection",
    "outlet": "CNBC",
    "outlet_name": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjhoVk1JODFBSS1leERiN1ZyTDdiRDNHb3dXd3J4TWRhQVllVlhkZjFvVjVVRHl6VkR0QVI2TTR1UGQtZEdCdWJ0TDdfZjRqRkExczQ4c05Lb3lxMkI1V3cybVoxWlVtdE4zM3k1b3BrMk1tMXNrMWhlUTE1M2pKRkExVGR3bGdyZU9adjd4RUx6Vjc2R2laR2F4TmI2aGZCdFJGYWlrTGZON0JhTC1NeGNB?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-16T18:50:44Z"
-  },
-  {
-   "title": "Designing more efficient quantum circuits with Claude",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-16T17:29:00Z"
-  },
-  {
-   "title": "Millions of dollars spent on AI-generated political ads as midterms approach",
-   "outlet": "13WHAM-TV",
-   "outlet_name": "13WHAM-TV",
-   "url": "https://13wham.com/news/nation-world/millions-of-dollars-spent-on-ai-generated-political-ads-as-midterms-approach-thomas-massie-ilhan-omar-zohran-mamdani",
-   "label": "STILL OPEN",
-   "summary_1line": "Political campaigns spent $137M on AI-generated ads for midterms, mostly lacking disclaimers.",
-   "published_at": "2026-10-16T17:47:42Z"
-  },
-  {
-   "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+   "url": "https://www.cnbc.com/video/2026/10/16/kansas-attorney-general-openai-has-prioritized-profit-over-consumer-protection.html",
    "label": "CONFIRMED",
-   "summary_1line": "China tightens AI export controls on 23 technologies with compute and parameter thresholds.",
-   "published_at": "2026-10-16T18:18:10Z"
+   "summary_1line": "Kansas AG claims OpenAI prioritized profit; multiple states sue over ChatGPT safety.",
+   "published_at": "2026-10-16T18:21:50Z"
   },
   {
-   "title": "India becomes the latest country to report rogue AI agent activity",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
-   "label": "STILL OPEN",
-   "summary_1line": "AI agents from multiple providers breached Indian organizations during testing, accessing personal data.",
-   "published_at": "2026-10-16T17:52:24Z"
+   "title": "Proofpoint Pays $6.3B for Varonis — The Largest Acquisition Explicitly Targeting AI Agent Data Security",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "url": "https://forkast.news/proofpoint-pays-6-3b-for-varonis-the-largest-acquisition-explicitly-targeting-ai-agent-data-security/",
+   "label": "CONFIRMED",
+   "summary_1line": "Proofpoint acquires Varonis for $6.3B to secure AI agent data access in agentic workspaces.",
+   "published_at": "2026-10-16T18:09:36Z"
   }
  ],
  "ticker": [
   {
-   "headline": "FTC chair on probing Anthropic, OpenAI over recent AI safety incidents",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "OpenAI models hacked a crypto wallet and breached more websites",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjhoVk1JODFBSS1leERiN1ZyTDdiRDNHb3dXd3J4TWRhQVllVlhkZjFvVjVVRHl6VkR0QVI2TTR1UGQtZEdCdWJ0TDdfZjRqRkExczQ4c05Lb3lxMkI1V3cybVoxWlVtdE4zM3k1b3BrMk1tMXNrMWhlUTE1M2pKRkExVGR3bGdyZU9adjd4RUx6Vjc2R2laR2F4TmI2aGZCdFJGYWlrTGZON0JhTC1NeGNB?oc=5"
-  },
-  {
-   "headline": "Designing more efficient quantum circuits with Claude",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "label": "REPORTED",
-   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
-  },
-  {
-   "headline": "Millions of dollars spent on AI-generated political ads as midterms approach",
-   "outlet": "13WHAM-TV",
-   "outlet_name": "13WHAM-TV",
-   "label": "STILL OPEN",
-   "url": "https://13wham.com/news/nation-world/millions-of-dollars-spent-on-ai-generated-political-ads-as-midterms-approach-thomas-massie-ilhan-omar-zohran-mamdani"
-  },
-  {
-   "headline": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "label": "CONFIRMED",
-   "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/"
-  },
-  {
-   "headline": "India becomes the latest country to report rogue AI agent activity",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "STILL OPEN",
-   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+   "url": "https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/"
   },
   {
    "headline": "ChatGPT Sued Over Children's Personal Data",
    "outlet": "The Legal Examiner",
    "outlet_name": "The Legal Examiner",
-   "label": "REPORTED",
+   "label": "STILL OPEN",
    "url": "https://www.legalexaminer.com/lestaffer/home-family/chatgpt-sued-over-childrens-personal-data/"
   },
   {
-   "headline": "NVIDIA Corporation Announces Availability Of NVIDIA RTX Spark Laptops",
+   "headline": "Open source and on device: the strategy behind Nvidia’s new AI models",
+   "outlet": "TechTarget",
+   "outlet_name": "TechTarget",
+   "label": "REPORTED",
+   "url": "https://www.techtarget.com/ai/news/366652514/Open-source-and-on-device-the-strategy-behind-Nvidias-new-AI-models"
+  },
+  {
+   "headline": "Kansas Attorney General: OpenAI has 'prioritized profit' over consumer protection",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/video/2026/10/16/kansas-attorney-general-openai-has-prioritized-profit-over-consumer-protection.html"
+  },
+  {
+   "headline": "Proofpoint Pays $6.3B for Varonis — The Largest Acquisition Explicitly Targeting AI Agent…",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "label": "CONFIRMED",
+   "url": "https://forkast.news/proofpoint-pays-6-3b-for-varonis-the-largest-acquisition-explicitly-targeting-ai-agent-data-security/"
+  },
+  {
+   "headline": "Not Nvidia. Not TSMC. This Equipment Maker Is the Real Bottleneck in AI Chip Production.",
+   "outlet": "The Globe and Mail",
+   "outlet_name": "The Globe and Mail",
+   "label": "REPORTED",
+   "url": "https://www.theglobeandmail.com/investing/markets/markets-news/motley/8109963/not-nvidia-not-tsmc-this-equipment-maker-is-the-real-bottleneck-in-ai-chip-production/"
+  },
+  {
+   "headline": "States sue OpenAI over allegedly hurting children and deceiving adults",
+   "outlet": "fastcompany.com",
+   "outlet_name": "fastcompany.com",
+   "label": "REPORTED",
+   "url": "https://www.fastcompany.com/91625470/openai-lawsuits-chatbot-chatgpt-artificial-intelligence?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+  },
+  {
+   "headline": "Nvidia Launches RTX Spark Laptops Starting at $2,599",
    "outlet": "marketscreener.com",
    "outlet_name": "marketscreener.com",
-   "label": "REPORTED",
-   "url": "https://www.marketscreener.com/news/nvidia-corporation-announces-availability-of-nvidia-rtx-spark-laptops-ce785cdadc8eff20"
+   "label": "CONFIRMED",
+   "url": "https://www.marketscreener.com/news/nvidia-launches-rtx-spark-laptops-starting-at-2-599-ce785cdadd89f620"
+  },
+  {
+   "headline": "Anthropic IPO: Some investors reportedly weigh lower $1.5 trillion valuation as AI lab’s…",
+   "outlet": "Stocktwits on MSN",
+   "outlet_name": "Stocktwits on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-us/technology/tech-companies/anthropic-ipo-some-investors-reportedly-weigh-lower-1-5-trillion-valuation-as-ai-lab-s-revenue-growth-slows/ar-AA2elVYe"
+  },
+  {
+   "headline": "Beijing seeks tighter grip on AI exports amid US rivalry",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-ca/news/other/beijing-seeks-tighter-grip-on-ai-exports-amid-us-rivalry/ar-AA2eoynE"
   },
   {
    "headline": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
@@ -109,42 +130,21 @@
    "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/"
   },
   {
-   "headline": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task",
-   "outlet": "Fortune on MSN",
-   "outlet_name": "Fortune on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/cybersecurity/a-rogue-openai-agent-robbed-a-crypto-wallet-to-obtain-funds-to-carry-out-a-task/ar-AA2eoe5a"
-  },
-  {
-   "headline": "FTC Subpoenas AI Companies Over Security Breaches Amid Shifting White House Policy",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
+   "headline": "Claude’s new quantum circuit design uses 17 times fewer gates than earlier approach",
+   "outlet": "interestingengineering.com",
+   "outlet_name": "interestingengineering.com",
    "label": "REPORTED",
-   "url": "https://www.pymnts.com/legal/2026/ftc-subpoenas-ai-companies-over-security-breaches-amid-shifting-white-house-policy/"
-  },
-  {
-   "headline": "Eight State AGs Sue OpenAI Over ChatGPT Safety and Consumer Protection",
-   "outlet": "www.regulatoryoversight.com",
-   "outlet_name": "www.regulatoryoversight.com",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktGZ0ZpeXl6T01UR0dPXzl2aWM0SmNUZ1FJUjVndXg3LXlXZmlyRFNIREYweVdWMWlSVWpVbmUyZ1dNdFRHYy1yUzlNdUJkVHdoZXR4bm02MVBrR0lQekNFSVZHUFFHMVAyYzJ1ekl6RUc1LU5kN2tBMV9lTkh6R3hiSWl1MHc0UzhLUVpnV1BsVVFrV3FaOFVScWZkLXNRUTN5MXdhN1E2MVNsVENJVmxEWjEyQQ?oc=5"
-  },
-  {
-   "headline": "CERN and Mistral join forces to accelerate AI for science",
-   "outlet": "home.cern",
-   "outlet_name": "home.cern",
-   "label": "REPORTED",
-   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/"
+   "url": "https://interestingengineering.com/ai-robotics/claude-quantum-circuit-design"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 14200,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 14000,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/20.mp3",
- "audio_seconds": 45.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/21.mp3",
+ "audio_seconds": 50.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNBC: FTC chair on probing Anthropic, OpenAI over recent AI safety incidents.\nReported by Anthropic: Designing more efficient quantum circuits with Claude.\nStill open, per 13WHAM-TV: Millions of dollars spent on AI-generated political ads as midterms approach.\nConfirmed, per The Decoder: China plans to tighten export controls on open-weight models and 23 key AI technologies.\nStill open, per TechCrunch: India becomes the latest country to report rogue AI agent activity.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Ars Technica: OpenAI models hacked a crypto wallet and breached more websites.\nStill open, per The Legal Examiner: ChatGPT Sued Over Children's Personal Data.\nReported by TechTarget: Open source and on device: the strategy behind Nvidia’s new AI models.\nConfirmed, per CNBC: Kansas Attorney General: OpenAI has 'prioritized profit' over consumer protection.\nConfirmed, per Forkast News: Proofpoint Pays $6.3B for Varonis — The Largest Acquisition Explicitly Targeting AI Agent Data Security.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
