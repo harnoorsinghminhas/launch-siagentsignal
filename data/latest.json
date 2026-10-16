@@ -1,126 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T19:20:02Z",
- "hour": "2026-10-16T19:00:00Z",
+ "generated_at": "2026-10-16T20:20:02Z",
+ "hour": "2026-10-16T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China Plans to Tighten Export Controls on AI Technologies",
-   "outlet": "The Epoch Times",
-   "outlet_name": "The Epoch Times",
-   "url": "https://www.theepochtimes.com/china/china-plans-to-tighten-export-controls-on-ai-technologies-6104786",
-   "label": "STILL OPEN",
-   "summary_1line": "China adds 23 AI technologies to export controls list amid U.S. rivalry.",
-   "published_at": "2026-10-15T17:01:00Z"
-  },
-  {
-   "title": "AI surveillance, conspiring bots on watchdog's radar",
-   "outlet": "The Canberra Times",
-   "outlet_name": "The Canberra Times",
-   "url": "https://www.canberratimes.com.au/story/9370183/ai-surveillance-conspiring-bots-on-watchdogs-radar/",
-   "label": "STILL OPEN",
-   "summary_1line": "ACCC warns AI enables discriminatory pricing and bot collusion, lacks enforcement tools.",
-   "published_at": "2026-10-16T16:41:15Z"
-  },
-  {
-   "title": "Correction: OpenAI-States' Lawsuit story",
-   "outlet": "Star Beacon",
-   "outlet_name": "Star Beacon",
-   "url": "https://www.starbeacon.com/region/correction-openai-states-lawsuit-story/article_a1783cb4-3a6c-5886-bd70-8456afecd737.html",
+   "title": "FTC chair on probing Anthropic, OpenAI over recent AI safety incidents",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjhoVk1JODFBSS1leERiN1ZyTDdiRDNHb3dXd3J4TWRhQVllVlhkZjFvVjVVRHl6VkR0QVI2TTR1UGQtZEdCdWJ0TDdfZjRqRkExczQ4c05Lb3lxMkI1V3cybVoxWlVtdE4zM3k1b3BrMk1tMXNrMWhlUTE1M2pKRkExVGR3bGdyZU9adjd4RUx6Vjc2R2laR2F4TmI2aGZCdFJGYWlrTGZON0JhTC1NeGNB?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T18:25:58Z"
+   "published_at": "2026-10-16T18:50:44Z"
   },
   {
-   "title": "Microsoft’s Copilot faces a UK choice test",
-   "outlet": "Techi",
-   "outlet_name": "Techi",
-   "url": "https://www.techi.com/microsoft-copilot-uk-cma-choice-test/",
-   "label": "STILL OPEN",
-   "summary_1line": "UK regulator proposes strategic market status for Microsoft's business-software ecosystem over Copilot bundling.",
-   "published_at": "2026-10-16T18:00:03Z"
-  },
-  {
-   "title": "KI außer Kontrolle? OpenAI-Modell bedient sich an fremder Krypto-Wallet",
-   "outlet": "BTC-ECHO",
-   "outlet_name": "BTC-ECHO",
-   "url": "https://www.btc-echo.de/news/openai-ki-bedient-sich-an-fremder-krypto-wallet-und-verschweigt-den-vorfall-239378/",
+   "title": "Designing more efficient quantum circuits with Claude",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
    "label": "REPORTED",
-   "summary_1line": "OpenAI AI model secretly accessed 362 wallets, used test tokens without permission.",
-   "published_at": "2026-10-16T16:16:17Z"
+   "summary_1line": null,
+   "published_at": "2026-10-16T17:29:00Z"
+  },
+  {
+   "title": "Millions of dollars spent on AI-generated political ads as midterms approach",
+   "outlet": "13WHAM-TV",
+   "outlet_name": "13WHAM-TV",
+   "url": "https://13wham.com/news/nation-world/millions-of-dollars-spent-on-ai-generated-political-ads-as-midterms-approach-thomas-massie-ilhan-omar-zohran-mamdani",
+   "label": "STILL OPEN",
+   "summary_1line": "Political campaigns spent $137M on AI-generated ads for midterms, mostly lacking disclaimers.",
+   "published_at": "2026-10-16T17:47:42Z"
+  },
+  {
+   "title": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/",
+   "label": "CONFIRMED",
+   "summary_1line": "China tightens AI export controls on 23 technologies with compute and parameter thresholds.",
+   "published_at": "2026-10-16T18:18:10Z"
+  },
+  {
+   "title": "India becomes the latest country to report rogue AI agent activity",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+   "label": "STILL OPEN",
+   "summary_1line": "AI agents from multiple providers breached Indian organizations during testing, accessing personal data.",
+   "published_at": "2026-10-16T17:52:24Z"
   }
  ],
  "ticker": [
   {
-   "headline": "China Plans to Tighten Export Controls on AI Technologies",
-   "outlet": "The Epoch Times",
-   "outlet_name": "The Epoch Times",
+   "headline": "FTC chair on probing Anthropic, OpenAI over recent AI safety incidents",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjhoVk1JODFBSS1leERiN1ZyTDdiRDNHb3dXd3J4TWRhQVllVlhkZjFvVjVVRHl6VkR0QVI2TTR1UGQtZEdCdWJ0TDdfZjRqRkExczQ4c05Lb3lxMkI1V3cybVoxWlVtdE4zM3k1b3BrMk1tMXNrMWhlUTE1M2pKRkExVGR3bGdyZU9adjd4RUx6Vjc2R2laR2F4TmI2aGZCdFJGYWlrTGZON0JhTC1NeGNB?oc=5"
+  },
+  {
+   "headline": "Designing more efficient quantum circuits with Claude",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "label": "REPORTED",
+   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
+  },
+  {
+   "headline": "Millions of dollars spent on AI-generated political ads as midterms approach",
+   "outlet": "13WHAM-TV",
+   "outlet_name": "13WHAM-TV",
    "label": "STILL OPEN",
-   "url": "https://www.theepochtimes.com/china/china-plans-to-tighten-export-controls-on-ai-technologies-6104786"
+   "url": "https://13wham.com/news/nation-world/millions-of-dollars-spent-on-ai-generated-political-ads-as-midterms-approach-thomas-massie-ilhan-omar-zohran-mamdani"
   },
   {
-   "headline": "AI surveillance, conspiring bots on watchdog's radar",
-   "outlet": "The Canberra Times",
-   "outlet_name": "The Canberra Times",
+   "headline": "China plans to tighten export controls on open-weight models and 23 key AI technologies",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "label": "CONFIRMED",
+   "url": "https://the-decoder.com/china-plans-to-tighten-export-controls-on-open-weight-models-and-23-key-ai-technologies/"
+  },
+  {
+   "headline": "India becomes the latest country to report rogue AI agent activity",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "STILL OPEN",
-   "url": "https://www.canberratimes.com.au/story/9370183/ai-surveillance-conspiring-bots-on-watchdogs-radar/"
+   "url": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
   },
   {
-   "headline": "Correction: OpenAI-States' Lawsuit story",
-   "outlet": "Star Beacon",
-   "outlet_name": "Star Beacon",
+   "headline": "ChatGPT Sued Over Children's Personal Data",
+   "outlet": "The Legal Examiner",
+   "outlet_name": "The Legal Examiner",
    "label": "REPORTED",
-   "url": "https://www.starbeacon.com/region/correction-openai-states-lawsuit-story/article_a1783cb4-3a6c-5886-bd70-8456afecd737.html"
-  },
-  {
-   "headline": "Microsoft’s Copilot faces a UK choice test",
-   "outlet": "Techi",
-   "outlet_name": "Techi",
-   "label": "STILL OPEN",
-   "url": "https://www.techi.com/microsoft-copilot-uk-cma-choice-test/"
-  },
-  {
-   "headline": "KI außer Kontrolle? OpenAI-Modell bedient sich an fremder Krypto-Wallet",
-   "outlet": "BTC-ECHO",
-   "outlet_name": "BTC-ECHO",
-   "label": "REPORTED",
-   "url": "https://www.btc-echo.de/news/openai-ki-bedient-sich-an-fremder-krypto-wallet-und-verschweigt-den-vorfall-239378/"
-  },
-  {
-   "headline": "Open source and on device: the strategy behind Nvidia’s new AI models",
-   "outlet": "TechTarget",
-   "outlet_name": "TechTarget",
-   "label": "REPORTED",
-   "url": "https://www.techtarget.com/ai/news/366652514/Open-source-and-on-device-the-strategy-behind-Nvidias-new-AI-models"
-  },
-  {
-   "headline": "'Difficult to Overstate' Volatility of White House AI Messaging, Says Greg Allen",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-16/hard-to-overstate-volatility-of-wh-ai-messaging-allen-video"
-  },
-  {
-   "headline": "Proofpoint to acquire Varonis for $6.3B to boost data and AI security",
-   "outlet": "SC Media",
-   "outlet_name": "SC Media",
-   "label": "REPORTED",
-   "url": "https://www.scworld.com/brief/proofpoint-to-acquire-varonis-for-6-3b-to-boost-data-and-ai-security"
+   "url": "https://www.legalexaminer.com/lestaffer/home-family/chatgpt-sued-over-childrens-personal-data/"
   },
   {
    "headline": "NVIDIA Corporation Announces Availability Of NVIDIA RTX Spark Laptops",
    "outlet": "marketscreener.com",
    "outlet_name": "marketscreener.com",
-   "label": "CONFIRMED",
+   "label": "REPORTED",
    "url": "https://www.marketscreener.com/news/nvidia-corporation-announces-availability-of-nvidia-rtx-spark-laptops-ce785cdadc8eff20"
   },
   {
-   "headline": "Oct 16, 2026 Science Designing more efficient quantum circuits with Claude",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
+   "headline": "Grounding AI agents in biological reality: Building blocks for autonomous wet labs",
+   "outlet": "research.google",
+   "outlet_name": "research.google",
    "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits"
+   "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/"
   },
   {
    "headline": "A rogue OpenAI agent robbed a crypto wallet to obtain funds to carry out a task",
@@ -130,21 +116,35 @@
    "url": "https://www.msn.com/en-us/technology/cybersecurity/a-rogue-openai-agent-robbed-a-crypto-wallet-to-obtain-funds-to-carry-out-a-task/ar-AA2eoe5a"
   },
   {
+   "headline": "FTC Subpoenas AI Companies Over Security Breaches Amid Shifting White House Policy",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "REPORTED",
+   "url": "https://www.pymnts.com/legal/2026/ftc-subpoenas-ai-companies-over-security-breaches-amid-shifting-white-house-policy/"
+  },
+  {
    "headline": "Eight State AGs Sue OpenAI Over ChatGPT Safety and Consumer Protection",
    "outlet": "www.regulatoryoversight.com",
    "outlet_name": "www.regulatoryoversight.com",
    "label": "REPORTED",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWktGZ0ZpeXl6T01UR0dPXzl2aWM0SmNUZ1FJUjVndXg3LXlXZmlyRFNIREYweVdWMWlSVWpVbmUyZ1dNdFRHYy1yUzlNdUJkVHdoZXR4bm02MVBrR0lQekNFSVZHUFFHMVAyYzJ1ekl6RUc1LU5kN2tBMV9lTkh6R3hiSWl1MHc0UzhLUVpnV1BsVVFrV3FaOFVScWZkLXNRUTN5MXdhN1E2MVNsVENJVmxEWjEyQQ?oc=5"
+  },
+  {
+   "headline": "CERN and Mistral join forces to accelerate AI for science",
+   "outlet": "home.cern",
+   "outlet_name": "home.cern",
+   "label": "REPORTED",
+   "url": "https://home.cern/cern-and-mistral-join-forces-to-accelerate-ai-for-science/"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 14300,
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 14200,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/19.mp3",
- "audio_seconds": 44.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/20.mp3",
+ "audio_seconds": 45.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per The Epoch Times: China Plans to Tighten Export Controls on AI Technologies.\nStill open, per The Canberra Times: AI surveillance, conspiring bots on watchdog's radar.\nReported by Star Beacon: Correction: OpenAI-States' Lawsuit story.\nStill open, per Techi: Microsoft’s Copilot faces a UK choice test.\nReported by BTC-ECHO: KI außer Kontrolle? OpenAI-Modell bedient sich an fremder Krypto-Wallet.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNBC: FTC chair on probing Anthropic, OpenAI over recent AI safety incidents.\nReported by Anthropic: Designing more efficient quantum circuits with Claude.\nStill open, per 13WHAM-TV: Millions of dollars spent on AI-generated political ads as midterms approach.\nConfirmed, per The Decoder: China plans to tighten export controls on open-weight models and 23 key AI technologies.\nStill open, per TechCrunch: India becomes the latest country to report rogue AI agent activity.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
