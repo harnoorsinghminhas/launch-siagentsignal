@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T02:20:01Z",
- "hour": "2026-10-16T02:00:00Z",
+ "generated_at": "2026-10-16T03:20:01Z",
+ "hour": "2026-10-16T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Financial regulators urge stronger cyber security amid AI-enabled cyber attacks",
-   "outlet": "RNZ",
-   "outlet_name": "RNZ",
-   "url": "https://www.rnz.co.nz/news/business/1952204/financial-regulators-urge-stronger-cyber-security-amid-ai-enabled-cyber-attacks",
-   "label": "REPORTED",
-   "summary_1line": "NZ regulators mandate AI cyber security oversight for financial institutions.",
-   "published_at": "2026-10-15T23:45:53Z"
+   "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+   "label": "CONFIRMED",
+   "summary_1line": "Meta launches Muse Spark Open, claiming it rivals top Chinese open-weight AI models.",
+   "published_at": "2026-10-16T00:34:28Z"
   },
   {
-   "title": "Iowa joins other states with a lawsuit against OpenAI",
-   "outlet": "KSCJ 1360",
-   "outlet_name": "KSCJ 1360",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGVYZGxnSHdWZ1dxOHRYdGVVd3ljSzBWVkladXRoUllCZUxyeEVzbXJYMHZETzRvQ1lyZ3I5Y1dQS1drWnRhYmxkaWdhZHlDOTNFMjJ4elRNOEpjc29PTnJoN3RHMW5Jb2lFSmltSy1VdWduZl81WTFNWWlLRVl2U3ljY3VJS0lPQWc?oc=5",
+   "title": "Hawaii Mother Sues OpenAI Over Children’s Data as Eight States File Separate Lawsuits",
+   "outlet": "SFist",
+   "outlet_name": "SFist",
+   "url": "https://sfist.com/2026/10/15/hawaii-mother-sues-openai-over-childrens-data-as-eight-states-file-separate-lawsuits/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T01:29:41Z"
+   "published_at": "2026-10-15T17:54:00Z"
   },
   {
-   "title": "Bringing GPT-Rosalind to academic research labs",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5",
+   "title": "Anthropic offers AI policy expertise in Singapore pact",
+   "outlet": "Singapore Business Review",
+   "outlet_name": "Singapore Business Review",
+   "url": "https://sbr.com.sg/information-technology/news/anthropic-offers-ai-policy-expertise-in-singapore-pact",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-15T21:04:31Z"
+   "published_at": "2026-10-16T02:10:12Z"
   },
   {
-   "title": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners",
+   "title": "DeepSeek apologizes, compensation plan announced, full refund of consumption amount",
+   "outlet": "中华网",
+   "outlet_name": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94QkdQMk10NHNjVlVOaFZfbVpfaVlNYjkyT21RSENRcE5tX0JNakh1Z3d6NEVEY2U4U3BqSWVrSXh6TGZodXVJOWMyUkRMLXljZXhtM1FoVmZ0Wmdxa0hDSjFfU0NIellQcW5MV1lKMmY?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T01:32:57Z"
+   "published_at": "2026-10-16T02:40:11Z"
   },
   {
-   "title": "Nvidia Releases Nemotron 3.5 Super VL Multimodal Large Model, Optimized for AI Agents, Supporting Text, Image, Document, and Video Understanding",
-   "outlet": "SmartHey",
-   "outlet_name": "SmartHey",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfZU5SN09qQ04tQnlEMEpjSV9HMnI4T2JoUVdqQUVMcE9XeGVwckVYamlPUVJ4dmNkNE1tQnpGbWFMREM3X0xsVWtEVmNEV3VpT3I5MUl3UzJRaUFCRkE?oc=5",
+   "title": "Microsoft Unveils 2.8 Trillion-Parameter AI Model, Claiming 4–12x Efficiency Gains Over DeepSeek",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MWmdoVzlXTlRVT3BybFV4V19hQkl4b3liMDZISEJDSVhSbnJsVWtnUVZUSUhpeUMxOHF3aVRlcWRNS3FldXozd19GM3pXWXB4blJtVkVVeXUyRVBhVDQ1T1I0Z0d3cDhXSU95cWg1M2lpVzhDTlE?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T00:30:00Z"
+   "published_at": "2026-10-16T02:35:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Financial regulators urge stronger cyber security amid AI-enabled cyber attacks",
-   "outlet": "RNZ",
-   "outlet_name": "RNZ",
-   "label": "REPORTED",
-   "url": "https://www.rnz.co.nz/news/business/1952204/financial-regulators-urge-stronger-cyber-security-amid-ai-enabled-cyber-attacks"
+   "headline": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "CONFIRMED",
+   "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model"
   },
   {
-   "headline": "Iowa joins other states with a lawsuit against OpenAI",
-   "outlet": "KSCJ 1360",
-   "outlet_name": "KSCJ 1360",
+   "headline": "Hawaii Mother Sues OpenAI Over Children’s Data as Eight States File Separate Lawsuits",
+   "outlet": "SFist",
+   "outlet_name": "SFist",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTGVYZGxnSHdWZ1dxOHRYdGVVd3ljSzBWVkladXRoUllCZUxyeEVzbXJYMHZETzRvQ1lyZ3I5Y1dQS1drWnRhYmxkaWdhZHlDOTNFMjJ4elRNOEpjc29PTnJoN3RHMW5Jb2lFSmltSy1VdWduZl81WTFNWWlLRVl2U3ljY3VJS0lPQWc?oc=5"
+   "url": "https://sfist.com/2026/10/15/hawaii-mother-sues-openai-over-childrens-data-as-eight-states-file-separate-lawsuits/"
   },
   {
-   "headline": "Bringing GPT-Rosalind to academic research labs",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
+   "headline": "Anthropic offers AI policy expertise in Singapore pact",
+   "outlet": "Singapore Business Review",
+   "outlet_name": "Singapore Business Review",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nQk9sXzNLUW95T1BMN3IzQ2h4M1NQQzdnWmxFNjdiWkJtZ0RTX3ZvaUJiRzl1ZlUtT3ZvUFR4SWkxRjlYN2lFb1B5SmFZZ2R2WlZyV2hxcjZPZTh1Yl9aSk9UUkZlMXE2VGJuUFVuSTdVZw?oc=5"
+   "url": "https://sbr.com.sg/information-technology/news/anthropic-offers-ai-policy-expertise-in-singapore-pact"
   },
   {
-   "headline": "Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "DeepSeek apologizes, compensation plan announced, full refund of consumption amount",
+   "outlet": "中华网",
+   "outlet_name": "中华网",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-16/taiwan-to-fund-4-billion-texas-complex-for-ai-nvidia-partners"
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94QkdQMk10NHNjVlVOaFZfbVpfaVlNYjkyT21RSENRcE5tX0JNakh1Z3d6NEVEY2U4U3BqSWVrSXh6TGZodXVJOWMyUkRMLXljZXhtM1FoVmZ0Wmdxa0hDSjFfU0NIellQcW5MV1lKMmY?oc=5"
   },
   {
-   "headline": "Nvidia Releases Nemotron 3.5 Super VL Multimodal Large Model, Optimized for AI Agents…",
-   "outlet": "SmartHey",
-   "outlet_name": "SmartHey",
+   "headline": "Microsoft Unveils 2.8 Trillion-Parameter AI Model, Claiming 4–12x Efficiency Gains Over…",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBfZU5SN09qQ04tQnlEMEpjSV9HMnI4T2JoUVdqQUVMcE9XeGVwckVYamlPUVJ4dmNkNE1tQnpGbWFMREM3X0xsVWtEVmNEV3VpT3I5MUl3UzJRaUFCRkE?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MWmdoVzlXTlRVT3BybFV4V19hQkl4b3liMDZISEJDSVhSbnJsVWtnUVZUSUhpeUMxOHF3aVRlcWRNS3FldXozd19GM3pXWXB4blJtVkVVeXUyRVBhVDQ1T1I0Z0d3cDhXSU95cWg1M2lpVzhDTlE?oc=5"
+  },
+  {
+   "headline": "DeepSeek releases service compensation notice: Will fully refund bonus credits based on…",
+   "outlet": "AIBase",
+   "outlet_name": "AIBase",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE10RGs3YkJEVGxRekhQWXQtVGFjakp0ZDJLcVV6anpGZjVyWHFNMkZRNXgwVUpRNWpZUjUyTWVqVjV6VlUzUG9yZXBUS1N3QQ?oc=5"
   },
   {
    "headline": "Cook Says Apple Intelligence to Test in China at End of Month; Maextro Responds to…",
@@ -95,25 +102,25 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RV2FiZ1JpU2RSZ20tT2xyTG82TlF1S3hLZ0xlcDZSYXRiQjg4eTZ6ZG9jbmdyV05vRjRXNm0tYlc0Z0lnWjdJeENydWJzLXRIS1lZSDlUTEtsN3ZfVGc?oc=5"
   },
   {
-   "headline": "DeepSeek Apologizes, Announces Compensation Plan",
-   "outlet": "搜狐网",
-   "outlet_name": "搜狐网",
+   "headline": "Updated strategic priorities call out ratios legislation, strengthening political…",
+   "outlet": "Washington State Nurses Association - WSNA",
+   "outlet_name": "Washington State Nurses Association - WSNA",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbEdZNGlyY2h5VG5QRGMtVUtpSmtDcUJJU0NGM1FrOUcwWUw2eFA4THV6TTVULXdLQTBsLTVqMG9yUUVRcHhRRGVEMi1Jay1DQ2FkRXhjWWlmNEVuWDdRUmRVaE1MLWhUQmFlWDlyRDc3QktYd3VWa19oR2tleGNkZnVIb3VYMHoxcHhiS3RiSQ?oc=5"
+   "url": "https://www.wsna.org/news/2026/updated-strategic-priorities-call-out-ratios-legislation-strengthening-political-presence-and-responsible-use-of-ai"
   },
   {
-   "headline": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "FTC Issues Subpoenas to OpenAI and Anthropic in Escalating AI Safety Probe",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFByTVFrLUViZnhFLTB5ZEVkeGFoWUIzQ3prXzdpNmgzZzlqckFtYlpXN21JTmVKa1RQa19LZ1lGZzg1aDJPalBXZmhUNDBFOG1UajA0ZzZGRW9TTTAxZ1pwQ284OGowWTRob251X0d5WVdyWHVsQnc?oc=5"
+  },
+  {
+   "headline": "Vessl AI Partners with Korea Investment & Securities to Push for Expanded AI…",
+   "outlet": "파이낸셜뉴스",
+   "outlet_name": "파이낸셜뉴스",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/"
-  },
-  {
-   "headline": "[TMT Post Morning News] Pan Gongsheng: Global imbalances cannot be adjusted by exchange…",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
-   "label": "STILL OPEN",
-   "url": "https://www.tmtpost.com/8170437.html"
+   "url": "https://www.fnnews.com/news/202610160901039879"
   },
   {
    "headline": "Google launches Universal Cart in Search and Gemini app in US",
@@ -123,28 +130,21 @@
    "url": "https://www.msn.com/en-in/technology/software/google-launches-universal-cart-in-search-and-gemini-app-in-us/ar-AA2ejyak"
   },
   {
-   "headline": "OpenAI Brings Computer Use to Chrome With ChatGPT Tab Controls",
+   "headline": "Perplexity Open-Sources SPACE, Its In-House Agent Sandbox Platform",
    "outlet": "Unite.AI",
    "outlet_name": "Unite.AI",
-   "label": "REPORTED",
-   "url": "https://www.unite.ai/openai-brings-computer-use-to-chrome-with-chatgpt-tab-controls/"
-  },
-  {
-   "headline": "KI-Deepfakes vor Gericht: OpenAI und Meta warnen vor kaum prüfbaren Beweisen",
-   "outlet": "ad-hoc-news.de",
-   "outlet_name": "ad-hoc-news.de",
-   "label": "REPORTED",
-   "url": "https://www.ad-hoc-news.de/wissenschaft/ki-deepfakes-vor-gericht-openai-und-meta-warnen-vor-kaum-pruefbaren/70334070"
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/perplexity-open-sources-space-its-in-house-agent-sandbox-platform/"
   }
  ],
  "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 15300,
+ "articles_24h_rounded": 15400,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/02.mp3",
- "audio_seconds": 51.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/03.mp3",
+ "audio_seconds": 58.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by RNZ: Financial regulators urge stronger cyber security amid AI-enabled cyber attacks.\nReported by KSCJ 1360: Iowa joins other states with a lawsuit against OpenAI.\nReported by OpenAI: Bringing GPT-Rosalind to academic research labs.\nReported by Bloomberg: Taiwan to Fund $4 Billion Texas Complex for AI, Nvidia Partners.\nReported by SmartHey: Nvidia Releases Nemotron 3.5 Super VL Multimodal Large Model, Optimized for AI Agents, Supporting Text, Image, Document, and Video Understanding.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMeta launches Muse Spark Open, a new open-weight artificial intelligence model. Confirmed by The Guardian: Meta claims it rivals top Chinese open-weight models.\nA Hawaii mother is suing OpenAI over children's data. Reported by SFist: Eight states have filed separate lawsuits as well.\nAnthropic is offering artificial intelligence policy expertise through a Singapore pact. Reported by Singapore Business Review.\nDeepSeek has announced an apology and compensation plan. Reported by 中华网: The company is offering a full refund of consumption amounts.\nMicrosoft has unveiled a 2.8 trillion-parameter artificial intelligence model. Reported by BigGo Finance: Microsoft claims 4–12x efficiency gains over DeepSeek.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
