@@ -1,105 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T12:20:01Z",
- "hour": "2026-10-16T12:00:00Z",
+ "generated_at": "2026-10-16T13:20:01Z",
+ "hour": "2026-10-16T13:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China plans to place 40 technologies including large language models and photovoltaic silicon wafers under export controls, initiating interim registration",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/00109a7c-e877-4c3f-b098-ed3841de8f90",
+   "title": "Eight states sue OpenAI over safety concerns, Iowa Attorney General Brenna Bird explains",
+   "outlet": "Fox Business",
+   "outlet_name": "Fox Business",
+   "url": "https://www.foxbusiness.com/video/6406955400112",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-16T11:44:05Z"
+  },
+  {
+   "title": "Germany to unveil Nvidia AI agreement next week, government sources say",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "url": "https://www.reuters.com/world/europe/germany-unveil-nvidia-ai-agreement-next-week-government-sources-say-2026-10-16/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-16T11:06:50Z"
+  },
+  {
+   "title": "China’s proposed AI tech export controls aim to ensure safety, encourage open-source devt and sharing: commerce ministry",
+   "outlet": "Global Times",
+   "outlet_name": "Global Times",
+   "url": "https://www.globaltimes.cn/page/202610/1372411.shtml",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-15T22:38:00Z"
+  },
+  {
+   "title": "Fed Chair Warsh Says AI Path Is Rough but Will Create Wealth",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/international/2026/10/16/fed-chair-warsh-says-ai-path-is-rough-but-will-create-wealth",
    "label": "CONFIRMED",
-   "summary_1line": "China expands export controls to 40 technologies including AI and semiconductors, requiring interim registration.",
-   "published_at": "2026-10-16T08:26:00Z"
+   "summary_1line": "Fed Chair Warsh signals AI optimism, rate hold; Korea-U.S. hold first joint financial talks.",
+   "published_at": "2026-10-16T09:36:15Z"
   },
   {
-   "title": "China is weighing export controls on AI.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1012753/china-is-weighing-export-controls-on-ai",
+   "title": "Accenture caps central funding for Claude AI at $29 per employee per month",
+   "outlet": "HR Katha",
+   "outlet_name": "HR Katha",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc1ZkOEs5YzVPV3dxcVdzdWlWZXAzTTY2OF9fenQzSXRhRU15TTY0MXRTUXZvc2l6ZUYzTC11Y0VqeElJYVRIaklsNGVOaXNiVktRcG45RnYzTWdQb3lZemdSZUkzZ2puQVJKeFYwX0JzSFpfemtLSEJWODd2VFM1YllMMV8zZHRiSzNmUjBSV0I4VDFwbFpTOWNCb0tEVFowa2hlV2hR?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T03:54:00Z"
-  },
-  {
-   "title": "Anthropic co-founder backs 'common sense standards' for AI regulation",
-   "outlet": "Nikkei Asia",
-   "outlet_name": "Nikkei Asia",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWG5EQmVOUzR0YzFRUnk1OURZTjNZNGdTTXhENkRmVFQtNElMMzdiU1BqY2ljSTAzTFUwVGdZVTRTZUZneFhVUi16VkpQWWR0MTkzMk9Zb0pvSjVaTGtfaGx0SkNTMng0bHFpU2hDTlJNS0F5alhIVU5vODE2THVYNzYyTlhrdXhqMC1nQ2h5VXNDS3NfUDg5d29vR0NEMzJjVDMzczc0QmJyRlFPMVRvckRYbjZJT2lnRElucFJPV0F1LUE1dE5hMWhGWGFNczls?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-16T11:50:00Z"
-  },
-  {
-   "title": "Rates will keep going up for one major reason related to the AI boom, a top economist says",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/why-interest-rates-are-rising-ai-infrastructure-bond-yields-2026-10",
-   "label": "REPORTED",
-   "summary_1line": "AI capex boom keeps rates elevated as returns exceed borrowing costs.",
-   "published_at": "2026-10-16T09:15:00Z"
-  },
-  {
-   "title": "Apple lawyer to court in OpenAI theft case: We don’t need to check devices of all 400 former employees wh",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQQmRwalVwbmh4dDd2cEdQdDBFbUluc3N3SV85MXBpTDdSZ3h5QW9RZkppak1YeXh0ZjcxQTg3NmRORXI0TjhMSm90ZHBJbXVoa0dYSE5tR1dBQTc0Ymprd0oteTBPQzh5XzlsU1JrOW1BQWR2cDZ4MTB6UGU3d3BPcDlvbDJ5ZEJwTnRjUFc3UE9rdERIMGhGeDJIYWdkX0NGR2JCejNtN2RRTWZUR2J6X2N1bnJyaExIZHB0OUxCYk5WbXpXbTBicjQ0N05ITG5IRkI1MjVSTF8wUjZLNjZ4NVBlVU9lVnVJSDRyU0treHBhbTR3d2V1Z2NTRV9aTHQ0a1ZZNVhmTndjRDk1LXhXZTBUUlltOWcyVXcwaEx1WENMejBWcWM5ekNFM3R6c0dyNXliQmFRSXlMakxkMEtfVHQ5NHpSNkNsME1Wb2lqRFBscU3SAdgCQVVfeXFMUGg4LXhEMGJIeUVxRVItclJRcjRhb0VjUnVQUEUybjl5SHFMOHFRRnF3aFFmYURwZTB6aUtLTURHTEgtdlNmNmk1ZjRoajFaVmR5Q0RPbXlhZkY2TVFZNkQ4RndDVXl6dE1OVmpGUlo3SFNueTFSbGszTEhaNld0a19leXd5WUo3N3NJZ18wVHloZ2xNb1FzUUxxUVVzNXJqX1Zpc21FWVF4cnQtc280TldZaXo1TE15R25ZRU1pVEJGanhtY1ZlVmU0S0ZvbHpkai1wXzZzTGxqSmNKdHRGYVJ5dW5jY0F3UmhpZHBJOWFnUGxZbDlHV1hrY2FlWnJqU3BuU1FKNm1rVE5mVVJXLXQtOUJyTm1ZZF9YN25ScWZsSW5rU2pWaEtNUzl1cVB4SUFZN3FVNHNzbk9DTldMcTNIVjFrNkU5NXJUb01GcnV3Uk40WS1wMFA?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-16T11:23:00Z"
+   "published_at": "2026-10-16T11:36:28Z"
   }
  ],
  "ticker": [
   {
-   "headline": "China plans to place 40 technologies including large language models and photovoltaic…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "Eight states sue OpenAI over safety concerns, Iowa Attorney General Brenna Bird explains",
+   "outlet": "Fox Business",
+   "outlet_name": "Fox Business",
+   "label": "REPORTED",
+   "url": "https://www.foxbusiness.com/video/6406955400112"
+  },
+  {
+   "headline": "Germany to unveil Nvidia AI agreement next week, government sources say",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "label": "REPORTED",
+   "url": "https://www.reuters.com/world/europe/germany-unveil-nvidia-ai-agreement-next-week-government-sources-say-2026-10-16/"
+  },
+  {
+   "headline": "China’s proposed AI tech export controls aim to ensure safety, encourage open-source devt…",
+   "outlet": "Global Times",
+   "outlet_name": "Global Times",
+   "label": "REPORTED",
+   "url": "https://www.globaltimes.cn/page/202610/1372411.shtml"
+  },
+  {
+   "headline": "Fed Chair Warsh Says AI Path Is Rough but Will Create Wealth",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
    "label": "CONFIRMED",
-   "url": "https://finance.biggo.com/news/00109a7c-e877-4c3f-b098-ed3841de8f90"
+   "url": "https://en.sedaily.com/international/2026/10/16/fed-chair-warsh-says-ai-path-is-rough-but-will-create-wealth"
   },
   {
-   "headline": "China is weighing export controls on AI.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
+   "headline": "Accenture caps central funding for Claude AI at $29 per employee per month",
+   "outlet": "HR Katha",
+   "outlet_name": "HR Katha",
    "label": "REPORTED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1012753/china-is-weighing-export-controls-on-ai"
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc1ZkOEs5YzVPV3dxcVdzdWlWZXAzTTY2OF9fenQzSXRhRU15TTY0MXRTUXZvc2l6ZUYzTC11Y0VqeElJYVRIaklsNGVOaXNiVktRcG45RnYzTWdQb3lZemdSZUkzZ2puQVJKeFYwX0JzSFpfemtLSEJWODd2VFM1YllMMV8zZHRiSzNmUjBSV0I4VDFwbFpTOWNCb0tEVFowa2hlV2hR?oc=5"
   },
   {
-   "headline": "Anthropic co-founder backs 'common sense standards' for AI regulation",
-   "outlet": "Nikkei Asia",
-   "outlet_name": "Nikkei Asia",
+   "headline": "Nvidia’s Huang and Broadcom’s Tan See the AI Boom From Slightly Different Places",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWG5EQmVOUzR0YzFRUnk1OURZTjNZNGdTTXhENkRmVFQtNElMMzdiU1BqY2ljSTAzTFUwVGdZVTRTZUZneFhVUi16VkpQWWR0MTkzMk9Zb0pvSjVaTGtfaGx0SkNTMng0bHFpU2hDTlJNS0F5alhIVU5vODE2THVYNzYyTlhrdXhqMC1nQ2h5VXNDS3NfUDg5d29vR0NEMzJjVDMzczc0QmJyRlFPMVRvckRYbjZJT2lnRElucFJPV0F1LUE1dE5hMWhGWGFNczls?oc=5"
+   "url": "https://www.bloomberg.com/news/newsletters/2026-10-16/nvidia-s-huang-and-broadcom-s-tan-see-the-ai-boom-from-slightly-different-places"
   },
   {
-   "headline": "Rates will keep going up for one major reason related to the AI boom, a top economist says",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
+   "headline": "Down for 5 hours, DeepSeek service restored, plans to raise 100 billion yuan",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
    "label": "REPORTED",
-   "url": "https://www.businessinsider.com/why-interest-rates-are-rising-ai-infrastructure-bond-yields-2026-10"
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2YzUTBWNjVZMjhoZ2hnRkNhTXlkcmlRb0E4VGJsNW9vTXIxelFvVm5Rc2tPQk5RUUVLODE5V1FVWS1OM3FwZWlRX21aWF9pR3pLX2k3Y29ZVU1Yc01GZE0tWHlhS0VMUWNpcGdFdFljQ0FsQUVLNTZ3NUk4SmNyYml1VGl2aWVCOVpWSnpjMA?oc=5"
   },
   {
-   "headline": "Apple lawyer to court in OpenAI theft case: We don’t need to check devices of all 400…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "NVIDIA RTX Spark Laptops Launch Worldwide With Local AI Agent Support",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQQmRwalVwbmh4dDd2cEdQdDBFbUluc3N3SV85MXBpTDdSZ3h5QW9RZkppak1YeXh0ZjcxQTg3NmRORXI0TjhMSm90ZHBJbXVoa0dYSE5tR1dBQTc0Ymprd0oteTBPQzh5XzlsU1JrOW1BQWR2cDZ4MTB6UGU3d3BPcDlvbDJ5ZEJwTnRjUFc3UE9rdERIMGhGeDJIYWdkX0NGR2JCejNtN2RRTWZUR2J6X2N1bnJyaExIZHB0OUxCYk5WbXpXbTBicjQ0N05ITG5IRkI1MjVSTF8wUjZLNjZ4NVBlVU9lVnVJSDRyU0treHBhbTR3d2V1Z2NTRV9aTHQ0a1ZZNVhmTndjRDk1LXhXZTBUUlltOWcyVXcwaEx1WENMejBWcWM5ekNFM3R6c0dyNXliQmFRSXlMakxkMEtfVHQ5NHpSNkNsME1Wb2lqRFBscU3SAdgCQVVfeXFMUGg4LXhEMGJIeUVxRVItclJRcjRhb0VjUnVQUEUybjl5SHFMOHFRRnF3aFFmYURwZTB6aUtLTURHTEgtdlNmNmk1ZjRoajFaVmR5Q0RPbXlhZkY2TVFZNkQ4RndDVXl6dE1OVmpGUlo3SFNueTFSbGszTEhaNld0a19leXd5WUo3N3NJZ18wVHloZ2xNb1FzUUxxUVVzNXJqX1Zpc21FWVF4cnQtc280TldZaXo1TE15R25ZRU1pVEJGanhtY1ZlVmU0S0ZvbHpkai1wXzZzTGxqSmNKdHRGYVJ5dW5jY0F3UmhpZHBJOWFnUGxZbDlHV1hrY2FlWnJqU3BuU1FKNm1rVE5mVVJXLXQtOUJyTm1ZZF9YN25ScWZsSW5rU2pWaEtNUzl1cVB4SUFZN3FVNHNzbk9DTldMcTNIVjFrNkU5NXJUb01GcnV3Uk40WS1wMFA?oc=5"
-  },
-  {
-   "headline": "As Elon Musk shows 'flying Tesla'; says, 'My OG Roadster is still orbiting Mars and…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/as-elon-musk-shows-flying-tesla-says-my-og-roadster-is-still-orbiting-mars-and-earth-meta-ai-head-alexandr-wang-asks-who-is-/articleshow/134988631.cms"
-  },
-  {
-   "headline": "Senate Committee Rejects AI Bill, Sending It Back to the Drawing Board",
-   "outlet": "Techweez",
-   "outlet_name": "Techweez",
-   "label": "REPORTED",
-   "url": "https://techweez.com/2026/10/16/senate-committee-rejects-ai-bill-sending-it-back-to-the-drawing-board/"
+   "url": "https://www.unite.ai/nvidia-rtx-spark-laptops-launch-worldwide-with-local-ai-agent-support/"
   },
   {
    "headline": "FTC issues subpoenas to OpenAI, Anthropic following AI safety issues",
@@ -109,20 +116,6 @@
    "url": "https://www.msn.com/en-us/technology/tech-companies/ftc-issues-subpoenas-to-openai-anthropic-following-ai-safety-issues/ar-AA2elRKs"
   },
   {
-   "headline": "Microsoft unveils 2.8 trillion parameter model ahead of official launch, highlighting…",
-   "outlet": "aitimes.com",
-   "outlet_name": "aitimes.com",
-   "label": "STILL OPEN",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216337"
-  },
-  {
-   "headline": "Volvo expands NVIDIA partnership for AI driving from city streets to parking garages",
-   "outlet": "Get CyberTrucked on MSN",
-   "outlet_name": "Get CyberTrucked on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-ca/news/other/volvo-expands-nvidia-partnership-for-ai-driving-from-city-streets-to-parking-garages/ar-AA2emW2Z"
-  },
-  {
    "headline": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
    "outlet": "securityweek.com",
    "outlet_name": "securityweek.com",
@@ -130,21 +123,28 @@
    "url": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/"
   },
   {
-   "headline": "Silicon Valley AI is going wild, how much cost-performance advantage do DeepSeek and…",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
+   "headline": "Forbes Global CEO Conference 2026: AI leaders tackle hype, regulation and security risks",
+   "outlet": "Forbes on MSN",
+   "outlet_name": "Forbes on MSN",
    "label": "REPORTED",
-   "url": "https://www.tmtpost.com/8170871.html"
+   "url": "https://www.msn.com/en-us/news/other/forbes-global-ceo-conference-2026-ai-leaders-tackle-hype-regulation-and-security-risks/ar-AA2eneDp"
+  },
+  {
+   "headline": "DeepSeek releases compensation notice: full refund in bonuses based on consumption amount…",
+   "outlet": "finance.sina.com.cn",
+   "outlet_name": "finance.sina.com.cn",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFajg0YmtINzV0dGVlNHJfUi1ZelVOdFlWell3VHdkZWNlbFRvQkhRZWhzN2lPYWpCWEN1LWYtQTJwd2RrdU9kVkI2WDdld3A4OXczRkVsOEFMY2E2ajgzOXN0WE5Pbk4yQnpNc21iaUl6Wm15aC1xcg?oc=5"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 15100,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 15000,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/12.mp3",
- "audio_seconds": 53.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/13.mp3",
+ "audio_seconds": 60.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BigGo Finance: China plans to place 40 technologies including large language models and photovoltaic silicon wafers under export controls, initiating interim registration.\nReported by The Verge: China is weighing export controls on AI.\nReported by Nikkei Asia: Anthropic co-founder backs 'common sense standards' for AI regulation.\nReported by Business Insider: Rates will keep going up for one major reason related to the AI boom, a top economist says.\nReported by The Times of India: Apple lawyer to court in OpenAI theft case: We don’t need to check devices of all 400 former employees wh.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nEight states are suing OpenAI over safety concerns, as reported by Fox Business, with Iowa's Attorney General Brenna Bird explaining the case.\nGermany will unveil an Nvidia artificial intelligence agreement next week, according to government sources reported by Reuters.\nChina's commerce ministry is proposing artificial intelligence technology export controls to ensure safety and encourage open-source development and sharing, reported by Global Times.\nFed Chair Warsh signals artificial intelligence will follow a rough path but create wealth, with a rate hold and Korea-U.S. first joint financial talks confirmed by Seoul Economic Daily.\nAccenture is capping central funding for Claude artificial intelligence at $29 per employee per month, as reported by HR Katha.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
