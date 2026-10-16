@@ -1,105 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T06:20:01Z",
- "hour": "2026-10-16T06:00:00Z",
+ "generated_at": "2026-10-16T07:20:01Z",
+ "hour": "2026-10-16T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Fed Chair Warsh avoids rate guidance, cites global monetary tightening and AI's transformative potential.",
-   "published_at": "2026-10-16T04:08:27Z"
+   "title": "Amazon drops releasing artificial intelligence for OpenAI investment",
+   "outlet": "新浪网",
+   "outlet_name": "新浪网",
+   "url": "https://k.sina.com.cn/article_2267293105_872425b1040017i7c.html",
+   "label": "STILL OPEN",
+   "summary_1line": "Reports claim Amazon rejected AI film over OpenAI deal and mandates AI training for partners.",
+   "published_at": "2026-10-16T05:08:00Z"
   },
   {
-   "title": "🚨JUST IN: OpenAI says one of its artificial intelligence agents used funds from an Ethereum testnet wallet without the owner's permission.",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "url": "https://www.moomoo.com/hans/community/feed/openai-says-one-of-its-ai-agents-used-funds-from-117448795553797",
+   "title": "AI: Anthropic’s Mega Data Center Sprint ahead of its Mega-AI IPO. AI-RTZ #1241",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "url": "https://michaelparekh.substack.com/p/ai-anthropics-mega-data-center-sprint",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic races to build 15 gigawatts of AI data centers before IPO, targeting $190–$200 billion revenue by 2028.",
+   "published_at": "2026-10-16T05:02:36Z"
+  },
+  {
+   "title": "DataToBiz’s AI Expertise Earns “OpenAI Select Partner” Status",
+   "outlet": "FinancialContent",
+   "outlet_name": "FinancialContent",
+   "url": "https://markets.financialcontent.com/stocks/article/marketersmedia-2026-10-16-datatobizs-ai-expertise-earns-openai-select-partner-status",
    "label": "REPORTED",
-   "summary_1line": "OpenAI AI agent accessed Ethereum testnet wallet without permission, used funds.",
-   "published_at": "2026-10-16T04:53:17Z"
+   "summary_1line": "DataToBiz achieves OpenAI Select Partner status for AI consulting and agent development.",
+   "published_at": "2026-10-16T03:43:00Z"
   },
   {
-   "title": "Iowa Attorney General Brenna Bird, other AGs move to sue OpenAI in state courts",
-   "outlet": "Times Republican",
-   "outlet_name": "Times Republican",
-   "url": "https://www.timesrepublican.com/news/todays-news/2026/10/iowa-attorney-general-brenna-bird-other-ags-move-to-sue-openai-in-state-courts/",
+   "title": "WorkBuddy releases DeepSeek exception compensation plan",
+   "outlet": "凤凰网",
+   "outlet_name": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqUDdDeThGM2JSU3VKRmZkNGVuQUlCUTRvMVlTTUpvOFFaLUlnbjFzRlh3WWlrdUU3XzlheFhUVHJVQXdSbFVhRXFnNG5neHFS?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T05:23:16Z"
+   "published_at": "2026-10-16T06:23:11Z"
   },
   {
-   "title": "DeepSeek sudden outage! Tencent WorkBuddy announces compensation: points fully refunded plus 500 bonus points",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPYlNiVVpDb0hVdHZRZl9ETm5SUDI5TjlGV1lBT051cy1uMXQ1YWVJZnVvZF83bHFzRzJnTzV0WEZEaFRyUkZFNk13Z0JVaVBvam1XdDBNN2ZRV1hzUXVOVVpzZm9kTjQ2RE5FUFVsZWMxQWdWSENsTElsSzhrSm8?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-16T05:29:18Z"
-  },
-  {
-   "title": "WorkBuddy and CodeBuddy announce full refund of points within 7 days for users affected by DeepSeek service outage - Sohu",
+   "title": "DeepSeek service outage for nearly 5 hours, official compensation notice released: Will compensate all API users for consumption amount within 7 days - Sohu",
    "outlet": "搜狐",
    "outlet_name": "搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3VfWGVGY2N2UDFLbVYwQVlCc2dnRDdPYmhhYTBwVEJCRUs1VF9kbWpLcl84VTBxaGQ3cC1uZVVaNWd4RWNCSWFNVmh2bE5BZ3Zyc0NiX0d5ZVBYbXFOaUtvb2t0UXZlY0hmLXVLdmFaTXgzRklfZTVnQXJVakVaaGFJTXQyZVhTci0zLQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUJvOC1GcUw2QWw3dG5fNkRBaXhKUThXZFppTF9zODFpajY2OGxLLUVzYzU3S3Zsc1AyOEVZRXBneHpCREdxVjVTV29WeWpOVFh0bndZOW1ic25XaGQwRFhHMG1GYTFURVpyU1ltX0F5cFl1TG1CTngwekV0cEM2NUlaU2tBTWhzV3NDTw?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T05:24:07Z"
+   "published_at": "2026-10-16T05:47:58Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/16/feds-warsh-says-ai-development-path-will-be-very-bumpy-.html"
-  },
-  {
-   "headline": "🚨JUST IN: OpenAI says one of its artificial intelligence agents used funds from an…",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "label": "REPORTED",
-   "url": "https://www.moomoo.com/hans/community/feed/openai-says-one-of-its-ai-agents-used-funds-from-117448795553797"
-  },
-  {
-   "headline": "Iowa Attorney General Brenna Bird, other AGs move to sue OpenAI in state courts",
-   "outlet": "Times Republican",
-   "outlet_name": "Times Republican",
-   "label": "REPORTED",
-   "url": "https://www.timesrepublican.com/news/todays-news/2026/10/iowa-attorney-general-brenna-bird-other-ags-move-to-sue-openai-in-state-courts/"
-  },
-  {
-   "headline": "DeepSeek sudden outage! Tencent WorkBuddy announces compensation: points fully refunded…",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPYlNiVVpDb0hVdHZRZl9ETm5SUDI5TjlGV1lBT051cy1uMXQ1YWVJZnVvZF83bHFzRzJnTzV0WEZEaFRyUkZFNk13Z0JVaVBvam1XdDBNN2ZRV1hzUXVOVVpzZm9kTjQ2RE5FUFVsZWMxQWdWSENsTElsSzhrSm8?oc=5"
-  },
-  {
-   "headline": "WorkBuddy and CodeBuddy announce full refund of points within 7 days for users affected…",
-   "outlet": "搜狐",
-   "outlet_name": "搜狐",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOa3VfWGVGY2N2UDFLbVYwQVlCc2dnRDdPYmhhYTBwVEJCRUs1VF9kbWpLcl84VTBxaGQ3cC1uZVVaNWd4RWNCSWFNVmh2bE5BZ3Zyc0NiX0d5ZVBYbXFOaUtvb2t0UXZlY0hmLXVLdmFaTXgzRklfZTVnQXJVakVaaGFJTXQyZVhTci0zLQ?oc=5"
-  },
-  {
    "headline": "Amazon drops releasing artificial intelligence for OpenAI investment",
    "outlet": "新浪网",
    "outlet_name": "新浪网",
-   "label": "REPORTED",
+   "label": "STILL OPEN",
    "url": "https://k.sina.com.cn/article_2267293105_872425b1040017i7c.html"
   },
   {
-   "headline": "Anthropic IPO: Some Investors Reportedly Weigh Lower $1.5 Trillion Valuation As AI Lab’s…",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
+   "headline": "AI: Anthropic’s Mega Data Center Sprint ahead of its Mega-AI IPO. AI-RTZ #1241",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "label": "STILL OPEN",
+   "url": "https://michaelparekh.substack.com/p/ai-anthropics-mega-data-center-sprint"
+  },
+  {
+   "headline": "DataToBiz’s AI Expertise Earns “OpenAI Select Partner” Status",
+   "outlet": "FinancialContent",
+   "outlet_name": "FinancialContent",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOcjVkcnpXMVlpLXB1LU5mcnBmR2dCZ0Y2TnBEaWsxSUh4YXFNMEJaQi1lN1FWX1ZGZ2NuVFo3dFhheW04QVJzWVZWZ2JoS3VsdGNqa04zZnZmS3U4MkJtRkhsNHNVeTFkbVNCd1VWZWswNlpFclpUNGUtNkFiRG9XbFpMXzQ0TWdwUTZGd2w2eVNlbzJmb2xGZ1J0OGM5bmFaWno4TkZYMjFObDRhSks2RWNiQ3ItOU1MSWZwQzZxWUFvcTF2WklIajUyM1pnVWFwNzctTXZYb0dubkk0M0N1M0dnUWh4Wkhnak1la3FzNjBwSF84enJHNmtpOWtQWmt5?oc=5"
+   "url": "https://markets.financialcontent.com/stocks/article/marketersmedia-2026-10-16-datatobizs-ai-expertise-earns-openai-select-partner-status"
+  },
+  {
+   "headline": "WorkBuddy releases DeepSeek exception compensation plan",
+   "outlet": "凤凰网",
+   "outlet_name": "凤凰网",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBqUDdDeThGM2JSU3VKRmZkNGVuQUlCUTRvMVlTTUpvOFFaLUlnbjFzRlh3WWlrdUU3XzlheFhUVHJVQXdSbFVhRXFnNG5neHFS?oc=5"
+  },
+  {
+   "headline": "DeepSeek service outage for nearly 5 hours, official compensation notice released: Will…",
+   "outlet": "搜狐",
+   "outlet_name": "搜狐",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWUJvOC1GcUw2QWw3dG5fNkRBaXhKUThXZFppTF9zODFpajY2OGxLLUVzYzU3S3Zsc1AyOEVZRXBneHpCREdxVjVTV29WeWpOVFh0bndZOW1ic25XaGQwRFhHMG1GYTFURVpyU1ltX0F5cFl1TG1CTngwekV0cEM2NUlaU2tBTWhzV3NDTw?oc=5"
+  },
+  {
+   "headline": "Brazil’s Lula challenges Meta at electoral court for alleged algorithmic bias and AI…",
+   "outlet": "WTOP News",
+   "outlet_name": "WTOP News",
+   "label": "REPORTED",
+   "url": "https://wtop.com/news/2026/10/brazils-lula-challenges-meta-at-electoral-court-for-alleged-algorithmic-bias-and-ai-restrictions/"
   },
   {
    "headline": "Anthropic’s $2 Trillion IPO Dream Meets a $1.5 Trillion Reality Check",
@@ -107,6 +100,20 @@
    "outlet_name": "BeInCrypto",
    "label": "REPORTED",
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tZk5vV2pUb01IMFh2VjdDWWZ6X1prVXB5SWtYN2kwTU5Vbk9WdVJNN2w4VmtoRlRaQ083bnVXUEMxYlh5S1dNTWtwRUd0REFfcjc1SmxCeWp6ZjY1eG40d3BtZDJvVElxWFFvaA?oc=5"
+  },
+  {
+   "headline": "DeepSeek releases new model: compresses KV cache to one-fourth of original, yet speed is…",
+   "outlet": "科技行者",
+   "outlet_name": "科技行者",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DSGNCM0xuSmZXb0g0VGJnNzJmUUx6ZnphR2hpbzRielRYdlo5eU0zbHZGaVlweUxxR2daTllhQm1LNFoxVEFsWXZSZ1BsRG4tb3JnZncycnFXRHlsNEln?oc=5"
+  },
+  {
+   "headline": "Anthropic IPO: Some investors reportedly weigh lower $1.5 trillion valuation as AI lab’s…",
+   "outlet": "Asianet Newsable on MSN",
+   "outlet_name": "Asianet Newsable on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-in/news/other/anthropic-ipo-some-investors-reportedly-weigh-lower-15-trillion-valuation-as-ai-lab-s-revenue-growth-slows/ar-AA2elxgF"
   },
   {
    "headline": "Meta wants to challenge China’s AI dominance with its new Muse Spark Open model",
@@ -123,13 +130,6 @@
    "url": "https://www.sify.com/ai-analytics/japan-declares-cybersecurity-emergency-ai-cyberattacks-hit-14-million-people-and-495-businesses/"
   },
   {
-   "headline": "For Causing Harm To Children, 8 US States Sue ChatGPT",
-   "outlet": "Trak.in",
-   "outlet_name": "Trak.in",
-   "label": "REPORTED",
-   "url": "https://trak.in/stories/for-causing-harm-to-children-8-us-states-sue-chatgpt/"
-  },
-  {
    "headline": "Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing of Amendment No. 1…",
    "outlet": "federalregister.gov",
    "outlet_name": "federalregister.gov",
@@ -137,14 +137,14 @@
    "url": "https://www.federalregister.gov/documents/2026/10/16/2026-21149/self-regulatory-organizations-cboe-exchange-inc-notice-of-filing-of-amendment-no-1-and-order"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 15300,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/06.mp3",
- "audio_seconds": 57.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/07.mp3",
+ "audio_seconds": 52.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nFed Chair Warsh says the artificial intelligence path will be very bumpy but ultimately very good for wealth, confirmed by CNBC.\nReported by Moomoo: OpenAI says one of its artificial intelligence agents used funds from an Ethereum testnet wallet without the owner's permission.\nIowa Attorney General Brenna Bird and other AGs move to sue OpenAI in state courts, reported by Times Republican.\nDeepSeek sudden outage, reported by 新浪财经: Tencent WorkBuddy announces compensation with points fully refunded plus 500 bonus points.\nWorkBuddy and CodeBuddy announce full refund of points within 7 days for users affected by DeepSeek service outage, reported by 搜狐.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per 新浪网: Amazon drops releasing artificial intelligence for OpenAI investment.\nStill open, per AI: Reset to Zero: AI: Anthropic’s Mega Data Center Sprint ahead of its Mega-AI IPO. AI-RTZ #1241.\nReported by FinancialContent: DataToBiz’s AI Expertise Earns “OpenAI Select Partner” Status.\nReported by 凤凰网: WorkBuddy releases DeepSeek exception compensation plan.\nReported by 搜狐: DeepSeek service outage for nearly 5 hours, official compensation notice released: Will compensate all API users for consumption amount within 7 days - Sohu.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
