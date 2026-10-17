@@ -1,88 +1,97 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T18:20:03Z",
- "hour": "2026-10-17T18:00:00Z",
+ "generated_at": "2026-10-17T19:20:02Z",
+ "hour": "2026-10-17T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China proposes export controls on 23 AI technologies",
-   "outlet": "TNGlobal",
-   "outlet_name": "TNGlobal",
-   "url": "https://technode.global/2026/10/18/china-ai-export-controls-23-technologies/",
-   "label": "CONFIRMED",
-   "summary_1line": "China proposes export controls on 23 AI technologies, with 14 banned and 26 restricted, and introduces pre-export registration.",
-   "published_at": "2026-10-17T16:11:34Z"
-  },
-  {
-   "title": "Anthropic’s AI safety bill draws fire over its frontier compute line",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/anthropic-ai-safety-bill-frontier-threshold/",
+   "title": "Anthropic Pitches US Lawmakers Bill to Block AI Models Posing Imminent Threats",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "url": "https://www.tekedia.com/anthropic-pitches-us-lawmakers-bill-to-block-ai-models-posing-imminent-threats/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic's 10²⁵ FLOP AI safety bill faces criticism for being outdated and overly broad.",
-   "published_at": "2026-10-17T09:16:00Z"
+   "summary_1line": "Anthropic pitches draft AI safety bill with $1B+ and 50+ person risk thresholds.",
+   "published_at": "2026-10-17T07:47:30Z"
   },
   {
-   "title": "China moves to restrict exports of its own AI models, chips and agents",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/china-moves-to-restrict-exports-of-its-own-ai-models-chips-and-agents/",
-   "label": "CONFIRMED",
-   "summary_1line": "China restricts export of AI models and data, targeting open-weight AI used globally.",
-   "published_at": "2026-10-16T09:15:10Z"
-  },
-  {
-   "title": "NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will Continue Shipping",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "url": "https://wccftech.com/nvidia-denies-rtx-5090-discontinuation-reports/",
+   "title": "Taiwan reportedly plans export controls on AI servers and chips",
+   "outlet": "NeoTeo",
+   "outlet_name": "NeoTeo",
+   "url": "https://www.neoteo.com/en/taiwan-reportedly-plans-export-controls-on-ai-servers-and-chips",
    "label": "STILL OPEN",
-   "summary_1line": "NVIDIA denies RTX 5090 discontinuation, citing supply issues and continued production.",
-   "published_at": "2026-10-17T13:28:00Z"
+   "summary_1line": "Taiwan expands AI chip export controls, aligning with U.S. measures and imposing up to five years in prison and $92,500 fine.",
+   "published_at": "2026-10-17T17:19:12Z"
+  },
+  {
+   "title": "Replit is no longer working with Anthropic, CEO says",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-17T18:48:08Z"
+  },
+  {
+   "title": "DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks",
+   "outlet": "ProPakistani",
+   "outlet_name": "ProPakistani",
+   "url": "https://propakistani.pk/2026/10/17/deepseek-v4-1-flash-gets-new-model-with-big-coding-gains-cheaper-agent-tasks/",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek's new Flash model beats rivals in coding with lower cost and opens search to developers.",
+   "published_at": "2026-10-17T15:45:24Z"
+  },
+  {
+   "title": "AI inventory robot — LA Supermarkets Roll Out Automation as Workers Fear Job Cuts",
+   "outlet": "The Korea Daily",
+   "outlet_name": "The Korea Daily",
+   "url": "https://en.koreadaily.com/ai-inventory-robot-la-supermarkets/",
+   "label": "CONFIRMED",
+   "summary_1line": "Los Angeles grocery stores deploy AI robots to monitor stock, sparking worker and consumer concerns.",
+   "published_at": "2026-10-17T16:30:41Z"
   }
  ],
  "ticker": [
   {
-   "headline": "China proposes export controls on 23 AI technologies",
-   "outlet": "TNGlobal",
-   "outlet_name": "TNGlobal",
-   "label": "CONFIRMED",
-   "url": "https://technode.global/2026/10/18/china-ai-export-controls-23-technologies/"
-  },
-  {
-   "headline": "Anthropic’s AI safety bill draws fire over its frontier compute line",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "Anthropic Pitches US Lawmakers Bill to Block AI Models Posing Imminent Threats",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
    "label": "REPORTED",
-   "url": "https://cryptobriefing.com/anthropic-ai-safety-bill-frontier-threshold/"
+   "url": "https://www.tekedia.com/anthropic-pitches-us-lawmakers-bill-to-block-ai-models-posing-imminent-threats/"
   },
   {
-   "headline": "China moves to restrict exports of its own AI models, chips and agents",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "CONFIRMED",
-   "url": "https://startupfortune.com/china-moves-to-restrict-exports-of-its-own-ai-models-chips-and-agents/"
-  },
-  {
-   "headline": "NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
+   "headline": "Taiwan reportedly plans export controls on AI servers and chips",
+   "outlet": "NeoTeo",
+   "outlet_name": "NeoTeo",
    "label": "STILL OPEN",
-   "url": "https://wccftech.com/nvidia-denies-rtx-5090-discontinuation-reports/"
+   "url": "https://www.neoteo.com/en/taiwan-reportedly-plans-export-controls-on-ai-servers-and-chips"
   },
   {
-   "headline": "Vibemetric – An open-source app that grades your Claude Code sessions",
-   "outlet": "vibemetric.app",
-   "outlet_name": "vibemetric.app",
+   "headline": "Replit is no longer working with Anthropic, CEO says",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "REPORTED",
-   "url": "https://www.vibemetric.app/"
+   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+  },
+  {
+   "headline": "DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks",
+   "outlet": "ProPakistani",
+   "outlet_name": "ProPakistani",
+   "label": "REPORTED",
+   "url": "https://propakistani.pk/2026/10/17/deepseek-v4-1-flash-gets-new-model-with-big-coding-gains-cheaper-agent-tasks/"
+  },
+  {
+   "headline": "AI inventory robot — LA Supermarkets Roll Out Automation as Workers Fear Job Cuts",
+   "outlet": "The Korea Daily",
+   "outlet_name": "The Korea Daily",
+   "label": "CONFIRMED",
+   "url": "https://en.koreadaily.com/ai-inventory-robot-la-supermarkets/"
   },
   {
    "headline": "DeepSeek V4.1 Flash New Version Launched: Wish-Based Programming Comes True with One…",
    "outlet": "cnBeta.COM",
    "outlet_name": "cnBeta.COM",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.cnbeta.com.tw/articles/tech/1582656.htm"
   },
   {
@@ -97,7 +106,7 @@
    "outlet": "index.hr",
    "outlet_name": "index.hr",
    "label": "REPORTED",
-   "url": "https://www.index.hr/vijesti/clanak/vlada-planira-razviti-hrvatski-chatgpt/2846675.aspx?index_tid=1191777&index_ref=naslovnica_vijesti_ostalo_d_0"
+   "url": "https://www.index.hr/vijesti/clanak/vlada-planira-razviti-hrvatski-chatgpt/2846675.aspx?index_tid=1191777&index_ref=naslovnica_vijesti_najnovije_d"
   },
   {
    "headline": "OpenAI açıkladı ! ChatGPT kendi kendine karar verip kripto para çaldı",
@@ -107,35 +116,35 @@
    "url": "https://www.turkiyegazetesi.com.tr/dunya/openai-acikladi-chatgpt-kendi-kendine-karar-verip-kripto-para-caldi-1823386"
   },
   {
-   "headline": "Instagram DMs can now compose music, Meta AI's new feature turns text into songs with one…",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
-   "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/18/instagrams-ai-music-creation-feature/"
-  },
-  {
-   "headline": "Maintaining software with the GPT-6 family",
-   "outlet": "developers.openai.com",
-   "outlet_name": "developers.openai.com",
-   "label": "REPORTED",
-   "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family"
-  },
-  {
    "headline": "Claude Fable 5 Ends 87-Year Math Feud; BTC Reacts [2026]",
    "outlet": "shattered.io",
    "outlet_name": "shattered.io",
    "label": "STILL OPEN",
    "url": "https://shattered.io/claude-fable-5-87-year-math-feud-bitcoin-2026/"
+  },
+  {
+   "headline": "Two Mac Studios, $21K: Apple’s Nvidia AI Challenge [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "REPORTED",
+   "url": "https://shattered.io/two-mac-studios-21k-apple-nvidia-ai-challenge-2026/"
+  },
+  {
+   "headline": "AI doktori na Jutjubu : Svetski biznis koji iskorišćava starije gledaoce",
+   "outlet": "naslovi.net",
+   "outlet_name": "naslovi.net",
+   "label": "CONFIRMED",
+   "url": "https://naslovi.net/2026-10-17/juzne-vesti/ai-doktori-na-jutjubu-svetski-biznis-koji-iskoriscava-starije-gledaoce/42498970"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 9200,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 9000,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/18.mp3",
- "audio_seconds": 45.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/19.mp3",
+ "audio_seconds": 48.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TNGlobal: China proposes export controls on 23 AI technologies.\nReported by Crypto Briefing: Anthropic’s AI safety bill draws fire over its frontier compute line.\nConfirmed, per Startup Fortune: China moves to restrict exports of its own AI models, chips and agents.\nStill open, per Wccftech: NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will Continue Shipping.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Tekedia: Anthropic Pitches US Lawmakers Bill to Block AI Models Posing Imminent Threats.\nStill open, per NeoTeo: Taiwan reportedly plans export controls on AI servers and chips.\nReported by TechCrunch: Replit is no longer working with Anthropic, CEO says.\nReported by ProPakistani: DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks.\nConfirmed, per The Korea Daily: AI inventory robot — LA Supermarkets Roll Out Automation as Workers Fear Job Cuts.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
