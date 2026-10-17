@@ -1,91 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-16T23:20:02Z",
- "hour": "2026-10-16T23:00:00Z",
+ "generated_at": "2026-10-17T00:20:02Z",
+ "hour": "2026-10-17T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "ChatGPT gave a man unlicensed medical advice, leading to mental health crisis, lawsuit alleges",
-   "outlet": "CBS News",
-   "outlet_name": "CBS News",
-   "url": "https://www.cbsnews.com/news/chatgpt-medical-advice-lawsuit/",
-   "label": "REPORTED",
-   "summary_1line": "Man sues OpenAI after ChatGPT gave medical advice, worsening his mental health.",
-   "published_at": "2026-10-16T21:22:07Z"
-  },
-  {
-   "title": "Ticker: States sue AI giant OpenAI; Addiction recovery boost",
-   "outlet": "Boston Herald",
-   "outlet_name": "Boston Herald",
-   "url": "https://www.bostonherald.com/2026/10/16/ticker-states-sue-ai-giant-openai-addiction-recovery-boost/",
-   "label": "REPORTED",
-   "summary_1line": "Eight states sue OpenAI over ChatGPT's harmful content and safety risks.",
-   "published_at": "2026-10-16T21:12:45Z"
-  },
-  {
-   "title": "Claude reveals ECDSA curve origins",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-   "label": "STILL OPEN",
-   "summary_1line": "ECDSA seeds found to be from lrand48 PRNG initialized with Unix timestamps, not passphrases.",
-   "published_at": "2026-10-16T17:02:00Z"
-  },
-  {
-   "title": "China says it will curb tech exports, including AI, citing national security risks",
-   "outlet": "PBS",
-   "outlet_name": "PBS",
-   "url": "https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks",
-   "label": "CONFIRMED",
-   "summary_1line": "China to restrict AI and tech exports for national security, citing U.S. actions.",
-   "published_at": "2026-10-16T22:00:29Z"
-  },
-  {
-   "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5",
+   "title": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving adults",
+   "outlet": "The Miami Times",
+   "outlet_name": "The Miami Times",
+   "url": "https://www.miamitimesonline.com/business/states-sue-ai-giant-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults/article_b430af9a-3181-41a8-a1af-43d4de15f9f0.amp.html",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-16T18:34:49Z"
+   "published_at": "2026-10-16T19:29:00Z"
+  },
+  {
+   "title": "China Proposes Export Controls On 23 AI Technologies Amid U.S. Tech Rivalry",
+   "outlet": "RTTNews",
+   "outlet_name": "RTTNews",
+   "url": "https://www.rttnews.com/3699880/china-proposes-export-controls-on-23-ai-technologies-amid-u-s-tech-rivalry.aspx",
+   "label": "CONFIRMED",
+   "summary_1line": "China proposes export controls on 23 AI technologies, including models and clusters, as part of broader tech restrictions.",
+   "published_at": "2026-10-16T02:00:00Z"
+  },
+  {
+   "title": "ASUS Announces ProArt P16 and P14 Laptops Powered by NVIDIA RTX Spark in Canada",
+   "outlet": "MarketScreener",
+   "outlet_name": "MarketScreener",
+   "url": "https://www.marketscreener.com/news/asus-announces-proart-p16-and-p14-laptops-powered-by-nvidia-rtx-spark-in-canada-ce785cdadc81fe2c",
+   "label": "REPORTED",
+   "summary_1line": "ASUS launches ProArt P16/P14 with NVIDIA RTX Spark for local AI in Canada.",
+   "published_at": "2026-10-16T10:51:00Z"
+  },
+  {
+   "title": "Anthropic polled 1,334 of its employees. They're more sure than most of us that AI will take over jobs.",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/anthropic-survey-reveals-ai-potential-impact-on-unemployment-2026-10",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic staff expect AI to handle 80% of their jobs by 2030, far beyond US workers' views.",
+   "published_at": "2026-10-16T22:48:53Z"
+  },
+  {
+   "title": "EverWind’s major data centre project in N.S. will power Anthropic’s Claude AI",
+   "outlet": "Global News",
+   "outlet_name": "Global News",
+   "url": "https://globalnews.ca/news/12105095/everwind-nova-scotia-data-centre/",
+   "label": "REPORTED",
+   "summary_1line": "EverWind's $10B data centre at Point Tupper will support AI growth with 420MW capacity and 2,000 construction jobs.",
+   "published_at": "2026-10-16T22:01:02Z"
   }
  ],
  "ticker": [
   {
-   "headline": "ChatGPT gave a man unlicensed medical advice, leading to mental health crisis, lawsuit…",
-   "outlet": "CBS News",
-   "outlet_name": "CBS News",
+   "headline": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving…",
+   "outlet": "The Miami Times",
+   "outlet_name": "The Miami Times",
    "label": "REPORTED",
-   "url": "https://www.cbsnews.com/news/chatgpt-medical-advice-lawsuit/"
+   "url": "https://www.miamitimesonline.com/business/states-sue-ai-giant-openai-saying-its-popular-chatbot-is-hurting-children-and-deceiving-adults/article_b430af9a-3181-41a8-a1af-43d4de15f9f0.amp.html"
   },
   {
-   "headline": "Ticker: States sue AI giant OpenAI; Addiction recovery boost",
-   "outlet": "Boston Herald",
-   "outlet_name": "Boston Herald",
-   "label": "REPORTED",
-   "url": "https://www.bostonherald.com/2026/10/16/ticker-states-sue-ai-giant-openai-addiction-recovery-boost/"
-  },
-  {
-   "headline": "Claude reveals ECDSA curve origins",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "label": "STILL OPEN",
-   "url": "https://www.anthropic.com/research/ecdsa-curve-origins"
-  },
-  {
-   "headline": "China says it will curb tech exports, including AI, citing national security risks",
-   "outlet": "PBS",
-   "outlet_name": "PBS",
+   "headline": "China Proposes Export Controls On 23 AI Technologies Amid U.S. Tech Rivalry",
+   "outlet": "RTTNews",
+   "outlet_name": "RTTNews",
    "label": "CONFIRMED",
-   "url": "https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks"
+   "url": "https://www.rttnews.com/3699880/china-proposes-export-controls-on-23-ai-technologies-amid-u-s-tech-rivalry.aspx"
   },
   {
-   "headline": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
+   "headline": "ASUS Announces ProArt P16 and P14 Laptops Powered by NVIDIA RTX Spark in Canada",
+   "outlet": "MarketScreener",
+   "outlet_name": "MarketScreener",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XWktKRmU0bnRhVC1LejhhZTFxbjNKS1NkcTBPeDM2dUFKQm1SVXFlWnBJRGUydWFtMUMxRjRZelI0TU9kc2xKQWJhYktVb1BzNTg5ZmZyY293M2pCZ2NoTmQyX0dYUQ?oc=5"
+   "url": "https://www.marketscreener.com/news/asus-announces-proart-p16-and-p14-laptops-powered-by-nvidia-rtx-spark-in-canada-ce785cdadc81fe2c"
+  },
+  {
+   "headline": "Anthropic polled 1,334 of its employees. They're more sure than most of us that AI will…",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "REPORTED",
+   "url": "https://www.businessinsider.com/anthropic-survey-reveals-ai-potential-impact-on-unemployment-2026-10"
+  },
+  {
+   "headline": "EverWind’s major data centre project in N.S. will power Anthropic’s Claude AI",
+   "outlet": "Global News",
+   "outlet_name": "Global News",
+   "label": "REPORTED",
+   "url": "https://globalnews.ca/news/12105095/everwind-nova-scotia-data-centre/"
   },
   {
    "headline": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
@@ -102,11 +102,11 @@
    "url": "https://k.sina.com.cn/article_5952915705_162d248f906703qt5w.html"
   },
   {
-   "headline": "Claude Mythos 5 vs Gemini 4 Argon: Gated vs GA at $2",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
+   "headline": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock…",
+   "outlet": "Amazon Web Services (AWS)",
+   "outlet_name": "Amazon Web Services (AWS)",
    "label": "REPORTED",
-   "url": "https://www.orcarouter.ai/blog/claude-mythos-5-vs-gemini-4-argon"
+   "url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/"
   },
   {
    "headline": "Working at the frontier shapes expectations for the future \\ Anthropic",
@@ -116,13 +116,6 @@
    "url": "https://www.anthropic.com/research/expectations-for-the-future"
   },
   {
-   "headline": "Oct 16, 2026 Economics How employment is changing at Anthropic",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/employment-at-anthropic"
-  },
-  {
    "headline": "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit…",
    "outlet": "techmeme.com",
    "outlet_name": "techmeme.com",
@@ -130,21 +123,28 @@
    "url": "https://www.techmeme.com/261016/p25#a261016p25"
   },
   {
-   "headline": "Will AI-powered autonomous weapons obey the laws of war?",
-   "outlet": "DW.com",
-   "outlet_name": "DW.com",
-   "label": "CONFIRMED",
-   "url": "https://www.dw.com/en/will-ai-powered-autonomous-weapons-obey-the-laws-of-war/video-79679932"
+   "headline": "ChatGPT led to man's mental health crisis, lawsuit alleges",
+   "outlet": "CBS News on MSN",
+   "outlet_name": "CBS News on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/health/general/chatgpt-led-to-man-s-mental-health-crisis-lawsuit-alleges/ar-AA2eoVP6"
+  },
+  {
+   "headline": "OpenAI ın AI asistanı komut beklemeden çalıştı , bir günde 307 bin token tüketti",
+   "outlet": "chip.com.tr",
+   "outlet_name": "chip.com.tr",
+   "label": "REPORTED",
+   "url": "https://www.chip.com.tr/guncel/openaiin-ai-asistani-komut-beklemeden-calisti-bir-gunde-307-bin-token-tuketti_184608.html"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 13900,
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 13800,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/16/23.mp3",
- "audio_seconds": 49.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/00.mp3",
+ "audio_seconds": 61.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CBS News: ChatGPT gave a man unlicensed medical advice, leading to mental health crisis, lawsuit alleges.\nReported by Boston Herald: Ticker: States sue AI giant OpenAI; Addiction recovery boost.\nStill open, per Anthropic: Claude reveals ECDSA curve origins.\nConfirmed, per PBS: China says it will curb tech exports, including AI, citing national security risks.\nReported by OpenAI: Stack Overflow for Agents triples signups with ChatGPT plugin.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStates are suing OpenAI, saying the chatbot is hurting children and deceiving adults. Reported by The Miami Times.\nChina is proposing export controls on 23 artificial intelligence technologies, including models and clusters. Confirmed by RTTNews.\nASUS launched ProArt P16 and P14 laptops powered by NVIDIA RTX Spark for local artificial intelligence in Canada. Reported by MarketScreener.\nAnthropic staff expect artificial intelligence to handle 80 percent of their jobs by 2030, far beyond what most U.S. workers think. Reported by Business Insider.\nEverWind's data centre at Point Tupper will support artificial intelligence growth with 420MW capacity and 2,000 construction jobs. Reported by Global News.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
