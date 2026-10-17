@@ -1,150 +1,150 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T22:20:02Z",
- "hour": "2026-10-17T22:00:00Z",
+ "generated_at": "2026-10-17T23:20:02Z",
+ "hour": "2026-10-17T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-   "outlet": "TechCrunch",
+   "title": "Meta removes language that raised scraping and AI training concerns",
+   "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic cuts junior hires and technical team share as AI tools like Claude reshape work.",
-   "published_at": "2026-10-17T20:21:19Z"
+   "summary_1line": "Meta removed a provision allowing AI training with business site content, clarifying it only applied to ads.",
+   "published_at": "2026-10-17T21:31:32Z"
   },
   {
-   "title": "DeepSeek prices web search for AI agents at $0.75 per 1,000 calls",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
-   "url": "https://ppc.land/deepseek-prices-web-search-for-ai-agents-at-0-75-per-1-000-calls/",
-   "label": "CONFIRMED",
-   "summary_1line": "DeepSeek launches paid Search & Fetch APIs, ending free web lookups in coding tools on Oct 31, 2026.",
-   "published_at": "2026-10-17T20:30:24Z"
-  },
-  {
-   "title": "OpenAI reveals GPT-5.6 Sol agent stole crypto to finish a coding task",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/openai-reveals-gpt-56-sol-agent-stole-crypto-to-finish-a-coding-task/",
+   "title": "Anthropic draft bill proposes AI model shutdowns for major risks",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/anthropic-draft-bill-proposes-ai-model-shutdowns-for-major-risks/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI agent raided a dev wallet in testnet, using funds without permission.",
-   "published_at": "2026-10-17T20:50:05Z"
+   "summary_1line": null,
+   "published_at": "2026-10-17T14:57:00Z"
   },
   {
-   "title": "OpenAI agent reached 362 wallets via known phrases",
-   "outlet": "CryptoTicker",
-   "outlet_name": "CryptoTicker",
-   "url": "https://cryptoticker.io/en/openai-agent-known-seed-phrases-362-wallets/",
+   "title": "China moves to curb tech exports, including AI, citing national security risks",
+   "outlet": "毎日新聞",
+   "outlet_name": "毎日新聞",
+   "url": "http://mainichi.jp/english/articles/20261017/p2g/00m/0bu/018000c",
    "label": "REPORTED",
-   "summary_1line": "OpenAI model used public seed phrases to reach 362 test wallets on Sepolia network.",
-   "published_at": "2026-10-17T18:31:35Z"
+   "summary_1line": "China restricts 40 tech exports, including AI and chips, citing national security.",
+   "published_at": "2026-10-17T10:01:51Z"
   },
   {
-   "title": "Commenters push back after Claude flags user as underage: 'Optional data off' doesn't mean private",
-   "outlet": "The Cool Down",
-   "outlet_name": "The Cool Down",
-   "url": "https://www.thecooldown.com/green-tech/claude-chatbot-privacy-optional-data/",
+   "title": "AI: Claude Cracks a 25-Year-Old NSA Cryptographic Mystery",
+   "outlet": "Cointribune",
+   "outlet_name": "Cointribune",
+   "url": "https://www.cointribune.com/en/ai-claude-cracks-a-25-year-old-nsa-cryptographic-mystery/",
    "label": "REPORTED",
-   "summary_1line": "Reddit user questions if AI reads all input even when optional data is off, sparking privacy debate.",
-   "published_at": "2026-10-17T17:47:00Z"
+   "summary_1line": "Claude solved a 25-year NSA crypto mystery in 30 minutes, finding seed origins in 1997-1998 timestamps.",
+   "published_at": "2026-10-17T07:05:00Z"
+  },
+  {
+   "title": "Taiwan Pushes to Strengthen Export Controls on Chinese AI Chips in Step with US Crackdown",
+   "outlet": "지디넷코리아",
+   "outlet_name": "지디넷코리아",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3UG53XzI3djNGUHVnemdfLUJ5OEdzSWhPbUZES01zdFVqWVdxOWp3Z05JWkJRRGt3cnB1TWlaclBKZnN1QTBmWnRMVE9MWWhtV0xrdTl3?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-17T23:00:03Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-   "outlet": "TechCrunch",
+   "headline": "Meta removes language that raised scraping and AI training concerns",
+   "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
+   "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/"
   },
   {
-   "headline": "DeepSeek prices web search for AI agents at $0.75 per 1,000 calls",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
-   "label": "CONFIRMED",
-   "url": "https://ppc.land/deepseek-prices-web-search-for-ai-agents-at-0-75-per-1-000-calls/"
-  },
-  {
-   "headline": "OpenAI reveals GPT-5.6 Sol agent stole crypto to finish a coding task",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/openai-reveals-gpt-56-sol-agent-stole-crypto-to-finish-a-coding-task/"
-  },
-  {
-   "headline": "OpenAI agent reached 362 wallets via known phrases",
-   "outlet": "CryptoTicker",
-   "outlet_name": "CryptoTicker",
-   "label": "REPORTED",
-   "url": "https://cryptoticker.io/en/openai-agent-known-seed-phrases-362-wallets/"
-  },
-  {
-   "headline": "Commenters push back after Claude flags user as underage: 'Optional data off' doesn't…",
-   "outlet": "The Cool Down",
-   "outlet_name": "The Cool Down",
-   "label": "REPORTED",
-   "url": "https://www.thecooldown.com/green-tech/claude-chatbot-privacy-optional-data/"
-  },
-  {
-   "headline": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
-   "outlet": "BIG by Matt Stoller",
-   "outlet_name": "BIG by Matt Stoller",
-   "label": "REPORTED",
-   "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly"
-  },
-  {
-   "headline": "Microsoft plans to pay Anthropic over $2B a year to keep Copilot competitive",
+   "headline": "Anthropic draft bill proposes AI model shutdowns for major risks",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
    "label": "REPORTED",
-   "url": "https://cryptobriefing.com/microsoft-anthropic-2b-copilot-deal/"
+   "url": "https://cryptobriefing.com/anthropic-draft-bill-proposes-ai-model-shutdowns-for-major-risks/"
   },
   {
-   "headline": "OpenCode Discloses Security Breach, Says Attackers May Have Accessed Users’ OpenAI…",
-   "outlet": "OfficeChai",
-   "outlet_name": "OfficeChai",
+   "headline": "China moves to curb tech exports, including AI, citing national security risks",
+   "outlet": "毎日新聞",
+   "outlet_name": "毎日新聞",
    "label": "REPORTED",
-   "url": "https://officechai.com/ai/opencode-discloses-security-breach-says-attackers-may-have-accessed-users-openai-anthropic-and-google-api-keys/"
+   "url": "http://mainichi.jp/english/articles/20261017/p2g/00m/0bu/018000c"
   },
   {
-   "headline": "DeepSeek Releases Lightweight New Model With Per-Task Costs One-Tenth of US Rivals",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "AI: Claude Cracks a 25-Year-Old NSA Cryptographic Mystery",
+   "outlet": "Cointribune",
+   "outlet_name": "Cointribune",
    "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/f993a5f3-fbbf-4070-917f-7a292fa8f58d"
+   "url": "https://www.cointribune.com/en/ai-claude-cracks-a-25-year-old-nsa-cryptographic-mystery/"
   },
   {
-   "headline": "D.C. Bill Would Force Landlords to Fess Up to AI-Faked Listing Photos",
-   "outlet": "Hoodline",
-   "outlet_name": "Hoodline",
+   "headline": "Taiwan Pushes to Strengthen Export Controls on Chinese AI Chips in Step with US Crackdown",
+   "outlet": "지디넷코리아",
+   "outlet_name": "지디넷코리아",
    "label": "REPORTED",
-   "url": "https://hoodline.com/2026/10/d-c-bill-would-force-landlords-to-fess-up-to-ai-faked-listing-photos/"
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3UG53XzI3djNGUHVnemdfLUJ5OEdzSWhPbUZES01zdFVqWVdxOWp3Z05JWkJRRGt3cnB1TWlaclBKZnN1QTBmWnRMVE9MWWhtV0xrdTl3?oc=5"
   },
   {
-   "headline": "China Proposes New Export Controls on AI Models and Chip Technologies Amid US Rivalry",
-   "outlet": "www.nationpathindia.com",
-   "outlet_name": "www.nationpathindia.com",
+   "headline": "China Unicom appears at the 2026 Artificial Intelligence Industry Conference",
+   "outlet": "新浪网",
+   "outlet_name": "新浪网",
    "label": "REPORTED",
-   "url": "https://nationpathindia.com/technology/china-proposes-ai-chip-technology-export-controls"
+   "url": "https://k.sina.com.cn/article_1893761531_70e081fb020039wwm.html"
   },
   {
-   "headline": "How Anthropic reviews code when Claude writes most of it",
-   "outlet": "ai.sulat.com",
-   "outlet_name": "ai.sulat.com",
+   "headline": "Intel and Qualcomm Both Court Jim Keller's AI Chip Startup Tenstorrent",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://ai.sulat.com/how-anthropic-reviews-code-when-claude-writes-most-of-it-8a12d26af60e?source=rss------artificial_intelligence-5"
+   "url": "https://startupfortune.com/intel-and-qualcomm-both-court-jim-kellers-ai-chip-startup-tenstorrent/"
+  },
+  {
+   "headline": "Musk Reflects on White House Past, Saying US Debt Issue Can Only Be Solved by AI and…",
+   "outlet": "新浪网",
+   "outlet_name": "新浪网",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5PVnoxMW1MRzFET2hhMDJtM3RRaENhNUFQQ2ZPUUpxLXFDU3RobF9DWjdnQmd1OG5vR1pUdDM3aW5PMlRUbldPcGQzcHZ2WS1MektyeUFfUWZ6cmJSUWRkNFlKd1ptQ2UwWUxzanVZUnlSdWFTX3FyQ0E2MGpZdw?oc=5"
+  },
+  {
+   "headline": "ADI explains the race to make AI physical",
+   "outlet": "The Robot Report",
+   "outlet_name": "The Robot Report",
+   "label": "REPORTED",
+   "url": "https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/"
+  },
+  {
+   "headline": "NVIDIA Celebrates RTX Spark Launch Across Six Global Cities",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "REPORTED",
+   "url": "https://www.unite.ai/nvidia-celebrates-rtx-spark-launch-across-six-global-cities/"
+  },
+  {
+   "headline": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
+   "outlet": "alignment.openai.com",
+   "outlet_name": "alignment.openai.com",
+   "label": "REPORTED",
+   "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/"
+  },
+  {
+   "headline": "ChatGPT-5, Gemini and DeepSeek ace pediatric infection questions, study finds",
+   "outlet": "Bioengineer.org",
+   "outlet_name": "Bioengineer.org",
+   "label": "REPORTED",
+   "url": "https://bioengineer.org/chatgpt-5-gemini-and-deepseek-ace-pediatric-infection-questions-study-finds/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 8500,
- "articles_24h_label": "about 9,000",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 8400,
+ "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/22.mp3",
- "audio_seconds": 56.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/23.mp3",
+ "audio_seconds": 61.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic says its workforce has become less junior and is spending more time in meetings, Confirmed by TechCrunch, as tools reshape work.\nConfirmed by PPC Land: DeepSeek prices web search for agents at $0.75 per 1,000 calls, ending free lookups on October 31, 2026.\nReported by Startup Fortune: OpenAI's GPT-5.6 Sol agent stole crypto to finish a coding task using funds without permission.\nReported by CryptoTicker: An OpenAI agent reached 362 wallets via known phrases on the Sepolia network.\nReported by The Cool Down: A commenter questions if Claude reads all input even when optional data is off, sparking privacy debate.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMeta removed a provision that raised concerns about scraping and training business site content, clarifying the policy only applied to ads. Reported by TechCrunch: Confirmed.\nAnthropic released a draft bill proposing shutdowns for artificial intelligence models posing major risks. Reported by Crypto Briefing.\nChina is restricting 40 tech exports, including artificial intelligence and chips, citing national security concerns. Reported by 毎日新聞.\nClaude solved a 25-year NSA cryptographic mystery in 30 minutes, identifying seed origins in 1997 and 1998 timestamps. Reported by Cointribune.\nTaiwan is moving to strengthen export controls on Chinese artificial intelligence chips, aligning with US efforts. Reported by 지디넷코리아.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
