@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T11:20:02Z",
- "hour": "2026-10-17T11:00:00Z",
+ "generated_at": "2026-10-17T12:20:02Z",
+ "hour": "2026-10-17T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "NVIDIA RTX SPARK Launch Celebration at Best Buy in San Francisco",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/videos/nvidia-rtx-spark-launch-celebration-203329702.html",
+   "title": "What Anthropic's draft AI bill would let Washington block?",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
+   "url": "https://www.thenews.com.pk/latest/1420281-what-anthropics-draft-ai-bill-would-let-washington-block",
    "label": "CONFIRMED",
-   "summary_1line": "NVIDIA celebrates RTX SPARK launch at Best Buy in San Francisco.",
-   "published_at": "2026-10-16T20:33:29Z"
+   "summary_1line": "Anthropic's draft bill would block frontier AI only for extreme risks, with $1B or 50+ injuries.",
+   "published_at": "2026-10-17T02:57:00Z"
   },
   {
-   "title": "ServiceNow and NVIDIA to Develop \"AI Passport\" for AI Agent Runtime Permission Control, Launching Q4 2026",
+   "title": "China Proposes Wider AI Export Curbs As Registration Rule Takes Effect",
+   "outlet": "TechBooky",
+   "outlet_name": "TechBooky",
+   "url": "https://www.techbooky.com/china-proposes-wider-ai-export-curbs-as-registration-rule-takes-effect/",
+   "label": "CONFIRMED",
+   "summary_1line": "China proposes broader AI tech export controls, with public consultation until November 15.",
+   "published_at": "2026-10-17T01:39:00Z"
+  },
+  {
+   "title": "Off-Duty International: Nvidia pours billions into MediaTek, Amazon takes stake in Gold Circuit Electronics! Lin Hong-wen reveals AI giants' calculation in scrambling for Taiwan supply chain | Lin Ting-yao | News",
+   "outlet": "風傳媒",
+   "outlet_name": "風傳媒",
+   "url": "https://www.storm.mg/article/11173263",
+   "label": "REPORTED",
+   "summary_1line": "NVIDIA and Amazon invest in Taiwan AI chip firms to secure supply chains amid rising demand.",
+   "published_at": "2026-10-17T10:30:00Z"
+  },
+  {
+   "title": "DeepSeek Releases V4.1 Flash Update: Cheaper Inference, Stronger Coding, and First-Ever Public Access to Its Proprietary Search API",
    "outlet": "BigGo Finance",
    "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/10446f80-7b28-4f34-894d-19dced682f4e",
-   "label": "REPORTED",
-   "summary_1line": "ServiceNow and NVIDIA launch AI Passport for AI agent permission control in Q4 2026.",
-   "published_at": "2026-10-17T07:35:00Z"
-  },
-  {
-   "title": "Anthropic's AI Workforce Experiment is Already Squeezing Out Junior Jobs as Agents Work Six Times More Than Staff",
-   "outlet": "International Business Times Singapore",
-   "outlet_name": "International Business Times Singapore",
-   "url": "https://www.ibtimes.sg/anthropics-ai-workforce-experiment-already-squeezing-out-junior-jobs-agents-work-six-times-more-95235",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI agents now work six times more than humans, cutting junior hires to 9%.",
-   "published_at": "2026-10-16T19:56:00Z"
-  },
-  {
-   "title": "China Plans AI Export Controls Covering Advanced Models, Agents and Chip Designs",
-   "outlet": "International Business Times Singapore",
-   "outlet_name": "International Business Times Singapore",
-   "url": "https://www.ibtimes.sg/china-plans-ai-export-controls-covering-advanced-models-agents-chip-designs-95232",
-   "label": "CONFIRMED",
-   "summary_1line": "China proposes AI export controls for 23 technologies, including models over 2 trillion parameters.",
-   "published_at": "2026-10-16T19:01:00Z"
-  },
-  {
-   "title": "DeepSeek new model debuts, users have to pay even less for AI",
-   "outlet": "凤凰网科技",
-   "outlet_name": "凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVS1lLRGUyR1dhSEJVTjhLOURub0lPcF82QmI2T2FTNzRXWVlTR0huQTZJaDZZaV9jWU50TTBtV1pMSXVHeWUxWnRvbUw?oc=5",
+   "url": "https://finance.biggo.com/news/22811d03-2553-4d77-a598-b8d066de04aa",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-17T10:09:34Z"
+   "published_at": "2026-10-17T10:55:00Z"
+  },
+  {
+   "title": "DeepSeek officially announces new version",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjY5NjVqbmkybW5yR1dXRDhQcUlycXJXTTF2NGFwVXB3UkxQMTF5a1VxRHFzWVV4ZUVvNHpiZ0w0anRxSkpzUmplemhkcjBtQTFLenlUSXZ3WjBUSmc1YlFjV2drU1VadTVIaEdMZjdkMlRXNnZZU0FKQnhpRVJZcHJKMGdhRms5cmRwVUF1OVoxeU14N0xtaGhKNFh4LUhvMEpuZkU3Yw?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-17T10:04:42Z"
   }
  ],
  "ticker": [
   {
-   "headline": "NVIDIA RTX SPARK Launch Celebration at Best Buy in San Francisco",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "What Anthropic's draft AI bill would let Washington block?",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
    "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/videos/nvidia-rtx-spark-launch-celebration-203329702.html"
+   "url": "https://www.thenews.com.pk/latest/1420281-what-anthropics-draft-ai-bill-would-let-washington-block"
   },
   {
-   "headline": "ServiceNow and NVIDIA to Develop \"AI Passport\" for AI Agent Runtime Permission Control…",
+   "headline": "China Proposes Wider AI Export Curbs As Registration Rule Takes Effect",
+   "outlet": "TechBooky",
+   "outlet_name": "TechBooky",
+   "label": "CONFIRMED",
+   "url": "https://www.techbooky.com/china-proposes-wider-ai-export-curbs-as-registration-rule-takes-effect/"
+  },
+  {
+   "headline": "Off-Duty International: Nvidia pours billions into MediaTek, Amazon takes stake in Gold…",
+   "outlet": "風傳媒",
+   "outlet_name": "風傳媒",
+   "label": "REPORTED",
+   "url": "https://www.storm.mg/article/11173263"
+  },
+  {
+   "headline": "DeepSeek Releases V4.1 Flash Update: Cheaper Inference, Stronger Coding, and First-Ever…",
    "outlet": "BigGo Finance",
    "outlet_name": "BigGo Finance",
    "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/10446f80-7b28-4f34-894d-19dced682f4e"
-  },
-  {
-   "headline": "Anthropic's AI Workforce Experiment is Already Squeezing Out Junior Jobs as Agents Work…",
-   "outlet": "International Business Times Singapore",
-   "outlet_name": "International Business Times Singapore",
-   "label": "CONFIRMED",
-   "url": "https://www.ibtimes.sg/anthropics-ai-workforce-experiment-already-squeezing-out-junior-jobs-agents-work-six-times-more-95235"
-  },
-  {
-   "headline": "China Plans AI Export Controls Covering Advanced Models, Agents and Chip Designs",
-   "outlet": "International Business Times Singapore",
-   "outlet_name": "International Business Times Singapore",
-   "label": "CONFIRMED",
-   "url": "https://www.ibtimes.sg/china-plans-ai-export-controls-covering-advanced-models-agents-chip-designs-95232"
-  },
-  {
-   "headline": "DeepSeek new model debuts, users have to pay even less for AI",
-   "outlet": "凤凰网科技",
-   "outlet_name": "凤凰网科技",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVS1lLRGUyR1dhSEJVTjhLOURub0lPcF82QmI2T2FTNzRXWVlTR0huQTZJaDZZaV9jWU50TTBtV1pMSXVHeWUxWnRvbUw?oc=5"
+   "url": "https://finance.biggo.com/news/22811d03-2553-4d77-a598-b8d066de04aa"
   },
   {
    "headline": "DeepSeek officially announces new version",
@@ -95,11 +88,25 @@
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjY5NjVqbmkybW5yR1dXRDhQcUlycXJXTTF2NGFwVXB3UkxQMTF5a1VxRHFzWVV4ZUVvNHpiZ0w0anRxSkpzUmplemhkcjBtQTFLenlUSXZ3WjBUSmc1YlFjV2drU1VadTVIaEdMZjdkMlRXNnZZU0FKQnhpRVJZcHJKMGdhRms5cmRwVUF1OVoxeU14N0xtaGhKNFh4LUhvMEpuZkU3Yw?oc=5"
   },
   {
-   "headline": "Anthropic quietly pitches draft bill to limit how Washington halts dangerous AI models…",
-   "outlet": "Business Today on MSN",
-   "outlet_name": "Business Today on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/anthropic-quietly-pitches-draft-bill-to-limit-how-washington-halts-dangerous-ai-models-report/ar-AA2eqcaz"
+   "headline": "DeepSeek official announcement of new version - Sohu",
+   "outlet": "搜狐",
+   "outlet_name": "搜狐",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOTZpNGhRRUl4ODR1Q3hqSV8zQm5td0dBTnlNZ2dRR0dOYzJydWlVMVdnV1VpQ2RuMXdzbEpwQm9waDlIS09iYUFTX0xmaDNvTm5FU2EySVBkdU5CUEc5SUZTRURReXc5RVhycXNPeWZRLU1nR0g1UnJ6SEdQcjdQb0hBem5Qa0MxaU45WA?oc=5"
+  },
+  {
+   "headline": "DeepSeek V4.1 Flash new version released, wish-based programming comes true with one…",
+   "outlet": "驱动之家",
+   "outlet_name": "驱动之家",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jYnQ0cGpXTjhjaFpWRkRaU3lvMTFzOWlrTU5IOGtCQlByZURENWg3X2NwMnpQdFhna2g2aUs0ZkhVUTczV1RKb21Helg1eTF5bHFwaFdoMWQ?oc=5"
+  },
+  {
+   "headline": "DeepSeek V4.1-Flash-1017 Hits 77.0 on DeepSWE [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "STILL OPEN",
+   "url": "https://shattered.io/deepseek-v4-1-flash-1017-deepswe-77-search-api-2026/"
   },
   {
    "headline": "Valuation plunges by 3.5 trillion, did Anthropic miss the best timing for going public?",
@@ -109,25 +116,18 @@
    "url": "https://www.tmtpost.com/8171993.html"
   },
   {
-   "headline": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
-   "outlet": "marktechpost.com",
-   "outlet_name": "marktechpost.com",
-   "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/"
+   "headline": "Investors Disturbed by Anthropic’s Financial Data",
+   "outlet": "futurism.com",
+   "outlet_name": "futurism.com",
+   "label": "STILL OPEN",
+   "url": "https://futurism.com/future-society/anthropic-investors-ai-financial-revenue"
   },
   {
-   "headline": "Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux",
-   "outlet": "thevibehosting.com",
-   "outlet_name": "thevibehosting.com",
+   "headline": "ChatGPT plant Werbung mit privaten Chat-Infos: Datenschützer warnt vor Risiken",
+   "outlet": "NDR.de",
+   "outlet_name": "NDR.de",
    "label": "REPORTED",
-   "url": "https://thevibehosting.com/"
-  },
-  {
-   "headline": "Anthropic circulates AI bill among US lawmakers — The Hindu",
-   "outlet": "UA.NEWS",
-   "outlet_name": "UA.NEWS",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSXVUSXNWamdmLWZpMGJXcmlGM1VSTkkwNUZtbnJuQVhYZElyM0tvLWc5Q0szb0tSUm12c3l1RVVLeXdUY2gwcWJkUExfaTNXd0VOT3M2LURIaFE4eWxCeGpRZWJ4MnhpU1phelkwMnZSUWhHc2M5S1ZGZGlpVzRpNmhJSTFiUWtueGczUEdGNy1vY3VIQUVVeTVSVjFNTjduOXJOb0NYRGNNQlRnRDZj?oc=5"
+   "url": "https://www.ndr.de/nachrichten/niedersachsen/niedersachsen-datenschuetzer-warnt-vor-chatgpts-werbeplaenen,chatgpt-152.html"
   },
   {
    "headline": "Fetch.ai Launches ASI:One, an Innovative App Store for AI",
@@ -137,14 +137,14 @@
    "url": "https://cryptonews.net/news/altcoins/33605815/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 10900,
+ "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 10600,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/11.mp3",
- "audio_seconds": 51.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/12.mp3",
+ "audio_seconds": 54.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Yahoo Tech: NVIDIA RTX SPARK Launch Celebration at Best Buy in San Francisco.\nReported by BigGo Finance: ServiceNow and NVIDIA to Develop \"AI Passport\" for AI Agent Runtime Permission Control, Launching Q4 2026.\nConfirmed, per International Business Times Singapore: Anthropic's AI Workforce Experiment is Already Squeezing Out Junior Jobs as Agents Work Six Times More Than Staff.\nConfirmed, per International Business Times Singapore: China Plans AI Export Controls Covering Advanced Models, Agents and Chip Designs.\nReported by 凤凰网科技: DeepSeek new model debuts, users have to pay even less for AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The News International: What Anthropic's draft AI bill would let Washington block.\nConfirmed, per TechBooky: China Proposes Wider AI Export Curbs As Registration Rule Takes Effect.\nReported by 風傳媒: Off-Duty International: Nvidia pours billions into MediaTek, Amazon takes stake in Gold Circuit Electronics! Lin Hong-wen reveals AI giants' calculation in scrambling for Taiwan supply chain | Lin Ting-yao | News.\nReported by BigGo Finance: DeepSeek Releases V4.1 Flash Update: Cheaper Inference, Stronger Coding, and First-Ever Public Access to Its Proprietary Search API.\nReported by 新浪财经: DeepSeek officially announces new version.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
