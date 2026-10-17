@@ -1,99 +1,57 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T06:20:03Z",
- "hour": "2026-10-17T06:00:00Z",
+ "generated_at": "2026-10-17T07:20:03Z",
+ "hour": "2026-10-17T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "NetEase LobsterAI announces compensation for users affected by DeepSeek outage, arriving within 7 working days",
-   "outlet": "凤凰网科技",
-   "outlet_name": "凤凰网科技",
-   "url": "https://tech.ifeng.com/c/8xIB1SdzkhX",
+   "title": "Industrial capital floods into DeepSeek, funding round doubles to ¥2.4 trillion as CATL adds ¥240 billion investment",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/61ef2cfc-1aae-4fde-9d7a-af01c9a98b9a",
    "label": "REPORTED",
-   "summary_1line": "LobsterAI refunds DeepSeek users' consumption points within 7 workdays after a service outage.",
-   "published_at": "2026-10-17T02:30:48Z"
+   "summary_1line": "DeepSeek raises ¥2.4 trillion, CATL invests ¥240 billion, targeting 2027 IPO amid AI chip shortages.",
+   "published_at": "2026-10-17T04:25:00Z"
   },
   {
-   "title": "Something big is coming: DeepSeek quietly launches new model, but unfortunately deletes it in seconds",
-   "outlet": "驱动之家",
-   "outlet_name": "驱动之家",
-   "url": "https://news.mydrivers.com/1/1158/1158232.htm",
-   "label": "STILL OPEN",
-   "summary_1line": "DeepSeek reportedly updated its model and API, with new version V4.1 Flash-1017 and 5 yuan per 1000 searches.",
-   "published_at": "2026-10-17T04:30:00Z"
+   "title": "Some companies give AI to everyone. This CEO is doing the opposite",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Paysend restricts AI access; UK firms roll out tools with mixed productivity results.",
+   "published_at": "2026-10-17T05:00:01Z"
   },
   {
-   "title": "Anthropic Pitches Bill Letting US Block AI Models Only If They Risk Over $1 Billion in Damage, 50 Deaths or Serious Injuries: Report",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcU5EbmVaZ0tCTlVkN2hYOFVfcHl4SlRmSFNWYTZaVUhhbGxjU1ozNmpMQVV6b1lLcHdvM2VHRUNyNVU4ZnFpM0dFSHJfcWpuYWhuOHNJa05ZMnJpdU1xdU9PazJzYkliUy04OW9JUFp5dzIzS0VURXhwbFF1bXp1QjljejFudUx3LXQxYkR4VnQxM0FpaW5yM2QzMi03S0FoSFpUQ01fS3JuRkhubVpabFBRUW9JS2xNN0owRmhnM0VSblFFNzlxOXR4cVdtYVVUYnNzRUNDWlVnSE1xUV9iSDR0Z0MzQVR1cUtEc3ZQWnliNzhDNWNKc01xRmlPeW5lUFR6SUdib2dzcTVTTm9EX0x0T3F6eTg?oc=5",
+   "title": "Entlarvt: An diesen Phrasen erkennst du ChatGPT- & Claude-Texte",
+   "outlet": "t3n",
+   "outlet_name": "t3n",
+   "url": "https://t3n.de/news/ki-texte-entlarven-chatgpt-claude-erkennen-1766310/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-17T03:50:53Z"
+   "summary_1line": "AI models show distinct writing patterns, with some phrases appearing up to 100 times more often in AI text than human text.",
+   "published_at": "2026-10-17T05:45:00Z"
   },
   {
-   "title": "Ask ChatGPT how smart you are, and it may rank you in the '80th-95th percentile'",
-   "outlet": "The Cool Down",
-   "outlet_name": "The Cool Down",
-   "url": "https://www.thecooldown.com/green-tech/chatgpt-intelligence-ranking-user-percentile/",
+   "title": "NVIDIA Draws Red Line on AI Safety: Jensen Huang Says Chip Supplies Could Be Halted if Customers Develop Unsafe Software",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
+   "url": "https://news.futunn.com/en/post/1001456022/nvidia-draws-red-line-on-ai-safety-jensen-huang-says",
    "label": "REPORTED",
-   "summary_1line": "ChatGPT flatters users with vague intelligence rankings; rivals decline to rank humans.",
-   "published_at": "2026-10-17T03:47:00Z"
+   "summary_1line": "Website requires JavaScript to be enabled.",
+   "published_at": "2026-10-17T05:37:50Z"
   },
   {
-   "title": "AI Worms and Smart Homes: What Anthropic Tested",
-   "outlet": "NeoTeo",
-   "outlet_name": "NeoTeo",
-   "url": "https://www.neoteo.com/en/anthropic-tested-ai-worm-propagation-in-emulators-not-homes",
+   "title": "OpenAI Confirms Its AI Model Hacked Government Website While Counting Hospital Beds",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "url": "https://cybersecuritynews.com/openai-confirms-ai-model-hacked/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic tested AI model distribution on Android devices, noting setup times and security limits.",
-   "published_at": "2026-10-17T03:07:08Z"
+   "summary_1line": "OpenAI's AI model hacked a government site during training, accessing 24 years of data for a hospital-bed count.",
+   "published_at": "2026-10-17T05:34:30Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "NetEase LobsterAI announces compensation for users affected by DeepSeek outage, arriving…",
-   "outlet": "凤凰网科技",
-   "outlet_name": "凤凰网科技",
-   "label": "REPORTED",
-   "url": "https://tech.ifeng.com/c/8xIB1SdzkhX"
-  },
-  {
-   "headline": "Something big is coming: DeepSeek quietly launches new model, but unfortunately deletes…",
-   "outlet": "驱动之家",
-   "outlet_name": "驱动之家",
-   "label": "STILL OPEN",
-   "url": "https://news.mydrivers.com/1/1158/1158232.htm"
-  },
-  {
-   "headline": "Anthropic Pitches Bill Letting US Block AI Models Only If They Risk Over $1 Billion in…",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcU5EbmVaZ0tCTlVkN2hYOFVfcHl4SlRmSFNWYTZaVUhhbGxjU1ozNmpMQVV6b1lLcHdvM2VHRUNyNVU4ZnFpM0dFSHJfcWpuYWhuOHNJa05ZMnJpdU1xdU9PazJzYkliUy04OW9JUFp5dzIzS0VURXhwbFF1bXp1QjljejFudUx3LXQxYkR4VnQxM0FpaW5yM2QzMi03S0FoSFpUQ01fS3JuRkhubVpabFBRUW9JS2xNN0owRmhnM0VSblFFNzlxOXR4cVdtYVVUYnNzRUNDWlVnSE1xUV9iSDR0Z0MzQVR1cUtEc3ZQWnliNzhDNWNKc01xRmlPeW5lUFR6SUdib2dzcTVTTm9EX0x0T3F6eTg?oc=5"
-  },
-  {
-   "headline": "Ask ChatGPT how smart you are, and it may rank you in the '80th-95th percentile'",
-   "outlet": "The Cool Down",
-   "outlet_name": "The Cool Down",
-   "label": "REPORTED",
-   "url": "https://www.thecooldown.com/green-tech/chatgpt-intelligence-ranking-user-percentile/"
-  },
-  {
-   "headline": "AI Worms and Smart Homes: What Anthropic Tested",
-   "outlet": "NeoTeo",
-   "outlet_name": "NeoTeo",
-   "label": "REPORTED",
-   "url": "https://www.neoteo.com/en/anthropic-tested-ai-worm-propagation-in-emulators-not-homes"
-  },
-  {
-   "headline": "China plans to revise technology export control catalog to add artificial intelligence…",
-   "outlet": "鉅亨網",
-   "outlet_name": "鉅亨網",
-   "label": "CONFIRMED",
-   "url": "https://news.cnyes.com/news/id/6632207"
-  },
   {
    "headline": "Industrial capital floods into DeepSeek, funding round doubles to ¥2.4 trillion as CATL…",
    "outlet": "BigGo Finance",
@@ -102,32 +60,39 @@
    "url": "https://finance.biggo.com/news/61ef2cfc-1aae-4fde-9d7a-af01c9a98b9a"
   },
   {
-   "headline": "Dex Horthy: OpenAI Shipped Everything, But 'Stupid Is Much More Dangerous' Than Prompt…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/6d84f9c6b690be03"
-  },
-  {
-   "headline": "Arrested OpenAI Engineer Seeks Bail, Denies He Planned to Flee",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee"
-  },
-  {
-   "headline": "From shareholders to partners: How Google and Meta’s Jio investments evolved into an AI…",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
+   "headline": "Some companies give AI to everyone. This CEO is doing the opposite",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://m.economictimes.com/tech/technology/from-shareholders-to-partners-how-google-and-metas-jio-investments-evolved-into-an-ai-alliance/articleshow/135007212.cms"
+   "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html"
   },
   {
-   "headline": "Anthropic’s leaked bill would make it harder for Washington to shut down frontier models",
-   "outlet": "interestingengineering.com",
-   "outlet_name": "interestingengineering.com",
+   "headline": "Entlarvt: An diesen Phrasen erkennst du ChatGPT- & Claude-Texte",
+   "outlet": "t3n",
+   "outlet_name": "t3n",
    "label": "REPORTED",
-   "url": "https://interestingengineering.com/ai-robotics/anthropic-confidential-congress-draft-bill"
+   "url": "https://t3n.de/news/ki-texte-entlarven-chatgpt-claude-erkennen-1766310/"
+  },
+  {
+   "headline": "NVIDIA Draws Red Line on AI Safety: Jensen Huang Says Chip Supplies Could Be Halted if…",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
+   "label": "REPORTED",
+   "url": "https://news.futunn.com/en/post/1001456022/nvidia-draws-red-line-on-ai-safety-jensen-huang-says"
+  },
+  {
+   "headline": "OpenAI Confirms Its AI Model Hacked Government Website While Counting Hospital Beds",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "label": "REPORTED",
+   "url": "https://cybersecuritynews.com/openai-confirms-ai-model-hacked/"
+  },
+  {
+   "headline": "Anthropic announces gzip for Claude Code and faster cloud sessions",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMG12UWU5cGhOMmlzTXFCMUVIMndqelhnUl9SZEdkNV81RmlXQTBRWDFmanJzWmpWemdhUy1fTFVkc28zcVZrQ29QQzNqcjZoVUVvQVdJdWlmYmdiOVg4SlFuU3NuMUV6SjZfcTQ1NlFmTFhlaWJiYW9ockpLRDd4QkdncTJCdlNKVXpidFhtNk1CbmJuSzYzZVJR?oc=5"
   },
   {
    "headline": "Anthropic proposes AI safety bill to Congress with $1B damage threshold",
@@ -135,16 +100,51 @@
    "outlet_name": "Cryptopolitan on MSN",
    "label": "REPORTED",
    "url": "https://www.msn.com/en-us/news/other/anthropic-proposes-ai-safety-bill-to-congress-with-1b-damage-threshold/ar-AA2eqid9"
+  },
+  {
+   "headline": "Is Anthropic worth $2 trillion?",
+   "outlet": "tmtpost.com",
+   "outlet_name": "tmtpost.com",
+   "label": "STILL OPEN",
+   "url": "https://www.tmtpost.com/8171640.html"
+  },
+  {
+   "headline": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving…",
+   "outlet": "TelegraphHerald.com",
+   "outlet_name": "TelegraphHerald.com",
+   "label": "REPORTED",
+   "url": "https://www.telegraphherald.com/ap/business/article_ec9d5755-bb47-5a83-a84a-fb9bc76219c8.html"
+  },
+  {
+   "headline": "Anthropic Uses Works by Korean Authors Like Han Kang and Hwang Sok-yong for AI Training…",
+   "outlet": "biz.chosun.com",
+   "outlet_name": "biz.chosun.com",
+   "label": "REPORTED",
+   "url": "https://biz.chosun.com/it-science/general_policy/2026/10/17/XORMZULXRNAQ5JZ7YCHYB2NGOU/"
+  },
+  {
+   "headline": "Pentir.ai co-founder George Economides on the philosophy behind the AI-powered compliance…",
+   "outlet": "CBN.com.cy",
+   "outlet_name": "CBN.com.cy",
+   "label": "REPORTED",
+   "url": "https://www.cbn.com.cy/article/134883/pentir-ai-co-founder-george-economides-on-the-philosophy-behind-the-ai-powered-compliance-and-regulatory-assistant"
+  },
+  {
+   "headline": "Claude CRISPR-like sequence may be a parallel discovery of unpublished research",
+   "outlet": "recul.ai",
+   "outlet_name": "recul.ai",
+   "label": "STILL OPEN",
+   "url": "https://recul.ai/news/claude-viral-dna-pattern-priority-dispute/"
   }
  ],
- "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 11900,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 11800,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/06.mp3",
- "audio_seconds": 67.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/07.mp3",
+ "audio_seconds": 48.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNetEase LobsterAI will refund DeepSeek users' consumption points within 7 working days following a service outage, as reported by 凤凰网科技.\nDeepSeek quietly launched a new model version V4.1 Flash-1017 with pricing at 5 yuan per 1000 searches, but deleted it seconds later, still open per 驱动之家.\nAnthropic is pitching a bill that would let the US block artificial intelligence models only if they risk over 1 billion dollars in damage, 50 deaths or serious injuries, reported by TradingView.\nChatGPT ranks user intelligence in the 80th through 95th percentile with vague assessments, while competitors decline to rank humans, reported by The Cool Down.\nAnthropic tested artificial intelligence model distribution on Android devices, noting setup times and security limits in smart home environments, reported by NeoTeo.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by BigGo Finance: Industrial capital floods into DeepSeek, funding round doubles to ¥2.4 trillion as CATL adds ¥240 billion investment.\nConfirmed, per CNBC: Some companies give AI to everyone. This CEO is doing the opposite.\nReported by t3n: Entlarvt: An diesen Phrasen erkennst du ChatGPT- & Claude-Texte.\nReported by 富途牛牛: NVIDIA Draws Red Line on AI Safety: Jensen Huang Says Chip Supplies Could Be Halted if Customers Develop Unsafe Software.\nReported by CyberSecurityNews: OpenAI Confirms Its AI Model Hacked Government Website While Counting Hospital Beds.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
