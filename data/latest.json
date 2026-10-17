@@ -1,105 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T12:20:02Z",
- "hour": "2026-10-17T12:00:00Z",
+ "generated_at": "2026-10-17T13:20:03Z",
+ "hour": "2026-10-17T13:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "What Anthropic's draft AI bill would let Washington block?",
-   "outlet": "The News International",
-   "outlet_name": "The News International",
-   "url": "https://www.thenews.com.pk/latest/1420281-what-anthropics-draft-ai-bill-would-let-washington-block",
+   "title": "Investors Disturbed by Anthropic’s Financial Data",
+   "outlet": "Futurism",
+   "outlet_name": "Futurism",
+   "url": "https://futurism.com/future-society/anthropic-investors-ai-financial-revenue",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic's $17B revenue falls short of justifying its $2T valuation, sparking investor skepticism.",
+   "published_at": "2026-10-17T10:50:00Z"
+  },
+  {
+   "title": "DeepSeek V4.1 Flash new version released, wish-granting programming becomes reality with one click - 24/7 News - Sina Finance",
+   "outlet": "手机新浪网",
+   "outlet_name": "手机新浪网",
+   "url": "https://wap.cj.sina.cn/7x24/5151466",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek V4.1 Flash 1017 enables wish-based programming in game and 3D modeling.",
+   "published_at": "2026-10-17T08:35:56Z"
+  },
+  {
+   "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's draft bill would block frontier AI only for extreme risks, with $1B or 50+ injuries.",
-   "published_at": "2026-10-17T02:57:00Z"
+   "summary_1line": "UK ministers warn AI poses serious threats, from hacking to bioweapons, urging urgent government action.",
+   "published_at": "2026-10-17T11:34:00Z"
   },
   {
-   "title": "China Proposes Wider AI Export Curbs As Registration Rule Takes Effect",
-   "outlet": "TechBooky",
-   "outlet_name": "TechBooky",
-   "url": "https://www.techbooky.com/china-proposes-wider-ai-export-curbs-as-registration-rule-takes-effect/",
-   "label": "CONFIRMED",
-   "summary_1line": "China proposes broader AI tech export controls, with public consultation until November 15.",
-   "published_at": "2026-10-17T01:39:00Z"
-  },
-  {
-   "title": "Off-Duty International: Nvidia pours billions into MediaTek, Amazon takes stake in Gold Circuit Electronics! Lin Hong-wen reveals AI giants' calculation in scrambling for Taiwan supply chain | Lin Ting-yao | News",
-   "outlet": "風傳媒",
-   "outlet_name": "風傳媒",
-   "url": "https://www.storm.mg/article/11173263",
+   "title": "Your Website May Be Invisible to ChatGPT, and Nobody Made That Decision",
+   "outlet": "Yonkers Times",
+   "outlet_name": "Yonkers Times",
+   "url": "https://yonkerstimes.com/your-website-may-be-invisible-to-chatgpt-and-nobody-made-that-decision/",
    "label": "REPORTED",
-   "summary_1line": "NVIDIA and Amazon invest in Taiwan AI chip firms to secure supply chains amid rising demand.",
-   "published_at": "2026-10-17T10:30:00Z"
+   "summary_1line": "Cloudflare blocks AI crawlers by default, making many sites invisible to AI assistants.",
+   "published_at": "2026-10-17T11:49:13Z"
   },
   {
-   "title": "DeepSeek Releases V4.1 Flash Update: Cheaper Inference, Stronger Coding, and First-Ever Public Access to Its Proprietary Search API",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/22811d03-2553-4d77-a598-b8d066de04aa",
+   "title": "EU AI Act: KI-Büro prüft Aufschub der Hochrisiko-Regeln",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "url": "https://borncity.com/news/eu-ai-act-ki-buero-prueft-aufschub-der-hochrisiko-regeln/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-17T10:55:00Z"
-  },
-  {
-   "title": "DeepSeek officially announces new version",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjY5NjVqbmkybW5yR1dXRDhQcUlycXJXTTF2NGFwVXB3UkxQMTF5a1VxRHFzWVV4ZUVvNHpiZ0w0anRxSkpzUmplemhkcjBtQTFLenlUSXZ3WjBUSmc1YlFjV2drU1VadTVIaEdMZjdkMlRXNnZZU0FKQnhpRVJZcHJKMGdhRms5cmRwVUF1OVoxeU14N0xtaGhKNFh4LUhvMEpuZkU3Yw?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-17T10:04:42Z"
+   "summary_1line": "EU delays AI Act enforcement amid security incidents, asking OpenAI and Anthropic for details.",
+   "published_at": "2026-10-17T11:49:05Z"
   }
  ],
  "ticker": [
   {
-   "headline": "What Anthropic's draft AI bill would let Washington block?",
-   "outlet": "The News International",
-   "outlet_name": "The News International",
+   "headline": "Investors Disturbed by Anthropic’s Financial Data",
+   "outlet": "Futurism",
+   "outlet_name": "Futurism",
+   "label": "STILL OPEN",
+   "url": "https://futurism.com/future-society/anthropic-investors-ai-financial-revenue"
+  },
+  {
+   "headline": "DeepSeek V4.1 Flash new version released, wish-granting programming becomes reality with…",
+   "outlet": "手机新浪网",
+   "outlet_name": "手机新浪网",
+   "label": "REPORTED",
+   "url": "https://wap.cj.sina.cn/7x24/5151466"
+  },
+  {
+   "headline": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the…",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://www.thenews.com.pk/latest/1420281-what-anthropics-draft-ai-bill-would-let-washington-block"
+   "url": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism"
   },
   {
-   "headline": "China Proposes Wider AI Export Curbs As Registration Rule Takes Effect",
-   "outlet": "TechBooky",
-   "outlet_name": "TechBooky",
+   "headline": "Your Website May Be Invisible to ChatGPT, and Nobody Made That Decision",
+   "outlet": "Yonkers Times",
+   "outlet_name": "Yonkers Times",
+   "label": "REPORTED",
+   "url": "https://yonkerstimes.com/your-website-may-be-invisible-to-chatgpt-and-nobody-made-that-decision/"
+  },
+  {
+   "headline": "EU AI Act: KI-Büro prüft Aufschub der Hochrisiko-Regeln",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "label": "REPORTED",
+   "url": "https://borncity.com/news/eu-ai-act-ki-buero-prueft-aufschub-der-hochrisiko-regeln/"
+  },
+  {
+   "headline": "Harvard, Anthropic, and QuEra Use LLMs to Discover Quantum Circuits with Up to 9,100x…",
+   "outlet": "Quantum Computing Report",
+   "outlet_name": "Quantum Computing Report",
+   "label": "REPORTED",
+   "url": "https://quantumcomputingreport.com/harvard-anthropic-and-quera-use-llms-to-discover-quantum-circuits-with-up-to-9100x-lower-resource-costs/"
+  },
+  {
+   "headline": "Kenya’s First AI Bill Hits a Roadblock: What Comes Next for Digital Innovation?",
+   "outlet": "Vellum Kenya",
+   "outlet_name": "Vellum Kenya",
+   "label": "REPORTED",
+   "url": "https://vellum.co.ke/kenyas-first-ai-bill-hits-a-roadblock-what-comes-next-for-digital-innovation/"
+  },
+  {
+   "headline": "Nvidia GeForce RTX 5080 Super 24GB – the latest leaks and rumours",
+   "outlet": "Club386",
+   "outlet_name": "Club386",
+   "label": "STILL OPEN",
+   "url": "https://www.club386.com/nvidia-geforce-rtx-5080-super-leaks-and-rumours/"
+  },
+  {
+   "headline": "Anthropic prepares to release Claude Fable 5.5 next week",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
+   "label": "REPORTED",
+   "url": "https://www.testingcatalog.com/anthropic-several-models-coming-fable-5-5-reaches-partners/"
+  },
+  {
+   "headline": "Communication University of China establishes first Master of Laws in AI Governance, with…",
+   "outlet": "新浪新闻",
+   "outlet_name": "新浪新闻",
    "label": "CONFIRMED",
-   "url": "https://www.techbooky.com/china-proposes-wider-ai-export-curbs-as-registration-rule-takes-effect/"
-  },
-  {
-   "headline": "Off-Duty International: Nvidia pours billions into MediaTek, Amazon takes stake in Gold…",
-   "outlet": "風傳媒",
-   "outlet_name": "風傳媒",
-   "label": "REPORTED",
-   "url": "https://www.storm.mg/article/11173263"
-  },
-  {
-   "headline": "DeepSeek Releases V4.1 Flash Update: Cheaper Inference, Stronger Coding, and First-Ever…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/22811d03-2553-4d77-a598-b8d066de04aa"
-  },
-  {
-   "headline": "DeepSeek officially announces new version",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjY5NjVqbmkybW5yR1dXRDhQcUlycXJXTTF2NGFwVXB3UkxQMTF5a1VxRHFzWVV4ZUVvNHpiZ0w0anRxSkpzUmplemhkcjBtQTFLenlUSXZ3WjBUSmc1YlFjV2drU1VadTVIaEdMZjdkMlRXNnZZU0FKQnhpRVJZcHJKMGdhRms5cmRwVUF1OVoxeU14N0xtaGhKNFh4LUhvMEpuZkU3Yw?oc=5"
-  },
-  {
-   "headline": "DeepSeek official announcement of new version - Sohu",
-   "outlet": "搜狐",
-   "outlet_name": "搜狐",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOTZpNGhRRUl4ODR1Q3hqSV8zQm5td0dBTnlNZ2dRR0dOYzJydWlVMVdnV1VpQ2RuMXdzbEpwQm9waDlIS09iYUFTX0xmaDNvTm5FU2EySVBkdU5CUEc5SUZTRURReXc5RVhycXNPeWZRLU1nR0g1UnJ6SEdQcjdQb0hBem5Qa0MxaU45WA?oc=5"
-  },
-  {
-   "headline": "DeepSeek V4.1 Flash new version released, wish-based programming comes true with one…",
-   "outlet": "驱动之家",
-   "outlet_name": "驱动之家",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jYnQ0cGpXTjhjaFpWRkRaU3lvMTFzOWlrTU5IOGtCQlByZURENWg3X2NwMnpQdFhna2g2aUs0ZkhVUTczV1RKb21Helg1eTF5bHFwaFdoMWQ?oc=5"
+   "url": "https://news.sina.cn/2026-10-17/detail-inivpsqk1418019.d.html?vt=4"
   },
   {
    "headline": "DeepSeek V4.1-Flash-1017 Hits 77.0 on DeepSWE [2026]",
@@ -109,42 +130,21 @@
    "url": "https://shattered.io/deepseek-v4-1-flash-1017-deepswe-77-search-api-2026/"
   },
   {
-   "headline": "Valuation plunges by 3.5 trillion, did Anthropic miss the best timing for going public?",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
-   "label": "REPORTED",
-   "url": "https://www.tmtpost.com/8171993.html"
-  },
-  {
-   "headline": "Investors Disturbed by Anthropic’s Financial Data",
-   "outlet": "futurism.com",
-   "outlet_name": "futurism.com",
-   "label": "STILL OPEN",
-   "url": "https://futurism.com/future-society/anthropic-investors-ai-financial-revenue"
-  },
-  {
    "headline": "ChatGPT plant Werbung mit privaten Chat-Infos: Datenschützer warnt vor Risiken",
    "outlet": "NDR.de",
    "outlet_name": "NDR.de",
    "label": "REPORTED",
    "url": "https://www.ndr.de/nachrichten/niedersachsen/niedersachsen-datenschuetzer-warnt-vor-chatgpts-werbeplaenen,chatgpt-152.html"
-  },
-  {
-   "headline": "Fetch.ai Launches ASI:One, an Innovative App Store for AI",
-   "outlet": "Cryptonews.net",
-   "outlet_name": "Cryptonews.net",
-   "label": "REPORTED",
-   "url": "https://cryptonews.net/news/altcoins/33605815/"
   }
  ],
- "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 10600,
- "articles_24h_label": "about 11,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 10400,
+ "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/12.mp3",
- "audio_seconds": 54.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/13.mp3",
+ "audio_seconds": 57.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The News International: What Anthropic's draft AI bill would let Washington block.\nConfirmed, per TechBooky: China Proposes Wider AI Export Curbs As Registration Rule Takes Effect.\nReported by 風傳媒: Off-Duty International: Nvidia pours billions into MediaTek, Amazon takes stake in Gold Circuit Electronics! Lin Hong-wen reveals AI giants' calculation in scrambling for Taiwan supply chain | Lin Ting-yao | News.\nReported by BigGo Finance: DeepSeek Releases V4.1 Flash Update: Cheaper Inference, Stronger Coding, and First-Ever Public Access to Its Proprietary Search API.\nReported by 新浪财经: DeepSeek officially announces new version.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nInvestors are expressing concerns over Anthropic's financial data. Still open, per Futurism: the company's $17B revenue doesn't justify its $2T valuation.\nDeepSeek V4.1 Flash released a new version on 1017. Reported by 手机新浪网: the update enables wish-based programming for game and 3D modeling tasks.\nUK government officials are alarmed about artificial intelligence risks. Confirmed by The Guardian: ministers warn the technology poses serious threats from hacking to bioweapons.\nMany websites have become invisible to ChatGPT without owner knowledge. Reported by Yonkers Times: Cloudflare blocks artificial intelligence crawlers by default across its network.\nEuropean regulators are delaying artificial intelligence enforcement rules. Reported by BornCity: the EU asked OpenAI and Anthropic for details amid security incidents.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
