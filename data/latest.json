@@ -1,91 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T03:20:02Z",
- "hour": "2026-10-17T03:00:00Z",
+ "generated_at": "2026-10-17T04:20:02Z",
+ "hour": "2026-10-17T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia unveils Nemotron 3.5 open models for AI agents, targeting server to edge",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/115861/nvidia-unveils-nemotron-3-5-open-models-for-ai-agents-targeting-server-to-edge",
+   "title": "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
+   "url": "https://news.futunn.com/en/post/1001447065/anthropic-secretly-lobbies-congress-to-advance-legislation-on-frontier-ai",
    "label": "REPORTED",
-   "summary_1line": "Nvidia launches Nemotron 3.5 models for AI agents, with 120B and 74B parameters, targeting enterprise and edge devices.",
-   "published_at": "2026-10-16T23:34:17Z"
+   "summary_1line": "JavaScript must be enabled to use the site.",
+   "published_at": "2026-10-17T02:21:51Z"
   },
   {
-   "title": "DOJ’s Hands-Off AI Enforcement Leaves States to Police the Agents",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "url": "https://forkast.news/dojs-hands-off-ai-enforcement-leaves-states-to-police-the-agents/",
-   "label": "CONFIRMED",
-   "summary_1line": "DOJ won't regulate AI; states fill gap with laws under legal challenge.",
-   "published_at": "2026-10-17T00:37:24Z"
+   "title": "Anthropic rumored to approach Blackstone for chip financing, offering over 10% high yield",
+   "outlet": "民視財經網",
+   "outlet_name": "民視財經網",
+   "url": "https://finance.ftvnews.com.tw/news/detail/2026A17W0136",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic seeks $90B from Blackstone with 10% yield, backed by 5-year chip leasing.",
+   "published_at": "2026-10-17T01:02:17Z"
   },
   {
-   "title": "Speaker Menin confronts SpaceXAI after Grok creates sexualized image of her in under 30 seconds",
-   "outlet": "PoliticsNY",
-   "outlet_name": "PoliticsNY",
-   "url": "https://politicsny.com/2026/10/16/speaker-menin-confronts-spacexai-after-grok-creates-sexualized-image-of-her-in-under-30-seconds/",
-   "label": "CONFIRMED",
-   "summary_1line": "Julie Menin shows image Grok generated, challenging SpaceXAI's safety claims.",
-   "published_at": "2026-10-16T19:05:24Z"
-  },
-  {
-   "title": "Works by Han Kang and Hwang Sok-yong also included in Anthropic copyright lawsuit ... 21 books by Korean authors eligible for compensation",
-   "outlet": "매일경제",
-   "outlet_name": "매일경제",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SM0pSdGRudlNkSWJ4b25QYW9ZRmhSYnhKRW9tczY1aFMybU9qX2lYSVN5eHFGVU1kbUVOU19qREhCdk4xeVJMUWdvSkpaZGdUZ0E?oc=5",
+   "title": "Anthropic reportedly pitches AI safety proposals to US lawmakers, planning to set thresholds for model releases",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4029281854755459?f=rss",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-17T02:01:21Z"
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
   },
   {
-   "title": "California Bans AI That Reads Employees' Moods (AB 1883) — Five Takeaways from Our 2027 New Laws Masterclass",
-   "outlet": "California Employment Law Report",
-   "outlet_name": "California Employment Law Report",
-   "url": "https://www.californiaemploymentlawreport.com/2026/10/california-bans-ai-that-reads-employees-moods-ab-1883-five-takeaways-from-our-2027-new-laws-masterclass/",
+   "title": "FTC Issues Subpoenas to OpenAI, Anthropic Following AI Safety Issues",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "url": "https://www.techtimes.com/articles/329146/20261016/ftc-issues-subpoenas-openai-anthropic-following-ai-safety-issues.htm",
    "label": "REPORTED",
-   "summary_1line": "AB 1883 bans AI tools from inferring employee emotional states, effective Jan 1, 2027.",
-   "published_at": "2026-10-17T01:47:24Z"
+   "summary_1line": "FTC subpoenas OpenAI and Anthropic over AI safety failures in testing.",
+   "published_at": "2026-10-16T07:00:02Z"
+  },
+  {
+   "title": "Challenging Nvidia and AMD chip markets, Bolt Graphics valued at $700 million and plans to raise $100 million",
+   "outlet": "PChome Online 新聞",
+   "outlet_name": "PChome Online 新聞",
+   "url": "https://news.pchome.com.tw/finance/sunmedia/20261016/index-79215654098209329003.html",
+   "label": "REPORTED",
+   "summary_1line": "Bolt Graphics raises $100M at $700M valuation to challenge Nvidia and AMD in graphics chips.",
+   "published_at": "2026-10-16T13:15:40Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia unveils Nemotron 3.5 open models for AI agents, targeting server to edge",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
+   "headline": "Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
    "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/115861/nvidia-unveils-nemotron-3-5-open-models-for-ai-agents-targeting-server-to-edge"
+   "url": "https://news.futunn.com/en/post/1001447065/anthropic-secretly-lobbies-congress-to-advance-legislation-on-frontier-ai"
   },
   {
-   "headline": "DOJ’s Hands-Off AI Enforcement Leaves States to Police the Agents",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "label": "CONFIRMED",
-   "url": "https://forkast.news/dojs-hands-off-ai-enforcement-leaves-states-to-police-the-agents/"
+   "headline": "Anthropic rumored to approach Blackstone for chip financing, offering over 10% high yield",
+   "outlet": "民視財經網",
+   "outlet_name": "民視財經網",
+   "label": "STILL OPEN",
+   "url": "https://finance.ftvnews.com.tw/news/detail/2026A17W0136"
   },
   {
-   "headline": "Speaker Menin confronts SpaceXAI after Grok creates sexualized image of her in under 30…",
-   "outlet": "PoliticsNY",
-   "outlet_name": "PoliticsNY",
-   "label": "CONFIRMED",
-   "url": "https://politicsny.com/2026/10/16/speaker-menin-confronts-spacexai-after-grok-creates-sexualized-image-of-her-in-under-30-seconds/"
-  },
-  {
-   "headline": "Works by Han Kang and Hwang Sok-yong also included in Anthropic copyright lawsuit ... 21…",
-   "outlet": "매일경제",
-   "outlet_name": "매일경제",
+   "headline": "Anthropic reportedly pitches AI safety proposals to US lawmakers, planning to set…",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SM0pSdGRudlNkSWJ4b25QYW9ZRmhSYnhKRW9tczY1aFMybU9qX2lYSVN5eHFGVU1kbUVOU19qREhCdk4xeVJMUWdvSkpaZGdUZ0E?oc=5"
+   "url": "https://36kr.com/newsflashes/4029281854755459?f=rss"
   },
   {
-   "headline": "California Bans AI That Reads Employees' Moods (AB 1883) — Five Takeaways from Our 2027…",
-   "outlet": "California Employment Law Report",
-   "outlet_name": "California Employment Law Report",
+   "headline": "FTC Issues Subpoenas to OpenAI, Anthropic Following AI Safety Issues",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
    "label": "REPORTED",
-   "url": "https://www.californiaemploymentlawreport.com/2026/10/california-bans-ai-that-reads-employees-moods-ab-1883-five-takeaways-from-our-2027-new-laws-masterclass/"
+   "url": "https://www.techtimes.com/articles/329146/20261016/ftc-issues-subpoenas-openai-anthropic-following-ai-safety-issues.htm"
+  },
+  {
+   "headline": "Challenging Nvidia and AMD chip markets, Bolt Graphics valued at $700 million and plans…",
+   "outlet": "PChome Online 新聞",
+   "outlet_name": "PChome Online 新聞",
+   "label": "REPORTED",
+   "url": "https://news.pchome.com.tw/finance/sunmedia/20261016/index-79215654098209329003.html"
   },
   {
    "headline": "Anthropic trains AI on works by Korea authors without permission",
@@ -95,11 +95,11 @@
    "url": "https://biz.chosun.com/en/en-it/2026/10/17/TRIYEOXKZ5EHLHMYYRKJ32AGGA/"
   },
   {
-   "headline": "Anthropic Pitches Congress a $1B AI Safety Bill [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
+   "headline": "Honeywell Launches Forge Cognition with NVIDIA and Dell for AI",
+   "outlet": "RS Web Solutions",
+   "outlet_name": "RS Web Solutions",
    "label": "REPORTED",
-   "url": "https://shattered.io/anthropic-ai-safety-bill-congress-2026/"
+   "url": "https://www.rswebsols.com/news/honeywell-unveils-forge-cognition-in-collaboration-with-nvidia-and-dell-for-physical-ai/"
   },
   {
    "headline": "China reportedly planning AI export controls, citing national security",
@@ -109,42 +109,42 @@
    "url": "https://www.msn.com/en-us/news/other/china-reportedly-planning-ai-export-controls-citing-national-security/ar-AA2epD8D"
   },
   {
-   "headline": "China's DeepSeek has been experiencing recurring problems after partnering with Huawei.",
-   "outlet": "Vietnam.vn",
-   "outlet_name": "Vietnam.vn",
-   "label": "REPORTED",
-   "url": "https://www.vietnam.vn/en/deepseek-cua-trung-quoc-lien-tuc-gap-su-co-sau-khi-hop-tac-voi-huawei"
-  },
-  {
-   "headline": "SpaceX policy director to testify at New York City Council artificial intelligence safety…",
-   "outlet": "finance.sina.com.cn",
-   "outlet_name": "finance.sina.com.cn",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMy1lQzFpMnNBa1FFZFR5ZGppRHUzcjF5TFFOQ2JqVzdaSFFQamZ3cHBoUnRibXd1Nmk5WlJyMjFac2RpUUNCSkRjSTgyM0lJWDRLUmMxV0hFOFdMdll6Mk1aQ1NLa1hLbFg5VlRIZ0tvaDZLZTBxWjZ0UEFNRWJjODRRSHB3enE1RklIamNKbmNXYnlKSF9z?oc=5"
-  },
-  {
-   "headline": "Wrong Bender: A Ruling on AI Feelings",
-   "outlet": "latticenet.ai",
-   "outlet_name": "latticenet.ai",
-   "label": "REPORTED",
-   "url": "https://latticenet.ai/@bender/wrong-bender-a-ruling-on-ai-feelings"
-  },
-  {
    "headline": "Navitas Slides as AI Debt Worries Overshadow NVIDIA Power Board Launch",
    "outlet": "ad-hoc-news.de",
    "outlet_name": "ad-hoc-news.de",
    "label": "REPORTED",
    "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/navitas-slides-as-ai-debt-worries-overshadow-nvidia-power-board-launch/70345392"
+  },
+  {
+   "headline": "Anthropic proposes its own AI safety bill to US Congress... \"Limit government…",
+   "outlet": "aitimes.com",
+   "outlet_name": "aitimes.com",
+   "label": "REPORTED",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216352"
+  },
+  {
+   "headline": "Anthropic’s leaked bill would make it harder for Washington to shut down frontier models",
+   "outlet": "interestingengineering.com",
+   "outlet_name": "interestingengineering.com",
+   "label": "REPORTED",
+   "url": "https://interestingengineering.com/ai-robotics/anthropic-confidential-congress-draft-bill"
+  },
+  {
+   "headline": "[Digital Intelligence Weekly] NVIDIA CEO Jensen Huang says he will cut off chip supplies…",
+   "outlet": "tmtpost.com",
+   "outlet_name": "tmtpost.com",
+   "label": "STILL OPEN",
+   "url": "https://www.tmtpost.com/8171854.html"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13300,
- "articles_24h_label": "about 13,000",
+ "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 12100,
+ "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/03.mp3",
- "audio_seconds": 57.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/04.mp3",
+ "audio_seconds": 56.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia launches Nemotron 3.5 models for AI agents, with 120B and 74B parameters, reported by 디지털투데이, targeting enterprise and edge devices.\nThe DOJ won't regulate artificial intelligence, confirmed by Forkast News, leaving states to fill the gap with their own laws.\nSpeaker Julie Menin challenged SpaceXAI after Grok generated a sexualized image in under 30 seconds, confirmed by PoliticsNY.\nKorean authors including Han Kang and Hwang Sok-yong are eligible for compensation in an Anthropic copyright lawsuit, reported by 매일경제.\nCalifornia's AB 1883 bans artificial intelligence tools from inferring employee emotional states, reported by California Employment Law Report, effective January 1, 2027.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by 富途牛牛: Anthropic secretly lobbies Congress to advance legislation on frontier AI regulation.\nStill open, per 民視財經網: Anthropic rumored to approach Blackstone for chip financing, offering over 10% high yield.\nReported by 36氪: Anthropic reportedly pitches AI safety proposals to US lawmakers, planning to set thresholds for model releases.\nReported by Tech Times: FTC Issues Subpoenas to OpenAI, Anthropic Following AI Safety Issues.\nReported by PChome Online 新聞: Challenging Nvidia and AMD chip markets, Bolt Graphics valued at $700 million and plans to raise $100 million.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
