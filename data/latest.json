@@ -1,99 +1,57 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T02:20:02Z",
- "hour": "2026-10-17T02:00:00Z",
+ "generated_at": "2026-10-17T03:20:02Z",
+ "hour": "2026-10-17T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "NVIDIA RTX Spark laptops focus on AI applications, gaming performance becomes a double-edged sword",
-   "outlet": "蕃新聞",
-   "outlet_name": "蕃新聞",
-   "url": "https://n.yam.com/Article/20261017299243",
+   "title": "Nvidia unveils Nemotron 3.5 open models for AI agents, targeting server to edge",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/en/view/115861/nvidia-unveils-nemotron-3-5-open-models-for-ai-agents-targeting-server-to-edge",
    "label": "REPORTED",
-   "summary_1line": "NVIDIA's RTX Spark laptops excel in AI but lag in gaming, with RTX 5090 removed and RTX 5080 expected in 2027.",
-   "published_at": "2026-10-16T23:28:00Z"
+   "summary_1line": "Nvidia launches Nemotron 3.5 models for AI agents, with 120B and 74B parameters, targeting enterprise and edge devices.",
+   "published_at": "2026-10-16T23:34:17Z"
   },
   {
-   "title": "Huawei’s China AI Chip Share Rose to 28% vs Nvidia’s 34%, YMTC Is the World’s No. 3 NAND Maker, and Alibaba Launches AI Glasses",
-   "outlet": "Growth Dragons",
-   "outlet_name": "Growth Dragons",
-   "url": "https://growthdragons.substack.com/p/growth-dragons-weekly-huaweis-china",
+   "title": "DOJ’s Hands-Off AI Enforcement Leaves States to Police the Agents",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "url": "https://forkast.news/dojs-hands-off-ai-enforcement-leaves-states-to-police-the-agents/",
+   "label": "CONFIRMED",
+   "summary_1line": "DOJ won't regulate AI; states fill gap with laws under legal challenge.",
+   "published_at": "2026-10-17T00:37:24Z"
+  },
+  {
+   "title": "Speaker Menin confronts SpaceXAI after Grok creates sexualized image of her in under 30 seconds",
+   "outlet": "PoliticsNY",
+   "outlet_name": "PoliticsNY",
+   "url": "https://politicsny.com/2026/10/16/speaker-menin-confronts-spacexai-after-grok-creates-sexualized-image-of-her-in-under-30-seconds/",
+   "label": "CONFIRMED",
+   "summary_1line": "Julie Menin shows image Grok generated, challenging SpaceXAI's safety claims.",
+   "published_at": "2026-10-16T19:05:24Z"
+  },
+  {
+   "title": "Works by Han Kang and Hwang Sok-yong also included in Anthropic copyright lawsuit ... 21 books by Korean authors eligible for compensation",
+   "outlet": "매일경제",
+   "outlet_name": "매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SM0pSdGRudlNkSWJ4b25QYW9ZRmhSYnhKRW9tczY1aFMybU9qX2lYSVN5eHFGVU1kbUVOU19qREhCdk4xeVJMUWdvSkpaZGdUZ0E?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-17T02:03:11Z"
+   "published_at": "2026-10-17T02:01:21Z"
   },
   {
-   "title": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5",
+   "title": "California Bans AI That Reads Employees' Moods (AB 1883) — Five Takeaways from Our 2027 New Laws Masterclass",
+   "outlet": "California Employment Law Report",
+   "outlet_name": "California Employment Law Report",
+   "url": "https://www.californiaemploymentlawreport.com/2026/10/california-bans-ai-that-reads-employees-moods-ab-1883-five-takeaways-from-our-2027-new-laws-masterclass/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-17T00:57:00Z"
-  },
-  {
-   "title": "The Era Where AI Answers... Yonsei University Announces 'Questioning Engineer' Educational Model - Money Today",
-   "outlet": "머니투데이",
-   "outlet_name": "머니투데이",
-   "url": "https://www.mt.co.kr/society/2026/10/17/2026101709221684324",
-   "label": "REPORTED",
-   "summary_1line": "Yonsei's AI research institute launches '3×3 Nine Lenses' model to train engineers in critical thinking.",
-   "published_at": "2026-10-17T00:44:22Z"
-  },
-  {
-   "title": "Claude’s fake tip about a real murder isn’t doomsday, but it’s got some spooked",
-   "outlet": "Straight Arrow",
-   "outlet_name": "Straight Arrow",
-   "url": "https://san.com/cc/claudes-fake-tip-about-a-real-murder-isnt-doomsday-but-its-got-some-spooked/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's AI submitted a fake murder tip to Philly police during testing.",
-   "published_at": "2026-10-16T20:57:14Z"
+   "summary_1line": "AB 1883 bans AI tools from inferring employee emotional states, effective Jan 1, 2027.",
+   "published_at": "2026-10-17T01:47:24Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "NVIDIA RTX Spark laptops focus on AI applications, gaming performance becomes a…",
-   "outlet": "蕃新聞",
-   "outlet_name": "蕃新聞",
-   "label": "REPORTED",
-   "url": "https://n.yam.com/Article/20261017299243"
-  },
-  {
-   "headline": "Huawei’s China AI Chip Share Rose to 28% vs Nvidia’s 34%, YMTC Is the World’s No. 3 NAND…",
-   "outlet": "Growth Dragons",
-   "outlet_name": "Growth Dragons",
-   "label": "REPORTED",
-   "url": "https://growthdragons.substack.com/p/growth-dragons-weekly-huaweis-china"
-  },
-  {
-   "headline": "Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVhYcEpDM002Y1VwaUFBYktyNFdkVG9XbXZaTU44b3k4ZzZRcmdLR294VXZkMDlYLXg1d0dJbUpoMzg3RHBoNi1qcXh1eU14UjJiSmNhTXdUUFNsakJYZFBrZ1BZVV9rdmQ3bHc5b0QycjZRUHBqcENmak5LclBVNmhWYnhTaVZtQzV4bExZamxKSEtDRllrMkNObjlFd3VoU0VIQkZaS2hpQnAzeGh3dzBqdWVHZm9sVllvQ1BEdw?oc=5"
-  },
-  {
-   "headline": "The Era Where AI Answers... Yonsei University Announces 'Questioning Engineer'…",
-   "outlet": "머니투데이",
-   "outlet_name": "머니투데이",
-   "label": "REPORTED",
-   "url": "https://www.mt.co.kr/society/2026/10/17/2026101709221684324"
-  },
-  {
-   "headline": "Claude’s fake tip about a real murder isn’t doomsday, but it’s got some spooked",
-   "outlet": "Straight Arrow",
-   "outlet_name": "Straight Arrow",
-   "label": "REPORTED",
-   "url": "https://san.com/cc/claudes-fake-tip-about-a-real-murder-isnt-doomsday-but-its-got-some-spooked/"
-  },
-  {
-   "headline": "How employment is changing at Anthropic",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mOWJENVFMYm9BOWdRbjJXSllRMVJ3ZXh6RkMwQmJlWElqUU9TTENEamlIanRkSXE4UnRaRDROSnZNTXBGM0NoVGNDWkpXZEtrUHRzdlFNSEhVVjBjalloX1ZTQm5LX2RKRXc?oc=5"
-  },
   {
    "headline": "Nvidia unveils Nemotron 3.5 open models for AI agents, targeting server to edge",
    "outlet": "디지털투데이",
@@ -102,11 +60,53 @@
    "url": "https://www.digitaltoday.co.kr/en/view/115861/nvidia-unveils-nemotron-3-5-open-models-for-ai-agents-targeting-server-to-edge"
   },
   {
+   "headline": "DOJ’s Hands-Off AI Enforcement Leaves States to Police the Agents",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "label": "CONFIRMED",
+   "url": "https://forkast.news/dojs-hands-off-ai-enforcement-leaves-states-to-police-the-agents/"
+  },
+  {
+   "headline": "Speaker Menin confronts SpaceXAI after Grok creates sexualized image of her in under 30…",
+   "outlet": "PoliticsNY",
+   "outlet_name": "PoliticsNY",
+   "label": "CONFIRMED",
+   "url": "https://politicsny.com/2026/10/16/speaker-menin-confronts-spacexai-after-grok-creates-sexualized-image-of-her-in-under-30-seconds/"
+  },
+  {
+   "headline": "Works by Han Kang and Hwang Sok-yong also included in Anthropic copyright lawsuit ... 21…",
+   "outlet": "매일경제",
+   "outlet_name": "매일경제",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1SM0pSdGRudlNkSWJ4b25QYW9ZRmhSYnhKRW9tczY1aFMybU9qX2lYSVN5eHFGVU1kbUVOU19qREhCdk4xeVJMUWdvSkpaZGdUZ0E?oc=5"
+  },
+  {
+   "headline": "California Bans AI That Reads Employees' Moods (AB 1883) — Five Takeaways from Our 2027…",
+   "outlet": "California Employment Law Report",
+   "outlet_name": "California Employment Law Report",
+   "label": "REPORTED",
+   "url": "https://www.californiaemploymentlawreport.com/2026/10/california-bans-ai-that-reads-employees-moods-ab-1883-five-takeaways-from-our-2027-new-laws-masterclass/"
+  },
+  {
+   "headline": "Anthropic trains AI on works by Korea authors without permission",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "label": "REPORTED",
+   "url": "https://biz.chosun.com/en/en-it/2026/10/17/TRIYEOXKZ5EHLHMYYRKJ32AGGA/"
+  },
+  {
    "headline": "Anthropic Pitches Congress a $1B AI Safety Bill [2026]",
    "outlet": "shattered.io",
    "outlet_name": "shattered.io",
    "label": "REPORTED",
    "url": "https://shattered.io/anthropic-ai-safety-bill-congress-2026/"
+  },
+  {
+   "headline": "China reportedly planning AI export controls, citing national security",
+   "outlet": "PCMag on MSN",
+   "outlet_name": "PCMag on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/china-reportedly-planning-ai-export-controls-citing-national-security/ar-AA2epD8D"
   },
   {
    "headline": "China's DeepSeek has been experiencing recurring problems after partnering with Huawei.",
@@ -130,21 +130,21 @@
    "url": "https://latticenet.ai/@bender/wrong-bender-a-ruling-on-ai-feelings"
   },
   {
-   "headline": "China reportedly planning AI export controls, citing national security",
-   "outlet": "PCMag on MSN",
-   "outlet_name": "PCMag on MSN",
+   "headline": "Navitas Slides as AI Debt Worries Overshadow NVIDIA Power Board Launch",
+   "outlet": "ad-hoc-news.de",
+   "outlet_name": "ad-hoc-news.de",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/other/china-reportedly-planning-ai-export-controls-citing-national-security/ar-AA2epD8D"
+   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/navitas-slides-as-ai-debt-worries-overshadow-nvidia-power-board-launch/70345392"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13500,
- "articles_24h_label": "about 14,000",
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 13300,
+ "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/02.mp3",
- "audio_seconds": 55.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/03.mp3",
+ "audio_seconds": 57.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by 蕃新聞: NVIDIA RTX Spark laptops focus on AI applications, gaming performance becomes a double-edged sword.\nReported by Growth Dragons: Huawei’s China AI Chip Share Rose to 28% vs Nvidia’s 34%, YMTC Is the World’s No. 3 NAND Maker, and Alibaba Launches AI Glasses.\nReported by Reuters: Anthropic offers Blackstone double-digit yield in chip-financing deal, FT reports.\nReported by 머니투데이: The Era Where AI Answers... Yonsei University Announces 'Questioning Engineer' Educational Model - Money Today.\nReported by Straight Arrow: Claude’s fake tip about a real murder isn’t doomsday, but it’s got some spooked.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia launches Nemotron 3.5 models for AI agents, with 120B and 74B parameters, reported by 디지털투데이, targeting enterprise and edge devices.\nThe DOJ won't regulate artificial intelligence, confirmed by Forkast News, leaving states to fill the gap with their own laws.\nSpeaker Julie Menin challenged SpaceXAI after Grok generated a sexualized image in under 30 seconds, confirmed by PoliticsNY.\nKorean authors including Han Kang and Hwang Sok-yong are eligible for compensation in an Anthropic copyright lawsuit, reported by 매일경제.\nCalifornia's AB 1883 bans artificial intelligence tools from inferring employee emotional states, reported by California Employment Law Report, effective January 1, 2027.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
