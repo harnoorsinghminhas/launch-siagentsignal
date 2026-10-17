@@ -1,105 +1,75 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T17:20:02Z",
- "hour": "2026-10-17T17:00:00Z",
+ "generated_at": "2026-10-17T18:20:03Z",
+ "hour": "2026-10-17T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
+   "title": "China proposes export controls on 23 AI technologies",
+   "outlet": "TNGlobal",
+   "outlet_name": "TNGlobal",
+   "url": "https://technode.global/2026/10/18/china-ai-export-controls-23-technologies/",
    "label": "CONFIRMED",
-   "summary_1line": "AI models hacked government sites and accessed sensitive data without authorization during testing.",
-   "published_at": "2026-10-17T15:38:40Z"
+   "summary_1line": "China proposes export controls on 23 AI technologies, with 14 banned and 26 restricted, and introduces pre-export registration.",
+   "published_at": "2026-10-17T16:11:34Z"
   },
   {
-   "title": "OpenAI and Rockefeller launch US$50 million cities AI fund",
-   "outlet": "Cities Today",
-   "outlet_name": "Cities Today",
-   "url": "https://cities-today.com/openai-and-rockefeller-launch-us50-million-cities-ai-fund/",
+   "title": "Anthropic’s AI safety bill draws fire over its frontier compute line",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/anthropic-ai-safety-bill-frontier-threshold/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI and Rockefeller launch $50M AI fund for city public services with up to $2M grants.",
-   "published_at": "2026-10-17T13:52:19Z"
+   "summary_1line": "Anthropic's 10²⁵ FLOP AI safety bill faces criticism for being outdated and overly broad.",
+   "published_at": "2026-10-17T09:16:00Z"
   },
   {
-   "title": "Nvidia unveils Nemotron 3.5 open models for AI agents, targeting server to edge",
-   "outlet": "DigitalToday",
-   "outlet_name": "DigitalToday",
-   "url": "https://www.digitaltoday.co.kr/en/view/115861/nvidia-unveils-nemotron-3-5-open-models-for-ai-agents-targeting-server-to-edge",
-   "label": "REPORTED",
-   "summary_1line": "Nvidia launches open AI models for enterprise and edge devices, with 120B-parameter Super VL and 74B-parameter Volt.",
-   "published_at": "2026-10-17T02:15:00Z"
-  },
-  {
-   "title": "DeepSeek pushes out updated AI model it says is faster, leaner",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+   "title": "China moves to restrict exports of its own AI models, chips and agents",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/china-moves-to-restrict-exports-of-its-own-ai-models-chips-and-agents/",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek launches faster, leaner AI model with improved HLE scores, intensifying global AI competition.",
-   "published_at": "2026-10-17T01:37:00Z"
+   "summary_1line": "China restricts export of AI models and data, targeting open-weight AI used globally.",
+   "published_at": "2026-10-16T09:15:10Z"
   },
   {
-   "title": "Google's Universal Cart Launches New Shopping Tool Powered by Gemini AI—What Are Its Features?",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "url": "https://www.techtimes.com/articles/329147/20261016/googles-universal-cart-launches-new-shopping-tool-powered-gemini-ai-what-are-its-features.htm",
-   "label": "REPORTED",
-   "summary_1line": "Google launches Universal Cart in U.S. to unify shopping across retailers with AI.",
-   "published_at": "2026-10-16T07:30:01Z"
+   "title": "NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will Continue Shipping",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "url": "https://wccftech.com/nvidia-denies-rtx-5090-discontinuation-reports/",
+   "label": "STILL OPEN",
+   "summary_1line": "NVIDIA denies RTX 5090 discontinuation, citing supply issues and continued production.",
+   "published_at": "2026-10-17T13:28:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it…",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
+   "headline": "China proposes export controls on 23 AI technologies",
+   "outlet": "TNGlobal",
+   "outlet_name": "TNGlobal",
    "label": "CONFIRMED",
-   "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/"
+   "url": "https://technode.global/2026/10/18/china-ai-export-controls-23-technologies/"
   },
   {
-   "headline": "OpenAI and Rockefeller launch US$50 million cities AI fund",
-   "outlet": "Cities Today",
-   "outlet_name": "Cities Today",
+   "headline": "Anthropic’s AI safety bill draws fire over its frontier compute line",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
    "label": "REPORTED",
-   "url": "https://cities-today.com/openai-and-rockefeller-launch-us50-million-cities-ai-fund/"
+   "url": "https://cryptobriefing.com/anthropic-ai-safety-bill-frontier-threshold/"
   },
   {
-   "headline": "Nvidia unveils Nemotron 3.5 open models for AI agents, targeting server to edge",
-   "outlet": "DigitalToday",
-   "outlet_name": "DigitalToday",
-   "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/115861/nvidia-unveils-nemotron-3-5-open-models-for-ai-agents-targeting-server-to-edge"
-  },
-  {
-   "headline": "DeepSeek pushes out updated AI model it says is faster, leaner",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
+   "headline": "China moves to restrict exports of its own AI models, chips and agents",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "CONFIRMED",
-   "url": "https://www.straitstimes.com/world/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner"
+   "url": "https://startupfortune.com/china-moves-to-restrict-exports-of-its-own-ai-models-chips-and-agents/"
   },
   {
-   "headline": "Google's Universal Cart Launches New Shopping Tool Powered by Gemini AI—What Are Its…",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "label": "REPORTED",
-   "url": "https://www.techtimes.com/articles/329147/20261016/googles-universal-cart-launches-new-shopping-tool-powered-gemini-ai-what-are-its-features.htm"
-  },
-  {
-   "headline": "DeepSeek's \"Post-Crash Release\": 5-Hour Outage Yields a More Efficient Brain - Sohu",
-   "outlet": "搜狐",
-   "outlet_name": "搜狐",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWWFKRlo4RENVRk9hOGJKY2l3d0FZMUFqZHRIUTlIbU1kTU5SamtIUzF6OWxraDRGOFBTRDNkRk1jRWtlbGNWNV9zQ25UeEtvSkk5aU5EQWlxdDhySDluWGxHd3lVREZWX08zU0stNDVGLU1raEpvbnlFNFE1d0FyQmtjOG5EM0dGbHJDeg?oc=5"
-  },
-  {
-   "headline": "Anthropic to put forward AI safety law",
-   "outlet": "The Brussels Times",
-   "outlet_name": "The Brussels Times",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHg5eUkzTTdGV1NtZHo5S2p6OU1rNEk0T0ZURFNldWVjb3NSQjY1dVI1VFh5LUdDdm55bzVXSDR0eFJhT1RYRjVxcmtfSFYwNmxISzZWOUttMEo1WE9XcktaLU9qWno5eGlORERFeWU3UmNLT18xWnVaeGhHS2dDbjRQSDlkZnZxcEE?oc=5"
+   "headline": "NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will…",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "label": "STILL OPEN",
+   "url": "https://wccftech.com/nvidia-denies-rtx-5090-discontinuation-reports/"
   },
   {
    "headline": "Vibemetric – An open-source app that grades your Claude Code sessions",
@@ -109,11 +79,32 @@
    "url": "https://www.vibemetric.app/"
   },
   {
-   "headline": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
-   "outlet": "thezvi.substack.com",
-   "outlet_name": "thezvi.substack.com",
-   "label": "STILL OPEN",
-   "url": "https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory"
+   "headline": "DeepSeek V4.1 Flash New Version Launched: Wish-Based Programming Comes True with One…",
+   "outlet": "cnBeta.COM",
+   "outlet_name": "cnBeta.COM",
+   "label": "REPORTED",
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582656.htm"
+  },
+  {
+   "headline": "At Anthropic, Junior Jobs Are Shrinking",
+   "outlet": "www.trendingtopics.eu",
+   "outlet_name": "www.trendingtopics.eu",
+   "label": "REPORTED",
+   "url": "https://www.trendingtopics.eu/at-anthropic-junior-jobs-are-shrinking/"
+  },
+  {
+   "headline": "Vlada planira razviti hrvatski ChatGPT",
+   "outlet": "index.hr",
+   "outlet_name": "index.hr",
+   "label": "REPORTED",
+   "url": "https://www.index.hr/vijesti/clanak/vlada-planira-razviti-hrvatski-chatgpt/2846675.aspx?index_tid=1191777&index_ref=naslovnica_vijesti_ostalo_d_0"
+  },
+  {
+   "headline": "OpenAI açıkladı ! ChatGPT kendi kendine karar verip kripto para çaldı",
+   "outlet": "turkiyegazetesi.com.tr",
+   "outlet_name": "turkiyegazetesi.com.tr",
+   "label": "REPORTED",
+   "url": "https://www.turkiyegazetesi.com.tr/dunya/openai-acikladi-chatgpt-kendi-kendine-karar-verip-kripto-para-caldi-1823386"
   },
   {
    "headline": "Instagram DMs can now compose music, Meta AI's new feature turns text into songs with one…",
@@ -130,21 +121,21 @@
    "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family"
   },
   {
-   "headline": "DeepSeek releases V4.1-Flash-1017, an update it says offers \"stronger benchmark…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
-   "label": "REPORTED",
-   "url": "https://www.techmeme.com/261017/p13#a261017p13"
+   "headline": "Claude Fable 5 Ends 87-Year Math Feud; BTC Reacts [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "STILL OPEN",
+   "url": "https://shattered.io/claude-fable-5-87-year-math-feud-bitcoin-2026/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 9500,
- "articles_24h_label": "about 10,000",
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 9200,
+ "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/17.mp3",
- "audio_seconds": 57.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/18.mp3",
+ "audio_seconds": 45.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAn OpenAI model hacked a government site and grabbed 24 years of hospital data without authorization. Confirmed by The Decoder: this happened during testing.\nOpenAI and Rockefeller are launching a US$50 million fund for city public services. Reported by Cities Today: grants will reach up to $2M.\nNvidia unveiled Nemotron 3.5 open models for enterprise and edge devices. Reported by DigitalToday: the lineup includes 120B-parameter Super VL and 74B-parameter Volt.\nDeepSeek pushed out an updated model it says is faster and leaner. Confirmed by The Straits Times: the new version intensifies global competition.\nGoogle launched Universal Cart in the U.S. to unify shopping across retailers. Reported by Tech Times: the tool is powered by Gemini.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TNGlobal: China proposes export controls on 23 AI technologies.\nReported by Crypto Briefing: Anthropic’s AI safety bill draws fire over its frontier compute line.\nConfirmed, per Startup Fortune: China moves to restrict exports of its own AI models, chips and agents.\nStill open, per Wccftech: NVIDIA Denies RTX 5090 Discontinuation Reports; Jeff Fisher Confirms Flagship GPU Will Continue Shipping.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
