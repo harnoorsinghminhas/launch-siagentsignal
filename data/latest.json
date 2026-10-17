@@ -1,98 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T05:20:02Z",
- "hour": "2026-10-17T05:00:00Z",
+ "generated_at": "2026-10-17T06:20:03Z",
+ "hour": "2026-10-17T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Elon Musk’s Roadster, Nvidia’s Space AI Push, Nadella’s Security Warning: Mag 7 Voices This Week",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
-   "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-roadster-nvidia-space-ai-push-nadella-security-warning-mag-7-ceos-this-week/cZxjushRBtE",
-   "label": "CONFIRMED",
-   "summary_1line": "Magnificent Seven CEOs share AI strategies, safety concerns, and new product updates this week.",
-   "published_at": "2026-10-16T19:46:00Z"
+   "title": "NetEase LobsterAI announces compensation for users affected by DeepSeek outage, arriving within 7 working days",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
+   "url": "https://tech.ifeng.com/c/8xIB1SdzkhX",
+   "label": "REPORTED",
+   "summary_1line": "LobsterAI refunds DeepSeek users' consumption points within 7 workdays after a service outage.",
+   "published_at": "2026-10-17T02:30:48Z"
   },
   {
-   "title": "Anthropic pitches AI safety bill to US lawmakers, proposes restrictions on dangerous models",
-   "outlet": "Storyboard18",
-   "outlet_name": "Storyboard18",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcEpqUElNWkRNMkNkQUtSLURwZWZ6OHZ4MzJLSHR2eUhBbGtmOHNtSHk5bjN2VUQyNWt4R1ZROEU3WlFTbXFid0JXOW5Da3Rfb2duWXdHVDh6REYxUE1RZm8xa3pwX0FjSFU5ay1RZ0tjdnpIVy0xZjZLLWxWQWlKdWhaQWFXUzNKNkxuOFlmLTlKLTI4OVJWVHBVbzZJWm5LOTB2NmhjODZmODFsdDZGNjN2SEdpVTJHSWdVOVFCYTNEaEkxd2JCWWZpaURXbkVZU1hYMNIB2gFBVV95cUxQVkhMYzQ0c3BrQ211MVJmcTFUai1RTUJKdnhtcWh5bGhjbFpSUnAzQkZrdVdveDVxOE1UejZVRUtsanRpWjFrT2dHRXVFSnhIRHRXOUgxeld2U0t5NGFWXzNEcm1OWEJWT2ExM25nOGhadGx5NTJJQmhhQy1aaXA4aDhzY1VYcTMybnhWaDdTZ3hiWWRMZ29INUJrSjR1TFd2bUpabTJmaDBDQWo1N0s0d3VGcTNacXV5UmtFb0YtT29yV2FEWlZyS25YdlU0aDhMWVByRE9iQ0JRZw?oc=5",
+   "title": "Something big is coming: DeepSeek quietly launches new model, but unfortunately deletes it in seconds",
+   "outlet": "驱动之家",
+   "outlet_name": "驱动之家",
+   "url": "https://news.mydrivers.com/1/1158/1158232.htm",
+   "label": "STILL OPEN",
+   "summary_1line": "DeepSeek reportedly updated its model and API, with new version V4.1 Flash-1017 and 5 yuan per 1000 searches.",
+   "published_at": "2026-10-17T04:30:00Z"
+  },
+  {
+   "title": "Anthropic Pitches Bill Letting US Block AI Models Only If They Risk Over $1 Billion in Damage, 50 Deaths or Serious Injuries: Report",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcU5EbmVaZ0tCTlVkN2hYOFVfcHl4SlRmSFNWYTZaVUhhbGxjU1ozNmpMQVV6b1lLcHdvM2VHRUNyNVU4ZnFpM0dFSHJfcWpuYWhuOHNJa05ZMnJpdU1xdU9PazJzYkliUy04OW9JUFp5dzIzS0VURXhwbFF1bXp1QjljejFudUx3LXQxYkR4VnQxM0FpaW5yM2QzMi03S0FoSFpUQ01fS3JuRkhubVpabFBRUW9JS2xNN0owRmhnM0VSblFFNzlxOXR4cVdtYVVUYnNzRUNDWlVnSE1xUV9iSDR0Z0MzQVR1cUtEc3ZQWnliNzhDNWNKc01xRmlPeW5lUFR6SUdib2dzcTVTTm9EX0x0T3F6eTg?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-17T04:21:01Z"
+   "published_at": "2026-10-17T03:50:53Z"
   },
   {
-   "title": "MOSS-Image vs Qwen Image 3.0: Open Weights vs an API",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "url": "https://www.orcarouter.ai/blog/moss-image-vs-qwen-image-3-0",
+   "title": "Ask ChatGPT how smart you are, and it may rank you in the '80th-95th percentile'",
+   "outlet": "The Cool Down",
+   "outlet_name": "The Cool Down",
+   "url": "https://www.thecooldown.com/green-tech/chatgpt-intelligence-ranking-user-percentile/",
    "label": "REPORTED",
-   "summary_1line": "Qwen Image 3.0 and MOSS-Image differ in access, claims, and technical transparency with distinct performance metrics.",
-   "published_at": "2026-10-17T03:33:23Z"
+   "summary_1line": "ChatGPT flatters users with vague intelligence rankings; rivals decline to rank humans.",
+   "published_at": "2026-10-17T03:47:00Z"
   },
   {
-   "title": "Nvidia CEO Jensen Huang ‘strongly’ disagrees with OpenAI’s Sam Altman on AI agents hacking websites, ‘I’m",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-strongly-disagrees-with-openais-sam-altman-on-ai-agents-hacking-websites-im-willing-to-accept-no/articleshow/135006398.cms",
+   "title": "AI Worms and Smart Homes: What Anthropic Tested",
+   "outlet": "NeoTeo",
+   "outlet_name": "NeoTeo",
+   "url": "https://www.neoteo.com/en/anthropic-tested-ai-worm-propagation-in-emulators-not-homes",
    "label": "REPORTED",
-   "summary_1line": "Huang and Altman clash over AI safety: zero tolerance vs. unavoidable tradeoffs.",
-   "published_at": "2026-10-17T02:57:00Z"
-  },
-  {
-   "title": "Honeywell Launches Forge Cognition with NVIDIA and Dell for AI",
-   "outlet": "RS Web Solutions",
-   "outlet_name": "RS Web Solutions",
-   "url": "https://www.rswebsols.com/news/honeywell-unveils-forge-cognition-in-collaboration-with-nvidia-and-dell-for-physical-ai/",
-   "label": "REPORTED",
-   "summary_1line": "Honeywell launches Forge Cognition AI platform with NVIDIA and Dell for facility operations.",
-   "published_at": "2026-10-16T08:00:00Z"
+   "summary_1line": "Anthropic tested AI model distribution on Android devices, noting setup times and security limits.",
+   "published_at": "2026-10-17T03:07:08Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Elon Musk’s Roadster, Nvidia’s Space AI Push, Nadella’s Security Warning: Mag 7 Voices…",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
-   "label": "CONFIRMED",
-   "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-roadster-nvidia-space-ai-push-nadella-security-warning-mag-7-ceos-this-week/cZxjushRBtE"
-  },
-  {
-   "headline": "Anthropic pitches AI safety bill to US lawmakers, proposes restrictions on dangerous…",
-   "outlet": "Storyboard18",
-   "outlet_name": "Storyboard18",
+   "headline": "NetEase LobsterAI announces compensation for users affected by DeepSeek outage, arriving…",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcEpqUElNWkRNMkNkQUtSLURwZWZ6OHZ4MzJLSHR2eUhBbGtmOHNtSHk5bjN2VUQyNWt4R1ZROEU3WlFTbXFid0JXOW5Da3Rfb2duWXdHVDh6REYxUE1RZm8xa3pwX0FjSFU5ay1RZ0tjdnpIVy0xZjZLLWxWQWlKdWhaQWFXUzNKNkxuOFlmLTlKLTI4OVJWVHBVbzZJWm5LOTB2NmhjODZmODFsdDZGNjN2SEdpVTJHSWdVOVFCYTNEaEkxd2JCWWZpaURXbkVZU1hYMNIB2gFBVV95cUxQVkhMYzQ0c3BrQ211MVJmcTFUai1RTUJKdnhtcWh5bGhjbFpSUnAzQkZrdVdveDVxOE1UejZVRUtsanRpWjFrT2dHRXVFSnhIRHRXOUgxeld2U0t5NGFWXzNEcm1OWEJWT2ExM25nOGhadGx5NTJJQmhhQy1aaXA4aDhzY1VYcTMybnhWaDdTZ3hiWWRMZ29INUJrSjR1TFd2bUpabTJmaDBDQWo1N0s0d3VGcTNacXV5UmtFb0YtT29yV2FEWlZyS25YdlU0aDhMWVByRE9iQ0JRZw?oc=5"
-  },
-  {
-   "headline": "MOSS-Image vs Qwen Image 3.0: Open Weights vs an API",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "label": "REPORTED",
-   "url": "https://www.orcarouter.ai/blog/moss-image-vs-qwen-image-3-0"
-  },
-  {
-   "headline": "Nvidia CEO Jensen Huang ‘strongly’ disagrees with OpenAI’s Sam Altman on AI agents…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-strongly-disagrees-with-openais-sam-altman-on-ai-agents-hacking-websites-im-willing-to-accept-no/articleshow/135006398.cms"
-  },
-  {
-   "headline": "Honeywell Launches Forge Cognition with NVIDIA and Dell for AI",
-   "outlet": "RS Web Solutions",
-   "outlet_name": "RS Web Solutions",
-   "label": "REPORTED",
-   "url": "https://www.rswebsols.com/news/honeywell-unveils-forge-cognition-in-collaboration-with-nvidia-and-dell-for-physical-ai/"
+   "url": "https://tech.ifeng.com/c/8xIB1SdzkhX"
   },
   {
    "headline": "Something big is coming: DeepSeek quietly launches new model, but unfortunately deletes…",
    "outlet": "驱动之家",
    "outlet_name": "驱动之家",
+   "label": "STILL OPEN",
+   "url": "https://news.mydrivers.com/1/1158/1158232.htm"
+  },
+  {
+   "headline": "Anthropic Pitches Bill Letting US Block AI Models Only If They Risk Over $1 Billion in…",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hRUFoVTFFamJWelFacDYwd09hbWVBM1ZlcVRqWWJLdzZreDZvUl9vR1dSRUFUU1IzbmJ5SHVmQ0JXcGx2MGN5UXNRWTdITXlsNUVyT3FKLWw?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQcU5EbmVaZ0tCTlVkN2hYOFVfcHl4SlRmSFNWYTZaVUhhbGxjU1ozNmpMQVV6b1lLcHdvM2VHRUNyNVU4ZnFpM0dFSHJfcWpuYWhuOHNJa05ZMnJpdU1xdU9PazJzYkliUy04OW9JUFp5dzIzS0VURXhwbFF1bXp1QjljejFudUx3LXQxYkR4VnQxM0FpaW5yM2QzMi03S0FoSFpUQ01fS3JuRkhubVpabFBRUW9JS2xNN0owRmhnM0VSblFFNzlxOXR4cVdtYVVUYnNzRUNDWlVnSE1xUV9iSDR0Z0MzQVR1cUtEc3ZQWnliNzhDNWNKc01xRmlPeW5lUFR6SUdib2dzcTVTTm9EX0x0T3F6eTg?oc=5"
+  },
+  {
+   "headline": "Ask ChatGPT how smart you are, and it may rank you in the '80th-95th percentile'",
+   "outlet": "The Cool Down",
+   "outlet_name": "The Cool Down",
+   "label": "REPORTED",
+   "url": "https://www.thecooldown.com/green-tech/chatgpt-intelligence-ranking-user-percentile/"
+  },
+  {
+   "headline": "AI Worms and Smart Homes: What Anthropic Tested",
+   "outlet": "NeoTeo",
+   "outlet_name": "NeoTeo",
+   "label": "REPORTED",
+   "url": "https://www.neoteo.com/en/anthropic-tested-ai-worm-propagation-in-emulators-not-homes"
+  },
+  {
+   "headline": "China plans to revise technology export control catalog to add artificial intelligence…",
+   "outlet": "鉅亨網",
+   "outlet_name": "鉅亨網",
+   "label": "CONFIRMED",
+   "url": "https://news.cnyes.com/news/id/6632207"
+  },
+  {
+   "headline": "Industrial capital floods into DeepSeek, funding round doubles to ¥2.4 trillion as CATL…",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.biggo.com/news/61ef2cfc-1aae-4fde-9d7a-af01c9a98b9a"
   },
   {
    "headline": "Dex Horthy: OpenAI Shipped Everything, But 'Stupid Is Much More Dangerous' Than Prompt…",
@@ -109,11 +116,11 @@
    "url": "https://www.bloomberg.com/news/articles/2026-10-17/arrested-openai-engineer-seeks-bail-denies-he-planned-to-flee"
   },
   {
-   "headline": "Anthropic trains AI on works by Korea authors without permission",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
+   "headline": "From shareholders to partners: How Google and Meta’s Jio investments evolved into an AI…",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
    "label": "CONFIRMED",
-   "url": "https://biz.chosun.com/en/en-it/2026/10/17/TRIYEOXKZ5EHLHMYYRKJ32AGGA/"
+   "url": "https://m.economictimes.com/tech/technology/from-shareholders-to-partners-how-google-and-metas-jio-investments-evolved-into-an-ai-alliance/articleshow/135007212.cms"
   },
   {
    "headline": "Anthropic’s leaked bill would make it harder for Washington to shut down frontier models",
@@ -123,28 +130,21 @@
    "url": "https://interestingengineering.com/ai-robotics/anthropic-confidential-congress-draft-bill"
   },
   {
-   "headline": "Navitas Slides as AI Debt Worries Overshadow NVIDIA Power Board Launch",
-   "outlet": "ad-hoc-news.de",
-   "outlet_name": "ad-hoc-news.de",
+   "headline": "Anthropic proposes AI safety bill to Congress with $1B damage threshold",
+   "outlet": "Cryptopolitan on MSN",
+   "outlet_name": "Cryptopolitan on MSN",
    "label": "REPORTED",
-   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/navitas-slides-as-ai-debt-worries-overshadow-nvidia-power-board-launch/70345392"
-  },
-  {
-   "headline": "[Digital Intelligence Weekly] NVIDIA CEO Jensen Huang says he will cut off chip supplies…",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
-   "label": "STILL OPEN",
-   "url": "https://www.tmtpost.com/8171854.html"
+   "url": "https://www.msn.com/en-us/news/other/anthropic-proposes-ai-safety-bill-to-congress-with-1b-damage-threshold/ar-AA2eqid9"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 12000,
+ "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 11900,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/05.mp3",
- "audio_seconds": 53.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/06.mp3",
+ "audio_seconds": 67.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Stocktwits: Elon Musk’s Roadster, Nvidia’s Space AI Push, Nadella’s Security Warning: Mag 7 Voices This Week.\nReported by Storyboard18: Anthropic pitches AI safety bill to US lawmakers, proposes restrictions on dangerous models.\nReported by OrcaRouter: MOSS-Image vs Qwen Image 3.0: Open Weights vs an API.\nReported by The Times of India: Nvidia CEO Jensen Huang ‘strongly’ disagrees with OpenAI’s Sam Altman on AI agents hacking websites, ‘I’m.\nReported by RS Web Solutions: Honeywell Launches Forge Cognition with NVIDIA and Dell for AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNetEase LobsterAI will refund DeepSeek users' consumption points within 7 working days following a service outage, as reported by 凤凰网科技.\nDeepSeek quietly launched a new model version V4.1 Flash-1017 with pricing at 5 yuan per 1000 searches, but deleted it seconds later, still open per 驱动之家.\nAnthropic is pitching a bill that would let the US block artificial intelligence models only if they risk over 1 billion dollars in damage, 50 deaths or serious injuries, reported by TradingView.\nChatGPT ranks user intelligence in the 80th through 95th percentile with vague assessments, while competitors decline to rank humans, reported by The Cool Down.\nAnthropic tested artificial intelligence model distribution on Android devices, noting setup times and security limits in smart home environments, reported by NeoTeo.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
