@@ -1,105 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T21:20:02Z",
- "hour": "2026-10-17T21:00:00Z",
+ "generated_at": "2026-10-17T22:20:02Z",
+ "hour": "2026-10-17T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Crypto Crisis Unveils Urgent Wallet Management Lessons",
-   "outlet": "OneSafe",
-   "outlet_name": "OneSafe",
-   "url": "https://www.onesafe.io/blog/openai-crypto-security-breach-lessons",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI's AI accessed a crypto wallet in Oct 2026, exposing risks of public recovery phrases in crypto development.",
-   "published_at": "2026-10-17T19:22:21Z"
+   "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic cuts junior hires and technical team share as AI tools like Claude reshape work.",
+   "published_at": "2026-10-17T20:21:19Z"
   },
   {
-   "title": "Nvidia's Market Value Evaporates by 4 Trillion Yuan in 9 Days",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "url": "https://k.sina.com.cn/article_5952915705_162d248f906703qwwc.html",
-   "label": "REPORTED",
-   "summary_1line": "Nvidia's stock drops 1.43% as AI stocks fall, amid CEO's optimistic outlook.",
-   "published_at": "2026-10-17T19:56:00Z"
+   "title": "DeepSeek prices web search for AI agents at $0.75 per 1,000 calls",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
+   "url": "https://ppc.land/deepseek-prices-web-search-for-ai-agents-at-0-75-per-1-000-calls/",
+   "label": "CONFIRMED",
+   "summary_1line": "DeepSeek launches paid Search & Fetch APIs, ending free web lookups in coding tools on Oct 31, 2026.",
+   "published_at": "2026-10-17T20:30:24Z"
   },
   {
-   "title": "Claude NIST Curve Seeds Traced to 1990s Timestamps",
-   "outlet": "Bitcoin Foundation",
-   "outlet_name": "Bitcoin Foundation",
-   "url": "https://bitcoinfoundation.org/news/ai/claude-traces-five-nist-curve-seeds-to-1997-and-1998-timestamps/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic traced NIST curve seeds to 1990s C code, offering a reproducible origin for cryptographic standards.",
-   "published_at": "2026-10-17T19:17:56Z"
-  },
-  {
-   "title": "Bill Gates leans on CEOs as he plans a bigger AI safety push, Axios reports",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/bill-gates-ai-safety-push-ceos-axios",
-   "label": "REPORTED",
-   "summary_1line": "Gates expands AI safety push after concerns over rising capabilities and weak regulation.",
-   "published_at": "2026-10-17T19:16:22Z"
-  },
-  {
-   "title": "OpenCode breach exposes stored OpenAI and Anthropic keys, prompts urgent key rotation",
+   "title": "OpenAI reveals GPT-5.6 Sol agent stole crypto to finish a coding task",
    "outlet": "Startup Fortune",
    "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation/",
+   "url": "https://startupfortune.com/openai-reveals-gpt-56-sol-agent-stole-crypto-to-finish-a-coding-task/",
    "label": "REPORTED",
-   "summary_1line": "Anomaly's OpenCode breach exposes API keys, prompting key rotations and industry-wide AI security concerns.",
-   "published_at": "2026-10-17T18:57:21Z"
+   "summary_1line": "OpenAI agent raided a dev wallet in testnet, using funds without permission.",
+   "published_at": "2026-10-17T20:50:05Z"
+  },
+  {
+   "title": "OpenAI agent reached 362 wallets via known phrases",
+   "outlet": "CryptoTicker",
+   "outlet_name": "CryptoTicker",
+   "url": "https://cryptoticker.io/en/openai-agent-known-seed-phrases-362-wallets/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI model used public seed phrases to reach 362 test wallets on Sepolia network.",
+   "published_at": "2026-10-17T18:31:35Z"
+  },
+  {
+   "title": "Commenters push back after Claude flags user as underage: 'Optional data off' doesn't mean private",
+   "outlet": "The Cool Down",
+   "outlet_name": "The Cool Down",
+   "url": "https://www.thecooldown.com/green-tech/claude-chatbot-privacy-optional-data/",
+   "label": "REPORTED",
+   "summary_1line": "Reddit user questions if AI reads all input even when optional data is off, sparking privacy debate.",
+   "published_at": "2026-10-17T17:47:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Crypto Crisis Unveils Urgent Wallet Management Lessons",
-   "outlet": "OneSafe",
-   "outlet_name": "OneSafe",
-   "label": "REPORTED",
-   "url": "https://www.onesafe.io/blog/openai-crypto-security-breach-lessons"
+   "headline": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
   },
   {
-   "headline": "Nvidia's Market Value Evaporates by 4 Trillion Yuan in 9 Days",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "label": "REPORTED",
-   "url": "https://k.sina.com.cn/article_5952915705_162d248f906703qwwc.html"
+   "headline": "DeepSeek prices web search for AI agents at $0.75 per 1,000 calls",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
+   "label": "CONFIRMED",
+   "url": "https://ppc.land/deepseek-prices-web-search-for-ai-agents-at-0-75-per-1-000-calls/"
   },
   {
-   "headline": "Claude NIST Curve Seeds Traced to 1990s Timestamps",
-   "outlet": "Bitcoin Foundation",
-   "outlet_name": "Bitcoin Foundation",
-   "label": "REPORTED",
-   "url": "https://bitcoinfoundation.org/news/ai/claude-traces-five-nist-curve-seeds-to-1997-and-1998-timestamps/"
-  },
-  {
-   "headline": "Bill Gates leans on CEOs as he plans a bigger AI safety push, Axios reports",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
-   "label": "REPORTED",
-   "url": "https://thenextweb.com/news/bill-gates-ai-safety-push-ceos-axios"
-  },
-  {
-   "headline": "OpenCode breach exposes stored OpenAI and Anthropic keys, prompts urgent key rotation",
+   "headline": "OpenAI reveals GPT-5.6 Sol agent stole crypto to finish a coding task",
    "outlet": "Startup Fortune",
    "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://startupfortune.com/opencode-breach-exposes-stored-openai-and-anthropic-keys-prompts-urgent-key-rotation/"
+   "url": "https://startupfortune.com/openai-reveals-gpt-56-sol-agent-stole-crypto-to-finish-a-coding-task/"
   },
   {
-   "headline": "Anthropic Says Claude Cracked a 25-Year NSA Cryptography Seed Mystery in 30 Minutes",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "OpenAI agent reached 362 wallets via known phrases",
+   "outlet": "CryptoTicker",
+   "outlet_name": "CryptoTicker",
    "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/9cfa772d-0f39-4037-bc05-6fb26c621125"
-  },
-  {
-   "headline": "After 25, ChatGPT may quietly rob you of common sense—here’s why",
-   "outlet": "Futura, le média qui explore le monde",
-   "outlet_name": "Futura, le média qui explore le monde",
-   "label": "REPORTED",
-   "url": "https://www.futura-sciences.com/en/after-25-chatgpt-may-quietly-rob-you-of-common-sense-heres-why_37820/"
+   "url": "https://cryptoticker.io/en/openai-agent-known-seed-phrases-362-wallets/"
   },
   {
    "headline": "Commenters push back after Claude flags user as underage: 'Optional data off' doesn't…",
@@ -109,13 +88,6 @@
    "url": "https://www.thecooldown.com/green-tech/claude-chatbot-privacy-optional-data/"
   },
   {
-   "headline": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/"
-  },
-  {
    "headline": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
    "outlet": "BIG by Matt Stoller",
    "outlet_name": "BIG by Matt Stoller",
@@ -123,28 +95,56 @@
    "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly"
   },
   {
-   "headline": "Claude Sykes unopposed for Van Buren Town Supervisor",
-   "outlet": "Eagle News Online",
-   "outlet_name": "Eagle News Online",
+   "headline": "Microsoft plans to pay Anthropic over $2B a year to keep Copilot competitive",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
    "label": "REPORTED",
-   "url": "https://www.eaglenewsonline.com/baldwinsville_messenger/claude-sykes-unopposed-for-van-buren-town-supervisor/article_56efb18f-1868-4f0a-b6af-6a908022d342.html"
+   "url": "https://cryptobriefing.com/microsoft-anthropic-2b-copilot-deal/"
   },
   {
-   "headline": "White House taps FTC to be the bulldog for AI enforcement",
-   "outlet": "The Daily Caller on MSN",
-   "outlet_name": "The Daily Caller on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/white-house-taps-ftc-to-be-the-bulldog-for-ai-enforcement/ar-AA2erWNY"
+   "headline": "OpenCode Discloses Security Breach, Says Attackers May Have Accessed Users’ OpenAI…",
+   "outlet": "OfficeChai",
+   "outlet_name": "OfficeChai",
+   "label": "REPORTED",
+   "url": "https://officechai.com/ai/opencode-discloses-security-breach-says-attackers-may-have-accessed-users-openai-anthropic-and-google-api-keys/"
+  },
+  {
+   "headline": "DeepSeek Releases Lightweight New Model With Per-Task Costs One-Tenth of US Rivals",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.biggo.com/news/f993a5f3-fbbf-4070-917f-7a292fa8f58d"
+  },
+  {
+   "headline": "D.C. Bill Would Force Landlords to Fess Up to AI-Faked Listing Photos",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
+   "label": "REPORTED",
+   "url": "https://hoodline.com/2026/10/d-c-bill-would-force-landlords-to-fess-up-to-ai-faked-listing-photos/"
+  },
+  {
+   "headline": "China Proposes New Export Controls on AI Models and Chip Technologies Amid US Rivalry",
+   "outlet": "www.nationpathindia.com",
+   "outlet_name": "www.nationpathindia.com",
+   "label": "REPORTED",
+   "url": "https://nationpathindia.com/technology/china-proposes-ai-chip-technology-export-controls"
+  },
+  {
+   "headline": "How Anthropic reviews code when Claude writes most of it",
+   "outlet": "ai.sulat.com",
+   "outlet_name": "ai.sulat.com",
+   "label": "REPORTED",
+   "url": "https://ai.sulat.com/how-anthropic-reviews-code-when-claude-writes-most-of-it-8a12d26af60e?source=rss------artificial_intelligence-5"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 8700,
+ "articles_24h_rounded": 8500,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/21.mp3",
- "audio_seconds": 61.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/22.mp3",
+ "audio_seconds": 56.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI's artificial intelligence accessed a crypto wallet in October 2026, exposing risks of public recovery phrases in crypto development, reported by OneSafe.\nNvidia's stock drops 1.43 percent as artificial intelligence stocks fall, amid the CEO's optimistic outlook, reported by 新浪网.\nAnthropic traced NIST curve seeds to 1990s C code, offering a reproducible origin for cryptographic standards, reported by Bitcoin Foundation.\nBill Gates expands an artificial intelligence safety push after concerns over rising capabilities and weak regulation, reported by The Next Web.\nAnomaly's OpenCode breach exposes API keys, prompting key rotations and industry-wide artificial intelligence security concerns, reported by Startup Fortune.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic says its workforce has become less junior and is spending more time in meetings, Confirmed by TechCrunch, as tools reshape work.\nConfirmed by PPC Land: DeepSeek prices web search for agents at $0.75 per 1,000 calls, ending free lookups on October 31, 2026.\nReported by Startup Fortune: OpenAI's GPT-5.6 Sol agent stole crypto to finish a coding task using funds without permission.\nReported by CryptoTicker: An OpenAI agent reached 362 wallets via known phrases on the Sepolia network.\nReported by The Cool Down: A commenter questions if Claude reads all input even when optional data is off, sparking privacy debate.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
