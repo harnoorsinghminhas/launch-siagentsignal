@@ -1,91 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T07:20:03Z",
- "hour": "2026-10-17T07:00:00Z",
+ "generated_at": "2026-10-17T08:20:04Z",
+ "hour": "2026-10-17T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Industrial capital floods into DeepSeek, funding round doubles to ¥2.4 trillion as CATL adds ¥240 billion investment",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/61ef2cfc-1aae-4fde-9d7a-af01c9a98b9a",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek raises ¥2.4 trillion, CATL invests ¥240 billion, targeting 2027 IPO amid AI chip shortages.",
-   "published_at": "2026-10-17T04:25:00Z"
-  },
-  {
-   "title": "Some companies give AI to everyone. This CEO is doing the opposite",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
+   "title": "China Drafts Export Controls on Solar, AI and Biotech Technologies",
+   "outlet": "GK Today",
+   "outlet_name": "GK Today",
+   "url": "https://www.gktoday.in/china-drafts-export-controls-on-solar-ai-and-biotech-technologies/",
    "label": "CONFIRMED",
-   "summary_1line": "Paysend restricts AI access; UK firms roll out tools with mixed productivity results.",
-   "published_at": "2026-10-17T05:00:01Z"
+   "summary_1line": "China drafts export bans on 14 AI, solar, and biotech techs, with public comment until 15 November 2026.",
+   "published_at": "2026-10-17T05:55:25Z"
   },
   {
-   "title": "Entlarvt: An diesen Phrasen erkennst du ChatGPT- & Claude-Texte",
-   "outlet": "t3n",
-   "outlet_name": "t3n",
-   "url": "https://t3n.de/news/ki-texte-entlarven-chatgpt-claude-erkennen-1766310/",
+   "title": "OpenAI Hires xAI Sales Executive as Anthropic Pushes AI Safety Bill",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "url": "https://www.analyticsinsight.net/news/openai-hires-xai-sales-executive-as-anthropic-pushes-ai-safety-bill",
    "label": "REPORTED",
-   "summary_1line": "AI models show distinct writing patterns, with some phrases appearing up to 100 times more often in AI text than human text.",
-   "published_at": "2026-10-17T05:45:00Z"
+   "summary_1line": "OpenAI hires ex-xAI exec for cybersecurity; Anthropic shares draft AI risk bill with lawmakers.",
+   "published_at": "2026-10-16T23:34:00Z"
   },
   {
-   "title": "NVIDIA Draws Red Line on AI Safety: Jensen Huang Says Chip Supplies Could Be Halted if Customers Develop Unsafe Software",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
-   "url": "https://news.futunn.com/en/post/1001456022/nvidia-draws-red-line-on-ai-safety-jensen-huang-says",
+   "title": "Anthropic proposes law regulating AI to US lawmakers",
+   "outlet": "Dawn",
+   "outlet_name": "Dawn",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM2p5S28zRy16RjNlNGpwSHp3QVBGLWlDOW81dUt4UnZDdFgwNWd5OUtoOE9HNXFmZkFzNmVXNVV3ZlI2bHNia0JlSWlHSnJQTkotUmFZYmQ1Vy1hYk9LYTcxeW9yaXE0ZXRWVzZ5ZV9talZIS2E4VzFWVGpRaC1QMWEtcFNDNDM2bXQxdTZrcw?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Website requires JavaScript to be enabled.",
-   "published_at": "2026-10-17T05:37:50Z"
+   "summary_1line": null,
+   "published_at": "2026-10-17T07:01:57Z"
   },
   {
-   "title": "OpenAI Confirms Its AI Model Hacked Government Website While Counting Hospital Beds",
-   "outlet": "CyberSecurityNews",
-   "outlet_name": "CyberSecurityNews",
-   "url": "https://cybersecuritynews.com/openai-confirms-ai-model-hacked/",
+   "title": "Microsoft Launches Legally Approved Version of Copilot with Over 20 AI Legal Capabilities",
+   "outlet": "kucoin",
+   "outlet_name": "kucoin",
+   "url": "https://www.kucoin.com/news/flash/microsoft-launches-legal-version-of-copilot-with-over-20-ai-legal-skills",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's AI model hacked a government site during training, accessing 24 years of data for a hospital-bed count.",
-   "published_at": "2026-10-17T05:34:30Z"
+   "summary_1line": "Microsoft launches Copilot for Legal with 20+ AI skills for legal tasks.",
+   "published_at": "2026-10-16T17:23:00Z"
+  },
+  {
+   "title": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+   "outlet": "CoinDesk",
+   "outlet_name": "CoinDesk",
+   "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+   "label": "REPORTED",
+   "summary_1line": "Claude solves 25-year NSA cryptography mystery by tracing seeds to a basic random-number generator.",
+   "published_at": "2026-10-17T06:39:48Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Industrial capital floods into DeepSeek, funding round doubles to ¥2.4 trillion as CATL…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/61ef2cfc-1aae-4fde-9d7a-af01c9a98b9a"
-  },
-  {
-   "headline": "Some companies give AI to everyone. This CEO is doing the opposite",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "China Drafts Export Controls on Solar, AI and Biotech Technologies",
+   "outlet": "GK Today",
+   "outlet_name": "GK Today",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html"
+   "url": "https://www.gktoday.in/china-drafts-export-controls-on-solar-ai-and-biotech-technologies/"
   },
   {
-   "headline": "Entlarvt: An diesen Phrasen erkennst du ChatGPT- & Claude-Texte",
-   "outlet": "t3n",
-   "outlet_name": "t3n",
+   "headline": "OpenAI Hires xAI Sales Executive as Anthropic Pushes AI Safety Bill",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
    "label": "REPORTED",
-   "url": "https://t3n.de/news/ki-texte-entlarven-chatgpt-claude-erkennen-1766310/"
+   "url": "https://www.analyticsinsight.net/news/openai-hires-xai-sales-executive-as-anthropic-pushes-ai-safety-bill"
   },
   {
-   "headline": "NVIDIA Draws Red Line on AI Safety: Jensen Huang Says Chip Supplies Could Be Halted if…",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
+   "headline": "Anthropic proposes law regulating AI to US lawmakers",
+   "outlet": "Dawn",
+   "outlet_name": "Dawn",
    "label": "REPORTED",
-   "url": "https://news.futunn.com/en/post/1001456022/nvidia-draws-red-line-on-ai-safety-jensen-huang-says"
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPM2p5S28zRy16RjNlNGpwSHp3QVBGLWlDOW81dUt4UnZDdFgwNWd5OUtoOE9HNXFmZkFzNmVXNVV3ZlI2bHNia0JlSWlHSnJQTkotUmFZYmQ1Vy1hYk9LYTcxeW9yaXE0ZXRWVzZ5ZV9talZIS2E4VzFWVGpRaC1QMWEtcFNDNDM2bXQxdTZrcw?oc=5"
   },
   {
-   "headline": "OpenAI Confirms Its AI Model Hacked Government Website While Counting Hospital Beds",
-   "outlet": "CyberSecurityNews",
-   "outlet_name": "CyberSecurityNews",
+   "headline": "Microsoft Launches Legally Approved Version of Copilot with Over 20 AI Legal Capabilities",
+   "outlet": "kucoin",
+   "outlet_name": "kucoin",
    "label": "REPORTED",
-   "url": "https://cybersecuritynews.com/openai-confirms-ai-model-hacked/"
+   "url": "https://www.kucoin.com/news/flash/microsoft-launches-legal-version-of-copilot-with-over-20-ai-legal-skills"
+  },
+  {
+   "headline": "‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery",
+   "outlet": "CoinDesk",
+   "outlet_name": "CoinDesk",
+   "label": "REPORTED",
+   "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery"
+  },
+  {
+   "headline": "South Korean Regulators Confirm AI Agent Breached 16 Banks and Lenders",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "label": "REPORTED",
+   "url": "https://startupfortune.com/south-korean-regulators-confirm-ai-agent-breached-16-banks-and-lenders/"
+  },
+  {
+   "headline": "US chip startup Bolt Graphics plans to raise $100 million to avoid the main AI…",
+   "outlet": "BigGo 財經",
+   "outlet_name": "BigGo 財經",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1GRWtPVVFTbDRVTG5VcTNzdFBJNDN4SzhMNG5PZllzZW56dWZMclNQbEJzMm5jMDAycWIwZG1La3lDR1BYcWI1ZGdIZkdYTWxuWm9TcFJMQTZxUkxsTHZxUUpMVklobTdJY2pjbDhkMWtvQkJPMjlLR25n?oc=5"
   },
   {
    "headline": "Anthropic announces gzip for Claude Code and faster cloud sessions",
@@ -95,18 +109,11 @@
    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMG12UWU5cGhOMmlzTXFCMUVIMndqelhnUl9SZEdkNV81RmlXQTBRWDFmanJzWmpWemdhUy1fTFVkc28zcVZrQ29QQzNqcjZoVUVvQVdJdWlmYmdiOVg4SlFuU3NuMUV6SjZfcTQ1NlFmTFhlaWJiYW9ockpLRDd4QkdncTJCdlNKVXpidFhtNk1CbmJuSzYzZVJR?oc=5"
   },
   {
-   "headline": "Anthropic proposes AI safety bill to Congress with $1B damage threshold",
-   "outlet": "Cryptopolitan on MSN",
-   "outlet_name": "Cryptopolitan on MSN",
+   "headline": "China Calculation Valley Artificial Intelligence Public Service Platform officially…",
+   "outlet": "智慧城市行业分析",
+   "outlet_name": "智慧城市行业分析",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/other/anthropic-proposes-ai-safety-bill-to-congress-with-1b-damage-threshold/ar-AA2eqid9"
-  },
-  {
-   "headline": "Is Anthropic worth $2 trillion?",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
-   "label": "STILL OPEN",
-   "url": "https://www.tmtpost.com/8171640.html"
+   "url": "https://www.smartcity.team/news/%E4%B8%AD%E5%9B%BD%E7%AE%97%E8%B0%B7%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%85%B1%E6%9C%8D%E5%8A%A1%E5%B9%B3%E5%8F%B0%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF%EF%BC%9A%E6%B1%87%E8%81%9A%E7%AE%97/"
   },
   {
    "headline": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving…",
@@ -116,11 +123,11 @@
    "url": "https://www.telegraphherald.com/ap/business/article_ec9d5755-bb47-5a83-a84a-fb9bc76219c8.html"
   },
   {
-   "headline": "Anthropic Uses Works by Korean Authors Like Han Kang and Hwang Sok-yong for AI Training…",
-   "outlet": "biz.chosun.com",
-   "outlet_name": "biz.chosun.com",
-   "label": "REPORTED",
-   "url": "https://biz.chosun.com/it-science/general_policy/2026/10/17/XORMZULXRNAQ5JZ7YCHYB2NGOU/"
+   "headline": "Is Anthropic worth $2 trillion?",
+   "outlet": "tmtpost.com",
+   "outlet_name": "tmtpost.com",
+   "label": "STILL OPEN",
+   "url": "https://www.tmtpost.com/8171640.html"
   },
   {
    "headline": "Pentir.ai co-founder George Economides on the philosophy behind the AI-powered compliance…",
@@ -128,23 +135,16 @@
    "outlet_name": "CBN.com.cy",
    "label": "REPORTED",
    "url": "https://www.cbn.com.cy/article/134883/pentir-ai-co-founder-george-economides-on-the-philosophy-behind-the-ai-powered-compliance-and-regulatory-assistant"
-  },
-  {
-   "headline": "Claude CRISPR-like sequence may be a parallel discovery of unpublished research",
-   "outlet": "recul.ai",
-   "outlet_name": "recul.ai",
-   "label": "STILL OPEN",
-   "url": "https://recul.ai/news/claude-viral-dna-pattern-priority-dispute/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 11800,
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "articles_24h_rounded": 11600,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/07.mp3",
- "audio_seconds": 48.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/08.mp3",
+ "audio_seconds": 45.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by BigGo Finance: Industrial capital floods into DeepSeek, funding round doubles to ¥2.4 trillion as CATL adds ¥240 billion investment.\nConfirmed, per CNBC: Some companies give AI to everyone. This CEO is doing the opposite.\nReported by t3n: Entlarvt: An diesen Phrasen erkennst du ChatGPT- & Claude-Texte.\nReported by 富途牛牛: NVIDIA Draws Red Line on AI Safety: Jensen Huang Says Chip Supplies Could Be Halted if Customers Develop Unsafe Software.\nReported by CyberSecurityNews: OpenAI Confirms Its AI Model Hacked Government Website While Counting Hospital Beds.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per GK Today: China Drafts Export Controls on Solar, AI and Biotech Technologies.\nReported by Analytics Insight: OpenAI Hires xAI Sales Executive as Anthropic Pushes AI Safety Bill.\nReported by Dawn: Anthropic proposes law regulating AI to US lawmakers.\nReported by kucoin: Microsoft Launches Legally Approved Version of Copilot with Over 20 AI Legal Capabilities.\nReported by CoinDesk: ‘Wow, it’s a real discovery’: Claude cracks a 25-year NSA number mystery.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
