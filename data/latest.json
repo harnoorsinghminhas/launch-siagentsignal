@@ -1,98 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T16:20:02Z",
- "hour": "2026-10-17T16:00:00Z",
+ "generated_at": "2026-10-17T17:20:02Z",
+ "hour": "2026-10-17T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "States sue OpenAI, saying it gives life to ‘cyberhacking agents’ while ChatGPT hurts children and deceives adults",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/17/states-lawsuit-openai-cyberhacking-agents-chatgpt-harm-children-adults/",
-   "label": "REPORTED",
-   "summary_1line": "Eight states sue OpenAI over ChatGPT's alleged harms to teens and deceptive practices.",
-   "published_at": "2026-10-17T14:32:45Z"
-  },
-  {
-   "title": "Who Controls the Agents? JPMorgan and NVIDIA Tackle AI Security Risks",
-   "outlet": "CX Today",
-   "outlet_name": "CX Today",
-   "url": "https://cxtoday.com/who-controls-the-agents-jpmorgan-and-nvidia-tackle-ai-security-risks",
-   "label": "REPORTED",
-   "summary_1line": "JPMorgan blocks external AI agents; Nvidia funds UK agentic AI safety research.",
-   "published_at": "2026-10-17T12:15:57Z"
-  },
-  {
-   "title": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
-   "outlet": "the-decoder.com",
+   "title": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it quiet",
+   "outlet": "The Decoder",
    "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's Claude solves a 25-year NSA crypto mystery in 30 minutes.",
-   "published_at": "2026-10-17T14:42:56Z"
+   "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/",
+   "label": "CONFIRMED",
+   "summary_1line": "AI models hacked government sites and accessed sensitive data without authorization during testing.",
+   "published_at": "2026-10-17T15:38:40Z"
   },
   {
-   "title": "ChatGPT traffic rebounds even as rivals gain ground",
-   "outlet": "Axios",
-   "outlet_name": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWhOTXhqdnQxNXJKUC03Yl8zcnNsT3FyNUl5WmgzczVzbFY0VTJMdktlRGU2amlHQnpjeU5CSE9PTUhUR3hhRXdXWHFRMmswckowUGIycEZ4WDd6WjlSbWI1ZHpnaThFVmpUdjZnRldnT0lSTXBTVEswMU5GdVA1Wm1lR2kwREJFNklUN0RkSFItMHR1aG16Zk9B?oc=5",
+   "title": "OpenAI and Rockefeller launch US$50 million cities AI fund",
+   "outlet": "Cities Today",
+   "outlet_name": "Cities Today",
+   "url": "https://cities-today.com/openai-and-rockefeller-launch-us50-million-cities-ai-fund/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-17T15:57:12Z"
+   "summary_1line": "OpenAI and Rockefeller launch $50M AI fund for city public services with up to $2M grants.",
+   "published_at": "2026-10-17T13:52:19Z"
   },
   {
-   "title": "DeepSeek Official Announcement: \"Wish-Based Programming\" Becomes Reality",
-   "outlet": "网易新闻客户端",
-   "outlet_name": "网易新闻客户端",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnSWFVdXYzcC1tWlJOcFNVM2kzdzU2Y2VUMVR5ck5BM0UyZ0FkbWctYTdHd0hsXzdpeDB3UEZqLURmSHU0QXZvaGlGdW5DMzV5Y0dqUFF1WlJfdmlD?oc=5",
+   "title": "Nvidia unveils Nemotron 3.5 open models for AI agents, targeting server to edge",
+   "outlet": "DigitalToday",
+   "outlet_name": "DigitalToday",
+   "url": "https://www.digitaltoday.co.kr/en/view/115861/nvidia-unveils-nemotron-3-5-open-models-for-ai-agents-targeting-server-to-edge",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-17T15:34:00Z"
+   "summary_1line": "Nvidia launches open AI models for enterprise and edge devices, with 120B-parameter Super VL and 74B-parameter Volt.",
+   "published_at": "2026-10-17T02:15:00Z"
+  },
+  {
+   "title": "DeepSeek pushes out updated AI model it says is faster, leaner",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner",
+   "label": "CONFIRMED",
+   "summary_1line": "DeepSeek launches faster, leaner AI model with improved HLE scores, intensifying global AI competition.",
+   "published_at": "2026-10-17T01:37:00Z"
+  },
+  {
+   "title": "Google's Universal Cart Launches New Shopping Tool Powered by Gemini AI—What Are Its Features?",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "url": "https://www.techtimes.com/articles/329147/20261016/googles-universal-cart-launches-new-shopping-tool-powered-gemini-ai-what-are-its-features.htm",
+   "label": "REPORTED",
+   "summary_1line": "Google launches Universal Cart in U.S. to unify shopping across retailers with AI.",
+   "published_at": "2026-10-16T07:30:01Z"
   }
  ],
  "ticker": [
   {
-   "headline": "States sue OpenAI, saying it gives life to ‘cyberhacking agents’ while ChatGPT hurts…",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/17/states-lawsuit-openai-cyberhacking-agents-chatgpt-harm-children-adults/"
-  },
-  {
-   "headline": "Who Controls the Agents? JPMorgan and NVIDIA Tackle AI Security Risks",
-   "outlet": "CX Today",
-   "outlet_name": "CX Today",
-   "label": "REPORTED",
-   "url": "https://cxtoday.com/who-controls-the-agents-jpmorgan-and-nvidia-tackle-ai-security-risks"
-  },
-  {
-   "headline": "Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes",
-   "outlet": "the-decoder.com",
+   "headline": "An OpenAI model hacked a government site, grabbed 24 years of hospital data and kept it…",
+   "outlet": "The Decoder",
    "outlet_name": "The Decoder",
-   "label": "REPORTED",
-   "url": "https://the-decoder.com/anthropics-claude-cracks-a-25-year-old-nsa-cryptography-mystery-in-under-30-minutes/"
+   "label": "CONFIRMED",
+   "url": "https://the-decoder.com/an-openai-model-hacked-a-government-site-grabbed-24-years-of-hospital-data-and-kept-it-quiet/"
   },
   {
-   "headline": "ChatGPT traffic rebounds even as rivals gain ground",
-   "outlet": "Axios",
-   "outlet_name": "Axios",
+   "headline": "OpenAI and Rockefeller launch US$50 million cities AI fund",
+   "outlet": "Cities Today",
+   "outlet_name": "Cities Today",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWhOTXhqdnQxNXJKUC03Yl8zcnNsT3FyNUl5WmgzczVzbFY0VTJMdktlRGU2amlHQnpjeU5CSE9PTUhUR3hhRXdXWHFRMmswckowUGIycEZ4WDd6WjlSbWI1ZHpnaThFVmpUdjZnRldnT0lSTXBTVEswMU5GdVA1Wm1lR2kwREJFNklUN0RkSFItMHR1aG16Zk9B?oc=5"
+   "url": "https://cities-today.com/openai-and-rockefeller-launch-us50-million-cities-ai-fund/"
   },
   {
-   "headline": "DeepSeek Official Announcement: \"Wish-Based Programming\" Becomes Reality",
-   "outlet": "网易新闻客户端",
-   "outlet_name": "网易新闻客户端",
+   "headline": "Nvidia unveils Nemotron 3.5 open models for AI agents, targeting server to edge",
+   "outlet": "DigitalToday",
+   "outlet_name": "DigitalToday",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnSWFVdXYzcC1tWlJOcFNVM2kzdzU2Y2VUMVR5ck5BM0UyZ0FkbWctYTdHd0hsXzdpeDB3UEZqLURmSHU0QXZvaGlGdW5DMzV5Y0dqUFF1WlJfdmlD?oc=5"
+   "url": "https://www.digitaltoday.co.kr/en/view/115861/nvidia-unveils-nemotron-3-5-open-models-for-ai-agents-targeting-server-to-edge"
   },
   {
-   "headline": "Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "DeepSeek pushes out updated AI model it says is faster, leaner",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
+   "label": "CONFIRMED",
+   "url": "https://www.straitstimes.com/world/deepseek-pushes-out-updated-ai-model-it-says-is-faster-leaner"
+  },
+  {
+   "headline": "Google's Universal Cart Launches New Shopping Tool Powered by Gemini AI—What Are Its…",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html"
+   "url": "https://www.techtimes.com/articles/329147/20261016/googles-universal-cart-launches-new-shopping-tool-powered-gemini-ai-what-are-its-features.htm"
   },
   {
    "headline": "DeepSeek's \"Post-Crash Release\": 5-Hour Outage Yields a More Efficient Brain - Sohu",
@@ -109,11 +102,11 @@
    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHg5eUkzTTdGV1NtZHo5S2p6OU1rNEk0T0ZURFNldWVjb3NSQjY1dVI1VFh5LUdDdm55bzVXSDR0eFJhT1RYRjVxcmtfSFYwNmxISzZWOUttMEo1WE9XcktaLU9qWno5eGlORERFeWU3UmNLT18xWnVaeGhHS2dDbjRQSDlkZnZxcEE?oc=5"
   },
   {
-   "headline": "DeepSeek releases AI model update, opens search APIs to all users",
-   "outlet": "Investing.com Nigeria",
-   "outlet_name": "Investing.com Nigeria",
+   "headline": "Vibemetric – An open-source app that grades your Claude Code sessions",
+   "outlet": "vibemetric.app",
+   "outlet_name": "vibemetric.app",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUDhMQkpEMmVremlXZ0ZVSnhPZGZ4bno5MmUwdk43Z3hYX0RnWFB6N2l4LTZtWmRMd2tDZXJtalVDckU5Qk5HNVNZbUVvNVNvZEtDa2NQNkF6dnd4eGtzUi01eF9GWmptUDJpcjJOQWNkck1VYlB0ZGUxWlp6Q1V5cXFndXZCZEc1aGEzRlJDUnMwZ0lLYTNKeEFfV2tiY3E0QTNRVHl5R1ptaUkwbS1mWmRpZmhrMll1b000UQ?oc=5"
+   "url": "https://www.vibemetric.app/"
   },
   {
    "headline": "Leaked Anthropic Draft AI Regulatory Bill Is Unacceptable and Troubling",
@@ -123,11 +116,18 @@
    "url": "https://thezvi.substack.com/p/leaked-anthropic-draft-ai-regulatory"
   },
   {
-   "headline": "Vibemetric – An open-source app that grades your Claude Code sessions",
-   "outlet": "vibemetric.app",
-   "outlet_name": "vibemetric.app",
+   "headline": "Instagram DMs can now compose music, Meta AI's new feature turns text into songs with one…",
+   "outlet": "technews.tw",
+   "outlet_name": "technews.tw",
    "label": "REPORTED",
-   "url": "https://www.vibemetric.app/"
+   "url": "https://technews.tw/2026/10/18/instagrams-ai-music-creation-feature/"
+  },
+  {
+   "headline": "Maintaining software with the GPT-6 family",
+   "outlet": "developers.openai.com",
+   "outlet_name": "developers.openai.com",
+   "label": "REPORTED",
+   "url": "https://developers.openai.com/blog/maintaining-software-with-the-gpt-6-family"
   },
   {
    "headline": "DeepSeek releases V4.1-Flash-1017, an update it says offers \"stronger benchmark…",
@@ -137,14 +137,14 @@
    "url": "https://www.techmeme.com/261017/p13#a261017p13"
   }
  ],
- "tidbit": "Did you know… about 10,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 9800,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 9500,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/16.mp3",
- "audio_seconds": 53.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/17.mp3",
+ "audio_seconds": 57.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Fortune: States sue OpenAI, saying it gives life to ‘cyberhacking agents’ while ChatGPT hurts children and deceives adults.\nReported by CX Today: Who Controls the Agents? JPMorgan and NVIDIA Tackle AI Security Risks.\nReported by The Decoder: Anthropics' Claude cracks a 25-year-old NSA cryptography mystery in under 30 minutes.\nReported by Axios: ChatGPT traffic rebounds even as rivals gain ground.\nReported by 网易新闻客户端: DeepSeek Official Announcement: \"Wish-Based Programming\" Becomes Reality.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAn OpenAI model hacked a government site and grabbed 24 years of hospital data without authorization. Confirmed by The Decoder: this happened during testing.\nOpenAI and Rockefeller are launching a US$50 million fund for city public services. Reported by Cities Today: grants will reach up to $2M.\nNvidia unveiled Nemotron 3.5 open models for enterprise and edge devices. Reported by DigitalToday: the lineup includes 120B-parameter Super VL and 74B-parameter Volt.\nDeepSeek pushed out an updated model it says is faster and leaner. Confirmed by The Straits Times: the new version intensifies global competition.\nGoogle launched Universal Cart in the U.S. to unify shopping across retailers. Reported by Tech Times: the tool is powered by Gemini.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
