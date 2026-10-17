@@ -1,126 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T19:20:02Z",
- "hour": "2026-10-17T19:00:00Z",
+ "generated_at": "2026-10-17T20:20:02Z",
+ "hour": "2026-10-17T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic Pitches US Lawmakers Bill to Block AI Models Posing Imminent Threats",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "url": "https://www.tekedia.com/anthropic-pitches-us-lawmakers-bill-to-block-ai-models-posing-imminent-threats/",
+   "title": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
+   "url": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic pitches draft AI safety bill with $1B+ and 50+ person risk thresholds.",
-   "published_at": "2026-10-17T07:47:30Z"
+   "summary_1line": "DeepSeek releases updated model with stronger scores and opens APIs for developers.",
+   "published_at": "2026-10-17T08:53:58Z"
   },
   {
-   "title": "Taiwan reportedly plans export controls on AI servers and chips",
-   "outlet": "NeoTeo",
-   "outlet_name": "NeoTeo",
-   "url": "https://www.neoteo.com/en/taiwan-reportedly-plans-export-controls-on-ai-servers-and-chips",
-   "label": "STILL OPEN",
-   "summary_1line": "Taiwan expands AI chip export controls, aligning with U.S. measures and imposing up to five years in prison and $92,500 fine.",
-   "published_at": "2026-10-17T17:19:12Z"
-  },
-  {
-   "title": "Replit is no longer working with Anthropic, CEO says",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+   "title": "AI Boom Makes Nvidia Tesla V100 GPU More Expensive",
+   "outlet": "eTeknix",
+   "outlet_name": "eTeknix",
+   "url": "https://www.eteknix.com/ai-boom-makes-nvidia-tesla-v100-gpu-more-expensive/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-17T18:48:08Z"
+   "summary_1line": "Tesla V100 prices rose $200 due to demand for home AI servers.",
+   "published_at": "2026-10-17T18:19:10Z"
   },
   {
-   "title": "DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks",
-   "outlet": "ProPakistani",
-   "outlet_name": "ProPakistani",
-   "url": "https://propakistani.pk/2026/10/17/deepseek-v4-1-flash-gets-new-model-with-big-coding-gains-cheaper-agent-tasks/",
+   "title": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/robots-and-ai-could-reach-80-of-work-but-rarely-cheaply-anthropic-says",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek's new Flash model beats rivals in coding with lower cost and opens search to developers.",
-   "published_at": "2026-10-17T15:45:24Z"
+   "summary_1line": "AI and robots could handle 80% of American work, with robots targeting physical jobs like driving and packing.",
+   "published_at": "2026-10-17T18:18:22Z"
   },
   {
-   "title": "AI inventory robot — LA Supermarkets Roll Out Automation as Workers Fear Job Cuts",
-   "outlet": "The Korea Daily",
-   "outlet_name": "The Korea Daily",
-   "url": "https://en.koreadaily.com/ai-inventory-robot-la-supermarkets/",
-   "label": "CONFIRMED",
-   "summary_1line": "Los Angeles grocery stores deploy AI robots to monitor stock, sparking worker and consumer concerns.",
-   "published_at": "2026-10-17T16:30:41Z"
+   "title": "Jensen Huang Recalls How a Single Return Call Saved Nvidia: On TSMC's Origins and Why 'Restrictions Are the Mother of Invention' for Chinese AI Firms",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/21ecad28-a884-413f-ac30-1de46824aed8",
+   "label": "REPORTED",
+   "summary_1line": "Huang recalls a 1996 call with TSMC that sparked a 30-year partnership and links compute scarcity to AI innovation in China.",
+   "published_at": "2026-10-17T18:18:00Z"
+  },
+  {
+   "title": "Google's Gemini AI helped disprove a 60 year old fusion physics conjecture",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/googles-gemini-ai-helped-disprove-a-60-year-old-fusion-physics-conjecture/",
+   "label": "REPORTED",
+   "summary_1line": "Grad's 60-year-old physics conjecture is broken with verified solutions for stellarator design.",
+   "published_at": "2026-10-17T18:15:55Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic Pitches US Lawmakers Bill to Block AI Models Posing Imminent Threats",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
+   "headline": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
    "label": "REPORTED",
-   "url": "https://www.tekedia.com/anthropic-pitches-us-lawmakers-bill-to-block-ai-models-posing-imminent-threats/"
+   "url": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/"
   },
   {
-   "headline": "Taiwan reportedly plans export controls on AI servers and chips",
-   "outlet": "NeoTeo",
-   "outlet_name": "NeoTeo",
-   "label": "STILL OPEN",
-   "url": "https://www.neoteo.com/en/taiwan-reportedly-plans-export-controls-on-ai-servers-and-chips"
-  },
-  {
-   "headline": "Replit is no longer working with Anthropic, CEO says",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "AI Boom Makes Nvidia Tesla V100 GPU More Expensive",
+   "outlet": "eTeknix",
+   "outlet_name": "eTeknix",
    "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/"
+   "url": "https://www.eteknix.com/ai-boom-makes-nvidia-tesla-v100-gpu-more-expensive/"
   },
   {
-   "headline": "DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks",
-   "outlet": "ProPakistani",
-   "outlet_name": "ProPakistani",
+   "headline": "Robots and AI could reach 80% of work but rarely cheaply, Anthropic says",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
    "label": "REPORTED",
-   "url": "https://propakistani.pk/2026/10/17/deepseek-v4-1-flash-gets-new-model-with-big-coding-gains-cheaper-agent-tasks/"
+   "url": "https://thenextweb.com/news/robots-and-ai-could-reach-80-of-work-but-rarely-cheaply-anthropic-says"
   },
   {
-   "headline": "AI inventory robot — LA Supermarkets Roll Out Automation as Workers Fear Job Cuts",
-   "outlet": "The Korea Daily",
-   "outlet_name": "The Korea Daily",
+   "headline": "Jensen Huang Recalls How a Single Return Call Saved Nvidia: On TSMC's Origins and Why…",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.biggo.com/news/21ecad28-a884-413f-ac30-1de46824aed8"
+  },
+  {
+   "headline": "Google's Gemini AI helped disprove a 60 year old fusion physics conjecture",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "label": "REPORTED",
+   "url": "https://startupfortune.com/googles-gemini-ai-helped-disprove-a-60-year-old-fusion-physics-conjecture/"
+  },
+  {
+   "headline": "Anthropic Says Claude Cracked a 25-Year NSA Cryptography Seed Mystery in 30 Minutes",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.biggo.com/news/9cfa772d-0f39-4037-bc05-6fb26c621125"
+  },
+  {
+   "headline": "After 25, ChatGPT may quietly rob you of common sense—here’s why",
+   "outlet": "Futura, le média qui explore le monde",
+   "outlet_name": "Futura, le média qui explore le monde",
+   "label": "REPORTED",
+   "url": "https://www.futura-sciences.com/en/after-25-chatgpt-may-quietly-rob-you-of-common-sense-heres-why_37820/"
+  },
+  {
+   "headline": "OpenAI Crypto Crisis Unveils Urgent Wallet Management Lessons",
+   "outlet": "OneSafe",
+   "outlet_name": "OneSafe",
+   "label": "REPORTED",
+   "url": "https://www.onesafe.io/blog/openai-crypto-security-breach-lessons"
+  },
+  {
+   "headline": "Claude Sykes unopposed for Van Buren Town Supervisor",
+   "outlet": "Eagle News Online",
+   "outlet_name": "Eagle News Online",
+   "label": "REPORTED",
+   "url": "https://www.eaglenewsonline.com/baldwinsville_messenger/claude-sykes-unopposed-for-van-buren-town-supervisor/article_56efb18f-1868-4f0a-b6af-6a908022d342.html"
+  },
+  {
+   "headline": "Musk tells Isaacson only AI and robots can fix US debt, Axios reports",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
    "label": "CONFIRMED",
-   "url": "https://en.koreadaily.com/ai-inventory-robot-la-supermarkets/"
+   "url": "https://thenextweb.com/news/musk-tells-isaacson-only-ai-and-robots-can-fix-us-debt-axios-reports"
   },
   {
-   "headline": "DeepSeek V4.1 Flash New Version Launched: Wish-Based Programming Comes True with One…",
-   "outlet": "cnBeta.COM",
-   "outlet_name": "cnBeta.COM",
+   "headline": "White House taps FTC to be the bulldog for AI enforcement",
+   "outlet": "The Daily Caller on MSN",
+   "outlet_name": "The Daily Caller on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1582656.htm"
-  },
-  {
-   "headline": "At Anthropic, Junior Jobs Are Shrinking",
-   "outlet": "www.trendingtopics.eu",
-   "outlet_name": "www.trendingtopics.eu",
-   "label": "REPORTED",
-   "url": "https://www.trendingtopics.eu/at-anthropic-junior-jobs-are-shrinking/"
-  },
-  {
-   "headline": "Vlada planira razviti hrvatski ChatGPT",
-   "outlet": "index.hr",
-   "outlet_name": "index.hr",
-   "label": "REPORTED",
-   "url": "https://www.index.hr/vijesti/clanak/vlada-planira-razviti-hrvatski-chatgpt/2846675.aspx?index_tid=1191777&index_ref=naslovnica_vijesti_najnovije_d"
-  },
-  {
-   "headline": "OpenAI açıkladı ! ChatGPT kendi kendine karar verip kripto para çaldı",
-   "outlet": "turkiyegazetesi.com.tr",
-   "outlet_name": "turkiyegazetesi.com.tr",
-   "label": "REPORTED",
-   "url": "https://www.turkiyegazetesi.com.tr/dunya/openai-acikladi-chatgpt-kendi-kendine-karar-verip-kripto-para-caldi-1823386"
-  },
-  {
-   "headline": "Claude Fable 5 Ends 87-Year Math Feud; BTC Reacts [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "STILL OPEN",
-   "url": "https://shattered.io/claude-fable-5-87-year-math-feud-bitcoin-2026/"
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/white-house-taps-ftc-to-be-the-bulldog-for-ai-enforcement/ar-AA2erWNY"
   },
   {
    "headline": "Two Mac Studios, $21K: Apple’s Nvidia AI Challenge [2026]",
@@ -128,23 +135,16 @@
    "outlet_name": "shattered.io",
    "label": "REPORTED",
    "url": "https://shattered.io/two-mac-studios-21k-apple-nvidia-ai-challenge-2026/"
-  },
-  {
-   "headline": "AI doktori na Jutjubu : Svetski biznis koji iskorišćava starije gledaoce",
-   "outlet": "naslovi.net",
-   "outlet_name": "naslovi.net",
-   "label": "CONFIRMED",
-   "url": "https://naslovi.net/2026-10-17/juzne-vesti/ai-doktori-na-jutjubu-svetski-biznis-koji-iskoriscava-starije-gledaoce/42498970"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 9000,
+ "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 8900,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/19.mp3",
- "audio_seconds": 48.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/20.mp3",
+ "audio_seconds": 56.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Tekedia: Anthropic Pitches US Lawmakers Bill to Block AI Models Posing Imminent Threats.\nStill open, per NeoTeo: Taiwan reportedly plans export controls on AI servers and chips.\nReported by TechCrunch: Replit is no longer working with Anthropic, CEO says.\nReported by ProPakistani: DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks.\nConfirmed, per The Korea Daily: AI inventory robot — LA Supermarkets Roll Out Automation as Workers Fear Job Cuts.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by MarkTechPost: DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API.\nReported by eTeknix: AI Boom Makes Nvidia Tesla V100 GPU More Expensive.\nReported by The Next Web: Robots and AI could reach 80% of work but rarely cheaply, Anthropic says.\nReported by BigGo Finance: Jensen Huang Recalls How a Single Return Call Saved Nvidia: On TSMC's Origins and Why 'Restrictions Are the Mother of Invention' for Chinese AI Firms.\nReported by Startup Fortune: Google's Gemini AI helped disprove a 60 year old fusion physics conjecture.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
