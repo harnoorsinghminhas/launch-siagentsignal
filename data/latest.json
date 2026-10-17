@@ -1,91 +1,70 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T10:20:02Z",
- "hour": "2026-10-17T10:00:00Z",
+ "generated_at": "2026-10-17T11:20:02Z",
+ "hour": "2026-10-17T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Can AI be regulated? Why experts say government intervention is needed — but could be tricky",
-   "outlet": "Yahoo News Canada",
-   "outlet_name": "Yahoo News Canada",
-   "url": "https://ca.news.yahoo.com/ai-regulated-why-experts-government-080000070.html",
+   "title": "NVIDIA RTX SPARK Launch Celebration at Best Buy in San Francisco",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/videos/nvidia-rtx-spark-launch-celebration-203329702.html",
    "label": "CONFIRMED",
-   "summary_1line": "Experts urge global AI regulation amid rapid development and risks of rogue AI.",
-   "published_at": "2026-10-17T08:00:00Z"
+   "summary_1line": "NVIDIA celebrates RTX SPARK launch at Best Buy in San Francisco.",
+   "published_at": "2026-10-16T20:33:29Z"
   },
   {
-   "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/",
-   "label": "STILL OPEN",
-   "summary_1line": "Mathematicians challenge OpenAI's Navier-Stokes proof and multi-agent contribution claims.",
-   "published_at": "2026-10-17T09:00:26Z"
+   "title": "ServiceNow and NVIDIA to Develop \"AI Passport\" for AI Agent Runtime Permission Control, Launching Q4 2026",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/10446f80-7b28-4f34-894d-19dced682f4e",
+   "label": "REPORTED",
+   "summary_1line": "ServiceNow and NVIDIA launch AI Passport for AI agent permission control in Q4 2026.",
+   "published_at": "2026-10-17T07:35:00Z"
   },
   {
-   "title": "Cross-Strait tightening technology controls! China plans to regulate export of 40 technologies including AI, Taiwan strictly blocks chip smuggling",
-   "outlet": "鉅亨網",
-   "outlet_name": "鉅亨網",
-   "url": "https://m.cnyes.com/news/id/6632558",
+   "title": "Anthropic's AI Workforce Experiment is Already Squeezing Out Junior Jobs as Agents Work Six Times More Than Staff",
+   "outlet": "International Business Times Singapore",
+   "outlet_name": "International Business Times Singapore",
+   "url": "https://www.ibtimes.sg/anthropics-ai-workforce-experiment-already-squeezing-out-junior-jobs-agents-work-six-times-more-95235",
    "label": "CONFIRMED",
-   "summary_1line": "China adds 40 techs to export list, Taiwan tightens AI hardware controls to block illegal shipments.",
-   "published_at": "2026-10-16T23:10:40Z"
+   "summary_1line": "Anthropic's AI agents now work six times more than humans, cutting junior hires to 9%.",
+   "published_at": "2026-10-16T19:56:00Z"
   },
   {
-   "title": "Anthropic proposes federal AI safety law to US Congress",
-   "outlet": "Yeni Şafak English",
-   "outlet_name": "Yeni Şafak English",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZNSldQeDg2UVpGS1pIdDdnWVllTVJkQTBjVUcxckI2R2ZUeEdkS09IalRzZDdFUVRRYUZpQmRhYlR6MXN2WElhT0NkdUVQVjFEcFhHdlV0Z0ZkTVBHdm53M202TDlVMmgzSEJzTF9tSmE1WTdUOGJTajVuWW9ZZFFXdzlCWjlfTmRaLVBZZklDUEFmNW1OaW53?oc=5",
+   "title": "China Plans AI Export Controls Covering Advanced Models, Agents and Chip Designs",
+   "outlet": "International Business Times Singapore",
+   "outlet_name": "International Business Times Singapore",
+   "url": "https://www.ibtimes.sg/china-plans-ai-export-controls-covering-advanced-models-agents-chip-designs-95232",
+   "label": "CONFIRMED",
+   "summary_1line": "China proposes AI export controls for 23 technologies, including models over 2 trillion parameters.",
+   "published_at": "2026-10-16T19:01:00Z"
+  },
+  {
+   "title": "DeepSeek new model debuts, users have to pay even less for AI",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVS1lLRGUyR1dhSEJVTjhLOURub0lPcF82QmI2T2FTNzRXWVlTR0huQTZJaDZZaV9jWU50TTBtV1pMSXVHeWUxWnRvbUw?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-17T08:30:42Z"
-  },
-  {
-   "title": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
-   "outlet": "The Quantum Insider",
-   "outlet_name": "The Quantum Insider",
-   "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic and Harvard used AI to design quantum circuits cutting operations and qubits by up to 12x.",
-   "published_at": "2026-10-17T08:12:06Z"
+   "published_at": "2026-10-17T10:09:34Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Can AI be regulated? Why experts say government intervention is needed — but could be…",
-   "outlet": "Yahoo News Canada",
-   "outlet_name": "Yahoo News Canada",
+   "headline": "NVIDIA RTX SPARK Launch Celebration at Best Buy in San Francisco",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
    "label": "CONFIRMED",
-   "url": "https://ca.news.yahoo.com/ai-regulated-why-experts-government-080000070.html"
+   "url": "https://tech.yahoo.com/videos/nvidia-rtx-spark-launch-celebration-203329702.html"
   },
   {
-   "headline": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "label": "STILL OPEN",
-   "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/"
-  },
-  {
-   "headline": "Cross-Strait tightening technology controls! China plans to regulate export of 40…",
-   "outlet": "鉅亨網",
-   "outlet_name": "鉅亨網",
-   "label": "CONFIRMED",
-   "url": "https://m.cnyes.com/news/id/6632558"
-  },
-  {
-   "headline": "Anthropic proposes federal AI safety law to US Congress",
-   "outlet": "Yeni Şafak English",
-   "outlet_name": "Yeni Şafak English",
+   "headline": "ServiceNow and NVIDIA to Develop \"AI Passport\" for AI Agent Runtime Permission Control…",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZNSldQeDg2UVpGS1pIdDdnWVllTVJkQTBjVUcxckI2R2ZUeEdkS09IalRzZDdFUVRRYUZpQmRhYlR6MXN2WElhT0NkdUVQVjFEcFhHdlV0Z0ZkTVBHdm53M202TDlVMmgzSEJzTF9tSmE1WTdUOGJTajVuWW9ZZFFXdzlCWjlfTmRaLVBZZklDUEFmNW1OaW53?oc=5"
-  },
-  {
-   "headline": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key…",
-   "outlet": "The Quantum Insider",
-   "outlet_name": "The Quantum Insider",
-   "label": "REPORTED",
-   "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/"
+   "url": "https://finance.biggo.com/news/10446f80-7b28-4f34-894d-19dced682f4e"
   },
   {
    "headline": "Anthropic's AI Workforce Experiment is Already Squeezing Out Junior Jobs as Agents Work…",
@@ -95,18 +74,46 @@
    "url": "https://www.ibtimes.sg/anthropics-ai-workforce-experiment-already-squeezing-out-junior-jobs-agents-work-six-times-more-95235"
   },
   {
-   "headline": "Nvidia holds domestic launch event for RTX Spark at Coex",
-   "outlet": "edaily.co.kr",
-   "outlet_name": "edaily.co.kr",
-   "label": "REPORTED",
-   "url": "https://www.edaily.co.kr/News/Read?newsId=02332086645613904&mediaCodeNo=257"
+   "headline": "China Plans AI Export Controls Covering Advanced Models, Agents and Chip Designs",
+   "outlet": "International Business Times Singapore",
+   "outlet_name": "International Business Times Singapore",
+   "label": "CONFIRMED",
+   "url": "https://www.ibtimes.sg/china-plans-ai-export-controls-covering-advanced-models-agents-chip-designs-95232"
   },
   {
-   "headline": "Corporate, state espionage are realities of the AI race, White House AI chief says after…",
-   "outlet": "Asianet Newsable on MSN",
-   "outlet_name": "Asianet Newsable on MSN",
+   "headline": "DeepSeek new model debuts, users have to pay even less for AI",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/corporate-state-espionage-are-realities-of-the-ai-race-white-house-ai-chief-says-after-openai-bugging-case/ar-AA2enqYX"
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBVS1lLRGUyR1dhSEJVTjhLOURub0lPcF82QmI2T2FTNzRXWVlTR0huQTZJaDZZaV9jWU50TTBtV1pMSXVHeWUxWnRvbUw?oc=5"
+  },
+  {
+   "headline": "DeepSeek officially announces new version",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjY5NjVqbmkybW5yR1dXRDhQcUlycXJXTTF2NGFwVXB3UkxQMTF5a1VxRHFzWVV4ZUVvNHpiZ0w0anRxSkpzUmplemhkcjBtQTFLenlUSXZ3WjBUSmc1YlFjV2drU1VadTVIaEdMZjdkMlRXNnZZU0FKQnhpRVJZcHJKMGdhRms5cmRwVUF1OVoxeU14N0xtaGhKNFh4LUhvMEpuZkU3Yw?oc=5"
+  },
+  {
+   "headline": "Anthropic quietly pitches draft bill to limit how Washington halts dangerous AI models…",
+   "outlet": "Business Today on MSN",
+   "outlet_name": "Business Today on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/anthropic-quietly-pitches-draft-bill-to-limit-how-washington-halts-dangerous-ai-models-report/ar-AA2eqcaz"
+  },
+  {
+   "headline": "Valuation plunges by 3.5 trillion, did Anthropic miss the best timing for going public?",
+   "outlet": "tmtpost.com",
+   "outlet_name": "tmtpost.com",
+   "label": "REPORTED",
+   "url": "https://www.tmtpost.com/8171993.html"
+  },
+  {
+   "headline": "DeepSeek Just Released V4.1-Flash-1017, Scores 77.0 on DeepSWE, Opens Search API",
+   "outlet": "marktechpost.com",
+   "outlet_name": "marktechpost.com",
+   "label": "REPORTED",
+   "url": "https://www.marktechpost.com/2026/10/17/deepseek-just-released-v4-1-flash-1017-scores-77-0-on-deepswe-opens-search-api/"
   },
   {
    "headline": "Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux",
@@ -116,35 +123,28 @@
    "url": "https://thevibehosting.com/"
   },
   {
-   "headline": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
-   "outlet": "vercel.com",
-   "outlet_name": "vercel.com",
-   "label": "CONFIRMED",
-   "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway"
+   "headline": "Anthropic circulates AI bill among US lawmakers — The Hindu",
+   "outlet": "UA.NEWS",
+   "outlet_name": "UA.NEWS",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSXVUSXNWamdmLWZpMGJXcmlGM1VSTkkwNUZtbnJuQVhYZElyM0tvLWc5Q0szb0tSUm12c3l1RVVLeXdUY2gwcWJkUExfaTNXd0VOT3M2LURIaFE4eWxCeGpRZWJ4MnhpU1phelkwMnZSUWhHc2M5S1ZGZGlpVzRpNmhJSTFiUWtueGczUEdGNy1vY3VIQUVVeTVSVjFNTjduOXJOb0NYRGNNQlRnRDZj?oc=5"
   },
   {
-   "headline": "Betting on the next step at the most profitable time, Jensen Huang leads NVIDIA in…",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
+   "headline": "Fetch.ai Launches ASI:One, an Innovative App Store for AI",
+   "outlet": "Cryptonews.net",
+   "outlet_name": "Cryptonews.net",
    "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/17/nvidia-completes-another-historic-transformation/"
-  },
-  {
-   "headline": "DeepSeek Harness v0.2.1-rc1 Arrives as an Unannounced V4.1 Flash Snapshot Briefly Surfaces",
-   "outlet": "pandaily.com",
-   "outlet_name": "pandaily.com",
-   "label": "REPORTED",
-   "url": "https://pandaily.com/deepseek-harness-v0-2-1-rc1-plugin-index-working-directory-v4-1-flash-1017-snapshot"
+   "url": "https://cryptonews.net/news/altcoins/33605815/"
   }
  ],
  "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 11100,
+ "articles_24h_rounded": 10900,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/10.mp3",
- "audio_seconds": 60.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/11.mp3",
+ "audio_seconds": 51.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nExperts urge global regulation amid rapid development and risks of rogue artificial intelligence, though government intervention could be tricky. Confirmed by Yahoo News Canada.\nMathematicians challenge OpenAI's Navier-Stokes proof and multi-agent contribution claims still open per The Decoder.\nChina adds 40 technologies to its export list including artificial intelligence, while Taiwan tightens controls to block illegal hardware shipments. Confirmed by 鉅亨網.\nReported by Yeni Şafak English: Anthropic proposes a federal artificial intelligence safety law to US Congress.\nAnthropic and Harvard used artificial intelligence to design quantum circuits cutting operations and qubits by up to 12 times. Reported by The Quantum Insider.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Yahoo Tech: NVIDIA RTX SPARK Launch Celebration at Best Buy in San Francisco.\nReported by BigGo Finance: ServiceNow and NVIDIA to Develop \"AI Passport\" for AI Agent Runtime Permission Control, Launching Q4 2026.\nConfirmed, per International Business Times Singapore: Anthropic's AI Workforce Experiment is Already Squeezing Out Junior Jobs as Agents Work Six Times More Than Staff.\nConfirmed, per International Business Times Singapore: China Plans AI Export Controls Covering Advanced Models, Agents and Chip Designs.\nReported by 凤凰网科技: DeepSeek new model debuts, users have to pay even less for AI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
