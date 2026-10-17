@@ -1,112 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-17T09:20:03Z",
- "hour": "2026-10-17T09:00:00Z",
+ "generated_at": "2026-10-17T10:20:02Z",
+ "hour": "2026-10-17T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic quietly pitches its own AI safety Bill to US lawmakers",
-   "outlet": "CNA",
-   "outlet_name": "CNA",
-   "url": "https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-us-lawmakers-6467581",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic pitches AI safety bill with $1B and 50-person risk thresholds to US lawmakers.",
-   "published_at": "2026-10-16T23:37:00Z"
+   "title": "Can AI be regulated? Why experts say government intervention is needed — but could be tricky",
+   "outlet": "Yahoo News Canada",
+   "outlet_name": "Yahoo News Canada",
+   "url": "https://ca.news.yahoo.com/ai-regulated-why-experts-government-080000070.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Experts urge global AI regulation amid rapid development and risks of rogue AI.",
+   "published_at": "2026-10-17T08:00:00Z"
   },
   {
-   "title": "Microsoft Copilot for Legal Brings AI to Lawyers and Law Firms",
-   "outlet": "Windows Report",
-   "outlet_name": "Windows Report",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSk02Y2JNWUItc1I1ck5xamtyTG03c1NRU1A4aG9qZi11SG16TWJaX1dUUnJsRXYzNW93RWVLTU1zcnYzRUJUOTQ0eU94RjhBUjA1WTJEWV8zcnA0ZVplaXhuRl80cHZSSlkzZHp0a2pXMXpBMlJWN1ZhWVFkd0xDUFRLcEJZOTVrRzdlWlg5TWh1MTA?oc=5",
+   "title": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/",
+   "label": "STILL OPEN",
+   "summary_1line": "Mathematicians challenge OpenAI's Navier-Stokes proof and multi-agent contribution claims.",
+   "published_at": "2026-10-17T09:00:26Z"
+  },
+  {
+   "title": "Cross-Strait tightening technology controls! China plans to regulate export of 40 technologies including AI, Taiwan strictly blocks chip smuggling",
+   "outlet": "鉅亨網",
+   "outlet_name": "鉅亨網",
+   "url": "https://m.cnyes.com/news/id/6632558",
+   "label": "CONFIRMED",
+   "summary_1line": "China adds 40 techs to export list, Taiwan tightens AI hardware controls to block illegal shipments.",
+   "published_at": "2026-10-16T23:10:40Z"
+  },
+  {
+   "title": "Anthropic proposes federal AI safety law to US Congress",
+   "outlet": "Yeni Şafak English",
+   "outlet_name": "Yeni Şafak English",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZNSldQeDg2UVpGS1pIdDdnWVllTVJkQTBjVUcxckI2R2ZUeEdkS09IalRzZDdFUVRRYUZpQmRhYlR6MXN2WElhT0NkdUVQVjFEcFhHdlV0Z0ZkTVBHdm53M202TDlVMmgzSEJzTF9tSmE1WTdUOGJTajVuWW9ZZFFXdzlCWjlfTmRaLVBZZklDUEFmNW1OaW53?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-17T08:19:19Z"
+   "published_at": "2026-10-17T08:30:42Z"
   },
   {
-   "title": "AI fully on board! Mercedes-Benz and NVIDIA jointly develop next-generation autonomous driving system | CM Media",
-   "outlet": "LINE TODAY",
-   "outlet_name": "LINE TODAY",
-   "url": "https://today.line.me/tw/v3/article/x2on2l8",
+   "title": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key Calculations",
+   "outlet": "The Quantum Insider",
+   "outlet_name": "The Quantum Insider",
+   "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/",
    "label": "REPORTED",
-   "summary_1line": "Mercedes-Benz and NVIDIA team up for autonomous driving with MB.OS and AI tech.",
-   "published_at": "2026-10-17T07:00:30Z"
-  },
-  {
-   "title": "Get ChatGPT, Claude, Gemini, and Grok access for $39.99 for life",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
-   "url": "https://mashable.com/tech/oct-17-askanymodel-ai-pro-plan-lifetime-subscription",
-   "label": "REPORTED",
-   "summary_1line": "AskAnyModel AI Pro offers lifetime access for $39.99 with 50+ AI models and side-by-side comparison.",
-   "published_at": "2026-10-17T07:00:00Z"
-  },
-  {
-   "title": "Blackstone offered double-digit yield on Anthropic financing, FT reports",
-   "outlet": "finchannel",
-   "outlet_name": "finchannel",
-   "url": "https://finchannel.com/blackstone-offered-double-digit-yield-on-anthropic-financing-ft-reports/138413/american-business-trends/2026/10/",
-   "label": "REPORTED",
-   "summary_1line": "Blackstone launches AI ventures with Google and Anthropic, targeting 500 megawatts by 2027.",
-   "published_at": "2026-10-17T06:48:40Z"
+   "summary_1line": "Anthropic and Harvard used AI to design quantum circuits cutting operations and qubits by up to 12x.",
+   "published_at": "2026-10-17T08:12:06Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic quietly pitches its own AI safety Bill to US lawmakers",
-   "outlet": "CNA",
-   "outlet_name": "CNA",
-   "label": "REPORTED",
-   "url": "https://www.channelnewsasia.com/business/anthropic-quietly-pitches-its-own-ai-safety-bill-us-lawmakers-6467581"
+   "headline": "Can AI be regulated? Why experts say government intervention is needed — but could be…",
+   "outlet": "Yahoo News Canada",
+   "outlet_name": "Yahoo News Canada",
+   "label": "CONFIRMED",
+   "url": "https://ca.news.yahoo.com/ai-regulated-why-experts-government-080000070.html"
   },
   {
-   "headline": "Microsoft Copilot for Legal Brings AI to Lawyers and Law Firms",
-   "outlet": "Windows Report",
-   "outlet_name": "Windows Report",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSk02Y2JNWUItc1I1ck5xamtyTG03c1NRU1A4aG9qZi11SG16TWJaX1dUUnJsRXYzNW93RWVLTU1zcnYzRUJUOTQ0eU94RjhBUjA1WTJEWV8zcnA0ZVplaXhuRl80cHZSSlkzZHp0a2pXMXpBMlJWN1ZhWVFkd0xDUFRLcEJZOTVrRzdlWlg5TWh1MTA?oc=5"
+   "headline": "Mathematicians say OpenAI doesn't understand its own Navier-Stokes proof",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "label": "STILL OPEN",
+   "url": "https://the-decoder.com/mathematicians-say-openai-doesnt-understand-its-own-navier-stokes-proof/"
   },
   {
-   "headline": "AI fully on board! Mercedes-Benz and NVIDIA jointly develop next-generation autonomous…",
-   "outlet": "LINE TODAY",
-   "outlet_name": "LINE TODAY",
-   "label": "REPORTED",
-   "url": "https://today.line.me/tw/v3/article/x2on2l8"
+   "headline": "Cross-Strait tightening technology controls! China plans to regulate export of 40…",
+   "outlet": "鉅亨網",
+   "outlet_name": "鉅亨網",
+   "label": "CONFIRMED",
+   "url": "https://m.cnyes.com/news/id/6632558"
   },
   {
-   "headline": "Get ChatGPT, Claude, Gemini, and Grok access for $39.99 for life",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
+   "headline": "Anthropic proposes federal AI safety law to US Congress",
+   "outlet": "Yeni Şafak English",
+   "outlet_name": "Yeni Şafak English",
    "label": "REPORTED",
-   "url": "https://mashable.com/tech/oct-17-askanymodel-ai-pro-plan-lifetime-subscription"
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUHZNSldQeDg2UVpGS1pIdDdnWVllTVJkQTBjVUcxckI2R2ZUeEdkS09IalRzZDdFUVRRYUZpQmRhYlR6MXN2WElhT0NkdUVQVjFEcFhHdlV0Z0ZkTVBHdm53M202TDlVMmgzSEJzTF9tSmE1WTdUOGJTajVuWW9ZZFFXdzlCWjlfTmRaLVBZZklDUEFmNW1OaW53?oc=5"
   },
   {
-   "headline": "Blackstone offered double-digit yield on Anthropic financing, FT reports",
-   "outlet": "finchannel",
-   "outlet_name": "finchannel",
+   "headline": "Anthropic’s Claude Designs Leaner Quantum Circuits, Reducing Resources Needed for Key…",
+   "outlet": "The Quantum Insider",
+   "outlet_name": "The Quantum Insider",
    "label": "REPORTED",
-   "url": "https://finchannel.com/blackstone-offered-double-digit-yield-on-anthropic-financing-ft-reports/138413/american-business-trends/2026/10/"
+   "url": "https://thequantuminsider.com/2026/10/17/anthropics-claude-designs-leaner-quantum-circuits-reducing-resources-needed-for-key-calculations/"
   },
   {
-   "headline": "DeepSeek V4.1 Flash-1017 New Version Released: Wish-based programming comes true with one…",
-   "outlet": "搜狐",
-   "outlet_name": "搜狐",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcGRVOW9MMHJiVjB5SEJORzJNSnV6NG5CYVFFZ3pob2Y4djNGYndsT0dJTEpBUkp4Zk9ON1YwZGxEZy10eV9DOXh3RWFsZEFkMmx6ZU1DTVNMUkx0NFp6UFEySzZTdkxqOGhyM05DempNTUprM3prUXB0M1Y2bTAwclp2TE5iaDB2?oc=5"
+   "headline": "Anthropic's AI Workforce Experiment is Already Squeezing Out Junior Jobs as Agents Work…",
+   "outlet": "International Business Times Singapore",
+   "outlet_name": "International Business Times Singapore",
+   "label": "CONFIRMED",
+   "url": "https://www.ibtimes.sg/anthropics-ai-workforce-experiment-already-squeezing-out-junior-jobs-agents-work-six-times-more-95235"
   },
   {
-   "headline": "South Korean Regulators Confirm AI Agent Breached 16 Banks and Lenders",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
+   "headline": "Nvidia holds domestic launch event for RTX Spark at Coex",
+   "outlet": "edaily.co.kr",
+   "outlet_name": "edaily.co.kr",
    "label": "REPORTED",
-   "url": "https://startupfortune.com/south-korean-regulators-confirm-ai-agent-breached-16-banks-and-lenders/"
-  },
-  {
-   "headline": "States sue AI giant OpenAI, saying its popular chatbot is hurting children and deceiving…",
-   "outlet": "TelegraphHerald.com",
-   "outlet_name": "TelegraphHerald.com",
-   "label": "REPORTED",
-   "url": "https://www.telegraphherald.com/ap/business/article_ec9d5755-bb47-5a83-a84a-fb9bc76219c8.html"
+   "url": "https://www.edaily.co.kr/News/Read?newsId=02332086645613904&mediaCodeNo=257"
   },
   {
    "headline": "Corporate, state espionage are realities of the AI race, White House AI chief says after…",
@@ -114,6 +107,20 @@
    "outlet_name": "Asianet Newsable on MSN",
    "label": "REPORTED",
    "url": "https://www.msn.com/en-in/technology/artificial-intelligence/corporate-state-espionage-are-realities-of-the-ai-race-white-house-ai-chief-says-after-openai-bugging-case/ar-AA2enqYX"
+  },
+  {
+   "headline": "Show HN: Claude Code, deploy using thevibehosting.com == Your app on root Linux",
+   "outlet": "thevibehosting.com",
+   "outlet_name": "thevibehosting.com",
+   "label": "REPORTED",
+   "url": "https://thevibehosting.com/"
+  },
+  {
+   "headline": "DeepSeek V4.1 Flash 1017 now available on AI Gateway",
+   "outlet": "vercel.com",
+   "outlet_name": "vercel.com",
+   "label": "CONFIRMED",
+   "url": "https://vercel.com/changelog/deepseek-v4-1-flash-1017-now-available-on-ai-gateway"
   },
   {
    "headline": "Betting on the next step at the most profitable time, Jensen Huang leads NVIDIA in…",
@@ -128,23 +135,16 @@
    "outlet_name": "pandaily.com",
    "label": "REPORTED",
    "url": "https://pandaily.com/deepseek-harness-v0-2-1-rc1-plugin-index-working-directory-v4-1-flash-1017-snapshot"
-  },
-  {
-   "headline": "Is Anthropic Worth $2 Trillion?",
-   "outlet": "163.com",
-   "outlet_name": "163.com",
-   "label": "REPORTED",
-   "url": "https://www.163.com/dy/article/L9EQLJI405118O92.html"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 11300,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 11100,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/09.mp3",
- "audio_seconds": 51.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/17/10.mp3",
+ "audio_seconds": 60.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNA: Anthropic quietly pitches its own AI safety Bill to US lawmakers.\nReported by Windows Report: Microsoft Copilot for Legal Brings AI to Lawyers and Law Firms.\nReported by LINE TODAY: AI fully on board! Mercedes-Benz and NVIDIA jointly develop next-generation autonomous driving system | CM Media.\nReported by Mashable: Get ChatGPT, Claude, Gemini, and Grok access for $39.99 for life.\nReported by finchannel: Blackstone offered double-digit yield on Anthropic financing, FT reports.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nExperts urge global regulation amid rapid development and risks of rogue artificial intelligence, though government intervention could be tricky. Confirmed by Yahoo News Canada.\nMathematicians challenge OpenAI's Navier-Stokes proof and multi-agent contribution claims still open per The Decoder.\nChina adds 40 technologies to its export list including artificial intelligence, while Taiwan tightens controls to block illegal hardware shipments. Confirmed by 鉅亨網.\nReported by Yeni Şafak English: Anthropic proposes a federal artificial intelligence safety law to US Congress.\nAnthropic and Harvard used artificial intelligence to design quantum circuits cutting operations and qubits by up to 12 times. Reported by The Quantum Insider.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
