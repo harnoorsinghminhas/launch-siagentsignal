@@ -1,112 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T14:20:03Z",
- "hour": "2026-10-18T14:00:00Z",
+ "generated_at": "2026-10-18T15:20:03Z",
+ "hour": "2026-10-18T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Chris Thomas uses AI gadgets; new devices spark privacy law debates over continuous speech processing.",
-   "published_at": "2026-10-18T12:00:01Z"
+   "title": "DeepSeek Releases New AI Model with Improved Performance and Lower Operating Costs",
+   "outlet": "联合早报",
+   "outlet_name": "联合早报",
+   "url": "https://www.zaobao.com.sg/news/china/story20261018-9855608",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek's new AI model boosts scores and cuts costs, with API access now open.",
+   "published_at": "2026-10-18T13:06:00Z"
   },
   {
-   "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+   "title": "DeepSeek Announces API Web Search and Scraping Fees",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
+   "url": "https://www.21jingji.com/article/20261018/herald/019ade3a3bf07d18065b907a3340bf67.html",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek API adds web search, charges 5 yuan per 1000 requests from Nov 1.",
+   "published_at": "2026-10-18T13:04:00Z"
+  },
+  {
+   "title": "Israeli AI firms train NVIDIA models to resist hackers and dangerous chatbot behavior",
+   "outlet": "Ynetnews",
+   "outlet_name": "Ynetnews",
+   "url": "https://www.ynetnews.com/business/article/s1zlkfgnml",
+   "label": "REPORTED",
+   "summary_1line": "Alice and AI21 improve AI security and reduce sycophantic chatbot behavior using NVIDIA models.",
+   "published_at": "2026-10-18T13:48:20Z"
+  },
+  {
+   "title": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic's AI worm research warns of autonomous threats in smart devices, citing weak security and rapid capability growth.",
+   "published_at": "2026-10-18T06:30:00Z"
+  },
+  {
+   "title": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
    "outlet": "the-decoder.com",
    "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
+   "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/",
    "label": "REPORTED",
-   "summary_1line": "Four Gemini 4 Argon AI agents autonomously beat Minecraft in a 27-hour run.",
-   "published_at": "2026-10-18T12:39:51Z"
-  },
-  {
-   "title": "Human vs. ChatGPT NFL Week 6 betting picks: AI goes all-in on totals after another weekly win",
-   "outlet": "Fox News",
-   "outlet_name": "Fox News",
-   "url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-6-betting-picks-ai-goes-all-in-totals-another-weekly-win",
-   "label": "REPORTED",
-   "summary_1line": "ChatGPT beats human 3-2 in Week 5 NFL bets, but human still leads in overall profit.",
-   "published_at": "2026-10-18T12:25:51Z"
-  },
-  {
-   "title": "OpenAI shares case of automating software maintenance using GPT-6",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/115997/openai-shares-case-of-automating-software-maintenance-using-gpt-6",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI uses GPT-6 to automate code cleanup, cutting 800k lines and improving CI times.",
-   "published_at": "2026-10-18T12:08:00Z"
-  },
-  {
-   "title": "Ningxia University Xinhua College Hosts Academic Symposium on AI Agent Governance; Academia and Practitioners Gather in Yinchuan to Explore New Propositions in Digital Rule of Law",
-   "outlet": "中国日报网",
-   "outlet_name": "中国日报网",
-   "url": "https://cn.chinadaily.com.cn/a/202610/18/WS6ad4b461e4b09a165c78fe1b.html",
-   "label": "REPORTED",
-   "summary_1line": "Ningxia hosts AI governance seminar with 70 experts from 20+ institutions.",
-   "published_at": "2026-10-18T11:58:24Z"
+   "summary_1line": "Anthropic cuts junior hires as AI agents work six times more hours than humans.",
+   "published_at": "2026-10-18T13:22:26Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "Always on, always listening: New AI devices are pushing legal limits and could put users…",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html"
-  },
-  {
-   "headline": "Four Gemini 4 Argon agents beat Minecraft without any human help",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "label": "REPORTED",
-   "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/"
-  },
-  {
-   "headline": "Human vs. ChatGPT NFL Week 6 betting picks: AI goes all-in on totals after another weekly…",
-   "outlet": "Fox News",
-   "outlet_name": "Fox News",
-   "label": "REPORTED",
-   "url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-6-betting-picks-ai-goes-all-in-totals-another-weekly-win"
-  },
-  {
-   "headline": "OpenAI shares case of automating software maintenance using GPT-6",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/115997/openai-shares-case-of-automating-software-maintenance-using-gpt-6"
-  },
-  {
-   "headline": "Ningxia University Xinhua College Hosts Academic Symposium on AI Agent Governance…",
-   "outlet": "中国日报网",
-   "outlet_name": "中国日报网",
-   "label": "REPORTED",
-   "url": "https://cn.chinadaily.com.cn/a/202610/18/WS6ad4b461e4b09a165c78fe1b.html"
-  },
-  {
-   "headline": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjB4YWJlM1piXzhhQzJFa1ZMWXh1dC1lZHJpaUJhVFhoZGdZbkwxUzRmeUdXdktLU2M5eFdRTG04am5UNDdtYlMwZWxLVW0zejBZWWtTTlExMTRTUlpnY3NUZGZ3V1JsMVlVY0RTWVdVQUhvWU0xZWdzNEgwdFJzQmdR?oc=5"
-  },
-  {
-   "headline": "DeepSeek Releases V4.1-Flash-1017 Version, API Web Search Charged at 5 Yuan per 1000…",
-   "outlet": "观点网",
-   "outlet_name": "观点网",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lb1otTDhrZ2FaYW5IaElZMll2MS0xTXpxMUN2SXBMdkM2bFcwVDRHOVZWYnk2SjVRMlpXejVwNEVyTDVhRHNoOWh6Y0lQZlBoRlBoVDBjMzN6V0hXWk5FSm5n?oc=5"
-  },
   {
    "headline": "DeepSeek Releases New AI Model with Improved Performance and Lower Operating Costs",
    "outlet": "联合早报",
    "outlet_name": "联合早报",
    "label": "REPORTED",
    "url": "https://www.zaobao.com.sg/news/china/story20261018-9855608"
+  },
+  {
+   "headline": "DeepSeek Announces API Web Search and Scraping Fees",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
+   "label": "REPORTED",
+   "url": "https://www.21jingji.com/article/20261018/herald/019ade3a3bf07d18065b907a3340bf67.html"
+  },
+  {
+   "headline": "Israeli AI firms train NVIDIA models to resist hackers and dangerous chatbot behavior",
+   "outlet": "Ynetnews",
+   "outlet_name": "Ynetnews",
+   "label": "REPORTED",
+   "url": "https://www.ynetnews.com/business/article/s1zlkfgnml"
+  },
+  {
+   "headline": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "label": "STILL OPEN",
+   "url": "https://www.theguardian.com/technology/2026/oct/18/anthropic-ai-worm-worries"
+  },
+  {
+   "headline": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as…",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "label": "REPORTED",
+   "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours/"
   },
   {
    "headline": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
@@ -116,35 +95,56 @@
    "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns"
   },
   {
-   "headline": "OpenAI quietly lists three aurora alpha models in its API",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "DeepSeek Releases V4.1-Flash Upgraded Version",
+   "outlet": "搜狐网",
+   "outlet_name": "搜狐网",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUmlRTWZ5aF9Da0d0NVBKQUo0bUFfckdDTFhOSFRjTFJtbGg4elJqQmpuNUhQS1dfOEhkNkRVUkJ4bHdtTWVRbWFLTVQxcjRGcGp6VVM3NTlPYm1nSERTSlk1Q0ZZbURpV2lGakVfb1FhRUpDV0lMNWxRMWxldmg2a1hQbF9uRWh1bzVz?oc=5"
+  },
+  {
+   "headline": "Disney’s $60 Million Character.AI Deal, Meta’s Brazil Scrutiny and Anthropic’s IPO…",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "REPORTED",
+   "url": "https://www.tradingview.com/news/benzinga:40f0b1b28094b:0-disney-s-60-million-character-ai-deal-meta-s-brazil-scrutiny-and-anthropic-s-ipo-ambitions-this-week-in-tech/"
+  },
+  {
+   "headline": "DeepSeek, Announced",
+   "outlet": "电子工程专辑",
+   "outlet_name": "电子工程专辑",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RVGo0Tk9ra3Bickp1MEhHX1cwUi1JbE9UdGU2X1hyNnd1cFdjb1hlSThZLWVZVzRZZk5kd2I4U0E4UElYVWhjSjE0eC0wVHVWMC1N?oc=5"
+  },
+  {
+   "headline": "Digitaler Schleimpilz: Warum Anthropic vor sich selbst verbreitenden KI-Modellen warnt",
+   "outlet": "t3n",
+   "outlet_name": "t3n",
    "label": "STILL OPEN",
-   "url": "https://cryptobriefing.com/openai-aurora-alpha-models-api/"
+   "url": "https://t3n.de/news/ki-selbst-replikation-smart-home-gefahr-1767921/"
   },
   {
-   "headline": "OpenAI und Anthropic: US-KI-Anbieter nehmen deutsche Firmen ins Visier",
-   "outlet": "ad-hoc-news.de",
-   "outlet_name": "ad-hoc-news.de",
-   "label": "REPORTED",
-   "url": "https://www.ad-hoc-news.de/wissenschaft/openai-und-anthropic-us-ki-anbieter-nehmen-deutsche-firmen-ins-visier/70353749"
+   "headline": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages…",
+   "outlet": "Tom's Hardware on MSN",
+   "outlet_name": "Tom's Hardware on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/anthropic-s-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1-billion-in-damages-are-at-risk/ar-AA2eukua"
   },
   {
-   "headline": "Claude Opus 5.5 keeps switching to Opus 4.8",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
+   "headline": "What Firecrawl's $75M raise is telling us about the AI stack",
+   "outlet": "enconvert.com",
+   "outlet_name": "enconvert.com",
    "label": "REPORTED",
-   "url": "https://www.xda-developers.com/claude-opus-5-5-model-switch-opus-4-8/"
+   "url": "https://www.enconvert.com/blog/the-real-story-behind-firecrawl-s-75m-raise"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 7800,
+ "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 7700,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/14.mp3",
- "audio_seconds": 56.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/15.mp3",
+ "audio_seconds": 56.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy.\nReported by The Decoder: Four Gemini 4 Argon agents beat Minecraft without any human help.\nReported by Fox News: Human vs. ChatGPT NFL Week 6 betting picks: AI goes all-in on totals after another weekly win.\nReported by 디지털투데이: OpenAI shares case of automating software maintenance using GPT-6.\nReported by 中国日报网: Ningxia University Xinhua College Hosts Academic Symposium on AI Agent Governance; Academia and Practitioners Gather in Yinchuan to Explore New Propositions in Digital Rule of Law.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek's new model boosts performance scores and cuts operating costs, with API access now open. Reported by 联合早报.\nDeepSeek API now offers web search capabilities, charging 5 yuan per 1000 requests starting November 1. Reported by 21财经.\nAlice and AI21 trained NVIDIA models to resist hackers and reduce sycophantic chatbot behavior. Reported by Ynetnews.\nAnthropic warns of self-replicating AI worms threatening smart devices, citing weak security and rapid capability growth. Still open, per The Guardian.\nAnthropic has nearly stopped hiring junior staff because artificial intelligence agents now work six times more hours than humans. Reported by The Decoder.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
