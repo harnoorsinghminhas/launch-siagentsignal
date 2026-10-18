@@ -1,98 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T20:20:04Z",
- "hour": "2026-10-18T20:00:00Z",
+ "generated_at": "2026-10-18T21:20:02Z",
+ "hour": "2026-10-18T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Appeals court upholds Thomson Reuters win in AI training lawsuit.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013500/appeals-court-upholds-thomson-reuters-win-in-ai-training-lawsuit",
-   "label": "CONFIRMED",
-   "summary_1line": "Appeals court upholds Thomson Reuters' win in AI training lawsuit.",
-   "published_at": "2026-10-18T06:58:00Z"
-  },
-  {
-   "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "url": "https://thenewstack.io/gemini-argon-claude-opus/",
+   "title": "Leaked AI safety bill from Anthropic only lets government act if 50+ deaths or $1 billion are on the line",
+   "outlet": "PC Gamer",
+   "outlet_name": "PC Gamer",
+   "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
    "label": "REPORTED",
-   "summary_1line": "Gemini 4 Argon beats Claude Opus 5.5 on 14 benchmarks but fails on accuracy in real-world tasks, offering half the price initially.",
-   "published_at": "2026-10-18T15:31:47Z"
+   "summary_1line": "Anthropic's AI safety bill triggers government action for $1B+ damage or 50+ injuries.",
+   "published_at": "2026-10-18T18:44:11Z"
   },
   {
-   "title": "Why OpenAI’s training pause matters for every business using AI agents",
-   "outlet": "Cybersecurity Insiders",
-   "outlet_name": "Cybersecurity Insiders",
-   "url": "https://www.cybersecurity-insiders.com/why-openais-training-pause-matters-for-every-business-using-ai-agents/",
+   "title": "Anthropic Proposes Congress Bill Mirroring Claude’s Internal Safety Policies",
+   "outlet": "Crowdfund Insider",
+   "outlet_name": "Crowdfund Insider",
+   "url": "https://www.crowdfundinsider.com/2026/10/319279-anthropic-proposes-congress-bill-mirroring-claudes-internal-safety-policies/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI pauses training after agents act beyond instructions, stressing need for governance.",
-   "published_at": "2026-10-18T15:03:59Z"
+   "summary_1line": null,
+   "published_at": "2026-10-18T20:15:31Z"
   },
   {
-   "title": "OpenAI testing new \"Aurora\" GPT-Image model on Arena",
-   "outlet": "TestingCatalog AI News",
-   "outlet_name": "TestingCatalog AI News",
-   "url": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI's Aurora-alpha image models briefly surfaced in tests, with speculation they may be GPT-Image-3.",
-   "published_at": "2026-10-18T18:07:51Z"
+   "title": "OpenAI Faces Lawsuits, Subpoenas and EU Scrutiny in a Single Week",
+   "outlet": "Tech Policy Press",
+   "outlet_name": "Tech Policy Press",
+   "url": "https://www.techpolicy.press/openai-faces-lawsuits-subpoenas-and-eu-scrutiny-in-a-single-week/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-18T20:36:25Z"
   },
   {
-   "title": "Silly to trust eatery staff with credit cards, but not Grok: Musk amid privacy fears | 'Screenshot of credit card is the easiest way'",
-   "outlet": "Inshorts",
-   "outlet_name": "Inshorts",
-   "url": "https://inshorts.com/en/news/silly-to-trust-eatery-staff-with-credit-cards--but-not-grok--musk-amid-privacy-fears-1792343883602",
-   "label": "STILL OPEN",
-   "summary_1line": "Musk says it's silly to give credit card images to strangers at restaurants but not to Grok.",
-   "published_at": "2026-10-18T17:21:07Z"
+   "title": "GitHub Copilot: Drei KI-Modelle verschwinden am 16. November",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "url": "https://borncity.com/news/github-copilot-drei-ki-modelle-verschwinden-am-16-november/",
+   "label": "REPORTED",
+   "summary_1line": "GitHub removes older AI models by Nov 16, 2026, replacing them with new ones and adjusting pricing by subscription tier.",
+   "published_at": "2026-10-18T19:58:04Z"
+  },
+  {
+   "title": "Rivian AI Agents From Companies Like Anthropic Are Coming",
+   "outlet": "RivianTrackr",
+   "outlet_name": "RivianTrackr",
+   "url": "https://riviantrackr.com/news/rivian-ai-agents-anthropic/",
+   "label": "REPORTED",
+   "summary_1line": "Rivian will let vehicles run third-party AI agents, with details to be shared in December.",
+   "published_at": "2026-10-18T19:48:38Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Appeals court upholds Thomson Reuters win in AI training lawsuit.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013500/appeals-court-upholds-thomson-reuters-win-in-ai-training-lawsuit"
-  },
-  {
-   "headline": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
+   "headline": "Leaked AI safety bill from Anthropic only lets government act if 50+ deaths or $1 billion…",
+   "outlet": "PC Gamer",
+   "outlet_name": "PC Gamer",
    "label": "REPORTED",
-   "url": "https://thenewstack.io/gemini-argon-claude-opus/"
+   "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/"
   },
   {
-   "headline": "Why OpenAI’s training pause matters for every business using AI agents",
-   "outlet": "Cybersecurity Insiders",
-   "outlet_name": "Cybersecurity Insiders",
+   "headline": "Anthropic Proposes Congress Bill Mirroring Claude’s Internal Safety Policies",
+   "outlet": "Crowdfund Insider",
+   "outlet_name": "Crowdfund Insider",
    "label": "REPORTED",
-   "url": "https://www.cybersecurity-insiders.com/why-openais-training-pause-matters-for-every-business-using-ai-agents/"
+   "url": "https://www.crowdfundinsider.com/2026/10/319279-anthropic-proposes-congress-bill-mirroring-claudes-internal-safety-policies/"
   },
   {
-   "headline": "OpenAI testing new \"Aurora\" GPT-Image model on Arena",
-   "outlet": "TestingCatalog AI News",
-   "outlet_name": "TestingCatalog AI News",
-   "label": "STILL OPEN",
-   "url": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/"
+   "headline": "OpenAI Faces Lawsuits, Subpoenas and EU Scrutiny in a Single Week",
+   "outlet": "Tech Policy Press",
+   "outlet_name": "Tech Policy Press",
+   "label": "REPORTED",
+   "url": "https://www.techpolicy.press/openai-faces-lawsuits-subpoenas-and-eu-scrutiny-in-a-single-week/"
   },
   {
-   "headline": "Silly to trust eatery staff with credit cards, but not Grok: Musk amid privacy fears |…",
-   "outlet": "Inshorts",
-   "outlet_name": "Inshorts",
-   "label": "STILL OPEN",
-   "url": "https://inshorts.com/en/news/silly-to-trust-eatery-staff-with-credit-cards--but-not-grok--musk-amid-privacy-fears-1792343883602"
+   "headline": "GitHub Copilot: Drei KI-Modelle verschwinden am 16. November",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "label": "REPORTED",
+   "url": "https://borncity.com/news/github-copilot-drei-ki-modelle-verschwinden-am-16-november/"
   },
   {
-   "headline": "An AI tool called REA now reverse engineers software in minutes not years",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "CONFIRMED",
-   "url": "https://startupfortune.com/an-ai-tool-called-rea-now-reverse-engineers-software-in-minutes-not-years/"
+   "headline": "Rivian AI Agents From Companies Like Anthropic Are Coming",
+   "outlet": "RivianTrackr",
+   "outlet_name": "RivianTrackr",
+   "label": "REPORTED",
+   "url": "https://riviantrackr.com/news/rivian-ai-agents-anthropic/"
+  },
+  {
+   "headline": "Junior Tech Hires’ Share at Anthropic Falls From 27% to 9% as AI Reshapes Work",
+   "outlet": "Open Magazine",
+   "outlet_name": "Open Magazine",
+   "label": "REPORTED",
+   "url": "https://openthemagazine.com/business/junior-tech-hires-share-at-anthropic-falls-from-27-to-9-as-ai-reshapes-work"
   },
   {
    "headline": "Anthropic Commits 5% of Its Shares to New Public Benefit Fund",
@@ -102,18 +102,18 @@
    "url": "https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund/"
   },
   {
-   "headline": "Anthropic Proposes AI Safety Bill Giving US Government Power to Block High-Risk Models",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
-   "label": "STILL OPEN",
-   "url": "https://www.pymnts.com/cpi-posts/anthropic-proposes-ai-safety-bill-giving-us-government-power-to-block-high-risk-models/"
+   "headline": "Latest on ChatGPT lawsuit",
+   "outlet": "13newsnow.com",
+   "outlet_name": "13newsnow.com",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTG5DZGtycjczY3BickMxQ3NXRVE0SGNiTHJ0bnVQZzBvcGkwUHBiLTYtNmlTZ0tCSXl5U0pudWR0and1VUI1aEx6ckplU2pfa2luc3g1emtMNXNOTk9sRG1UYWNvWkJYaWVlU1pjMGVJYURIRENicmdjZ1NNemd4YUNQc1VEaHM4RE9TQ1Nuak1yaWVvaUlMSU9hN2JMcjAxVm8zTlpUeXVBVDJ1TmtwamJQenJjdw?oc=5"
   },
   {
-   "headline": "Grok , Cursor e X Premium passam a estar disponíveis numa única subscrio . E há cinco…",
-   "outlet": "sapo.pt",
-   "outlet_name": "sapo.pt",
+   "headline": "DeepSeek V4.1-Flash-1017: HLE Score Hits 42.6 [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
    "label": "REPORTED",
-   "url": "https://sapo.pt/artigo/grok-cursor-e-x-premium-passam-a-estar-disponiveis-numa-unica-subscricao-e-ha-cinco-planos-a-escolha-6ad4fc2d71bdbe0b74558010"
+   "url": "https://shattered.io/deepseek-v4-1-flash-1017-hle-score-42-6-2026/"
   },
   {
    "headline": "OpenAI ve Anthropic olası yapay zeka felaketine hazırlanıyor",
@@ -123,28 +123,28 @@
    "url": "https://www.ogunhaber.com/teknoloji/openai-ve-anthropic-olasi-yapay-zeka-felaketine-hazirlaniyor-3002984h.html"
   },
   {
-   "headline": "Gemini 4 Flash is Coming Sooner Than You Think: Here Is Why Google Is Upgrading Its Model…",
-   "outlet": "nokiapoweruser.com",
-   "outlet_name": "nokiapoweruser.com",
+   "headline": "Grok , Cursor e X Premium passam a estar disponíveis numa única subscrio . E há cinco…",
+   "outlet": "sapo.pt",
+   "outlet_name": "sapo.pt",
    "label": "REPORTED",
-   "url": "https://nokiapoweruser.com/why-google-is-fast-tracking-gemini-4-flash-pro-quota-bottlenecks-hallucinations-and-the-3-tier-model-strategy/"
+   "url": "https://sapo.pt/artigo/grok-cursor-e-x-premium-passam-a-estar-disponiveis-numa-unica-subscricao-e-ha-cinco-planos-a-escolha-6ad4fc2d71bdbe0b74558010"
   },
   {
-   "headline": "Anthropic Warns Small AI Models Could Learn to Self-Replicate by the End of 2026",
-   "outlet": "eGamers.io",
-   "outlet_name": "eGamers.io",
-   "label": "STILL OPEN",
-   "url": "https://egamers.io/anthropic-warns-small-ai-models-could-learn-to-self-replicate-by-the-end-of-2026/"
+   "headline": "Meta AI Terms Alarm Publishers Ahead of Oct. 30 [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "REPORTED",
+   "url": "https://shattered.io/meta-ai-terms-publishers-oct-30-2026/"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7700,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/20.mp3",
- "audio_seconds": 48.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/21.mp3",
+ "audio_seconds": 47.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: Appeals court upholds Thomson Reuters win in AI training lawsuit.\nReported by The New Stack: Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate.\nReported by Cybersecurity Insiders: Why OpenAI’s training pause matters for every business using AI agents.\nStill open, per TestingCatalog AI News: OpenAI testing new \"Aurora\" GPT-Image model on Arena.\nStill open, per Inshorts: Silly to trust eatery staff with credit cards, but not Grok: Musk amid privacy fears | 'Screenshot of credit card is the easiest way'.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by PC Gamer: Leaked AI safety bill from Anthropic only lets government act if 50+ deaths or $1 billion are on the line.\nReported by Crowdfund Insider: Anthropic Proposes Congress Bill Mirroring Claude’s Internal Safety Policies.\nReported by Tech Policy Press: OpenAI Faces Lawsuits, Subpoenas and EU Scrutiny in a Single Week.\nReported by BornCity: GitHub Copilot: Drei KI-Modelle verschwinden am 16. November.\nReported by RivianTrackr: Rivian AI Agents From Companies Like Anthropic Are Coming.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
