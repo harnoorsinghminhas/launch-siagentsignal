@@ -1,119 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T07:20:02Z",
- "hour": "2026-10-18T07:00:00Z",
+ "generated_at": "2026-10-18T08:20:03Z",
+ "hour": "2026-10-18T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks",
-   "outlet": "ProPakistani",
-   "outlet_name": "ProPakistani",
-   "url": "https://propakistani.pk/2026/10/17/deepseek-v4-1-flash-gets-new-model-with-big-coding-gains-cheaper-agent-tasks/",
-   "label": "CONFIRMED",
-   "summary_1line": "DeepSeek's new model beats rivals in coding with lower cost and opens search APIs to developers.",
-   "published_at": "2026-10-17T15:45:24Z"
-  },
-  {
-   "title": "Anthropic Co-founder: By 2030, AI is expected to drive US GDP growth by nearly 50%",
-   "outlet": "凤凰网科技",
-   "outlet_name": "凤凰网科技",
-   "url": "https://tech.ifeng.com/c/8xJyZ9JLY8B",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic's founder speculates AI could boost US GDP by 50% by 2030.",
-   "published_at": "2026-10-18T04:52:54Z"
-  },
-  {
-   "title": "DeepSeek's new version can really grant wishes! Freely create 3D worlds, price is 1/26 of Opus 5.5",
-   "outlet": "凤凰网科技",
-   "outlet_name": "凤凰网科技",
-   "url": "https://tech.ifeng.com/c/8xJvbyzdyjk",
-   "label": "STILL OPEN",
-   "summary_1line": "DeepSeek generates detailed 3D content at a fraction of the cost of rivals like GPT-6.1 and Claude Opus.",
-   "published_at": "2026-10-18T05:02:43Z"
-  },
-  {
-   "title": "Ready your resume? DeepSeek hires in Inner Mongolia for the first time",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "url": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivpfyf6518772.shtml",
-   "label": "CONFIRMED",
-   "summary_1line": "Nobel and Turing laureates discuss sustainable tech at Shanghai conference with MacFarlane and Xiangbiao.",
-   "published_at": "2026-10-17T06:29:30Z"
-  },
-  {
-   "title": "Anthropic Hires Legal Expert to Help AI Agents Complete Deal Negotiations",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "url": "https://36kr.com/newsflashes/4030866149282439?f=rss",
+   "title": "States sue OpenAI, saying it gives life to 'cyberhacking agents' while ChatGPT hurts children and deceives adults",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/17/states-lawsuit-openai-cyberhacking-agents-chatgpt-harm-children-adults/",
    "label": "REPORTED",
-   "summary_1line": "火山引擎 is performing a security check for user access safety.",
-   "published_at": null
+   "summary_1line": "Eight states sue OpenAI over ChatGPT's alleged harms to teens and deceptive practices.",
+   "published_at": "2026-10-17T14:32:00Z"
+  },
+  {
+   "title": "Purchaser: Bargaining is too hard. Musk: Let AI do it! Help you cut costs by over 5 percent, and enterprises using Grok instantly save 6 trillion US dollars!",
+   "outlet": "鉅亨號",
+   "outlet_name": "鉅亨號",
+   "url": "https://hao.cnyes.com/post/272931",
+   "label": "REPORTED",
+   "summary_1line": "AI cuts corporate spending by identifying unused software and inventory, saving $100,000 in one week.",
+   "published_at": "2026-10-18T04:07:30Z"
+  },
+  {
+   "title": "After crashing for 5 hours, DeepSeek releases its latest model; after practical testing, it really breaks through everything",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
+   "url": "https://tech.ifeng.com/c/8xK6zUGJ7Ar",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-18T06:45:06Z"
+  },
+  {
+   "title": "The $10 Trillion AI Buildout Is Starting to Show Cracks in the Financing",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/the-10-trillion-ai-buildout-is-starting-to-show-cracks-in-the-financing/",
+   "label": "REPORTED",
+   "summary_1line": "AI infrastructure debt surges as bond yields rise and construction delays expose financing stress.",
+   "published_at": "2026-10-18T06:09:48Z"
+  },
+  {
+   "title": "Video | Anthropic Warns AI Could Replicate Itself Across IoT Devices",
+   "outlet": "NDTV",
+   "outlet_name": "NDTV",
+   "url": "https://www.ndtv.com/video/anthropic-warns-ai-could-replicate-itself-across-iot-devices-1176334",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic's research explores AI on hardware and cybersecurity risks in connected devices.",
+   "published_at": "2026-10-18T06:07:20Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks",
-   "outlet": "ProPakistani",
-   "outlet_name": "ProPakistani",
-   "label": "CONFIRMED",
-   "url": "https://propakistani.pk/2026/10/17/deepseek-v4-1-flash-gets-new-model-with-big-coding-gains-cheaper-agent-tasks/"
+   "headline": "States sue OpenAI, saying it gives life to 'cyberhacking agents' while ChatGPT hurts…",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
+   "label": "REPORTED",
+   "url": "https://fortune.com/2026/10/17/states-lawsuit-openai-cyberhacking-agents-chatgpt-harm-children-adults/"
   },
   {
-   "headline": "Anthropic Co-founder: By 2030, AI is expected to drive US GDP growth by nearly 50%",
+   "headline": "Purchaser: Bargaining is too hard. Musk: Let AI do it! Help you cut costs by over 5…",
+   "outlet": "鉅亨號",
+   "outlet_name": "鉅亨號",
+   "label": "REPORTED",
+   "url": "https://hao.cnyes.com/post/272931"
+  },
+  {
+   "headline": "After crashing for 5 hours, DeepSeek releases its latest model; after practical testing…",
    "outlet": "凤凰网科技",
    "outlet_name": "凤凰网科技",
-   "label": "STILL OPEN",
-   "url": "https://tech.ifeng.com/c/8xJyZ9JLY8B"
-  },
-  {
-   "headline": "DeepSeek's new version can really grant wishes! Freely create 3D worlds, price is 1/26 of…",
-   "outlet": "凤凰网科技",
-   "outlet_name": "凤凰网科技",
-   "label": "STILL OPEN",
-   "url": "https://tech.ifeng.com/c/8xJvbyzdyjk"
-  },
-  {
-   "headline": "Ready your resume? DeepSeek hires in Inner Mongolia for the first time",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "label": "CONFIRMED",
-   "url": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivpfyf6518772.shtml"
-  },
-  {
-   "headline": "Anthropic Hires Legal Expert to Help AI Agents Complete Deal Negotiations",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
    "label": "REPORTED",
-   "url": "https://36kr.com/newsflashes/4030866149282439?f=rss"
+   "url": "https://tech.ifeng.com/c/8xK6zUGJ7Ar"
   },
   {
-   "headline": "AI reshapes labour demand across Asia, posing challenges for job creation and skills…",
-   "outlet": "The Hindu BusinessLine",
-   "outlet_name": "The Hindu BusinessLine",
-   "label": "CONFIRMED",
-   "url": "https://www.thehindubusinessline.com/info-tech/ai-reshapes-labour-demand-across-asia-posing-challenges-for-job-creation-and-skills-development-report/article71599064.ece"
-  },
-  {
-   "headline": "Reflection Releases Open-Weight Beam, a 501B-Parameter AI Model Built to Reason With…",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
+   "headline": "The $10 Trillion AI Buildout Is Starting to Show Cracks in the Financing",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://xenospectrum.com/en/reflection-beam-open-model-efficiency/"
+   "url": "https://startupfortune.com/the-10-trillion-ai-buildout-is-starting-to-show-cracks-in-the-financing/"
   },
   {
-   "headline": "DeepSeek Product Department! Monetization Model Reference for AI Used Free by 130 Million…",
-   "outlet": "财经号",
-   "outlet_name": "财经号",
+   "headline": "Video | Anthropic Warns AI Could Replicate Itself Across IoT Devices",
+   "outlet": "NDTV",
+   "outlet_name": "NDTV",
    "label": "REPORTED",
-   "url": "http://mp.cnfol.com/59244/article/1792253271-142767485"
+   "url": "https://www.ndtv.com/video/anthropic-warns-ai-could-replicate-itself-across-iot-devices-1176334"
   },
   {
-   "headline": "OpenAI Model Derived Crypto Wallet Keys and Spent Testnet Funds Without Permission",
-   "outlet": "Cryptonews.net",
-   "outlet_name": "Cryptonews.net",
+   "headline": "ChatGPT Can Now Access Chrome Tabs, OpenAI Adds 13 New Voices With Improved Hindi Support",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "label": "REPORTED",
+   "url": "https://www.latestly.com/technology/chatgpt-can-now-access-chrome-tabs-openai-adds-13-new-voices-with-improved-hindi-support-7648810.html"
+  },
+  {
+   "headline": "DeepSeek major move; US President Trump announces suspension of new round of sanctions…",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUjA0VmQ2TkszSnhwZU1GN01CakJlSkpZSFQxZzY1YzcwSzZRTEpfa0VWMkxmaENsOHIxYy1mb3c5NFlnOUZsYTFaQmc4NjlEamRJb1R3TEJ4el8wdG5OeHhxYUY4S1p0UVJkZlNYRzlORHhaZFRVbmEwanNwbF9TRnVVQ0hyT3pmRFZTYVBR?oc=5"
+  },
+  {
+   "headline": "DeepSeek V4.1 Flash Cost is Outrageously Low: 1.3 Billion Tokens for 1 Dollar",
+   "outlet": "cnBeta.COM",
+   "outlet_name": "cnBeta.COM",
    "label": "CONFIRMED",
-   "url": "https://cryptonews.net/news/security/33609465/"
+   "url": "https://www.cnbeta.com.tw/articles/tech/1582746.htm"
   },
   {
    "headline": "DeepSeek's new model token consumption drops by over 50%",
@@ -130,21 +123,28 @@
    "url": "https://www.techmeme.com/261018/p2#a261018p2"
   },
   {
-   "headline": "Hugging Face Releases Rankings, China's StartLux Model Firmly Holds Decision-Making Model…",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
+   "headline": "Gemini 3.8 Flash Lifted GOOGL 0.7%, Scored 59 on AA [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "STILL OPEN",
+   "url": "https://shattered.io/gemini-3-8-flash-googl-stock-0-7-percent-2026/"
+  },
+  {
+   "headline": "Gemini in Google Keep vs Samsung Notes AI [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
    "label": "REPORTED",
-   "url": "https://www.tmtpost.com/8172283.html"
+   "url": "https://shattered.io/gemini-hits-8-note-apps-pressures-samsung-notes-2026/"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 8000,
+ "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 7900,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/07.mp3",
- "audio_seconds": 50.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/08.mp3",
+ "audio_seconds": 55.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per ProPakistani: DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks.\nStill open, per 凤凰网科技: Anthropic Co-founder: By 2030, AI is expected to drive US GDP growth by nearly 50%.\nStill open, per 凤凰网科技: DeepSeek's new version can really grant wishes! Freely create 3D worlds, price is 1/26 of Opus 5.5.\nConfirmed, per 新浪财经: Ready your resume? DeepSeek hires in Inner Mongolia for the first time.\nReported by 36氪: Anthropic Hires Legal Expert to Help AI Agents Complete Deal Negotiations.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nEight states sued OpenAI, saying ChatGPT gives life to cyberhacking agents while harming children and deceiving adults. This reported by Fortune.\nMusk says artificial intelligence can help cut corporate costs by over 5 percent through bargaining. Reported by 鉅亨號.\nAfter crashing for 5 hours, DeepSeek released its latest model and it breaks through everything after practical testing. Reported by 凤凰网科技.\nThe 10 trillion dollar artificial intelligence buildout is starting to show cracks in the financing as bond yields rise. Reported by Startup Fortune.\nAnthropic warns artificial intelligence could replicate itself across internet of things devices, exploring cybersecurity risks in connected hardware. Reported by NDTV.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
