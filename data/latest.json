@@ -1,91 +1,63 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T01:20:03Z",
- "hour": "2026-10-18T01:00:00Z",
+ "generated_at": "2026-10-18T02:20:03Z",
+ "hour": "2026-10-18T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China Unicom appears at the 2026 Artificial Intelligence Industry Conference",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "url": "https://k.sina.com.cn/article_1893761531_70e081fb020039wwm.html",
-   "label": "CONFIRMED",
-   "summary_1line": "联通山东展示AI全链条应用，覆盖算力、平台到工业场景落地。",
-   "published_at": "2026-10-17T22:29:00Z"
-  },
-  {
-   "title": "NVIDIA RTX Spark N1X Launch Overview: NVIDIA Arms Windows",
-   "outlet": "ServeTheHome",
-   "outlet_name": "ServeTheHome",
-   "url": "https://www.servethehome.com/nvidia-rtx-spark-n1x-launch-overview-nvidia-arms-windows/",
+   "title": "ForgeCode claims it beats Claude Code and Codex, but the fine print tells another story",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/forgecode-claims-it-beats-claude-code-and-codex-but-the-fine-print-tells-another-story/",
    "label": "REPORTED",
-   "summary_1line": "NVIDIA's RTX Spark N1X SoC powers new Arm-based Windows laptops with 6144 CUDA cores and 16-channel memory.",
-   "published_at": "2026-10-17T17:00:47Z"
+   "summary_1line": "ForgeCode boosts Gemini 3.1 Pro score by 25% via orchestration, not model intelligence.",
+   "published_at": "2026-10-18T00:09:49Z"
   },
   {
-   "title": "Anthropic proposes AI safety bill to Congress with $1B damage threshold",
-   "outlet": "Cryptopolitan",
-   "outlet_name": "Cryptopolitan",
-   "url": "https://www.cryptopolitan.com/anthropic-pitches-congress-on-ai-safety-bill/",
+   "title": "Claude Traces NIST Elliptic-Curve Seeds To lrand48 Unix Timestamps In Under 30 Minutes: 12 outlets compared",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
+   "url": "https://newscord.org/article/claude-traces-nist-elliptic-curve-seeds-to-lrand48-unix-timestamps-in-under-30-m--Story_20261017_Wowitsarealdiscovery2ee8fb6d",
    "label": "REPORTED",
-   "summary_1line": "Anthropic proposes AI safety bill with $1B threshold; FTC subpoenas OpenAI and Anthropic.",
-   "published_at": "2026-10-17T04:08:03Z"
+   "summary_1line": "Claude traced NIST curve seeds to Unix timestamps in under 30 minutes, finding no backdoors.",
+   "published_at": "2026-10-17T23:21:13Z"
   },
   {
-   "title": "FTC demands reportedly target OpenAI and Anthropic. That is not a verdict",
-   "outlet": "OpenTools",
-   "outlet_name": "OpenTools",
-   "url": "https://opentools.ai/news/ftc-openai-anthropic-civil-investigative-demands-explained",
+   "title": "DeepSeek Releases AI Model Update and Opens Search API to All Users",
+   "outlet": "KLSE Screener",
+   "outlet_name": "KLSE Screener",
+   "url": "https://www.klsescreener.com/v2/news/view/1811223/DeepSeek%E5%8F%91%E5%B8%83AI%E6%A8%A1%E5%9E%8B%E6%9B%B4%E6%96%B0_%E5%90%91%E6%89%80%E6%9C%89%E7%94%A8%E6%88%B7%E5%BC%80%E6%94%BE%E6%90%9C%E7%B4%A2API",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-18T00:30:26Z"
+   "published_at": "2026-10-18T00:59:55Z"
   },
   {
-   "title": "DeepSeek's Flash update claims gains on 11 benchmarks at the same price",
-   "outlet": "Techi",
-   "outlet_name": "Techi",
-   "url": "https://www.techi.com/deepseek-v4-1-flash-1017-update-benchmarks-price/",
+   "title": "DeepSeek New Model Launches with Lower Price and Stronger Capability; Rumor Says Huawei to Launch New Brand 'Starlight' Focusing on Cost-Effectiveness; Astronomers Discover First Green Star | Geek Morning Knowledge",
+   "outlet": "极客公园",
+   "outlet_name": "极客公园",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WaUhFMUNVQ2xkN0JodUp0QnFaR3VCM3JDeXA5dThFaTBVblE3RFBxWVlESVFibXBYTkFkX1RKUmdWMnBBSVBnTEtMQXg?oc=5",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek releases V4.1-Flash update with improved benchmarks and lower memory usage, open-licensed and priced unchanged.",
-   "published_at": "2026-10-17T17:34:34Z"
+   "summary_1line": null,
+   "published_at": "2026-10-18T00:41:08Z"
+  },
+  {
+   "title": "Why AI Job Hunting Using a 'Cast a Wide Net' Approach Can Easily Backfire",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.com/zhongwen/articles/crz65gwv8gv5o/simp",
+   "label": "CONFIRMED",
+   "summary_1line": "UK students use AI to apply for jobs, sparking concerns over fairness and authenticity.",
+   "published_at": "2026-10-18T00:39:16Z"
   }
  ],
  "ticker": [
   {
-   "headline": "China Unicom appears at the 2026 Artificial Intelligence Industry Conference",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "label": "CONFIRMED",
-   "url": "https://k.sina.com.cn/article_1893761531_70e081fb020039wwm.html"
-  },
-  {
-   "headline": "NVIDIA RTX Spark N1X Launch Overview: NVIDIA Arms Windows",
-   "outlet": "ServeTheHome",
-   "outlet_name": "ServeTheHome",
+   "headline": "ForgeCode claims it beats Claude Code and Codex, but the fine print tells another story",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://www.servethehome.com/nvidia-rtx-spark-n1x-launch-overview-nvidia-arms-windows/"
-  },
-  {
-   "headline": "Anthropic proposes AI safety bill to Congress with $1B damage threshold",
-   "outlet": "Cryptopolitan",
-   "outlet_name": "Cryptopolitan",
-   "label": "REPORTED",
-   "url": "https://www.cryptopolitan.com/anthropic-pitches-congress-on-ai-safety-bill/"
-  },
-  {
-   "headline": "FTC demands reportedly target OpenAI and Anthropic. That is not a verdict",
-   "outlet": "OpenTools",
-   "outlet_name": "OpenTools",
-   "label": "REPORTED",
-   "url": "https://opentools.ai/news/ftc-openai-anthropic-civil-investigative-demands-explained"
-  },
-  {
-   "headline": "DeepSeek's Flash update claims gains on 11 benchmarks at the same price",
-   "outlet": "Techi",
-   "outlet_name": "Techi",
-   "label": "REPORTED",
-   "url": "https://www.techi.com/deepseek-v4-1-flash-1017-update-benchmarks-price/"
+   "url": "https://startupfortune.com/forgecode-claims-it-beats-claude-code-and-codex-but-the-fine-print-tells-another-story/"
   },
   {
    "headline": "Claude Traces NIST Elliptic-Curve Seeds To lrand48 Unix Timestamps In Under 30 Minutes…",
@@ -95,11 +67,25 @@
    "url": "https://newscord.org/article/claude-traces-nist-elliptic-curve-seeds-to-lrand48-unix-timestamps-in-under-30-m--Story_20261017_Wowitsarealdiscovery2ee8fb6d"
   },
   {
+   "headline": "DeepSeek Releases AI Model Update and Opens Search API to All Users",
+   "outlet": "KLSE Screener",
+   "outlet_name": "KLSE Screener",
+   "label": "REPORTED",
+   "url": "https://www.klsescreener.com/v2/news/view/1811223/DeepSeek%E5%8F%91%E5%B8%83AI%E6%A8%A1%E5%9E%8B%E6%9B%B4%E6%96%B0_%E5%90%91%E6%89%80%E6%9C%89%E7%94%A8%E6%88%B7%E5%BC%80%E6%94%BE%E6%90%9C%E7%B4%A2API"
+  },
+  {
    "headline": "DeepSeek New Model Launches with Lower Price and Stronger Capability; Rumor Says Huawei…",
    "outlet": "极客公园",
    "outlet_name": "极客公园",
    "label": "REPORTED",
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WaUhFMUNVQ2xkN0JodUp0QnFaR3VCM3JDeXA5dThFaTBVblE3RFBxWVlESVFibXBYTkFkX1RKUmdWMnBBSVBnTEtMQXg?oc=5"
+  },
+  {
+   "headline": "Why AI Job Hunting Using a 'Cast a Wide Net' Approach Can Easily Backfire",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "label": "CONFIRMED",
+   "url": "https://www.bbc.com/zhongwen/articles/crz65gwv8gv5o/simp"
   },
   {
    "headline": "FLock.io Launches Qwen-powered, Open-Source Decision Model for Local Edge Deployment",
@@ -109,42 +95,56 @@
    "url": "https://macaubusiness.com/flock-io-launches-qwen-powered-open-source-decision-model-for-local-edge-deployment/"
   },
   {
-   "headline": "DeepSeek’s Post-Training Lead Declares “Entering the Era of Democratized Wish-Driven…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
+   "headline": "Anthropic Also to Pay 10% High Interest: What Is Happening in the AI Bond Market?",
+   "outlet": "财联社",
+   "outlet_name": "财联社",
    "label": "REPORTED",
-   "url": "https://wccftech.com/deepseeks-post-training-lead-declares-entering-the-era-of-democratized-wish-driven-coding-as-v4-1-flash-1017-model-smokes-openais-gpt-5-5-sol/"
+   "url": "https://www.cls.cn/detail/2507529"
   },
   {
-   "headline": "Intel and Qualcomm Both Court Jim Keller's AI Chip Startup Tenstorrent",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
+   "headline": "Replit Ditches Anthropic for OpenAI as Default AI Model, CEO Confirms",
+   "outlet": "AndroGuider",
+   "outlet_name": "AndroGuider",
+   "label": "REPORTED",
+   "url": "https://www.androguider.com/2026/10/replit-ditches-anthropic-for-openai-as.html"
+  },
+  {
+   "headline": "OpenAI Is Building A Humanoid Robot, But The Body Isn't The Real Challenge",
+   "outlet": "Engadget",
+   "outlet_name": "Engadget",
+   "label": "REPORTED",
+   "url": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/"
+  },
+  {
+   "headline": "Meta Reportedly Set To Roll Out ‘Hatch’ AI Agent Platform And New ‘Watermelon’ Model In…",
+   "outlet": "Stocktwits",
+   "outlet_name": "Stocktwits",
    "label": "STILL OPEN",
-   "url": "https://startupfortune.com/intel-and-qualcomm-both-court-jim-kellers-ai-chip-startup-tenstorrent/"
+   "url": "https://stocktwits.com/news-articles/markets/equity/meta-reportedly-set-to-roll-out-hatch-ai-agent-platform-and-new-watermelon-model-in-monetization-push/cZYKx4SRJFY"
   },
   {
-   "headline": "AI startup AIsa raises over $9M with Tether joi...",
-   "outlet": "Pluang",
-   "outlet_name": "Pluang",
+   "headline": "NVIDIA RTX Spark Türkiyede Sahneye Çıktı",
+   "outlet": "shiftdelete.net",
+   "outlet_name": "shiftdelete.net",
    "label": "REPORTED",
-   "url": "https://pluang.com/en/news-feed/pendanaan-aisa-lebih-dari-9-juta-tether-dan-hiven-gabung-perpanjangan"
+   "url": "https://shiftdelete.net/nvidia-rtx-spark-turkiyede-sahneye-cikti"
   },
   {
-   "headline": "ChatGPT-5, Gemini and DeepSeek ace pediatric infection questions, study finds",
-   "outlet": "Bioengineer.org",
-   "outlet_name": "Bioengineer.org",
+   "headline": "Nvidia Speeds Up DLSS 5 and Frame Gen. The Cost Is Quality",
+   "outlet": "HWCooling.net",
+   "outlet_name": "HWCooling.net",
    "label": "REPORTED",
-   "url": "https://bioengineer.org/chatgpt-5-gemini-and-deepseek-ace-pediatric-infection-questions-study-finds/"
+   "url": "https://www.hwcooling.net/en/nvidia-to-speed-up-dlss-5-and-frame-gen-quality-will-suffer-however/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 8300,
+ "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 8200,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/01.mp3",
- "audio_seconds": 49.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/02.mp3",
+ "audio_seconds": 63.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per 新浪网: China Unicom appears at the 2026 Artificial Intelligence Industry Conference.\nReported by ServeTheHome: NVIDIA RTX Spark N1X Launch Overview: NVIDIA Arms Windows.\nReported by Cryptopolitan: Anthropic proposes AI safety bill to Congress with $1B damage threshold.\nReported by OpenTools: FTC demands reportedly target OpenAI and Anthropic. That is not a verdict.\nReported by Techi: DeepSeek's Flash update claims gains on 11 benchmarks at the same price.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nForgeCode claims it beats Claude Code and Codex, but reported by Startup Fortune: the fine print shows a 25% score boost via orchestration, not model intelligence.\nClaude traced NIST elliptic-curve seeds to Unix timestamps in under 30 minutes, reported by NewsCord: researchers found no backdoors across 12 outlets compared.\nDeepSeek releases an model update and opens search API to all users, reported by KLSE Screener.\nReported by 极客公园: DeepSeek launches a new model with lower price and stronger capability, plus rumors of Huawei launching a new brand called Starlight focused on cost-effectiveness.\nConfirmed by BBC: UK students use artificial intelligence to apply for jobs, sparking concerns over fairness and authenticity.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
