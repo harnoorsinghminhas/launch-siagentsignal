@@ -1,91 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T16:20:02Z",
- "hour": "2026-10-18T16:00:00Z",
+ "generated_at": "2026-10-18T17:20:03Z",
+ "hour": "2026-10-18T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Disney’s $60 Million Character.AI Deal, Meta’s Brazil Scrutiny and Anthropic’s IPO Ambitions: This Week in Tech",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/benzinga:40f0b1b28094b:0-disney-s-60-million-character-ai-deal-meta-s-brazil-scrutiny-and-anthropic-s-ipo-ambitions-this-week-in-tech/",
+   "title": "Anthropic Proposed AI Safety Bill to US Congress with Restrictions on Government",
+   "outlet": "Incrypted",
+   "outlet_name": "Incrypted",
+   "url": "https://incrypted.com/en/anthropic-proposed-ai-safety-bill-to-us-congress-with-restrictions-on-government/",
    "label": "REPORTED",
-   "summary_1line": "Disney pays $60M for 66 Character.AI staff; Meta faces Brazil election scrutiny; Apple rolls out limited AI in China; Anthropic reports 45% revenue growth.",
-   "published_at": "2026-10-18T12:49:54Z"
+   "summary_1line": "Anthropic proposes federal AI safety bill with strict conditions for government intervention.",
+   "published_at": "2026-10-18T09:01:17Z"
   },
   {
-   "title": "China Proposes Export-Control Revisions for 23 AI Technologies to Further Secure Critical Infrastructure and Government Systems",
-   "outlet": "Vision Times",
-   "outlet_name": "Vision Times",
-   "url": "https://www.visiontimes.com/2026/10/17/china-proposes-export-control-revisions-for-23-ai-technologies-to-further-secure-critical-infrastructure-and-government-systems.html",
-   "label": "CONFIRMED",
-   "summary_1line": "China adds 23 AI technologies to export controls, citing security and governance.",
-   "published_at": "2026-10-18T00:58:12Z"
-  },
-  {
-   "title": "Apple Intelligence in China: Beta startet im Oktober ohne KI-Siri",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "url": "https://borncity.com/news/apple-intelligence-in-china-beta-startet-im-oktober-ohne-ki-siri/",
-   "label": "REPORTED",
-   "summary_1line": "Apple gets China AI approval with limited features, no Siri, using Alibaba and Baidu models.",
-   "published_at": "2026-10-18T14:55:05Z"
-  },
-  {
-   "title": "Anthropic is said to propose federal AI safety rules with limits on government",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/seekingalpha:824b74200094b:0-anthropic-is-said-to-propose-federal-ai-safety-rules-with-limits-on-government/",
+   "title": "Eight states sued OpenAI over ChatGPT safety — here is what happens now",
+   "outlet": "OpenTools",
+   "outlet_name": "OpenTools",
+   "url": "https://opentools.ai/news/eight-states-sue-openai-chatgpt-child-safety-what-changes",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-18T14:41:41Z"
+   "published_at": "2026-10-18T16:40:55Z"
   },
   {
-   "title": "OpenAI is 'DESTROYING' early careers: mathematician",
-   "outlet": "Modern Ghana",
-   "outlet_name": "Modern Ghana",
-   "url": "https://www.modernghana.com/videonews/nbc/1/737077",
+   "title": "Claude Code Hooks: Build Deterministic Gates and Linting",
+   "outlet": "SitePoint",
+   "outlet_name": "SitePoint",
+   "url": "https://www.sitepoint.com/claude-code-hooks-enforce-project-conventions/",
    "label": "REPORTED",
-   "summary_1line": "Mahama announces $10bn economy policy and emergency airstrips in Ghana.",
-   "published_at": "2026-10-18T14:02:13Z"
+   "summary_1line": "Claude Code hooks enforce project conventions via shell scripts in agentic coding sessions.",
+   "published_at": "2026-10-18T15:43:10Z"
+  },
+  {
+   "title": "Anthropic gives outside AI watchdog “employee-like” access",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-18T16:25:19Z"
+  },
+  {
+   "title": "AI washing and the new currency of trust in the digital world",
+   "outlet": "Ammon News",
+   "outlet_name": "Ammon News",
+   "url": "https://en.ammonnews.net/article/96282",
+   "label": "REPORTED",
+   "summary_1line": "AI washing involves misleading AI claims; regulators push for transparency to build public trust.",
+   "published_at": "2026-10-18T12:49:21Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Disney’s $60 Million Character.AI Deal, Meta’s Brazil Scrutiny and Anthropic’s IPO…",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "Anthropic Proposed AI Safety Bill to US Congress with Restrictions on Government",
+   "outlet": "Incrypted",
+   "outlet_name": "Incrypted",
    "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/benzinga:40f0b1b28094b:0-disney-s-60-million-character-ai-deal-meta-s-brazil-scrutiny-and-anthropic-s-ipo-ambitions-this-week-in-tech/"
+   "url": "https://incrypted.com/en/anthropic-proposed-ai-safety-bill-to-us-congress-with-restrictions-on-government/"
   },
   {
-   "headline": "China Proposes Export-Control Revisions for 23 AI Technologies to Further Secure Critical…",
-   "outlet": "Vision Times",
-   "outlet_name": "Vision Times",
-   "label": "CONFIRMED",
-   "url": "https://www.visiontimes.com/2026/10/17/china-proposes-export-control-revisions-for-23-ai-technologies-to-further-secure-critical-infrastructure-and-government-systems.html"
+   "headline": "Eight states sued OpenAI over ChatGPT safety — here is what happens now",
+   "outlet": "OpenTools",
+   "outlet_name": "OpenTools",
+   "label": "REPORTED",
+   "url": "https://opentools.ai/news/eight-states-sue-openai-chatgpt-child-safety-what-changes"
   },
   {
-   "headline": "Apple Intelligence in China: Beta startet im Oktober ohne KI-Siri",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
+   "headline": "Claude Code Hooks: Build Deterministic Gates and Linting",
+   "outlet": "SitePoint",
+   "outlet_name": "SitePoint",
    "label": "REPORTED",
-   "url": "https://borncity.com/news/apple-intelligence-in-china-beta-startet-im-oktober-ohne-ki-siri/"
+   "url": "https://www.sitepoint.com/claude-code-hooks-enforce-project-conventions/"
   },
   {
-   "headline": "Anthropic is said to propose federal AI safety rules with limits on government",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "Anthropic gives outside AI watchdog “employee-like” access",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
    "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/seekingalpha:824b74200094b:0-anthropic-is-said-to-propose-federal-ai-safety-rules-with-limits-on-government/"
+   "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
   },
   {
-   "headline": "OpenAI is 'DESTROYING' early careers: mathematician",
-   "outlet": "Modern Ghana",
-   "outlet_name": "Modern Ghana",
+   "headline": "AI washing and the new currency of trust in the digital world",
+   "outlet": "Ammon News",
+   "outlet_name": "Ammon News",
    "label": "REPORTED",
-   "url": "https://www.modernghana.com/videonews/nbc/1/737077"
+   "url": "https://en.ammonnews.net/article/96282"
   },
   {
    "headline": "DeepSeek Launches Self-Developed Search and Scraping API: Priced at 5 Yuan per Thousand…",
@@ -95,18 +95,18 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUlqbEpJbDd4aUFvWkYxalpLZkpiTWFMSHRTZEYxMGNWS0ZNNUU3N0hZMUV6RTV1NVBiRnUyMXZqZGFfbHlEbmpmRXVHcDBRSjY1TU9WX2pTa0J2dVRTcUFkSU91WVk2cW5OZ1FNdnBHRGpGYXRsTTctc0pQeUNfM1Jia0IzMWY1?oc=5"
   },
   {
-   "headline": "DeepSeek Releases V4.1-Flash Upgraded Version",
-   "outlet": "搜狐网",
-   "outlet_name": "搜狐网",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUmlRTWZ5aF9Da0d0NVBKQUo0bUFfckdDTFhOSFRjTFJtbGg4elJqQmpuNUhQS1dfOEhkNkRVUkJ4bHdtTWVRbWFLTVQxcjRGcGp6VVM3NTlPYm1nSERTSlk1Q0ZZbURpV2lGakVfb1FhRUpDV0lMNWxRMWxldmg2a1hQbF9uRWh1bzVz?oc=5"
+   "headline": "Anthropic cut junior tech hires from 27% to 9% as Claude took on the code",
+   "outlet": "Martin Cid Magazine",
+   "outlet_name": "Martin Cid Magazine",
+   "label": "STILL OPEN",
+   "url": "https://www.martincid.com/technology-sv/anthropic-junior-tech-hires-27-to-9-percent-claude-agents/"
   },
   {
-   "headline": "Anthropic’s proposed AI safety bill only kicks in if 50 deaths or $1 billion in damages…",
-   "outlet": "Tom's Hardware on MSN",
-   "outlet_name": "Tom's Hardware on MSN",
+   "headline": "Grok bot wants to be in your chats, contracts, and shopping cart. Amazon is in its way",
+   "outlet": "NDTV Profit on MSN",
+   "outlet_name": "NDTV Profit on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/anthropic-s-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-1-billion-in-damages-are-at-risk/ar-AA2eukua"
+   "url": "https://www.msn.com/en-in/news/other/grok-bot-wants-to-be-in-your-chats-contracts-and-shopping-cart-amazon-is-in-its-way/ar-AA2eukOE"
   },
   {
    "headline": "Lenovo Wins Nvidia Endorsement as Sovereign AI Push and Top ESG Score Lift Shares",
@@ -116,11 +116,11 @@
    "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/lenovo-wins-nvidia-endorsement-as-sovereign-ai-push-and-top-esg-score-lift/70353988"
   },
   {
-   "headline": "DeepSeek has been disrupted 10 times this year, now preparing compensation for users",
+   "headline": "DeepSeek Has Suffered 10 Outages This Year and Is Now Preparing Compensation for Users",
    "outlet": "VOI.ID",
    "outlet_name": "VOI.ID",
-   "label": "STILL OPEN",
-   "url": "https://voi.id/en/technology/598936"
+   "label": "REPORTED",
+   "url": "https://voi.id/zh/technology-zh/598936"
   },
   {
    "headline": "DeepSeek establishes product department! Will the AI used for free by 130 million people…",
@@ -130,21 +130,21 @@
    "url": "https://www.tmtpost.com/8172203.html"
   },
   {
-   "headline": "What Firecrawl's $75M raise is telling us about the AI stack",
-   "outlet": "enconvert.com",
-   "outlet_name": "enconvert.com",
+   "headline": "Claude Opus 5.5 vs GPT-6 Astra vs Gemini 4 Argon",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
    "label": "REPORTED",
-   "url": "https://www.enconvert.com/blog/the-real-story-behind-firecrawl-s-75m-raise"
+   "url": "https://shattered.io/claude-opus-5-5-vs-gpt-6-astra-terminal-bench-2026/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from four different outlets.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 7700,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/16.mp3",
- "audio_seconds": 61.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/17.mp3",
+ "audio_seconds": 44.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDisney pays 60 million dollars for 66 Character.AI staff, reported by TradingView. Meta faces Brazil election scrutiny and Apple rolls out limited artificial intelligence in China. Anthropic reports 45 percent revenue growth.\nChina adds 23 artificial intelligence technologies to export controls, confirmed by Vision Times, citing security and governance concerns.\nApple gets China artificial intelligence approval with limited features and no Siri, reported by BornCity, using Alibaba and Baidu models.\nAnthropic proposes federal artificial intelligence safety rules with limits on government, reported by TradingView.\nMahama announces an economy policy and emergency airstrips in Ghana, reported by Modern Ghana.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Incrypted: Anthropic Proposed AI Safety Bill to US Congress with Restrictions on Government.\nReported by OpenTools: Eight states sued OpenAI over ChatGPT safety — here is what happens now.\nReported by SitePoint: Claude Code Hooks: Build Deterministic Gates and Linting.\nReported by Ars Technica: Anthropic gives outside AI watchdog “employee-like” access.\nReported by Ammon News: AI washing and the new currency of trust in the digital world.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
