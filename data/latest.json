@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T06:20:03Z",
- "hour": "2026-10-18T06:00:00Z",
+ "generated_at": "2026-10-18T07:20:02Z",
+ "hour": "2026-10-18T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China moves to curb tech exports, including AI, citing national security",
-   "outlet": "Qatar Tribune",
-   "outlet_name": "Qatar Tribune",
-   "url": "https://www.qatar-tribune.com/article/259608/business/china-moves-to-curb-tech-exports-including-ai-citing-national-security/amp",
+   "title": "DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks",
+   "outlet": "ProPakistani",
+   "outlet_name": "ProPakistani",
+   "url": "https://propakistani.pk/2026/10/17/deepseek-v4-1-flash-gets-new-model-with-big-coding-gains-cheaper-agent-tasks/",
    "label": "CONFIRMED",
-   "summary_1line": "China proposes export bans on 40 techs, including AI and solar, amid U.S. tech sovereignty push.",
-   "published_at": "2026-10-17T21:28:00Z"
+   "summary_1line": "DeepSeek's new model beats rivals in coding with lower cost and opens search APIs to developers.",
+   "published_at": "2026-10-17T15:45:24Z"
   },
   {
-   "title": "Musk: White House experience made me arrogant, stayed too long, should have gone back earlier to develop artificial intelligence",
-   "outlet": "凤凰网",
-   "outlet_name": "凤凰网",
-   "url": "https://i.ifeng.com/c/8xJvbyzdycH",
+   "title": "Anthropic Co-founder: By 2030, AI is expected to drive US GDP growth by nearly 50%",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
+   "url": "https://tech.ifeng.com/c/8xJyZ9JLY8B",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic's founder speculates AI could boost US GDP by 50% by 2030.",
+   "published_at": "2026-10-18T04:52:54Z"
+  },
+  {
+   "title": "DeepSeek's new version can really grant wishes! Freely create 3D worlds, price is 1/26 of Opus 5.5",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
+   "url": "https://tech.ifeng.com/c/8xJvbyzdyjk",
+   "label": "STILL OPEN",
+   "summary_1line": "DeepSeek generates detailed 3D content at a fraction of the cost of rivals like GPT-6.1 and Claude Opus.",
+   "published_at": "2026-10-18T05:02:43Z"
+  },
+  {
+   "title": "Ready your resume? DeepSeek hires in Inner Mongolia for the first time",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "url": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivpfyf6518772.shtml",
    "label": "CONFIRMED",
-   "summary_1line": "Musk says AI is key to solving national debt, and admits overconfidence from his White House stint.",
-   "published_at": "2026-10-18T03:59:19Z"
+   "summary_1line": "Nobel and Turing laureates discuss sustainable tech at Shanghai conference with MacFarlane and Xiangbiao.",
+   "published_at": "2026-10-17T06:29:30Z"
   },
   {
-   "title": "ChatGPT Image Oct 10, 2026, 07_59_17 PM-1",
-   "outlet": "Parsippany Focus",
-   "outlet_name": "Parsippany Focus",
-   "url": "https://parsippanyfocus.com/parsippany-high-shuts-out-hopatcong-6-0-on-homecoming-night/chatgpt-image-oct-10-2026-07_59_17-pm-1/",
+   "title": "Anthropic Hires Legal Expert to Help AI Agents Complete Deal Negotiations",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4030866149282439?f=rss",
    "label": "REPORTED",
-   "summary_1line": "Parsippany High defeats Hopatcong 6-0 in homecoming game.",
-   "published_at": "2026-10-18T04:23:50Z"
-  },
-  {
-   "title": "Just now, Anthropic announced the singularity has arrived! SI may push US GDP to 44 trillion dollars",
-   "outlet": "36kr",
-   "outlet_name": "36kr",
-   "url": "https://www.36kr.com/p/4030919698731654",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-18T05:31:56Z"
-  },
-  {
-   "title": "DeepSeek V4.1 Flash Update Tops Claude Opus 5 on Code-Fixing Benchmark at Unchanged Pricing",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
-   "url": "https://xenospectrum.com/en/deepseek-v41-flash-1017-comparison/",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek-V4.1-Flash-1017 improves code fixing and terminal tasks, outperforming rivals in agent work but still trailing in advanced reasoning and vision.",
-   "published_at": "2026-10-17T09:59:46Z"
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
   }
  ],
  "ticker": [
   {
-   "headline": "China moves to curb tech exports, including AI, citing national security",
-   "outlet": "Qatar Tribune",
-   "outlet_name": "Qatar Tribune",
+   "headline": "DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks",
+   "outlet": "ProPakistani",
+   "outlet_name": "ProPakistani",
    "label": "CONFIRMED",
-   "url": "https://www.qatar-tribune.com/article/259608/business/china-moves-to-curb-tech-exports-including-ai-citing-national-security/amp"
+   "url": "https://propakistani.pk/2026/10/17/deepseek-v4-1-flash-gets-new-model-with-big-coding-gains-cheaper-agent-tasks/"
   },
   {
-   "headline": "Musk: White House experience made me arrogant, stayed too long, should have gone back…",
-   "outlet": "凤凰网",
-   "outlet_name": "凤凰网",
+   "headline": "Anthropic Co-founder: By 2030, AI is expected to drive US GDP growth by nearly 50%",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
+   "label": "STILL OPEN",
+   "url": "https://tech.ifeng.com/c/8xJyZ9JLY8B"
+  },
+  {
+   "headline": "DeepSeek's new version can really grant wishes! Freely create 3D worlds, price is 1/26 of…",
+   "outlet": "凤凰网科技",
+   "outlet_name": "凤凰网科技",
+   "label": "STILL OPEN",
+   "url": "https://tech.ifeng.com/c/8xJvbyzdyjk"
+  },
+  {
+   "headline": "Ready your resume? DeepSeek hires in Inner Mongolia for the first time",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
    "label": "CONFIRMED",
-   "url": "https://i.ifeng.com/c/8xJvbyzdycH"
-  },
-  {
-   "headline": "ChatGPT Image Oct 10, 2026, 07_59_17 PM-1",
-   "outlet": "Parsippany Focus",
-   "outlet_name": "Parsippany Focus",
-   "label": "REPORTED",
-   "url": "https://parsippanyfocus.com/parsippany-high-shuts-out-hopatcong-6-0-on-homecoming-night/chatgpt-image-oct-10-2026-07_59_17-pm-1/"
-  },
-  {
-   "headline": "Just now, Anthropic announced the singularity has arrived! SI may push US GDP to 44…",
-   "outlet": "36kr",
-   "outlet_name": "36kr",
-   "label": "REPORTED",
-   "url": "https://www.36kr.com/p/4030919698731654"
-  },
-  {
-   "headline": "DeepSeek V4.1 Flash Update Tops Claude Opus 5 on Code-Fixing Benchmark at Unchanged…",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
-   "label": "REPORTED",
-   "url": "https://xenospectrum.com/en/deepseek-v41-flash-1017-comparison/"
+   "url": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivpfyf6518772.shtml"
   },
   {
    "headline": "Anthropic Hires Legal Expert to Help AI Agents Complete Deal Negotiations",
@@ -109,11 +102,25 @@
    "url": "https://xenospectrum.com/en/reflection-beam-open-model-efficiency/"
   },
   {
+   "headline": "DeepSeek Product Department! Monetization Model Reference for AI Used Free by 130 Million…",
+   "outlet": "财经号",
+   "outlet_name": "财经号",
+   "label": "REPORTED",
+   "url": "http://mp.cnfol.com/59244/article/1792253271-142767485"
+  },
+  {
    "headline": "OpenAI Model Derived Crypto Wallet Keys and Spent Testnet Funds Without Permission",
    "outlet": "Cryptonews.net",
    "outlet_name": "Cryptonews.net",
    "label": "CONFIRMED",
    "url": "https://cryptonews.net/news/security/33609465/"
+  },
+  {
+   "headline": "DeepSeek's new model token consumption drops by over 50%",
+   "outlet": "36kr.com",
+   "outlet_name": "36kr.com",
+   "label": "REPORTED",
+   "url": "https://36kr.com/newsflashes/4030935240085894"
   },
   {
    "headline": "Sources: Anthropic is consulting law firms on deal negotiation tactics as it develops AI…",
@@ -128,23 +135,16 @@
    "outlet_name": "tmtpost.com",
    "label": "REPORTED",
    "url": "https://www.tmtpost.com/8172283.html"
-  },
-  {
-   "headline": "Claude Solves Cryptography Mystery in Half an Hour, Academia Goes Astray for 20 Years…",
-   "outlet": "qbitai.com",
-   "outlet_name": "qbitai.com",
-   "label": "REPORTED",
-   "url": "https://www.qbitai.com/2026/10/503910.html"
   }
  ],
- "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 8100,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 8000,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/06.mp3",
- "audio_seconds": 56.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/07.mp3",
+ "audio_seconds": 50.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Qatar Tribune: China moves to curb tech exports, including AI, citing national security.\nConfirmed, per 凤凰网: Musk: White House experience made me arrogant, stayed too long, should have gone back earlier to develop artificial intelligence.\nReported by Parsippany Focus: ChatGPT Image Oct 10, 2026, 07_59_17 PM-1.\nReported by 36kr: Just now, Anthropic announced the singularity has arrived! SI may push US GDP to 44 trillion dollars.\nReported by XenoSpectrum: DeepSeek V4.1 Flash Update Tops Claude Opus 5 on Code-Fixing Benchmark at Unchanged Pricing.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per ProPakistani: DeepSeek V4.1 Flash Gets New Model With Big Coding Gains, Cheaper Agent Tasks.\nStill open, per 凤凰网科技: Anthropic Co-founder: By 2030, AI is expected to drive US GDP growth by nearly 50%.\nStill open, per 凤凰网科技: DeepSeek's new version can really grant wishes! Freely create 3D worlds, price is 1/26 of Opus 5.5.\nConfirmed, per 新浪财经: Ready your resume? DeepSeek hires in Inner Mongolia for the first time.\nReported by 36氪: Anthropic Hires Legal Expert to Help AI Agents Complete Deal Negotiations.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
