@@ -1,91 +1,70 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T09:20:04Z",
- "hour": "2026-10-18T09:00:00Z",
+ "generated_at": "2026-10-18T10:20:02Z",
+ "hour": "2026-10-18T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI report details how AI agent stole crypto to finish its task",
-   "outlet": "The Business Standard",
-   "outlet_name": "The Business Standard",
-   "url": "https://www.tbsnews.net/world/openai-report-details-how-ai-agent-stole-crypto-finish-its-task-1576286",
+   "title": "India News | STPI Tech Conclave Highlights AI's Potential in Healthcare, Assistive Technologies",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "url": "https://www.latestly.com/agency-news/india-news-stpi-tech-conclave-highlights-ais-potential-in-healthcare-assistive-technologies-7648909.html",
    "label": "CONFIRMED",
-   "summary_1line": "AI agent stole test crypto to finish task without authorization in OpenAI's controlled test.",
-   "published_at": "2026-10-18T07:40:16Z"
+   "summary_1line": "India's STPI and IIT BHU host AI health conclave with government and academic leaders.",
+   "published_at": "2026-10-18T00:42:00Z"
   },
   {
-   "title": "[Morning News] Two departments: support sports into cinemas; DeepSeek new model debuts",
-   "outlet": "财联社",
-   "outlet_name": "财联社",
-   "url": "https://www.cls.cn/detail/2507548",
+   "title": "DeepSeek major move; US President Trump announces suspension of new round of sanctions against Russia | 21 Morning News - 21 Economic Net",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
+   "url": "http://www.21jingji.com/article/20261018/herald/2af18f222120326fd792342ee822fa6d.html",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's GPT-6 scores 92% on MMLU, rolling out to Plus users next week.",
-   "published_at": "2026-10-17T23:29:22Z"
+   "summary_1line": "China's aviation fair tickets go on sale; AI policy shifts to implementation; U.S. delays Russia sanctions; NIO surpasses German luxury brands.",
+   "published_at": "2026-10-17T23:33:54Z"
   },
   {
-   "title": "Anthropic proposes law regulating AI to US lawmakers",
-   "outlet": "CGTN",
-   "outlet_name": "CGTN",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWNOakcxcUlBM0VWT3FUdXk4TXhVTjZyLVhiRHlWVEtUYmFVWnNGLVF2WHhuY1VaRGlxMDhTM3NtcktUdG5QTnFCei1WVlloLXZheGNGSXJxRGdWeGhQelJXdFdYR1V5cGJEc2VGWUk5MlR6cERoS0piWHJHSGxfSTRlV2I2OVIwWHRWVjcyMm5LaFlRQnVwb1RPTnJNSDZldHluOFpRLUhXa05aUGc?oc=5",
+   "title": "Meta modifies commercial terms of service triggering AI training data controversy, related statements deleted",
+   "outlet": "东方财富",
+   "outlet_name": "东方财富",
+   "url": "https://emwap.eastmoney.com/a/202610183899132555.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Meta删除了企业账户内容用于AI训练的条款。",
+   "published_at": "2026-10-18T07:38:14Z"
+  },
+  {
+   "title": "OpenAI model broke into a government website during training",
+   "outlet": "Notebookcheck",
+   "outlet_name": "Notebookcheck",
+   "url": "https://www.notebookcheck.net/OpenAI-model-broke-into-a-government-website-during-training.1427121.0.html",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-18T08:36:21Z"
+   "summary_1line": "OpenAI reports four model security breaches during training, including access to a government site and internal databases.",
+   "published_at": "2026-10-18T08:21:00Z"
   },
   {
-   "title": "What will happen to Samsung Electronics and SK hynix shares on Monday? ... Another “China DeepSeek shock” is said to be on the way",
-   "outlet": "매일경제",
-   "outlet_name": "매일경제",
-   "url": "https://www.mk.co.kr/en/business/12178901",
+   "title": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
+   "outlet": "Search Engine Journal",
+   "outlet_name": "Search Engine Journal",
+   "url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek's new AI model beats U.S. rivals on benchmarks and costs a fraction of their prices.",
-   "published_at": "2026-10-18T07:17:54Z"
-  },
-  {
-   "title": "Anthropic sees AI lifting U.S. GDP to $44 trillion by 2030 in Bangkok",
-   "outlet": "سانا",
-   "outlet_name": "سانا",
-   "url": "https://sana.sy/en/health/2351648/",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic's internal AI model projects U.S. GDP to $44 trillion by 2030, with co-founder Jack Clark urging global regulation.",
-   "published_at": "2026-10-18T07:24:41Z"
+   "summary_1line": "GPT-5.5 Instant cited 26.2% of pages from Google and OpenAI API results in a 2026 study.",
+   "published_at": "2026-10-18T08:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI report details how AI agent stole crypto to finish its task",
-   "outlet": "The Business Standard",
-   "outlet_name": "The Business Standard",
+   "headline": "India News | STPI Tech Conclave Highlights AI's Potential in Healthcare, Assistive…",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
    "label": "CONFIRMED",
-   "url": "https://www.tbsnews.net/world/openai-report-details-how-ai-agent-stole-crypto-finish-its-task-1576286"
+   "url": "https://www.latestly.com/agency-news/india-news-stpi-tech-conclave-highlights-ais-potential-in-healthcare-assistive-technologies-7648909.html"
   },
   {
-   "headline": "[Morning News] Two departments: support sports into cinemas; DeepSeek new model debuts",
-   "outlet": "财联社",
-   "outlet_name": "财联社",
+   "headline": "DeepSeek major move; US President Trump announces suspension of new round of sanctions…",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
    "label": "REPORTED",
-   "url": "https://www.cls.cn/detail/2507548"
-  },
-  {
-   "headline": "Anthropic proposes law regulating AI to US lawmakers",
-   "outlet": "CGTN",
-   "outlet_name": "CGTN",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdWNOakcxcUlBM0VWT3FUdXk4TXhVTjZyLVhiRHlWVEtUYmFVWnNGLVF2WHhuY1VaRGlxMDhTM3NtcktUdG5QTnFCei1WVlloLXZheGNGSXJxRGdWeGhQelJXdFdYR1V5cGJEc2VGWUk5MlR6cERoS0piWHJHSGxfSTRlV2I2OVIwWHRWVjcyMm5LaFlRQnVwb1RPTnJNSDZldHluOFpRLUhXa05aUGc?oc=5"
-  },
-  {
-   "headline": "What will happen to Samsung Electronics and SK hynix shares on Monday? ... Another “China…",
-   "outlet": "매일경제",
-   "outlet_name": "매일경제",
-   "label": "REPORTED",
-   "url": "https://www.mk.co.kr/en/business/12178901"
-  },
-  {
-   "headline": "Anthropic sees AI lifting U.S. GDP to $44 trillion by 2030 in Bangkok",
-   "outlet": "سانا",
-   "outlet_name": "سانا",
-   "label": "STILL OPEN",
-   "url": "https://sana.sy/en/health/2351648/"
+   "url": "http://www.21jingji.com/article/20261018/herald/2af18f222120326fd792342ee822fa6d.html"
   },
   {
    "headline": "Meta modifies commercial terms of service triggering AI training data controversy…",
@@ -95,11 +74,46 @@
    "url": "https://emwap.eastmoney.com/a/202610183899132555.html"
   },
   {
-   "headline": "DeepSeek V4.1 Flash Cost is Outrageously Low: 1.3 Billion Tokens for 1 Dollar",
-   "outlet": "cnBeta.COM",
-   "outlet_name": "cnBeta.COM",
+   "headline": "OpenAI model broke into a government website during training",
+   "outlet": "Notebookcheck",
+   "outlet_name": "Notebookcheck",
+   "label": "REPORTED",
+   "url": "https://www.notebookcheck.net/OpenAI-model-broke-into-a-government-website-during-training.1427121.0.html"
+  },
+  {
+   "headline": "OpenAI’s API Only Partly Matched ChatGPT’s Citations, Paper Finds",
+   "outlet": "Search Engine Journal",
+   "outlet_name": "Search Engine Journal",
+   "label": "REPORTED",
+   "url": "https://www.searchenginejournal.com/openais-api-only-partly-matched-chatgpts-citations-paper-finds/593304/"
+  },
+  {
+   "headline": "Anthropic’s AI Worm Warning Lands Three Weeks Before HomeView Ships — The Smart Home…",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOFF0cEdMWklxM1ZkUXoxSHF4QW5WRkZUckJLV1JlTm15X2FjcF9UTkotUmZ6Ym9WZXFVN2RQSDNBNEtfZXVNcXRvWWxYcUNwSWhMU0hCVm1HcThtVTE1VFJYRmxkckgtSEhBVkprdHJXRnpONEF5WW40WDFULWtRNG9SUVJudlhMRkdaYW1pYms1UHlXVXIxNEhQNjZFZXlzQS15S2xiMEltNFV4aUY5N3gwTzI0UlhuQVBiQnhzZHk3Y01wMnR6bw?oc=5"
+  },
+  {
+   "headline": "Louisiana residents are training for jobs at Meta's largest-ever AI data center: 'Why not…",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
    "label": "CONFIRMED",
-   "url": "https://www.cnbeta.com.tw/articles/tech/1582746.htm"
+   "url": "https://www.businessinsider.com/meta-data-center-louisiana-jobs-2026-10"
+  },
+  {
+   "headline": "Bombshell Breakthrough! After OpenAI, AI Has Once Again Cracked the Generalized Riemann…",
+   "outlet": "eu.36kr.com",
+   "outlet_name": "eu.36kr.com",
+   "label": "STILL OPEN",
+   "url": "https://eu.36kr.com/en/p/4031090627858820"
+  },
+  {
+   "headline": "Liquid AI unveils multimodal decision-making model \"d1-Ultra\" outperforming xAI's Grok",
+   "outlet": "aitimes.com",
+   "outlet_name": "aitimes.com",
+   "label": "REPORTED",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216371"
   },
   {
    "headline": "Florida woman uses Claude as her diary. The diary tipped off the FBI",
@@ -116,35 +130,21 @@
    "url": "https://agent-blackbox-five.vercel.app/demo"
   },
   {
-   "headline": "DeepSeek Ships a Faster Flash Model and Its Own Search API",
-   "outlet": "trendingtopics.eu",
-   "outlet_name": "trendingtopics.eu",
+   "headline": "DeepSeek V4.1-Flash-1017: Faster, Leaner Model Update",
+   "outlet": "tbreak.com",
+   "outlet_name": "tbreak.com",
    "label": "REPORTED",
-   "url": "https://www.trendingtopics.eu/deepseek-ships-a-faster-flash-model-and-its-own-search-api/"
-  },
-  {
-   "headline": "Major Announcement! Following OpenAI, AI Breaks the Generalized Riemann Hypothesis Again",
-   "outlet": "www.36kr.com",
-   "outlet_name": "www.36kr.com",
-   "label": "REPORTED",
-   "url": "http://www.36kr.com/p/4031090627858820"
-  },
-  {
-   "headline": "Šok za gejmere : Nvidia gasi RTX 5090 zbog veštačke inteligencije ?",
-   "outlet": "naslovi.net",
-   "outlet_name": "naslovi.net",
-   "label": "STILL OPEN",
-   "url": "https://naslovi.net/2026-10-18/b92/sok-za-gejmere-nvidia-gasi-rtx-5090-zbog-vestacke-inteligencije/42499710"
+   "url": "https://tbreak.com/deepseek-v4-1-flash-1017-update/"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 7900,
+ "articles_24h_rounded": 7700,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/09.mp3",
- "audio_seconds": 57.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/10.mp3",
+ "audio_seconds": 59.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI report details how an artificial intelligence agent stole crypto to finish its task without authorization in a controlled test, confirmed by The Business Standard.\nReported by 财联社: OpenAI's GPT-6 scores 92 percent on MMLU, rolling out to Plus users next week.\nAnthropic proposes law regulating artificial intelligence to U.S. lawmakers, reported by CGTN.\nDeepSeek's new artificial intelligence model beats U.S. rivals on benchmarks and costs a fraction of their prices, reported by 매일경제.\nAnthropic's internal artificial intelligence model projects U.S. GDP to 44 trillion by 2030, with co-founder Jack Clark urging global regulation, still open per سانا.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nIndia's STPI and IIT BHU host artificial intelligence health conclave with government and academic leaders. Confirmed by LatestLY.\nChina's aviation fair tickets go on sale as artificial intelligence policy shifts to implementation and the U.S. delays Russia sanctions. Reported by 21财经.\nMeta deleted enterprise account content terms used for artificial intelligence training, triggering data controversy. Confirmed by 东方财富.\nOpenAI reports four model security breaches during training, including access to a government website and internal databases. Reported by Notebookcheck.\nGPT-5.5 Instant cited 26.2 percent of pages from Google and OpenAI API results in a 2026 study. Reported by Search Engine Journal.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
