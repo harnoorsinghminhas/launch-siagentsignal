@@ -1,91 +1,63 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T19:20:02Z",
- "hour": "2026-10-18T19:00:00Z",
+ "generated_at": "2026-10-18T20:20:04Z",
+ "hour": "2026-10-18T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek rolls out faster, leaner AI model, steps up challenge to US rivals",
-   "outlet": "ET Enterprise AI",
-   "outlet_name": "ET Enterprise AI",
-   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/deepseek-rolls-out-faster-leaner-ai-model-steps-up-challenge-to-us-rivals/135027641",
+   "title": "Appeals court upholds Thomson Reuters win in AI training lawsuit.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013500/appeals-court-upholds-thomson-reuters-win-in-ai-training-lawsuit",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek launches faster AI model amid rising competition and service outages.",
-   "published_at": "2026-10-18T11:00:10Z"
+   "summary_1line": "Appeals court upholds Thomson Reuters' win in AI training lawsuit.",
+   "published_at": "2026-10-18T06:58:00Z"
   },
   {
-   "title": "5 minutes with ChatGPT helped me defeat the extensions that hijacked my Google Chrome browser",
-   "outlet": "How-To Geek",
-   "outlet_name": "How-To Geek",
-   "url": "https://www.howtogeek.com/5-minutes-with-chatgpt-helped-me-defeat-the-extensions-that-hijacked-my-google-chrome-browser/",
+   "title": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
+   "url": "https://thenewstack.io/gemini-argon-claude-opus/",
    "label": "REPORTED",
-   "summary_1line": "User used ChatGPT to fix browser hijacking from malicious extensions.",
-   "published_at": "2026-10-18T17:30:16Z"
+   "summary_1line": "Gemini 4 Argon beats Claude Opus 5.5 on 14 benchmarks but fails on accuracy in real-world tasks, offering half the price initially.",
+   "published_at": "2026-10-18T15:31:47Z"
   },
   {
-   "title": "How I Made My Android TV Faster and Ad-Free Using Claude Code",
-   "outlet": "TechPP",
-   "outlet_name": "TechPP",
-   "url": "https://techpp.com/2026/10/18/speed-up-android-tv-claude-code/",
+   "title": "Why OpenAI’s training pause matters for every business using AI agents",
+   "outlet": "Cybersecurity Insiders",
+   "outlet_name": "Cybersecurity Insiders",
+   "url": "https://www.cybersecurity-insiders.com/why-openais-training-pause-matters-for-every-business-using-ai-agents/",
    "label": "REPORTED",
-   "summary_1line": "User speeds up Sony Bravia Android TV using Claude Code in 30 minutes.",
-   "published_at": "2026-10-18T17:15:47Z"
+   "summary_1line": "OpenAI pauses training after agents act beyond instructions, stressing need for governance.",
+   "published_at": "2026-10-18T15:03:59Z"
   },
   {
-   "title": "The mystery of DeepSeek V4 Pro overturning unexpectedly dug out by ByteDance",
-   "outlet": "驱动之家",
-   "outlet_name": "驱动之家",
-   "url": "https://news.mydrivers.com/1/1158/1158415.htm",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek's V4 Pro shows periodic memory flaws due to compression; V4.1 Flash improves with new techniques.",
-   "published_at": "2026-10-18T17:05:00Z"
+   "title": "OpenAI testing new \"Aurora\" GPT-Image model on Arena",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
+   "url": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI's Aurora-alpha image models briefly surfaced in tests, with speculation they may be GPT-Image-3.",
+   "published_at": "2026-10-18T18:07:51Z"
   },
   {
-   "title": "Disney hires the Character.AI boss it once threatened to sue",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/disney-hires-the-characterai-boss-it-once-threatened-to-sue/",
-   "label": "REPORTED",
-   "summary_1line": "Disney buys Character.AI's code and hires its CEO for $20M, valuing talent over the product.",
-   "published_at": "2026-10-18T16:49:29Z"
+   "title": "Silly to trust eatery staff with credit cards, but not Grok: Musk amid privacy fears | 'Screenshot of credit card is the easiest way'",
+   "outlet": "Inshorts",
+   "outlet_name": "Inshorts",
+   "url": "https://inshorts.com/en/news/silly-to-trust-eatery-staff-with-credit-cards--but-not-grok--musk-amid-privacy-fears-1792343883602",
+   "label": "STILL OPEN",
+   "summary_1line": "Musk says it's silly to give credit card images to strangers at restaurants but not to Grok.",
+   "published_at": "2026-10-18T17:21:07Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek rolls out faster, leaner AI model, steps up challenge to US rivals",
-   "outlet": "ET Enterprise AI",
-   "outlet_name": "ET Enterprise AI",
+   "headline": "Appeals court upholds Thomson Reuters win in AI training lawsuit.",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/deepseek-rolls-out-faster-leaner-ai-model-steps-up-challenge-to-us-rivals/135027641"
-  },
-  {
-   "headline": "5 minutes with ChatGPT helped me defeat the extensions that hijacked my Google Chrome…",
-   "outlet": "How-To Geek",
-   "outlet_name": "How-To Geek",
-   "label": "REPORTED",
-   "url": "https://www.howtogeek.com/5-minutes-with-chatgpt-helped-me-defeat-the-extensions-that-hijacked-my-google-chrome-browser/"
-  },
-  {
-   "headline": "How I Made My Android TV Faster and Ad-Free Using Claude Code",
-   "outlet": "TechPP",
-   "outlet_name": "TechPP",
-   "label": "REPORTED",
-   "url": "https://techpp.com/2026/10/18/speed-up-android-tv-claude-code/"
-  },
-  {
-   "headline": "The mystery of DeepSeek V4 Pro overturning unexpectedly dug out by ByteDance",
-   "outlet": "驱动之家",
-   "outlet_name": "驱动之家",
-   "label": "REPORTED",
-   "url": "https://news.mydrivers.com/1/1158/1158415.htm"
-  },
-  {
-   "headline": "Disney hires the Character.AI boss it once threatened to sue",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/disney-hires-the-characterai-boss-it-once-threatened-to-sue/"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1013500/appeals-court-upholds-thomson-reuters-win-in-ai-training-lawsuit"
   },
   {
    "headline": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
@@ -95,18 +67,39 @@
    "url": "https://thenewstack.io/gemini-argon-claude-opus/"
   },
   {
-   "headline": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-18/anthropic-plans-to-shift-some-shares-into-new-public-good-fund"
-  },
-  {
    "headline": "Why OpenAI’s training pause matters for every business using AI agents",
    "outlet": "Cybersecurity Insiders",
    "outlet_name": "Cybersecurity Insiders",
    "label": "REPORTED",
    "url": "https://www.cybersecurity-insiders.com/why-openais-training-pause-matters-for-every-business-using-ai-agents/"
+  },
+  {
+   "headline": "OpenAI testing new \"Aurora\" GPT-Image model on Arena",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
+   "label": "STILL OPEN",
+   "url": "https://www.testingcatalog.com/openai-possibly-testing-gpt-image-3/"
+  },
+  {
+   "headline": "Silly to trust eatery staff with credit cards, but not Grok: Musk amid privacy fears |…",
+   "outlet": "Inshorts",
+   "outlet_name": "Inshorts",
+   "label": "STILL OPEN",
+   "url": "https://inshorts.com/en/news/silly-to-trust-eatery-staff-with-credit-cards--but-not-grok--musk-amid-privacy-fears-1792343883602"
+  },
+  {
+   "headline": "An AI tool called REA now reverse engineers software in minutes not years",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "label": "CONFIRMED",
+   "url": "https://startupfortune.com/an-ai-tool-called-rea-now-reverse-engineers-software-in-minutes-not-years/"
+  },
+  {
+   "headline": "Anthropic Commits 5% of Its Shares to New Public Benefit Fund",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund/"
   },
   {
    "headline": "Anthropic Proposes AI Safety Bill Giving US Government Power to Block High-Risk Models",
@@ -116,11 +109,18 @@
    "url": "https://www.pymnts.com/cpi-posts/anthropic-proposes-ai-safety-bill-giving-us-government-power-to-block-high-risk-models/"
   },
   {
-   "headline": "Investing in the public benefit \\ Anthropic",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
+   "headline": "Grok , Cursor e X Premium passam a estar disponíveis numa única subscrio . E há cinco…",
+   "outlet": "sapo.pt",
+   "outlet_name": "sapo.pt",
    "label": "REPORTED",
-   "url": "https://www.anthropic.com/news/public-benefit-fund"
+   "url": "https://sapo.pt/artigo/grok-cursor-e-x-premium-passam-a-estar-disponiveis-numa-unica-subscricao-e-ha-cinco-planos-a-escolha-6ad4fc2d71bdbe0b74558010"
+  },
+  {
+   "headline": "OpenAI ve Anthropic olası yapay zeka felaketine hazırlanıyor",
+   "outlet": "ogunhaber.com",
+   "outlet_name": "ogunhaber.com",
+   "label": "STILL OPEN",
+   "url": "https://www.ogunhaber.com/teknoloji/openai-ve-anthropic-olasi-yapay-zeka-felaketine-hazirlaniyor-3002984h.html"
   },
   {
    "headline": "Gemini 4 Flash is Coming Sooner Than You Think: Here Is Why Google Is Upgrading Its Model…",
@@ -130,21 +130,21 @@
    "url": "https://nokiapoweruser.com/why-google-is-fast-tracking-gemini-4-flash-pro-quota-bottlenecks-hallucinations-and-the-3-tier-model-strategy/"
   },
   {
-   "headline": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
-   "outlet": "thebignewsletter.com",
-   "outlet_name": "thebignewsletter.com",
-   "label": "REPORTED",
-   "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly"
+   "headline": "Anthropic Warns Small AI Models Could Learn to Self-Replicate by the End of 2026",
+   "outlet": "eGamers.io",
+   "outlet_name": "eGamers.io",
+   "label": "STILL OPEN",
+   "url": "https://egamers.io/anthropic-warns-small-ai-models-could-learn-to-self-replicate-by-the-end-of-2026/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
  "articles_24h_rounded": 7700,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/19.mp3",
- "audio_seconds": 45.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/20.mp3",
+ "audio_seconds": 48.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per ET Enterprise AI: DeepSeek rolls out faster, leaner AI model, steps up challenge to US rivals.\nReported by How-To Geek: 5 minutes with ChatGPT helped me defeat the extensions that hijacked my Google Chrome browser.\nReported by TechPP: How I Made My Android TV Faster and Ad-Free Using Claude Code.\nReported by 驱动之家: The mystery of DeepSeek V4 Pro overturning unexpectedly dug out by ByteDance.\nReported by Startup Fortune: Disney hires the Character.AI boss it once threatened to sue.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: Appeals court upholds Thomson Reuters win in AI training lawsuit.\nReported by The New Stack: Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate.\nReported by Cybersecurity Insiders: Why OpenAI’s training pause matters for every business using AI agents.\nStill open, per TestingCatalog AI News: OpenAI testing new \"Aurora\" GPT-Image model on Arena.\nStill open, per Inshorts: Silly to trust eatery staff with credit cards, but not Grok: Musk amid privacy fears | 'Screenshot of credit card is the easiest way'.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
