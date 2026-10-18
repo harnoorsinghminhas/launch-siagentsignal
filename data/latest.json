@@ -1,91 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T21:20:02Z",
- "hour": "2026-10-18T21:00:00Z",
+ "generated_at": "2026-10-18T22:20:05Z",
+ "hour": "2026-10-18T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Leaked AI safety bill from Anthropic only lets government act if 50+ deaths or $1 billion are on the line",
-   "outlet": "PC Gamer",
-   "outlet_name": "PC Gamer",
-   "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's AI safety bill triggers government action for $1B+ damage or 50+ injuries.",
-   "published_at": "2026-10-18T18:44:11Z"
+   "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic launches public benefit fund with 5% share commitment and job market research.",
+   "published_at": "2026-10-18T20:37:40Z"
   },
   {
-   "title": "Anthropic Proposes Congress Bill Mirroring Claude’s Internal Safety Policies",
-   "outlet": "Crowdfund Insider",
-   "outlet_name": "Crowdfund Insider",
-   "url": "https://www.crowdfundinsider.com/2026/10/319279-anthropic-proposes-congress-bill-mirroring-claudes-internal-safety-policies/",
+   "title": "This free, open-source tool beats Claude Code, Codex, and Antigravity at their own game, and I'm not looking back",
+   "outlet": "MakeUseOf",
+   "outlet_name": "MakeUseOf",
+   "url": "https://www.makeuseof.com/open-source-free-tool-beats-claude-code-codex-antigravity-at-own-game/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-18T20:15:31Z"
+   "summary_1line": "User promotes Pi, a minimalist, open-source coding agent with extensibility and no vendor lock-in.",
+   "published_at": "2026-10-18T19:00:17Z"
   },
   {
-   "title": "OpenAI Faces Lawsuits, Subpoenas and EU Scrutiny in a Single Week",
-   "outlet": "Tech Policy Press",
-   "outlet_name": "Tech Policy Press",
-   "url": "https://www.techpolicy.press/openai-faces-lawsuits-subpoenas-and-eu-scrutiny-in-a-single-week/",
+   "title": "US regulator hits OpenAI and Anthropic with sweeping demands after their AIs went rogue",
+   "outlet": "WION",
+   "outlet_name": "WION",
+   "url": "https://www.wionews.com/world/us-regulator-hits-openai-and-anthropic-with-sweeping-demands-after-their-ais-went-rogue-1792254205665",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-18T20:36:25Z"
+   "summary_1line": "FTC demands info on AI safety and claims from OpenAI and Anthropic.",
+   "published_at": "2026-10-18T15:19:00Z"
   },
   {
-   "title": "GitHub Copilot: Drei KI-Modelle verschwinden am 16. November",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "url": "https://borncity.com/news/github-copilot-drei-ki-modelle-verschwinden-am-16-november/",
+   "title": "Anthropic Used Books — AI Giant’s Mysterious Bulk Book Purchases Uncovered",
+   "outlet": "The Korea Daily",
+   "outlet_name": "The Korea Daily",
+   "url": "https://en.koreadaily.com/anthropic-used-books/",
    "label": "REPORTED",
-   "summary_1line": "GitHub removes older AI models by Nov 16, 2026, replacing them with new ones and adjusting pricing by subscription tier.",
-   "published_at": "2026-10-18T19:58:04Z"
+   "summary_1line": "Anthropic's AI training uses bulk used books scanned via a UK-Belgium shipping chain.",
+   "published_at": "2026-10-18T20:32:50Z"
   },
   {
-   "title": "Rivian AI Agents From Companies Like Anthropic Are Coming",
-   "outlet": "RivianTrackr",
-   "outlet_name": "RivianTrackr",
-   "url": "https://riviantrackr.com/news/rivian-ai-agents-anthropic/",
+   "title": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies",
+   "outlet": "Global Sanctions and Export Controls Blog",
+   "outlet_name": "Global Sanctions and Export Controls Blog",
+   "url": "https://sanctionsnews.bakermckenzie.com/china-proposes-expanded-export-controls-on-ai-biopharma-and-solar-energy-technologies/",
    "label": "REPORTED",
-   "summary_1line": "Rivian will let vehicles run third-party AI agents, with details to be shared in December.",
-   "published_at": "2026-10-18T19:48:38Z"
+   "summary_1line": "China expands AI and biopharma tech export controls with immediate registration and automatic licensing for certain exports.",
+   "published_at": "2026-10-18T20:25:24Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Leaked AI safety bill from Anthropic only lets government act if 50+ deaths or $1 billion…",
-   "outlet": "PC Gamer",
-   "outlet_name": "PC Gamer",
-   "label": "REPORTED",
-   "url": "https://www.pcgamer.com/software/ai/leaked-ai-safety-bill-from-anthropic-only-lets-government-act-if-50-deaths-or-usd1-billion-are-on-the-line/"
+   "headline": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
   },
   {
-   "headline": "Anthropic Proposes Congress Bill Mirroring Claude’s Internal Safety Policies",
-   "outlet": "Crowdfund Insider",
-   "outlet_name": "Crowdfund Insider",
+   "headline": "This free, open-source tool beats Claude Code, Codex, and Antigravity at their own game…",
+   "outlet": "MakeUseOf",
+   "outlet_name": "MakeUseOf",
    "label": "REPORTED",
-   "url": "https://www.crowdfundinsider.com/2026/10/319279-anthropic-proposes-congress-bill-mirroring-claudes-internal-safety-policies/"
+   "url": "https://www.makeuseof.com/open-source-free-tool-beats-claude-code-codex-antigravity-at-own-game/"
   },
   {
-   "headline": "OpenAI Faces Lawsuits, Subpoenas and EU Scrutiny in a Single Week",
-   "outlet": "Tech Policy Press",
-   "outlet_name": "Tech Policy Press",
+   "headline": "US regulator hits OpenAI and Anthropic with sweeping demands after their AIs went rogue",
+   "outlet": "WION",
+   "outlet_name": "WION",
    "label": "REPORTED",
-   "url": "https://www.techpolicy.press/openai-faces-lawsuits-subpoenas-and-eu-scrutiny-in-a-single-week/"
+   "url": "https://www.wionews.com/world/us-regulator-hits-openai-and-anthropic-with-sweeping-demands-after-their-ais-went-rogue-1792254205665"
   },
   {
-   "headline": "GitHub Copilot: Drei KI-Modelle verschwinden am 16. November",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
+   "headline": "Anthropic Used Books — AI Giant’s Mysterious Bulk Book Purchases Uncovered",
+   "outlet": "The Korea Daily",
+   "outlet_name": "The Korea Daily",
    "label": "REPORTED",
-   "url": "https://borncity.com/news/github-copilot-drei-ki-modelle-verschwinden-am-16-november/"
+   "url": "https://en.koreadaily.com/anthropic-used-books/"
   },
   {
-   "headline": "Rivian AI Agents From Companies Like Anthropic Are Coming",
-   "outlet": "RivianTrackr",
-   "outlet_name": "RivianTrackr",
+   "headline": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies",
+   "outlet": "Global Sanctions and Export Controls Blog",
+   "outlet_name": "Global Sanctions and Export Controls Blog",
    "label": "REPORTED",
-   "url": "https://riviantrackr.com/news/rivian-ai-agents-anthropic/"
+   "url": "https://sanctionsnews.bakermckenzie.com/china-proposes-expanded-export-controls-on-ai-biopharma-and-solar-energy-technologies/"
+  },
+  {
+   "headline": "I made Claude Code build a map of my files, and it cut search times by 96%",
+   "outlet": "XDA",
+   "outlet_name": "XDA",
+   "label": "REPORTED",
+   "url": "https://www.xda-developers.com/made-claude-code-build-map-of-my-files/"
   },
   {
    "headline": "Junior Tech Hires’ Share at Anthropic Falls From 27% to 9% as AI Reshapes Work",
@@ -93,13 +100,6 @@
    "outlet_name": "Open Magazine",
    "label": "REPORTED",
    "url": "https://openthemagazine.com/business/junior-tech-hires-share-at-anthropic-falls-from-27-to-9-as-ai-reshapes-work"
-  },
-  {
-   "headline": "Anthropic Commits 5% of Its Shares to New Public Benefit Fund",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "CONFIRMED",
-   "url": "https://www.unite.ai/anthropic-commits-5-of-its-shares-to-new-public-benefit-fund/"
   },
   {
    "headline": "Latest on ChatGPT lawsuit",
@@ -116,18 +116,11 @@
    "url": "https://shattered.io/deepseek-v4-1-flash-1017-hle-score-42-6-2026/"
   },
   {
-   "headline": "OpenAI ve Anthropic olası yapay zeka felaketine hazırlanıyor",
-   "outlet": "ogunhaber.com",
-   "outlet_name": "ogunhaber.com",
-   "label": "STILL OPEN",
-   "url": "https://www.ogunhaber.com/teknoloji/openai-ve-anthropic-olasi-yapay-zeka-felaketine-hazirlaniyor-3002984h.html"
-  },
-  {
-   "headline": "Grok , Cursor e X Premium passam a estar disponíveis numa única subscrio . E há cinco…",
-   "outlet": "sapo.pt",
-   "outlet_name": "sapo.pt",
+   "headline": "Open-Source AI Grading Platform EvaluAI Turns LLMs Into Classroom Assessment Tools",
+   "outlet": "Bioengineer.org",
+   "outlet_name": "Bioengineer.org",
    "label": "REPORTED",
-   "url": "https://sapo.pt/artigo/grok-cursor-e-x-premium-passam-a-estar-disponiveis-numa-unica-subscricao-e-ha-cinco-planos-a-escolha-6ad4fc2d71bdbe0b74558010"
+   "url": "https://bioengineer.org/open-source-ai-grading-platform-evaluai-turns-llms-into-classroom-assessment-tools/"
   },
   {
    "headline": "Meta AI Terms Alarm Publishers Ahead of Oct. 30 [2026]",
@@ -135,16 +128,23 @@
    "outlet_name": "shattered.io",
    "label": "REPORTED",
    "url": "https://shattered.io/meta-ai-terms-publishers-oct-30-2026/"
+  },
+  {
+   "headline": "An AI agent network answered a reporter’s message, claiming to be Claude",
+   "outlet": "eGamers.io",
+   "outlet_name": "eGamers.io",
+   "label": "STILL OPEN",
+   "url": "https://egamers.io/an-ai-agent-network-answered-a-reporters-message-claiming-to-be-claude/"
   }
  ],
- "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 7700,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/21.mp3",
- "audio_seconds": 47.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/22.mp3",
+ "audio_seconds": 58.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by PC Gamer: Leaked AI safety bill from Anthropic only lets government act if 50+ deaths or $1 billion are on the line.\nReported by Crowdfund Insider: Anthropic Proposes Congress Bill Mirroring Claude’s Internal Safety Policies.\nReported by Tech Policy Press: OpenAI Faces Lawsuits, Subpoenas and EU Scrutiny in a Single Week.\nReported by BornCity: GitHub Copilot: Drei KI-Modelle verschwinden am 16. November.\nReported by RivianTrackr: Rivian AI Agents From Companies Like Anthropic Are Coming.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’.\nReported by MakeUseOf: This free, open-source tool beats Claude Code, Codex, and Antigravity at their own game, and I'm not looking back.\nReported by WION: US regulator hits OpenAI and Anthropic with sweeping demands after their AIs went rogue.\nReported by The Korea Daily: Anthropic Used Books — AI Giant’s Mysterious Bulk Book Purchases Uncovered.\nReported by Global Sanctions and Export Controls Blog: China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
