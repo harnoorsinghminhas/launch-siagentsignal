@@ -1,133 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T17:20:03Z",
- "hour": "2026-10-18T17:00:00Z",
+ "generated_at": "2026-10-18T18:20:03Z",
+ "hour": "2026-10-18T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic Proposed AI Safety Bill to US Congress with Restrictions on Government",
-   "outlet": "Incrypted",
-   "outlet_name": "Incrypted",
-   "url": "https://incrypted.com/en/anthropic-proposed-ai-safety-bill-to-us-congress-with-restrictions-on-government/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic proposes federal AI safety bill with strict conditions for government intervention.",
-   "published_at": "2026-10-18T09:01:17Z"
-  },
-  {
-   "title": "Eight states sued OpenAI over ChatGPT safety — here is what happens now",
-   "outlet": "OpenTools",
-   "outlet_name": "OpenTools",
-   "url": "https://opentools.ai/news/eight-states-sue-openai-chatgpt-child-safety-what-changes",
+   "title": "OpenAI leak, three aurora alpha models show up in the API without an announcement",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
+   "url": "https://pasqualepillitteri.it/en/news/25357/aurora-red-green-blue-alpha-openai-api-en",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-18T16:40:55Z"
+   "published_at": "2026-10-18T17:28:52Z"
   },
   {
-   "title": "Claude Code Hooks: Build Deterministic Gates and Linting",
-   "outlet": "SitePoint",
-   "outlet_name": "SitePoint",
-   "url": "https://www.sitepoint.com/claude-code-hooks-enforce-project-conventions/",
-   "label": "REPORTED",
-   "summary_1line": "Claude Code hooks enforce project conventions via shell scripts in agentic coding sessions.",
-   "published_at": "2026-10-18T15:43:10Z"
-  },
-  {
-   "title": "Anthropic gives outside AI watchdog “employee-like” access",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/",
+   "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+   "outlet": "Hacker News",
+   "outlet_name": "Hacker News",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XMnpUb0RPNUtRM25NaTUtaERiT0o2ZWhGaWlpWnAzb3pJTjVIRVlOVTAxRU9VSDB3Q0J6X241NkdpUWpIdGt0WUl4UEduek92M2xBS0xsemY?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-18T16:25:19Z"
+   "published_at": "2026-10-18T14:31:27Z"
   },
   {
-   "title": "AI washing and the new currency of trust in the digital world",
-   "outlet": "Ammon News",
-   "outlet_name": "Ammon News",
-   "url": "https://en.ammonnews.net/article/96282",
+   "title": "Alibaba Launches Qwen Glasses N1 for 2,218 Yuan",
+   "outlet": "Retail News Asia",
+   "outlet_name": "Retail News Asia",
+   "url": "https://retailnews.asia/alibaba-launches-qwen-glasses-n1-for-2218-yuan",
    "label": "REPORTED",
-   "summary_1line": "AI washing involves misleading AI claims; regulators push for transparency to build public trust.",
-   "published_at": "2026-10-18T12:49:21Z"
+   "summary_1line": null,
+   "published_at": "2026-10-18T17:09:25Z"
+  },
+  {
+   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+   "label": "CONFIRMED",
+   "summary_1line": "Disney to hire 60 Character.AI employees for $60M annually after startup files for bankruptcy.",
+   "published_at": "2026-10-18T16:30:00Z"
+  },
+  {
+   "title": "Stepfun device-native intelligent agent phone STEPX Neo preview edition released; Kling AI's new-generation model Kling 4.0 officially launched ｜ Future Business Weekly",
+   "outlet": "每日经济新闻",
+   "outlet_name": "每日经济新闻",
+   "url": "https://www.nbd.com.cn/articles/2026-10-18/4607817.html",
+   "label": "REPORTED",
+   "summary_1line": "Taobao, JD and Douyin launch AI-powered 'Double 11' with record sales and new services.",
+   "published_at": "2026-10-18T13:04:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic Proposed AI Safety Bill to US Congress with Restrictions on Government",
-   "outlet": "Incrypted",
-   "outlet_name": "Incrypted",
+   "headline": "OpenAI leak, three aurora alpha models show up in the API without an announcement",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
    "label": "REPORTED",
-   "url": "https://incrypted.com/en/anthropic-proposed-ai-safety-bill-to-us-congress-with-restrictions-on-government/"
+   "url": "https://pasqualepillitteri.it/en/news/25357/aurora-red-green-blue-alpha-openai-api-en"
   },
   {
-   "headline": "Eight states sued OpenAI over ChatGPT safety — here is what happens now",
-   "outlet": "OpenTools",
-   "outlet_name": "OpenTools",
+   "headline": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+   "outlet": "Hacker News",
+   "outlet_name": "Hacker News",
    "label": "REPORTED",
-   "url": "https://opentools.ai/news/eight-states-sue-openai-chatgpt-child-safety-what-changes"
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XMnpUb0RPNUtRM25NaTUtaERiT0o2ZWhGaWlpWnAzb3pJTjVIRVlOVTAxRU9VSDB3Q0J6X241NkdpUWpIdGt0WUl4UEduek92M2xBS0xsemY?oc=5"
   },
   {
-   "headline": "Claude Code Hooks: Build Deterministic Gates and Linting",
-   "outlet": "SitePoint",
-   "outlet_name": "SitePoint",
+   "headline": "Alibaba Launches Qwen Glasses N1 for 2,218 Yuan",
+   "outlet": "Retail News Asia",
+   "outlet_name": "Retail News Asia",
    "label": "REPORTED",
-   "url": "https://www.sitepoint.com/claude-code-hooks-enforce-project-conventions/"
+   "url": "https://retailnews.asia/alibaba-launches-qwen-glasses-n1-for-2218-yuan"
   },
   {
-   "headline": "Anthropic gives outside AI watchdog “employee-like” access",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "label": "REPORTED",
-   "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/"
-  },
-  {
-   "headline": "AI washing and the new currency of trust in the digital world",
-   "outlet": "Ammon News",
-   "outlet_name": "Ammon News",
-   "label": "REPORTED",
-   "url": "https://en.ammonnews.net/article/96282"
-  },
-  {
-   "headline": "DeepSeek Launches Self-Developed Search and Scraping API: Priced at 5 Yuan per Thousand…",
-   "outlet": "搜狐",
-   "outlet_name": "搜狐",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTUlqbEpJbDd4aUFvWkYxalpLZkpiTWFMSHRTZEYxMGNWS0ZNNUU3N0hZMUV6RTV1NVBiRnUyMXZqZGFfbHlEbmpmRXVHcDBRSjY1TU9WX2pTa0J2dVRTcUFkSU91WVk2cW5OZ1FNdnBHRGpGYXRsTTctc0pQeUNfM1Jia0IzMWY1?oc=5"
-  },
-  {
-   "headline": "Anthropic cut junior tech hires from 27% to 9% as Claude took on the code",
-   "outlet": "Martin Cid Magazine",
-   "outlet_name": "Martin Cid Magazine",
-   "label": "STILL OPEN",
-   "url": "https://www.martincid.com/technology-sv/anthropic-junior-tech-hires-27-to-9-percent-claude-agents/"
-  },
-  {
-   "headline": "Grok bot wants to be in your chats, contracts, and shopping cart. Amazon is in its way",
-   "outlet": "NDTV Profit on MSN",
-   "outlet_name": "NDTV Profit on MSN",
+   "headline": "Disney agrees to hire the majority of Character.AI’s workforce",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/grok-bot-wants-to-be-in-your-chats-contracts-and-shopping-cart-amazon-is-in-its-way/ar-AA2eukOE"
+   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
   },
   {
-   "headline": "Lenovo Wins Nvidia Endorsement as Sovereign AI Push and Top ESG Score Lift Shares",
-   "outlet": "ad-hoc-news.de",
-   "outlet_name": "ad-hoc-news.de",
+   "headline": "Stepfun device-native intelligent agent phone STEPX Neo preview edition released; Kling…",
+   "outlet": "每日经济新闻",
+   "outlet_name": "每日经济新闻",
    "label": "REPORTED",
-   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/lenovo-wins-nvidia-endorsement-as-sovereign-ai-push-and-top-esg-score-lift/70353988"
+   "url": "https://www.nbd.com.cn/articles/2026-10-18/4607817.html"
   },
   {
-   "headline": "DeepSeek Has Suffered 10 Outages This Year and Is Now Preparing Compensation for Users",
-   "outlet": "VOI.ID",
-   "outlet_name": "VOI.ID",
+   "headline": "DeepSeek rolls out faster, leaner AI model, steps up challenge to US rivals",
+   "outlet": "ET Enterprise AI",
+   "outlet_name": "ET Enterprise AI",
    "label": "REPORTED",
-   "url": "https://voi.id/zh/technology-zh/598936"
+   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/deepseek-rolls-out-faster-leaner-ai-model-steps-up-challenge-to-us-rivals/135027641"
   },
   {
-   "headline": "DeepSeek establishes product department! Will the AI used for free by 130 million people…",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
+   "headline": "AI CROSSES LINE: OpenAI Agent Reportedly Accessed Crypto Wallet Without Permission…",
+   "outlet": "The Yeshiva World",
+   "outlet_name": "The Yeshiva World",
    "label": "REPORTED",
-   "url": "https://www.tmtpost.com/8172203.html"
+   "url": "https://www.theyeshivaworld.com/news/general/2611154/ai-crosses-line-openai-agent-reportedly-accessed-crypto-wallet-without-permission-failed-to-disclose-transfer.html"
+  },
+  {
+   "headline": "Anthropic Proposes AI Safety Bill Giving US Government Power to Block High-Risk Models",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "REPORTED",
+   "url": "https://www.pymnts.com/cpi-posts/anthropic-proposes-ai-safety-bill-giving-us-government-power-to-block-high-risk-models/"
+  },
+  {
+   "headline": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
+   "outlet": "thebignewsletter.com",
+   "outlet_name": "thebignewsletter.com",
+   "label": "REPORTED",
+   "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly"
   },
   {
    "headline": "Claude Opus 5.5 vs GPT-6 Astra vs Gemini 4 Argon",
@@ -135,16 +121,30 @@
    "outlet_name": "shattered.io",
    "label": "REPORTED",
    "url": "https://shattered.io/claude-opus-5-5-vs-gpt-6-astra-terminal-bench-2026/"
+  },
+  {
+   "headline": "AI adoption sees junior tech hiring at Anthropic fall from 27% to 9%",
+   "outlet": "Asianet Newsable on MSN",
+   "outlet_name": "Asianet Newsable on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/ai-adoption-sees-junior-tech-hiring-at-anthropic-fall-from-27-to-9/ar-AA2euqB9"
+  },
+  {
+   "headline": "Mayo businesses urged to stay alert to AI and cybersecurity threats",
+   "outlet": "westernpeople.ie",
+   "outlet_name": "westernpeople.ie",
+   "label": "REPORTED",
+   "url": "https://www.westernpeople.ie/news/mayo-businesses-urged-to-stay-alert-to-ai-and-cybersecurity-threats_arid-20331256.html"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7700,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/17.mp3",
- "audio_seconds": 44.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/18.mp3",
+ "audio_seconds": 55.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Incrypted: Anthropic Proposed AI Safety Bill to US Congress with Restrictions on Government.\nReported by OpenTools: Eight states sued OpenAI over ChatGPT safety — here is what happens now.\nReported by SitePoint: Claude Code Hooks: Build Deterministic Gates and Linting.\nReported by Ars Technica: Anthropic gives outside AI watchdog “employee-like” access.\nReported by Ammon News: AI washing and the new currency of trust in the digital world.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Pasquale Pillitteri: OpenAI leak, three aurora alpha models show up in the API without an announcement.\nReported by Hacker News: Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages.\nReported by Retail News Asia: Alibaba Launches Qwen Glasses N1 for 2,218 Yuan.\nConfirmed, per TechCrunch: Disney agrees to hire the majority of Character.AI’s workforce.\nReported by 每日经济新闻: Stepfun device-native intelligent agent phone STEPX Neo preview edition released; Kling AI's new-generation model Kling 4.0 officially launched ｜ Future Business Weekly.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
