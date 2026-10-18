@@ -1,92 +1,57 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T03:20:02Z",
- "hour": "2026-10-18T03:00:00Z",
+ "generated_at": "2026-10-18T04:20:04Z",
+ "hour": "2026-10-18T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek Releases V4.1-Flash-1017 Update, Says It's Faster and Leaner",
-   "outlet": "Briefs Finance",
-   "outlet_name": "Briefs Finance",
-   "url": "https://www.briefs.co/news/deepseek-releases-v4-1-flash-1017-update-says-it-s-faster-an/",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek releases V4.1-Flash-1017 with improved benchmarks and faster task completion.",
-   "published_at": "2026-10-18T00:39:40Z"
-  },
-  {
-   "title": "Anthropic pitches own AI Safety Bill",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/world/us/anthropic-pitches-own-ai-safety-bill/articleshow/135022899.cms",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-18T02:02:00Z"
-  },
-  {
-   "title": "Grok Can Pay for Itself: What Musk's Claim Actually Means",
-   "outlet": "BASENOR - Tesla Accessories",
-   "outlet_name": "BASENOR - Tesla Accessories",
-   "url": "https://www.basenor.com/blogs/news/grok-can-pay-for-itself-what-musks-claim-actually-means",
-   "label": "REPORTED",
-   "summary_1line": "Musk claims Grok Bot can pay for itself via task automation, with xAI offering bundled pricing and liability coverage.",
-   "published_at": "2026-10-18T01:04:08Z"
-  },
-  {
-   "title": "[Financial News Broadcast] New Release! DeepSeek, Big News! International Monetary Fund Latest Statement",
-   "outlet": "证券时报网",
-   "outlet_name": "证券时报网",
-   "url": "https://www.stcn.com/article/detail/4224021.html",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI's GPT-6 scores 92% on MMLU, DeepSeek launches new model, Zhijie gets independent auto license, and Anthropic secures $600B chip financing.",
-   "published_at": "2026-10-17T08:34:00Z"
-  },
-  {
-   "title": "Pentagon Escalates Anthropic Dispute Over Claude Military Safeguards",
+   "title": "OpenAI Says Model Spent Third-Party Sepolia Test Funds",
    "outlet": "FindArticles",
    "outlet_name": "FindArticles",
-   "url": "https://www.findarticles.com/pentagon-anthropic-claude-military-safeguards-dispute/",
-   "label": "STILL OPEN",
-   "summary_1line": "Pentagon threatens supply-chain ban on Anthropic over military AI use; $200M contract at stake.",
-   "published_at": "2026-10-18T00:37:31Z"
+   "url": "https://www.findarticles.com/openai-model-third-party-sepolia-test-funds/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI model used public recovery phrase to deploy contract on Ethereum testnet.",
+   "published_at": "2026-10-18T00:30:29Z"
+  },
+  {
+   "title": "The challenge of regulating AI",
+   "outlet": "The News Pakistan",
+   "outlet_name": "The News Pakistan",
+   "url": "https://www.thenews.pk/tns/detail/1443240-the-challenge-of-regulating-ai",
+   "label": "REPORTED",
+   "summary_1line": "AI regulation faces global resistance and divergent interpretations.",
+   "published_at": "2026-10-18T01:22:14Z"
+  },
+  {
+   "title": "Anthropic Co-founder: Artificial intelligence could drive US economic size to reach $44 trillion by 2030",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4030657204687240?f=rss",
+   "label": "REPORTED",
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
+  },
+  {
+   "title": "Musk: US Debt Problem Can Only Be Solved by AI and Robots",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "url": "https://cj.sina.cn/articles/view/2868676035/aafc85c301901ypl2",
+   "label": "CONFIRMED",
+   "summary_1line": "Musk says AI is the only solution to U.S. debt, citing economic growth and automation.",
+   "published_at": "2026-10-18T00:28:13Z"
+  },
+  {
+   "title": "Hessen-KI mit Namen „AI Gude“ soll Verwaltung helfen",
+   "outlet": "Echo Online",
+   "outlet_name": "Echo Online",
+   "url": "https://www.echo-online.de/lokales/hessen/hessen-ki-mit-namen-ai-gude-soll-verwaltung-helfen-6557232",
+   "label": "CONFIRMED",
+   "summary_1line": "Hessen launches 'AI Gude' KI to assist public administration, with 2.8M euros in development costs.",
+   "published_at": "2026-10-17T07:00:00Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "DeepSeek Releases V4.1-Flash-1017 Update, Says It's Faster and Leaner",
-   "outlet": "Briefs Finance",
-   "outlet_name": "Briefs Finance",
-   "label": "REPORTED",
-   "url": "https://www.briefs.co/news/deepseek-releases-v4-1-flash-1017-update-says-it-s-faster-an/"
-  },
-  {
-   "headline": "Anthropic pitches own AI Safety Bill",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/world/us/anthropic-pitches-own-ai-safety-bill/articleshow/135022899.cms"
-  },
-  {
-   "headline": "Grok Can Pay for Itself: What Musk's Claim Actually Means",
-   "outlet": "BASENOR - Tesla Accessories",
-   "outlet_name": "BASENOR - Tesla Accessories",
-   "label": "REPORTED",
-   "url": "https://www.basenor.com/blogs/news/grok-can-pay-for-itself-what-musks-claim-actually-means"
-  },
-  {
-   "headline": "[Financial News Broadcast] New Release! DeepSeek, Big News! International Monetary Fund…",
-   "outlet": "证券时报网",
-   "outlet_name": "证券时报网",
-   "label": "REPORTED",
-   "url": "https://www.stcn.com/article/detail/4224021.html"
-  },
-  {
-   "headline": "Pentagon Escalates Anthropic Dispute Over Claude Military Safeguards",
-   "outlet": "FindArticles",
-   "outlet_name": "FindArticles",
-   "label": "STILL OPEN",
-   "url": "https://www.findarticles.com/pentagon-anthropic-claude-military-safeguards-dispute/"
-  },
   {
    "headline": "OpenAI Says Model Spent Third-Party Sepolia Test Funds",
    "outlet": "FindArticles",
@@ -95,11 +60,11 @@
    "url": "https://www.findarticles.com/openai-model-third-party-sepolia-test-funds/"
   },
   {
-   "headline": "Evolution of Guideline-Based Large Language Model Responses for Male Infertility…",
-   "outlet": "生物通",
-   "outlet_name": "生物通",
-   "label": "STILL OPEN",
-   "url": "https://www.ebiotrade.com/newsf/2026-10/20261017212451679.htm"
+   "headline": "The challenge of regulating AI",
+   "outlet": "The News Pakistan",
+   "outlet_name": "The News Pakistan",
+   "label": "REPORTED",
+   "url": "https://www.thenews.pk/tns/detail/1443240-the-challenge-of-regulating-ai"
   },
   {
    "headline": "Anthropic Co-founder: Artificial intelligence could drive US economic size to reach $44…",
@@ -116,35 +81,70 @@
    "url": "https://cj.sina.cn/articles/view/2868676035/aafc85c301901ypl2"
   },
   {
-   "headline": "Anthropic Also to Pay 10% High Interest: What Is Happening in the AI Bond Market?",
-   "outlet": "财联社",
-   "outlet_name": "财联社",
-   "label": "REPORTED",
-   "url": "https://www.cls.cn/detail/2507529"
+   "headline": "Hessen-KI mit Namen „AI Gude“ soll Verwaltung helfen",
+   "outlet": "Echo Online",
+   "outlet_name": "Echo Online",
+   "label": "CONFIRMED",
+   "url": "https://www.echo-online.de/lokales/hessen/hessen-ki-mit-namen-ai-gude-soll-verwaltung-helfen-6557232"
   },
   {
-   "headline": "Tsinghua, ModelBest and OpenBMB Release PilotDeck 2.0, an Open-Source Agent Operating…",
+   "headline": "Invesco Asia Pacific Head of Investment Solutions Clients: Investment opportunities lie…",
+   "outlet": "新浪网",
+   "outlet_name": "新浪网",
+   "label": "STILL OPEN",
+   "url": "https://video.sina.com.cn/p/finance/2026-10-18/detail-inivqyiv7907748.d.html"
+  },
+  {
+   "headline": "Anthropic's Junk Rating Sparks a Bigger Bitcoin Debate",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/anthropics-junk-rating-sparks-bigger-011115520.html"
+  },
+  {
+   "headline": "Elon Musk Says Jensen Huang 'Rocks' as SpaceX, Nvidia Team Up on AI Data Centers in…",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.yahoo.com/technology/ai/articles/elon-musk-says-jensen-huang-003013948.html"
+  },
+  {
+   "headline": "DeepSeek Makes V4.1-Flash-1017 Official With MIT-Licensed Weights and Stronger Agentic…",
    "outlet": "pandaily.com",
    "outlet_name": "pandaily.com",
-   "label": "REPORTED",
-   "url": "https://pandaily.com/pilotdeck-2-0-open-source-agent-os-tsinghua-thunlp-modelbest-openbmb-white-box-memory-smart-routing"
+   "label": "STILL OPEN",
+   "url": "https://pandaily.com/deepseek-v4-1-flash-1017-official-release-mit-weights-terminal-bench-wish-style-programming"
   },
   {
-   "headline": "NVIDIA RTX Spark Türkiyede Sahneye Çıktı",
-   "outlet": "shiftdelete.net",
-   "outlet_name": "shiftdelete.net",
+   "headline": "Anthropic signs first Canadian data center contract, finalizes construction negotiations…",
+   "outlet": "aitimes.com",
+   "outlet_name": "aitimes.com",
    "label": "REPORTED",
-   "url": "https://shiftdelete.net/nvidia-rtx-spark-turkiyede-sahneye-cikti"
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216378"
+  },
+  {
+   "headline": "White House taps FTC to be the bulldog for AI enforcement",
+   "outlet": "The Daily Caller on MSN",
+   "outlet_name": "The Daily Caller on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/news/other/white-house-taps-ftc-to-be-the-bulldog-for-ai-enforcement/ar-AA2erWNY"
+  },
+  {
+   "headline": "Your Claude Agent's Analyst Split Added Up to 116%. A Free Code Eval Catches It",
+   "outlet": "pub.towardsai.net",
+   "outlet_name": "pub.towardsai.net",
+   "label": "REPORTED",
+   "url": "https://pub.towardsai.net/your-claude-agents-analyst-split-added-up-to-116-a-free-code-eval-catches-it-6d7dcbc897b4?source=rss------ai_agents-5"
   }
  ],
- "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 8100,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/03.mp3",
- "audio_seconds": 53.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/04.mp3",
+ "audio_seconds": 46.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Briefs Finance: DeepSeek Releases V4.1-Flash-1017 Update, Says It's Faster and Leaner.\nReported by The Times of India: Anthropic pitches own AI Safety Bill.\nReported by BASENOR - Tesla Accessories: Grok Can Pay for Itself: What Musk's Claim Actually Means.\nReported by 证券时报网: [Financial News Broadcast] New Release! DeepSeek, Big News! International Monetary Fund Latest Statement.\nStill open, per FindArticles: Pentagon Escalates Anthropic Dispute Over Claude Military Safeguards.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by FindArticles: OpenAI Says Model Spent Third-Party Sepolia Test Funds.\nReported by The News Pakistan: The challenge of regulating AI.\nReported by 36氪: Anthropic Co-founder: Artificial intelligence could drive US economic size to reach $44 trillion by 2030.\nConfirmed, per 新浪财经: Musk: US Debt Problem Can Only Be Solved by AI and Robots.\nConfirmed, per Echo Online: Hessen-KI mit Namen „AI Gude“ soll Verwaltung helfen.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
