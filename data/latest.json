@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T22:20:05Z",
- "hour": "2026-10-18T22:00:00Z",
+ "generated_at": "2026-10-18T23:20:03Z",
+ "hour": "2026-10-18T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic launches public benefit fund with 5% share commitment and job market research.",
-   "published_at": "2026-10-18T20:37:40Z"
-  },
-  {
-   "title": "This free, open-source tool beats Claude Code, Codex, and Antigravity at their own game, and I'm not looking back",
-   "outlet": "MakeUseOf",
-   "outlet_name": "MakeUseOf",
-   "url": "https://www.makeuseof.com/open-source-free-tool-beats-claude-code-codex-antigravity-at-own-game/",
-   "label": "REPORTED",
-   "summary_1line": "User promotes Pi, a minimalist, open-source coding agent with extensibility and no vendor lock-in.",
-   "published_at": "2026-10-18T19:00:17Z"
-  },
-  {
-   "title": "US regulator hits OpenAI and Anthropic with sweeping demands after their AIs went rogue",
+   "title": "Anthropic now earns more in a quarter than all of last year, and wants a $2 trillion IPO",
    "outlet": "WION",
    "outlet_name": "WION",
-   "url": "https://www.wionews.com/world/us-regulator-hits-openai-and-anthropic-with-sweeping-demands-after-their-ais-went-rogue-1792254205665",
-   "label": "REPORTED",
-   "summary_1line": "FTC demands info on AI safety and claims from OpenAI and Anthropic.",
-   "published_at": "2026-10-18T15:19:00Z"
+   "url": "https://www.wionews.com/world/anthropic-now-earns-more-in-a-quarter-than-all-of-last-year-and-wants-a-2-trillion-ipo-1792254542428",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic reports rapid revenue growth and profitability, challenging AI stock selloff fears.",
+   "published_at": "2026-10-18T15:20:00Z"
   },
   {
-   "title": "Anthropic Used Books — AI Giant’s Mysterious Bulk Book Purchases Uncovered",
-   "outlet": "The Korea Daily",
-   "outlet_name": "The Korea Daily",
-   "url": "https://en.koreadaily.com/anthropic-used-books/",
+   "title": "Google is renaming Gemini again; here's what each feature does now",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
+   "url": "https://www.androidpolice.com/googles-renamed-gemini-features-field-guide/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic's AI training uses bulk used books scanned via a UK-Belgium shipping chain.",
-   "published_at": "2026-10-18T20:32:50Z"
+   "summary_1line": "Google converts Gems to Skills and rebrands Spark as Task, starting November 17.",
+   "published_at": "2026-10-18T21:00:13Z"
   },
   {
-   "title": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies",
-   "outlet": "Global Sanctions and Export Controls Blog",
-   "outlet_name": "Global Sanctions and Export Controls Blog",
-   "url": "https://sanctionsnews.bakermckenzie.com/china-proposes-expanded-export-controls-on-ai-biopharma-and-solar-energy-technologies/",
+   "title": "Investing in the public benefit",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "url": "https://www.anthropic.com/news/public-benefit-fund",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic commits 5% equity to public benefit fund, with more added as company grows.",
+   "published_at": "2026-10-18T16:49:35Z"
+  },
+  {
+   "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
    "label": "REPORTED",
-   "summary_1line": "China expands AI and biopharma tech export controls with immediate registration and automatic licensing for certain exports.",
-   "published_at": "2026-10-18T20:25:24Z"
+   "summary_1line": null,
+   "published_at": "2026-10-18T22:55:48Z"
+  },
+  {
+   "title": "I made Claude Code build a map of my files, and it cut search times by 96%",
+   "outlet": "XDA",
+   "outlet_name": "XDA",
+   "url": "https://www.xda-developers.com/made-claude-code-build-map-of-my-files/",
+   "label": "REPORTED",
+   "summary_1line": "User cuts file search time by 96% using AI-generated READMEs.",
+   "published_at": "2026-10-18T20:00:19Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
-  },
-  {
-   "headline": "This free, open-source tool beats Claude Code, Codex, and Antigravity at their own game…",
-   "outlet": "MakeUseOf",
-   "outlet_name": "MakeUseOf",
-   "label": "REPORTED",
-   "url": "https://www.makeuseof.com/open-source-free-tool-beats-claude-code-codex-antigravity-at-own-game/"
-  },
-  {
-   "headline": "US regulator hits OpenAI and Anthropic with sweeping demands after their AIs went rogue",
+   "headline": "Anthropic now earns more in a quarter than all of last year, and wants a $2 trillion IPO",
    "outlet": "WION",
    "outlet_name": "WION",
-   "label": "REPORTED",
-   "url": "https://www.wionews.com/world/us-regulator-hits-openai-and-anthropic-with-sweeping-demands-after-their-ais-went-rogue-1792254205665"
+   "label": "STILL OPEN",
+   "url": "https://www.wionews.com/world/anthropic-now-earns-more-in-a-quarter-than-all-of-last-year-and-wants-a-2-trillion-ipo-1792254542428"
   },
   {
-   "headline": "Anthropic Used Books — AI Giant’s Mysterious Bulk Book Purchases Uncovered",
-   "outlet": "The Korea Daily",
-   "outlet_name": "The Korea Daily",
+   "headline": "Google is renaming Gemini again; here's what each feature does now",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
    "label": "REPORTED",
-   "url": "https://en.koreadaily.com/anthropic-used-books/"
+   "url": "https://www.androidpolice.com/googles-renamed-gemini-features-field-guide/"
   },
   {
-   "headline": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies",
-   "outlet": "Global Sanctions and Export Controls Blog",
-   "outlet_name": "Global Sanctions and Export Controls Blog",
+   "headline": "Investing in the public benefit",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/news/public-benefit-fund"
+  },
+  {
+   "headline": "Anthropic commits 5% of shares to new public benefit fund that could address AI job…",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "REPORTED",
-   "url": "https://sanctionsnews.bakermckenzie.com/china-proposes-expanded-export-controls-on-ai-biopharma-and-solar-energy-technologies/"
+   "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html"
   },
   {
    "headline": "I made Claude Code build a map of my files, and it cut search times by 96%",
@@ -95,11 +88,39 @@
    "url": "https://www.xda-developers.com/made-claude-code-build-map-of-my-files/"
   },
   {
-   "headline": "Junior Tech Hires’ Share at Anthropic Falls From 27% to 9% as AI Reshapes Work",
-   "outlet": "Open Magazine",
-   "outlet_name": "Open Magazine",
+   "headline": "Financial Street Forum Annual Meeting Opens Today; DeepSeek Announces API Web Search and…",
+   "outlet": "东方财富",
+   "outlet_name": "东方财富",
    "label": "REPORTED",
-   "url": "https://openthemagazine.com/business/junior-tech-hires-share-at-anthropic-falls-from-27-to-9-as-ai-reshapes-work"
+   "url": "https://emwap.eastmoney.com/a/202610193899230868.html"
+  },
+  {
+   "headline": "Anthropic Cuts Junior Technical Hiring as AI Agents Take on More Work",
+   "outlet": "CIOL",
+   "outlet_name": "CIOL",
+   "label": "REPORTED",
+   "url": "https://www.ciol.com/tech/anthropic-cuts-junior-technical-hiring-ai-agents-12687788"
+  },
+  {
+   "headline": "Boards urged to tighten AI & identity cyber oversight",
+   "outlet": "SecurityBrief Australia",
+   "outlet_name": "SecurityBrief Australia",
+   "label": "REPORTED",
+   "url": "https://securitybrief.com.au/story/boards-urged-to-tighten-ai-identity-cyber-oversight"
+  },
+  {
+   "headline": "Anthropic warns AI worms could spread across smart devices as cybersecurity risks grow",
+   "outlet": "Business Upturn",
+   "outlet_name": "Business Upturn",
+   "label": "STILL OPEN",
+   "url": "https://www.businessupturn.com/technology/anthropic-warns-ai-worms-could-spread-across-smart-devices-as-cybersecurity-risks-grow/"
+  },
+  {
+   "headline": "Bloccy – A multimodal canvas for ChatGPT and Claude Desktop",
+   "outlet": "bloccy.si",
+   "outlet_name": "bloccy.si",
+   "label": "REPORTED",
+   "url": "https://bloccy.si/"
   },
   {
    "headline": "Latest on ChatGPT lawsuit",
@@ -109,42 +130,21 @@
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTG5DZGtycjczY3BickMxQ3NXRVE0SGNiTHJ0bnVQZzBvcGkwUHBiLTYtNmlTZ0tCSXl5U0pudWR0and1VUI1aEx6ckplU2pfa2luc3g1emtMNXNOTk9sRG1UYWNvWkJYaWVlU1pjMGVJYURIRENicmdjZ1NNemd4YUNQc1VEaHM4RE9TQ1Nuak1yaWVvaUlMSU9hN2JMcjAxVm8zTlpUeXVBVDJ1TmtwamJQenJjdw?oc=5"
   },
   {
-   "headline": "DeepSeek V4.1-Flash-1017: HLE Score Hits 42.6 [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/deepseek-v4-1-flash-1017-hle-score-42-6-2026/"
-  },
-  {
    "headline": "Open-Source AI Grading Platform EvaluAI Turns LLMs Into Classroom Assessment Tools",
    "outlet": "Bioengineer.org",
    "outlet_name": "Bioengineer.org",
    "label": "REPORTED",
    "url": "https://bioengineer.org/open-source-ai-grading-platform-evaluai-turns-llms-into-classroom-assessment-tools/"
-  },
-  {
-   "headline": "Meta AI Terms Alarm Publishers Ahead of Oct. 30 [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/meta-ai-terms-publishers-oct-30-2026/"
-  },
-  {
-   "headline": "An AI agent network answered a reporter’s message, claiming to be Claude",
-   "outlet": "eGamers.io",
-   "outlet_name": "eGamers.io",
-   "label": "STILL OPEN",
-   "url": "https://egamers.io/an-ai-agent-network-answered-a-reporters-message-claiming-to-be-claude/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 7700,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 7800,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/22.mp3",
- "audio_seconds": 58.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/23.mp3",
+ "audio_seconds": 47.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’.\nReported by MakeUseOf: This free, open-source tool beats Claude Code, Codex, and Antigravity at their own game, and I'm not looking back.\nReported by WION: US regulator hits OpenAI and Anthropic with sweeping demands after their AIs went rogue.\nReported by The Korea Daily: Anthropic Used Books — AI Giant’s Mysterious Bulk Book Purchases Uncovered.\nReported by Global Sanctions and Export Controls Blog: China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per WION: Anthropic now earns more in a quarter than all of last year, and wants a $2 trillion IPO.\nReported by Android Police: Google is renaming Gemini again; here's what each feature does now.\nConfirmed, per Anthropic: Investing in the public benefit.\nReported by CNBC: Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption.\nReported by XDA: I made Claude Code build a map of my files, and it cut search times by 96%.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
