@@ -1,105 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T13:20:03Z",
- "hour": "2026-10-18T13:00:00Z",
+ "generated_at": "2026-10-18T14:20:03Z",
+ "hour": "2026-10-18T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI models bypass security, access crypto wallet in June 2026 incidents",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/openai-models-bypass-security-access-crypto-wallet-in-june-2026-incidents/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI disclosed unauthorized model access to data portals and crypto wallets in June 2026.",
-   "published_at": "2026-10-18T11:37:20Z"
+   "title": "Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Chris Thomas uses AI gadgets; new devices spark privacy law debates over continuous speech processing.",
+   "published_at": "2026-10-18T12:00:01Z"
   },
   {
-   "title": "ThakAIذكا brings UAE regulatory compliance onto one AI-powered platform",
-   "outlet": "Gulf Today",
-   "outlet_name": "Gulf Today",
-   "url": "https://www.gulftoday.ae/news/2026/10/18/thakai%D8%B0%D9%83%D8%A7-brings-uae-regulatory-compliance-onto-one-ai-powered-platform",
+   "title": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/",
    "label": "REPORTED",
-   "summary_1line": "UAE company launches AI compliance platform for businesses amid rising regulatory demands.",
-   "published_at": "2026-10-18T11:15:42Z"
+   "summary_1line": "Four Gemini 4 Argon AI agents autonomously beat Minecraft in a 27-hour run.",
+   "published_at": "2026-10-18T12:39:51Z"
   },
   {
-   "title": "AI policy money is moving into U.S. elections — here is what the totals show",
-   "outlet": "OpenTools",
-   "outlet_name": "OpenTools",
-   "url": "https://opentools.ai/news/ai-safety-election-spending-48-million-fec-context",
+   "title": "Human vs. ChatGPT NFL Week 6 betting picks: AI goes all-in on totals after another weekly win",
+   "outlet": "Fox News",
+   "outlet_name": "Fox News",
+   "url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-6-betting-picks-ai-goes-all-in-totals-another-weekly-win",
    "label": "REPORTED",
-   "summary_1line": "AI policy spending hits $48M in U.S. elections, with FEC data confirming key figures.",
-   "published_at": "2026-10-18T10:40:54Z"
+   "summary_1line": "ChatGPT beats human 3-2 in Week 5 NFL bets, but human still leads in overall profit.",
+   "published_at": "2026-10-18T12:25:51Z"
   },
   {
-   "title": "OpenAI Arrest Raises AI Espionage Concerns",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-18/openai-arrest-raises-ai-espionage-concerns-video",
+   "title": "OpenAI shares case of automating software maintenance using GPT-6",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/en/view/115997/openai-shares-case-of-automating-software-maintenance-using-gpt-6",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-18T12:27:37Z"
+   "summary_1line": "OpenAI uses GPT-6 to automate code cleanup, cutting 800k lines and improving CI times.",
+   "published_at": "2026-10-18T12:08:00Z"
   },
   {
-   "title": "DeepSeek unveils faster, cheaper AI model, with improved performance",
-   "outlet": "Global Times",
-   "outlet_name": "Global Times",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVX191UVJLc2lYU2RFYnNtOHNvTGJINWV5QVFIRW5aR0t3T3BfTmdFTkhBaTlxZ3AyT2dfVGQtN2piQmcxM3dRWExVXzZvUnVDTnBnQlRUREpaWVNUSXloS19R?oc=5",
+   "title": "Ningxia University Xinhua College Hosts Academic Symposium on AI Agent Governance; Academia and Practitioners Gather in Yinchuan to Explore New Propositions in Digital Rule of Law",
+   "outlet": "中国日报网",
+   "outlet_name": "中国日报网",
+   "url": "https://cn.chinadaily.com.cn/a/202610/18/WS6ad4b461e4b09a165c78fe1b.html",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-18T11:13:00Z"
+   "summary_1line": "Ningxia hosts AI governance seminar with 70 experts from 20+ institutions.",
+   "published_at": "2026-10-18T11:58:24Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI models bypass security, access crypto wallet in June 2026 incidents",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/openai-models-bypass-security-access-crypto-wallet-in-june-2026-incidents/"
+   "headline": "Always on, always listening: New AI devices are pushing legal limits and could put users…",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/18/ai-wearables-privacy-wiretap-laws.html"
   },
   {
-   "headline": "ThakAIذكا brings UAE regulatory compliance onto one AI-powered platform",
-   "outlet": "Gulf Today",
-   "outlet_name": "Gulf Today",
+   "headline": "Four Gemini 4 Argon agents beat Minecraft without any human help",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://www.gulftoday.ae/news/2026/10/18/thakai%D8%B0%D9%83%D8%A7-brings-uae-regulatory-compliance-onto-one-ai-powered-platform"
+   "url": "https://the-decoder.com/four-gemini-4-argon-agents-beat-minecraft-without-any-human-help/"
   },
   {
-   "headline": "AI policy money is moving into U.S. elections — here is what the totals show",
-   "outlet": "OpenTools",
-   "outlet_name": "OpenTools",
+   "headline": "Human vs. ChatGPT NFL Week 6 betting picks: AI goes all-in on totals after another weekly…",
+   "outlet": "Fox News",
+   "outlet_name": "Fox News",
    "label": "REPORTED",
-   "url": "https://opentools.ai/news/ai-safety-election-spending-48-million-fec-context"
+   "url": "https://www.foxnews.com/outkick-sports/human-vs-chatgpt-nfl-week-6-betting-picks-ai-goes-all-in-totals-another-weekly-win"
   },
   {
-   "headline": "OpenAI Arrest Raises AI Espionage Concerns",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "OpenAI shares case of automating software maintenance using GPT-6",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-18/openai-arrest-raises-ai-espionage-concerns-video"
+   "url": "https://www.digitaltoday.co.kr/en/view/115997/openai-shares-case-of-automating-software-maintenance-using-gpt-6"
   },
   {
-   "headline": "DeepSeek unveils faster, cheaper AI model, with improved performance",
-   "outlet": "Global Times",
-   "outlet_name": "Global Times",
+   "headline": "Ningxia University Xinhua College Hosts Academic Symposium on AI Agent Governance…",
+   "outlet": "中国日报网",
+   "outlet_name": "中国日报网",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBVX191UVJLc2lYU2RFYnNtOHNvTGJINWV5QVFIRW5aR0t3T3BfTmdFTkhBaTlxZ3AyT2dfVGQtN2piQmcxM3dRWExVXzZvUnVDTnBnQlRUREpaWVNUSXloS19R?oc=5"
+   "url": "https://cn.chinadaily.com.cn/a/202610/18/WS6ad4b461e4b09a165c78fe1b.html"
   },
   {
-   "headline": "OpenAI in talks to revive Sora model, FBI arrests employee over hidden recorder",
+   "headline": "What are self-replicating ‘AI worms’, and why is Anthropic worried about them?",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVjB4YWJlM1piXzhhQzJFa1ZMWXh1dC1lZHJpaUJhVFhoZGdZbkwxUzRmeUdXdktLU2M5eFdRTG04am5UNDdtYlMwZWxLVW0zejBZWWtTTlExMTRTUlpnY3NUZGZ3V1JsMVlVY0RTWVdVQUhvWU0xZWdzNEgwdFJzQmdR?oc=5"
+  },
+  {
+   "headline": "DeepSeek Releases V4.1-Flash-1017 Version, API Web Search Charged at 5 Yuan per 1000…",
+   "outlet": "观点网",
+   "outlet_name": "观点网",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lb1otTDhrZ2FaYW5IaElZMll2MS0xTXpxMUN2SXBMdkM2bFcwVDRHOVZWYnk2SjVRMlpXejVwNEVyTDVhRHNoOWh6Y0lQZlBoRlBoVDBjMzN6V0hXWk5FSm5n?oc=5"
+  },
+  {
+   "headline": "DeepSeek Releases New AI Model with Improved Performance and Lower Operating Costs",
+   "outlet": "联合早报",
+   "outlet_name": "联合早报",
+   "label": "REPORTED",
+   "url": "https://www.zaobao.com.sg/news/china/story20261018-9855608"
+  },
+  {
+   "headline": "Microsoft pulls out of AI datacentre project in Essex over power supply concerns",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "CONFIRMED",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/18/microsoft-drops-huge-ai-datacentre-project-in-essex-over-power-supply-concerns"
+  },
+  {
+   "headline": "OpenAI quietly lists three aurora alpha models in its API",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
    "label": "STILL OPEN",
-   "url": "https://cryptobriefing.com/openai-in-talks-to-revive-sora-model-fbi-arrests-employee-over-hidden-recorder/"
-  },
-  {
-   "headline": "Breaking! DeepSeek new model released, super cost-effectiveness slays everything",
-   "outlet": "智源社区",
-   "outlet_name": "智源社区",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5rLVBsRHI1LS1BTkx0NEZwRVpIRkk3bDVmbWVYZUM2cDNEOXQzUHFZbTB6d3FiVl81ZWpaMjM3QVpGRFBuMFROYg?oc=5"
+   "url": "https://cryptobriefing.com/openai-aurora-alpha-models-api/"
   },
   {
    "headline": "OpenAI und Anthropic: US-KI-Anbieter nehmen deutsche Firmen ins Visier",
@@ -114,37 +135,16 @@
    "outlet_name": "xda-developers.com",
    "label": "REPORTED",
    "url": "https://www.xda-developers.com/claude-opus-5-5-model-switch-opus-4-8/"
-  },
-  {
-   "headline": "​Delhi High Court Protects Arjun Kapoor Likeness as Neha Sharma Flags AI Misuse",
-   "outlet": "The420.in",
-   "outlet_name": "The420.in",
-   "label": "REPORTED",
-   "url": "https://the420.in/neha-sharma-arjun-kapoor-ai-personality-rights/"
-  },
-  {
-   "headline": "2 trillion loss in NVIDIA alone ... Seohak ants' nightmare 2 weeks",
-   "outlet": "fnnews.com",
-   "outlet_name": "fnnews.com",
-   "label": "REPORTED",
-   "url": "https://www.fnnews.com/news/202610172332083504"
-  },
-  {
-   "headline": "I may have discovered a new exoplanet using Claude",
-   "outlet": "sixeleven.in",
-   "outlet_name": "sixeleven.in",
-   "label": "STILL OPEN",
-   "url": "https://sixeleven.in/blog/tic402710280"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 7800,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/13.mp3",
- "audio_seconds": 49.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/14.mp3",
+ "audio_seconds": 56.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Crypto Briefing: OpenAI models bypass security, access crypto wallet in June 2026 incidents.\nReported by Gulf Today: ThakAIذكا brings UAE regulatory compliance onto one AI-powered platform.\nReported by OpenTools: AI policy money is moving into U.S. elections — here is what the totals show.\nReported by Bloomberg: OpenAI Arrest Raises AI Espionage Concerns.\nReported by Global Times: DeepSeek unveils faster, cheaper AI model, with improved performance.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Always on, always listening: New AI devices are pushing legal limits and could put users in jeopardy.\nReported by The Decoder: Four Gemini 4 Argon agents beat Minecraft without any human help.\nReported by Fox News: Human vs. ChatGPT NFL Week 6 betting picks: AI goes all-in on totals after another weekly win.\nReported by 디지털투데이: OpenAI shares case of automating software maintenance using GPT-6.\nReported by 中国日报网: Ningxia University Xinhua College Hosts Academic Symposium on AI Agent Governance; Academia and Practitioners Gather in Yinchuan to Explore New Propositions in Digital Rule of Law.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
