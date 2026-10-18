@@ -1,98 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T00:20:02Z",
- "hour": "2026-10-18T00:00:00Z",
+ "generated_at": "2026-10-18T01:20:03Z",
+ "hour": "2026-10-18T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek Releases Lightweight New Model With Per-Task Costs One-Tenth of US Rivals",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/f993a5f3-fbbf-4070-917f-7a292fa8f58d",
-   "label": "CONFIRMED",
-   "summary_1line": "DeepSeek's new AI model beats rivals on benchmarks and costs 10x less per task, with Japan raising data compliance concerns.",
-   "published_at": "2026-10-17T15:25:00Z"
-  },
-  {
-   "title": "Anthropic Pitches AI Regulation Draft to US Congress, Permitting Model Blocking Only When Severe Risks Occur",
+   "title": "China Unicom appears at the 2026 Artificial Intelligence Industry Conference",
    "outlet": "新浪网",
    "outlet_name": "新浪网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FNmtNdlpVNWhJMkFZejBtbWtaUXB4Mm0zb1I3TXlyZDhGOXFuRjhrck1xYlNkNFloUXpLenNPZGhrNU1JR3BXckEzZ2pwLXh5dk5lcjRzVUpyb0t1d1dVZG5pYjc4aUdxY0U4Yk1MTHNRelRKTTdHRFVzV0xNQQ?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-17T23:27:00Z"
+   "url": "https://k.sina.com.cn/article_1893761531_70e081fb020039wwm.html",
+   "label": "CONFIRMED",
+   "summary_1line": "联通山东展示AI全链条应用，覆盖算力、平台到工业场景落地。",
+   "published_at": "2026-10-17T22:29:00Z"
   },
   {
-   "title": "DeepSeek Major Move; US President Trump Announces Temporary Suspension of New Round of Sanctions Against Russia | 21 Morning News",
-   "outlet": "21财经",
-   "outlet_name": "21财经",
-   "url": "https://www.21jingji.com/article/20261018/herald/2af18f222120326fd792342ee822fa6d.html",
+   "title": "NVIDIA RTX Spark N1X Launch Overview: NVIDIA Arms Windows",
+   "outlet": "ServeTheHome",
+   "outlet_name": "ServeTheHome",
+   "url": "https://www.servethehome.com/nvidia-rtx-spark-n1x-launch-overview-nvidia-arms-windows/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-17T23:33:00Z"
+   "summary_1line": "NVIDIA's RTX Spark N1X SoC powers new Arm-based Windows laptops with 6144 CUDA cores and 16-channel memory.",
+   "published_at": "2026-10-17T17:00:47Z"
   },
   {
-   "title": "Nvidia Launches RTX Spark AI Laptops in Korea, Starting at 5.8 Million Won",
-   "outlet": "THE ELEC, Korea Electronics Industry Media",
-   "outlet_name": "THE ELEC, Korea Electronics Industry Media",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wbmlhTkVocVVQd1piV0NtSHpYU242MW5KQmc5ZEd4bzBUcUxqUC1wQ0dScUhjeUNZd3Y1X1pIS21VUW9ZaE5fcEh6dHB5LV9uWUxURDA3d1I5dVlNN0NoSVNrRnMtbWM?oc=5",
+   "title": "Anthropic proposes AI safety bill to Congress with $1B damage threshold",
+   "outlet": "Cryptopolitan",
+   "outlet_name": "Cryptopolitan",
+   "url": "https://www.cryptopolitan.com/anthropic-pitches-congress-on-ai-safety-bill/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-17T23:21:58Z"
+   "summary_1line": "Anthropic proposes AI safety bill with $1B threshold; FTC subpoenas OpenAI and Anthropic.",
+   "published_at": "2026-10-17T04:08:03Z"
   },
   {
-   "title": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html",
+   "title": "FTC demands reportedly target OpenAI and Anthropic. That is not a verdict",
+   "outlet": "OpenTools",
+   "outlet_name": "OpenTools",
+   "url": "https://opentools.ai/news/ftc-openai-anthropic-civil-investigative-demands-explained",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-17T23:04:00Z"
+   "published_at": "2026-10-18T00:30:26Z"
+  },
+  {
+   "title": "DeepSeek's Flash update claims gains on 11 benchmarks at the same price",
+   "outlet": "Techi",
+   "outlet_name": "Techi",
+   "url": "https://www.techi.com/deepseek-v4-1-flash-1017-update-benchmarks-price/",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek releases V4.1-Flash update with improved benchmarks and lower memory usage, open-licensed and priced unchanged.",
+   "published_at": "2026-10-17T17:34:34Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek Releases Lightweight New Model With Per-Task Costs One-Tenth of US Rivals",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "label": "CONFIRMED",
-   "url": "https://finance.biggo.com/news/f993a5f3-fbbf-4070-917f-7a292fa8f58d"
-  },
-  {
-   "headline": "Anthropic Pitches AI Regulation Draft to US Congress, Permitting Model Blocking Only When…",
+   "headline": "China Unicom appears at the 2026 Artificial Intelligence Industry Conference",
    "outlet": "新浪网",
    "outlet_name": "新浪网",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FNmtNdlpVNWhJMkFZejBtbWtaUXB4Mm0zb1I3TXlyZDhGOXFuRjhrck1xYlNkNFloUXpLenNPZGhrNU1JR3BXckEzZ2pwLXh5dk5lcjRzVUpyb0t1d1dVZG5pYjc4aUdxY0U4Yk1MTHNRelRKTTdHRFVzV0xNQQ?oc=5"
+   "label": "CONFIRMED",
+   "url": "https://k.sina.com.cn/article_1893761531_70e081fb020039wwm.html"
   },
   {
-   "headline": "DeepSeek Major Move; US President Trump Announces Temporary Suspension of New Round of…",
-   "outlet": "21财经",
-   "outlet_name": "21财经",
+   "headline": "NVIDIA RTX Spark N1X Launch Overview: NVIDIA Arms Windows",
+   "outlet": "ServeTheHome",
+   "outlet_name": "ServeTheHome",
    "label": "REPORTED",
-   "url": "https://www.21jingji.com/article/20261018/herald/2af18f222120326fd792342ee822fa6d.html"
+   "url": "https://www.servethehome.com/nvidia-rtx-spark-n1x-launch-overview-nvidia-arms-windows/"
   },
   {
-   "headline": "Nvidia Launches RTX Spark AI Laptops in Korea, Starting at 5.8 Million Won",
-   "outlet": "THE ELEC, Korea Electronics Industry Media",
-   "outlet_name": "THE ELEC, Korea Electronics Industry Media",
+   "headline": "Anthropic proposes AI safety bill to Congress with $1B damage threshold",
+   "outlet": "Cryptopolitan",
+   "outlet_name": "Cryptopolitan",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wbmlhTkVocVVQd1piV0NtSHpYU242MW5KQmc5ZEd4bzBUcUxqUC1wQ0dScUhjeUNZd3Y1X1pIS21VUW9ZaE5fcEh6dHB5LV9uWUxURDA3d1I5dVlNN0NoSVNrRnMtbWM?oc=5"
+   "url": "https://www.cryptopolitan.com/anthropic-pitches-congress-on-ai-safety-bill/"
   },
   {
-   "headline": "AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "FTC demands reportedly target OpenAI and Anthropic. That is not a verdict",
+   "outlet": "OpenTools",
+   "outlet_name": "OpenTools",
    "label": "REPORTED",
-   "url": "https://www.cnbc.com/2026/10/17/ai-us-gdp-anthropics-clark.html"
+   "url": "https://opentools.ai/news/ftc-openai-anthropic-civil-investigative-demands-explained"
   },
   {
-   "headline": "Intel and Qualcomm Both Court Jim Keller's AI Chip Startup Tenstorrent",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "STILL OPEN",
-   "url": "https://startupfortune.com/intel-and-qualcomm-both-court-jim-kellers-ai-chip-startup-tenstorrent/"
+   "headline": "DeepSeek's Flash update claims gains on 11 benchmarks at the same price",
+   "outlet": "Techi",
+   "outlet_name": "Techi",
+   "label": "REPORTED",
+   "url": "https://www.techi.com/deepseek-v4-1-flash-1017-update-benchmarks-price/"
+  },
+  {
+   "headline": "Claude Traces NIST Elliptic-Curve Seeds To lrand48 Unix Timestamps In Under 30 Minutes…",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
+   "label": "REPORTED",
+   "url": "https://newscord.org/article/claude-traces-nist-elliptic-curve-seeds-to-lrand48-unix-timestamps-in-under-30-m--Story_20261017_Wowitsarealdiscovery2ee8fb6d"
+  },
+  {
+   "headline": "DeepSeek New Model Launches with Lower Price and Stronger Capability; Rumor Says Huawei…",
+   "outlet": "极客公园",
+   "outlet_name": "极客公园",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1WaUhFMUNVQ2xkN0JodUp0QnFaR3VCM3JDeXA5dThFaTBVblE3RFBxWVlESVFibXBYTkFkX1RKUmdWMnBBSVBnTEtMQXg?oc=5"
+  },
+  {
+   "headline": "FLock.io Launches Qwen-powered, Open-Source Decision Model for Local Edge Deployment",
+   "outlet": "Macau Business",
+   "outlet_name": "Macau Business",
+   "label": "REPORTED",
+   "url": "https://macaubusiness.com/flock-io-launches-qwen-powered-open-source-decision-model-for-local-edge-deployment/"
   },
   {
    "headline": "DeepSeek’s Post-Training Lead Declares “Entering the Era of Democratized Wish-Driven…",
@@ -102,6 +116,13 @@
    "url": "https://wccftech.com/deepseeks-post-training-lead-declares-entering-the-era-of-democratized-wish-driven-coding-as-v4-1-flash-1017-model-smokes-openais-gpt-5-5-sol/"
   },
   {
+   "headline": "Intel and Qualcomm Both Court Jim Keller's AI Chip Startup Tenstorrent",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "label": "STILL OPEN",
+   "url": "https://startupfortune.com/intel-and-qualcomm-both-court-jim-kellers-ai-chip-startup-tenstorrent/"
+  },
+  {
    "headline": "AI startup AIsa raises over $9M with Tether joi...",
    "outlet": "Pluang",
    "outlet_name": "Pluang",
@@ -109,42 +130,21 @@
    "url": "https://pluang.com/en/news-feed/pendanaan-aisa-lebih-dari-9-juta-tether-dan-hiven-gabung-perpanjangan"
   },
   {
-   "headline": "Meta Reportedly Set To Roll Out ‘Hatch’ AI Agent Platform And New ‘Watermelon’ Model In…",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
-   "label": "STILL OPEN",
-   "url": "https://stocktwits.com/news-articles/markets/equity/meta-reportedly-set-to-roll-out-hatch-ai-agent-platform-and-new-watermelon-model-in-monetization-push/cZYKx4SRJFY"
-  },
-  {
-   "headline": "NVIDIA Celebrates RTX Spark Launch Across Six Global Cities",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "REPORTED",
-   "url": "https://www.unite.ai/nvidia-celebrates-rtx-spark-launch-across-six-global-cities/"
-  },
-  {
    "headline": "ChatGPT-5, Gemini and DeepSeek ace pediatric infection questions, study finds",
    "outlet": "Bioengineer.org",
    "outlet_name": "Bioengineer.org",
    "label": "REPORTED",
    "url": "https://bioengineer.org/chatgpt-5-gemini-and-deepseek-ace-pediatric-infection-questions-study-finds/"
-  },
-  {
-   "headline": "OpenAI AI Model Hacked Government Website While Counting Hospital Beds",
-   "outlet": "alignment.openai.com",
-   "outlet_name": "alignment.openai.com",
-   "label": "REPORTED",
-   "url": "https://alignment.openai.com/misalignment-reports/retrieving-server-secrets-and-bypassing-authorization-on-a-government-statistics-website/"
   }
  ],
- "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 8300,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/00.mp3",
- "audio_seconds": 52.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/01.mp3",
+ "audio_seconds": 49.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BigGo Finance: DeepSeek Releases Lightweight New Model With Per-Task Costs One-Tenth of US Rivals.\nReported by 新浪网: Anthropic Pitches AI Regulation Draft to US Congress, Permitting Model Blocking Only When Severe Risks Occur.\nReported by 21财经: DeepSeek Major Move; US President Trump Announces Temporary Suspension of New Round of Sanctions Against Russia | 21 Morning News.\nReported by THE ELEC, Korea Electronics Industry Media: Nvidia Launches RTX Spark AI Laptops in Korea, Starting at 5.8 Million Won.\nReported by CNBC: AI rapidly improving, could vastly boost U.S. GDP, Anthropic's Clark tells policymakers.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per 新浪网: China Unicom appears at the 2026 Artificial Intelligence Industry Conference.\nReported by ServeTheHome: NVIDIA RTX Spark N1X Launch Overview: NVIDIA Arms Windows.\nReported by Cryptopolitan: Anthropic proposes AI safety bill to Congress with $1B damage threshold.\nReported by OpenTools: FTC demands reportedly target OpenAI and Anthropic. That is not a verdict.\nReported by Techi: DeepSeek's Flash update claims gains on 11 benchmarks at the same price.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
