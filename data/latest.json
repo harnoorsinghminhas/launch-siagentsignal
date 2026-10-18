@@ -1,112 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-18T18:20:03Z",
- "hour": "2026-10-18T18:00:00Z",
+ "generated_at": "2026-10-18T19:20:02Z",
+ "hour": "2026-10-18T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI leak, three aurora alpha models show up in the API without an announcement",
-   "outlet": "Pasquale Pillitteri",
-   "outlet_name": "Pasquale Pillitteri",
-   "url": "https://pasqualepillitteri.it/en/news/25357/aurora-red-green-blue-alpha-openai-api-en",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-18T17:28:52Z"
-  },
-  {
-   "title": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-   "outlet": "Hacker News",
-   "outlet_name": "Hacker News",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XMnpUb0RPNUtRM25NaTUtaERiT0o2ZWhGaWlpWnAzb3pJTjVIRVlOVTAxRU9VSDB3Q0J6X241NkdpUWpIdGt0WUl4UEduek92M2xBS0xsemY?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-18T14:31:27Z"
-  },
-  {
-   "title": "Alibaba Launches Qwen Glasses N1 for 2,218 Yuan",
-   "outlet": "Retail News Asia",
-   "outlet_name": "Retail News Asia",
-   "url": "https://retailnews.asia/alibaba-launches-qwen-glasses-n1-for-2218-yuan",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-18T17:09:25Z"
-  },
-  {
-   "title": "Disney agrees to hire the majority of Character.AI’s workforce",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+   "title": "DeepSeek rolls out faster, leaner AI model, steps up challenge to US rivals",
+   "outlet": "ET Enterprise AI",
+   "outlet_name": "ET Enterprise AI",
+   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/deepseek-rolls-out-faster-leaner-ai-model-steps-up-challenge-to-us-rivals/135027641",
    "label": "CONFIRMED",
-   "summary_1line": "Disney to hire 60 Character.AI employees for $60M annually after startup files for bankruptcy.",
-   "published_at": "2026-10-18T16:30:00Z"
+   "summary_1line": "DeepSeek launches faster AI model amid rising competition and service outages.",
+   "published_at": "2026-10-18T11:00:10Z"
   },
   {
-   "title": "Stepfun device-native intelligent agent phone STEPX Neo preview edition released; Kling AI's new-generation model Kling 4.0 officially launched ｜ Future Business Weekly",
-   "outlet": "每日经济新闻",
-   "outlet_name": "每日经济新闻",
-   "url": "https://www.nbd.com.cn/articles/2026-10-18/4607817.html",
+   "title": "5 minutes with ChatGPT helped me defeat the extensions that hijacked my Google Chrome browser",
+   "outlet": "How-To Geek",
+   "outlet_name": "How-To Geek",
+   "url": "https://www.howtogeek.com/5-minutes-with-chatgpt-helped-me-defeat-the-extensions-that-hijacked-my-google-chrome-browser/",
    "label": "REPORTED",
-   "summary_1line": "Taobao, JD and Douyin launch AI-powered 'Double 11' with record sales and new services.",
-   "published_at": "2026-10-18T13:04:00Z"
+   "summary_1line": "User used ChatGPT to fix browser hijacking from malicious extensions.",
+   "published_at": "2026-10-18T17:30:16Z"
+  },
+  {
+   "title": "How I Made My Android TV Faster and Ad-Free Using Claude Code",
+   "outlet": "TechPP",
+   "outlet_name": "TechPP",
+   "url": "https://techpp.com/2026/10/18/speed-up-android-tv-claude-code/",
+   "label": "REPORTED",
+   "summary_1line": "User speeds up Sony Bravia Android TV using Claude Code in 30 minutes.",
+   "published_at": "2026-10-18T17:15:47Z"
+  },
+  {
+   "title": "The mystery of DeepSeek V4 Pro overturning unexpectedly dug out by ByteDance",
+   "outlet": "驱动之家",
+   "outlet_name": "驱动之家",
+   "url": "https://news.mydrivers.com/1/1158/1158415.htm",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek's V4 Pro shows periodic memory flaws due to compression; V4.1 Flash improves with new techniques.",
+   "published_at": "2026-10-18T17:05:00Z"
+  },
+  {
+   "title": "Disney hires the Character.AI boss it once threatened to sue",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/disney-hires-the-characterai-boss-it-once-threatened-to-sue/",
+   "label": "REPORTED",
+   "summary_1line": "Disney buys Character.AI's code and hires its CEO for $20M, valuing talent over the product.",
+   "published_at": "2026-10-18T16:49:29Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI leak, three aurora alpha models show up in the API without an announcement",
-   "outlet": "Pasquale Pillitteri",
-   "outlet_name": "Pasquale Pillitteri",
-   "label": "REPORTED",
-   "url": "https://pasqualepillitteri.it/en/news/25357/aurora-red-green-blue-alpha-openai-api-en"
-  },
-  {
-   "headline": "Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-   "outlet": "Hacker News",
-   "outlet_name": "Hacker News",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XMnpUb0RPNUtRM25NaTUtaERiT0o2ZWhGaWlpWnAzb3pJTjVIRVlOVTAxRU9VSDB3Q0J6X241NkdpUWpIdGt0WUl4UEduek92M2xBS0xsemY?oc=5"
-  },
-  {
-   "headline": "Alibaba Launches Qwen Glasses N1 for 2,218 Yuan",
-   "outlet": "Retail News Asia",
-   "outlet_name": "Retail News Asia",
-   "label": "REPORTED",
-   "url": "https://retailnews.asia/alibaba-launches-qwen-glasses-n1-for-2218-yuan"
-  },
-  {
-   "headline": "Disney agrees to hire the majority of Character.AI’s workforce",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/"
-  },
-  {
-   "headline": "Stepfun device-native intelligent agent phone STEPX Neo preview edition released; Kling…",
-   "outlet": "每日经济新闻",
-   "outlet_name": "每日经济新闻",
-   "label": "REPORTED",
-   "url": "https://www.nbd.com.cn/articles/2026-10-18/4607817.html"
-  },
-  {
    "headline": "DeepSeek rolls out faster, leaner AI model, steps up challenge to US rivals",
    "outlet": "ET Enterprise AI",
    "outlet_name": "ET Enterprise AI",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/deepseek-rolls-out-faster-leaner-ai-model-steps-up-challenge-to-us-rivals/135027641"
   },
   {
-   "headline": "AI CROSSES LINE: OpenAI Agent Reportedly Accessed Crypto Wallet Without Permission…",
-   "outlet": "The Yeshiva World",
-   "outlet_name": "The Yeshiva World",
+   "headline": "5 minutes with ChatGPT helped me defeat the extensions that hijacked my Google Chrome…",
+   "outlet": "How-To Geek",
+   "outlet_name": "How-To Geek",
    "label": "REPORTED",
-   "url": "https://www.theyeshivaworld.com/news/general/2611154/ai-crosses-line-openai-agent-reportedly-accessed-crypto-wallet-without-permission-failed-to-disclose-transfer.html"
+   "url": "https://www.howtogeek.com/5-minutes-with-chatgpt-helped-me-defeat-the-extensions-that-hijacked-my-google-chrome-browser/"
+  },
+  {
+   "headline": "How I Made My Android TV Faster and Ad-Free Using Claude Code",
+   "outlet": "TechPP",
+   "outlet_name": "TechPP",
+   "label": "REPORTED",
+   "url": "https://techpp.com/2026/10/18/speed-up-android-tv-claude-code/"
+  },
+  {
+   "headline": "The mystery of DeepSeek V4 Pro overturning unexpectedly dug out by ByteDance",
+   "outlet": "驱动之家",
+   "outlet_name": "驱动之家",
+   "label": "REPORTED",
+   "url": "https://news.mydrivers.com/1/1158/1158415.htm"
+  },
+  {
+   "headline": "Disney hires the Character.AI boss it once threatened to sue",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "label": "REPORTED",
+   "url": "https://startupfortune.com/disney-hires-the-characterai-boss-it-once-threatened-to-sue/"
+  },
+  {
+   "headline": "Gemini 4 Argon vs. Claude Opus 5.5: Half the price and about half as accurate",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
+   "label": "REPORTED",
+   "url": "https://thenewstack.io/gemini-argon-claude-opus/"
+  },
+  {
+   "headline": "Anthropic Plans to Shift Some Shares Into New ‘Public Good’ Fund",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-18/anthropic-plans-to-shift-some-shares-into-new-public-good-fund"
+  },
+  {
+   "headline": "Why OpenAI’s training pause matters for every business using AI agents",
+   "outlet": "Cybersecurity Insiders",
+   "outlet_name": "Cybersecurity Insiders",
+   "label": "REPORTED",
+   "url": "https://www.cybersecurity-insiders.com/why-openais-training-pause-matters-for-every-business-using-ai-agents/"
   },
   {
    "headline": "Anthropic Proposes AI Safety Bill Giving US Government Power to Block High-Risk Models",
    "outlet": "PYMNTS.com",
    "outlet_name": "PYMNTS.com",
-   "label": "REPORTED",
+   "label": "STILL OPEN",
    "url": "https://www.pymnts.com/cpi-posts/anthropic-proposes-ai-safety-bill-giving-us-government-power-to-block-high-risk-models/"
+  },
+  {
+   "headline": "Investing in the public benefit \\ Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "REPORTED",
+   "url": "https://www.anthropic.com/news/public-benefit-fund"
+  },
+  {
+   "headline": "Gemini 4 Flash is Coming Sooner Than You Think: Here Is Why Google Is Upgrading Its Model…",
+   "outlet": "nokiapoweruser.com",
+   "outlet_name": "nokiapoweruser.com",
+   "label": "REPORTED",
+   "url": "https://nokiapoweruser.com/why-google-is-fast-tracking-gemini-4-flash-pro-quota-bottlenecks-hallucinations-and-the-3-tier-model-strategy/"
   },
   {
    "headline": "How the Fed Is Quietly Inflating the AI Bubble While Hiking Your Electric Bill",
@@ -114,37 +135,16 @@
    "outlet_name": "thebignewsletter.com",
    "label": "REPORTED",
    "url": "https://www.thebignewsletter.com/p/how-the-federal-reserve-secretly"
-  },
-  {
-   "headline": "Claude Opus 5.5 vs GPT-6 Astra vs Gemini 4 Argon",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/claude-opus-5-5-vs-gpt-6-astra-terminal-bench-2026/"
-  },
-  {
-   "headline": "AI adoption sees junior tech hiring at Anthropic fall from 27% to 9%",
-   "outlet": "Asianet Newsable on MSN",
-   "outlet_name": "Asianet Newsable on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/ai-adoption-sees-junior-tech-hiring-at-anthropic-fall-from-27-to-9/ar-AA2euqB9"
-  },
-  {
-   "headline": "Mayo businesses urged to stay alert to AI and cybersecurity threats",
-   "outlet": "westernpeople.ie",
-   "outlet_name": "westernpeople.ie",
-   "label": "REPORTED",
-   "url": "https://www.westernpeople.ie/news/mayo-businesses-urged-to-stay-alert-to-ai-and-cybersecurity-threats_arid-20331256.html"
   }
  ],
- "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 7700,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/18.mp3",
- "audio_seconds": 55.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/18/19.mp3",
+ "audio_seconds": 45.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Pasquale Pillitteri: OpenAI leak, three aurora alpha models show up in the API without an announcement.\nReported by Hacker News: Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages.\nReported by Retail News Asia: Alibaba Launches Qwen Glasses N1 for 2,218 Yuan.\nConfirmed, per TechCrunch: Disney agrees to hire the majority of Character.AI’s workforce.\nReported by 每日经济新闻: Stepfun device-native intelligent agent phone STEPX Neo preview edition released; Kling AI's new-generation model Kling 4.0 officially launched ｜ Future Business Weekly.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per ET Enterprise AI: DeepSeek rolls out faster, leaner AI model, steps up challenge to US rivals.\nReported by How-To Geek: 5 minutes with ChatGPT helped me defeat the extensions that hijacked my Google Chrome browser.\nReported by TechPP: How I Made My Android TV Faster and Ad-Free Using Claude Code.\nReported by 驱动之家: The mystery of DeepSeek V4 Pro overturning unexpectedly dug out by ByteDance.\nReported by Startup Fortune: Disney hires the Character.AI boss it once threatened to sue.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
