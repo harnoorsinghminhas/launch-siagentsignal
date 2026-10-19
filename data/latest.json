@@ -1,112 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T13:20:02Z",
- "hour": "2026-10-19T13:00:00Z",
+ "generated_at": "2026-10-19T14:20:03Z",
+ "hour": "2026-10-19T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why.",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Automated switches in the 1940s displaced 75,000 female telephone operators, a historical parallel to today's AI job disruptions.",
-   "published_at": "2026-10-19T11:20:02Z"
-  },
-  {
-   "title": "Musk pledges a SpaceX share to every US child after Anthropic fund jab",
-   "outlet": "Cryptopolitan",
-   "outlet_name": "Cryptopolitan",
-   "url": "https://www.cryptopolitan.com/musk-pledges-spacex-share-to-every-us-child/",
-   "label": "STILL OPEN",
-   "summary_1line": "Musk pledges $10.5B SpaceX shares to U.S. children after criticizing Anthropic’s public fund.",
-   "published_at": "2026-10-19T04:25:00Z"
-  },
-  {
-   "title": "Anthropic fund to help workers impacted by AI job disruption",
-   "outlet": "Fox News",
-   "outlet_name": "Fox News",
-   "url": "https://www.foxnews.com/video/6407076622112",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic pledges 5% shares to fund workers affected by AI job disruption.",
-   "published_at": "2026-10-19T03:35:00Z"
-  },
-  {
-   "title": "The accessibility question missing from law firms’ AI rush",
-   "outlet": "Canadian Lawyer",
-   "outlet_name": "Canadian Lawyer",
-   "url": "https://www.canadianlawyermag.com/news/opinion/the-accessibility-question-missing-from-law-firms-ai-rush/394717",
+   "title": "Siemens Launches New AI Solution at German Factory, Partnering with Nvidia to Advance AI Autonomous Manufacturing",
+   "outlet": "手机新浪网",
+   "outlet_name": "手机新浪网",
+   "url": "https://wap.cj.sina.cn/7x24/5154043",
    "label": "REPORTED",
-   "summary_1line": "Firms must ensure AI tools are accessible to all clients and lawyers.",
-   "published_at": "2026-10-19T12:00:33Z"
+   "summary_1line": "Siemens and NVIDIA launch AI solution cutting engineering work by 85% and costs by 20%.",
+   "published_at": "2026-10-19T12:02:36Z"
   },
   {
-   "title": "FCA: Boundary between regulated and unregulated AI financial advice becoming blurred",
-   "outlet": "Investment Week",
-   "outlet_name": "Investment Week",
-   "url": "https://www.investmentweek.co.uk/news/4537508/fca-boundary-regulated-unregulated-ai-financial-advice-blurred",
+   "title": "Anthropic Pitches AI Safety Bill to Lawmakers",
+   "outlet": "Insurance Journal",
+   "outlet_name": "Insurance Journal",
+   "url": "https://www.insurancejournal.com/news/national/2026/10/19/889292.htm",
    "label": "REPORTED",
-   "summary_1line": "Regulatory boundary between AI and financial advice is blurring, says FCA board member.",
-   "published_at": "2026-10-19T11:26:00Z"
+   "summary_1line": "Anthropic proposes AI safety bill to block models risking 50+ deaths or $1B damage.",
+   "published_at": "2026-10-18T22:10:00Z"
+  },
+  {
+   "title": "US banning Chinese AI DeepSeek from government agency IT systems",
+   "outlet": "Central Oregon Daily",
+   "outlet_name": "Central Oregon Daily",
+   "url": "https://www.centraloregondaily.com/news/consumer/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/article_c1913028-5ce7-52f0-a9ea-604c34c858d2.html",
+   "label": "REPORTED",
+   "summary_1line": "U.S. DHS bans DeepSeek products in civilian agencies over data transfer risks.",
+   "published_at": "2026-10-19T13:29:31Z"
+  },
+  {
+   "title": "This AI Fact-Checking Companion for ChatGPT, Claude, and More Is Only $90",
+   "outlet": "PCMag",
+   "outlet_name": "PCMag",
+   "url": "https://www.pcmag.com/deals/this-ai-fact-checking-companion-for-chatgpt-claude-and-more-is-only-90",
+   "label": "REPORTED",
+   "summary_1line": "Caveat AI Pro offers 40 monthly reviews for $89.99 to verify AI answers across major platforms.",
+   "published_at": "2026-10-19T13:00:30Z"
+  },
+  {
+   "title": "Explore 50 Years of Mainframe Code: IN-COM Connects ChatGPT, Claude, Copilot, Gemini and Grok to SMART TS XL Through MCP",
+   "outlet": "EIN Presswire",
+   "outlet_name": "EIN Presswire",
+   "url": "https://www.einpresswire.com/article/950698916/explore-50-years-of-mainframe-code-in-com-connects-chatgpt-claude-copilot-gemini-and-grok-to-smart-ts-xl-through-mcp",
+   "label": "REPORTED",
+   "summary_1line": "IN-COM connects AI tools to 5.7B lines of mainframe code via MCP.",
+   "published_at": "2026-10-19T12:58:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Women may be at greater risk of AI job losses. Telephone switch operators and PCs show…",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "Siemens Launches New AI Solution at German Factory, Partnering with Nvidia to Advance AI…",
+   "outlet": "手机新浪网",
+   "outlet_name": "手机新浪网",
+   "label": "REPORTED",
+   "url": "https://wap.cj.sina.cn/7x24/5154043"
+  },
+  {
+   "headline": "Anthropic Pitches AI Safety Bill to Lawmakers",
+   "outlet": "Insurance Journal",
+   "outlet_name": "Insurance Journal",
+   "label": "REPORTED",
+   "url": "https://www.insurancejournal.com/news/national/2026/10/19/889292.htm"
+  },
+  {
+   "headline": "US banning Chinese AI DeepSeek from government agency IT systems",
+   "outlet": "Central Oregon Daily",
+   "outlet_name": "Central Oregon Daily",
+   "label": "REPORTED",
+   "url": "https://www.centraloregondaily.com/news/consumer/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/article_c1913028-5ce7-52f0-a9ea-604c34c858d2.html"
+  },
+  {
+   "headline": "This AI Fact-Checking Companion for ChatGPT, Claude, and More Is Only $90",
+   "outlet": "PCMag",
+   "outlet_name": "PCMag",
+   "label": "REPORTED",
+   "url": "https://www.pcmag.com/deals/this-ai-fact-checking-companion-for-chatgpt-claude-and-more-is-only-90"
+  },
+  {
+   "headline": "Explore 50 Years of Mainframe Code: IN-COM Connects ChatGPT, Claude, Copilot, Gemini and…",
+   "outlet": "EIN Presswire",
+   "outlet_name": "EIN Presswire",
+   "label": "REPORTED",
+   "url": "https://www.einpresswire.com/article/950698916/explore-50-years-of-mainframe-code-in-com-connects-chatgpt-claude-copilot-gemini-and-grok-to-smart-ts-xl-through-mcp"
+  },
+  {
+   "headline": "Fed sees AI boom adding to inflation headache, but others may pay for the medicine",
+   "outlet": "The Mighty 790 KFGO",
+   "outlet_name": "The Mighty 790 KFGO",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/19/ai-job-losses-women-automation-risk.html"
+   "url": "https://kfgo.com/2026/10/19/fed-sees-ai-boom-adding-to-inflation-headache-but-others-may-pay-for-the-medicine/"
   },
   {
-   "headline": "Musk pledges a SpaceX share to every US child after Anthropic fund jab",
-   "outlet": "Cryptopolitan",
-   "outlet_name": "Cryptopolitan",
-   "label": "STILL OPEN",
-   "url": "https://www.cryptopolitan.com/musk-pledges-spacex-share-to-every-us-child/"
-  },
-  {
-   "headline": "Anthropic fund to help workers impacted by AI job disruption",
-   "outlet": "Fox News",
-   "outlet_name": "Fox News",
-   "label": "CONFIRMED",
-   "url": "https://www.foxnews.com/video/6407076622112"
-  },
-  {
-   "headline": "The accessibility question missing from law firms’ AI rush",
-   "outlet": "Canadian Lawyer",
-   "outlet_name": "Canadian Lawyer",
+   "headline": "Microsoft, Nvidia push provenance checks as open-weight AI adoption accelerates",
+   "outlet": "CSO Online",
+   "outlet_name": "CSO Online",
    "label": "REPORTED",
-   "url": "https://www.canadianlawyermag.com/news/opinion/the-accessibility-question-missing-from-law-firms-ai-rush/394717"
+   "url": "https://www.csoonline.com/article/4237095/microsoft-nvidia-push-provenance-checks-as-open-weight-ai-adoption-accelerates.html"
   },
   {
-   "headline": "FCA: Boundary between regulated and unregulated AI financial advice becoming blurred",
-   "outlet": "Investment Week",
-   "outlet_name": "Investment Week",
+   "headline": "Google DeepMind Leader Stresses Community Involvement in Responsible AI",
+   "outlet": "CXO Digitalpulse",
+   "outlet_name": "CXO Digitalpulse",
    "label": "REPORTED",
-   "url": "https://www.investmentweek.co.uk/news/4537508/fca-boundary-regulated-unregulated-ai-financial-advice-blurred"
+   "url": "https://www.cxodigitalpulse.com/google-deepmind-leader-stresses-community-involvement-in-responsible-ai/"
   },
   {
-   "headline": "DeepSeek Updates V4.1 Flash Without Raising API Prices",
-   "outlet": "Dataconomy",
-   "outlet_name": "Dataconomy",
+   "headline": "Full text of Pan Gongsheng's speech published regarding the monetary policy framework…",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
    "label": "REPORTED",
-   "url": "https://dataconomy.com/2026/10/19/deepseek-v4-1-flash-1017-faster-ai-tasks/"
-  },
-  {
-   "headline": "😺 DeepSeek's free model edged Opus 5 at coding",
-   "outlet": "The Neuron",
-   "outlet_name": "The Neuron",
-   "label": "REPORTED",
-   "url": "https://www.theneurondaily.com/p/deepseek-s-free-model-edged-opus-5-at-coding"
-  },
-  {
-   "headline": "Federal Government announces AI partnership with Nvidia",
-   "outlet": "deutschland.de",
-   "outlet_name": "deutschland.de",
-   "label": "REPORTED",
-   "url": "https://www.deutschland.de/en/news/merz-announces-ai-partnership-with-nvidia"
+   "url": "https://finance.sina.com.cn/roll/2026-10-19/doc-inivumaf7677551.shtml"
   },
   {
    "headline": "How one hacker used AI agents and a few thousand dollars to break into scores of sites",
@@ -116,35 +123,28 @@
    "url": "https://www.msn.com/en-in/news/other/how-one-hacker-used-ai-agents-and-a-few-thousand-dollars-to-break-into-scores-of-sites/ar-AA2fznSY"
   },
   {
-   "headline": "Kimi and DeepSeek, differences are becoming increasingly obvious",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
+   "headline": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
+   "outlet": "bleepingcomputer.com",
+   "outlet_name": "bleepingcomputer.com",
    "label": "REPORTED",
-   "url": "https://www.tmtpost.com/8172461.html"
+   "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/"
   },
   {
-   "headline": "5 yuan per thousand times, no search no fee: DeepSeek equips Agent with self-developed…",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
+   "headline": "Show HN: Verbs – pixel-art loops for each of Claude Code's 188 spinner verbs",
+   "outlet": "ollie.md",
+   "outlet_name": "ollie.md",
    "label": "REPORTED",
-   "url": "https://www.tmtpost.com/8173434.html"
-  },
-  {
-   "headline": "Idealab’s Bill Gross is building infrastructure for AI-assisted startups",
-   "outlet": "fastcompany.com",
-   "outlet_name": "fastcompany.com",
-   "label": "REPORTED",
-   "url": "https://www.fastcompany.com/91625228/idealabs-bill-gross-is-building-infrastructure-for-ai-assisted-startups?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+   "url": "https://ollie.md/verbs/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 10800,
+ "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 11100,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/13.mp3",
- "audio_seconds": 50.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/14.mp3",
+ "audio_seconds": 69.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Women may be at greater risk of AI job losses. Telephone switch operators and PCs show why.\nStill open, per Cryptopolitan: Musk pledges a SpaceX share to every US child after Anthropic fund jab.\nConfirmed, per Fox News: Anthropic fund to help workers impacted by AI job disruption.\nReported by Canadian Lawyer: The accessibility question missing from law firms’ AI rush.\nReported by Investment Week: FCA: Boundary between regulated and unregulated AI financial advice becoming blurred.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSiemens and NVIDIA launch a solution cutting engineering work by 85% and costs by 20%. Reported by 手机新浪网: the partners advance autonomous manufacturing at German factories.\nAnthropic proposes a bill to block models risking 50+ deaths or $1B damage. Reported by Insurance Journal: the proposal pitches safety guardrails to lawmakers.\nThe U.S. DHS bans DeepSeek products in civilian agencies over data transfer risks. Reported by Central Oregon Daily: the government moves to protect agency systems.\nCaveat AI Pro offers 40 monthly reviews for $89.99 to verify answers across major platforms. Reported by PCMag: the fact-checking companion works with ChatGPT, Claude, and more.\nIN-COM connects artificial intelligence tools to 5.7B lines of mainframe code via MCP. Reported by EIN Presswire: the platform links ChatGPT, Claude, Copilot, Gemini and Grok to legacy systems.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
