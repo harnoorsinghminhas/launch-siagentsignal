@@ -1,112 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T06:20:02Z",
- "hour": "2026-10-19T06:00:00Z",
+ "generated_at": "2026-10-19T07:20:02Z",
+ "hour": "2026-10-19T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Elon Musk hits back as Anthropic pledges 5% shares to public fund, says give them to people directly",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "url": "https://www.indiatoday.in/technology/news/story/elon-musk-anthropic-5-percent-shares-public-benefit-fund-3020466-2026-10-19",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic pledges 5% shares to public fund; Elon Musk urges direct public ownership.",
-   "published_at": "2026-10-19T03:19:42Z"
-  },
-  {
-   "title": "AI and Humans | AI begins 'front-running', scientific research rules face new tests",
-   "outlet": "中国科技网",
-   "outlet_name": "中国科技网",
-   "url": "https://www.stdaily.com/web/gdxw/2026-10/19/content_598425.html",
-   "label": "CONFIRMED",
-   "summary_1line": "AI solved math and biology problems before human researchers, sparking debate on data ownership and authorship.",
-   "published_at": "2026-10-19T00:05:33Z"
-  },
-  {
-   "title": "National Bureau of Statistics: The penetration rate of key scenario applications of artificial intelligence technology in above-scale manufacturing exceeded 1/3",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "url": "https://video.sina.com.cn/p/finance/2026-10-19/detail-inivtpwr7594756.d.html",
-   "label": "CONFIRMED",
-   "summary_1line": "China's AI adoption in manufacturing exceeds one-third.",
-   "published_at": "2026-10-19T03:15:48Z"
-  },
-  {
-   "title": "What smart people are saying about Anthropic's 5% 'public benefit' pledge",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/what-smart-people-are-saying-about-anthropic-5-pledge-2026-10",
+   "title": "DeepSeek Quietly Ships V4.1-Flash-1017, Beating Rivals on Agent Tasks",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/deepseek-quietly-ships-v41-flash-1017-beating-rivals-on-agent-tasks/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic commits 5% shares to public benefit fund, sparking debate on AI philanthropy and control.",
-   "published_at": "2026-10-19T04:36:41Z"
+   "summary_1line": "DeepSeek's V4.1-Flash-1017 improves coding task performance at lower cost, released quietly on Hugging Face.",
+   "published_at": "2026-10-19T04:50:08Z"
   },
   {
-   "title": "Law Firm Consulting Firm Best Era Study Finds Claude Is the New Yardstick for Legal Tech",
-   "outlet": "EIN News",
-   "outlet_name": "EIN News",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHBNZmgxLUZDTEJ0OWZfdl9WQlJmNDcyVHhaRkxLTkZMUDY0VzltNlJ1bUllUHhVRXVQalZvSDJjWU1SOFRrNmx5Z3BlWXF4c0NFWTZ5WFNxTTd6anNwc3I4Q0VzSWVocm95ZFhHUGFWMVhqUWpUeFVwdTdqd3ZoWmhYSTBrZzl5dU1NT0hhZDF6c0doRlVjS21TRHgtcEE3bWViQVVoTmNMVlNCbXhJWU1kakhPc2c0V21xNmh1M2FqVmo4NlJna053?oc=5",
+   "title": "T Morning Post | DeepSeek releases V4.1 Flash new version; China restricts or prohibits export of 40 technologies in three fields: AI, photovoltaics, and biomedicine; Trump denies White House restricts Ukraine's use of S",
+   "outlet": "财新",
+   "outlet_name": "财新",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOUmdnWTRUMHZwcGtOQlJqQkR3LUtzb1Bhb2FrXzlXb0pULUIxZklETVNqQXlpLTRWb21HSVRuQ3ZDalRaR196ODV3RUNzMllNXzZfZS13ak1PZHE2UG9CUDRCRHM?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-19T04:07:00Z"
+   "published_at": "2026-10-19T00:40:00Z"
+  },
+  {
+   "title": "Illinois Governor Creates Cabinet to Explore AI Regulation",
+   "outlet": "Insurance Journal",
+   "outlet_name": "Insurance Journal",
+   "url": "https://www.insurancejournal.com/magazines/mag-features/2026/10/19/889095.htm",
+   "label": "REPORTED",
+   "summary_1line": "Illinois creates AI Cabinet and law to regulate AI safety, citing risks to infrastructure and public safety.",
+   "published_at": "2026-10-19T05:21:20Z"
+  },
+  {
+   "title": "Claude Writes Code So Fast Git Can't Keep Up: Anthropic Built a New Version Control System With Only 7 People in 5 Months",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "url": "https://eu.36kr.com/en/p/4030759897027208",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic built new version control system to handle 30K+ daily code merges from AI agents.",
+   "published_at": "2026-10-19T05:12:41Z"
+  },
+  {
+   "title": "EU-AI-Act: OpenAI und Anthropic müssen Sicherheitsvorkehrungen offenlegen",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "url": "https://borncity.com/news/eu-ai-act-openai-und-anthropic-muessen-sicherheitsvorkehrungen-offenlegen/",
+   "label": "REPORTED",
+   "summary_1line": "EU launches enforcement against OpenAI and Anthropic over AI safety concerns.",
+   "published_at": "2026-10-19T05:10:04Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Elon Musk hits back as Anthropic pledges 5% shares to public fund, says give them to…",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "label": "CONFIRMED",
-   "url": "https://www.indiatoday.in/technology/news/story/elon-musk-anthropic-5-percent-shares-public-benefit-fund-3020466-2026-10-19"
-  },
-  {
-   "headline": "AI and Humans | AI begins 'front-running', scientific research rules face new tests",
-   "outlet": "中国科技网",
-   "outlet_name": "中国科技网",
-   "label": "CONFIRMED",
-   "url": "https://www.stdaily.com/web/gdxw/2026-10/19/content_598425.html"
-  },
-  {
-   "headline": "National Bureau of Statistics: The penetration rate of key scenario applications of…",
-   "outlet": "新浪网",
-   "outlet_name": "新浪网",
-   "label": "CONFIRMED",
-   "url": "https://video.sina.com.cn/p/finance/2026-10-19/detail-inivtpwr7594756.d.html"
-  },
-  {
-   "headline": "What smart people are saying about Anthropic's 5% 'public benefit' pledge",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
+   "headline": "DeepSeek Quietly Ships V4.1-Flash-1017, Beating Rivals on Agent Tasks",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://www.businessinsider.com/what-smart-people-are-saying-about-anthropic-5-pledge-2026-10"
+   "url": "https://startupfortune.com/deepseek-quietly-ships-v41-flash-1017-beating-rivals-on-agent-tasks/"
   },
   {
-   "headline": "Law Firm Consulting Firm Best Era Study Finds Claude Is the New Yardstick for Legal Tech",
-   "outlet": "EIN News",
-   "outlet_name": "EIN News",
+   "headline": "T Morning Post | DeepSeek releases V4.1 Flash new version; China restricts or prohibits…",
+   "outlet": "财新",
+   "outlet_name": "财新",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeHBNZmgxLUZDTEJ0OWZfdl9WQlJmNDcyVHhaRkxLTkZMUDY0VzltNlJ1bUllUHhVRXVQalZvSDJjWU1SOFRrNmx5Z3BlWXF4c0NFWTZ5WFNxTTd6anNwc3I4Q0VzSWVocm95ZFhHUGFWMVhqUWpUeFVwdTdqd3ZoWmhYSTBrZzl5dU1NT0hhZDF6c0doRlVjS21TRHgtcEE3bWViQVVoTmNMVlNCbXhJWU1kakhPc2c0V21xNmh1M2FqVmo4NlJna053?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOUmdnWTRUMHZwcGtOQlJqQkR3LUtzb1Bhb2FrXzlXb0pULUIxZklETVNqQXlpLTRWb21HSVRuQ3ZDalRaR196ODV3RUNzMllNXzZfZS13ak1PZHE2UG9CUDRCRHM?oc=5"
   },
   {
-   "headline": "Cheap Chinese AI Models Like DeepSeek Raise Data Privacy, National Security & Economic…",
-   "outlet": "Free Press Journal",
-   "outlet_name": "Free Press Journal",
-   "label": "STILL OPEN",
-   "url": "https://www.freepressjournal.in/tech/cheap-chinese-ai-models-like-deepseek-raise-data-privacy-national-security-economic-dependence-concerns-in-the-west"
+   "headline": "Illinois Governor Creates Cabinet to Explore AI Regulation",
+   "outlet": "Insurance Journal",
+   "outlet_name": "Insurance Journal",
+   "label": "REPORTED",
+   "url": "https://www.insurancejournal.com/magazines/mag-features/2026/10/19/889095.htm"
   },
   {
-   "headline": "Anthropic Unveils Next-Gen Multi-Agent Orchestration Architecture: Claude Now Generates…",
+   "headline": "Claude Writes Code So Fast Git Can't Keep Up: Anthropic Built a New Version Control…",
    "outlet": "36Kr",
    "outlet_name": "36Kr",
    "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4030759952781702"
+   "url": "https://eu.36kr.com/en/p/4030759897027208"
   },
   {
-   "headline": "NVIDIA Open Sources Run:ai Under Apache 2.0 for Kubernetes GPU Orchestration",
-   "outlet": "marktechpost.com",
-   "outlet_name": "marktechpost.com",
+   "headline": "EU-AI-Act: OpenAI und Anthropic müssen Sicherheitsvorkehrungen offenlegen",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
    "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/18/nvidia-runai-open-source-gpu-orchestration-kubernetes/"
+   "url": "https://borncity.com/news/eu-ai-act-openai-und-anthropic-muessen-sicherheitsvorkehrungen-offenlegen/"
+  },
+  {
+   "headline": "Hana Asset Management launches US AI semiconductor ETF... concentrated investment in…",
+   "outlet": "비즈워치",
+   "outlet_name": "비즈워치",
+   "label": "REPORTED",
+   "url": "https://news.bizwatch.co.kr/article/market/2026/10/19/0012"
+  },
+  {
+   "headline": "AI + Culture and Tourism Pilot Implementation, Policy Dividends Open Scenario-Based Track…",
+   "outlet": "finance.sina.com.cn",
+   "outlet_name": "finance.sina.com.cn",
+   "label": "CONFIRMED",
+   "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivtchv7600127.shtml"
+  },
+  {
+   "headline": "Faster and leaner: DeepSeek rolls out upgraded AI model after recent service disruptions",
+   "outlet": "Malay Mail on MSN",
+   "outlet_name": "Malay Mail on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-my/technology/artificial-intelligence/faster-and-leaner-deepseek-rolls-out-upgraded-ai-model-after-recent-service-disruptions/ar-AA2fxSsW"
+  },
+  {
+   "headline": "Replit picks OpenAI over Anthropic as primary AI provider, says ChatGPT is better now",
+   "outlet": "India Today on MSN",
+   "outlet_name": "India Today on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/replit-picks-openai-over-anthropic-as-primary-ai-provider-says-chatgpt-is-better-now/ar-AA2fyaiX"
   },
   {
    "headline": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
@@ -123,28 +130,21 @@
    "url": "https://www.smh.com.au/national/nsw/sydney-man-allegedly-discussed-plans-for-childcare-mass-shooting-with-ai-chatbot-20261019-p616oc.html"
   },
   {
-   "headline": "AI-exposed jobs deteriorated before ChatGPT",
-   "outlet": "arxiv.org",
-   "outlet_name": "arxiv.org",
+   "headline": "DeepSeek launches web search and page-fetching APIs for AI agents",
+   "outlet": "technode.com",
+   "outlet_name": "technode.com",
    "label": "REPORTED",
-   "url": "https://arxiv.org/abs/2601.02554"
-  },
-  {
-   "headline": "Using GPT-6 to heavily mod my Kindle, I've rediscovered the joy of jailbreaking.",
-   "outlet": "eu.36kr.com",
-   "outlet_name": "eu.36kr.com",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4031931929137795"
+   "url": "https://technode.com/2026/10/19/deepseek-launches-web-search-and-page-fetching-apis-for-ai-agents/"
   }
  ],
- "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 9300,
- "articles_24h_label": "about 9,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 9500,
+ "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/06.mp3",
- "audio_seconds": 55.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/07.mp3",
+ "audio_seconds": 70.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per India Today: Elon Musk hits back as Anthropic pledges 5% shares to public fund, says give them to people directly.\nConfirmed, per 中国科技网: AI and Humans | AI begins 'front-running', scientific research rules face new tests.\nConfirmed, per 新浪网: National Bureau of Statistics: The penetration rate of key scenario applications of artificial intelligence technology in above-scale manufacturing exceeded 1/3.\nReported by Business Insider: What smart people are saying about Anthropic's 5% 'public benefit' pledge.\nReported by EIN News: Law Firm Consulting Firm Best Era Study Finds Claude Is the New Yardstick for Legal Tech.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek's V4.1-Flash-1017 improves coding task performance at lower cost. Reported by Startup Fortune: the model was released quietly on Hugging Face.\nDeepSeek releases V4.1 Flash new version. Reported by 财新: China restricts or prohibits export of 40 technologies in three fields: artificial intelligence, photovoltaics, and biomedicine.\nIllinois creates an artificial intelligence Cabinet and law to regulate artificial intelligence safety, citing risks to infrastructure and public safety. Reported by Insurance Journal.\nAnthropic built a new version control system to handle 30 thousand plus daily code merges from artificial intelligence agents. Reported by 36Kr: the system was built with only 7 people in 5 months.\nThe EU launches enforcement against OpenAI and Anthropic over artificial intelligence safety concerns. Reported by BornCity.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
