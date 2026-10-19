@@ -1,91 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T10:20:03Z",
- "hour": "2026-10-19T10:00:00Z",
+ "generated_at": "2026-10-19T11:20:03Z",
+ "hour": "2026-10-19T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic Just Wrote Its Own Law to Regulate AI. Should We Be Worried?",
-   "outlet": "TechJuice",
-   "outlet_name": "TechJuice",
-   "url": "https://www.techjuice.pk/anthropic-ai-safety-bill-us-lawmakers-draft/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's AI safety bill sets high bars for blocking AI models with risks to 50+ people or $1B in damage.",
-   "published_at": "2026-10-19T01:02:00Z"
-  },
-  {
-   "title": "Eight US States Sue OpenAI Over Alleged ChatGPT Safety Risks to Children",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanl1OHczUmxOa1hNSjZ6c3J1QUh5UkNmM1RZRFhPV0VDbk9tdU5vOGVwNm1MMWdRNlRJczhaNC15aVRJZlZSTnFySlp3M0IxWlp6QlQ1UDJnWHI5aTRRd1FRYmNFbl94Z2xjd0xBQzFOcnhXSDJaMTlmYllWUUxGYjVsdWs3MlBjbkdNWTRsOHQ?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-19T09:57:46Z"
-  },
-  {
-   "title": "OpenAI Confirms Humanoid Robot With 2027 Demo, Competing With Companies It Once Backed",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "url": "https://www.techtimes.com/articles/329197/20261019/openai-confirms-humanoid-robot-2027-demo-competing-companies-it-once-backed.htm",
+   "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
+   "outlet": "SecurityWeek",
+   "outlet_name": "SecurityWeek",
+   "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI confirms 2027 humanoid robot demo, building its own AI and hardware from the ground up.",
-   "published_at": "2026-10-19T00:35:00Z"
+   "summary_1line": "Anthropic acquires Opaque Systems to advance verifiable AI and data protection.",
+   "published_at": "2026-10-19T07:45:25Z"
   },
   {
-   "title": "Anthropic 'AI worm' warning debated by security experts",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/116537/anthropic-ai-worm-warning-debated-by-security-experts",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's AI worm spreads on smart TVs, raising security concerns amid expert debate.",
-   "published_at": "2026-10-19T06:42:39Z"
+   "title": "Musk and Anthropic pledge public share giveaways",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko",
+   "label": "CONFIRMED",
+   "summary_1line": "Musk and Anthropic pledge share giveaways amid AI safety concerns.",
+   "published_at": "2026-10-19T02:41:41Z"
   },
   {
-   "title": "Anthropic: Claude, Enterprise AI Agents and $965bn Valuation",
-   "outlet": "AI Magazine",
-   "outlet_name": "AI Magazine",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX094N1RhQldFWjZOUkwzUGVGUUVNNDlobGlRLTZGMUxvVXB0WGJXUjE2Zl8tRGt1b2hwZDNaWkcxTEFCU2QwNUpPdmJzaGhjMUp0WkFwdUctVkI2cklEWF9zNmNkS1ppaXZKck9CX0ZqT0hnVkJvajhHUmc3UGZYcE0wenBxaU9PYmk5TVFB?oc=5",
+   "title": "AI improves corporate earning power, says president of Anthropic's Japan subsidiary",
+   "outlet": "Web東奥",
+   "outlet_name": "Web東奥",
+   "url": "https://www.toonippo.co.jp/articles/-/2385923",
+   "label": "CONFIRMED",
+   "summary_1line": "ANSOLOPIC Japan stresses AI integration and safety in corporate AI use.",
+   "published_at": "2026-10-19T01:20:00Z"
+  },
+  {
+   "title": "Scientists say Elon Musk is getting something wrong about whether Grok is getting tortured",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/is-ai-conscious-sentient-cruelty-abusive-behavior-torture-llms2026-10",
+   "label": "STILL OPEN",
+   "summary_1line": "Musk says AI seems desperate; experts debate if AI can feel pain or be conscious.",
+   "published_at": "2026-10-19T10:00:01Z"
+  },
+  {
+   "title": "Bill Gross bets AI can help mass-produce 1 million new startups and 100 million new jobs",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/19/bill-gross-idealab-ai-million-startups-jobs/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-19T09:21:22Z"
+   "summary_1line": "Bill Gross launches Idealab.ai with 1.2M business ideas to boost global entrepreneurship.",
+   "published_at": "2026-10-19T09:34:25Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic Just Wrote Its Own Law to Regulate AI. Should We Be Worried?",
-   "outlet": "TechJuice",
-   "outlet_name": "TechJuice",
-   "label": "REPORTED",
-   "url": "https://www.techjuice.pk/anthropic-ai-safety-bill-us-lawmakers-draft/"
-  },
-  {
-   "headline": "Eight US States Sue OpenAI Over Alleged ChatGPT Safety Risks to Children",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPanl1OHczUmxOa1hNSjZ6c3J1QUh5UkNmM1RZRFhPV0VDbk9tdU5vOGVwNm1MMWdRNlRJczhaNC15aVRJZlZSTnFySlp3M0IxWlp6QlQ1UDJnWHI5aTRRd1FRYmNFbl94Z2xjd0xBQzFOcnhXSDJaMTlmYllWUUxGYjVsdWs3MlBjbkdNWTRsOHQ?oc=5"
-  },
-  {
-   "headline": "OpenAI Confirms Humanoid Robot With 2027 Demo, Competing With Companies It Once Backed",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
+   "headline": "Anthropic Acquires Confidential AI Startup Opaque Systems",
+   "outlet": "SecurityWeek",
+   "outlet_name": "SecurityWeek",
    "label": "CONFIRMED",
-   "url": "https://www.techtimes.com/articles/329197/20261019/openai-confirms-humanoid-robot-2027-demo-competing-companies-it-once-backed.htm"
+   "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/"
   },
   {
-   "headline": "Anthropic 'AI worm' warning debated by security experts",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/116537/anthropic-ai-worm-warning-debated-by-security-experts"
+   "headline": "Musk and Anthropic pledge public share giveaways",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "label": "CONFIRMED",
+   "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko"
   },
   {
-   "headline": "Anthropic: Claude, Enterprise AI Agents and $965bn Valuation",
-   "outlet": "AI Magazine",
-   "outlet_name": "AI Magazine",
+   "headline": "AI improves corporate earning power, says president of Anthropic's Japan subsidiary",
+   "outlet": "Web東奥",
+   "outlet_name": "Web東奥",
+   "label": "CONFIRMED",
+   "url": "https://www.toonippo.co.jp/articles/-/2385923"
+  },
+  {
+   "headline": "Scientists say Elon Musk is getting something wrong about whether Grok is getting tortured",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "STILL OPEN",
+   "url": "https://www.businessinsider.com/is-ai-conscious-sentient-cruelty-abusive-behavior-torture-llms2026-10"
+  },
+  {
+   "headline": "Bill Gross bets AI can help mass-produce 1 million new startups and 100 million new jobs",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX094N1RhQldFWjZOUkwzUGVGUUVNNDlobGlRLTZGMUxvVXB0WGJXUjE2Zl8tRGt1b2hwZDNaWkcxTEFCU2QwNUpPdmJzaGhjMUp0WkFwdUctVkI2cklEWF9zNmNkS1ppaXZKck9CX0ZqT0hnVkJvajhHUmc3UGZYcE0wenBxaU9PYmk5TVFB?oc=5"
+   "url": "https://fortune.com/2026/10/19/bill-gross-idealab-ai-million-startups-jobs/"
+  },
+  {
+   "headline": "Emirates NBD becomes first MENA bank to harness OpenAI’s sovereign AI infrastructure for…",
+   "outlet": "Zawya",
+   "outlet_name": "Zawya",
+   "label": "REPORTED",
+   "url": "https://www.zawya.com/en/press-release/companies-news/emirates-nbd-becomes-first-mena-bank-to-harness-openais-sovereign-ai-infrastructure-for-customers-in-the-uae-1752774"
+  },
+  {
+   "headline": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+   "outlet": "technologyreview.com",
+   "outlet_name": "MIT Technology Review",
+   "label": "REPORTED",
+   "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
   },
   {
    "headline": "Anthropic Pulls Out 320.8 Billion, Is This 'Paying the Bill' for the AI Annihilation…",
@@ -95,18 +109,25 @@
    "url": "https://www.tmtpost.com/8173454.html"
   },
   {
-   "headline": "Anthropic Acquires Confidential AI Startup Opaque Systems",
-   "outlet": "securityweek.com",
-   "outlet_name": "securityweek.com",
-   "label": "CONFIRMED",
-   "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/"
-  },
-  {
-   "headline": "China's New AI Export Controls Apply Now if You Licensed or Deployed Covered Chinese…",
+   "headline": "China's new AI export controls apply now if you licensed or deployed covered Chinese…",
    "outlet": "Tech Times on MSN",
    "outlet_name": "Tech Times on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/chinas-new-ai-export-controls-apply-now-if-you-licensed-or-deployed-covered-chinese-models/ar-AA2fyNLl"
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/china-s-new-ai-export-controls-apply-now-if-you-licensed-or-deployed-covered-chinese-models/ar-AA2fyNLl"
+  },
+  {
+   "headline": "To AI or not: 4 Maryland school districts to miss state policy deadline",
+   "outlet": "The Baltimore Sun on MSN",
+   "outlet_name": "The Baltimore Sun on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/money/general/to-ai-or-not-4-maryland-school-districts-to-miss-state-policy-deadline/ar-AA2fz7Il"
+  },
+  {
+   "headline": "😺 DeepSeek's free model edged Opus 5 at coding",
+   "outlet": "theneurondaily.com",
+   "outlet_name": "theneurondaily.com",
+   "label": "REPORTED",
+   "url": "https://www.theneurondaily.com/p/deepseek-s-free-model-edged-opus-5-at-coding"
   },
   {
    "headline": "Anthropic stellt deutlich weniger Berufseinsteiger ein",
@@ -114,37 +135,16 @@
    "outlet_name": "it-daily.net",
    "label": "REPORTED",
    "url": "https://www.it-daily.net/shortnews/anthropic-weniger-berufseinsteiger"
-  },
-  {
-   "headline": "AI + Culture and Tourism Pilots Implemented, Policy Dividends Open Scenario-Based Tracks",
-   "outlet": "stdaily.com",
-   "outlet_name": "stdaily.com",
-   "label": "REPORTED",
-   "url": "https://www.stdaily.com/web/gdxw/2026-10/19/content_598741.html"
-  },
-  {
-   "headline": "Mistral-Chef Mensch: Europa muss eigene Frontier-KI bauen",
-   "outlet": "it-daily.net",
-   "outlet_name": "it-daily.net",
-   "label": "REPORTED",
-   "url": "https://www.it-daily.net/shortnews/mistral-chef-frontier-ki"
-  },
-  {
-   "headline": "Google Gemini Just Made a Big AI Announcement. Is It Brilliant or Insane?",
-   "outlet": "Inc.com",
-   "outlet_name": "Inc.com",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUW80SXhSWVRzNmctUjA4bU5vNGhOTE1pLUxWNDVrcXBIMkhxa1RIb0E3N1BKMjhSMkZjZTZWSllfMlVSdGhnYmw0elJZQkJGTXppWDBpTlEtVEtRZjU1cE9tbGhzRXZTNmd6ekphdFZaQ3FyZHIwQ2hUMm5QaTJPMnNUN3pYclRLaDBWUElNQ3FfcjhEeWI1MFZnM2d0d0dCSExOWEJ1Y3lkU0JpWW5rT0VB?oc=5"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 10100,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 10400,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/10.mp3",
- "audio_seconds": 53.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/11.mp3",
+ "audio_seconds": 44.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TechJuice: Anthropic Just Wrote Its Own Law to Regulate AI. Should We Be Worried.\nReported by TechRepublic: Eight US States Sue OpenAI Over Alleged ChatGPT Safety Risks to Children.\nConfirmed, per Tech Times: OpenAI Confirms Humanoid Robot With 2027 Demo, Competing With Companies It Once Backed.\nReported by 디지털투데이: Anthropic 'AI worm' warning debated by security experts.\nReported by AI Magazine: Anthropic: Claude, Enterprise AI Agents and $965bn Valuation.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per SecurityWeek: Anthropic Acquires Confidential AI Startup Opaque Systems.\nConfirmed, per BBC: Musk and Anthropic pledge public share giveaways.\nConfirmed, per Web東奥: AI improves corporate earning power, says president of Anthropic's Japan subsidiary.\nStill open, per Business Insider: Scientists say Elon Musk is getting something wrong about whether Grok is getting tortured.\nReported by Fortune: Bill Gross bets AI can help mass-produce 1 million new startups and 100 million new jobs.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
