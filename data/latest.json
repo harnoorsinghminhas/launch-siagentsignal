@@ -1,112 +1,119 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T07:20:02Z",
- "hour": "2026-10-19T07:00:00Z",
+ "generated_at": "2026-10-19T08:20:02Z",
+ "hour": "2026-10-19T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek Quietly Ships V4.1-Flash-1017, Beating Rivals on Agent Tasks",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/deepseek-quietly-ships-v41-flash-1017-beating-rivals-on-agent-tasks/",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek's V4.1-Flash-1017 improves coding task performance at lower cost, released quietly on Hugging Face.",
-   "published_at": "2026-10-19T04:50:08Z"
+   "title": "DeepSeek launches Search, Fetch APIs at $0.75 per 1,000 successful requests",
+   "outlet": "DigitalToday",
+   "outlet_name": "DigitalToday",
+   "url": "https://www.digitaltoday.co.kr/en/view/116485/deepseek-launches-search-fetch-apis-at-0-75-per-1-000-successful-requests",
+   "label": "CONFIRMED",
+   "summary_1line": "DeepSeek launches search and document APIs for developers at $0.75 per 1K requests.",
+   "published_at": "2026-10-18T18:21:00Z"
   },
   {
-   "title": "T Morning Post | DeepSeek releases V4.1 Flash new version; China restricts or prohibits export of 40 technologies in three fields: AI, photovoltaics, and biomedicine; Trump denies White House restricts Ukraine's use of S",
-   "outlet": "财新",
-   "outlet_name": "财新",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOUmdnWTRUMHZwcGtOQlJqQkR3LUtzb1Bhb2FrXzlXb0pULUIxZklETVNqQXlpLTRWb21HSVRuQ3ZDalRaR196ODV3RUNzMllNXzZfZS13ak1PZHE2UG9CUDRCRHM?oc=5",
+   "title": "To address AI risks, Anthropic opens employee-like access to external AI oversight bodies",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivtpwv6964588.shtml",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic grants external evaluators access to assess AI risks, citing public accountability and safety.",
+   "published_at": "2026-10-19T03:28:00Z"
+  },
+  {
+   "title": "Microsoft Copilot Legal: A Bombshell That Could Redefine Law Itself",
+   "outlet": "The Tech Edvocate",
+   "outlet_name": "The Tech Edvocate",
+   "url": "https://www.thetechedvocate.org/microsoft-copilot-legal-a-bombshell-that-could-redefine-law-itself/",
+   "label": "REPORTED",
+   "summary_1line": "Microsoft launches Copilot for Legal with 20+ AI skills, joining a competitive AI legal race.",
+   "published_at": "2026-10-18T16:59:00Z"
+  },
+  {
+   "title": "Anthropic pitches Congress its own frontier-AI bill: models could only be halted above 50 deaths or $1B in damage",
+   "outlet": "Dealroom",
+   "outlet_name": "Dealroom",
+   "url": "https://app.dealroom.co/news/note/anthropic-pitches-congress-its-own-frontier-ai-bill-models-could-only-be-halted-above-50-deaths-or-1b-in-damage",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-19T00:40:00Z"
+   "published_at": "2026-10-19T07:53:42Z"
   },
   {
-   "title": "Illinois Governor Creates Cabinet to Explore AI Regulation",
-   "outlet": "Insurance Journal",
-   "outlet_name": "Insurance Journal",
-   "url": "https://www.insurancejournal.com/magazines/mag-features/2026/10/19/889095.htm",
+   "title": "Nvidia weighting fixed at 25%... Hana Asset Management lists US AI semiconductor ETF",
+   "outlet": "파이낸셜뉴스",
+   "outlet_name": "파이낸셜뉴스",
+   "url": "https://www.fnnews.com/news/202610191547194257",
    "label": "REPORTED",
-   "summary_1line": "Illinois creates AI Cabinet and law to regulate AI safety, citing risks to infrastructure and public safety.",
-   "published_at": "2026-10-19T05:21:20Z"
-  },
-  {
-   "title": "Claude Writes Code So Fast Git Can't Keep Up: Anthropic Built a New Version Control System With Only 7 People in 5 Months",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "url": "https://eu.36kr.com/en/p/4030759897027208",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic built new version control system to handle 30K+ daily code merges from AI agents.",
-   "published_at": "2026-10-19T05:12:41Z"
-  },
-  {
-   "title": "EU-AI-Act: OpenAI und Anthropic müssen Sicherheitsvorkehrungen offenlegen",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "url": "https://borncity.com/news/eu-ai-act-openai-und-anthropic-muessen-sicherheitsvorkehrungen-offenlegen/",
-   "label": "REPORTED",
-   "summary_1line": "EU launches enforcement against OpenAI and Anthropic over AI safety concerns.",
-   "published_at": "2026-10-19T05:10:04Z"
+   "summary_1line": "하나자산운용 출시, 엔비디아 25% 포함 AI 반도체 ETF",
+   "published_at": "2026-10-19T06:50:37Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek Quietly Ships V4.1-Flash-1017, Beating Rivals on Agent Tasks",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/deepseek-quietly-ships-v41-flash-1017-beating-rivals-on-agent-tasks/"
-  },
-  {
-   "headline": "T Morning Post | DeepSeek releases V4.1 Flash new version; China restricts or prohibits…",
-   "outlet": "财新",
-   "outlet_name": "财新",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOUmdnWTRUMHZwcGtOQlJqQkR3LUtzb1Bhb2FrXzlXb0pULUIxZklETVNqQXlpLTRWb21HSVRuQ3ZDalRaR196ODV3RUNzMllNXzZfZS13ak1PZHE2UG9CUDRCRHM?oc=5"
-  },
-  {
-   "headline": "Illinois Governor Creates Cabinet to Explore AI Regulation",
-   "outlet": "Insurance Journal",
-   "outlet_name": "Insurance Journal",
-   "label": "REPORTED",
-   "url": "https://www.insurancejournal.com/magazines/mag-features/2026/10/19/889095.htm"
-  },
-  {
-   "headline": "Claude Writes Code So Fast Git Can't Keep Up: Anthropic Built a New Version Control…",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4030759897027208"
-  },
-  {
-   "headline": "EU-AI-Act: OpenAI und Anthropic müssen Sicherheitsvorkehrungen offenlegen",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "label": "REPORTED",
-   "url": "https://borncity.com/news/eu-ai-act-openai-und-anthropic-muessen-sicherheitsvorkehrungen-offenlegen/"
-  },
-  {
-   "headline": "Hana Asset Management launches US AI semiconductor ETF... concentrated investment in…",
-   "outlet": "비즈워치",
-   "outlet_name": "비즈워치",
-   "label": "REPORTED",
-   "url": "https://news.bizwatch.co.kr/article/market/2026/10/19/0012"
-  },
-  {
-   "headline": "AI + Culture and Tourism Pilot Implementation, Policy Dividends Open Scenario-Based Track…",
-   "outlet": "finance.sina.com.cn",
-   "outlet_name": "finance.sina.com.cn",
+   "headline": "DeepSeek launches Search, Fetch APIs at $0.75 per 1,000 successful requests",
+   "outlet": "DigitalToday",
+   "outlet_name": "DigitalToday",
    "label": "CONFIRMED",
-   "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivtchv7600127.shtml"
+   "url": "https://www.digitaltoday.co.kr/en/view/116485/deepseek-launches-search-fetch-apis-at-0-75-per-1-000-successful-requests"
+  },
+  {
+   "headline": "To address AI risks, Anthropic opens employee-like access to external AI oversight bodies",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "label": "CONFIRMED",
+   "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivtpwv6964588.shtml"
+  },
+  {
+   "headline": "Microsoft Copilot Legal: A Bombshell That Could Redefine Law Itself",
+   "outlet": "The Tech Edvocate",
+   "outlet_name": "The Tech Edvocate",
+   "label": "REPORTED",
+   "url": "https://www.thetechedvocate.org/microsoft-copilot-legal-a-bombshell-that-could-redefine-law-itself/"
+  },
+  {
+   "headline": "Anthropic pitches Congress its own frontier-AI bill: models could only be halted above 50…",
+   "outlet": "Dealroom",
+   "outlet_name": "Dealroom",
+   "label": "REPORTED",
+   "url": "https://app.dealroom.co/news/note/anthropic-pitches-congress-its-own-frontier-ai-bill-models-could-only-be-halted-above-50-deaths-or-1b-in-damage"
+  },
+  {
+   "headline": "Nvidia weighting fixed at 25%... Hana Asset Management lists US AI semiconductor ETF",
+   "outlet": "파이낸셜뉴스",
+   "outlet_name": "파이낸셜뉴스",
+   "label": "REPORTED",
+   "url": "https://www.fnnews.com/news/202610191547194257"
+  },
+  {
+   "headline": "AI for national security can co-exist with Australia’s current copyright laws",
+   "outlet": "Strategic Analysis Australia",
+   "outlet_name": "Strategic Analysis Australia",
+   "label": "REPORTED",
+   "url": "https://strategicanalysis.org/ai-for-national-security-can-co-exist-with-australias-current-copyright-laws/"
   },
   {
    "headline": "Faster and leaner: DeepSeek rolls out upgraded AI model after recent service disruptions",
    "outlet": "Malay Mail on MSN",
    "outlet_name": "Malay Mail on MSN",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.msn.com/en-my/technology/artificial-intelligence/faster-and-leaner-deepseek-rolls-out-upgraded-ai-model-after-recent-service-disruptions/ar-AA2fxSsW"
+  },
+  {
+   "headline": "DeepSeek releases V4.1 Flash-1017 with stronger coding and agent capabilities",
+   "outlet": "technode.com",
+   "outlet_name": "technode.com",
+   "label": "REPORTED",
+   "url": "https://technode.com/2026/10/19/deepseek-releases-v4-1-flash-1017-with-stronger-coding-and-agent-capabilities/"
+  },
+  {
+   "headline": "Alibaba mandates Qwen work for Taobao merchants; China's intelligence law claims all…",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/news/other/alibaba-mandates-qwen-work-for-taobao-merchants-chinas-intelligence-law-claims-all-business-data/ar-AA2fyKy1"
   },
   {
    "headline": "Replit picks OpenAI over Anthropic as primary AI provider, says ChatGPT is better now",
@@ -116,35 +123,28 @@
    "url": "https://www.msn.com/en-in/news/other/replit-picks-openai-over-anthropic-as-primary-ai-provider-says-chatgpt-is-better-now/ar-AA2fyaiX"
   },
   {
-   "headline": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-   "outlet": "crystl.dev",
-   "outlet_name": "crystl.dev",
+   "headline": "Microsoft lanzó equipos con Nvidia",
+   "outlet": "eldia.com",
+   "outlet_name": "eldia.com",
    "label": "REPORTED",
-   "url": "https://crystl.dev/guides/tmux-for-ai-agents/"
+   "url": "http://www.eldia.com/el-mundo/microsoft-lanzo-equipos-con-nvidia-el-mundo_1792384554"
   },
   {
-   "headline": "Man arrested after discussing plans for childcare mass shooting with [Claude]",
-   "outlet": "smh.com.au",
-   "outlet_name": "smh.com.au",
-   "label": "REPORTED",
-   "url": "https://www.smh.com.au/national/nsw/sydney-man-allegedly-discussed-plans-for-childcare-mass-shooting-with-ai-chatbot-20261019-p616oc.html"
-  },
-  {
-   "headline": "DeepSeek launches web search and page-fetching APIs for AI agents",
-   "outlet": "technode.com",
-   "outlet_name": "technode.com",
-   "label": "REPORTED",
-   "url": "https://technode.com/2026/10/19/deepseek-launches-web-search-and-page-fetching-apis-for-ai-agents/"
+   "headline": "OpenAI ve Anthropic olası yapay zeka felaketine hazırlanıyor",
+   "outlet": "ogunhaber.com",
+   "outlet_name": "ogunhaber.com",
+   "label": "STILL OPEN",
+   "url": "https://ogunhaber.com/teknoloji/openai-ve-anthropic-olasi-yapay-zeka-felaketine-hazirlaniyor-3002984h.html"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 9500,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 9700,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/07.mp3",
- "audio_seconds": 70.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/08.mp3",
+ "audio_seconds": 45.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek's V4.1-Flash-1017 improves coding task performance at lower cost. Reported by Startup Fortune: the model was released quietly on Hugging Face.\nDeepSeek releases V4.1 Flash new version. Reported by 财新: China restricts or prohibits export of 40 technologies in three fields: artificial intelligence, photovoltaics, and biomedicine.\nIllinois creates an artificial intelligence Cabinet and law to regulate artificial intelligence safety, citing risks to infrastructure and public safety. Reported by Insurance Journal.\nAnthropic built a new version control system to handle 30 thousand plus daily code merges from artificial intelligence agents. Reported by 36Kr: the system was built with only 7 people in 5 months.\nThe EU launches enforcement against OpenAI and Anthropic over artificial intelligence safety concerns. Reported by BornCity.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per DigitalToday: DeepSeek launches Search, Fetch APIs at $0.75 per 1,000 successful requests.\nConfirmed, per 新浪财经: To address AI risks, Anthropic opens employee-like access to external AI oversight bodies.\nReported by The Tech Edvocate: Microsoft Copilot Legal: A Bombshell That Could Redefine Law Itself.\nReported by Dealroom: Anthropic pitches Congress its own frontier-AI bill: models could only be halted above 50 deaths or $1B in damage.\nReported by 파이낸셜뉴스: Nvidia weighting fixed at 25%... Hana Asset Management lists US AI semiconductor ETF.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
