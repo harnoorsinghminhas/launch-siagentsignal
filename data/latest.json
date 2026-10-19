@@ -1,119 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T00:20:03Z",
- "hour": "2026-10-19T00:00:00Z",
+ "generated_at": "2026-10-19T01:20:05Z",
+ "hour": "2026-10-19T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Financial Street Forum Annual Meeting Opens Today; DeepSeek Announces API Web Search and Scraping Fees; Multiple A-Share Tech Giants Disclose Share Buyback Proposals | NBD Morning Brief",
-   "outlet": "东方财富",
-   "outlet_name": "东方财富",
-   "url": "https://emwap.eastmoney.com/a/202610193899230868.html",
+   "title": "Financial Street Forum Annual Meeting opens today; DeepSeek announces API web search and scraping fees | 21 Morning News",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
+   "url": "https://www.21jingji.com/article/20261019/herald/48ea6bea01f789829b11d266a603bdf8.html",
    "label": "REPORTED",
-   "summary_1line": "China's financial regulators and key institutions announce new developments in rail, sports, and tech amid global events.",
-   "published_at": "2026-10-18T22:15:06Z"
+   "summary_1line": "OpenAI's GPT-6 scores 92% on MMLU, DeepSeek API charges 5 yuan per 1000 requests, and China reports record rail passenger volume.",
+   "published_at": "2026-10-18T23:28:00Z"
   },
   {
-   "title": "DeepSeek New Model Released, Super Cost-Performance Slays Everything",
-   "outlet": "创业邦",
-   "outlet_name": "创业邦",
-   "url": "https://m.cyzone.cn/article/849363.html",
-   "label": "CONFIRMED",
-   "summary_1line": "vuem.cyzone.cn requires JavaScript to work.",
-   "published_at": "2026-10-18T03:00:44Z"
+   "title": "OpenAI educator workshops yield reusable AI tools | ETIH EdTech News",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "url": "https://www.edtechinnovationhub.com/news/openais-educator-ai-workshops-yield-reusable-tools-but-teachers-want-more-practice",
+   "label": "REPORTED",
+   "summary_1line": "802 educators gained reusable AI tools; 92% found them useful, 29% want more hands-on practice.",
+   "published_at": "2026-10-19T00:00:09Z"
   },
   {
-   "title": "Anthropic Commits 5% Equity Stake to Public Benefit Fund",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "url": "https://www.techbuzz.ai/articles/anthropic-commits-5-equity-stake-to-public-benefit-fund",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic pledges 5% equity to a public benefit fund for AI safety.",
-   "published_at": "2026-10-18T21:06:00Z"
+   "title": "AI Breach of Australian Healthcare Website Sparks Regulation Debate",
+   "outlet": "Carolina Political Review",
+   "outlet_name": "Carolina Political Review",
+   "url": "https://www.carolinapoliticalreview.org/editorial-content/2026/10/18/ai-breach-of-australian-healthcare-website-sparks-regulation-debate",
+   "label": "REPORTED",
+   "summary_1line": "AI breach of Australian Medicare sparks AI regulation debate amid global AI race.",
+   "published_at": "2026-10-18T23:07:18Z"
   },
   {
-   "title": "Laptop local AI processing era arrives, NVIDIA RTX Spark debuts and AMD FSR 4 closely follows",
-   "outlet": "蕃新聞",
-   "outlet_name": "蕃新聞",
-   "url": "https://n.yam.com/Article/20261019653025",
+   "title": "Investor doubts about artificial intelligence grow as Anthropic's IPO wipes out $500 billion in market value",
+   "outlet": "Moomoo",
+   "outlet_name": "Moomoo",
+   "url": "https://www.moomoo.com/hans/community/feed/investor-ai-doubts-intensify-as-anthropic-ipo-loses-us-500b-117464527863814",
+   "label": "REPORTED",
+   "summary_1line": "AI stocks crash as investors fear AI valuations after Anthropic's IPO drop.",
+   "published_at": "2026-10-18T07:00:00Z"
+  },
+  {
+   "title": "Anthropic Unveils 4 Years Later World: Only 5% of AI Development Work Remains for Humans",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KV1pGM3ZFa04yMUpsWTRRVExDd0tUZGJVVkxIZ3prOXp1UUkyaUNQUGZtckpDVTZaajdPRmtJQWlLbVhaRlBrRWlYMFUtQk55c3Nn?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-18T22:50:00Z"
-  },
-  {
-   "title": "China considers export controls on AI, chips",
-   "outlet": "semafor.com",
-   "outlet_name": "Semafor",
-   "url": "https://www.semafor.com/article/10/18/2026/china-mulls-ai-export-rules",
-   "label": "STILL OPEN",
-   "summary_1line": "China considers AI export controls; U.S. group proposes similar rules amid rising AI anxiety.",
-   "published_at": "2026-10-18T22:34:45Z"
+   "published_at": "2026-10-19T00:52:32Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Financial Street Forum Annual Meeting Opens Today; DeepSeek Announces API Web Search and…",
-   "outlet": "东方财富",
-   "outlet_name": "东方财富",
+   "headline": "Financial Street Forum Annual Meeting opens today; DeepSeek announces API web search and…",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
    "label": "REPORTED",
-   "url": "https://emwap.eastmoney.com/a/202610193899230868.html"
+   "url": "https://www.21jingji.com/article/20261019/herald/48ea6bea01f789829b11d266a603bdf8.html"
   },
   {
-   "headline": "DeepSeek New Model Released, Super Cost-Performance Slays Everything",
-   "outlet": "创业邦",
-   "outlet_name": "创业邦",
-   "label": "CONFIRMED",
-   "url": "https://m.cyzone.cn/article/849363.html"
-  },
-  {
-   "headline": "Anthropic Commits 5% Equity Stake to Public Benefit Fund",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "label": "CONFIRMED",
-   "url": "https://www.techbuzz.ai/articles/anthropic-commits-5-equity-stake-to-public-benefit-fund"
-  },
-  {
-   "headline": "Laptop local AI processing era arrives, NVIDIA RTX Spark debuts and AMD FSR 4 closely…",
-   "outlet": "蕃新聞",
-   "outlet_name": "蕃新聞",
+   "headline": "OpenAI educator workshops yield reusable AI tools | ETIH EdTech News",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
    "label": "REPORTED",
-   "url": "https://n.yam.com/Article/20261019653025"
+   "url": "https://www.edtechinnovationhub.com/news/openais-educator-ai-workshops-yield-reusable-tools-but-teachers-want-more-practice"
   },
   {
-   "headline": "China considers export controls on AI, chips",
-   "outlet": "semafor.com",
-   "outlet_name": "Semafor",
-   "label": "STILL OPEN",
-   "url": "https://www.semafor.com/article/10/18/2026/china-mulls-ai-export-rules"
-  },
-  {
-   "headline": "Exclusive: NVIDIA’s Vera Team Says Chiplet Designs Sacrificed Single-Threaded Performance…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
+   "headline": "AI Breach of Australian Healthcare Website Sparks Regulation Debate",
+   "outlet": "Carolina Political Review",
+   "outlet_name": "Carolina Political Review",
    "label": "REPORTED",
-   "url": "https://wccftech.com/exclusive-nvidia-vera-team-says-chiplet-designs-sacrificed-single-threaded-performance-for-core-counts-and-agentic-ai-is-now-forcing-a-reversal/"
+   "url": "https://www.carolinapoliticalreview.org/editorial-content/2026/10/18/ai-breach-of-australian-healthcare-website-sparks-regulation-debate"
   },
   {
-   "headline": "DeepSeek Establishes Product Department! Will the AI Free for 130 Million People Refer to…",
-   "outlet": "潮起网",
-   "outlet_name": "潮起网",
+   "headline": "Investor doubts about artificial intelligence grow as Anthropic's IPO wipes out $500…",
+   "outlet": "Moomoo",
+   "outlet_name": "Moomoo",
    "label": "REPORTED",
-   "url": "https://www.ichaoqi.com/guandian/2026/1019/88740.html"
+   "url": "https://www.moomoo.com/hans/community/feed/investor-ai-doubts-intensify-as-anthropic-ipo-loses-us-500b-117464527863814"
   },
   {
-   "headline": "Eight-Dimension Audit for AI Governance: Anthropic, EU, China, UK",
-   "outlet": "sergemso.substack.com",
-   "outlet_name": "sergemso.substack.com",
+   "headline": "Anthropic Unveils 4 Years Later World: Only 5% of AI Development Work Remains for Humans",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
    "label": "REPORTED",
-   "url": "https://sergemso.substack.com/p/ai-governance-eight-dimension-audit"
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KV1pGM3ZFa04yMUpsWTRRVExDd0tUZGJVVkxIZ3prOXp1UUkyaUNQUGZtckpDVTZaajdPRmtJQWlLbVhaRlBrRWlYMFUtQk55c3Nn?oc=5"
   },
   {
-   "headline": "Bloccy – A multimodal canvas for ChatGPT and Claude Desktop",
-   "outlet": "bloccy.si",
-   "outlet_name": "bloccy.si",
+   "headline": "Korean, Japanese, Taiwanese books targeted in Anthropic's 'Project Panama' hunt for AI…",
+   "outlet": "Korea JoongAng Daily",
+   "outlet_name": "Korea JoongAng Daily",
    "label": "REPORTED",
-   "url": "https://bloccy.si/"
+   "url": "https://www.koreajoongangdaily.com/lifestyle/korean-japanese-taiwanese-books-targeted-in-anthropics-project-panama-hunt-for-ai-training-material/12925754"
+  },
+  {
+   "headline": "Lenovo Korea Ltd. launches AI laptop equipped with NVIDIA RTX Spark",
+   "outlet": "파이낸셜뉴스",
+   "outlet_name": "파이낸셜뉴스",
+   "label": "REPORTED",
+   "url": "https://en.fnnews.com/news/202610190904470111"
   },
   {
    "headline": "DeepSeek upgrades programming model and opens search API, charging 5 yuan per thousand…",
@@ -123,28 +109,42 @@
    "url": "https://www.mrjjxw.com/articles/2026-10-19/4607945.html"
   },
   {
-   "headline": "Anthropic Co-Founder Predicts AI Will Bring US GDP to $44 Trillion",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
-   "label": "STILL OPEN",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-co-founder-predicts-ai-will-bring-us-gdp-to-44-trillion/"
+   "headline": "Cursor Rules Setup: Migrate From Copilot in 12 Steps [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "REPORTED",
+   "url": "https://shattered.io/cursor-rules-migrate-github-copilot-2026/"
   },
   {
-   "headline": "Musk Says White House Duties Distracted Him From AI",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
+   "headline": "Anthropic reports internal AI agent uptime reaches 6 times that of humans, entry-level…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
    "label": "REPORTED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/musk-says-white-house-duties-distracted-him-from-ai/"
+   "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/"
+  },
+  {
+   "headline": "Eight-Dimension Audit for AI Governance: Anthropic, EU, China, UK",
+   "outlet": "sergemso.substack.com",
+   "outlet_name": "sergemso.substack.com",
+   "label": "REPORTED",
+   "url": "https://sergemso.substack.com/p/ai-governance-eight-dimension-audit"
+  },
+  {
+   "headline": "China's DeepSeek releases new V4.1-Flash version, open model claiming to outperform some…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/"
   }
  ],
- "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 7800,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 7900,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/00.mp3",
- "audio_seconds": 62.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/01.mp3",
+ "audio_seconds": 57.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nFinancial Street Forum Annual Meeting opens today with China's financial regulators announcing new developments. Reported by 东方财富: DeepSeek announces API web search and scraping fees, while multiple A-share tech giants disclose share buyback proposals.\nConfirmed by 创业邦: DeepSeek released a new model with super cost-performance capabilities.\nAnthropic commits 5% equity stake to a public benefit fund. Confirmed by The Tech Buzz: the commitment is for artificial intelligence safety.\nReported by 蕃新聞: the laptop local artificial intelligence processing era arrives with NVIDIA RTX Spark debuting and AMD FSR 4 closely following.\nChina considers export controls on artificial intelligence and chips. Still open per Semafor: a U.S. group proposes similar rules amid rising artificial intelligence anxiety.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by 21财经: Financial Street Forum Annual Meeting opens today; DeepSeek announces API web search and scraping fees | 21 Morning News.\nReported by EdTech Innovation Hub: OpenAI educator workshops yield reusable AI tools | ETIH EdTech News.\nReported by Carolina Political Review: AI Breach of Australian Healthcare Website Sparks Regulation Debate.\nReported by Moomoo: Investor doubts about artificial intelligence grow as Anthropic's IPO wipes out $500 billion in market value.\nReported by 36Kr: Anthropic Unveils 4 Years Later World: Only 5% of AI Development Work Remains for Humans.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
