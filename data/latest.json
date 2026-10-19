@@ -1,99 +1,57 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T01:20:05Z",
- "hour": "2026-10-19T01:00:00Z",
+ "generated_at": "2026-10-19T02:20:03Z",
+ "hour": "2026-10-19T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Financial Street Forum Annual Meeting opens today; DeepSeek announces API web search and scraping fees | 21 Morning News",
-   "outlet": "21财经",
-   "outlet_name": "21财经",
-   "url": "https://www.21jingji.com/article/20261019/herald/48ea6bea01f789829b11d266a603bdf8.html",
+   "title": "Lenovo Korea Ltd. launches AI laptop equipped with NVIDIA RTX Spark",
+   "outlet": "파이낸셜뉴스",
+   "outlet_name": "파이낸셜뉴스",
+   "url": "https://en.fnnews.com/news/202610190904470111",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's GPT-6 scores 92% on MMLU, DeepSeek API charges 5 yuan per 1000 requests, and China reports record rail passenger volume.",
-   "published_at": "2026-10-18T23:28:00Z"
+   "summary_1line": "Lenovo launches first AI laptop with NVIDIA RTX Spark for local AI work.",
+   "published_at": "2026-10-19T00:25:53Z"
   },
   {
-   "title": "OpenAI educator workshops yield reusable AI tools | ETIH EdTech News",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/openais-educator-ai-workshops-yield-reusable-tools-but-teachers-want-more-practice",
+   "title": "California’s New Workplace AI Laws: A Practical Guide for Employers",
+   "outlet": "The National Law Review",
+   "outlet_name": "The National Law Review",
+   "url": "https://natlawreview.com/article/californias-new-workplace-ai-laws-practical-guide-employers",
    "label": "REPORTED",
-   "summary_1line": "802 educators gained reusable AI tools; 92% found them useful, 29% want more hands-on practice.",
-   "published_at": "2026-10-19T00:00:09Z"
+   "summary_1line": "California's 2026 AI employment laws mandate transparency and human oversight in workplace automation.",
+   "published_at": "2026-10-19T00:40:48Z"
   },
   {
-   "title": "AI Breach of Australian Healthcare Website Sparks Regulation Debate",
-   "outlet": "Carolina Political Review",
-   "outlet_name": "Carolina Political Review",
-   "url": "https://www.carolinapoliticalreview.org/editorial-content/2026/10/18/ai-breach-of-australian-healthcare-website-sparks-regulation-debate",
-   "label": "REPORTED",
-   "summary_1line": "AI breach of Australian Medicare sparks AI regulation debate amid global AI race.",
-   "published_at": "2026-10-18T23:07:18Z"
-  },
-  {
-   "title": "Investor doubts about artificial intelligence grow as Anthropic's IPO wipes out $500 billion in market value",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "url": "https://www.moomoo.com/hans/community/feed/investor-ai-doubts-intensify-as-anthropic-ipo-loses-us-500b-117464527863814",
-   "label": "REPORTED",
-   "summary_1line": "AI stocks crash as investors fear AI valuations after Anthropic's IPO drop.",
-   "published_at": "2026-10-18T07:00:00Z"
-  },
-  {
-   "title": "Anthropic Unveils 4 Years Later World: Only 5% of AI Development Work Remains for Humans",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KV1pGM3ZFa04yMUpsWTRRVExDd0tUZGJVVkxIZ3prOXp1UUkyaUNQUGZtckpDVTZaajdPRmtJQWlLbVhaRlBrRWlYMFUtQk55c3Nn?oc=5",
+   "title": "DeepSeek API Launches Web Search and Scraping; Apple Requires Retail Store Employees to Turn Away Walk-in Customers Without Appointments; WSBK 2026 Season Finale | Do Morning Report",
+   "outlet": "DoNews",
+   "outlet_name": "DoNews",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSeUh6Y1NOLWtfaExzV1dHc2dvOHFHMzEtOTloQW9jbmJiT3YwUVY4Zzl0Q2FIX3ZXRjFOSDNXVlBIZWlJRjFwWTFYR21RYWdlN3Vrc2dTdEgzVW5ZRXc?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-19T00:52:32Z"
+   "published_at": "2026-10-19T01:10:46Z"
+  },
+  {
+   "title": "What to Know About the Obscure Private Trust Looming Over Anthropic’s IPO",
+   "outlet": "WSJ",
+   "outlet_name": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ISFpZMnFpbzQ3NWZQZmF0ZDUyNk1wSFg2WUFZT0hiSXh6THFObUw3dUFCbzk5UVY0NjNfdXQxQWhybEQxLXNZNlB4cllkOXFMa05CZ3dmekU1dTZkSGdMczZqeXFneFFCcUxmc3d4UDczdw?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-19T01:00:00Z"
+  },
+  {
+   "title": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns",
+   "label": "CONFIRMED",
+   "summary_1line": "AI trained on Australian artists without pay; music rights group warns against weakening copyright laws.",
+   "published_at": "2026-10-19T00:57:46Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "Financial Street Forum Annual Meeting opens today; DeepSeek announces API web search and…",
-   "outlet": "21财经",
-   "outlet_name": "21财经",
-   "label": "REPORTED",
-   "url": "https://www.21jingji.com/article/20261019/herald/48ea6bea01f789829b11d266a603bdf8.html"
-  },
-  {
-   "headline": "OpenAI educator workshops yield reusable AI tools | ETIH EdTech News",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/openais-educator-ai-workshops-yield-reusable-tools-but-teachers-want-more-practice"
-  },
-  {
-   "headline": "AI Breach of Australian Healthcare Website Sparks Regulation Debate",
-   "outlet": "Carolina Political Review",
-   "outlet_name": "Carolina Political Review",
-   "label": "REPORTED",
-   "url": "https://www.carolinapoliticalreview.org/editorial-content/2026/10/18/ai-breach-of-australian-healthcare-website-sparks-regulation-debate"
-  },
-  {
-   "headline": "Investor doubts about artificial intelligence grow as Anthropic's IPO wipes out $500…",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "label": "REPORTED",
-   "url": "https://www.moomoo.com/hans/community/feed/investor-ai-doubts-intensify-as-anthropic-ipo-loses-us-500b-117464527863814"
-  },
-  {
-   "headline": "Anthropic Unveils 4 Years Later World: Only 5% of AI Development Work Remains for Humans",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KV1pGM3ZFa04yMUpsWTRRVExDd0tUZGJVVkxIZ3prOXp1UUkyaUNQUGZtckpDVTZaajdPRmtJQWlLbVhaRlBrRWlYMFUtQk55c3Nn?oc=5"
-  },
-  {
-   "headline": "Korean, Japanese, Taiwanese books targeted in Anthropic's 'Project Panama' hunt for AI…",
-   "outlet": "Korea JoongAng Daily",
-   "outlet_name": "Korea JoongAng Daily",
-   "label": "REPORTED",
-   "url": "https://www.koreajoongangdaily.com/lifestyle/korean-japanese-taiwanese-books-targeted-in-anthropics-project-panama-hunt-for-ai-training-material/12925754"
-  },
   {
    "headline": "Lenovo Korea Ltd. launches AI laptop equipped with NVIDIA RTX Spark",
    "outlet": "파이낸셜뉴스",
@@ -102,11 +60,53 @@
    "url": "https://en.fnnews.com/news/202610190904470111"
   },
   {
+   "headline": "California’s New Workplace AI Laws: A Practical Guide for Employers",
+   "outlet": "The National Law Review",
+   "outlet_name": "The National Law Review",
+   "label": "REPORTED",
+   "url": "https://natlawreview.com/article/californias-new-workplace-ai-laws-practical-guide-employers"
+  },
+  {
+   "headline": "DeepSeek API Launches Web Search and Scraping; Apple Requires Retail Store Employees to…",
+   "outlet": "DoNews",
+   "outlet_name": "DoNews",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSeUh6Y1NOLWtfaExzV1dHc2dvOHFHMzEtOTloQW9jbmJiT3YwUVY4Zzl0Q2FIX3ZXRjFOSDNXVlBIZWlJRjFwWTFYR21RYWdlN3Vrc2dTdEgzVW5ZRXc?oc=5"
+  },
+  {
+   "headline": "What to Know About the Obscure Private Trust Looming Over Anthropic’s IPO",
+   "outlet": "WSJ",
+   "outlet_name": "WSJ",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ISFpZMnFpbzQ3NWZQZmF0ZDUyNk1wSFg2WUFZT0hiSXh6THFObUw3dUFCbzk5UVY0NjNfdXQxQWhybEQxLXNZNlB4cllkOXFMa05CZ3dmekU1dTZkSGdMczZqeXFneFFCcUxmc3d4UDczdw?oc=5"
+  },
+  {
+   "headline": "Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian…",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "CONFIRMED",
+   "url": "https://www.theguardian.com/music/2026/oct/19/australia-music-global-copywright-outlier-ai-music-body-warnsns"
+  },
+  {
+   "headline": "China's DeepSeek releases new V4.1-Flash version, open model claiming to outperform some…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/"
+  },
+  {
    "headline": "DeepSeek upgrades programming model and opens search API, charging 5 yuan per thousand…",
    "outlet": "www.mrjjxw.com",
    "outlet_name": "www.mrjjxw.com",
    "label": "REPORTED",
    "url": "https://www.mrjjxw.com/articles/2026-10-19/4607945.html"
+  },
+  {
+   "headline": "After Restructuring Its PR Team, NVIDIA's Public Image Skyrockets",
+   "outlet": "tmtpost.com",
+   "outlet_name": "tmtpost.com",
+   "label": "REPORTED",
+   "url": "https://www.tmtpost.com/8171905.html"
   },
   {
    "headline": "Cursor Rules Setup: Migrate From Copilot in 12 Steps [2026]",
@@ -123,28 +123,28 @@
    "url": "https://www.itmedia.co.jp/news/article/2610/19/2000002353/"
   },
   {
-   "headline": "Eight-Dimension Audit for AI Governance: Anthropic, EU, China, UK",
-   "outlet": "sergemso.substack.com",
-   "outlet_name": "sergemso.substack.com",
+   "headline": "Mistral AI Releases Timestral: A 209M Forecasting Model Family That Outperforms Google’s…",
+   "outlet": "marktechpost.com",
+   "outlet_name": "marktechpost.com",
    "label": "REPORTED",
-   "url": "https://sergemso.substack.com/p/ai-governance-eight-dimension-audit"
+   "url": "https://www.marktechpost.com/2026/10/18/mistral-timestral-time-series-foundation-model/"
   },
   {
-   "headline": "China's DeepSeek releases new V4.1-Flash version, open model claiming to outperform some…",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
-   "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/19/2000002357/"
+   "headline": "Anthropic's Own Staff Can't Use Claude Code's 'Bypass Permissions' Mode",
+   "outlet": "runtimewire.com",
+   "outlet_name": "runtimewire.com",
+   "label": "STILL OPEN",
+   "url": "https://runtimewire.com/article/anthropic-s-own-staff-can-t-use-claude-code-s-bypass-permissions-mode-client-cod"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 7900,
+ "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 8000,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/01.mp3",
- "audio_seconds": 57.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/02.mp3",
+ "audio_seconds": 58.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by 21财经: Financial Street Forum Annual Meeting opens today; DeepSeek announces API web search and scraping fees | 21 Morning News.\nReported by EdTech Innovation Hub: OpenAI educator workshops yield reusable AI tools | ETIH EdTech News.\nReported by Carolina Political Review: AI Breach of Australian Healthcare Website Sparks Regulation Debate.\nReported by Moomoo: Investor doubts about artificial intelligence grow as Anthropic's IPO wipes out $500 billion in market value.\nReported by 36Kr: Anthropic Unveils 4 Years Later World: Only 5% of AI Development Work Remains for Humans.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by 파이낸셜뉴스: Lenovo Korea Ltd. launches AI laptop equipped with NVIDIA RTX Spark.\nReported by The National Law Review: California’s New Workplace AI Laws: A Practical Guide for Employers.\nReported by DoNews: DeepSeek API Launches Web Search and Scraping; Apple Requires Retail Store Employees to Turn Away Walk-in Customers Without Appointments; WSBK 2026 Season Finale | Do Morning Report.\nReported by WSJ: What to Know About the Obscure Private Trust Looming Over Anthropic’s IPO.\nConfirmed, per The Guardian: Kylie Minogue songs already used to train AI as tech firms ‘strong-arm’ Australian government, music body warns.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
