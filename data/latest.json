@@ -1,91 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T19:20:02Z",
- "hour": "2026-10-19T19:00:00Z",
+ "generated_at": "2026-10-19T20:20:04Z",
+ "hour": "2026-10-19T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
+   "title": "Anthropic, Musk outline dueling approaches to AI-era philanthropy",
+   "outlet": "Central Oregon Daily",
+   "outlet_name": "Central Oregon Daily",
+   "url": "https://www.centraloregondaily.com/news/consumer/anthropic-musk-outline-dueling-approaches-to-ai-era-philanthropy/article_d8ba77f8-ebc7-552b-93c2-7013bef37292.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic and Musk pledge equity to public good amid AI safety and labor concerns.",
+   "published_at": "2026-10-19T18:45:36Z"
+  },
+  {
+   "title": "Anthropic plans to allocate 5 percent of shares to a public interest fund to address external AI anxiety, valued at 320.6 billion yuan, Musk suggests \"directly distributing to the public\"",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "url": "https://finance.sina.com.cn/roll/2026-10-19/doc-inivtynk0915250.shtml",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic to donate 5% shares to public fund, with future increases tied to valuation growth.",
+   "published_at": "2026-10-19T07:11:58Z"
+  },
+  {
+   "title": "Microsoft Says AI Agents Cannot Be Trusted and Could Become Insider Security Threats",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "url": "https://cybersecuritynews.com/ai-models-as-insider-threats/",
+   "label": "CONFIRMED",
+   "summary_1line": "Microsoft warns AI agents pose insider risks and launches new agent security controls.",
+   "published_at": "2026-10-19T18:04:16Z"
+  },
+  {
+   "title": "Anthropic’s new fund comes with fine print",
+   "outlet": "Tech Brew",
+   "outlet_name": "Tech Brew",
+   "url": "https://www.techbrew.com/stories/anthropic-public-benefit-fund-workers-jobs",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic launches fund to help workers affected by AI, amid sharp drop in junior hiring.",
+   "published_at": "2026-10-19T18:09:50Z"
+  },
+  {
+   "title": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+   "outlet": "WIRED",
+   "outlet_name": "WIRED",
+   "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-19T11:21:00Z"
-  },
-  {
-   "title": "Market Chatter: Nvidia Faces AI Chip Challenge From DeepSeek, Huawei Collaboration",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "url": "https://www.moomoo.com/news/post/1001606190/market-chatter-nvidia-faces-ai-chip-challenge-from-deepseek-huawei",
-   "label": "CONFIRMED",
-   "summary_1line": "JavaScript must be enabled to use the site.",
-   "published_at": "2026-10-19T17:05:38Z"
-  },
-  {
-   "title": "Anthropic announces public benefit fund, committing 5% of shares",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjdmcGNqdThGOVdUS08xNW0zREZueFZZYWcxak5qRFhKa0lzUVBCY1BSbGtJaFUtTUhPT0dhUVAzbGI3NzJSOUk4NnpWUU5hYkFScU03Y0haTndNRG9hMjZpVFZnUGRQY291TW15aWEwajVRaDM3WGdudERpUWR2TTU4Wmp2QzRNb3FQanR5Y05OczhKaTdfcEJ3c2R3N19KbEpsWjcwakNZU3kwSnNEWjdkdw?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-19T18:06:51Z"
-  },
-  {
-   "title": "AI agents are only as good as the personal information you share. That raises privacy concerns",
-   "outlet": "The Mercury News",
-   "outlet_name": "The Mercury News",
-   "url": "https://www.mercurynews.com/2026/10/19/ai-agents-privacy-concerns/",
-   "label": "CONFIRMED",
-   "summary_1line": "Muse shared Robb's address and made a $100 pricing error, raising privacy concerns about AI agents.",
-   "published_at": "2026-10-19T08:43:00Z"
-  },
-  {
-   "title": "AI agent governance at scale: The four pillars every enterprise needs",
-   "outlet": "The Garden Island",
-   "outlet_name": "The Garden Island",
-   "url": "https://www.thegardenisland.com/syndicated/ai-agent-governance-at-scale-the-four-pillars-every-enterprise-needs",
-   "label": "CONFIRMED",
-   "summary_1line": "Redpanda proposes four pillars for safe, scalable AI agent governance in enterprises.",
-   "published_at": "2026-10-19T05:59:00Z"
+   "published_at": "2026-10-19T19:49:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "US bans DeepSeek AI from government use as tech tension with China continues",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
+   "headline": "Anthropic, Musk outline dueling approaches to AI-era philanthropy",
+   "outlet": "Central Oregon Daily",
+   "outlet_name": "Central Oregon Daily",
+   "label": "CONFIRMED",
+   "url": "https://www.centraloregondaily.com/news/consumer/anthropic-musk-outline-dueling-approaches-to-ai-era-philanthropy/article_d8ba77f8-ebc7-552b-93c2-7013bef37292.html"
+  },
+  {
+   "headline": "Anthropic plans to allocate 5 percent of shares to a public interest fund to address…",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "label": "CONFIRMED",
+   "url": "https://finance.sina.com.cn/roll/2026-10-19/doc-inivtynk0915250.shtml"
+  },
+  {
+   "headline": "Microsoft Says AI Agents Cannot Be Trusted and Could Become Insider Security Threats",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "label": "CONFIRMED",
+   "url": "https://cybersecuritynews.com/ai-models-as-insider-threats/"
+  },
+  {
+   "headline": "Anthropic’s new fund comes with fine print",
+   "outlet": "Tech Brew",
+   "outlet_name": "Tech Brew",
+   "label": "CONFIRMED",
+   "url": "https://www.techbrew.com/stories/anthropic-public-benefit-fund-workers-jobs"
+  },
+  {
+   "headline": "OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody",
+   "outlet": "WIRED",
+   "outlet_name": "WIRED",
    "label": "REPORTED",
-   "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo"
-  },
-  {
-   "headline": "Market Chatter: Nvidia Faces AI Chip Challenge From DeepSeek, Huawei Collaboration",
-   "outlet": "Moomoo",
-   "outlet_name": "Moomoo",
-   "label": "CONFIRMED",
-   "url": "https://www.moomoo.com/news/post/1001606190/market-chatter-nvidia-faces-ai-chip-challenge-from-deepseek-huawei"
-  },
-  {
-   "headline": "Anthropic announces public benefit fund, committing 5% of shares",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjdmcGNqdThGOVdUS08xNW0zREZueFZZYWcxak5qRFhKa0lzUVBCY1BSbGtJaFUtTUhPT0dhUVAzbGI3NzJSOUk4NnpWUU5hYkFScU03Y0haTndNRG9hMjZpVFZnUGRQY291TW15aWEwajVRaDM3WGdudERpUWR2TTU4Wmp2QzRNb3FQanR5Y05OczhKaTdfcEJ3c2R3N19KbEpsWjcwakNZU3kwSnNEWjdkdw?oc=5"
-  },
-  {
-   "headline": "AI agents are only as good as the personal information you share. That raises privacy…",
-   "outlet": "The Mercury News",
-   "outlet_name": "The Mercury News",
-   "label": "CONFIRMED",
-   "url": "https://www.mercurynews.com/2026/10/19/ai-agents-privacy-concerns/"
-  },
-  {
-   "headline": "AI agent governance at scale: The four pillars every enterprise needs",
-   "outlet": "The Garden Island",
-   "outlet_name": "The Garden Island",
-   "label": "CONFIRMED",
-   "url": "https://www.thegardenisland.com/syndicated/ai-agent-governance-at-scale-the-four-pillars-every-enterprise-needs"
+   "url": "https://www.wired.com/story/openai-engineer-accused-of-spying-on-executives-ordered-to-remain-in-custody/"
   },
   {
    "headline": "Super Intelligence Force Launches ‘No New Law’ Charter: AI’s Rule-Makers Govern Themselves",
@@ -109,11 +109,11 @@
    "url": "https://www.msn.com/en-us/technology/artificial-intelligence/in-california-lawsuit-says-openai-steered-minors-into-sharing-sensitive-data-to-train-its-ai/ar-AA2fB8xy"
   },
   {
-   "headline": "The EU AI Act Mandates AI Incident Reporting—If We’re Lucky",
-   "outlet": "lawfaremedia.org",
-   "outlet_name": "lawfaremedia.org",
-   "label": "STILL OPEN",
-   "url": "https://www.lawfaremedia.org/article/the-eu-ai-act-mandates-ai-incident-reporting-if-we-re-lucky"
+   "headline": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
+   "outlet": "blogs.nvidia.com",
+   "outlet_name": "blogs.nvidia.com",
+   "label": "REPORTED",
+   "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/"
   },
   {
    "headline": "Tencent Hy-Memory claims open-source benchmark lead over Claude Opus 5 on own benchmarks",
@@ -123,11 +123,11 @@
    "url": "https://www.msn.com/en-us/news/other/tencent-hy-memory-claims-open-source-benchmark-lead-over-claude-opus-5-on-own-benchmarks/ar-AA2fAsoo"
   },
   {
-   "headline": "Nvidia-Backed Double AI Debuts AI ‘Code Execution’ Models",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
-   "label": "REPORTED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-backed-double-ai-debuts-ai-code-execution-models/"
+   "headline": "Homeland Security bans DeepSeek use in federal civilian agencies",
+   "outlet": "Engadget on MSN",
+   "outlet_name": "Engadget on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/homeland-security-bans-deepseek-use-in-federal-civilian-agencies/ar-AA2fBqmq"
   },
   {
    "headline": "Senator urges FCC to reject AI robocalls from conservative group",
@@ -137,14 +137,14 @@
    "url": "https://www.msn.com/en-za/news/other/senator-urges-fcc-to-reject-ai-robocalls-from-conservative-group/ar-AA2fA3AG"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 12500,
- "articles_24h_label": "about 12,000",
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 12600,
+ "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/19.mp3",
- "audio_seconds": 29.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/20.mp3",
+ "audio_seconds": 55.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by BBC: US bans DeepSeek AI from government use as tech tension with China continues.\nConfirmed, per Moomoo: Market Chatter: Nvidia Faces AI Chip Challenge From DeepSeek, Huawei Collaboration.\nReported by CNBC: Anthropic announces public benefit fund, committing 5% of shares.\nConfirmed, per The Mercury News: AI agents are only as good as the personal information you share. That raises privacy concerns.\nConfirmed, per The Garden Island: AI agent governance at scale: The four pillars every enterprise needs.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Central Oregon Daily: Anthropic, Musk outline dueling approaches to AI-era philanthropy.\nConfirmed, per 新浪财经: Anthropic plans to allocate 5 percent of shares to a public interest fund to address external AI anxiety, valued at 320.6 billion yuan, Musk suggests \"directly distributing to the public\".\nConfirmed, per CyberSecurityNews: Microsoft Says AI Agents Cannot Be Trusted and Could Become Insider Security Threats.\nConfirmed, per Tech Brew: Anthropic’s new fund comes with fine print.\nReported by WIRED: OpenAI Engineer Accused of Spying on Executives Ordered to Remain in Custody.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
