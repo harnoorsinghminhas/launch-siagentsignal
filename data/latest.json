@@ -1,80 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T18:20:03Z",
- "hour": "2026-10-19T18:00:00Z",
+ "generated_at": "2026-10-19T19:20:02Z",
+ "hour": "2026-10-19T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic is AI trade's last big hope for a major IPO this year",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI rules out 2026 IPO; Anthropic now most likely to go public amid AI revenue concerns.",
-   "published_at": "2026-10-19T08:25:00Z"
-  },
-  {
-   "title": "Anthropic’s weak AI bill undermines its ‘safety first’ approach",
-   "outlet": "Transformer | Substack",
-   "outlet_name": "Transformer | Substack",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDJHQ3pVRlNwcjVhd01pSzUyWTNSM2VvbDZMYm9JTGRlbEpuT0VLYmJHQjN5bFJfVDY5b2dBSjloRVZCc3ZkQ2JySXlES3cybGd6OE53VHhtbmlmb1M0R3ctYm4zY3M0MHNUWWt2QkN0TTBRUkFWLU5BQy1GNzZsbUg0YzlrSmoyNGYyQnh3SEt0Q3JZ?oc=5",
+   "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-19T16:47:52Z"
+   "published_at": "2026-10-19T11:21:00Z"
   },
   {
-   "title": "Ming-3.0-audio-flash vs Qwen-Audio-3.1: Download or Call",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "url": "https://www.orcarouter.ai/blog/ming-3-0-audio-flash-vs-qwen-audio-3-1",
+   "title": "Market Chatter: Nvidia Faces AI Chip Challenge From DeepSeek, Huawei Collaboration",
+   "outlet": "Moomoo",
+   "outlet_name": "Moomoo",
+   "url": "https://www.moomoo.com/news/post/1001606190/market-chatter-nvidia-faces-ai-chip-challenge-from-deepseek-huawei",
+   "label": "CONFIRMED",
+   "summary_1line": "JavaScript must be enabled to use the site.",
+   "published_at": "2026-10-19T17:05:38Z"
+  },
+  {
+   "title": "Anthropic announces public benefit fund, committing 5% of shares",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjdmcGNqdThGOVdUS08xNW0zREZueFZZYWcxak5qRFhKa0lzUVBCY1BSbGtJaFUtTUhPT0dhUVAzbGI3NzJSOUk4NnpWUU5hYkFScU03Y0haTndNRG9hMjZpVFZnUGRQY291TW15aWEwajVRaDM3WGdudERpUWR2TTU4Wmp2QzRNb3FQanR5Y05OczhKaTdfcEJ3c2R3N19KbEpsWjcwakNZU3kwSnNEWjdkdw?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Ming-3.0-audio-flash and Qwen-Audio-3.1 differ in model structure and availability, with no shared benchmarks.",
-   "published_at": "2026-10-19T16:29:03Z"
+   "summary_1line": null,
+   "published_at": "2026-10-19T18:06:51Z"
+  },
+  {
+   "title": "AI agents are only as good as the personal information you share. That raises privacy concerns",
+   "outlet": "The Mercury News",
+   "outlet_name": "The Mercury News",
+   "url": "https://www.mercurynews.com/2026/10/19/ai-agents-privacy-concerns/",
+   "label": "CONFIRMED",
+   "summary_1line": "Muse shared Robb's address and made a $100 pricing error, raising privacy concerns about AI agents.",
+   "published_at": "2026-10-19T08:43:00Z"
+  },
+  {
+   "title": "AI agent governance at scale: The four pillars every enterprise needs",
+   "outlet": "The Garden Island",
+   "outlet_name": "The Garden Island",
+   "url": "https://www.thegardenisland.com/syndicated/ai-agent-governance-at-scale-the-four-pillars-every-enterprise-needs",
+   "label": "CONFIRMED",
+   "summary_1line": "Redpanda proposes four pillars for safe, scalable AI agent governance in enterprises.",
+   "published_at": "2026-10-19T05:59:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic is AI trade's last big hope for a major IPO this year",
+   "headline": "US bans DeepSeek AI from government use as tech tension with China continues",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "label": "REPORTED",
+   "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo"
+  },
+  {
+   "headline": "Market Chatter: Nvidia Faces AI Chip Challenge From DeepSeek, Huawei Collaboration",
+   "outlet": "Moomoo",
+   "outlet_name": "Moomoo",
+   "label": "CONFIRMED",
+   "url": "https://www.moomoo.com/news/post/1001606190/market-chatter-nvidia-faces-ai-chip-challenge-from-deepseek-huawei"
+  },
+  {
+   "headline": "Anthropic announces public benefit fund, committing 5% of shares",
    "outlet": "CNBC",
    "outlet_name": "CNBC",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjdmcGNqdThGOVdUS08xNW0zREZueFZZYWcxak5qRFhKa0lzUVBCY1BSbGtJaFUtTUhPT0dhUVAzbGI3NzJSOUk4NnpWUU5hYkFScU03Y0haTndNRG9hMjZpVFZnUGRQY291TW15aWEwajVRaDM3WGdudERpUWR2TTU4Wmp2QzRNb3FQanR5Y05OczhKaTdfcEJ3c2R3N19KbEpsWjcwakNZU3kwSnNEWjdkdw?oc=5"
+  },
+  {
+   "headline": "AI agents are only as good as the personal information you share. That raises privacy…",
+   "outlet": "The Mercury News",
+   "outlet_name": "The Mercury News",
+   "label": "CONFIRMED",
+   "url": "https://www.mercurynews.com/2026/10/19/ai-agents-privacy-concerns/"
+  },
+  {
+   "headline": "AI agent governance at scale: The four pillars every enterprise needs",
+   "outlet": "The Garden Island",
+   "outlet_name": "The Garden Island",
+   "label": "CONFIRMED",
+   "url": "https://www.thegardenisland.com/syndicated/ai-agent-governance-at-scale-the-four-pillars-every-enterprise-needs"
+  },
+  {
+   "headline": "Super Intelligence Force Launches ‘No New Law’ Charter: AI’s Rule-Makers Govern Themselves",
+   "outlet": "techtimes",
+   "outlet_name": "techtimes",
+   "label": "CONFIRMED",
+   "url": "https://www.techtimes.com/articles/329198/20261019/super-intelligence-force-launches-no-new-law-charter-ais-rule-makers-govern-themselves.htm"
+  },
+  {
+   "headline": "Cognizant and Google Cloud Launch Gemini Frontier Capability Group",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/cognizant-and-google-cloud-launch-gemini-frontier-capability-group/"
+  },
+  {
+   "headline": "In California, lawsuit says OpenAI steered minors into sharing sensitive data to train…",
+   "outlet": "The Cool Down on MSN",
+   "outlet_name": "The Cool Down on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/in-california-lawsuit-says-openai-steered-minors-into-sharing-sensitive-data-to-train-its-ai/ar-AA2fB8xy"
+  },
+  {
+   "headline": "The EU AI Act Mandates AI Incident Reporting—If We’re Lucky",
+   "outlet": "lawfaremedia.org",
+   "outlet_name": "lawfaremedia.org",
    "label": "STILL OPEN",
-   "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html"
+   "url": "https://www.lawfaremedia.org/article/the-eu-ai-act-mandates-ai-incident-reporting-if-we-re-lucky"
   },
   {
-   "headline": "Anthropic’s weak AI bill undermines its ‘safety first’ approach",
-   "outlet": "Transformer | Substack",
-   "outlet_name": "Transformer | Substack",
+   "headline": "Tencent Hy-Memory claims open-source benchmark lead over Claude Opus 5 on own benchmarks",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDJHQ3pVRlNwcjVhd01pSzUyWTNSM2VvbDZMYm9JTGRlbEpuT0VLYmJHQjN5bFJfVDY5b2dBSjloRVZCc3ZkQ2JySXlES3cybGd6OE53VHhtbmlmb1M0R3ctYm4zY3M0MHNUWWt2QkN0TTBRUkFWLU5BQy1GNzZsbUg0YzlrSmoyNGYyQnh3SEt0Q3JZ?oc=5"
-  },
-  {
-   "headline": "Ming-3.0-audio-flash vs Qwen-Audio-3.1: Download or Call",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "label": "REPORTED",
-   "url": "https://www.orcarouter.ai/blog/ming-3-0-audio-flash-vs-qwen-audio-3-1"
-  },
-  {
-   "headline": "4 tips for styling outfits with Gemini",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/"
-  },
-  {
-   "headline": "News publishers launch copyright suit against AI company Anthropic in Ontario",
-   "outlet": "The Canadian Press on MSN",
-   "outlet_name": "The Canadian Press on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-ca/news/other/news-publishers-launch-copyright-suit-against-ai-company-anthropic-in-ontario/ar-AA2fAkeM"
-  },
-  {
-   "headline": "Uncut: Open-source video editor where Claude Code edits the timeline",
-   "outlet": "uncut.video",
-   "outlet_name": "uncut.video",
-   "label": "REPORTED",
-   "url": "https://uncut.video/"
+   "url": "https://www.msn.com/en-us/news/other/tencent-hy-memory-claims-open-source-benchmark-lead-over-claude-opus-5-on-own-benchmarks/ar-AA2fAsoo"
   },
   {
    "headline": "Nvidia-Backed Double AI Debuts AI ‘Code Execution’ Models",
@@ -84,49 +130,21 @@
    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-backed-double-ai-debuts-ai-code-execution-models/"
   },
   {
-   "headline": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less…",
-   "outlet": "engineering.fb.com",
-   "outlet_name": "engineering.fb.com",
+   "headline": "Senator urges FCC to reject AI robocalls from conservative group",
+   "outlet": "The Independent on MSN",
+   "outlet_name": "The Independent on MSN",
    "label": "CONFIRMED",
-   "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/"
-  },
-  {
-   "headline": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
-   "outlet": "developer.nvidia.com",
-   "outlet_name": "developer.nvidia.com",
-   "label": "REPORTED",
-   "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/"
-  },
-  {
-   "headline": "Why Anthropic replaced Git, and whether you’ll need to",
-   "outlet": "arize.com",
-   "outlet_name": "arize.com",
-   "label": "REPORTED",
-   "url": "https://arize.com/blog/anthropic-scion-vs-git/"
-  },
-  {
-   "headline": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock | Artificial Intelligence",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
-   "label": "REPORTED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/"
-  },
-  {
-   "headline": "Anthropic Secretly Lobbying Government to Only Shut Down an AI Model If It’s Poised to…",
-   "outlet": "futurism.com",
-   "outlet_name": "futurism.com",
-   "label": "REPORTED",
-   "url": "https://futurism.com/artificial-intelligence/anthropic-regulation-government-ai-harm-risk"
+   "url": "https://www.msn.com/en-za/news/other/senator-urges-fcc-to-reject-ai-robocalls-from-conservative-group/ar-AA2fA3AG"
   }
  ],
- "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12200,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 12500,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/18.mp3",
- "audio_seconds": 35.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/19.mp3",
+ "audio_seconds": 29.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per CNBC: Anthropic is AI trade's last big hope for a major IPO this year.\nReported by Transformer | Substack: Anthropic’s weak AI bill undermines its ‘safety first’ approach.\nReported by OrcaRouter: Ming-3.0-audio-flash vs Qwen-Audio-3.1: Download or Call.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by BBC: US bans DeepSeek AI from government use as tech tension with China continues.\nConfirmed, per Moomoo: Market Chatter: Nvidia Faces AI Chip Challenge From DeepSeek, Huawei Collaboration.\nReported by CNBC: Anthropic announces public benefit fund, committing 5% of shares.\nConfirmed, per The Mercury News: AI agents are only as good as the personal information you share. That raises privacy concerns.\nConfirmed, per The Garden Island: AI agent governance at scale: The four pillars every enterprise needs.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
