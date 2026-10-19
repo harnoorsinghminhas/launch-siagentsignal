@@ -1,91 +1,63 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T22:20:03Z",
- "hour": "2026-10-19T22:00:00Z",
+ "generated_at": "2026-10-19T23:20:04Z",
+ "hour": "2026-10-19T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "US Court Orders Fired Saudi Engineer To Remain In Custody In OpenAI Case",
-   "outlet": "NDTV",
-   "outlet_name": "NDTV",
-   "url": "https://www.ndtv.com/world-news/us-court-orders-fired-saudi-engineer-to-remain-in-custody-in-openai-case-12208529",
+   "title": "Trump Admin Bans DeepSeek From Federal Agencies",
+   "outlet": "Gizmodo",
+   "outlet_name": "Gizmodo",
+   "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
+   "label": "CONFIRMED",
+   "summary_1line": "U.S. bans DeepSeek AI over data risks and alleged distillation practices.",
+   "published_at": "2026-10-19T21:41:06Z"
+  },
+  {
+   "title": "Tech: OpenAI inches toward ‘Frontier’ bill",
+   "outlet": "Punchbowl News",
+   "outlet_name": "Punchbowl News",
+   "url": "https://punchbowl.news/article/tech/openai-lehane-frontier-bill/",
    "label": "REPORTED",
-   "summary_1line": "Former OpenAI employee jailed in US over alleged device planting in office.",
-   "published_at": "2026-10-19T20:33:52Z"
+   "summary_1line": "OpenAI backs AI kill switch bill as rivals face criticism over weak safety proposals.",
+   "published_at": "2026-10-19T20:32:20Z"
   },
   {
-   "title": "Amazon Launches TorchNeuron to Challenge Nvidia's AI Grip",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "url": "https://www.techbuzz.ai/articles/amazon-launches-torchneuron-to-challenge-nvidia-s-ai-grip",
-   "label": "REPORTED",
-   "summary_1line": "Amazon launches TorchNeuron to challenge Nvidia's AI chip dominance with seamless PyTorch migration.",
-   "published_at": "2026-10-19T20:37:00Z"
+   "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
+   "label": "CONFIRMED",
+   "summary_1line": "US denies release of former OpenAI engineer accused of spying for Saudi Arabia.",
+   "published_at": "2026-10-19T20:21:53Z"
   },
   {
-   "title": "Fired OpenAI engineer accused of bugging office won't be released from jail",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/judge-detains-fired-openai-engineer-abdulrahman-alfozan-concerns-saudi-arabia-2026-10",
-   "label": "REPORTED",
-   "summary_1line": "Former OpenAI engineer accused of bugging office denied release, will defend from jail.",
-   "published_at": "2026-10-19T20:05:58Z"
+   "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+   "label": "CONFIRMED",
+   "summary_1line": "Microsoft launches Guardian Agents to monitor AI agents, urging enterprises to separate AI supply from control.",
+   "published_at": "2026-10-19T22:04:28Z"
   },
   {
-   "title": "Anthropic, Nscale in talks for new $45 billion AI cloud computing deal, Bloomberg News reports",
-   "outlet": "Central Oregon Daily",
-   "outlet_name": "Central Oregon Daily",
-   "url": "https://www.centraloregondaily.com/news/consumer/anthropic-nscale-in-talks-for-new-45-billion-ai-cloud-computing-deal-bloomberg-news-reports/article_fd29ef7e-890d-59f1-897a-34d163bb0608.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Nscale in talks to sell $45B AI computing power to Anthropic, with 460MW from Nvidia chips.",
-   "published_at": "2026-10-19T20:44:37Z"
-  },
-  {
-   "title": "Arkansas attorney general’s lawsuit claims company behind ChatGPT misled users about its safety",
-   "outlet": "Magnolia Banner News",
-   "outlet_name": "Magnolia Banner News",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXR1LV9MZWFZY2FIbVRBNEFSdElpekVFVmhNZ0VYR2JFMkdkRjRuVkxoMDh0TnloOXYxNHh6NUZRNjNJckNuYXFpbGtSa2s5UXNBZUNIempJb3NjRVV0dWczN0RjTkNjbUwwaFRUeU5kQUQyUkFFcUVmTzlaUnF0ZGQzVlBTM0Ezd21NSUo0V1Q1dUNmODVDUm5tb3kwVWJhSmM3dg?oc=5",
+   "title": "AI & Tech Brief: Anthropic’s leaked bill",
+   "outlet": "The Washington Post",
+   "outlet_name": "The Washington Post",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3ZSeFlQcXJNaWYwT0RBeGN4WVhTWjRma2FRdHhzSlFRNmFZRnNOYzBSbDd3eE95ZFNqTkx1OEV0dkFXTXJCWFZsSEV4NHlLTjE4eU5rVDdzN0pfMnNWcFNmWk5jb0xnWHFyRUFZc1lsUFVUa2x6LVFjb214Ul9zU0dvQkh5emJZRWozVVFqNXU5SWN4dzBuZWc5Rm9JYURtMEV2ZE5qTzhDQ1Jlemc?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-19T21:00:00Z"
+   "published_at": "2026-10-19T22:59:45Z"
   }
  ],
  "ticker": [
   {
-   "headline": "US Court Orders Fired Saudi Engineer To Remain In Custody In OpenAI Case",
-   "outlet": "NDTV",
-   "outlet_name": "NDTV",
-   "label": "REPORTED",
-   "url": "https://www.ndtv.com/world-news/us-court-orders-fired-saudi-engineer-to-remain-in-custody-in-openai-case-12208529"
-  },
-  {
-   "headline": "Amazon Launches TorchNeuron to Challenge Nvidia's AI Grip",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "label": "REPORTED",
-   "url": "https://www.techbuzz.ai/articles/amazon-launches-torchneuron-to-challenge-nvidia-s-ai-grip"
-  },
-  {
-   "headline": "Fired OpenAI engineer accused of bugging office won't be released from jail",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://www.businessinsider.com/judge-detains-fired-openai-engineer-abdulrahman-alfozan-concerns-saudi-arabia-2026-10"
-  },
-  {
-   "headline": "Anthropic, Nscale in talks for new $45 billion AI cloud computing deal, Bloomberg News…",
-   "outlet": "Central Oregon Daily",
-   "outlet_name": "Central Oregon Daily",
-   "label": "STILL OPEN",
-   "url": "https://www.centraloregondaily.com/news/consumer/anthropic-nscale-in-talks-for-new-45-billion-ai-cloud-computing-deal-bloomberg-news-reports/article_fd29ef7e-890d-59f1-897a-34d163bb0608.html"
-  },
-  {
-   "headline": "Arkansas attorney general’s lawsuit claims company behind ChatGPT misled users about its…",
-   "outlet": "Magnolia Banner News",
-   "outlet_name": "Magnolia Banner News",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLXR1LV9MZWFZY2FIbVRBNEFSdElpekVFVmhNZ0VYR2JFMkdkRjRuVkxoMDh0TnloOXYxNHh6NUZRNjNJckNuYXFpbGtSa2s5UXNBZUNIempJb3NjRVV0dWczN0RjTkNjbUwwaFRUeU5kQUQyUkFFcUVmTzlaUnF0ZGQzVlBTM0Ezd21NSUo0V1Q1dUNmODVDUm5tb3kwVWJhSmM3dg?oc=5"
+   "headline": "Trump Admin Bans DeepSeek From Federal Agencies",
+   "outlet": "Gizmodo",
+   "outlet_name": "Gizmodo",
+   "label": "CONFIRMED",
+   "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670"
   },
   {
    "headline": "Tech: OpenAI inches toward ‘Frontier’ bill",
@@ -95,18 +67,46 @@
    "url": "https://punchbowl.news/article/tech/openai-lehane-frontier-bill/"
   },
   {
-   "headline": "Gemini 4: Vier Autonome KI-Agenten be­sie­gen Minecraft in 27 Stun­den",
-   "outlet": "ComputerBase",
-   "outlet_name": "ComputerBase",
-   "label": "REPORTED",
-   "url": "https://www.computerbase.de/news/apps/gemini-4-vier-autonome-ki-agenten-besiegen-minecraft-in-27-stunden.99895/"
+   "headline": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "label": "CONFIRMED",
+   "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
   },
   {
-   "headline": "Germany Wants to Lead the World in Industrial AI: How NVIDIA Will Help",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
+   "headline": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/germany-wants-to-lead-the-world-in-industrial-ai-how-nvidia-will-help/"
+   "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+  },
+  {
+   "headline": "AI & Tech Brief: Anthropic’s leaked bill",
+   "outlet": "The Washington Post",
+   "outlet_name": "The Washington Post",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3ZSeFlQcXJNaWYwT0RBeGN4WVhTWjRma2FRdHhzSlFRNmFZRnNOYzBSbDd3eE95ZFNqTkx1OEV0dkFXTXJCWFZsSEV4NHlLTjE4eU5rVDdzN0pfMnNWcFNmWk5jb0xnWHFyRUFZc1lsUFVUa2x6LVFjb214Ul9zU0dvQkh5emJZRWozVVFqNXU5SWN4dzBuZWc5Rm9JYURtMEV2ZE5qTzhDQ1Jlemc?oc=5"
+  },
+  {
+   "headline": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won’t replace…",
+   "outlet": "Orange County Register",
+   "outlet_name": "Orange County Register",
+   "label": "CONFIRMED",
+   "url": "https://www.ocregister.com/2026/10/19/germany-nvidia/"
+  },
+  {
+   "headline": "Open AI trades lawsuit puts spotlight on competitor hiring",
+   "outlet": "Canadian HR Reporter",
+   "outlet_name": "Canadian HR Reporter",
+   "label": "REPORTED",
+   "url": "https://www.hrreporter.com/news/hr-news/open-ai-trades-lawsuit-puts-spotlight-on-competitor-hiring/395040"
+  },
+  {
+   "headline": "ChatGPT’s 'five things I always say' trend offers a peek inside your chats",
+   "outlet": "Mashable SEA",
+   "outlet_name": "Mashable SEA",
+   "label": "REPORTED",
+   "url": "https://sea.mashable.com/tech/56137/chatgpts-five-things-i-always-say-trend-offers-a-peek-inside-your-chats"
   },
   {
    "headline": "DeepSeek barred from government agency IT systems",
@@ -123,28 +123,28 @@
    "url": "https://openai.com/rosalind/"
   },
   {
+   "headline": "Google is giving you more creative control over Gemini Notebook’s video overviews and…",
+   "outlet": "androidauthority.com",
+   "outlet_name": "androidauthority.com",
+   "label": "REPORTED",
+   "url": "https://www.androidauthority.com/gemini-notebook-co-creation-video-and-slides-3725277/"
+  },
+  {
    "headline": "Legal Ethics Roundup: Who Gets To Call Themselves A Lawyer?, Judge Pulls Gun In Court…",
    "outlet": "abovethelaw.com",
    "outlet_name": "abovethelaw.com",
    "label": "REPORTED",
    "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-who-gets-to-call-themselves-a-lawyer-judge-pulls-gun-in-court-law-firms-that-capitulated-prosecutorial-misconduct-aba-dq-bid-rejected-ai-a2j-more/"
-  },
-  {
-   "headline": "Trump Administration Plans to Ban DeepSeek From Most Federal Agencies",
-   "outlet": "www.washingtonsun.com",
-   "outlet_name": "www.washingtonsun.com",
-   "label": "REPORTED",
-   "url": "https://www.washingtonsun.com/agencies/deepseek-banned-china-dhs"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 13000,
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "articles_24h_rounded": 13200,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/22.mp3",
- "audio_seconds": 58.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/23.mp3",
+ "audio_seconds": 63.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA former OpenAI employee has been ordered to remain in custody by a US court. Reported by NDTV: the engineer faces allegations of planting a device in the office.\nAmazon has launched TorchNeuron to challenge Nvidia's dominance in artificial intelligence chips. Reported by The Tech Buzz: the new chip enables seamless PyTorch migration.\nThe fired OpenAI engineer accused of bugging the office has been denied release from jail. Reported by Business Insider: he will defend himself from custody.\nNscale is in talks to sell 460MW of computing power from Nvidia chips to Anthropic. Still open, per Central Oregon Daily: the deal is valued at $45 billion for artificial intelligence cloud computing.\nArkansas's attorney general has filed a lawsuit claiming the company behind ChatGPT misled users about its safety. Reported by Magnolia Banner News: the legal action targets the chatbot maker's claims.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe Trump administration has banned DeepSeek from federal agencies, confirmed by Gizmodo, citing data risks and alleged distillation practices.\nOpenAI is inching toward a Frontier bill and backing an artificial intelligence kill switch, reported by Punchbowl News, as rivals face criticism over weak safety proposals.\nAn accused OpenAI engineer had a folder called Saudi Gov Docs, the FBI says, confirmed by Ars Technica, though the US denies releasing details about the alleged spy.\nMicrosoft has launched Guardian Agents to monitor artificial intelligence agents, confirmed by TechCrunch, warning that frontier models can't be trusted and urging enterprises to separate artificial intelligence supply from control.\nThe Washington Post reported on artificial intelligence and technology, including an update on Anthropic's leaked bill.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
