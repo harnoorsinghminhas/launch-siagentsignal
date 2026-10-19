@@ -1,91 +1,68 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T08:20:02Z",
- "hour": "2026-10-19T08:00:00Z",
+ "generated_at": "2026-10-19T09:20:03Z",
+ "hour": "2026-10-19T09:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek launches Search, Fetch APIs at $0.75 per 1,000 successful requests",
-   "outlet": "DigitalToday",
-   "outlet_name": "DigitalToday",
-   "url": "https://www.digitaltoday.co.kr/en/view/116485/deepseek-launches-search-fetch-apis-at-0-75-per-1-000-successful-requests",
-   "label": "CONFIRMED",
-   "summary_1line": "DeepSeek launches search and document APIs for developers at $0.75 per 1K requests.",
-   "published_at": "2026-10-18T18:21:00Z"
+   "title": "Anthropic’s AI Worm Warning Lands Three Weeks Before HomeView Ships — The Smart Home Security Model Isn’t Ready",
+   "outlet": "CryptoRank",
+   "outlet_name": "CryptoRank",
+   "url": "https://cryptorank.io/news/feed/749a5-anthropics-ai-worm-warning-lands-three-weeks-before-homeview-ships-the-smart-home-security-model-isnt-ready",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic shows AI can replicate across smart devices without root access, raising smart home security alarms.",
+   "published_at": "2026-10-19T04:37:45Z"
   },
   {
-   "title": "To address AI risks, Anthropic opens employee-like access to external AI oversight bodies",
+   "title": "SA-founded clinical AI startup Healthleap raises $38m seed, Series A funding -",
+   "outlet": "- Disrupt Africa",
+   "outlet_name": "- Disrupt Africa",
+   "url": "https://disruptafrica.com/2026/10/19/sa-founded-clinical-ai-startup-healthleap-raises-38m-seed-series-a-funding/",
+   "label": "CONFIRMED",
+   "summary_1line": "Healthleap raises $38M to expand AI screening for undiagnosed hospital conditions.",
+   "published_at": "2026-10-19T06:00:48Z"
+  },
+  {
+   "title": "Former Federal Reserve Vice Chair: How the interaction between AI technology and the labor market affects Federal Reserve policy",
    "outlet": "新浪财经",
    "outlet_name": "新浪财经",
-   "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivtpwv6964588.shtml",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic grants external evaluators access to assess AI risks, citing public accountability and safety.",
-   "published_at": "2026-10-19T03:28:00Z"
+   "url": "https://finance.sina.com.cn/roll/2026-10-19/doc-inivtynk0835575.shtml",
+   "label": "REPORTED",
+   "summary_1line": "FED hikes rates in 2026 amid AI-driven demand and energy supply shocks.",
+   "published_at": "2026-10-19T07:13:57Z"
   },
   {
-   "title": "Microsoft Copilot Legal: A Bombshell That Could Redefine Law Itself",
-   "outlet": "The Tech Edvocate",
-   "outlet_name": "The Tech Edvocate",
-   "url": "https://www.thetechedvocate.org/microsoft-copilot-legal-a-bombshell-that-could-redefine-law-itself/",
+   "title": "AI for national security can co-exist with Australia’s current copyright laws",
+   "outlet": "Strategic Analysis Australia",
+   "outlet_name": "Strategic Analysis Australia",
+   "url": "https://strategicanalysis.org/ai-for-national-security-can-co-exist-with-australias-current-copyright-laws/",
    "label": "REPORTED",
-   "summary_1line": "Microsoft launches Copilot for Legal with 20+ AI skills, joining a competitive AI legal race.",
-   "published_at": "2026-10-18T16:59:00Z"
-  },
-  {
-   "title": "Anthropic pitches Congress its own frontier-AI bill: models could only be halted above 50 deaths or $1B in damage",
-   "outlet": "Dealroom",
-   "outlet_name": "Dealroom",
-   "url": "https://app.dealroom.co/news/note/anthropic-pitches-congress-its-own-frontier-ai-bill-models-could-only-be-halted-above-50-deaths-or-1b-in-damage",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-19T07:53:42Z"
-  },
-  {
-   "title": "Nvidia weighting fixed at 25%... Hana Asset Management lists US AI semiconductor ETF",
-   "outlet": "파이낸셜뉴스",
-   "outlet_name": "파이낸셜뉴스",
-   "url": "https://www.fnnews.com/news/202610191547194257",
-   "label": "REPORTED",
-   "summary_1line": "하나자산운용 출시, 엔비디아 25% 포함 AI 반도체 ETF",
-   "published_at": "2026-10-19T06:50:37Z"
+   "summary_1line": "SAA report finds AI training doesn't need copyright law changes for national security.",
+   "published_at": "2026-10-19T06:27:52Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek launches Search, Fetch APIs at $0.75 per 1,000 successful requests",
-   "outlet": "DigitalToday",
-   "outlet_name": "DigitalToday",
-   "label": "CONFIRMED",
-   "url": "https://www.digitaltoday.co.kr/en/view/116485/deepseek-launches-search-fetch-apis-at-0-75-per-1-000-successful-requests"
+   "headline": "Anthropic’s AI Worm Warning Lands Three Weeks Before HomeView Ships — The Smart Home…",
+   "outlet": "CryptoRank",
+   "outlet_name": "CryptoRank",
+   "label": "REPORTED",
+   "url": "https://cryptorank.io/news/feed/749a5-anthropics-ai-worm-warning-lands-three-weeks-before-homeview-ships-the-smart-home-security-model-isnt-ready"
   },
   {
-   "headline": "To address AI risks, Anthropic opens employee-like access to external AI oversight bodies",
+   "headline": "SA-founded clinical AI startup Healthleap raises $38m seed, Series A funding -",
+   "outlet": "- Disrupt Africa",
+   "outlet_name": "- Disrupt Africa",
+   "label": "CONFIRMED",
+   "url": "https://disruptafrica.com/2026/10/19/sa-founded-clinical-ai-startup-healthleap-raises-38m-seed-series-a-funding/"
+  },
+  {
+   "headline": "Former Federal Reserve Vice Chair: How the interaction between AI technology and the…",
    "outlet": "新浪财经",
    "outlet_name": "新浪财经",
-   "label": "CONFIRMED",
-   "url": "https://finance.sina.com.cn/tech/roll/2026-10-19/doc-inivtpwv6964588.shtml"
-  },
-  {
-   "headline": "Microsoft Copilot Legal: A Bombshell That Could Redefine Law Itself",
-   "outlet": "The Tech Edvocate",
-   "outlet_name": "The Tech Edvocate",
    "label": "REPORTED",
-   "url": "https://www.thetechedvocate.org/microsoft-copilot-legal-a-bombshell-that-could-redefine-law-itself/"
-  },
-  {
-   "headline": "Anthropic pitches Congress its own frontier-AI bill: models could only be halted above 50…",
-   "outlet": "Dealroom",
-   "outlet_name": "Dealroom",
-   "label": "REPORTED",
-   "url": "https://app.dealroom.co/news/note/anthropic-pitches-congress-its-own-frontier-ai-bill-models-could-only-be-halted-above-50-deaths-or-1b-in-damage"
-  },
-  {
-   "headline": "Nvidia weighting fixed at 25%... Hana Asset Management lists US AI semiconductor ETF",
-   "outlet": "파이낸셜뉴스",
-   "outlet_name": "파이낸셜뉴스",
-   "label": "REPORTED",
-   "url": "https://www.fnnews.com/news/202610191547194257"
+   "url": "https://finance.sina.com.cn/roll/2026-10-19/doc-inivtynk0835575.shtml"
   },
   {
    "headline": "AI for national security can co-exist with Australia’s current copyright laws",
@@ -99,14 +76,14 @@
    "outlet": "Malay Mail on MSN",
    "outlet_name": "Malay Mail on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-my/technology/artificial-intelligence/faster-and-leaner-deepseek-rolls-out-upgraded-ai-model-after-recent-service-disruptions/ar-AA2fxSsW"
+   "url": "https://www.msn.com/en-my/travel/news/faster-and-leaner-deepseek-rolls-out-upgraded-ai-model-after-recent-service-disruptions/ar-AA2fxSsW"
   },
   {
-   "headline": "DeepSeek releases V4.1 Flash-1017 with stronger coding and agent capabilities",
+   "headline": "DeepSeek launches web search and page-fetching APIs for AI agents",
    "outlet": "technode.com",
    "outlet_name": "technode.com",
    "label": "REPORTED",
-   "url": "https://technode.com/2026/10/19/deepseek-releases-v4-1-flash-1017-with-stronger-coding-and-agent-capabilities/"
+   "url": "https://technode.com/2026/10/19/deepseek-launches-web-search-and-page-fetching-apis-for-ai-agents/"
   },
   {
    "headline": "Alibaba mandates Qwen work for Taobao merchants; China's intelligence law claims all…",
@@ -116,11 +93,25 @@
    "url": "https://www.msn.com/en-us/news/other/alibaba-mandates-qwen-work-for-taobao-merchants-chinas-intelligence-law-claims-all-business-data/ar-AA2fyKy1"
   },
   {
-   "headline": "Replit picks OpenAI over Anthropic as primary AI provider, says ChatGPT is better now",
-   "outlet": "India Today on MSN",
-   "outlet_name": "India Today on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/replit-picks-openai-over-anthropic-as-primary-ai-provider-says-chatgpt-is-better-now/ar-AA2fyaiX"
+   "headline": "Anthropic Pulls Out 320.8 Billion, Is This 'Paying the Bill' for the AI Annihilation…",
+   "outlet": "tmtpost.com",
+   "outlet_name": "tmtpost.com",
+   "label": "REPORTED",
+   "url": "https://www.tmtpost.com/8173454.html"
+  },
+  {
+   "headline": "Anthropic Acquires Confidential AI Startup Opaque Systems",
+   "outlet": "securityweek.com",
+   "outlet_name": "securityweek.com",
+   "label": "REPORTED",
+   "url": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/"
+  },
+  {
+   "headline": "Mistral-Chef Mensch: Europa muss eigene Frontier-KI bauen",
+   "outlet": "it-daily.net",
+   "outlet_name": "it-daily.net",
+   "label": "REPORTED",
+   "url": "https://www.it-daily.net/shortnews/mistral-chef-frontier-ki"
   },
   {
    "headline": "Microsoft lanzó equipos con Nvidia",
@@ -137,14 +128,14 @@
    "url": "https://ogunhaber.com/teknoloji/openai-ve-anthropic-olasi-yapay-zeka-felaketine-hazirlaniyor-3002984h.html"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 9700,
+ "tidbit": "Did you know… about 10,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 9900,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/08.mp3",
- "audio_seconds": 45.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/09.mp3",
+ "audio_seconds": 45.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per DigitalToday: DeepSeek launches Search, Fetch APIs at $0.75 per 1,000 successful requests.\nConfirmed, per 新浪财经: To address AI risks, Anthropic opens employee-like access to external AI oversight bodies.\nReported by The Tech Edvocate: Microsoft Copilot Legal: A Bombshell That Could Redefine Law Itself.\nReported by Dealroom: Anthropic pitches Congress its own frontier-AI bill: models could only be halted above 50 deaths or $1B in damage.\nReported by 파이낸셜뉴스: Nvidia weighting fixed at 25%... Hana Asset Management lists US AI semiconductor ETF.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CryptoRank: Anthropic’s AI Worm Warning Lands Three Weeks Before HomeView Ships — The Smart Home Security Model Isn’t Ready.\nConfirmed, per - Disrupt Africa: SA-founded clinical AI startup Healthleap raises $38m seed, Series A funding -.\nReported by 新浪财经: Former Federal Reserve Vice Chair: How the interaction between AI technology and the labor market affects Federal Reserve policy.\nReported by Strategic Analysis Australia: AI for national security can co-exist with Australia’s current copyright laws.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
