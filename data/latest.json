@@ -1,92 +1,39 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T17:20:02Z",
- "hour": "2026-10-19T17:00:00Z",
+ "generated_at": "2026-10-19T18:20:03Z",
+ "hour": "2026-10-19T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "US civilian agencies can’t use DeepSeek, DHS says.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013773/us-civilian-agencies-cant-use-deepseek-dhs-says",
+   "title": "Anthropic is AI trade's last big hope for a major IPO this year",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/19/anthropic-ipo-ai-trade.html",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI rules out 2026 IPO; Anthropic now most likely to go public amid AI revenue concerns.",
+   "published_at": "2026-10-19T08:25:00Z"
+  },
+  {
+   "title": "Anthropic’s weak AI bill undermines its ‘safety first’ approach",
+   "outlet": "Transformer | Substack",
+   "outlet_name": "Transformer | Substack",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDJHQ3pVRlNwcjVhd01pSzUyWTNSM2VvbDZMYm9JTGRlbEpuT0VLYmJHQjN5bFJfVDY5b2dBSjloRVZCc3ZkQ2JySXlES3cybGd6OE53VHhtbmlmb1M0R3ctYm4zY3M0MHNUWWt2QkN0TTBRUkFWLU5BQy1GNzZsbUg0YzlrSmoyNGYyQnh3SEt0Q3JZ?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-19T09:14:00Z"
+   "published_at": "2026-10-19T16:47:52Z"
   },
   {
-   "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+   "title": "Ming-3.0-audio-flash vs Qwen-Audio-3.1: Download or Call",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "url": "https://www.orcarouter.ai/blog/ming-3-0-audio-flash-vs-qwen-audio-3-1",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-19T16:22:12Z"
-  },
-  {
-   "title": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie",
-   "outlet": "NBC News",
-   "outlet_name": "NBC News",
-   "url": "https://www.nbcnews.com/tech/tech-news/elon-musk-anthropic-make-promises-give-public-piece-ai-pie-rcna604313",
-   "label": "CONFIRMED",
-   "summary_1line": "Musk and Anthropic pledge shares to public to address AI's labor and economic impacts.",
-   "published_at": "2026-10-19T07:40:00Z"
-  },
-  {
-   "title": "Tenstorrent Raises $1.5 Billion at $6.2 Billion Valuation to Scale AI Servers",
-   "outlet": "Independent Journal Review",
-   "outlet_name": "Independent Journal Review",
-   "url": "https://ijr.com/discover/business-2026-10-19-tenstorrent-raises-15-billion-62-billion-valuation-b6d00449",
-   "label": "CONFIRMED",
-   "summary_1line": "Tenstorrent raises $1.5B at $6.2B valuation to scale AI servers and challenge chipmakers.",
-   "published_at": "2026-10-19T05:57:00Z"
-  },
-  {
-   "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-   "label": "CONFIRMED",
-   "summary_1line": "Pritzker discusses AI, privacy, and antitrust amid generational political realignment.",
-   "published_at": "2026-10-19T14:30:00Z"
+   "summary_1line": "Ming-3.0-audio-flash and Qwen-Audio-3.1 differ in model structure and availability, with no shared benchmarks.",
+   "published_at": "2026-10-19T16:29:03Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "US civilian agencies can’t use DeepSeek, DHS says.",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "REPORTED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1013773/us-civilian-agencies-cant-use-deepseek-dhs-says"
-  },
-  {
-   "headline": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "label": "REPORTED",
-   "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "headline": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie",
-   "outlet": "NBC News",
-   "outlet_name": "NBC News",
-   "label": "CONFIRMED",
-   "url": "https://www.nbcnews.com/tech/tech-news/elon-musk-anthropic-make-promises-give-public-piece-ai-pie-rcna604313"
-  },
-  {
-   "headline": "Tenstorrent Raises $1.5 Billion at $6.2 Billion Valuation to Scale AI Servers",
-   "outlet": "Independent Journal Review",
-   "outlet_name": "Independent Journal Review",
-   "label": "CONFIRMED",
-   "url": "https://ijr.com/discover/business-2026-10-19-tenstorrent-raises-15-billion-62-billion-valuation-b6d00449"
-  },
-  {
-   "headline": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws"
-  },
   {
    "headline": "Anthropic is AI trade's last big hope for a major IPO this year",
    "outlet": "CNBC",
@@ -102,11 +49,25 @@
    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDJHQ3pVRlNwcjVhd01pSzUyWTNSM2VvbDZMYm9JTGRlbEpuT0VLYmJHQjN5bFJfVDY5b2dBSjloRVZCc3ZkQ2JySXlES3cybGd6OE53VHhtbmlmb1M0R3ctYm4zY3M0MHNUWWt2QkN0TTBRUkFWLU5BQy1GNzZsbUg0YzlrSmoyNGYyQnh3SEt0Q3JZ?oc=5"
   },
   {
-   "headline": "NVIDIA Advances Agentic Security for Media, From European Public Service Broadcasting to…",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
+   "headline": "Ming-3.0-audio-flash vs Qwen-Audio-3.1: Download or Call",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "label": "REPORTED",
+   "url": "https://www.orcarouter.ai/blog/ming-3-0-audio-flash-vs-qwen-audio-3-1"
+  },
+  {
+   "headline": "4 tips for styling outfits with Gemini",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
    "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/media-agentic-security-european-public-service-broadcasting-global-content-production/"
+   "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/"
+  },
+  {
+   "headline": "News publishers launch copyright suit against AI company Anthropic in Ontario",
+   "outlet": "The Canadian Press on MSN",
+   "outlet_name": "The Canadian Press on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-ca/news/other/news-publishers-launch-copyright-suit-against-ai-company-anthropic-in-ontario/ar-AA2fAkeM"
   },
   {
    "headline": "Uncut: Open-source video editor where Claude Code edits the timeline",
@@ -116,11 +77,11 @@
    "url": "https://uncut.video/"
   },
   {
-   "headline": "4 tips for styling outfits with Gemini",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Nvidia-Backed Double AI Debuts AI ‘Code Execution’ Models",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
    "label": "REPORTED",
-   "url": "https://blog.google/products-and-platforms/products/gemini/stylist-outfit-tips-gemini/"
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/nvidia-backed-double-ai-debuts-ai-code-execution-models/"
   },
   {
    "headline": "The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less…",
@@ -130,21 +91,42 @@
    "url": "https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture/"
   },
   {
-   "headline": "Shashua’s doubleAI unveils AI models that optimize how software runs",
-   "outlet": "www.calcalistech.com",
-   "outlet_name": "www.calcalistech.com",
-   "label": "CONFIRMED",
-   "url": "https://www.calcalistech.com/ctechnews/article/sk11xpc73ge"
+   "headline": "Accelerating Mamba-2 with High-Performance Forward Pass Kernels in NVIDIA CUDA Tile",
+   "outlet": "developer.nvidia.com",
+   "outlet_name": "developer.nvidia.com",
+   "label": "REPORTED",
+   "url": "https://developer.nvidia.com/blog/accelerating-mamba-2-with-high-performance-forward-pass-kernels-in-nvidia-cuda-tile/"
+  },
+  {
+   "headline": "Why Anthropic replaced Git, and whether you’ll need to",
+   "outlet": "arize.com",
+   "outlet_name": "arize.com",
+   "label": "REPORTED",
+   "url": "https://arize.com/blog/anthropic-scion-vs-git/"
+  },
+  {
+   "headline": "Pegasus 1.5 from TwelveLabs is now available in Amazon Bedrock | Artificial Intelligence",
+   "outlet": "aws.amazon.com",
+   "outlet_name": "aws.amazon.com",
+   "label": "REPORTED",
+   "url": "https://aws.amazon.com/blogs/machine-learning/pegasus-1-5-from-twelvelabs-is-now-available-in-amazon-bedrock/"
+  },
+  {
+   "headline": "Anthropic Secretly Lobbying Government to Only Shut Down an AI Model If It’s Poised to…",
+   "outlet": "futurism.com",
+   "outlet_name": "futurism.com",
+   "label": "REPORTED",
+   "url": "https://futurism.com/artificial-intelligence/anthropic-regulation-government-ai-harm-risk"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by 14 different outlets in the last few hours.",
- "articles_24h_rounded": 12000,
+ "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 12200,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/17.mp3",
- "audio_seconds": 54.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/18.mp3",
+ "audio_seconds": 35.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nUS civilian agencies can't use DeepSeek, the Department of Homeland Security says, reported by The Verge. An ex-OpenAI worker accused of planting a device had Saudi support, according to a court filing reported by BBC. Elon Musk and Anthropic pledge to give the public a piece of the artificial intelligence pie to address labor and economic impacts, confirmed by NBC News. Tenstorrent raises $1.5 billion at a $6.2 billion valuation to scale artificial intelligence servers and challenge chipmakers, confirmed by the Independent Journal Review. Illinois Governor JB Pritzker thinks artificial intelligence could help us live to 100 or threaten us like nuclear weapons, confirmed by The Verge.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per CNBC: Anthropic is AI trade's last big hope for a major IPO this year.\nReported by Transformer | Substack: Anthropic’s weak AI bill undermines its ‘safety first’ approach.\nReported by OrcaRouter: Ming-3.0-audio-flash vs Qwen-Audio-3.1: Download or Call.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
