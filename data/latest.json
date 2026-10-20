@@ -1,119 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T22:20:02Z",
- "hour": "2026-10-20T22:00:00Z",
+ "generated_at": "2026-10-20T23:20:02Z",
+ "hour": "2026-10-20T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic had $16.3 billion in revenue during first half of 2026: WSJ",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/20/anthropic-had-16-point-3-billion-in-revenue-during-first-half-of-2026-wsj.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic earns $16.3B in first half of 2026, per WSJ.",
-   "published_at": "2026-10-20T19:54:00Z"
-  },
-  {
-   "title": "Students protest at State House, call for AI regulation",
-   "outlet": "WCVB",
-   "outlet_name": "WCVB",
-   "url": "https://www.wcvb.com/article/massachusetts-students-demand-ai-lawmakers-act/74196223",
-   "label": "CONFIRMED",
-   "summary_1line": "Students protest at Massachusetts State House for AI regulation, citing public concerns over AI development.",
-   "published_at": "2026-10-20T20:22:00Z"
-  },
-  {
-   "title": "OpenAI’s former research chief launches Arda at a $1.5bn valuation",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qZlBJMGlLdDhoMWh6V2dRWVc0b0ZhRllPYktwNXI4SjdiXzVQMEdPVzZxN3J5U2RHMkQzY0R5T2hsWjBfVldGbS1xV0swZkEtcnpGVllSLU1XZjZuWUhnelBOZ0NHX1d3NVhFWkNpZWdDeXFnaGI3M0Fzbw?oc=5",
+   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-20T20:56:42Z"
+   "published_at": "2026-10-20T23:01:23Z"
   },
   {
-   "title": "OpenAI valuation odds jump after $30B raise report",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/seekingalpha:bee8b173e094b:0-openai-valuation-odds-jump-after-30b-raise-report/",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI's $30B funding report boosts $1.25T valuation odds to 85%, sparking credit market jitters.",
-   "published_at": "2026-10-20T19:34:09Z"
-  },
-  {
-   "title": "Reflex Aerospace Secures Nvidia Investment",
-   "outlet": "Via Satellite",
-   "outlet_name": "Via Satellite",
-   "url": "https://www.satellitetoday.com/finance/2026/10/20/reflex-aerospace-secures-nvidia-investment/",
+   "title": "DeepSeek makes DeepInfer open source to cut AI costs",
+   "outlet": "TechTarget",
+   "outlet_name": "TechTarget",
+   "url": "https://www.techtarget.com/ai/news/366652363/DeepSeek-makes-DeepInfer-open-source-to-cut-AI-costs",
    "label": "REPORTED",
-   "summary_1line": "Nvidia invests in German satellite startup Reflex Aerospace to boost on-board processing capabilities.",
-   "published_at": "2026-10-20T13:16:00Z"
+   "summary_1line": "DeepSeek opens DeepInfer to cut AI costs and boost market leadership.",
+   "published_at": "2026-10-20T21:09:31Z"
+  },
+  {
+   "title": "Trump administration loses bid to block NAACP lawsuit against Musk's xAI over data center",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "url": "https://www.reuters.com/legal/government/us-judge-rejects-trump-administration-bid-block-naacp-lawsuit-against-musks-xai-2026-10-20/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-20T20:10:55Z"
+  },
+  {
+   "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+   "label": "CONFIRMED",
+   "summary_1line": "Google rolls out personal AI in vehicles using connected app data.",
+   "published_at": "2026-10-20T20:00:00Z"
+  },
+  {
+   "title": "TTEC Digital Unveils 40+ AI Agents on Google Cloud Gemini Enterprise for CX to Help Modernize Government Experiences",
+   "outlet": "Markets Insider",
+   "outlet_name": "Markets Insider",
+   "url": "https://markets.businessinsider.com/news/stocks/ttec-digital-unveils-40-ai-agents-on-google-cloud-gemini-enterprise-for-cx-to-help-modernize-government-experiences-1036645882",
+   "label": "REPORTED",
+   "summary_1line": "TTEC Digital launches 40+ AI agents for government services on Google Cloud.",
+   "published_at": "2026-10-20T10:30:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic had $16.3 billion in revenue during first half of 2026: WSJ",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/20/anthropic-had-16-point-3-billion-in-revenue-during-first-half-of-2026-wsj.html"
-  },
-  {
-   "headline": "Students protest at State House, call for AI regulation",
-   "outlet": "WCVB",
-   "outlet_name": "WCVB",
-   "label": "CONFIRMED",
-   "url": "https://www.wcvb.com/article/massachusetts-students-demand-ai-lawmakers-act/74196223"
-  },
-  {
-   "headline": "OpenAI’s former research chief launches Arda at a $1.5bn valuation",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
+   "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qZlBJMGlLdDhoMWh6V2dRWVc0b0ZhRllPYktwNXI4SjdiXzVQMEdPVzZxN3J5U2RHMkQzY0R5T2hsWjBfVldGbS1xV0swZkEtcnpGVllSLU1XZjZuWUhnelBOZ0NHX1d3NVhFWkNpZWdDeXFnaGI3M0Fzbw?oc=5"
+   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
   },
   {
-   "headline": "OpenAI valuation odds jump after $30B raise report",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "STILL OPEN",
-   "url": "https://www.tradingview.com/news/seekingalpha:bee8b173e094b:0-openai-valuation-odds-jump-after-30b-raise-report/"
-  },
-  {
-   "headline": "Reflex Aerospace Secures Nvidia Investment",
-   "outlet": "Via Satellite",
-   "outlet_name": "Via Satellite",
+   "headline": "DeepSeek makes DeepInfer open source to cut AI costs",
+   "outlet": "TechTarget",
+   "outlet_name": "TechTarget",
    "label": "REPORTED",
-   "url": "https://www.satellitetoday.com/finance/2026/10/20/reflex-aerospace-secures-nvidia-investment/"
+   "url": "https://www.techtarget.com/ai/news/366652363/DeepSeek-makes-DeepInfer-open-source-to-cut-AI-costs"
   },
   {
-   "headline": "Perplexity Computer Now Runs Fully On Your Mac, Keeping Your Files Off the Cloud",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/ai/perplexity-ai/articles/perplexity-computer-now-runs-fully-185648470.html"
-  },
-  {
-   "headline": "Daily Digest: Anthropic reveals growing debt, Meta policy chief to exit",
-   "outlet": "The Business Journals",
-   "outlet_name": "The Business Journals",
+   "headline": "Trump administration loses bid to block NAACP lawsuit against Musk's xAI over data center",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcnFQWmFfTDU5SFkwc2dwaks3SFp5d1lUT3FFcFIwODd4S29YdkJReGRRWDdqRThIMmpMX2xDVVZydmZuT0VrUFVBWWNsUF9xNGgxbmgxYktGUERtZ3pBUlo2eUZ4QWF2RXdGNjFvMzJtNWtXdmUwVWRlbzZ1eFR4dF96N3MtUkNfV2o5RXY4c0ltSmdfWUFSX3hPS0xaTjBDejZQNll3UjNzdDM0b2c?oc=5"
+   "url": "https://www.reuters.com/legal/government/us-judge-rejects-trump-administration-bid-block-naacp-lawsuit-against-musks-xai-2026-10-20/"
   },
   {
-   "headline": "Google brings Gemini Personal Intelligence to Android Auto",
-   "outlet": "engadget.com",
-   "outlet_name": "Engadget",
+   "headline": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/"
+   "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/"
   },
   {
-   "headline": "Get hands-free personalized help on the road with Gemini",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/"
+   "headline": "TTEC Digital Unveils 40+ AI Agents on Google Cloud Gemini Enterprise for CX to Help…",
+   "outlet": "Markets Insider",
+   "outlet_name": "Markets Insider",
+   "label": "REPORTED",
+   "url": "https://markets.businessinsider.com/news/stocks/ttec-digital-unveils-40-ai-agents-on-google-cloud-gemini-enterprise-for-cx-to-help-modernize-government-experiences-1036645882"
   },
   {
    "headline": "SpaceX quarterly revenue jumps, beats estimates as AI business surges",
@@ -123,6 +95,20 @@
    "url": "https://www.msn.com/en-us/news/other/spacex-quarterly-revenue-jumps-beats-estimates-as-ai-business-surges/ar-AA2fFR9D"
   },
   {
+   "headline": "Measuring political bias in Claude",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/research/political-even-handedness"
+  },
+  {
+   "headline": "DeepSeek AI tools banned from US government agency systems as rift with China grows",
+   "outlet": "TechRadar on MSN",
+   "outlet_name": "TechRadar on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/deepseek-ai-tools-banned-from-us-government-agency-systems-as-rift-with-china-grows/ar-AA2fGooS"
+  },
+  {
    "headline": "Golden Gate Claude",
    "outlet": "anthropic.com",
    "outlet_name": "anthropic.com",
@@ -130,21 +116,35 @@
    "url": "https://www.anthropic.com/research/golden-gate-claude"
   },
   {
-   "headline": "DeepSeek Open Sources Inference Tech to Lower AI Costs",
+   "headline": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+   "outlet": "thezvi.substack.com",
+   "outlet_name": "thezvi.substack.com",
+   "label": "REPORTED",
+   "url": "https://thezvi.substack.com/p/anthropic-does-not-understand-why"
+  },
+  {
+   "headline": "Get hands-free personalized help on the road with Gemini",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTY4QlVpMFRHMjVWejJtQTVjTUNfQ1VBNHFLdEZ6VFJHQVBrVjFwZzgzRW0wSm1BaTBTLTRPeXkzTE5veE1XM1pMby14UE16eEhadEU2NUVaMnNzdWFvVTlMV3k2WHh1ZGtWckRNTWVvZVAyUmNfMXpRWC1ILWoxUjNBMDRuUzI1VU9vQkJFUy1kckRfTGtIR0Q0ZkRIZ2dQdm9ncnFaNlBQYUV6NWdSb1FHd0MtNTNhanhhbG5tTDB2dlpPOENHeA?oc=5"
+  },
+  {
+   "headline": "Meta’s Muse Reaches 10 Million Downloads Faster Than ChatGPT",
    "outlet": "PYMNTS.com",
    "outlet_name": "PYMNTS.com",
    "label": "REPORTED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/"
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/metas-muse-reaches-10-million-downloads-faster-than-chatgpt/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 15300,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/22.mp3",
- "audio_seconds": 48.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/23.mp3",
+ "audio_seconds": 55.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Anthropic had $16.3 billion in revenue during first half of 2026: WSJ.\nConfirmed, per WCVB: Students protest at State House, call for AI regulation.\nReported by The Next Web: OpenAI’s former research chief launches Arda at a $1.5bn valuation.\nStill open, per TradingView: OpenAI valuation odds jump after $30B raise report.\nReported by Via Satellite: Reflex Aerospace Secures Nvidia Investment.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic has pitched a bill focused on artificial intelligence safety that could block a model if 50 or more people could be killed, reported by TechCrunch.\nDeepSeek makes DeepInfer open source to cut artificial intelligence costs and boost market leadership, reported by TechTarget.\nThe Trump administration has lost its bid to block a lawsuit from the NAACP against Musk's xAI over a data center, reported by Reuters.\nGoogle is bringing a more personal version of its Gemini artificial intelligence assistant to your car using connected app data, confirmed by TechCrunch.\nTTEC Digital has unveiled 40 or more artificial intelligence agents on Google Cloud Gemini Enterprise to help modernize government experiences, reported by Markets Insider.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
