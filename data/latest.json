@@ -1,82 +1,59 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T05:20:01Z",
- "hour": "2026-10-20T05:00:00Z",
+ "generated_at": "2026-10-20T06:20:01Z",
+ "hour": "2026-10-20T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic proposes AI safety bill to U.S. Congress",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/117013/anthropic-proposes-ai-safety-bill-to-us-congress-to-prevent-runaway-ai",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic proposes federal AI safety bill with 50-death or $1B-damage thresholds for government intervention.",
-   "published_at": "2026-10-20T02:36:03Z"
-  },
-  {
-   "title": "US government bans Chinese AI company DeepSeek that had wiped more than $1 trillion from Wall Street in less than 2 hours, from all civilian agency IT systems",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-bans-chinese-ai-company-deepseek-that-had-wiped-more-than-1-trillion-from-wall-street-in-less-than-2-hours-from-all-civilian-agency-it-systems/articleshow/135060478.cms",
+   "title": "US Homeland Security Orders Federal Civilian Agencies to Stop Using and Remove DeepSeek AI Products",
+   "outlet": "gHacks",
+   "outlet_name": "gHacks",
+   "url": "https://www.ghacks.net/2026/10/20/us-homeland-security-orders-federal-civilian-agencies-to-stop-using-and-remove-deepseek-ai-products/",
    "label": "CONFIRMED",
-   "summary_1line": "US bans DeepSeek AI and Chinese test labs over security risks and data transfer fears.",
-   "published_at": "2026-10-19T20:12:00Z"
+   "summary_1line": "DHS orders federal agencies to remove DeepSeek AI products, including third-party services using DeepSeek models.",
+   "published_at": "2026-10-20T04:05:12Z"
   },
   {
-   "title": "DHS bars DeepSeek from every federal civilian agency under a 2018 law",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/dhs-bars-deepseek-from-every-federal-civilian-agency-under-a-2018-law/",
+   "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43OE9SMzlBcmp6c2dDQ1FmWlZvZ3BsRlNxakJfci1qVWw5ZWZxalFpVFFzT1BxQWExdEk5Y3A3YzR3ZGtTbF9zUGNSaTBDRDBhTVR4bEpHWG9YdHM?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-20T04:10:25Z"
+   "published_at": "2026-10-19T21:12:30Z"
   },
   {
-   "title": "Utho Cloud opens NVIDIA B300 GPU reservations in India",
-   "outlet": "DQ",
-   "outlet_name": "DQ",
-   "url": "https://www.dqindia.com/news/utho-cloud-opens-nvidia-b300-gpu-reservations-in-india-12690701",
-   "label": "REPORTED",
-   "summary_1line": "Utho Cloud opens reservations for NVIDIA B300 GPUs in India, deployment in Feb 2027.",
-   "published_at": "2026-10-20T03:50:37Z"
+   "title": "US bans DeepSeek AI from government systems: What the official notice says about ‘transfer of sensitive data’ to China",
+   "outlet": "Mint",
+   "outlet_name": "Mint",
+   "url": "https://www.livemint.com/ai/us-bans-deepseek-ai-from-government-systems-what-the-official-notice-says-about-transfer-of-sensitive-data-to-china-11792466199324.html",
+   "label": "CONFIRMED",
+   "summary_1line": "U.S. bans DeepSeek AI in civilian agencies over data security risks and PRC data transfer concerns.",
+   "published_at": "2026-10-19T20:24:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic proposes AI safety bill to U.S. Congress",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/117013/anthropic-proposes-ai-safety-bill-to-us-congress-to-prevent-runaway-ai"
-  },
-  {
-   "headline": "US government bans Chinese AI company DeepSeek that had wiped more than $1 trillion from…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "US Homeland Security Orders Federal Civilian Agencies to Stop Using and Remove DeepSeek…",
+   "outlet": "gHacks",
+   "outlet_name": "gHacks",
    "label": "CONFIRMED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-bans-chinese-ai-company-deepseek-that-had-wiped-more-than-1-trillion-from-wall-street-in-less-than-2-hours-from-all-civilian-agency-it-systems/articleshow/135060478.cms"
+   "url": "https://www.ghacks.net/2026/10/20/us-homeland-security-orders-federal-civilian-agencies-to-stop-using-and-remove-deepseek-ai-products/"
   },
   {
-   "headline": "DHS bars DeepSeek from every federal civilian agency under a 2018 law",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
+   "headline": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
    "label": "REPORTED",
-   "url": "https://startupfortune.com/dhs-bars-deepseek-from-every-federal-civilian-agency-under-a-2018-law/"
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43OE9SMzlBcmp6c2dDQ1FmWlZvZ3BsRlNxakJfci1qVWw5ZWZxalFpVFFzT1BxQWExdEk5Y3A3YzR3ZGtTbF9zUGNSaTBDRDBhTVR4bEpHWG9YdHM?oc=5"
   },
   {
-   "headline": "Utho Cloud opens NVIDIA B300 GPU reservations in India",
-   "outlet": "DQ",
-   "outlet_name": "DQ",
-   "label": "REPORTED",
-   "url": "https://www.dqindia.com/news/utho-cloud-opens-nvidia-b300-gpu-reservations-in-india-12690701"
-  },
-  {
-   "headline": "Ex-DeepMind researcher Thore Graepel launches new startup Metis Reasoning",
-   "outlet": "sifted.eu",
-   "outlet_name": "sifted.eu",
-   "label": "REPORTED",
-   "url": "https://sifted.eu/articles/thore-graepel-metis-reasoning/"
+   "headline": "US bans DeepSeek AI from government systems: What the official notice says about…",
+   "outlet": "Mint",
+   "outlet_name": "Mint",
+   "label": "CONFIRMED",
+   "url": "https://www.livemint.com/ai/us-bans-deepseek-ai-from-government-systems-what-the-official-notice-says-about-transfer-of-sensitive-data-to-china-11792466199324.html"
   },
   {
    "headline": "Amazon launches new software tool to compete with Nvidia in the AI ​​market.",
@@ -84,6 +61,27 @@
    "outlet_name": "Vietnam.vn",
    "label": "REPORTED",
    "url": "https://www.vietnam.vn/en/amazon-ra-mat-cong-cu-phan-mem-moi-nham-canh-tranh-voi-nvidia-tren-thi-truong-ai"
+  },
+  {
+   "headline": "What are ChatGPT ads showing to whom and what? US university investigates reality with 91…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "CONFIRMED",
+   "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002375/"
+  },
+  {
+   "headline": "Former OpenAI engineer detained as prosecutors cite Saudi ties",
+   "outlet": "Cryptopolitan on MSN",
+   "outlet_name": "Cryptopolitan on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/former-openai-engineer-detained-as-prosecutors-cite-saudi-ties/ar-AA2fBSHQ"
+  },
+  {
+   "headline": "DeepSeek Ban: DHS Reveals Mullin, 60-Day Window [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "REPORTED",
+   "url": "https://shattered.io/dhs-deepseek-ban-mullin-signed-60-day-window-2026/"
   },
   {
    "headline": "Using Agency Law to Tame AI Agents",
@@ -100,42 +98,35 @@
    "url": "https://www.servethehome.com/nvidia-bluefield-4-stx-server-for-cmx-at-ocp-2026/"
   },
   {
-   "headline": "What are ChatGPT ads showing to whom and what? US university investigates reality with 91…",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
-   "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002375/"
-  },
-  {
-   "headline": "Is it dangerous to do other work while logged into internet banking? Verifying data theft…",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
-   "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002377/"
-  },
-  {
-   "headline": "Southern Fund's Sci-Tech Innovation Artificial Intelligence ETF Southern (589230) Target…",
+   "headline": "NVIDIA GTC focuses on physical AI, Bestechnology hits 20cm daily limit, Science and…",
    "outlet": "Jiemian.com",
    "outlet_name": "Jiemian.com",
    "label": "REPORTED",
-   "url": "https://m.jiemian.com/article/15211331.html"
+   "url": "https://www.jiemian.com/article/15211367.html"
   },
   {
-   "headline": "Musk, Anthropic outline dueling approaches to AI-era philanthropy",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/money/general/musk-anthropic-outline-dueling-approaches-to-ai-era-philanthropy/ar-AA2fBhNm?ocid=BingNewsVerp"
+   "headline": "DeepSeek Partners With Huawei to Challenge Nvidia in AI Chips",
+   "outlet": "econotimes.com",
+   "outlet_name": "econotimes.com",
+   "label": "REPORTED",
+   "url": "https://econotimes.com/DeepSeek-Partners-With-Huawei-to-Challenge-Nvidia-in-AI-Chips-1757058"
+  },
+  {
+   "headline": "DeepSeek new model upgraded, Liang Wenfeng is paving the way for embodied AI?",
+   "outlet": "tmtpost.com",
+   "outlet_name": "tmtpost.com",
+   "label": "REPORTED",
+   "url": "https://www.tmtpost.com/8173675.html"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 14700,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 14800,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/05.mp3",
- "audio_seconds": 44.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/06.mp3",
+ "audio_seconds": 56.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by 디지털투데이: Anthropic proposes AI safety bill to U.S. Congress.\nConfirmed, per The Times of India: US government bans Chinese AI company DeepSeek that had wiped more than $1 trillion from Wall Street in less than 2 hours, from all civilian agency IT systems.\nReported by Startup Fortune: DHS bars DeepSeek from every federal civilian agency under a 2018 law.\nReported by DQ: Utho Cloud opens NVIDIA B300 GPU reservations in India.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe Department of Homeland Security has ordered federal civilian agencies to stop using and remove DeepSeek artificial intelligence products, including third-party services that rely on DeepSeek models. Confirmed by gHacks: the government is taking action to protect sensitive data.\nAn ex-OpenAI worker accused of planting a device received support from Saudi Arabia, according to a court filing. Reported by BBC: the allegations reveal international involvement in the case.\nThe United States has banned DeepSeek artificial intelligence from civilian government systems over data security risks and concerns about the transfer of sensitive data to China. Confirmed by Mint: the government is moving to safeguard federal information.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
