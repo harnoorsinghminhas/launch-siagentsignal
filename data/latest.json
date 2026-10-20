@@ -1,119 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T15:20:02Z",
- "hour": "2026-10-20T15:00:00Z",
+ "generated_at": "2026-10-20T16:20:02Z",
+ "hour": "2026-10-20T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-   "label": "STILL OPEN",
-   "summary_1line": "U.S. bans DeepSeek products in federal agencies over data security fears.",
-   "published_at": "2026-10-20T13:07:24Z"
+   "title": "China opposes US DeepSeek ban targeting Chinese AI in federal agencies",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/china-opposes-us-deepseek-ban/",
+   "label": "CONFIRMED",
+   "summary_1line": "US bans DeepSeek in civilian agencies; China objects, citing politicization.",
+   "published_at": "2026-10-20T06:40:00Z"
   },
   {
-   "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+   "title": "Nvidia secures $35B in orders for new export-compliant GPU from Chinese tech giants: report",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/seekingalpha:ee446e02b094b:0-nvidia-secures-35b-in-orders-for-new-export-compliant-gpu-from-chinese-tech-giants-report/",
+   "label": "CONFIRMED",
+   "summary_1line": "Nvidia's $35B RTX Pro 5500 orders from China exceed production capacity.",
+   "published_at": "2026-10-20T14:08:51Z"
+  },
+  {
+   "title": "DHS Orders DeepSeek Removed from Federal IT Systems Over Security Risks",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/news-dhs-deepseek-federal-systems-security-ban/",
+   "label": "CONFIRMED",
+   "summary_1line": "US government bans DeepSeek in federal systems over security risks to sensitive data.",
+   "published_at": "2026-10-20T06:52:00Z"
+  },
+  {
+   "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Bob McGrew's AI startup Arda raises $230M to automate U.S. manufacturing.",
-   "published_at": "2026-10-20T13:03:31Z"
-  },
-  {
-   "title": "DHS Filed DeepSeek Ban 28 Days After Agencies Lost Right to Request Exceptions",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "url": "https://www.techtimes.com/articles/329253/20261020/dhs-filed-deepseek-ban-28-days-after-agencies-lost-right-request-exceptions.htm",
-   "label": "CONFIRMED",
-   "summary_1line": "DHS bans DeepSeek and third-party AI products in federal systems due to open-weight use.",
-   "published_at": "2026-10-20T13:01:17Z"
-  },
-  {
-   "title": "OpenAI races to raise funding before Anthropic's market debut: report",
-   "outlet": "The Daily Star",
-   "outlet_name": "The Daily Star",
-   "url": "https://www.thedailystar.net/news/technology/news/openai-races-raise-funding-anthropics-market-debut-report-4303276",
+   "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
    "label": "STILL OPEN",
-   "summary_1line": "OpenAI seeks $30B funding before Anthropic's Nov debut, aiming for $1.4T valuation.",
-   "published_at": "2026-10-19T18:11:00Z"
+   "summary_1line": "Anthropic in talks with Nscale for second $45B U.S. data center deal.",
+   "published_at": "2026-10-20T14:12:38Z"
   },
   {
-   "title": "‘These risks are real’: the threat of AI bioweapons - video",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video",
+   "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
    "label": "CONFIRMED",
-   "summary_1line": "MI5 warns AI could change bioweapons stakes, with expert explaining risks and possible safeguards.",
-   "published_at": "2026-10-20T12:14:42Z"
+   "summary_1line": "Reliable Robotics secures $115M to certify autonomous flight tech for FAA and airlines.",
+   "published_at": "2026-10-20T13:17:36Z"
   }
  ],
  "ticker": [
   {
-   "headline": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "STILL OPEN",
-   "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
+   "headline": "China opposes US DeepSeek ban targeting Chinese AI in federal agencies",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "CONFIRMED",
+   "url": "https://cryptobriefing.com/china-opposes-us-deepseek-ban/"
   },
   {
-   "headline": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S.…",
+   "headline": "Nvidia secures $35B in orders for new export-compliant GPU from Chinese tech giants…",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "CONFIRMED",
+   "url": "https://www.tradingview.com/news/seekingalpha:ee446e02b094b:0-nvidia-secures-35b-in-orders-for-new-export-compliant-gpu-from-chinese-tech-giants-report/"
+  },
+  {
+   "headline": "DHS Orders DeepSeek Removed from Federal IT Systems Over Security Risks",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "label": "CONFIRMED",
+   "url": "https://www.techrepublic.com/article/news-dhs-deepseek-federal-systems-security-ban/"
+  },
+  {
+   "headline": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source…",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html"
-  },
-  {
-   "headline": "DHS Filed DeepSeek Ban 28 Days After Agencies Lost Right to Request Exceptions",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "label": "CONFIRMED",
-   "url": "https://www.techtimes.com/articles/329253/20261020/dhs-filed-deepseek-ban-28-days-after-agencies-lost-right-request-exceptions.htm"
-  },
-  {
-   "headline": "OpenAI races to raise funding before Anthropic's market debut: report",
-   "outlet": "The Daily Star",
-   "outlet_name": "The Daily Star",
    "label": "STILL OPEN",
-   "url": "https://www.thedailystar.net/news/technology/news/openai-races-raise-funding-anthropics-market-debut-report-4303276"
+   "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html"
   },
   {
-   "headline": "‘These risks are real’: the threat of AI bioweapons - video",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video"
+   "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/"
   },
   {
-   "headline": "Flozic Launches AI Agent Builder to Create, Customize and Deploy Intelligent AI Agents…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "Amazon and Apple AI wearables face wiretap law questions",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
    "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html"
+   "url": "https://qz.com/amazon-apple-ai-wearables-wiretap-law-privacy-102026"
   },
   {
-   "headline": "Elite Extends Elite Intelligence to Claude and Microsoft Copilot, Bringing Trusted…",
-   "outlet": "Business Wire",
-   "outlet_name": "Business Wire",
+   "headline": "Anthropic floats bill that would let Feds step in only when more than 50 lives are on the…",
+   "outlet": "Heartlander News",
+   "outlet_name": "Heartlander News",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPT2JXcFpwWnpFZlUyMjRJR3BQcnRKSXJRQ2V0YlFyRVAxbVBIaGs2aHZYYlNEcnVjbENGMjlEczRwSjVoSWNaVXdNYk9SZGhKZjlJZlhLZUUtWkRIVDhiZ0o2OUpUV2RIRVNxUFVDdUg0UnVjZVlKX1hxb3J0clFyMlhWZ29ITmVIYmQ3SkdMbzNaYnZNTFJpU2F2LTBHZjdCZVJlRE43VWZyX3ZUdWw4QzI3ZnhjcWFDRHpvZmhrSFF4RXpmMXhtNTRDckJzQ01LNF8xWjhRUmt2R0tqbFc4aXQ2azZ3TzV0aTZWVUYtandkUnIxT2pCdVNWWkpZcmM3dHpOdHRrY3RYa0JXXzlnZE5kb0RBNHJTa0MzZi1PRDNVZ2phRS1yc2xB?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUNyaXprcUNKVzlTMjJoZV9ucWhPN3NhUXFJQ3B5SUVUQ1pPdk5QU1hxT2hmTGZNZnZldEFqaThnMEFaa0pyUXUxVW1ycl9NREF2VGNmUG5hQjJWNURfRndaZ3ZYUWx4QVlEWHAzSGpnVW1UbWF4dXB3VWdKbzVhbEdUbWlIQU5EMHRnNXhJX2pwN21rUlVFT0JQZjZESzJMajFmY2R4eWJoRDhpU3JFNnozaV82LXdqT3o2QnB5MTU?oc=5"
   },
   {
-   "headline": "Shadow AI a growing concern, warn cyber security experts",
-   "outlet": "ITWeb",
-   "outlet_name": "ITWeb",
-   "label": "CONFIRMED",
-   "url": "https://www.itweb.co.za/article/shadow-ai-a-growing-concern-warn-cyber-security-experts/PmxVE7KE4naqQY85"
-  },
-  {
-   "headline": "ThreatBook Launches RedAgents AI Platform That Uses Multiple Hacking Agents to Find…",
-   "outlet": "CyberSecurityNews",
-   "outlet_name": "CyberSecurityNews",
+   "headline": "Anthropic’s Proposed Regulations for AI Include a Death Threshold of at Least 50 People…",
+   "outlet": "Truthout",
+   "outlet_name": "Truthout",
    "label": "REPORTED",
-   "url": "https://cybersecuritynews.com/redagents-ai-platform/amp/"
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUlRdlhLRTk0RElwbUg1bktOMGJWMGZVZ2ExajRQNnNzVFFPVnlYREltQWlIcU9kS2FQYWhrZVV0WkpfdFlPWlA5RFpfRklmaWtBbFByb0xfMmotSzVya0s0LUVNLThCMVYwRkFqTC1tdG1FbEFTMTdqZUNGV01lRjFSc2NBMXJIQ2p3d0ZHeVU5QWNkbExwdHMyWmhseGJoUFJLcWlYdW9VUGpGQlE?oc=5"
+  },
+  {
+   "headline": "49 Tote sind noch okay: Anthropic-Vorschlag zu KI-Regulierung",
+   "outlet": "PCGH",
+   "outlet_name": "PCGH",
+   "label": "REPORTED",
+   "url": "https://www.pcgameshardware.de/Kuenstliche-Intelligenz-Hardware-279517/News/KI-Regulierung-anthropic-pitch-50-Opfer-oder-1-Milliarde-Schaden-1557240/"
+  },
+  {
+   "headline": "llm-d 1.0: Red Hat, IBM, Google and Nvidia bet that AI’s real bill is inference, not…",
+   "outlet": "Martin Cid Magazine",
+   "outlet_name": "Martin Cid Magazine",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTJzUjJ2dFpCd01XQk9ydUJpX3JSeUYxRGpKYWNjVnoxUHIwZEdieHQxN2lIYnY5NUdVRElIRTFBV1k0bXVOQzNtX0ZWbldEMFNDZlBPSS1rNU44RDMxT2ZfcXROb3FCcXFZSHRDbjUyNk5FX0xVMVJPbW1URnFDc3hzT2N1M2kxMmk3Z2NEdVk1VG96SHIzbWxvcFdoWS1KZXd3?oc=5"
   },
   {
    "headline": "How Claude designed protein binders against scorpion neurotoxins \\ Anthropic",
@@ -123,28 +130,21 @@
    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
   },
   {
-   "headline": "Scaling Laws Roadshow at North Dakota Law: Justice Jerod Tufte on AI in the Judiciary",
-   "outlet": "lawfaremedia.org",
-   "outlet_name": "lawfaremedia.org",
+   "headline": "New details emerge on former OpenAI engineer accused of bugging a conference room",
+   "outlet": "fastcompany.com",
+   "outlet_name": "fastcompany.com",
    "label": "REPORTED",
-   "url": "https://www.lawfaremedia.org/article/scaling-laws-roadshow-at-north-dakota-law--justice-jerod-tufte-on-ai-in-the-judiciary"
-  },
-  {
-   "headline": "Sources: OpenAI has retreated from advocating for strict US chip export controls to China…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
-   "label": "REPORTED",
-   "url": "https://www.techmeme.com/261020/p25#a261020p25"
+   "url": "https://www.fastcompany.com/91626746/new-details-emerge-former-openai-engineer-accused-bugging-conference-room?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 15100,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 15000,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/15.mp3",
- "audio_seconds": 50.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/16.mp3",
+ "audio_seconds": 58.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per TechCrunch: US orders federal agencies to remove China’s DeepSeek AI from their systems.\nConfirmed, per CNBC: Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing.\nConfirmed, per Tech Times: DHS Filed DeepSeek Ban 28 Days After Agencies Lost Right to Request Exceptions.\nStill open, per The Daily Star: OpenAI races to raise funding before Anthropic's market debut: report.\nConfirmed, per The Guardian: ‘These risks are real’: the threat of AI bioweapons - video.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nChina opposes the US ban on DeepSeek in civilian federal agencies, citing politicization of the decision. Confirmed by Crypto Briefing.\nNvidia secured $35B in orders for its new export-compliant GPU from Chinese tech giants, exceeding production capacity. Confirmed by TradingView.\nThe Department of Homeland Security ordered DeepSeek removed from all federal IT systems due to security risks involving sensitive data. Confirmed by TechRepublic.\nAnthropic is in talks with Nscale for a second multibillion-dollar data center deal valued at $45B. Still open, per CNBC.\nReliable Robotics, founded by a SpaceX alum, landed $115M in funding to certify autonomous flight technology with the FAA and airlines. Confirmed by TechCrunch.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
