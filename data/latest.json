@@ -1,91 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T08:20:01Z",
- "hour": "2026-10-20T08:00:00Z",
+ "generated_at": "2026-10-20T09:20:01Z",
+ "hour": "2026-10-20T09:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html",
+   "title": "After US DeepSeek order, China says it will protect firms",
+   "outlet": "The Hindu BusinessLine",
+   "outlet_name": "The Hindu BusinessLine",
+   "url": "https://www.thehindubusinessline.com/info-tech/after-us-deepseek-order-china-says-it-will-protect-firms/article71603628.ece",
    "label": "CONFIRMED",
-   "summary_1line": "U.S. bans DeepSeek in civilian agencies over security fears.",
-   "published_at": "2026-10-20T06:25:26Z"
+   "summary_1line": "China defends firms amid US move to remove DeepSeek from US agencies.",
+   "published_at": "2026-10-19T18:00:00Z"
   },
   {
-   "title": "OpenAI CEO Altman Proposes Three Ultimate Endgames for AI: From IAEA-style Global Regulation to a Single Giant \"Destroying Opponent's GPUs\"",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVJEY2JQcFpZc2t5eldVU1hFT3BsRFBTamZ2ck1wYXZuZFMtcFBzOENsM1FUc3JCZEEteGFpRW9sZmpRYXBiY2x5QzJPeTFLLWhfM0E5dVJtLV9SNTNYYWNFOXpvay1RODhuNDRnYlNJc3EwVTBMRTdIbEc3cXU3QUxSVWY3T3d4Z2EwN0hpV3RQa0FoY1h5bVpBVFg?oc=5",
+   "title": "Nvidia investiert in deutsche KI-Start-ups und meldet Quantenrekord",
+   "outlet": "Wallstreet Online",
+   "outlet_name": "Wallstreet Online",
+   "url": "https://www.wallstreet-online.de/nachricht/21549938-hoffnung-deutschland-nvidia-investiert-deutsche-ki-start-ups-meldet-quantenrekord",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia investiert in vier deutsche KI-Start-ups und erreicht 104-Qubit-Quanten-Simulation.",
+   "published_at": "2026-10-20T07:00:00Z"
+  },
+  {
+   "title": "Clearview AI faces Court of Appeal test of 7.5m pound UK fine",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
+   "url": "https://ppc.land/clearview-ai-faces-court-of-appeal-test-of-7-5m-pound-uk-fine/",
+   "label": "REPORTED",
+   "summary_1line": "Clearview AI appeals UK GDPR scope, claiming foreign client monitoring is outside regulation, with Privacy International opposing.",
+   "published_at": "2026-10-20T06:35:39Z"
+  },
+  {
+   "title": "DeepSeek's new model takes first place on two core open-source leaderboards of Arena",
+   "outlet": "中文科技资讯",
+   "outlet_name": "中文科技资讯",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tUEpIbUV6M1NETUFIQjRQQVI4VjUwOXRuN3lEZkYwSUF3by1WMjU3SG01WEtVN3ZBcjRCbURjYWhTbTl3TjBUb1ZCZjVIQnc?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-20T06:32:33Z"
+   "published_at": "2026-10-20T07:52:46Z"
   },
   {
-   "title": "Siemens und Nvidia: KI soll Fabriken revolutionieren",
-   "outlet": "FAZ",
-   "outlet_name": "FAZ",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/siemens-und-nvidia-ki-soll-fabriken-revolutionieren-accg-201602418.html",
+   "title": "Hadrian raises USD $40 million to expand cybersecurity",
+   "outlet": "IT Brief Asia",
+   "outlet_name": "IT Brief Asia",
+   "url": "https://itbrief.asia/story/hadrian-raises-usd-40-million-to-expand-cybersecurity",
    "label": "REPORTED",
-   "summary_1line": "Siemens and Nvidia boost industrial AI with pilot at Erlangen, aiming for 70-80% automation and 85% engineering cost cuts.",
-   "published_at": "2026-10-20T05:35:32Z"
-  },
-  {
-   "title": "DeepSeek V4.1 Flash Tops Agent Arena Open Source Leaderboard",
-   "outlet": "手机新浪网",
-   "outlet_name": "手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sTHlLM190T3poMVFjWUVEVUFrdnhxNlpvMnp5cHVLOFFYWVhaM2N4QUEwWURrenBJdkpXMm1LemFYYWJwa1JaUndBVQ?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-20T07:51:36Z"
-  },
-  {
-   "title": "The AI SEO Agency Launches AI Search Optimisation Services for ChatGPT, Google AI Overviews, Gemini and Perplexity",
-   "outlet": "EIN Presswire",
-   "outlet_name": "EIN Presswire",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTTM5bWpKcFQxZk44aVdHSHo5TzJ5emNZbW9WY1VkWlFONlFySzh3MHpSVDdzNTZWT2trT01mdVFxUDg5SXdZY1NETk5Iay1Ea3MxSmV0dmxzVzRiMjBNZFBVRzdoR1NKWTRtVlFaRnB4X25WMDBIMEt4c0EwUEZqTE5iN0QzZFdBdzJqUy0tVWh4ZE83aDNTTWZqOTVqTTVGRWl1bUJXQ25ZaEVhVHFteU5OMk5zWFN3VVVjN3NGNGVPZWdjUS11M1A3N195WC03akJBR2xkWmpBdy1PZ2JfRDNHRjVTQnpOa0RHQWxObG4?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
+   "summary_1line": "Hadrian raises $40M to expand AI-driven cybersecurity with 87% of firms still using manual pentests.",
    "published_at": "2026-10-20T07:15:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "After US DeepSeek order, China says it will protect firms",
+   "outlet": "The Hindu BusinessLine",
+   "outlet_name": "The Hindu BusinessLine",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/20/us-deepseek-federal-agency-ban.html"
+   "url": "https://www.thehindubusinessline.com/info-tech/after-us-deepseek-order-china-says-it-will-protect-firms/article71603628.ece"
   },
   {
-   "headline": "OpenAI CEO Altman Proposes Three Ultimate Endgames for AI: From IAEA-style Global…",
-   "outlet": "新浪财经",
-   "outlet_name": "新浪财经",
+   "headline": "Nvidia investiert in deutsche KI-Start-ups und meldet Quantenrekord",
+   "outlet": "Wallstreet Online",
+   "outlet_name": "Wallstreet Online",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVJEY2JQcFpZc2t5eldVU1hFT3BsRFBTamZ2ck1wYXZuZFMtcFBzOENsM1FUc3JCZEEteGFpRW9sZmpRYXBiY2x5QzJPeTFLLWhfM0E5dVJtLV9SNTNYYWNFOXpvay1RODhuNDRnYlNJc3EwVTBMRTdIbEc3cXU3QUxSVWY3T3d4Z2EwN0hpV3RQa0FoY1h5bVpBVFg?oc=5"
+   "url": "https://www.wallstreet-online.de/nachricht/21549938-hoffnung-deutschland-nvidia-investiert-deutsche-ki-start-ups-meldet-quantenrekord"
   },
   {
-   "headline": "Siemens und Nvidia: KI soll Fabriken revolutionieren",
-   "outlet": "FAZ",
-   "outlet_name": "FAZ",
+   "headline": "Clearview AI faces Court of Appeal test of 7.5m pound UK fine",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
    "label": "REPORTED",
-   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/siemens-und-nvidia-ki-soll-fabriken-revolutionieren-accg-201602418.html"
+   "url": "https://ppc.land/clearview-ai-faces-court-of-appeal-test-of-7-5m-pound-uk-fine/"
   },
   {
-   "headline": "DeepSeek V4.1 Flash Tops Agent Arena Open Source Leaderboard",
-   "outlet": "手机新浪网",
-   "outlet_name": "手机新浪网",
+   "headline": "DeepSeek's new model takes first place on two core open-source leaderboards of Arena",
+   "outlet": "中文科技资讯",
+   "outlet_name": "中文科技资讯",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5sTHlLM190T3poMVFjWUVEVUFrdnhxNlpvMnp5cHVLOFFYWVhaM2N4QUEwWURrenBJdkpXMm1LemFYYWJwa1JaUndBVQ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tUEpIbUV6M1NETUFIQjRQQVI4VjUwOXRuN3lEZkYwSUF3by1WMjU3SG01WEtVN3ZBcjRCbURjYWhTbTl3TjBUb1ZCZjVIQnc?oc=5"
   },
   {
-   "headline": "The AI SEO Agency Launches AI Search Optimisation Services for ChatGPT, Google AI…",
-   "outlet": "EIN Presswire",
-   "outlet_name": "EIN Presswire",
+   "headline": "Hadrian raises USD $40 million to expand cybersecurity",
+   "outlet": "IT Brief Asia",
+   "outlet_name": "IT Brief Asia",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTTM5bWpKcFQxZk44aVdHSHo5TzJ5emNZbW9WY1VkWlFONlFySzh3MHpSVDdzNTZWT2trT01mdVFxUDg5SXdZY1NETk5Iay1Ea3MxSmV0dmxzVzRiMjBNZFBVRzdoR1NKWTRtVlFaRnB4X25WMDBIMEt4c0EwUEZqTE5iN0QzZFdBdzJqUy0tVWh4ZE83aDNTTWZqOTVqTTVGRWl1bUJXQ25ZaEVhVHFteU5OMk5zWFN3VVVjN3NGNGVPZWdjUS11M1A3N195WC03akJBR2xkWmpBdy1PZ2JfRDNHRjVTQnpOa0RHQWxObG4?oc=5"
+   "url": "https://itbrief.asia/story/hadrian-raises-usd-40-million-to-expand-cybersecurity"
   },
   {
    "headline": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
@@ -109,25 +109,25 @@
    "url": "https://finance.jrj.com.cn/2026/10/20113258783147.shtml"
   },
   {
-   "headline": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
-   "outlet": "ChannelPartner.de",
-   "outlet_name": "ChannelPartner.de",
-   "label": "CONFIRMED",
-   "url": "https://www.channelpartner.de/article/4237258/bundesregierung-vereinbart-kooperation-mit-nvidia-fur-kunstliche-intelligenz.html"
-  },
-  {
-   "headline": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie",
-   "outlet": "NBC News on MSN",
-   "outlet_name": "NBC News on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-au/money/general/elon-musk-and-anthropic-make-promises-to-give-the-public-a-piece-of-the-ai-pie/ar-AA2fAG7v"
-  },
-  {
    "headline": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
    "outlet": "thehackernews.com",
    "outlet_name": "thehackernews.com",
    "label": "REPORTED",
    "url": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html"
+  },
+  {
+   "headline": "Cloudflare Releases Clairic, a System One Extraction Model on Workers AI",
+   "outlet": "marktechpost.com",
+   "outlet_name": "marktechpost.com",
+   "label": "REPORTED",
+   "url": "https://www.marktechpost.com/2026/10/20/cloudflare-releases-clairic-a-system-one-extraction-model-on-workers-ai/"
+  },
+  {
+   "headline": "Notice of Order Regarding Exclusion and Removal of DeepSeek Products From Federal…",
+   "outlet": "federalregister.gov",
+   "outlet_name": "federalregister.gov",
+   "label": "REPORTED",
+   "url": "https://www.federalregister.gov/documents/2026/10/20/2026-21447/notice-of-order-regarding-exclusion-and-removal-of-deepseek-products-from-federal-civilian-executive"
   },
   {
    "headline": "Physical AI concept strengthens again, Nvidia GTC conference to be held soon",
@@ -137,14 +137,14 @@
    "url": "https://finance.sina.com.cn/roll/2026-10-20/doc-inivvxcp7590326.shtml"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 14900,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/08.mp3",
- "audio_seconds": 59.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/09.mp3",
+ "audio_seconds": 49.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: U.S. bans DeepSeek from government agency systems amid AI rift with China.\nReported by 新浪财经: OpenAI CEO Altman Proposes Three Ultimate Endgames for AI: From IAEA-style Global Regulation to a Single Giant \"Destroying Opponent's GPUs\".\nReported by FAZ: Siemens und Nvidia: KI soll Fabriken revolutionieren.\nReported by 手机新浪网: DeepSeek V4.1 Flash Tops Agent Arena Open Source Leaderboard.\nReported by EIN Presswire: The AI SEO Agency Launches AI Search Optimisation Services for ChatGPT, Google AI Overviews, Gemini and Perplexity.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Hindu BusinessLine: After US DeepSeek order, China says it will protect firms.\nReported by Wallstreet Online: Nvidia investiert in deutsche KI-Start-ups und meldet Quantenrekord.\nReported by PPC Land: Clearview AI faces Court of Appeal test of 7.5m pound UK fine.\nReported by 中文科技资讯: DeepSeek's new model takes first place on two core open-source leaderboards of Arena.\nReported by IT Brief Asia: Hadrian raises USD $40 million to expand cybersecurity.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
