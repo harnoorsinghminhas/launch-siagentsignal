@@ -1,126 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T16:20:02Z",
- "hour": "2026-10-20T16:00:00Z",
+ "generated_at": "2026-10-20T17:20:02Z",
+ "hour": "2026-10-20T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China opposes US DeepSeek ban targeting Chinese AI in federal agencies",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/china-opposes-us-deepseek-ban/",
+   "title": "China says US' DeepSeek ban disregards Xi-Trump consensus",
+   "outlet": "The Korea Times",
+   "outlet_name": "The Korea Times",
+   "url": "https://www.koreatimes.co.kr/world/20261021/china-says-us-deepseek-ban-disregards-xi-trump-consensus",
    "label": "CONFIRMED",
-   "summary_1line": "US bans DeepSeek in civilian agencies; China objects, citing politicization.",
-   "published_at": "2026-10-20T06:40:00Z"
+   "summary_1line": "China condemns U.S. DeepSeek ban, calling it a violation of leader-level consensus.",
+   "published_at": "2026-10-20T15:38:00Z"
   },
   {
-   "title": "Nvidia secures $35B in orders for new export-compliant GPU from Chinese tech giants: report",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/seekingalpha:ee446e02b094b:0-nvidia-secures-35b-in-orders-for-new-export-compliant-gpu-from-chinese-tech-giants-report/",
-   "label": "CONFIRMED",
-   "summary_1line": "Nvidia's $35B RTX Pro 5500 orders from China exceed production capacity.",
-   "published_at": "2026-10-20T14:08:51Z"
+   "title": "DeepSeek open-sources the inference engine behind its API. And Huawei gets equal billing with Nvidia.",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
+   "url": "https://thenewstack.io/deepseek-deepinfer-huawei-nvidia/",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek open-sources inference engine for Nvidia and Huawei hardware.",
+   "published_at": "2026-10-20T15:01:47Z"
   },
   {
-   "title": "DHS Orders DeepSeek Removed from Federal IT Systems Over Security Risks",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "url": "https://www.techrepublic.com/article/news-dhs-deepseek-federal-systems-security-ban/",
+   "title": "Knexus Accelerates Enterprise AI Transformation with Google Cloud's Gemini for Government Services",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/knexus-accelerates-enterprise-ai-transformation-with-google-clouds-gemini-for-government-services-302914330.html",
    "label": "CONFIRMED",
-   "summary_1line": "US government bans DeepSeek in federal systems over security risks to sensitive data.",
-   "published_at": "2026-10-20T06:52:00Z"
+   "summary_1line": "Knexus joins Google Cloud as launch partner for Gemini in government services.",
+   "published_at": "2026-10-20T15:54:00Z"
   },
   {
-   "title": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source tells CNBC",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic in talks with Nscale for second $45B U.S. data center deal.",
-   "published_at": "2026-10-20T14:12:38Z"
+   "title": "Anthropic Proposes AI Bill With 50-Death Threshold Before Models Can Be Halted",
+   "outlet": "Truthout",
+   "outlet_name": "Truthout",
+   "url": "https://truthout.org/articles/anthropic-proposes-ai-bill-with-50-death-threshold-before-models-can-be-halted/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic proposes strict AI regulation with $1B or 50+ lives at risk thresholds.",
+   "published_at": "2026-10-20T08:01:00Z"
   },
   {
-   "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-   "label": "CONFIRMED",
-   "summary_1line": "Reliable Robotics secures $115M to certify autonomous flight tech for FAA and airlines.",
-   "published_at": "2026-10-20T13:17:36Z"
+   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHNjhtdzByVVBoVlhtcE5tVHpJU3c3QWlVRlM0bTZ6eVo3Mkd2Z214TjBlb1pxZ2Q5bWE1WUFRcjJEa2IxN1puWTlUaHM3Y2VFcFI4cERfLUJCZDQ?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-20T16:59:17Z"
   }
  ],
  "ticker": [
   {
-   "headline": "China opposes US DeepSeek ban targeting Chinese AI in federal agencies",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "China says US' DeepSeek ban disregards Xi-Trump consensus",
+   "outlet": "The Korea Times",
+   "outlet_name": "The Korea Times",
    "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/china-opposes-us-deepseek-ban/"
+   "url": "https://www.koreatimes.co.kr/world/20261021/china-says-us-deepseek-ban-disregards-xi-trump-consensus"
   },
   {
-   "headline": "Nvidia secures $35B in orders for new export-compliant GPU from Chinese tech giants…",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "CONFIRMED",
-   "url": "https://www.tradingview.com/news/seekingalpha:ee446e02b094b:0-nvidia-secures-35b-in-orders-for-new-export-compliant-gpu-from-chinese-tech-giants-report/"
-  },
-  {
-   "headline": "DHS Orders DeepSeek Removed from Federal IT Systems Over Security Risks",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "label": "CONFIRMED",
-   "url": "https://www.techrepublic.com/article/news-dhs-deepseek-federal-systems-security-ban/"
-  },
-  {
-   "headline": "Anthropic in talks with neocloud Nscale over second multibillion-dollar deal, source…",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "STILL OPEN",
-   "url": "https://www.cnbc.com/2026/10/20/anthropic-nscale-data-center-deal.html"
-  },
-  {
-   "headline": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/"
-  },
-  {
-   "headline": "Amazon and Apple AI wearables face wiretap law questions",
-   "outlet": "Quartz",
-   "outlet_name": "Quartz",
-   "label": "CONFIRMED",
-   "url": "https://qz.com/amazon-apple-ai-wearables-wiretap-law-privacy-102026"
-  },
-  {
-   "headline": "Anthropic floats bill that would let Feds step in only when more than 50 lives are on the…",
-   "outlet": "Heartlander News",
-   "outlet_name": "Heartlander News",
+   "headline": "DeepSeek open-sources the inference engine behind its API. And Huawei gets equal billing…",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaUNyaXprcUNKVzlTMjJoZV9ucWhPN3NhUXFJQ3B5SUVUQ1pPdk5QU1hxT2hmTGZNZnZldEFqaThnMEFaa0pyUXUxVW1ycl9NREF2VGNmUG5hQjJWNURfRndaZ3ZYUWx4QVlEWHAzSGpnVW1UbWF4dXB3VWdKbzVhbEdUbWlIQU5EMHRnNXhJX2pwN21rUlVFT0JQZjZESzJMajFmY2R4eWJoRDhpU3JFNnozaV82LXdqT3o2QnB5MTU?oc=5"
+   "url": "https://thenewstack.io/deepseek-deepinfer-huawei-nvidia/"
   },
   {
-   "headline": "Anthropic’s Proposed Regulations for AI Include a Death Threshold of at Least 50 People…",
+   "headline": "Knexus Accelerates Enterprise AI Transformation with Google Cloud's Gemini for Government…",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "CONFIRMED",
+   "url": "https://www.prnewswire.com/news-releases/knexus-accelerates-enterprise-ai-transformation-with-google-clouds-gemini-for-government-services-302914330.html"
+  },
+  {
+   "headline": "Anthropic Proposes AI Bill With 50-Death Threshold Before Models Can Be Halted",
    "outlet": "Truthout",
    "outlet_name": "Truthout",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUlRdlhLRTk0RElwbUg1bktOMGJWMGZVZ2ExajRQNnNzVFFPVnlYREltQWlIcU9kS2FQYWhrZVV0WkpfdFlPWlA5RFpfRklmaWtBbFByb0xfMmotSzVya0s0LUVNLThCMVYwRkFqTC1tdG1FbEFTMTdqZUNGV01lRjFSc2NBMXJIQ2p3d0ZHeVU5QWNkbExwdHMyWmhseGJoUFJLcWlYdW9VUGpGQlE?oc=5"
+   "url": "https://truthout.org/articles/anthropic-proposes-ai-bill-with-50-death-threshold-before-models-can-be-halted/"
   },
   {
-   "headline": "49 Tote sind noch okay: Anthropic-Vorschlag zu KI-Regulierung",
-   "outlet": "PCGH",
-   "outlet_name": "PCGH",
+   "headline": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
    "label": "REPORTED",
-   "url": "https://www.pcgameshardware.de/Kuenstliche-Intelligenz-Hardware-279517/News/KI-Regulierung-anthropic-pitch-50-Opfer-oder-1-Milliarde-Schaden-1557240/"
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHNjhtdzByVVBoVlhtcE5tVHpJU3c3QWlVRlM0bTZ6eVo3Mkd2Z214TjBlb1pxZ2Q5bWE1WUFRcjJEa2IxN1puWTlUaHM3Y2VFcFI4cERfLUJCZDQ?oc=5"
   },
   {
-   "headline": "llm-d 1.0: Red Hat, IBM, Google and Nvidia bet that AI’s real bill is inference, not…",
-   "outlet": "Martin Cid Magazine",
-   "outlet_name": "Martin Cid Magazine",
+   "headline": "Half of AI Derivative Models Released by South Korean Developers Are Built on Chinese…",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONTJzUjJ2dFpCd01XQk9ydUJpX3JSeUYxRGpKYWNjVnoxUHIwZEdieHQxN2lIYnY5NUdVRElIRTFBV1k0bXVOQzNtX0ZWbldEMFNDZlBPSS1rNU44RDMxT2ZfcXROb3FCcXFZSHRDbjUyNk5FX0xVMVJPbW1URnFDc3hzT2N1M2kxMmk3Z2NEdVk1VG96SHIzbWxvcFdoWS1KZXd3?oc=5"
+   "url": "https://finance.biggo.com/news/f0ba61af-bf59-4deb-9fc7-a18e6ca0508f"
+  },
+  {
+   "headline": "DeepSeek open-sources DeepInfer to cut the cost of running AI models",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/deepseek-open-sources-deepinfer-ai-costs/"
+  },
+  {
+   "headline": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new…",
+   "outlet": "Interconnects AI",
+   "outlet_name": "Interconnects AI",
+   "label": "REPORTED",
+   "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek"
+  },
+  {
+   "headline": "Arkansas AG Tim Griffin Sues OpenAI Over ChatGPT Safety Claims",
+   "outlet": "Arkansas Money & Politics",
+   "outlet_name": "Arkansas Money & Politics",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mMnA1YS1OZTBVR2l6eU93bUZGWThhY2VoQ0lkZmd3R29LWXgtXzllMzdYRUx0SDVZUDFqT0NJQzNRTUFKWkp0V1YxRmIyUXBrNlNzU3ZjaU10T0p3Tm1lSjZEeVNvbEtwUVgtamFsaDJaLXEtNlE?oc=5"
+  },
+  {
+   "headline": "New Gemini business landing page and tools launched",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/"
   },
   {
    "headline": "How Claude designed protein binders against scorpion neurotoxins \\ Anthropic",
@@ -130,21 +130,21 @@
    "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
   },
   {
-   "headline": "New details emerge on former OpenAI engineer accused of bugging a conference room",
-   "outlet": "fastcompany.com",
-   "outlet_name": "fastcompany.com",
-   "label": "REPORTED",
-   "url": "https://www.fastcompany.com/91626746/new-details-emerge-former-openai-engineer-accused-bugging-conference-room?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss"
+   "headline": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 15000,
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "articles_24h_rounded": 15100,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/16.mp3",
- "audio_seconds": 58.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/17.mp3",
+ "audio_seconds": 45.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nChina opposes the US ban on DeepSeek in civilian federal agencies, citing politicization of the decision. Confirmed by Crypto Briefing.\nNvidia secured $35B in orders for its new export-compliant GPU from Chinese tech giants, exceeding production capacity. Confirmed by TradingView.\nThe Department of Homeland Security ordered DeepSeek removed from all federal IT systems due to security risks involving sensitive data. Confirmed by TechRepublic.\nAnthropic is in talks with Nscale for a second multibillion-dollar data center deal valued at $45B. Still open, per CNBC.\nReliable Robotics, founded by a SpaceX alum, landed $115M in funding to certify autonomous flight technology with the FAA and airlines. Confirmed by TechCrunch.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Korea Times: China says US' DeepSeek ban disregards Xi-Trump consensus.\nReported by The New Stack: DeepSeek open-sources the inference engine behind its API. And Huawei gets equal billing with Nvidia.\nConfirmed, per PR Newswire: Knexus Accelerates Enterprise AI Transformation with Google Cloud's Gemini for Government Services.\nReported by Truthout: Anthropic Proposes AI Bill With 50-Death Threshold Before Models Can Be Halted.\nReported by OpenAI: Franchisee reconciles cash in 94% less time with ChatGPT Work.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
