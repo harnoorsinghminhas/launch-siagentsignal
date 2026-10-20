@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T19:20:03Z",
- "hour": "2026-10-20T19:00:00Z",
+ "generated_at": "2026-10-20T20:20:02Z",
+ "hour": "2026-10-20T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Federal Agencies Ordered to Wipe DeepSeek AI From Systems",
-   "outlet": "AutoGPT",
-   "outlet_name": "AutoGPT",
-   "url": "https://autogpt.net/federal-agencies-ordered-to-wipe-deepseek-ai-from-systems/",
+   "title": "ChatGPT now lets you lock your chats",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
    "label": "CONFIRMED",
-   "summary_1line": "U.S. bans DeepSeek in federal agencies over national security fears.",
-   "published_at": "2026-10-20T17:05:33Z"
+   "summary_1line": "OpenAI launches Locked Chats for device privacy on ChatGPT, available on most plans.",
+   "published_at": "2026-10-20T18:36:53Z"
   },
   {
-   "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
-   "outlet": "Interconnects AI",
-   "outlet_name": "Interconnects AI",
-   "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
-   "label": "STILL OPEN",
-   "summary_1line": "China proposes AI controls; U.S. restricts DeepSeek; DeepSeek releases efficient inference stack.",
-   "published_at": "2026-10-20T17:04:21Z"
-  },
-  {
-   "title": "Elon Musk's xAI Faces Environmental Lawsuit After Judge Rejects Trump Administration's Dismissal Bid",
-   "outlet": "kucoin",
-   "outlet_name": "kucoin",
-   "url": "https://www.kucoin.com/news/flash/elon-musk-s-xai-faces-environmental-lawsuit-after-judge-rejects-trump-administration-s-dismissal-bid",
-   "label": "CONFIRMED",
-   "summary_1line": "Judge blocks government effort to dismiss xAI's environmental lawsuit over gas turbines.",
-   "published_at": "2026-10-20T03:04:00Z"
-  },
-  {
-   "title": "Exclusive: OpenAI has acquired Orchestra Bio",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI acquires Orchestra Bio to boost AI in drug development via Rosalind.",
-   "published_at": "2026-10-20T17:55:04Z"
-  },
-  {
-   "title": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks in real time",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/",
+   "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+   "outlet": "bbc.co.uk",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
    "label": "REPORTED",
-   "summary_1line": "Mistral AI launches Voxtral 3 with multilingual voice agent stack and $0.0035/min pricing.",
-   "published_at": "2026-10-20T17:17:55Z"
+   "summary_1line": null,
+   "published_at": "2026-10-20T19:42:32Z"
+  },
+  {
+   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+   "label": "CONFIRMED",
+   "summary_1line": "Google launches TorchTPU to challenge Nvidia's AI hardware dominance, with Amazon following suit.",
+   "published_at": "2026-10-20T18:38:24Z"
+  },
+  {
+   "title": "ElevenLabs launches Eleven v4 Turbo to chase OpenAI in voice agents",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/elevenlabs-launches-eleven-v4-turbo-to-chase-openai-in-voice-agents/",
+   "label": "REPORTED",
+   "summary_1line": "ElevenLabs launches v4 Turbo with emotional voice and 90+ language support for enterprise voice agents.",
+   "published_at": "2026-10-20T16:51:00Z"
+  },
+  {
+   "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+   "label": "STILL OPEN",
+   "summary_1line": "Schmidt's 1% Anthropic stake could add $20B to his net worth if the company goes public.",
+   "published_at": "2026-10-20T17:55:12Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Federal Agencies Ordered to Wipe DeepSeek AI From Systems",
-   "outlet": "AutoGPT",
-   "outlet_name": "AutoGPT",
+   "headline": "ChatGPT now lets you lock your chats",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://autogpt.net/federal-agencies-ordered-to-wipe-deepseek-ai-from-systems/"
+   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
   },
   {
-   "headline": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new…",
-   "outlet": "Interconnects AI",
-   "outlet_name": "Interconnects AI",
-   "label": "STILL OPEN",
-   "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek"
-  },
-  {
-   "headline": "Elon Musk's xAI Faces Environmental Lawsuit After Judge Rejects Trump Administration's…",
-   "outlet": "kucoin",
-   "outlet_name": "kucoin",
-   "label": "CONFIRMED",
-   "url": "https://www.kucoin.com/news/flash/elon-musk-s-xai-faces-environmental-lawsuit-after-judge-rejects-trump-administration-s-dismissal-bid"
-  },
-  {
-   "headline": "Exclusive: OpenAI has acquired Orchestra Bio",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "label": "CONFIRMED",
-   "url": "https://www.axios.com/2026/10/20/exclusive-openai-biotech-startup-drug-development"
-  },
-  {
-   "headline": "Mistral AI launches Voxtral 3, a full voice agent stack that listens, thinks, and talks…",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
+   "headline": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+   "outlet": "bbc.co.uk",
+   "outlet_name": "BBC",
    "label": "REPORTED",
-   "url": "https://the-decoder.com/mistral-ai-launches-voxtral-3-a-full-voice-agent-stack-that-listens-thinks-and-talks-in-real-time/"
+   "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "headline": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
   },
   {
    "headline": "ElevenLabs launches Eleven v4 Turbo to chase OpenAI in voice agents",
@@ -95,18 +81,18 @@
    "url": "https://startupfortune.com/elevenlabs-launches-eleven-v4-turbo-to-chase-openai-in-voice-agents/"
   },
   {
-   "headline": "Factbox-Governments, regulators increase scrutiny of China's DeepSeek",
-   "outlet": "Central Oregon Daily",
-   "outlet_name": "Central Oregon Daily",
-   "label": "REPORTED",
-   "url": "https://www.centraloregondaily.com/news/consumer/factbox-governments-regulators-increase-scrutiny-of-chinas-deepseek/article_764ee9fa-60c1-5435-9a0b-0c6fd10f1db2.html"
+   "headline": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "STILL OPEN",
+   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
   },
   {
-   "headline": "Is a new job in Rep. Moran’s office a sign Congress is staffing up on AI?",
-   "outlet": "Transformer | Substack",
-   "outlet_name": "Transformer | Substack",
-   "label": "CONFIRMED",
-   "url": "https://www.transformernews.ai/p/nathaniel-moran-to-hire-ai-staffer"
+   "headline": "US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to…",
+   "outlet": "CryptoSlate",
+   "outlet_name": "CryptoSlate",
+   "label": "REPORTED",
+   "url": "https://cryptoslate.com/us-orders-deepseek-purge-from-federal-systems-as-chinese-ai-rival-opens-its-technology-to-the-world/"
   },
   {
    "headline": "Introducing advanced tool use on the Claude Developer Platform",
@@ -116,11 +102,32 @@
    "url": "https://www.anthropic.com/research/advanced-tool-use"
   },
   {
-   "headline": "New Gemini business landing page and tools launched",
+   "headline": "DeepSeek Open Sources Inference Tech to Lower AI Costs",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "CONFIRMED",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/"
+  },
+  {
+   "headline": "China defends DeepSeek after US ban",
+   "outlet": "The Hill on MSN",
+   "outlet_name": "The Hill on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/china-defends-deepseek-after-us-ban/ar-AA2fFG2M"
+  },
+  {
+   "headline": "Get hands-free personalized help on the road with Gemini",
    "outlet": "blog.google",
    "outlet_name": "blog.google",
+   "label": "REPORTED",
+   "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/"
+  },
+  {
+   "headline": "Using Grok Bot to detect and respond to incidents",
+   "outlet": "x.ai",
+   "outlet_name": "x.ai",
    "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/"
+   "url": "https://x.ai/news/incident-sweep"
   },
   {
    "headline": "Model deprecation update for Claude Opus 3",
@@ -128,23 +135,16 @@
    "outlet_name": "anthropic.com",
    "label": "CONFIRMED",
    "url": "https://www.anthropic.com/news/deprecation-updates-opus-3"
-  },
-  {
-   "headline": "Despite the U.S. Ban, DeepSeek Open-Sources Its Inference Engine",
-   "outlet": "www.trendingtopics.eu",
-   "outlet_name": "www.trendingtopics.eu",
-   "label": "REPORTED",
-   "url": "https://www.trendingtopics.eu/deepseek-deepinfer-open-source-inference-engine/"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 15200,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/19.mp3",
- "audio_seconds": 79.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/20.mp3",
+ "audio_seconds": 41.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nFederal Agencies Ordered to Wipe DeepSeek from Systems, confirmed by AutoGPT: the U.S. bans DeepSeek in federal agencies over national security fears.\nLatest open artifacts include DeepSeek V4.1 Flash 1017 and American-made models, still open per Interconnects AI: China proposes artificial intelligence controls while the U.S. restricts DeepSeek and DeepSeek releases an efficient inference stack.\nElon Musk's xAI faces an environmental lawsuit after a judge rejects the Trump Administration's dismissal bid, confirmed by kucoin: the judge blocks the government effort to dismiss xAI's environmental lawsuit over gas turbines.\nOpenAI has acquired Orchestra Bio to boost artificial intelligence in drug development via Rosalind, confirmed by Axios: the acquisition strengthens OpenAI's capabilities in drug development.\nMistral AI launches Voxtral 3, a full voice agent stack that listens, thinks and talks in real time, reported by The Decoder: Mistral AI launches Voxtral 3 with multilingual voice agent stack and $0.0035 per minute pricing.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: ChatGPT now lets you lock your chats.\nReported by BBC: OpenAI CEO Sam Altman wins dismissal of sister's lawsuit.\nConfirmed, per TechCrunch: Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers.\nReported by Startup Fortune: ElevenLabs launches Eleven v4 Turbo to chase OpenAI in voice agents.\nStill open, per TechCrunch: Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
