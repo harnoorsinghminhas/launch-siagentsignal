@@ -1,150 +1,150 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T13:20:01Z",
- "hour": "2026-10-20T13:00:00Z",
+ "generated_at": "2026-10-20T14:20:02Z",
+ "hour": "2026-10-20T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Washington bans DeepSeek from government agencies",
-   "outlet": "Semafor",
-   "outlet_name": "Semafor",
-   "url": "https://www.semafor.com/article/10/20/2026/washington-bans-deepseek-from-government-agencies",
+   "title": "US bans use of China’s DeepSeek AI tools by government agencies",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
    "label": "CONFIRMED",
-   "summary_1line": "US bans Chinese AI firm DeepSeek from government systems amid AI rivalry.",
-   "published_at": "2026-10-20T11:55:00Z"
+   "summary_1line": "US bans DeepSeek AI tools over data security fears amid China-US AI competition.",
+   "published_at": "2026-10-20T05:33:00Z"
   },
   {
-   "title": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs",
+   "title": "Visa, BILL and Billtrust Launch First Live Pilot for Trusted AI Agent Payments Between Buyer and Supplier Platforms",
+   "outlet": "Agence France-Presse",
+   "outlet_name": "Agence France-Presse",
+   "url": "https://www.afp.com/en/agency/inside-afp/external-press-releases/visa-bill-and-billtrust-launch-first-live-pilot-trusted",
+   "label": "CONFIRMED",
+   "summary_1line": "Visa, BILL, and Billtrust launch AI agent pilot for automated B2B invoice payments.",
+   "published_at": "2026-10-19T17:00:00Z"
+  },
+  {
+   "title": "Former top OpenAI employees raises capital for defense startup valued at $1.5B",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWNKVTJOZjZPWGtuNHdCWlFYd3Z2dnlBNmtGajNjekZFeDlaUFJGNmR3RjhqV3dtXy1hWFdzSnpNTGRQWTY5ajh0bWkwel9DZktUNk5sNFU3VkFzUWR3d3lPZEZtR2o3OHlISlBNeURpMUdDXzZYNHdkMXZyYjZLYTBFeTdBZW9jNEVXc1JOUDQxYllzN0hHb3VHeDRCdDRJdTByTVZKQTVFSUEtZFU1OXhBOWNTTVlZRWRlZGJHdjE4UQ?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-20T12:45:23Z"
+   "published_at": "2026-10-20T13:02:44Z"
   },
   {
-   "title": "Nvidia GeForce RTX 6060 may not release until 2029, says tech leaker",
-   "outlet": "Club386",
-   "outlet_name": "Club386",
-   "url": "https://www.club386.com/nvidia-geforce-rtx-6060-2029-leak/",
+   "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
+   "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
+   "label": "CONFIRMED",
+   "summary_1line": "WhatsApp's AI chatbot was instructed to avoid recommending regulators or account deletion, contradicting its privacy policy.",
+   "published_at": "2026-10-20T11:41:00Z"
+  },
+  {
+   "title": "NVIDIA GeForce RTX 6060 Is Unlikely To Match PS6 GPU & May Launch In 2029, It Is Claimed",
+   "outlet": "TwistedVoxel",
+   "outlet_name": "TwistedVoxel",
+   "url": "https://twistedvoxel.com/nvidia-rtx-6060-unlikely-to-match-ps6-gpu-launch-in-2029/",
    "label": "STILL OPEN",
-   "summary_1line": "Nvidia reportedly delays RTX 6060 to 2029 due to supply issues, leaving low-end gamers without a GPU for 44 months.",
-   "published_at": "2026-10-20T11:53:15Z"
-  },
-  {
-   "title": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html",
-   "label": "CONFIRMED",
-   "summary_1line": "AI stock sell-off spreads, with Elice IPO crashing and CoreWeave shares falling.",
-   "published_at": "2026-10-20T11:34:03Z"
-  },
-  {
-   "title": "Microsoft wants to limit AI agents’ permissions when they stray from the job",
-   "outlet": "Help Net Security",
-   "outlet_name": "Help Net Security",
-   "url": "https://www.helpnetsecurity.com/2026/10/20/microsofts-ai-agents-threats-guardian-agents/",
-   "label": "CONFIRMED",
-   "summary_1line": "Microsoft rolls out AI agent controls to secure hundreds of thousands of agents in enterprise environments.",
-   "published_at": "2026-10-20T02:56:00Z"
+   "summary_1line": "Insider speculates RTX 6060 may launch in 2029 and won't match PS6's 40 Teraflops.",
+   "published_at": "2026-10-20T12:36:44Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Washington bans DeepSeek from government agencies",
-   "outlet": "Semafor",
-   "outlet_name": "Semafor",
+   "headline": "US bans use of China’s DeepSeek AI tools by government agencies",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://www.semafor.com/article/10/20/2026/washington-bans-deepseek-from-government-agencies"
+   "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies"
   },
   {
-   "headline": "DeepSeek Unveils Open-Source Tool to Help Cut AI Operating Costs",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-20/deepseek-unveils-open-source-tool-to-help-cut-ai-operating-costs"
+   "headline": "Visa, BILL and Billtrust Launch First Live Pilot for Trusted AI Agent Payments Between…",
+   "outlet": "Agence France-Presse",
+   "outlet_name": "Agence France-Presse",
+   "label": "CONFIRMED",
+   "url": "https://www.afp.com/en/agency/inside-afp/external-press-releases/visa-bill-and-billtrust-launch-first-live-pilot-trusted"
   },
   {
-   "headline": "Nvidia GeForce RTX 6060 may not release until 2029, says tech leaker",
-   "outlet": "Club386",
-   "outlet_name": "Club386",
-   "label": "STILL OPEN",
-   "url": "https://www.club386.com/nvidia-geforce-rtx-6060-2029-leak/"
-  },
-  {
-   "headline": "AI rally fades away from Wall Street as a tiny IPO makes big waves",
-   "outlet": "cnbc.com",
+   "headline": "Former top OpenAI employees raises capital for defense startup valued at $1.5B",
+   "outlet": "CNBC",
    "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/20/ai-rally-fades-elice-ipo-dives.html"
-  },
-  {
-   "headline": "Microsoft wants to limit AI agents’ permissions when they stray from the job",
-   "outlet": "Help Net Security",
-   "outlet_name": "Help Net Security",
-   "label": "CONFIRMED",
-   "url": "https://www.helpnetsecurity.com/2026/10/20/microsofts-ai-agents-threats-guardian-agents/"
-  },
-  {
-   "headline": "OpenAI sued by Idaho over alleged harms caused by ChatGPT",
-   "outlet": "Seattle Red",
-   "outlet_name": "Seattle Red",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTjF1QmVpXzZqQ2VkWjhkUDJfQWprQzJ2Y3FyZmFwNVhKcWY4U1V3UHZlVFBQMGhHLS1OREFHcVFucDAySkthMFVTZVNwajlfVzhTRFpab0JUUGdqcjAzX2xmcDg0MDRNNGF5QldwX2ZYR3VmWGZjZlFHUFg0cFltZ0kySVB0M1RUZFo4bXV3QUszRjNrbXlsNVZfMGluRG9pTXFJUHR0TjRyOVVGeGpPMGZ1cW9idDItSnRZ?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWNKVTJOZjZPWGtuNHdCWlFYd3Z2dnlBNmtGajNjekZFeDlaUFJGNmR3RjhqV3dtXy1hWFdzSnpNTGRQWTY5ajh0bWkwel9DZktUNk5sNFU3VkFzUWR3d3lPZEZtR2o3OHlISlBNeURpMUdDXzZYNHdkMXZyYjZLYTBFeTdBZW9jNEVXc1JOUDQxYllzN0hHb3VHeDRCdDRJdTByTVZKQTVFSUEtZFU1OXhBOWNTTVlZRWRlZGJHdjE4UQ?oc=5"
   },
   {
    "headline": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy…",
    "outlet": "The Hacker News",
    "outlet_name": "The Hacker News",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html"
   },
   {
-   "headline": "MySSAgent's Social Security Claiming Estimator Now Listed in Claude's Connectors Directory",
-   "outlet": "EIN Presswire",
-   "outlet_name": "EIN Presswire",
-   "label": "REPORTED",
-   "url": "https://www.einpresswire.com/article/949650758/myssagent-s-social-security-claiming-estimator-now-listed-in-claude-s-connectors-directory"
-  },
-  {
-   "headline": "China defends DeepSeek after US ban of its AI from government systems",
-   "outlet": "ABC News - Breaking News, Latest News and Videos",
-   "outlet_name": "ABC News - Breaking News, Latest News and Videos",
-   "label": "REPORTED",
-   "url": "https://abcnews.com/Technology/wireStory/china-defends-deepseek-after-us-ban-ai-government-137405384"
-  },
-  {
-   "headline": "Anthropic's leaked federal AI bill undermines its safety first approach",
-   "outlet": "transformernews.ai",
-   "outlet_name": "transformernews.ai",
+   "headline": "NVIDIA GeForce RTX 6060 Is Unlikely To Match PS6 GPU & May Launch In 2029, It Is Claimed",
+   "outlet": "TwistedVoxel",
+   "outlet_name": "TwistedVoxel",
    "label": "STILL OPEN",
-   "url": "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach"
+   "url": "https://twistedvoxel.com/nvidia-rtx-6060-unlikely-to-match-ps6-gpu-launch-in-2029/"
   },
   {
-   "headline": "Banned from top AI chips, China just dropped $35 billion on this Nvidia GPU",
+   "headline": "DeepSeek Tops Open-Source Models in Web Development Coding",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "label": "REPORTED",
+   "url": "https://en.sedaily.com/international/2026/10/20/deepseek-tops-open-source-models-in-web-development-coding"
+  },
+  {
+   "headline": "OpenAI races to raise funding before Anthropic's market debut: report",
+   "outlet": "The Daily Star",
+   "outlet_name": "The Daily Star",
+   "label": "STILL OPEN",
+   "url": "https://www.thedailystar.net/news/technology/news/openai-races-raise-funding-anthropics-market-debut-report-4303276"
+  },
+  {
+   "headline": "‘These risks are real’: the threat of AI bioweapons - video",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "CONFIRMED",
+   "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video"
+  },
+  {
+   "headline": "Flozic Launches AI Agent Builder to Create, Customize and Deploy Intelligent AI Agents…",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "CONFIRMED",
+   "url": "https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html"
+  },
+  {
+   "headline": "Seven departments issue the \"15th Five-Year Plan\" for Advertising Industry Development…",
+   "outlet": "21财经",
+   "outlet_name": "21财经",
+   "label": "REPORTED",
+   "url": "https://www.21jingji.com/article/20261020/herald/a75290420a1afb0dc43cb066f519b102.html"
+  },
+  {
+   "headline": "Banned from top AI chips, Chinese giants just dropped $35 billion on this Nvidia GPU",
    "outlet": "NDTV Profit on MSN",
    "outlet_name": "NDTV Profit on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/banned-from-top-ai-chips-china-just-dropped-35-billion-on-this-nvidia-gpu/ar-AA2fDJaq"
+   "url": "https://www.msn.com/en-in/news/other/banned-from-top-ai-chips-chinese-giants-just-dropped-35-billion-on-this-nvidia-gpu/ar-AA2fDJaq"
   },
   {
-   "headline": "OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
+   "headline": "Sources: OpenAI has retreated from advocating for strict US chip export controls to China…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
    "label": "REPORTED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-racing-to-raise-30-billion-ahead-of-anthropic-listing/"
+   "url": "https://www.techmeme.com/261020/p25#a261020p25"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
  "articles_24h_rounded": 15100,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/13.mp3",
- "audio_seconds": 57.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/14.mp3",
+ "audio_seconds": 55.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nWashington bans DeepSeek from government agencies, confirmed by Semafor, amid artificial intelligence rivalry between the US and China.\nDeepSeek has unveiled an open-source tool, reported by Bloomberg, to help cut artificial intelligence operating costs.\nNvidia GeForce RTX 6060 may not release until 2029, still open per Club386, leaving low-end gamers without a GPU for 44 months due to supply issues.\nArtificial intelligence stock sell-off spreads across Wall Street, confirmed by CNBC, with the Elice IPO crashing and CoreWeave shares falling.\nMicrosoft rolls out artificial intelligence agent controls, confirmed by Help Net Security, to secure hundreds of thousands of agents in enterprise environments when they stray from the job.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Guardian: US bans use of China’s DeepSeek AI tools by government agencies.\nConfirmed, per Agence France-Presse: Visa, BILL and Billtrust Launch First Live Pilot for Trusted AI Agent Payments Between Buyer and Supplier Platforms.\nReported by CNBC: Former top OpenAI employees raises capital for defense startup valued at $1.5B.\nConfirmed, per The Hacker News: WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators.\nStill open, per TwistedVoxel: NVIDIA GeForce RTX 6060 Is Unlikely To Match PS6 GPU & May Launch In 2029, It Is Claimed.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
