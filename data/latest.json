@@ -1,98 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T14:20:02Z",
- "hour": "2026-10-20T14:00:00Z",
+ "generated_at": "2026-10-20T15:20:02Z",
+ "hour": "2026-10-20T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "US bans use of China’s DeepSeek AI tools by government agencies",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies",
-   "label": "CONFIRMED",
-   "summary_1line": "US bans DeepSeek AI tools over data security fears amid China-US AI competition.",
-   "published_at": "2026-10-20T05:33:00Z"
-  },
-  {
-   "title": "Visa, BILL and Billtrust Launch First Live Pilot for Trusted AI Agent Payments Between Buyer and Supplier Platforms",
-   "outlet": "Agence France-Presse",
-   "outlet_name": "Agence France-Presse",
-   "url": "https://www.afp.com/en/agency/inside-afp/external-press-releases/visa-bill-and-billtrust-launch-first-live-pilot-trusted",
-   "label": "CONFIRMED",
-   "summary_1line": "Visa, BILL, and Billtrust launch AI agent pilot for automated B2B invoice payments.",
-   "published_at": "2026-10-19T17:00:00Z"
-  },
-  {
-   "title": "Former top OpenAI employees raises capital for defense startup valued at $1.5B",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWNKVTJOZjZPWGtuNHdCWlFYd3Z2dnlBNmtGajNjekZFeDlaUFJGNmR3RjhqV3dtXy1hWFdzSnpNTGRQWTY5ajh0bWkwel9DZktUNk5sNFU3VkFzUWR3d3lPZEZtR2o3OHlISlBNeURpMUdDXzZYNHdkMXZyYjZLYTBFeTdBZW9jNEVXc1JOUDQxYllzN0hHb3VHeDRCdDRJdTByTVZKQTVFSUEtZFU1OXhBOWNTTVlZRWRlZGJHdjE4UQ?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-20T13:02:44Z"
-  },
-  {
-   "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-   "outlet": "The Hacker News",
-   "outlet_name": "The Hacker News",
-   "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-   "label": "CONFIRMED",
-   "summary_1line": "WhatsApp's AI chatbot was instructed to avoid recommending regulators or account deletion, contradicting its privacy policy.",
-   "published_at": "2026-10-20T11:41:00Z"
-  },
-  {
-   "title": "NVIDIA GeForce RTX 6060 Is Unlikely To Match PS6 GPU & May Launch In 2029, It Is Claimed",
-   "outlet": "TwistedVoxel",
-   "outlet_name": "TwistedVoxel",
-   "url": "https://twistedvoxel.com/nvidia-rtx-6060-unlikely-to-match-ps6-gpu-launch-in-2029/",
+   "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
    "label": "STILL OPEN",
-   "summary_1line": "Insider speculates RTX 6060 may launch in 2029 and won't match PS6's 40 Teraflops.",
-   "published_at": "2026-10-20T12:36:44Z"
+   "summary_1line": "U.S. bans DeepSeek products in federal agencies over data security fears.",
+   "published_at": "2026-10-20T13:07:24Z"
+  },
+  {
+   "title": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Bob McGrew's AI startup Arda raises $230M to automate U.S. manufacturing.",
+   "published_at": "2026-10-20T13:03:31Z"
+  },
+  {
+   "title": "DHS Filed DeepSeek Ban 28 Days After Agencies Lost Right to Request Exceptions",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "url": "https://www.techtimes.com/articles/329253/20261020/dhs-filed-deepseek-ban-28-days-after-agencies-lost-right-request-exceptions.htm",
+   "label": "CONFIRMED",
+   "summary_1line": "DHS bans DeepSeek and third-party AI products in federal systems due to open-weight use.",
+   "published_at": "2026-10-20T13:01:17Z"
+  },
+  {
+   "title": "OpenAI races to raise funding before Anthropic's market debut: report",
+   "outlet": "The Daily Star",
+   "outlet_name": "The Daily Star",
+   "url": "https://www.thedailystar.net/news/technology/news/openai-races-raise-funding-anthropics-market-debut-report-4303276",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI seeks $30B funding before Anthropic's Nov debut, aiming for $1.4T valuation.",
+   "published_at": "2026-10-19T18:11:00Z"
+  },
+  {
+   "title": "‘These risks are real’: the threat of AI bioweapons - video",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/science/video/2026/oct/20/these-risks-are-real-the-threat-of-ai-bioweapons-video",
+   "label": "CONFIRMED",
+   "summary_1line": "MI5 warns AI could change bioweapons stakes, with expert explaining risks and possible safeguards.",
+   "published_at": "2026-10-20T12:14:42Z"
   }
  ],
  "ticker": [
   {
-   "headline": "US bans use of China’s DeepSeek AI tools by government agencies",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/us-news/2026/oct/20/us-bans-china-deepseek-ai-tools-government-agencies"
-  },
-  {
-   "headline": "Visa, BILL and Billtrust Launch First Live Pilot for Trusted AI Agent Payments Between…",
-   "outlet": "Agence France-Presse",
-   "outlet_name": "Agence France-Presse",
-   "label": "CONFIRMED",
-   "url": "https://www.afp.com/en/agency/inside-afp/external-press-releases/visa-bill-and-billtrust-launch-first-live-pilot-trusted"
-  },
-  {
-   "headline": "Former top OpenAI employees raises capital for defense startup valued at $1.5B",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRWNKVTJOZjZPWGtuNHdCWlFYd3Z2dnlBNmtGajNjekZFeDlaUFJGNmR3RjhqV3dtXy1hWFdzSnpNTGRQWTY5ajh0bWkwel9DZktUNk5sNFU3VkFzUWR3d3lPZEZtR2o3OHlISlBNeURpMUdDXzZYNHdkMXZyYjZLYTBFeTdBZW9jNEVXc1JOUDQxYllzN0hHb3VHeDRCdDRJdTByTVZKQTVFSUEtZFU1OXhBOWNTTVlZRWRlZGJHdjE4UQ?oc=5"
-  },
-  {
-   "headline": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy…",
-   "outlet": "The Hacker News",
-   "outlet_name": "The Hacker News",
-   "label": "CONFIRMED",
-   "url": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html"
-  },
-  {
-   "headline": "NVIDIA GeForce RTX 6060 Is Unlikely To Match PS6 GPU & May Launch In 2029, It Is Claimed",
-   "outlet": "TwistedVoxel",
-   "outlet_name": "TwistedVoxel",
+   "headline": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "STILL OPEN",
-   "url": "https://twistedvoxel.com/nvidia-rtx-6060-unlikely-to-match-ps6-gpu-launch-in-2029/"
+   "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/"
   },
   {
-   "headline": "DeepSeek Tops Open-Source Models in Web Development Coding",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
-   "label": "REPORTED",
-   "url": "https://en.sedaily.com/international/2026/10/20/deepseek-tops-open-source-models-in-web-development-coding"
+   "headline": "Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S.…",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/20/ex-openai-executive-builds-1point5-billion-ai-manufacturing-startup-arda.html"
+  },
+  {
+   "headline": "DHS Filed DeepSeek Ban 28 Days After Agencies Lost Right to Request Exceptions",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "label": "CONFIRMED",
+   "url": "https://www.techtimes.com/articles/329253/20261020/dhs-filed-deepseek-ban-28-days-after-agencies-lost-right-request-exceptions.htm"
   },
   {
    "headline": "OpenAI races to raise funding before Anthropic's market debut: report",
@@ -116,18 +95,39 @@
    "url": "https://www.prnewswire.com/news-releases/flozic-launches-ai-agent-builder-to-create-customize-and-deploy-intelligent-ai-agents-using-natural-language-302913788.html"
   },
   {
-   "headline": "Seven departments issue the \"15th Five-Year Plan\" for Advertising Industry Development…",
-   "outlet": "21财经",
-   "outlet_name": "21财经",
+   "headline": "Elite Extends Elite Intelligence to Claude and Microsoft Copilot, Bringing Trusted…",
+   "outlet": "Business Wire",
+   "outlet_name": "Business Wire",
    "label": "REPORTED",
-   "url": "https://www.21jingji.com/article/20261020/herald/a75290420a1afb0dc43cb066f519b102.html"
+   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPT2JXcFpwWnpFZlUyMjRJR3BQcnRKSXJRQ2V0YlFyRVAxbVBIaGs2aHZYYlNEcnVjbENGMjlEczRwSjVoSWNaVXdNYk9SZGhKZjlJZlhLZUUtWkRIVDhiZ0o2OUpUV2RIRVNxUFVDdUg0UnVjZVlKX1hxb3J0clFyMlhWZ29ITmVIYmQ3SkdMbzNaYnZNTFJpU2F2LTBHZjdCZVJlRE43VWZyX3ZUdWw4QzI3ZnhjcWFDRHpvZmhrSFF4RXpmMXhtNTRDckJzQ01LNF8xWjhRUmt2R0tqbFc4aXQ2azZ3TzV0aTZWVUYtandkUnIxT2pCdVNWWkpZcmM3dHpOdHRrY3RYa0JXXzlnZE5kb0RBNHJTa0MzZi1PRDNVZ2phRS1yc2xB?oc=5"
   },
   {
-   "headline": "Banned from top AI chips, Chinese giants just dropped $35 billion on this Nvidia GPU",
-   "outlet": "NDTV Profit on MSN",
-   "outlet_name": "NDTV Profit on MSN",
+   "headline": "Shadow AI a growing concern, warn cyber security experts",
+   "outlet": "ITWeb",
+   "outlet_name": "ITWeb",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/banned-from-top-ai-chips-chinese-giants-just-dropped-35-billion-on-this-nvidia-gpu/ar-AA2fDJaq"
+   "url": "https://www.itweb.co.za/article/shadow-ai-a-growing-concern-warn-cyber-security-experts/PmxVE7KE4naqQY85"
+  },
+  {
+   "headline": "ThreatBook Launches RedAgents AI Platform That Uses Multiple Hacking Agents to Find…",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "label": "REPORTED",
+   "url": "https://cybersecuritynews.com/redagents-ai-platform/amp/"
+  },
+  {
+   "headline": "How Claude designed protein binders against scorpion neurotoxins \\ Anthropic",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+  },
+  {
+   "headline": "Scaling Laws Roadshow at North Dakota Law: Justice Jerod Tufte on AI in the Judiciary",
+   "outlet": "lawfaremedia.org",
+   "outlet_name": "lawfaremedia.org",
+   "label": "REPORTED",
+   "url": "https://www.lawfaremedia.org/article/scaling-laws-roadshow-at-north-dakota-law--justice-jerod-tufte-on-ai-in-the-judiciary"
   },
   {
    "headline": "Sources: OpenAI has retreated from advocating for strict US chip export controls to China…",
@@ -137,14 +137,14 @@
    "url": "https://www.techmeme.com/261020/p25#a261020p25"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
  "articles_24h_rounded": 15100,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/14.mp3",
- "audio_seconds": 55.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/15.mp3",
+ "audio_seconds": 50.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Guardian: US bans use of China’s DeepSeek AI tools by government agencies.\nConfirmed, per Agence France-Presse: Visa, BILL and Billtrust Launch First Live Pilot for Trusted AI Agent Payments Between Buyer and Supplier Platforms.\nReported by CNBC: Former top OpenAI employees raises capital for defense startup valued at $1.5B.\nConfirmed, per The Hacker News: WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators.\nStill open, per TwistedVoxel: NVIDIA GeForce RTX 6060 Is Unlikely To Match PS6 GPU & May Launch In 2029, It Is Claimed.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per TechCrunch: US orders federal agencies to remove China’s DeepSeek AI from their systems.\nConfirmed, per CNBC: Former OpenAI exec has quietly built $1.5 billion startup, betting AI can revive U.S. manufacturing.\nConfirmed, per Tech Times: DHS Filed DeepSeek Ban 28 Days After Agencies Lost Right to Request Exceptions.\nStill open, per The Daily Star: OpenAI races to raise funding before Anthropic's market debut: report.\nConfirmed, per The Guardian: ‘These risks are real’: the threat of AI bioweapons - video.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
