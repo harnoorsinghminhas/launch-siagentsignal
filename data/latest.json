@@ -1,126 +1,75 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T04:20:01Z",
- "hour": "2026-10-20T04:00:00Z",
+ "generated_at": "2026-10-20T05:20:01Z",
+ "hour": "2026-10-20T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Pump.fun Launches Pre-IPO Tokens for OpenAI and Polymarket, Driving an 8% Surge in PUMP Price",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "url": "https://www.kucoin.com/news/flash/pump-fun-launches-pre-ipo-tokens-for-openai-polymarket-drives-8-pump-price-surge",
+   "title": "Anthropic proposes AI safety bill to U.S. Congress",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/en/view/117013/anthropic-proposes-ai-safety-bill-to-us-congress-to-prevent-runaway-ai",
    "label": "REPORTED",
-   "summary_1line": "Pump.fun launches pre-IPO tokens for major firms, driving 8.41% PUMP price rise.",
-   "published_at": "2026-10-20T02:40:44Z"
+   "summary_1line": "Anthropic proposes federal AI safety bill with 50-death or $1B-damage thresholds for government intervention.",
+   "published_at": "2026-10-20T02:36:03Z"
   },
   {
-   "title": "DeepSeek & MiniMax Unveil New AI Models in 72 Hours: Flash Series Challenges Flagship-Tier Generative AI",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "url": "https://eu.36kr.com/en/p/4033426369729416",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek and MiniMax launch high-performing, low-cost Flash models challenging flagship AI systems.",
-   "published_at": "2026-10-20T02:04:45Z"
+   "title": "US government bans Chinese AI company DeepSeek that had wiped more than $1 trillion from Wall Street in less than 2 hours, from all civilian agency IT systems",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-bans-chinese-ai-company-deepseek-that-had-wiped-more-than-1-trillion-from-wall-street-in-less-than-2-hours-from-all-civilian-agency-it-systems/articleshow/135060478.cms",
+   "label": "CONFIRMED",
+   "summary_1line": "US bans DeepSeek AI and Chinese test labs over security risks and data transfer fears.",
+   "published_at": "2026-10-19T20:12:00Z"
   },
   {
-   "title": "OpenAI races to raise $30 billion before Anthropic IPO",
-   "outlet": "Cryptopolitan",
-   "outlet_name": "Cryptopolitan",
-   "url": "https://www.cryptopolitan.com/openai-30-billion-before-anthropic-ipo/",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI seeks $30B funding before Anthropic’s IPO, citing $50B revenue growth.",
-   "published_at": "2026-10-19T17:00:00Z"
-  },
-  {
-   "title": "Did OpenAI Use Children’s Private Data? Lawsuit Alleges…",
-   "outlet": "Movieguide",
-   "outlet_name": "Movieguide",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFdSQ3VjT1BsT28yVkpBM2d6dzk0Vi1tYk5CMk1XRWpIVmpOUXVwOWQ1T0RIUzVLenk0d2ZSdUxPblR6ZDlyTHpuMlcxd0tyRHRPd05HalVJU3dXZEpSU3JZV3pBU1lYeXNYRWtEdEdnMjl1VDRIRnVkZDgwSW14SFF1cG5uWEZVbWpvYnl6bG9QSzAzdHJHSGhYX0FnYlRq?oc=5",
+   "title": "DHS bars DeepSeek from every federal civilian agency under a 2018 law",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/dhs-bars-deepseek-from-every-federal-civilian-agency-under-a-2018-law/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-20T03:05:52Z"
+   "published_at": "2026-10-20T04:10:25Z"
   },
   {
-   "title": "Nvidia reportedly succeeds in winning CPU chip order from artificial intelligence startup Modal, Modal previously relied entirely on Intel and AMD",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
-   "url": "https://news.futunn.com/flash/1001598343/nvidia-has-reportedly-secured-cpu-chip-orders-from-ai-startup",
+   "title": "Utho Cloud opens NVIDIA B300 GPU reservations in India",
+   "outlet": "DQ",
+   "outlet_name": "DQ",
+   "url": "https://www.dqindia.com/news/utho-cloud-opens-nvidia-b300-gpu-reservations-in-india-12690701",
    "label": "REPORTED",
-   "summary_1line": "Website requires JavaScript to be enabled.",
-   "published_at": "2026-10-20T02:49:15Z"
+   "summary_1line": "Utho Cloud opens reservations for NVIDIA B300 GPUs in India, deployment in Feb 2027.",
+   "published_at": "2026-10-20T03:50:37Z"
   }
  ],
  "ticker": [
-  {
-   "headline": "Pump.fun Launches Pre-IPO Tokens for OpenAI and Polymarket, Driving an 8% Surge in PUMP…",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "label": "REPORTED",
-   "url": "https://www.kucoin.com/news/flash/pump-fun-launches-pre-ipo-tokens-for-openai-polymarket-drives-8-pump-price-surge"
-  },
-  {
-   "headline": "DeepSeek & MiniMax Unveil New AI Models in 72 Hours: Flash Series Challenges…",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4033426369729416"
-  },
-  {
-   "headline": "OpenAI races to raise $30 billion before Anthropic IPO",
-   "outlet": "Cryptopolitan",
-   "outlet_name": "Cryptopolitan",
-   "label": "STILL OPEN",
-   "url": "https://www.cryptopolitan.com/openai-30-billion-before-anthropic-ipo/"
-  },
-  {
-   "headline": "Did OpenAI Use Children’s Private Data? Lawsuit Alleges…",
-   "outlet": "Movieguide",
-   "outlet_name": "Movieguide",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdFdSQ3VjT1BsT28yVkpBM2d6dzk0Vi1tYk5CMk1XRWpIVmpOUXVwOWQ1T0RIUzVLenk0d2ZSdUxPblR6ZDlyTHpuMlcxd0tyRHRPd05HalVJU3dXZEpSU3JZV3pBU1lYeXNYRWtEdEdnMjl1VDRIRnVkZDgwSW14SFF1cG5uWEZVbWpvYnl6bG9QSzAzdHJHSGhYX0FnYlRq?oc=5"
-  },
-  {
-   "headline": "Nvidia reportedly succeeds in winning CPU chip order from artificial intelligence startup…",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
-   "label": "REPORTED",
-   "url": "https://news.futunn.com/flash/1001598343/nvidia-has-reportedly-secured-cpu-chip-orders-from-ai-startup"
-  },
   {
    "headline": "Anthropic proposes AI safety bill to U.S. Congress",
    "outlet": "디지털투데이",
    "outlet_name": "디지털투데이",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMDNXWTVQX1M0X2hLVmlRQk5pY1dXU3kwNWNRcHkwbUpTOWZZcE1HdnlQcHY2YzlyNGt3M0NPOHo1Z3pIc3FmTnJjem1JeXB0dzFlbktra2tIUkh2WUZtM1FkZE54M0dtdW9xWlg1Nk5zemhKckNpSFFKcEtTM25hTzhTSk5wT0xUS0ZSbjh2V244YWVQY0xYRUwweHR6elpuSDdZSXFVd2lhWGdKSDQ3RE1sNVlZNGs?oc=5"
+   "url": "https://www.digitaltoday.co.kr/en/view/117013/anthropic-proposes-ai-safety-bill-to-us-congress-to-prevent-runaway-ai"
   },
   {
-   "headline": "US orders DeepSeek AI removal from federal IT systems, including third-party products",
-   "outlet": "The Chosun Ilbo on MSN",
-   "outlet_name": "The Chosun Ilbo on MSN",
+   "headline": "US government bans Chinese AI company DeepSeek that had wiped more than $1 trillion from…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-xl/news/other/us-orders-deepseek-ai-removal-from-federal-it-systems-including-third-party-products/ar-AA2fBPsS"
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/us-government-bans-chinese-ai-company-deepseek-that-had-wiped-more-than-1-trillion-from-wall-street-in-less-than-2-hours-from-all-civilian-agency-it-systems/articleshow/135060478.cms"
   },
   {
-   "headline": "NVIDIA RTX Spark Laptops Launch at $2,399 [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
+   "headline": "DHS bars DeepSeek from every federal civilian agency under a 2018 law",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://shattered.io/nvidia-rtx-spark-laptops-launch-2399-2026/"
+   "url": "https://startupfortune.com/dhs-bars-deepseek-from-every-federal-civilian-agency-under-a-2018-law/"
   },
   {
-   "headline": "Challenging NVIDIA CUDA, Amazon Launches Open-Source Tool TorchNeuron",
-   "outlet": "163.com",
-   "outlet_name": "163.com",
+   "headline": "Utho Cloud opens NVIDIA B300 GPU reservations in India",
+   "outlet": "DQ",
+   "outlet_name": "DQ",
    "label": "REPORTED",
-   "url": "https://www.163.com/dy/article/L9LVN2E10511B8LM.html"
-  },
-  {
-   "headline": "Grok Bot supports iPhone Action button, enabling voice conversation and other launches",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
-   "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/20/2000002411/"
+   "url": "https://www.dqindia.com/news/utho-cloud-opens-nvidia-b300-gpu-reservations-in-india-12690701"
   },
   {
    "headline": "Ex-DeepMind researcher Thore Graepel launches new startup Metis Reasoning",
@@ -130,21 +79,63 @@
    "url": "https://sifted.eu/articles/thore-graepel-metis-reasoning/"
   },
   {
-   "headline": "DeepSeek AI Faces Ban From Federal Networks Over Data Security Concerns (Oct 19, 2026)",
-   "outlet": "VitalLaw.com",
-   "outlet_name": "VitalLaw.com",
+   "headline": "Amazon launches new software tool to compete with Nvidia in the AI ​​market.",
+   "outlet": "Vietnam.vn",
+   "outlet_name": "Vietnam.vn",
    "label": "REPORTED",
-   "url": "https://www.vitallaw.com/news/deepseek-ai-faces-ban-from-federal-networks-over-data-security-concerns/cspd01397740af369a471fbe64e30815f69c44"
+   "url": "https://www.vietnam.vn/en/amazon-ra-mat-cong-cu-phan-mem-moi-nham-canh-tranh-voi-nvidia-tren-thi-truong-ai"
+  },
+  {
+   "headline": "Using Agency Law to Tame AI Agents",
+   "outlet": "arxiv.org",
+   "outlet_name": "arxiv.org",
+   "label": "REPORTED",
+   "url": "https://arxiv.org/abs/2502.18359"
+  },
+  {
+   "headline": "NVIDIA BlueField-4 STX Server for CMX at OCP 2026",
+   "outlet": "servethehome.com",
+   "outlet_name": "servethehome.com",
+   "label": "REPORTED",
+   "url": "https://www.servethehome.com/nvidia-bluefield-4-stx-server-for-cmx-at-ocp-2026/"
+  },
+  {
+   "headline": "What are ChatGPT ads showing to whom and what? US university investigates reality with 91…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002375/"
+  },
+  {
+   "headline": "Is it dangerous to do other work while logged into internet banking? Verifying data theft…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002377/"
+  },
+  {
+   "headline": "Southern Fund's Sci-Tech Innovation Artificial Intelligence ETF Southern (589230) Target…",
+   "outlet": "Jiemian.com",
+   "outlet_name": "Jiemian.com",
+   "label": "REPORTED",
+   "url": "https://m.jiemian.com/article/15211331.html"
+  },
+  {
+   "headline": "Musk, Anthropic outline dueling approaches to AI-era philanthropy",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/money/general/musk-anthropic-outline-dueling-approaches-to-ai-era-philanthropy/ar-AA2fBhNm?ocid=BingNewsVerp"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
  "articles_24h_rounded": 14700,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/04.mp3",
- "audio_seconds": 51.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/05.mp3",
+ "audio_seconds": 44.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by KuCoin: Pump.fun Launches Pre-IPO Tokens for OpenAI and Polymarket, Driving an 8% Surge in PUMP Price.\nReported by 36Kr: DeepSeek & MiniMax Unveil New AI Models in 72 Hours: Flash Series Challenges Flagship-Tier Generative AI.\nStill open, per Cryptopolitan: OpenAI races to raise $30 billion before Anthropic IPO.\nReported by Movieguide: Did OpenAI Use Children’s Private Data? Lawsuit Alleges….\nReported by 富途牛牛: Nvidia reportedly succeeds in winning CPU chip order from artificial intelligence startup Modal, Modal previously relied entirely on Intel and AMD.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by 디지털투데이: Anthropic proposes AI safety bill to U.S. Congress.\nConfirmed, per The Times of India: US government bans Chinese AI company DeepSeek that had wiped more than $1 trillion from Wall Street in less than 2 hours, from all civilian agency IT systems.\nReported by Startup Fortune: DHS bars DeepSeek from every federal civilian agency under a 2018 law.\nReported by DQ: Utho Cloud opens NVIDIA B300 GPU reservations in India.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
