@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T21:20:02Z",
- "hour": "2026-10-20T21:00:00Z",
+ "generated_at": "2026-10-20T22:20:02Z",
+ "hour": "2026-10-20T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to the world",
-   "outlet": "CryptoSlate",
-   "outlet_name": "CryptoSlate",
-   "url": "https://cryptoslate.com/us-orders-deepseek-purge-from-federal-systems-as-chinese-ai-rival-opens-its-technology-to-the-world/",
+   "title": "Anthropic had $16.3 billion in revenue during first half of 2026: WSJ",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/video/2026/10/20/anthropic-had-16-point-3-billion-in-revenue-during-first-half-of-2026-wsj.html",
    "label": "CONFIRMED",
-   "summary_1line": "US bans DeepSeek tech; DeepSeek opens infrastructure for global use.",
-   "published_at": "2026-10-20T12:00:00Z"
+   "summary_1line": "Anthropic earns $16.3B in first half of 2026, per WSJ.",
+   "published_at": "2026-10-20T19:54:00Z"
   },
   {
-   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+   "title": "Students protest at State House, call for AI regulation",
+   "outlet": "WCVB",
+   "outlet_name": "WCVB",
+   "url": "https://www.wcvb.com/article/massachusetts-students-demand-ai-lawmakers-act/74196223",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI acquires Orchestra Bio to boost its AI tools for biotech and pharma research.",
-   "published_at": "2026-10-20T20:35:10Z"
+   "summary_1line": "Students protest at Massachusetts State House for AI regulation, citing public concerns over AI development.",
+   "published_at": "2026-10-20T20:22:00Z"
   },
   {
-   "title": "Gemini's Personal Intelligence is coming to cars",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
-   "label": "CONFIRMED",
-   "summary_1line": "Google rolls out Personal Intelligence to Android Auto and Google Built-in vehicles in 2026.",
-   "published_at": "2026-10-20T20:00:33Z"
-  },
-  {
-   "title": "You Can Now Lock Private ChatGPT Conversations Behind a PIN",
-   "outlet": "Android Headlines",
-   "outlet_name": "Android Headlines",
-   "url": "https://www.androidheadlines.com/2026/10/openai-chatgpt-locked-chats.html",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI's Locked Chats hides private chats behind PINs or biometrics for better privacy.",
-   "published_at": "2026-10-20T19:42:09Z"
-  },
-  {
-   "title": "SpaceX’s AI business is beating expectations",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+   "title": "OpenAI’s former research chief launches Arda at a $1.5bn valuation",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qZlBJMGlLdDhoMWh6V2dRWVc0b0ZhRllPYktwNXI4SjdiXzVQMEdPVzZxN3J5U2RHMkQzY0R5T2hsWjBfVldGbS1xV0swZkEtcnpGVllSLU1XZjZuWUhnelBOZ0NHX1d3NVhFWkNpZWdDeXFnaGI3M0Fzbw?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-20T20:40:41Z"
+   "published_at": "2026-10-20T20:56:42Z"
+  },
+  {
+   "title": "OpenAI valuation odds jump after $30B raise report",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/seekingalpha:bee8b173e094b:0-openai-valuation-odds-jump-after-30b-raise-report/",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI's $30B funding report boosts $1.25T valuation odds to 85%, sparking credit market jitters.",
+   "published_at": "2026-10-20T19:34:09Z"
+  },
+  {
+   "title": "Reflex Aerospace Secures Nvidia Investment",
+   "outlet": "Via Satellite",
+   "outlet_name": "Via Satellite",
+   "url": "https://www.satellitetoday.com/finance/2026/10/20/reflex-aerospace-secures-nvidia-investment/",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia invests in German satellite startup Reflex Aerospace to boost on-board processing capabilities.",
+   "published_at": "2026-10-20T13:16:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to…",
-   "outlet": "CryptoSlate",
-   "outlet_name": "CryptoSlate",
+   "headline": "Anthropic had $16.3 billion in revenue during first half of 2026: WSJ",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://cryptoslate.com/us-orders-deepseek-purge-from-federal-systems-as-chinese-ai-rival-opens-its-technology-to-the-world/"
+   "url": "https://www.cnbc.com/video/2026/10/20/anthropic-had-16-point-3-billion-in-revenue-during-first-half-of-2026-wsj.html"
   },
   {
-   "headline": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "Students protest at State House, call for AI regulation",
+   "outlet": "WCVB",
+   "outlet_name": "WCVB",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
+   "url": "https://www.wcvb.com/article/massachusetts-students-demand-ai-lawmakers-act/74196223"
   },
   {
-   "headline": "Gemini's Personal Intelligence is coming to cars",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "label": "CONFIRMED",
-   "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/"
-  },
-  {
-   "headline": "You Can Now Lock Private ChatGPT Conversations Behind a PIN",
-   "outlet": "Android Headlines",
-   "outlet_name": "Android Headlines",
-   "label": "CONFIRMED",
-   "url": "https://www.androidheadlines.com/2026/10/openai-chatgpt-locked-chats.html"
-  },
-  {
-   "headline": "SpaceX’s AI business is beating expectations",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
+   "headline": "OpenAI’s former research chief launches Arda at a $1.5bn valuation",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
    "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qZlBJMGlLdDhoMWh6V2dRWVc0b0ZhRllPYktwNXI4SjdiXzVQMEdPVzZxN3J5U2RHMkQzY0R5T2hsWjBfVldGbS1xV0swZkEtcnpGVllSLU1XZjZuWUhnelBOZ0NHX1d3NVhFWkNpZWdDeXFnaGI3M0Fzbw?oc=5"
   },
   {
    "headline": "OpenAI valuation odds jump after $30B raise report",
@@ -95,6 +81,34 @@
    "url": "https://www.tradingview.com/news/seekingalpha:bee8b173e094b:0-openai-valuation-odds-jump-after-30b-raise-report/"
   },
   {
+   "headline": "Reflex Aerospace Secures Nvidia Investment",
+   "outlet": "Via Satellite",
+   "outlet_name": "Via Satellite",
+   "label": "REPORTED",
+   "url": "https://www.satellitetoday.com/finance/2026/10/20/reflex-aerospace-secures-nvidia-investment/"
+  },
+  {
+   "headline": "Perplexity Computer Now Runs Fully On Your Mac, Keeping Your Files Off the Cloud",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "CONFIRMED",
+   "url": "https://tech.yahoo.com/ai/perplexity-ai/articles/perplexity-computer-now-runs-fully-185648470.html"
+  },
+  {
+   "headline": "Daily Digest: Anthropic reveals growing debt, Meta policy chief to exit",
+   "outlet": "The Business Journals",
+   "outlet_name": "The Business Journals",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcnFQWmFfTDU5SFkwc2dwaks3SFp5d1lUT3FFcFIwODd4S29YdkJReGRRWDdqRThIMmpMX2xDVVZydmZuT0VrUFVBWWNsUF9xNGgxbmgxYktGUERtZ3pBUlo2eUZ4QWF2RXdGNjFvMzJtNWtXdmUwVWRlbzZ1eFR4dF96N3MtUkNfV2o5RXY4c0ltSmdfWUFSX3hPS0xaTjBDejZQNll3UjNzdDM0b2c?oc=5"
+  },
+  {
+   "headline": "Google brings Gemini Personal Intelligence to Android Auto",
+   "outlet": "engadget.com",
+   "outlet_name": "Engadget",
+   "label": "CONFIRMED",
+   "url": "https://www.engadget.com/2292027/google-brings-gemini-personal-intelligence-to-android-auto/"
+  },
+  {
    "headline": "Get hands-free personalized help on the road with Gemini",
    "outlet": "blog.google",
    "outlet_name": "blog.google",
@@ -102,49 +116,35 @@
    "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/"
   },
   {
+   "headline": "SpaceX quarterly revenue jumps, beats estimates as AI business surges",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/spacex-quarterly-revenue-jumps-beats-estimates-as-ai-business-surges/ar-AA2fFR9D"
+  },
+  {
+   "headline": "Golden Gate Claude",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/research/golden-gate-claude"
+  },
+  {
    "headline": "DeepSeek Open Sources Inference Tech to Lower AI Costs",
    "outlet": "PYMNTS.com",
    "outlet_name": "PYMNTS.com",
-   "label": "CONFIRMED",
+   "label": "REPORTED",
    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/"
-  },
-  {
-   "headline": "How scientists use Claude to accelerate research",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/accelerating-scientific-research"
-  },
-  {
-   "headline": "China defends DeepSeek after US ban",
-   "outlet": "The Hill on MSN",
-   "outlet_name": "The Hill on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/china-defends-deepseek-after-us-ban/ar-AA2fFG2M"
-  },
-  {
-   "headline": "Results from first Anthropic Public Record",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/anthropic-public-record"
-  },
-  {
-   "headline": "Using Grok Bot to detect and respond to incidents",
-   "outlet": "x.ai",
-   "outlet_name": "x.ai",
-   "label": "CONFIRMED",
-   "url": "https://x.ai/news/incident-sweep"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 15300,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/21.mp3",
- "audio_seconds": 39.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/22.mp3",
+ "audio_seconds": 48.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CryptoSlate: US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to the world.\nConfirmed, per TechCrunch: OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business.\nConfirmed, per Ars Technica: Gemini's Personal Intelligence is coming to cars.\nConfirmed, per Android Headlines: You Can Now Lock Private ChatGPT Conversations Behind a PIN.\nReported by TechCrunch: SpaceX’s AI business is beating expectations.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Anthropic had $16.3 billion in revenue during first half of 2026: WSJ.\nConfirmed, per WCVB: Students protest at State House, call for AI regulation.\nReported by The Next Web: OpenAI’s former research chief launches Arda at a $1.5bn valuation.\nStill open, per TradingView: OpenAI valuation odds jump after $30B raise report.\nReported by Via Satellite: Reflex Aerospace Secures Nvidia Investment.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
