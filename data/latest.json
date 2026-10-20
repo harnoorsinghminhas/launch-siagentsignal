@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T00:20:01Z",
- "hour": "2026-10-20T00:00:00Z",
+ "generated_at": "2026-10-20T01:20:01Z",
+ "hour": "2026-10-20T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Amazon releases TorchNeuron to pull AI workloads off Nvidia chips",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/amazon-releases-torchneuron-to-pull-ai-workloads-off-nvidia-chips/",
-   "label": "REPORTED",
-   "summary_1line": "AWS's TorchNeuron lets PyTorch run on Trainium with minimal code changes, cutting switching costs from Nvidia.",
-   "published_at": "2026-10-19T22:10:05Z"
-  },
-  {
-   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-   "outlet": "TechCrunch",
+   "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+   "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
-   "label": "REPORTED",
-   "summary_1line": "AI labs debate benchmark reliability, calling for standardized evaluations.",
-   "published_at": "2026-10-19T15:49:00Z"
+   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic and Nscale may finalize another $45B compute deal, amid investor concerns over AI spending.",
+   "published_at": "2026-10-19T23:39:38Z"
   },
   {
-   "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+   "title": "DHS orders removal of DeepSeek from government agency IT systems",
+   "outlet": "The Hill",
+   "outlet_name": "The Hill",
+   "url": "https://thehill.com/policy/technology/6159116-dhs-bans-chinese-deepseek-ai/amp/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic commits 5% shares to fund for AI job impact, with potential increases as valuation grows.",
-   "published_at": "2026-10-19T12:33:07Z"
+   "summary_1line": "DHS bans DeepSeek AI from U.S. government systems over data security fears.",
+   "published_at": "2026-10-19T21:43:09Z"
   },
   {
-   "title": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won’t replace heavy industry",
-   "outlet": "Orange County Register",
-   "outlet_name": "Orange County Register",
-   "url": "https://www.ocregister.com/2026/10/19/germany-nvidia/",
+   "title": "Huawei optimizes next-generation AI chips through DeepSeek cooperation... Aiming squarely at NVIDIA's dominance",
+   "outlet": "디지털데일리",
+   "outlet_name": "디지털데일리",
+   "url": "https://www.ddaily.co.kr/page/view/2026102008504038668",
    "label": "CONFIRMED",
-   "summary_1line": "Huang urges Germany to use AI to boost manufacturing, calling it a chance to re-engineer industry.",
-   "published_at": "2026-10-19T14:33:00Z"
+   "summary_1line": "Huawei and DeepSeek collaborate to optimize AI chips, reducing reliance on NVIDIA's ecosystem.",
+   "published_at": "2026-10-19T23:50:52Z"
   },
   {
-   "title": "NJ lawmakers weigh AI regulations amid industry and safety expert clash",
-   "outlet": "New Jersey Monitor",
-   "outlet_name": "New Jersey Monitor",
-   "url": "https://newjerseymonitor.com/2026/10/19/nj-ai-regulations-safety/",
+   "title": "ChatGPT alerted parents in just 5% of simulated high-risk teen conversations, study finds",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "url": "https://www.edtechinnovationhub.com/news/chatgpt-alerted-parents-in-just-5-of-simulated-high-risk-teen-conversations-study-finds",
    "label": "REPORTED",
-   "summary_1line": "New Jersey lawmakers debate AI regulations amid industry and safety expert分歧.",
-   "published_at": "2026-10-19T22:09:07Z"
+   "summary_1line": "ChatGPT alerted parents in just 5% of teen safety conversations, mostly for suicidal thoughts.",
+   "published_at": "2026-10-19T23:31:52Z"
+  },
+  {
+   "title": "Bundesregierung unterzeichnet Absichtserklärung mit Nvidia",
+   "outlet": "IT Journal",
+   "outlet_name": "IT Journal",
+   "url": "https://www.it-journal.de/222974-bundesregierung-unterzeichnet-absichtserklaerung-mit-nvidia.html",
+   "label": "REPORTED",
+   "summary_1line": "Germany and Nvidia sign deal to boost industrial AI via open models and ecosystem development.",
+   "published_at": "2026-10-19T22:07:30Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Amazon releases TorchNeuron to pull AI workloads off Nvidia chips",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/amazon-releases-torchneuron-to-pull-ai-workloads-off-nvidia-chips/"
-  },
-  {
-   "headline": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
-   "outlet": "TechCrunch",
+   "headline": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
+   "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
+   "label": "STILL OPEN",
+   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
   },
   {
-   "headline": "Anthropic commits 5% of shares to new public benefit fund that could address AI job…",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "DHS orders removal of DeepSeek from government agency IT systems",
+   "outlet": "The Hill",
+   "outlet_name": "The Hill",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html"
+   "url": "https://thehill.com/policy/technology/6159116-dhs-bans-chinese-deepseek-ai/amp/"
   },
   {
-   "headline": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won’t replace…",
-   "outlet": "Orange County Register",
-   "outlet_name": "Orange County Register",
+   "headline": "Huawei optimizes next-generation AI chips through DeepSeek cooperation... Aiming squarely…",
+   "outlet": "디지털데일리",
+   "outlet_name": "디지털데일리",
    "label": "CONFIRMED",
-   "url": "https://www.ocregister.com/2026/10/19/germany-nvidia/"
+   "url": "https://www.ddaily.co.kr/page/view/2026102008504038668"
   },
   {
-   "headline": "NJ lawmakers weigh AI regulations amid industry and safety expert clash",
-   "outlet": "New Jersey Monitor",
-   "outlet_name": "New Jersey Monitor",
+   "headline": "ChatGPT alerted parents in just 5% of simulated high-risk teen conversations, study finds",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
    "label": "REPORTED",
-   "url": "https://newjerseymonitor.com/2026/10/19/nj-ai-regulations-safety/"
+   "url": "https://www.edtechinnovationhub.com/news/chatgpt-alerted-parents-in-just-5-of-simulated-high-risk-teen-conversations-study-finds"
   },
   {
    "headline": "Bundesregierung unterzeichnet Absichtserklärung mit Nvidia",
@@ -102,32 +95,18 @@
    "url": "https://www.techtarget.com/ai/news/366652419/Microsoft-could-hold-an-advantage-with-Copilot-for-Legal"
   },
   {
-   "headline": "Ex-OpenAI engineer accused of bugging office stays in jail as prosecutors allege Saudi…",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/19/openai-alleged-bugger-alfozan-jail-saudi-court-filings-hearing/"
-  },
-  {
-   "headline": "U.S. orders removal of China's DeepSeek products from federal civilian agencies",
-   "outlet": "Yonhap News Agency",
-   "outlet_name": "Yonhap News Agency",
-   "label": "REPORTED",
-   "url": "https://en.yna.co.kr/view/AEN20261020000500315"
-  },
-  {
-   "headline": "US banning Chinese AI DeepSeek from government agency IT systems",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/tech-companies/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/ar-AA2fBp4G"
-  },
-  {
    "headline": "US court keeps former OpenAI engineer Alfozan in custody — Fortune",
    "outlet": "UA.NEWS",
    "outlet_name": "UA.NEWS",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTlkM21hMFd3X0N2bUVGMk5pam5wRFNtVmt6M0pYSFN5LUFBMVgzd19Ga2hoR091dG9RaDJRN1RmaXBUS1NUQTRJWU4talhsYmx5dG9QM3ZSUDJkeDlDQzJsWU1NZzJDX2JYa1kwTWdJNzdtSk42VW5mRDA1WkJVV19OY18zb1Q5T2lmTXZhaFdORkd5Znc3cTctT05GeUtVZlE?oc=5"
+   "url": "https://ua.news/en/technologies/sud-u-ssha-zalishiv-pid-vartoiu-eksinzhenera-openai-alfozana-fortune"
+  },
+  {
+   "headline": "Nvidia Releases Open-Weight Bolt Model for Local AI Agents",
+   "outlet": "www.tokenpost.com",
+   "outlet_name": "www.tokenpost.com",
+   "label": "REPORTED",
+   "url": "https://www.tokenpost.com/news/technology/35073"
   },
   {
    "headline": "US Anthropic in $45B contract talks, aiming to secure AI compute power",
@@ -135,16 +114,37 @@
    "outlet_name": "ノアドット on MSN",
    "label": "CONFIRMED",
    "url": "https://www.msn.com/ja-jp/news/other/米アンソロ-7兆円契約か-ai計算能力の確保目指す/ar-AA2fBwTJ"
+  },
+  {
+   "headline": "Mercury 3 claims to outperform GPT-6 Luna, Claude Haiku 5.5 at 8 times the speed",
+   "outlet": "interestingengineering.com",
+   "outlet_name": "interestingengineering.com",
+   "label": "REPORTED",
+   "url": "https://interestingengineering.com/ai-robotics/mercury-3-diffusion-model-8-times-faster"
+  },
+  {
+   "headline": "Structured outputs for Anthropic Claude models on Amazon Bedrock | Artificial Intelligence",
+   "outlet": "aws.amazon.com",
+   "outlet_name": "aws.amazon.com",
+   "label": "REPORTED",
+   "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/"
+  },
+  {
+   "headline": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+   "outlet": "redact.dev",
+   "outlet_name": "redact.dev",
+   "label": "REPORTED",
+   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13400,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13500,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/00.mp3",
- "audio_seconds": 64.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/01.mp3",
+ "audio_seconds": 58.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAmazon released TorchNeuron to help companies move artificial intelligence workloads from Nvidia chips, cutting switching costs through PyTorch support on Trainium. Reported by Startup Fortune.\nHugging Face's policy chief says embedded artificial intelligence evaluators won't be an easy solution, as labs debate benchmark reliability and standardized evaluations. Reported by TechCrunch.\nAnthropic committed 5 percent of shares to a new public benefit fund addressing artificial intelligence job disruption, with potential increases as valuation grows. Confirmed by CNBC.\nNvidia's CEO urged German manufacturers to adopt artificial intelligence for manufacturing, calling it a chance to re-engineer industry without replacing heavy industry. Confirmed by Orange County Register.\nNew Jersey lawmakers are weighing artificial intelligence regulations as industry and safety experts clash over policy direction. Reported by New Jersey Monitor.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic and Nscale may finalize another 45 billion dollar compute deal, Still open per TechCrunch, amid investor concerns over artificial intelligence spending.\nThe Department of Homeland Security has banned DeepSeek artificial intelligence from U.S. government systems, Confirmed by The Hill, over data security fears.\nHuawei and DeepSeek collaborate to optimize artificial intelligence chips, Confirmed per 디지털데일리, reducing reliance on another company's ecosystem.\nChatGPT alerted parents in just 5 percent of teen safety conversations, Reported by EdTech Innovation Hub, mostly for suicidal thoughts.\nGermany and Nvidia have signed a deal to boost industrial artificial intelligence, Reported by IT Journal, via open models and ecosystem development.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
