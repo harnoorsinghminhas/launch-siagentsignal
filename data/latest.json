@@ -1,119 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T11:20:01Z",
- "hour": "2026-10-20T11:00:00Z",
+ "generated_at": "2026-10-20T12:20:01Z",
+ "hour": "2026-10-20T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "US government demands US federal agencies must stop using Chinese artificial intelligence companies such as DeepSeek; China: consistently opposes politicizing science, technology, trade and economic issues, and will reso",
-   "outlet": "腾讯网",
-   "outlet_name": "腾讯网",
-   "url": "https://news.qq.com/rain/a/20261020A09B5L00",
+   "title": "China condemns US ban on DeepSeek AI tools",
+   "outlet": "Daily Post Nigeria",
+   "outlet_name": "Daily Post Nigeria",
+   "url": "https://dailypost.ng/2026/10/20/china-condemns-us-ban-on-deepseek-ai-tools/",
    "label": "CONFIRMED",
-   "summary_1line": "China rejects U.S. demand to ban Chinese AI firms from U.S. agencies.",
-   "published_at": "2026-10-19T18:16:00Z"
+   "summary_1line": "China condemns U.S. ban on DeepSeek AI tools as overreach of national security claims.",
+   "published_at": "2026-10-20T03:00:00Z"
   },
   {
-   "title": "US bans govt agencies from using DeepSeek, China vows to protect firms",
-   "outlet": "Daily Sabah",
-   "outlet_name": "Daily Sabah",
-   "url": "https://www.dailysabah.com/business/economy/us-bans-govt-agencies-from-using-deepseek-china-vows-to-protect-firms",
+   "title": "US bans DeepSeek from federal civilian networks over security risks",
+   "outlet": "Yeni Şafak English",
+   "outlet_name": "Yeni Şafak English",
+   "url": "https://en.yenisafak.com/world/us-bans-deepseek-from-federal-civilian-networks-over-security-risks-3724641",
    "label": "CONFIRMED",
-   "summary_1line": "U.S. bans DeepSeek tools over data security fears; China calls it overreach.",
-   "published_at": "2026-10-19T14:05:00Z"
+   "summary_1line": "US bans DeepSeek from federal networks over security risks; Beijing responds with defense of tech sovereignty.",
+   "published_at": "2026-10-20T10:11:58Z"
   },
   {
-   "title": "SpaceX, Anthropic plan to share wealth with the public amid concern AI could trigger job losses",
-   "outlet": "Los Angeles Times",
-   "outlet_name": "Los Angeles Times",
-   "url": "https://www.latimes.com/business/story/2026-10-20/spacex-anthropic-plan-to-share-wealth-with-public-amid-concern-ai-could-trigger-job-losses",
+   "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic and SpaceX pledge AI wealth to public, with Musk targeting every U.S. child.",
-   "published_at": "2026-10-20T10:00:00Z"
+   "summary_1line": "Otter.ai raises $320M to expand enterprise AI with 40M users and new meeting insights features.",
+   "published_at": "2026-10-20T11:00:00Z"
   },
   {
-   "title": "Teradata Introduces New Privacy, Security, and Resiliency Capabilities as AI Forces Change in Enterprise Data Protection",
-   "outlet": "FT Markets",
-   "outlet_name": "FT Markets",
-   "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610200500PR_NEWS_USPRX____CL75753-1",
-   "label": "CONFIRMED",
-   "summary_1line": "Teradata launches AI-focused privacy and security tools for enterprise data.",
-   "published_at": "2026-10-19T12:59:00Z"
-  },
-  {
-   "title": "DeepSeek open-sources DeepInfer, the inference engine behind its production models",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/deepseek-open-sources-deepinfer-inference-framework/",
+   "title": "Governments, regulators increase scrutiny of China's DeepSeek",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVhkM1J5N0IzOXhOUDREMjd2N3J4eHJaNUREaWhaSWhISlNxMnBmWDZRXzYtczB3ME1xT0N2Z0hxWEdHU1MtSDdjVXBTMlBYdmd4NmFNNk9GRl9McmE3c2lQaFFoSG9KbEtiUnp0MGlqbVlOekpva3BUalZZUDgxc21KeGhCaFNGckszZ2k1anR4d2NQNmhwaklreTh3cHpwM3B5VQ?oc=5",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek open-sources DeepInfer for high-throughput, low-latency model inference on NVIDIA and Huawei hardware.",
-   "published_at": "2026-10-20T02:35:00Z"
+   "summary_1line": null,
+   "published_at": "2026-10-20T11:44:56Z"
+  },
+  {
+   "title": "NVIDIA RTX Spark laptops launch with prices starting at $2,399",
+   "outlet": "GameGPU",
+   "outlet_name": "GameGPU",
+   "url": "https://en.gamegpu.com/news/zhelezo/start-prodazh-noutbukov-nvidia-rtx-spark-po-tsene-ot-usd2-399",
+   "label": "REPORTED",
+   "summary_1line": "NVIDIA launches RTX Spark laptops with Blackwell GPUs at $2,399.",
+   "published_at": "2026-10-20T10:48:38Z"
   }
  ],
  "ticker": [
   {
-   "headline": "US government demands US federal agencies must stop using Chinese artificial intelligence…",
-   "outlet": "腾讯网",
-   "outlet_name": "腾讯网",
+   "headline": "China condemns US ban on DeepSeek AI tools",
+   "outlet": "Daily Post Nigeria",
+   "outlet_name": "Daily Post Nigeria",
    "label": "CONFIRMED",
-   "url": "https://news.qq.com/rain/a/20261020A09B5L00"
+   "url": "https://dailypost.ng/2026/10/20/china-condemns-us-ban-on-deepseek-ai-tools/"
   },
   {
-   "headline": "US bans govt agencies from using DeepSeek, China vows to protect firms",
-   "outlet": "Daily Sabah",
-   "outlet_name": "Daily Sabah",
+   "headline": "US bans DeepSeek from federal civilian networks over security risks",
+   "outlet": "Yeni Şafak English",
+   "outlet_name": "Yeni Şafak English",
    "label": "CONFIRMED",
-   "url": "https://www.dailysabah.com/business/economy/us-bans-govt-agencies-from-using-deepseek-china-vows-to-protect-firms"
+   "url": "https://en.yenisafak.com/world/us-bans-deepseek-from-federal-civilian-networks-over-security-risks-3724641"
   },
   {
-   "headline": "SpaceX, Anthropic plan to share wealth with the public amid concern AI could trigger job…",
-   "outlet": "Los Angeles Times",
-   "outlet_name": "Los Angeles Times",
+   "headline": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.latimes.com/business/story/2026-10-20/spacex-anthropic-plan-to-share-wealth-with-public-amid-concern-ai-could-trigger-job-losses"
+   "url": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
   },
   {
-   "headline": "Teradata Introduces New Privacy, Security, and Resiliency Capabilities as AI Forces…",
-   "outlet": "FT Markets",
-   "outlet_name": "FT Markets",
+   "headline": "Governments, regulators increase scrutiny of China's DeepSeek",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVhkM1J5N0IzOXhOUDREMjd2N3J4eHJaNUREaWhaSWhISlNxMnBmWDZRXzYtczB3ME1xT0N2Z0hxWEdHU1MtSDdjVXBTMlBYdmd4NmFNNk9GRl9McmE3c2lQaFFoSG9KbEtiUnp0MGlqbVlOekpva3BUalZZUDgxc21KeGhCaFNGckszZ2k1anR4d2NQNmhwaklreTh3cHpwM3B5VQ?oc=5"
+  },
+  {
+   "headline": "NVIDIA RTX Spark laptops launch with prices starting at $2,399",
+   "outlet": "GameGPU",
+   "outlet_name": "GameGPU",
+   "label": "REPORTED",
+   "url": "https://en.gamegpu.com/news/zhelezo/start-prodazh-noutbukov-nvidia-rtx-spark-po-tsene-ot-usd2-399"
+  },
+  {
+   "headline": "Banned From Top AI Chips, China Just Dropped $35 Billion On This Nvidia GPU",
+   "outlet": "NDTV Profit",
+   "outlet_name": "NDTV Profit",
    "label": "CONFIRMED",
-   "url": "https://markets.ft.com/data/announce/detail?dockey=600-202610200500PR_NEWS_USPRX____CL75753-1"
+   "url": "https://www.ndtvprofit.com/technology/banned-from-top-ai-chips-china-just-dropped-35-billion-on-this-nvidia-gpu-12210396"
   },
   {
-   "headline": "DeepSeek open-sources DeepInfer, the inference engine behind its production models",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/deepseek-open-sources-deepinfer-inference-framework/"
+   "headline": "RTX 6060 expected in 2029 as Nvidia “drag the release” – leaker claims",
+   "outlet": "OC3D",
+   "outlet_name": "OC3D",
+   "label": "STILL OPEN",
+   "url": "https://overclock3d.net/news/gpu-displays/rtx-6060-expected-in-2029-as-nvidia-drag-the-release-leaker-claims/"
   },
   {
-   "headline": "GitHub’s Copilot model policy API turns model access into auditable configuration",
-   "outlet": "OpenTools",
-   "outlet_name": "OpenTools",
+   "headline": "MySSAgent's Social Security Claiming Estimator Now Listed in Claude's Connectors Directory",
+   "outlet": "EIN Presswire",
+   "outlet_name": "EIN Presswire",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZzEzWmpZVjdTZ2JJUFVaVG9SaGhNb3lfMU5majZCSEdRQ2pWeVVZUl96bTctME9mNGlTM3FIWWFKeHYybVJNWVliOWlrakFMYnNTdWdRc2kzYlBVVmF2Sk1icXJuMzJ5aFRiU25BYlBfVC1aZnVZbWN6OE9UTW9QTVNHSQ?oc=5"
+   "url": "https://www.einpresswire.com/article/949650758/myssagent-s-social-security-claiming-estimator-now-listed-in-claude-s-connectors-directory"
   },
   {
-   "headline": "FCA plans to be ‘agentic’ regulator and shift to AI supervision",
-   "outlet": "Insurance Times",
-   "outlet_name": "Insurance Times",
-   "label": "REPORTED",
-   "url": "https://www.insurancetimes.co.uk/news/fca-plans-to-be-agentic-regulator-and-shift-to-ai-supervision/1460034.article"
+   "headline": "Anthropic's leaked federal AI bill undermines its safety first approach",
+   "outlet": "transformernews.ai",
+   "outlet_name": "transformernews.ai",
+   "label": "STILL OPEN",
+   "url": "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach"
   },
   {
-   "headline": "Jensen Huang Appeared at the NVIDIA RTX Spark Launch in Berlin",
-   "outlet": "Root-Nation.com",
-   "outlet_name": "Root-Nation.com",
-   "label": "REPORTED",
-   "url": "https://root-nation.com/en/news-en/reports-en/en-nvidia-rtx-spark-launch-berlin/"
+   "headline": "Microsoft now treats AI agents as insiders risks that could go rogue",
+   "outlet": "The Economic Times on MSN",
+   "outlet_name": "The Economic Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/microsoft-now-treats-ai-agents-as-insiders-risks-that-could-go-rogue/ar-AA2fDSdy"
   },
   {
-   "headline": "Nvidia invests in four German startups as part of $10BN European investment pledge",
-   "outlet": "tech.eu",
-   "outlet_name": "tech.eu",
+   "headline": "OpenAI Racing to Raise $30 Billion Ahead of Anthropic Listing",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
    "label": "REPORTED",
-   "url": "https://tech.eu/2026/10/20/nvidia-invests-in-four-german-startups-as-part-of-10bn-european-investment-pledge/"
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-racing-to-raise-30-billion-ahead-of-anthropic-listing/"
   },
   {
    "headline": "Introducing Gemini for government services",
@@ -121,30 +135,16 @@
    "outlet_name": "cloud.google.com",
    "label": "REPORTED",
    "url": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-for-government-services"
-  },
-  {
-   "headline": "Anthropic's leaked federal AI bill undermines its safety first approach",
-   "outlet": "transformernews.ai",
-   "outlet_name": "transformernews.ai",
-   "label": "REPORTED",
-   "url": "https://www.transformernews.ai/p/anthropic-leaked-ai-bill-undermines-safety-first-approach"
-  },
-  {
-   "headline": "EU-Bischofskommission begrüßt KI-Regulierung",
-   "outlet": "domradio.de",
-   "outlet_name": "domradio.de",
-   "label": "REPORTED",
-   "url": "https://www.domradio.de/video/eu-bischofskommission-begruesst-ki-regulierung"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by eight different outlets in the last few hours.",
- "articles_24h_rounded": 15000,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 15100,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/11.mp3",
- "audio_seconds": 59.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/12.mp3",
+ "audio_seconds": 48.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe U.S. government is demanding federal agencies stop using Chinese artificial intelligence companies like DeepSeek, according to reports confirmed by 腾讯网.\nDaily Sabah confirmed that the U.S. bans DeepSeek tools over data security concerns, while China calls the move overreach.\nLos Angeles Times confirmed that Anthropic and SpaceX plan to share wealth with the public amid concerns about artificial intelligence and job losses.\nConfirmed by FT Markets: Teradata introduces new privacy, security, and resiliency capabilities as artificial intelligence forces change in enterprise data protection.\nDeepSeek open-sources DeepInfer, the inference engine behind its production models, reported by Crypto Briefing for high-throughput, low-latency model inference on NVIDIA and Huawei hardware.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Daily Post Nigeria: China condemns US ban on DeepSeek AI tools.\nConfirmed, per Yeni Şafak English: US bans DeepSeek from federal civilian networks over security risks.\nConfirmed, per TechCrunch: Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool.\nReported by Reuters: Governments, regulators increase scrutiny of China's DeepSeek.\nReported by GameGPU: NVIDIA RTX Spark laptops launch with prices starting at $2,399.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
