@@ -1,119 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T17:20:02Z",
- "hour": "2026-10-20T17:00:00Z",
+ "generated_at": "2026-10-20T18:20:02Z",
+ "hour": "2026-10-20T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China says US' DeepSeek ban disregards Xi-Trump consensus",
-   "outlet": "The Korea Times",
-   "outlet_name": "The Korea Times",
-   "url": "https://www.koreatimes.co.kr/world/20261021/china-says-us-deepseek-ban-disregards-xi-trump-consensus",
+   "title": "Anthropic to rewrite part of its leaked AI bill after safety backlash",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/anthropic-leaked-ai-safety-bill-backlash-frontier",
    "label": "CONFIRMED",
-   "summary_1line": "China condemns U.S. DeepSeek ban, calling it a violation of leader-level consensus.",
-   "published_at": "2026-10-20T15:38:00Z"
+   "summary_1line": "Anthropic to revise AI safety bill amid criticism over weak thresholds and preemption.",
+   "published_at": "2026-10-20T07:38:00Z"
   },
   {
-   "title": "DeepSeek open-sources the inference engine behind its API. And Huawei gets equal billing with Nvidia.",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "url": "https://thenewstack.io/deepseek-deepinfer-huawei-nvidia/",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek open-sources inference engine for Nvidia and Huawei hardware.",
-   "published_at": "2026-10-20T15:01:47Z"
-  },
-  {
-   "title": "Knexus Accelerates Enterprise AI Transformation with Google Cloud's Gemini for Government Services",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/news-releases/knexus-accelerates-enterprise-ai-transformation-with-google-clouds-gemini-for-government-services-302914330.html",
+   "title": "DeepSeek open-sources DeepInfer to cut the cost of running AI models",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/deepseek-open-sources-deepinfer-ai-costs/",
    "label": "CONFIRMED",
-   "summary_1line": "Knexus joins Google Cloud as launch partner for Gemini in government services.",
-   "published_at": "2026-10-20T15:54:00Z"
+   "summary_1line": "DeepSeek open-sources DeepInfer to cut AI inference costs for developers.",
+   "published_at": "2026-10-20T08:12:00Z"
   },
   {
-   "title": "Anthropic Proposes AI Bill With 50-Death Threshold Before Models Can Be Halted",
-   "outlet": "Truthout",
-   "outlet_name": "Truthout",
-   "url": "https://truthout.org/articles/anthropic-proposes-ai-bill-with-50-death-threshold-before-models-can-be-halted/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic proposes strict AI regulation with $1B or 50+ lives at risk thresholds.",
-   "published_at": "2026-10-20T08:01:00Z"
+   "title": "Visa, BILL, and Billtrust start pilot for automating invoice payments with AI agents",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/seekingalpha:3b3d07d8d094b:0-visa-bill-and-billtrust-start-pilot-for-automating-invoice-payments-with-ai-agents/",
+   "label": "CONFIRMED",
+   "summary_1line": "Visa, BILL, and Billtrust pilot AI agents for automated B2B invoice payments.",
+   "published_at": "2026-10-20T14:52:33Z"
   },
   {
-   "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHNjhtdzByVVBoVlhtcE5tVHpJU3c3QWlVRlM0bTZ6eVo3Mkd2Z214TjBlb1pxZ2Q5bWE1WUFRcjJEa2IxN1puWTlUaHM3Y2VFcFI4cERfLUJCZDQ?oc=5",
+   "title": "Federal Judge Allows NAACP Lawsuit Against Elon Musk’s xAI to Move Forward",
+   "outlet": "The Michigan Chronicle",
+   "outlet_name": "The Michigan Chronicle",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTFlRGs0NEtkSV9vZzJJeUhrampSbVBvdHVVZWhQZWtPZm1RYkN0OXR0eWtiZmdGVXl4OG1lSkdpVkhTV2NkVXZJVEpuYTJ6cHhWdFZ0Z0xsN0dCc2pMaDkwNnVSYnIxOVlJeDJzS0MwLWQtWlNFNk5hVGtabmpxMERFUk5JQnBJOGRvTkwxXzctcGNyQWp0bl9UYVFxUGZ0TzBwZDhuOA?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-20T16:59:17Z"
+   "published_at": "2026-10-20T17:11:46Z"
+  },
+  {
+   "title": "Elite Extends Elite Intelligence to Claude and Microsoft Copilot, Bringing Trusted Financial Context into the AI Experiences Law Firms Already Use",
+   "outlet": "01net",
+   "outlet_name": "01net",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRUIwOVhOS0gzdURfckFQWllSVDQ0NUpzTUs0dWx2OWdURkxHT09keGdGVC1WQk9FZW41NTJCUWtGbmU5YVVqaC1wNDZSd3BTaXdlNHBrMVkwWTJ6TWpoM2pwMGhkX21EbVBhZlY5bHBxbDc2OUR1bEg5QmVXcHdocm1EOXNPbjdGcUt3TURhOGdNNGRadnRaVmFuR3pncEFzRllucTgzUTBqVERrR3hkeXZ3SmVRNF9OX2V2UG5RRmUxc1dJX05tc1RHNDBPOVo4SVVKWG1TdnNnWEhtUFFISGI2N3d5U3lNMkR4MkZTR1p3OHZfeGRKTmFwYw?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-20T17:02:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "China says US' DeepSeek ban disregards Xi-Trump consensus",
-   "outlet": "The Korea Times",
-   "outlet_name": "The Korea Times",
+   "headline": "Anthropic to rewrite part of its leaked AI bill after safety backlash",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
    "label": "CONFIRMED",
-   "url": "https://www.koreatimes.co.kr/world/20261021/china-says-us-deepseek-ban-disregards-xi-trump-consensus"
-  },
-  {
-   "headline": "DeepSeek open-sources the inference engine behind its API. And Huawei gets equal billing…",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "label": "REPORTED",
-   "url": "https://thenewstack.io/deepseek-deepinfer-huawei-nvidia/"
-  },
-  {
-   "headline": "Knexus Accelerates Enterprise AI Transformation with Google Cloud's Gemini for Government…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/knexus-accelerates-enterprise-ai-transformation-with-google-clouds-gemini-for-government-services-302914330.html"
-  },
-  {
-   "headline": "Anthropic Proposes AI Bill With 50-Death Threshold Before Models Can Be Halted",
-   "outlet": "Truthout",
-   "outlet_name": "Truthout",
-   "label": "REPORTED",
-   "url": "https://truthout.org/articles/anthropic-proposes-ai-bill-with-50-death-threshold-before-models-can-be-halted/"
-  },
-  {
-   "headline": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHNjhtdzByVVBoVlhtcE5tVHpJU3c3QWlVRlM0bTZ6eVo3Mkd2Z214TjBlb1pxZ2Q5bWE1WUFRcjJEa2IxN1puWTlUaHM3Y2VFcFI4cERfLUJCZDQ?oc=5"
-  },
-  {
-   "headline": "Half of AI Derivative Models Released by South Korean Developers Are Built on Chinese…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/f0ba61af-bf59-4deb-9fc7-a18e6ca0508f"
+   "url": "https://thenextweb.com/news/anthropic-leaked-ai-safety-bill-backlash-frontier"
   },
   {
    "headline": "DeepSeek open-sources DeepInfer to cut the cost of running AI models",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://cryptobriefing.com/deepseek-open-sources-deepinfer-ai-costs/"
   },
   {
-   "headline": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new…",
-   "outlet": "Interconnects AI",
-   "outlet_name": "Interconnects AI",
-   "label": "REPORTED",
-   "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek"
+   "headline": "Visa, BILL, and Billtrust start pilot for automating invoice payments with AI agents",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "CONFIRMED",
+   "url": "https://www.tradingview.com/news/seekingalpha:3b3d07d8d094b:0-visa-bill-and-billtrust-start-pilot-for-automating-invoice-payments-with-ai-agents/"
   },
   {
-   "headline": "Arkansas AG Tim Griffin Sues OpenAI Over ChatGPT Safety Claims",
-   "outlet": "Arkansas Money & Politics",
-   "outlet_name": "Arkansas Money & Politics",
+   "headline": "Federal Judge Allows NAACP Lawsuit Against Elon Musk’s xAI to Move Forward",
+   "outlet": "The Michigan Chronicle",
+   "outlet_name": "The Michigan Chronicle",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mMnA1YS1OZTBVR2l6eU93bUZGWThhY2VoQ0lkZmd3R29LWXgtXzllMzdYRUx0SDVZUDFqT0NJQzNRTUFKWkp0V1YxRmIyUXBrNlNzU3ZjaU10T0p3Tm1lSjZEeVNvbEtwUVgtamFsaDJaLXEtNlE?oc=5"
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQTFlRGs0NEtkSV9vZzJJeUhrampSbVBvdHVVZWhQZWtPZm1RYkN0OXR0eWtiZmdGVXl4OG1lSkdpVkhTV2NkVXZJVEpuYTJ6cHhWdFZ0Z0xsN0dCc2pMaDkwNnVSYnIxOVlJeDJzS0MwLWQtWlNFNk5hVGtabmpxMERFUk5JQnBJOGRvTkwxXzctcGNyQWp0bl9UYVFxUGZ0TzBwZDhuOA?oc=5"
+  },
+  {
+   "headline": "Elite Extends Elite Intelligence to Claude and Microsoft Copilot, Bringing Trusted…",
+   "outlet": "01net",
+   "outlet_name": "01net",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRUIwOVhOS0gzdURfckFQWllSVDQ0NUpzTUs0dWx2OWdURkxHT09keGdGVC1WQk9FZW41NTJCUWtGbmU5YVVqaC1wNDZSd3BTaXdlNHBrMVkwWTJ6TWpoM2pwMGhkX21EbVBhZlY5bHBxbDc2OUR1bEg5QmVXcHdocm1EOXNPbjdGcUt3TURhOGdNNGRadnRaVmFuR3pncEFzRllucTgzUTBqVERrR3hkeXZ3SmVRNF9OX2V2UG5RRmUxc1dJX05tc1RHNDBPOVo4SVVKWG1TdnNnWEhtUFFISGI2N3d5U3lNMkR4MkZTR1p3OHZfeGRKTmFwYw?oc=5"
+  },
+  {
+   "headline": "Is a new job in Rep. Moran’s office a sign Congress is staffing up on AI?",
+   "outlet": "Transformer | Substack",
+   "outlet_name": "Transformer | Substack",
+   "label": "REPORTED",
+   "url": "https://www.transformernews.ai/p/nathaniel-moran-to-hire-ai-staffer"
+  },
+  {
+   "headline": "DHS Orders DeepSeek Wiped From Civilian Federal Computers Over China Spy Fears",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
+   "label": "CONFIRMED",
+   "url": "https://hoodline.com/2026/10/dhs-orders-deepseek-wiped-from-civilian-federal-computers-over-china-spy-fears/"
+  },
+  {
+   "headline": "Brazil: Meta AI faces allegations of unequal treatment of Lula and Flávio Bolsonaro in…",
+   "outlet": "Business and Human Rights Centre",
+   "outlet_name": "Business and Human Rights Centre",
+   "label": "REPORTED",
+   "url": "https://www.business-humanrights.org/en/latest-news/meta-responded-to-allegations-of-unequal-treatment-of-presidential-candidates-by-its-ai-tools-in-brazil/"
   },
   {
    "headline": "New Gemini business landing page and tools launched",
@@ -123,11 +116,11 @@
    "url": "https://blog.google/innovation-and-ai/products/gemini-app/new-tools-small-business-owners/"
   },
   {
-   "headline": "How Claude designed protein binders against scorpion neurotoxins \\ Anthropic",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/claude-scorpion-toxin-binder-design"
+   "headline": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new…",
+   "outlet": "interconnects.ai",
+   "outlet_name": "interconnects.ai",
+   "label": "STILL OPEN",
+   "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek"
   },
   {
    "headline": "Ask a Scientist: How can AI help doctors spend more time on collaborative care?",
@@ -135,16 +128,23 @@
    "outlet_name": "blog.google",
    "label": "CONFIRMED",
    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-clinical-study/"
+  },
+  {
+   "headline": "Sources: Sam Altman told OpenAI staff of three AI endgames: an IAEA-style regulator, a…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "label": "REPORTED",
+   "url": "https://www.techmeme.com/261020/p32#a261020p32"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 15100,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/17.mp3",
- "audio_seconds": 45.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/18.mp3",
+ "audio_seconds": 57.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Korea Times: China says US' DeepSeek ban disregards Xi-Trump consensus.\nReported by The New Stack: DeepSeek open-sources the inference engine behind its API. And Huawei gets equal billing with Nvidia.\nConfirmed, per PR Newswire: Knexus Accelerates Enterprise AI Transformation with Google Cloud's Gemini for Government Services.\nReported by Truthout: Anthropic Proposes AI Bill With 50-Death Threshold Before Models Can Be Halted.\nReported by OpenAI: Franchisee reconciles cash in 94% less time with ChatGPT Work.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic to rewrite part of its leaked artificial intelligence bill after safety backlash, confirmed by The Next Web amid criticism over weak thresholds and preemption.\nDeepSeek open-sources DeepInfer to cut the cost of running artificial intelligence models for developers, confirmed per Crypto Briefing.\nVisa, BILL, and Billtrust start pilot for automating invoice payments with artificial intelligence agents, confirmed by TradingView.\nReported by The Michigan Chronicle: Federal Judge allows NAACP lawsuit against Elon Musk's xAI to move forward.\nElite extends Elite Intelligence to Claude and Microsoft Copilot, bringing trusted financial context into the artificial intelligence experiences law firms already use, reported per 01net.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
