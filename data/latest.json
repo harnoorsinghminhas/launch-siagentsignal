@@ -1,98 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T01:20:01Z",
- "hour": "2026-10-20T01:00:00Z",
+ "generated_at": "2026-10-20T02:20:01Z",
+ "hour": "2026-10-20T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+   "title": "Charity or show? Anthropic plans to donate 320 billion yuan in equity before IPO",
+   "outlet": "东方财富",
+   "outlet_name": "东方财富",
+   "url": "https://finance.eastmoney.com/a/202610203900586138.html",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic to donate 5% shares, worth 3200 billion RMB, for public benefit amid AI job disruption concerns.",
+   "published_at": "2026-10-20T00:20:31Z"
+  },
+  {
+   "title": "Anthropic reportedly preparing to release new model with reasoning capabilities superior to peers",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4033470414279560?f=rss",
+   "label": "REPORTED",
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
+  },
+  {
+   "title": "OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4610T9:0-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say/",
    "label": "STILL OPEN",
-   "summary_1line": "Anthropic and Nscale may finalize another $45B compute deal, amid investor concerns over AI spending.",
-   "published_at": "2026-10-19T23:39:38Z"
+   "summary_1line": "OpenAI seeks faster fundraising before Anthropic's IPO, sources say.",
+   "published_at": "2026-10-19T23:14:27Z"
   },
   {
-   "title": "DHS orders removal of DeepSeek from government agency IT systems",
-   "outlet": "The Hill",
-   "outlet_name": "The Hill",
-   "url": "https://thehill.com/policy/technology/6159116-dhs-bans-chinese-deepseek-ai/amp/",
+   "title": "Former Google CEO Schmidt reportedly holds about 1% stake in Anthropic",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4033443512325001?f=rss",
    "label": "CONFIRMED",
-   "summary_1line": "DHS bans DeepSeek AI from U.S. government systems over data security fears.",
-   "published_at": "2026-10-19T21:43:09Z"
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
   },
   {
-   "title": "Huawei optimizes next-generation AI chips through DeepSeek cooperation... Aiming squarely at NVIDIA's dominance",
-   "outlet": "디지털데일리",
-   "outlet_name": "디지털데일리",
-   "url": "https://www.ddaily.co.kr/page/view/2026102008504038668",
-   "label": "CONFIRMED",
-   "summary_1line": "Huawei and DeepSeek collaborate to optimize AI chips, reducing reliance on NVIDIA's ecosystem.",
-   "published_at": "2026-10-19T23:50:52Z"
-  },
-  {
-   "title": "ChatGPT alerted parents in just 5% of simulated high-risk teen conversations, study finds",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/chatgpt-alerted-parents-in-just-5-of-simulated-high-risk-teen-conversations-study-finds",
+   "title": "President Lee to chair Regulatory Rationalization Committee on the 23rd... Unlocking regulations on semiconductors, AI, and robotics",
+   "outlet": "아주경제",
+   "outlet_name": "아주경제",
+   "url": "https://www.ajunews.com/view/20261020095410619",
    "label": "REPORTED",
-   "summary_1line": "ChatGPT alerted parents in just 5% of teen safety conversations, mostly for suicidal thoughts.",
-   "published_at": "2026-10-19T23:31:52Z"
-  },
-  {
-   "title": "Bundesregierung unterzeichnet Absichtserklärung mit Nvidia",
-   "outlet": "IT Journal",
-   "outlet_name": "IT Journal",
-   "url": "https://www.it-journal.de/222974-bundesregierung-unterzeichnet-absichtserklaerung-mit-nvidia.html",
-   "label": "REPORTED",
-   "summary_1line": "Germany and Nvidia sign deal to boost industrial AI via open models and ecosystem development.",
-   "published_at": "2026-10-19T22:07:30Z"
+   "summary_1line": "President Yi chairs regulatory reform session to ease rules on AI, semiconductors and robotics.",
+   "published_at": "2026-10-20T01:24:01Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "Charity or show? Anthropic plans to donate 320 billion yuan in equity before IPO",
+   "outlet": "东方财富",
+   "outlet_name": "东方财富",
+   "label": "REPORTED",
+   "url": "https://finance.eastmoney.com/a/202610203900586138.html"
+  },
+  {
+   "headline": "Anthropic reportedly preparing to release new model with reasoning capabilities superior…",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "label": "REPORTED",
+   "url": "https://36kr.com/newsflashes/4033470414279560?f=rss"
+  },
+  {
+   "headline": "OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "STILL OPEN",
-   "url": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/"
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L1N4610T9:0-openai-seeks-to-accelerate-fundraising-ahead-of-anthropic-ipo-sources-say/"
   },
   {
-   "headline": "DHS orders removal of DeepSeek from government agency IT systems",
-   "outlet": "The Hill",
-   "outlet_name": "The Hill",
+   "headline": "Former Google CEO Schmidt reportedly holds about 1% stake in Anthropic",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
    "label": "CONFIRMED",
-   "url": "https://thehill.com/policy/technology/6159116-dhs-bans-chinese-deepseek-ai/amp/"
+   "url": "https://36kr.com/newsflashes/4033443512325001?f=rss"
   },
   {
-   "headline": "Huawei optimizes next-generation AI chips through DeepSeek cooperation... Aiming squarely…",
-   "outlet": "디지털데일리",
-   "outlet_name": "디지털데일리",
-   "label": "CONFIRMED",
-   "url": "https://www.ddaily.co.kr/page/view/2026102008504038668"
-  },
-  {
-   "headline": "ChatGPT alerted parents in just 5% of simulated high-risk teen conversations, study finds",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
+   "headline": "President Lee to chair Regulatory Rationalization Committee on the 23rd... Unlocking…",
+   "outlet": "아주경제",
+   "outlet_name": "아주경제",
    "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/chatgpt-alerted-parents-in-just-5-of-simulated-high-risk-teen-conversations-study-finds"
+   "url": "https://www.ajunews.com/view/20261020095410619"
   },
   {
-   "headline": "Bundesregierung unterzeichnet Absichtserklärung mit Nvidia",
-   "outlet": "IT Journal",
-   "outlet_name": "IT Journal",
+   "headline": "NYC Council grilled SpaceX over a sexualized Grok image of its own speaker",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://www.it-journal.de/222974-bundesregierung-unterzeichnet-absichtserklaerung-mit-nvidia.html"
+   "url": "https://startupfortune.com/nyc-council-grilled-spacex-over-a-sexualized-grok-image-of-its-own-speaker/"
   },
   {
-   "headline": "Microsoft could hold an advantage with Copilot for Legal",
-   "outlet": "TechTarget",
-   "outlet_name": "TechTarget",
+   "headline": "Australian laws are tougher on hacked companies than rogue AI doing it - here's what…",
+   "outlet": "Startup Daily",
+   "outlet_name": "Startup Daily",
    "label": "REPORTED",
-   "url": "https://www.techtarget.com/ai/news/366652419/Microsoft-could-hold-an-advantage-with-Copilot-for-Legal"
+   "url": "https://www.startupdaily.net/topic/artificial-intelligence-machine-learning/australian-laws-are-tougher-on-hacked-companies-than-rogue-ai-doing-it-heres-what-needs-to-change-to-make-agents-accountable/"
   },
   {
    "headline": "US court keeps former OpenAI engineer Alfozan in custody — Fortune",
@@ -109,11 +116,18 @@
    "url": "https://www.tokenpost.com/news/technology/35073"
   },
   {
-   "headline": "US Anthropic in $45B contract talks, aiming to secure AI compute power",
-   "outlet": "ノアドット on MSN",
-   "outlet_name": "ノアドット on MSN",
+   "headline": "US Department of Homeland Security Orders Ban on Federal Agencies Procuring and Using…",
+   "outlet": "voachinese.com",
+   "outlet_name": "voachinese.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/ja-jp/news/other/米アンソロ-7兆円契約か-ai計算能力の確保目指す/ar-AA2fBwTJ"
+   "url": "https://www.voachinese.com/a/dhs-banning-chinese-ai-deepseek-from-government-agency-it-systems-20261019/8212963.html"
+  },
+  {
+   "headline": "OpenAI models make huge gains in modernizing decades-old software with 97.9% accuracy",
+   "outlet": "interestingengineering.com",
+   "outlet_name": "interestingengineering.com",
+   "label": "REPORTED",
+   "url": "https://interestingengineering.com/ai-robotics/openai-coding-models-software-modernization"
   },
   {
    "headline": "Mercury 3 claims to outperform GPT-6 Luna, Claude Haiku 5.5 at 8 times the speed",
@@ -121,30 +135,16 @@
    "outlet_name": "interestingengineering.com",
    "label": "REPORTED",
    "url": "https://interestingengineering.com/ai-robotics/mercury-3-diffusion-model-8-times-faster"
-  },
-  {
-   "headline": "Structured outputs for Anthropic Claude models on Amazon Bedrock | Artificial Intelligence",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
-   "label": "REPORTED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/"
-  },
-  {
-   "headline": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-   "outlet": "redact.dev",
-   "outlet_name": "redact.dev",
-   "label": "REPORTED",
-   "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13500,
- "articles_24h_label": "about 13,000",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 13600,
+ "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/01.mp3",
- "audio_seconds": 58.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/02.mp3",
+ "audio_seconds": 53.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic and Nscale may finalize another 45 billion dollar compute deal, Still open per TechCrunch, amid investor concerns over artificial intelligence spending.\nThe Department of Homeland Security has banned DeepSeek artificial intelligence from U.S. government systems, Confirmed by The Hill, over data security fears.\nHuawei and DeepSeek collaborate to optimize artificial intelligence chips, Confirmed per 디지털데일리, reducing reliance on another company's ecosystem.\nChatGPT alerted parents in just 5 percent of teen safety conversations, Reported by EdTech Innovation Hub, mostly for suicidal thoughts.\nGermany and Nvidia have signed a deal to boost industrial artificial intelligence, Reported by IT Journal, via open models and ecosystem development.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by 东方财富: Charity or show? Anthropic plans to donate 320 billion yuan in equity before IPO.\nReported by 36氪: Anthropic reportedly preparing to release new model with reasoning capabilities superior to peers.\nStill open, per TradingView: OpenAI seeks to accelerate fundraising ahead of Anthropic IPO, sources say.\nConfirmed, per 36氪: Former Google CEO Schmidt reportedly holds about 1% stake in Anthropic.\nReported by 아주경제: President Lee to chair Regulatory Rationalization Committee on the 23rd... Unlocking regulations on semiconductors, AI, and robotics.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
