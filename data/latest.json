@@ -1,80 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T06:20:01Z",
- "hour": "2026-10-20T06:00:00Z",
+ "generated_at": "2026-10-20T07:20:01Z",
+ "hour": "2026-10-20T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "US Homeland Security Orders Federal Civilian Agencies to Stop Using and Remove DeepSeek AI Products",
-   "outlet": "gHacks",
-   "outlet_name": "gHacks",
-   "url": "https://www.ghacks.net/2026/10/20/us-homeland-security-orders-federal-civilian-agencies-to-stop-using-and-remove-deepseek-ai-products/",
+   "title": "US agencies ordered to stop using DeepSeek AI tools",
+   "outlet": "RTHK News",
+   "outlet_name": "RTHK News",
+   "url": "https://news.rthk.hk/rthk/en/component/k2/1874597-20261020.htm",
    "label": "CONFIRMED",
-   "summary_1line": "DHS orders federal agencies to remove DeepSeek AI products, including third-party services using DeepSeek models.",
-   "published_at": "2026-10-20T04:05:12Z"
+   "summary_1line": "US bans DeepSeek AI tools over data security fears amid China-US AI rivalry.",
+   "published_at": "2026-10-19T17:00:00Z"
   },
   {
-   "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43OE9SMzlBcmp6c2dDQ1FmWlZvZ3BsRlNxakJfci1qVWw5ZWZxalFpVFFzT1BxQWExdEk5Y3A3YzR3ZGtTbF9zUGNSaTBDRDBhTVR4bEpHWG9YdHM?oc=5",
+   "title": "OpenAI adds real-time collaboration to ChatGPT Slides, introduces other new features",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
+   "url": "https://www.digit.in/news/general/openai-adds-real-time-collaboration-to-chatgpt-slides-introduces-other-new-features.html",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI rolls out real-time collaboration and slide editing in ChatGPT Slides for premium users.",
+   "published_at": "2026-10-19T22:10:00Z"
+  },
+  {
+   "title": "Chinese AI tool behind cyberattacks in Japan: security firm",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-ai-tool-behind-cyberattacks-in-japan-security-firm/articleshow/135061732.cms",
+   "label": "CONFIRMED",
+   "summary_1line": "Artex, a Chinese AI tool, was used in Japanese cyberattacks; developer has stopped updates.",
+   "published_at": "2026-10-19T21:58:00Z"
+  },
+  {
+   "title": "Anthropic pitches a bill to block AI only over $1 billion in damage or 50 deaths",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
+   "url": "https://pasqualepillitteri.it/en/news/25796/anthropic-draft-bill-block-ai-1-billion-50-deaths",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-19T21:12:30Z"
+   "published_at": "2026-10-20T07:03:44Z"
   },
   {
-   "title": "US bans DeepSeek AI from government systems: What the official notice says about ‘transfer of sensitive data’ to China",
-   "outlet": "Mint",
-   "outlet_name": "Mint",
-   "url": "https://www.livemint.com/ai/us-bans-deepseek-ai-from-government-systems-what-the-official-notice-says-about-transfer-of-sensitive-data-to-china-11792466199324.html",
-   "label": "CONFIRMED",
-   "summary_1line": "U.S. bans DeepSeek AI in civilian agencies over data security risks and PRC data transfer concerns.",
-   "published_at": "2026-10-19T20:24:00Z"
+   "title": "Draft bill tied to Anthropic would let courts halt AI models for 45 days",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzVLZW1tZ1VHRVdaU2xLOTY2cFp4eDA2SjA5ajNtQS1zZkNERmo3amN2Y1BYUm1JakdVMGlzUlBxMXBVTmc4bDBEaWVsMXc0RHhuWFN1a2ZuSXRsMk1BSGFSSi1ZTlo4Ni16UjdEZnNOTzNQSTM1QjNfNnQxRUR0cjFGVlRtSTdmWnV3amVhZ0trS1Ra?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-20T06:41:22Z"
   }
  ],
  "ticker": [
   {
-   "headline": "US Homeland Security Orders Federal Civilian Agencies to Stop Using and Remove DeepSeek…",
-   "outlet": "gHacks",
-   "outlet_name": "gHacks",
+   "headline": "US agencies ordered to stop using DeepSeek AI tools",
+   "outlet": "RTHK News",
+   "outlet_name": "RTHK News",
    "label": "CONFIRMED",
-   "url": "https://www.ghacks.net/2026/10/20/us-homeland-security-orders-federal-civilian-agencies-to-stop-using-and-remove-deepseek-ai-products/"
+   "url": "https://news.rthk.hk/rthk/en/component/k2/1874597-20261020.htm"
   },
   {
-   "headline": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
+   "headline": "OpenAI adds real-time collaboration to ChatGPT Slides, introduces other new features",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE43OE9SMzlBcmp6c2dDQ1FmWlZvZ3BsRlNxakJfci1qVWw5ZWZxalFpVFFzT1BxQWExdEk5Y3A3YzR3ZGtTbF9zUGNSaTBDRDBhTVR4bEpHWG9YdHM?oc=5"
+   "url": "https://www.digit.in/news/general/openai-adds-real-time-collaboration-to-chatgpt-slides-introduces-other-new-features.html"
   },
   {
-   "headline": "US bans DeepSeek AI from government systems: What the official notice says about…",
-   "outlet": "Mint",
-   "outlet_name": "Mint",
+   "headline": "Chinese AI tool behind cyberattacks in Japan: security firm",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
    "label": "CONFIRMED",
-   "url": "https://www.livemint.com/ai/us-bans-deepseek-ai-from-government-systems-what-the-official-notice-says-about-transfer-of-sensitive-data-to-china-11792466199324.html"
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinese-ai-tool-behind-cyberattacks-in-japan-security-firm/articleshow/135061732.cms"
   },
   {
-   "headline": "Amazon launches new software tool to compete with Nvidia in the AI ​​market.",
-   "outlet": "Vietnam.vn",
-   "outlet_name": "Vietnam.vn",
+   "headline": "Anthropic pitches a bill to block AI only over $1 billion in damage or 50 deaths",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
    "label": "REPORTED",
-   "url": "https://www.vietnam.vn/en/amazon-ra-mat-cong-cu-phan-mem-moi-nham-canh-tranh-voi-nvidia-tren-thi-truong-ai"
+   "url": "https://pasqualepillitteri.it/en/news/25796/anthropic-draft-bill-block-ai-1-billion-50-deaths"
   },
   {
-   "headline": "What are ChatGPT ads showing to whom and what? US university investigates reality with 91…",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
-   "label": "CONFIRMED",
-   "url": "https://www.itmedia.co.jp/news/article/2610/20/2000002375/"
+   "headline": "Draft bill tied to Anthropic would let courts halt AI models for 45 days",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTzVLZW1tZ1VHRVdaU2xLOTY2cFp4eDA2SjA5ajNtQS1zZkNERmo3amN2Y1BYUm1JakdVMGlzUlBxMXBVTmc4bDBEaWVsMXc0RHhuWFN1a2ZuSXRsMk1BSGFSSi1ZTlo4Ni16UjdEZnNOTzNQSTM1QjNfNnQxRUR0cjFGVlRtSTdmWnV3amVhZ0trS1Ra?oc=5"
   },
   {
-   "headline": "Former OpenAI engineer detained as prosecutors cite Saudi ties",
-   "outlet": "Cryptopolitan on MSN",
-   "outlet_name": "Cryptopolitan on MSN",
+   "headline": "OpenAI CEO Altman Proposes Three Ultimate Endgames for AI: From IAEA-style Global…",
+   "outlet": "新浪财经",
+   "outlet_name": "新浪财经",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZVJEY2JQcFpZc2t5eldVU1hFT3BsRFBTamZ2ck1wYXZuZFMtcFBzOENsM1FUc3JCZEEteGFpRW9sZmpRYXBiY2x5QzJPeTFLLWhfM0E5dVJtLV9SNTNYYWNFOXpvay1RODhuNDRnYlNJc3EwVTBMRTdIbEc3cXU3QUxSVWY3T3d4Z2EwN0hpV3RQa0FoY1h5bVpBVFg?oc=5"
+  },
+  {
+   "headline": "Siemens und Nvidia: KI soll Fabriken revolutionieren",
+   "outlet": "FAZ",
+   "outlet_name": "FAZ",
+   "label": "REPORTED",
+   "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/siemens-und-nvidia-ki-soll-fabriken-revolutionieren-accg-201602418.html"
+  },
+  {
+   "headline": "DeepSeek Partners With Huawei to Challenge Nvidia in AI Chips",
+   "outlet": "econotimes.com",
+   "outlet_name": "econotimes.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/former-openai-engineer-detained-as-prosecutors-cite-saudi-ties/ar-AA2fBSHQ"
+   "url": "https://econotimes.com/DeepSeek-Partners-With-Huawei-to-Challenge-Nvidia-in-AI-Chips-1757058"
+  },
+  {
+   "headline": "Elon Musk and Anthropic make promises to give the public a piece of the AI pie",
+   "outlet": "NBC News on MSN",
+   "outlet_name": "NBC News on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-au/money/general/elon-musk-and-anthropic-make-promises-to-give-the-public-a-piece-of-the-ai-pie/ar-AA2fAG7v"
+  },
+  {
+   "headline": "Bundesregierung vereinbart KI-Kooperation mit Nvidia",
+   "outlet": "tagesschau.de",
+   "outlet_name": "tagesschau.de",
+   "label": "CONFIRMED",
+   "url": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html"
   },
   {
    "headline": "DeepSeek Ban: DHS Reveals Mullin, 60-Day Window [2026]",
@@ -84,49 +130,21 @@
    "url": "https://shattered.io/dhs-deepseek-ban-mullin-signed-60-day-window-2026/"
   },
   {
-   "headline": "Using Agency Law to Tame AI Agents",
-   "outlet": "arxiv.org",
-   "outlet_name": "arxiv.org",
+   "headline": "Former Google DeepMind top researcher launches London “compute-efficient” AI company",
+   "outlet": "Tech.eu",
+   "outlet_name": "Tech.eu",
    "label": "REPORTED",
-   "url": "https://arxiv.org/abs/2502.18359"
-  },
-  {
-   "headline": "NVIDIA BlueField-4 STX Server for CMX at OCP 2026",
-   "outlet": "servethehome.com",
-   "outlet_name": "servethehome.com",
-   "label": "REPORTED",
-   "url": "https://www.servethehome.com/nvidia-bluefield-4-stx-server-for-cmx-at-ocp-2026/"
-  },
-  {
-   "headline": "NVIDIA GTC focuses on physical AI, Bestechnology hits 20cm daily limit, Science and…",
-   "outlet": "Jiemian.com",
-   "outlet_name": "Jiemian.com",
-   "label": "REPORTED",
-   "url": "https://www.jiemian.com/article/15211367.html"
-  },
-  {
-   "headline": "DeepSeek Partners With Huawei to Challenge Nvidia in AI Chips",
-   "outlet": "econotimes.com",
-   "outlet_name": "econotimes.com",
-   "label": "REPORTED",
-   "url": "https://econotimes.com/DeepSeek-Partners-With-Huawei-to-Challenge-Nvidia-in-AI-Chips-1757058"
-  },
-  {
-   "headline": "DeepSeek new model upgraded, Liang Wenfeng is paving the way for embodied AI?",
-   "outlet": "tmtpost.com",
-   "outlet_name": "tmtpost.com",
-   "label": "REPORTED",
-   "url": "https://www.tmtpost.com/8173675.html"
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPR1M5OUhoYnViWEpzWlQ1RGxlNmt3SU9wUW5lZWljRExrazJ5Z0RXbTdxaFpMTTV5MzRJVlBDeXdfYTF6VW9KRF9KUTc3VVpFekhhR2l4RkFSRTh2bEd3T3c0Q1ZGTkdPWEpFSU04Q1ljM3dTM3EyWndrQWdQZ1RkYUVpRlQ2eG4yOWhLY085LTJZZVNGY0xHRU1jN1NueWU4QXVzQTEtazBKNXNBVTZ3?oc=5"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 14800,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/06.mp3",
- "audio_seconds": 56.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/07.mp3",
+ "audio_seconds": 46.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe Department of Homeland Security has ordered federal civilian agencies to stop using and remove DeepSeek artificial intelligence products, including third-party services that rely on DeepSeek models. Confirmed by gHacks: the government is taking action to protect sensitive data.\nAn ex-OpenAI worker accused of planting a device received support from Saudi Arabia, according to a court filing. Reported by BBC: the allegations reveal international involvement in the case.\nThe United States has banned DeepSeek artificial intelligence from civilian government systems over data security risks and concerns about the transfer of sensitive data to China. Confirmed by Mint: the government is moving to safeguard federal information.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per RTHK News: US agencies ordered to stop using DeepSeek AI tools.\nReported by Digit: OpenAI adds real-time collaboration to ChatGPT Slides, introduces other new features.\nConfirmed, per The Economic Times: Chinese AI tool behind cyberattacks in Japan: security firm.\nReported by Pasquale Pillitteri: Anthropic pitches a bill to block AI only over $1 billion in damage or 50 deaths.\nReported by PPC Land: Draft bill tied to Anthropic would let courts halt AI models for 45 days.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
