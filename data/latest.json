@@ -1,105 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T20:20:02Z",
- "hour": "2026-10-20T20:00:00Z",
+ "generated_at": "2026-10-20T21:20:02Z",
+ "hour": "2026-10-20T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "ChatGPT now lets you lock your chats",
+   "title": "US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to the world",
+   "outlet": "CryptoSlate",
+   "outlet_name": "CryptoSlate",
+   "url": "https://cryptoslate.com/us-orders-deepseek-purge-from-federal-systems-as-chinese-ai-rival-opens-its-technology-to-the-world/",
+   "label": "CONFIRMED",
+   "summary_1line": "US bans DeepSeek tech; DeepSeek opens infrastructure for global use.",
+   "published_at": "2026-10-20T12:00:00Z"
+  },
+  {
+   "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI launches Locked Chats for device privacy on ChatGPT, available on most plans.",
-   "published_at": "2026-10-20T18:36:53Z"
+   "summary_1line": "OpenAI acquires Orchestra Bio to boost its AI tools for biotech and pharma research.",
+   "published_at": "2026-10-20T20:35:10Z"
   },
   {
-   "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-20T19:42:32Z"
+   "title": "Gemini's Personal Intelligence is coming to cars",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/",
+   "label": "CONFIRMED",
+   "summary_1line": "Google rolls out Personal Intelligence to Android Auto and Google Built-in vehicles in 2026.",
+   "published_at": "2026-10-20T20:00:33Z"
   },
   {
-   "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+   "title": "You Can Now Lock Private ChatGPT Conversations Behind a PIN",
+   "outlet": "Android Headlines",
+   "outlet_name": "Android Headlines",
+   "url": "https://www.androidheadlines.com/2026/10/openai-chatgpt-locked-chats.html",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI's Locked Chats hides private chats behind PINs or biometrics for better privacy.",
+   "published_at": "2026-10-20T19:42:09Z"
+  },
+  {
+   "title": "SpaceX’s AI business is beating expectations",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-   "label": "CONFIRMED",
-   "summary_1line": "Google launches TorchTPU to challenge Nvidia's AI hardware dominance, with Amazon following suit.",
-   "published_at": "2026-10-20T18:38:24Z"
-  },
-  {
-   "title": "ElevenLabs launches Eleven v4 Turbo to chase OpenAI in voice agents",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/elevenlabs-launches-eleven-v4-turbo-to-chase-openai-in-voice-agents/",
+   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
    "label": "REPORTED",
-   "summary_1line": "ElevenLabs launches v4 Turbo with emotional voice and 90+ language support for enterprise voice agents.",
-   "published_at": "2026-10-20T16:51:00Z"
-  },
-  {
-   "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-   "label": "STILL OPEN",
-   "summary_1line": "Schmidt's 1% Anthropic stake could add $20B to his net worth if the company goes public.",
-   "published_at": "2026-10-20T17:55:12Z"
+   "summary_1line": null,
+   "published_at": "2026-10-20T20:40:41Z"
   }
  ],
  "ticker": [
   {
-   "headline": "ChatGPT now lets you lock your chats",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/"
-  },
-  {
-   "headline": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "label": "REPORTED",
-   "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss"
-  },
-  {
-   "headline": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/"
-  },
-  {
-   "headline": "ElevenLabs launches Eleven v4 Turbo to chase OpenAI in voice agents",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/elevenlabs-launches-eleven-v4-turbo-to-chase-openai-in-voice-agents/"
-  },
-  {
-   "headline": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "STILL OPEN",
-   "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/"
-  },
-  {
    "headline": "US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to…",
    "outlet": "CryptoSlate",
    "outlet_name": "CryptoSlate",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://cryptoslate.com/us-orders-deepseek-purge-from-federal-systems-as-chinese-ai-rival-opens-its-technology-to-the-world/"
   },
   {
-   "headline": "Introducing advanced tool use on the Claude Developer Platform",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
+   "headline": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/advanced-tool-use"
+   "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
+  },
+  {
+   "headline": "Gemini's Personal Intelligence is coming to cars",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
+   "label": "CONFIRMED",
+   "url": "https://arstechnica.com/google/2026/10/geminis-personal-intelligence-is-coming-to-cars/"
+  },
+  {
+   "headline": "You Can Now Lock Private ChatGPT Conversations Behind a PIN",
+   "outlet": "Android Headlines",
+   "outlet_name": "Android Headlines",
+   "label": "CONFIRMED",
+   "url": "https://www.androidheadlines.com/2026/10/openai-chatgpt-locked-chats.html"
+  },
+  {
+   "headline": "SpaceX’s AI business is beating expectations",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "REPORTED",
+   "url": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/"
+  },
+  {
+   "headline": "OpenAI valuation odds jump after $30B raise report",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "STILL OPEN",
+   "url": "https://www.tradingview.com/news/seekingalpha:bee8b173e094b:0-openai-valuation-odds-jump-after-30b-raise-report/"
+  },
+  {
+   "headline": "Get hands-free personalized help on the road with Gemini",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/"
   },
   {
    "headline": "DeepSeek Open Sources Inference Tech to Lower AI Costs",
@@ -109,6 +109,13 @@
    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-open-sources-inference-tech-to-lower-ai-costs/"
   },
   {
+   "headline": "How scientists use Claude to accelerate research",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/research/accelerating-scientific-research"
+  },
+  {
    "headline": "China defends DeepSeek after US ban",
    "outlet": "The Hill on MSN",
    "outlet_name": "The Hill on MSN",
@@ -116,11 +123,11 @@
    "url": "https://www.msn.com/en-us/news/other/china-defends-deepseek-after-us-ban/ar-AA2fFG2M"
   },
   {
-   "headline": "Get hands-free personalized help on the road with Gemini",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "REPORTED",
-   "url": "https://blog.google/products-and-platforms/platforms/android/android-auto-cars-with-google-built-in-gemini-personal-intelligence/"
+   "headline": "Results from first Anthropic Public Record",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/research/anthropic-public-record"
   },
   {
    "headline": "Using Grok Bot to detect and respond to incidents",
@@ -128,23 +135,16 @@
    "outlet_name": "x.ai",
    "label": "CONFIRMED",
    "url": "https://x.ai/news/incident-sweep"
-  },
-  {
-   "headline": "Model deprecation update for Claude Opus 3",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/news/deprecation-updates-opus-3"
   }
  ],
  "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 15200,
+ "articles_24h_rounded": 15300,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/20.mp3",
- "audio_seconds": 41.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/21.mp3",
+ "audio_seconds": 39.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: ChatGPT now lets you lock your chats.\nReported by BBC: OpenAI CEO Sam Altman wins dismissal of sister's lawsuit.\nConfirmed, per TechCrunch: Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers.\nReported by Startup Fortune: ElevenLabs launches Eleven v4 Turbo to chase OpenAI in voice agents.\nStill open, per TechCrunch: Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CryptoSlate: US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to the world.\nConfirmed, per TechCrunch: OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business.\nConfirmed, per Ars Technica: Gemini's Personal Intelligence is coming to cars.\nConfirmed, per Android Headlines: You Can Now Lock Private ChatGPT Conversations Behind a PIN.\nReported by TechCrunch: SpaceX’s AI business is beating expectations.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
