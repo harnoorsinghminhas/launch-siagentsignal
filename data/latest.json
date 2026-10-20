@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-19T23:20:04Z",
- "hour": "2026-10-19T23:00:00Z",
+ "generated_at": "2026-10-20T00:20:01Z",
+ "hour": "2026-10-20T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Trump Admin Bans DeepSeek From Federal Agencies",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670",
-   "label": "CONFIRMED",
-   "summary_1line": "U.S. bans DeepSeek AI over data risks and alleged distillation practices.",
-   "published_at": "2026-10-19T21:41:06Z"
-  },
-  {
-   "title": "Tech: OpenAI inches toward ‘Frontier’ bill",
-   "outlet": "Punchbowl News",
-   "outlet_name": "Punchbowl News",
-   "url": "https://punchbowl.news/article/tech/openai-lehane-frontier-bill/",
+   "title": "Amazon releases TorchNeuron to pull AI workloads off Nvidia chips",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/amazon-releases-torchneuron-to-pull-ai-workloads-off-nvidia-chips/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI backs AI kill switch bill as rivals face criticism over weak safety proposals.",
-   "published_at": "2026-10-19T20:32:20Z"
+   "summary_1line": "AWS's TorchNeuron lets PyTorch run on Trainium with minimal code changes, cutting switching costs from Nvidia.",
+   "published_at": "2026-10-19T22:10:05Z"
   },
   {
-   "title": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/",
-   "label": "CONFIRMED",
-   "summary_1line": "US denies release of former OpenAI engineer accused of spying for Saudi Arabia.",
-   "published_at": "2026-10-19T20:21:53Z"
-  },
-  {
-   "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-   "outlet": "techcrunch.com",
+   "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+   "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
-   "label": "CONFIRMED",
-   "summary_1line": "Microsoft launches Guardian Agents to monitor AI agents, urging enterprises to separate AI supply from control.",
-   "published_at": "2026-10-19T22:04:28Z"
+   "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+   "label": "REPORTED",
+   "summary_1line": "AI labs debate benchmark reliability, calling for standardized evaluations.",
+   "published_at": "2026-10-19T15:49:00Z"
   },
   {
-   "title": "AI & Tech Brief: Anthropic’s leaked bill",
-   "outlet": "The Washington Post",
-   "outlet_name": "The Washington Post",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3ZSeFlQcXJNaWYwT0RBeGN4WVhTWjRma2FRdHhzSlFRNmFZRnNOYzBSbDd3eE95ZFNqTkx1OEV0dkFXTXJCWFZsSEV4NHlLTjE4eU5rVDdzN0pfMnNWcFNmWk5jb0xnWHFyRUFZc1lsUFVUa2x6LVFjb214Ul9zU0dvQkh5emJZRWozVVFqNXU5SWN4dzBuZWc5Rm9JYURtMEV2ZE5qTzhDQ1Jlemc?oc=5",
+   "title": "Anthropic commits 5% of shares to new public benefit fund that could address AI job disruption",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic commits 5% shares to fund for AI job impact, with potential increases as valuation grows.",
+   "published_at": "2026-10-19T12:33:07Z"
+  },
+  {
+   "title": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won’t replace heavy industry",
+   "outlet": "Orange County Register",
+   "outlet_name": "Orange County Register",
+   "url": "https://www.ocregister.com/2026/10/19/germany-nvidia/",
+   "label": "CONFIRMED",
+   "summary_1line": "Huang urges Germany to use AI to boost manufacturing, calling it a chance to re-engineer industry.",
+   "published_at": "2026-10-19T14:33:00Z"
+  },
+  {
+   "title": "NJ lawmakers weigh AI regulations amid industry and safety expert clash",
+   "outlet": "New Jersey Monitor",
+   "outlet_name": "New Jersey Monitor",
+   "url": "https://newjerseymonitor.com/2026/10/19/nj-ai-regulations-safety/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-19T22:59:45Z"
+   "summary_1line": "New Jersey lawmakers debate AI regulations amid industry and safety expert分歧.",
+   "published_at": "2026-10-19T22:09:07Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Trump Admin Bans DeepSeek From Federal Agencies",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "label": "CONFIRMED",
-   "url": "https://gizmodo.com/trump-admin-bans-deepseek-from-federal-agencies-2000827670"
-  },
-  {
-   "headline": "Tech: OpenAI inches toward ‘Frontier’ bill",
-   "outlet": "Punchbowl News",
-   "outlet_name": "Punchbowl News",
+   "headline": "Amazon releases TorchNeuron to pull AI workloads off Nvidia chips",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://punchbowl.news/article/tech/openai-lehane-frontier-bill/"
+   "url": "https://startupfortune.com/amazon-releases-torchneuron-to-pull-ai-workloads-off-nvidia-chips/"
   },
   {
-   "headline": "Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "label": "CONFIRMED",
-   "url": "https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/"
-  },
-  {
-   "headline": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-   "outlet": "techcrunch.com",
+   "headline": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+   "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/"
+   "label": "REPORTED",
+   "url": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/"
   },
   {
-   "headline": "AI & Tech Brief: Anthropic’s leaked bill",
-   "outlet": "The Washington Post",
-   "outlet_name": "The Washington Post",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3ZSeFlQcXJNaWYwT0RBeGN4WVhTWjRma2FRdHhzSlFRNmFZRnNOYzBSbDd3eE95ZFNqTkx1OEV0dkFXTXJCWFZsSEV4NHlLTjE4eU5rVDdzN0pfMnNWcFNmWk5jb0xnWHFyRUFZc1lsUFVUa2x6LVFjb214Ul9zU0dvQkh5emJZRWozVVFqNXU5SWN4dzBuZWc5Rm9JYURtMEV2ZE5qTzhDQ1Jlemc?oc=5"
+   "headline": "Anthropic commits 5% of shares to new public benefit fund that could address AI job…",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/18/anthropic-ai-public-benefit-fund.html"
   },
   {
    "headline": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won’t replace…",
@@ -95,56 +81,70 @@
    "url": "https://www.ocregister.com/2026/10/19/germany-nvidia/"
   },
   {
-   "headline": "Open AI trades lawsuit puts spotlight on competitor hiring",
-   "outlet": "Canadian HR Reporter",
-   "outlet_name": "Canadian HR Reporter",
+   "headline": "NJ lawmakers weigh AI regulations amid industry and safety expert clash",
+   "outlet": "New Jersey Monitor",
+   "outlet_name": "New Jersey Monitor",
    "label": "REPORTED",
-   "url": "https://www.hrreporter.com/news/hr-news/open-ai-trades-lawsuit-puts-spotlight-on-competitor-hiring/395040"
+   "url": "https://newjerseymonitor.com/2026/10/19/nj-ai-regulations-safety/"
   },
   {
-   "headline": "ChatGPT’s 'five things I always say' trend offers a peek inside your chats",
-   "outlet": "Mashable SEA",
-   "outlet_name": "Mashable SEA",
+   "headline": "Bundesregierung unterzeichnet Absichtserklärung mit Nvidia",
+   "outlet": "IT Journal",
+   "outlet_name": "IT Journal",
    "label": "REPORTED",
-   "url": "https://sea.mashable.com/tech/56137/chatgpts-five-things-i-always-say-trend-offers-a-peek-inside-your-chats"
+   "url": "https://www.it-journal.de/222974-bundesregierung-unterzeichnet-absichtserklaerung-mit-nvidia.html"
   },
   {
-   "headline": "DeepSeek barred from government agency IT systems",
-   "outlet": "Politico on MSN",
-   "outlet_name": "Politico on MSN",
+   "headline": "Microsoft could hold an advantage with Copilot for Legal",
+   "outlet": "TechTarget",
+   "outlet_name": "TechTarget",
+   "label": "REPORTED",
+   "url": "https://www.techtarget.com/ai/news/366652419/Microsoft-could-hold-an-advantage-with-Copilot-for-Legal"
+  },
+  {
+   "headline": "Ex-OpenAI engineer accused of bugging office stays in jail as prosecutors allege Saudi…",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "REPORTED",
+   "url": "https://fortune.com/2026/10/19/openai-alleged-bugger-alfozan-jail-saudi-court-filings-hearing/"
+  },
+  {
+   "headline": "U.S. orders removal of China's DeepSeek products from federal civilian agencies",
+   "outlet": "Yonhap News Agency",
+   "outlet_name": "Yonhap News Agency",
+   "label": "REPORTED",
+   "url": "https://en.yna.co.kr/view/AEN20261020000500315"
+  },
+  {
+   "headline": "US banning Chinese AI DeepSeek from government agency IT systems",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/deepseek-barred-from-government-agency-it-systems/ar-AA2fBJ2w"
+   "url": "https://www.msn.com/en-us/technology/tech-companies/us-banning-chinese-ai-deepseek-from-government-agency-it-systems/ar-AA2fBp4G"
   },
   {
-   "headline": "GPT Rosalind",
-   "outlet": "openai.com",
-   "outlet_name": "openai.com",
+   "headline": "US court keeps former OpenAI engineer Alfozan in custody — Fortune",
+   "outlet": "UA.NEWS",
+   "outlet_name": "UA.NEWS",
    "label": "REPORTED",
-   "url": "https://openai.com/rosalind/"
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSTlkM21hMFd3X0N2bUVGMk5pam5wRFNtVmt6M0pYSFN5LUFBMVgzd19Ga2hoR091dG9RaDJRN1RmaXBUS1NUQTRJWU4talhsYmx5dG9QM3ZSUDJkeDlDQzJsWU1NZzJDX2JYa1kwTWdJNzdtSk42VW5mRDA1WkJVV19OY18zb1Q5T2lmTXZhaFdORkd5Znc3cTctT05GeUtVZlE?oc=5"
   },
   {
-   "headline": "Google is giving you more creative control over Gemini Notebook’s video overviews and…",
-   "outlet": "androidauthority.com",
-   "outlet_name": "androidauthority.com",
-   "label": "REPORTED",
-   "url": "https://www.androidauthority.com/gemini-notebook-co-creation-video-and-slides-3725277/"
-  },
-  {
-   "headline": "Legal Ethics Roundup: Who Gets To Call Themselves A Lawyer?, Judge Pulls Gun In Court…",
-   "outlet": "abovethelaw.com",
-   "outlet_name": "abovethelaw.com",
-   "label": "REPORTED",
-   "url": "https://abovethelaw.com/2026/10/legal-ethics-roundup-who-gets-to-call-themselves-a-lawyer-judge-pulls-gun-in-court-law-firms-that-capitulated-prosecutorial-misconduct-aba-dq-bid-rejected-ai-a2j-more/"
+   "headline": "US Anthropic in $45B contract talks, aiming to secure AI compute power",
+   "outlet": "ノアドット on MSN",
+   "outlet_name": "ノアドット on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/ja-jp/news/other/米アンソロ-7兆円契約か-ai計算能力の確保目指す/ar-AA2fBwTJ"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 13200,
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 13400,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/19/23.mp3",
- "audio_seconds": 63.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/00.mp3",
+ "audio_seconds": 64.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe Trump administration has banned DeepSeek from federal agencies, confirmed by Gizmodo, citing data risks and alleged distillation practices.\nOpenAI is inching toward a Frontier bill and backing an artificial intelligence kill switch, reported by Punchbowl News, as rivals face criticism over weak safety proposals.\nAn accused OpenAI engineer had a folder called Saudi Gov Docs, the FBI says, confirmed by Ars Technica, though the US denies releasing details about the alleged spy.\nMicrosoft has launched Guardian Agents to monitor artificial intelligence agents, confirmed by TechCrunch, warning that frontier models can't be trusted and urging enterprises to separate artificial intelligence supply from control.\nThe Washington Post reported on artificial intelligence and technology, including an update on Anthropic's leaked bill.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAmazon released TorchNeuron to help companies move artificial intelligence workloads from Nvidia chips, cutting switching costs through PyTorch support on Trainium. Reported by Startup Fortune.\nHugging Face's policy chief says embedded artificial intelligence evaluators won't be an easy solution, as labs debate benchmark reliability and standardized evaluations. Reported by TechCrunch.\nAnthropic committed 5 percent of shares to a new public benefit fund addressing artificial intelligence job disruption, with potential increases as valuation grows. Confirmed by CNBC.\nNvidia's CEO urged German manufacturers to adopt artificial intelligence for manufacturing, calling it a chance to re-engineer industry without replacing heavy industry. Confirmed by Orange County Register.\nNew Jersey lawmakers are weighing artificial intelligence regulations as industry and safety experts clash over policy direction. Reported by New Jersey Monitor.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
