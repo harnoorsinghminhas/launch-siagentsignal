@@ -1,91 +1,84 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T03:20:02Z",
- "hour": "2026-10-21T03:00:00Z",
+ "generated_at": "2026-10-21T04:20:06Z",
+ "hour": "2026-10-21T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China defends DeepSeek after US ban of its AI from government systems",
-   "outlet": "Temple Daily Telegram",
-   "outlet_name": "Temple Daily Telegram",
-   "url": "https://www.tdtnews.com/news/nation_world/article_78399c77-5117-5370-863f-f6ca65861a11.html",
+   "title": "OpenAI says its agents weakened system that flags AI misbehaviour",
+   "outlet": "CNBCTV18",
+   "outlet_name": "CNBCTV18",
+   "url": "https://www.cnbctv18.com/technology/openai-says-its-agents-weakened-system-that-flags-ai-misbehaviour-20015717.htm",
    "label": "CONFIRMED",
-   "summary_1line": "China warns of retaliation over U.S. ban on DeepSeek's AI products.",
-   "published_at": "2026-10-20T15:10:01Z"
+   "summary_1line": "OpenAI's AI agents disabled safety alerts during internal tasks, raising safety concerns.",
+   "published_at": "2026-10-20T19:24:00Z"
   },
   {
-   "title": "Anthropic Proposes AI Safety Bill Requiring Judicial Approval to Block Models",
-   "outlet": "Nacionale",
-   "outlet_name": "Nacionale",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNkRCT01GNUprWUNVVTJVSkhLN1NpalRyOTdSS1lTdUpVbkt1TVEwc01sV1cyemhKXzhqMXFGOTJveVduNFJydmdzRjE4Y2xiWUFreEdFOUJZTWVRNXFLdXdSNXRQUjI1aktHVjNjaXZkb0JTN3ZnNktiVGZSb3lDa0l3dGFhdnJvOVVUYm9NeTFYZVdndzhzT2RTWXNRekIy?oc=5",
+   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
+   "label": "CONFIRMED",
+   "summary_1line": "Amulya Vishwanath discusses the 'ChatGPT moment for robotics' in a TechCrunch interview.",
+   "published_at": "2026-10-20T16:20:06Z"
+  },
+  {
+   "title": "Anthropic proposes AI safety bill to block high-risk models that could cause 50 deaths or $1 billion in dam...",
+   "outlet": "Firstpost",
+   "outlet_name": "Firstpost",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkhEcGlYR2N4cjJsMUxsbC1qLTJVNkc0OHpXaVVWSld2X0UxajNJVmpOMXBpek1uYWxsam1yWHZKcGtfSDJOM2dqbElXMzZiQXhBZjZoU04yUDh0U2VDcXZyaTlBck13ZjB2Skk3LTB1UmtkWFlGQ3ZsVHdaWG9WUjZLZVUwblUyaTJ4UTN6Qkd5dGlIY3RrRExVRERkcDVaYVhZT1VseFlBQ2lNNmk1ekZFRmhRVDhLRXYtRERLWjdSMEpkMGY4WncwOXljUlhmTzVQVENTRW5mMEhvVlF1bEdQc1RuU2hFN2fSAe8BQVVfeXFMTVd5WXJzQnB3Zm1lYUlzRlY0bC1KR21IVVRISzI1TlJuYTBGd2ZWSUlCSXZTMHhvUFpfRWU3ZkhoMlhlZHZWS2loR0lzNFlaVXhQMXpST1FHbVBLTWhxc1MwRTU0YjA3S1JGZElheU5NTkRkUGZqakUxVHh2Z25rVzM4cFdGTjRqQWFSdE15aURhd3VPYXYxckIwN21udlpKa3MxTzc2S09yLXZvZGdzTFZRbzJDNThXY3RTckJ3LUtiN3Fvam1FYy1oQ0RyQ3J0RnlXR3dzZVFYbXJtMjVxZ0c2cldyZGJTUDh2b21pWm8?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-21T01:54:49Z"
+   "published_at": "2026-10-21T03:46:32Z"
   },
   {
-   "title": "Arda, an AI startup founded by the former OpenAI research lead, raises $230 million at a $1.5 billion valuation.",
-   "outlet": "kucoin",
-   "outlet_name": "kucoin",
-   "url": "https://www.kucoin.com/news/flash/arda-ai-startup-founded-by-ex-openai-research-lead-raises-230m-at-1-5b-valuation",
+   "title": "DeepSeek Open-Sources Framework Behind Its High-Margin AI Inference",
+   "outlet": "theinformation.com",
+   "outlet_name": "The Information",
+   "url": "https://www.theinformation.com/briefings/deepseek-open-sources-framework-behind-high-margin-ai-inference",
    "label": "REPORTED",
-   "summary_1line": "Arda raises $230M at $1.5B valuation for AI manufacturing software.",
-   "published_at": "2026-10-20T12:20:00Z"
+   "summary_1line": null,
+   "published_at": "2026-10-21T04:02:29Z"
   },
   {
-   "title": "Rain and hail risk in Arizona; Sen. Gallego calls for AI regulation | Nightly Roundup",
-   "outlet": "FOX 10 Phoenix",
-   "outlet_name": "FOX 10 Phoenix",
-   "url": "https://www.fox10phoenix.com/news/rain-hail-risk-arizona-sen-gallego-calls-ai-regulation-nightly-roundup",
+   "title": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/nvidia-google-intel-anthropic-lobby-chip-exports/",
    "label": "REPORTED",
-   "summary_1line": "Arizona, Paris and Phoenix face storms, riots and a pipe burst; a man gets 30-year sentence for attacks on homeless.",
-   "published_at": "2026-10-21T01:20:51Z"
-  },
-  {
-   "title": "SpaceX profit beats estimates on 161% revenue jump, growth in AI, satellite internet businesses",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
-   "url": "https://www.businesstimes.com.sg/international/global/spacex-profit-beats-estimates-161-revenue-jump-growth-ai-satellite-internet-businesses",
-   "label": "CONFIRMED",
-   "summary_1line": "SpaceX's AI and satellite revenue surge drives record profit and stock gain.",
-   "published_at": "2026-10-20T22:45:00Z"
+   "summary_1line": "Big tech lobbied against AI chip export rules in Q3 2026, with Nvidia and AMD targeting the Trump administration.",
+   "published_at": "2026-10-21T01:08:24Z"
   }
  ],
  "ticker": [
   {
-   "headline": "China defends DeepSeek after US ban of its AI from government systems",
-   "outlet": "Temple Daily Telegram",
-   "outlet_name": "Temple Daily Telegram",
+   "headline": "OpenAI says its agents weakened system that flags AI misbehaviour",
+   "outlet": "CNBCTV18",
+   "outlet_name": "CNBCTV18",
    "label": "CONFIRMED",
-   "url": "https://www.tdtnews.com/news/nation_world/article_78399c77-5117-5370-863f-f6ca65861a11.html"
+   "url": "https://www.cnbctv18.com/technology/openai-says-its-agents-weakened-system-that-flags-ai-misbehaviour-20015717.htm"
   },
   {
-   "headline": "Anthropic Proposes AI Safety Bill Requiring Judicial Approval to Block Models",
-   "outlet": "Nacionale",
-   "outlet_name": "Nacionale",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNkRCT01GNUprWUNVVTJVSkhLN1NpalRyOTdSS1lTdUpVbkt1TVEwc01sV1cyemhKXzhqMXFGOTJveVduNFJydmdzRjE4Y2xiWUFreEdFOUJZTWVRNXFLdXdSNXRQUjI1aktHVjNjaXZkb0JTN3ZnNktiVGZSb3lDa0l3dGFhdnJvOVVUYm9NeTFYZVdndzhzT2RTWXNRekIy?oc=5"
-  },
-  {
-   "headline": "Arda, an AI startup founded by the former OpenAI research lead, raises $230 million at a…",
-   "outlet": "kucoin",
-   "outlet_name": "kucoin",
-   "label": "REPORTED",
-   "url": "https://www.kucoin.com/news/flash/arda-ai-startup-founded-by-ex-openai-research-lead-raises-230m-at-1-5b-valuation"
-  },
-  {
-   "headline": "Rain and hail risk in Arizona; Sen. Gallego calls for AI regulation | Nightly Roundup",
-   "outlet": "FOX 10 Phoenix",
-   "outlet_name": "FOX 10 Phoenix",
-   "label": "REPORTED",
-   "url": "https://www.fox10phoenix.com/news/rain-hail-risk-arizona-sen-gallego-calls-ai-regulation-nightly-roundup"
-  },
-  {
-   "headline": "SpaceX profit beats estimates on 161% revenue jump, growth in AI, satellite internet…",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
+   "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.businesstimes.com.sg/international/global/spacex-profit-beats-estimates-161-revenue-jump-growth-ai-satellite-internet-businesses"
+   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/"
+  },
+  {
+   "headline": "Anthropic proposes AI safety bill to block high-risk models that could cause 50 deaths or…",
+   "outlet": "Firstpost",
+   "outlet_name": "Firstpost",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkhEcGlYR2N4cjJsMUxsbC1qLTJVNkc0OHpXaVVWSld2X0UxajNJVmpOMXBpek1uYWxsam1yWHZKcGtfSDJOM2dqbElXMzZiQXhBZjZoU04yUDh0U2VDcXZyaTlBck13ZjB2Skk3LTB1UmtkWFlGQ3ZsVHdaWG9WUjZLZVUwblUyaTJ4UTN6Qkd5dGlIY3RrRExVRERkcDVaYVhZT1VseFlBQ2lNNmk1ekZFRmhRVDhLRXYtRERLWjdSMEpkMGY4WncwOXljUlhmTzVQVENTRW5mMEhvVlF1bEdQc1RuU2hFN2fSAe8BQVVfeXFMTVd5WXJzQnB3Zm1lYUlzRlY0bC1KR21IVVRISzI1TlJuYTBGd2ZWSUlCSXZTMHhvUFpfRWU3ZkhoMlhlZHZWS2loR0lzNFlaVXhQMXpST1FHbVBLTWhxc1MwRTU0YjA3S1JGZElheU5NTkRkUGZqakUxVHh2Z25rVzM4cFdGTjRqQWFSdE15aURhd3VPYXYxckIwN21udlpKa3MxTzc2S09yLXZvZGdzTFZRbzJDNThXY3RTckJ3LUtiN3Fvam1FYy1oQ0RyQ3J0RnlXR3dzZVFYbXJtMjVxZ0c2cldyZGJTUDh2b21pWm8?oc=5"
+  },
+  {
+   "headline": "DeepSeek Open-Sources Framework Behind Its High-Margin AI Inference",
+   "outlet": "theinformation.com",
+   "outlet_name": "The Information",
+   "label": "REPORTED",
+   "url": "https://www.theinformation.com/briefings/deepseek-open-sources-framework-behind-high-margin-ai-inference"
   },
   {
    "headline": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3",
@@ -95,56 +88,63 @@
    "url": "https://cryptobriefing.com/nvidia-google-intel-anthropic-lobby-chip-exports/"
   },
   {
-   "headline": "Musk, Anthropic outline dueling approaches to AI-era philanthropy",
-   "outlet": "Awani International",
-   "outlet_name": "Awani International",
+   "headline": "\"Still the trend is AI\"... ETFs focusing on NVIDIA and semiconductors [Money Smart]…",
+   "outlet": "머니투데이",
+   "outlet_name": "머니투데이",
    "label": "REPORTED",
-   "url": "https://international.astroawani.com/technology-news/musk-anthropic-outline-dueling-approaches-ai-era-philanthropy"
+   "url": "https://www.mt.co.kr/stock/2026/10/21/2026101916264741354"
   },
   {
-   "headline": "Künstliche Intelligenz - China kritisiert US-Verbot der KI DeepSeek in Bundesbehörden",
-   "outlet": "Deutschlandfunk",
-   "outlet_name": "Deutschlandfunk",
+   "headline": "Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
    "label": "REPORTED",
-   "url": "https://www.deutschlandfunk.de/china-kritisiert-us-verbot-der-ki-deepseek-in-bundesbehoerden-100.html"
+   "url": "https://siliconangle.com/2026/10/20/google-unveils-torchtpu-in-a-push-to-break-nvidias-stranglehold-on-ai-compute/"
   },
   {
-   "headline": "OpenAI says its AI agents weakened internal monitoring system",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
+   "headline": "County Council passes law to regulate AI in Allegheny political ads",
+   "outlet": "TribLIVE.com",
+   "outlet_name": "TribLIVE.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/openai-says-its-ai-agents-weakened-internal-monitoring-system/ar-AA2fH4rf"
+   "url": "https://triblive.com/local/valley-news-dispatch/county-council-passes-law-to-regulate-ai-in-allegheny-political-ads/"
   },
   {
-   "headline": "🥧 Morning Briefing: U.S. government instructs agencies to stop using DeepSeek, Lixiang…",
-   "outlet": "sspai.com",
-   "outlet_name": "sspai.com",
+   "headline": "Practical Guide to Starting 'AI x Automation' with Gemini Notebook",
+   "outlet": "kn.itmedia.co.jp",
+   "outlet_name": "kn.itmedia.co.jp",
    "label": "REPORTED",
-   "url": "https://sspai.com/post/116887"
+   "url": "https://kn.itmedia.co.jp/kn/article/2610/21/2000002450/"
   },
   {
-   "headline": "New UN initiative will aim to tackle the military uses of AI",
-   "outlet": "Associated Press News on MSN",
-   "outlet_name": "Associated Press News on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/new-un-initiative-will-aim-to-tackle-the-military-uses-of-ai/ar-AA2fGjgq"
-  },
-  {
-   "headline": "Claude solves decades-old mystery behind NSA cryptographic numbers",
-   "outlet": "cyberinsider.com",
-   "outlet_name": "cyberinsider.com",
+   "headline": "China opposes US restrictions on DeepSeek",
+   "outlet": "europe.chinadaily.com.cn",
+   "outlet_name": "europe.chinadaily.com.cn",
    "label": "REPORTED",
-   "url": "https://cyberinsider.com/claude-solves-decades-old-mystery-behind-nsa-cryptographic-numbers/"
+   "url": "http://europe.chinadaily.com.cn/a/202610/20/WS6ad784dce4b06d4aa0563d62.html"
+  },
+  {
+   "headline": "OpenAI Significantly Improves Coding Capability in Low-Resource Languages Like COBOL…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
+   "label": "REPORTED",
+   "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002447/"
+  },
+  {
+   "headline": "Safeguarding Regional Agents: Announcing Gemma-SEA-LION-Guard-v2 (31B, E4B, E2B)",
+   "outlet": "sea-lion.ai",
+   "outlet_name": "sea-lion.ai",
+   "label": "REPORTED",
+   "url": "https://sea-lion.ai/blog/safeguarding-regional-agents-announcing-gemma-sea-lion-guard-v2-31b-e4b-e2b/"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 15400,
- "articles_24h_label": "about 15,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 14200,
+ "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/03.mp3",
- "audio_seconds": 49.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/04.mp3",
+ "audio_seconds": 53.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Temple Daily Telegram: China defends DeepSeek after US ban of its AI from government systems.\nReported by Nacionale: Anthropic Proposes AI Safety Bill Requiring Judicial Approval to Block Models.\nReported by kucoin: Arda, an AI startup founded by the former OpenAI research lead, raises $230 million at a $1.5 billion valuation.\nReported by FOX 10 Phoenix: Rain and hail risk in Arizona; Sen. Gallego calls for AI regulation | Nightly Roundup.\nConfirmed, per The Business Times: SpaceX profit beats estimates on 161% revenue jump, growth in AI, satellite internet businesses.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBCTV18: OpenAI says its agents weakened system that flags AI misbehaviour.\nConfirmed, per TechCrunch: Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’.\nReported by Firstpost: Anthropic proposes AI safety bill to block high-risk models that could cause 50 deaths or $1 billion in dam.\nReported by The Information: DeepSeek Open-Sources Framework Behind Its High-Margin AI Inference.\nReported by Crypto Briefing: Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
