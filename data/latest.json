@@ -1,105 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T12:20:05Z",
- "hour": "2026-10-21T12:00:00Z",
+ "generated_at": "2026-10-21T13:20:06Z",
+ "hour": "2026-10-21T13:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI and Founders Fund back Coherence Neuro's brain implant for cancer detection and treatment.",
-   "published_at": "2026-10-21T10:30:00Z"
-  },
-  {
-   "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
-   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
-   "label": "CONFIRMED",
-   "summary_1line": "NVIDIA partners expand AI cloud capacity across Europe to support secure, scalable, and customized AI applications.",
-   "published_at": "2026-10-21T10:30:41Z"
-  },
-  {
-   "title": "Databricks AI Runtime and NVIDIA make it easier to customize open models with enterprise data",
-   "outlet": "databricks.com",
-   "outlet_name": "databricks.com",
-   "url": "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
+   "title": "Intelligence Firm Redpoint Advisors Launches AI-Powered Global Instability Forecasting Tool",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/intelligence-firm-redpoint-advisors-launches-ai-powered-global-instability-forecasting-tool-302914630.html",
    "label": "REPORTED",
-   "summary_1line": "Databricks and NVIDIA launch AI Runtime for enterprise AI model training without GPU management.",
+   "summary_1line": "Redpoint Advisors launches RIFT, an AI tool forecasting geopolitical instability in 50+ countries with 80% accuracy.",
    "published_at": "2026-10-21T11:30:00Z"
   },
   {
-   "title": "Dario Amodei says Anthropic's \"race to the top\" makes AI safer, cites nine safety decisions with \"substantial costs\", and admits mishandling a draft AI bill (Dario Amodei/@darioamodei)",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
-   "url": "https://www.techmeme.com/261021/p13#a261021p13",
+   "title": "Fleet Launches New AI Governance Capabilities for Enterprise Devices",
+   "outlet": "Cybersecurity Insiders",
+   "outlet_name": "Cybersecurity Insiders",
+   "url": "https://www.cybersecurity-insiders.com/fleet-launches-new-ai-governance-capabilities-for-enterprise-devices/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T10:30:06Z"
+   "summary_1line": "Fleet launches AI governance for endpoint devices to manage shadow AI tools and risks.",
+   "published_at": "2026-10-21T10:13:57Z"
   },
   {
-   "title": "‘AI Is Not A Legal Entity’ Says Law Society",
-   "outlet": "artificiallawyer.com",
-   "outlet_name": "artificiallawyer.com",
-   "url": "https://www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society/",
+   "title": "Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.",
+   "outlet": "mistral.ai",
+   "outlet_name": "mistral.ai",
+   "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+   "label": "CONFIRMED",
+   "summary_1line": "Mistral and NVIDIA launch AI-powered engineering workflows with public benchmarks and open datasets.",
+   "published_at": null
+  },
+  {
+   "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
+   "outlet": "blogs.nvidia.com",
+   "outlet_name": "blogs.nvidia.com",
+   "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
+   "label": "CONFIRMED",
+   "summary_1line": "Nebius, Nscale, and others adopt NVIDIA Vera CPUs for faster agentic computing and AI agent infrastructure.",
+   "published_at": "2026-10-20T10:30:11Z"
+  },
+  {
+   "title": "OpenAI models are coming to Google Cloud",
+   "outlet": "openai.com",
+   "outlet_name": "openai.com",
+   "url": "https://openai.com/index/openai-models-google-cloud",
    "label": "REPORTED",
-   "summary_1line": "Law Society warns AI isn't a legal entity or substitute for junior lawyers.",
-   "published_at": "2026-10-21T10:03:06Z"
+   "summary_1line": null,
+   "published_at": "2026-10-21T12:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "label": "CONFIRMED",
-   "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/"
+   "headline": "Intelligence Firm Redpoint Advisors Launches AI-Powered Global Instability Forecasting…",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "REPORTED",
+   "url": "https://www.prnewswire.com/news-releases/intelligence-firm-redpoint-advisors-launches-ai-powered-global-instability-forecasting-tool-302914630.html"
   },
   {
-   "headline": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
+   "headline": "Fleet Launches New AI Governance Capabilities for Enterprise Devices",
+   "outlet": "Cybersecurity Insiders",
+   "outlet_name": "Cybersecurity Insiders",
+   "label": "REPORTED",
+   "url": "https://www.cybersecurity-insiders.com/fleet-launches-new-ai-governance-capabilities-for-enterprise-devices/"
+  },
+  {
+   "headline": "Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with…",
+   "outlet": "mistral.ai",
+   "outlet_name": "mistral.ai",
+   "label": "CONFIRMED",
+   "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/"
+  },
+  {
+   "headline": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
    "outlet": "blogs.nvidia.com",
    "outlet_name": "blogs.nvidia.com",
    "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/"
+   "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/"
   },
   {
-   "headline": "Databricks AI Runtime and NVIDIA make it easier to customize open models with enterprise…",
-   "outlet": "databricks.com",
-   "outlet_name": "databricks.com",
+   "headline": "OpenAI models are coming to Google Cloud",
+   "outlet": "openai.com",
+   "outlet_name": "openai.com",
    "label": "REPORTED",
-   "url": "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models"
+   "url": "https://openai.com/index/openai-models-google-cloud"
   },
   {
-   "headline": "Dario Amodei says Anthropic's \"race to the top\" makes AI safer, cites nine safety…",
+   "headline": "AI infrastructure Hardware-backed security at global scale: Confidential G4 with NVIDIA…",
+   "outlet": "cloud.google.com",
+   "outlet_name": "cloud.google.com",
+   "label": "CONFIRMED",
+   "url": "https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga"
+  },
+  {
+   "headline": "Blog Nebius Physical AI Workbench brings agentic workflows to physical AI builders in…",
+   "outlet": "nebius.com",
+   "outlet_name": "nebius.com",
+   "label": "CONFIRMED",
+   "url": "https://nebius.com/blog/posts/physical-ai-workbench"
+  },
+  {
+   "headline": "nvidia / Nemotron-3.5-Embed-8B-BF16",
+   "outlet": "deepinfra.com",
+   "outlet_name": "deepinfra.com",
+   "label": "CONFIRMED",
+   "url": "https://deepinfra.com/nvidia/Nemotron-3.5-Embed-8B-BF16"
+  },
+  {
+   "headline": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
+   "outlet": "securityweek.com",
+   "outlet_name": "securityweek.com",
+   "label": "REPORTED",
+   "url": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/"
+  },
+  {
+   "headline": "Nvidia launches its OpenShell Reference Architecture, a framework to secure, monitor, and…",
    "outlet": "techmeme.com",
    "outlet_name": "techmeme.com",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261021/p13#a261021p13"
-  },
-  {
-   "headline": "‘AI Is Not A Legal Entity’ Says Law Society",
-   "outlet": "artificiallawyer.com",
-   "outlet_name": "artificiallawyer.com",
-   "label": "REPORTED",
-   "url": "https://www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society/"
-  },
-  {
-   "headline": "DeepSeek Wants Better AI at Lower Cost",
-   "outlet": "technode.com",
-   "outlet_name": "technode.com",
-   "label": "REPORTED",
-   "url": "https://technode.com/2026/10/21/deepseek-wants-better-ai-at-lower-cost/"
-  },
-  {
-   "headline": "GetDiogenes – I analyzed 200 tech job listings with Claude to spot ghost jobs",
-   "outlet": "getdiogenes.com",
-   "outlet_name": "getdiogenes.com",
-   "label": "REPORTED",
-   "url": "https://getdiogenes.com"
+   "url": "https://www.techmeme.com/261021/p23#a261021p23"
   },
   {
    "headline": "Coherence Neuro, which is developing AI models and brain implants to help combat brain…",
@@ -114,37 +135,16 @@
    "outlet_name": "squidbrake.com",
    "label": "REPORTED",
    "url": "https://squidbrake.com/benchmark"
-  },
-  {
-   "headline": "Europe's tech funding rebounds to €27.8B, fuelled by billion-euro mega-rounds",
-   "outlet": "tech.eu",
-   "outlet_name": "tech.eu",
-   "label": "REPORTED",
-   "url": "https://tech.eu/2026/10/21/europes-tech-funding-rebounds-to-eur278b-fuelled-by-billion-euro-mega-rounds/"
-  },
-  {
-   "headline": "I split Claude, Gemini, and ChatGPT into work, home, and casual, and it’s a mixed bag",
-   "outlet": "androidauthority.com",
-   "outlet_name": "androidauthority.com",
-   "label": "STILL OPEN",
-   "url": "https://www.androidauthority.com/my-claude-gemini-and-chatgpt-setup-3721781/"
-  },
-  {
-   "headline": "Agent Atoll: Visualise your Claude Code/Codex history on a 3D living archipelago",
-   "outlet": "agent-atoll.pages.dev",
-   "outlet_name": "agent-atoll.pages.dev",
-   "label": "STILL OPEN",
-   "url": "https://agent-atoll.pages.dev"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12700,
- "articles_24h_label": "about 13,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 12300,
+ "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/12.mp3",
- "audio_seconds": 57.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/13.mp3",
+ "audio_seconds": 58.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI and Founders Fund back Coherence Neuro's brain implant for cancer detection and treatment, confirmed by Wired.\nNVIDIA Cloud Partners expand artificial intelligence cloud capacity across Europe to support secure, scalable, and customized applications, confirmed per blogs dot nvidia dot com.\nDatabricks and NVIDIA launch AI Runtime for enterprise model training without GPU management, reported by databricks dot com.\nDario Amodei says Anthropic's race to the top makes artificial intelligence safer and cites nine safety decisions with substantial costs, reported per techmeme dot com.\nLaw Society warns artificial intelligence isn't a legal entity or substitute for junior lawyers, reported by artificiallawyer dot com.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by PR Newswire: Intelligence Firm Redpoint Advisors Launches AI-Powered Global Instability Forecasting Tool.\nReported by Cybersecurity Insiders: Fleet Launches New AI Governance Capabilities for Enterprise Devices.\nConfirmed, per mistral dot ai: Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.\nConfirmed, per blogs dot nvidia dot com: European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure.\nReported by openai dot com: OpenAI models are coming to Google Cloud.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
