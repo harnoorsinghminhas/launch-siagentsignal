@@ -1,133 +1,82 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T14:20:03Z",
- "hour": "2026-10-21T14:00:00Z",
+ "generated_at": "2026-10-21T15:20:02Z",
+ "hour": "2026-10-21T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI expands to Google Cloud, targeting enterprise developers amid rising AI spending.",
-   "published_at": "2026-10-21T12:20:13Z"
-  },
-  {
-   "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Nebius and neocloud firms report rising AI computing prices amid strong demand.",
-   "published_at": "2026-10-21T12:21:07Z"
-  },
-  {
-   "title": "October 21, 2026 4 min read Better Evidence, Better Agents: NVIDIA Nemotron Retriever on FriendliAI, Available Day-0 AI Models",
-   "outlet": "friendli.ai",
-   "outlet_name": "friendli.ai",
-   "url": "https://friendli.ai/blog/nvidia-nemotron-retriever",
-   "label": "CONFIRMED",
-   "summary_1line": "NVIDIA's Nemotron Retriever models now available on FriendliAI for enterprise agents with day-0 deployment.",
-   "published_at": null
-  },
-  {
-   "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
-   "outlet": "securityweek.com",
-   "outlet_name": "securityweek.com",
-   "url": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
+   "title": "OpenAI brings its frontier models to rival Google Cloud",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "url": "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models",
    "label": "REPORTED",
-   "summary_1line": "AI agents at OpenAI disabled safety monitoring in two October incidents.",
-   "published_at": "2026-10-21T12:34:22Z"
+   "summary_1line": null,
+   "published_at": "2026-10-21T12:00:07Z"
   },
   {
-   "title": "CoreWeave Powers Agentic AI, HPC, and Data Analytics Workloads with NVIDIA HGX Rubin NVL8",
-   "outlet": "wf.coreweave.com",
-   "outlet_name": "wf.coreweave.com",
-   "url": "https://wf.coreweave.com/blog/coreweave-powers-agentic-ai-hpc-and-data-analytics-workloads-with-nvidia-hgx-rubin-nvl8",
+   "title": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
    "label": "REPORTED",
-   "summary_1line": "NVIDIA's HGX Rubin NVL8 delivers 10x token throughput and 2TB memory for AI and HPC, launching on CoreWeave Cloud this quarter.",
-   "published_at": "2026-10-21T11:43:11Z"
+   "summary_1line": null,
+   "published_at": "2026-10-21T14:00:12Z"
+  },
+  {
+   "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
+   "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-21T14:00:00Z"
+  },
+  {
+   "title": "Epic to launch app connector for AI agents",
+   "outlet": "Modern Healthcare",
+   "outlet_name": "Modern Healthcare",
+   "url": "https://www.modernhealthcare.com/health-tech/mh-epic-systems-connectors-ai-agents-2027/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-21T13:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html"
-  },
-  {
-   "headline": "Investors are questioning neoclouds' business model but Nebius says AI computing prices…",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html"
-  },
-  {
-   "headline": "October 21, 2026 4 min read Better Evidence, Better Agents: NVIDIA Nemotron Retriever on…",
-   "outlet": "friendli.ai",
-   "outlet_name": "friendli.ai",
-   "label": "CONFIRMED",
-   "url": "https://friendli.ai/blog/nvidia-nemotron-retriever"
-  },
-  {
-   "headline": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
-   "outlet": "securityweek.com",
-   "outlet_name": "securityweek.com",
+   "headline": "OpenAI brings its frontier models to rival Google Cloud",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
    "label": "REPORTED",
-   "url": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/"
+   "url": "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models"
   },
   {
-   "headline": "CoreWeave Powers Agentic AI, HPC, and Data Analytics Workloads with NVIDIA HGX Rubin NVL8",
-   "outlet": "wf.coreweave.com",
-   "outlet_name": "wf.coreweave.com",
+   "headline": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
    "label": "REPORTED",
-   "url": "https://wf.coreweave.com/blog/coreweave-powers-agentic-ai-hpc-and-data-analytics-workloads-with-nvidia-hgx-rubin-nvl8"
+   "url": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts"
   },
   {
-   "headline": "Powering Production AI with VAST, NVIDIA, and Agent Sandboxes",
-   "outlet": "vastdata.com",
-   "outlet_name": "vastdata.com",
-   "label": "CONFIRMED",
-   "url": "https://www.vastdata.com/blog/powering-production-ai-with-vast-nvidia-and-agent-sandboxes"
-  },
-  {
-   "headline": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
-   "outlet": "securityweek.com",
-   "outlet_name": "securityweek.com",
+   "headline": "AI Guardrails Aren’t Stopping Criminal Hackers",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
    "label": "REPORTED",
-   "url": "https://www.securityweek.com/china-defends-deepseek-after-us-ban-of-its-ai-from-government-systems/"
+   "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/"
   },
   {
-   "headline": "Nvidia launches its OpenShell Reference Architecture, a framework to secure, monitor, and…",
+   "headline": "Epic to launch app connector for AI agents",
+   "outlet": "Modern Healthcare",
+   "outlet_name": "Modern Healthcare",
+   "label": "REPORTED",
+   "url": "https://www.modernhealthcare.com/health-tech/mh-epic-systems-connectors-ai-agents-2027/"
+  },
+  {
+   "headline": "Claude flagged 493 security issues across 25 open-source projects, covering 5M+ lines of…",
    "outlet": "techmeme.com",
    "outlet_name": "techmeme.com",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261021/p23#a261021p23"
-  },
-  {
-   "headline": "Coherence Neuro, which is developing AI models and brain implants to help combat brain…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
-   "label": "REPORTED",
-   "url": "https://www.techmeme.com/261021/p15#a261021p15"
-  },
-  {
-   "headline": "When do hybrid models help? Combining mechanistic modelling and machine learning to…",
-   "outlet": "biorxiv.org",
-   "outlet_name": "biorxiv.org",
-   "label": "REPORTED",
-   "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.758482v1?rss=1"
-  },
-  {
-   "headline": "Lawfare Daily: Investigating AI Cyber Risks, with Asad Ramzanali",
-   "outlet": "lawfaremedia.org",
-   "outlet_name": "lawfaremedia.org",
-   "label": "REPORTED",
-   "url": "https://www.lawfaremedia.org/article/lawfare-daily--investigating-ai-cyber-risks--with-asad-ramzanali"
+   "url": "https://www.techmeme.com/261021/p31#a261021p31"
   },
   {
    "headline": "Claude Mods: Flipping the Harness Inside Out",
@@ -135,16 +84,58 @@
    "outlet_name": "latent.space",
    "label": "REPORTED",
    "url": "https://www.latent.space/p/claude-mods"
+  },
+  {
+   "headline": "'We are the cows of the future' Harari warns AI could take over financial system",
+   "outlet": "ynetnews.com",
+   "outlet_name": "ynetnews.com",
+   "label": "REPORTED",
+   "url": "https://www.ynetnews.com/tech-and-digital/article/rjzvkfq2fg"
+  },
+  {
+   "headline": "Homeport AI: Continuous monitoring of leads and accounts",
+   "outlet": "homeport.ai",
+   "outlet_name": "homeport.ai",
+   "label": "REPORTED",
+   "url": "https://homeport.ai/en"
+  },
+  {
+   "headline": "Salesforce Named a Leader in Inaugural IDC MarketScape for Worldwide Agentic AI Platforms",
+   "outlet": "salesforce.com",
+   "outlet_name": "salesforce.com",
+   "label": "REPORTED",
+   "url": "https://www.salesforce.com/blog/idc-marketscape-agentic-ai-platforms/"
+  },
+  {
+   "headline": "AI Testing vs. Software Testing",
+   "outlet": "deepsense.ai",
+   "outlet_name": "deepsense.ai",
+   "label": "REPORTED",
+   "url": "https://deepsense.ai/blog/ai-testing-vs-software-testing-how-to-build-reliable-production-ai-systems/"
+  },
+  {
+   "headline": "Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "label": "REPORTED",
+   "url": "https://www.techmeme.com/261021/p33#a261021p33"
+  },
+  {
+   "headline": "LayerFS: The filesystem for AI coding agents",
+   "outlet": "layerfs.ai",
+   "outlet_name": "layerfs.ai",
+   "label": "REPORTED",
+   "url": "https://layerfs.ai/"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 11700,
- "articles_24h_label": "about 12,000",
+ "tidbit": "Did you know… this hour's top stories come from four different outlets.",
+ "articles_24h_rounded": 11100,
+ "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/14.mp3",
- "audio_seconds": 62.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/15.mp3",
+ "audio_seconds": 54.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is expanding to Google Cloud, targeting enterprise developers as artificial intelligence spending rises. Confirmed by CNBC.\nNebius and neocloud firms are reporting rising artificial intelligence computing prices amid strong demand. Confirmed by CNBC.\nNVIDIA's Nemotron Retriever models are now available on FriendliAI for enterprise agents with day-0 deployment. Confirmed by friendli dot ai.\nReported by securityweek dot com: artificial intelligence agents at OpenAI disabled safety monitoring in two October incidents.\nNVIDIA's HGX Rubin NVL8 delivers 10 times token throughput and 2 TB memory for artificial intelligence and HPC, launching on CoreWeave Cloud this quarter. Reported by wf dot coreweave dot com.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is bringing its frontier models to Google Cloud. Reported by Axios: the company is expanding where developers can access its latest technology.\nWashington's DeepSeek ban may deter US firms from adopting Chinese artificial intelligence models, according to experts. Reported by South China Morning Post: the policy could shape how American companies choose their tools.\nArtificial intelligence guardrails aren't stopping criminal hackers from exploiting vulnerabilities. Reported by Wired: security safeguards face real-world challenges from determined threat actors.\nEpic is launching an app connector designed for artificial intelligence agents to integrate with its platform. Reported by Modern Healthcare: the move expands how these agents can access healthcare systems.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
