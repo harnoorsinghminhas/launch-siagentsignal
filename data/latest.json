@@ -1,167 +1,167 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T17:20:06Z",
- "hour": "2026-10-21T17:00:00Z",
+ "generated_at": "2026-10-21T18:20:02Z",
+ "hour": "2026-10-21T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "NVIDIA unveils security architecture that can stop AI agents crossing set boundaries",
-   "outlet": "Help Net Security",
-   "outlet_name": "Help Net Security",
-   "url": "https://www.helpnetsecurity.com/2026/10/21/nvidia-openshell-reference-architecture/",
-   "label": "REPORTED",
-   "summary_1line": "NVIDIA launches OpenShell to safely run AI agents in enterprises with boundary controls.",
-   "published_at": "2026-10-21T13:52:23Z",
-   "url_id": "ce13a3b2514d740e2870fa3d9b1f9be9"
-  },
-  {
-   "title": "ChatGPT ads reach 89 countries as OpenAI passes 100,000 advertisers",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/chatgpt-ads-89-countries-100000-advertisers",
+   "title": "OpenAI says the PHP flaw is potentially one of the most impactful vulnerabilities in recent memory",
+   "outlet": "Newsquawk",
+   "outlet_name": "Newsquawk",
+   "url": "https://www.newsquawk.com/headlines/openai-says-the-php-flaw-is-potentially-one-of-the-most-impactful-vulnerabilities-in-recent-memory",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI expands ChatGPT ads to 89 countries, reaching $1bn annual revenue.",
-   "published_at": "2026-10-21T14:23:21Z",
-   "url_id": "d3f27777be6581a2713994a32f47c2a4"
+   "summary_1line": "OpenAI flags PHP flaw as top vulnerability, triggers global mitigation with tech partners.",
+   "published_at": "2026-10-21T14:52:50Z",
+   "url_id": "e919e60d71381a5b69deb2c9b12f2057"
   },
   {
-   "title": "Conversational Gemini navigation comes to Apple CarPlay",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
+   "title": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout",
+   "outlet": "Bluefield Daily Telegraph",
+   "outlet_name": "Bluefield Daily Telegraph",
+   "url": "https://www.bdtonline.com/region/nvidia-ceo-encourages-europes-lagging-ai-sector-and-offers-tools-to-accelerate-data-center-buildout/article_c94679c6-b3c3-5223-b0c2-dc3db8545fb5.html",
    "label": "CONFIRMED",
-   "summary_1line": "Google rolls out conversational Gemini to US Apple CarPlay users for hands-free navigation.",
-   "published_at": "2026-10-21T15:00:00Z",
-   "url_id": "6d4725018bc7c4889cdee16953d51e0b"
+   "summary_1line": "Huang urges Europe's AI sector to grow with modular data center tools at GTC in Berlin.",
+   "published_at": "2026-10-21T12:28:10Z",
+   "url_id": "e57e23f736f5e47e1d51789881ab8bcb"
   },
   {
-   "title": "OpenAI president urges AI safeguards as group he funds opposes regulation",
-   "outlet": "Newswav",
-   "outlet_name": "Newswav",
-   "url": "https://newswav.com/article/openai-president-urges-ai-safeguards-as-group-he-funds-opposes-regulation-A2610_hKaSQD",
-   "label": "REPORTED",
-   "summary_1line": "Greg Brockman's $25M donation to a group opposing AI regulations sparks industry and safety concerns.",
-   "published_at": "2026-10-21T11:23:40Z",
-   "url_id": "74e465035e42ff249bf3810c88b999e2"
+   "title": "Google experiences resignation backlash over AI military contracts",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+   "label": "CONFIRMED",
+   "summary_1line": "Google staff resign over AI military contracts amid ethics concerns and lack of oversight.",
+   "published_at": "2026-10-21T08:41:00Z",
+   "url_id": "3f872d921e09d092d51ce2d1eacefaba"
   },
   {
-   "title": "Nvidia Unveils DSX Pod for Faster AI Data Center Builds",
-   "outlet": "Data Center Knowledge",
-   "outlet_name": "Data Center Knowledge",
-   "url": "https://www.datacenterknowledge.com/ai-data-centers/nvidia-unveils-dsx-pod-for-faster-ai-data-center-builds",
+   "title": "Websites go dark worldwide as AI exposes critical security flaws",
+   "outlet": "The Korea Times",
+   "outlet_name": "The Korea Times",
+   "url": "https://www.koreatimes.co.kr/world/20261022/websites-go-dark-worldwide-as-ai-exposes-critical-security-flaws",
+   "label": "STILL OPEN",
+   "summary_1line": "PHP flaws let attackers take over servers; global sites shut down after leak.",
+   "published_at": "2026-10-21T16:17:00Z",
+   "url_id": "ff2d746e0a00283630771e88be2e7220"
+  },
+  {
+   "title": "Absolute Security Integrates Autonomous Cyber Resilience into the NVIDIA DGX Station AI Supercomputer",
+   "outlet": "The National Law Review",
+   "outlet_name": "The National Law Review",
+   "url": "https://natlawreview.com/press-releases/absolute-security-integrates-autonomous-cyber-resilience-nvidia-dgx-station",
    "label": "REPORTED",
-   "summary_1line": "Nvidia's DSX Pod cuts AI deployment time to 14 days with 17 partners.",
-   "published_at": "2026-10-21T14:29:56Z",
-   "url_id": "c83156956ce1fbc5f427d76134d3a731"
+   "summary_1line": null,
+   "published_at": "2026-10-21T17:11:25Z",
+   "url_id": "64646cf1b2f55a20b5500ead63d8b478"
   }
  ],
  "ticker": [
   {
-   "headline": "NVIDIA unveils security architecture that can stop AI agents crossing set boundaries",
-   "outlet": "Help Net Security",
-   "outlet_name": "Help Net Security",
-   "label": "REPORTED",
-   "url": "https://www.helpnetsecurity.com/2026/10/21/nvidia-openshell-reference-architecture/",
-   "url_id": "ce13a3b2514d740e2870fa3d9b1f9be9"
-  },
-  {
-   "headline": "ChatGPT ads reach 89 countries as OpenAI passes 100,000 advertisers",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
+   "headline": "OpenAI says the PHP flaw is potentially one of the most impactful vulnerabilities in…",
+   "outlet": "Newsquawk",
+   "outlet_name": "Newsquawk",
    "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/chatgpt-ads-89-countries-100000-advertisers",
-   "url_id": "d3f27777be6581a2713994a32f47c2a4"
+   "url": "https://www.newsquawk.com/headlines/openai-says-the-php-flaw-is-potentially-one-of-the-most-impactful-vulnerabilities-in-recent-memory",
+   "url_id": "e919e60d71381a5b69deb2c9b12f2057"
   },
   {
-   "headline": "Conversational Gemini navigation comes to Apple CarPlay",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
+   "headline": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data…",
+   "outlet": "Bluefield Daily Telegraph",
+   "outlet_name": "Bluefield Daily Telegraph",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/transportation/1015281/gemini-ai-apple-carplay-voice-google-maps",
-   "url_id": "6d4725018bc7c4889cdee16953d51e0b"
+   "url": "https://www.bdtonline.com/region/nvidia-ceo-encourages-europes-lagging-ai-sector-and-offers-tools-to-accelerate-data-center-buildout/article_c94679c6-b3c3-5223-b0c2-dc3db8545fb5.html",
+   "url_id": "e57e23f736f5e47e1d51789881ab8bcb"
   },
   {
-   "headline": "OpenAI president urges AI safeguards as group he funds opposes regulation",
-   "outlet": "Newswav",
-   "outlet_name": "Newswav",
-   "label": "REPORTED",
-   "url": "https://newswav.com/article/openai-president-urges-ai-safeguards-as-group-he-funds-opposes-regulation-A2610_hKaSQD",
-   "url_id": "74e465035e42ff249bf3810c88b999e2"
-  },
-  {
-   "headline": "Nvidia Unveils DSX Pod for Faster AI Data Center Builds",
-   "outlet": "Data Center Knowledge",
-   "outlet_name": "Data Center Knowledge",
-   "label": "REPORTED",
-   "url": "https://www.datacenterknowledge.com/ai-data-centers/nvidia-unveils-dsx-pod-for-faster-ai-data-center-builds",
-   "url_id": "c83156956ce1fbc5f427d76134d3a731"
-  },
-  {
-   "headline": "OpenAI says an AI agent lied about disabling its safety monitoring system",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
+   "headline": "Google experiences resignation backlash over AI military contracts",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
-   "url_id": "f6621610cdf65a5165f1ce014a59400e"
+   "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
+   "url_id": "3f872d921e09d092d51ce2d1eacefaba"
   },
   {
-   "headline": "Anthropic could spend $750bn on compute, The Wall Street Journal reports",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/anthropic-s-1-750bn-compute-80-7bn-loss",
-   "url_id": "b22b1ea746aba5b762728abcf502b1e6"
-  },
-  {
-   "headline": "5 things to know about DeepSeek as US tightens restrictions on Chinese AI startup",
-   "outlet": "Türkiye Today",
-   "outlet_name": "Türkiye Today",
+   "headline": "Websites go dark worldwide as AI exposes critical security flaws",
+   "outlet": "The Korea Times",
+   "outlet_name": "The Korea Times",
    "label": "STILL OPEN",
-   "url": "https://www.turkiyetoday.com/business/5-things-to-know-about-deepseek-as-us-tightens-restrictions-on-chinese-ai-startup-3230771",
-   "url_id": "18fe08c86004b76e89ce33219b008fa9"
+   "url": "https://www.koreatimes.co.kr/world/20261022/websites-go-dark-worldwide-as-ai-exposes-critical-security-flaws",
+   "url_id": "ff2d746e0a00283630771e88be2e7220"
   },
   {
-   "headline": "Anthropic’s first-half revenue outpaces its compute bill, according to draft IPO filing",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "Absolute Security Integrates Autonomous Cyber Resilience into the NVIDIA DGX Station AI…",
+   "outlet": "The National Law Review",
+   "outlet_name": "The National Law Review",
    "label": "REPORTED",
-   "url": "https://cryptobriefing.com/anthropic-h1-revenue-exceeds-compute-costs/",
-   "url_id": "36c0fa0fb6daca1032e2272d00068311"
-  },
-  {
-   "headline": "Gemini Unveils New Tools to Empower Small Business Owners",
-   "outlet": "Small Business Trends",
-   "outlet_name": "Small Business Trends",
-   "label": "REPORTED",
-   "url": "https://smallbiztrends.com/gemini-unveils-new-tools-to-empower-small-business-owners/",
-   "url_id": "4ff04cddfd56ed69cbb29b8e49ba0bcb"
-  },
-  {
-   "headline": "Anthropic set Claude on 25 open-source projects and it found 493 flaws",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
-   "label": "REPORTED",
-   "url": "https://thenextweb.com/news/claude-attack-surface-reduction-493-issues-openssh",
-   "url_id": "2746270a2a22f4dfc9aad87a5bb627b3"
+   "url": "https://natlawreview.com/press-releases/absolute-security-integrates-autonomous-cyber-resilience-nvidia-dgx-station",
+   "url_id": "64646cf1b2f55a20b5500ead63d8b478"
   },
   {
    "headline": "Asymptote Labs Raises $5.5M to Show Security Teams What Their AI Agents Are Doing",
    "outlet": "AlleyWatch",
    "outlet_name": "AlleyWatch",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://alleywatch.com/2026/10/asymptote-labs-ai-agent-governance-runtime-infrastructure-security-beacon-open-source-telemetry-justin-d-souza/",
    "url_id": "380ba18eb27a1a9729bbce218b8b6ad1"
+  },
+  {
+   "headline": "Exclusive / Meta tops Big Tech lobbying as AI labs talk antitrust",
+   "outlet": "Semafor",
+   "outlet_name": "Semafor",
+   "label": "CONFIRMED",
+   "url": "https://www.semafor.com/article/10/21/2026/meta-tops-big-tech-lobbying-as-ai-labs-talk-antitrust",
+   "url_id": "12037176a1ab06d12c1b3e009bea5137"
+  },
+  {
+   "headline": "UW protein institute led by Nobel winner unveils its first AI model co-developed with…",
+   "outlet": "GeekWire",
+   "outlet_name": "GeekWire",
+   "label": "CONFIRMED",
+   "url": "https://www.geekwire.com/2026/uw-protein-institute-led-by-nobel-winner-unveils-its-first-ai-model-co-developed-with-nvidia/",
+   "url_id": "5bffa0244dec707cf9ecc7fbd9ddccf4"
+  },
+  {
+   "headline": "Anthropic’s AI safety bill would pause AI models if 50+ people could die",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
+   "label": "REPORTED",
+   "url": "https://mashable.com/tech/anthropic-ai-safety-bill-1-billion-damages-50-people-die",
+   "url_id": "dec0b747f1040a68204cdb112a660d00"
+  },
+  {
+   "headline": "Red Hat and Nvidia expand their partnership to secure autonomous AI agents",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
+   "label": "CONFIRMED",
+   "url": "https://siliconangle.com/2026/10/21/red-hat-and-nvidia-expand-their-partnership-to-secure-autonomous-ai-agents/",
+   "url_id": "13a7aeb724b597745a9e24c615a7fd69"
+  },
+  {
+   "headline": "TriVector Labs Launches AviaPilot, an AI Copilot for Pilots and Aviation Organizations",
+   "outlet": "openPR.com",
+   "outlet_name": "openPR.com",
+   "label": "CONFIRMED",
+   "url": "https://www.openpr.com/news/4668246/trivector-labs-launches-aviapilot-an-ai-copilot-for-pilots",
+   "url_id": "e65d2ec6808f40c44a96ec00b09e833a"
+  },
+  {
+   "headline": "AI Is ‘on Track to Crowd Out Human Decision-Making’ in Warfare, U.N. Official Warns",
+   "outlet": "gizmodo.com",
+   "outlet_name": "gizmodo.com",
+   "label": "STILL OPEN",
+   "url": "https://gizmodo.com/ai-is-on-track-to-crowd-out-human-decision-making-in-warfare-u-n-official-warns-2000828868",
+   "url_id": "52c49166c9f038a5de36ca77e9740a91"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 17100,
+ "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
+ "articles_24h_rounded": 17400,
  "articles_24h_label": "about 17,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/17.mp3",
- "audio_seconds": 46.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/18.mp3",
+ "audio_seconds": 52.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Help Net Security: NVIDIA unveils security architecture that can stop AI agents crossing set boundaries.\nConfirmed, per The Next Web: ChatGPT ads reach 89 countries as OpenAI passes 100,000 advertisers.\nConfirmed, per The Verge: Conversational Gemini navigation comes to Apple CarPlay.\nReported by Newswav: OpenAI president urges AI safeguards as group he funds opposes regulation.\nReported by Data Center Knowledge: Nvidia Unveils DSX Pod for Faster AI Data Center Builds.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Newsquawk: OpenAI says the PHP flaw is potentially one of the most impactful vulnerabilities in recent memory.\nConfirmed, per Bluefield Daily Telegraph: Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout.\nConfirmed, per BBC: Google experiences resignation backlash over AI military contracts.\nStill open, per The Korea Times: Websites go dark worldwide as AI exposes critical security flaws.\nReported by The National Law Review: Absolute Security Integrates Autonomous Cyber Resilience into the NVIDIA DGX Station AI Supercomputer.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
