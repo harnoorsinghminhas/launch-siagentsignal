@@ -1,87 +1,91 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T10:20:02Z",
- "hour": "2026-10-21T10:00:00Z",
+ "generated_at": "2026-10-21T11:20:03Z",
+ "hour": "2026-10-21T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Why Anthropic can't afford to delay its IPO",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/21/anthropic-ipo-ai-costs",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic prepares for IPO before Thanksgiving amid AI infrastructure financial strain.",
-   "published_at": "2026-10-21T09:00:07Z"
-  },
-  {
-   "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI acquires Orchestra Bio to build AI agents that accelerate drug development.",
-   "published_at": "2026-10-21T08:32:54Z"
-  },
-  {
-   "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
+   "title": "Nvidia launches modular AI factory design solution, deployment time can be shortened from 6 months to 14 days",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
+   "url": "https://36kr.com/newsflashes/4035445855278209?f=rss",
    "label": "REPORTED",
-   "summary_1line": "Claude designed 318k protein binders for scorpion toxins; 17 lab-tested designs show promise.",
-   "published_at": "2026-10-21T08:37:06Z"
+   "summary_1line": "火山引擎 is performing a security check for user access safety.",
+   "published_at": null
+  },
+  {
+   "title": "Meta AI vs MagicLight AI: Which One Is Better for Video Creation?",
+   "outlet": "Techloy",
+   "outlet_name": "Techloy",
+   "url": "https://www.techloy.com/meta-ai-vs-magiclight-ai-which-one-is-better-for-video-creation/",
+   "label": "REPORTED",
+   "summary_1line": "Meta AI makes quick clips; MagicLight AI builds long-form stories with scripts and consistent characters.",
+   "published_at": "2026-10-21T09:37:16Z"
+  },
+  {
+   "title": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment",
+   "outlet": "nvidianews.nvidia.com",
+   "outlet_name": "nvidianews.nvidia.com",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+   "label": "CONFIRMED",
+   "summary_1line": "NVIDIA's DSX POD cuts AI factory deployment to 14 days, launching in early 2027.",
+   "published_at": "2026-10-21T09:34:00Z"
+  },
+  {
+   "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+   "outlet": "blogs.nvidia.com",
+   "outlet_name": "blogs.nvidia.com",
+   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+   "label": "CONFIRMED",
+   "summary_1line": "NVIDIA expands agent toolkit for enterprises to build secure, data-informed AI agents.",
+   "published_at": "2026-10-21T10:10:01Z"
+  },
+  {
+   "title": "Federal government expels DeepSeek ... product removal and ban on use",
+   "outlet": "koreatimes.com",
+   "outlet_name": "koreatimes.com",
+   "url": "http://www.koreatimes.com/article/20261020/1634622",
+   "label": "CONFIRMED",
+   "summary_1line": "U.S. admin orders removal of DeepSeek AI from federal systems over security risks.",
+   "published_at": "2026-10-21T08:45:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Why Anthropic can't afford to delay its IPO",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "label": "CONFIRMED",
-   "url": "https://www.axios.com/2026/10/21/anthropic-ipo-ai-costs"
-  },
-  {
-   "headline": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "label": "CONFIRMED",
-   "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/"
-  },
-  {
-   "headline": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
+   "headline": "Nvidia launches modular AI factory design solution, deployment time can be shortened from…",
+   "outlet": "36氪",
+   "outlet_name": "36氪",
    "label": "REPORTED",
-   "url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/"
+   "url": "https://36kr.com/newsflashes/4035445855278209?f=rss"
   },
   {
-   "headline": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
+   "headline": "Meta AI vs MagicLight AI: Which One Is Better for Video Creation?",
+   "outlet": "Techloy",
+   "outlet_name": "Techloy",
+   "label": "REPORTED",
+   "url": "https://www.techloy.com/meta-ai-vs-magiclight-ai-which-one-is-better-for-video-creation/"
+  },
+  {
+   "headline": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment",
    "outlet": "nvidianews.nvidia.com",
    "outlet_name": "nvidianews.nvidia.com",
-   "label": "REPORTED",
-   "url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture"
+   "label": "CONFIRMED",
+   "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment"
   },
   {
-   "headline": "DeepSeek open-sources inference framework with support for Nvidia and Huawei chips",
-   "outlet": "technode.com",
-   "outlet_name": "technode.com",
-   "label": "REPORTED",
-   "url": "https://technode.com/2026/10/21/deepseek-open-sources-inference-framework-with-support-for-nvidia-and-huawei-chips/"
+   "headline": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+   "outlet": "blogs.nvidia.com",
+   "outlet_name": "blogs.nvidia.com",
+   "label": "CONFIRMED",
+   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/"
   },
   {
-   "headline": "Gemini for government agencies launched, co-developed with US government and local…",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
-   "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002470/"
-  },
-  {
-   "headline": "European Ecosystem Builds World’s Most Efficient AI Factories With NVIDIA DSX",
-   "outlet": "nvidianews.nvidia.com",
-   "outlet_name": "nvidianews.nvidia.com",
-   "label": "REPORTED",
-   "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx"
+   "headline": "Federal government expels DeepSeek ... product removal and ban on use",
+   "outlet": "koreatimes.com",
+   "outlet_name": "koreatimes.com",
+   "label": "CONFIRMED",
+   "url": "http://www.koreatimes.com/article/20261020/1634622"
   },
   {
    "headline": "Inception unveils highest-performance dLLM 'Mercury 3'... 'on par with OpenAI and…",
@@ -98,35 +102,49 @@
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216470"
   },
   {
-   "headline": "Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate",
-   "outlet": "tech.yahoo.com",
-   "outlet_name": "tech.yahoo.com",
+   "headline": "Dario Amodei says Anthropic's \"race to the top\" makes AI safer, cites nine safety…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html"
+   "url": "https://www.techmeme.com/261021/p13#a261021p13"
   },
   {
-   "headline": "Federal government expels DeepSeek ... product removal and ban on use",
-   "outlet": "koreatimes.com",
-   "outlet_name": "koreatimes.com",
+   "headline": "‘AI Is Not A Legal Entity’ Says Law Society",
+   "outlet": "artificiallawyer.com",
+   "outlet_name": "artificiallawyer.com",
    "label": "REPORTED",
-   "url": "http://www.koreatimes.com/article/20261020/1634622"
+   "url": "https://www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society/"
   },
   {
-   "headline": "PolicyWatcher – Independent monitor of privacy, ToS and AI policy changes",
-   "outlet": "policywatcher.online",
-   "outlet_name": "policywatcher.online",
+   "headline": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
+   "outlet": "developer.nvidia.com",
+   "outlet_name": "developer.nvidia.com",
    "label": "REPORTED",
-   "url": "https://policywatcher.online"
+   "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/"
+  },
+  {
+   "headline": "DeepSeek Wants Better AI at Lower Cost",
+   "outlet": "technode.com",
+   "outlet_name": "technode.com",
+   "label": "REPORTED",
+   "url": "https://technode.com/2026/10/21/deepseek-wants-better-ai-at-lower-cost/"
+  },
+  {
+   "headline": "GetDiogenes – I analyzed 200 tech job listings with Claude to spot ghost jobs",
+   "outlet": "getdiogenes.com",
+   "outlet_name": "getdiogenes.com",
+   "label": "REPORTED",
+   "url": "https://getdiogenes.com"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from two different outlets.",
- "articles_24h_rounded": 13500,
- "articles_24h_label": "about 14,000",
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "articles_24h_rounded": 13100,
+ "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/10.mp3",
- "audio_seconds": 31.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/11.mp3",
+ "audio_seconds": 56.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Axios: Why Anthropic can't afford to delay its IPO.\nConfirmed, per The Decoder: OpenAI acquires Orchestra Bio to build AI agents that speed up drug development.\nReported by The Decoder: Claude Science tackles deadly scorpion stings by designing protein binders from scratch.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia launches modular artificial intelligence factory design, shortening deployment from 6 months to 14 days, reported by 36氪.\nMeta artificial intelligence creates quick video clips while MagicLight artificial intelligence builds long-form stories with scripts and consistent characters, reported by Techloy.\nNvidia's DSX POD cuts artificial intelligence factory deployment to 14 days, launching in early 2027, confirmed by nvidianews dot nvidia dot com.\nNvidia expands agent toolkit for enterprises to build secure, data-informed artificial intelligence agents, confirmed by blogs dot nvidia dot com.\nThe U.S. administration orders removal of DeepSeek artificial intelligence from federal systems over security risks, confirmed by koreatimes dot com.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
