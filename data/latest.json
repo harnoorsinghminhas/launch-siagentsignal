@@ -1,105 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T11:20:03Z",
- "hour": "2026-10-21T11:00:00Z",
+ "generated_at": "2026-10-21T12:20:05Z",
+ "hour": "2026-10-21T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia launches modular AI factory design solution, deployment time can be shortened from 6 months to 14 days",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "url": "https://36kr.com/newsflashes/4035445855278209?f=rss",
-   "label": "REPORTED",
-   "summary_1line": "火山引擎 is performing a security check for user access safety.",
-   "published_at": null
-  },
-  {
-   "title": "Meta AI vs MagicLight AI: Which One Is Better for Video Creation?",
-   "outlet": "Techloy",
-   "outlet_name": "Techloy",
-   "url": "https://www.techloy.com/meta-ai-vs-magiclight-ai-which-one-is-better-for-video-creation/",
-   "label": "REPORTED",
-   "summary_1line": "Meta AI makes quick clips; MagicLight AI builds long-form stories with scripts and consistent characters.",
-   "published_at": "2026-10-21T09:37:16Z"
-  },
-  {
-   "title": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment",
-   "outlet": "nvidianews.nvidia.com",
-   "outlet_name": "nvidianews.nvidia.com",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment",
+   "title": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
+   "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/",
    "label": "CONFIRMED",
-   "summary_1line": "NVIDIA's DSX POD cuts AI factory deployment to 14 days, launching in early 2027.",
-   "published_at": "2026-10-21T09:34:00Z"
+   "summary_1line": "OpenAI and Founders Fund back Coherence Neuro's brain implant for cancer detection and treatment.",
+   "published_at": "2026-10-21T10:30:00Z"
   },
   {
-   "title": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+   "title": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
    "outlet": "blogs.nvidia.com",
    "outlet_name": "blogs.nvidia.com",
-   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/",
+   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/",
    "label": "CONFIRMED",
-   "summary_1line": "NVIDIA expands agent toolkit for enterprises to build secure, data-informed AI agents.",
-   "published_at": "2026-10-21T10:10:01Z"
+   "summary_1line": "NVIDIA partners expand AI cloud capacity across Europe to support secure, scalable, and customized AI applications.",
+   "published_at": "2026-10-21T10:30:41Z"
   },
   {
-   "title": "Federal government expels DeepSeek ... product removal and ban on use",
-   "outlet": "koreatimes.com",
-   "outlet_name": "koreatimes.com",
-   "url": "http://www.koreatimes.com/article/20261020/1634622",
-   "label": "CONFIRMED",
-   "summary_1line": "U.S. admin orders removal of DeepSeek AI from federal systems over security risks.",
-   "published_at": "2026-10-21T08:45:00Z"
+   "title": "Databricks AI Runtime and NVIDIA make it easier to customize open models with enterprise data",
+   "outlet": "databricks.com",
+   "outlet_name": "databricks.com",
+   "url": "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models",
+   "label": "REPORTED",
+   "summary_1line": "Databricks and NVIDIA launch AI Runtime for enterprise AI model training without GPU management.",
+   "published_at": "2026-10-21T11:30:00Z"
+  },
+  {
+   "title": "Dario Amodei says Anthropic's \"race to the top\" makes AI safer, cites nine safety decisions with \"substantial costs\", and admits mishandling a draft AI bill (Dario Amodei/@darioamodei)",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "url": "https://www.techmeme.com/261021/p13#a261021p13",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-21T10:30:06Z"
+  },
+  {
+   "title": "‘AI Is Not A Legal Entity’ Says Law Society",
+   "outlet": "artificiallawyer.com",
+   "outlet_name": "artificiallawyer.com",
+   "url": "https://www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society/",
+   "label": "REPORTED",
+   "summary_1line": "Law Society warns AI isn't a legal entity or substitute for junior lawyers.",
+   "published_at": "2026-10-21T10:03:06Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia launches modular AI factory design solution, deployment time can be shortened from…",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "label": "REPORTED",
-   "url": "https://36kr.com/newsflashes/4035445855278209?f=rss"
-  },
-  {
-   "headline": "Meta AI vs MagicLight AI: Which One Is Better for Video Creation?",
-   "outlet": "Techloy",
-   "outlet_name": "Techloy",
-   "label": "REPORTED",
-   "url": "https://www.techloy.com/meta-ai-vs-magiclight-ai-which-one-is-better-for-video-creation/"
-  },
-  {
-   "headline": "NVIDIA Introduces DSX POD AI Factories to Accelerate Europe’s Infrastructure Deployment",
-   "outlet": "nvidianews.nvidia.com",
-   "outlet_name": "nvidianews.nvidia.com",
+   "headline": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
    "label": "CONFIRMED",
-   "url": "https://nvidianews.nvidia.com/news/nvidia-introduces-dsx-pod-ai-factories-to-accelerate-europes-infrastructure-deployment"
+   "url": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/"
   },
   {
-   "headline": "NVIDIA Agent Toolkit Expands, Grounding Enterprise Agents in Company Data",
+   "headline": "NVIDIA Cloud Partners Scale Across Europe — Sovereign, Open and Built for Safe AI Agents",
    "outlet": "blogs.nvidia.com",
    "outlet_name": "blogs.nvidia.com",
    "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/enterprise-platforms-agent-toolkit/"
+   "url": "https://blogs.nvidia.com/blog/cloud-partners-europe-sovereign-safety-open-agents/"
   },
   {
-   "headline": "Federal government expels DeepSeek ... product removal and ban on use",
-   "outlet": "koreatimes.com",
-   "outlet_name": "koreatimes.com",
-   "label": "CONFIRMED",
-   "url": "http://www.koreatimes.com/article/20261020/1634622"
-  },
-  {
-   "headline": "Inception unveils highest-performance dLLM 'Mercury 3'... 'on par with OpenAI and…",
-   "outlet": "aitimes.com",
-   "outlet_name": "aitimes.com",
+   "headline": "Databricks AI Runtime and NVIDIA make it easier to customize open models with enterprise…",
+   "outlet": "databricks.com",
+   "outlet_name": "databricks.com",
    "label": "REPORTED",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216483"
-  },
-  {
-   "headline": "OpenAI introduces 'Chat Lock' feature in ChatGPT to hide private conversations",
-   "outlet": "aitimes.com",
-   "outlet_name": "aitimes.com",
-   "label": "REPORTED",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216470"
+   "url": "https://www.databricks.com/blog/databricks-ai-runtime-nvidia-train-fine-tune-models"
   },
   {
    "headline": "Dario Amodei says Anthropic's \"race to the top\" makes AI safer, cites nine safety…",
@@ -116,13 +88,6 @@
    "url": "https://www.artificiallawyer.com/2026/10/21/ai-is-not-a-legal-entity-says-law-society/"
   },
   {
-   "headline": "Inside NVIDIA Sentry: Secure AI Agents at Runtime",
-   "outlet": "developer.nvidia.com",
-   "outlet_name": "developer.nvidia.com",
-   "label": "REPORTED",
-   "url": "https://developer.nvidia.com/blog/inside-nvidia-sentry-secure-ai-agents-at-runtime/"
-  },
-  {
    "headline": "DeepSeek Wants Better AI at Lower Cost",
    "outlet": "technode.com",
    "outlet_name": "technode.com",
@@ -135,16 +100,51 @@
    "outlet_name": "getdiogenes.com",
    "label": "REPORTED",
    "url": "https://getdiogenes.com"
+  },
+  {
+   "headline": "Coherence Neuro, which is developing AI models and brain implants to help combat brain…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "label": "REPORTED",
+   "url": "https://www.techmeme.com/261021/p15#a261021p15"
+  },
+  {
+   "headline": "Show HN: We replayed 12 real AI agent incidents against our open-source tool",
+   "outlet": "squidbrake.com",
+   "outlet_name": "squidbrake.com",
+   "label": "REPORTED",
+   "url": "https://squidbrake.com/benchmark"
+  },
+  {
+   "headline": "Europe's tech funding rebounds to €27.8B, fuelled by billion-euro mega-rounds",
+   "outlet": "tech.eu",
+   "outlet_name": "tech.eu",
+   "label": "REPORTED",
+   "url": "https://tech.eu/2026/10/21/europes-tech-funding-rebounds-to-eur278b-fuelled-by-billion-euro-mega-rounds/"
+  },
+  {
+   "headline": "I split Claude, Gemini, and ChatGPT into work, home, and casual, and it’s a mixed bag",
+   "outlet": "androidauthority.com",
+   "outlet_name": "androidauthority.com",
+   "label": "STILL OPEN",
+   "url": "https://www.androidauthority.com/my-claude-gemini-and-chatgpt-setup-3721781/"
+  },
+  {
+   "headline": "Agent Atoll: Visualise your Claude Code/Codex history on a 3D living archipelago",
+   "outlet": "agent-atoll.pages.dev",
+   "outlet_name": "agent-atoll.pages.dev",
+   "label": "STILL OPEN",
+   "url": "https://agent-atoll.pages.dev"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 13100,
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 12700,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/11.mp3",
- "audio_seconds": 56.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/12.mp3",
+ "audio_seconds": 57.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia launches modular artificial intelligence factory design, shortening deployment from 6 months to 14 days, reported by 36氪.\nMeta artificial intelligence creates quick video clips while MagicLight artificial intelligence builds long-form stories with scripts and consistent characters, reported by Techloy.\nNvidia's DSX POD cuts artificial intelligence factory deployment to 14 days, launching in early 2027, confirmed by nvidianews dot nvidia dot com.\nNvidia expands agent toolkit for enterprises to build secure, data-informed artificial intelligence agents, confirmed by blogs dot nvidia dot com.\nThe U.S. administration orders removal of DeepSeek artificial intelligence from federal systems over security risks, confirmed by koreatimes dot com.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI and Founders Fund back Coherence Neuro's brain implant for cancer detection and treatment, confirmed by Wired.\nNVIDIA Cloud Partners expand artificial intelligence cloud capacity across Europe to support secure, scalable, and customized applications, confirmed per blogs dot nvidia dot com.\nDatabricks and NVIDIA launch AI Runtime for enterprise model training without GPU management, reported by databricks dot com.\nDario Amodei says Anthropic's race to the top makes artificial intelligence safer and cites nine safety decisions with substantial costs, reported per techmeme dot com.\nLaw Society warns artificial intelligence isn't a legal entity or substitute for junior lawyers, reported by artificiallawyer dot com.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
