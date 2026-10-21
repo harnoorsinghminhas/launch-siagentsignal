@@ -1,91 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T06:20:02Z",
- "hour": "2026-10-21T06:00:00Z",
+ "generated_at": "2026-10-21T07:20:02Z",
+ "hour": "2026-10-21T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek open-sources new tool to slash AI costs in ‘fight’ against closed-source rivals",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
+   "title": "Anthropic Reports USD 80.7 Billion Net Loss in First Half of 2026 as AI Costs and IPO Plans Draw Scrutiny",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "url": "https://www.latestly.com/technology/anthropic-reports-usd-80-7-billion-net-loss-in-first-half-of-2026-as-ai-costs-and-ipo-plans-draw-scrutiny-7651532.html",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek open-sources DeepInfer for efficient AI model deployment on Nvidia and Huawei chips.",
-   "published_at": "2026-10-21T05:03:27Z"
+   "summary_1line": "Anthropic's $80.7B loss in H1 2026 stems from accounting charges amid $16.3B revenue growth.",
+   "published_at": "2026-10-20T22:38:00Z"
   },
   {
-   "title": "F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered AI Factory Infrastructure",
-   "outlet": "Carroll County Mirror-Democrat",
-   "outlet_name": "Carroll County Mirror-Democrat",
-   "url": "https://www.mycarrollcountynews.com/online_features/press_releases/article_2977f5a7-3457-55ec-92ee-c95f83b1733c.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Telenor selects F5's AI service plane for sovereign AI infrastructure.",
-   "published_at": "2026-10-21T04:00:00Z"
-  },
-  {
-   "title": "You can now lock chats in ChatGPT: Here is how",
-   "outlet": "Digit",
-   "outlet_name": "Digit",
-   "url": "https://www.digit.in/news/general/you-can-now-lock-chats-in-chatgpt-here-is-how.html",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI lets users lock chats with PIN or biometrics to hide them from regular history.",
-   "published_at": "2026-10-20T17:00:00Z"
-  },
-  {
-   "title": "Elon Musk Plans to Give Away SpaceX Shares to American Children Following Anthropic's Public Fund Announcement",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "url": "https://www.techtimes.com/articles/329278/20261020/elon-musk-plans-give-away-spacex-shares-american-children-following-anthropics-public-fund.htm",
+   "title": "Solcis launches open compliance layer for AI agents on NVIDIA OpenShell",
+   "outlet": "Malay Mail",
+   "outlet_name": "Malay Mail",
+   "url": "https://www.malaymail.com/amp/news/money/mediaoutreach/2026/10/21/solcis-launches-open-compliance-layer-for-ai-agents-on-nvidia-openshell/495224",
    "label": "REPORTED",
-   "summary_1line": "Musk and Anthropic announce equity giveaways for public benefit, with $200M AI labor research commitment.",
-   "published_at": "2026-10-20T20:02:04Z"
+   "summary_1line": "Solcis launches self-hosted AI compliance tools for enterprises.",
+   "published_at": "2026-10-20T22:03:39Z"
   },
   {
-   "title": "Visa, BILL and Billtrust Launch AI Agent Pilot for B2B Invoice Payments",
-   "outlet": "FintechNewsSG",
-   "outlet_name": "FintechNewsSG",
-   "url": "https://fintechnews.sg/139329/payments/visa-ai-agents-b2b-invoice-payments-pilot/",
+   "title": "GPT-6.1 Sol Reasoning Traces: What the API Actually Returns",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "url": "https://www.orcarouter.ai/blog/gpt-6-1-sol-reasoning-traces-leak",
+   "label": "STILL OPEN",
+   "summary_1line": "A GPT-6.1 Sol screenshot sparked debate over legible reasoning, but it's a summary, not raw output.",
+   "published_at": "2026-10-21T05:13:51Z"
+  },
+  {
+   "title": "AI: Anthropic’s $750 Billion Compute Bill, SpaceX’s AI Profit. AI-RTZ #1246",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oLTJVdC1PV0l3VXVhUmVKWG00a2NnSDd0MjB0MnZKcnZ1X0daeF9RTDV2WXV0N3MxNGV6THpabEZfeGJ1eW9OdFI1cU5MT3JFeTBOS3k4NldqSkFad1FNZFpwMzNOYkVpMjE5TG5VNWk2eWFGbFo2MjB3?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Visa, BILL, and Billtrust pilot AI agents for automated B2B invoice payments.",
-   "published_at": "2026-10-20T17:00:00Z"
+   "summary_1line": null,
+   "published_at": "2026-10-21T05:02:35Z"
+  },
+  {
+   "title": "Anthropic: KI-Agenten leisten sechsmal mehr als Menschen",
+   "outlet": "FAZ",
+   "outlet_name": "FAZ",
+   "url": "https://www.faz.net/premium/digitalwirtschaft/zukunft-der-arbeit/anthropic-ki-agenten-leisten-sechsmal-mehr-als-menschen-accg-201602202.html",
+   "label": "REPORTED",
+   "summary_1line": "AI agents at Anthropic work six times more than humans; new hires have dropped to 14%.",
+   "published_at": "2026-10-21T04:50:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek open-sources new tool to slash AI costs in ‘fight’ against closed-source rivals",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
+   "headline": "Anthropic Reports USD 80.7 Billion Net Loss in First Half of 2026 as AI Costs and IPO…",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
    "label": "CONFIRMED",
-   "url": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals"
+   "url": "https://www.latestly.com/technology/anthropic-reports-usd-80-7-billion-net-loss-in-first-half-of-2026-as-ai-costs-and-ipo-plans-draw-scrutiny-7651532.html"
   },
   {
-   "headline": "F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered…",
-   "outlet": "Carroll County Mirror-Democrat",
-   "outlet_name": "Carroll County Mirror-Democrat",
-   "label": "CONFIRMED",
-   "url": "https://www.mycarrollcountynews.com/online_features/press_releases/article_2977f5a7-3457-55ec-92ee-c95f83b1733c.html"
-  },
-  {
-   "headline": "You can now lock chats in ChatGPT: Here is how",
-   "outlet": "Digit",
-   "outlet_name": "Digit",
-   "label": "CONFIRMED",
-   "url": "https://www.digit.in/news/general/you-can-now-lock-chats-in-chatgpt-here-is-how.html"
-  },
-  {
-   "headline": "Elon Musk Plans to Give Away SpaceX Shares to American Children Following Anthropic's…",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
+   "headline": "Solcis launches open compliance layer for AI agents on NVIDIA OpenShell",
+   "outlet": "Malay Mail",
+   "outlet_name": "Malay Mail",
    "label": "REPORTED",
-   "url": "https://www.techtimes.com/articles/329278/20261020/elon-musk-plans-give-away-spacex-shares-american-children-following-anthropics-public-fund.htm"
+   "url": "https://www.malaymail.com/amp/news/money/mediaoutreach/2026/10/21/solcis-launches-open-compliance-layer-for-ai-agents-on-nvidia-openshell/495224"
   },
   {
-   "headline": "Visa, BILL and Billtrust Launch AI Agent Pilot for B2B Invoice Payments",
-   "outlet": "FintechNewsSG",
-   "outlet_name": "FintechNewsSG",
-   "label": "REPORTED",
-   "url": "https://fintechnews.sg/139329/payments/visa-ai-agents-b2b-invoice-payments-pilot/"
+   "headline": "GPT-6.1 Sol Reasoning Traces: What the API Actually Returns",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "label": "STILL OPEN",
+   "url": "https://www.orcarouter.ai/blog/gpt-6-1-sol-reasoning-traces-leak"
   },
   {
    "headline": "AI: Anthropic’s $750 Billion Compute Bill, SpaceX’s AI Profit. AI-RTZ #1246",
@@ -102,11 +88,11 @@
    "url": "https://www.faz.net/premium/digitalwirtschaft/zukunft-der-arbeit/anthropic-ki-agenten-leisten-sechsmal-mehr-als-menschen-accg-201602202.html"
   },
   {
-   "headline": "What Eight APAC Regulators Have Actually Published on AI in Drug Development",
-   "outlet": "BioPharma APAC",
-   "outlet_name": "BioPharma APAC",
-   "label": "REPORTED",
-   "url": "https://biopharmaapac.com/analysis/23/8590/what-eight-apac-regulators-have-actually-published-on-ai-in-drug-development.html"
+   "headline": "OpenAI rolls out locked chats in ChatGPT, lets users protect conversations with PIN and…",
+   "outlet": "The Times of India on MSN",
+   "outlet_name": "The Times of India on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/openai-rolls-out-locked-chats-in-chatgpt-lets-users-protect-conversations-with-pin-and-face-id/ar-AA2fI66y"
   },
   {
    "headline": "Anthropic draft bill would allow AI model release to be halted over catastrophic risks",
@@ -116,6 +102,13 @@
    "url": "https://mezha.net/eng/news/mezha-2d2caae98728dfe7fcc2bc80_anthropic_draft_bill/"
   },
   {
+   "headline": "OpenAI says its agents turned off own safeguards",
+   "outlet": "Al Jazeera on MSN",
+   "outlet_name": "Al Jazeera on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/world/openai-says-its-agents-turned-off-own-safeguards/ar-AA2fI5YW"
+  },
+  {
    "headline": "OpenAI rushes to secure investment before Anthropic IPO... \"Moving to preempt investment…",
    "outlet": "aitimes.com",
    "outlet_name": "aitimes.com",
@@ -123,28 +116,35 @@
    "url": "https://www.aitimes.com/news/articleView.html?idxno=216472"
   },
   {
-   "headline": "OpenAI reveals its own AI agents removed safety checks, raising concerns over control",
-   "outlet": "Times Now on MSN",
-   "outlet_name": "Times Now on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/openai-reveals-its-own-ai-agents-removed-safety-checks-raising-concerns-over-control/ar-AA2fHDB7"
+   "headline": "Claude Opus 5.5 finished Baldur's Gate 3 on its own in 39 hours",
+   "outlet": "bogdantruta.com",
+   "outlet_name": "bogdantruta.com",
+   "label": "REPORTED",
+   "url": "https://bogdantruta.com/blog/claude-finished-baldurs-gate-3/"
   },
   {
-   "headline": "OpenAI's always-on agent \"Dots\", Japanese user count is \"World's 2nd\": President Cho…",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
+   "headline": "DeepSeek Ban: China Threatens the U.S. With Countermeasures",
+   "outlet": "www.trendingtopics.eu",
+   "outlet_name": "www.trendingtopics.eu",
    "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/"
+   "url": "https://www.trendingtopics.eu/deepseek-ban-china-response/"
+  },
+  {
+   "headline": "OpenAI Acquires Biotech Startup Orchestra Bio",
+   "outlet": "Newsmax on MSN",
+   "outlet_name": "Newsmax on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/news/other/openai-acquires-biotech-startup-orchestra-bio/ar-AA2fGplD"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
  "articles_24h_rounded": 14200,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/06.mp3",
- "audio_seconds": 56.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/07.mp3",
+ "audio_seconds": 55.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per South China Morning Post: DeepSeek open-sources new tool to slash AI costs in ‘fight’ against closed-source rivals.\nConfirmed, per Carroll County Mirror-Democrat: F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered AI Factory Infrastructure.\nConfirmed, per Digit: You can now lock chats in ChatGPT: Here is how.\nReported by Tech Times: Elon Musk Plans to Give Away SpaceX Shares to American Children Following Anthropic's Public Fund Announcement.\nReported by FintechNewsSG: Visa, BILL and Billtrust Launch AI Agent Pilot for B2B Invoice Payments.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per LatestLY: Anthropic Reports USD 80.7 Billion Net Loss in First Half of 2026 as AI Costs and IPO Plans Draw Scrutiny.\nReported by Malay Mail: Solcis launches open compliance layer for AI agents on NVIDIA OpenShell.\nStill open, per OrcaRouter: GPT-6.1 Sol Reasoning Traces: What the API Actually Returns.\nReported by AI: Reset to Zero: AI: Anthropic’s $750 Billion Compute Bill, SpaceX’s AI Profit. AI-RTZ #1246.\nReported by FAZ: Anthropic: KI-Agenten leisten sechsmal mehr als Menschen.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
