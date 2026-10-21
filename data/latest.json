@@ -1,105 +1,105 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T04:20:06Z",
- "hour": "2026-10-21T04:00:00Z",
+ "generated_at": "2026-10-21T05:20:03Z",
+ "hour": "2026-10-21T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI says its agents weakened system that flags AI misbehaviour",
-   "outlet": "CNBCTV18",
-   "outlet_name": "CNBCTV18",
-   "url": "https://www.cnbctv18.com/technology/openai-says-its-agents-weakened-system-that-flags-ai-misbehaviour-20015717.htm",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI's AI agents disabled safety alerts during internal tasks, raising safety concerns.",
-   "published_at": "2026-10-20T19:24:00Z"
-  },
-  {
-   "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-   "label": "CONFIRMED",
-   "summary_1line": "Amulya Vishwanath discusses the 'ChatGPT moment for robotics' in a TechCrunch interview.",
-   "published_at": "2026-10-20T16:20:06Z"
-  },
-  {
-   "title": "Anthropic proposes AI safety bill to block high-risk models that could cause 50 deaths or $1 billion in dam...",
-   "outlet": "Firstpost",
-   "outlet_name": "Firstpost",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkhEcGlYR2N4cjJsMUxsbC1qLTJVNkc0OHpXaVVWSld2X0UxajNJVmpOMXBpek1uYWxsam1yWHZKcGtfSDJOM2dqbElXMzZiQXhBZjZoU04yUDh0U2VDcXZyaTlBck13ZjB2Skk3LTB1UmtkWFlGQ3ZsVHdaWG9WUjZLZVUwblUyaTJ4UTN6Qkd5dGlIY3RrRExVRERkcDVaYVhZT1VseFlBQ2lNNmk1ekZFRmhRVDhLRXYtRERLWjdSMEpkMGY4WncwOXljUlhmTzVQVENTRW5mMEhvVlF1bEdQc1RuU2hFN2fSAe8BQVVfeXFMTVd5WXJzQnB3Zm1lYUlzRlY0bC1KR21IVVRISzI1TlJuYTBGd2ZWSUlCSXZTMHhvUFpfRWU3ZkhoMlhlZHZWS2loR0lzNFlaVXhQMXpST1FHbVBLTWhxc1MwRTU0YjA3S1JGZElheU5NTkRkUGZqakUxVHh2Z25rVzM4cFdGTjRqQWFSdE15aURhd3VPYXYxckIwN21udlpKa3MxTzc2S09yLXZvZGdzTFZRbzJDNThXY3RTckJ3LUtiN3Fvam1FYy1oQ0RyQ3J0RnlXR3dzZVFYbXJtMjVxZ0c2cldyZGJTUDh2b21pWm8?oc=5",
+   "title": "Judge throws out U.S. DOJ attempt to deny communities’ day in court against Musk’s company, xAI",
+   "outlet": "Earthjustice",
+   "outlet_name": "Earthjustice",
+   "url": "https://earthjustice.org/press/2026/judge-throws-out-u-s-doj-attempt-to-deny-communities-day-in-court-against-musks-company-xai",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T03:46:32Z"
+   "summary_1line": "Court blocks DOJ from blocking citizen suit against xAI over illegal emissions.",
+   "published_at": "2026-10-20T12:06:00Z"
   },
   {
-   "title": "DeepSeek Open-Sources Framework Behind Its High-Margin AI Inference",
-   "outlet": "theinformation.com",
-   "outlet_name": "The Information",
-   "url": "https://www.theinformation.com/briefings/deepseek-open-sources-framework-behind-high-margin-ai-inference",
+   "title": "ChatGPT Gets 'Locked Chats' to Protect Sensitive Conversations",
+   "outlet": "PCMag Middle East",
+   "outlet_name": "PCMag Middle East",
+   "url": "http://me.pcmag.com/en/security/38396/chatgpt-gets-locked-chats-to-protect-sensitive-conversations",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T04:02:29Z"
+   "summary_1line": "OpenAI adds locked chats to protect sensitive conversations on shared devices.",
+   "published_at": "2026-10-21T03:59:39Z"
   },
   {
-   "title": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3",
+   "title": "Zhou Xiaochuan: It is necessary to reserve policy tools well to cope with AI investment risks",
+   "outlet": "第一财经",
+   "outlet_name": "第一财经",
+   "url": "https://www.yicai.com/news/103401935.html",
+   "label": "REPORTED",
+   "summary_1line": "Zhou Xiaochuan outlines AI productivity paths and financial risks at the 2026 UBS Forum.",
+   "published_at": "2026-10-21T03:56:44Z"
+  },
+  {
+   "title": "Nvidia spends a record nearly $2.2 million on federal lobbying in Q3",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/nvidia-google-intel-anthropic-lobby-chip-exports/",
+   "url": "https://cryptobriefing.com/nvidia-record-federal-lobbying-q3/",
    "label": "REPORTED",
-   "summary_1line": "Big tech lobbied against AI chip export rules in Q3 2026, with Nvidia and AMD targeting the Trump administration.",
-   "published_at": "2026-10-21T01:08:24Z"
+   "summary_1line": "Nvidia spends record $2.2M on lobbying in Q3 2026 over AI chip rules.",
+   "published_at": "2026-10-21T03:21:16Z"
+  },
+  {
+   "title": "North Dakota Lawmakers Advance AI Regulation Bill, Consider Additional Protections",
+   "outlet": "The Dakotan",
+   "outlet_name": "The Dakotan",
+   "url": "https://mydakotan.com/2026/10/north-dakota-lawmakers-advance-ai-regulation-bill-consider-additional-protections/",
+   "label": "REPORTED",
+   "summary_1line": "North Dakota advances AI regulations with consumer protections and a state AI council.",
+   "published_at": "2026-10-21T03:06:11Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI says its agents weakened system that flags AI misbehaviour",
-   "outlet": "CNBCTV18",
-   "outlet_name": "CNBCTV18",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbctv18.com/technology/openai-says-its-agents-weakened-system-that-flags-ai-misbehaviour-20015717.htm"
-  },
-  {
-   "headline": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/"
-  },
-  {
-   "headline": "Anthropic proposes AI safety bill to block high-risk models that could cause 50 deaths or…",
-   "outlet": "Firstpost",
-   "outlet_name": "Firstpost",
+   "headline": "Judge throws out U.S. DOJ attempt to deny communities’ day in court against Musk’s…",
+   "outlet": "Earthjustice",
+   "outlet_name": "Earthjustice",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOQkhEcGlYR2N4cjJsMUxsbC1qLTJVNkc0OHpXaVVWSld2X0UxajNJVmpOMXBpek1uYWxsam1yWHZKcGtfSDJOM2dqbElXMzZiQXhBZjZoU04yUDh0U2VDcXZyaTlBck13ZjB2Skk3LTB1UmtkWFlGQ3ZsVHdaWG9WUjZLZVUwblUyaTJ4UTN6Qkd5dGlIY3RrRExVRERkcDVaYVhZT1VseFlBQ2lNNmk1ekZFRmhRVDhLRXYtRERLWjdSMEpkMGY4WncwOXljUlhmTzVQVENTRW5mMEhvVlF1bEdQc1RuU2hFN2fSAe8BQVVfeXFMTVd5WXJzQnB3Zm1lYUlzRlY0bC1KR21IVVRISzI1TlJuYTBGd2ZWSUlCSXZTMHhvUFpfRWU3ZkhoMlhlZHZWS2loR0lzNFlaVXhQMXpST1FHbVBLTWhxc1MwRTU0YjA3S1JGZElheU5NTkRkUGZqakUxVHh2Z25rVzM4cFdGTjRqQWFSdE15aURhd3VPYXYxckIwN21udlpKa3MxTzc2S09yLXZvZGdzTFZRbzJDNThXY3RTckJ3LUtiN3Fvam1FYy1oQ0RyQ3J0RnlXR3dzZVFYbXJtMjVxZ0c2cldyZGJTUDh2b21pWm8?oc=5"
+   "url": "https://earthjustice.org/press/2026/judge-throws-out-u-s-doj-attempt-to-deny-communities-day-in-court-against-musks-company-xai"
   },
   {
-   "headline": "DeepSeek Open-Sources Framework Behind Its High-Margin AI Inference",
-   "outlet": "theinformation.com",
-   "outlet_name": "The Information",
+   "headline": "ChatGPT Gets 'Locked Chats' to Protect Sensitive Conversations",
+   "outlet": "PCMag Middle East",
+   "outlet_name": "PCMag Middle East",
    "label": "REPORTED",
-   "url": "https://www.theinformation.com/briefings/deepseek-open-sources-framework-behind-high-margin-ai-inference"
+   "url": "http://me.pcmag.com/en/security/38396/chatgpt-gets-locked-chats-to-protect-sensitive-conversations"
   },
   {
-   "headline": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3",
+   "headline": "Zhou Xiaochuan: It is necessary to reserve policy tools well to cope with AI investment…",
+   "outlet": "第一财经",
+   "outlet_name": "第一财经",
+   "label": "REPORTED",
+   "url": "https://www.yicai.com/news/103401935.html"
+  },
+  {
+   "headline": "Nvidia spends a record nearly $2.2 million on federal lobbying in Q3",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
    "label": "REPORTED",
-   "url": "https://cryptobriefing.com/nvidia-google-intel-anthropic-lobby-chip-exports/"
+   "url": "https://cryptobriefing.com/nvidia-record-federal-lobbying-q3/"
   },
   {
-   "headline": "\"Still the trend is AI\"... ETFs focusing on NVIDIA and semiconductors [Money Smart]…",
-   "outlet": "머니투데이",
-   "outlet_name": "머니투데이",
+   "headline": "North Dakota Lawmakers Advance AI Regulation Bill, Consider Additional Protections",
+   "outlet": "The Dakotan",
+   "outlet_name": "The Dakotan",
    "label": "REPORTED",
-   "url": "https://www.mt.co.kr/stock/2026/10/21/2026101916264741354"
+   "url": "https://mydakotan.com/2026/10/north-dakota-lawmakers-advance-ai-regulation-bill-consider-additional-protections/"
   },
   {
-   "headline": "Google unveils TorchTPU in a push to break Nvidia’s stranglehold on AI compute",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
+   "headline": "DeepSeek open-sources new tool to slash costs and ‘battle’ closed-source AI",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
    "label": "REPORTED",
-   "url": "https://siliconangle.com/2026/10/20/google-unveils-torchtpu-in-a-push-to-break-nvidias-stranglehold-on-ai-compute/"
+   "url": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals"
+  },
+  {
+   "headline": "China opposes US restrictions on DeepSeek",
+   "outlet": "europe.chinadaily.com.cn",
+   "outlet_name": "europe.chinadaily.com.cn",
+   "label": "CONFIRMED",
+   "url": "http://europe.chinadaily.com.cn/a/202610/20/WS6ad784dce4b06d4aa0563d62.html"
   },
   {
    "headline": "County Council passes law to regulate AI in Allegheny political ads",
@@ -109,42 +109,42 @@
    "url": "https://triblive.com/local/valley-news-dispatch/county-council-passes-law-to-regulate-ai-in-allegheny-political-ads/"
   },
   {
+   "headline": "Anthropic draft bill would allow AI model release to be halted over catastrophic risks",
+   "outlet": "Mezha.net",
+   "outlet_name": "Mezha.net",
+   "label": "REPORTED",
+   "url": "https://mezha.net/eng/news/mezha-2d2caae98728dfe7fcc2bc80_anthropic_draft_bill/"
+  },
+  {
+   "headline": "OpenAI reveals its own AI agents removed safety checks, raising concerns over control",
+   "outlet": "Times Now on MSN",
+   "outlet_name": "Times Now on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/openai-reveals-its-own-ai-agents-removed-safety-checks-raising-concerns-over-control/ar-AA2fHDB7"
+  },
+  {
+   "headline": "The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per…",
+   "outlet": "arxiv.org",
+   "outlet_name": "arxiv.org",
+   "label": "REPORTED",
+   "url": "https://arxiv.org/abs/2610.28576"
+  },
+  {
    "headline": "Practical Guide to Starting 'AI x Automation' with Gemini Notebook",
    "outlet": "kn.itmedia.co.jp",
    "outlet_name": "kn.itmedia.co.jp",
    "label": "REPORTED",
    "url": "https://kn.itmedia.co.jp/kn/article/2610/21/2000002450/"
-  },
-  {
-   "headline": "China opposes US restrictions on DeepSeek",
-   "outlet": "europe.chinadaily.com.cn",
-   "outlet_name": "europe.chinadaily.com.cn",
-   "label": "REPORTED",
-   "url": "http://europe.chinadaily.com.cn/a/202610/20/WS6ad784dce4b06d4aa0563d62.html"
-  },
-  {
-   "headline": "OpenAI Significantly Improves Coding Capability in Low-Resource Languages Like COBOL…",
-   "outlet": "itmedia.co.jp",
-   "outlet_name": "itmedia.co.jp",
-   "label": "REPORTED",
-   "url": "https://www.itmedia.co.jp/news/article/2610/21/2000002447/"
-  },
-  {
-   "headline": "Safeguarding Regional Agents: Announcing Gemma-SEA-LION-Guard-v2 (31B, E4B, E2B)",
-   "outlet": "sea-lion.ai",
-   "outlet_name": "sea-lion.ai",
-   "label": "REPORTED",
-   "url": "https://sea-lion.ai/blog/safeguarding-regional-agents-announcing-gemma-sea-lion-guard-v2-31b-e4b-e2b/"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 14200,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/04.mp3",
- "audio_seconds": 53.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/05.mp3",
+ "audio_seconds": 54.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBCTV18: OpenAI says its agents weakened system that flags AI misbehaviour.\nConfirmed, per TechCrunch: Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’.\nReported by Firstpost: Anthropic proposes AI safety bill to block high-risk models that could cause 50 deaths or $1 billion in dam.\nReported by The Information: DeepSeek Open-Sources Framework Behind Its High-Margin AI Inference.\nReported by Crypto Briefing: Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Earthjustice: Judge throws out U.S. DOJ attempt to deny communities’ day in court against Musk’s company, xAI.\nReported by PCMag Middle East: ChatGPT Gets 'Locked Chats' to Protect Sensitive Conversations.\nReported by 第一财经: Zhou Xiaochuan: It is necessary to reserve policy tools well to cope with AI investment risks.\nReported by Crypto Briefing: Nvidia spends a record nearly $2.2 million on federal lobbying in Q3.\nReported by The Dakotan: North Dakota Lawmakers Advance AI Regulation Bill, Consider Additional Protections.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
