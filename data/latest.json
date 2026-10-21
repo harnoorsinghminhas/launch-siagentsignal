@@ -1,119 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T01:20:02Z",
- "hour": "2026-10-21T01:00:00Z",
+ "generated_at": "2026-10-21T02:20:01Z",
+ "hour": "2026-10-21T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "ASUS ProArt P16 and P14 Launch in the Philippines With NVIDIA RTX Spark",
-   "outlet": "WalasTech",
-   "outlet_name": "WalasTech",
-   "url": "https://walastech.com/pc-laptop/asus-proart-p16-and-p14-launch-in-the-philippines-with-nvidia-rtx-spark/",
-   "label": "REPORTED",
-   "summary_1line": "ASUS launches ProArt P16 and P14 laptops with local AI and high-end specs for creators.",
-   "published_at": "2026-10-20T21:49:16Z"
-  },
-  {
-   "title": "Super Micro sees quarterly revenue soaring on AI server boom",
-   "outlet": "93.3 The Drive",
-   "outlet_name": "93.3 The Drive",
-   "url": "https://www.933thedrive.com/2026/10/20/super-micro-expects-first-quarter-revenue-above-estimates/",
+   "title": "Anthropic’s 50-Death AI Safety Bill Sparks Debate Over Federal Power and Court Approval",
+   "outlet": "AndroGuider",
+   "outlet_name": "AndroGuider",
+   "url": "https://www.androguider.com/2026/10/anthropics-50-death-ai-safety-bill.html",
    "label": "CONFIRMED",
-   "summary_1line": "Super Micro beats estimates with $18.5B–$19.5B revenue and 12%–12.5% margins amid AI data center boom.",
-   "published_at": "2026-10-20T23:31:28Z"
+   "summary_1line": "Anthropic proposes a 50-death AI safety threshold with judicial review to block high-risk models.",
+   "published_at": "2026-10-20T17:36:00Z"
   },
   {
-   "title": "After investors decline to subscribe to IPO, NVIDIA plans to further invest in GPU cloud provider Firmus",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "url": "https://36kr.com/newsflashes/4034856200835972?f=rss",
+   "title": "Amazon Launches TorchNeuron to Challenge Nvidia’s AI Chip Dominance: 5 outlets compared",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
+   "url": "https://newscord.org/article/amazon-launches-torchneuron-to-challenge-nvidias-ai-chip-dominance--Story_20261020_GooglehasjoinedAmazoa117aa7e",
    "label": "REPORTED",
-   "summary_1line": "火山引擎 is performing a security check for user access safety.",
-   "published_at": null
+   "summary_1line": "Amazon and Google launch open-source AI tools to challenge Nvidia’s AI chip dominance.",
+   "published_at": "2026-10-21T00:11:00Z"
   },
   {
-   "title": "8D1K: Implementing 'consumption required for seating'? Starbucks China responds; Anthropic net loss of $80.7 billion in first half; Japan's Uniqlo announces price hikes",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "url": "https://36kr.com/p/4034867385537670?f=rss",
+   "title": "Artificial intelligence company Anthropic saw first-half revenue surge 15-fold, with net loss exceeding 100 billion dollars",
+   "outlet": "亚洲日报",
+   "outlet_name": "亚洲日报",
+   "url": "https://www.ajudaily.com/view/20261021083270030",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's GPT-6 beats GPT-5 by 4 points on MMLU, rolling out to Plus users next week.",
-   "published_at": null
+   "summary_1line": "安特罗皮克2026年上半年营收163亿，净亏损807亿，计算支出翻四倍。",
+   "published_at": "2026-10-20T23:32:00Z"
   },
   {
-   "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YQm5JWm5CbVR5MmhCdFhnN0RJeFNpdWM3d0hLektncHVmaXhCWnEtTDVRODdKUlJWODY2SW9MWnNCRmVXRWN3eEpGZE8?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T00:07:27Z"
+   "title": "Just now, Fable 5.5 rumored to launch a surprise attack tomorrow! Google and OpenAI prepare for all-out battle",
+   "outlet": "智源社区",
+   "outlet_name": "智源社区",
+   "url": "https://hub.baai.ac.cn/view/58871",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic's Fable 5.5 may launch soon, with AI capabilities to read user intentions and detect hidden issues.",
+   "published_at": "2026-10-20T23:30:00Z"
+  },
+  {
+   "title": "ByteDance, Alibaba, Tencent Order Over 3 Million Nvidia Chips Worth $35 Billion",
+   "outlet": "Arise News",
+   "outlet_name": "Arise News",
+   "url": "https://www.arise.tv/bytedance-alibaba-tencent-order-over-3-million-nvidia-chips-worth-35-billion/",
+   "label": "STILL OPEN",
+   "summary_1line": "Chinese firms order 3M+ Nvidia cards for AI inference amid US export restrictions.",
+   "published_at": "2026-10-20T12:28:55Z"
   }
  ],
  "ticker": [
   {
-   "headline": "ASUS ProArt P16 and P14 Launch in the Philippines With NVIDIA RTX Spark",
-   "outlet": "WalasTech",
-   "outlet_name": "WalasTech",
-   "label": "REPORTED",
-   "url": "https://walastech.com/pc-laptop/asus-proart-p16-and-p14-launch-in-the-philippines-with-nvidia-rtx-spark/"
-  },
-  {
-   "headline": "Super Micro sees quarterly revenue soaring on AI server boom",
-   "outlet": "93.3 The Drive",
-   "outlet_name": "93.3 The Drive",
-   "label": "CONFIRMED",
-   "url": "https://www.933thedrive.com/2026/10/20/super-micro-expects-first-quarter-revenue-above-estimates/"
-  },
-  {
-   "headline": "After investors decline to subscribe to IPO, NVIDIA plans to further invest in GPU cloud…",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "label": "REPORTED",
-   "url": "https://36kr.com/newsflashes/4034856200835972?f=rss"
-  },
-  {
-   "headline": "8D1K: Implementing 'consumption required for seating'? Starbucks China responds…",
-   "outlet": "36氪",
-   "outlet_name": "36氪",
-   "label": "REPORTED",
-   "url": "https://36kr.com/p/4034867385537670?f=rss"
-  },
-  {
-   "headline": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5YQm5JWm5CbVR5MmhCdFhnN0RJeFNpdWM3d0hLektncHVmaXhCWnEtTDVRODdKUlJWODY2SW9MWnNCRmVXRWN3eEpGZE8?oc=5"
-  },
-  {
    "headline": "Anthropic’s 50-Death AI Safety Bill Sparks Debate Over Federal Power and Court Approval",
    "outlet": "AndroGuider",
    "outlet_name": "AndroGuider",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.androguider.com/2026/10/anthropics-50-death-ai-safety-bill.html"
   },
   {
-   "headline": "South Korea: Regulator bars Korea Insurance Training Institute from AI JV",
-   "outlet": "Asia Insurance Review",
-   "outlet_name": "Asia Insurance Review",
+   "headline": "Amazon Launches TorchNeuron to Challenge Nvidia’s AI Chip Dominance: 5 outlets compared",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
    "label": "REPORTED",
-   "url": "https://www.asiainsurancereview.com/News/ViewNewsLetterArticle/id/97294/Type/eDaily/South-Korea-Regulator-bars-Korea-Insurance-Training-Institute-from-AI-JV"
+   "url": "https://newscord.org/article/amazon-launches-torchneuron-to-challenge-nvidias-ai-chip-dominance--Story_20261020_GooglehasjoinedAmazoa117aa7e"
   },
   {
-   "headline": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
-   "outlet": "thezvi.substack.com",
-   "outlet_name": "thezvi.substack.com",
+   "headline": "Artificial intelligence company Anthropic saw first-half revenue surge 15-fold, with net…",
+   "outlet": "亚洲日报",
+   "outlet_name": "亚洲日报",
    "label": "REPORTED",
-   "url": "https://thezvi.substack.com/p/anthropic-does-not-understand-why"
+   "url": "https://www.ajudaily.com/view/20261021083270030"
   },
   {
-   "headline": "Using Claude to reduce the attack surface of code",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
+   "headline": "Just now, Fable 5.5 rumored to launch a surprise attack tomorrow! Google and OpenAI…",
+   "outlet": "智源社区",
+   "outlet_name": "智源社区",
+   "label": "STILL OPEN",
+   "url": "https://hub.baai.ac.cn/view/58871"
+  },
+  {
+   "headline": "ByteDance, Alibaba, Tencent Order Over 3 Million Nvidia Chips Worth $35 Billion",
+   "outlet": "Arise News",
+   "outlet_name": "Arise News",
+   "label": "STILL OPEN",
+   "url": "https://www.arise.tv/bytedance-alibaba-tencent-order-over-3-million-nvidia-chips-worth-35-billion/"
+  },
+  {
+   "headline": "SpaceX profit beats estimates on 161% revenue jump, growth in AI, satellite internet…",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
    "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/attack-surface-reduction"
+   "url": "https://www.businesstimes.com.sg/international/global/spacex-profit-beats-estimates-161-revenue-jump-growth-ai-satellite-internet-businesses"
+  },
+  {
+   "headline": "Musk, Anthropic outline dueling approaches to AI-era philanthropy",
+   "outlet": "Awani International",
+   "outlet_name": "Awani International",
+   "label": "REPORTED",
+   "url": "https://international.astroawani.com/technology-news/musk-anthropic-outline-dueling-approaches-ai-era-philanthropy"
+  },
+  {
+   "headline": "Künstliche Intelligenz - China kritisiert US-Verbot der KI DeepSeek in Bundesbehörden",
+   "outlet": "Deutschlandfunk",
+   "outlet_name": "Deutschlandfunk",
+   "label": "REPORTED",
+   "url": "https://www.deutschlandfunk.de/china-kritisiert-us-verbot-der-ki-deepseek-in-bundesbehoerden-100.html"
+  },
+  {
+   "headline": "🥧 Morning Briefing: U.S. government instructs agencies to stop using DeepSeek, Lixiang…",
+   "outlet": "sspai.com",
+   "outlet_name": "sspai.com",
+   "label": "REPORTED",
+   "url": "https://sspai.com/post/116887"
+  },
+  {
+   "headline": "Claude solves a 26-year-old cryptography puzzle in half an hour, revealing NIST curve…",
+   "outlet": "technews.tw",
+   "outlet_name": "technews.tw",
+   "label": "CONFIRMED",
+   "url": "https://technews.tw/2026/10/21/claude-solves-mystery-behind-nist-curve-seeds/"
   },
   {
    "headline": "New UN initiative will aim to tackle the military uses of AI",
@@ -128,23 +135,16 @@
    "outlet_name": "Agence France-Presse on MSN",
    "label": "REPORTED",
    "url": "https://www.msn.com/en-us/news/us/us-bans-use-of-chinas-deepseek-by-govt-agencies/ar-AA2fCd5n"
-  },
-  {
-   "headline": "Claude solves a 26-year-old cryptography puzzle in half an hour, revealing NIST curve…",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
-   "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/21/claude-solves-mystery-behind-nist-curve-seeds/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from four different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 15300,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/01.mp3",
- "audio_seconds": 60.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/02.mp3",
+ "audio_seconds": 57.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by WalasTech: ASUS ProArt P16 and P14 Launch in the Philippines With NVIDIA RTX Spark.\nConfirmed, per 93.3 The Drive: Super Micro sees quarterly revenue soaring on AI server boom.\nReported by 36氪: After investors decline to subscribe to IPO, NVIDIA plans to further invest in GPU cloud provider Firmus.\nReported by 36氪: 8D1K: Implementing 'consumption required for seating'? Starbucks China responds; Anthropic net loss of $80.7 billion in first half; Japan's Uniqlo announces price hikes.\nReported by OpenAI: Terminal X matches senior investor judgment 88.6% with GPT-6.1.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic proposes a 50-death artificial intelligence safety threshold with judicial review to block high-risk models, confirmed by AndroGuider.\nAmazon and Google launch open-source artificial intelligence tools to challenge Nvidia's artificial intelligence chip dominance, reported by NewsCord.\nAnthropic saw first-half revenue of 163 billion, with net loss exceeding 807 billion, reported by 亚洲日报.\nAnthropic's Fable 5.5 may launch soon with artificial intelligence capabilities to read user intentions and detect hidden issues, still open per 智源社区.\nChinese firms order over 3 million Nvidia chips worth 35 billion dollars for artificial intelligence inference amid US export restrictions, still open per Arise News.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
