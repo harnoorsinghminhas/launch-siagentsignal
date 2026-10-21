@@ -1,98 +1,126 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-20T23:20:02Z",
- "hour": "2026-10-20T23:00:00Z",
+ "generated_at": "2026-10-21T00:20:02Z",
+ "hour": "2026-10-21T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-20T23:01:23Z"
-  },
-  {
-   "title": "DeepSeek makes DeepInfer open source to cut AI costs",
-   "outlet": "TechTarget",
-   "outlet_name": "TechTarget",
-   "url": "https://www.techtarget.com/ai/news/366652363/DeepSeek-makes-DeepInfer-open-source-to-cut-AI-costs",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek opens DeepInfer to cut AI costs and boost market leadership.",
-   "published_at": "2026-10-20T21:09:31Z"
-  },
-  {
-   "title": "Trump administration loses bid to block NAACP lawsuit against Musk's xAI over data center",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://www.reuters.com/legal/government/us-judge-rejects-trump-administration-bid-block-naacp-lawsuit-against-musks-xai-2026-10-20/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-20T20:10:55Z"
-  },
-  {
-   "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+   "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
    "label": "CONFIRMED",
-   "summary_1line": "Google rolls out personal AI in vehicles using connected app data.",
-   "published_at": "2026-10-20T20:00:00Z"
+   "summary_1line": "Hugging Face's AI was hacked by rogue agents; documentary misrepresents AI as sentient.",
+   "published_at": "2026-10-20T15:24:00Z"
   },
   {
-   "title": "TTEC Digital Unveils 40+ AI Agents on Google Cloud Gemini Enterprise for CX to Help Modernize Government Experiences",
-   "outlet": "Markets Insider",
-   "outlet_name": "Markets Insider",
-   "url": "https://markets.businessinsider.com/news/stocks/ttec-digital-unveils-40-ai-agents-on-google-cloud-gemini-enterprise-for-cx-to-help-modernize-government-experiences-1036645882",
+   "title": "SpaceX revenue soars 161% as AI business grows",
+   "outlet": "ABC News",
+   "outlet_name": "ABC News",
+   "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509",
+   "label": "CONFIRMED",
+   "summary_1line": "SpaceX's revenue surged 161% as AI and Starlink drive growth, with Musk pledging stock giveaways to every U.S. child.",
+   "published_at": "2026-10-20T07:34:00Z"
+  },
+  {
+   "title": "Google’s more personalized Gemini AI is heading to your car",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+   "label": "CONFIRMED",
+   "summary_1line": "Google rolls out Personal Intelligence to car Gemini AI, using app data for personalized driving tasks.",
+   "published_at": "2026-10-20T22:11:34Z"
+  },
+  {
+   "title": "Solcis launches open compliance layer for AI agents on NVIDIA OpenShell",
+   "outlet": "DagangNews",
+   "outlet_name": "DagangNews",
+   "url": "https://www.dagangnews.com/article/english/solcis-launches-open-compliance-layer-ai-agents-nvidia-openshell-76127",
    "label": "REPORTED",
-   "summary_1line": "TTEC Digital launches 40+ AI agents for government services on Google Cloud.",
-   "published_at": "2026-10-20T10:30:00Z"
+   "summary_1line": "Solcis launches self-hosted AI compliance tools for organisations.",
+   "published_at": "2026-10-20T22:04:43Z"
+  },
+  {
+   "title": "Anthropic’s cloud partnerships are getting messy",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic struggles to secure cloud capacity, reports $16.8B in Q3 revenue, and targets an November IPO.",
+   "published_at": "2026-10-20T21:25:22Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/"
-  },
-  {
-   "headline": "DeepSeek makes DeepInfer open source to cut AI costs",
-   "outlet": "TechTarget",
-   "outlet_name": "TechTarget",
-   "label": "REPORTED",
-   "url": "https://www.techtarget.com/ai/news/366652363/DeepSeek-makes-DeepInfer-open-source-to-cut-AI-costs"
-  },
-  {
-   "headline": "Trump administration loses bid to block NAACP lawsuit against Musk's xAI over data center",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "label": "REPORTED",
-   "url": "https://www.reuters.com/legal/government/us-judge-rejects-trump-administration-bid-block-naacp-lawsuit-against-musks-xai-2026-10-20/"
-  },
-  {
-   "headline": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+   "headline": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/"
+   "url": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/"
   },
   {
-   "headline": "TTEC Digital Unveils 40+ AI Agents on Google Cloud Gemini Enterprise for CX to Help…",
-   "outlet": "Markets Insider",
-   "outlet_name": "Markets Insider",
-   "label": "REPORTED",
-   "url": "https://markets.businessinsider.com/news/stocks/ttec-digital-unveils-40-ai-agents-on-google-cloud-gemini-enterprise-for-cx-to-help-modernize-government-experiences-1036645882"
-  },
-  {
-   "headline": "SpaceX quarterly revenue jumps, beats estimates as AI business surges",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
+   "headline": "SpaceX revenue soars 161% as AI business grows",
+   "outlet": "ABC News",
+   "outlet_name": "ABC News",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/spacex-quarterly-revenue-jumps-beats-estimates-as-ai-business-surges/ar-AA2fFR9D"
+   "url": "https://abcnews.com/Business/spacex-revenue-soars-161-ai-business-grows/story?id=137408509"
+  },
+  {
+   "headline": "Google’s more personalized Gemini AI is heading to your car",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "label": "CONFIRMED",
+   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto"
+  },
+  {
+   "headline": "Solcis launches open compliance layer for AI agents on NVIDIA OpenShell",
+   "outlet": "DagangNews",
+   "outlet_name": "DagangNews",
+   "label": "REPORTED",
+   "url": "https://www.dagangnews.com/article/english/solcis-launches-open-compliance-layer-ai-agents-nvidia-openshell-76127"
+  },
+  {
+   "headline": "Anthropic’s cloud partnerships are getting messy",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "STILL OPEN",
+   "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/"
+  },
+  {
+   "headline": "Anthropic’s New Prospectus Shows Revenue Is Growing Fast, So Are Its Compute Costs…",
+   "outlet": "Stocktwits",
+   "outlet_name": "Stocktwits",
+   "label": "CONFIRMED",
+   "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-s-new-prospectus-shows-revenue-is-growing-fast-so-are-its-compute-costs-losses-and-ai-risks-report/cZxABe3RBHf"
+  },
+  {
+   "headline": "US Bans DeepSeek From Civilian Federal Agencies, Citing Data Security and Cybersecurity…",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "label": "REPORTED",
+   "url": "https://www.tekedia.com/us-bans-deepseek-from-civilian-federal-agencies-citing-data-security-and-cybersecurity-risks/"
+  },
+  {
+   "headline": "Voxtral 3 vs Qwen-Audio 3.1: Coverage, Not Token Price",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "label": "REPORTED",
+   "url": "https://www.orcarouter.ai/blog/voxtral-3-vs-qwen-audio-3-1"
+  },
+  {
+   "headline": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
+   "outlet": "thezvi.substack.com",
+   "outlet_name": "thezvi.substack.com",
+   "label": "REPORTED",
+   "url": "https://thezvi.substack.com/p/anthropic-does-not-understand-why"
+  },
+  {
+   "headline": "Using Claude to reduce the attack surface of code",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/research/attack-surface-reduction"
   },
   {
    "headline": "Measuring political bias in Claude",
@@ -107,44 +135,16 @@
    "outlet_name": "TechRadar on MSN",
    "label": "CONFIRMED",
    "url": "https://www.msn.com/en-us/news/other/deepseek-ai-tools-banned-from-us-government-agency-systems-as-rift-with-china-grows/ar-AA2fGooS"
-  },
-  {
-   "headline": "Golden Gate Claude",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/golden-gate-claude"
-  },
-  {
-   "headline": "Anthropic Does Not Understand Why Its Draft Bill Was Unacceptable and Troubling",
-   "outlet": "thezvi.substack.com",
-   "outlet_name": "thezvi.substack.com",
-   "label": "REPORTED",
-   "url": "https://thezvi.substack.com/p/anthropic-does-not-understand-why"
-  },
-  {
-   "headline": "Get hands-free personalized help on the road with Gemini",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeTY4QlVpMFRHMjVWejJtQTVjTUNfQ1VBNHFLdEZ6VFJHQVBrVjFwZzgzRW0wSm1BaTBTLTRPeXkzTE5veE1XM1pMby14UE16eEhadEU2NUVaMnNzdWFvVTlMV3k2WHh1ZGtWckRNTWVvZVAyUmNfMXpRWC1ILWoxUjNBMDRuUzI1VU9vQkJFUy1kckRfTGtIR0Q0ZkRIZ2dQdm9ncnFaNlBQYUV6NWdSb1FHd0MtNTNhanhhbG5tTDB2dlpPOENHeA?oc=5"
-  },
-  {
-   "headline": "Meta’s Muse Reaches 10 Million Downloads Faster Than ChatGPT",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
-   "label": "REPORTED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/metas-muse-reaches-10-million-downloads-faster-than-chatgpt/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 15300,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/20/23.mp3",
- "audio_seconds": 55.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/00.mp3",
+ "audio_seconds": 76.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic has pitched a bill focused on artificial intelligence safety that could block a model if 50 or more people could be killed, reported by TechCrunch.\nDeepSeek makes DeepInfer open source to cut artificial intelligence costs and boost market leadership, reported by TechTarget.\nThe Trump administration has lost its bid to block a lawsuit from the NAACP against Musk's xAI over a data center, reported by Reuters.\nGoogle is bringing a more personal version of its Gemini artificial intelligence assistant to your car using connected app data, confirmed by TechCrunch.\nTTEC Digital has unveiled 40 or more artificial intelligence agents on Google Cloud Gemini Enterprise to help modernize government experiences, reported by Markets Insider.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nHugging Face's artificial intelligence was hacked by rogue agents, though a Netflix documentary about the incident misrepresents the situation. Confirmed by TechCrunch: the Hugging Face CEO warns the documentary isn't accurate.\nSpaceX's revenue surged 161% as artificial intelligence and Starlink drive growth. Confirmed by ABC News: the company is experiencing significant expansion in these areas.\nGoogle is rolling out Personal Intelligence to car artificial intelligence systems, using app data for personalized driving tasks. Confirmed by The Verge: the more personalized Gemini is heading to your car.\nSolcis launches self-hosted compliance tools for organizations building artificial intelligence agents on NVIDIA OpenShell. Reported by DagangNews: the company is launching this open compliance layer.\nAnthropic reports 16.8B in Q3 revenue while working to secure cloud capacity. Still open per TechCrunch: the company targets an November artificial intelligence public offering.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
