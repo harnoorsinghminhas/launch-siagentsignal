@@ -1,141 +1,167 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T15:20:02Z",
- "hour": "2026-10-21T15:00:00Z",
+ "generated_at": "2026-10-21T16:20:02Z",
+ "hour": "2026-10-21T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI brings its frontier models to rival Google Cloud",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models",
+   "title": "The $15 billion ad-powered AI startup your doctor may already be using",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-21T12:00:07Z"
+   "published_at": "2026-10-21T15:14:07Z",
+   "url_id": "99803a857421ee105c29dfc549a7f275"
   },
   {
-   "title": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts",
+   "title": "Who’s paying for the AI build-out? Probably you",
+   "outlet": "ft.com",
+   "outlet_name": "Financial Times",
+   "url": "https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-21T14:00:12Z"
+   "published_at": "2026-10-21T15:00:25Z",
+   "url_id": "2eef0b815ce1b9c69cca57d875dbd0c9"
   },
   {
-   "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+   "title": "ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell (Radhika Rajkumar/ZDNET)",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "url": "https://www.techmeme.com/261021/p28#a261021p28",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-21T14:00:00Z"
+   "published_at": "2026-10-21T13:50:49Z",
+   "url_id": "dff200bd2135e53fafe6db57767e6de1"
   },
   {
-   "title": "Epic to launch app connector for AI agents",
-   "outlet": "Modern Healthcare",
-   "outlet_name": "Modern Healthcare",
-   "url": "https://www.modernhealthcare.com/health-tech/mh-epic-systems-connectors-ai-agents-2027/",
+   "title": "Claude Code Permissions: Turning AI Coding into a Controlled Security Workflow",
+   "outlet": "meetcyber.net",
+   "outlet_name": "meetcyber.net",
+   "url": "https://meetcyber.net/claude-code-permissions-turning-ai-coding-into-a-controlled-security-workflow-2dc8230bcb28?source=rss------ai_agents-5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-21T13:00:00Z"
+   "published_at": "2026-10-21T15:26:16Z",
+   "url_id": "c602bde4fb487fab581eeaf556dd54d7"
+  },
+  {
+   "title": "Claude Mods: Flipping the Harness Inside Out",
+   "outlet": "latent.space",
+   "outlet_name": "latent.space",
+   "url": "https://www.latent.space/p/claude-mods",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-21T13:04:19Z",
+   "url_id": "1cd487805b8193f0c7f2bce96a0e62ba"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI brings its frontier models to rival Google Cloud",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
+   "headline": "The $15 billion ad-powered AI startup your doctor may already be using",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
    "label": "REPORTED",
-   "url": "https://www.axios.com/2026/10/21/openai-google-cloud-ai-models"
+   "url": "https://arstechnica.com/ai/2026/10/the-15-billion-ad-powered-ai-startup-your-doctor-may-already-be-using/",
+   "url_id": "99803a857421ee105c29dfc549a7f275"
   },
   {
-   "headline": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
+   "headline": "Who’s paying for the AI build-out? Probably you",
+   "outlet": "ft.com",
+   "outlet_name": "Financial Times",
    "label": "REPORTED",
-   "url": "https://www.scmp.com/tech/big-tech/article/3371649/washingtons-deepseek-ban-may-deter-us-firms-adopting-chinese-ai-models-experts"
+   "url": "https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1",
+   "url_id": "2eef0b815ce1b9c69cca57d875dbd0c9"
   },
   {
-   "headline": "AI Guardrails Aren’t Stopping Criminal Hackers",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "label": "REPORTED",
-   "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/"
-  },
-  {
-   "headline": "Epic to launch app connector for AI agents",
-   "outlet": "Modern Healthcare",
-   "outlet_name": "Modern Healthcare",
-   "label": "REPORTED",
-   "url": "https://www.modernhealthcare.com/health-tech/mh-epic-systems-connectors-ai-agents-2027/"
-  },
-  {
-   "headline": "Claude flagged 493 security issues across 25 open-source projects, covering 5M+ lines of…",
+   "headline": "ServiceNow and Nvidia launch Arc, a personal, long-running enterprise AI agent for…",
    "outlet": "techmeme.com",
    "outlet_name": "techmeme.com",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261021/p31#a261021p31"
+   "url": "https://www.techmeme.com/261021/p28#a261021p28",
+   "url_id": "dff200bd2135e53fafe6db57767e6de1"
+  },
+  {
+   "headline": "Claude Code Permissions: Turning AI Coding into a Controlled Security Workflow",
+   "outlet": "meetcyber.net",
+   "outlet_name": "meetcyber.net",
+   "label": "REPORTED",
+   "url": "https://meetcyber.net/claude-code-permissions-turning-ai-coding-into-a-controlled-security-workflow-2dc8230bcb28?source=rss------ai_agents-5",
+   "url_id": "c602bde4fb487fab581eeaf556dd54d7"
   },
   {
    "headline": "Claude Mods: Flipping the Harness Inside Out",
    "outlet": "latent.space",
    "outlet_name": "latent.space",
    "label": "REPORTED",
-   "url": "https://www.latent.space/p/claude-mods"
+   "url": "https://www.latent.space/p/claude-mods",
+   "url_id": "1cd487805b8193f0c7f2bce96a0e62ba"
   },
   {
-   "headline": "'We are the cows of the future' Harari warns AI could take over financial system",
-   "outlet": "ynetnews.com",
-   "outlet_name": "ynetnews.com",
-   "label": "REPORTED",
-   "url": "https://www.ynetnews.com/tech-and-digital/article/rjzvkfq2fg"
-  },
-  {
-   "headline": "Homeport AI: Continuous monitoring of leads and accounts",
-   "outlet": "homeport.ai",
-   "outlet_name": "homeport.ai",
-   "label": "REPORTED",
-   "url": "https://homeport.ai/en"
-  },
-  {
-   "headline": "Salesforce Named a Leader in Inaugural IDC MarketScape for Worldwide Agentic AI Platforms",
-   "outlet": "salesforce.com",
-   "outlet_name": "salesforce.com",
-   "label": "REPORTED",
-   "url": "https://www.salesforce.com/blog/idc-marketscape-agentic-ai-platforms/"
-  },
-  {
-   "headline": "AI Testing vs. Software Testing",
-   "outlet": "deepsense.ai",
-   "outlet_name": "deepsense.ai",
-   "label": "REPORTED",
-   "url": "https://deepsense.ai/blog/ai-testing-vs-software-testing-how-to-build-reliable-production-ai-systems/"
-  },
-  {
-   "headline": "Mach9, which develops AI-powered CAD software trained on proprietary, in-house AI models…",
+   "headline": "Whop, which helps people start, run, and scale businesses and uses AI to suggest business…",
    "outlet": "techmeme.com",
    "outlet_name": "techmeme.com",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261021/p33#a261021p33"
+   "url": "https://www.techmeme.com/261021/p35#a261021p35",
+   "url_id": "30728300b39dba4d3629929b05480154"
   },
   {
-   "headline": "LayerFS: The filesystem for AI coding agents",
-   "outlet": "layerfs.ai",
-   "outlet_name": "layerfs.ai",
+   "headline": "Smash Bros and Kirby creator Masahiro Sakurai says AI usage will lead to unoriginal and…",
+   "outlet": "resetera.com",
+   "outlet_name": "resetera.com",
    "label": "REPORTED",
-   "url": "https://layerfs.ai/"
+   "url": "https://www.resetera.com/threads/smash-bros-and-kirby-creator-masahiro-sakurai-says-ai-usage-will-lead-to-unoriginal-and-%E2%80%9Cunprofitable%E2%80%9D-games.1666406/",
+   "url_id": "e417989c27e4af7922c189f0e63c9df8"
+  },
+  {
+   "headline": "TAI #227: Agentic Development Moves Up Another Level",
+   "outlet": "pub.towardsai.net",
+   "outlet_name": "pub.towardsai.net",
+   "label": "REPORTED",
+   "url": "https://pub.towardsai.net/tai-227-agentic-development-moves-up-another-level-8d6d5edda588?source=rss------artificial_intelligence-5",
+   "url_id": "fc61fdee39cd93b9a1ec5444790dbd20"
+  },
+  {
+   "headline": "Secator AI: Bringing AI-Powered Automation to Penetration Testing",
+   "outlet": "meetcyber.net",
+   "outlet_name": "meetcyber.net",
+   "label": "REPORTED",
+   "url": "https://meetcyber.net/secator-ai-bringing-ai-powered-automation-to-penetration-testing-8ff3b2742b85?source=rss------artificial_intelligence-5",
+   "url_id": "c343ee83acd1f6a9058d6325cd8d280a"
+  },
+  {
+   "headline": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
+   "outlet": "securityweek.com",
+   "outlet_name": "securityweek.com",
+   "label": "REPORTED",
+   "url": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
+   "url_id": "d2e8b5bb6175cbab7e3fc081afe3b28c"
+  },
+  {
+   "headline": "Do you still believe game patents are a bad now that Ai copycats are a thing?",
+   "outlet": "resetera.com",
+   "outlet_name": "resetera.com",
+   "label": "REPORTED",
+   "url": "https://www.resetera.com/threads/do-you-still-believe-game-patents-are-a-bad-now-that-ai-copycats-are-a-thing.1666313/",
+   "url_id": "87aaa7b4feb66e38f0bb9730ac8c95ad"
+  },
+  {
+   "headline": "The $120,000 Token Leak: How Unmonitored AI Features Quietly Destroy SaaS Gross Margins",
+   "outlet": "ehandbook.com",
+   "outlet_name": "ehandbook.com",
+   "label": "REPORTED",
+   "url": "https://ehandbook.com/the-120-000-token-leak-how-unmonitored-ai-features-quietly-destroy-saas-gross-margins-30e52d9dcd64?source=rss------artificial_intelligence-5",
+   "url_id": "df67385a26c031e07b76116bd742ff95"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from four different outlets.",
- "articles_24h_rounded": 11100,
+ "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 10600,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/15.mp3",
- "audio_seconds": 54.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/16.mp3",
+ "audio_seconds": 80.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is bringing its frontier models to Google Cloud. Reported by Axios: the company is expanding where developers can access its latest technology.\nWashington's DeepSeek ban may deter US firms from adopting Chinese artificial intelligence models, according to experts. Reported by South China Morning Post: the policy could shape how American companies choose their tools.\nArtificial intelligence guardrails aren't stopping criminal hackers from exploiting vulnerabilities. Reported by Wired: security safeguards face real-world challenges from determined threat actors.\nEpic is launching an app connector designed for artificial intelligence agents to integrate with its platform. Reported by Modern Healthcare: the move expands how these agents can access healthcare systems.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAn ad-powered artificial intelligence startup worth 15 billion dollars is already in use at doctor's offices, according to Ars Technica. Reported by Ars Technica: The 15 billion dollar startup powers medical practices across the country.\nWho's paying for the artificial intelligence build-out? Probably you, reports Financial Times. Reported by Financial Times: the costs of artificial intelligence infrastructure fall to consumers and businesses alike.\nServiceNow and Nvidia launched Arc, a personal long-running enterprise artificial intelligence agent for productivity tasks across email and Teams, for RTX Spark and Nvidia OpenShell. Reported by techmeme dot com: ServiceNow and Nvidia's Arc agent handles enterprise productivity across multiple platforms.\nClaude Code permissions turn artificial intelligence coding into a controlled security workflow, reported by meetcyber dot net. Reported by meetcyber dot net: Claude Code permissions create security controls for artificial intelligence coding tasks.\nClaude Mods flips the harness inside out, according to latent dot space. Reported by latent dot space: Claude Mods fundamentally changes how the coding harness operates.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
