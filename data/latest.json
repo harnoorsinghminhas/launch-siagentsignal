@@ -1,117 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T21:20:03Z",
- "hour": "2026-10-21T21:00:00Z",
+ "generated_at": "2026-10-21T22:20:03Z",
+ "hour": "2026-10-21T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+   "title": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-21T19:53:20Z",
+   "url_id": "09b7b6b752b47f3b6b3529191a7bf636"
+  },
+  {
+   "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T19:30:00Z",
-   "url_id": "7d3fc2c7c66fcede85a9cf219d2548e7"
-  },
-  {
-   "title": "Klique Announces Expanded Integrations with NVIDIA to Accelerate Enterprise AI Workflows and Optimize GPU Utilization",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
-   "url": "https://ca.finance.yahoo.com/news/klique-announces-expanded-integrations-nvidia-183500244.html",
+   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
    "label": "CONFIRMED",
-   "summary_1line": "Klique boosts enterprise AI with new NVIDIA platform integrations for cost, sovereignty, and secure agent workflows.",
-   "published_at": "2026-10-21T18:35:00Z",
-   "url_id": "05993ba0a6a9ac15668911c88ded0f89"
+   "summary_1line": "Recursive launches Flint, a free AI coding model built with self-improving AI, outperforming others on software bug fixes.",
+   "published_at": "2026-10-21T13:27:00Z",
+   "url_id": "e9fc027fe2ea965dad45cda83e77644a"
   },
   {
-   "title": "Nvidia’s Jensen Huang joined on stage by robot ducks as he hails Europe’s AI potential",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
-   "url": "https://nypost.com/2026/10/21/business/nvidias-jensen-huang-joined-on-stage-by-robot-ducks-as-he-hails-europes-ai-potential/",
+   "title": "Samsung Electro-Mechanics Will Supply AI Chip Substrates to Nvidia",
+   "outlet": "SammyGuru",
+   "outlet_name": "SammyGuru",
+   "url": "https://sammyguru.com/samsung-electro-mechanics-nvidia-ai-substrates/",
    "label": "CONFIRMED",
-   "summary_1line": "Nvidia boosts Europe's AI role with $10B commitment, partnerships, and robot duck demo.",
-   "published_at": "2026-10-21T17:52:00Z",
-   "url_id": "3a3a4bd47d7eb9beb9d625e0d65c2ac6"
+   "summary_1line": "Samsung Electro-Mechanics partners with Nvidia to produce AI chip substrates, starting deliveries in 2026.",
+   "published_at": "2026-10-21T19:09:28Z",
+   "url_id": "37a19e9b4621a513a65d8a5d7e08dd26"
   },
   {
-   "title": "OpenAI Agent Disables Its Own Safety Monitor, Then Falsely Denies Removing It",
-   "outlet": "Coinpaper",
-   "outlet_name": "Coinpaper",
-   "url": "https://coinpaper.com/37672/open-ai-agent-disables-its-own-safety-monitor-then-falsely-denies-removing-it",
+   "title": "Nvidia Unveils Containerized AI Factory to Cut Data Centre Deployment Time From Six Months to 14 Days",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "url": "https://www.tekedia.com/nvidia-unveils-containerized-ai-factory-to-cut-data-centre-deployment-time-from-six-months-to-14-days/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T16:07:06Z",
-   "url_id": "0d268fc901232d307c971e5f214ebd29"
+   "summary_1line": "Nvidia's DSX Pod cuts AI data center deployment to 14 days, from six months.",
+   "published_at": "2026-10-21T15:33:06Z",
+   "url_id": "8c7127d51db767dfc17ccdb92f75d5dc"
   },
   {
-   "title": "YYForce Unveils \"Workforce OS\" Robotics Architecture Powered by NVIDIA Physical AI",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/news-releases/yyforce-unveils-workforce-os-robotics-architecture-powered-by-nvidia-physical-ai-302915031.html",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T20:05:00Z",
-   "url_id": "f237b2882923858e7a5f5c3591a0eadd"
+   "title": "GM is betting compute and AI will help it compete with Chinese automakers",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+   "label": "CONFIRMED",
+   "summary_1line": "GM unveils 2028 EV platform with AI, autonomy, and software-driven design.",
+   "published_at": "2026-10-21T19:52:20Z",
+   "url_id": "e408e3ad30f6034db6e45c0f59ce1883"
   }
  ],
  "ticker": [
   {
-   "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+   "headline": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "label": "REPORTED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent",
+   "url_id": "09b7b6b752b47f3b6b3529191a7bf636"
+  },
+  {
+   "headline": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-   "url_id": "7d3fc2c7c66fcede85a9cf219d2548e7"
-  },
-  {
-   "headline": "Klique Announces Expanded Integrations with NVIDIA to Accelerate Enterprise AI Workflows…",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
    "label": "CONFIRMED",
-   "url": "https://ca.finance.yahoo.com/news/klique-announces-expanded-integrations-nvidia-183500244.html",
-   "url_id": "05993ba0a6a9ac15668911c88ded0f89"
+   "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
+   "url_id": "e9fc027fe2ea965dad45cda83e77644a"
   },
   {
-   "headline": "Nvidia’s Jensen Huang joined on stage by robot ducks as he hails Europe’s AI potential",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
+   "headline": "Samsung Electro-Mechanics Will Supply AI Chip Substrates to Nvidia",
+   "outlet": "SammyGuru",
+   "outlet_name": "SammyGuru",
    "label": "CONFIRMED",
-   "url": "https://nypost.com/2026/10/21/business/nvidias-jensen-huang-joined-on-stage-by-robot-ducks-as-he-hails-europes-ai-potential/",
-   "url_id": "3a3a4bd47d7eb9beb9d625e0d65c2ac6"
+   "url": "https://sammyguru.com/samsung-electro-mechanics-nvidia-ai-substrates/",
+   "url_id": "37a19e9b4621a513a65d8a5d7e08dd26"
   },
   {
-   "headline": "OpenAI Agent Disables Its Own Safety Monitor, Then Falsely Denies Removing It",
-   "outlet": "Coinpaper",
-   "outlet_name": "Coinpaper",
+   "headline": "Nvidia Unveils Containerized AI Factory to Cut Data Centre Deployment Time From Six…",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
    "label": "REPORTED",
-   "url": "https://coinpaper.com/37672/open-ai-agent-disables-its-own-safety-monitor-then-falsely-denies-removing-it",
-   "url_id": "0d268fc901232d307c971e5f214ebd29"
+   "url": "https://www.tekedia.com/nvidia-unveils-containerized-ai-factory-to-cut-data-centre-deployment-time-from-six-months-to-14-days/",
+   "url_id": "8c7127d51db767dfc17ccdb92f75d5dc"
   },
   {
-   "headline": "YYForce Unveils \"Workforce OS\" Robotics Architecture Powered by NVIDIA Physical AI",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "label": "REPORTED",
-   "url": "https://www.prnewswire.com/news-releases/yyforce-unveils-workforce-os-robotics-architecture-powered-by-nvidia-physical-ai-302915031.html",
-   "url_id": "f237b2882923858e7a5f5c3591a0eadd"
-  },
-  {
-   "headline": "TriVector Labs Launches AviaPilot, an AI Copilot for Pilots and Aviation Organizations",
-   "outlet": "FinancialContent",
-   "outlet_name": "FinancialContent",
-   "label": "REPORTED",
-   "url": "https://markets.financialcontent.com/stocks/article/getnews-2026-10-21-trivector-labs-launches-aviapilot-an-ai-copilot-for-pilots-and-aviation-organizations",
-   "url_id": "4c6e5c8754b25ac9dbad78efa65ab6b6"
-  },
-  {
-   "headline": "GM is giving OnStar an AI makeover",
+   "headline": "GM is betting compute and AI will help it compete with Chinese automakers",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
-   "url_id": "5edd9bc8ba0d9e54acd0789367923ae3"
+   "url": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
+   "url_id": "e408e3ad30f6034db6e45c0f59ce1883"
+  },
+  {
+   "headline": "Walmart launches Agent Gateway for shopping via AI agents — TechCrunch",
+   "outlet": "UA.NEWS",
+   "outlet_name": "UA.NEWS",
+   "label": "CONFIRMED",
+   "url": "https://ua.news/en/technologies/walmart-zapustiv-agent-gateway-dlia-pokupok-cherez-shi-agentiv-techcrunch",
+   "url_id": "97500ab729e2b2690370a38793cb2674"
   },
   {
    "headline": "Anthropic CEO Defends Advanced AI Push Amid Safety Policy Debate",
@@ -122,20 +114,20 @@
    "url_id": "f81582450682d7a2175b65a7616c879b"
   },
   {
-   "headline": "OpenAI says its AI agents disabled their own monitoring",
-   "outlet": "ABC News on MSN",
-   "outlet_name": "ABC News on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/openai-says-its-ai-agents-disabled-their-own-monitoring/ar-AA2fL8YC",
-   "url_id": "6b8a3c3a5625d6714bb67f92c70b83f9"
+   "headline": "ServiceNow Announces New AI Agent Services With Nvidia",
+   "outlet": "pymnts.com",
+   "outlet_name": "pymnts.com",
+   "label": "REPORTED",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/servicenow-announces-new-ai-agent-services-with-nvidia/",
+   "url_id": "52aff89b4614d82724eb3b19d86fcdcf"
   },
   {
-   "headline": "Nvidia announces truck-shippable Vera Rubin AI racks",
-   "outlet": "streamlinefeed.co.ke",
-   "outlet_name": "streamlinefeed.co.ke",
-   "label": "STILL OPEN",
-   "url": "https://streamlinefeed.co.ke/news/nvidia-announces-truck-shippable-vera-rubin-ai-racks",
-   "url_id": "3901a93fceafc8812a737f82ca44e854"
+   "headline": "NVIDIA Corporation And Agile Robots Announce NVIDIA Isaac Platform Expansion And Agile…",
+   "outlet": "marketscreener.com",
+   "outlet_name": "marketscreener.com",
+   "label": "REPORTED",
+   "url": "https://www.marketscreener.com/news/nvidia-corporation-and-agile-robots-announce-nvidia-isaac-platform-expansion-and-agile-one-sn-humano-ce785cd9dd8af726",
+   "url_id": "ce7a567ac421929aa53f695d6a4adac8"
   },
   {
    "headline": "Amodei thanks critic Calvin as Anthropic rewrites AI safety bill",
@@ -146,22 +138,30 @@
    "url_id": "68ccde20862fa3801db6bef8346ab3ff"
   },
   {
-   "headline": "Claude Duet: Anthropic’s New Always-On A.I. Agent",
-   "outlet": "www.trendingtopics.eu",
-   "outlet_name": "www.trendingtopics.eu",
-   "label": "REPORTED",
-   "url": "https://www.trendingtopics.eu/claude-duet-anthropic-ai-agent/",
-   "url_id": "38a087671f4d98a08df20eb6ead78c8e"
+   "headline": "AI helped find a critical security flaw affecting 70% of the internet",
+   "outlet": "CNN on MSN",
+   "outlet_name": "CNN on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/cybersecurity/ai-helped-find-a-critical-security-flaw-affecting-70-of-the-internet/ar-AA2fLmZ8",
+   "url_id": "88b099a61347983e68c135879b750b3e"
+  },
+  {
+   "headline": "Google faces Senate grilling over education AI as fears over kids’ mental health mount",
+   "outlet": "New York Post on MSN",
+   "outlet_name": "New York Post on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/google-faces-senate-grilling-over-education-ai-as-fears-over-kids-mental-health-mount/ar-AA2fLvkM",
+   "url_id": "7bbcadd79ae5645189e69d873741b4d6"
   }
  ],
- "tidbit": "Did you know… about 19,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 18600,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 18900,
  "articles_24h_label": "about 19,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/21.mp3",
- "audio_seconds": 52.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/22.mp3",
+ "audio_seconds": 46.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TechCrunch: While Amazon blocks AI agents, Walmart rolls out the welcome mat.\nConfirmed, per Yahoo! Finance Canada: Klique Announces Expanded Integrations with NVIDIA to Accelerate Enterprise AI Workflows and Optimize GPU Utilization.\nConfirmed, per New York Post: Nvidia’s Jensen Huang joined on stage by robot ducks as he hails Europe’s AI potential.\nReported by Coinpaper: OpenAI Agent Disables Its Own Safety Monitor, Then Falsely Denies Removing It.\nReported by PR Newswire: YYForce Unveils \"Workforce OS\" Robotics Architecture Powered by NVIDIA Physical AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The Verge: Anthropic takes on Muse with Claude Duet, its new AI agent.\nConfirmed, per TechCrunch: Recursive launches Flint, a laptop coding model it says was largely built by AI.\nConfirmed, per SammyGuru: Samsung Electro-Mechanics Will Supply AI Chip Substrates to Nvidia.\nReported by Tekedia: Nvidia Unveils Containerized AI Factory to Cut Data Centre Deployment Time From Six Months to 14 Days.\nConfirmed, per TechCrunch: GM is betting compute and AI will help it compete with Chinese automakers.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
