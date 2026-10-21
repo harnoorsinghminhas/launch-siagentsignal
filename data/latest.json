@@ -1,112 +1,112 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T05:20:03Z",
- "hour": "2026-10-21T05:00:00Z",
+ "generated_at": "2026-10-21T06:20:02Z",
+ "hour": "2026-10-21T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Judge throws out U.S. DOJ attempt to deny communities’ day in court against Musk’s company, xAI",
-   "outlet": "Earthjustice",
-   "outlet_name": "Earthjustice",
-   "url": "https://earthjustice.org/press/2026/judge-throws-out-u-s-doj-attempt-to-deny-communities-day-in-court-against-musks-company-xai",
-   "label": "REPORTED",
-   "summary_1line": "Court blocks DOJ from blocking citizen suit against xAI over illegal emissions.",
-   "published_at": "2026-10-20T12:06:00Z"
+   "title": "DeepSeek open-sources new tool to slash AI costs in ‘fight’ against closed-source rivals",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
+   "label": "CONFIRMED",
+   "summary_1line": "DeepSeek open-sources DeepInfer for efficient AI model deployment on Nvidia and Huawei chips.",
+   "published_at": "2026-10-21T05:03:27Z"
   },
   {
-   "title": "ChatGPT Gets 'Locked Chats' to Protect Sensitive Conversations",
-   "outlet": "PCMag Middle East",
-   "outlet_name": "PCMag Middle East",
-   "url": "http://me.pcmag.com/en/security/38396/chatgpt-gets-locked-chats-to-protect-sensitive-conversations",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI adds locked chats to protect sensitive conversations on shared devices.",
-   "published_at": "2026-10-21T03:59:39Z"
+   "title": "F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered AI Factory Infrastructure",
+   "outlet": "Carroll County Mirror-Democrat",
+   "outlet_name": "Carroll County Mirror-Democrat",
+   "url": "https://www.mycarrollcountynews.com/online_features/press_releases/article_2977f5a7-3457-55ec-92ee-c95f83b1733c.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Telenor selects F5's AI service plane for sovereign AI infrastructure.",
+   "published_at": "2026-10-21T04:00:00Z"
   },
   {
-   "title": "Zhou Xiaochuan: It is necessary to reserve policy tools well to cope with AI investment risks",
-   "outlet": "第一财经",
-   "outlet_name": "第一财经",
-   "url": "https://www.yicai.com/news/103401935.html",
-   "label": "REPORTED",
-   "summary_1line": "Zhou Xiaochuan outlines AI productivity paths and financial risks at the 2026 UBS Forum.",
-   "published_at": "2026-10-21T03:56:44Z"
+   "title": "You can now lock chats in ChatGPT: Here is how",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
+   "url": "https://www.digit.in/news/general/you-can-now-lock-chats-in-chatgpt-here-is-how.html",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI lets users lock chats with PIN or biometrics to hide them from regular history.",
+   "published_at": "2026-10-20T17:00:00Z"
   },
   {
-   "title": "Nvidia spends a record nearly $2.2 million on federal lobbying in Q3",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/nvidia-record-federal-lobbying-q3/",
+   "title": "Elon Musk Plans to Give Away SpaceX Shares to American Children Following Anthropic's Public Fund Announcement",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "url": "https://www.techtimes.com/articles/329278/20261020/elon-musk-plans-give-away-spacex-shares-american-children-following-anthropics-public-fund.htm",
    "label": "REPORTED",
-   "summary_1line": "Nvidia spends record $2.2M on lobbying in Q3 2026 over AI chip rules.",
-   "published_at": "2026-10-21T03:21:16Z"
+   "summary_1line": "Musk and Anthropic announce equity giveaways for public benefit, with $200M AI labor research commitment.",
+   "published_at": "2026-10-20T20:02:04Z"
   },
   {
-   "title": "North Dakota Lawmakers Advance AI Regulation Bill, Consider Additional Protections",
-   "outlet": "The Dakotan",
-   "outlet_name": "The Dakotan",
-   "url": "https://mydakotan.com/2026/10/north-dakota-lawmakers-advance-ai-regulation-bill-consider-additional-protections/",
+   "title": "Visa, BILL and Billtrust Launch AI Agent Pilot for B2B Invoice Payments",
+   "outlet": "FintechNewsSG",
+   "outlet_name": "FintechNewsSG",
+   "url": "https://fintechnews.sg/139329/payments/visa-ai-agents-b2b-invoice-payments-pilot/",
    "label": "REPORTED",
-   "summary_1line": "North Dakota advances AI regulations with consumer protections and a state AI council.",
-   "published_at": "2026-10-21T03:06:11Z"
+   "summary_1line": "Visa, BILL, and Billtrust pilot AI agents for automated B2B invoice payments.",
+   "published_at": "2026-10-20T17:00:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Judge throws out U.S. DOJ attempt to deny communities’ day in court against Musk’s…",
-   "outlet": "Earthjustice",
-   "outlet_name": "Earthjustice",
-   "label": "REPORTED",
-   "url": "https://earthjustice.org/press/2026/judge-throws-out-u-s-doj-attempt-to-deny-communities-day-in-court-against-musks-company-xai"
-  },
-  {
-   "headline": "ChatGPT Gets 'Locked Chats' to Protect Sensitive Conversations",
-   "outlet": "PCMag Middle East",
-   "outlet_name": "PCMag Middle East",
-   "label": "REPORTED",
-   "url": "http://me.pcmag.com/en/security/38396/chatgpt-gets-locked-chats-to-protect-sensitive-conversations"
-  },
-  {
-   "headline": "Zhou Xiaochuan: It is necessary to reserve policy tools well to cope with AI investment…",
-   "outlet": "第一财经",
-   "outlet_name": "第一财经",
-   "label": "REPORTED",
-   "url": "https://www.yicai.com/news/103401935.html"
-  },
-  {
-   "headline": "Nvidia spends a record nearly $2.2 million on federal lobbying in Q3",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/nvidia-record-federal-lobbying-q3/"
-  },
-  {
-   "headline": "North Dakota Lawmakers Advance AI Regulation Bill, Consider Additional Protections",
-   "outlet": "The Dakotan",
-   "outlet_name": "The Dakotan",
-   "label": "REPORTED",
-   "url": "https://mydakotan.com/2026/10/north-dakota-lawmakers-advance-ai-regulation-bill-consider-additional-protections/"
-  },
-  {
-   "headline": "DeepSeek open-sources new tool to slash costs and ‘battle’ closed-source AI",
-   "outlet": "South China Morning Post",
+   "headline": "DeepSeek open-sources new tool to slash AI costs in ‘fight’ against closed-source rivals",
+   "outlet": "scmp.com",
    "outlet_name": "South China Morning Post",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals"
   },
   {
-   "headline": "China opposes US restrictions on DeepSeek",
-   "outlet": "europe.chinadaily.com.cn",
-   "outlet_name": "europe.chinadaily.com.cn",
+   "headline": "F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered…",
+   "outlet": "Carroll County Mirror-Democrat",
+   "outlet_name": "Carroll County Mirror-Democrat",
    "label": "CONFIRMED",
-   "url": "http://europe.chinadaily.com.cn/a/202610/20/WS6ad784dce4b06d4aa0563d62.html"
+   "url": "https://www.mycarrollcountynews.com/online_features/press_releases/article_2977f5a7-3457-55ec-92ee-c95f83b1733c.html"
   },
   {
-   "headline": "County Council passes law to regulate AI in Allegheny political ads",
-   "outlet": "TribLIVE.com",
-   "outlet_name": "TribLIVE.com",
+   "headline": "You can now lock chats in ChatGPT: Here is how",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
    "label": "CONFIRMED",
-   "url": "https://triblive.com/local/valley-news-dispatch/county-council-passes-law-to-regulate-ai-in-allegheny-political-ads/"
+   "url": "https://www.digit.in/news/general/you-can-now-lock-chats-in-chatgpt-here-is-how.html"
+  },
+  {
+   "headline": "Elon Musk Plans to Give Away SpaceX Shares to American Children Following Anthropic's…",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "label": "REPORTED",
+   "url": "https://www.techtimes.com/articles/329278/20261020/elon-musk-plans-give-away-spacex-shares-american-children-following-anthropics-public-fund.htm"
+  },
+  {
+   "headline": "Visa, BILL and Billtrust Launch AI Agent Pilot for B2B Invoice Payments",
+   "outlet": "FintechNewsSG",
+   "outlet_name": "FintechNewsSG",
+   "label": "REPORTED",
+   "url": "https://fintechnews.sg/139329/payments/visa-ai-agents-b2b-invoice-payments-pilot/"
+  },
+  {
+   "headline": "AI: Anthropic’s $750 Billion Compute Bill, SpaceX’s AI Profit. AI-RTZ #1246",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oLTJVdC1PV0l3VXVhUmVKWG00a2NnSDd0MjB0MnZKcnZ1X0daeF9RTDV2WXV0N3MxNGV6THpabEZfeGJ1eW9OdFI1cU5MT3JFeTBOS3k4NldqSkFad1FNZFpwMzNOYkVpMjE5TG5VNWk2eWFGbFo2MjB3?oc=5"
+  },
+  {
+   "headline": "Anthropic: KI-Agenten leisten sechsmal mehr als Menschen",
+   "outlet": "FAZ",
+   "outlet_name": "FAZ",
+   "label": "REPORTED",
+   "url": "https://www.faz.net/premium/digitalwirtschaft/zukunft-der-arbeit/anthropic-ki-agenten-leisten-sechsmal-mehr-als-menschen-accg-201602202.html"
+  },
+  {
+   "headline": "What Eight APAC Regulators Have Actually Published on AI in Drug Development",
+   "outlet": "BioPharma APAC",
+   "outlet_name": "BioPharma APAC",
+   "label": "REPORTED",
+   "url": "https://biopharmaapac.com/analysis/23/8590/what-eight-apac-regulators-have-actually-published-on-ai-in-drug-development.html"
   },
   {
    "headline": "Anthropic draft bill would allow AI model release to be halted over catastrophic risks",
@@ -116,6 +116,13 @@
    "url": "https://mezha.net/eng/news/mezha-2d2caae98728dfe7fcc2bc80_anthropic_draft_bill/"
   },
   {
+   "headline": "OpenAI rushes to secure investment before Anthropic IPO... \"Moving to preempt investment…",
+   "outlet": "aitimes.com",
+   "outlet_name": "aitimes.com",
+   "label": "REPORTED",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216472"
+  },
+  {
    "headline": "OpenAI reveals its own AI agents removed safety checks, raising concerns over control",
    "outlet": "Times Now on MSN",
    "outlet_name": "Times Now on MSN",
@@ -123,28 +130,21 @@
    "url": "https://www.msn.com/en-in/news/other/openai-reveals-its-own-ai-agents-removed-safety-checks-raising-concerns-over-control/ar-AA2fHDB7"
   },
   {
-   "headline": "The Token-Energy Law of LLM Decode: Active Bytes and Realized Time Account for Joules per…",
-   "outlet": "arxiv.org",
-   "outlet_name": "arxiv.org",
+   "headline": "OpenAI's always-on agent \"Dots\", Japanese user count is \"World's 2nd\": President Cho…",
+   "outlet": "itmedia.co.jp",
+   "outlet_name": "itmedia.co.jp",
    "label": "REPORTED",
-   "url": "https://arxiv.org/abs/2610.28576"
-  },
-  {
-   "headline": "Practical Guide to Starting 'AI x Automation' with Gemini Notebook",
-   "outlet": "kn.itmedia.co.jp",
-   "outlet_name": "kn.itmedia.co.jp",
-   "label": "REPORTED",
-   "url": "https://kn.itmedia.co.jp/kn/article/2610/21/2000002450/"
+   "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002457/"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 14200,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/05.mp3",
- "audio_seconds": 54.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/06.mp3",
+ "audio_seconds": 56.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Earthjustice: Judge throws out U.S. DOJ attempt to deny communities’ day in court against Musk’s company, xAI.\nReported by PCMag Middle East: ChatGPT Gets 'Locked Chats' to Protect Sensitive Conversations.\nReported by 第一财经: Zhou Xiaochuan: It is necessary to reserve policy tools well to cope with AI investment risks.\nReported by Crypto Briefing: Nvidia spends a record nearly $2.2 million on federal lobbying in Q3.\nReported by The Dakotan: North Dakota Lawmakers Advance AI Regulation Bill, Consider Additional Protections.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per South China Morning Post: DeepSeek open-sources new tool to slash AI costs in ‘fight’ against closed-source rivals.\nConfirmed, per Carroll County Mirror-Democrat: F5 and Telenor Partner to Build the AI Service Plane for Sovereign AI on NVIDIA-powered AI Factory Infrastructure.\nConfirmed, per Digit: You can now lock chats in ChatGPT: Here is how.\nReported by Tech Times: Elon Musk Plans to Give Away SpaceX Shares to American Children Following Anthropic's Public Fund Announcement.\nReported by FintechNewsSG: Visa, BILL and Billtrust Launch AI Agent Pilot for B2B Invoice Payments.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
