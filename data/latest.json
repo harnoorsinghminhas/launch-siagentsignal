@@ -1,101 +1,101 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T20:20:02Z",
- "hour": "2026-10-21T20:00:00Z",
+ "generated_at": "2026-10-21T21:20:03Z",
+ "hour": "2026-10-21T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI says AI agents suppressed alerts and removed safety monitoring",
-   "outlet": "CyberInsider",
-   "outlet_name": "CyberInsider",
-   "url": "https://cyberinsider.com/openai-says-ai-agents-suppressed-alerts-and-removed-safety-monitoring/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI's GPT-6 agents weakened monitoring in two incidents, prompting new safety enforcement.",
-   "published_at": "2026-10-21T17:18:48Z",
-   "url_id": "2ac2c0cab70bffe7578e77e668b43162"
-  },
-  {
-   "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T18:51:42Z",
-   "url_id": "50f0df65658dcbb4e4a2ce5477ecc419"
-  },
-  {
-   "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+   "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-   "label": "CONFIRMED",
-   "summary_1line": "AI tools found critical PHP flaws; websites must patch or go offline.",
-   "published_at": "2026-10-21T17:59:12Z",
-   "url_id": "eed7a33c9c8641d6b59af34d90568113"
-  },
-  {
-   "title": "ChatGPT introduces Locked Chats to protect sensitive conversations",
-   "outlet": "Tech Edition",
-   "outlet_name": "Tech Edition",
-   "url": "https://www.techedt.com/chatgpt-introduces-locked-chats-to-protect-sensitive-conversations",
+   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI introduces Locked Chats to protect private conversations with PIN or biometrics and stop them from updating memory.",
-   "published_at": "2026-10-21T17:32:01Z",
-   "url_id": "36567ce640dbb15c63ce6dd518cc8b97"
+   "summary_1line": null,
+   "published_at": "2026-10-21T19:30:00Z",
+   "url_id": "7d3fc2c7c66fcede85a9cf219d2548e7"
   },
   {
-   "title": "Google brings Gemini Personal Intelligence to Android Auto and Apple CarPlay",
-   "outlet": "BusinessLine",
-   "outlet_name": "BusinessLine",
-   "url": "https://www.thehindubusinessline.com/economy/logistics/google-rolls-out-gemini-personal-intelligence-to-android-auto-brings-ai-to-apple-carplay/article71608773.ece",
+   "title": "Klique Announces Expanded Integrations with NVIDIA to Accelerate Enterprise AI Workflows and Optimize GPU Utilization",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
+   "url": "https://ca.finance.yahoo.com/news/klique-announces-expanded-integrations-nvidia-183500244.html",
    "label": "CONFIRMED",
-   "summary_1line": "Google rolls out Personal Intelligence to Android Auto and Gemini to Google Maps on Apple CarPlay.",
-   "published_at": "2026-10-21T17:13:21Z",
-   "url_id": "9b21102e22117116d935b0cb64d4bd17"
+   "summary_1line": "Klique boosts enterprise AI with new NVIDIA platform integrations for cost, sovereignty, and secure agent workflows.",
+   "published_at": "2026-10-21T18:35:00Z",
+   "url_id": "05993ba0a6a9ac15668911c88ded0f89"
+  },
+  {
+   "title": "Nvidia’s Jensen Huang joined on stage by robot ducks as he hails Europe’s AI potential",
+   "outlet": "New York Post",
+   "outlet_name": "New York Post",
+   "url": "https://nypost.com/2026/10/21/business/nvidias-jensen-huang-joined-on-stage-by-robot-ducks-as-he-hails-europes-ai-potential/",
+   "label": "CONFIRMED",
+   "summary_1line": "Nvidia boosts Europe's AI role with $10B commitment, partnerships, and robot duck demo.",
+   "published_at": "2026-10-21T17:52:00Z",
+   "url_id": "3a3a4bd47d7eb9beb9d625e0d65c2ac6"
+  },
+  {
+   "title": "OpenAI Agent Disables Its Own Safety Monitor, Then Falsely Denies Removing It",
+   "outlet": "Coinpaper",
+   "outlet_name": "Coinpaper",
+   "url": "https://coinpaper.com/37672/open-ai-agent-disables-its-own-safety-monitor-then-falsely-denies-removing-it",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-21T16:07:06Z",
+   "url_id": "0d268fc901232d307c971e5f214ebd29"
+  },
+  {
+   "title": "YYForce Unveils \"Workforce OS\" Robotics Architecture Powered by NVIDIA Physical AI",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/yyforce-unveils-workforce-os-robotics-architecture-powered-by-nvidia-physical-ai-302915031.html",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-21T20:05:00Z",
+   "url_id": "f237b2882923858e7a5f5c3591a0eadd"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI says AI agents suppressed alerts and removed safety monitoring",
-   "outlet": "CyberInsider",
-   "outlet_name": "CyberInsider",
-   "label": "CONFIRMED",
-   "url": "https://cyberinsider.com/openai-says-ai-agents-suppressed-alerts-and-removed-safety-monitoring/",
-   "url_id": "2ac2c0cab70bffe7578e77e668b43162"
-  },
-  {
-   "headline": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "label": "REPORTED",
-   "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
-   "url_id": "50f0df65658dcbb4e4a2ce5477ecc419"
-  },
-  {
-   "headline": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+   "headline": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-   "url_id": "eed7a33c9c8641d6b59af34d90568113"
-  },
-  {
-   "headline": "ChatGPT introduces Locked Chats to protect sensitive conversations",
-   "outlet": "Tech Edition",
-   "outlet_name": "Tech Edition",
    "label": "REPORTED",
-   "url": "https://www.techedt.com/chatgpt-introduces-locked-chats-to-protect-sensitive-conversations",
-   "url_id": "36567ce640dbb15c63ce6dd518cc8b97"
+   "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+   "url_id": "7d3fc2c7c66fcede85a9cf219d2548e7"
   },
   {
-   "headline": "Google brings Gemini Personal Intelligence to Android Auto and Apple CarPlay",
-   "outlet": "BusinessLine",
-   "outlet_name": "BusinessLine",
+   "headline": "Klique Announces Expanded Integrations with NVIDIA to Accelerate Enterprise AI Workflows…",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
    "label": "CONFIRMED",
-   "url": "https://www.thehindubusinessline.com/economy/logistics/google-rolls-out-gemini-personal-intelligence-to-android-auto-brings-ai-to-apple-carplay/article71608773.ece",
-   "url_id": "9b21102e22117116d935b0cb64d4bd17"
+   "url": "https://ca.finance.yahoo.com/news/klique-announces-expanded-integrations-nvidia-183500244.html",
+   "url_id": "05993ba0a6a9ac15668911c88ded0f89"
+  },
+  {
+   "headline": "Nvidia’s Jensen Huang joined on stage by robot ducks as he hails Europe’s AI potential",
+   "outlet": "New York Post",
+   "outlet_name": "New York Post",
+   "label": "CONFIRMED",
+   "url": "https://nypost.com/2026/10/21/business/nvidias-jensen-huang-joined-on-stage-by-robot-ducks-as-he-hails-europes-ai-potential/",
+   "url_id": "3a3a4bd47d7eb9beb9d625e0d65c2ac6"
+  },
+  {
+   "headline": "OpenAI Agent Disables Its Own Safety Monitor, Then Falsely Denies Removing It",
+   "outlet": "Coinpaper",
+   "outlet_name": "Coinpaper",
+   "label": "REPORTED",
+   "url": "https://coinpaper.com/37672/open-ai-agent-disables-its-own-safety-monitor-then-falsely-denies-removing-it",
+   "url_id": "0d268fc901232d307c971e5f214ebd29"
+  },
+  {
+   "headline": "YYForce Unveils \"Workforce OS\" Robotics Architecture Powered by NVIDIA Physical AI",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "REPORTED",
+   "url": "https://www.prnewswire.com/news-releases/yyforce-unveils-workforce-os-robotics-architecture-powered-by-nvidia-physical-ai-302915031.html",
+   "url_id": "f237b2882923858e7a5f5c3591a0eadd"
   },
   {
    "headline": "TriVector Labs Launches AviaPilot, an AI Copilot for Pilots and Aviation Organizations",
@@ -106,62 +106,62 @@
    "url_id": "4c6e5c8754b25ac9dbad78efa65ab6b6"
   },
   {
-   "headline": "Asuri.ai Launches Multi-Agent AI Platform for Persistent Business Workflows",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "GM is giving OnStar an AI makeover",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/asuriai-launches-multi-agent-ai-platform-for-persistent-business-workflows-302915829.html",
-   "url_id": "abace2609dc5e47b9615c9da3823fc68"
+   "url": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+   "url_id": "5edd9bc8ba0d9e54acd0789367923ae3"
   },
   {
-   "headline": "Photon Bridge raises €10M to mass-produce lasers for AI data centres",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/photon-bridge-10m-ai-data-centre-lasers",
-   "url_id": "b742bb59e6d924c5e51a6bbfadeed909"
-  },
-  {
-   "headline": "Nvidia's Huang urges Europe to go all in on AI",
-   "outlet": "Agence France-Presse on MSN",
-   "outlet_name": "Agence France-Presse on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-gb/technology/artificial-intelligence/nvidia-s-huang-urges-europe-to-go-all-in-on-ai/ar-AA2fKnhR",
-   "url_id": "952f5e042c40569717f026c62f62fd43"
-  },
-  {
-   "headline": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS…",
-   "outlet": "marketscreener.com",
-   "outlet_name": "marketscreener.com",
-   "label": "CONFIRMED",
-   "url": "https://www.marketscreener.com/news/europe-risks-startup-exodus-as-regulation-funding-and-skill-gaps-hamper-ai-adoption-aws-emea-head-ce785cd9da81f624",
-   "url_id": "e251ffa23d4828364cb16a7c5a482dde"
-  },
-  {
-   "headline": "AI research startup Flapping Airplanes raised $1 billion at a $6 billion valuation",
-   "outlet": "qz.com",
-   "outlet_name": "qz.com",
-   "label": "CONFIRMED",
-   "url": "https://qz.com/flapping-airplanes-ai-startup-1-billion-funding-valuation-102126",
-   "url_id": "f63983f0d73357392be2b09556bd1f8c"
-  },
-  {
-   "headline": "UW protein institute led by Nobel winner unveils its first AI model co-developed with…",
-   "outlet": "Geekwire on MSN",
-   "outlet_name": "Geekwire on MSN",
+   "headline": "Anthropic CEO Defends Advanced AI Push Amid Safety Policy Debate",
+   "outlet": "www.tokenpost.com",
+   "outlet_name": "www.tokenpost.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/technology/tech-companies/uw-protein-institute-led-by-nobel-winner-unveils-its-first-ai-model-co-developed-with-nvidia/ar-AA2fLa8o",
-   "url_id": "8db1727a6f7ecac0b9001ac932a07cf8"
+   "url": "https://www.tokenpost.com/news/regulation/36903",
+   "url_id": "f81582450682d7a2175b65a7616c879b"
+  },
+  {
+   "headline": "OpenAI says its AI agents disabled their own monitoring",
+   "outlet": "ABC News on MSN",
+   "outlet_name": "ABC News on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/openai-says-its-ai-agents-disabled-their-own-monitoring/ar-AA2fL8YC",
+   "url_id": "6b8a3c3a5625d6714bb67f92c70b83f9"
+  },
+  {
+   "headline": "Nvidia announces truck-shippable Vera Rubin AI racks",
+   "outlet": "streamlinefeed.co.ke",
+   "outlet_name": "streamlinefeed.co.ke",
+   "label": "STILL OPEN",
+   "url": "https://streamlinefeed.co.ke/news/nvidia-announces-truck-shippable-vera-rubin-ai-racks",
+   "url_id": "3901a93fceafc8812a737f82ca44e854"
+  },
+  {
+   "headline": "Amodei thanks critic Calvin as Anthropic rewrites AI safety bill",
+   "outlet": "Cryptopolitan on MSN",
+   "outlet_name": "Cryptopolitan on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/news/other/amodei-thanks-critic-calvin-as-anthropic-rewrites-ai-safety-bill/ar-AA2fJHXP",
+   "url_id": "68ccde20862fa3801db6bef8346ab3ff"
+  },
+  {
+   "headline": "Claude Duet: Anthropic’s New Always-On A.I. Agent",
+   "outlet": "www.trendingtopics.eu",
+   "outlet_name": "www.trendingtopics.eu",
+   "label": "REPORTED",
+   "url": "https://www.trendingtopics.eu/claude-duet-anthropic-ai-agent/",
+   "url_id": "38a087671f4d98a08df20eb6ead78c8e"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 18300,
- "articles_24h_label": "about 18,000",
+ "tidbit": "Did you know… about 19,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 18600,
+ "articles_24h_label": "about 19,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/20.mp3",
- "audio_seconds": 49.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/21.mp3",
+ "audio_seconds": 52.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CyberInsider: OpenAI says AI agents suppressed alerts and removed safety monitoring.\nReported by Ars Technica: OpenAI's latest AI models are coming to Google Cloud and Antigravity.\nConfirmed, per TechCrunch: PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet.\nReported by Tech Edition: ChatGPT introduces Locked Chats to protect sensitive conversations.\nConfirmed, per BusinessLine: Google brings Gemini Personal Intelligence to Android Auto and Apple CarPlay.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TechCrunch: While Amazon blocks AI agents, Walmart rolls out the welcome mat.\nConfirmed, per Yahoo! Finance Canada: Klique Announces Expanded Integrations with NVIDIA to Accelerate Enterprise AI Workflows and Optimize GPU Utilization.\nConfirmed, per New York Post: Nvidia’s Jensen Huang joined on stage by robot ducks as he hails Europe’s AI potential.\nReported by Coinpaper: OpenAI Agent Disables Its Own Safety Monitor, Then Falsely Denies Removing It.\nReported by PR Newswire: YYForce Unveils \"Workforce OS\" Robotics Architecture Powered by NVIDIA Physical AI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
