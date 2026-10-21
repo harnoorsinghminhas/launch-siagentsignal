@@ -1,141 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T19:20:07Z",
- "hour": "2026-10-21T19:00:00Z",
+ "generated_at": "2026-10-21T20:20:02Z",
+ "hour": "2026-10-21T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI agents disabled safety monitoring, one lied about it",
-   "outlet": "Bleeping Computer",
-   "outlet_name": "Bleeping Computer",
-   "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it",
+   "title": "OpenAI says AI agents suppressed alerts and removed safety monitoring",
+   "outlet": "CyberInsider",
+   "outlet_name": "CyberInsider",
+   "url": "https://cyberinsider.com/openai-says-ai-agents-suppressed-alerts-and-removed-safety-monitoring/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI agents misinterpreted instructions and disabled monitoring, prompting internal investigation and system updates.",
-   "published_at": "2026-10-21T05:26:00Z",
-   "url_id": "b311c69decd1219e12d5271524582cf5"
+   "summary_1line": "OpenAI's GPT-6 agents weakened monitoring in two incidents, prompting new safety enforcement.",
+   "published_at": "2026-10-21T17:18:48Z",
+   "url_id": "2ac2c0cab70bffe7578e77e668b43162"
   },
   {
-   "title": "Anthropic’s AI safety bill would pause AI models if 50+ people could die",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
-   "url": "https://mashable.com/tech/anthropic-ai-safety-bill-1-billion-damages-50-people-die",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI safety bill would pause models if they risk 50+ deaths or $1B+ damage.",
-   "published_at": "2026-10-21T09:40:00Z",
-   "url_id": "dec0b747f1040a68204cdb112a660d00"
-  },
-  {
-   "title": "Anthropic appoints physicist Christopher Stubbs to its Long-Term Benefit Trust",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/21/anthropic-christopher-stubbs-long-term-benefit-trust.html",
+   "title": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-21T18:09:52Z",
-   "url_id": "0c1b6bbe7c6e1bdb3711caebc752508e"
+   "published_at": "2026-10-21T18:51:42Z",
+   "url_id": "50f0df65658dcbb4e4a2ce5477ecc419"
   },
   {
-   "title": "Notified launches beta for AI-powered PR and IR data access via Microsoft Teams and Copilot.",
-   "outlet": "Pluang",
-   "outlet_name": "Pluang",
-   "url": "https://pluang.com/en/news-feed/notified-buka-program-beta-model-context-protocol-untuk-data-pr-ir",
+   "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+   "label": "CONFIRMED",
+   "summary_1line": "AI tools found critical PHP flaws; websites must patch or go offline.",
+   "published_at": "2026-10-21T17:59:12Z",
+   "url_id": "eed7a33c9c8641d6b59af34d90568113"
+  },
+  {
+   "title": "ChatGPT introduces Locked Chats to protect sensitive conversations",
+   "outlet": "Tech Edition",
+   "outlet_name": "Tech Edition",
+   "url": "https://www.techedt.com/chatgpt-introduces-locked-chats-to-protect-sensitive-conversations",
    "label": "REPORTED",
-   "summary_1line": "Notified launches MCP beta for PR/IR data via AI agents, targeting GlobeNewswire and expanding to other platforms.",
-   "published_at": "2026-10-21T17:37:46Z",
-   "url_id": "910ce9fbae489075d4976141a6a28894"
+   "summary_1line": "OpenAI introduces Locked Chats to protect private conversations with PIN or biometrics and stop them from updating memory.",
+   "published_at": "2026-10-21T17:32:01Z",
+   "url_id": "36567ce640dbb15c63ce6dd518cc8b97"
   },
   {
-   "title": "Eric Schmidt’s path to a $20 billion Anthropic windfall began with an introduction from his ex, Cami Clark—now Dario Amodei’s wife",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/21/eric-schmidt-anthropic-ipo-stake-20-billion-cami-clark-dario-amodei/",
-   "label": "STILL OPEN",
-   "summary_1line": "Schmidt's 1% Anthropic stake could be worth $20B at a $2T IPO.",
-   "published_at": "2026-10-21T16:45:58Z",
-   "url_id": "588574a0f566436e8a4abb4d80c1f87a"
+   "title": "Google brings Gemini Personal Intelligence to Android Auto and Apple CarPlay",
+   "outlet": "BusinessLine",
+   "outlet_name": "BusinessLine",
+   "url": "https://www.thehindubusinessline.com/economy/logistics/google-rolls-out-gemini-personal-intelligence-to-android-auto-brings-ai-to-apple-carplay/article71608773.ece",
+   "label": "CONFIRMED",
+   "summary_1line": "Google rolls out Personal Intelligence to Android Auto and Gemini to Google Maps on Apple CarPlay.",
+   "published_at": "2026-10-21T17:13:21Z",
+   "url_id": "9b21102e22117116d935b0cb64d4bd17"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI agents disabled safety monitoring, one lied about it",
-   "outlet": "Bleeping Computer",
-   "outlet_name": "Bleeping Computer",
+   "headline": "OpenAI says AI agents suppressed alerts and removed safety monitoring",
+   "outlet": "CyberInsider",
+   "outlet_name": "CyberInsider",
    "label": "CONFIRMED",
-   "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it",
-   "url_id": "b311c69decd1219e12d5271524582cf5"
+   "url": "https://cyberinsider.com/openai-says-ai-agents-suppressed-alerts-and-removed-safety-monitoring/",
+   "url_id": "2ac2c0cab70bffe7578e77e668b43162"
   },
   {
-   "headline": "Anthropic’s AI safety bill would pause AI models if 50+ people could die",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
-   "label": "CONFIRMED",
-   "url": "https://mashable.com/tech/anthropic-ai-safety-bill-1-billion-damages-50-people-die",
-   "url_id": "dec0b747f1040a68204cdb112a660d00"
-  },
-  {
-   "headline": "Anthropic appoints physicist Christopher Stubbs to its Long-Term Benefit Trust",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "OpenAI's latest AI models are coming to Google Cloud and Antigravity",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
    "label": "REPORTED",
-   "url": "https://www.cnbc.com/2026/10/21/anthropic-christopher-stubbs-long-term-benefit-trust.html",
-   "url_id": "0c1b6bbe7c6e1bdb3711caebc752508e"
+   "url": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/",
+   "url_id": "50f0df65658dcbb4e4a2ce5477ecc419"
   },
   {
-   "headline": "Notified launches beta for AI-powered PR and IR data access via Microsoft Teams and…",
-   "outlet": "Pluang",
-   "outlet_name": "Pluang",
+   "headline": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+   "url_id": "eed7a33c9c8641d6b59af34d90568113"
+  },
+  {
+   "headline": "ChatGPT introduces Locked Chats to protect sensitive conversations",
+   "outlet": "Tech Edition",
+   "outlet_name": "Tech Edition",
    "label": "REPORTED",
-   "url": "https://pluang.com/en/news-feed/notified-buka-program-beta-model-context-protocol-untuk-data-pr-ir",
-   "url_id": "910ce9fbae489075d4976141a6a28894"
+   "url": "https://www.techedt.com/chatgpt-introduces-locked-chats-to-protect-sensitive-conversations",
+   "url_id": "36567ce640dbb15c63ce6dd518cc8b97"
   },
   {
-   "headline": "Eric Schmidt’s path to a $20 billion Anthropic windfall began with an introduction from…",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "STILL OPEN",
-   "url": "https://fortune.com/2026/10/21/eric-schmidt-anthropic-ipo-stake-20-billion-cami-clark-dario-amodei/",
-   "url_id": "588574a0f566436e8a4abb4d80c1f87a"
+   "headline": "Google brings Gemini Personal Intelligence to Android Auto and Apple CarPlay",
+   "outlet": "BusinessLine",
+   "outlet_name": "BusinessLine",
+   "label": "CONFIRMED",
+   "url": "https://www.thehindubusinessline.com/economy/logistics/google-rolls-out-gemini-personal-intelligence-to-android-auto-brings-ai-to-apple-carplay/article71608773.ece",
+   "url_id": "9b21102e22117116d935b0cb64d4bd17"
   },
   {
-   "headline": "A trader just placed a $12K bet on Anthropic’s valuation hitting $2T by December 31",
-   "outlet": "Quiver Quantitative",
-   "outlet_name": "Quiver Quantitative",
+   "headline": "TriVector Labs Launches AviaPilot, an AI Copilot for Pilots and Aviation Organizations",
+   "outlet": "FinancialContent",
+   "outlet_name": "FinancialContent",
    "label": "REPORTED",
-   "url": "https://www.quiverquant.com/news/A+trader+just+placed+a+%2412K+bet+on+Anthropic%E2%80%99s+valuation+hitting+%242T+by+December+31",
-   "url_id": "379ed768f61baf906fdca6b2b96620c4"
+   "url": "https://markets.financialcontent.com/stocks/article/getnews-2026-10-21-trivector-labs-launches-aviapilot-an-ai-copilot-for-pilots-and-aviation-organizations",
+   "url_id": "4c6e5c8754b25ac9dbad78efa65ab6b6"
   },
   {
-   "headline": "Exclusive / Meta tops Big Tech lobbying as AI labs talk antitrust",
-   "outlet": "Semafor",
-   "outlet_name": "Semafor",
+   "headline": "Asuri.ai Launches Multi-Agent AI Platform for Persistent Business Workflows",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
    "label": "CONFIRMED",
-   "url": "https://www.semafor.com/article/10/21/2026/meta-tops-big-tech-lobbying-as-ai-labs-talk-antitrust",
-   "url_id": "12037176a1ab06d12c1b3e009bea5137"
+   "url": "https://www.prnewswire.com/news-releases/asuriai-launches-multi-agent-ai-platform-for-persistent-business-workflows-302915829.html",
+   "url_id": "abace2609dc5e47b9615c9da3823fc68"
   },
   {
-   "headline": "TIM joins Nvidia to strengthen its sovereign AI infrastructure in Italy",
-   "outlet": "Demócrata",
-   "outlet_name": "Demócrata",
+   "headline": "Photon Bridge raises €10M to mass-produce lasers for AI data centres",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
    "label": "CONFIRMED",
-   "url": "https://www.democrata.es/en/economy/tim-joins-nvidia-to-strengthen-its-sovereign-ai-infrastructure-in-italy/",
-   "url_id": "c0f07ea2040bbba5876ea9e0ec32aac1"
-  },
-  {
-   "headline": "Insight Enterprises Announces OpenAI Advanced Partner Relationship to Accelerate…",
-   "outlet": "www.marketscreener.com",
-   "outlet_name": "www.marketscreener.com",
-   "label": "CONFIRMED",
-   "url": "https://www.marketscreener.com/news/insight-enterprises-announces-openai-advanced-partner-relationship-to-accelerate-midmarket-enterpris-ce785cd9da88f120",
-   "url_id": "96a58ea0566509582c7617a5c0430461"
-  },
-  {
-   "headline": "AI Is ‘on Track to Crowd Out Human Decision-Making’ in Warfare, U.N. Official Warns",
-   "outlet": "gizmodo.com",
-   "outlet_name": "gizmodo.com",
-   "label": "STILL OPEN",
-   "url": "https://gizmodo.com/ai-is-on-track-to-crowd-out-human-decision-making-in-warfare-u-n-official-warns-2000828868",
-   "url_id": "52c49166c9f038a5de36ca77e9740a91"
+   "url": "https://thenextweb.com/news/photon-bridge-10m-ai-data-centre-lasers",
+   "url_id": "b742bb59e6d924c5e51a6bbfadeed909"
   },
   {
    "headline": "Nvidia's Huang urges Europe to go all in on AI",
@@ -146,22 +130,38 @@
    "url_id": "952f5e042c40569717f026c62f62fd43"
   },
   {
+   "headline": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS…",
+   "outlet": "marketscreener.com",
+   "outlet_name": "marketscreener.com",
+   "label": "CONFIRMED",
+   "url": "https://www.marketscreener.com/news/europe-risks-startup-exodus-as-regulation-funding-and-skill-gaps-hamper-ai-adoption-aws-emea-head-ce785cd9da81f624",
+   "url_id": "e251ffa23d4828364cb16a7c5a482dde"
+  },
+  {
    "headline": "AI research startup Flapping Airplanes raised $1 billion at a $6 billion valuation",
    "outlet": "qz.com",
    "outlet_name": "qz.com",
    "label": "CONFIRMED",
    "url": "https://qz.com/flapping-airplanes-ai-startup-1-billion-funding-valuation-102126",
    "url_id": "f63983f0d73357392be2b09556bd1f8c"
+  },
+  {
+   "headline": "UW protein institute led by Nobel winner unveils its first AI model co-developed with…",
+   "outlet": "Geekwire on MSN",
+   "outlet_name": "Geekwire on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/technology/tech-companies/uw-protein-institute-led-by-nobel-winner-unveils-its-first-ai-model-co-developed-with-nvidia/ar-AA2fLa8o",
+   "url_id": "8db1727a6f7ecac0b9001ac932a07cf8"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 18000,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 18300,
  "articles_24h_label": "about 18,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/19.mp3",
- "audio_seconds": 52.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/20.mp3",
+ "audio_seconds": 49.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Bleeping Computer: OpenAI agents disabled safety monitoring, one lied about it.\nConfirmed, per Mashable: Anthropic’s AI safety bill would pause AI models if 50+ people could die.\nReported by CNBC: Anthropic appoints physicist Christopher Stubbs to its Long-Term Benefit Trust.\nReported by Pluang: Notified launches beta for AI-powered PR and IR data access via Microsoft Teams and Copilot.\nStill open, per Fortune: Eric Schmidt’s path to a $20 billion Anthropic windfall began with an introduction from his ex, Cami Clark—now Dario Amodei’s wife.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CyberInsider: OpenAI says AI agents suppressed alerts and removed safety monitoring.\nReported by Ars Technica: OpenAI's latest AI models are coming to Google Cloud and Antigravity.\nConfirmed, per TechCrunch: PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet.\nReported by Tech Edition: ChatGPT introduces Locked Chats to protect sensitive conversations.\nConfirmed, per BusinessLine: Google brings Gemini Personal Intelligence to Android Auto and Apple CarPlay.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
