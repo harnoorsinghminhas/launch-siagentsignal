@@ -1,112 +1,98 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T13:20:06Z",
- "hour": "2026-10-21T13:00:00Z",
+ "generated_at": "2026-10-21T14:20:03Z",
+ "hour": "2026-10-21T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Intelligence Firm Redpoint Advisors Launches AI-Powered Global Instability Forecasting Tool",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/news-releases/intelligence-firm-redpoint-advisors-launches-ai-powered-global-instability-forecasting-tool-302914630.html",
-   "label": "REPORTED",
-   "summary_1line": "Redpoint Advisors launches RIFT, an AI tool forecasting geopolitical instability in 50+ countries with 80% accuracy.",
-   "published_at": "2026-10-21T11:30:00Z"
-  },
-  {
-   "title": "Fleet Launches New AI Governance Capabilities for Enterprise Devices",
-   "outlet": "Cybersecurity Insiders",
-   "outlet_name": "Cybersecurity Insiders",
-   "url": "https://www.cybersecurity-insiders.com/fleet-launches-new-ai-governance-capabilities-for-enterprise-devices/",
-   "label": "REPORTED",
-   "summary_1line": "Fleet launches AI governance for endpoint devices to manage shadow AI tools and risks.",
-   "published_at": "2026-10-21T10:13:57Z"
-  },
-  {
-   "title": "Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.",
-   "outlet": "mistral.ai",
-   "outlet_name": "mistral.ai",
-   "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+   "title": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html",
    "label": "CONFIRMED",
-   "summary_1line": "Mistral and NVIDIA launch AI-powered engineering workflows with public benchmarks and open datasets.",
+   "summary_1line": "OpenAI expands to Google Cloud, targeting enterprise developers amid rising AI spending.",
+   "published_at": "2026-10-21T12:20:13Z"
+  },
+  {
+   "title": "Investors are questioning neoclouds' business model but Nebius says AI computing prices are rising",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Nebius and neocloud firms report rising AI computing prices amid strong demand.",
+   "published_at": "2026-10-21T12:21:07Z"
+  },
+  {
+   "title": "October 21, 2026 4 min read Better Evidence, Better Agents: NVIDIA Nemotron Retriever on FriendliAI, Available Day-0 AI Models",
+   "outlet": "friendli.ai",
+   "outlet_name": "friendli.ai",
+   "url": "https://friendli.ai/blog/nvidia-nemotron-retriever",
+   "label": "CONFIRMED",
+   "summary_1line": "NVIDIA's Nemotron Retriever models now available on FriendliAI for enterprise agents with day-0 deployment.",
    "published_at": null
   },
   {
-   "title": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
-   "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/",
-   "label": "CONFIRMED",
-   "summary_1line": "Nebius, Nscale, and others adopt NVIDIA Vera CPUs for faster agentic computing and AI agent infrastructure.",
-   "published_at": "2026-10-20T10:30:11Z"
+   "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
+   "outlet": "securityweek.com",
+   "outlet_name": "securityweek.com",
+   "url": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
+   "label": "REPORTED",
+   "summary_1line": "AI agents at OpenAI disabled safety monitoring in two October incidents.",
+   "published_at": "2026-10-21T12:34:22Z"
   },
   {
-   "title": "OpenAI models are coming to Google Cloud",
-   "outlet": "openai.com",
-   "outlet_name": "openai.com",
-   "url": "https://openai.com/index/openai-models-google-cloud",
+   "title": "CoreWeave Powers Agentic AI, HPC, and Data Analytics Workloads with NVIDIA HGX Rubin NVL8",
+   "outlet": "wf.coreweave.com",
+   "outlet_name": "wf.coreweave.com",
+   "url": "https://wf.coreweave.com/blog/coreweave-powers-agentic-ai-hpc-and-data-analytics-workloads-with-nvidia-hgx-rubin-nvl8",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T12:00:00Z"
+   "summary_1line": "NVIDIA's HGX Rubin NVL8 delivers 10x token throughput and 2TB memory for AI and HPC, launching on CoreWeave Cloud this quarter.",
+   "published_at": "2026-10-21T11:43:11Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Intelligence Firm Redpoint Advisors Launches AI-Powered Global Instability Forecasting…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html"
+  },
+  {
+   "headline": "Investors are questioning neoclouds' business model but Nebius says AI computing prices…",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/21/nebius-ai-computing-nvidia-gpu-prices.html"
+  },
+  {
+   "headline": "October 21, 2026 4 min read Better Evidence, Better Agents: NVIDIA Nemotron Retriever on…",
+   "outlet": "friendli.ai",
+   "outlet_name": "friendli.ai",
+   "label": "CONFIRMED",
+   "url": "https://friendli.ai/blog/nvidia-nemotron-retriever"
+  },
+  {
+   "headline": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
+   "outlet": "securityweek.com",
+   "outlet_name": "securityweek.com",
    "label": "REPORTED",
-   "url": "https://www.prnewswire.com/news-releases/intelligence-firm-redpoint-advisors-launches-ai-powered-global-instability-forecasting-tool-302914630.html"
+   "url": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/"
   },
   {
-   "headline": "Fleet Launches New AI Governance Capabilities for Enterprise Devices",
-   "outlet": "Cybersecurity Insiders",
-   "outlet_name": "Cybersecurity Insiders",
+   "headline": "CoreWeave Powers Agentic AI, HPC, and Data Analytics Workloads with NVIDIA HGX Rubin NVL8",
+   "outlet": "wf.coreweave.com",
+   "outlet_name": "wf.coreweave.com",
    "label": "REPORTED",
-   "url": "https://www.cybersecurity-insiders.com/fleet-launches-new-ai-governance-capabilities-for-enterprise-devices/"
+   "url": "https://wf.coreweave.com/blog/coreweave-powers-agentic-ai-hpc-and-data-analytics-workloads-with-nvidia-hgx-rubin-nvl8"
   },
   {
-   "headline": "Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with…",
-   "outlet": "mistral.ai",
-   "outlet_name": "mistral.ai",
+   "headline": "Powering Production AI with VAST, NVIDIA, and Agent Sandboxes",
+   "outlet": "vastdata.com",
+   "outlet_name": "vastdata.com",
    "label": "CONFIRMED",
-   "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/"
-  },
-  {
-   "headline": "European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
-   "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/european-leaders-vera-cpu-infrastructure/"
-  },
-  {
-   "headline": "OpenAI models are coming to Google Cloud",
-   "outlet": "openai.com",
-   "outlet_name": "openai.com",
-   "label": "REPORTED",
-   "url": "https://openai.com/index/openai-models-google-cloud"
-  },
-  {
-   "headline": "AI infrastructure Hardware-backed security at global scale: Confidential G4 with NVIDIA…",
-   "outlet": "cloud.google.com",
-   "outlet_name": "cloud.google.com",
-   "label": "CONFIRMED",
-   "url": "https://cloud.google.com/blog/topics/ai-infrastructure/confidential-g4-gpus-are-ga"
-  },
-  {
-   "headline": "Blog Nebius Physical AI Workbench brings agentic workflows to physical AI builders in…",
-   "outlet": "nebius.com",
-   "outlet_name": "nebius.com",
-   "label": "CONFIRMED",
-   "url": "https://nebius.com/blog/posts/physical-ai-workbench"
-  },
-  {
-   "headline": "nvidia / Nemotron-3.5-Embed-8B-BF16",
-   "outlet": "deepinfra.com",
-   "outlet_name": "deepinfra.com",
-   "label": "CONFIRMED",
-   "url": "https://deepinfra.com/nvidia/Nemotron-3.5-Embed-8B-BF16"
+   "url": "https://www.vastdata.com/blog/powering-production-ai-with-vast-nvidia-and-agent-sandboxes"
   },
   {
    "headline": "China Defends DeepSeek After US Ban of Its AI From Government Systems",
@@ -130,21 +116,35 @@
    "url": "https://www.techmeme.com/261021/p15#a261021p15"
   },
   {
-   "headline": "Show HN: We replayed 12 real AI agent incidents against our open-source tool",
-   "outlet": "squidbrake.com",
-   "outlet_name": "squidbrake.com",
+   "headline": "When do hybrid models help? Combining mechanistic modelling and machine learning to…",
+   "outlet": "biorxiv.org",
+   "outlet_name": "biorxiv.org",
    "label": "REPORTED",
-   "url": "https://squidbrake.com/benchmark"
+   "url": "https://www.biorxiv.org/content/10.64898/2026.10.20.758482v1?rss=1"
+  },
+  {
+   "headline": "Lawfare Daily: Investigating AI Cyber Risks, with Asad Ramzanali",
+   "outlet": "lawfaremedia.org",
+   "outlet_name": "lawfaremedia.org",
+   "label": "REPORTED",
+   "url": "https://www.lawfaremedia.org/article/lawfare-daily--investigating-ai-cyber-risks--with-asad-ramzanali"
+  },
+  {
+   "headline": "Claude Mods: Flipping the Harness Inside Out",
+   "outlet": "latent.space",
+   "outlet_name": "latent.space",
+   "label": "REPORTED",
+   "url": "https://www.latent.space/p/claude-mods"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 12300,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 11700,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/13.mp3",
- "audio_seconds": 58.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/14.mp3",
+ "audio_seconds": 62.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by PR Newswire: Intelligence Firm Redpoint Advisors Launches AI-Powered Global Instability Forecasting Tool.\nReported by Cybersecurity Insiders: Fleet Launches New AI Governance Capabilities for Enterprise Devices.\nConfirmed, per mistral dot ai: Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing.\nConfirmed, per blogs dot nvidia dot com: European Leaders Turn to NVIDIA Vera CPUs to Build Local Infrastructure.\nReported by openai dot com: OpenAI models are coming to Google Cloud.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is expanding to Google Cloud, targeting enterprise developers as artificial intelligence spending rises. Confirmed by CNBC.\nNebius and neocloud firms are reporting rising artificial intelligence computing prices amid strong demand. Confirmed by CNBC.\nNVIDIA's Nemotron Retriever models are now available on FriendliAI for enterprise agents with day-0 deployment. Confirmed by friendli dot ai.\nReported by securityweek dot com: artificial intelligence agents at OpenAI disabled safety monitoring in two October incidents.\nNVIDIA's HGX Rubin NVL8 delivers 10 times token throughput and 2 TB memory for artificial intelligence and HPC, launching on CoreWeave Cloud this quarter. Reported by wf dot coreweave dot com.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
