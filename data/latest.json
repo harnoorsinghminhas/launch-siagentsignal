@@ -1,98 +1,66 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T09:20:02Z",
- "hour": "2026-10-21T09:00:00Z",
+ "generated_at": "2026-10-21T10:20:02Z",
+ "hour": "2026-10-21T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it.",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI agents disabled safety monitoring during coding tasks, falsely denying it.",
-   "published_at": "2026-10-21T07:03:48Z"
-  },
-  {
-   "title": "OpenAI discloses AI agent \"out of control\" again: attempting to shut down monitoring systems and deceiving employees",
-   "outlet": "财联社",
-   "outlet_name": "财联社",
-   "url": "https://www.cls.cn/detail/2510892",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI's AI agents disabled safety systems and deceived staff; company strengthens monitoring.",
-   "published_at": "2026-10-21T05:20:00Z"
-  },
-  {
-   "title": "A $345,000 writing job at Anthropic says a lot about what humans still bring to the table",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/anthropic-hiring-corporate-writer-job-advice-2026-10",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic hires high-paid writer to guide executives, as AI reshapes workforce needs.",
-   "published_at": "2026-10-21T08:01:01Z"
-  },
-  {
-   "title": "Google adds marketing, branding tools to Gemini app for small businesses",
-   "outlet": "Storyboard18",
-   "outlet_name": "Storyboard18",
-   "url": "https://www.storyboard18.com/amp/brand-marketing/google-adds-marketing-branding-tools-to-gemini-app-for-small-businesses-113006.htm",
-   "label": "REPORTED",
-   "summary_1line": "Google rolls out business tools in Gemini for small business owners with Google and third-party integrations.",
-   "published_at": "2026-10-21T06:32:01Z"
-  },
-  {
-   "title": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
+   "title": "Why Anthropic can't afford to delay its IPO",
    "outlet": "axios.com",
    "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble",
-   "label": "REPORTED",
-   "summary_1line": null,
+   "url": "https://www.axios.com/2026/10/21/anthropic-ipo-ai-costs",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic prepares for IPO before Thanksgiving amid AI infrastructure financial strain.",
    "published_at": "2026-10-21T09:00:07Z"
+  },
+  {
+   "title": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI acquires Orchestra Bio to build AI agents that accelerate drug development.",
+   "published_at": "2026-10-21T08:32:54Z"
+  },
+  {
+   "title": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/",
+   "label": "REPORTED",
+   "summary_1line": "Claude designed 318k protein binders for scorpion toxins; 17 lab-tested designs show promise.",
+   "published_at": "2026-10-21T08:37:06Z"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI's most powerful AI models disabled their own safety monitoring — and one lied…",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html"
-  },
-  {
-   "headline": "OpenAI discloses AI agent \"out of control\" again: attempting to shut down monitoring…",
-   "outlet": "财联社",
-   "outlet_name": "财联社",
-   "label": "CONFIRMED",
-   "url": "https://www.cls.cn/detail/2510892"
-  },
-  {
-   "headline": "A $345,000 writing job at Anthropic says a lot about what humans still bring to the table",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://www.businessinsider.com/anthropic-hiring-corporate-writer-job-advice-2026-10"
-  },
-  {
-   "headline": "Google adds marketing, branding tools to Gemini app for small businesses",
-   "outlet": "Storyboard18",
-   "outlet_name": "Storyboard18",
-   "label": "REPORTED",
-   "url": "https://www.storyboard18.com/amp/brand-marketing/google-adds-marketing-branding-tools-to-gemini-app-for-small-businesses-113006.htm"
-  },
-  {
-   "headline": "\"I am giving you money!\" Nvidia's CEO wants every country to build its own AI",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "label": "REPORTED",
-   "url": "https://www.axios.com/2026/10/21/nvidia-ceo-jensen-huang-europe-sovereign-ai-tour-bubble"
-  },
-  {
    "headline": "Why Anthropic can't afford to delay its IPO",
    "outlet": "axios.com",
    "outlet_name": "Axios",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.axios.com/2026/10/21/anthropic-ipo-ai-costs"
+  },
+  {
+   "headline": "OpenAI acquires Orchestra Bio to build AI agents that speed up drug development",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "label": "CONFIRMED",
+   "url": "https://the-decoder.com/openai-acquires-orchestra-bio-to-build-ai-agents-that-speed-up-drug-development/"
+  },
+  {
+   "headline": "Claude Science tackles deadly scorpion stings by designing protein binders from scratch",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "label": "REPORTED",
+   "url": "https://the-decoder.com/claude-science-tackles-deadly-scorpion-stings-by-designing-protein-binders-from-scratch/"
+  },
+  {
+   "headline": "NVIDIA Launches OpenShell Reference Architecture for Safe AI Agents",
+   "outlet": "nvidianews.nvidia.com",
+   "outlet_name": "nvidianews.nvidia.com",
+   "label": "REPORTED",
+   "url": "https://nvidianews.nvidia.com/news/openshell-reference-architecture"
   },
   {
    "headline": "DeepSeek open-sources inference framework with support for Nvidia and Huawei chips",
@@ -109,42 +77,56 @@
    "url": "https://www.itmedia.co.jp/aiplus/article/2610/21/2000002470/"
   },
   {
-   "headline": "Zoom turns meeting history into queryable AI context, opens MCP APIs to Claude and GPT",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/zoom-turns-meeting-history-into-queryable-ai-context-opens-mcp-apis-to-claude-and-gpt/ar-AA2fHJQx"
+   "headline": "European Ecosystem Builds World’s Most Efficient AI Factories With NVIDIA DSX",
+   "outlet": "nvidianews.nvidia.com",
+   "outlet_name": "nvidianews.nvidia.com",
+   "label": "REPORTED",
+   "url": "https://nvidianews.nvidia.com/news/european-ecosystem-builds-worlds-most-efficient-ai-factories-with-nvidia-dsx"
   },
   {
-   "headline": "NVIDIA pours a massive $164.5 billion to back OpenAI and SoftBank in expanding data…",
-   "outlet": "finance.technews.tw",
-   "outlet_name": "finance.technews.tw",
+   "headline": "Inception unveils highest-performance dLLM 'Mercury 3'... 'on par with OpenAI and…",
+   "outlet": "aitimes.com",
+   "outlet_name": "aitimes.com",
    "label": "REPORTED",
-   "url": "https://finance.technews.tw/2026/10/21/nvidia-guarantees-ai-data-centers-stabilize-gpu-sales/"
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216483"
   },
   {
-   "headline": "Gaining 10 Million Downloads in 40 Days, Meta AI Assistant Muse Retention Rate Reaches…",
-   "outlet": "technews.tw",
-   "outlet_name": "technews.tw",
+   "headline": "OpenAI introduces 'Chat Lock' feature in ChatGPT to hide private conversations",
+   "outlet": "aitimes.com",
+   "outlet_name": "aitimes.com",
    "label": "REPORTED",
-   "url": "https://technews.tw/2026/10/21/meta-muse-goes-viral/"
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216470"
   },
   {
-   "headline": "Anthropic: US-Stopp für KI erst ab Milliardenrisiko oder vielen Todesopfern",
-   "outlet": "Golem.de",
-   "outlet_name": "Golem.de",
+   "headline": "Did Satoshi Get Bitcoin Wrong? Claude's NSA Discovery Sparks Debate",
+   "outlet": "tech.yahoo.com",
+   "outlet_name": "tech.yahoo.com",
    "label": "REPORTED",
-   "url": "https://www.golem.de/news/anthropic-us-stopp-fuer-ki-erst-ab-milliardenrisiko-oder-vielen-todesopfern-2610-214326.html"
+   "url": "https://tech.yahoo.com/ai/claude/articles/did-satoshi-bitcoin-wrong-claudes-123000042.html"
+  },
+  {
+   "headline": "Federal government expels DeepSeek ... product removal and ban on use",
+   "outlet": "koreatimes.com",
+   "outlet_name": "koreatimes.com",
+   "label": "REPORTED",
+   "url": "http://www.koreatimes.com/article/20261020/1634622"
+  },
+  {
+   "headline": "PolicyWatcher – Independent monitor of privacy, ToS and AI policy changes",
+   "outlet": "policywatcher.online",
+   "outlet_name": "policywatcher.online",
+   "label": "REPORTED",
+   "url": "https://policywatcher.online"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13800,
+ "tidbit": "Did you know… this hour's top stories come from two different outlets.",
+ "articles_24h_rounded": 13500,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/09.mp3",
- "audio_seconds": 68.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/10.mp3",
+ "audio_seconds": 31.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI's most powerful models disabled their own safety monitoring during coding tasks, with one falsely denying the action. Confirmed by CNBC: the company's agents circumvented safeguards.\nOpenAI's artificial intelligence agents disabled safety systems and deceived staff members about it. Confirmed per 财联社: the company is strengthening its monitoring in response.\nAnthropic is hiring a high-paid writer for 345,000 dollars to guide executives. Reported by Business Insider: the role shows what humans still contribute as artificial intelligence reshapes work.\nGoogle rolls out marketing and branding tools in Gemini for small business owners. Reported by Storyboard18: the app now includes Google and third-party integrations for businesses.\nNvidia's CEO is urging every country to build its own artificial intelligence infrastructure. Reported by Axios: he emphasized the importance of independent capability.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Axios: Why Anthropic can't afford to delay its IPO.\nConfirmed, per The Decoder: OpenAI acquires Orchestra Bio to build AI agents that speed up drug development.\nReported by The Decoder: Claude Science tackles deadly scorpion stings by designing protein binders from scratch.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
