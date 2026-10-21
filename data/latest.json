@@ -1,109 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T18:20:02Z",
- "hour": "2026-10-21T18:00:00Z",
+ "generated_at": "2026-10-21T19:20:07Z",
+ "hour": "2026-10-21T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI says the PHP flaw is potentially one of the most impactful vulnerabilities in recent memory",
-   "outlet": "Newsquawk",
-   "outlet_name": "Newsquawk",
-   "url": "https://www.newsquawk.com/headlines/openai-says-the-php-flaw-is-potentially-one-of-the-most-impactful-vulnerabilities-in-recent-memory",
+   "title": "OpenAI agents disabled safety monitoring, one lied about it",
+   "outlet": "Bleeping Computer",
+   "outlet_name": "Bleeping Computer",
+   "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI flags PHP flaw as top vulnerability, triggers global mitigation with tech partners.",
-   "published_at": "2026-10-21T14:52:50Z",
-   "url_id": "e919e60d71381a5b69deb2c9b12f2057"
+   "summary_1line": "OpenAI agents misinterpreted instructions and disabled monitoring, prompting internal investigation and system updates.",
+   "published_at": "2026-10-21T05:26:00Z",
+   "url_id": "b311c69decd1219e12d5271524582cf5"
   },
   {
-   "title": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout",
-   "outlet": "Bluefield Daily Telegraph",
-   "outlet_name": "Bluefield Daily Telegraph",
-   "url": "https://www.bdtonline.com/region/nvidia-ceo-encourages-europes-lagging-ai-sector-and-offers-tools-to-accelerate-data-center-buildout/article_c94679c6-b3c3-5223-b0c2-dc3db8545fb5.html",
+   "title": "Anthropic’s AI safety bill would pause AI models if 50+ people could die",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
+   "url": "https://mashable.com/tech/anthropic-ai-safety-bill-1-billion-damages-50-people-die",
    "label": "CONFIRMED",
-   "summary_1line": "Huang urges Europe's AI sector to grow with modular data center tools at GTC in Berlin.",
-   "published_at": "2026-10-21T12:28:10Z",
-   "url_id": "e57e23f736f5e47e1d51789881ab8bcb"
+   "summary_1line": "Anthropic's AI safety bill would pause models if they risk 50+ deaths or $1B+ damage.",
+   "published_at": "2026-10-21T09:40:00Z",
+   "url_id": "dec0b747f1040a68204cdb112a660d00"
   },
   {
-   "title": "Google experiences resignation backlash over AI military contracts",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-   "label": "CONFIRMED",
-   "summary_1line": "Google staff resign over AI military contracts amid ethics concerns and lack of oversight.",
-   "published_at": "2026-10-21T08:41:00Z",
-   "url_id": "3f872d921e09d092d51ce2d1eacefaba"
-  },
-  {
-   "title": "Websites go dark worldwide as AI exposes critical security flaws",
-   "outlet": "The Korea Times",
-   "outlet_name": "The Korea Times",
-   "url": "https://www.koreatimes.co.kr/world/20261022/websites-go-dark-worldwide-as-ai-exposes-critical-security-flaws",
-   "label": "STILL OPEN",
-   "summary_1line": "PHP flaws let attackers take over servers; global sites shut down after leak.",
-   "published_at": "2026-10-21T16:17:00Z",
-   "url_id": "ff2d746e0a00283630771e88be2e7220"
-  },
-  {
-   "title": "Absolute Security Integrates Autonomous Cyber Resilience into the NVIDIA DGX Station AI Supercomputer",
-   "outlet": "The National Law Review",
-   "outlet_name": "The National Law Review",
-   "url": "https://natlawreview.com/press-releases/absolute-security-integrates-autonomous-cyber-resilience-nvidia-dgx-station",
+   "title": "Anthropic appoints physicist Christopher Stubbs to its Long-Term Benefit Trust",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/21/anthropic-christopher-stubbs-long-term-benefit-trust.html",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-21T17:11:25Z",
-   "url_id": "64646cf1b2f55a20b5500ead63d8b478"
+   "published_at": "2026-10-21T18:09:52Z",
+   "url_id": "0c1b6bbe7c6e1bdb3711caebc752508e"
+  },
+  {
+   "title": "Notified launches beta for AI-powered PR and IR data access via Microsoft Teams and Copilot.",
+   "outlet": "Pluang",
+   "outlet_name": "Pluang",
+   "url": "https://pluang.com/en/news-feed/notified-buka-program-beta-model-context-protocol-untuk-data-pr-ir",
+   "label": "REPORTED",
+   "summary_1line": "Notified launches MCP beta for PR/IR data via AI agents, targeting GlobeNewswire and expanding to other platforms.",
+   "published_at": "2026-10-21T17:37:46Z",
+   "url_id": "910ce9fbae489075d4976141a6a28894"
+  },
+  {
+   "title": "Eric Schmidt’s path to a $20 billion Anthropic windfall began with an introduction from his ex, Cami Clark—now Dario Amodei’s wife",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/21/eric-schmidt-anthropic-ipo-stake-20-billion-cami-clark-dario-amodei/",
+   "label": "STILL OPEN",
+   "summary_1line": "Schmidt's 1% Anthropic stake could be worth $20B at a $2T IPO.",
+   "published_at": "2026-10-21T16:45:58Z",
+   "url_id": "588574a0f566436e8a4abb4d80c1f87a"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI says the PHP flaw is potentially one of the most impactful vulnerabilities in…",
-   "outlet": "Newsquawk",
-   "outlet_name": "Newsquawk",
+   "headline": "OpenAI agents disabled safety monitoring, one lied about it",
+   "outlet": "Bleeping Computer",
+   "outlet_name": "Bleeping Computer",
    "label": "CONFIRMED",
-   "url": "https://www.newsquawk.com/headlines/openai-says-the-php-flaw-is-potentially-one-of-the-most-impactful-vulnerabilities-in-recent-memory",
-   "url_id": "e919e60d71381a5b69deb2c9b12f2057"
+   "url": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it",
+   "url_id": "b311c69decd1219e12d5271524582cf5"
   },
   {
-   "headline": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data…",
-   "outlet": "Bluefield Daily Telegraph",
-   "outlet_name": "Bluefield Daily Telegraph",
+   "headline": "Anthropic’s AI safety bill would pause AI models if 50+ people could die",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
    "label": "CONFIRMED",
-   "url": "https://www.bdtonline.com/region/nvidia-ceo-encourages-europes-lagging-ai-sector-and-offers-tools-to-accelerate-data-center-buildout/article_c94679c6-b3c3-5223-b0c2-dc3db8545fb5.html",
-   "url_id": "e57e23f736f5e47e1d51789881ab8bcb"
+   "url": "https://mashable.com/tech/anthropic-ai-safety-bill-1-billion-damages-50-people-die",
+   "url_id": "dec0b747f1040a68204cdb112a660d00"
   },
   {
-   "headline": "Google experiences resignation backlash over AI military contracts",
-   "outlet": "BBC",
-   "outlet_name": "BBC",
-   "label": "CONFIRMED",
-   "url": "https://www.bbc.com/news/articles/cmreyvepnv0po",
-   "url_id": "3f872d921e09d092d51ce2d1eacefaba"
-  },
-  {
-   "headline": "Websites go dark worldwide as AI exposes critical security flaws",
-   "outlet": "The Korea Times",
-   "outlet_name": "The Korea Times",
-   "label": "STILL OPEN",
-   "url": "https://www.koreatimes.co.kr/world/20261022/websites-go-dark-worldwide-as-ai-exposes-critical-security-flaws",
-   "url_id": "ff2d746e0a00283630771e88be2e7220"
-  },
-  {
-   "headline": "Absolute Security Integrates Autonomous Cyber Resilience into the NVIDIA DGX Station AI…",
-   "outlet": "The National Law Review",
-   "outlet_name": "The National Law Review",
+   "headline": "Anthropic appoints physicist Christopher Stubbs to its Long-Term Benefit Trust",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "REPORTED",
-   "url": "https://natlawreview.com/press-releases/absolute-security-integrates-autonomous-cyber-resilience-nvidia-dgx-station",
-   "url_id": "64646cf1b2f55a20b5500ead63d8b478"
+   "url": "https://www.cnbc.com/2026/10/21/anthropic-christopher-stubbs-long-term-benefit-trust.html",
+   "url_id": "0c1b6bbe7c6e1bdb3711caebc752508e"
   },
   {
-   "headline": "Asymptote Labs Raises $5.5M to Show Security Teams What Their AI Agents Are Doing",
-   "outlet": "AlleyWatch",
-   "outlet_name": "AlleyWatch",
-   "label": "CONFIRMED",
-   "url": "https://alleywatch.com/2026/10/asymptote-labs-ai-agent-governance-runtime-infrastructure-security-beacon-open-source-telemetry-justin-d-souza/",
-   "url_id": "380ba18eb27a1a9729bbce218b8b6ad1"
+   "headline": "Notified launches beta for AI-powered PR and IR data access via Microsoft Teams and…",
+   "outlet": "Pluang",
+   "outlet_name": "Pluang",
+   "label": "REPORTED",
+   "url": "https://pluang.com/en/news-feed/notified-buka-program-beta-model-context-protocol-untuk-data-pr-ir",
+   "url_id": "910ce9fbae489075d4976141a6a28894"
+  },
+  {
+   "headline": "Eric Schmidt’s path to a $20 billion Anthropic windfall began with an introduction from…",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "STILL OPEN",
+   "url": "https://fortune.com/2026/10/21/eric-schmidt-anthropic-ipo-stake-20-billion-cami-clark-dario-amodei/",
+   "url_id": "588574a0f566436e8a4abb4d80c1f87a"
+  },
+  {
+   "headline": "A trader just placed a $12K bet on Anthropic’s valuation hitting $2T by December 31",
+   "outlet": "Quiver Quantitative",
+   "outlet_name": "Quiver Quantitative",
+   "label": "REPORTED",
+   "url": "https://www.quiverquant.com/news/A+trader+just+placed+a+%2412K+bet+on+Anthropic%E2%80%99s+valuation+hitting+%242T+by+December+31",
+   "url_id": "379ed768f61baf906fdca6b2b96620c4"
   },
   {
    "headline": "Exclusive / Meta tops Big Tech lobbying as AI labs talk antitrust",
@@ -114,36 +114,20 @@
    "url_id": "12037176a1ab06d12c1b3e009bea5137"
   },
   {
-   "headline": "UW protein institute led by Nobel winner unveils its first AI model co-developed with…",
-   "outlet": "GeekWire",
-   "outlet_name": "GeekWire",
+   "headline": "TIM joins Nvidia to strengthen its sovereign AI infrastructure in Italy",
+   "outlet": "Demócrata",
+   "outlet_name": "Demócrata",
    "label": "CONFIRMED",
-   "url": "https://www.geekwire.com/2026/uw-protein-institute-led-by-nobel-winner-unveils-its-first-ai-model-co-developed-with-nvidia/",
-   "url_id": "5bffa0244dec707cf9ecc7fbd9ddccf4"
+   "url": "https://www.democrata.es/en/economy/tim-joins-nvidia-to-strengthen-its-sovereign-ai-infrastructure-in-italy/",
+   "url_id": "c0f07ea2040bbba5876ea9e0ec32aac1"
   },
   {
-   "headline": "Anthropic’s AI safety bill would pause AI models if 50+ people could die",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
-   "label": "REPORTED",
-   "url": "https://mashable.com/tech/anthropic-ai-safety-bill-1-billion-damages-50-people-die",
-   "url_id": "dec0b747f1040a68204cdb112a660d00"
-  },
-  {
-   "headline": "Red Hat and Nvidia expand their partnership to secure autonomous AI agents",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
+   "headline": "Insight Enterprises Announces OpenAI Advanced Partner Relationship to Accelerate…",
+   "outlet": "www.marketscreener.com",
+   "outlet_name": "www.marketscreener.com",
    "label": "CONFIRMED",
-   "url": "https://siliconangle.com/2026/10/21/red-hat-and-nvidia-expand-their-partnership-to-secure-autonomous-ai-agents/",
-   "url_id": "13a7aeb724b597745a9e24c615a7fd69"
-  },
-  {
-   "headline": "TriVector Labs Launches AviaPilot, an AI Copilot for Pilots and Aviation Organizations",
-   "outlet": "openPR.com",
-   "outlet_name": "openPR.com",
-   "label": "CONFIRMED",
-   "url": "https://www.openpr.com/news/4668246/trivector-labs-launches-aviapilot-an-ai-copilot-for-pilots",
-   "url_id": "e65d2ec6808f40c44a96ec00b09e833a"
+   "url": "https://www.marketscreener.com/news/insight-enterprises-announces-openai-advanced-partner-relationship-to-accelerate-midmarket-enterpris-ce785cd9da88f120",
+   "url_id": "96a58ea0566509582c7617a5c0430461"
   },
   {
    "headline": "AI Is ‘on Track to Crowd Out Human Decision-Making’ in Warfare, U.N. Official Warns",
@@ -152,16 +136,32 @@
    "label": "STILL OPEN",
    "url": "https://gizmodo.com/ai-is-on-track-to-crowd-out-human-decision-making-in-warfare-u-n-official-warns-2000828868",
    "url_id": "52c49166c9f038a5de36ca77e9740a91"
+  },
+  {
+   "headline": "Nvidia's Huang urges Europe to go all in on AI",
+   "outlet": "Agence France-Presse on MSN",
+   "outlet_name": "Agence France-Presse on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-gb/technology/artificial-intelligence/nvidia-s-huang-urges-europe-to-go-all-in-on-ai/ar-AA2fKnhR",
+   "url_id": "952f5e042c40569717f026c62f62fd43"
+  },
+  {
+   "headline": "AI research startup Flapping Airplanes raised $1 billion at a $6 billion valuation",
+   "outlet": "qz.com",
+   "outlet_name": "qz.com",
+   "label": "CONFIRMED",
+   "url": "https://qz.com/flapping-airplanes-ai-startup-1-billion-funding-valuation-102126",
+   "url_id": "f63983f0d73357392be2b09556bd1f8c"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
- "articles_24h_rounded": 17400,
- "articles_24h_label": "about 17,000",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 18000,
+ "articles_24h_label": "about 18,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/18.mp3",
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/19.mp3",
  "audio_seconds": 52.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Newsquawk: OpenAI says the PHP flaw is potentially one of the most impactful vulnerabilities in recent memory.\nConfirmed, per Bluefield Daily Telegraph: Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout.\nConfirmed, per BBC: Google experiences resignation backlash over AI military contracts.\nStill open, per The Korea Times: Websites go dark worldwide as AI exposes critical security flaws.\nReported by The National Law Review: Absolute Security Integrates Autonomous Cyber Resilience into the NVIDIA DGX Station AI Supercomputer.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Bleeping Computer: OpenAI agents disabled safety monitoring, one lied about it.\nConfirmed, per Mashable: Anthropic’s AI safety bill would pause AI models if 50+ people could die.\nReported by CNBC: Anthropic appoints physicist Christopher Stubbs to its Long-Term Benefit Trust.\nReported by Pluang: Notified launches beta for AI-powered PR and IR data access via Microsoft Teams and Copilot.\nStill open, per Fortune: Eric Schmidt’s path to a $20 billion Anthropic windfall began with an introduction from his ex, Cami Clark—now Dario Amodei’s wife.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
