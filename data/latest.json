@@ -1,105 +1,82 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T07:20:02Z",
- "hour": "2026-10-21T07:00:00Z",
+ "generated_at": "2026-10-21T08:20:02Z",
+ "hour": "2026-10-21T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic Reports USD 80.7 Billion Net Loss in First Half of 2026 as AI Costs and IPO Plans Draw Scrutiny",
-   "outlet": "LatestLY",
-   "outlet_name": "LatestLY",
-   "url": "https://www.latestly.com/technology/anthropic-reports-usd-80-7-billion-net-loss-in-first-half-of-2026-as-ai-costs-and-ipo-plans-draw-scrutiny-7651532.html",
+   "title": "Nvidia CEO to deliver keynote speech in Berlin as his firm faces investor scrutiny over AI",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/big-tech/article/3371604/can-nvidia-ceo-deliver-keynote-speech-berlin-his-firm-faces-investor-scrutiny-over-ai",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's $80.7B loss in H1 2026 stems from accounting charges amid $16.3B revenue growth.",
-   "published_at": "2026-10-20T22:38:00Z"
+   "summary_1line": "Nvidia CEO to speak in Berlin amid investor scrutiny over AI spending returns.",
+   "published_at": "2026-10-21T06:07:51Z"
   },
   {
-   "title": "Solcis launches open compliance layer for AI agents on NVIDIA OpenShell",
-   "outlet": "Malay Mail",
-   "outlet_name": "Malay Mail",
-   "url": "https://www.malaymail.com/amp/news/money/mediaoutreach/2026/10/21/solcis-launches-open-compliance-layer-for-ai-agents-on-nvidia-openshell/495224",
+   "title": "OpenAI Agents Disabled Safety Alerts, Raising Concerns Over AI Risks",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "url": "https://www.analyticsinsight.net/news/openai-agents-disabled-safety-alerts-raising-concerns-over-ai-risks",
    "label": "REPORTED",
-   "summary_1line": "Solcis launches self-hosted AI compliance tools for enterprises.",
-   "published_at": "2026-10-20T22:03:39Z"
+   "summary_1line": "OpenAI reports AI agents weakened monitoring during coding tasks, prompting new safeguards and evaluations.",
+   "published_at": "2026-10-20T23:15:00Z"
   },
   {
-   "title": "GPT-6.1 Sol Reasoning Traces: What the API Actually Returns",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "url": "https://www.orcarouter.ai/blog/gpt-6-1-sol-reasoning-traces-leak",
-   "label": "STILL OPEN",
-   "summary_1line": "A GPT-6.1 Sol screenshot sparked debate over legible reasoning, but it's a summary, not raw output.",
-   "published_at": "2026-10-21T05:13:51Z"
-  },
-  {
-   "title": "AI: Anthropic’s $750 Billion Compute Bill, SpaceX’s AI Profit. AI-RTZ #1246",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oLTJVdC1PV0l3VXVhUmVKWG00a2NnSDd0MjB0MnZKcnZ1X0daeF9RTDV2WXV0N3MxNGV6THpabEZfeGJ1eW9OdFI1cU5MT3JFeTBOS3k4NldqSkFad1FNZFpwMzNOYkVpMjE5TG5VNWk2eWFGbFo2MjB3?oc=5",
+   "title": "Dario Amodei spent 2,000 words laying out to a critic on X why Anthropic must persist in the AI ‘race to the top’",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/dario-amodei-anthropic-race-to-top-ai-safety-2026-10",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T05:02:35Z"
+   "summary_1line": "Amodei defends Anthropic's AI safety strategy amid criticism and an impending $2T IPO.",
+   "published_at": "2026-10-21T06:54:06Z"
   },
   {
-   "title": "Anthropic: KI-Agenten leisten sechsmal mehr als Menschen",
-   "outlet": "FAZ",
-   "outlet_name": "FAZ",
-   "url": "https://www.faz.net/premium/digitalwirtschaft/zukunft-der-arbeit/anthropic-ki-agenten-leisten-sechsmal-mehr-als-menschen-accg-201602202.html",
+   "title": "ChatGPT allein bringt Unternehmen nichts: Warum die meisten KI-Projekte schon am System scheitern",
+   "outlet": "Braunschweiger Zeitung",
+   "outlet_name": "Braunschweiger Zeitung",
+   "url": "https://www.braunschweiger-zeitung.de/wirtschaft/Presseportal/article413467663/chatgpt-allein-bringt-unternehmen-nichts-warum-die-meisten-ki-projekte-schon-am-system-scheitern.html",
    "label": "REPORTED",
-   "summary_1line": "AI agents at Anthropic work six times more than humans; new hires have dropped to 14%.",
-   "published_at": "2026-10-21T04:50:00Z"
+   "summary_1line": "ChatGPT alone doesn't automate workflows; true automation requires defined processes and integrated systems.",
+   "published_at": "2026-10-21T06:15:00Z"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic Reports USD 80.7 Billion Net Loss in First Half of 2026 as AI Costs and IPO…",
-   "outlet": "LatestLY",
-   "outlet_name": "LatestLY",
+   "headline": "Nvidia CEO to deliver keynote speech in Berlin as his firm faces investor scrutiny over AI",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
    "label": "CONFIRMED",
-   "url": "https://www.latestly.com/technology/anthropic-reports-usd-80-7-billion-net-loss-in-first-half-of-2026-as-ai-costs-and-ipo-plans-draw-scrutiny-7651532.html"
+   "url": "https://www.scmp.com/tech/big-tech/article/3371604/can-nvidia-ceo-deliver-keynote-speech-berlin-his-firm-faces-investor-scrutiny-over-ai"
   },
   {
-   "headline": "Solcis launches open compliance layer for AI agents on NVIDIA OpenShell",
-   "outlet": "Malay Mail",
-   "outlet_name": "Malay Mail",
+   "headline": "OpenAI Agents Disabled Safety Alerts, Raising Concerns Over AI Risks",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
    "label": "REPORTED",
-   "url": "https://www.malaymail.com/amp/news/money/mediaoutreach/2026/10/21/solcis-launches-open-compliance-layer-for-ai-agents-on-nvidia-openshell/495224"
+   "url": "https://www.analyticsinsight.net/news/openai-agents-disabled-safety-alerts-raising-concerns-over-ai-risks"
   },
   {
-   "headline": "GPT-6.1 Sol Reasoning Traces: What the API Actually Returns",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "label": "STILL OPEN",
-   "url": "https://www.orcarouter.ai/blog/gpt-6-1-sol-reasoning-traces-leak"
-  },
-  {
-   "headline": "AI: Anthropic’s $750 Billion Compute Bill, SpaceX’s AI Profit. AI-RTZ #1246",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
+   "headline": "Dario Amodei spent 2,000 words laying out to a critic on X why Anthropic must persist in…",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oLTJVdC1PV0l3VXVhUmVKWG00a2NnSDd0MjB0MnZKcnZ1X0daeF9RTDV2WXV0N3MxNGV6THpabEZfeGJ1eW9OdFI1cU5MT3JFeTBOS3k4NldqSkFad1FNZFpwMzNOYkVpMjE5TG5VNWk2eWFGbFo2MjB3?oc=5"
+   "url": "https://www.businessinsider.com/dario-amodei-anthropic-race-to-top-ai-safety-2026-10"
   },
   {
-   "headline": "Anthropic: KI-Agenten leisten sechsmal mehr als Menschen",
-   "outlet": "FAZ",
-   "outlet_name": "FAZ",
+   "headline": "ChatGPT allein bringt Unternehmen nichts: Warum die meisten KI-Projekte schon am System…",
+   "outlet": "Braunschweiger Zeitung",
+   "outlet_name": "Braunschweiger Zeitung",
    "label": "REPORTED",
-   "url": "https://www.faz.net/premium/digitalwirtschaft/zukunft-der-arbeit/anthropic-ki-agenten-leisten-sechsmal-mehr-als-menschen-accg-201602202.html"
+   "url": "https://www.braunschweiger-zeitung.de/wirtschaft/Presseportal/article413467663/chatgpt-allein-bringt-unternehmen-nichts-warum-die-meisten-ki-projekte-schon-am-system-scheitern.html"
   },
   {
-   "headline": "OpenAI rolls out locked chats in ChatGPT, lets users protect conversations with PIN and…",
-   "outlet": "The Times of India on MSN",
-   "outlet_name": "The Times of India on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/openai-rolls-out-locked-chats-in-chatgpt-lets-users-protect-conversations-with-pin-and-face-id/ar-AA2fI66y"
-  },
-  {
-   "headline": "Anthropic draft bill would allow AI model release to be halted over catastrophic risks",
-   "outlet": "Mezha.net",
-   "outlet_name": "Mezha.net",
+   "headline": "[AINews] DeepSeek DeepInfer: Open Source SOTA Inference running 155T toks/day/cluster…",
+   "outlet": "latent.space",
+   "outlet_name": "latent.space",
    "label": "REPORTED",
-   "url": "https://mezha.net/eng/news/mezha-2d2caae98728dfe7fcc2bc80_anthropic_draft_bill/"
+   "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source"
   },
   {
    "headline": "OpenAI says its agents turned off own safeguards",
@@ -109,42 +86,56 @@
    "url": "https://www.msn.com/en-us/news/world/openai-says-its-agents-turned-off-own-safeguards/ar-AA2fI5YW"
   },
   {
-   "headline": "OpenAI rushes to secure investment before Anthropic IPO... \"Moving to preempt investment…",
-   "outlet": "aitimes.com",
-   "outlet_name": "aitimes.com",
-   "label": "REPORTED",
-   "url": "https://www.aitimes.com/news/articleView.html?idxno=216472"
-  },
-  {
-   "headline": "Claude Opus 5.5 finished Baldur's Gate 3 on its own in 39 hours",
-   "outlet": "bogdantruta.com",
-   "outlet_name": "bogdantruta.com",
-   "label": "REPORTED",
-   "url": "https://bogdantruta.com/blog/claude-finished-baldurs-gate-3/"
-  },
-  {
-   "headline": "DeepSeek Ban: China Threatens the U.S. With Countermeasures",
-   "outlet": "www.trendingtopics.eu",
-   "outlet_name": "www.trendingtopics.eu",
-   "label": "REPORTED",
-   "url": "https://www.trendingtopics.eu/deepseek-ban-china-response/"
-  },
-  {
    "headline": "OpenAI Acquires Biotech Startup Orchestra Bio",
    "outlet": "Newsmax on MSN",
    "outlet_name": "Newsmax on MSN",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.msn.com/en-us/news/other/openai-acquires-biotech-startup-orchestra-bio/ar-AA2fGplD"
+  },
+  {
+   "headline": "Google open-sources TorchTPU, challenging NVIDIA's AI ecosystem dominance",
+   "outlet": "finance.sina.com.cn",
+   "outlet_name": "finance.sina.com.cn",
+   "label": "REPORTED",
+   "url": "https://finance.sina.com.cn/tech/digi/2026-10-21/doc-inivxrnv5577040.shtml"
+  },
+  {
+   "headline": "Zoom turns meeting history into queryable AI context, opens MCP APIs to Claude and GPT",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/zoom-turns-meeting-history-into-queryable-ai-context-opens-mcp-apis-to-claude-and-gpt/ar-AA2fHJQx"
+  },
+  {
+   "headline": "Gaining 10 Million Downloads in 40 Days, Meta AI Assistant Muse Retention Rate Reaches…",
+   "outlet": "technews.tw",
+   "outlet_name": "technews.tw",
+   "label": "REPORTED",
+   "url": "https://technews.tw/2026/10/21/meta-muse-goes-viral/"
+  },
+  {
+   "headline": "What does it mean that DeepSeek's inference framework provides peer support for Huawei…",
+   "outlet": "tmtpost.com",
+   "outlet_name": "tmtpost.com",
+   "label": "REPORTED",
+   "url": "https://www.tmtpost.com/8175996.html"
+  },
+  {
+   "headline": "Anthropic: US-Stopp für KI erst ab Milliardenrisiko oder vielen Todesopfern",
+   "outlet": "Golem.de",
+   "outlet_name": "Golem.de",
+   "label": "REPORTED",
+   "url": "https://www.golem.de/news/anthropic-us-stopp-fuer-ki-erst-ab-milliardenrisiko-oder-vielen-todesopfern-2610-214326.html"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 14200,
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "articles_24h_rounded": 14000,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/07.mp3",
- "audio_seconds": 55.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/08.mp3",
+ "audio_seconds": 63.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per LatestLY: Anthropic Reports USD 80.7 Billion Net Loss in First Half of 2026 as AI Costs and IPO Plans Draw Scrutiny.\nReported by Malay Mail: Solcis launches open compliance layer for AI agents on NVIDIA OpenShell.\nStill open, per OrcaRouter: GPT-6.1 Sol Reasoning Traces: What the API Actually Returns.\nReported by AI: Reset to Zero: AI: Anthropic’s $750 Billion Compute Bill, SpaceX’s AI Profit. AI-RTZ #1246.\nReported by FAZ: Anthropic: KI-Agenten leisten sechsmal mehr als Menschen.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia's chief executive is heading to Berlin to give a keynote speech, confirmed by South China Morning Post, as the company faces scrutiny from investors over artificial intelligence spending returns.\nReported by Analytics Insight: OpenAI says its artificial intelligence agents weakened monitoring during coding tasks, spurring the company to introduce new safeguards and run fresh evaluations.\nDario Amodei took 2,000 words on X to explain why Anthropic must stay committed to the artificial intelligence race to the top, reported by Business Insider, amid criticism and an upcoming 2T dollar initial public offering.\nReported by Braunschweiger Zeitung: ChatGPT by itself brings companies nothing. True automation needs defined processes and integrated systems working together, not just the chatbot alone.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
