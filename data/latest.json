@@ -1,109 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T17:20:05Z",
- "hour": "2026-10-22T17:00:00Z",
+ "generated_at": "2026-10-22T18:20:06Z",
+ "hour": "2026-10-22T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
+   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI tests third-party access to its AI monitoring system, patching novel vulnerabilities in a pilot with METR and Redwood.",
-   "published_at": "2026-10-22T15:35:50Z",
-   "url_id": "213739e869004ba7bc6e2a5d3a126cbb"
+   "summary_1line": "AI firms spent record amounts lobbying on safety, cybersecurity, and policy ahead of midterms.",
+   "published_at": "2026-10-22T15:50:30Z",
+   "url_id": "8907d183a6a5f1235ac8f24ec3f2c217"
   },
   {
-   "title": "DeepSeek raises $15 billion — doubling its own target, days after US restrictions",
-   "outlet": "The Tech Portal",
-   "outlet_name": "The Tech Portal",
-   "url": "https://thetechportal.com/2026/10/22/deepseek-raises-15-billion-doubling-its-own-target-days-after-us-restrictions/",
+   "title": "AI safety group METR finds flaws in OpenAI’s internal monitoring system",
+   "outlet": "The Lufkin Daily News",
+   "outlet_name": "The Lufkin Daily News",
+   "url": "https://lufkindailynews.com/news_reuters/business/ai-safety-group-metr-finds-flaws-in-openai-s-internal-monitoring-system/article_005d9be2-f02b-5d70-91dd-86a5c607b24f.html",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek raises $15B amid US security restrictions, signaling rapid growth in China's AI race.",
-   "published_at": "2026-10-22T14:48:53Z",
-   "url_id": "31111462c9ff2ba1dfa41c4a320d6a75"
+   "summary_1line": "METR finds AI monitoring flaws at OpenAI, with 75-94% of agent traffic unmonitored.",
+   "published_at": "2026-10-22T16:02:43Z",
+   "url_id": "9645a3a7931cc3bfe9fa137f34bb28ec"
   },
   {
-   "title": "Polarise Launches Sovereign AI Cloud at NVIDIA GTC Berlin, …",
-   "outlet": "Easy News Press Agency",
-   "outlet_name": "Easy News Press Agency",
-   "url": "https://www.easynewsweb.com/polarise-launches-sovereign-ai-cloud-at-nvidia-gtc-berlin/",
-   "label": "CONFIRMED",
-   "summary_1line": "Polarise launches sovereign AI cloud in Europe for enterprise AI with full data control.",
-   "published_at": "2026-10-22T13:07:01Z",
-   "url_id": "f0e9e6dad362fb9e6caa61aef24dda48"
+   "title": "OpenAI urges Newsom to strengthen California’s AI safety law with additional safeguards",
+   "outlet": "StateScoop",
+   "outlet_name": "StateScoop",
+   "url": "https://statescoop.com/openai-urges-newsom-to-strengthen-californias-ai-safety-law-with-additional-safeguards/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI urges California to strengthen AI safety law with new monitoring and cybersecurity rules.",
+   "published_at": "2026-10-22T15:43:56Z",
+   "url_id": "827a52e137dc2709de8d6052960b0db6"
   },
   {
-   "title": "Introducing the SpaceX Super Intelligence Partner Network",
-   "outlet": "xAI",
-   "outlet_name": "xAI",
-   "url": "https://x.ai/news/partnernetworkannouncement",
+   "title": "Agentic AI Foundation Announces Four New Projects: Agent Skills, Open Responses, OpenEnv, and OpenSandbox",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox-302916689.html",
    "label": "CONFIRMED",
-   "summary_1line": "SpaceX launches AI partner network with enterprises to co-develop AI-powered solutions.",
-   "published_at": "2026-10-22T14:42:30Z",
-   "url_id": "a855b8b5f4661bd5a6f8dcffe825f602"
+   "summary_1line": "AAIF expands to 10 projects in first year with new contributions from Anthropic, OpenAI, Hugging Face, and Alibaba.",
+   "published_at": "2026-10-22T16:00:00Z",
+   "url_id": "3c2efd7b9082a031e4f83bd8ecf6cfa6"
   },
   {
-   "title": "1Password lets AI agents sign in for users without seeing their passwords",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/1password-for-agents-ai-agent-logins",
-   "label": "CONFIRMED",
-   "summary_1line": "1Password launches AI agent login tool with Meta, OpenAI, Anthropic and SpaceXSI integrations.",
-   "published_at": "2026-10-22T13:45:28Z",
-   "url_id": "8506de893ac9675c62c1a643cd3ba803"
+   "title": "Google Open-Sources TorchTPU to Challenge Nvidia’s Grip on AI Development",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
+   "url": "https://theaiinsider.tech/2026/10/22/google-open-sources-torchtpu-to-challenge-nvidias-grip-on-ai-development/",
+   "label": "REPORTED",
+   "summary_1line": "Google opens TorchTPU to run AI apps on TPUs, joining Amazon in challenging Nvidia's AI dominance.",
+   "published_at": "2026-10-22T16:24:34Z",
+   "url_id": "d3731f6423f2313c1b008e065e8e2d01"
   }
  ],
  "ticker": [
   {
-   "headline": "Third-party evaluators find vulnerabilities in OpenAI monitoring system during test pilot",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/22/metr-redwood-research-open-ai-test.html",
-   "url_id": "213739e869004ba7bc6e2a5d3a126cbb"
+   "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+   "url_id": "8907d183a6a5f1235ac8f24ec3f2c217"
   },
   {
-   "headline": "DeepSeek raises $15 billion — doubling its own target, days after US restrictions",
-   "outlet": "The Tech Portal",
-   "outlet_name": "The Tech Portal",
+   "headline": "AI safety group METR finds flaws in OpenAI’s internal monitoring system",
+   "outlet": "The Lufkin Daily News",
+   "outlet_name": "The Lufkin Daily News",
    "label": "CONFIRMED",
-   "url": "https://thetechportal.com/2026/10/22/deepseek-raises-15-billion-doubling-its-own-target-days-after-us-restrictions/",
-   "url_id": "31111462c9ff2ba1dfa41c4a320d6a75"
-  },
-  {
-   "headline": "Polarise Launches Sovereign AI Cloud at NVIDIA GTC Berlin, …",
-   "outlet": "Easy News Press Agency",
-   "outlet_name": "Easy News Press Agency",
-   "label": "CONFIRMED",
-   "url": "https://www.easynewsweb.com/polarise-launches-sovereign-ai-cloud-at-nvidia-gtc-berlin/",
-   "url_id": "f0e9e6dad362fb9e6caa61aef24dda48"
-  },
-  {
-   "headline": "Introducing the SpaceX Super Intelligence Partner Network",
-   "outlet": "xAI",
-   "outlet_name": "xAI",
-   "label": "CONFIRMED",
-   "url": "https://x.ai/news/partnernetworkannouncement",
-   "url_id": "a855b8b5f4661bd5a6f8dcffe825f602"
-  },
-  {
-   "headline": "1Password lets AI agents sign in for users without seeing their passwords",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/1password-for-agents-ai-agent-logins",
-   "url_id": "8506de893ac9675c62c1a643cd3ba803"
-  },
-  {
-   "headline": "Bridging the AI production gap: Over 100,000 Indian engineers trained to build with Gemini",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
-   "label": "CONFIRMED",
-   "url": "https://m.economictimes.com/tech/technology/bridging-the-ai-production-gap-over-100000-indian-engineers-trained-to-build-with-gemini/articleshow/135122014.cms",
-   "url_id": "44ce11a63f201465ea597b2d32237da8"
+   "url": "https://lufkindailynews.com/news_reuters/business/ai-safety-group-metr-finds-flaws-in-openai-s-internal-monitoring-system/article_005d9be2-f02b-5d70-91dd-86a5c607b24f.html",
+   "url_id": "9645a3a7931cc3bfe9fa137f34bb28ec"
   },
   {
    "headline": "OpenAI urges Newsom to strengthen California’s AI safety law with additional safeguards",
@@ -111,15 +79,55 @@
    "outlet_name": "StateScoop",
    "label": "REPORTED",
    "url": "https://statescoop.com/openai-urges-newsom-to-strengthen-californias-ai-safety-law-with-additional-safeguards/",
-   "url_id": "6e1f173bbd7917103e0412b94a4f0f78"
+   "url_id": "827a52e137dc2709de8d6052960b0db6"
   },
   {
-   "headline": "Ex-OpenAI Science Head Kevin Weil Launches Startup With $215 Million",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "Agentic AI Foundation Announces Four New Projects: Agent Skills, Open Responses, OpenEnv…",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "CONFIRMED",
+   "url": "https://www.prnewswire.com/news-releases/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox-302916689.html",
+   "url_id": "3c2efd7b9082a031e4f83bd8ecf6cfa6"
+  },
+  {
+   "headline": "Google Open-Sources TorchTPU to Challenge Nvidia’s Grip on AI Development",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-22/ex-openai-science-head-kevin-weil-launches-startup-with-215-million",
-   "url_id": "121b229c08718d39c33108ab7d580a52"
+   "url": "https://theaiinsider.tech/2026/10/22/google-open-sources-torchtpu-to-challenge-nvidias-grip-on-ai-development/",
+   "url_id": "d3731f6423f2313c1b008e065e8e2d01"
+  },
+  {
+   "headline": "Uber Rolls Out ChatGPT Work to All 30,000 Employees",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
+   "label": "REPORTED",
+   "url": "https://www.techbuzz.ai/articles/uber-rolls-out-chatgpt-work-to-all-30-000-employees",
+   "url_id": "e3ee590f1634daf4d677cce0cf38d418"
+  },
+  {
+   "headline": "Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "REPORTED",
+   "url": "https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab",
+   "url_id": "c841e4f2b8a1d6c3e376828cbc923d1e"
+  },
+  {
+   "headline": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
+   "outlet": "Decrypt",
+   "outlet_name": "Decrypt",
+   "label": "STILL OPEN",
+   "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
+   "url_id": "e3b40c1ce97b181331a1aaafc05de787"
+  },
+  {
+   "headline": "Anthropic Unveils Claude Duet To Challenge OpenAI And Meta in the AI Agent Field",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "REPORTED",
+   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-challenge-154001042.html",
+   "url_id": "c8e10a02795f340f7c7443890db66dec"
   },
   {
    "headline": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
@@ -130,38 +138,30 @@
    "url_id": "2c1c1d0b09d0e274e1a661fddec3b1e1"
   },
   {
-   "headline": "Anthropic unveils Claude Duet AI agent app",
-   "outlet": "economictimes.indiatimes.com",
-   "outlet_name": "economictimes.indiatimes.com",
-   "label": "CONFIRMED",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-unveils-claude-duet-ai-agent-app/articleshow/135121069.cms",
-   "url_id": "17d3a203dffd2330e58c24d5748ef0b6"
+   "headline": "Video Introducing the free Government & Legal Index for ChatGPT and Claude Search 30…",
+   "outlet": "firecrawl.dev",
+   "outlet_name": "firecrawl.dev",
+   "label": "REPORTED",
+   "url": "https://www.firecrawl.dev/blog/government-legal-index",
+   "url_id": "6e7e53fa401fde5bfeade8cd67679914"
   },
   {
-   "headline": "What is the PHP security vulnerability: The AI-found bug that made governments take…",
-   "outlet": "economictimes.indiatimes.com",
-   "outlet_name": "economictimes.indiatimes.com",
-   "label": "CONFIRMED",
-   "url": "https://economictimes.indiatimes.com/tech/technology/what-is-the-php-security-vulnerability-the-ai-found-bug-that-made-governments-take-websites-offline/videoshow/135121300.cms",
-   "url_id": "d9bb7b66b6730e2b19b017aff3894fd0"
-  },
-  {
-   "headline": "OpenAI Hires Former AWS Partner Sales Leader To Drive AI Channel Growth",
-   "outlet": "www.crn.com",
-   "outlet_name": "www.crn.com",
-   "label": "CONFIRMED",
-   "url": "https://www.crn.com/news/ai/2026/openai-hires-former-aws-partner-sales-leader-to-drive-ai-channel-growth",
-   "url_id": "2b189241650e2c3a5e649e03a675175d"
+   "headline": "HPE expands Private Cloud AI solution to support mixed Nvidia hardware clusters, launches…",
+   "outlet": "datacenterdynamics.com",
+   "outlet_name": "datacenterdynamics.com",
+   "label": "REPORTED",
+   "url": "https://www.datacenterdynamics.com/en/news/hpe-expands-private-cloud-ai-solution-to-support-mixed-nvidia-hardware-clusters-launches-vera-cpu-rack/",
+   "url_id": "1dc2c5deceadb75de60b964b33b0fbf1"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by seven different outlets in the last few hours.",
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 12900,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/17.mp3",
- "audio_seconds": 59.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/18.mp3",
+ "audio_seconds": 74.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI tests third-party access to its artificial intelligence monitoring system, patching novel vulnerabilities in a pilot with METR and Redwood. Confirmed by CNBC.\nDeepSeek raises 15 billion dollars amid US security restrictions, signaling rapid growth in China's artificial intelligence race. Confirmed by The Tech Portal.\nPolarise launches sovereign artificial intelligence cloud in Europe for enterprise artificial intelligence with full data control. Confirmed by Easy News Press Agency.\nSpaceX launches artificial intelligence partner network with enterprises to co-develop artificial intelligence-powered solutions. Confirmed by xAI.\n1Password launches artificial intelligence agent login tool with Meta, OpenAI, Anthropic and SpaceX integrations. Confirmed by The Next Web.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI, Anthropic, and Nvidia had record lobbying quarters, confirmed by The Verge. The firms spent record amounts on safety, cybersecurity, and policy ahead of midterms.\nMETR finds flaws in OpenAI's internal monitoring system, confirmed by The Lufkin Daily News. Their research shows 75-94 percent of agent traffic goes unmonitored.\nOpenAI urges California to strengthen its artificial intelligence safety law with additional safeguards, reported by StateScoop. New monitoring and cybersecurity rules are part of the push.\nThe Agentic Artificial Intelligence Foundation announced four new projects in its first year, confirmed by PR Newswire. Anthropic, OpenAI, Hugging Face, and Alibaba contributed to expand the foundation to 10 projects.\nGoogle open-sources TorchTPU to run artificial intelligence apps on TPUs, reported by AI Insider. This joins Amazon in challenging Nvidia's dominance in artificial intelligence development.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
