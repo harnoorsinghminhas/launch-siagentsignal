@@ -1,125 +1,93 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T18:20:06Z",
- "hour": "2026-10-22T18:00:00Z",
+ "generated_at": "2026-10-22T19:20:04Z",
+ "hour": "2026-10-22T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
+   "title": "Uber puts all 30,000 employees on ChatGPT Work",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
    "label": "CONFIRMED",
-   "summary_1line": "AI firms spent record amounts lobbying on safety, cybersecurity, and policy ahead of midterms.",
-   "published_at": "2026-10-22T15:50:30Z",
-   "url_id": "8907d183a6a5f1235ac8f24ec3f2c217"
-  },
-  {
-   "title": "AI safety group METR finds flaws in OpenAI’s internal monitoring system",
-   "outlet": "The Lufkin Daily News",
-   "outlet_name": "The Lufkin Daily News",
-   "url": "https://lufkindailynews.com/news_reuters/business/ai-safety-group-metr-finds-flaws-in-openai-s-internal-monitoring-system/article_005d9be2-f02b-5d70-91dd-86a5c607b24f.html",
-   "label": "CONFIRMED",
-   "summary_1line": "METR finds AI monitoring flaws at OpenAI, with 75-94% of agent traffic unmonitored.",
-   "published_at": "2026-10-22T16:02:43Z",
-   "url_id": "9645a3a7931cc3bfe9fa137f34bb28ec"
-  },
-  {
-   "title": "OpenAI urges Newsom to strengthen California’s AI safety law with additional safeguards",
-   "outlet": "StateScoop",
-   "outlet_name": "StateScoop",
-   "url": "https://statescoop.com/openai-urges-newsom-to-strengthen-californias-ai-safety-law-with-additional-safeguards/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI urges California to strengthen AI safety law with new monitoring and cybersecurity rules.",
-   "published_at": "2026-10-22T15:43:56Z",
-   "url_id": "827a52e137dc2709de8d6052960b0db6"
-  },
-  {
-   "title": "Agentic AI Foundation Announces Four New Projects: Agent Skills, Open Responses, OpenEnv, and OpenSandbox",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/news-releases/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox-302916689.html",
-   "label": "CONFIRMED",
-   "summary_1line": "AAIF expands to 10 projects in first year with new contributions from Anthropic, OpenAI, Hugging Face, and Alibaba.",
+   "summary_1line": "Uber scales ChatGPT Work to 30,000 employees with full company rollout.",
    "published_at": "2026-10-22T16:00:00Z",
-   "url_id": "3c2efd7b9082a031e4f83bd8ecf6cfa6"
+   "url_id": "a7ebb89377f6add0e3e6e8711d3b0ec0"
   },
   {
-   "title": "Google Open-Sources TorchTPU to Challenge Nvidia’s Grip on AI Development",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
-   "url": "https://theaiinsider.tech/2026/10/22/google-open-sources-torchtpu-to-challenge-nvidias-grip-on-ai-development/",
+   "title": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance",
+   "label": "CONFIRMED",
+   "summary_1line": "PHP flaws expose AI's dual role in security, prompting calls for global AI regulation.",
+   "published_at": "2026-10-22T17:30:45Z",
+   "url_id": "c400d3922f7c1f0f474171e511277475"
+  },
+  {
+   "title": "Architecting Governed, Self-Evolving AI Agents on Gemini Agent Platform",
+   "outlet": "Google for Developers Blog",
+   "outlet_name": "Google for Developers Blog",
+   "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+   "label": "CONFIRMED",
+   "summary_1line": "Google Cloud's self-evolving AI cuts outage response time to 1.8 seconds and eliminates 5xx errors during Black Friday events.",
+   "published_at": "2026-10-22T16:29:58Z",
+   "url_id": "8653dc73154101c5a1c45965b160936d"
+  },
+  {
+   "title": "Nvidia Unveils DSX Pod as Huang Urges Nscale to Speed Up",
+   "outlet": "Briefs Finance",
+   "outlet_name": "Briefs Finance",
+   "url": "https://www.briefs.co/news/nvidia-s-jensen-huang-says-he-told-nscale-it-must-work-aroun/",
    "label": "REPORTED",
-   "summary_1line": "Google opens TorchTPU to run AI apps on TPUs, joining Amazon in challenging Nvidia's AI dominance.",
-   "published_at": "2026-10-22T16:24:34Z",
-   "url_id": "d3731f6423f2313c1b008e065e8e2d01"
+   "summary_1line": "Huang urges Nscale to accelerate data center rollout amid AI infrastructure delays.",
+   "published_at": "2026-10-22T16:36:56Z",
+   "url_id": "71694630c39924e8daf438b5e5eb79cd"
+  },
+  {
+   "title": "Anthropic Unveils Claude Duet To Challenge OpenAI And Meta in the AI Agent Field",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-challenge-154001042.html",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic launches Claude Duet for professionals, integrating with 6,000+ business tools.",
+   "published_at": "2026-10-22T15:40:01Z",
+   "url_id": "c8e10a02795f340f7c7443890db66dec"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
+   "headline": "Uber puts all 30,000 employees on ChatGPT Work",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records",
-   "url_id": "8907d183a6a5f1235ac8f24ec3f2c217"
+   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "url_id": "a7ebb89377f6add0e3e6e8711d3b0ec0"
   },
   {
-   "headline": "AI safety group METR finds flaws in OpenAI’s internal monitoring system",
-   "outlet": "The Lufkin Daily News",
-   "outlet_name": "The Lufkin Daily News",
+   "headline": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://lufkindailynews.com/news_reuters/business/ai-safety-group-metr-finds-flaws-in-openai-s-internal-monitoring-system/article_005d9be2-f02b-5d70-91dd-86a5c607b24f.html",
-   "url_id": "9645a3a7931cc3bfe9fa137f34bb28ec"
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance",
+   "url_id": "c400d3922f7c1f0f474171e511277475"
   },
   {
-   "headline": "OpenAI urges Newsom to strengthen California’s AI safety law with additional safeguards",
-   "outlet": "StateScoop",
-   "outlet_name": "StateScoop",
-   "label": "REPORTED",
-   "url": "https://statescoop.com/openai-urges-newsom-to-strengthen-californias-ai-safety-law-with-additional-safeguards/",
-   "url_id": "827a52e137dc2709de8d6052960b0db6"
-  },
-  {
-   "headline": "Agentic AI Foundation Announces Four New Projects: Agent Skills, Open Responses, OpenEnv…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "Architecting Governed, Self-Evolving AI Agents on Gemini Agent Platform",
+   "outlet": "Google for Developers Blog",
+   "outlet_name": "Google for Developers Blog",
    "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/agentic-ai-foundation-announces-four-new-projects-agent-skills-open-responses-openenv-and-opensandbox-302916689.html",
-   "url_id": "3c2efd7b9082a031e4f83bd8ecf6cfa6"
+   "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+   "url_id": "8653dc73154101c5a1c45965b160936d"
   },
   {
-   "headline": "Google Open-Sources TorchTPU to Challenge Nvidia’s Grip on AI Development",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
+   "headline": "Nvidia Unveils DSX Pod as Huang Urges Nscale to Speed Up",
+   "outlet": "Briefs Finance",
+   "outlet_name": "Briefs Finance",
    "label": "REPORTED",
-   "url": "https://theaiinsider.tech/2026/10/22/google-open-sources-torchtpu-to-challenge-nvidias-grip-on-ai-development/",
-   "url_id": "d3731f6423f2313c1b008e065e8e2d01"
-  },
-  {
-   "headline": "Uber Rolls Out ChatGPT Work to All 30,000 Employees",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "label": "REPORTED",
-   "url": "https://www.techbuzz.ai/articles/uber-rolls-out-chatgpt-work-to-all-30-000-employees",
-   "url_id": "e3ee590f1634daf4d677cce0cf38d418"
-  },
-  {
-   "headline": "Ex-OpenAI science head Kevin Weil launches Warp Sciences with $215M",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "REPORTED",
-   "url": "https://thenextweb.com/news/warp-sciences-kevin-weil-215m-ai-drug-lab",
-   "url_id": "c841e4f2b8a1d6c3e376828cbc923d1e"
-  },
-  {
-   "headline": "Major Banks Find Rogue AI Agents Inside Customer Accounts—And They’re 'Horrified'",
-   "outlet": "Decrypt",
-   "outlet_name": "Decrypt",
-   "label": "STILL OPEN",
-   "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
-   "url_id": "e3b40c1ce97b181331a1aaafc05de787"
+   "url": "https://www.briefs.co/news/nvidia-s-jensen-huang-says-he-told-nscale-it-must-work-aroun/",
+   "url_id": "71694630c39924e8daf438b5e5eb79cd"
   },
   {
    "headline": "Anthropic Unveils Claude Duet To Challenge OpenAI And Meta in the AI Agent Field",
@@ -130,12 +98,20 @@
    "url_id": "c8e10a02795f340f7c7443890db66dec"
   },
   {
-   "headline": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
+   "headline": "NVIDIA Launches Minerva AIOps Platform for AI Factory Observability",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
    "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
-   "url_id": "2c1c1d0b09d0e274e1a661fddec3b1e1"
+   "url": "https://www.unite.ai/nvidia-launches-minerva-aiops-platform-for-ai-factory-observability/",
+   "url_id": "84dcb05328d08000b2de00329016d40e"
+  },
+  {
+   "headline": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation",
+   "outlet": "thenewstack.io",
+   "outlet_name": "thenewstack.io",
+   "label": "CONFIRMED",
+   "url": "https://thenewstack.io/openai-donates-open-responses/",
+   "url_id": "c880c7e8cba64bcac4daad76e514d0ad"
   },
   {
    "headline": "Video Introducing the free Government & Legal Index for ChatGPT and Claude Search 30…",
@@ -146,22 +122,46 @@
    "url_id": "6e7e53fa401fde5bfeade8cd67679914"
   },
   {
+   "headline": "Leidos to Deploy AI Automation Across Pentagon Logistics System",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/leidos-to-deploy-ai-automation-across-pentagon-logistics-system/",
+   "url_id": "44456129d743234a614ffcac1b2eff95"
+  },
+  {
+   "headline": "Banks Crack Down on Unauthorized AI Agents Operating Inside Customer Accounts",
+   "outlet": "pymnts.com",
+   "outlet_name": "pymnts.com",
+   "label": "CONFIRMED",
+   "url": "https://www.pymnts.com/news/banking/2026/banks-crack-down-on-unauthorized-ai-agents-operating-inside-customer-accounts/",
+   "url_id": "bf5b36832306751060e7f5dd540f7615"
+  },
+  {
    "headline": "HPE expands Private Cloud AI solution to support mixed Nvidia hardware clusters, launches…",
    "outlet": "datacenterdynamics.com",
    "outlet_name": "datacenterdynamics.com",
    "label": "REPORTED",
    "url": "https://www.datacenterdynamics.com/en/news/hpe-expands-private-cloud-ai-solution-to-support-mixed-nvidia-hardware-clusters-launches-vera-cpu-rack/",
    "url_id": "1dc2c5deceadb75de60b964b33b0fbf1"
+  },
+  {
+   "headline": "NVIDIA donates $250 million to AI safety research in UK, Imperial amongst benefiters",
+   "outlet": "felixonline.co.uk",
+   "outlet_name": "felixonline.co.uk",
+   "label": "CONFIRMED",
+   "url": "https://felixonline.co.uk/articles/nvidia-donates-250-million-to-ai-safety-research-in-uk-imperial-amongst-benefiters/",
+   "url_id": "a9fa5f079bad3a76a1aefd876f743ff8"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12900,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 12500,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/18.mp3",
- "audio_seconds": 74.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/19.mp3",
+ "audio_seconds": 59.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI, Anthropic, and Nvidia had record lobbying quarters, confirmed by The Verge. The firms spent record amounts on safety, cybersecurity, and policy ahead of midterms.\nMETR finds flaws in OpenAI's internal monitoring system, confirmed by The Lufkin Daily News. Their research shows 75-94 percent of agent traffic goes unmonitored.\nOpenAI urges California to strengthen its artificial intelligence safety law with additional safeguards, reported by StateScoop. New monitoring and cybersecurity rules are part of the push.\nThe Agentic Artificial Intelligence Foundation announced four new projects in its first year, confirmed by PR Newswire. Anthropic, OpenAI, Hugging Face, and Alibaba contributed to expand the foundation to 10 projects.\nGoogle open-sources TorchTPU to run artificial intelligence apps on TPUs, reported by AI Insider. This joins Amazon in challenging Nvidia's dominance in artificial intelligence development.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nUber is rolling out ChatGPT Work across all 30,000 employees in a full company deployment. Confirmed by TechCrunch.\nPHP security flaws highlight artificial intelligence's dual role in safety, spurring calls for global regulation. Confirmed by The Guardian.\nGoogle Cloud's self-evolving artificial intelligence agents cut outage response to 1.8 seconds and eliminated 5xx errors during Black Friday. Confirmed by Google for Developers Blog.\nReported by Briefs Finance: Huang is urging Nscale to speed up data center rollout amid artificial intelligence infrastructure delays.\nAnthropic has launched Claude Duet for professionals, integrating with 6,000 plus business tools. Reported by Yahoo Tech.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
