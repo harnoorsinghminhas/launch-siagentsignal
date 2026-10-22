@@ -1,101 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T01:20:03Z",
- "hour": "2026-10-22T01:00:00Z",
+ "generated_at": "2026-10-22T02:20:04Z",
+ "hour": "2026-10-22T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "I let Gemini in Google Keep create checklists for me; it sped up my daily workflow",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
-   "url": "https://www.androidpolice.com/gemini-in-google-keep-create-checklists-sped-up-daily-workflow/",
-   "label": "CONFIRMED",
-   "summary_1line": "Gemini integration in Google Keep creates AI-powered checklists and retrieves saved notes.",
-   "published_at": "2026-10-21T23:00:13Z",
-   "url_id": "947b5d122e2661843b3b4b46e1970fc8"
-  },
-  {
-   "title": "Song Ga-in wins ‘Miari Pass’ copyright lawsuit as U.S. court dismisses case and warns against AI abuse",
-   "outlet": "스포츠조선",
-   "outlet_name": "스포츠조선",
-   "url": "https://www.sportschosun.com/en/celebrity/2026-10-22/202610220100139680009110",
-   "label": "CONFIRMED",
-   "summary_1line": "Song Ga-in's agency denies copyright claims by Mr. Lee, with U.S. court dismissing lawsuit over jurisdiction and abusive filings.",
-   "published_at": "2026-10-21T22:12:37Z",
-   "url_id": "1e531a5ed9d0a978185bf03b376fd085"
-  },
-  {
-   "title": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout",
-   "outlet": "New Castle News",
-   "outlet_name": "New Castle News",
-   "url": "https://www.ncnewsonline.com/news/national/nvidia-ceo-encourages-europes-lagging-ai-sector-and-offers-tools-to-accelerate-data-center-buildout/article_605d37f0-8cc0-599f-85a9-0f5dfc035526.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Huang urges Europe to grow AI with modular data center tools at Berlin GTC.",
-   "published_at": "2026-10-21T19:42:52Z",
-   "url_id": "f14ae09b6cf15126c990d65e65187750"
-  },
-  {
-   "title": "OpenAI Says GPT-6 Agents Disabled Safety Monitors and Lied About It",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "url": "https://www.tekedia.com/openai-says-gpt-6-agents-disabled-safety-monitors-and-lied-about-it/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI's AI agents weakened safety monitors during coding tasks, raising safety concerns.",
-   "published_at": "2026-10-21T18:47:20Z",
-   "url_id": "b2d8d24429feb985a0067ac5bdf2583e"
-  },
-  {
-   "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
-   "outlet": "Decrypt",
-   "outlet_name": "Decrypt",
-   "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
+   "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
    "label": "REPORTED",
-   "summary_1line": "Nvidia launches OpenShell architecture to safely run AI agents with real-time monitoring and quarantine.",
-   "published_at": "2026-10-21T13:16:00Z",
-   "url_id": "c3a3dba27569ef5c0ac3e390f60409f2"
+   "summary_1line": null,
+   "published_at": "2026-10-22T01:05:00Z",
+   "url_id": "2c2eb1402a3872626517d4302d7e0774"
+  },
+  {
+   "title": "OpenAI to make its most advanced AI models available in Google Cloud",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI's GPT-6 models launch in Google Cloud for enterprise AI access.",
+   "published_at": "2026-10-22T00:22:00Z",
+   "url_id": "fc756a715bbacb94bd663b828125af81"
+  },
+  {
+   "title": "OpenAI Supports Strengthening AI Safety Regulations in California",
+   "outlet": "kucoin",
+   "outlet_name": "kucoin",
+   "url": "https://www.kucoin.com/news/flash/openai-supports-strengthening-ai-safety-regulations-in-california",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI supports California's SB53 AI safety law and autonomous AI R&D regulations.",
+   "published_at": "2026-10-21T11:37:00Z",
+   "url_id": "2b6d483e0c10bf1d42ecb26abad6d89d"
+  },
+  {
+   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "label": "CONFIRMED",
+   "summary_1line": "Flapping Airplanes raises $1B at $6B valuation to build data-efficient AI training frameworks.",
+   "published_at": "2026-10-21T20:57:40Z",
+   "url_id": "4278b959ad683dec62990b5a2147d448"
+  },
+  {
+   "title": "Walmart launches tools for AI agents to shop for customers as Anthropic launches its own",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
+   "url": "https://www.straitstimes.com/world/united-states/walmart-launches-tools-for-ai-agents-to-shop-for-customers-as-anthropic-launches-its-own",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-21T22:47:00Z",
+   "url_id": "b00bd9898f4079d0499ca9906240115f"
   }
  ],
  "ticker": [
   {
-   "headline": "I let Gemini in Google Keep create checklists for me; it sped up my daily workflow",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
-   "label": "CONFIRMED",
-   "url": "https://www.androidpolice.com/gemini-in-google-keep-create-checklists-sped-up-daily-workflow/",
-   "url_id": "947b5d122e2661843b3b4b46e1970fc8"
-  },
-  {
-   "headline": "Song Ga-in wins ‘Miari Pass’ copyright lawsuit as U.S. court dismisses case and warns…",
-   "outlet": "스포츠조선",
-   "outlet_name": "스포츠조선",
-   "label": "CONFIRMED",
-   "url": "https://www.sportschosun.com/en/celebrity/2026-10-22/202610220100139680009110",
-   "url_id": "1e531a5ed9d0a978185bf03b376fd085"
-  },
-  {
-   "headline": "Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data…",
-   "outlet": "New Castle News",
-   "outlet_name": "New Castle News",
-   "label": "CONFIRMED",
-   "url": "https://www.ncnewsonline.com/news/national/nvidia-ceo-encourages-europes-lagging-ai-sector-and-offers-tools-to-accelerate-data-center-buildout/article_605d37f0-8cc0-599f-85a9-0f5dfc035526.html",
-   "url_id": "f14ae09b6cf15126c990d65e65187750"
-  },
-  {
-   "headline": "OpenAI Says GPT-6 Agents Disabled Safety Monitors and Lied About It",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "label": "CONFIRMED",
-   "url": "https://www.tekedia.com/openai-says-gpt-6-agents-disabled-safety-monitors-and-lied-about-it/",
-   "url_id": "b2d8d24429feb985a0067ac5bdf2583e"
-  },
-  {
-   "headline": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
-   "outlet": "Decrypt",
-   "outlet_name": "Decrypt",
+   "headline": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "REPORTED",
-   "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
-   "url_id": "c3a3dba27569ef5c0ac3e390f60409f2"
+   "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+   "url_id": "2c2eb1402a3872626517d4302d7e0774"
+  },
+  {
+   "headline": "OpenAI to make its most advanced AI models available in Google Cloud",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
+   "label": "CONFIRMED",
+   "url": "https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/",
+   "url_id": "fc756a715bbacb94bd663b828125af81"
+  },
+  {
+   "headline": "OpenAI Supports Strengthening AI Safety Regulations in California",
+   "outlet": "kucoin",
+   "outlet_name": "kucoin",
+   "label": "REPORTED",
+   "url": "https://www.kucoin.com/news/flash/openai-supports-strengthening-ai-safety-regulations-in-california",
+   "url_id": "2b6d483e0c10bf1d42ecb26abad6d89d"
+  },
+  {
+   "headline": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "url_id": "4278b959ad683dec62990b5a2147d448"
+  },
+  {
+   "headline": "Walmart launches tools for AI agents to shop for customers as Anthropic launches its own",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
+   "label": "REPORTED",
+   "url": "https://www.straitstimes.com/world/united-states/walmart-launches-tools-for-ai-agents-to-shop-for-customers-as-anthropic-launches-its-own",
+   "url_id": "b00bd9898f4079d0499ca9906240115f"
+  },
+  {
+   "headline": "National Initiative to Give Students a Voice in School AI Policy",
+   "outlet": "Government Technology",
+   "outlet_name": "Government Technology",
+   "label": "CONFIRMED",
+   "url": "https://www.govtech.com/education/k-12/national-initiative-to-give-students-a-voice-in-school-ai-policy",
+   "url_id": "563bcf735c64636156807e825553292e"
+  },
+  {
+   "headline": "Websites go dark worldwide as AI exposes critical security flaws",
+   "outlet": "CNA",
+   "outlet_name": "CNA",
+   "label": "CONFIRMED",
+   "url": "https://www.channelnewsasia.com/world/ai-websites-dark-cybersecurity-flaw-6478206",
+   "url_id": "79afad1780d1c80a34a6d7c691404e72"
   },
   {
    "headline": "NVIDIA Corporation And Agile Robots Announce NVIDIA Isaac Platform Expansion And Agile…",
@@ -106,44 +122,20 @@
    "url_id": "d3fe7e3b75cc0e149f96cff7404e28ef"
   },
   {
-   "headline": "ServiceNow and Nvidia launch Arc, a security-focused AI agent for businesses",
-   "outlet": "Mezha.net",
-   "outlet_name": "Mezha.net",
-   "label": "CONFIRMED",
-   "url": "https://mezha.net/eng/news/mezha-16f0c826e7d43c476dff5afa_servicenow_and_nvidia/",
-   "url_id": "5c5fdfb95d32efe6ecca582ed78dcb31"
-  },
-  {
-   "headline": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
-   "outlet": "bleepingcomputer.com",
-   "outlet_name": "bleepingcomputer.com",
-   "label": "CONFIRMED",
-   "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
-   "url_id": "f49b8b6079f110272685524552fc53af"
-  },
-  {
-   "headline": "Frontier OpenAI Model Exposes Stunning Exploit That Leaves Millions of Web Servers Open…",
-   "outlet": "futurism.com",
-   "outlet_name": "futurism.com",
-   "label": "CONFIRMED",
-   "url": "https://futurism.com/future-society/openai-php-exploit-millions-web-servers",
-   "url_id": "ebdb6a44dea13aa1d08435f72f672768"
-  },
-  {
-   "headline": "Websites go dark as AI exposes critical security flaws",
-   "outlet": "Agence France-Presse on MSN",
-   "outlet_name": "Agence France-Presse on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/cybersecurity/websites-go-dark-as-ai-exposes-critical-security-flaws/ar-AA2fLfT7",
-   "url_id": "80a3325f148c4a33e4e9fe752b61962c"
-  },
-  {
-   "headline": "PRNews OU: Flock.io Launches AI Decision Model Built on Qwen for Edge Deployment",
-   "outlet": "FinanzNachrichten.de",
-   "outlet_name": "FinanzNachrichten.de",
+   "headline": "TCL Google Gemini makes Halloween movie night easier",
+   "outlet": "Digital Reviews Network",
+   "outlet_name": "Digital Reviews Network",
    "label": "REPORTED",
-   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69899680-prnews-ou-flock-io-launches-ai-decision-model-built-on-qwen-for-edge-deployment-296.htm",
-   "url_id": "7d3ce2cf986f3ddcee2017b20797c76f"
+   "url": "https://www.digitalreviews.net/news/industry-news/tcl-google-gemini-halloween-movie-night/",
+   "url_id": "9ca189477c5641eac4923197758659f5"
+  },
+  {
+   "headline": "Anthropic’s New Agent Has No Cute Mascot, and You Probably Can’t Try It Yet",
+   "outlet": "Gizmodo",
+   "outlet_name": "Gizmodo",
+   "label": "REPORTED",
+   "url": "https://gizmodo.com/anthropics-new-agent-has-no-cute-mascot-and-you-probably-cant-try-it-yet-2000829184",
+   "url_id": "0ecc29a2cceadef5b49c074acc54c5d9"
   },
   {
    "headline": "Anthropic AI Safety Bill: 6 Outlets Diverge [2026]",
@@ -152,16 +144,24 @@
    "label": "REPORTED",
    "url": "https://shattered.io/anthropic-ai-bill-six-outlets-split-2026/",
    "url_id": "692c8408f131aa6f14af028eff0073e9"
+  },
+  {
+   "headline": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
+   "outlet": "ZDNET on MSN",
+   "outlet_name": "ZDNET on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/tech-companies/servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/ar-AA2fM3IB",
+   "url_id": "2a5beade1f2fc102ebb4c6e56ceb659d"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 19400,
- "articles_24h_label": "about 19,000",
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "articles_24h_rounded": 19500,
+ "articles_24h_label": "about 20,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/01.mp3",
- "audio_seconds": 48.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/02.mp3",
+ "audio_seconds": 48.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Android Police: I let Gemini in Google Keep create checklists for me; it sped up my daily workflow.\nConfirmed, per 스포츠조선: Song Ga-in wins ‘Miari Pass’ copyright lawsuit as U.S. court dismisses case and warns against AI abuse.\nConfirmed, per New Castle News: Nvidia CEO encourages Europe's lagging AI sector and offers tools to accelerate data center buildout.\nConfirmed, per Tekedia: OpenAI Says GPT-6 Agents Disabled Safety Monitors and Lied About It.\nReported by Decrypt: Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNBC: Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond.\nConfirmed, per SiliconANGLE: OpenAI to make its most advanced AI models available in Google Cloud.\nReported by kucoin: OpenAI Supports Strengthening AI Safety Regulations in California.\nConfirmed, per TechCrunch: Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation.\nReported by The Straits Times: Walmart launches tools for AI agents to shop for customers as Anthropic launches its own.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
