@@ -1,125 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T06:20:03Z",
- "hour": "2026-10-22T06:00:00Z",
+ "generated_at": "2026-10-22T07:20:03Z",
+ "hour": "2026-10-22T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic introduces Claude Duet AI agent app for professionals: Features, availability and more",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-introduces-claude-duet-ai-agent-app-for-professionals-features-availability-and-more/articleshow/135106572.cms",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic launches Claude Duet for professionals with 6,000+ app integrations.",
-   "published_at": "2026-10-22T03:59:00Z",
-   "url_id": "442b696866e492bd1aec3350d9a1f960"
-  },
-  {
-   "title": "VAST & Nvidia launch AI agent sandbox for enterprises",
-   "outlet": "IT Brief Australia",
-   "outlet_name": "IT Brief Australia",
-   "url": "https://itbrief.com.au/story/vast-nvidia-launch-ai-agent-sandbox-for-enterprises",
-   "label": "REPORTED",
-   "summary_1line": "VAST and Nvidia launch AI agent sandbox for enterprise AI governance and scalability.",
-   "published_at": "2026-10-22T02:59:00Z",
-   "url_id": "cb67c627487ebbbdf472473e647c4cfb"
-  },
-  {
-   "title": "Nvidia unveils DSX POD, a data center about the size of a shipping container",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
-   "url": "https://ca.finance.yahoo.com/news/nvidia-unveils-dsx-pod-a-data-center-about-the-size-of-a-shipping-container-113000508.html",
+   "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
    "label": "CONFIRMED",
-   "summary_1line": "Nvidia's DSX POD cuts data center deployment to 14 days, saving 54 million liters of water daily.",
-   "published_at": "2026-10-21T11:30:00Z",
-   "url_id": "35be00d46b52bd977b21aca1dd0f504c"
+   "summary_1line": "AI firms call for 12-month UK compact to ease public opposition to datacentres.",
+   "published_at": "2026-10-22T05:00:08Z",
+   "url_id": "0d706251c10a87aa5bac575c1c8b2281"
   },
   {
-   "title": "Elon Musk's ex-girlfriend must face xAI forum countersuit",
-   "outlet": "Courthouse News",
-   "outlet_name": "Courthouse News",
-   "url": "https://www.courthousenews.com/elon-musks-ex-girlfriend-must-face-xai-forum-countersuit/",
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "outlet": "bbc.co.uk",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
    "label": "CONFIRMED",
-   "summary_1line": "Judge blocks dismissal of lawsuit over AI-generated sexualized images of Ashley St. Clair.",
-   "published_at": "2026-10-22T03:32:48Z",
-   "url_id": "3ad7a5f8672e1534b6df613d48100bd7"
+   "summary_1line": "AI finds severe PHP flaws, triggering global website shutdowns and urgent patching.",
+   "published_at": "2026-10-22T03:48:50Z",
+   "url_id": "321cbfbc7bd9eb68916d9b8b5da00d1d"
   },
   {
-   "title": "NVIDIA Unveils Vera Rubin, OpenShell and Europe AI Expansion at GTC Berlin",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/gemini/articles/nvidia-unveils-vera-rubin-openshell-140220206.html",
+   "title": "Some websites go dark as operators address an AI-detected flaw in a web programming language",
+   "outlet": "East Bay Times",
+   "outlet_name": "East Bay Times",
+   "url": "https://www.eastbaytimes.com/2026/10/21/us-web-security-php-vulnerability/",
+   "label": "CONFIRMED",
+   "summary_1line": "AI found PHP flaws; websites globally went offline for updates.",
+   "published_at": "2026-10-21T14:16:00Z",
+   "url_id": "fd25ab5dd70d8377ec55193fbc52a4a7"
+  },
+  {
+   "title": "OpenAI's AI Finds Critical PHP Vulnerability; $1 Billion Pledged to Help Defenders",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/e568956c-6fa8-44bd-ab8a-2a001872fa7a",
    "label": "REPORTED",
-   "summary_1line": "NVIDIA unveils Vera Rubin, DSX Pods, and OpenShell at GTC Berlin, expanding AI in Europe.",
-   "published_at": "2026-10-21T14:02:20Z",
-   "url_id": "aa00cd788b66f94f2057a14463a25753"
+   "summary_1line": "OpenAI's AI finds critical PHP flaw; $1B pledged to defenders.",
+   "published_at": "2026-10-22T04:05:00Z",
+   "url_id": "a5865e3856287f2cc9949718a1c2c28f"
+  },
+  {
+   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "url": "https://openai.com/index/cloudflare-cyber/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-22T00:07:26Z",
+   "url_id": "d681bcc8c17b21c8178cf0bb200c47e7"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic introduces Claude Duet AI agent app for professionals: Features, availability…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropic-introduces-claude-duet-ai-agent-app-for-professionals-features-availability-and-more/articleshow/135106572.cms",
-   "url_id": "442b696866e492bd1aec3350d9a1f960"
-  },
-  {
-   "headline": "VAST & Nvidia launch AI agent sandbox for enterprises",
-   "outlet": "IT Brief Australia",
-   "outlet_name": "IT Brief Australia",
-   "label": "REPORTED",
-   "url": "https://itbrief.com.au/story/vast-nvidia-launch-ai-agent-sandbox-for-enterprises",
-   "url_id": "cb67c627487ebbbdf472473e647c4cfb"
-  },
-  {
-   "headline": "Nvidia unveils DSX POD, a data center about the size of a shipping container",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
+   "headline": "AI firms say UK has a year to head off datacentre protests before construction is…",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://ca.finance.yahoo.com/news/nvidia-unveils-dsx-pod-a-data-center-about-the-size-of-a-shipping-container-113000508.html",
-   "url_id": "35be00d46b52bd977b21aca1dd0f504c"
+   "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+   "url_id": "0d706251c10a87aa5bac575c1c8b2281"
   },
   {
-   "headline": "Elon Musk's ex-girlfriend must face xAI forum countersuit",
-   "outlet": "Courthouse News",
-   "outlet_name": "Courthouse News",
+   "headline": "What is PHP and why did it spark a global cyber-security scramble?",
+   "outlet": "bbc.co.uk",
+   "outlet_name": "BBC",
    "label": "CONFIRMED",
-   "url": "https://www.courthousenews.com/elon-musks-ex-girlfriend-must-face-xai-forum-countersuit/",
-   "url_id": "3ad7a5f8672e1534b6df613d48100bd7"
+   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+   "url_id": "321cbfbc7bd9eb68916d9b8b5da00d1d"
   },
   {
-   "headline": "NVIDIA Unveils Vera Rubin, OpenShell and Europe AI Expansion at GTC Berlin",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/gemini/articles/nvidia-unveils-vera-rubin-openshell-140220206.html",
-   "url_id": "aa00cd788b66f94f2057a14463a25753"
-  },
-  {
-   "headline": "Anthropic vor Gericht: Streit um Songtexte im Claude-Training bleibt offen",
-   "outlet": "AD HOC NEWS",
-   "outlet_name": "AD HOC NEWS",
-   "label": "REPORTED",
-   "url": "https://www.ad-hoc-news.de/wissenschaft/anthropic-vor-gericht-streit-um-songtexte-im-claude-training-bleibt-offen/70389596",
-   "url_id": "4cd6eea82f194093d12766ed3b2f61cc"
-  },
-  {
-   "headline": "Senate approves stronger reporting requirements for AI-generated child sexual abuse…",
-   "outlet": "The News-Item",
-   "outlet_name": "The News-Item",
-   "label": "REPORTED",
-   "url": "https://www.newsitem.com/news/local/senate-approves-stronger-reporting-requirements-for-ai-generated-child-sexual-abuse-material/article_01e4ea7e-b09a-4a74-a47a-f92bb6579a7d.html",
-   "url_id": "2128f9a75f92b3ee608380b81f81fceb"
-  },
-  {
-   "headline": "AI uncovers decade-old flaw: Govt websites across Europe went offline amid cyberattack",
-   "outlet": "The Times of India on MSN",
-   "outlet_name": "The Times of India on MSN",
+   "headline": "Some websites go dark as operators address an AI-detected flaw in a web programming…",
+   "outlet": "East Bay Times",
+   "outlet_name": "East Bay Times",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/ai-uncovers-decade-old-flaw-govt-websites-across-europe-went-offline-amid-cyberattack/ar-AA2fLrXx",
-   "url_id": "87bda591feb68c7b1bd98977a0ef3fd1"
+   "url": "https://www.eastbaytimes.com/2026/10/21/us-web-security-php-vulnerability/",
+   "url_id": "fd25ab5dd70d8377ec55193fbc52a4a7"
+  },
+  {
+   "headline": "OpenAI's AI Finds Critical PHP Vulnerability; $1 Billion Pledged to Help Defenders",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.biggo.com/news/e568956c-6fa8-44bd-ab8a-2a001872fa7a",
+   "url_id": "a5865e3856287f2cc9949718a1c2c28f"
+  },
+  {
+   "headline": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "label": "REPORTED",
+   "url": "https://openai.com/index/cloudflare-cyber/",
+   "url_id": "d681bcc8c17b21c8178cf0bb200c47e7"
+  },
+  {
+   "headline": "DeepSeek open-sources new tool to slash costs and ‘battle’ closed-source AI",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
+   "label": "REPORTED",
+   "url": "https://amp.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
+   "url_id": "e6085b274344bf05115ed168445052d9"
+  },
+  {
+   "headline": "Anthropic launches Claude Duet, a proactive agent app taking on Meta's Muse and OpenAI's…",
+   "outlet": "Dealroom",
+   "outlet_name": "Dealroom",
+   "label": "REPORTED",
+   "url": "https://app.dealroom.co/news/note/anthropic-launches-claude-duet-a-proactive-agent-app-taking-on-meta-s-muse-and-openai-s-dots",
+   "url_id": "2694d03acc8263526884d35961970a54"
+  },
+  {
+   "headline": "Indias AI financing demand to shift towards data centres, but GPU, regulatory risks…",
+   "outlet": "livemint.com",
+   "outlet_name": "livemint.com",
+   "label": "CONFIRMED",
+   "url": "https://www.livemint.com/technology/indias-ai-financing-demand-to-shift-towards-data-centres-but-gpu-regulatory-risks-persist-report-11792645684810.html",
+   "url_id": "20a1744a0e933feb9a29f3d1846d7282"
+  },
+  {
+   "headline": "NVIDIA unveils 14-day modular data center for AI standards",
+   "outlet": "The Chosun Ilbo on MSN",
+   "outlet_name": "The Chosun Ilbo on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-xl/technology/tech-companies/nvidia-unveils-14-day-modular-data-center-for-ai-standards/ar-AA2fMC99",
+   "url_id": "c01cf909b982fd52060941986dff2ff6"
+  },
+  {
+   "headline": "Google Docs on Android is getting a Gemini Live-like upgrade for more users",
+   "outlet": "androidauthority.com",
+   "outlet_name": "androidauthority.com",
+   "label": "REPORTED",
+   "url": "https://www.androidauthority.com/google-docs-android-docs-live-rollout-workspace-3726478/",
+   "url_id": "a7c27ac88ec320e2970d6a8f123d8967"
   },
   {
    "headline": "Samsung Electro-Mechanics to supply Nvidia with substrates for AI chips — Korea Herald",
@@ -130,38 +146,22 @@
    "url_id": "2571574ca2e803aa1cfc175522e30ec1"
   },
   {
-   "headline": "PHP2Shell vulnerability: 'Most significant security issues,' how Google, OpenAI and…",
-   "outlet": "Mint on MSN",
-   "outlet_name": "Mint on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/php2shell-vulnerability-most-significant-security-issues-how-google-openai-and-amazon-respond-to-the-cyber-threat/ar-AA2fMtVq",
-   "url_id": "3f6daab5c2da079b7b242b74aa7f843a"
-  },
-  {
    "headline": "Qwen-Audio-3.1-ASR Technical Report",
    "outlet": "arxiv.org",
    "outlet_name": "arxiv.org",
    "label": "REPORTED",
    "url": "https://arxiv.org/abs/2610.28711",
    "url_id": "79c2ea5161693189628fa318e79922a9"
-  },
-  {
-   "headline": "Claude Giroux Postgame Media vs FLA",
-   "outlet": "NHL.com",
-   "outlet_name": "NHL.com",
-   "label": "REPORTED",
-   "url": "https://www.nhl.com/senators/video/claude-giroux-postgame-media-vs-fla-6407213999112",
-   "url_id": "d735f1ca153175aeb8c9485086896cbc"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13700,
- "articles_24h_label": "about 14,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13400,
+ "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/06.mp3",
- "audio_seconds": 48.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/07.mp3",
+ "audio_seconds": 59.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The Times of India: Anthropic introduces Claude Duet AI agent app for professionals: Features, availability and more.\nReported by IT Brief Australia: VAST & Nvidia launch AI agent sandbox for enterprises.\nConfirmed, per Yahoo! Finance Canada: Nvidia unveils DSX POD, a data center about the size of a shipping container.\nConfirmed, per Courthouse News: Elon Musk's ex-girlfriend must face xAI forum countersuit.\nReported by Yahoo Tech: NVIDIA Unveils Vera Rubin, OpenShell and Europe AI Expansion at GTC Berlin.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nUK firms say they need a 12-month compact to ease public opposition to datacentres, confirmed by The Guardian, before construction faces threats.\nWhat is PHP and why did it spark a global cyber-security scramble? Confirmed per BBC: artificial intelligence found severe PHP flaws, triggering global website shutdowns and urgent patching.\nWebsites globally went dark as operators addressed an artificial intelligence detected flaw in a web programming language, confirmed by East Bay Times.\nOpenAI's artificial intelligence found a critical PHP vulnerability, reported by BigGo Finance, with one billion dollars pledged to help defenders respond.\nCloudflare links the vulnerability discovery to defense efforts with OpenAI, reported by OpenAI in their latest statement on the crisis response.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
