@@ -1,141 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T02:20:04Z",
- "hour": "2026-10-22T02:00:00Z",
+ "generated_at": "2026-10-22T03:20:02Z",
+ "hour": "2026-10-22T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
+   "title": "Govt sites go down after AI finds 'critical' PHP vulnerabilities",
+   "outlet": "Information Age",
+   "outlet_name": "Information Age",
+   "url": "https://ia.acs.org.au/article/2026/govt-sites-go-down-after-ai-finds--critical--php-vulnerabilities.html",
+   "label": "CONFIRMED",
+   "summary_1line": "AI found long-standing PHP flaws, causing global site outages and urgent patch alerts.",
+   "published_at": "2026-10-21T15:08:00Z",
+   "url_id": "99e06afc43580e978264412f1ed6740f"
+  },
+  {
+   "title": "DeepSeek Raises $15 Billion in Challenge to Leading US Labs",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-22T01:05:00Z",
-   "url_id": "2c2eb1402a3872626517d4302d7e0774"
+   "published_at": "2026-10-22T02:17:34Z",
+   "url_id": "2346329522885331fd2b97466f884e9b"
   },
   {
-   "title": "OpenAI to make its most advanced AI models available in Google Cloud",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
-   "url": "https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI's GPT-6 models launch in Google Cloud for enterprise AI access.",
-   "published_at": "2026-10-22T00:22:00Z",
-   "url_id": "fc756a715bbacb94bd663b828125af81"
-  },
-  {
-   "title": "OpenAI Supports Strengthening AI Safety Regulations in California",
-   "outlet": "kucoin",
-   "outlet_name": "kucoin",
-   "url": "https://www.kucoin.com/news/flash/openai-supports-strengthening-ai-safety-regulations-in-california",
+   "title": "Google Cloud, NVIDIA Launch Vera Rubin Infrastructure for AI Workloads",
+   "outlet": "The Fast Mode",
+   "outlet_name": "The Fast Mode",
+   "url": "https://www.thefastmode.com/technology-solutions/51141-google-cloud-nvidia-launch-vera-rubin-infrastructure-for-ai-workloads",
    "label": "REPORTED",
-   "summary_1line": "OpenAI supports California's SB53 AI safety law and autonomous AI R&D regulations.",
-   "published_at": "2026-10-21T11:37:00Z",
-   "url_id": "2b6d483e0c10bf1d42ecb26abad6d89d"
+   "summary_1line": "Google Cloud expands A5X to Europe for large-scale AI training and inference with early use by Ineffable and WPP.",
+   "published_at": "2026-10-21T16:03:00Z",
+   "url_id": "0fd5981553d5f682ba903339a13ca4b5"
   },
   {
-   "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+   "title": "Nuix Launches Agentic AI in Nuix Neo with Audit Trail Built In",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/prnewswire:2ad051ff69c4a:0-nuix-launches-agentic-ai-in-nuix-neo-with-audit-trail-built-in/",
    "label": "CONFIRMED",
-   "summary_1line": "Flapping Airplanes raises $1B at $6B valuation to build data-efficient AI training frameworks.",
-   "published_at": "2026-10-21T20:57:40Z",
-   "url_id": "4278b959ad683dec62990b5a2147d448"
+   "summary_1line": "Nuix launches AI Agent with traceable, source-linked answers for legal and compliance investigations.",
+   "published_at": "2026-10-22T00:06:00Z",
+   "url_id": "c63baa28136632572f71320e18aa6b2c"
   },
   {
-   "title": "Walmart launches tools for AI agents to shop for customers as Anthropic launches its own",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/united-states/walmart-launches-tools-for-ai-agents-to-shop-for-customers-as-anthropic-launches-its-own",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T22:47:00Z",
-   "url_id": "b00bd9898f4079d0499ca9906240115f"
+   "title": "Watchtower Labs Raises $35 Million To Build AI Decision Software For Military Operations",
+   "outlet": "Pulse 2.0",
+   "outlet_name": "Pulse 2.0",
+   "url": "https://pulse2.com/watchtower-labs-raises-35-million-to-build-ai-decision-software-for-military-operations/",
+   "label": "CONFIRMED",
+   "summary_1line": "Watchtower Labs raises $35M to build AI tools for military planning, selected by Defense Innovation Unit in Jan 2026.",
+   "published_at": "2026-10-21T22:05:44Z",
+   "url_id": "eb5450420ff99cda1a13ca9021743350"
   }
  ],
  "ticker": [
   {
-   "headline": "Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "REPORTED",
-   "url": "https://www.cnbc.com/2026/10/22/php-google-openai-and-amazon-cyber.html",
-   "url_id": "2c2eb1402a3872626517d4302d7e0774"
-  },
-  {
-   "headline": "OpenAI to make its most advanced AI models available in Google Cloud",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
+   "headline": "Govt sites go down after AI finds 'critical' PHP vulnerabilities",
+   "outlet": "Information Age",
+   "outlet_name": "Information Age",
    "label": "CONFIRMED",
-   "url": "https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/",
-   "url_id": "fc756a715bbacb94bd663b828125af81"
+   "url": "https://ia.acs.org.au/article/2026/govt-sites-go-down-after-ai-finds--critical--php-vulnerabilities.html",
+   "url_id": "99e06afc43580e978264412f1ed6740f"
   },
   {
-   "headline": "OpenAI Supports Strengthening AI Safety Regulations in California",
-   "outlet": "kucoin",
-   "outlet_name": "kucoin",
+   "headline": "DeepSeek Raises $15 Billion in Challenge to Leading US Labs",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://www.kucoin.com/news/flash/openai-supports-strengthening-ai-safety-regulations-in-california",
-   "url_id": "2b6d483e0c10bf1d42ecb26abad6d89d"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-22/deepseek-raises-15-billion-in-challenge-to-leading-us-labs",
+   "url_id": "2346329522885331fd2b97466f884e9b"
   },
   {
-   "headline": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
+   "headline": "Google Cloud, NVIDIA Launch Vera Rubin Infrastructure for AI Workloads",
+   "outlet": "The Fast Mode",
+   "outlet_name": "The Fast Mode",
+   "label": "REPORTED",
+   "url": "https://www.thefastmode.com/technology-solutions/51141-google-cloud-nvidia-launch-vera-rubin-infrastructure-for-ai-workloads",
+   "url_id": "0fd5981553d5f682ba903339a13ca4b5"
+  },
+  {
+   "headline": "Nuix Launches Agentic AI in Nuix Neo with Audit Trail Built In",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-   "url_id": "4278b959ad683dec62990b5a2147d448"
+   "url": "https://www.tradingview.com/news/prnewswire:2ad051ff69c4a:0-nuix-launches-agentic-ai-in-nuix-neo-with-audit-trail-built-in/",
+   "url_id": "c63baa28136632572f71320e18aa6b2c"
   },
   {
-   "headline": "Walmart launches tools for AI agents to shop for customers as Anthropic launches its own",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "label": "REPORTED",
-   "url": "https://www.straitstimes.com/world/united-states/walmart-launches-tools-for-ai-agents-to-shop-for-customers-as-anthropic-launches-its-own",
-   "url_id": "b00bd9898f4079d0499ca9906240115f"
-  },
-  {
-   "headline": "National Initiative to Give Students a Voice in School AI Policy",
-   "outlet": "Government Technology",
-   "outlet_name": "Government Technology",
+   "headline": "Watchtower Labs Raises $35 Million To Build AI Decision Software For Military Operations",
+   "outlet": "Pulse 2.0",
+   "outlet_name": "Pulse 2.0",
    "label": "CONFIRMED",
-   "url": "https://www.govtech.com/education/k-12/national-initiative-to-give-students-a-voice-in-school-ai-policy",
-   "url_id": "563bcf735c64636156807e825553292e"
+   "url": "https://pulse2.com/watchtower-labs-raises-35-million-to-build-ai-decision-software-for-military-operations/",
+   "url_id": "eb5450420ff99cda1a13ca9021743350"
   },
   {
-   "headline": "Websites go dark worldwide as AI exposes critical security flaws",
-   "outlet": "CNA",
-   "outlet_name": "CNA",
+   "headline": "Anthropic CEO Fiercely Hits Back in Lengthy Post: 4 Months of Secret Mythos Development…",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "label": "REPORTED",
+   "url": "https://eu.36kr.com/en/p/4036249334944899",
+   "url_id": "d813a076809241147a248b581008ed7e"
+  },
+  {
+   "headline": "Law&Company targets Japan as Lexpand AI expands Asia legal tech reach",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "label": "REPORTED",
+   "url": "https://biz.chosun.com/en/en-society/2026/10/22/2MHBX3KRRZA7BMFJ4PE56TBM5I/",
+   "url_id": "c17a4f2889bfcabbf611e6db64257eb1"
+  },
+  {
+   "headline": "FTC to collect public opinion on draft guidelines against 'AI washing'",
+   "outlet": "The Korea Times",
+   "outlet_name": "The Korea Times",
    "label": "CONFIRMED",
-   "url": "https://www.channelnewsasia.com/world/ai-websites-dark-cybersecurity-flaw-6478206",
-   "url_id": "79afad1780d1c80a34a6d7c691404e72"
-  },
-  {
-   "headline": "NVIDIA Corporation And Agile Robots Announce NVIDIA Isaac Platform Expansion And Agile…",
-   "outlet": "MarketScreener",
-   "outlet_name": "MarketScreener",
-   "label": "REPORTED",
-   "url": "https://www.marketscreener.com/news/nvidia-corporation-and-agile-robots-announce-nvidia-isaac-platform-expansion-and-agile-one-sn-humano-ce785cd9dd8af726",
-   "url_id": "d3fe7e3b75cc0e149f96cff7404e28ef"
-  },
-  {
-   "headline": "TCL Google Gemini makes Halloween movie night easier",
-   "outlet": "Digital Reviews Network",
-   "outlet_name": "Digital Reviews Network",
-   "label": "REPORTED",
-   "url": "https://www.digitalreviews.net/news/industry-news/tcl-google-gemini-halloween-movie-night/",
-   "url_id": "9ca189477c5641eac4923197758659f5"
-  },
-  {
-   "headline": "Anthropic’s New Agent Has No Cute Mascot, and You Probably Can’t Try It Yet",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "label": "REPORTED",
-   "url": "https://gizmodo.com/anthropics-new-agent-has-no-cute-mascot-and-you-probably-cant-try-it-yet-2000829184",
-   "url_id": "0ecc29a2cceadef5b49c074acc54c5d9"
+   "url": "https://www.koreatimes.co.kr/business/20261022/ftc-to-collect-public-opinion-on-draft-guidelines-against-ai-washing",
+   "url_id": "d061cb09f7b19ce6ecf5703855111321"
   },
   {
    "headline": "Anthropic AI Safety Bill: 6 Outlets Diverge [2026]",
@@ -146,22 +130,38 @@
    "url_id": "692c8408f131aa6f14af028eff0073e9"
   },
   {
-   "headline": "ServiceNow and Nvidia launch Arc, a new AI agent for enterprise",
-   "outlet": "ZDNET on MSN",
-   "outlet_name": "ZDNET on MSN",
+   "headline": "Government websites go dark after AI-discovered flaw sparks security scramble",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/tech-companies/servicenow-and-nvidia-launch-arc-a-new-ai-agent-for-enterprise/ar-AA2fM3IB",
-   "url_id": "2a5beade1f2fc102ebb4c6e56ceb659d"
+   "url": "https://www.msn.com/en-us/technology/cybersecurity/government-websites-go-dark-after-ai-discovered-flaw-sparks-security-scramble/ar-AA2fMdU5",
+   "url_id": "6040c1c81f5ad9e6ec33dcf8af6ebe96"
+  },
+  {
+   "headline": "Anthropic’s New AI Agent Purchases Business Supplies",
+   "outlet": "pymnts.com",
+   "outlet_name": "pymnts.com",
+   "label": "REPORTED",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropics-new-ai-agent-purchases-business-supplies/",
+   "url_id": "d4a0d16abded3ddc3d8505ec80c5196a"
+  },
+  {
+   "headline": "Claude builds the Excel model,Filing Studio links every number to its SEC filing",
+   "outlet": "drive.google.com",
+   "outlet_name": "drive.google.com",
+   "label": "REPORTED",
+   "url": "https://drive.google.com/file/d/1TquJDCgvf3gr9-j779AxNTNGYqw2BPbi/view?usp=sharing",
+   "url_id": "3c434ce451ad20421f4388b6e2ac8ea0"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 19500,
+ "tidbit": "Did you know… about 20,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 19800,
  "articles_24h_label": "about 20,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/02.mp3",
- "audio_seconds": 48.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/03.mp3",
+ "audio_seconds": 67.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNBC: Critical web security flaws spark global alarm as Google, OpenAI and Amazon respond.\nConfirmed, per SiliconANGLE: OpenAI to make its most advanced AI models available in Google Cloud.\nReported by kucoin: OpenAI Supports Strengthening AI Safety Regulations in California.\nConfirmed, per TechCrunch: Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation.\nReported by The Straits Times: Walmart launches tools for AI agents to shop for customers as Anthropic launches its own.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGovernment websites experienced outages after artificial intelligence identified long-standing critical PHP vulnerabilities, triggering urgent patch alerts globally. This is confirmed by Information Age.\nDeepSeek has raised 15 billion dollars in a challenge to leading US labs. Bloomberg reported this development.\nGoogle Cloud and NVIDIA have launched Vera Rubin Infrastructure for artificial intelligence workloads, expanding A5X to Europe for large-scale training and inference with early adoption by Ineffable and WPP. The Fast Mode reported this.\nNuix has launched agentic artificial intelligence in Nuix Neo with audit trails built in, providing traceable and source-linked answers for legal and compliance investigations. This is confirmed by TradingView.\nWatchtower Labs raised 35 million dollars to build artificial intelligence decision software for military operations and was selected by the Defense Innovation Unit in January 2026. Pulse 2.0 confirmed this.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
