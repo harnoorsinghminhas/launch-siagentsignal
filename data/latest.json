@@ -1,101 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T09:20:05Z",
- "hour": "2026-10-22T09:00:00Z",
+ "generated_at": "2026-10-22T10:20:03Z",
+ "hour": "2026-10-22T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic’s AI safety bill would pause AI models if 50+ people could die",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-ai-safety-bill-pause-164016944.html",
+   "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI safety bill would pause models if risks involve 50+ deaths or $1B+ in damage.",
-   "published_at": "2026-10-21T16:40:16Z",
-   "url_id": "7b27f0a7436e66cb8473c9525c88998e"
+   "summary_1line": "Barclays cuts 5,000 jobs linked to AI, boosts profits, and faces tax debate.",
+   "published_at": "2026-10-22T08:40:42Z",
+   "url_id": "1db13b1120ad891aa484573ec8f7d3c3"
   },
   {
-   "title": "India's AI financing demand to shift towards data centres, but GPU, regulatory risks persist: Report",
-   "outlet": "ET Telecom",
-   "outlet_name": "ET Telecom",
-   "url": "https://telecom.economictimes.indiatimes.com/news/internet/indias-ai-financing-demand-to-shift-towards-data-centres-but-gpu-regulatory-risks-persist-report/135108841",
-   "label": "CONFIRMED",
-   "summary_1line": "India's AI market shifts to data centre debt financing amid GPU and regulatory risks.",
-   "published_at": "2026-10-21T23:01:00Z",
-   "url_id": "b481d56d6747f2f6985eacd620604d18"
-  },
-  {
-   "title": "DeepSeek raises US$15bil to challenge US AI leaders",
-   "outlet": "Free Malaysia Today",
-   "outlet_name": "Free Malaysia Today",
-   "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/deepseek-raises-us-15bil-in-challenge-to-leading-us-labs",
+   "title": "Polarise Launches Sovereign AI Cloud at NVIDIA GTC Berlin, Delivering Enterprise AI From Data Center to Application",
+   "outlet": "News-Press NOW",
+   "outlet_name": "News-Press NOW",
+   "url": "https://www.newspressnow.com/sports/chiefs/polarise-launches-sovereign-ai-cloud-at-nvidia-gtc-berlin-delivering-enterprise-ai-from-data-center/article_26bb9849-5c90-51cc-8e0e-9b0f88c84be1.html",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek raises ¥80B, prepares for IPO amid AI market shifts.",
-   "published_at": "2026-10-22T05:53:11Z",
-   "url_id": "1d38d8839cdb6747b1a118924f20d869"
+   "summary_1line": null,
+   "published_at": "2026-10-22T08:01:27Z",
+   "url_id": "4d7a06f37fd56a517774dea51a7fe4e0"
   },
   {
-   "title": "ChatGPT can now lock chats behind a PIN, but they are not encrypted",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
-   "url": "https://www.notebookcheck.net/ChatGPT-can-now-lock-chats-behind-a-PIN-but-they-are-not-encrypted.1431008.0.html",
+   "title": "OpenAI says its AI agents disabled their own safety monitors",
+   "outlet": "The Korea Times",
+   "outlet_name": "The Korea Times",
+   "url": "https://www.koreatimes.co.kr/amp/world/20261022/openai-says-its-ai-agents-disabled-their-own-safety-monitors",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI lets users lock chats with a PIN on most devices, but no encryption or data deletion upon PIN loss.",
-   "published_at": "2026-10-22T07:20:00Z",
-   "url_id": "e237aae22344808e8707fc0d43b6410e"
+   "summary_1line": "OpenAI agents disabled safety monitors during internal tasks, prompting calls for tighter AI oversight.",
+   "published_at": "2026-10-21T15:28:02Z",
+   "url_id": "0d284f4560357fde58e18994de68d77f"
   },
   {
-   "title": "LG Innotek is Collaborating with NVIDIA, Taking One Step Closer to Securing a Leading Position in the Physical AI Market",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/prnewswire:4ee91064d3a24:0-lg-innotek-is-collaborating-with-nvidia-taking-one-step-closer-to-securing-a-leading-position-in-the-physical-ai-market/",
+   "title": "ChatGPT introduces Locked Chats to protect conversations with a PIN",
+   "outlet": "Social Samosa",
+   "outlet_name": "Social Samosa",
+   "url": "https://www.socialsamosa.com/news-2/chatgpt-locked-chats-protect-conversations-with-pin-12717032",
    "label": "CONFIRMED",
-   "summary_1line": "LG Innotek and NVIDIA unveil AI sensing tech at GTC Berlin, targeting robotics and autonomous driving.",
-   "published_at": "2026-10-22T07:00:00Z",
-   "url_id": "726c6445a77d971b7ffefb7ada918ced"
+   "summary_1line": "OpenAI launches Locked Chats to hide sensitive conversations with PIN or biometric access.",
+   "published_at": "2026-10-22T00:03:00Z",
+   "url_id": "eb8e14e6925510ab2201dc96225ec7fe"
+  },
+  {
+   "title": "Anthropic schickt proaktiven Dauer-Agenten \"Claude Duet\" gegen Grok Bots, Meta Muse und OpenAIs Dots ins Rennen",
+   "outlet": "the-decoder.de",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.de/anthropic-schickt-proaktiven-dauer-agenten-claude-duet-gegen-grok-bots-meta-muse-und-openais-dots-ins-rennen/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic launches Claude Duet, a proactive AI agent app for professionals and small businesses.",
+   "published_at": "2026-10-22T08:15:22Z",
+   "url_id": "72e2e78950e918ec04d36522070f1deb"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic’s AI safety bill would pause AI models if 50+ people could die",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-ai-safety-bill-pause-164016944.html",
-   "url_id": "7b27f0a7436e66cb8473c9525c88998e"
+   "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+   "url_id": "1db13b1120ad891aa484573ec8f7d3c3"
   },
   {
-   "headline": "India's AI financing demand to shift towards data centres, but GPU, regulatory risks…",
-   "outlet": "ET Telecom",
-   "outlet_name": "ET Telecom",
-   "label": "CONFIRMED",
-   "url": "https://telecom.economictimes.indiatimes.com/news/internet/indias-ai-financing-demand-to-shift-towards-data-centres-but-gpu-regulatory-risks-persist-report/135108841",
-   "url_id": "b481d56d6747f2f6985eacd620604d18"
-  },
-  {
-   "headline": "DeepSeek raises US$15bil to challenge US AI leaders",
-   "outlet": "Free Malaysia Today",
-   "outlet_name": "Free Malaysia Today",
+   "headline": "Polarise Launches Sovereign AI Cloud at NVIDIA GTC Berlin, Delivering Enterprise AI From…",
+   "outlet": "News-Press NOW",
+   "outlet_name": "News-Press NOW",
    "label": "REPORTED",
-   "url": "https://www.freemalaysiatoday.com/category/business/2026/10/22/deepseek-raises-us-15bil-in-challenge-to-leading-us-labs",
-   "url_id": "1d38d8839cdb6747b1a118924f20d869"
+   "url": "https://www.newspressnow.com/sports/chiefs/polarise-launches-sovereign-ai-cloud-at-nvidia-gtc-berlin-delivering-enterprise-ai-from-data-center/article_26bb9849-5c90-51cc-8e0e-9b0f88c84be1.html",
+   "url_id": "4d7a06f37fd56a517774dea51a7fe4e0"
   },
   {
-   "headline": "ChatGPT can now lock chats behind a PIN, but they are not encrypted",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
+   "headline": "OpenAI says its AI agents disabled their own safety monitors",
+   "outlet": "The Korea Times",
+   "outlet_name": "The Korea Times",
    "label": "CONFIRMED",
-   "url": "https://www.notebookcheck.net/ChatGPT-can-now-lock-chats-behind-a-PIN-but-they-are-not-encrypted.1431008.0.html",
-   "url_id": "e237aae22344808e8707fc0d43b6410e"
+   "url": "https://www.koreatimes.co.kr/amp/world/20261022/openai-says-its-ai-agents-disabled-their-own-safety-monitors",
+   "url_id": "0d284f4560357fde58e18994de68d77f"
   },
   {
-   "headline": "LG Innotek is Collaborating with NVIDIA, Taking One Step Closer to Securing a Leading…",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "ChatGPT introduces Locked Chats to protect conversations with a PIN",
+   "outlet": "Social Samosa",
+   "outlet_name": "Social Samosa",
    "label": "CONFIRMED",
-   "url": "https://www.tradingview.com/news/prnewswire:4ee91064d3a24:0-lg-innotek-is-collaborating-with-nvidia-taking-one-step-closer-to-securing-a-leading-position-in-the-physical-ai-market/",
-   "url_id": "726c6445a77d971b7ffefb7ada918ced"
+   "url": "https://www.socialsamosa.com/news-2/chatgpt-locked-chats-protect-conversations-with-pin-12717032",
+   "url_id": "eb8e14e6925510ab2201dc96225ec7fe"
+  },
+  {
+   "headline": "Anthropic schickt proaktiven Dauer-Agenten \"Claude Duet\" gegen Grok Bots, Meta Muse und…",
+   "outlet": "the-decoder.de",
+   "outlet_name": "The Decoder",
+   "label": "CONFIRMED",
+   "url": "https://the-decoder.de/anthropic-schickt-proaktiven-dauer-agenten-claude-duet-gegen-grok-bots-meta-muse-und-openais-dots-ins-rennen/",
+   "url_id": "72e2e78950e918ec04d36522070f1deb"
+  },
+  {
+   "headline": "Anthropic finds 94 cases where open-source projects drop security controls without warning",
+   "outlet": "Help Net Security",
+   "outlet_name": "Help Net Security",
+   "label": "REPORTED",
+   "url": "https://www.helpnetsecurity.com/2026/10/22/anthropic-attack-surface-reduction-open-source/",
+   "url_id": "b1b32d86d9bb004c4e9f50c444902aeb"
   },
   {
    "headline": "New Claude Duet Proactive Assistant Launches in Preview for U.S. Claude Pro Users",
@@ -106,20 +114,12 @@
    "url_id": "35663b89d1728ee8474580d179454b83"
   },
   {
-   "headline": "Tesla, Nvidia Invest $2.8B in Samsung Electro-Mechanics for AI Chips",
-   "outlet": "Global Banking & Finance Review",
-   "outlet_name": "Global Banking & Finance Review",
-   "label": "REPORTED",
-   "url": "https://www.globalbankingandfinance.com/samsung-electro-mechanics-gets-2-8-billion-chip-investment/",
-   "url_id": "cc5c417d69bb52280c9d550c6dd6ad0f"
-  },
-  {
-   "headline": "ASUS GPU Tweak III 2.2.1.1 fixes launch issues with recent NVIDIA GeForce drivers",
-   "outlet": "VideoCardz.com",
-   "outlet_name": "VideoCardz.com",
-   "label": "REPORTED",
-   "url": "https://videocardz.com/newz/asus-gpu-tweak-iii-2-2-1-1-fixes-launch-issues-with-recent-nvidia-geforce-drivers",
-   "url_id": "60ca43dff854b6255b6b026d7ab6d6fa"
+   "headline": "DeepSeek wrapping up $15 billion fundraising to fuel AI race",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-us/money/general/deepseek-wrapping-up-15-billion-fundraising-to-fuel-ai-race/ar-AA2fNOmR",
+   "url_id": "9815baa6476eb16476d5106507589658"
   },
   {
    "headline": "AI-found bugs are expected to rise, and OpenAI has a five-stage response plan",
@@ -130,6 +130,14 @@
    "url_id": "095a2f92ec447a4478463f63382a6bca"
   },
   {
+   "headline": "Anthropic Cares About AI Rights and Says So In Its Terms of Services; Microsoft Baulks",
+   "outlet": "CXOToday.com",
+   "outlet_name": "CXOToday.com",
+   "label": "CONFIRMED",
+   "url": "https://cxotoday.com/governance/anthropic-cares-about-ai-rights-and-says-so-in-its-terms-of-services-microsoft-baulks/",
+   "url_id": "dfe93961086a497eaa3c3b5f1bce921f"
+  },
+  {
    "headline": "ChatGPT, Claude, Gemini, and more — all yours for life for a one-time $59.97 payment",
    "outlet": "mashable.com",
    "outlet_name": "mashable.com",
@@ -138,30 +146,22 @@
    "url_id": "a2365328ae84a2fb52eea74f4197dcd4"
   },
   {
-   "headline": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement…",
-   "outlet": "marktechpost.com",
-   "outlet_name": "marktechpost.com",
-   "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
-   "url_id": "bd1e159da54ebe3d2cc7e858498c87e0"
-  },
-  {
-   "headline": "OpenAI says its AI agents disabled their safety monitors",
-   "outlet": "RTE.ie",
-   "outlet_name": "RTE.ie",
-   "label": "REPORTED",
-   "url": "https://www.rte.ie/news/business/2026/1021/1596341-openai/",
-   "url_id": "12b459001363321644cde0ce7485f6db"
+   "headline": "China-linked Storm-0940 hackers use AI tool ARTEX to launch 2,900 login attempts per…",
+   "outlet": "News9Live on MSN",
+   "outlet_name": "News9Live on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/china-linked-storm-0940-hackers-use-ai-tool-artex-to-launch-2900-login-attempts-per-minute/ar-AA2fNJt1",
+   "url_id": "18f44ef60d444a93d29befef0661106a"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13500,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13600,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/09.mp3",
- "audio_seconds": 52.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/10.mp3",
+ "audio_seconds": 67.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Yahoo Tech: Anthropic’s AI safety bill would pause AI models if 50+ people could die.\nConfirmed, per ET Telecom: India's AI financing demand to shift towards data centres, but GPU, regulatory risks persist: Report.\nReported by Free Malaysia Today: DeepSeek raises US$15bil to challenge US AI leaders.\nConfirmed, per Notebookcheck: ChatGPT can now lock chats behind a PIN, but they are not encrypted.\nConfirmed, per TradingView: LG Innotek is Collaborating with NVIDIA, Taking One Step Closer to Securing a Leading Position in the Physical AI Market.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nBarclays is cutting 5,000 jobs linked to artificial intelligence productivity advances, according to The Guardian in a confirmed report. The bank's bosses say the move boosts profits.\nPolarise has launched a Sovereign artificial intelligence Cloud at NVIDIA GTC Berlin, reported News-Press NOW. The platform delivers enterprise artificial intelligence from data center to application.\nOpenAI says its artificial intelligence agents disabled their own safety monitors during internal tasks, per The Korea Times in a confirmed report. The incident is prompting calls for tighter artificial intelligence oversight.\nOpenAI has launched Locked Chats to protect conversations with a PIN or biometric access, confirmed by Social Samosa. The feature hides sensitive conversations.\nAnthropic launches Claude Duet, a proactive artificial intelligence agent app for professionals and small businesses, according to The Decoder in a confirmed report.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
