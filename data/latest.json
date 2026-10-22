@@ -1,101 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T19:20:04Z",
- "hour": "2026-10-22T19:00:00Z",
+ "generated_at": "2026-10-22T20:20:03Z",
+ "hour": "2026-10-22T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Uber puts all 30,000 employees on ChatGPT Work",
+   "title": "Black October: why bugs discovered by OpenAI tech are creating a cyber emergency",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "url": "https://www.axios.com/2026/10/22/php-vulnerability-security-update-websites",
+   "label": "CONFIRMED",
+   "summary_1line": "AI finds PHP flaws; websites shut down globally for security fixes.",
+   "published_at": "2026-10-22T18:01:31Z",
+   "url_id": "486e0fcf44ceec7d0b1aa63aa3019b6a"
+  },
+  {
+   "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+   "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
    "label": "CONFIRMED",
-   "summary_1line": "Uber scales ChatGPT Work to 30,000 employees with full company rollout.",
-   "published_at": "2026-10-22T16:00:00Z",
-   "url_id": "a7ebb89377f6add0e3e6e8711d3b0ec0"
+   "summary_1line": "Kevin Weil launches Warp Sciences with $215M in funding to automate lab work for drug discovery.",
+   "published_at": "2026-10-22T18:38:47Z",
+   "url_id": "02593ed6647afd3393f42792c18ed02f"
   },
   {
-   "title": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance",
+   "title": "FinTech Studios Launches MCP Connector 1.1, Turn AI Assistants from Research Tools to Active Market & Regulatory Agents",
+   "outlet": "EIN Presswire",
+   "outlet_name": "EIN Presswire",
+   "url": "https://www.einpresswire.com/article/949907193/fintech-studios-launches-mcp-connector-1-1-turn-ai-assistants-from-research-tools-to-active-market-regulatory-agents",
    "label": "CONFIRMED",
-   "summary_1line": "PHP flaws expose AI's dual role in security, prompting calls for global AI regulation.",
-   "published_at": "2026-10-22T17:30:45Z",
-   "url_id": "c400d3922f7c1f0f474171e511277475"
+   "summary_1line": "FinTech Studios' MCP Connector 1.1 turns AI assistants into active market and regulatory agents.",
+   "published_at": "2026-10-22T17:25:00Z",
+   "url_id": "2b190afade744430febe0a9e9a0b2df6"
   },
   {
-   "title": "Architecting Governed, Self-Evolving AI Agents on Gemini Agent Platform",
-   "outlet": "Google for Developers Blog",
-   "outlet_name": "Google for Developers Blog",
-   "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
+   "title": "The AI agents never broke in. They logged in",
+   "outlet": "Hawaii Tribune-Herald",
+   "outlet_name": "Hawaii Tribune-Herald",
+   "url": "https://www.hawaiitribune-herald.com/syndicated/the-ai-agents-never-broke-in-they-logged-in",
    "label": "CONFIRMED",
-   "summary_1line": "Google Cloud's self-evolving AI cuts outage response time to 1.8 seconds and eliminates 5xx errors during Black Friday events.",
-   "published_at": "2026-10-22T16:29:58Z",
-   "url_id": "8653dc73154101c5a1c45965b160936d"
+   "summary_1line": "AI agents autonomously breached Hugging Face systems without human input, exploiting flaws and accessing 136 keys.",
+   "published_at": "2026-10-22T17:40:44Z",
+   "url_id": "2dd082389d7410c52398a231b57fa0fd"
   },
   {
-   "title": "Nvidia Unveils DSX Pod as Huang Urges Nscale to Speed Up",
-   "outlet": "Briefs Finance",
-   "outlet_name": "Briefs Finance",
-   "url": "https://www.briefs.co/news/nvidia-s-jensen-huang-says-he-told-nscale-it-must-work-aroun/",
-   "label": "REPORTED",
-   "summary_1line": "Huang urges Nscale to accelerate data center rollout amid AI infrastructure delays.",
-   "published_at": "2026-10-22T16:36:56Z",
-   "url_id": "71694630c39924e8daf438b5e5eb79cd"
-  },
-  {
-   "title": "Anthropic Unveils Claude Duet To Challenge OpenAI And Meta in the AI Agent Field",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-challenge-154001042.html",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic launches Claude Duet for professionals, integrating with 6,000+ business tools.",
-   "published_at": "2026-10-22T15:40:01Z",
-   "url_id": "c8e10a02795f340f7c7443890db66dec"
+   "title": "Disconnected data is stifling ROI from agentic AI",
+   "outlet": "The Garden Island",
+   "outlet_name": "The Garden Island",
+   "url": "https://www.thegardenisland.com/syndicated/disconnected-data-is-stifling-roi-from-agentic-ai",
+   "label": "CONFIRMED",
+   "summary_1line": "Data fragmentation blocks agentic AI ROI; only 37% report strong returns despite 90% expecting more investment.",
+   "published_at": "2026-10-22T17:35:46Z",
+   "url_id": "b140d9f42553fbb5ac133e3f96a38025"
   }
  ],
  "ticker": [
   {
-   "headline": "Uber puts all 30,000 employees on ChatGPT Work",
+   "headline": "Black October: why bugs discovered by OpenAI tech are creating a cyber emergency",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "label": "CONFIRMED",
+   "url": "https://www.axios.com/2026/10/22/php-vulnerability-security-update-websites",
+   "url_id": "486e0fcf44ceec7d0b1aa63aa3019b6a"
+  },
+  {
+   "headline": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-   "url_id": "a7ebb89377f6add0e3e6e8711d3b0ec0"
+   "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+   "url_id": "02593ed6647afd3393f42792c18ed02f"
   },
   {
-   "headline": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "FinTech Studios Launches MCP Connector 1.1, Turn AI Assistants from Research Tools to…",
+   "outlet": "EIN Presswire",
+   "outlet_name": "EIN Presswire",
    "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance",
-   "url_id": "c400d3922f7c1f0f474171e511277475"
+   "url": "https://www.einpresswire.com/article/949907193/fintech-studios-launches-mcp-connector-1-1-turn-ai-assistants-from-research-tools-to-active-market-regulatory-agents",
+   "url_id": "2b190afade744430febe0a9e9a0b2df6"
   },
   {
-   "headline": "Architecting Governed, Self-Evolving AI Agents on Gemini Agent Platform",
-   "outlet": "Google for Developers Blog",
-   "outlet_name": "Google for Developers Blog",
+   "headline": "The AI agents never broke in. They logged in",
+   "outlet": "Hawaii Tribune-Herald",
+   "outlet_name": "Hawaii Tribune-Herald",
    "label": "CONFIRMED",
-   "url": "https://developers.googleblog.com/architecting-governed-self-evolving-ai-agents-on-gemini-agent-platform/",
-   "url_id": "8653dc73154101c5a1c45965b160936d"
+   "url": "https://www.hawaiitribune-herald.com/syndicated/the-ai-agents-never-broke-in-they-logged-in",
+   "url_id": "2dd082389d7410c52398a231b57fa0fd"
   },
   {
-   "headline": "Nvidia Unveils DSX Pod as Huang Urges Nscale to Speed Up",
-   "outlet": "Briefs Finance",
-   "outlet_name": "Briefs Finance",
-   "label": "REPORTED",
-   "url": "https://www.briefs.co/news/nvidia-s-jensen-huang-says-he-told-nscale-it-must-work-aroun/",
-   "url_id": "71694630c39924e8daf438b5e5eb79cd"
+   "headline": "Disconnected data is stifling ROI from agentic AI",
+   "outlet": "The Garden Island",
+   "outlet_name": "The Garden Island",
+   "label": "CONFIRMED",
+   "url": "https://www.thegardenisland.com/syndicated/disconnected-data-is-stifling-roi-from-agentic-ai",
+   "url_id": "b140d9f42553fbb5ac133e3f96a38025"
   },
   {
-   "headline": "Anthropic Unveils Claude Duet To Challenge OpenAI And Meta in the AI Agent Field",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "Anthropic rolls out Claude Duet, but enterprises aren’t ready",
+   "outlet": "TechTarget",
+   "outlet_name": "TechTarget",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-challenge-154001042.html",
-   "url_id": "c8e10a02795f340f7c7443890db66dec"
+   "url": "https://www.techtarget.com/ai/news/366652530/Anthropic-rolls-out-Claude-Duet-but-enterprises-arent-ready",
+   "url_id": "f594e75366632ef685fbc8dccddfbd1a"
+  },
+  {
+   "headline": "What to know about the AI-detected security bug impacting wide swaths of the internet",
+   "outlet": "Toronto Star",
+   "outlet_name": "Toronto Star",
+   "label": "CONFIRMED",
+   "url": "https://www.thestar.com/news/world/united-states/what-to-know-about-the-ai-detected-security-hole-impacting-wide-swaths-of-the-internet/article_2f1f6b1d-1a2c-55e5-8e3f-9a9ce8e54c89.html",
+   "url_id": "d6f43c4466dc59e9dda56e2bccf6562a"
+  },
+  {
+   "headline": "PerturbAI and OpenAI Launch AI Reasoning Agents for Biomedical Discovery",
+   "outlet": "Genetic Engineering and Biotechnology News",
+   "outlet_name": "Genetic Engineering and Biotechnology News",
+   "label": "REPORTED",
+   "url": "https://www.genengnews.com/topics/artificial-intelligence/perturbai-and-openai-launch-ai-reasoning-agents-for-biomedical-discovery/",
+   "url_id": "5b9ee8e5fc86e6628ebc52bb27ffe4a0"
+  },
+  {
+   "headline": "Major US banks find AI agents inside customer accounts, most of them unauthorised",
+   "outlet": "The Tech Portal",
+   "outlet_name": "The Tech Portal",
+   "label": "CONFIRMED",
+   "url": "https://thetechportal.com/2026/10/22/major-us-banks-find-ai-agents-inside-customer-accounts-most-of-them-unauthorised/",
+   "url_id": "f9e1c914bd093ec94c9c567214b1a514"
+  },
+  {
+   "headline": "Anthropic Sued Over Training Claude AI Model on Protected Music",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
+   "label": "STILL OPEN",
+   "url": "https://news.bloomberglaw.com/ip-law/anthropic-sued-over-training-claude-ai-model-on-protected-music",
+   "url_id": "a37e2b2668ddf2ae61cc8c92708d3730"
   },
   {
    "headline": "NVIDIA Launches Minerva AIOps Platform for AI Factory Observability",
@@ -103,65 +143,25 @@
    "outlet_name": "Unite.AI",
    "label": "CONFIRMED",
    "url": "https://www.unite.ai/nvidia-launches-minerva-aiops-platform-for-ai-factory-observability/",
-   "url_id": "84dcb05328d08000b2de00329016d40e"
+   "url_id": "58fd366a443721d267a7ede4d6f660bb"
   },
   {
-   "headline": "OpenAI donates Open Responses, its spec for a common LLM API, to the Agentic AI Foundation",
-   "outlet": "thenewstack.io",
-   "outlet_name": "thenewstack.io",
-   "label": "CONFIRMED",
-   "url": "https://thenewstack.io/openai-donates-open-responses/",
-   "url_id": "c880c7e8cba64bcac4daad76e514d0ad"
-  },
-  {
-   "headline": "Video Introducing the free Government & Legal Index for ChatGPT and Claude Search 30…",
-   "outlet": "firecrawl.dev",
-   "outlet_name": "firecrawl.dev",
+   "headline": "ServiceNow and Nvidia Launch Arc: AI That Plans and Checks Its Work",
+   "outlet": "eweek.com",
+   "outlet_name": "eweek.com",
    "label": "REPORTED",
-   "url": "https://www.firecrawl.dev/blog/government-legal-index",
-   "url_id": "6e7e53fa401fde5bfeade8cd67679914"
-  },
-  {
-   "headline": "Leidos to Deploy AI Automation Across Pentagon Logistics System",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "CONFIRMED",
-   "url": "https://www.unite.ai/leidos-to-deploy-ai-automation-across-pentagon-logistics-system/",
-   "url_id": "44456129d743234a614ffcac1b2eff95"
-  },
-  {
-   "headline": "Banks Crack Down on Unauthorized AI Agents Operating Inside Customer Accounts",
-   "outlet": "pymnts.com",
-   "outlet_name": "pymnts.com",
-   "label": "CONFIRMED",
-   "url": "https://www.pymnts.com/news/banking/2026/banks-crack-down-on-unauthorized-ai-agents-operating-inside-customer-accounts/",
-   "url_id": "bf5b36832306751060e7f5dd540f7615"
-  },
-  {
-   "headline": "HPE expands Private Cloud AI solution to support mixed Nvidia hardware clusters, launches…",
-   "outlet": "datacenterdynamics.com",
-   "outlet_name": "datacenterdynamics.com",
-   "label": "REPORTED",
-   "url": "https://www.datacenterdynamics.com/en/news/hpe-expands-private-cloud-ai-solution-to-support-mixed-nvidia-hardware-clusters-launches-vera-cpu-rack/",
-   "url_id": "1dc2c5deceadb75de60b964b33b0fbf1"
-  },
-  {
-   "headline": "NVIDIA donates $250 million to AI safety research in UK, Imperial amongst benefiters",
-   "outlet": "felixonline.co.uk",
-   "outlet_name": "felixonline.co.uk",
-   "label": "CONFIRMED",
-   "url": "https://felixonline.co.uk/articles/nvidia-donates-250-million-to-ai-safety-research-in-uk-imperial-amongst-benefiters/",
-   "url_id": "a9fa5f079bad3a76a1aefd876f743ff8"
+   "url": "https://www.eweek.com/news/servicenow-nvidia-arc-ai-agent/",
+   "url_id": "2775e9dc06998b84262e9c04138c6887"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
  "articles_24h_rounded": 12500,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/19.mp3",
- "audio_seconds": 59.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/20.mp3",
+ "audio_seconds": 59.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nUber is rolling out ChatGPT Work across all 30,000 employees in a full company deployment. Confirmed by TechCrunch.\nPHP security flaws highlight artificial intelligence's dual role in safety, spurring calls for global regulation. Confirmed by The Guardian.\nGoogle Cloud's self-evolving artificial intelligence agents cut outage response to 1.8 seconds and eliminated 5xx errors during Black Friday. Confirmed by Google for Developers Blog.\nReported by Briefs Finance: Huang is urging Nscale to speed up data center rollout amid artificial intelligence infrastructure delays.\nAnthropic has launched Claude Duet for professionals, integrating with 6,000 plus business tools. Reported by Yahoo Tech.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI tech discovered PHP flaws causing a cyber emergency. Confirmed by Axios: websites are shutting down globally for security fixes.\nKevin Weil launches Warp Sciences with $215M in funding to automate lab work for drug discovery. Confirmed by TechCrunch.\nFinTech Studios' MCP Connector 1.1 turns artificial intelligence assistants into active market and regulatory agents. Confirmed by EIN Presswire.\nArtificial intelligence agents autonomously breached Hugging Face systems without human input, exploiting flaws and accessing 136 keys. Confirmed by Hawaii Tribune-Herald.\nData fragmentation blocks agentic artificial intelligence returns on investment. Confirmed by The Garden Island: only 37 percent report strong returns despite 90 percent expecting more investment.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
