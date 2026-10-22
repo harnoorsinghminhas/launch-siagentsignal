@@ -1,101 +1,93 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T13:20:03Z",
- "hour": "2026-10-22T13:00:00Z",
+ "generated_at": "2026-10-22T14:20:03Z",
+ "hour": "2026-10-22T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic launches Claude Duet for professionals, targeting enterprise AI market.",
-   "published_at": "2026-10-21T14:42:00Z",
-   "url_id": "2af0d9b6189b1e66212c48a9d27768eb"
-  },
-  {
-   "title": "Nvidia's Huang: Neocloud Demand Explodes But Capital Dries Up",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "url": "https://www.techbuzz.ai/articles/nvidia-s-huang-neocloud-demand-explodes-but-capital-dries-up",
-   "label": "CONFIRMED",
-   "summary_1line": "Nvidia CEO says AI infrastructure demand is surging but capital shortages are slowing growth.",
-   "published_at": "2026-10-22T11:07:00Z",
-   "url_id": "1771d192b2b7eb77258e0b0503d74071"
-  },
-  {
-   "title": "Claude did not invent scorpion antivenom",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-   "label": "CONFIRMED",
-   "summary_1line": "Citrini's AI experiment designed protein binders for scorpion antivenom but failed to produce a viable treatment.",
-   "published_at": "2026-10-22T12:21:07Z",
-   "url_id": "a131637c9a2c5ef8fcfbe2eb4eb52129"
-  },
-  {
-   "title": "Supermicro Unveils Liquid-cooled NVIDIA Vera CPU Rack For Agentic AI Workloads",
-   "outlet": "RTTNews",
-   "outlet_name": "RTTNews",
-   "url": "https://www.rttnews.com/3701732/supermicro-unveils-liquid-cooled-nvidia-vera-cpu-rack-for-agentic-ai-workloads.aspx",
-   "label": "CONFIRMED",
-   "summary_1line": "Super Micro launches liquid-cooled rack with 256 Vera CPUs for AI workloads.",
-   "published_at": "2026-10-22T04:48:00Z",
-   "url_id": "6804446a097beba6ee03c4b3f1e15873"
-  },
-  {
-   "title": "BILL launches agentic AI tools for SMB finance teams",
-   "outlet": "The Paypers",
-   "outlet_name": "The Paypers",
-   "url": "https://thepaypers.com/fintech/news/bill-launches-agentic-ai-features-for-smb-finance-teams",
+   "title": "DeepSeek reportedly raises $15B days after US restrictions",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
    "label": "REPORTED",
-   "summary_1line": "BILL rolls out AI tools for finance teams to detect errors, control AI, and chat with data.",
-   "published_at": "2026-10-22T11:57:10Z",
-   "url_id": "dd04a79cfe863faf1d225038f9210449"
+   "summary_1line": null,
+   "published_at": "2026-10-22T06:11:00Z",
+   "url_id": "feacd6de002e3968f9765e8352b92957"
+  },
+  {
+   "title": "Walmart welcomes AI agents as Anthropic launches its own",
+   "outlet": "Tech Xplore",
+   "outlet_name": "Tech Xplore",
+   "url": "https://techxplore.com/news/2026-10-walmart-ai-agents-anthropic.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Walmart rolls out AI shopping agents, while Amazon blocks them and sues Perplexity over agent use.",
+   "published_at": "2026-10-22T09:30:01Z",
+   "url_id": "aa8b6bca01c425acc1fa6fb4b706c2ac"
+  },
+  {
+   "title": "Rush is on to patch AI-discovered software vulnerability that could impact 70% of websites worldwide",
+   "outlet": "Herald Bulletin",
+   "outlet_name": "Herald Bulletin",
+   "url": "https://www.heraldbulletin.com/news/nation_world/rush-is-on-to-patch-ai-discovered-software-vulnerability-that-could-impact-70-of-websites/article_d5d5d29c-7d95-537a-a1c8-0b1a33b300d2.html",
+   "label": "CONFIRMED",
+   "summary_1line": "AI-assisted discovery of a critical vulnerability in a widely used programming language prompts global software updates.",
+   "published_at": "2026-10-22T12:21:41Z",
+   "url_id": "961c5b544517abe8a54a001249238c6c"
+  },
+  {
+   "title": "Anthropic is unveiling a workplace AI agent to rival Meta Muse and OpenAI Dots",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
+   "url": "https://qz.com/anthropic-claude-duet-ai-agent-meta-muse-openai-dots-102226",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic launches Claude Duet for professionals with 6,000+ app integrations and safety checks.",
+   "published_at": "2026-10-22T12:16:35Z",
+   "url_id": "5e3c1f6a619f8ad73fbdca037efec4c6"
+  },
+  {
+   "title": "Germany's Agile Robots Launches Agile ONE SN Humanoid Research Platform Built on Nvidia GR00T",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
+   "url": "https://theaiinsider.tech/2026/10/22/germanys-agile-robots-launches-agile-one-sn-humanoid-research-platform-built-on-nvidia-gr00t/",
+   "label": "REPORTED",
+   "summary_1line": "Agile Robots launches Agile ONE SN, a compact humanoid research platform with 71 degrees of freedom, for early 2027 release.",
+   "published_at": "2026-10-22T11:52:58Z",
+   "url_id": "32a8c69a4a10cfaac33e857c3ebc608d"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/21/anthropic-preview-of-claude-duet-personal-ai-agent-take-on-muse-dots.html",
-   "url_id": "2af0d9b6189b1e66212c48a9d27768eb"
-  },
-  {
-   "headline": "Nvidia's Huang: Neocloud Demand Explodes But Capital Dries Up",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "label": "CONFIRMED",
-   "url": "https://www.techbuzz.ai/articles/nvidia-s-huang-neocloud-demand-explodes-but-capital-dries-up",
-   "url_id": "1771d192b2b7eb77258e0b0503d74071"
-  },
-  {
-   "headline": "Claude did not invent scorpion antivenom",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-   "url_id": "a131637c9a2c5ef8fcfbe2eb4eb52129"
-  },
-  {
-   "headline": "Supermicro Unveils Liquid-cooled NVIDIA Vera CPU Rack For Agentic AI Workloads",
-   "outlet": "RTTNews",
-   "outlet_name": "RTTNews",
-   "label": "CONFIRMED",
-   "url": "https://www.rttnews.com/3701732/supermicro-unveils-liquid-cooled-nvidia-vera-cpu-rack-for-agentic-ai-workloads.aspx",
-   "url_id": "6804446a097beba6ee03c4b3f1e15873"
-  },
-  {
-   "headline": "BILL launches agentic AI tools for SMB finance teams",
-   "outlet": "The Paypers",
-   "outlet_name": "The Paypers",
+   "headline": "DeepSeek reportedly raises $15B days after US restrictions",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "REPORTED",
-   "url": "https://thepaypers.com/fintech/news/bill-launches-agentic-ai-features-for-smb-finance-teams",
-   "url_id": "dd04a79cfe863faf1d225038f9210449"
+   "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+   "url_id": "feacd6de002e3968f9765e8352b92957"
+  },
+  {
+   "headline": "Walmart welcomes AI agents as Anthropic launches its own",
+   "outlet": "Tech Xplore",
+   "outlet_name": "Tech Xplore",
+   "label": "CONFIRMED",
+   "url": "https://techxplore.com/news/2026-10-walmart-ai-agents-anthropic.html",
+   "url_id": "aa8b6bca01c425acc1fa6fb4b706c2ac"
+  },
+  {
+   "headline": "Rush is on to patch AI-discovered software vulnerability that could impact 70% of…",
+   "outlet": "Herald Bulletin",
+   "outlet_name": "Herald Bulletin",
+   "label": "CONFIRMED",
+   "url": "https://www.heraldbulletin.com/news/nation_world/rush-is-on-to-patch-ai-discovered-software-vulnerability-that-could-impact-70-of-websites/article_d5d5d29c-7d95-537a-a1c8-0b1a33b300d2.html",
+   "url_id": "961c5b544517abe8a54a001249238c6c"
+  },
+  {
+   "headline": "Anthropic is unveiling a workplace AI agent to rival Meta Muse and OpenAI Dots",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
+   "label": "REPORTED",
+   "url": "https://qz.com/anthropic-claude-duet-ai-agent-meta-muse-openai-dots-102226",
+   "url_id": "5e3c1f6a619f8ad73fbdca037efec4c6"
   },
   {
    "headline": "Germany's Agile Robots Launches Agile ONE SN Humanoid Research Platform Built on Nvidia…",
@@ -114,12 +106,12 @@
    "url_id": "a36962c719471de9072e846e9c17c00d"
   },
   {
-   "headline": "DeepSeek reportedly raises $15 billion",
-   "outlet": "www.trendingtopics.eu",
-   "outlet_name": "www.trendingtopics.eu",
-   "label": "STILL OPEN",
-   "url": "https://www.trendingtopics.eu/deepseek-reportedly-raises-15-billion/",
-   "url_id": "63fcc4d8bc3327b68dec0e51a8b4edae"
+   "headline": "Nutanix announces AI infrastructure tie-ups with NVIDIA, Supermicro and Netris",
+   "outlet": "Analytics India Magazine",
+   "outlet_name": "Analytics India Magazine",
+   "label": "REPORTED",
+   "url": "https://analyticsindiamag.com/ai-news/nutanix-announces-ai-infrastructure-tie-ups-with-nvidia-supermicro-and-netris",
+   "url_id": "df6edf4c3beb64ff3edb47a01a1c3e07"
   },
   {
    "headline": "HPE updates AI Factory with Nvidia for regulated sectors",
@@ -130,12 +122,12 @@
    "url_id": "52a01134ade23f7e7e97572079645024"
   },
   {
-   "headline": "OpenAI hires new energy regulatory lead",
-   "outlet": "datacenterdynamics.com",
-   "outlet_name": "datacenterdynamics.com",
-   "label": "CONFIRMED",
-   "url": "https://www.datacenterdynamics.com/en/news/openai-hires-new-energy-regulatory-lead/",
-   "url_id": "a73cd88d43e4893eab55f12cc06400ad"
+   "headline": "Anthropic unveils Claude Duet AI agent app (Oct 21)",
+   "outlet": "marketscreener.com",
+   "outlet_name": "marketscreener.com",
+   "label": "REPORTED",
+   "url": "https://www.marketscreener.com/news/anthropic-unveils-claude-duet-ai-agent-app-oct-21-ce785cd9dd8ef527",
+   "url_id": "5bcc0b20f3a55acaa1729abc36e43293"
   },
   {
    "headline": "Claude Security can now spot vulnerabilities that reappear in code",
@@ -152,16 +144,24 @@
    "label": "CONFIRMED",
    "url": "https://www.infosecurity-magazine.com/news/microsoft-chinese-ai-connectwise/",
    "url_id": "6d4b3c19d1da5bcda123c5778d182cc9"
+  },
+  {
+   "headline": "Nvidia boss criticises 'cheap' AI doomsday warnings",
+   "outlet": "Agence France-Presse on MSN",
+   "outlet_name": "Agence France-Presse on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-gb/technology/tech-companies/nvidia-boss-criticises-cheap-ai-doomsday-warnings/ar-AA2fOOhC",
+   "url_id": "ca5b1ea19f9a94996675bad5afa58c33"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13100,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 13000,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/13.mp3",
- "audio_seconds": 48.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/14.mp3",
+ "audio_seconds": 29.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots.\nConfirmed, per The Tech Buzz: Nvidia's Huang: Neocloud Demand Explodes But Capital Dries Up.\nConfirmed, per The Verge: Claude did not invent scorpion antivenom.\nConfirmed, per RTTNews: Supermicro Unveils Liquid-cooled NVIDIA Vera CPU Rack For Agentic AI Workloads.\nReported by The Paypers: BILL launches agentic AI tools for SMB finance teams.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TechCrunch: DeepSeek reportedly raises $15B days after US restrictions.\nConfirmed, per Tech Xplore: Walmart welcomes AI agents as Anthropic launches its own.\nConfirmed, per Herald Bulletin: Rush is on to patch AI-discovered software vulnerability that could impact 70% of websites worldwide.\nReported by Quartz: Anthropic is unveiling a workplace AI agent to rival Meta Muse and OpenAI Dots.\nReported by AI Insider: Germany's Agile Robots Launches Agile ONE SN Humanoid Research Platform Built on Nvidia GR00T.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
