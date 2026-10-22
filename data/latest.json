@@ -1,117 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T04:20:02Z",
- "hour": "2026-10-22T04:00:00Z",
+ "generated_at": "2026-10-22T05:20:03Z",
+ "hour": "2026-10-22T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia unveils modular data centre vision to accelerate AI computing",
-   "outlet": "Communications Today",
-   "outlet_name": "Communications Today",
-   "url": "https://www.communicationstoday.co.in/nvidia-unveils-modular-data-centre-vision-to-accelerate-ai-computing/",
-   "label": "REPORTED",
-   "summary_1line": "Nvidia's $10B modular AI data center plan boosts investor interest and accelerates AI computing.",
-   "published_at": "2026-10-22T02:46:27Z",
-   "url_id": "3ced5fa6d00161d634567e1635cb125d"
+   "title": "DeepSeek reportedly raises nearly $15 billion",
+   "outlet": "Independent Journal Review",
+   "outlet_name": "Independent Journal Review",
+   "url": "https://ijr.com/discover/deepseek-reportedly-raises-nearly-15-billion-6c316bf7",
+   "label": "STILL OPEN",
+   "summary_1line": "DeepSeek reportedly raises $15B, aiming to compete globally.",
+   "published_at": "2026-10-21T17:00:00Z",
+   "url_id": "c175fc3ff11c6ebd930ab22d89186d59"
   },
   {
-   "title": "Websites go dark as AI exposes critical security flaws",
-   "outlet": "香港電台新聞網",
-   "outlet_name": "香港電台新聞網",
-   "url": "https://news.rthk.hk/rthk/en/component/k2/1874858-20261022.htm",
+   "title": "AI-Discovered PHP Flaws Put Millions of Websites at Risk",
+   "outlet": "tippinsights",
+   "outlet_name": "tippinsights",
+   "url": "https://tippinsights.com/ai-discovered-php-flaws-put-millions-of-websites-at-risk/",
    "label": "CONFIRMED",
-   "summary_1line": "PHP flaws trigger global site shutdowns; AI models used to find vulnerabilities.",
-   "published_at": "2026-10-22T00:03:00Z",
-   "url_id": "34ba25481b8b92d8450b5067e7860553"
+   "summary_1line": "PHP Foundation issues emergency updates after AI-detected flaws trigger site shutdowns in Netherlands and Finland.",
+   "published_at": "2026-10-21T22:29:16Z",
+   "url_id": "09ff72a05747c16e6e76a8e81daa60c6"
   },
   {
-   "title": "AI Research Foundry London launches with Imperial, DeepMind and Microsoft researchers",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/ai-research-foundry-london-launches-with-imperial-deepmind-and-microsoft-researchers",
+   "title": "VAST Data, Nvidia launch new AI agent foundation stack",
+   "outlet": "ET Telecom",
+   "outlet_name": "ET Telecom",
+   "url": "https://telecom.economictimes.indiatimes.com/news/internet/vast-data-nvidia-launch-new-ai-agent-foundation-stack/135104306",
    "label": "REPORTED",
-   "summary_1line": "AI Research Foundry London launches with top researchers for data-focused AI discussions.",
-   "published_at": "2026-10-21T23:01:30Z",
-   "url_id": "4fb2465ee40b533104c02924928de0a3"
+   "summary_1line": "VAST Data and Nvidia launch AI agent foundation stack for scalable, secure agent operations.",
+   "published_at": "2026-10-21T19:03:00Z",
+   "url_id": "9397f3473b4a7a3a48dfb266b1e3fefa"
   },
   {
-   "title": "Bulbthings Launches AI Copilot Customization Skill to Automate Operations for Every Physical Asset a Business Relies On",
-   "outlet": "Inter Press Service",
-   "outlet_name": "Inter Press Service",
-   "url": "https://ipsnews.net/business/2026/10/21/bulbthings-launches-ai-copilot-customization-skill-to-automate-operations-for-every-physical-asset-a-business-relies-on/",
-   "label": "REPORTED",
-   "summary_1line": "Bulbthings launches Customization Skill for AI Copilot, letting mid-size firms build custom workflows in minutes.",
-   "published_at": "2026-10-21T22:04:16Z",
-   "url_id": "5e639b5f8da41fd43f85d52688b1ada7"
-  },
-  {
-   "title": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
+   "title": "‘This is Pandora’s Box’: New AI policy discussed by Anne Arundel school board",
+   "outlet": "The Baltimore Sun",
+   "outlet_name": "The Baltimore Sun",
+   "url": "https://www.baltimoresun.com/2026/10/21/ai-policy-anne-arundel-school-board/",
    "label": "CONFIRMED",
-   "summary_1line": "243M in SEA use AI; only 1-2% pay; 75% trust AI to find prices and buy.",
-   "published_at": "2026-10-22T01:22:22Z",
-   "url_id": "cd97e8c5391a4c7005a4853b526f85ea"
+   "summary_1line": "School board discusses AI policy amid concerns and recognition of its educational role.",
+   "published_at": "2026-10-21T18:55:00Z",
+   "url_id": "9ba6b3a424eecfd696bcd54b426a3a9b"
+  },
+  {
+   "title": "Nvidia unveils OpenShell reference architecture to control AI agents",
+   "outlet": "DigitalToday",
+   "outlet_name": "DigitalToday",
+   "url": "https://www.digitaltoday.co.kr/en/view/117793/nvidia-unveils-openshell-reference-architecture-to-control-ai-agents",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia's OpenShell enables secure AI agent operations with boundary controls for enterprises.",
+   "published_at": "2026-10-21T14:34:00Z",
+   "url_id": "03493c5820fee2ebd231ad6c9902e9f2"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia unveils modular data centre vision to accelerate AI computing",
-   "outlet": "Communications Today",
-   "outlet_name": "Communications Today",
-   "label": "REPORTED",
-   "url": "https://www.communicationstoday.co.in/nvidia-unveils-modular-data-centre-vision-to-accelerate-ai-computing/",
-   "url_id": "3ced5fa6d00161d634567e1635cb125d"
+   "headline": "DeepSeek reportedly raises nearly $15 billion",
+   "outlet": "Independent Journal Review",
+   "outlet_name": "Independent Journal Review",
+   "label": "STILL OPEN",
+   "url": "https://ijr.com/discover/deepseek-reportedly-raises-nearly-15-billion-6c316bf7",
+   "url_id": "c175fc3ff11c6ebd930ab22d89186d59"
   },
   {
-   "headline": "Websites go dark as AI exposes critical security flaws",
-   "outlet": "香港電台新聞網",
-   "outlet_name": "香港電台新聞網",
+   "headline": "AI-Discovered PHP Flaws Put Millions of Websites at Risk",
+   "outlet": "tippinsights",
+   "outlet_name": "tippinsights",
    "label": "CONFIRMED",
-   "url": "https://news.rthk.hk/rthk/en/component/k2/1874858-20261022.htm",
-   "url_id": "34ba25481b8b92d8450b5067e7860553"
+   "url": "https://tippinsights.com/ai-discovered-php-flaws-put-millions-of-websites-at-risk/",
+   "url_id": "09ff72a05747c16e6e76a8e81daa60c6"
   },
   {
-   "headline": "AI Research Foundry London launches with Imperial, DeepMind and Microsoft researchers",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
+   "headline": "VAST Data, Nvidia launch new AI agent foundation stack",
+   "outlet": "ET Telecom",
+   "outlet_name": "ET Telecom",
    "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/ai-research-foundry-london-launches-with-imperial-deepmind-and-microsoft-researchers",
-   "url_id": "4fb2465ee40b533104c02924928de0a3"
-  },
-  {
-   "headline": "Bulbthings Launches AI Copilot Customization Skill to Automate Operations for Every…",
-   "outlet": "Inter Press Service",
-   "outlet_name": "Inter Press Service",
-   "label": "REPORTED",
-   "url": "https://ipsnews.net/business/2026/10/21/bulbthings-launches-ai-copilot-customization-skill-to-automate-operations-for-every-physical-asset-a-business-relies-on/",
-   "url_id": "5e639b5f8da41fd43f85d52688b1ada7"
-  },
-  {
-   "headline": "Southeast Asia is hungry for AI — and the money isn't just in subscriptions",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/22/southeasaisa-singapore-bain-temasek-google-.html",
-   "url_id": "cd97e8c5391a4c7005a4853b526f85ea"
-  },
-  {
-   "headline": "Klique Announces Expanded Integrations with NVIDIA to Accelerate Enterprise AI Workflows…",
-   "outlet": "Weatherford Democrat",
-   "outlet_name": "Weatherford Democrat",
-   "label": "REPORTED",
-   "url": "https://www.weatherforddemocrat.com/texas/news/klique-announces-expanded-integrations-with-nvidia-to-accelerate-enterprise-ai-workflows-and-optimize-gpu-utilization/article_3b40d710-07c5-5be7-b6aa-2ecc0e3978bd.html",
-   "url_id": "b8958bfb2221648631d92afdcfa8e9a6"
-  },
-  {
-   "headline": "Advanced AI agents tried to weaken oversight, then lied about it, OpenAI says",
-   "outlet": "Baltimore Sun",
-   "outlet_name": "Baltimore Sun",
-   "label": "CONFIRMED",
-   "url": "https://www.baltimoresun.com/2026/10/21/advanced-ai-agents-tried-to-weaken-oversight-then-lied-about-it-openai-says/",
-   "url_id": "ac5a1bf085f03eaf1c5ec4fa2bafb975"
+   "url": "https://telecom.economictimes.indiatimes.com/news/internet/vast-data-nvidia-launch-new-ai-agent-foundation-stack/135104306",
+   "url_id": "9397f3473b4a7a3a48dfb266b1e3fefa"
   },
   {
    "headline": "‘This is Pandora’s Box’: New AI policy discussed by Anne Arundel school board",
@@ -122,20 +90,44 @@
    "url_id": "9ba6b3a424eecfd696bcd54b426a3a9b"
   },
   {
-   "headline": "Humanoid robot cuts model processing delay 8x with NVIDIA tech in internal tests",
+   "headline": "Nvidia unveils OpenShell reference architecture to control AI agents",
+   "outlet": "DigitalToday",
+   "outlet_name": "DigitalToday",
+   "label": "REPORTED",
+   "url": "https://www.digitaltoday.co.kr/en/view/117793/nvidia-unveils-openshell-reference-architecture-to-control-ai-agents",
+   "url_id": "03493c5820fee2ebd231ad6c9902e9f2"
+  },
+  {
+   "headline": "Anthropic vor Gericht: Streit um Songtexte im Claude-Training bleibt offen",
+   "outlet": "AD HOC NEWS",
+   "outlet_name": "AD HOC NEWS",
+   "label": "REPORTED",
+   "url": "https://www.ad-hoc-news.de/wissenschaft/anthropic-vor-gericht-streit-um-songtexte-im-claude-training-bleibt-offen/70389596",
+   "url_id": "4cd6eea82f194093d12766ed3b2f61cc"
+  },
+  {
+   "headline": "Nvidia, Nokia expand sovereign AI partnership",
+   "outlet": "Mobile Europe",
+   "outlet_name": "Mobile Europe",
+   "label": "REPORTED",
+   "url": "https://www.mobileeurope.co.uk/nvidia-nokia-agentic-ai/",
+   "url_id": "8a15281d0c4fe031bbf4085eda6d5755"
+  },
+  {
+   "headline": "Claude Duet taps 6,000-plus integrations to automate business tasks",
    "outlet": "Interesting Engineering",
    "outlet_name": "Interesting Engineering",
    "label": "REPORTED",
-   "url": "https://interestingengineering.com/ai-robotics/bear-robotics-humanoid-nvidia-inference-speedup",
-   "url_id": "e2191a1a3ad780f744d685f9d63bcb47"
+   "url": "https://interestingengineering.com/ai-robotics/new-claude-duet-business-task-automation",
+   "url_id": "18b894f98d1c3bab69711d3aabf6d209"
   },
   {
-   "headline": "PHP2Shell’s 2 CVEs Draw AI Tools From Google, OpenAI [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "CONFIRMED",
-   "url": "https://shattered.io/php2shell-2-cves-google-openai-ai-tools-2026/",
-   "url_id": "1a6fb53da15c1cb56e968c7ed8581f68"
+   "headline": "Cloudflare links vulnerability discovery to defense with OpenAI",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "label": "REPORTED",
+   "url": "https://openai.com/index/cloudflare-cyber/",
+   "url_id": "d681bcc8c17b21c8178cf0bb200c47e7"
   },
   {
    "headline": "Anthropic, music publishers square off on 'fair use' defense in AI copyright case",
@@ -146,22 +138,30 @@
    "url_id": "407e1c44b92d2e53ae8cca74ebd5a671"
   },
   {
-   "headline": "Cadence Design Systems, Inc. Announces Nokia Deploys Cadence AuraStack AI Super Agent On…",
-   "outlet": "marketscreener.com",
-   "outlet_name": "marketscreener.com",
+   "headline": "PHP2Shell vulnerability: 'Most significant security issues,' how Google, OpenAI and…",
+   "outlet": "Mint on MSN",
+   "outlet_name": "Mint on MSN",
    "label": "REPORTED",
-   "url": "https://www.marketscreener.com/news/cadence-design-systems-inc-announces-nokia-deploys-cadence-aurastack-ai-super-agent-on-cadence-mil-ce785cd9d88cf627",
-   "url_id": "24928753f03806e43ace3a591f2ba524"
+   "url": "https://www.msn.com/en-in/news/other/php2shell-vulnerability-most-significant-security-issues-how-google-openai-and-amazon-respond-to-the-cyber-threat/ar-AA2fMtVq",
+   "url_id": "3f6daab5c2da079b7b242b74aa7f843a"
+  },
+  {
+   "headline": "Google’s Gemini Intelligence has a new Android competitor, and it’s ready to get things…",
+   "outlet": "androidauthority.com",
+   "outlet_name": "androidauthority.com",
+   "label": "REPORTED",
+   "url": "https://www.androidauthority.com/claude-duet-android-app-launch-capabilities-features-3726465/",
+   "url_id": "638d2c3bd0ce8fba54fb83ea2ad0810d"
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 20000,
- "articles_24h_label": "about 20,000",
+ "articles_24h_rounded": 15100,
+ "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/04.mp3",
- "audio_seconds": 52.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/05.mp3",
+ "audio_seconds": 45.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Communications Today: Nvidia unveils modular data centre vision to accelerate AI computing.\nConfirmed, per 香港電台新聞網: Websites go dark as AI exposes critical security flaws.\nReported by EdTech Innovation Hub: AI Research Foundry London launches with Imperial, DeepMind and Microsoft researchers.\nReported by Inter Press Service: Bulbthings Launches AI Copilot Customization Skill to Automate Operations for Every Physical Asset a Business Relies On.\nConfirmed, per CNBC: Southeast Asia is hungry for AI — and the money isn't just in subscriptions.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per Independent Journal Review: DeepSeek reportedly raises nearly $15 billion.\nConfirmed, per tippinsights: AI-Discovered PHP Flaws Put Millions of Websites at Risk.\nReported by ET Telecom: VAST Data, Nvidia launch new AI agent foundation stack.\nConfirmed, per The Baltimore Sun: ‘This is Pandora’s Box’: New AI policy discussed by Anne Arundel school board.\nReported by DigitalToday: Nvidia unveils OpenShell reference architecture to control AI agents.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
