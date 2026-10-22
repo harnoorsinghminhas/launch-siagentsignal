@@ -1,109 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T22:20:02Z",
- "hour": "2026-10-22T22:00:00Z",
+ "generated_at": "2026-10-22T23:20:07Z",
+ "hour": "2026-10-22T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI launches fast decision API, cutting response time to 100ms, using Luna model.",
-   "published_at": "2026-10-22T19:00:00Z",
-   "url_id": "273d0dde3696440562f8124c112d9d10"
-  },
-  {
-   "title": "Formic Raises $50 Million to Scale Physical AI Across American Manufacturing",
-   "outlet": "The National Law Review",
-   "outlet_name": "The National Law Review",
-   "url": "https://natlawreview.com/press-releases/formic-raises-50-million-scale-physical-ai-across-american-manufacturing",
-   "label": "CONFIRMED",
-   "summary_1line": "Formic raises $50M to scale general-purpose robotics in U.S. manufacturing.",
-   "published_at": "2026-10-22T20:16:00Z",
-   "url_id": "f550c426f9aca732d4d6efbad5a16ffc"
-  },
-  {
-   "title": "Alex Kantrowitz: Google, Anthropic, OpenAI will be looking for ways to fund the backbone of AI",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/22/alex-kantrowitz-google-anthropic-openai-will-be-looking-for-ways-to-fund-the-backbone-of-ai.html",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
    "label": "STILL OPEN",
-   "summary_1line": "Kantrowitz says major AI firms will seek more funding to build AI infrastructure.",
-   "published_at": "2026-10-22T19:14:27Z",
-   "url_id": "7b8b923264ea86348f839a656a80ec3a"
+   "summary_1line": "OpenAI reportedly seeks $30B at $1.25T valuation; Anthropic targets $1.5–2T for IPO.",
+   "published_at": "2026-10-22T22:08:24Z",
+   "url_id": "1e3382b17a9c6b7982ce0ac80078198c"
   },
   {
-   "title": "Claude flags nearly 500 worrying open source security issues — C, Java, and Python code all at risk as one flaw wasn't spotted for 21 years",
-   "outlet": "TechRadar",
-   "outlet_name": "TechRadar",
-   "url": "https://www.techradar.com/pro/security/claude-flags-nearly-500-worrying-open-source-security-issues-c-java-and-python-code-all-at-risk-as-one-flaw-wasnt-spotted-for-21-years",
+   "title": "Google launches more personalized Gemini AI as competition over in-car technology intensifies",
+   "outlet": "Car Dealership Guy News",
+   "outlet_name": "Car Dealership Guy News",
+   "url": "https://news.dealershipguy.com/p/google-launches-more-personalized-gemini-ai-as-competition-over-in-car-technology-intensifies",
+   "label": "REPORTED",
+   "summary_1line": "Google rolls out personalized Gemini AI to vehicles, boosting infotainment competition.",
+   "published_at": "2026-10-22T21:00:39Z",
+   "url_id": "1adde00e064429520865c0f166a751f0"
+  },
+  {
+   "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+   "outlet": "Financial Times",
+   "outlet_name": "Financial Times",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWQtQ2RQaXBRUWc1UlRnSVpKbkJnVzRPZnNCNHJrZUczU25qcE1oWHh2Ri1HVzl5OUJtS2lHeHkyenRYTnlpeURPZjNsN3dhUlVxdGZvSnZmQjZtOGFrZFg1OFhOcEs3Y0VMRFg3M2tpNWlEQ1Y5c3Q4ejBwX2dsSWk3eXE?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-22T18:35:00Z",
-   "url_id": "59db8521e37993c669259a02a996e24e"
+   "published_at": "2026-10-22T21:50:16Z",
+   "url_id": "733d60fc908e2d6fa4c7397c2ea6e756"
   },
   {
-   "title": "AI agents raise concerns for banks",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/22/ai-agents-raise-concerns-for-banks.html",
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
    "label": "CONFIRMED",
-   "summary_1line": "Banks detect unauthorized AI agents in customer accounts, per Axios.",
-   "published_at": "2026-10-22T19:37:02Z",
-   "url_id": "06a9f0d245f6e490dde49c845f52d37f"
+   "summary_1line": "Canva launches Canva Craft, an AI image model with 2K resolution and 30+ aspect ratios.",
+   "published_at": "2026-10-22T14:51:00Z",
+   "url_id": "5eee804247a435ab2dffe426bbbc3182"
+  },
+  {
+   "title": "Expanding Claude availability and deployment choice on Google Cloud",
+   "outlet": "cloud",
+   "outlet_name": "cloud",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud",
+   "label": "CONFIRMED",
+   "summary_1line": "Google Cloud now offers Anthropic and Google-managed Claude model deployments with full AI capabilities.",
+   "published_at": "2026-10-22T03:00:00Z",
+   "url_id": "2de76ca2a94d7b0f9e7c6a972f3a070b"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-   "url_id": "273d0dde3696440562f8124c112d9d10"
-  },
-  {
-   "headline": "Formic Raises $50 Million to Scale Physical AI Across American Manufacturing",
-   "outlet": "The National Law Review",
-   "outlet_name": "The National Law Review",
-   "label": "CONFIRMED",
-   "url": "https://natlawreview.com/press-releases/formic-raises-50-million-scale-physical-ai-across-american-manufacturing",
-   "url_id": "f550c426f9aca732d4d6efbad5a16ffc"
-  },
-  {
-   "headline": "Alex Kantrowitz: Google, Anthropic, OpenAI will be looking for ways to fund the backbone…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
    "label": "STILL OPEN",
-   "url": "https://www.cnbc.com/video/2026/10/22/alex-kantrowitz-google-anthropic-openai-will-be-looking-for-ways-to-fund-the-backbone-of-ai.html",
-   "url_id": "7b8b923264ea86348f839a656a80ec3a"
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "url_id": "1e3382b17a9c6b7982ce0ac80078198c"
   },
   {
-   "headline": "Claude flags nearly 500 worrying open source security issues — C, Java, and Python code…",
-   "outlet": "TechRadar",
-   "outlet_name": "TechRadar",
+   "headline": "Google launches more personalized Gemini AI as competition over in-car technology…",
+   "outlet": "Car Dealership Guy News",
+   "outlet_name": "Car Dealership Guy News",
    "label": "REPORTED",
-   "url": "https://www.techradar.com/pro/security/claude-flags-nearly-500-worrying-open-source-security-issues-c-java-and-python-code-all-at-risk-as-one-flaw-wasnt-spotted-for-21-years",
-   "url_id": "59db8521e37993c669259a02a996e24e"
+   "url": "https://news.dealershipguy.com/p/google-launches-more-personalized-gemini-ai-as-competition-over-in-car-technology-intensifies",
+   "url_id": "1adde00e064429520865c0f166a751f0"
   },
   {
-   "headline": "AI agents raise concerns for banks",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/22/ai-agents-raise-concerns-for-banks.html",
-   "url_id": "06a9f0d245f6e490dde49c845f52d37f"
+   "headline": "OpenAI trims valuation target to $1.25tn after pitching higher price",
+   "outlet": "Financial Times",
+   "outlet_name": "Financial Times",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWQtQ2RQaXBRUWc1UlRnSVpKbkJnVzRPZnNCNHJrZUczU25qcE1oWHh2Ri1HVzl5OUJtS2lHeHkyenRYTnlpeURPZjNsN3dhUlVxdGZvSnZmQjZtOGFrZFg1OFhOcEs3Y0VMRFg3M2tpNWlEQ1Y5c3Q4ejBwX2dsSWk3eXE?oc=5",
+   "url_id": "733d60fc908e2d6fa4c7397c2ea6e756"
   },
   {
-   "headline": "DeepSeek’s V4.1-Flash-1017 Model Just Built An Exploit That Escapes Chrome’s Sandbox, As…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
+   "headline": "Canva’s first AI image model plans designs before generating them",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://wccftech.com/deepseeks-v4-1-flash-1017-model-just-built-an-exploit-that-escapes-chromes-sandbox-as-the-ai-driven-assault-on-the-open-web-goes-on-an-overdrive/",
-   "url_id": "074056b9f99468c45e876fd9f18f37f8"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "url_id": "5eee804247a435ab2dffe426bbbc3182"
+  },
+  {
+   "headline": "Expanding Claude availability and deployment choice on Google Cloud",
+   "outlet": "cloud",
+   "outlet_name": "cloud",
+   "label": "CONFIRMED",
+   "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud",
+   "url_id": "2de76ca2a94d7b0f9e7c6a972f3a070b"
+  },
+  {
+   "headline": "Open call for guest investigators in the life sciences",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
+   "url_id": "2c00c6806dedca59848a48e0f9b16dd8"
+  },
+  {
+   "headline": "LLMs are making formal software verification feasible at a much larger scale",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "url_id": "7ee25a04ae2655e0bf417733c2a6ced9"
+  },
+  {
+   "headline": "Seattle's Nobel-Winning Protein Lab Unveils AI Model Built With Nvidia",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
+   "label": "REPORTED",
+   "url": "https://hoodline.com/2026/10/seattle-s-nobel-winning-protein-lab-unveils-ai-model-built-with-nvidia/",
+   "url_id": "c9210b4379712fc22fc240d0905bca1d"
   },
   {
    "headline": "Datadog Reportedly Bids Nearly $4B For Cloud Security Startup Upwind To Fortify AI…",
@@ -114,20 +130,20 @@
    "url_id": "192ffba332302c422a15275b1c0ddbef"
   },
   {
-   "headline": "Canva’s first AI image model plans designs before generating them",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "REPORTED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-   "url_id": "5eee804247a435ab2dffe426bbbc3182"
+   "headline": "Microsoft Links ConnectWise Breach to China-Linked Group Using AI Pentesting Tool ARTEX",
+   "outlet": "securityaffairs.com",
+   "outlet_name": "securityaffairs.com",
+   "label": "CONFIRMED",
+   "url": "https://securityaffairs.com/201501/apt/microsoft-links-connectwise-breach-to-china-linked-group-using-ai-pentesting-tool-artex.html",
+   "url_id": "8016db6024a891ee931532520413de17"
   },
   {
-   "headline": "Van Orden faces ethics complaint over AI generated graphic of Cooke",
-   "outlet": "Channel 3000",
-   "outlet_name": "Channel 3000",
+   "headline": "Anthropic Says Claude Proved Security Properties Across 123 Libraries",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
    "label": "CONFIRMED",
-   "url": "https://www.channel3000.com/news/van-orden-faces-ethics-complaint-over-ai-generated-graphic-of-cooke/article_f6c00e14-ad13-4dbf-91fd-b4c3c09f7258.html",
-   "url_id": "3b29a94986be734aadc7984d588f5461"
+   "url": "https://www.unite.ai/anthropic-says-claude-proved-security-properties-across-123-libraries/",
+   "url_id": "e1905cb8bfbf14c10a05ae9cad743f9c"
   },
   {
    "headline": "Man Arrested After Telling Claude About Plans to Shoot Up Daycare",
@@ -136,32 +152,16 @@
    "label": "CONFIRMED",
    "url": "https://futurism.com/artificial-intelligence/man-arrested-claude-plans-shoot-daycare",
    "url_id": "68582d5ed7a784ea5e4ddcc4cb171201"
-  },
-  {
-   "headline": "Steep bill for AI buildout punishes Meta, other tech favorites",
-   "outlet": "economictimes.indiatimes.com",
-   "outlet_name": "economictimes.indiatimes.com",
-   "label": "CONFIRMED",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/steep-bill-for-ai-buildout-punishes-meta-other-tech-favorites/articleshow/135126732.cms",
-   "url_id": "dd4ad87ab429118d238e0baf8e852a16"
-  },
-  {
-   "headline": "NVIDIA introduces containerized reference design for AI factories",
-   "outlet": "Engineering.com",
-   "outlet_name": "Engineering.com",
-   "label": "REPORTED",
-   "url": "https://www.engineering.com/nvidia-introduces-containerized-reference-design-for-ai-factories/",
-   "url_id": "81b9638f19a58786846839651858a512"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 12300,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 12100,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/22.mp3",
- "audio_seconds": 57.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/23.mp3",
+ "audio_seconds": 53.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: OpenAI makes its Jev competitor widely available as decision model competition heats up.\nConfirmed, per The National Law Review: Formic Raises $50 Million to Scale Physical AI Across American Manufacturing.\nStill open, per CNBC: Alex Kantrowitz: Google, Anthropic, OpenAI will be looking for ways to fund the backbone of AI.\nReported by TechRadar: Claude flags nearly 500 worrying open source security issues — C, Java, and Python code all at risk as one flaw wasn't spotted for 21 years.\nConfirmed, per CNBC: AI agents raise concerns for banks.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per TechCrunch: OpenAI working on new $30B raise at $1.25T valuation ahead of IPO.\nReported by Car Dealership Guy News: Google launches more personalized Gemini AI as competition over in-car technology intensifies.\nReported by Financial Times: OpenAI trims valuation target to $1.25tn after pitching higher price.\nConfirmed, per The Verge: Canva’s first AI image model plans designs before generating them.\nConfirmed, per cloud: Expanding Claude availability and deployment choice on Google Cloud.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
