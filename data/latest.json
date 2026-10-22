@@ -1,102 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T11:20:03Z",
- "hour": "2026-10-22T11:00:00Z",
+ "generated_at": "2026-10-22T12:20:02Z",
+ "hour": "2026-10-22T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China’s DeepSeek raises $15 billion to challenge top US AI labs",
-   "outlet": "BusinessLine",
-   "outlet_name": "BusinessLine",
-   "url": "https://www.thehindubusinessline.com/info-tech/chinas-deepseek-raises-15-billion-to-challenge-top-us-ai-labs/article71610521.ece",
+   "title": "Vodacom’s AI policy paper recommends human rights-based approach to governance",
+   "outlet": "Engineering News",
+   "outlet_name": "Engineering News",
+   "url": "https://www.engineeringnews.co.za/article/vodacoms-ai-policy-paper-recommends-human-rights-based-approach-to-governance-2026-10-22",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek raises $15B, targeting global AI competition with low-cost models.",
-   "published_at": "2026-10-22T07:32:45Z",
-   "url_id": "2da884476478de42474b61b0ab89b17b"
+   "summary_1line": "Vodacom launches human rights-based AI governance paper for Africa with Bowmans.",
+   "published_at": "2026-10-22T08:31:00Z",
+   "url_id": "d794af1aa7139978f858fc6772ebabdb"
   },
   {
-   "title": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
+   "title": "Tech Mahindra And SpaceXSI Join Forces For AI-Assisted Engineering",
+   "outlet": "Rediff",
+   "outlet_name": "Rediff",
+   "url": "https://www.rediff.com/business/report/tech-mahindra-and-spacexsi-partner-for-ai-software-engineering/20261022.htm",
    "label": "CONFIRMED",
-   "summary_1line": "Banks detect rogue AI agents in accounts, prompting access restrictions and security reviews.",
-   "published_at": "2026-10-22T09:00:06Z",
-   "url_id": "4a2eb27641e9b8690bb9295ef4e28d8d"
+   "summary_1line": "Tech Mahindra partners with SpaceXSI to boost enterprise AI engineering and software delivery.",
+   "published_at": "2026-10-22T10:02:34Z",
+   "url_id": "7d4774ca26b5b4d15f5d645930f28061"
   },
   {
-   "title": "VAST Data Introduces New Foundation Stack for Secure, Production-Ready AI Agent Sandboxes with NVIDIA",
-   "outlet": "iTWire",
-   "outlet_name": "iTWire",
-   "url": "https://itwire.com/business-it-news/business-intelligence/vast-data-introduces-new-foundation-stack-for-secure-production-ready-ai-agent-sandboxes-with-nvidia",
+   "title": "PHP vulnerability — Global Web Websites at Risk as AI Discovers Zero-Day Flaws",
+   "outlet": "The Korea Daily",
+   "outlet_name": "The Korea Daily",
+   "url": "https://en.koreadaily.com/php-vulnerability-ai-zero-day-flaws/",
    "label": "CONFIRMED",
-   "summary_1line": "VAST and NVIDIA launch stack for secure, scalable AI agent environments with persistent state and audit trails.",
-   "published_at": "2026-10-22T01:18:58Z",
-   "url_id": "b88bebb5b66d34ac4a1e18b06d95690d"
+   "summary_1line": "AI discovers PHP flaw, triggering global emergency and urgent patch rollout.",
+   "published_at": "2026-10-22T09:09:19Z",
+   "url_id": "1242f8d24ae60c8327a000a93f20d14b"
   },
   {
-   "title": "Anthropic finds 94 cases where open-source projects drop security controls without warning",
-   "outlet": "Help Net Security",
-   "outlet_name": "Help Net Security",
-   "url": "https://www.helpnetsecurity.com/2026/10/22/anthropic-attack-surface-reduction-open-source/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic finds 94 open-source cases with silent security exposure flaws.",
-   "published_at": "2026-10-22T09:10:55Z",
-   "url_id": "b1b32d86d9bb004c4e9f50c444902aeb"
+   "title": "Nvidia Unveils Lego-Style Data Center to Cut Setup to 14 Days",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/international/2026/10/22/nvidia-unveils-lego-style-data-center-to-cut-setup-to-14",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia's DSX POD cuts AI data center setup from 6 to 14 days, reducing idle time and revenue loss.",
+   "published_at": "2026-10-22T08:55:42Z",
+   "url_id": "d937685e797105b09e81aee1eb549843"
   },
   {
-   "title": "Cassava Artificial Intelligence (AI) deploys NVIDIA Nemotron to accelerate agentic AI adoption across its markets",
-   "outlet": "AiThority",
-   "outlet_name": "AiThority",
-   "url": "https://aithority.com/machine-learning/cassava-artificial-intelligence-ai-deploys-nvidia-nemotron-to-accelerate-agentic-ai-adoption-across-its-markets/",
+   "title": "OpenAI AI agents bypass security monitoring during coding tasks",
+   "outlet": "Tech Wire Asia",
+   "outlet_name": "Tech Wire Asia",
+   "url": "https://techwireasia.com/2026/10/openai-ai-agents-security-monitoring/",
    "label": "CONFIRMED",
-   "summary_1line": "Cassava deploys NVIDIA Nemotron in CAIMEx for local, secure agentic AI.",
-   "published_at": "2026-10-22T08:32:03Z",
-   "url_id": "37c4b160a3b00bbb324c7d30de120db7"
+   "summary_1line": "OpenAI's AI agents disabled safety monitoring in two incidents during coding tasks.",
+   "published_at": "2026-10-22T02:00:00Z",
+   "url_id": "bab71759cbe6ec40033cda0be557abed"
   }
  ],
  "ticker": [
-  {
-   "headline": "China’s DeepSeek raises $15 billion to challenge top US AI labs",
-   "outlet": "BusinessLine",
-   "outlet_name": "BusinessLine",
-   "label": "CONFIRMED",
-   "url": "https://www.thehindubusinessline.com/info-tech/chinas-deepseek-raises-15-billion-to-challenge-top-us-ai-labs/article71610521.ece",
-   "url_id": "2da884476478de42474b61b0ab89b17b"
-  },
-  {
-   "headline": "Scoop: Unvetted AI agents are accessing U.S. bank accounts",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "label": "CONFIRMED",
-   "url": "https://www.axios.com/2026/10/22/ai-agents-banks-unauthorized-accounts-access",
-   "url_id": "4a2eb27641e9b8690bb9295ef4e28d8d"
-  },
-  {
-   "headline": "VAST Data Introduces New Foundation Stack for Secure, Production-Ready AI Agent Sandboxes…",
-   "outlet": "iTWire",
-   "outlet_name": "iTWire",
-   "label": "CONFIRMED",
-   "url": "https://itwire.com/business-it-news/business-intelligence/vast-data-introduces-new-foundation-stack-for-secure-production-ready-ai-agent-sandboxes-with-nvidia",
-   "url_id": "b88bebb5b66d34ac4a1e18b06d95690d"
-  },
-  {
-   "headline": "Anthropic finds 94 cases where open-source projects drop security controls without warning",
-   "outlet": "Help Net Security",
-   "outlet_name": "Help Net Security",
-   "label": "CONFIRMED",
-   "url": "https://www.helpnetsecurity.com/2026/10/22/anthropic-attack-surface-reduction-open-source/",
-   "url_id": "b1b32d86d9bb004c4e9f50c444902aeb"
-  },
-  {
-   "headline": "Cassava Artificial Intelligence (AI) deploys NVIDIA Nemotron to accelerate agentic AI…",
-   "outlet": "AiThority",
-   "outlet_name": "AiThority",
-   "label": "CONFIRMED",
-   "url": "https://aithority.com/machine-learning/cassava-artificial-intelligence-ai-deploys-nvidia-nemotron-to-accelerate-agentic-ai-adoption-across-its-markets/",
-   "url_id": "37c4b160a3b00bbb324c7d30de120db7"
-  },
   {
    "headline": "Vodacom’s AI policy paper recommends human rights-based approach to governance",
    "outlet": "Engineering News",
@@ -104,6 +64,22 @@
    "label": "CONFIRMED",
    "url": "https://www.engineeringnews.co.za/article/vodacoms-ai-policy-paper-recommends-human-rights-based-approach-to-governance-2026-10-22",
    "url_id": "d794af1aa7139978f858fc6772ebabdb"
+  },
+  {
+   "headline": "Tech Mahindra And SpaceXSI Join Forces For AI-Assisted Engineering",
+   "outlet": "Rediff",
+   "outlet_name": "Rediff",
+   "label": "CONFIRMED",
+   "url": "https://www.rediff.com/business/report/tech-mahindra-and-spacexsi-partner-for-ai-software-engineering/20261022.htm",
+   "url_id": "7d4774ca26b5b4d15f5d645930f28061"
+  },
+  {
+   "headline": "PHP vulnerability — Global Web Websites at Risk as AI Discovers Zero-Day Flaws",
+   "outlet": "The Korea Daily",
+   "outlet_name": "The Korea Daily",
+   "label": "CONFIRMED",
+   "url": "https://en.koreadaily.com/php-vulnerability-ai-zero-day-flaws/",
+   "url_id": "1242f8d24ae60c8327a000a93f20d14b"
   },
   {
    "headline": "Nvidia Unveils Lego-Style Data Center to Cut Setup to 14 Days",
@@ -114,14 +90,6 @@
    "url_id": "d937685e797105b09e81aee1eb549843"
   },
   {
-   "headline": "Schneider Electric, Nvidia and HPE launch AI agents for industrial operations",
-   "outlet": "Robotics & Automation News",
-   "outlet_name": "Robotics & Automation News",
-   "label": "REPORTED",
-   "url": "https://roboticsandautomationnews.com/2026/10/22/schneider-electric-nvidia-and-hpe-launch-ai-agents-for-industrial-operations/106195/",
-   "url_id": "53938f470790ab239a15b45844c0f544"
-  },
-  {
    "headline": "OpenAI AI agents bypass security monitoring during coding tasks",
    "outlet": "Tech Wire Asia",
    "outlet_name": "Tech Wire Asia",
@@ -130,12 +98,28 @@
    "url_id": "bab71759cbe6ec40033cda0be557abed"
   },
   {
-   "headline": "Anthropic prepares to file IPO prospectus as early as Friday - report",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+   "outlet": "WIRED",
+   "outlet_name": "WIRED",
+   "label": "CONFIRMED",
+   "url": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/",
+   "url_id": "023a50ca48310286c74a618b9d2086df"
+  },
+  {
+   "headline": "Nvidia's Huang: Neocloud Demand Explodes But Capital Dries Up",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
+   "label": "REPORTED",
+   "url": "https://www.techbuzz.ai/articles/nvidia-s-huang-neocloud-demand-explodes-but-capital-dries-up",
+   "url_id": "1771d192b2b7eb77258e0b0503d74071"
+  },
+  {
+   "headline": "DeepSeek wrapping up $15 billion fundraising to fuel AI race",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
    "label": "STILL OPEN",
-   "url": "https://www.tradingview.com/news/seekingalpha:e90f40f76094b:0-anthropic-prepares-to-file-ipo-prospectus-as-early-as-friday-report/",
-   "url_id": "a98d3151e248b8829951b0edc8b49c38"
+   "url": "https://www.msn.com/en-us/news/other/deepseek-wrapping-up-15-billion-fundraising-to-fuel-ai-race/ar-AA2fNOmR",
+   "url_id": "88c632204cbf3fc8b99ba417fcbbf54e"
   },
   {
    "headline": "OpenAI hires new energy regulatory lead",
@@ -146,22 +130,38 @@
    "url_id": "a73cd88d43e4893eab55f12cc06400ad"
   },
   {
-   "headline": "China-linked Storm-0940 hackers use AI tool ARTEX to launch 2,900 login attempts per…",
-   "outlet": "News9Live on MSN",
-   "outlet_name": "News9Live on MSN",
+   "headline": "HPE updates AI Factory with Nvidia for regulated sectors",
+   "outlet": "techmonitor.ai",
+   "outlet_name": "techmonitor.ai",
+   "label": "REPORTED",
+   "url": "https://www.techmonitor.ai/news/hpe-updates-ai-factory-with-nvidia-for-regulated-sectors",
+   "url_id": "52a01134ade23f7e7e97572079645024"
+  },
+  {
+   "headline": "Microsoft Says Chinese Hackers Used AI to Breach ConnectWise",
+   "outlet": "Windows Report on MSN",
+   "outlet_name": "Windows Report on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/china-linked-storm-0940-hackers-use-ai-tool-artex-to-launch-2900-login-attempts-per-minute/ar-AA2fNJt1",
-   "url_id": "18f44ef60d444a93d29befef0661106a"
+   "url": "https://www.msn.com/en-xl/news/other/microsoft-says-chinese-hackers-used-ai-to-breach-connectwise/ar-AA2fO8Jd",
+   "url_id": "cb119a767b232483995ea99d61ff43c2"
+  },
+  {
+   "headline": "Websites go dark as AI exposes critical security flaws",
+   "outlet": "Agence France-Presse on MSN",
+   "outlet_name": "Agence France-Presse on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/world/websites-go-dark-as-ai-exposes-critical-security-flaws/ar-AA2fLfT7",
+   "url_id": "b9927678108a4db9d536b666c2db14ec"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by ten different outlets in the last few hours.",
- "articles_24h_rounded": 13500,
- "articles_24h_label": "about 14,000",
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 13300,
+ "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/11.mp3",
- "audio_seconds": 53.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/12.mp3",
+ "audio_seconds": 49.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BusinessLine: China’s DeepSeek raises $15 billion to challenge top US AI labs.\nConfirmed, per Axios: Scoop: Unvetted AI agents are accessing U.S. bank accounts.\nConfirmed, per iTWire: VAST Data Introduces New Foundation Stack for Secure, Production-Ready AI Agent Sandboxes with NVIDIA.\nConfirmed, per Help Net Security: Anthropic finds 94 cases where open-source projects drop security controls without warning.\nConfirmed, per AiThority: Cassava Artificial Intelligence (AI) deploys NVIDIA Nemotron to accelerate agentic AI adoption across its markets.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Engineering News: Vodacom’s AI policy paper recommends human rights-based approach to governance.\nConfirmed, per Rediff: Tech Mahindra And SpaceXSI Join Forces For AI-Assisted Engineering.\nConfirmed, per The Korea Daily: PHP vulnerability — Global Web Websites at Risk as AI Discovers Zero-Day Flaws.\nReported by Seoul Economic Daily: Nvidia Unveils Lego-Style Data Center to Cut Setup to 14 Days.\nConfirmed, per Tech Wire Asia: OpenAI AI agents bypass security monitoring during coding tasks.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
