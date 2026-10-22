@@ -1,167 +1,167 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-21T23:20:04Z",
- "hour": "2026-10-21T23:00:00Z",
+ "generated_at": "2026-10-22T00:20:02Z",
+ "hour": "2026-10-22T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI’s Brockman funds super PAC opposing AI regulation",
-   "outlet": "New Orleans CityBusiness",
-   "outlet_name": "New Orleans CityBusiness",
-   "url": "https://neworleanscitybusiness.com/blog/2026/10/21/openai-brockman-leading-the-future-ai-regulation/",
-   "label": "REPORTED",
-   "summary_1line": "Brockman and wife donate $25M to PAC opposing AI regulation, amid OpenAI's safety advocacy.",
-   "published_at": "2026-10-21T20:04:11Z",
-   "url_id": "803c347019852b8387d46b3ef2e981bf"
-  },
-  {
-   "title": "OpenAI Wants to ‘Patch the Planet’ (With Its Own AI)",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "url": "https://gizmodo.com/openai-wants-to-patch-the-planet-with-its-own-ai-2000829119",
+   "title": "OpenAI rolls out locked chats in ChatGPT",
+   "outlet": "BetaNews",
+   "outlet_name": "BetaNews",
+   "url": "https://betanews.com/article/openai-rolls-out-locked-chats-in-chatgpt/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI launches 'Patch the Planet' to combat AI-powered security flaws in legacy software.",
-   "published_at": "2026-10-21T20:55:39Z",
-   "url_id": "72c6930dc4c78c7512882cfd13c0369d"
+   "summary_1line": "OpenAI rolls out Locked Chat to hide sensitive conversations with PIN protection.",
+   "published_at": "2026-10-21T19:44:12Z",
+   "url_id": "04cad772da9898aed8d33e26447ef1b9"
   },
   {
-   "title": "Walmart rolls out AI agent shopping features while Amazon tries to curb the tech",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/walmart-adding-ai-agent-shopping-features-while-amazon-blocks-bots-2026-10",
+   "title": "Reynolds & Moore Launches Training Path for Physical AI Safety Based on NVIDIA IGX™",
+   "outlet": "A3 Association for Advancing Automation",
+   "outlet_name": "A3 Association for Advancing Automation",
+   "url": "https://www.automate.org/news/reynolds-and-moore-launches-training-path-for-physical-ai-safety-based-on-nvidia-igx",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T21:26:06Z",
-   "url_id": "f5cd0eb7db0812cb6d1967e94c25f26f"
+   "summary_1line": "Reynolds & Moore launches AI safety training for NVIDIA IGX platforms.",
+   "published_at": "2026-10-21T20:57:56Z",
+   "url_id": "8a1f8d07e538893e4dbae0ba4edc4d00"
   },
   {
-   "title": "Anthropic unveils Claude Duet AI agent app",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-21T20:25:35Z",
-   "url_id": "72d0a8bc90ccde6067c29bce28132bdc"
+   "title": "Former U.S. officials urge D.C. Circuit to reconsider decision in Anthropic-Pentagon fight",
+   "outlet": "DefenseScoop",
+   "outlet_name": "DefenseScoop",
+   "url": "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight/",
+   "label": "CONFIRMED",
+   "summary_1line": "17 former U.S. officials urge D.C. Circuit to rehear Anthropic’s supply-chain risk case.",
+   "published_at": "2026-10-21T22:19:23Z",
+   "url_id": "6b64ae81592a7309d534fbe9e6004715"
   },
   {
-   "title": "What’s new in Homeland Security’s updated AI policy",
-   "outlet": "FedScoop",
-   "outlet_name": "FedScoop",
-   "url": "https://fedscoop.com/dhs-ai-policy-updates/",
-   "label": "REPORTED",
-   "summary_1line": "DHS updates AI policy to allow waiver of surveillance bans with minimal oversight.",
-   "published_at": "2026-10-21T19:57:25Z",
-   "url_id": "5bb474f986d641300e9ac2a67bb5b114"
+   "title": "Some websites go dark as operators address an AI-detected flaw in a web programming language",
+   "outlet": "Union-Bulletin",
+   "outlet_name": "Union-Bulletin",
+   "url": "https://www.union-bulletin.com/news/national/some-websites-go-dark-as-operators-address-an-ai-detected-flaw-in-a-web-programming/article_577e1aa9-461f-501a-a1a6-7478133dac9b.html",
+   "label": "CONFIRMED",
+   "summary_1line": "AI found PHP flaws; governments shut down sites to patch security risks.",
+   "published_at": "2026-10-21T19:01:45Z",
+   "url_id": "1558da2f24c9c13061498e770ce261df"
+  },
+  {
+   "title": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says",
+   "outlet": "شبكة تواصل الإخبارية",
+   "outlet_name": "شبكة تواصل الإخبارية",
+   "url": "https://twaslnews1.twaslnews.com/6367730/",
+   "label": "CONFIRMED",
+   "summary_1line": "Europe's startups face exit risks due to strict AI rules and funding gaps.",
+   "published_at": "2026-10-21T17:07:55Z",
+   "url_id": "ae825a886e53022db6dda1ffcc3645a1"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI’s Brockman funds super PAC opposing AI regulation",
-   "outlet": "New Orleans CityBusiness",
-   "outlet_name": "New Orleans CityBusiness",
-   "label": "REPORTED",
-   "url": "https://neworleanscitybusiness.com/blog/2026/10/21/openai-brockman-leading-the-future-ai-regulation/",
-   "url_id": "803c347019852b8387d46b3ef2e981bf"
-  },
-  {
-   "headline": "OpenAI Wants to ‘Patch the Planet’ (With Its Own AI)",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "label": "CONFIRMED",
-   "url": "https://gizmodo.com/openai-wants-to-patch-the-planet-with-its-own-ai-2000829119",
-   "url_id": "72c6930dc4c78c7512882cfd13c0369d"
-  },
-  {
-   "headline": "Walmart rolls out AI agent shopping features while Amazon tries to curb the tech",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://www.businessinsider.com/walmart-adding-ai-agent-shopping-features-while-amazon-blocks-bots-2026-10",
-   "url_id": "f5cd0eb7db0812cb6d1967e94c25f26f"
-  },
-  {
-   "headline": "Anthropic unveils Claude Duet AI agent app",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "label": "REPORTED",
-   "url": "https://www.reuters.com/technology/anthropic-unveils-claude-duet-ai-agent-app-2026-10-21/",
-   "url_id": "72d0a8bc90ccde6067c29bce28132bdc"
-  },
-  {
-   "headline": "What’s new in Homeland Security’s updated AI policy",
-   "outlet": "FedScoop",
-   "outlet_name": "FedScoop",
-   "label": "REPORTED",
-   "url": "https://fedscoop.com/dhs-ai-policy-updates/",
-   "url_id": "5bb474f986d641300e9ac2a67bb5b114"
-  },
-  {
-   "headline": "AI just discovered a bug putting 70pc of world’s websites at risk",
-   "outlet": "Australian Financial Review",
-   "outlet_name": "Australian Financial Review",
-   "label": "CONFIRMED",
-   "url": "https://www.afr.com/world/north-america/websites-go-dark-as-ai-discovered-bug-sparks-global-security-scramble-20261022-p617nf",
-   "url_id": "9cf6ca130bd151a859ef785d6c45cdf0"
-  },
-  {
    "headline": "OpenAI rolls out locked chats in ChatGPT",
    "outlet": "BetaNews",
    "outlet_name": "BetaNews",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://betanews.com/article/openai-rolls-out-locked-chats-in-chatgpt/",
    "url_id": "04cad772da9898aed8d33e26447ef1b9"
   },
   {
-   "headline": "ServiceNow Announces New AI Agent Services With Nvidia",
-   "outlet": "pymnts.com",
-   "outlet_name": "pymnts.com",
+   "headline": "Reynolds & Moore Launches Training Path for Physical AI Safety Based on NVIDIA IGX™",
+   "outlet": "A3 Association for Advancing Automation",
+   "outlet_name": "A3 Association for Advancing Automation",
+   "label": "REPORTED",
+   "url": "https://www.automate.org/news/reynolds-and-moore-launches-training-path-for-physical-ai-safety-based-on-nvidia-igx",
+   "url_id": "8a1f8d07e538893e4dbae0ba4edc4d00"
+  },
+  {
+   "headline": "Former U.S. officials urge D.C. Circuit to reconsider decision in Anthropic-Pentagon fight",
+   "outlet": "DefenseScoop",
+   "outlet_name": "DefenseScoop",
    "label": "CONFIRMED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/servicenow-announces-new-ai-agent-services-with-nvidia/",
-   "url_id": "52aff89b4614d82724eb3b19d86fcdcf"
+   "url": "https://defensescoop.com/2026/10/21/dc-circuit-decision-anthropic-pentagon-fight/",
+   "url_id": "6b64ae81592a7309d534fbe9e6004715"
+  },
+  {
+   "headline": "Some websites go dark as operators address an AI-detected flaw in a web programming…",
+   "outlet": "Union-Bulletin",
+   "outlet_name": "Union-Bulletin",
+   "label": "CONFIRMED",
+   "url": "https://www.union-bulletin.com/news/national/some-websites-go-dark-as-operators-address-an-ai-detected-flaw-in-a-web-programming/article_577e1aa9-461f-501a-a1a6-7478133dac9b.html",
+   "url_id": "1558da2f24c9c13061498e770ce261df"
+  },
+  {
+   "headline": "Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS…",
+   "outlet": "شبكة تواصل الإخبارية",
+   "outlet_name": "شبكة تواصل الإخبارية",
+   "label": "CONFIRMED",
+   "url": "https://twaslnews1.twaslnews.com/6367730/",
+   "url_id": "ae825a886e53022db6dda1ffcc3645a1"
+  },
+  {
+   "headline": "TriVector Labs Launches AviaPilot, an AI Copilot for Pilots and Aviation Organizations",
+   "outlet": "FinancialContent",
+   "outlet_name": "FinancialContent",
+   "label": "REPORTED",
+   "url": "https://www.financialcontent.com/article/getnews-2026-10-21-trivector-labs-launches-aviapilot-an-ai-copilot-for-pilots-and-aviation-organizations",
+   "url_id": "fcf6a24c2bb7365745540e1e814931d9"
+  },
+  {
+   "headline": "ServiceNow and Nvidia launch Arc, a security-focused AI agent for businesses",
+   "outlet": "Mezha.net",
+   "outlet_name": "Mezha.net",
+   "label": "CONFIRMED",
+   "url": "https://mezha.net/eng/news/mezha-16f0c826e7d43c476dff5afa_servicenow_and_nvidia/",
+   "url_id": "5c5fdfb95d32efe6ecca582ed78dcb31"
+  },
+  {
+   "headline": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+   "outlet": "bleepingcomputer.com",
+   "outlet_name": "bleepingcomputer.com",
+   "label": "CONFIRMED",
+   "url": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+   "url_id": "f49b8b6079f110272685524552fc53af"
+  },
+  {
+   "headline": "Frontier OpenAI Model Exposes Stunning Exploit That Leaves Millions of Web Servers Open…",
+   "outlet": "futurism.com",
+   "outlet_name": "futurism.com",
+   "label": "CONFIRMED",
+   "url": "https://futurism.com/future-society/openai-php-exploit-millions-web-servers",
+   "url_id": "ebdb6a44dea13aa1d08435f72f672768"
   },
   {
    "headline": "Anthropic backs bill that would allow 50 deaths before AI model shutdown",
    "outlet": "The Cool Down on MSN",
    "outlet_name": "The Cool Down on MSN",
-   "label": "CONFIRMED",
+   "label": "REPORTED",
    "url": "https://www.msn.com/en-us/news/other/anthropic-backs-bill-that-would-allow-50-deaths-before-ai-model-shutdown/ar-AA2fLoGu",
    "url_id": "8abcced915a888190fc5e754b2a728df"
   },
   {
-   "headline": "OpenAI Unveils Mouse Brain Reasoning Atlas From GPT-Rosalind Agents",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
+   "headline": "PRNews OU: Flock.io Launches AI Decision Model Built on Qwen for Edge Deployment",
+   "outlet": "FinanzNachrichten.de",
+   "outlet_name": "FinanzNachrichten.de",
    "label": "REPORTED",
-   "url": "https://www.unite.ai/openai-unveils-mouse-brain-reasoning-atlas-from-gpt-rosalind-agents/",
-   "url_id": "76a1a9dcb04a40f528108793798dff7f"
+   "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69899680-prnews-ou-flock-io-launches-ai-decision-model-built-on-qwen-for-edge-deployment-296.htm",
+   "url_id": "7d3ce2cf986f3ddcee2017b20797c76f"
   },
   {
-   "headline": "Europe Risks AI Startup Exodus as Regulation and Funding Gaps Grow",
-   "outlet": "The420.in",
-   "outlet_name": "The420.in",
+   "headline": "NSA warns organizations to patch security flaws identified by AI",
+   "outlet": "FOX 5 San Diego on MSN",
+   "outlet_name": "FOX 5 San Diego on MSN",
    "label": "CONFIRMED",
-   "url": "https://the420.in/europe-ai-startup-exodus-aws-regulation-funding-skills/",
-   "url_id": "4346009053fff64bb5affcb90e518cb7"
-  },
-  {
-   "headline": "Google faces Senate grilling over education AI as fears over kids’ mental health mount",
-   "outlet": "New York Post on MSN",
-   "outlet_name": "New York Post on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/google-faces-senate-grilling-over-education-ai-as-fears-over-kids-mental-health-mount/ar-AA2fLvkM",
-   "url_id": "7bbcadd79ae5645189e69d873741b4d6"
+   "url": "https://www.msn.com/en-us/news/news/nsa-warns-organizations-to-patch-security-flaws-identified-by-ai/ar-AA2fM5pw",
+   "url_id": "5eaff325714dfeb38fb11d9736de1b67"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
- "articles_24h_rounded": 19100,
+ "tidbit": "Did you know… about 19,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 19200,
  "articles_24h_label": "about 19,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/21/23.mp3",
- "audio_seconds": 41.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/00.mp3",
+ "audio_seconds": 56.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by New Orleans CityBusiness: OpenAI’s Brockman funds super PAC opposing AI regulation.\nConfirmed, per Gizmodo: OpenAI Wants to ‘Patch the Planet’ (With Its Own AI).\nReported by Business Insider: Walmart rolls out AI agent shopping features while Amazon tries to curb the tech.\nReported by Reuters: Anthropic unveils Claude Duet AI agent app.\nReported by FedScoop: What’s new in Homeland Security’s updated AI policy.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BetaNews: OpenAI rolls out locked chats in ChatGPT.\nReported by A3 Association for Advancing Automation: Reynolds & Moore Launches Training Path for Physical AI Safety Based on NVIDIA IGX™.\nConfirmed, per DefenseScoop: Former U.S. officials urge D.C. Circuit to reconsider decision in Anthropic-Pentagon fight.\nConfirmed, per Union-Bulletin: Some websites go dark as operators address an AI-detected flaw in a web programming language.\nConfirmed, per شبكة تواصل الإخبارية: Europe risks startup exodus as regulation, funding and skill gaps hamper AI adoption, AWS EMEA head says.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
