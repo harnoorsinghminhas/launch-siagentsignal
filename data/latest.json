@@ -1,133 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T15:20:03Z",
- "hour": "2026-10-22T15:00:00Z",
+ "generated_at": "2026-10-22T16:20:02Z",
+ "hour": "2026-10-22T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Analysis-Anthropic IPO stands alone as AI market jitters sideline others",
-   "outlet": "Central Oregon Daily",
-   "outlet_name": "Central Oregon Daily",
-   "url": "https://www.centraloregondaily.com/news/consumer/analysis-anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/article_8c1998a9-c8af-505a-a331-1419b139f6f3.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic moves ahead with IPO amid sector-wide delays due to rising interest rates and market concerns.",
-   "published_at": "2026-10-22T13:05:58Z",
-   "url_id": "b601200e1f1dbd17fe43e21a5e87bd3a"
-  },
-  {
-   "title": "China opposes US DeepSeek ban as it drafts its own export controls",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/china-opposes-us-deepseek-ban-as-it-drafts-its-own-export-controls/",
-   "label": "REPORTED",
-   "summary_1line": "China protests U.S. DeepSeek ban and drafts 40-tech export list, escalating AI tech rivalry.",
-   "published_at": "2026-10-22T14:27:36Z",
-   "url_id": "b27222d299dff611d6027c003ed07043"
-  },
-  {
-   "title": "Reservoir Sues Suno & Anthropic in Latest Lawsuits Over AI Music: ‘Meant to Replace the Artists’",
-   "outlet": "Billboard",
-   "outlet_name": "Billboard",
-   "url": "https://www.billboard.com/pro/reservoir-sues-suno-anthropic-over-ai-training/",
-   "label": "REPORTED",
-   "summary_1line": "Reservoir sues Suno and Anthropic over AI music training using iconic songs.",
-   "published_at": "2026-10-22T12:12:10Z",
-   "url_id": "f204e6a0c37a8b07a0309fcc7831316a"
-  },
-  {
-   "title": "1Password crossed $500 million in annual recurring revenue as businesses adopt AI agents",
-   "outlet": "Quartz",
-   "outlet_name": "Quartz",
-   "url": "https://qz.com/1password-500-million-annual-recurring-revenue-ai-agents-102226",
+   "title": "This startup raised $34 million to help security teams keep up with AI threats. Read the pitch deck.",
+   "outlet": "Insider",
+   "outlet_name": "Insider",
+   "url": "https://www.businessinsider.com/mave-startup-cybersecurity-funding-ai-agents-pitch-deck-2026-10",
    "label": "CONFIRMED",
-   "summary_1line": "1Password reports 60% revenue growth and launches AI agent security tools for 200K+ businesses.",
-   "published_at": "2026-10-22T13:06:28Z",
-   "url_id": "66e6225938ac0b38623324cd87b1ce2f"
+   "summary_1line": "Mave raises $34M to scale AI agents for cybersecurity, with OpenAI helping find a critical website vulnerability.",
+   "published_at": "2026-10-22T06:00:00Z",
+   "url_id": "e5f74d7587c252a00908e81fb31d1d4c"
   },
   {
-   "title": "Google announces new Gemini AI productivity tools for business owners",
-   "outlet": "Deccan Herald",
-   "outlet_name": "Deccan Herald",
-   "url": "https://www.deccanherald.com/technology/artificial-intelligence/google-announces-new-gemini-ai-productivity-tools-for-business-owners-4191558",
+   "title": "Prepare for more website shutdowns in the age of AI – but human inaction is the real culprit | Chris Stokel-Walker",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/website-shutdowns-ai-human-inaction-developers",
+   "label": "CONFIRMED",
+   "summary_1line": "PHP vulnerabilities caused internet outages; AI accelerates exploitation of outdated code.",
+   "published_at": "2026-10-22T13:46:26Z",
+   "url_id": "5943010969859a50fac5cca7f9bf4e0a"
+  },
+  {
+   "title": "Schneider Electric, NVIDIA & HPE Debut Industrial AI Agents",
+   "outlet": "Data Centre Magazine",
+   "outlet_name": "Data Centre Magazine",
+   "url": "https://datacentremagazine.com/news/schneider-electric-nvidia-and-hpe-debut-industrial-ai-agents",
    "label": "REPORTED",
-   "summary_1line": "Google's Gemini AI tools help small businesses manage tasks, design websites, and analyse finances.",
-   "published_at": "2026-10-22T13:25:10Z",
-   "url_id": "c8d620283f23084d675a8fbdf298a128"
+   "summary_1line": "Schneider Electric, NVIDIA and HPE launch edge-based Industrial AI Agents for process industries.",
+   "published_at": "2026-10-22T14:35:08Z",
+   "url_id": "17074c49eec4f9d1a4149e7049e7b6b9"
+  },
+  {
+   "title": "Bill Gates thinks AI could make us live like the Amish",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+   "label": "CONFIRMED",
+   "summary_1line": "Bill Gates warns AI is the most dangerous thing ever and urges urgent action.",
+   "published_at": "2026-10-22T14:00:00Z",
+   "url_id": "7e7c7ce8d426dd2cbf5fec0ad30cb411"
+  },
+  {
+   "title": "Katie Haun on AI safety concerns, rise of insider threats and liability debate",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/video/2026/10/22/katie-haun-on-ai-safety-concerns-rise-of-insider-threats-and-liability-debate.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Katie Haun discusses AI safety and insider threats on 'Squawk Box'.",
+   "published_at": "2026-10-22T13:17:18Z",
+   "url_id": "9969b23ebd151922054bb3e613bbc2da"
   }
  ],
  "ticker": [
   {
-   "headline": "Analysis-Anthropic IPO stands alone as AI market jitters sideline others",
-   "outlet": "Central Oregon Daily",
-   "outlet_name": "Central Oregon Daily",
-   "label": "STILL OPEN",
-   "url": "https://www.centraloregondaily.com/news/consumer/analysis-anthropic-ipo-stands-alone-as-ai-market-jitters-sideline-others/article_8c1998a9-c8af-505a-a331-1419b139f6f3.html",
-   "url_id": "b601200e1f1dbd17fe43e21a5e87bd3a"
-  },
-  {
-   "headline": "China opposes US DeepSeek ban as it drafts its own export controls",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/china-opposes-us-deepseek-ban-as-it-drafts-its-own-export-controls/",
-   "url_id": "b27222d299dff611d6027c003ed07043"
-  },
-  {
-   "headline": "Reservoir Sues Suno & Anthropic in Latest Lawsuits Over AI Music: ‘Meant to Replace the…",
-   "outlet": "Billboard",
-   "outlet_name": "Billboard",
-   "label": "REPORTED",
-   "url": "https://www.billboard.com/pro/reservoir-sues-suno-anthropic-over-ai-training/",
-   "url_id": "f204e6a0c37a8b07a0309fcc7831316a"
-  },
-  {
-   "headline": "1Password crossed $500 million in annual recurring revenue as businesses adopt AI agents",
-   "outlet": "Quartz",
-   "outlet_name": "Quartz",
+   "headline": "This startup raised $34 million to help security teams keep up with AI threats. Read the…",
+   "outlet": "Insider",
+   "outlet_name": "Insider",
    "label": "CONFIRMED",
-   "url": "https://qz.com/1password-500-million-annual-recurring-revenue-ai-agents-102226",
-   "url_id": "66e6225938ac0b38623324cd87b1ce2f"
+   "url": "https://www.businessinsider.com/mave-startup-cybersecurity-funding-ai-agents-pitch-deck-2026-10",
+   "url_id": "e5f74d7587c252a00908e81fb31d1d4c"
   },
   {
-   "headline": "Google announces new Gemini AI productivity tools for business owners",
-   "outlet": "Deccan Herald",
-   "outlet_name": "Deccan Herald",
-   "label": "REPORTED",
-   "url": "https://www.deccanherald.com/technology/artificial-intelligence/google-announces-new-gemini-ai-productivity-tools-for-business-owners-4191558",
-   "url_id": "c8d620283f23084d675a8fbdf298a128"
-  },
-  {
-   "headline": "Supermicro unveils 1U, 2U and 4U servers for Nvidia ARC system",
-   "outlet": "Telecompaper",
-   "outlet_name": "Telecompaper",
-   "label": "REPORTED",
-   "url": "https://www.telecompaper.com/news/supermicro-unveils-1u-2u-and-4u-servers-for-nvidia-arc-system--1586559",
-   "url_id": "8802e753da02b8ec4935cdea63f24921"
-  },
-  {
-   "headline": "Tesla drops as spending pullback clouds AI, robotics ambitions",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
+   "headline": "Prepare for more website shutdowns in the age of AI – but human inaction is the real…",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/tesla-drops-as-spending-pullback-clouds-ai-robotics-ambitions/articleshow/135116884.cms",
-   "url_id": "22c5e85a5eed5c162103ea83d8f6c916"
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/website-shutdowns-ai-human-inaction-developers",
+   "url_id": "5943010969859a50fac5cca7f9bf4e0a"
   },
   {
-   "headline": "Lenovo Yoga Pro 9n and Yoga 9n 2-in-1 launched with NVIDIA RTX Spark in India: Price…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "Schneider Electric, NVIDIA & HPE Debut Industrial AI Agents",
+   "outlet": "Data Centre Magazine",
+   "outlet_name": "Data Centre Magazine",
    "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/lenovo-yoga-pro-9n-and-yoga-9n-2-in-1-launched-with-nvidia-rtx-spark-in-india-price-availability-and-more/articleshow/135117810.cms",
-   "url_id": "faed58a31a4f5be7f6393e091da90ecd"
+   "url": "https://datacentremagazine.com/news/schneider-electric-nvidia-and-hpe-debut-industrial-ai-agents",
+   "url_id": "17074c49eec4f9d1a4149e7049e7b6b9"
   },
   {
-   "headline": "Haystack's MCP Server Now Works in Claude, ChatGPT, Copilot and Slack, With New Write…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "Bill Gates thinks AI could make us live like the Amish",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/haystacks-mcp-server-now-works-in-claude-chatgpt-copilot-and-slack-with-new-write-access-across-all-four-302916389.html",
-   "url_id": "ebf687f311555ef2e6cfb5ba3a1517cf"
+   "url": "https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation",
+   "url_id": "7e7c7ce8d426dd2cbf5fec0ad30cb411"
+  },
+  {
+   "headline": "Katie Haun on AI safety concerns, rise of insider threats and liability debate",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/video/2026/10/22/katie-haun-on-ai-safety-concerns-rise-of-insider-threats-and-liability-debate.html",
+   "url_id": "9969b23ebd151922054bb3e613bbc2da"
+  },
+  {
+   "headline": "Ex-OpenAI Science Head Kevin Weil Launches Startup With $215 Million",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-22/ex-openai-science-head-kevin-weil-launches-startup-with-215-million",
+   "url_id": "121b229c08718d39c33108ab7d580a52"
+  },
+  {
+   "headline": "Some websites shut down globally as operators address PHP issue after AI finds critical…",
+   "outlet": "ABC7 Chicago",
+   "outlet_name": "ABC7 Chicago",
+   "label": "CONFIRMED",
+   "url": "https://abc7chicago.com/story/php-vulnerability-2026-websites-shut-down-globally-operators-address-ai-detected-flaw-web-programming-language/19968288/",
+   "url_id": "9a9ecb4164d9ab569818cb20d84f4030"
   },
   {
    "headline": "Anthropic unveils Claude Duet AI agent app (Oct 21)",
@@ -138,6 +122,22 @@
    "url_id": "5bcc0b20f3a55acaa1729abc36e43293"
   },
   {
+   "headline": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+   "outlet": "blogs.nvidia.com",
+   "outlet_name": "blogs.nvidia.com",
+   "label": "REPORTED",
+   "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+   "url_id": "2c1c1d0b09d0e274e1a661fddec3b1e1"
+  },
+  {
+   "headline": "Navitas Gains After Nvidia 800V Board Launch: “AI Infrastructure Power Wall”",
+   "outlet": "TIKR.com",
+   "outlet_name": "TIKR.com",
+   "label": "CONFIRMED",
+   "url": "https://www.tikr.com/blog/navitas-gains-after-nvidia-800v-board-launch-ai-infrastructure-power-wall",
+   "url_id": "2cf84b0b44bc0aa6c6f3f21496434a55"
+  },
+  {
    "headline": "AI Copyright Wars escalate: 8 cases this week sets record. Suno, Anthropic hit with yet…",
    "outlet": "chatgptiseatingtheworld.com",
    "outlet_name": "chatgptiseatingtheworld.com",
@@ -146,22 +146,22 @@
    "url_id": "e39d6f4531c1161bdb46777152b52c6a"
   },
   {
-   "headline": "Anthropic’s Financial Situation May Explain Why Dario Amodei Looks So Terrified All the…",
-   "outlet": "futurism.com",
-   "outlet_name": "futurism.com",
+   "headline": "OpenAI Hires Former AWS Partner Sales Leader To Drive AI Channel Growth",
+   "outlet": "www.crn.com",
+   "outlet_name": "www.crn.com",
    "label": "CONFIRMED",
-   "url": "https://futurism.com/future-society/anthropic-financial-situation-dario-amodei-ai-bubble",
-   "url_id": "ba3b6d845c56f0ed5156817f57008f90"
+   "url": "https://www.crn.com/news/ai/2026/openai-hires-former-aws-partner-sales-leader-to-drive-ai-channel-growth",
+   "url_id": "2b189241650e2c3a5e649e03a675175d"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 12800,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/15.mp3",
- "audio_seconds": 47.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/16.mp3",
+ "audio_seconds": 79.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per Central Oregon Daily: Analysis-Anthropic IPO stands alone as AI market jitters sideline others.\nReported by Startup Fortune: China opposes US DeepSeek ban as it drafts its own export controls.\nReported by Billboard: Reservoir Sues Suno & Anthropic in Latest Lawsuits Over AI Music: ‘Meant to Replace the Artists’.\nConfirmed, per Quartz: 1Password crossed $500 million in annual recurring revenue as businesses adopt AI agents.\nReported by Deccan Herald: Google announces new Gemini AI productivity tools for business owners.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA startup raised 34 million dollars to help security teams keep up with threats from artificial intelligence. Confirmed by Insider: Mave scales artificial intelligence agents for cybersecurity, with OpenAI helping find a critical website vulnerability.\nPHP vulnerabilities caused internet outages, and artificial intelligence accelerates exploitation of outdated code. Confirmed by The Guardian: prepare for more website shutdowns in the age of artificial intelligence, but human inaction is the real culprit.\nSchneider Electric, NVIDIA and HPE launch edge-based Industrial artificial intelligence Agents for process industries. Reported by Data Centre Magazine: Schneider Electric, NVIDIA and HPE debut Industrial artificial intelligence Agents.\nBill Gates warns artificial intelligence is the most dangerous thing ever and urges urgent action. Confirmed by The Verge: Bill Gates thinks artificial intelligence could make us live like the Amish.\nKatie Haun discusses artificial intelligence safety and insider threats on Squawk Box. Confirmed by CNBC: Katie Haun on artificial intelligence safety concerns, rise of insider threats and liability debate.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
