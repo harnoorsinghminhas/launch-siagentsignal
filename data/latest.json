@@ -1,117 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T07:20:03Z",
- "hour": "2026-10-22T07:00:00Z",
+ "generated_at": "2026-10-22T08:20:05Z",
+ "hour": "2026-10-22T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI firms say UK has a year to head off datacentre protests before construction is threatened",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
+   "title": "Arrakis Security Report Finds 76% of AI Agents Are Dormant but Keep Their Credentials and Connections",
+   "outlet": "Markets Insider",
+   "outlet_name": "Markets Insider",
+   "url": "https://markets.businessinsider.com/news/stocks/arrakis-security-report-finds-76-of-ai-agents-are-dormant-but-keep-their-credentials-and-connections-1036653305",
    "label": "CONFIRMED",
-   "summary_1line": "AI firms call for 12-month UK compact to ease public opposition to datacentres.",
-   "published_at": "2026-10-22T05:00:08Z",
-   "url_id": "0d706251c10a87aa5bac575c1c8b2281"
+   "summary_1line": "76% of AI agents haven't run in 60 days with active credentials, 24% can be restarted by unsigned webhooks.",
+   "published_at": "2026-10-21T19:35:00Z",
+   "url_id": "c580b7f521a5080c0a781271579ac400"
   },
   {
-   "title": "What is PHP and why did it spark a global cyber-security scramble?",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+   "title": "KI-Agent fürs Postfach: So sortiert ChatGPT jeden Morgen deine E-Mails",
+   "outlet": "t3n",
+   "outlet_name": "t3n",
+   "url": "https://t3n.de/news/ki-agent-fuers-postfach-so-sortiert-chatgpt-jeden-morgen-deine-e-mails-1769198/",
    "label": "CONFIRMED",
-   "summary_1line": "AI finds severe PHP flaws, triggering global website shutdowns and urgent patching.",
-   "published_at": "2026-10-22T03:48:50Z",
-   "url_id": "321cbfbc7bd9eb68916d9b8b5da00d1d"
+   "summary_1line": "Schneider uses ChatGPT to sort emails daily into urgent, response-needed, and info categories.",
+   "published_at": "2026-10-22T05:30:23Z",
+   "url_id": "88cf94ebebe6f5f28c21754d9fc2644b"
   },
   {
-   "title": "Some websites go dark as operators address an AI-detected flaw in a web programming language",
-   "outlet": "East Bay Times",
-   "outlet_name": "East Bay Times",
-   "url": "https://www.eastbaytimes.com/2026/10/21/us-web-security-php-vulnerability/",
+   "title": "Karta AI Raises $3 Million in Seed Funding Led by PeerCapital and Cedar Hill Capital",
+   "outlet": "Indian Startup Times",
+   "outlet_name": "Indian Startup Times",
+   "url": "https://www.indianstartuptimes.com/investment/karta-ai-raises-3-million-in-seed-funding-led-by-peercapital-and-cedar-hill-capital/",
    "label": "CONFIRMED",
-   "summary_1line": "AI found PHP flaws; websites globally went offline for updates.",
-   "published_at": "2026-10-21T14:16:00Z",
-   "url_id": "fd25ab5dd70d8377ec55193fbc52a4a7"
+   "summary_1line": "Karta AI secures $3M to boost voice AI for financial institutions handling 2M monthly conversations.",
+   "published_at": "2026-10-22T05:42:25Z",
+   "url_id": "c9ac96ac67220ea746a1792057cb4bb8"
   },
   {
-   "title": "OpenAI's AI Finds Critical PHP Vulnerability; $1 Billion Pledged to Help Defenders",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/e568956c-6fa8-44bd-ab8a-2a001872fa7a",
+   "title": "China-linked hackers weaponize AI tool to hit hundreds of global targets",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "url": "https://biz.chosun.com/en/en-it/2026/10/22/QMH6DKYI5RACRL7OG6S4GR5AMQ/",
+   "label": "CONFIRMED",
+   "summary_1line": "China-linked hackers used AI tool ARTEX to breach U.S. firm and attack hundreds globally.",
+   "published_at": "2026-10-22T06:11:00Z",
+   "url_id": "ab24878e96138f16f26334001dd92ade"
+  },
+  {
+   "title": "Google Chrome adds Gemini-powered ClickFix warnings and scam detection",
+   "outlet": "CyberInsider",
+   "outlet_name": "CyberInsider",
+   "url": "https://cyberinsider.com/google-chrome-adds-gemini-powered-clickfix-warnings-and-scam-detection/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's AI finds critical PHP flaw; $1B pledged to defenders.",
-   "published_at": "2026-10-22T04:05:00Z",
-   "url_id": "a5865e3856287f2cc9949718a1c2c28f"
-  },
-  {
-   "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
-   "url": "https://openai.com/index/cloudflare-cyber/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-22T00:07:26Z",
-   "url_id": "d681bcc8c17b21c8178cf0bb200c47e7"
+   "summary_1line": "Google boosts Chrome's scam detection with server-side Gemini and ClickFix defenses for Enhanced Protection users.",
+   "published_at": "2026-10-22T05:54:25Z",
+   "url_id": "ff84def42e07d03881fba235e6fdd71d"
   }
  ],
  "ticker": [
   {
-   "headline": "AI firms say UK has a year to head off datacentre protests before construction is…",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "Arrakis Security Report Finds 76% of AI Agents Are Dormant but Keep Their Credentials and…",
+   "outlet": "Markets Insider",
+   "outlet_name": "Markets Insider",
    "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/22/ai-firms-say-uk-has-a-year-to-head-off-datacentre-protests-before-construction-is-threatened",
-   "url_id": "0d706251c10a87aa5bac575c1c8b2281"
+   "url": "https://markets.businessinsider.com/news/stocks/arrakis-security-report-finds-76-of-ai-agents-are-dormant-but-keep-their-credentials-and-connections-1036653305",
+   "url_id": "c580b7f521a5080c0a781271579ac400"
   },
   {
-   "headline": "What is PHP and why did it spark a global cyber-security scramble?",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
+   "headline": "KI-Agent fürs Postfach: So sortiert ChatGPT jeden Morgen deine E-Mails",
+   "outlet": "t3n",
+   "outlet_name": "t3n",
    "label": "CONFIRMED",
-   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
-   "url_id": "321cbfbc7bd9eb68916d9b8b5da00d1d"
+   "url": "https://t3n.de/news/ki-agent-fuers-postfach-so-sortiert-chatgpt-jeden-morgen-deine-e-mails-1769198/",
+   "url_id": "88cf94ebebe6f5f28c21754d9fc2644b"
   },
   {
-   "headline": "Some websites go dark as operators address an AI-detected flaw in a web programming…",
-   "outlet": "East Bay Times",
-   "outlet_name": "East Bay Times",
+   "headline": "Karta AI Raises $3 Million in Seed Funding Led by PeerCapital and Cedar Hill Capital",
+   "outlet": "Indian Startup Times",
+   "outlet_name": "Indian Startup Times",
    "label": "CONFIRMED",
-   "url": "https://www.eastbaytimes.com/2026/10/21/us-web-security-php-vulnerability/",
-   "url_id": "fd25ab5dd70d8377ec55193fbc52a4a7"
+   "url": "https://www.indianstartuptimes.com/investment/karta-ai-raises-3-million-in-seed-funding-led-by-peercapital-and-cedar-hill-capital/",
+   "url_id": "c9ac96ac67220ea746a1792057cb4bb8"
   },
   {
-   "headline": "OpenAI's AI Finds Critical PHP Vulnerability; $1 Billion Pledged to Help Defenders",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/e568956c-6fa8-44bd-ab8a-2a001872fa7a",
-   "url_id": "a5865e3856287f2cc9949718a1c2c28f"
+   "headline": "China-linked hackers weaponize AI tool to hit hundreds of global targets",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "label": "CONFIRMED",
+   "url": "https://biz.chosun.com/en/en-it/2026/10/22/QMH6DKYI5RACRL7OG6S4GR5AMQ/",
+   "url_id": "ab24878e96138f16f26334001dd92ade"
   },
   {
-   "headline": "Cloudflare links vulnerability discovery to defense with OpenAI",
-   "outlet": "OpenAI",
-   "outlet_name": "OpenAI",
+   "headline": "Google Chrome adds Gemini-powered ClickFix warnings and scam detection",
+   "outlet": "CyberInsider",
+   "outlet_name": "CyberInsider",
    "label": "REPORTED",
-   "url": "https://openai.com/index/cloudflare-cyber/",
-   "url_id": "d681bcc8c17b21c8178cf0bb200c47e7"
+   "url": "https://cyberinsider.com/google-chrome-adds-gemini-powered-clickfix-warnings-and-scam-detection/",
+   "url_id": "ff84def42e07d03881fba235e6fdd71d"
   },
   {
-   "headline": "DeepSeek open-sources new tool to slash costs and ‘battle’ closed-source AI",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
+   "headline": "UC Irvine study shows AI tools like ChatGPT can affect student learning",
+   "outlet": "KCRA",
+   "outlet_name": "KCRA",
    "label": "REPORTED",
-   "url": "https://amp.scmp.com/tech/big-tech/article/3371592/deepseek-open-sources-new-tool-slash-ai-costs-fight-against-closed-source-rivals",
-   "url_id": "e6085b274344bf05115ed168445052d9"
-  },
-  {
-   "headline": "Anthropic launches Claude Duet, a proactive agent app taking on Meta's Muse and OpenAI's…",
-   "outlet": "Dealroom",
-   "outlet_name": "Dealroom",
-   "label": "REPORTED",
-   "url": "https://app.dealroom.co/news/note/anthropic-launches-claude-duet-a-proactive-agent-app-taking-on-meta-s-muse-and-openai-s-dots",
-   "url_id": "2694d03acc8263526884d35961970a54"
+   "url": "https://www.kcra.com/article/uc-irvine-chatgpt-student-learning-study/74212284",
+   "url_id": "10be105eb07479acf9c3b74de7b8e6fd"
   },
   {
    "headline": "Indias AI financing demand to shift towards data centres, but GPU, regulatory risks…",
@@ -122,6 +114,14 @@
    "url_id": "20a1744a0e933feb9a29f3d1846d7282"
   },
   {
+   "headline": "Perplexity and NVIDIA Researchers Introduce JOLT: a Joint Teacher-Student Reinforcement…",
+   "outlet": "marktechpost.com",
+   "outlet_name": "marktechpost.com",
+   "label": "REPORTED",
+   "url": "https://www.marktechpost.com/2026/10/21/perplexity-jolt-joint-on-policy-learning-teaching/",
+   "url_id": "bd1e159da54ebe3d2cc7e858498c87e0"
+  },
+  {
    "headline": "NVIDIA unveils 14-day modular data center for AI standards",
    "outlet": "The Chosun Ilbo on MSN",
    "outlet_name": "The Chosun Ilbo on MSN",
@@ -130,38 +130,38 @@
    "url_id": "c01cf909b982fd52060941986dff2ff6"
   },
   {
-   "headline": "Google Docs on Android is getting a Gemini Live-like upgrade for more users",
-   "outlet": "androidauthority.com",
-   "outlet_name": "androidauthority.com",
+   "headline": "DeepMind Researchers Quit Google Over Military A.I. Deals",
+   "outlet": "www.trendingtopics.eu",
+   "outlet_name": "www.trendingtopics.eu",
    "label": "REPORTED",
-   "url": "https://www.androidauthority.com/google-docs-android-docs-live-rollout-workspace-3726478/",
-   "url_id": "a7c27ac88ec320e2970d6a8f123d8967"
+   "url": "https://www.trendingtopics.eu/google-deepmind-resignations-military-ai/",
+   "url_id": "14fb4edbaa7ef32787e18ad1fe5191d2"
   },
   {
-   "headline": "Samsung Electro-Mechanics to supply Nvidia with substrates for AI chips — Korea Herald",
-   "outlet": "UA.NEWS",
-   "outlet_name": "UA.NEWS",
+   "headline": "To Regulate or Not to Regulate: India's AI Dilemma",
+   "outlet": "orfonline.org",
+   "outlet_name": "orfonline.org",
    "label": "REPORTED",
-   "url": "https://ua.news/en/technologies/samsung-electro-mechanics-postachatime-nvidia-pidkladki-dlia-shi-chipiv-korea-herald",
-   "url_id": "2571574ca2e803aa1cfc175522e30ec1"
+   "url": "https://www.orfonline.org/expert-speak/to-regulate-or-not-to-regulate-india-s-ai-dilemma",
+   "url_id": "860c9a10f16e0db3d683c93782eca299"
   },
   {
-   "headline": "Qwen-Audio-3.1-ASR Technical Report",
-   "outlet": "arxiv.org",
-   "outlet_name": "arxiv.org",
+   "headline": "Yann LeCun and Mistral’s Chief Invest in Zurich Robotics Start-Up Enact",
+   "outlet": "www.trendingtopics.eu",
+   "outlet_name": "www.trendingtopics.eu",
    "label": "REPORTED",
-   "url": "https://arxiv.org/abs/2610.28711",
-   "url_id": "79c2ea5161693189628fa318e79922a9"
+   "url": "https://www.trendingtopics.eu/enact-pre-seed-yann-lecun-mistral-robotics/",
+   "url_id": "fa63926b3b438a59902814a675433c38"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13400,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 13500,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/07.mp3",
- "audio_seconds": 59.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/08.mp3",
+ "audio_seconds": 49.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nUK firms say they need a 12-month compact to ease public opposition to datacentres, confirmed by The Guardian, before construction faces threats.\nWhat is PHP and why did it spark a global cyber-security scramble? Confirmed per BBC: artificial intelligence found severe PHP flaws, triggering global website shutdowns and urgent patching.\nWebsites globally went dark as operators addressed an artificial intelligence detected flaw in a web programming language, confirmed by East Bay Times.\nOpenAI's artificial intelligence found a critical PHP vulnerability, reported by BigGo Finance, with one billion dollars pledged to help defenders respond.\nCloudflare links the vulnerability discovery to defense efforts with OpenAI, reported by OpenAI in their latest statement on the crisis response.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Markets Insider: Arrakis Security Report Finds 76% of AI Agents Are Dormant but Keep Their Credentials and Connections.\nConfirmed, per t3n: KI-Agent fürs Postfach: So sortiert ChatGPT jeden Morgen deine E-Mails.\nConfirmed, per Indian Startup Times: Karta AI Raises $3 Million in Seed Funding Led by PeerCapital and Cedar Hill Capital.\nConfirmed, per Chosunbiz: China-linked hackers weaponize AI tool to hit hundreds of global targets.\nReported by CyberInsider: Google Chrome adds Gemini-powered ClickFix warnings and scam detection.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
