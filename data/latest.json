@@ -1,123 +1,107 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T11:20:03Z",
- "hour": "2026-10-23T11:00:00Z",
+ "generated_at": "2026-10-23T12:20:05Z",
+ "hour": "2026-10-23T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek Open-Sources AI Model as China, US Restrict Each Other’s Tech",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/newsletters/2026-10-23/deepseek-open-sources-ai-model-as-china-us-restrict-each-other-s-tech",
+   "title": "LeapThought and Google Cloud Partner to Secure and Connect Critical Building Infrastructure with Sovereign AI",
+   "outlet": "巴士的報",
+   "outlet_name": "巴士的報",
+   "url": "https://www.bastillepost.com/global/article/6283093-leapthought-and-google-cloud-partner-to-secure-and-connect-critical-building-infrastructure-with-sovereign-ai",
+   "label": "CONFIRMED",
+   "summary_1line": "LeapThought and Google Cloud team up for sovereign AI in infrastructure with data control and natural-language insights.",
+   "published_at": "2026-10-23T06:50:00Z",
+   "url_id": "b500e54ea007b6e0ee3fd577a0e984d9"
+  },
+  {
+   "title": "Nvidia DGX Spark 64GB Launches at $4,999: Is It Worth It?",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/news-nvidia-dgx-spark-64gb-price-specs/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-23T10:28:01Z",
-   "url_id": "9e612fe45789986e1f844a6129153faa"
+   "summary_1line": "Nvidia's 64GB DGX Spark starts at $4,999, supports up to 100B parameters, and can be clustered for 200B model support.",
+   "published_at": "2026-10-23T02:19:00Z",
+   "url_id": "0f0656cad1e87a9735544529465dc4ee"
   },
   {
-   "title": "Microsoft AI tool beat generalist doctors at step-by-step diagnosis",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/microsoft-ai-diagnosis-mai-dxo-science-study",
-   "label": "CONFIRMED",
-   "summary_1line": "MAI-DxO beats generalist doctors in medical case diagnosis, with 83.2% accuracy in complex cases.",
-   "published_at": "2026-10-23T07:53:34Z",
-   "url_id": "1d8720510996e2c1f40cbca7cce915d9"
-  },
-  {
-   "title": "Functionize launches MCP server for AI coding agents",
-   "outlet": "SecurityBrief New Zealand",
-   "outlet_name": "SecurityBrief New Zealand",
-   "url": "https://securitybrief.co.nz/story/functionize-launches-mcp-server-for-ai-coding-agents",
-   "label": "CONFIRMED",
-   "summary_1line": "Functionize links coding agents to live app testing via MCP server for real-time validation.",
-   "published_at": "2026-10-23T08:15:00Z",
-   "url_id": "30aa5638f61de156fd41f13b07a1adaa"
-  },
-  {
-   "title": "LTM launches BlueVerse Industrial AI Lab in Chennai to scale enterprise AI adoption",
-   "outlet": "MediaNews4U",
-   "outlet_name": "MediaNews4U",
-   "url": "https://www.medianews4u.com/ltm-launches-blueverse-industrial-ai-lab-in-chennai-to-scale-enterprise-ai-adoption/",
-   "label": "CONFIRMED",
-   "summary_1line": "LTM launches AI lab in Chennai to accelerate industrial AI adoption and scale solutions.",
-   "published_at": "2026-10-23T08:39:35Z",
-   "url_id": "fc0cc24d9f4493b002f36f9842c7e5a9"
-  },
-  {
-   "title": "OpenAI Brings Top AI Models to Google Cloud in New Enterprise Push",
-   "outlet": "Channel Insider",
-   "outlet_name": "Channel Insider",
-   "url": "https://www.channelinsider.com/channel-business/news-openai-google-cloud-enterprise-ai-models/",
+   "title": "Qlik Brings Governed Business Context and Analytics Workflows to Claude",
+   "outlet": "AiThority",
+   "outlet_name": "AiThority",
+   "url": "https://aithority.com/machine-learning/qlik-brings-governed-business-context-and-analytics-workflows-to-claude/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI and Google enable enterprise AI access via Google Cloud with three GPT-6 models in private preview.",
-   "published_at": "2026-10-23T09:19:22Z",
-   "url_id": "8c92aa5c3134d0b01ac3bd5b1eb056f2"
+   "summary_1line": "Qlik enables Claude to access governed business context via MCP in Anthropic’s directory.",
+   "published_at": "2026-10-23T10:33:27Z",
+   "url_id": "6a734c057617b70455c31c414f674c4c"
+  },
+  {
+   "title": "Pennsylvania Senate Faces Pressure Over AI Campaign Ad Bill",
+   "outlet": "MyChesCo",
+   "outlet_name": "MyChesCo",
+   "url": "https://www.mychesco.com/a/news/government/pennsylvania-senate-faces-pressure-over-ai-campaign-ad-bill/",
+   "label": "REPORTED",
+   "summary_1line": "PA lawmakers push AI ad disclosure after deepfakes rise, bill stalled in Senate.",
+   "published_at": "2026-10-23T10:14:17Z",
+   "url_id": "5fb088aad87ccb1bf3cedf3bd0215a1c"
+  },
+  {
+   "title": "Agile ONE SN Humanoid Robot Bundles Nvidia’s Robotics Stack",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/news-nvidia-agile-one-sn-humanoid-robot/",
+   "label": "REPORTED",
+   "summary_1line": "Agile Robots and Nvidia launch Agile ONE SN, a research robot with AI tools, for early 2027 release.",
+   "published_at": "2026-10-23T09:42:46Z",
+   "url_id": "ff4af030c3f399394a11a82c7021fc5f"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek Open-Sources AI Model as China, US Restrict Each Other’s Tech",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "LeapThought and Google Cloud Partner to Secure and Connect Critical Building…",
+   "outlet": "巴士的報",
+   "outlet_name": "巴士的報",
+   "label": "CONFIRMED",
+   "url": "https://www.bastillepost.com/global/article/6283093-leapthought-and-google-cloud-partner-to-secure-and-connect-critical-building-infrastructure-with-sovereign-ai",
+   "url_id": "b500e54ea007b6e0ee3fd577a0e984d9"
+  },
+  {
+   "headline": "Nvidia DGX Spark 64GB Launches at $4,999: Is It Worth It?",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/newsletters/2026-10-23/deepseek-open-sources-ai-model-as-china-us-restrict-each-other-s-tech",
-   "url_id": "9e612fe45789986e1f844a6129153faa"
+   "url": "https://www.techrepublic.com/article/news-nvidia-dgx-spark-64gb-price-specs/",
+   "url_id": "0f0656cad1e87a9735544529465dc4ee"
   },
   {
-   "headline": "Microsoft AI tool beat generalist doctors at step-by-step diagnosis",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/microsoft-ai-diagnosis-mai-dxo-science-study",
-   "url_id": "1d8720510996e2c1f40cbca7cce915d9"
-  },
-  {
-   "headline": "Functionize launches MCP server for AI coding agents",
-   "outlet": "SecurityBrief New Zealand",
-   "outlet_name": "SecurityBrief New Zealand",
-   "label": "CONFIRMED",
-   "url": "https://securitybrief.co.nz/story/functionize-launches-mcp-server-for-ai-coding-agents",
-   "url_id": "30aa5638f61de156fd41f13b07a1adaa"
-  },
-  {
-   "headline": "LTM launches BlueVerse Industrial AI Lab in Chennai to scale enterprise AI adoption",
-   "outlet": "MediaNews4U",
-   "outlet_name": "MediaNews4U",
-   "label": "CONFIRMED",
-   "url": "https://www.medianews4u.com/ltm-launches-blueverse-industrial-ai-lab-in-chennai-to-scale-enterprise-ai-adoption/",
-   "url_id": "fc0cc24d9f4493b002f36f9842c7e5a9"
-  },
-  {
-   "headline": "OpenAI Brings Top AI Models to Google Cloud in New Enterprise Push",
-   "outlet": "Channel Insider",
-   "outlet_name": "Channel Insider",
-   "label": "REPORTED",
-   "url": "https://www.channelinsider.com/channel-business/news-openai-google-cloud-enterprise-ai-models/",
-   "url_id": "8c92aa5c3134d0b01ac3bd5b1eb056f2"
-  },
-  {
-   "headline": "Startup Funding: DeepSeek, Mural, AuxoAI Raise Billions and Millions",
-   "outlet": "Analytics Insight",
-   "outlet_name": "Analytics Insight",
-   "label": "STILL OPEN",
-   "url": "https://www.analyticsinsight.net/news/startup-funding-deepseek-mural-auxoai-raise-billions-and-millions",
-   "url_id": "9ace954069385e7953a82dd4ae04fd17"
-  },
-  {
-   "headline": "Accion Labs Achieves Select Partner Tier in the Claude Partner Network Services Track",
+   "headline": "Qlik Brings Governed Business Context and Analytics Workflows to Claude",
    "outlet": "AiThority",
    "outlet_name": "AiThority",
    "label": "REPORTED",
-   "url": "https://aithority.com/machine-learning/accion-labs-achieves-select-partner-tier-in-the-claude-partner-network-services-track/",
-   "url_id": "307636aa0a27df7f934a6bd9a87bbaf5"
+   "url": "https://aithority.com/machine-learning/qlik-brings-governed-business-context-and-analytics-workflows-to-claude/",
+   "url_id": "6a734c057617b70455c31c414f674c4c"
+  },
+  {
+   "headline": "Pennsylvania Senate Faces Pressure Over AI Campaign Ad Bill",
+   "outlet": "MyChesCo",
+   "outlet_name": "MyChesCo",
+   "label": "REPORTED",
+   "url": "https://www.mychesco.com/a/news/government/pennsylvania-senate-faces-pressure-over-ai-campaign-ad-bill/",
+   "url_id": "5fb088aad87ccb1bf3cedf3bd0215a1c"
+  },
+  {
+   "headline": "Agile ONE SN Humanoid Robot Bundles Nvidia’s Robotics Stack",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "label": "REPORTED",
+   "url": "https://www.techrepublic.com/article/news-nvidia-agile-one-sn-humanoid-robot/",
+   "url_id": "ff4af030c3f399394a11a82c7021fc5f"
   },
   {
    "headline": "DeepSeek raises €13bn to strengthen position in AI market",
    "outlet": "techcentral.ie",
    "outlet_name": "techcentral.ie",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.techcentral.ie/deepseek-raises-e13bn-to-strengthen-position-in-ai-market/",
    "url_id": "72585b1ad0a1fa118d1015d7f9ee58e5"
   },
@@ -125,17 +109,41 @@
    "headline": "Pony AI Unveils Collaboration With Nvidia, inDrive to Explore Launch of Autonomous…",
    "outlet": "marketscreener.com",
    "outlet_name": "marketscreener.com",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.marketscreener.com/news/pony-ai-unveils-collaboration-with-nvidia-indrive-to-explore-launch-of-autonomous-vehicles-in-kazak-ce785cdfd98af727",
    "url_id": "240179c1d4b22c3cb1f4168b7b5439a9"
   },
   {
-   "headline": "LeapThought and Google Cloud Partner to Secure and Connect Critical Building…",
-   "outlet": "UzDaily.uz",
-   "outlet_name": "UzDaily.uz",
+   "headline": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity…",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.uzdaily.uz/en/leapthought-and-google-cloud-partner-to-secure-and-connect-critical-building-infrastructure-with-sovereign-ai/",
-   "url_id": "9ea453119eb871a2d4c8b03d0e65ee91"
+   "url": "https://www.msn.com/en-us/news/other/chinas-deepseek-minimax-win-approval-for-ai-global-use-state-media-affiliated-entity-says/ar-AA2fSU3E",
+   "url_id": "6bfc753cb4e5d0c55aefdeeda7ea0c64"
+  },
+  {
+   "headline": "Gemini Notebook read my car’s 150-page manual, and I found features I didn’t know I’d…",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
+   "label": "REPORTED",
+   "url": "https://www.xda-developers.com/gemini-notebook-read-cars-manual-found-features-i-didnt-know-i-paid-for/",
+   "url_id": "09b7457594018d3d4e4ce9807dd86ea4"
+  },
+  {
+   "headline": "I disabled Google AI Overviews; it completely fixed my search results",
+   "outlet": "androidpolice.com",
+   "outlet_name": "androidpolice.com",
+   "label": "REPORTED",
+   "url": "https://www.androidpolice.com/i-disabled-google-ai-overviews-and-it-completely-fixed-my-search-results/",
+   "url_id": "2649c5d352fe675afa03732ca74329e5"
+  },
+  {
+   "headline": "A Strongly Worded Letter: Mistakes Claude Makes with Hardware in the Loop",
+   "outlet": "groundrun.io",
+   "outlet_name": "groundrun.io",
+   "label": "REPORTED",
+   "url": "https://groundrun.io/blog/mistakes-claude-makes-with-hardware-in-the-loop/",
+   "url_id": "21ad2ee9c2eaf4cd9d9de321623c3479"
   },
   {
    "headline": "Germany’s Agile Robots Plans Up to 2,000 Humanoids With Nvidia",
@@ -144,24 +152,16 @@
    "label": "REPORTED",
    "url": "https://www.eweek.com/news/agile-robots-nvidia-humanoids-emea-germany/",
    "url_id": "3c0239a1ccd9324d26f98c30819accc8"
-  },
-  {
-   "headline": "Nvidia und TCV investieren in KI-Video-Startup Higgsfield",
-   "outlet": "aktien.news",
-   "outlet_name": "aktien.news",
-   "label": "REPORTED",
-   "url": "https://www.aktien.news/nvidia-und-tcv-investieren-in-ki-video-startup-higgsfield",
-   "url_id": "72a77e08f26eebab7e4bdc0e7c11cdb6"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 11000,
+ "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 10900,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/11.mp3",
- "audio_seconds": 67.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/12.mp3",
+ "audio_seconds": 69.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek has open-sourced an artificial intelligence model as China and the US restrict each other's technology. Reported by Bloomberg.\nMicrosoft's artificial intelligence tool called MAI-DxO beat generalist doctors at step-by-step diagnosis, with 83.2% accuracy in complex cases. Confirmed by The Next Web.\nFunctionize has launched an MCP server that links coding agents to live app testing for real-time validation. Confirmed by SecurityBrief New Zealand.\nLTM has launched an artificial intelligence lab in Chennai to accelerate industrial artificial intelligence adoption and scale solutions. Confirmed by MediaNews4U.\nOpenAI and Google are enabling enterprise artificial intelligence access via Google Cloud with three GPT-6 models in private preview. Reported by Channel Insider.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nLeapThought and Google Cloud partner to secure critical building infrastructure with sovereign artificial intelligence. Confirmed by 巴士的報: the collaboration offers data control and natural-language insights.\nNvidia's 64GB DGX Spark launches at $4,999, supporting up to 100B parameters. Reported by TechRepublic: the system can be clustered for 200B model support.\nQlik brings governed business context and analytics workflows to Claude through Anthropic's directory. Reported by AiThority: the integration enables Claude to access governed business context via MCP.\nPennsylvania lawmakers push for artificial intelligence ad disclosure after deepfakes rise. Reported by MyChesCo: the bill remains stalled in the Senate.\nAgile Robots and Nvidia launch Agile ONE SN, a research robot bundling Nvidia's robotics stack. Reported by TechRepublic: the robot is set for early 2027 release.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
