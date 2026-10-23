@@ -1,101 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T14:20:04Z",
- "hour": "2026-10-23T14:00:00Z",
+ "generated_at": "2026-10-23T15:20:02Z",
+ "hour": "2026-10-23T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic and Hg to Launch AI Consultancy for European Firms",
-   "outlet": "SQ Magazine",
-   "outlet_name": "SQ Magazine",
-   "url": "https://sqmagazine.co.uk/anthropic-hg-european-ai-consultancy/",
+   "title": "Cybercriminals Used Claude and Grok to Launch Automated Attacks Against Banks",
+   "outlet": "GBHackers News",
+   "outlet_name": "GBHackers News",
+   "url": "https://gbhackers.com/claude-and-grok-exploited/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic backs first European AI consultancy with Hg by end-2026.",
-   "published_at": "2026-10-23T11:25:33Z",
-   "url_id": "04b64ca5b24a61d58f2a29421d29279c"
+   "summary_1line": "AI-powered cyberattack system targets 400+ Latin American financial firms.",
+   "published_at": "2026-10-22T14:15:57Z",
+   "url_id": "5a9ad4828f5341d83920c5dad0957545"
   },
   {
-   "title": "Uber rolls out ChatGPT Work to 30,000 employees: 11 companies that have restricted AI tools",
-   "outlet": "People Matters - HR News",
-   "outlet_name": "People Matters - HR News",
-   "url": "https://www.peoplematters.in/amp/article/ai-and-emerging-tech/uber-rolls-out-chatgpt-work-to-30000-employees-11-companies-that-have-restricted-ai-tools-52930",
-   "label": "CONFIRMED",
-   "summary_1line": "Uber expands ChatGPT Work to 30,000 employees amid growing corporate AI security concerns.",
-   "published_at": "2026-10-23T07:14:29Z",
-   "url_id": "54c56898c1c017bd6beb4270697388c2"
-  },
-  {
-   "title": "Canva Launches Its Own AI Image Generator to Take on Google and OpenAI",
-   "outlet": "ProPakistani",
-   "outlet_name": "ProPakistani",
-   "url": "https://propakistani.pk/2026/10/23/canva-launches-its-own-ai-image-generator-to-take-on-google-and-openai/",
+   "title": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
    "label": "REPORTED",
-   "summary_1line": "Canva launches Canva Craft to compete with major AI image models and cut costs.",
-   "published_at": "2026-10-23T11:59:56Z",
-   "url_id": "c6ac4d62dc7937557bb00a6c18fc693c"
+   "summary_1line": null,
+   "published_at": "2026-10-23T14:00:28Z",
+   "url_id": "f2d8023b87443249cbc4e39833242c9c"
   },
   {
-   "title": "Anthropic’s $2 trillion IPO question: How much growth can investors buy?",
-   "outlet": "CTech",
-   "outlet_name": "CTech",
-   "url": "https://www.calcalistech.com/ctechnews/article/xe3rgeeey",
+   "title": "Superintelligent AI Could Be A Year Away, Ex-Google DeepMind Researcher Alex Turner Says",
+   "outlet": "شبكة تواصل الإخبارية",
+   "outlet_name": "شبكة تواصل الإخبارية",
+   "url": "https://twaslnews1.twaslnews.com/6465647/",
+   "label": "STILL OPEN",
+   "summary_1line": "Ex-Google AI researcher warns AI shows superhuman math skills but lacks broad intelligence.",
+   "published_at": "2026-10-23T12:06:02Z",
+   "url_id": "571e524136d568c1652f52e91f369bdc"
+  },
+  {
+   "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+   "outlet": "bbc.co.uk",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
+   "label": "STILL OPEN",
+   "summary_1line": "PHP flaws trigger global cyber scramble amid AI-driven discovery and misinformation.",
+   "published_at": "2026-10-23T12:00:25Z",
+   "url_id": "f71428bfeb5fc7bdfd24373dfbde8d8d"
+  },
+  {
+   "title": "OpenAI’s AI agents analyse a mouse brain gene atlas in 32 minutes",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/openai-ai-agents-mouse-brain-crispr-atlas",
    "label": "REPORTED",
-   "summary_1line": "Anthropic reports $16.8B revenue and $80.7B loss, with $600B infrastructure commitments.",
-   "published_at": "2026-10-23T10:40:00Z",
-   "url_id": "fc40889dcad248a3bb37966e3913426f"
-  },
-  {
-   "title": "Meta, OpenAI and Anthropic AI agents get user-approved logins via 1Password",
-   "outlet": "Cryptopolitan",
-   "outlet_name": "Cryptopolitan",
-   "url": "https://www.cryptopolitan.com/ai-agents-1password-sign-in-user-approves/",
-   "label": "CONFIRMED",
-   "summary_1line": "1Password launches agent login with user approval for AI tools like Muse and Claude.",
-   "published_at": "2026-10-23T08:34:35Z",
-   "url_id": "9d59e250280a273d5a991a57e21f4c92"
+   "summary_1line": "2,000 AI agents analyze mouse brain data in 32 minutes, finding new neuroscience leads.",
+   "published_at": "2026-10-23T12:56:30Z",
+   "url_id": "7e1693527feb5903f5f691639f375990"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic and Hg to Launch AI Consultancy for European Firms",
-   "outlet": "SQ Magazine",
-   "outlet_name": "SQ Magazine",
+   "headline": "Cybercriminals Used Claude and Grok to Launch Automated Attacks Against Banks",
+   "outlet": "GBHackers News",
+   "outlet_name": "GBHackers News",
    "label": "CONFIRMED",
-   "url": "https://sqmagazine.co.uk/anthropic-hg-european-ai-consultancy/",
-   "url_id": "04b64ca5b24a61d58f2a29421d29279c"
+   "url": "https://gbhackers.com/claude-and-grok-exploited/",
+   "url_id": "5a9ad4828f5341d83920c5dad0957545"
   },
   {
-   "headline": "Uber rolls out ChatGPT Work to 30,000 employees: 11 companies that have restricted AI…",
-   "outlet": "People Matters - HR News",
-   "outlet_name": "People Matters - HR News",
-   "label": "CONFIRMED",
-   "url": "https://www.peoplematters.in/amp/article/ai-and-emerging-tech/uber-rolls-out-chatgpt-work-to-30000-employees-11-companies-that-have-restricted-ai-tools-52930",
-   "url_id": "54c56898c1c017bd6beb4270697388c2"
-  },
-  {
-   "headline": "Canva Launches Its Own AI Image Generator to Take on Google and OpenAI",
-   "outlet": "ProPakistani",
-   "outlet_name": "ProPakistani",
+   "headline": "Experts cast doubt on Anthropic report detailing how AI has altered work at the company",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
    "label": "REPORTED",
-   "url": "https://propakistani.pk/2026/10/23/canva-launches-its-own-ai-image-generator-to-take-on-google-and-openai/",
-   "url_id": "c6ac4d62dc7937557bb00a6c18fc693c"
+   "url": "https://www.theguardian.com/technology/2026/oct/23/anthropic-report-ai-workplace-shifts",
+   "url_id": "f2d8023b87443249cbc4e39833242c9c"
   },
   {
-   "headline": "Anthropic’s $2 trillion IPO question: How much growth can investors buy?",
-   "outlet": "CTech",
-   "outlet_name": "CTech",
-   "label": "REPORTED",
-   "url": "https://www.calcalistech.com/ctechnews/article/xe3rgeeey",
-   "url_id": "fc40889dcad248a3bb37966e3913426f"
-  },
-  {
-   "headline": "Meta, OpenAI and Anthropic AI agents get user-approved logins via 1Password",
-   "outlet": "Cryptopolitan",
-   "outlet_name": "Cryptopolitan",
-   "label": "CONFIRMED",
-   "url": "https://www.cryptopolitan.com/ai-agents-1password-sign-in-user-approves/",
-   "url_id": "9d59e250280a273d5a991a57e21f4c92"
+   "headline": "Superintelligent AI Could Be A Year Away, Ex-Google DeepMind Researcher Alex Turner Says",
+   "outlet": "شبكة تواصل الإخبارية",
+   "outlet_name": "شبكة تواصل الإخبارية",
+   "label": "STILL OPEN",
+   "url": "https://twaslnews1.twaslnews.com/6465647/",
+   "url_id": "571e524136d568c1652f52e91f369bdc"
   },
   {
    "headline": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
@@ -106,12 +90,12 @@
    "url_id": "f71428bfeb5fc7bdfd24373dfbde8d8d"
   },
   {
-   "headline": "China clears DeepSeek and MiniMax for global AI deployment",
-   "outlet": "The News International",
-   "outlet_name": "The News International",
-   "label": "CONFIRMED",
-   "url": "https://www.thenews.com.pk/latest/1421023-china-clears-deepseek-and-minimax-for-global-ai-deployment",
-   "url_id": "b8cd93040369aa6f4b4aacc0094712ba"
+   "headline": "OpenAI’s AI agents analyse a mouse brain gene atlas in 32 minutes",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "REPORTED",
+   "url": "https://thenextweb.com/news/openai-ai-agents-mouse-brain-crispr-atlas",
+   "url_id": "7e1693527feb5903f5f691639f375990"
   },
   {
    "headline": "Emerald AI, Nvidia share results of latest pilot at Nscale data center in Iceland",
@@ -122,6 +106,14 @@
    "url_id": "f6ca735eaa4bae8cb792a8664469d800"
   },
   {
+   "headline": "NVIDIA DSX: Europäische Partner bauen KI-Fabriken mit mehr GPU-Kapazität",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "label": "REPORTED",
+   "url": "https://borncity.com/news/nvidia-dsx-europaeische-partner-bauen-ki-fabriken-mit-mehr-gpu-kapazitaet/",
+   "url_id": "770ccf79f1ca80dbecc0b6d70cc3bb41"
+  },
+  {
    "headline": "OpenAI Just Cut Its Valuation Target by $150 Billion",
    "outlet": "Yahoo Finance",
    "outlet_name": "Yahoo Finance",
@@ -130,12 +122,20 @@
    "url_id": "ecb5d3f05d5719c6861220eea2f1997b"
   },
   {
-   "headline": "1 in 3 chance AI will kill humanity in 10 years: ex-Google DeepMind researcher Alex…",
+   "headline": "'Threat is very real to India': Microsoft AI expert Nicholas Butts at NDTV World Summit",
    "outlet": "NDTV on MSN",
    "outlet_name": "NDTV on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-in/news/other/1-in-3-chance-ai-will-kill-humanity-in-10-years-ex-google-deepmind-researcher-alex-turner-at-ndtv-world-summit/ar-AA2fUF1n",
-   "url_id": "bd52e71c5a4e64cf0af72648a5b060ce"
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/threat-is-very-real-to-india-microsoft-ai-expert-nicholas-butts-at-ndtv-world-summit/ar-AA2fUHOP",
+   "url_id": "53665cabf3bd831a1489e63692c62e55"
+  },
+  {
+   "headline": "Enjoy ChatGPT, Claude, and More Forever Under a Single Umbrella for Only $100",
+   "outlet": "pcmag.com",
+   "outlet_name": "pcmag.com",
+   "label": "REPORTED",
+   "url": "https://www.pcmag.com/deals/enjoy-chatgpt-claude-and-more-forever-under-a-single-umbrella-for-only",
+   "url_id": "8f93d56e04721277fa4f9eab3cf38a40"
   },
   {
    "headline": "Agenten von OpenAI drehen eigene Sicherheitsfunktionen ab – warum, weiß noch niemand",
@@ -146,22 +146,22 @@
    "url_id": "65e223cb558b15c8a51bdefe827a0ae9"
   },
   {
-   "headline": "Which Top-Tier Investment Firms Have Backed The 100-Billion-Yuan DeepSeek?",
-   "outlet": "eu.36kr.com",
-   "outlet_name": "eu.36kr.com",
+   "headline": "Claude digs up bugs that survived trillions of tests across open-source software",
+   "outlet": "Interesting Engineering on MSN",
+   "outlet_name": "Interesting Engineering on MSN",
    "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4037947787776903",
-   "url_id": "8df63233b6e348ed4967503257434c6c"
+   "url": "https://www.msn.com/en-us/technology/software/claude-digs-up-bugs-that-survived-trillions-of-tests-across-open-source-software/ar-AA2fQRci",
+   "url_id": "8e9bb396a767978d35057279c0530f7c"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 10700,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 10500,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/14.mp3",
- "audio_seconds": 52.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/15.mp3",
+ "audio_seconds": 73.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per SQ Magazine: Anthropic and Hg to Launch AI Consultancy for European Firms.\nConfirmed, per People Matters - HR News: Uber rolls out ChatGPT Work to 30,000 employees: 11 companies that have restricted AI tools.\nReported by ProPakistani: Canva Launches Its Own AI Image Generator to Take on Google and OpenAI.\nReported by CTech: Anthropic’s $2 trillion IPO question: How much growth can investors buy.\nConfirmed, per Cryptopolitan: Meta, OpenAI and Anthropic AI agents get user-approved logins via 1Password.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nCybercriminals used Claude and Grok to launch automated attacks against banks, confirmed by GBHackers News. The AI-powered system targets 400 plus Latin American financial firms.\nExperts cast doubt on Anthropic report detailing how artificial intelligence has altered work at the company, reported by The Guardian.\nSuperintelligent artificial intelligence could be a year away, still open per شبكة تواصل الإخبارية. An ex-Google DeepMind researcher says artificial intelligence shows superhuman math skills but lacks broad intelligence.\nIt's been relentless say IT workers on the frontline of PHP cyber-security scramble, still open per BBC. PHP flaws trigger global cyber scramble amid artificial intelligence-driven discovery and misinformation.\nOpenAI's artificial intelligence agents analysed a mouse brain gene atlas in 32 minutes, reported by The Next Web. 2,000 artificial intelligence agents analyzed mouse brain data in 32 minutes, finding new neuroscience leads.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
