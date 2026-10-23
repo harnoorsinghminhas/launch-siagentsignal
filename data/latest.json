@@ -1,101 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-22T23:20:07Z",
- "hour": "2026-10-22T23:00:00Z",
+ "generated_at": "2026-10-23T00:20:02Z",
+ "hour": "2026-10-23T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI reportedly seeks $30B at $1.25T valuation; Anthropic targets $1.5–2T for IPO.",
-   "published_at": "2026-10-22T22:08:24Z",
-   "url_id": "1e3382b17a9c6b7982ce0ac80078198c"
-  },
-  {
-   "title": "Google launches more personalized Gemini AI as competition over in-car technology intensifies",
-   "outlet": "Car Dealership Guy News",
-   "outlet_name": "Car Dealership Guy News",
-   "url": "https://news.dealershipguy.com/p/google-launches-more-personalized-gemini-ai-as-competition-over-in-car-technology-intensifies",
-   "label": "REPORTED",
-   "summary_1line": "Google rolls out personalized Gemini AI to vehicles, boosting infotainment competition.",
-   "published_at": "2026-10-22T21:00:39Z",
-   "url_id": "1adde00e064429520865c0f166a751f0"
-  },
-  {
-   "title": "OpenAI trims valuation target to $1.25tn after pitching higher price",
-   "outlet": "Financial Times",
-   "outlet_name": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWQtQ2RQaXBRUWc1UlRnSVpKbkJnVzRPZnNCNHJrZUczU25qcE1oWHh2Ri1HVzl5OUJtS2lHeHkyenRYTnlpeURPZjNsN3dhUlVxdGZvSnZmQjZtOGFrZFg1OFhOcEs3Y0VMRFg3M2tpNWlEQ1Y5c3Q4ejBwX2dsSWk3eXE?oc=5",
+   "title": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlJ6SFpHeHRub3NJR1l1dFg0YzFULWdWX1MtU1A4b1luZTFMMkktcHU0YWdNMi1RMy1Sc3FkVF9WTnhvc0txaV9HX1k1d1cxQVgyOWdWcUU2UVVRXzlNMDdydVc2cmxEQ1FqX0dPeEFqZ3pzZnVGRnZYUzEwR0xfanQycnZPUEp6SkM1ZEo4OV9KOHZrWk9sbElfRmcxVDVmYUhfSmNqODhra1JvYko4MWRLNA?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-22T21:50:16Z",
-   "url_id": "733d60fc908e2d6fa4c7397c2ea6e756"
+   "published_at": "2026-10-22T23:31:57Z",
+   "url_id": "b7aa0c06d54fb9fe4d2fc9e814bd6279"
   },
   {
-   "title": "Canva’s first AI image model plans designs before generating them",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "title": "Agentic AI Foundation adds four more open-source AI tools",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/",
    "label": "CONFIRMED",
-   "summary_1line": "Canva launches Canva Craft, an AI image model with 2K resolution and 30+ aspect ratios.",
-   "published_at": "2026-10-22T14:51:00Z",
-   "url_id": "5eee804247a435ab2dffe426bbbc3182"
+   "summary_1line": "Agentic AI Foundation adds 4 open-source AI tools, expanding to 10 total projects.",
+   "published_at": "2026-10-22T22:43:00Z",
+   "url_id": "5338bfcedd3522caab1273a4937e2964"
   },
   {
-   "title": "Expanding Claude availability and deployment choice on Google Cloud",
-   "outlet": "cloud",
-   "outlet_name": "cloud",
-   "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud",
+   "title": "Seattle's Nobel-Winning Protein Lab Unveils AI Model Built With Nvidia",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
+   "url": "https://hoodline.com/2026/10/seattle-s-nobel-winning-protein-lab-unveils-ai-model-built-with-nvidia/",
+   "label": "REPORTED",
+   "summary_1line": "UW and Nvidia launch RFD4-Proteina, an AI model that designs proteins 5-10x faster with 5-10x higher success rates.",
+   "published_at": "2026-10-22T14:40:00Z",
+   "url_id": "c9210b4379712fc22fc240d0905bca1d"
+  },
+  {
+   "title": "Open call for guest investigators in the life sciences",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
    "label": "CONFIRMED",
-   "summary_1line": "Google Cloud now offers Anthropic and Google-managed Claude model deployments with full AI capabilities.",
-   "published_at": "2026-10-22T03:00:00Z",
-   "url_id": "2de76ca2a94d7b0f9e7c6a972f3a070b"
+   "summary_1line": "Anthropic opens research collaboration for life sciences using Claude models.",
+   "published_at": "2026-10-22T22:03:06Z",
+   "url_id": "2c00c6806dedca59848a48e0f9b16dd8"
+  },
+  {
+   "title": "LLMs are making formal software verification feasible at a much larger scale",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "url": "https://www.anthropic.com/research/formal-verification",
+   "label": "CONFIRMED",
+   "summary_1line": "LLMs generate formal proofs for security in 100+ open-source libraries, detecting long-hidden bugs.",
+   "published_at": "2026-10-22T21:58:06Z",
+   "url_id": "7ee25a04ae2655e0bf417733c2a6ced9"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "label": "STILL OPEN",
-   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-   "url_id": "1e3382b17a9c6b7982ce0ac80078198c"
-  },
-  {
-   "headline": "Google launches more personalized Gemini AI as competition over in-car technology…",
-   "outlet": "Car Dealership Guy News",
-   "outlet_name": "Car Dealership Guy News",
+   "headline": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://news.dealershipguy.com/p/google-launches-more-personalized-gemini-ai-as-competition-over-in-car-technology-intensifies",
-   "url_id": "1adde00e064429520865c0f166a751f0"
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlJ6SFpHeHRub3NJR1l1dFg0YzFULWdWX1MtU1A4b1luZTFMMkktcHU0YWdNMi1RMy1Sc3FkVF9WTnhvc0txaV9HX1k1d1cxQVgyOWdWcUU2UVVRXzlNMDdydVc2cmxEQ1FqX0dPeEFqZ3pzZnVGRnZYUzEwR0xfanQycnZPUEp6SkM1ZEo4OV9KOHZrWk9sbElfRmcxVDVmYUhfSmNqODhra1JvYko4MWRLNA?oc=5",
+   "url_id": "b7aa0c06d54fb9fe4d2fc9e814bd6279"
   },
   {
-   "headline": "OpenAI trims valuation target to $1.25tn after pitching higher price",
-   "outlet": "Financial Times",
-   "outlet_name": "Financial Times",
+   "headline": "Agentic AI Foundation adds four more open-source AI tools",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
+   "label": "CONFIRMED",
+   "url": "https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/",
+   "url_id": "5338bfcedd3522caab1273a4937e2964"
+  },
+  {
+   "headline": "Seattle's Nobel-Winning Protein Lab Unveils AI Model Built With Nvidia",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSWQtQ2RQaXBRUWc1UlRnSVpKbkJnVzRPZnNCNHJrZUczU25qcE1oWHh2Ri1HVzl5OUJtS2lHeHkyenRYTnlpeURPZjNsN3dhUlVxdGZvSnZmQjZtOGFrZFg1OFhOcEs3Y0VMRFg3M2tpNWlEQ1Y5c3Q4ejBwX2dsSWk3eXE?oc=5",
-   "url_id": "733d60fc908e2d6fa4c7397c2ea6e756"
-  },
-  {
-   "headline": "Canva’s first AI image model plans designs before generating them",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-   "url_id": "5eee804247a435ab2dffe426bbbc3182"
-  },
-  {
-   "headline": "Expanding Claude availability and deployment choice on Google Cloud",
-   "outlet": "cloud",
-   "outlet_name": "cloud",
-   "label": "CONFIRMED",
-   "url": "https://cloud.google.com/blog/products/ai-machine-learning/expanding-claude-availability-on-google-cloud",
-   "url_id": "2de76ca2a94d7b0f9e7c6a972f3a070b"
+   "url": "https://hoodline.com/2026/10/seattle-s-nobel-winning-protein-lab-unveils-ai-model-built-with-nvidia/",
+   "url_id": "c9210b4379712fc22fc240d0905bca1d"
   },
   {
    "headline": "Open call for guest investigators in the life sciences",
@@ -114,20 +98,28 @@
    "url_id": "7ee25a04ae2655e0bf417733c2a6ced9"
   },
   {
-   "headline": "Seattle's Nobel-Winning Protein Lab Unveils AI Model Built With Nvidia",
-   "outlet": "Hoodline",
-   "outlet_name": "Hoodline",
+   "headline": "Resultant Accelerates Public Sector AI Transformation with Google Cloud's Gemini for…",
+   "outlet": "Google Cloud Press Corner",
+   "outlet_name": "Google Cloud Press Corner",
    "label": "REPORTED",
-   "url": "https://hoodline.com/2026/10/seattle-s-nobel-winning-protein-lab-unveils-ai-model-built-with-nvidia/",
-   "url_id": "c9210b4379712fc22fc240d0905bca1d"
+   "url": "https://www.googlecloudpresscorner.com/2026-10-22-Resultant-Accelerates-Public-Sector-AI-Transformation-with-Google-Clouds-Gemini-for-Government-Services",
+   "url_id": "786a8c95c5cdec42fbcebbd87d368243"
   },
   {
-   "headline": "Datadog Reportedly Bids Nearly $4B For Cloud Security Startup Upwind To Fortify AI…",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
-   "label": "CONFIRMED",
-   "url": "https://stocktwits.com/news-articles/markets/equity/datadog-bids-nearly-4b-for-cloud-security-startup/cZxwjxYRBD0",
-   "url_id": "192ffba332302c422a15275b1c0ddbef"
+   "headline": "OpenAI to grant Effingham County $2 million for park trail development",
+   "outlet": "WTOC",
+   "outlet_name": "WTOC",
+   "label": "REPORTED",
+   "url": "https://www.wtoc.com/2026/10/22/openai-grant-effingham-county-2-million-park-trail-development/",
+   "url_id": "21faa2f3a04f349d6119dab1b3732d6c"
+  },
+  {
+   "headline": "Anthropic's proposed AI safety bill only allows government to block models under extreme…",
+   "outlet": "CBS News",
+   "outlet_name": "CBS News",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWWTA4WjEtMlNhWDdLYXNuMFQyNVpNc3NFamhxdTNLdTJpWjFWWnFBZTFaLTVxNGhYcVpDVUJVemZSSFhXVTBZdkxFUlVTR2N6RTVTNFR1UW95Q0gxNnp4cEhhWlVRUFptMHFPRUFqcnNFVDFrYU1mZ21ST2w?oc=5",
+   "url_id": "57563d15e8de3e759cf611c9698f4134"
   },
   {
    "headline": "Microsoft Links ConnectWise Breach to China-Linked Group Using AI Pentesting Tool ARTEX",
@@ -146,22 +138,30 @@
    "url_id": "e1905cb8bfbf14c10a05ae9cad743f9c"
   },
   {
-   "headline": "Man Arrested After Telling Claude About Plans to Shoot Up Daycare",
-   "outlet": "futurism.com",
-   "outlet_name": "futurism.com",
+   "headline": "1Password now lets AI agents sign in to websites without seeing your passwords",
+   "outlet": "techspot.com",
+   "outlet_name": "techspot.com",
    "label": "CONFIRMED",
-   "url": "https://futurism.com/artificial-intelligence/man-arrested-claude-plans-shoot-daycare",
-   "url_id": "68582d5ed7a784ea5e4ddcc4cb171201"
+   "url": "https://www.techspot.com/downloads/5626-1password.html",
+   "url_id": "1dc21a09920305e9c7089017b6119b25"
+  },
+  {
+   "headline": "I ran Claude Code, Codex, and Cursor on the same AI model, and the tool mattered more…",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
+   "label": "REPORTED",
+   "url": "https://www.xda-developers.com/ran-claude-code-codex-cursor-same-ai-model-tool-mattered-more-than-expected/",
+   "url_id": "ef4702ee2b0e57cca8d807222dca324d"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 12100,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/22/23.mp3",
- "audio_seconds": 53.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/00.mp3",
+ "audio_seconds": 43.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per TechCrunch: OpenAI working on new $30B raise at $1.25T valuation ahead of IPO.\nReported by Car Dealership Guy News: Google launches more personalized Gemini AI as competition over in-car technology intensifies.\nReported by Financial Times: OpenAI trims valuation target to $1.25tn after pitching higher price.\nConfirmed, per The Verge: Canva’s first AI image model plans designs before generating them.\nConfirmed, per cloud: Expanding Claude availability and deployment choice on Google Cloud.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Bloomberg: OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize.\nConfirmed, per SiliconANGLE: Agentic AI Foundation adds four more open-source AI tools.\nReported by Hoodline: Seattle's Nobel-Winning Protein Lab Unveils AI Model Built With Nvidia.\nConfirmed, per Anthropic: Open call for guest investigators in the life sciences.\nConfirmed, per Anthropic: LLMs are making formal software verification feasible at a much larger scale.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
