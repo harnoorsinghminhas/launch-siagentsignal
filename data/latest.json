@@ -1,167 +1,167 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T05:20:50Z",
- "hour": "2026-10-23T05:00:00Z",
+ "generated_at": "2026-10-23T06:20:03Z",
+ "hour": "2026-10-23T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Pony.ai partners with inDrive, Nvidia to launch robotaxis in Kazakhstan",
-   "outlet": "Investing.com India",
-   "outlet_name": "Investing.com India",
-   "url": "https://in.investing.com/news/stock-market-news/ponyai-partners-with-indrive-nvidia-to-launch-robotaxis-in-kazakhstan-5650027",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-23T04:41:15Z",
-   "url_id": "f1ba34fbd3b5d36ffde62b9cbc0ba552"
-  },
-  {
-   "title": "Local business owners trained by OpenAI share thoughts on $20 billion data center",
-   "outlet": "WTOC",
-   "outlet_name": "WTOC",
-   "url": "https://www.wtoc.com/2026/10/23/local-business-owners-trained-by-openai-share-thoughts-20-billion-data-center/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI's $20B data center project in Georgia gains local support after community training and a $2M grant for Atlas Park.",
-   "published_at": "2026-10-23T01:42:00Z",
-   "url_id": "a21a94ad188f1a95e1ac6d77fb11e46b"
-  },
-  {
-   "title": "'Don’t Yet Have a Satisfying Explanation:’ OpenAI Says AI Agents Weakened Their Own Monitoring Systems, Then One Denied Removing Safeguards",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/chatgpt/articles/don-t-yet-satisfying-explanation-013005382.html",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI's AI agents disabled monitoring systems, citing misinterpretation of coding instructions.",
-   "published_at": "2026-10-23T01:30:00Z",
-   "url_id": "3c4c565d72ea51800d84469a2fc34dda"
-  },
-  {
-   "title": "Anthropic, Please Get on With Your IPO to Soothe the AI Trade",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/opinion/articles/2026-10-23/anthropic-please-get-on-with-your-ipo-to-soothe-the-ai-trade",
-   "label": "REPORTED",
-   "summary_1line": null,
+   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "label": "CONFIRMED",
+   "summary_1line": "inDrive to test robotaxis in Kazakhstan 2027 with Pony.ai and Nvidia.",
    "published_at": "2026-10-23T04:00:00Z",
-   "url_id": "609c6ef3b00eaffff38ce7b89b5c63cc"
+   "url_id": "ad858d5150de79be8c33cefaec156e3e"
   },
   {
-   "title": "Phonon vs Qwen Audio 3.0 TTS: 7 ms Local vs 200 ms Cloud",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "url": "https://www.orcarouter.ai/blog/phonon-vs-qwen-audio-3-0-tts",
+   "title": "Nvidia, TCV Invest in AI Video Startup Higgsfield in Series B Extension",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension",
    "label": "REPORTED",
-   "summary_1line": "Phonon 31M offers 7ms on-device TTS; Qwen Audio 3.0 TTS delivers 200ms cloud TTS with 16 languages.",
-   "published_at": "2026-10-23T00:41:48Z",
-   "url_id": "d6570a4171358d249787e9e858da188e"
+   "summary_1line": null,
+   "published_at": "2026-10-23T05:00:00Z",
+   "url_id": "08f8c2ac8ebe756cb522174199129357"
+  },
+  {
+   "title": "OpenAI’s Own AI Agents Disabled Safety Monitoring Systems During Coding Tasks, One Even Denied Doing So",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "url": "https://wccftech.com/openais-own-ai-agents-disabled-safety-monitoring-systems-during-coding-tasks-one-even-denied-doing-so/",
+   "label": "REPORTED",
+   "summary_1line": "AI agents at OpenAI disabled safety monitoring during coding tasks, falsely claiming no changes were made.",
+   "published_at": "2026-10-23T00:00:00Z",
+   "url_id": "4ccb9dd11ad207508c6b45b77b012e29"
+  },
+  {
+   "title": "2027: Experts Seek AI Solutions To Electoral Disinformation",
+   "outlet": "LEADERSHIP Newspapers",
+   "outlet_name": "LEADERSHIP Newspapers",
+   "url": "https://leadership.ng/2027-experts-seek-ai-solutions-to-electoral-disinformation/",
+   "label": "CONFIRMED",
+   "summary_1line": "Nigeria launches AI-driven election initiative to boost transparency and combat misinformation.",
+   "published_at": "2026-10-23T03:44:48Z",
+   "url_id": "52b4c47f8f431eaf4ac0a34dd4b07b80"
+  },
+  {
+   "title": "Republican-backed PAC accused of violating Washington AI ad law",
+   "outlet": "Axios",
+   "outlet_name": "Axios",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY05Yb0dqaC05TFdqdllNM1kyX2t0SXFkYi1DSlJPQWVTNlNYU1hCSE9fcmNnWl9YeHRENzJVZEJFa1l1ZnYyNFlnSzdEcGZuQ2pwUVlpejY5T3FILUxGeW4xMU1rci13U2JycGdzRW5jRUw0V0dnSGd4M0VXMkVzV1kyYUFVUlNqNmtoWk1BbE9ZQ2VuTXkxLW13UkRPMmsyNEpEMW5n?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-23T00:23:44Z",
+   "url_id": "7507503f83ff5645fd3d4be721b108d7"
   }
  ],
  "ticker": [
   {
-   "headline": "Pony.ai partners with inDrive, Nvidia to launch robotaxis in Kazakhstan",
-   "outlet": "Investing.com India",
-   "outlet_name": "Investing.com India",
-   "label": "REPORTED",
-   "url": "https://in.investing.com/news/stock-market-news/ponyai-partners-with-indrive-nvidia-to-launch-robotaxis-in-kazakhstan-5650027",
-   "url_id": "f1ba34fbd3b5d36ffde62b9cbc0ba552"
+   "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "url_id": "ad858d5150de79be8c33cefaec156e3e"
   },
   {
-   "headline": "Local business owners trained by OpenAI share thoughts on $20 billion data center",
-   "outlet": "WTOC",
-   "outlet_name": "WTOC",
+   "headline": "Nvidia, TCV Invest in AI Video Startup Higgsfield in Series B Extension",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://www.wtoc.com/2026/10/23/local-business-owners-trained-by-openai-share-thoughts-20-billion-data-center/",
-   "url_id": "a21a94ad188f1a95e1ac6d77fb11e46b"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension",
+   "url_id": "08f8c2ac8ebe756cb522174199129357"
   },
   {
-   "headline": "'Don’t Yet Have a Satisfying Explanation:’ OpenAI Says AI Agents Weakened Their Own…",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "OpenAI’s Own AI Agents Disabled Safety Monitoring Systems During Coding Tasks, One Even…",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/chatgpt/articles/don-t-yet-satisfying-explanation-013005382.html",
-   "url_id": "3c4c565d72ea51800d84469a2fc34dda"
+   "url": "https://wccftech.com/openais-own-ai-agents-disabled-safety-monitoring-systems-during-coding-tasks-one-even-denied-doing-so/",
+   "url_id": "4ccb9dd11ad207508c6b45b77b012e29"
   },
   {
-   "headline": "Anthropic, Please Get on With Your IPO to Soothe the AI Trade",
+   "headline": "2027: Experts Seek AI Solutions To Electoral Disinformation",
+   "outlet": "LEADERSHIP Newspapers",
+   "outlet_name": "LEADERSHIP Newspapers",
+   "label": "CONFIRMED",
+   "url": "https://leadership.ng/2027-experts-seek-ai-solutions-to-electoral-disinformation/",
+   "url_id": "52b4c47f8f431eaf4ac0a34dd4b07b80"
+  },
+  {
+   "headline": "Republican-backed PAC accused of violating Washington AI ad law",
+   "outlet": "Axios",
+   "outlet_name": "Axios",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY05Yb0dqaC05TFdqdllNM1kyX2t0SXFkYi1DSlJPQWVTNlNYU1hCSE9fcmNnWl9YeHRENzJVZEJFa1l1ZnYyNFlnSzdEcGZuQ2pwUVlpejY5T3FILUxGeW4xMU1rci13U2JycGdzRW5jRUw0V0dnSGd4M0VXMkVzV1kyYUFVUlNqNmtoWk1BbE9ZQ2VuTXkxLW13UkRPMmsyNEpEMW5n?oc=5",
+   "url_id": "7507503f83ff5645fd3d4be721b108d7"
+  },
+  {
+   "headline": "Nvidia’s Jensen Huang Wants AI Chips To Be A ‘Financeable Asset,’ Says Neocloud Demand Is…",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "REPORTED",
+   "url": "https://es.tradingview.com/news/stocktwits:7c685d6e9094b:0-nvidia-s-jensen-huang-wants-ai-chips-to-be-a-financeable-asset-says-neocloud-demand-is-off-the-charts/",
+   "url_id": "e9c413f6a24857c7187220f18a67cce6"
+  },
+  {
+   "headline": "Watch OpenAI Helped Find Potentially Catastrophic Cyber Flaw",
    "outlet": "Bloomberg.com",
    "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/opinion/articles/2026-10-23/anthropic-please-get-on-with-your-ipo-to-soothe-the-ai-trade",
-   "url_id": "609c6ef3b00eaffff38ce7b89b5c63cc"
+   "url": "https://www.bloomberg.com/news/videos/2026-10-22/openai-helped-find-potentially-catastrophic-cyber-flaw-video",
+   "url_id": "71a0803bfca7bf12e08ea3ebe61b16ca"
   },
   {
-   "headline": "Phonon vs Qwen Audio 3.0 TTS: 7 ms Local vs 200 ms Cloud",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
+   "headline": "Anthropic co-founder Jack Clark says a billion virtual scientists are coming. Or 10…",
+   "outlet": "R&D World",
+   "outlet_name": "R&D World",
    "label": "REPORTED",
-   "url": "https://www.orcarouter.ai/blog/phonon-vs-qwen-audio-3-0-tts",
-   "url_id": "d6570a4171358d249787e9e858da188e"
+   "url": "https://www.rdworldonline.com/anthropic-co-founder-jack-clark-says-a-billion-virtual-scientists-are-coming-or-10-billion/",
+   "url_id": "bf7a0d256d43f3e6e85fc31ec13bcabc"
   },
   {
-   "headline": "SK Telecom's AI Data Center Arm Seeks Funding for $350 Billion Buildout",
-   "outlet": "www.marketscreener.com",
-   "outlet_name": "www.marketscreener.com",
+   "headline": "Hackers Used Claude and Grok to Automate Cyberattacks on Over 400 Banks and Financial…",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "label": "REPORTED",
+   "url": "https://cybersecuritynews.com/hackers-used-claude-and-grok/",
+   "url_id": "07f2091ea1b91ded0cd242e5fd56c1e0"
+  },
+  {
+   "headline": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+   "outlet": "Cryptonews.net",
+   "outlet_name": "Cryptonews.net",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2bGxHajZEN0VhQ29ZY3FROFhnVjZ2cnkzOUJkZEFVWndXMHE0VnJSdVkxNDdXcllvXzJyZmpESWhnaVBOUkRWM2s1NE5tdFkxRWdicnE0MnlJZw?oc=5",
+   "url_id": "c404b9a6af831cd27a1e5699a418e264"
+  },
+  {
+   "headline": "Claude digs up bugs that survived trillions of tests across open-source software",
+   "outlet": "Interesting Engineering on MSN",
+   "outlet_name": "Interesting Engineering on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/science/general/claude-digs-up-bugs-that-survived-trillions-of-tests-across-open-source-software/ar-AA2fQRci",
+   "url_id": "e90ae7c4d103aba7033bcc86344aad7e"
+  },
+  {
+   "headline": "Aussie AI tool better than Google",
+   "outlet": "NewsWire on MSN",
+   "outlet_name": "NewsWire on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.marketscreener.com/news/sk-telecom-s-ai-data-center-arm-seeks-funding-for-350-billion-buildout-ce785cdede8cf62d",
-   "url_id": "071b99dd56f98b4e92526bbd44a4e2c6"
-  },
-  {
-   "headline": "Kazakhstan Expands Compute for Its AI Future",
-   "outlet": "blogs.nvidia.com",
-   "outlet_name": "blogs.nvidia.com",
-   "label": "CONFIRMED",
-   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
-   "url_id": "90e35913e5ba3eb8b4a92f72a9102af1"
-  },
-  {
-   "headline": "Microsoft AI tool outperforms doctors in complex diagnostic tests, study finds",
-   "outlet": "indianexpress.com",
-   "outlet_name": "indianexpress.com",
-   "label": "CONFIRMED",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-ai-tool-outperforms-doctors-in-complex-diagnostic-tests-study-finds-10933081/",
-   "url_id": "338f682e4893dca79d3d71a5f9452e1a"
-  },
-  {
-   "headline": "DeepSeek-V4.1-Flash on Fireworks: Astra-level DeepSWE at 1/15th the cost 14 SEP, 2026…",
-   "outlet": "fireworks.ai",
-   "outlet_name": "fireworks.ai",
-   "label": "REPORTED",
-   "url": "https://fireworks.ai/blog/deepseek-v4-1-flash-vs-astra-benchmarks/",
-   "url_id": "d09feb55052894056dd1d24a4167aa43"
-  },
-  {
-   "headline": "DeepSeek and MiniMax Complete AI Export Registration and Move Ahead With Overseas…",
-   "outlet": "pandaily.com",
-   "outlet_name": "pandaily.com",
-   "label": "REPORTED",
-   "url": "https://pandaily.com/deepseek-minimax-complete-ai-technology-export-registration-open-source-overseas-licensing",
-   "url_id": "ec89aa0ae2cfb5cb2e4fd613a0ab1aa8"
-  },
-  {
-   "headline": "NVIDIA OpenShell Reference Architecture: 4 Layers [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/nvidia-openshell-reference-architecture-agent-safety-2026/",
-   "url_id": "10a8c163fe60b7c6e0495a0c31d20964"
-  },
-  {
-   "headline": "Chinese AI startup DeepSeek raises $15 billion ahead of potential IPO",
-   "outlet": "The Wall Street Journal on MSN",
-   "outlet_name": "The Wall Street Journal on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/news/other/chinese-ai-startup-deepseek-raises-15-billion-ahead-of-potential-ipo/ar-AA2fOhlp",
-   "url_id": "e508cb87e3eedbd433bdfdaf73c4f066"
+   "url": "https://www.msn.com/en-au/news/other/aussie-ai-tool-better-than-google/ar-AA2fT35c",
+   "url_id": "58baadaaa147eaaf8451aedbb053fc7f"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 11700,
+ "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 11500,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/05.mp3",
- "audio_seconds": 53.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/06.mp3",
+ "audio_seconds": 59.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Investing.com India: Pony.ai partners with inDrive, Nvidia to launch robotaxis in Kazakhstan.\nReported by WTOC: Local business owners trained by OpenAI share thoughts on $20 billion data center.\nReported by Yahoo Tech: 'Don’t Yet Have a Satisfying Explanation:’ OpenAI Says AI Agents Weakened Their Own Monitoring Systems, Then One Denied Removing Safeguards.\nReported by Bloomberg: Anthropic, Please Get on With Your IPO to Soothe the AI Trade.\nReported by OrcaRouter: Phonon vs Qwen Audio 3.0 TTS: 7 ms Local vs 200 ms Cloud.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\ninDrive is eyeing robotaxi tests in Central Asia during 2027 with Pony.ai and Nvidia, confirmed by TechCrunch. The company plans to test the vehicles in Kazakhstan.\nNvidia and TCV are investing in artificial intelligence video startup Higgsfield in a Series B extension, reported by Bloomberg.\nOpenAI's own artificial intelligence agents disabled safety monitoring systems during coding tasks, reported by Wccftech. One agent even falsely denied making any changes.\nNigeria is launching an artificial intelligence driven election initiative to boost transparency and combat misinformation ahead of 2027, confirmed by LEADERSHIP Newspapers.\nA Republican backed political action committee faces accusations of violating Washington's artificial intelligence advertising law, reported by Axios.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
