@@ -1,101 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T03:20:33Z",
- "hour": "2026-10-23T03:00:00Z",
+ "generated_at": "2026-10-23T04:20:05Z",
+ "hour": "2026-10-23T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "SUSE unveils sovereign AI platform with NVIDIA tie-up",
-   "outlet": "IT Brief Australia",
-   "outlet_name": "IT Brief Australia",
-   "url": "https://itbrief.com.au/story/suse-unveils-sovereign-ai-platform-with-nvidia-tie-up",
+   "title": "OpenAI works to build support for $20 billion Project Camellia amid some community opposition",
+   "outlet": "WJCL",
+   "outlet_name": "WJCL",
+   "url": "https://www.wjcl.com/article/openai-works-to-build-support-for-20-billion-project-camellia-amid-some-community-opposition/74221450",
    "label": "REPORTED",
-   "summary_1line": "SUSE launches sovereign AI platform with NVIDIA and Fujitsu for private, secure enterprise AI deployments.",
-   "published_at": "2026-10-23T02:13:00Z",
-   "url_id": "0ba77e6953a2265f5868e9c45438cc53"
+   "summary_1line": "OpenAI announces $20B Project Camellia with $2M park grant and community fund in Effingham County.",
+   "published_at": "2026-10-23T02:03:00Z",
+   "url_id": "2c61fdd2b57c690fcc83781df7592143"
   },
   {
-   "title": "OpenAI bugging case raises questions about AI lab security",
+   "title": "Anthropic security official warns of worsening cyber threats, risks to critical infrastructure",
+   "outlet": "Anadolu Agency",
+   "outlet_name": "Anadolu Agency",
+   "url": "https://www.aa.com.tr/en/americas/anthropic-security-official-warns-of-worsening-cyber-threats-risks-to-critical-infrastructure/4097909",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic warns AI is accelerating software vulnerability discovery, threatening critical infrastructure.",
+   "published_at": "2026-10-22T17:00:00Z",
+   "url_id": "2e08e62081b20222a897acad67853665"
+  },
+  {
+   "title": "Ethics complaint filed against Rep. Derrick Van Orden for AI use",
+   "outlet": "WKOW",
+   "outlet_name": "WKOW",
+   "url": "https://www.wkow.com/news/ethics-complaint-filed-against-rep-derrick-van-orden-for-ai-use/article_ca1dd5db-2582-5798-814e-e736d6b6a9e4.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Van Orden faces ethics complaint for AI-generated image of Cooke without disclosure.",
+   "published_at": "2026-10-22T22:30:00Z",
+   "url_id": "f11d79e58c624829b68540c4c8c95fc9"
+  },
+  {
+   "title": "Unitree chief says humanoid AI's 'ChatGPT moment' arriving in 1-2 yrs",
+   "outlet": "China Daily",
+   "outlet_name": "China Daily",
+   "url": "https://www.chinadaily.com.cn/a/202610/23/WS6adab899e4b06d4aa0564592.html",
+   "label": "STILL OPEN",
+   "summary_1line": "Unitree CEO says humanoid AI's ChatGPT moment could arrive in 1-2 years.",
+   "published_at": "2026-10-23T01:30:01Z",
+   "url_id": "0343124e7fdad8677d3e8b29ea3b86d7"
+  },
+  {
+   "title": "From Spying at OpenAI to AI Agents That Never Sleep | Generation AI",
    "outlet": "AZ Family",
    "outlet_name": "AZ Family",
-   "url": "https://www.azfamily.com/2026/10/23/openai-bugging-case-raises-questions-about-ai-lab-security/",
-   "label": "CONFIRMED",
-   "summary_1line": "Former OpenAI engineer arrested for spying on executive meetings; Saudi ties and security concerns raised.",
-   "published_at": "2026-10-23T01:55:00Z",
-   "url_id": "88457e9a78bcb14ed57391a8666daf09"
-  },
-  {
-   "title": "Chinese AI controls 55% of developer traffic—DeepSeek and Kimi K3 rewrote the rules",
-   "outlet": "Latin Times",
-   "outlet_name": "Latin Times",
-   "url": "https://www.latintimes.com/deepseek-kimi-k3-open-source-strategy-turning-chinese-ai-geopolitical-force-600424",
-   "label": "CONFIRMED",
-   "summary_1line": "Chinese open-source AI models surged to 55% of enterprise traffic, challenging U.S. dominance with affordable, high-performance models.",
-   "published_at": "2026-10-23T00:47:45Z",
-   "url_id": "43369f1003301415d9d6b3620d330290"
-  },
-  {
-   "title": "Anthropic publishes Public Benefit Report, detailing AI progress and gaps in measuring impact",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/anthropic-publishes-public-benefit-report-detailing-ai-progress-and-gaps-in-measuring-impact",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic releases 2026 Public Benefit Report on AI use in education, science, and healthcare with new data and annual reporting plans.",
-   "published_at": "2026-10-23T00:15:16Z",
-   "url_id": "a5a799bc550c6d9d34a00c5abf02de17"
-  },
-  {
-   "title": "AI security tools outpace South Korea’s laws",
-   "outlet": "동아일보",
-   "outlet_name": "동아일보",
-   "url": "https://www.donga.com/en/article/all/20261023/6429805/1",
+   "url": "https://www.azfamily.com/video/2026/10/23/spying-openai-ai-agents-that-never-sleep-generation-ai/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI launches AI security tool with South Korean firms amid growing AI-driven cyber threats.",
-   "published_at": "2026-10-22T23:57:59Z",
-   "url_id": "dbdb5d4ff821e0690f57e094e92324df"
+   "summary_1line": "AI-generated video influences Arizona court to overturn a killer's sentence, raising deepfake legal concerns.",
+   "published_at": "2026-10-23T02:09:52Z",
+   "url_id": "31e605e9bf350ef903cf21d141ba08ff"
   }
  ],
  "ticker": [
   {
-   "headline": "SUSE unveils sovereign AI platform with NVIDIA tie-up",
-   "outlet": "IT Brief Australia",
-   "outlet_name": "IT Brief Australia",
+   "headline": "OpenAI works to build support for $20 billion Project Camellia amid some community…",
+   "outlet": "WJCL",
+   "outlet_name": "WJCL",
    "label": "REPORTED",
-   "url": "https://itbrief.com.au/story/suse-unveils-sovereign-ai-platform-with-nvidia-tie-up",
-   "url_id": "0ba77e6953a2265f5868e9c45438cc53"
+   "url": "https://www.wjcl.com/article/openai-works-to-build-support-for-20-billion-project-camellia-amid-some-community-opposition/74221450",
+   "url_id": "2c61fdd2b57c690fcc83781df7592143"
   },
   {
-   "headline": "OpenAI bugging case raises questions about AI lab security",
-   "outlet": "AZ Family",
-   "outlet_name": "AZ Family",
+   "headline": "Anthropic security official warns of worsening cyber threats, risks to critical…",
+   "outlet": "Anadolu Agency",
+   "outlet_name": "Anadolu Agency",
    "label": "CONFIRMED",
-   "url": "https://www.azfamily.com/2026/10/23/openai-bugging-case-raises-questions-about-ai-lab-security/",
-   "url_id": "88457e9a78bcb14ed57391a8666daf09"
+   "url": "https://www.aa.com.tr/en/americas/anthropic-security-official-warns-of-worsening-cyber-threats-risks-to-critical-infrastructure/4097909",
+   "url_id": "2e08e62081b20222a897acad67853665"
   },
   {
-   "headline": "Chinese AI controls 55% of developer traffic—DeepSeek and Kimi K3 rewrote the rules",
-   "outlet": "Latin Times",
-   "outlet_name": "Latin Times",
+   "headline": "Ethics complaint filed against Rep. Derrick Van Orden for AI use",
+   "outlet": "WKOW",
+   "outlet_name": "WKOW",
    "label": "CONFIRMED",
-   "url": "https://www.latintimes.com/deepseek-kimi-k3-open-source-strategy-turning-chinese-ai-geopolitical-force-600424",
-   "url_id": "43369f1003301415d9d6b3620d330290"
-  },
-  {
-   "headline": "Anthropic publishes Public Benefit Report, detailing AI progress and gaps in measuring…",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "label": "CONFIRMED",
-   "url": "https://www.edtechinnovationhub.com/news/anthropic-publishes-public-benefit-report-detailing-ai-progress-and-gaps-in-measuring-impact",
-   "url_id": "a5a799bc550c6d9d34a00c5abf02de17"
-  },
-  {
-   "headline": "AI security tools outpace South Korea’s laws",
-   "outlet": "동아일보",
-   "outlet_name": "동아일보",
-   "label": "REPORTED",
-   "url": "https://www.donga.com/en/article/all/20261023/6429805/1",
-   "url_id": "dbdb5d4ff821e0690f57e094e92324df"
+   "url": "https://www.wkow.com/news/ethics-complaint-filed-against-rep-derrick-van-orden-for-ai-use/article_ca1dd5db-2582-5798-814e-e736d6b6a9e4.html",
+   "url_id": "f11d79e58c624829b68540c4c8c95fc9"
   },
   {
    "headline": "Unitree chief says humanoid AI's 'ChatGPT moment' arriving in 1-2 yrs",
@@ -106,12 +90,20 @@
    "url_id": "0343124e7fdad8677d3e8b29ea3b86d7"
   },
   {
-   "headline": "1Password launches a way for AI to log in for you without seeing your password",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "From Spying at OpenAI to AI Agents That Never Sleep | Generation AI",
+   "outlet": "AZ Family",
+   "outlet_name": "AZ Family",
+   "label": "REPORTED",
+   "url": "https://www.azfamily.com/video/2026/10/23/spying-openai-ai-agents-that-never-sleep-generation-ai/",
+   "url_id": "31e605e9bf350ef903cf21d141ba08ff"
+  },
+  {
+   "headline": "SK Telecom's AI Data Center Arm Seeks Funding for $350 Billion Buildout",
+   "outlet": "www.marketscreener.com",
+   "outlet_name": "www.marketscreener.com",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-   "url_id": "662e68277c6361dd4b95b761b04d8901"
+   "url": "https://www.marketscreener.com/news/sk-telecom-s-ai-data-center-arm-seeks-funding-for-350-billion-buildout-ce785cdede8cf62d",
+   "url_id": "071b99dd56f98b4e92526bbd44a4e2c6"
   },
   {
    "headline": "Kazakhstan Expands Compute for Its AI Future",
@@ -122,6 +114,14 @@
    "url_id": "90e35913e5ba3eb8b4a92f72a9102af1"
   },
   {
+   "headline": "Microsoft AI tool outperforms doctors in complex diagnostic tests, study finds",
+   "outlet": "indianexpress.com",
+   "outlet_name": "indianexpress.com",
+   "label": "CONFIRMED",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/microsoft-ai-tool-outperforms-doctors-in-complex-diagnostic-tests-study-finds-10933081/",
+   "url_id": "338f682e4893dca79d3d71a5f9452e1a"
+  },
+  {
    "headline": "OpenAI Aims to Lock In $30 Billion Funding Round by Next Week",
    "outlet": "PYMNTS.com",
    "outlet_name": "PYMNTS.com",
@@ -130,12 +130,12 @@
    "url_id": "a8c88cfadcfab0da45d25f04dfe703e4"
   },
   {
-   "headline": "Claude flags nearly 500 worrying open source security issues",
-   "outlet": "TechRadar on MSN",
-   "outlet_name": "TechRadar on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/software/claude-flags-nearly-500-worrying-open-source-security-issues/ar-AA2fQMbk",
-   "url_id": "81434654bad97cf494b0122c8e077438"
+   "headline": "DeepSeek V4 Pro: Tops SWE-Bench & cuts cost per task by 3x vs. Fable 5 26 AUG, 2026 Model…",
+   "outlet": "fireworks.ai",
+   "outlet_name": "fireworks.ai",
+   "label": "REPORTED",
+   "url": "https://fireworks.ai/blog/deepseek-v4-pro-vs-fable-5-benchmarks/",
+   "url_id": "7f94df66896202277aeaab8dbe5a5132"
   },
   {
    "headline": "DeepSeek and MiniMax Complete AI Export Registration and Move Ahead With Overseas…",
@@ -155,13 +155,13 @@
   }
  ],
  "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 11900,
+ "articles_24h_rounded": 11800,
  "articles_24h_label": "about 12,000",
- "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/03.mp3",
- "audio_seconds": 52.4,
- "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by IT Brief Australia: SUSE unveils sovereign AI platform with NVIDIA tie-up.\nConfirmed, per AZ Family: OpenAI bugging case raises questions about AI lab security.\nConfirmed, per Latin Times: Chinese AI controls 55% of developer traffic—DeepSeek and Kimi K3 rewrote the rules.\nConfirmed, per EdTech Innovation Hub: Anthropic publishes Public Benefit Report, detailing AI progress and gaps in measuring impact.\nReported by 동아일보: AI security tools outpace South Korea’s laws.\nFree every hour.",
+ "audio_url": null,
+ "audio_archive_url": null,
+ "audio_seconds": null,
+ "audio_status": "unavailable",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by WJCL: OpenAI works to build support for $20 billion Project Camellia amid some community opposition.\nConfirmed, per Anadolu Agency: Anthropic security official warns of worsening cyber threats, risks to critical infrastructure.\nConfirmed, per WKOW: Ethics complaint filed against Rep. Derrick Van Orden for AI use.\nStill open, per China Daily: Unitree chief says humanoid AI's 'ChatGPT moment' arriving in 1-2 yrs.\nReported by AZ Family: From Spying at OpenAI to AI Agents That Never Sleep | Generation AI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
