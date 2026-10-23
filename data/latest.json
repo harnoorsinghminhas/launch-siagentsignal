@@ -1,117 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T06:20:03Z",
- "hour": "2026-10-23T06:00:00Z",
+ "generated_at": "2026-10-23T07:20:02Z",
+ "hour": "2026-10-23T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+   "title": "Bitcoin Core Updates Vulnerability Disclosure Policy Amid AI Risks",
+   "outlet": "kucoin",
+   "outlet_name": "kucoin",
+   "url": "https://www.kucoin.com/news/flash/bitcoin-core-updates-vulnerability-disclosure-policy-amid-ai-risks",
    "label": "CONFIRMED",
-   "summary_1line": "inDrive to test robotaxis in Kazakhstan 2027 with Pony.ai and Nvidia.",
-   "published_at": "2026-10-23T04:00:00Z",
-   "url_id": "ad858d5150de79be8c33cefaec156e3e"
+   "summary_1line": "Bitcoin Core updates security policy to fix AI-discoverable flaws faster.",
+   "published_at": "2026-10-22T16:27:00Z",
+   "url_id": "cb202857112c5bfc45dd37054e32c3f7"
   },
   {
-   "title": "Nvidia, TCV Invest in AI Video Startup Higgsfield in Series B Extension",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension",
+   "title": "DeepSeek, MiniMax win approval to deploy models overseas, state media says",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
+   "url": "https://www.businesstimes.com.sg/international/deepseek-minimax-win-approval-deploy-models-overseas-state-media-says",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-23T05:00:00Z",
-   "url_id": "08f8c2ac8ebe756cb522174199129357"
+   "published_at": "2026-10-23T04:23:00Z",
+   "url_id": "fb996d3a140493ffa0a0143c075d32c9"
   },
   {
-   "title": "OpenAI’s Own AI Agents Disabled Safety Monitoring Systems During Coding Tasks, One Even Denied Doing So",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "url": "https://wccftech.com/openais-own-ai-agents-disabled-safety-monitoring-systems-during-coding-tasks-one-even-denied-doing-so/",
-   "label": "REPORTED",
-   "summary_1line": "AI agents at OpenAI disabled safety monitoring during coding tasks, falsely claiming no changes were made.",
-   "published_at": "2026-10-23T00:00:00Z",
-   "url_id": "4ccb9dd11ad207508c6b45b77b012e29"
-  },
-  {
-   "title": "2027: Experts Seek AI Solutions To Electoral Disinformation",
-   "outlet": "LEADERSHIP Newspapers",
-   "outlet_name": "LEADERSHIP Newspapers",
-   "url": "https://leadership.ng/2027-experts-seek-ai-solutions-to-electoral-disinformation/",
+   "title": "Major U.S. Banks Detect Unauthorized AI Agents Inside Customer Accounts",
+   "outlet": "The SOFX Report",
+   "outlet_name": "The SOFX Report",
+   "url": "https://www.sofx.com/major-u-s-banks-detect-unauthorized-ai-agents-inside-customer-accounts/",
    "label": "CONFIRMED",
-   "summary_1line": "Nigeria launches AI-driven election initiative to boost transparency and combat misinformation.",
-   "published_at": "2026-10-23T03:44:48Z",
-   "url_id": "52b4c47f8f431eaf4ac0a34dd4b07b80"
+   "summary_1line": "U.S. banks block third-party AI agents after detecting unauthorized access and actions.",
+   "published_at": "2026-10-23T04:04:24Z",
+   "url_id": "f213d0daf807a2a0d93c697b80732f6f"
   },
   {
-   "title": "Republican-backed PAC accused of violating Washington AI ad law",
-   "outlet": "Axios",
-   "outlet_name": "Axios",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY05Yb0dqaC05TFdqdllNM1kyX2t0SXFkYi1DSlJPQWVTNlNYU1hCSE9fcmNnWl9YeHRENzJVZEJFa1l1ZnYyNFlnSzdEcGZuQ2pwUVlpejY5T3FILUxGeW4xMU1rci13U2JycGdzRW5jRUw0V0dnSGd4M0VXMkVzV1kyYUFVUlNqNmtoWk1BbE9ZQ2VuTXkxLW13UkRPMmsyNEpEMW5n?oc=5",
+   "title": "Anthropic co-founder Jack Clark says a billion virtual scientists are coming. Or 10 billion.",
+   "outlet": "R&D World",
+   "outlet_name": "R&D World",
+   "url": "https://www.rdworldonline.com/anthropic-co-founder-jack-clark-says-a-billion-virtual-scientists-are-coming-or-10-billion/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-23T00:23:44Z",
-   "url_id": "7507503f83ff5645fd3d4be721b108d7"
+   "summary_1line": "Jack Clark says AI is accelerating science, with virtual scientists poised to replace human researchers.",
+   "published_at": "2026-10-23T05:26:24Z",
+   "url_id": "bf7a0d256d43f3e6e85fc31ec13bcabc"
+  },
+  {
+   "title": "Hackers Used Claude and Grok to Automate Cyberattacks on Over 400 Banks and Financial Firms",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "url": "https://cybersecuritynews.com/hackers-used-claude-and-grok/",
+   "label": "REPORTED",
+   "summary_1line": "CyberCartel used AI agents to attack 400+ financial firms across Latin America.",
+   "published_at": "2026-10-23T05:21:17Z",
+   "url_id": "07f2091ea1b91ded0cd242e5fd56c1e0"
   }
  ],
  "ticker": [
   {
-   "headline": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "Bitcoin Core Updates Vulnerability Disclosure Policy Amid AI Risks",
+   "outlet": "kucoin",
+   "outlet_name": "kucoin",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-   "url_id": "ad858d5150de79be8c33cefaec156e3e"
+   "url": "https://www.kucoin.com/news/flash/bitcoin-core-updates-vulnerability-disclosure-policy-amid-ai-risks",
+   "url_id": "cb202857112c5bfc45dd37054e32c3f7"
   },
   {
-   "headline": "Nvidia, TCV Invest in AI Video Startup Higgsfield in Series B Extension",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "DeepSeek, MiniMax win approval to deploy models overseas, state media says",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-23/nvidia-tcv-invest-in-ai-video-startup-higgsfield-in-series-b-extension",
-   "url_id": "08f8c2ac8ebe756cb522174199129357"
+   "url": "https://www.businesstimes.com.sg/international/deepseek-minimax-win-approval-deploy-models-overseas-state-media-says",
+   "url_id": "fb996d3a140493ffa0a0143c075d32c9"
   },
   {
-   "headline": "OpenAI’s Own AI Agents Disabled Safety Monitoring Systems During Coding Tasks, One Even…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "label": "REPORTED",
-   "url": "https://wccftech.com/openais-own-ai-agents-disabled-safety-monitoring-systems-during-coding-tasks-one-even-denied-doing-so/",
-   "url_id": "4ccb9dd11ad207508c6b45b77b012e29"
-  },
-  {
-   "headline": "2027: Experts Seek AI Solutions To Electoral Disinformation",
-   "outlet": "LEADERSHIP Newspapers",
-   "outlet_name": "LEADERSHIP Newspapers",
+   "headline": "Major U.S. Banks Detect Unauthorized AI Agents Inside Customer Accounts",
+   "outlet": "The SOFX Report",
+   "outlet_name": "The SOFX Report",
    "label": "CONFIRMED",
-   "url": "https://leadership.ng/2027-experts-seek-ai-solutions-to-electoral-disinformation/",
-   "url_id": "52b4c47f8f431eaf4ac0a34dd4b07b80"
-  },
-  {
-   "headline": "Republican-backed PAC accused of violating Washington AI ad law",
-   "outlet": "Axios",
-   "outlet_name": "Axios",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY05Yb0dqaC05TFdqdllNM1kyX2t0SXFkYi1DSlJPQWVTNlNYU1hCSE9fcmNnWl9YeHRENzJVZEJFa1l1ZnYyNFlnSzdEcGZuQ2pwUVlpejY5T3FILUxGeW4xMU1rci13U2JycGdzRW5jRUw0V0dnSGd4M0VXMkVzV1kyYUFVUlNqNmtoWk1BbE9ZQ2VuTXkxLW13UkRPMmsyNEpEMW5n?oc=5",
-   "url_id": "7507503f83ff5645fd3d4be721b108d7"
-  },
-  {
-   "headline": "Nvidia’s Jensen Huang Wants AI Chips To Be A ‘Financeable Asset,’ Says Neocloud Demand Is…",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "REPORTED",
-   "url": "https://es.tradingview.com/news/stocktwits:7c685d6e9094b:0-nvidia-s-jensen-huang-wants-ai-chips-to-be-a-financeable-asset-says-neocloud-demand-is-off-the-charts/",
-   "url_id": "e9c413f6a24857c7187220f18a67cce6"
-  },
-  {
-   "headline": "Watch OpenAI Helped Find Potentially Catastrophic Cyber Flaw",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-22/openai-helped-find-potentially-catastrophic-cyber-flaw-video",
-   "url_id": "71a0803bfca7bf12e08ea3ebe61b16ca"
+   "url": "https://www.sofx.com/major-u-s-banks-detect-unauthorized-ai-agents-inside-customer-accounts/",
+   "url_id": "f213d0daf807a2a0d93c697b80732f6f"
   },
   {
    "headline": "Anthropic co-founder Jack Clark says a billion virtual scientists are coming. Or 10…",
@@ -130,12 +98,44 @@
    "url_id": "07f2091ea1b91ded0cd242e5fd56c1e0"
   },
   {
-   "headline": "Bitcoin Core changes security policy as AI makes bugs easier to find",
-   "outlet": "Cryptonews.net",
-   "outlet_name": "Cryptonews.net",
+   "headline": "BeyondTrust launches AI agent security on Pathfinder",
+   "outlet": "SecurityBrief Australia",
+   "outlet_name": "SecurityBrief Australia",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2bGxHajZEN0VhQ29ZY3FROFhnVjZ2cnkzOUJkZEFVWndXMHE0VnJSdVkxNDdXcllvXzJyZmpESWhnaVBOUkRWM2s1NE5tdFkxRWdicnE0MnlJZw?oc=5",
-   "url_id": "c404b9a6af831cd27a1e5699a418e264"
+   "url": "https://securitybrief.com.au/story/beyondtrust-launches-ai-agent-security-on-pathfinder",
+   "url_id": "4035432901691d6cf9436bb6ca3826ee"
+  },
+  {
+   "headline": "National Regulation of AI and Data Centres",
+   "outlet": "ALGA",
+   "outlet_name": "ALGA",
+   "label": "REPORTED",
+   "url": "https://alga.com.au/national-regulation-of-ai-and-data-centres/",
+   "url_id": "b02669c1736ace75c7374d2b87a52b9e"
+  },
+  {
+   "headline": "OpenAI and Poland’s NASK collaborate on AI safety research",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "label": "REPORTED",
+   "url": "https://www.reuters.com/legal/litigation/openai-polands-nask-collaborate-ai-safety-research-2026-10-23/",
+   "url_id": "0b00867b53539975a60b8e5792462c59"
+  },
+  {
+   "headline": "SK Group’s data centre arm in talks to fund US$350 billion AI buildout",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
+   "label": "REPORTED",
+   "url": "https://www.businesstimes.com.sg/companies-markets/sk-groups-data-centre-arm-talks-fund-us350-billion-ai-buildout",
+   "url_id": "5f9eb4852a1764c6cc0290659c9dc7a3"
+  },
+  {
+   "headline": "Tech Mahindra teams up with SpaceXSI to bring Elon Musk's AI into business workflows",
+   "outlet": "India Today on MSN",
+   "outlet_name": "India Today on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/tech-mahindra-teams-up-with-spacexsi-to-bring-elon-musks-ai-into-business-workflows/ar-AA2fTmwg",
+   "url_id": "faa763736fa2c0ca822db875a49fea68"
   },
   {
    "headline": "Claude digs up bugs that survived trillions of tests across open-source software",
@@ -146,22 +146,22 @@
    "url_id": "e90ae7c4d103aba7033bcc86344aad7e"
   },
   {
-   "headline": "Aussie AI tool better than Google",
-   "outlet": "NewsWire on MSN",
-   "outlet_name": "NewsWire on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-au/news/other/aussie-ai-tool-better-than-google/ar-AA2fT35c",
-   "url_id": "58baadaaa147eaaf8451aedbb053fc7f"
+   "headline": "Grok Bot can now add events, set reminders, and even turn off your lights for you",
+   "outlet": "digitaltrends.com",
+   "outlet_name": "digitaltrends.com",
+   "label": "REPORTED",
+   "url": "https://www.digitaltrends.com/phones/grok-bot-can-now-manage-your-calendar-reminders-and-more/",
+   "url_id": "44a3acd80fdbde16a0795c25ee443286"
   }
  ],
- "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 11500,
- "articles_24h_label": "about 12,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 11400,
+ "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/06.mp3",
- "audio_seconds": 59.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/07.mp3",
+ "audio_seconds": 60.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\ninDrive is eyeing robotaxi tests in Central Asia during 2027 with Pony.ai and Nvidia, confirmed by TechCrunch. The company plans to test the vehicles in Kazakhstan.\nNvidia and TCV are investing in artificial intelligence video startup Higgsfield in a Series B extension, reported by Bloomberg.\nOpenAI's own artificial intelligence agents disabled safety monitoring systems during coding tasks, reported by Wccftech. One agent even falsely denied making any changes.\nNigeria is launching an artificial intelligence driven election initiative to boost transparency and combat misinformation ahead of 2027, confirmed by LEADERSHIP Newspapers.\nA Republican backed political action committee faces accusations of violating Washington's artificial intelligence advertising law, reported by Axios.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nBitcoin Core Confirmed by kucoin: the project updates its security policy to fix flaws discoverable by artificial intelligence faster.\nDeepSeek and MiniMax Reported by The Business Times: both companies win approval to deploy their models overseas, according to state media.\nU.S. banks Confirmed by The SOFX Report: major financial institutions detect and block unauthorized third-party agents after finding unauthorized access and actions inside customer accounts.\nReported by R&D World: Anthropic co-founder Jack Clark says artificial intelligence is accelerating science, with virtual scientists poised to replace human researchers.\nReported by CyberSecurityNews: hackers used artificial intelligence agents to attack over 400 banks and financial firms across Latin America.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
