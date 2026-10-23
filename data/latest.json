@@ -1,101 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T19:20:04Z",
- "hour": "2026-10-23T19:00:00Z",
+ "generated_at": "2026-10-23T20:20:03Z",
+ "hour": "2026-10-23T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI nears funding round of up to $30B at a $1.25T valuation, led by UAE investors: sources",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM29SaklkbG0weV9VVHlqa2ZXUFEzNk1xZElNanRadVZyT3lHOUZYV1VLZ1hPaDZXVmpURXVFeGNXNnM3cmVPNTQyb1FJM0RpSV9YaXNLVi1XbjlLcEpaUFFta3c1Wm93MUdGWHpXQktabDd5N3JOb2s1TWwwejFydUUxb1R6N1Vxc1lDZXJ6eGxWOTNjZHR2eXdaVG1lcEF0MHlOTlVicTZ3UmM2TElkM1IteUhISHQ0NlYyRUZLQTN5ZUNSTVpodUtBSHBOdw?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-23T14:44:36Z",
-   "url_id": "2c634536ded97f7bb979cc88a4ef406b"
+   "title": "Moonshot AI launches Kimi K3.1 Pro, closing in on Claude Opus 5.5 in coding performance",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/moonshot-ai-launches-kimi-k3-1-pro-closing-in-on-claude-opus-5-5-in-coding-performance/",
+   "label": "CONFIRMED",
+   "summary_1line": "Moonshot AI's Kimi K3.1 Pro scores 65.7% on Terminal Bench 4.0, with gains in coding and financial analysis.",
+   "published_at": "2026-10-23T11:21:00Z",
+   "url_id": "2bbd6ea10fa854bceb07ff091463f286"
   },
   {
-   "title": "OpenAI Launches New AI Tool That Makes Decisions Up to 10 Times Faster",
-   "outlet": "ProPakistani",
-   "outlet_name": "ProPakistani",
-   "url": "https://propakistani.pk/2026/10/23/openai-launches-new-ai-tool-that-makes-decisions-up-to-10-times-faster/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI's Decisions API cuts decision time to 100–180ms, enabling faster AI for developers.",
-   "published_at": "2026-10-23T09:30:00Z",
-   "url_id": "271bfc054a82c29018e1a22d06bbdcc8"
-  },
-  {
-   "title": "Anthropic joins Meta and OpenAI’s personal AI assistant race with Duet",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/23/anthropic-joins-meta-and-openais-personal-ai-assistant-race-with-duet/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic launches Claude Duet to compete with Meta and OpenAI in agentic AI assistants for professionals.",
-   "published_at": "2026-10-23T16:51:56Z",
-   "url_id": "6c3a45af414335c7aa76a1ab544dc1f2"
-  },
-  {
-   "title": "Watch OpenAI Moves Toward a $1.25 Trillion Value",
+   "title": "Watch OpenAI Sets Target Valuation of $1.25 Trillion",
    "outlet": "Bloomberg.com",
    "outlet_name": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0IxTTRJSV9uUmJ0QkJ1LVh0UzZ2a0p0a0w5ZTQ2UUU1WE5GWW0zVTN6aVl2cHBSZFRNYjhiWk9tNW95QzZfUzFVYXZXUEVwcGExN3Q3OS1keDltbnQxd2JaYlRfWXpxaWdGUV9wQU9jN3Y1WTFlQUppOVRlcVJBU0xSdHlCaGc?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVTJ6a1JQREQxUzczalJUNzFtTGhoaFg3WXJ5c2hId0U3Y19lWlF4QU12dzNjd21WTTdKLXp6TWRXTU1lc212SUxzMGF6bUdSay1LSFJleFN0YUxFVnh2NlBObXBDYzFHWTJRd0VfdFhiTUE2ZGhhWlo1UmNKTm8xcTVURUVOTE9oc1hlb0ZZUnQ2UzVOaXk4RndtMUVfUUo3MXc?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-23T18:09:02Z",
-   "url_id": "ae20d2b5bbf31022e50aeb6522e319e6"
+   "published_at": "2026-10-23T19:20:25Z",
+   "url_id": "a108e664097480d3cc18714865cc77ff"
   },
   {
-   "title": "Watch Big Paydays Ahead for Anthropic's Early Backers",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNandjcVI3cUxzQlNlY0cwSU1WSjRxMzRTYmFUZkhIRkNkNFNNbHB4TE5BVG4xalVZZHlwMXN0bHdqOXZjUVd6SGJVN2xBanhuSUxNRU5TUnlJZmlOZ0l1enl4UDA1Z3pqeW1lMVJpd0g0M3Zxb1ZwbXllLW9qaWo4cGdTRTFwNnJuV1hpNGVSVHM1M3llTk1KSDQteGtHci1idl9zRA?oc=5",
+   "title": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+   "label": "CONFIRMED",
+   "summary_1line": "AI discovers critical PHP flaw, exposing 70% of sites and triggering rapid exploitation attempts.",
+   "published_at": "2026-10-23T18:48:48Z",
+   "url_id": "c501a531f3bdbbc423c10bc7c936b622"
+  },
+  {
+   "title": "OpenAI Faces Texas Deceptive Claims, Child User Safety Lawsuit",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnVUMEpiODJWN3M0TUhjMnZCUWpkRG5Ec3pKd2RCaXhtV0xsNzJOVnViVGpKV1lKbkJpakVrZ2FNWlVGNGV5TGZTbGhUWXRTZ3VsYy1HRmlXUTlUYl9Ub0NibVBQdFB4c2dVRXd1dUFqajNxcURfdWoxUEJKTno4QTdmZmhGM19vLWVicVNXeGFEVTNsa2puTU9FN1dwMVA5NlRiNktR?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-23T17:51:44Z",
-   "url_id": "44d8226d43b9cfc5e9e98c04bbadda42"
+   "published_at": "2026-10-23T19:08:00Z",
+   "url_id": "dc29d2a5b5ebdb36d10723113eb4e696"
+  },
+  {
+   "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IT2N0TVdZaVRsYnVIbjBIcDhkSXEyMXk1TVBkZHYxWGdObThELUNnbm9qOWdJOS1yTHhLNzVtdFNtUUhfN3RPeVIzTFZKVi1za3ptVjFnTUFNSFJSUUhhLWFoZnhsSjBDcjd5UHV4RHN0V0huSXhj?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-23T16:08:37Z",
+   "url_id": "e0dba89f812e1e9214232cebd09e75ea"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI nears funding round of up to $30B at a $1.25T valuation, led by UAE investors…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPM29SaklkbG0weV9VVHlqa2ZXUFEzNk1xZElNanRadVZyT3lHOUZYV1VLZ1hPaDZXVmpURXVFeGNXNnM3cmVPNTQyb1FJM0RpSV9YaXNLVi1XbjlLcEpaUFFta3c1Wm93MUdGWHpXQktabDd5N3JOb2s1TWwwejFydUUxb1R6N1Vxc1lDZXJ6eGxWOTNjZHR2eXdaVG1lcEF0MHlOTlVicTZ3UmM2TElkM1IteUhISHQ0NlYyRUZLQTN5ZUNSTVpodUtBSHBOdw?oc=5",
-   "url_id": "2c634536ded97f7bb979cc88a4ef406b"
+   "headline": "Moonshot AI launches Kimi K3.1 Pro, closing in on Claude Opus 5.5 in coding performance",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "CONFIRMED",
+   "url": "https://cryptobriefing.com/moonshot-ai-launches-kimi-k3-1-pro-closing-in-on-claude-opus-5-5-in-coding-performance/",
+   "url_id": "2bbd6ea10fa854bceb07ff091463f286"
   },
   {
-   "headline": "OpenAI Launches New AI Tool That Makes Decisions Up to 10 Times Faster",
-   "outlet": "ProPakistani",
-   "outlet_name": "ProPakistani",
-   "label": "REPORTED",
-   "url": "https://propakistani.pk/2026/10/23/openai-launches-new-ai-tool-that-makes-decisions-up-to-10-times-faster/",
-   "url_id": "271bfc054a82c29018e1a22d06bbdcc8"
-  },
-  {
-   "headline": "Anthropic joins Meta and OpenAI’s personal AI assistant race with Duet",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/23/anthropic-joins-meta-and-openais-personal-ai-assistant-race-with-duet/",
-   "url_id": "6c3a45af414335c7aa76a1ab544dc1f2"
-  },
-  {
-   "headline": "Watch OpenAI Moves Toward a $1.25 Trillion Value",
+   "headline": "Watch OpenAI Sets Target Valuation of $1.25 Trillion",
    "outlet": "Bloomberg.com",
    "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS0IxTTRJSV9uUmJ0QkJ1LVh0UzZ2a0p0a0w5ZTQ2UUU1WE5GWW0zVTN6aVl2cHBSZFRNYjhiWk9tNW95QzZfUzFVYXZXUEVwcGExN3Q3OS1keDltbnQxd2JaYlRfWXpxaWdGUV9wQU9jN3Y1WTFlQUppOVRlcVJBU0xSdHlCaGc?oc=5",
-   "url_id": "ae20d2b5bbf31022e50aeb6522e319e6"
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVTJ6a1JQREQxUzczalJUNzFtTGhoaFg3WXJ5c2hId0U3Y19lWlF4QU12dzNjd21WTTdKLXp6TWRXTU1lc212SUxzMGF6bUdSay1LSFJleFN0YUxFVnh2NlBObXBDYzFHWTJRd0VfdFhiTUE2ZGhhWlo1UmNKTm8xcTVURUVOTE9oc1hlb0ZZUnQ2UzVOaXk4RndtMUVfUUo3MXc?oc=5",
+   "url_id": "a108e664097480d3cc18714865cc77ff"
   },
   {
-   "headline": "Watch Big Paydays Ahead for Anthropic's Early Backers",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "‘Black October’: cybersecurity experts sound the alarm over new era of AI-enabled hacking",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "CONFIRMED",
+   "url": "https://www.theguardian.com/technology/2026/oct/23/cybersecurity-ai-hacking-php-vulnerability",
+   "url_id": "c501a531f3bdbbc423c10bc7c936b622"
+  },
+  {
+   "headline": "OpenAI Faces Texas Deceptive Claims, Child User Safety Lawsuit",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNandjcVI3cUxzQlNlY0cwSU1WSjRxMzRTYmFUZkhIRkNkNFNNbHB4TE5BVG4xalVZZHlwMXN0bHdqOXZjUVd6SGJVN2xBanhuSUxNRU5TUnlJZmlOZ0l1enl4UDA1Z3pqeW1lMVJpd0g0M3Zxb1ZwbXllLW9qaWo4cGdTRTFwNnJuV1hpNGVSVHM1M3llTk1KSDQteGtHci1idl9zRA?oc=5",
-   "url_id": "44d8226d43b9cfc5e9e98c04bbadda42"
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnVUMEpiODJWN3M0TUhjMnZCUWpkRG5Ec3pKd2RCaXhtV0xsNzJOVnViVGpKV1lKbkJpakVrZ2FNWlVGNGV5TGZTbGhUWXRTZ3VsYy1HRmlXUTlUYl9Ub0NibVBQdFB4c2dVRXd1dUFqajNxcURfdWoxUEJKTno4QTdmZmhGM19vLWVicVNXeGFEVTNsa2puTU9FN1dwMVA5NlRiNktR?oc=5",
+   "url_id": "dc29d2a5b5ebdb36d10723113eb4e696"
+  },
+  {
+   "headline": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+   "outlet": "OpenAI",
+   "outlet_name": "OpenAI",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IT2N0TVdZaVRsYnVIbjBIcDhkSXEyMXk1TVBkZHYxWGdObThELUNnbm9qOWdJOS1yTHhLNzVtdFNtUUhfN3RPeVIzTFZKVi1za3ptVjFnTUFNSFJSUUhhLWFoZnhsSjBDcjd5UHV4RHN0V0huSXhj?oc=5",
+   "url_id": "e0dba89f812e1e9214232cebd09e75ea"
+  },
+  {
+   "headline": "DeepSeek and MiniMax registered under China's proposed AI export controls",
+   "outlet": "Cryptopolitan on MSN",
+   "outlet_name": "Cryptopolitan on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/deepseek-and-minimax-registered-under-china-s-proposed-ai-export-controls/ar-AA2fVWbi",
+   "url_id": "b624951d6b0877064315c93ed890f617"
   },
   {
    "headline": "Govt to issue consultation paper on AI law in coming weeks: Vaishnaw",
@@ -106,20 +114,20 @@
    "url_id": "3ad8d7ffef6c7b134edc71d83a0bdbb3"
   },
   {
-   "headline": "AI Giant Nvidia Invests in Entertainment Startup Higgsfield",
-   "outlet": "variety.com",
-   "outlet_name": "variety.com",
-   "label": "CONFIRMED",
-   "url": "https://variety.com/2026/digital/news/nvidia-tcv-invest-generative-ai-startup-higgsfield-1236929624/",
-   "url_id": "937f3c25c680b4eb2869e2d456b65927"
+   "headline": "OpenAI Details Training Containment Overhaul After September Model Incident",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "REPORTED",
+   "url": "https://www.unite.ai/openai-details-training-containment-overhaul-after-september-model-incident/",
+   "url_id": "e50558d2ead94cbdd11d2feda35fabde"
   },
   {
-   "headline": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-   "outlet": "openai.com",
-   "outlet_name": "openai.com",
+   "headline": "SpaceX Enlists 130 Tech Leaders to Help Businesses Deploy Grok AI",
+   "outlet": "pymnts.com",
+   "outlet_name": "pymnts.com",
    "label": "REPORTED",
-   "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-   "url_id": "ee4c22366ef7e7abd786b0a4bc8d6577"
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/spacex-enlists-130-tech-leaders-to-help-businesses-deploy-grok-ai/",
+   "url_id": "0912311fc379fe2f1eda4ca7f6db891f"
   },
   {
    "headline": "Jensen Huang says Nvidia's AI chips carry \"the lowest\" risk of any asset and could serve…",
@@ -130,20 +138,12 @@
    "url_id": "29bb2dc301786928ce1825bfd30d1e12"
   },
   {
-   "headline": "Pentagon issues guidance on AI procurements to support White House’s ‘truth-seeking’ and…",
-   "outlet": "defensescoop.com",
-   "outlet_name": "defensescoop.com",
-   "label": "REPORTED",
-   "url": "https://defensescoop.com/2026/10/23/pentagon-guidance-ai-procurement-trump-directive/",
-   "url_id": "d734bdd771d2f2eb990ba32b22bd9a09"
-  },
-  {
-   "headline": "How Bayer Crop Science built an agentic decision engine on Amazon Bedrock AgentCore with…",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
-   "label": "REPORTED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/how-bayer-crop-science-built-an-agentic-decision-engine-on-amazon-bedrock-agentcore-with-aws-unified-operations/",
-   "url_id": "59b285913cc2d8dc1ba7b0c8f0f2e06b"
+   "headline": "Canva launches advanced AI model Craft for enhanced image generation",
+   "outlet": "Small Business Trends on MSN",
+   "outlet_name": "Small Business Trends on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/money/general/canva-launches-advanced-ai-model-craft-for-enhanced-image-generation/ar-AA2fWlaP",
+   "url_id": "97e6df682874de33bc68c7cc68c60b53"
   },
   {
    "headline": "Unstructured's New Models Outparse GPT-6, Claude and Gemini",
@@ -154,14 +154,14 @@
    "url_id": "274683c40463a6183984ca1814b7eff7"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from four different outlets.",
- "articles_24h_rounded": 10100,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 10000,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/19.mp3",
- "audio_seconds": 45.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/20.mp3",
+ "audio_seconds": 55.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNBC: OpenAI nears funding round of up to $30B at a $1.25T valuation, led by UAE investors: sources.\nReported by ProPakistani: OpenAI Launches New AI Tool That Makes Decisions Up to 10 Times Faster.\nReported by Fortune: Anthropic joins Meta and OpenAI’s personal AI assistant race with Duet.\nReported by Bloomberg: Watch OpenAI Moves Toward a $1.25 Trillion Value.\nReported by Bloomberg: Watch Big Paydays Ahead for Anthropic's Early Backers.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMoonshot AI's Kimi K3.1 Pro scores 65.7% on Terminal Bench 4.0, closing in on Claude Opus 5.5 in coding performance. Confirmed by Crypto Briefing.\nOpenAI has set a target valuation of 1.25 trillion dollars. Reported by Bloomberg.\nCybersecurity experts are sounding the alarm over a new era of hacking enabled by machine learning. A critical PHP flaw discovered by artificial intelligence is exposing 70% of sites. Confirmed by The Guardian.\nOpenAI faces a deceptive claims and child user safety lawsuit in Texas. Reported by Bloomberg Law News.\nOpenAI is rapidly scaling online storage to serve over 1 billion ChatGPT users. Reported by OpenAI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
