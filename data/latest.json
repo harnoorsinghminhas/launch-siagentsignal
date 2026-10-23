@@ -1,101 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T22:20:03Z",
- "hour": "2026-10-23T22:00:00Z",
+ "generated_at": "2026-10-23T23:20:03Z",
+ "hour": "2026-10-23T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI now trains its frontier AI models with no internet access",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+   "title": "My local models are worse than Claude at almost everything, but they still run most of my workflow for $0",
+   "outlet": "XDA",
+   "outlet_name": "XDA",
+   "url": "https://www.xda-developers.com/my-local-model-is-worse-than-claude-at-almost-everything-but-i-still-use-it-more/",
+   "label": "STILL OPEN",
+   "summary_1line": "User prefers local AI models for privacy and cost, despite Claude's superior technical capabilities.",
+   "published_at": "2026-10-23T21:30:21Z",
+   "url_id": "7f8b7e111af707f92d63a385396a3b64"
+  },
+  {
+   "title": "Japan calls for cybersecurity task force to combat AI-driven threats",
+   "outlet": "SC Media",
+   "outlet_name": "SC Media",
+   "url": "https://www.scworld.com/brief/japan-calls-for-cybersecurity-task-force-to-combat-ai-driven-threats",
+   "label": "CONFIRMED",
+   "summary_1line": "Japan proposes cybersecurity task force to fight AI-driven attacks after 119 incidents this year.",
+   "published_at": "2026-10-23T21:26:18Z",
+   "url_id": "4af1f0a0017eba4e49c5eaa7226e577c"
+  },
+  {
+   "title": "Texas sues OpenAI over ChatGPT safety claims",
+   "outlet": "Houston Chronicle",
+   "outlet_name": "Houston Chronicle",
+   "url": "https://www.houstonchronicle.com/news/houston-texas/texas/article/texas-openai-chatgpt-lawsuit-22491691.php",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-23T21:11:07Z",
-   "url_id": "4850bf94463ec43206d8a9ccfc02eecf"
+   "published_at": "2026-10-23T22:08:19Z",
+   "url_id": "11a90f9679bc6bc9eea09f680e4ac9b5"
   },
   {
-   "title": "Bipartisan Bill Would Task NIST With AI Cyber Defense Standards",
-   "outlet": "MeriTalk",
-   "outlet_name": "MeriTalk",
-   "url": "https://www.meritalk.com/articles/bipartisan-bill-would-task-nist-with-ai-cyber-defense-standards/",
-   "label": "CONFIRMED",
-   "summary_1line": "Congress introduces AI cybersecurity bill to protect U.S. AI models and critical infrastructure.",
-   "published_at": "2026-10-23T19:56:33Z",
-   "url_id": "5c91ede0eea511982e73b02896eddd25"
-  },
-  {
-   "title": "Assessing proposed legislation to expand Unemployment Insurance to protect U.S. workers amid AI-related disruptions",
-   "outlet": "Equitable Growth",
-   "outlet_name": "Equitable Growth",
-   "url": "https://equitablegrowth.org/assessing-proposed-legislation-to-expand-unemployment-insurance-to-protect-u-s-workers-amid-ai-related-disruptions/",
-   "label": "CONFIRMED",
-   "summary_1line": "U.S. proposes UI reforms to address AI-driven job disruptions and expand benefits.",
-   "published_at": "2026-10-23T15:33:55Z",
-   "url_id": "a7666f921c1af3aeddc4c8126829ecd7"
-  },
-  {
-   "title": "Texas sues OpenAI, Sam Altman over product safety",
-   "outlet": "politico.com",
-   "outlet_name": "Politico",
-   "url": "https://www.politico.com/news/2026/10/23/texas-sues-openai-over-product-safety-01134162",
+   "title": "HHS sole-source award to Anthropic continues to raise questions",
+   "outlet": "FedScoop",
+   "outlet_name": "FedScoop",
+   "url": "https://fedscoop.com/hhs-sole-source-award-to-anthropic-continues-to-raise-questions/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-23T20:39:19Z",
-   "url_id": "005486ec766664a48bcacc26dd41ed01"
+   "summary_1line": "HHS awards Anthropic a six-month sole-source contract to bridge AI service gaps after OneGov expires.",
+   "published_at": "2026-10-23T21:42:44Z",
+   "url_id": "51a05108c78b00d66e7e76477307668c"
   },
   {
-   "title": "Marie Haynes turns 600 OKF files into paid SEO audits on Gemini 4 Argon",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
-   "url": "https://ppc.land/marie-haynes-turns-600-okf-files-into-paid-seo-audits-on-gemini-4-argon/",
+   "title": "Anthropic targets Muse and Dots with new AI agent, Claude Duet",
+   "outlet": "Computerworld",
+   "outlet_name": "Computerworld",
+   "url": "https://www.computerworld.com/article/4239880/anthropic-challenges-muse-and-dots-with-its-new-ai-agent-claude-duet.html",
    "label": "REPORTED",
-   "summary_1line": "Marie Haynes uses OKF and Gemini 4 Argon to generate paid SEO reports from 600 markdown files.",
-   "published_at": "2026-10-23T20:33:18Z",
-   "url_id": "5a10dec0d514f538d82f662c2b2de33b"
+   "summary_1line": "Anthropic launches Claude Duet for small business owners, based on Claude Opus 5.5.",
+   "published_at": "2026-10-23T21:29:26Z",
+   "url_id": "9ce841719e616a8cf7aa367445bc62b0"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI now trains its frontier AI models with no internet access",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "REPORTED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-   "url_id": "4850bf94463ec43206d8a9ccfc02eecf"
+   "headline": "My local models are worse than Claude at almost everything, but they still run most of my…",
+   "outlet": "XDA",
+   "outlet_name": "XDA",
+   "label": "STILL OPEN",
+   "url": "https://www.xda-developers.com/my-local-model-is-worse-than-claude-at-almost-everything-but-i-still-use-it-more/",
+   "url_id": "7f8b7e111af707f92d63a385396a3b64"
   },
   {
-   "headline": "Bipartisan Bill Would Task NIST With AI Cyber Defense Standards",
-   "outlet": "MeriTalk",
-   "outlet_name": "MeriTalk",
+   "headline": "Japan calls for cybersecurity task force to combat AI-driven threats",
+   "outlet": "SC Media",
+   "outlet_name": "SC Media",
    "label": "CONFIRMED",
-   "url": "https://www.meritalk.com/articles/bipartisan-bill-would-task-nist-with-ai-cyber-defense-standards/",
-   "url_id": "5c91ede0eea511982e73b02896eddd25"
+   "url": "https://www.scworld.com/brief/japan-calls-for-cybersecurity-task-force-to-combat-ai-driven-threats",
+   "url_id": "4af1f0a0017eba4e49c5eaa7226e577c"
   },
   {
-   "headline": "Assessing proposed legislation to expand Unemployment Insurance to protect U.S. workers…",
-   "outlet": "Equitable Growth",
-   "outlet_name": "Equitable Growth",
-   "label": "CONFIRMED",
-   "url": "https://equitablegrowth.org/assessing-proposed-legislation-to-expand-unemployment-insurance-to-protect-u-s-workers-amid-ai-related-disruptions/",
-   "url_id": "a7666f921c1af3aeddc4c8126829ecd7"
-  },
-  {
-   "headline": "Texas sues OpenAI, Sam Altman over product safety",
-   "outlet": "politico.com",
-   "outlet_name": "Politico",
+   "headline": "Texas sues OpenAI over ChatGPT safety claims",
+   "outlet": "Houston Chronicle",
+   "outlet_name": "Houston Chronicle",
    "label": "REPORTED",
-   "url": "https://www.politico.com/news/2026/10/23/texas-sues-openai-over-product-safety-01134162",
-   "url_id": "005486ec766664a48bcacc26dd41ed01"
+   "url": "https://www.houstonchronicle.com/news/houston-texas/texas/article/texas-openai-chatgpt-lawsuit-22491691.php",
+   "url_id": "11a90f9679bc6bc9eea09f680e4ac9b5"
   },
   {
-   "headline": "Marie Haynes turns 600 OKF files into paid SEO audits on Gemini 4 Argon",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
+   "headline": "HHS sole-source award to Anthropic continues to raise questions",
+   "outlet": "FedScoop",
+   "outlet_name": "FedScoop",
    "label": "REPORTED",
-   "url": "https://ppc.land/marie-haynes-turns-600-okf-files-into-paid-seo-audits-on-gemini-4-argon/",
-   "url_id": "5a10dec0d514f538d82f662c2b2de33b"
+   "url": "https://fedscoop.com/hhs-sole-source-award-to-anthropic-continues-to-raise-questions/",
+   "url_id": "51a05108c78b00d66e7e76477307668c"
+  },
+  {
+   "headline": "Anthropic targets Muse and Dots with new AI agent, Claude Duet",
+   "outlet": "Computerworld",
+   "outlet_name": "Computerworld",
+   "label": "REPORTED",
+   "url": "https://www.computerworld.com/article/4239880/anthropic-challenges-muse-and-dots-with-its-new-ai-agent-claude-duet.html",
+   "url_id": "9ce841719e616a8cf7aa367445bc62b0"
+  },
+  {
+   "headline": "OpenAI will Spitzen-KI ohne Internet trainieren",
+   "outlet": "Südtirol News",
+   "outlet_name": "Südtirol News",
+   "label": "REPORTED",
+   "url": "https://www.suedtirolnews.it/wirtschaft/openai-will-spitzen-ki-ohne-internet-trainieren",
+   "url_id": "62cfeb54b63d927dcc62f3af57f06985"
+  },
+  {
+   "headline": "How an OpenAI model exposed a flaw in 70% of the internet’s websites",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "REPORTED",
+   "url": "https://fortune.com/2026/10/23/openai-cyber-php2shell-openai-flaw-websites-hackers/",
+   "url_id": "502b182c0f97fdd31bc2974a03b4b7a8"
   },
   {
    "headline": "Google Now Lets You Turn Gemini Apps Into Websites",
@@ -114,28 +130,20 @@
    "url_id": "1836c228ce3b92a544a929017d69eac7"
   },
   {
-   "headline": "Claude Mythos 5 vs Gemini 4 Pro: The Name Is Wrong, the Access Gap Is Real",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "label": "REPORTED",
-   "url": "https://www.orcarouter.ai/blog/claude-mythos-5-vs-gemini-4-pro",
-   "url_id": "d720e3e124a866cbf4760e4bac0175fd"
-  },
-  {
-   "headline": "Ulta Beauty expands AI shopping strategy with ChatGPT plugin.",
-   "outlet": "Personal Care Insights",
-   "outlet_name": "Personal Care Insights",
-   "label": "REPORTED",
-   "url": "https://www.personalcareinsights.com/news/ulta-beauty-chatgpt-plugin.html",
-   "url_id": "998416702a05a00f6867ccd345b958fb"
-  },
-  {
-   "headline": "OpenAI Details Training Containment Overhaul After September Model Incident",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
+   "headline": "I let Gemini audit my favorite Android apps; it exposed all the bad ones",
+   "outlet": "androidpolice.com",
+   "outlet_name": "androidpolice.com",
    "label": "CONFIRMED",
-   "url": "https://www.unite.ai/openai-details-training-containment-overhaul-after-september-model-incident/",
-   "url_id": "e50558d2ead94cbdd11d2feda35fabde"
+   "url": "https://www.androidpolice.com/audit-android-app-data/",
+   "url_id": "027ef3a26b88ad2ae2af48c4628cddd5"
+  },
+  {
+   "headline": "Judge Lee concludes marathon hearing on summary judgment in Concord Music v. Anthropic I…",
+   "outlet": "chatgptiseatingtheworld.com",
+   "outlet_name": "chatgptiseatingtheworld.com",
+   "label": "REPORTED",
+   "url": "https://chatgptiseatingtheworld.com/2026/10/23/judge-lee-concludes-marathon-hearing-on-summary-judgment-in-concord-music-v-anthropic-i-sets-2d-hearing-to-continue-daubert-hearing-on-oct-30-1-pm/",
+   "url_id": "89af2d445eb0efc0a117902e6af0f151"
   },
   {
    "headline": "10 Frequently Asked Questions About Claude",
@@ -144,24 +152,16 @@
    "label": "REPORTED",
    "url": "https://www.allbusiness.com/10-frequently-asked-questions-about-claude",
    "url_id": "1dfc266edb9b55ee9f52041170569b46"
-  },
-  {
-   "headline": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
-   "outlet": "therobotreport.com",
-   "outlet_name": "therobotreport.com",
-   "label": "REPORTED",
-   "url": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/",
-   "url_id": "4b43f5961d89ce26e824e1a05eccdf3d"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
  "articles_24h_rounded": 9900,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/22.mp3",
- "audio_seconds": 53.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/23.mp3",
+ "audio_seconds": 43.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is now training its frontier artificial intelligence models with no internet access, reported by The Verge.\nCongress introduces a bipartisan bill that would task NIST with developing artificial intelligence cyber defense standards to protect U.S. artificial intelligence models and critical infrastructure, confirmed by MeriTalk.\nThe U.S. proposes unemployment insurance reforms to address artificial intelligence driven job disruptions and expand benefits to protect workers, confirmed by Equitable Growth.\nTexas sues OpenAI and Sam Altman over product safety, reported by Politico.\nMarie Haynes turns 600 OKF files into paid SEO audits using Gemini 4 Argon, reported by PPC Land.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per XDA: My local models are worse than Claude at almost everything, but they still run most of my workflow for $0.\nConfirmed, per SC Media: Japan calls for cybersecurity task force to combat AI-driven threats.\nReported by Houston Chronicle: Texas sues OpenAI over ChatGPT safety claims.\nReported by FedScoop: HHS sole-source award to Anthropic continues to raise questions.\nReported by Computerworld: Anthropic targets Muse and Dots with new AI agent, Claude Duet.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
