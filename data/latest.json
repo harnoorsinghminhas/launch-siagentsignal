@@ -1,125 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T02:20:16Z",
- "hour": "2026-10-23T02:00:00Z",
+ "generated_at": "2026-10-23T03:20:33Z",
+ "hour": "2026-10-23T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic unveils Claude Duet, an AI agent for everyday work | ETIH EdTech News",
+   "title": "SUSE unveils sovereign AI platform with NVIDIA tie-up",
+   "outlet": "IT Brief Australia",
+   "outlet_name": "IT Brief Australia",
+   "url": "https://itbrief.com.au/story/suse-unveils-sovereign-ai-platform-with-nvidia-tie-up",
+   "label": "REPORTED",
+   "summary_1line": "SUSE launches sovereign AI platform with NVIDIA and Fujitsu for private, secure enterprise AI deployments.",
+   "published_at": "2026-10-23T02:13:00Z",
+   "url_id": "0ba77e6953a2265f5868e9c45438cc53"
+  },
+  {
+   "title": "OpenAI bugging case raises questions about AI lab security",
+   "outlet": "AZ Family",
+   "outlet_name": "AZ Family",
+   "url": "https://www.azfamily.com/2026/10/23/openai-bugging-case-raises-questions-about-ai-lab-security/",
+   "label": "CONFIRMED",
+   "summary_1line": "Former OpenAI engineer arrested for spying on executive meetings; Saudi ties and security concerns raised.",
+   "published_at": "2026-10-23T01:55:00Z",
+   "url_id": "88457e9a78bcb14ed57391a8666daf09"
+  },
+  {
+   "title": "Chinese AI controls 55% of developer traffic—DeepSeek and Kimi K3 rewrote the rules",
+   "outlet": "Latin Times",
+   "outlet_name": "Latin Times",
+   "url": "https://www.latintimes.com/deepseek-kimi-k3-open-source-strategy-turning-chinese-ai-geopolitical-force-600424",
+   "label": "CONFIRMED",
+   "summary_1line": "Chinese open-source AI models surged to 55% of enterprise traffic, challenging U.S. dominance with affordable, high-performance models.",
+   "published_at": "2026-10-23T00:47:45Z",
+   "url_id": "43369f1003301415d9d6b3620d330290"
+  },
+  {
+   "title": "Anthropic publishes Public Benefit Report, detailing AI progress and gaps in measuring impact",
    "outlet": "EdTech Innovation Hub",
    "outlet_name": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/anthropic-unveils-claude-duet-an-ai-agent-that-works-across-connected-apps-in-the-background",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's Claude Duet proactively manages tasks across apps for professionals and small businesses.",
-   "published_at": "2026-10-22T23:07:35Z",
-   "url_id": "a88921a25582399aee1a05308d06ce10"
+   "url": "https://www.edtechinnovationhub.com/news/anthropic-publishes-public-benefit-report-detailing-ai-progress-and-gaps-in-measuring-impact",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic releases 2026 Public Benefit Report on AI use in education, science, and healthcare with new data and annual reporting plans.",
+   "published_at": "2026-10-23T00:15:16Z",
+   "url_id": "a5a799bc550c6d9d34a00c5abf02de17"
   },
   {
-   "title": "ThreatLocker launches tool to control access and actions by AI agents",
-   "outlet": "Australian Cyber Security Magazine",
-   "outlet_name": "Australian Cyber Security Magazine",
-   "url": "https://australiancybersecuritymagazine.com.au/threatlocker-launches-tool-to-control-access-and-actions-by-ai-agents/",
+   "title": "AI security tools outpace South Korea’s laws",
+   "outlet": "동아일보",
+   "outlet_name": "동아일보",
+   "url": "https://www.donga.com/en/article/all/20261023/6429805/1",
    "label": "REPORTED",
-   "summary_1line": "ThreatLocker launches ZTAIC to control AI agent actions and secure corporate environments.",
-   "published_at": "2026-10-23T00:25:53Z",
-   "url_id": "5eff72083e2710a4b7054cb82af1e58e"
-  },
-  {
-   "title": "Red Hat, NVIDIA Advance Agentic AI Security Across Hybrid Cloud",
-   "outlet": "The Fast Mode",
-   "outlet_name": "The Fast Mode",
-   "url": "https://www.thefastmode.com/technology-solutions/51164-red-hat-nvidia-advance-agentic-ai-security-across-hybrid-cloud",
-   "label": "REPORTED",
-   "summary_1line": "Red Hat and NVIDIA boost enterprise AI security with open-source tools and hardware support.",
-   "published_at": "2026-10-22T23:44:14Z",
-   "url_id": "f446c92f9cd66cfecfeded445561f0c6"
-  },
-  {
-   "title": "UK regulator launches call for evidence on agentic AI",
-   "outlet": "The National Law Review",
-   "outlet_name": "The National Law Review",
-   "url": "https://natlawreview.com/article/uk-regulator-launches-call-evidence-agentic-ai",
-   "label": "REPORTED",
-   "summary_1line": "UK ICO opens call for evidence on agentic AI compliance until 20 November 2026.",
-   "published_at": "2026-10-22T23:40:47Z",
-   "url_id": "86d1eefae61139101ad733962a55b174"
-  },
-  {
-   "title": "Orange Business, NVIDIA Advance Distributed AI Inference for Real-Time Voice AI",
-   "outlet": "The Fast Mode",
-   "outlet_name": "The Fast Mode",
-   "url": "https://www.thefastmode.com/technology-solutions/51161-orange-business-nvidia-advance-distributed-ai-inference-for-real-time-voice-ai",
-   "label": "REPORTED",
-   "summary_1line": "Orange and NVIDIA pilot distributed AI for real-time multilingual emergency calls at GTC 2026.",
-   "published_at": "2026-10-22T23:37:50Z",
-   "url_id": "22111bf43ef46d701c0e4ce16e479439"
+   "summary_1line": "OpenAI launches AI security tool with South Korean firms amid growing AI-driven cyber threats.",
+   "published_at": "2026-10-22T23:57:59Z",
+   "url_id": "dbdb5d4ff821e0690f57e094e92324df"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic unveils Claude Duet, an AI agent for everyday work | ETIH EdTech News",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
+   "headline": "SUSE unveils sovereign AI platform with NVIDIA tie-up",
+   "outlet": "IT Brief Australia",
+   "outlet_name": "IT Brief Australia",
    "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/anthropic-unveils-claude-duet-an-ai-agent-that-works-across-connected-apps-in-the-background",
-   "url_id": "a88921a25582399aee1a05308d06ce10"
+   "url": "https://itbrief.com.au/story/suse-unveils-sovereign-ai-platform-with-nvidia-tie-up",
+   "url_id": "0ba77e6953a2265f5868e9c45438cc53"
   },
   {
-   "headline": "ThreatLocker launches tool to control access and actions by AI agents",
-   "outlet": "Australian Cyber Security Magazine",
-   "outlet_name": "Australian Cyber Security Magazine",
-   "label": "REPORTED",
-   "url": "https://australiancybersecuritymagazine.com.au/threatlocker-launches-tool-to-control-access-and-actions-by-ai-agents/",
-   "url_id": "5eff72083e2710a4b7054cb82af1e58e"
-  },
-  {
-   "headline": "Red Hat, NVIDIA Advance Agentic AI Security Across Hybrid Cloud",
-   "outlet": "The Fast Mode",
-   "outlet_name": "The Fast Mode",
-   "label": "REPORTED",
-   "url": "https://www.thefastmode.com/technology-solutions/51164-red-hat-nvidia-advance-agentic-ai-security-across-hybrid-cloud",
-   "url_id": "f446c92f9cd66cfecfeded445561f0c6"
-  },
-  {
-   "headline": "UK regulator launches call for evidence on agentic AI",
-   "outlet": "The National Law Review",
-   "outlet_name": "The National Law Review",
-   "label": "REPORTED",
-   "url": "https://natlawreview.com/article/uk-regulator-launches-call-evidence-agentic-ai",
-   "url_id": "86d1eefae61139101ad733962a55b174"
-  },
-  {
-   "headline": "Orange Business, NVIDIA Advance Distributed AI Inference for Real-Time Voice AI",
-   "outlet": "The Fast Mode",
-   "outlet_name": "The Fast Mode",
-   "label": "REPORTED",
-   "url": "https://www.thefastmode.com/technology-solutions/51161-orange-business-nvidia-advance-distributed-ai-inference-for-real-time-voice-ai",
-   "url_id": "22111bf43ef46d701c0e4ce16e479439"
-  },
-  {
-   "headline": "OpenAI offers university labs free GPT-Rosalind access | ETIH EdTech News",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/openai-offers-us-university-labs-free-gpt-rosalind-access-for-up-to-12-months",
-   "url_id": "9a2bb49870a29733d118da407067538a"
-  },
-  {
-   "headline": "Google wants you to chat with Gemini to fix issues instead of scrolling through support…",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/gemini/articles/google-wants-chat-gemini-fix-223347479.html",
-   "url_id": "444ed62ae797c4df20ff97e3c3f06f6b"
-  },
-  {
-   "headline": "DeepSeek and Kimi K3: The open-source strategy turning Chinese AI into a geopolitical…",
-   "outlet": "Latin Times on MSN",
-   "outlet_name": "Latin Times on MSN",
+   "headline": "OpenAI bugging case raises questions about AI lab security",
+   "outlet": "AZ Family",
+   "outlet_name": "AZ Family",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/deepseek-and-kimi-k3-the-open-source-strategy-turning-chinese-ai-into-a-geopolitical-force/ar-AA2fSiWL",
-   "url_id": "42fc0a7459dd660dcc9c43ce58c3a874"
+   "url": "https://www.azfamily.com/2026/10/23/openai-bugging-case-raises-questions-about-ai-lab-security/",
+   "url_id": "88457e9a78bcb14ed57391a8666daf09"
+  },
+  {
+   "headline": "Chinese AI controls 55% of developer traffic—DeepSeek and Kimi K3 rewrote the rules",
+   "outlet": "Latin Times",
+   "outlet_name": "Latin Times",
+   "label": "CONFIRMED",
+   "url": "https://www.latintimes.com/deepseek-kimi-k3-open-source-strategy-turning-chinese-ai-geopolitical-force-600424",
+   "url_id": "43369f1003301415d9d6b3620d330290"
+  },
+  {
+   "headline": "Anthropic publishes Public Benefit Report, detailing AI progress and gaps in measuring…",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "label": "CONFIRMED",
+   "url": "https://www.edtechinnovationhub.com/news/anthropic-publishes-public-benefit-report-detailing-ai-progress-and-gaps-in-measuring-impact",
+   "url_id": "a5a799bc550c6d9d34a00c5abf02de17"
+  },
+  {
+   "headline": "AI security tools outpace South Korea’s laws",
+   "outlet": "동아일보",
+   "outlet_name": "동아일보",
+   "label": "REPORTED",
+   "url": "https://www.donga.com/en/article/all/20261023/6429805/1",
+   "url_id": "dbdb5d4ff821e0690f57e094e92324df"
+  },
+  {
+   "headline": "Unitree chief says humanoid AI's 'ChatGPT moment' arriving in 1-2 yrs",
+   "outlet": "China Daily",
+   "outlet_name": "China Daily",
+   "label": "STILL OPEN",
+   "url": "https://www.chinadaily.com.cn/a/202610/23/WS6adab899e4b06d4aa0564592.html",
+   "url_id": "0343124e7fdad8677d3e8b29ea3b86d7"
+  },
+  {
+   "headline": "1Password launches a way for AI to log in for you without seeing your password",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "url_id": "662e68277c6361dd4b95b761b04d8901"
+  },
+  {
+   "headline": "Kazakhstan Expands Compute for Its AI Future",
+   "outlet": "blogs.nvidia.com",
+   "outlet_name": "blogs.nvidia.com",
+   "label": "CONFIRMED",
+   "url": "https://blogs.nvidia.com/blog/kazakhstan-ai-compute-ecosystem/",
+   "url_id": "90e35913e5ba3eb8b4a92f72a9102af1"
+  },
+  {
+   "headline": "OpenAI Aims to Lock In $30 Billion Funding Round by Next Week",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "STILL OPEN",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-aims-to-lock-in-30-billion-funding-round-by-next-week/",
+   "url_id": "a8c88cfadcfab0da45d25f04dfe703e4"
   },
   {
    "headline": "Claude flags nearly 500 worrying open source security issues",
@@ -130,38 +138,30 @@
    "url_id": "81434654bad97cf494b0122c8e077438"
   },
   {
-   "headline": "Uber Deploys OpenAI Agents to All 30,000 Employees",
-   "outlet": "pymnts.com",
-   "outlet_name": "pymnts.com",
+   "headline": "DeepSeek and MiniMax Complete AI Export Registration and Move Ahead With Overseas…",
+   "outlet": "pandaily.com",
+   "outlet_name": "pandaily.com",
    "label": "REPORTED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/uber-deploys-openai-agents-to-all-30000-employees/",
-   "url_id": "1e808543a006fc9842ad15a77207d741"
+   "url": "https://pandaily.com/deepseek-minimax-complete-ai-technology-export-registration-open-source-overseas-licensing",
+   "url_id": "ec89aa0ae2cfb5cb2e4fd613a0ab1aa8"
   },
   {
-   "headline": "Bipartisan house bill targets AI distillation attacks",
-   "outlet": "scworld.com",
-   "outlet_name": "scworld.com",
+   "headline": "NVIDIA OpenShell Reference Architecture: 4 Layers [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
    "label": "REPORTED",
-   "url": "https://www.scworld.com/brief/bipartisan-house-bill-targets-ai-distillation-attacks",
-   "url_id": "1cc5bb3d0038b3a978c8ccd3d1a99726"
-  },
-  {
-   "headline": "OpenAI Aims to Lock In $30 Billion Funding Round by Next Week",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
-   "label": "REPORTED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-aims-to-lock-in-30-billion-funding-round-by-next-week/",
-   "url_id": "a8c88cfadcfab0da45d25f04dfe703e4"
+   "url": "https://shattered.io/nvidia-openshell-reference-architecture-agent-safety-2026/",
+   "url_id": "10a8c163fe60b7c6e0495a0c31d20964"
   }
  ],
  "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12100,
+ "articles_24h_rounded": 11900,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/02.mp3",
- "audio_seconds": 47.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/03.mp3",
+ "audio_seconds": 52.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by EdTech Innovation Hub: Anthropic unveils Claude Duet, an AI agent for everyday work | ETIH EdTech News.\nReported by Australian Cyber Security Magazine: ThreatLocker launches tool to control access and actions by AI agents.\nReported by The Fast Mode: Red Hat, NVIDIA Advance Agentic AI Security Across Hybrid Cloud.\nReported by The National Law Review: UK regulator launches call for evidence on agentic AI.\nReported by The Fast Mode: Orange Business, NVIDIA Advance Distributed AI Inference for Real-Time Voice AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by IT Brief Australia: SUSE unveils sovereign AI platform with NVIDIA tie-up.\nConfirmed, per AZ Family: OpenAI bugging case raises questions about AI lab security.\nConfirmed, per Latin Times: Chinese AI controls 55% of developer traffic—DeepSeek and Kimi K3 rewrote the rules.\nConfirmed, per EdTech Innovation Hub: Anthropic publishes Public Benefit Report, detailing AI progress and gaps in measuring impact.\nReported by 동아일보: AI security tools outpace South Korea’s laws.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
