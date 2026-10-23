@@ -1,125 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T12:20:05Z",
- "hour": "2026-10-23T12:00:00Z",
+ "generated_at": "2026-10-23T13:20:07Z",
+ "hour": "2026-10-23T13:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "LeapThought and Google Cloud Partner to Secure and Connect Critical Building Infrastructure with Sovereign AI",
-   "outlet": "巴士的報",
-   "outlet_name": "巴士的報",
-   "url": "https://www.bastillepost.com/global/article/6283093-leapthought-and-google-cloud-partner-to-secure-and-connect-critical-building-infrastructure-with-sovereign-ai",
+   "title": "DeepSeek reportedly raises $15bn from Tencent and CATL ahead of IPO",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/deepseek-reportedly-raises-15bn-from-tencent-and-catl-ahead-of-ipo",
+   "label": "STILL OPEN",
+   "summary_1line": "DeepSeek raises $15bn, aiming to compete with US AI giants amid US national security concerns.",
+   "published_at": "2026-10-23T11:23:44Z",
+   "url_id": "6a34f30a70487e972016b241d2a020a6"
+  },
+  {
+   "title": "On the ground at Nvidia GTC Berlin: Jensen Huang, robot ducks and neocloud distress",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
    "label": "CONFIRMED",
-   "summary_1line": "LeapThought and Google Cloud team up for sovereign AI in infrastructure with data control and natural-language insights.",
-   "published_at": "2026-10-23T06:50:00Z",
-   "url_id": "b500e54ea007b6e0ee3fd577a0e984d9"
+   "summary_1line": "Huang promotes portable AI racks, highlights neocloud distress and capital shortages at GTC.",
+   "published_at": "2026-10-23T11:02:16Z",
+   "url_id": "f74587da14ebae864da888e49f185ef3"
   },
   {
-   "title": "Nvidia DGX Spark 64GB Launches at $4,999: Is It Worth It?",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "url": "https://www.techrepublic.com/article/news-nvidia-dgx-spark-64gb-price-specs/",
+   "title": "Watch OpenAI Targets $1.25 Trillion Valuation in New Funding Round",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-23/the-pulse-10-232026-video",
    "label": "REPORTED",
-   "summary_1line": "Nvidia's 64GB DGX Spark starts at $4,999, supports up to 100B parameters, and can be clustered for 200B model support.",
-   "published_at": "2026-10-23T02:19:00Z",
-   "url_id": "0f0656cad1e87a9735544529465dc4ee"
+   "summary_1line": null,
+   "published_at": "2026-10-23T12:40:26Z",
+   "url_id": "e2ba2d5f9c5ea6bfc7971c1900bfc36c"
   },
   {
-   "title": "Qlik Brings Governed Business Context and Analytics Workflows to Claude",
-   "outlet": "AiThority",
-   "outlet_name": "AiThority",
-   "url": "https://aithority.com/machine-learning/qlik-brings-governed-business-context-and-analytics-workflows-to-claude/",
-   "label": "REPORTED",
-   "summary_1line": "Qlik enables Claude to access governed business context via MCP in Anthropic’s directory.",
-   "published_at": "2026-10-23T10:33:27Z",
-   "url_id": "6a734c057617b70455c31c414f674c4c"
+   "title": "AI-Discovered Bugs Expected to Cause New Disruptions, Experts Warn",
+   "outlet": "Global Banking & Finance Review",
+   "outlet_name": "Global Banking & Finance Review",
+   "url": "https://www.globalbankingandfinance.com/ai-discovered-bugs-soon-trigger-fresh-disruptions-cyber/",
+   "label": "CONFIRMED",
+   "summary_1line": "AI uncovered a surge of software flaws, risking global outages.",
+   "published_at": "2026-10-23T10:28:09Z",
+   "url_id": "3ca8a7b8fe5ec3adb2ddbd4a316e5452"
   },
   {
-   "title": "Pennsylvania Senate Faces Pressure Over AI Campaign Ad Bill",
-   "outlet": "MyChesCo",
-   "outlet_name": "MyChesCo",
-   "url": "https://www.mychesco.com/a/news/government/pennsylvania-senate-faces-pressure-over-ai-campaign-ad-bill/",
-   "label": "REPORTED",
-   "summary_1line": "PA lawmakers push AI ad disclosure after deepfakes rise, bill stalled in Senate.",
-   "published_at": "2026-10-23T10:14:17Z",
-   "url_id": "5fb088aad87ccb1bf3cedf3bd0215a1c"
-  },
-  {
-   "title": "Agile ONE SN Humanoid Robot Bundles Nvidia’s Robotics Stack",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "url": "https://www.techrepublic.com/article/news-nvidia-agile-one-sn-humanoid-robot/",
-   "label": "REPORTED",
-   "summary_1line": "Agile Robots and Nvidia launch Agile ONE SN, a research robot with AI tools, for early 2027 release.",
-   "published_at": "2026-10-23T09:42:46Z",
-   "url_id": "ff4af030c3f399394a11a82c7021fc5f"
+   "title": "China Clears DeepSeek, MiniMax for Overseas AI Rollout",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "url": "https://www.analyticsinsight.net/news/china-clears-deepseek-minimax-for-overseas-ai-rollout",
+   "label": "CONFIRMED",
+   "summary_1line": "China approves DeepSeek and MiniMax for overseas AI model deployment after export control proposal.",
+   "published_at": "2026-10-23T03:15:00Z",
+   "url_id": "5f3bdf6a26a5b0ccbff021fb7dd6ba89"
   }
  ],
  "ticker": [
   {
-   "headline": "LeapThought and Google Cloud Partner to Secure and Connect Critical Building…",
-   "outlet": "巴士的報",
-   "outlet_name": "巴士的報",
+   "headline": "DeepSeek reportedly raises $15bn from Tencent and CATL ahead of IPO",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "label": "STILL OPEN",
+   "url": "https://thenextweb.com/news/deepseek-reportedly-raises-15bn-from-tencent-and-catl-ahead-of-ipo",
+   "url_id": "6a34f30a70487e972016b241d2a020a6"
+  },
+  {
+   "headline": "On the ground at Nvidia GTC Berlin: Jensen Huang, robot ducks and neocloud distress",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.bastillepost.com/global/article/6283093-leapthought-and-google-cloud-partner-to-secure-and-connect-critical-building-infrastructure-with-sovereign-ai",
-   "url_id": "b500e54ea007b6e0ee3fd577a0e984d9"
+   "url": "https://www.cnbc.com/2026/10/23/jensen-huang-gtc-robot-ducks-neocloud-distress.html",
+   "url_id": "f74587da14ebae864da888e49f185ef3"
   },
   {
-   "headline": "Nvidia DGX Spark 64GB Launches at $4,999: Is It Worth It?",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
+   "headline": "Watch OpenAI Targets $1.25 Trillion Valuation in New Funding Round",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://www.techrepublic.com/article/news-nvidia-dgx-spark-64gb-price-specs/",
-   "url_id": "0f0656cad1e87a9735544529465dc4ee"
+   "url": "https://www.bloomberg.com/news/videos/2026-10-23/the-pulse-10-232026-video",
+   "url_id": "e2ba2d5f9c5ea6bfc7971c1900bfc36c"
   },
   {
-   "headline": "Qlik Brings Governed Business Context and Analytics Workflows to Claude",
-   "outlet": "AiThority",
-   "outlet_name": "AiThority",
-   "label": "REPORTED",
-   "url": "https://aithority.com/machine-learning/qlik-brings-governed-business-context-and-analytics-workflows-to-claude/",
-   "url_id": "6a734c057617b70455c31c414f674c4c"
-  },
-  {
-   "headline": "Pennsylvania Senate Faces Pressure Over AI Campaign Ad Bill",
-   "outlet": "MyChesCo",
-   "outlet_name": "MyChesCo",
-   "label": "REPORTED",
-   "url": "https://www.mychesco.com/a/news/government/pennsylvania-senate-faces-pressure-over-ai-campaign-ad-bill/",
-   "url_id": "5fb088aad87ccb1bf3cedf3bd0215a1c"
-  },
-  {
-   "headline": "Agile ONE SN Humanoid Robot Bundles Nvidia’s Robotics Stack",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "label": "REPORTED",
-   "url": "https://www.techrepublic.com/article/news-nvidia-agile-one-sn-humanoid-robot/",
-   "url_id": "ff4af030c3f399394a11a82c7021fc5f"
-  },
-  {
-   "headline": "DeepSeek raises €13bn to strengthen position in AI market",
-   "outlet": "techcentral.ie",
-   "outlet_name": "techcentral.ie",
+   "headline": "AI-Discovered Bugs Expected to Cause New Disruptions, Experts Warn",
+   "outlet": "Global Banking & Finance Review",
+   "outlet_name": "Global Banking & Finance Review",
    "label": "CONFIRMED",
-   "url": "https://www.techcentral.ie/deepseek-raises-e13bn-to-strengthen-position-in-ai-market/",
-   "url_id": "72585b1ad0a1fa118d1015d7f9ee58e5"
+   "url": "https://www.globalbankingandfinance.com/ai-discovered-bugs-soon-trigger-fresh-disruptions-cyber/",
+   "url_id": "3ca8a7b8fe5ec3adb2ddbd4a316e5452"
   },
   {
-   "headline": "Pony AI Unveils Collaboration With Nvidia, inDrive to Explore Launch of Autonomous…",
-   "outlet": "marketscreener.com",
-   "outlet_name": "marketscreener.com",
+   "headline": "China Clears DeepSeek, MiniMax for Overseas AI Rollout",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
    "label": "CONFIRMED",
-   "url": "https://www.marketscreener.com/news/pony-ai-unveils-collaboration-with-nvidia-indrive-to-explore-launch-of-autonomous-vehicles-in-kazak-ce785cdfd98af727",
-   "url_id": "240179c1d4b22c3cb1f4168b7b5439a9"
+   "url": "https://www.analyticsinsight.net/news/china-clears-deepseek-minimax-for-overseas-ai-rollout",
+   "url_id": "5f3bdf6a26a5b0ccbff021fb7dd6ba89"
   },
   {
-   "headline": "China's DeepSeek, MiniMax win approval for AI global use, state media-affiliated entity…",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/chinas-deepseek-minimax-win-approval-for-ai-global-use-state-media-affiliated-entity-says/ar-AA2fSU3E",
-   "url_id": "6bfc753cb4e5d0c55aefdeeda7ea0c64"
+   "headline": "Anthropic seeks US court ruling that AI training on song lyrics qualifies as fair use",
+   "outlet": "ET Enterprise AI",
+   "outlet_name": "ET Enterprise AI",
+   "label": "REPORTED",
+   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/anthropic-seeks-us-court-ruling-that-ai-training-on-song-lyrics-qualifies-as-fair-use/135109405",
+   "url_id": "2831351743f6489e2775b3a200eb128a"
+  },
+  {
+   "headline": "Anthropic will pay a human writer $345,000 to help its executives find the right words",
+   "outlet": "CTech",
+   "outlet_name": "CTech",
+   "label": "REPORTED",
+   "url": "https://www.calcalistech.com/ctechnews/article/rjrypho2zl",
+   "url_id": "0200576fd713d3bdbb19e7e939fdf794"
+  },
+  {
+   "headline": "Trent Vichie of EverWind, the company behind Claude.ai data centre",
+   "outlet": "PNI Atlantic News",
+   "outlet_name": "PNI Atlantic News",
+   "label": "REPORTED",
+   "url": "https://www.saltwire.com/nova-scotia/halifax/business-halifax/everwind-ceo-data-centre-risk-opportunity",
+   "url_id": "1db9766fbed56d8453d5f31b1a3d8ce2"
+  },
+  {
+   "headline": "Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects",
+   "outlet": "infoq.com",
+   "outlet_name": "infoq.com",
+   "label": "REPORTED",
+   "url": "https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/",
+   "url_id": "7300b2742636b950f66fceff59747091"
   },
   {
    "headline": "Gemini Notebook read my car’s 150-page manual, and I found features I didn’t know I’d…",
@@ -144,24 +152,16 @@
    "label": "REPORTED",
    "url": "https://groundrun.io/blog/mistakes-claude-makes-with-hardware-in-the-loop/",
    "url_id": "21ad2ee9c2eaf4cd9d9de321623c3479"
-  },
-  {
-   "headline": "Germany’s Agile Robots Plans Up to 2,000 Humanoids With Nvidia",
-   "outlet": "eweek.com",
-   "outlet_name": "eweek.com",
-   "label": "REPORTED",
-   "url": "https://www.eweek.com/news/agile-robots-nvidia-humanoids-emea-germany/",
-   "url_id": "3c0239a1ccd9324d26f98c30819accc8"
   }
  ],
- "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 10900,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 10800,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/12.mp3",
- "audio_seconds": 69.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/13.mp3",
+ "audio_seconds": 50.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nLeapThought and Google Cloud partner to secure critical building infrastructure with sovereign artificial intelligence. Confirmed by 巴士的報: the collaboration offers data control and natural-language insights.\nNvidia's 64GB DGX Spark launches at $4,999, supporting up to 100B parameters. Reported by TechRepublic: the system can be clustered for 200B model support.\nQlik brings governed business context and analytics workflows to Claude through Anthropic's directory. Reported by AiThority: the integration enables Claude to access governed business context via MCP.\nPennsylvania lawmakers push for artificial intelligence ad disclosure after deepfakes rise. Reported by MyChesCo: the bill remains stalled in the Senate.\nAgile Robots and Nvidia launch Agile ONE SN, a research robot bundling Nvidia's robotics stack. Reported by TechRepublic: the robot is set for early 2027 release.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per The Next Web: DeepSeek reportedly raises $15bn from Tencent and CATL ahead of IPO.\nConfirmed, per CNBC: On the ground at Nvidia GTC Berlin: Jensen Huang, robot ducks and neocloud distress.\nReported by Bloomberg: Watch OpenAI Targets $1.25 Trillion Valuation in New Funding Round.\nConfirmed, per Global Banking & Finance Review: AI-Discovered Bugs Expected to Cause New Disruptions, Experts Warn.\nConfirmed, per Analytics Insight: China Clears DeepSeek, MiniMax for Overseas AI Rollout.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
