@@ -1,101 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T00:20:02Z",
- "hour": "2026-10-23T00:00:00Z",
+ "generated_at": "2026-10-23T01:20:04Z",
+ "hour": "2026-10-23T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlJ6SFpHeHRub3NJR1l1dFg0YzFULWdWX1MtU1A4b1luZTFMMkktcHU0YWdNMi1RMy1Sc3FkVF9WTnhvc0txaV9HX1k1d1cxQVgyOWdWcUU2UVVRXzlNMDdydVc2cmxEQ1FqX0dPeEFqZ3pzZnVGRnZYUzEwR0xfanQycnZPUEp6SkM1ZEo4OV9KOHZrWk9sbElfRmcxVDVmYUhfSmNqODhra1JvYko4MWRLNA?oc=5",
+   "title": "Nvidia, UW Institute for Protein Design Unveil Open-Source Protein Design AI Model",
+   "outlet": "Genetic Engineering and Biotechnology News",
+   "outlet_name": "Genetic Engineering and Biotechnology News",
+   "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
+   "label": "REPORTED",
+   "summary_1line": "UW and Nvidia launch open AI model RFD4-Proteina for faster, more precise protein design.",
+   "published_at": "2026-10-22T17:48:12Z",
+   "url_id": "733cef82cab6b076ab151689cb16729b"
+  },
+  {
+   "title": "Goa AI Policy 2026 Puts Rural Schools at the Centre of Tech Growth",
+   "outlet": "Urban Acres",
+   "outlet_name": "Urban Acres",
+   "url": "https://urbanacres.in/goa-ai-policy-2026-puts-rural-schools-at-the-centre-of-tech-growth/",
+   "label": "REPORTED",
+   "summary_1line": "Goa launches AI policy with school labs, teacher training, and 50,000 AI-certified professionals by 2030.",
+   "published_at": "2026-10-22T22:45:40Z",
+   "url_id": "cc66adf0c9847ab558f2efa4b9ffc488"
+  },
+  {
+   "title": "HCLTech launches NVIDIA-powered AI solution to reduce physical testing of vehicle software",
+   "outlet": "ET CIO",
+   "outlet_name": "ET CIO",
+   "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/hcltech-launches-nvidia-powered-ai-solution-to-reduce-physical-testing-of-vehicle-software/135105539",
+   "label": "REPORTED",
+   "summary_1line": "HCLTech launches NVIDIA-powered AI solution for virtual vehicle software testing.",
+   "published_at": "2026-10-22T03:01:15Z",
+   "url_id": "e8bcc4c369de7979d732e6b0bfa63411"
+  },
+  {
+   "title": "Resultant Accelerates Public Sector AI Transformation with Google Cloud's Gemini for Government Services",
+   "outlet": "Google Cloud Press Corner",
+   "outlet_name": "Google Cloud Press Corner",
+   "url": "https://www.googlecloudpresscorner.com/2026-10-22-Resultant-Accelerates-Public-Sector-AI-Transformation-with-Google-Clouds-Gemini-for-Government-Services",
+   "label": "REPORTED",
+   "summary_1line": "Resultant joins Google Cloud as launch partner for Gemini in government AI deployments.",
+   "published_at": "2026-10-22T21:48:16Z",
+   "url_id": "786a8c95c5cdec42fbcebbd87d368243"
+  },
+  {
+   "title": "Anthropic's proposed AI safety bill only allows government to block models under extreme conditions",
+   "outlet": "CBS News",
+   "outlet_name": "CBS News",
+   "url": "https://www.cbsnews.com/video/anthropic-proposed-ai-safety-bill-details/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-22T23:31:57Z",
-   "url_id": "b7aa0c06d54fb9fe4d2fc9e814bd6279"
-  },
-  {
-   "title": "Agentic AI Foundation adds four more open-source AI tools",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
-   "url": "https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/",
-   "label": "CONFIRMED",
-   "summary_1line": "Agentic AI Foundation adds 4 open-source AI tools, expanding to 10 total projects.",
-   "published_at": "2026-10-22T22:43:00Z",
-   "url_id": "5338bfcedd3522caab1273a4937e2964"
-  },
-  {
-   "title": "Seattle's Nobel-Winning Protein Lab Unveils AI Model Built With Nvidia",
-   "outlet": "Hoodline",
-   "outlet_name": "Hoodline",
-   "url": "https://hoodline.com/2026/10/seattle-s-nobel-winning-protein-lab-unveils-ai-model-built-with-nvidia/",
-   "label": "REPORTED",
-   "summary_1line": "UW and Nvidia launch RFD4-Proteina, an AI model that designs proteins 5-10x faster with 5-10x higher success rates.",
-   "published_at": "2026-10-22T14:40:00Z",
-   "url_id": "c9210b4379712fc22fc240d0905bca1d"
-  },
-  {
-   "title": "Open call for guest investigators in the life sciences",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic opens research collaboration for life sciences using Claude models.",
-   "published_at": "2026-10-22T22:03:06Z",
-   "url_id": "2c00c6806dedca59848a48e0f9b16dd8"
-  },
-  {
-   "title": "LLMs are making formal software verification feasible at a much larger scale",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "url": "https://www.anthropic.com/research/formal-verification",
-   "label": "CONFIRMED",
-   "summary_1line": "LLMs generate formal proofs for security in 100+ open-source libraries, detecting long-hidden bugs.",
-   "published_at": "2026-10-22T21:58:06Z",
-   "url_id": "7ee25a04ae2655e0bf417733c2a6ced9"
+   "published_at": "2026-10-22T21:39:00Z",
+   "url_id": "57563d15e8de3e759cf611c9698f4134"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "Nvidia, UW Institute for Protein Design Unveil Open-Source Protein Design AI Model",
+   "outlet": "Genetic Engineering and Biotechnology News",
+   "outlet_name": "Genetic Engineering and Biotechnology News",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNlJ6SFpHeHRub3NJR1l1dFg0YzFULWdWX1MtU1A4b1luZTFMMkktcHU0YWdNMi1RMy1Sc3FkVF9WTnhvc0txaV9HX1k1d1cxQVgyOWdWcUU2UVVRXzlNMDdydVc2cmxEQ1FqX0dPeEFqZ3pzZnVGRnZYUzEwR0xfanQycnZPUEp6SkM1ZEo4OV9KOHZrWk9sbElfRmcxVDVmYUhfSmNqODhra1JvYko4MWRLNA?oc=5",
-   "url_id": "b7aa0c06d54fb9fe4d2fc9e814bd6279"
+   "url": "https://www.genengnews.com/topics/artificial-intelligence/nvidia-uw-institute-for-protein-design-unveil-open-source-protein-design-ai-model/",
+   "url_id": "733cef82cab6b076ab151689cb16729b"
   },
   {
-   "headline": "Agentic AI Foundation adds four more open-source AI tools",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
-   "label": "CONFIRMED",
-   "url": "https://siliconangle.com/2026/10/22/agentic-ai-foundation-adds-four-more-open-source-ai-tools/",
-   "url_id": "5338bfcedd3522caab1273a4937e2964"
-  },
-  {
-   "headline": "Seattle's Nobel-Winning Protein Lab Unveils AI Model Built With Nvidia",
-   "outlet": "Hoodline",
-   "outlet_name": "Hoodline",
+   "headline": "Goa AI Policy 2026 Puts Rural Schools at the Centre of Tech Growth",
+   "outlet": "Urban Acres",
+   "outlet_name": "Urban Acres",
    "label": "REPORTED",
-   "url": "https://hoodline.com/2026/10/seattle-s-nobel-winning-protein-lab-unveils-ai-model-built-with-nvidia/",
-   "url_id": "c9210b4379712fc22fc240d0905bca1d"
+   "url": "https://urbanacres.in/goa-ai-policy-2026-puts-rural-schools-at-the-centre-of-tech-growth/",
+   "url_id": "cc66adf0c9847ab558f2efa4b9ffc488"
   },
   {
-   "headline": "Open call for guest investigators in the life sciences",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/news/open-call-guest-investigators-life-sciences",
-   "url_id": "2c00c6806dedca59848a48e0f9b16dd8"
-  },
-  {
-   "headline": "LLMs are making formal software verification feasible at a much larger scale",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/formal-verification",
-   "url_id": "7ee25a04ae2655e0bf417733c2a6ced9"
+   "headline": "HCLTech launches NVIDIA-powered AI solution to reduce physical testing of vehicle software",
+   "outlet": "ET CIO",
+   "outlet_name": "ET CIO",
+   "label": "REPORTED",
+   "url": "https://cio.economictimes.indiatimes.com/news/artificial-intelligence/hcltech-launches-nvidia-powered-ai-solution-to-reduce-physical-testing-of-vehicle-software/135105539",
+   "url_id": "e8bcc4c369de7979d732e6b0bfa63411"
   },
   {
    "headline": "Resultant Accelerates Public Sector AI Transformation with Google Cloud's Gemini for…",
@@ -106,28 +90,60 @@
    "url_id": "786a8c95c5cdec42fbcebbd87d368243"
   },
   {
-   "headline": "OpenAI to grant Effingham County $2 million for park trail development",
-   "outlet": "WTOC",
-   "outlet_name": "WTOC",
-   "label": "REPORTED",
-   "url": "https://www.wtoc.com/2026/10/22/openai-grant-effingham-county-2-million-park-trail-development/",
-   "url_id": "21faa2f3a04f349d6119dab1b3732d6c"
-  },
-  {
    "headline": "Anthropic's proposed AI safety bill only allows government to block models under extreme…",
    "outlet": "CBS News",
    "outlet_name": "CBS News",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBWWTA4WjEtMlNhWDdLYXNuMFQyNVpNc3NFamhxdTNLdTJpWjFWWnFBZTFaLTVxNGhYcVpDVUJVemZSSFhXVTBZdkxFUlVTR2N6RTVTNFR1UW95Q0gxNnp4cEhhWlVRUFptMHFPRUFqcnNFVDFrYU1mZ21ST2w?oc=5",
+   "url": "https://www.cbsnews.com/video/anthropic-proposed-ai-safety-bill-details/",
    "url_id": "57563d15e8de3e759cf611c9698f4134"
   },
   {
-   "headline": "Microsoft Links ConnectWise Breach to China-Linked Group Using AI Pentesting Tool ARTEX",
-   "outlet": "securityaffairs.com",
-   "outlet_name": "securityaffairs.com",
-   "label": "CONFIRMED",
-   "url": "https://securityaffairs.com/201501/apt/microsoft-links-connectwise-breach-to-china-linked-group-using-ai-pentesting-tool-artex.html",
-   "url_id": "8016db6024a891ee931532520413de17"
+   "headline": "Anthropic Unveils First Public Welfare Report: Revealing the Groundbreaking \"Human Rescue…",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4dlF3a2N2UWUyOXRENmRhb1RyS1MtU0g3QnBzUUVSSG5zbWk1bHJMSWcxM1ZzempLUnJUNGdwLUxpTkxCWi1mTUEtYXFhbXcxQ3RF?oc=5",
+   "url_id": "d3c47ebfa6718b10c4b8463560efceb9"
+  },
+  {
+   "headline": "Stolen Claude and OpenAI API Keys Are Fueling a Black Market for AI Model Distillation",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.biggo.com/news/5222a99a34d4d0f8",
+   "url_id": "30d9eb1b5210596c9a27cea59109014b"
+  },
+  {
+   "headline": "Left 4 Dead 2 Remake Officially Unveiled By NVIDIA",
+   "outlet": "opencritic",
+   "outlet_name": "opencritic",
+   "label": "REPORTED",
+   "url": "https://opencritic.com/news/38255/left-4-dead-2-remake-officially-unveiled-by-nvidia",
+   "url_id": "4b20d856592d344dfa7a62b416e14445"
+  },
+  {
+   "headline": "NVIDIA Unveils Vera Rubin, OpenShell and Europe AI Expansion at GTC Berlin",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "REPORTED",
+   "url": "https://www.tradingview.com/news/marketbeat:d47f95473094b:0-nvidia-unveils-vera-rubin-openshell-and-europe-ai-expansion-at-gtc-berlin/",
+   "url_id": "3c2e181459e58189393a04121570e80f"
+  },
+  {
+   "headline": "US appeals court ejects judge from case over AI errors",
+   "outlet": "reuters.com",
+   "outlet_name": "Reuters",
+   "label": "REPORTED",
+   "url": "https://www.reuters.com/legal/government/appeals-court-lifts-block-mississippis-dei-ban-ejects-judge-over-ai-errors-2026-10-22/",
+   "url_id": "a82ff7fd560df311b065aa8c8e15d30c"
+  },
+  {
+   "headline": "Volkswagen expands with Microsoft Copilot as salary freeze for 660,000 workers reportedly…",
+   "outlet": "The American Bazaar",
+   "outlet_name": "The American Bazaar",
+   "label": "STILL OPEN",
+   "url": "https://americanbazaaronline.com/2026/10/22/volkswagen-expands-with-microsoft-copilot-as-salary-freeze-for-660000-workers-reportedly-looms-490570/",
+   "url_id": "3bfd3d75f5305de90164491621d7cfc4"
   },
   {
    "headline": "Anthropic Says Claude Proved Security Properties Across 123 Libraries",
@@ -136,32 +152,16 @@
    "label": "CONFIRMED",
    "url": "https://www.unite.ai/anthropic-says-claude-proved-security-properties-across-123-libraries/",
    "url_id": "e1905cb8bfbf14c10a05ae9cad743f9c"
-  },
-  {
-   "headline": "1Password now lets AI agents sign in to websites without seeing your passwords",
-   "outlet": "techspot.com",
-   "outlet_name": "techspot.com",
-   "label": "CONFIRMED",
-   "url": "https://www.techspot.com/downloads/5626-1password.html",
-   "url_id": "1dc21a09920305e9c7089017b6119b25"
-  },
-  {
-   "headline": "I ran Claude Code, Codex, and Cursor on the same AI model, and the tool mattered more…",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
-   "label": "REPORTED",
-   "url": "https://www.xda-developers.com/ran-claude-code-codex-cursor-same-ai-model-tool-mattered-more-than-expected/",
-   "url_id": "ef4702ee2b0e57cca8d807222dca324d"
   }
  ],
- "tidbit": "Did you know… about 12,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 12100,
  "articles_24h_label": "about 12,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/00.mp3",
- "audio_seconds": 43.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/01.mp3",
+ "audio_seconds": 57.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Bloomberg: OpenAI Shifts Value to $1.25 Trillion as Funding Talks Finalize.\nConfirmed, per SiliconANGLE: Agentic AI Foundation adds four more open-source AI tools.\nReported by Hoodline: Seattle's Nobel-Winning Protein Lab Unveils AI Model Built With Nvidia.\nConfirmed, per Anthropic: Open call for guest investigators in the life sciences.\nConfirmed, per Anthropic: LLMs are making formal software verification feasible at a much larger scale.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia and UW Institute for Protein Design launched open-source model RFD4-Proteina for faster, more precise protein design, reported by Genetic Engineering and Biotechnology News.\nGoa launches artificial intelligence policy with school labs, teacher training, and 50,000 certified professionals by 2030, reported by Urban Acres.\nHCLTech launches Nvidia-powered artificial intelligence solution for virtual vehicle software testing, reported by ET CIO.\nResultant joins Google Cloud as launch partner for Gemini in government artificial intelligence deployments, reported by Google Cloud Press Corner.\nAnthropic's proposed artificial intelligence safety bill only allows government to block models under extreme conditions, reported by CBS News.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
