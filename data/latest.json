@@ -1,109 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T21:20:02Z",
- "hour": "2026-10-23T21:00:00Z",
+ "generated_at": "2026-10-23T22:20:03Z",
+ "hour": "2026-10-23T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI",
-   "outlet": "The Texas Tribune",
-   "outlet_name": "The Texas Tribune",
-   "url": "https://www.texastribune.org/2026/10/23/ken-paxton-chatgpt-openai-lawsuit-texas-attorney-general/",
+   "title": "OpenAI now trains its frontier AI models with no internet access",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-23T19:44:30Z",
-   "url_id": "28e45e3f04abe045748f5a0481938675"
+   "published_at": "2026-10-23T21:11:07Z",
+   "url_id": "4850bf94463ec43206d8a9ccfc02eecf"
   },
   {
-   "title": "Former National Security Officials Warn Anthropic Ruling Threatens Federal AI Procurement",
+   "title": "Bipartisan Bill Would Task NIST With AI Cyber Defense Standards",
    "outlet": "MeriTalk",
    "outlet_name": "MeriTalk",
-   "url": "https://www.meritalk.com/articles/former-national-security-officials-warn-anthropic-ruling-threatens-federal-ai-procurement/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-23T20:26:34Z",
-   "url_id": "ba76f80077e198b3725e397c1108813a"
+   "url": "https://www.meritalk.com/articles/bipartisan-bill-would-task-nist-with-ai-cyber-defense-standards/",
+   "label": "CONFIRMED",
+   "summary_1line": "Congress introduces AI cybersecurity bill to protect U.S. AI models and critical infrastructure.",
+   "published_at": "2026-10-23T19:56:33Z",
+   "url_id": "5c91ede0eea511982e73b02896eddd25"
   },
   {
-   "title": "OpenAI resumes frontier AI training with enhanced security, no internet access",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://www.reuters.com/business/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-2026-10-23/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-23T20:07:44Z",
-   "url_id": "46dc20d8f358972067cf70ccd097fb84"
+   "title": "Assessing proposed legislation to expand Unemployment Insurance to protect U.S. workers amid AI-related disruptions",
+   "outlet": "Equitable Growth",
+   "outlet_name": "Equitable Growth",
+   "url": "https://equitablegrowth.org/assessing-proposed-legislation-to-expand-unemployment-insurance-to-protect-u-s-workers-amid-ai-related-disruptions/",
+   "label": "CONFIRMED",
+   "summary_1line": "U.S. proposes UI reforms to address AI-driven job disruptions and expand benefits.",
+   "published_at": "2026-10-23T15:33:55Z",
+   "url_id": "a7666f921c1af3aeddc4c8126829ecd7"
   },
   {
-   "title": "Moonshot AI releases Kimi K3.1 Pro open weight model to rival Claude",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/moonshot-ai-releases-kimi-k31-pro-open-weight-model-to-rival-claude/",
+   "title": "Texas sues OpenAI, Sam Altman over product safety",
+   "outlet": "politico.com",
+   "outlet_name": "Politico",
+   "url": "https://www.politico.com/news/2026/10/23/texas-sues-openai-over-product-safety-01134162",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-23T18:23:36Z",
-   "url_id": "4eb56fd766b5431d7c782448dd2b0402"
+   "published_at": "2026-10-23T20:39:19Z",
+   "url_id": "005486ec766664a48bcacc26dd41ed01"
   },
   {
-   "title": "Security Firm Discovers 32 NVIDIA B300 GPUs Operating Inside China Telecom, Showing U.S. Export Controls Aren’t Curbing Top-Tier AI Hardware From Getting Out",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "url": "https://wccftech.com/nvidia-b300-blackwell-gpus-discovered-china-telecom/",
+   "title": "Marie Haynes turns 600 OKF files into paid SEO audits on Gemini 4 Argon",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
+   "url": "https://ppc.land/marie-haynes-turns-600-okf-files-into-paid-seo-audits-on-gemini-4-argon/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-23T13:08:00Z",
-   "url_id": "91002a3939f279260714ba69ac7ab238"
+   "summary_1line": "Marie Haynes uses OKF and Gemini 4 Argon to generate paid SEO reports from 600 markdown files.",
+   "published_at": "2026-10-23T20:33:18Z",
+   "url_id": "5a10dec0d514f538d82f662c2b2de33b"
   }
  ],
  "ticker": [
   {
-   "headline": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI",
-   "outlet": "The Texas Tribune",
-   "outlet_name": "The Texas Tribune",
+   "headline": "OpenAI now trains its frontier AI models with no internet access",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "REPORTED",
-   "url": "https://www.texastribune.org/2026/10/23/ken-paxton-chatgpt-openai-lawsuit-texas-attorney-general/",
-   "url_id": "28e45e3f04abe045748f5a0481938675"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+   "url_id": "4850bf94463ec43206d8a9ccfc02eecf"
   },
   {
-   "headline": "Former National Security Officials Warn Anthropic Ruling Threatens Federal AI Procurement",
+   "headline": "Bipartisan Bill Would Task NIST With AI Cyber Defense Standards",
    "outlet": "MeriTalk",
    "outlet_name": "MeriTalk",
-   "label": "REPORTED",
-   "url": "https://www.meritalk.com/articles/former-national-security-officials-warn-anthropic-ruling-threatens-federal-ai-procurement/",
-   "url_id": "ba76f80077e198b3725e397c1108813a"
-  },
-  {
-   "headline": "OpenAI resumes frontier AI training with enhanced security, no internet access",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "label": "REPORTED",
-   "url": "https://www.reuters.com/business/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access-2026-10-23/",
-   "url_id": "46dc20d8f358972067cf70ccd097fb84"
-  },
-  {
-   "headline": "Moonshot AI releases Kimi K3.1 Pro open weight model to rival Claude",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/moonshot-ai-releases-kimi-k31-pro-open-weight-model-to-rival-claude/",
-   "url_id": "4eb56fd766b5431d7c782448dd2b0402"
-  },
-  {
-   "headline": "Security Firm Discovers 32 NVIDIA B300 GPUs Operating Inside China Telecom, Showing U.S.…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "label": "REPORTED",
-   "url": "https://wccftech.com/nvidia-b300-blackwell-gpus-discovered-china-telecom/",
-   "url_id": "91002a3939f279260714ba69ac7ab238"
-  },
-  {
-   "headline": "DeepSeek and MiniMax registered under China's proposed AI export controls",
-   "outlet": "Cryptopolitan on MSN",
-   "outlet_name": "Cryptopolitan on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/deepseek-and-minimax-registered-under-china-s-proposed-ai-export-controls/ar-AA2fVWbi",
-   "url_id": "b624951d6b0877064315c93ed890f617"
+   "url": "https://www.meritalk.com/articles/bipartisan-bill-would-task-nist-with-ai-cyber-defense-standards/",
+   "url_id": "5c91ede0eea511982e73b02896eddd25"
+  },
+  {
+   "headline": "Assessing proposed legislation to expand Unemployment Insurance to protect U.S. workers…",
+   "outlet": "Equitable Growth",
+   "outlet_name": "Equitable Growth",
+   "label": "CONFIRMED",
+   "url": "https://equitablegrowth.org/assessing-proposed-legislation-to-expand-unemployment-insurance-to-protect-u-s-workers-amid-ai-related-disruptions/",
+   "url_id": "a7666f921c1af3aeddc4c8126829ecd7"
+  },
+  {
+   "headline": "Texas sues OpenAI, Sam Altman over product safety",
+   "outlet": "politico.com",
+   "outlet_name": "Politico",
+   "label": "REPORTED",
+   "url": "https://www.politico.com/news/2026/10/23/texas-sues-openai-over-product-safety-01134162",
+   "url_id": "005486ec766664a48bcacc26dd41ed01"
+  },
+  {
+   "headline": "Marie Haynes turns 600 OKF files into paid SEO audits on Gemini 4 Argon",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
+   "label": "REPORTED",
+   "url": "https://ppc.land/marie-haynes-turns-600-okf-files-into-paid-seo-audits-on-gemini-4-argon/",
+   "url_id": "5a10dec0d514f538d82f662c2b2de33b"
+  },
+  {
+   "headline": "Google Now Lets You Turn Gemini Apps Into Websites",
+   "outlet": "SammyGuru",
+   "outlet_name": "SammyGuru",
+   "label": "REPORTED",
+   "url": "https://sammyguru.com/google-gemini-apps-export-google-sites/",
+   "url_id": "4e2274c617192cdcc8975439640780e3"
+  },
+  {
+   "headline": "Gemini 4 Argon's 25 trillion tokens in 72 hours leave Google short of compute",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
+   "label": "REPORTED",
+   "url": "https://ppc.land/gemini-4-argons-25-trillion-tokens-in-72-hours-leave-google-short-of-compute/",
+   "url_id": "1836c228ce3b92a544a929017d69eac7"
+  },
+  {
+   "headline": "Claude Mythos 5 vs Gemini 4 Pro: The Name Is Wrong, the Access Gap Is Real",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "label": "REPORTED",
+   "url": "https://www.orcarouter.ai/blog/claude-mythos-5-vs-gemini-4-pro",
+   "url_id": "d720e3e124a866cbf4760e4bac0175fd"
+  },
+  {
+   "headline": "Ulta Beauty expands AI shopping strategy with ChatGPT plugin.",
+   "outlet": "Personal Care Insights",
+   "outlet_name": "Personal Care Insights",
+   "label": "REPORTED",
+   "url": "https://www.personalcareinsights.com/news/ulta-beauty-chatgpt-plugin.html",
+   "url_id": "998416702a05a00f6867ccd345b958fb"
   },
   {
    "headline": "OpenAI Details Training Containment Overhaul After September Model Incident",
@@ -111,57 +135,33 @@
    "outlet_name": "Unite.AI",
    "label": "CONFIRMED",
    "url": "https://www.unite.ai/openai-details-training-containment-overhaul-after-september-model-incident/",
-   "url_id": "bad52343a3f42115c18b1eeaee7f1e93"
+   "url_id": "e50558d2ead94cbdd11d2feda35fabde"
   },
   {
-   "headline": "Govt to issue consultation paper on AI law in coming weeks: Vaishnaw",
-   "outlet": "economictimes.indiatimes.com",
-   "outlet_name": "economictimes.indiatimes.com",
-   "label": "CONFIRMED",
-   "url": "https://economictimes.indiatimes.com/tech/technology/govt-to-issue-consultation-paper-on-ai-law-in-coming-weeks-vaishnaw/articleshow/135152578.cms",
-   "url_id": "96526bc060f046c44bc6e75a70f17663"
-  },
-  {
-   "headline": "Canva launches advanced AI model Craft for enhanced image generation",
-   "outlet": "Small Business Trends on MSN",
-   "outlet_name": "Small Business Trends on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/money/general/canva-launches-advanced-ai-model-craft-for-enhanced-image-generation/ar-AA2fWlaP",
-   "url_id": "97e6df682874de33bc68c7cc68c60b53"
-  },
-  {
-   "headline": "SpaceX Enlists 130 Tech Leaders to Help Businesses Deploy Grok AI",
-   "outlet": "pymnts.com",
-   "outlet_name": "pymnts.com",
+   "headline": "10 Frequently Asked Questions About Claude",
+   "outlet": "AllBusiness.com",
+   "outlet_name": "AllBusiness.com",
    "label": "REPORTED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/spacex-enlists-130-tech-leaders-to-help-businesses-deploy-grok-ai/",
-   "url_id": "0912311fc379fe2f1eda4ca7f6db891f"
+   "url": "https://www.allbusiness.com/10-frequently-asked-questions-about-claude",
+   "url_id": "1dfc266edb9b55ee9f52041170569b46"
   },
   {
-   "headline": "Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
-   "label": "STILL OPEN",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-and-hg-form-company-to-embed-ai-engineers-in-european-enterprises/",
-   "url_id": "0abf71e465136fc38be746a1ccf472e2"
-  },
-  {
-   "headline": "Article Oct 23, 2026 Claude Duet Safety, Privacy, and Security Claude Duet is a proactive…",
-   "outlet": "claude.com",
-   "outlet_name": "claude.com",
+   "headline": "Webinar to discuss how the FCC robotics ruling affects automation buyers",
+   "outlet": "therobotreport.com",
+   "outlet_name": "therobotreport.com",
    "label": "REPORTED",
-   "url": "https://claude.com/resources/articles/claude-duet-safety-privacy-and-security",
-   "url_id": "0c0b4fb70cfc16f629bcf822263a4ce2"
+   "url": "https://www.therobotreport.com/webinar-discuss-how-fcc-robotics-ruling-affects-automation-buyers/",
+   "url_id": "4b43f5961d89ce26e824e1a05eccdf3d"
   }
  ],
- "tidbit": "Did you know… about 10,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 10000,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 9900,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/21.mp3",
- "audio_seconds": 53.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/22.mp3",
+ "audio_seconds": 53.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The Texas Tribune: Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI.\nReported by MeriTalk: Former National Security Officials Warn Anthropic Ruling Threatens Federal AI Procurement.\nReported by Reuters: OpenAI resumes frontier AI training with enhanced security, no internet access.\nReported by Startup Fortune: Moonshot AI releases Kimi K3.1 Pro open weight model to rival Claude.\nReported by Wccftech: Security Firm Discovers 32 NVIDIA B300 GPUs Operating Inside China Telecom, Showing U.S. Export Controls Aren’t Curbing Top-Tier AI Hardware From Getting Out.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is now training its frontier artificial intelligence models with no internet access, reported by The Verge.\nCongress introduces a bipartisan bill that would task NIST with developing artificial intelligence cyber defense standards to protect U.S. artificial intelligence models and critical infrastructure, confirmed by MeriTalk.\nThe U.S. proposes unemployment insurance reforms to address artificial intelligence driven job disruptions and expand benefits to protect workers, confirmed by Equitable Growth.\nTexas sues OpenAI and Sam Altman over product safety, reported by Politico.\nMarie Haynes turns 600 OKF files into paid SEO audits using Gemini 4 Argon, reported by PPC Land.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
