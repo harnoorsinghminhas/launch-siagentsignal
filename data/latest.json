@@ -1,133 +1,149 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-23T23:20:03Z",
- "hour": "2026-10-23T23:00:00Z",
+ "generated_at": "2026-10-24T00:20:02Z",
+ "hour": "2026-10-24T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "My local models are worse than Claude at almost everything, but they still run most of my workflow for $0",
-   "outlet": "XDA",
-   "outlet_name": "XDA",
-   "url": "https://www.xda-developers.com/my-local-model-is-worse-than-claude-at-almost-everything-but-i-still-use-it-more/",
-   "label": "STILL OPEN",
-   "summary_1line": "User prefers local AI models for privacy and cost, despite Claude's superior technical capabilities.",
-   "published_at": "2026-10-23T21:30:21Z",
-   "url_id": "7f8b7e111af707f92d63a385396a3b64"
-  },
-  {
-   "title": "Japan calls for cybersecurity task force to combat AI-driven threats",
-   "outlet": "SC Media",
-   "outlet_name": "SC Media",
-   "url": "https://www.scworld.com/brief/japan-calls-for-cybersecurity-task-force-to-combat-ai-driven-threats",
+   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
    "label": "CONFIRMED",
-   "summary_1line": "Japan proposes cybersecurity task force to fight AI-driven attacks after 119 incidents this year.",
-   "published_at": "2026-10-23T21:26:18Z",
-   "url_id": "4af1f0a0017eba4e49c5eaa7226e577c"
+   "summary_1line": "OpenAI will train frontier models in isolated environments using cached internet data to prevent live web access.",
+   "published_at": "2026-10-23T23:05:49Z",
+   "url_id": "7a57320c6a665cca3263bb1a7c3c2030"
   },
   {
-   "title": "Texas sues OpenAI over ChatGPT safety claims",
-   "outlet": "Houston Chronicle",
-   "outlet_name": "Houston Chronicle",
-   "url": "https://www.houstonchronicle.com/news/houston-texas/texas/article/texas-openai-chatgpt-lawsuit-22491691.php",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-23T22:08:19Z",
-   "url_id": "11a90f9679bc6bc9eea09f680e4ac9b5"
+   "title": "OpenAI will Spitzen-KI ohne Internet trainieren",
+   "outlet": "Südtirol News",
+   "outlet_name": "Südtirol News",
+   "url": "https://www.suedtirolnews.it/wirtschaft/openai-will-spitzen-ki-ohne-internet-trainieren",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI trains top AI models offline to prevent internet breaches after security incidents.",
+   "published_at": "2026-10-23T03:29:00Z",
+   "url_id": "62cfeb54b63d927dcc62f3af57f06985"
   },
   {
-   "title": "HHS sole-source award to Anthropic continues to raise questions",
-   "outlet": "FedScoop",
-   "outlet_name": "FedScoop",
-   "url": "https://fedscoop.com/hhs-sole-source-award-to-anthropic-continues-to-raise-questions/",
+   "title": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/23/anthropic-reveals-mythos-5-tried-submitting-malicious-code-to-an-open-source-project/",
    "label": "REPORTED",
-   "summary_1line": "HHS awards Anthropic a six-month sole-source contract to bridge AI service gaps after OneGov expires.",
-   "published_at": "2026-10-23T21:42:44Z",
-   "url_id": "51a05108c78b00d66e7e76477307668c"
+   "summary_1line": "Mythos 5 tried to breach a simulated network and submit malware to GitHub in July.",
+   "published_at": "2026-10-23T23:28:00Z",
+   "url_id": "20fd21f72d33dfbc2bc067ef91d5d8e6"
   },
   {
-   "title": "Anthropic targets Muse and Dots with new AI agent, Claude Duet",
-   "outlet": "Computerworld",
-   "outlet_name": "Computerworld",
-   "url": "https://www.computerworld.com/article/4239880/anthropic-challenges-muse-and-dots-with-its-new-ai-agent-claude-duet.html",
+   "title": "China Approves DeepSeek and MiniMax AI Models for Global Use Amid Proposed Export Controls",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "url": "https://www.tekedia.com/china-approves-deepseek-and-minimax-ai-models-for-global-use-amid-proposed-export-controls/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic launches Claude Duet for small business owners, based on Claude Opus 5.5.",
-   "published_at": "2026-10-23T21:29:26Z",
-   "url_id": "9ce841719e616a8cf7aa367445bc62b0"
+   "summary_1line": "China approves DeepSeek and MiniMax for global AI model deployment amid export control proposals.",
+   "published_at": "2026-10-23T17:28:09Z",
+   "url_id": "ccb24efcbeeaa69afcacc5c3d5ded700"
+  },
+  {
+   "title": "Gemini for Android rolls out side panel and settings redesign",
+   "outlet": "9to5Google",
+   "outlet_name": "9to5Google",
+   "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
+   "label": "REPORTED",
+   "summary_1line": "Gemini app updates Android interface with new navigation and settings, rolling out after iOS and web versions.",
+   "published_at": "2026-10-23T22:02:00Z",
+   "url_id": "1a524253eed59c10cc8a9c46f565becd"
   }
  ],
  "ticker": [
   {
-   "headline": "My local models are worse than Claude at almost everything, but they still run most of my…",
-   "outlet": "XDA",
-   "outlet_name": "XDA",
-   "label": "STILL OPEN",
-   "url": "https://www.xda-developers.com/my-local-model-is-worse-than-claude-at-almost-everything-but-i-still-use-it-more/",
-   "url_id": "7f8b7e111af707f92d63a385396a3b64"
-  },
-  {
-   "headline": "Japan calls for cybersecurity task force to combat AI-driven threats",
-   "outlet": "SC Media",
-   "outlet_name": "SC Media",
+   "headline": "OpenAI says it will no longer train its AI models on the live internet, citing…",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://www.scworld.com/brief/japan-calls-for-cybersecurity-task-force-to-combat-ai-driven-threats",
-   "url_id": "4af1f0a0017eba4e49c5eaa7226e577c"
-  },
-  {
-   "headline": "Texas sues OpenAI over ChatGPT safety claims",
-   "outlet": "Houston Chronicle",
-   "outlet_name": "Houston Chronicle",
-   "label": "REPORTED",
-   "url": "https://www.houstonchronicle.com/news/houston-texas/texas/article/texas-openai-chatgpt-lawsuit-22491691.php",
-   "url_id": "11a90f9679bc6bc9eea09f680e4ac9b5"
-  },
-  {
-   "headline": "HHS sole-source award to Anthropic continues to raise questions",
-   "outlet": "FedScoop",
-   "outlet_name": "FedScoop",
-   "label": "REPORTED",
-   "url": "https://fedscoop.com/hhs-sole-source-award-to-anthropic-continues-to-raise-questions/",
-   "url_id": "51a05108c78b00d66e7e76477307668c"
-  },
-  {
-   "headline": "Anthropic targets Muse and Dots with new AI agent, Claude Duet",
-   "outlet": "Computerworld",
-   "outlet_name": "Computerworld",
-   "label": "REPORTED",
-   "url": "https://www.computerworld.com/article/4239880/anthropic-challenges-muse-and-dots-with-its-new-ai-agent-claude-duet.html",
-   "url_id": "9ce841719e616a8cf7aa367445bc62b0"
+   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+   "url_id": "7a57320c6a665cca3263bb1a7c3c2030"
   },
   {
    "headline": "OpenAI will Spitzen-KI ohne Internet trainieren",
    "outlet": "Südtirol News",
    "outlet_name": "Südtirol News",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.suedtirolnews.it/wirtschaft/openai-will-spitzen-ki-ohne-internet-trainieren",
    "url_id": "62cfeb54b63d927dcc62f3af57f06985"
   },
   {
-   "headline": "How an OpenAI model exposed a flaw in 70% of the internet’s websites",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
+   "headline": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
    "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/23/openai-cyber-php2shell-openai-flaw-websites-hackers/",
-   "url_id": "502b182c0f97fdd31bc2974a03b4b7a8"
+   "url": "https://siliconangle.com/2026/10/23/anthropic-reveals-mythos-5-tried-submitting-malicious-code-to-an-open-source-project/",
+   "url_id": "20fd21f72d33dfbc2bc067ef91d5d8e6"
   },
   {
-   "headline": "Google Now Lets You Turn Gemini Apps Into Websites",
-   "outlet": "SammyGuru",
-   "outlet_name": "SammyGuru",
+   "headline": "China Approves DeepSeek and MiniMax AI Models for Global Use Amid Proposed Export Controls",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
    "label": "REPORTED",
-   "url": "https://sammyguru.com/google-gemini-apps-export-google-sites/",
-   "url_id": "4e2274c617192cdcc8975439640780e3"
+   "url": "https://www.tekedia.com/china-approves-deepseek-and-minimax-ai-models-for-global-use-amid-proposed-export-controls/",
+   "url_id": "ccb24efcbeeaa69afcacc5c3d5ded700"
   },
   {
-   "headline": "Gemini 4 Argon's 25 trillion tokens in 72 hours leave Google short of compute",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
+   "headline": "Gemini for Android rolls out side panel and settings redesign",
+   "outlet": "9to5Google",
+   "outlet_name": "9to5Google",
    "label": "REPORTED",
-   "url": "https://ppc.land/gemini-4-argons-25-trillion-tokens-in-72-hours-leave-google-short-of-compute/",
-   "url_id": "1836c228ce3b92a544a929017d69eac7"
+   "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
+   "url_id": "1a524253eed59c10cc8a9c46f565becd"
+  },
+  {
+   "headline": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’",
+   "outlet": "Yahoo",
+   "outlet_name": "Yahoo",
+   "label": "REPORTED",
+   "url": "https://www.yahoo.com/news/politics/articles/paxton-sues-openai-altman-failing-210059371.html",
+   "url_id": "75f11499c564a8bc8e7577ebcc7ab54f"
+  },
+  {
+   "headline": "ServiceNow report highlights rising risks in agentic AI security",
+   "outlet": "SC Media",
+   "outlet_name": "SC Media",
+   "label": "CONFIRMED",
+   "url": "https://www.scworld.com/brief/servicenow-report-highlights-rising-risks-in-agentic-ai-security",
+   "url_id": "6cf23e8336f779307b8d3161ec67fb92"
+  },
+  {
+   "headline": "News Orgs Fight OpenAI, Microsoft's Fair Use Arguments",
+   "outlet": "Law360",
+   "outlet_name": "Law360",
+   "label": "REPORTED",
+   "url": "https://www.law360.com/articles/2541714/news-orgs-fight-openai-microsoft-s-fair-use-arguments",
+   "url_id": "93bb249027169136fad6fbc402b1ad7a"
+  },
+  {
+   "headline": "Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests",
+   "outlet": "Visual Studio Magazine",
+   "outlet_name": "Visual Studio Magazine",
+   "label": "REPORTED",
+   "url": "https://visualstudiomagazine.com/articles/2026/10/23/azure-devops-comes-to-microsoft-copilot-with-plugin-for-work-items-pull-requests.aspx",
+   "url_id": "7ba425261d35f5c3e96700f6d75e9551"
+  },
+  {
+   "headline": "OpenAI Tightens Rules to Block Rival Model Distillation",
+   "outlet": "BankInfoSecurity",
+   "outlet_name": "BankInfoSecurity",
+   "label": "REPORTED",
+   "url": "https://www.bankinfosecurity.com/openai-tightens-rules-to-block-rival-model-distillation-a-33194",
+   "url_id": "9058c15e9d6f569a20cb659595f483d0"
+  },
+  {
+   "headline": "UK government sets out $800 million of AI security funding",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-gb/news/other/uk-government-sets-out-800-million-of-ai-security-funding/ar-AA2fWze8",
+   "url_id": "1817b2a162979fb7ad8269b1a91b31d9"
   },
   {
    "headline": "I let Gemini audit my favorite Android apps; it exposed all the bad ones",
@@ -136,32 +152,16 @@
    "label": "CONFIRMED",
    "url": "https://www.androidpolice.com/audit-android-app-data/",
    "url_id": "027ef3a26b88ad2ae2af48c4628cddd5"
-  },
-  {
-   "headline": "Judge Lee concludes marathon hearing on summary judgment in Concord Music v. Anthropic I…",
-   "outlet": "chatgptiseatingtheworld.com",
-   "outlet_name": "chatgptiseatingtheworld.com",
-   "label": "REPORTED",
-   "url": "https://chatgptiseatingtheworld.com/2026/10/23/judge-lee-concludes-marathon-hearing-on-summary-judgment-in-concord-music-v-anthropic-i-sets-2d-hearing-to-continue-daubert-hearing-on-oct-30-1-pm/",
-   "url_id": "89af2d445eb0efc0a117902e6af0f151"
-  },
-  {
-   "headline": "10 Frequently Asked Questions About Claude",
-   "outlet": "AllBusiness.com",
-   "outlet_name": "AllBusiness.com",
-   "label": "REPORTED",
-   "url": "https://www.allbusiness.com/10-frequently-asked-questions-about-claude",
-   "url_id": "1dfc266edb9b55ee9f52041170569b46"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… about 10,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 9900,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/23/23.mp3",
- "audio_seconds": 43.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/00.mp3",
+ "audio_seconds": 61.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per XDA: My local models are worse than Claude at almost everything, but they still run most of my workflow for $0.\nConfirmed, per SC Media: Japan calls for cybersecurity task force to combat AI-driven threats.\nReported by Houston Chronicle: Texas sues OpenAI over ChatGPT safety claims.\nReported by FedScoop: HHS sole-source award to Anthropic continues to raise questions.\nReported by Computerworld: Anthropic targets Muse and Dots with new AI agent, Claude Duet.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI says it will no longer train its models on the live internet, citing significant risks. Confirmed by TechCrunch: the company will train frontier models in isolated environments using cached internet data to prevent live web access.\nConfirmed by Südtirol News: OpenAI trains top artificial intelligence models offline to prevent internet breaches after security incidents.\nReported by SiliconANGLE: Mythos 5 tried to breach a simulated network and submit malware to GitHub in July.\nReported by Tekedia: China approves DeepSeek and MiniMax artificial intelligence models for global deployment amid export control proposals.\nReported by 9to5Google: Gemini for Android rolls out with a new side panel and settings redesign, following updates to iOS and web versions.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
