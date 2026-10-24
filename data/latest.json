@@ -1,125 +1,149 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T06:20:03Z",
- "hour": "2026-10-24T06:00:00Z",
+ "generated_at": "2026-10-24T07:20:02Z",
+ "hour": "2026-10-24T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ #1249",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "url": "https://michaelparekh.substack.com/p/ai-anthropics-750b-compute-bill-openais",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-24T05:02:33Z",
-   "url_id": "0fb1444d55bea49e1b348cf733a1c590"
-  },
-  {
-   "title": "Muse Spark vs ChatGPT vs Claude vs Gemini (2026)",
-   "outlet": "Fello AI",
-   "outlet_name": "Fello AI",
-   "url": "https://felloai.com/muse-spark-vs-chatgpt-vs-claude-vs-gemini/",
-   "label": "REPORTED",
-   "summary_1line": "Muse Spark 1.3 scores 48.1, ahead of GPT-6 Sol at 47.6, with free and paid API access.",
-   "published_at": "2026-10-24T01:41:13Z",
-   "url_id": "0bc1fa9e55631651b0ee5c5349bb8329"
-  },
-  {
-   "title": "OpenAI AI Agents Weakened Internal Safety Monitoring",
-   "outlet": "Hoodline",
-   "outlet_name": "Hoodline",
-   "url": "https://hoodline.com/2026/10/openai-s-ai-agents-quietly-disabled-safety-alerts-one-then-lied-about-it/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI agents disabled safety monitors during coding tasks, prompting new safeguards.",
-   "published_at": "2026-10-23T23:50:04Z",
-   "url_id": "0aa0247ce539f282a4a3c45b95a2c5d4"
-  },
-  {
-   "title": "AI military drone maker Rownd Inc begins building and testing its specialty drones in Washington County",
-   "outlet": "TMJ4 News",
-   "outlet_name": "TMJ4 News",
-   "url": "https://www.tmj4.com/news/local-news/county-reporting/washington-county/ai-military-drone-maker-rownd-inc-begins-building-and-testing-its-specialty-drones-in-washington-county",
+   "title": "OpenAI resumes AI training, cuts live internet to stop agents from escaping offline world",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
+   "url": "https://www.indiatoday.in/amp/technology/news/story/openai-resumes-ai-training-cuts-live-internet-to-stop-agents-from-escaping-offline-world-3024016-2026-10-24",
    "label": "CONFIRMED",
-   "summary_1line": "Rownd Inc's AI drone company moves to Jackson, WI, to serve military with smart drones.",
-   "published_at": "2026-10-24T03:57:00Z",
-   "url_id": "4c9d6b3b07edc5cb0861871989b0c0d4"
+   "summary_1line": "OpenAI resumes AI training offline after agents bypassed security controls.",
+   "published_at": "2026-10-24T05:49:23Z",
+   "url_id": "7f04f3475cf2df001be80588bb84792e"
   },
   {
-   "title": "What Does Palantir Technologies (PLTR) Sovereign AI Push Mean For Investors?",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
-   "url": "https://ca.finance.yahoo.com/news/does-palantir-technologies-pltr-sovereign-031717592.html",
+   "title": "UK Government Establishes National AI Biosecurity Lab With £100m Budget, OpenAI And Anthropic Credits",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
+   "url": "https://newscord.org/article/uk-government-establishes-national-ai-biosecurity-lab-with-100m-budget-openai-an--Story_20261024_UKtoinvest100minworl9b4f3fab",
    "label": "CONFIRMED",
-   "summary_1line": "Palantir expands sovereign AI to defense, healthcare and construction firms with key clients including L3Harris and Tampa General Hospital.",
-   "published_at": "2026-10-24T03:17:00Z",
-   "url_id": "5cdf8c56e6e63dbf27041f6bd421f0b7"
+   "summary_1line": "UK launches £100m AI Biosecurity Lab with OpenAI and Anthropic support.",
+   "published_at": "2026-10-24T05:19:36Z",
+   "url_id": "d8ad8775828fd744d6e514d31d2d0f49"
+  },
+  {
+   "title": "Nvidia RTX 3090 performance nearly doubles with free GPU unlock, but there's a catch",
+   "outlet": "Notebookcheck",
+   "outlet_name": "Notebookcheck",
+   "url": "https://www.notebookcheck.net/Nvidia-RTX-3090-performance-nearly-doubles-with-free-GPU-unlock-but-there-s-a-catch.1432805.0.html",
+   "label": "REPORTED",
+   "summary_1line": "RTX 3090 gains up to 129.6 TFLOPS via Linux-based GPU unlock.",
+   "published_at": "2026-10-24T04:01:00Z",
+   "url_id": "962b8723477941656cbdd19c47c7d28c"
+  },
+  {
+   "title": "Jack Dorsey’s Block unveils new voice AI model that talks like a real human",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/jack-dorsey-voice-ai-dessa-block-inc-10934777/",
+   "label": "REPORTED",
+   "summary_1line": "Jack Dorsey's Block launches Dessa, a voice AI trained solely on human speech.",
+   "published_at": "2026-10-24T05:43:12Z",
+   "url_id": "19d357c82d8f4791a26d53f87cee8656"
+  },
+  {
+   "title": "AI for Regulatory Compliance in Banking: From SOX to Real-Time Monitoring",
+   "outlet": "BizTech Magazine",
+   "outlet_name": "BizTech Magazine",
+   "url": "https://biztechmagazine.com/article/2026/03/ai-regulatory-compliance-banking-sox-real-time-monitoring-perfcon",
+   "label": "REPORTED",
+   "summary_1line": "AI-powered automation addresses scaling challenges in compliance as regulations evolve.",
+   "published_at": "2026-10-24T02:25:24Z",
+   "url_id": "1909f5a8c220dd99bc90a2b5c40cb965"
   }
  ],
  "ticker": [
   {
-   "headline": "AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ…",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "label": "REPORTED",
-   "url": "https://michaelparekh.substack.com/p/ai-anthropics-750b-compute-bill-openais",
-   "url_id": "0fb1444d55bea49e1b348cf733a1c590"
-  },
-  {
-   "headline": "Muse Spark vs ChatGPT vs Claude vs Gemini (2026)",
-   "outlet": "Fello AI",
-   "outlet_name": "Fello AI",
-   "label": "REPORTED",
-   "url": "https://felloai.com/muse-spark-vs-chatgpt-vs-claude-vs-gemini/",
-   "url_id": "0bc1fa9e55631651b0ee5c5349bb8329"
-  },
-  {
-   "headline": "OpenAI AI Agents Weakened Internal Safety Monitoring",
-   "outlet": "Hoodline",
-   "outlet_name": "Hoodline",
-   "label": "REPORTED",
-   "url": "https://hoodline.com/2026/10/openai-s-ai-agents-quietly-disabled-safety-alerts-one-then-lied-about-it/",
-   "url_id": "0aa0247ce539f282a4a3c45b95a2c5d4"
-  },
-  {
-   "headline": "AI military drone maker Rownd Inc begins building and testing its specialty drones in…",
-   "outlet": "TMJ4 News",
-   "outlet_name": "TMJ4 News",
+   "headline": "OpenAI resumes AI training, cuts live internet to stop agents from escaping offline world",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
    "label": "CONFIRMED",
-   "url": "https://www.tmj4.com/news/local-news/county-reporting/washington-county/ai-military-drone-maker-rownd-inc-begins-building-and-testing-its-specialty-drones-in-washington-county",
-   "url_id": "4c9d6b3b07edc5cb0861871989b0c0d4"
+   "url": "https://www.indiatoday.in/amp/technology/news/story/openai-resumes-ai-training-cuts-live-internet-to-stop-agents-from-escaping-offline-world-3024016-2026-10-24",
+   "url_id": "7f04f3475cf2df001be80588bb84792e"
   },
   {
-   "headline": "What Does Palantir Technologies (PLTR) Sovereign AI Push Mean For Investors?",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
+   "headline": "UK Government Establishes National AI Biosecurity Lab With £100m Budget, OpenAI And…",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
    "label": "CONFIRMED",
-   "url": "https://ca.finance.yahoo.com/news/does-palantir-technologies-pltr-sovereign-031717592.html",
-   "url_id": "5cdf8c56e6e63dbf27041f6bd421f0b7"
+   "url": "https://newscord.org/article/uk-government-establishes-national-ai-biosecurity-lab-with-100m-budget-openai-an--Story_20261024_UKtoinvest100minworl9b4f3fab",
+   "url_id": "d8ad8775828fd744d6e514d31d2d0f49"
   },
   {
-   "headline": "Anthropic Says Its AI Posed As Human To Seek Approval For Malicious Code On GitHub During…",
-   "outlet": "Kenya Insights",
-   "outlet_name": "Kenya Insights",
+   "headline": "Nvidia RTX 3090 performance nearly doubles with free GPU unlock, but there's a catch",
+   "outlet": "Notebookcheck",
+   "outlet_name": "Notebookcheck",
    "label": "REPORTED",
-   "url": "https://kenyainsights.com/anthropic-says-its-ai-posed-as-human-to-seek-approval-for-malicious-code-on-github-during-exercise",
-   "url_id": "ee9825bad2009686045c1b01a972602d"
+   "url": "https://www.notebookcheck.net/Nvidia-RTX-3090-performance-nearly-doubles-with-free-GPU-unlock-but-there-s-a-catch.1432805.0.html",
+   "url_id": "962b8723477941656cbdd19c47c7d28c"
   },
   {
-   "headline": "CA Launches New AI Tool To Help People Find State Jobs",
-   "outlet": "Patch",
-   "outlet_name": "Patch",
+   "headline": "Jack Dorsey’s Block unveils new voice AI model that talks like a real human",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
    "label": "REPORTED",
-   "url": "https://patch.com/california/across-ca/ca-launches-new-ai-tool-help-people-find-state-jobs",
-   "url_id": "246741127c06fbf77bbb8fd2ac299a10"
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/jack-dorsey-voice-ai-dessa-block-inc-10934777/",
+   "url_id": "19d357c82d8f4791a26d53f87cee8656"
   },
   {
-   "headline": "UK Commits £100M to AI Biosecurity Lab, £200M in OpenAI/Anthropic Credits",
-   "outlet": "www.techi.com",
-   "outlet_name": "www.techi.com",
+   "headline": "AI for Regulatory Compliance in Banking: From SOX to Real-Time Monitoring",
+   "outlet": "BizTech Magazine",
+   "outlet_name": "BizTech Magazine",
+   "label": "REPORTED",
+   "url": "https://biztechmagazine.com/article/2026/03/ai-regulatory-compliance-banking-sox-real-time-monitoring-perfcon",
+   "url_id": "1909f5a8c220dd99bc90a2b5c40cb965"
+  },
+  {
+   "headline": "OpenAI reveals its red-teaming agents found a hardware-level covert channel",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "label": "REPORTED",
+   "url": "https://startupfortune.com/openai-reveals-its-red-teaming-agents-found-a-hardware-level-covert-channel/",
+   "url_id": "d5624c56caac4b7a02afd23d0e844661"
+  },
+  {
+   "headline": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://www.techi.com/uk-ai-biosecurity-lab-100m-openai-anthropic-credits/",
-   "url_id": "587bdb7f5fd0c5a7b5b174e5782e06b5"
+   "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
+   "url_id": "4b8008b04e8df9f2102987b7ba0233e1"
+  },
+  {
+   "headline": "What a day in customer service looks like — as AI changes everything",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
+   "url_id": "25f3f7fce7b5c2c91dd59e7ad1fe8788"
+  },
+  {
+   "headline": "China's Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by November",
+   "outlet": "economictimes.indiatimes.com",
+   "outlet_name": "economictimes.indiatimes.com",
+   "label": "CONFIRMED",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-launches-kimi-k3-1-pro-plans-full-model-weights-release-by-nov/articleshow/135162538.cms",
+   "url_id": "4f0be71dfc9d0f11d979e2b4f792539d"
+  },
+  {
+   "headline": "Künstliche Intelligenz - Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren…",
+   "outlet": "SZ.de",
+   "outlet_name": "SZ.de",
+   "label": "CONFIRMED",
+   "url": "https://www.sueddeutsche.de/wirtschaft/kuenstliche-intelligenz-nach-hacks-openai-will-spitzen-ki-ohne-internet-trainieren-dpa.urn-newsml-dpa-com-20090101-261023-930-885661",
+   "url_id": "cffd561164ef6bb1610bcb145a1e18e7"
+  },
+  {
+   "headline": "Claude vs GPT: Opus 5.5 vs Sol, 40% vs 50% Cuts [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "REPORTED",
+   "url": "https://shattered.io/claude-vs-gpt-opus-5-5-vs-gpt-6-sol-agents-2026/",
+   "url_id": "2fc14c41adde8ba4c085677326a0b5d8"
   },
   {
    "headline": "Zillow brings specialized housing intelligence to Claude",
@@ -128,40 +152,16 @@
    "label": "REPORTED",
    "url": "https://www.keysnews.com/living/keys_homes/zillow-brings-specialized-housing-intelligence-to-claude/article_40e4a47e-f3a0-45bb-ba15-84779eb31e3a.html",
    "url_id": "400466328444f5a32c1886d664ad8d42"
-  },
-  {
-   "headline": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered…",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-gb/technology/artificial-intelligence/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/ar-AA2fXDkw",
-   "url_id": "935b55b90f6d804fe677efefe9dbeeae"
-  },
-  {
-   "headline": "Congress wants to help workers facing AI job loss. So far, it hasn’t.",
-   "outlet": "Idaho Learning News on MSN",
-   "outlet_name": "Idaho Learning News on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/money/economy/congress-wants-to-help-workers-facing-ai-job-loss-so-far-it-hasn-t/ar-AA2fXI0R",
-   "url_id": "7a6d7650e7aaa0f9b1366610f9df691c"
-  },
-  {
-   "headline": "NVIDIA B300 China Telecom: 32 GPUs Spotted [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/nvidia-b300-china-telecom-lava-32-gpus-2026/",
-   "url_id": "f4bbedd01e42ce1a98388485b2ff6f1a"
   }
  ],
- "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 8700,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/06.mp3",
- "audio_seconds": 52.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/07.mp3",
+ "audio_seconds": 49.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by AI: Reset to Zero: AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ #1249.\nReported by Fello AI: Muse Spark vs ChatGPT vs Claude vs Gemini (2026).\nReported by Hoodline: OpenAI AI Agents Weakened Internal Safety Monitoring.\nConfirmed, per TMJ4 News: AI military drone maker Rownd Inc begins building and testing its specialty drones in Washington County.\nConfirmed, per Yahoo! Finance Canada: What Does Palantir Technologies (PLTR) Sovereign AI Push Mean For Investors.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per India Today: OpenAI resumes AI training, cuts live internet to stop agents from escaping offline world.\nConfirmed, per NewsCord: UK Government Establishes National AI Biosecurity Lab With £100m Budget, OpenAI And Anthropic Credits.\nReported by Notebookcheck: Nvidia RTX 3090 performance nearly doubles with free GPU unlock, but there's a catch.\nReported by The Indian Express: Jack Dorsey’s Block unveils new voice AI model that talks like a real human.\nReported by BizTech Magazine: AI for Regulatory Compliance in Banking: From SOX to Real-Time Monitoring.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
