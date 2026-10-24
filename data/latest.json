@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T05:20:03Z",
- "hour": "2026-10-24T05:00:00Z",
+ "generated_at": "2026-10-24T06:20:03Z",
+ "hour": "2026-10-24T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI resumes frontier AI training with enhanced security, no internet access",
-   "outlet": "KELO-AM",
-   "outlet_name": "KELO-AM",
-   "url": "https://kelo.com/2026/10/23/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access/",
+   "title": "AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ #1249",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "url": "https://michaelparekh.substack.com/p/ai-anthropics-750b-compute-bill-openais",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-24T05:02:33Z",
+   "url_id": "0fb1444d55bea49e1b348cf733a1c590"
+  },
+  {
+   "title": "Muse Spark vs ChatGPT vs Claude vs Gemini (2026)",
+   "outlet": "Fello AI",
+   "outlet_name": "Fello AI",
+   "url": "https://felloai.com/muse-spark-vs-chatgpt-vs-claude-vs-gemini/",
+   "label": "REPORTED",
+   "summary_1line": "Muse Spark 1.3 scores 48.1, ahead of GPT-6 Sol at 47.6, with free and paid API access.",
+   "published_at": "2026-10-24T01:41:13Z",
+   "url_id": "0bc1fa9e55631651b0ee5c5349bb8329"
+  },
+  {
+   "title": "OpenAI AI Agents Weakened Internal Safety Monitoring",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
+   "url": "https://hoodline.com/2026/10/openai-s-ai-agents-quietly-disabled-safety-alerts-one-then-lied-about-it/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI agents disabled safety monitors during coding tasks, prompting new safeguards.",
+   "published_at": "2026-10-23T23:50:04Z",
+   "url_id": "0aa0247ce539f282a4a3c45b95a2c5d4"
+  },
+  {
+   "title": "AI military drone maker Rownd Inc begins building and testing its specialty drones in Washington County",
+   "outlet": "TMJ4 News",
+   "outlet_name": "TMJ4 News",
+   "url": "https://www.tmj4.com/news/local-news/county-reporting/washington-county/ai-military-drone-maker-rownd-inc-begins-building-and-testing-its-specialty-drones-in-washington-county",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI resumes AI training after finding Brotli flaw and internal security gaps.",
-   "published_at": "2026-10-23T20:36:28Z",
-   "url_id": "31f187a479dacaa02b6f2cad2e83244f"
-  },
-  {
-   "title": "Anthropic's Revenue Surged to $16.3 Billion in the First Half of 2026, Up From $1.1 Billion a Year Ago",
-   "outlet": "AOL.com",
-   "outlet_name": "AOL",
-   "url": "https://www.aol.com/articles/anthropics-revenue-surged-16-3-042500000.html",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's revenue jumped 1,400% in H1 2026, with $16.3B revenue and $9B in computing spend.",
-   "published_at": "2026-10-24T04:25:00Z",
-   "url_id": "af00a0c3466830d7cb2ef38e20224b78"
-  },
-  {
-   "title": "MSI Malaysia unveils the Prestige N16 Flip AI+, the world’s first Nvidia RTX Spark-powered 2-in-1 laptop",
-   "outlet": "Yahoo",
-   "outlet_name": "Yahoo",
-   "url": "https://malaysia.news.yahoo.com/msi-malaysia-unveils-prestige-n16-035711551.html",
-   "label": "REPORTED",
-   "summary_1line": "MSI launches world's first RTX Spark 2-in-1 laptop with AI and dual-biometric security.",
+   "summary_1line": "Rownd Inc's AI drone company moves to Jackson, WI, to serve military with smart drones.",
    "published_at": "2026-10-24T03:57:00Z",
-   "url_id": "184bfa31239cfa433fc64163b2b15f17"
+   "url_id": "4c9d6b3b07edc5cb0861871989b0c0d4"
   },
   {
-   "title": "Claude Duet vs Gemini Intelligence: Who Holds the Gate?",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "url": "https://www.orcarouter.ai/blog/claude-duet-vs-gemini-intelligence-agents-compared",
-   "label": "REPORTED",
-   "summary_1line": "Claude Duet and Gemini Intelligence differ in control, reach, and access boundaries as defined by vendor disclosures.",
-   "published_at": "2026-10-24T02:53:49Z",
-   "url_id": "fe8fdc43dbf8523f0a43da6bfae79b29"
-  },
-  {
-   "title": "Higgsfield Adds TCV And NVIDIA To Series B As AI Media Platform Surpasses $1 Billion Annualized Revenue",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "url": "https://pulse2.com/higgsfield-adds-tcv-and-nvidia-to-series-b-as-ai-media-platform-surpasses-1-billion-annualized-revenue/",
-   "label": "REPORTED",
-   "summary_1line": "Higgsfield raises funds to expand AI visual tools, now serving 40M users globally with $1B revenue.",
-   "published_at": "2026-10-23T10:27:00Z",
-   "url_id": "35d75a95c5abc6254568ba6a60d63fea"
+   "title": "What Does Palantir Technologies (PLTR) Sovereign AI Push Mean For Investors?",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
+   "url": "https://ca.finance.yahoo.com/news/does-palantir-technologies-pltr-sovereign-031717592.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Palantir expands sovereign AI to defense, healthcare and construction firms with key clients including L3Harris and Tampa General Hospital.",
+   "published_at": "2026-10-24T03:17:00Z",
+   "url_id": "5cdf8c56e6e63dbf27041f6bd421f0b7"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI resumes frontier AI training with enhanced security, no internet access",
-   "outlet": "KELO-AM",
-   "outlet_name": "KELO-AM",
-   "label": "CONFIRMED",
-   "url": "https://kelo.com/2026/10/23/openai-resumes-frontier-ai-training-with-enhanced-security-no-internet-access/",
-   "url_id": "31f187a479dacaa02b6f2cad2e83244f"
+   "headline": "AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ…",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "label": "REPORTED",
+   "url": "https://michaelparekh.substack.com/p/ai-anthropics-750b-compute-bill-openais",
+   "url_id": "0fb1444d55bea49e1b348cf733a1c590"
   },
   {
-   "headline": "Anthropic's Revenue Surged to $16.3 Billion in the First Half of 2026, Up From $1.1…",
-   "outlet": "AOL.com",
-   "outlet_name": "AOL",
+   "headline": "Muse Spark vs ChatGPT vs Claude vs Gemini (2026)",
+   "outlet": "Fello AI",
+   "outlet_name": "Fello AI",
    "label": "REPORTED",
-   "url": "https://www.aol.com/articles/anthropics-revenue-surged-16-3-042500000.html",
-   "url_id": "af00a0c3466830d7cb2ef38e20224b78"
-  },
-  {
-   "headline": "MSI Malaysia unveils the Prestige N16 Flip AI+, the world’s first Nvidia RTX…",
-   "outlet": "Yahoo",
-   "outlet_name": "Yahoo",
-   "label": "REPORTED",
-   "url": "https://malaysia.news.yahoo.com/msi-malaysia-unveils-prestige-n16-035711551.html",
-   "url_id": "184bfa31239cfa433fc64163b2b15f17"
-  },
-  {
-   "headline": "Claude Duet vs Gemini Intelligence: Who Holds the Gate?",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "label": "REPORTED",
-   "url": "https://www.orcarouter.ai/blog/claude-duet-vs-gemini-intelligence-agents-compared",
-   "url_id": "fe8fdc43dbf8523f0a43da6bfae79b29"
-  },
-  {
-   "headline": "Higgsfield Adds TCV And NVIDIA To Series B As AI Media Platform Surpasses $1 Billion…",
-   "outlet": "Pulse 2.0",
-   "outlet_name": "Pulse 2.0",
-   "label": "REPORTED",
-   "url": "https://pulse2.com/higgsfield-adds-tcv-and-nvidia-to-series-b-as-ai-media-platform-surpasses-1-billion-annualized-revenue/",
-   "url_id": "35d75a95c5abc6254568ba6a60d63fea"
+   "url": "https://felloai.com/muse-spark-vs-chatgpt-vs-claude-vs-gemini/",
+   "url_id": "0bc1fa9e55631651b0ee5c5349bb8329"
   },
   {
    "headline": "OpenAI AI Agents Weakened Internal Safety Monitoring",
@@ -114,20 +90,36 @@
    "url_id": "4c9d6b3b07edc5cb0861871989b0c0d4"
   },
   {
-   "headline": "UK Establishes AI Biosecurity Lab Backed by OpenAI and Anthropic",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
+   "headline": "What Does Palantir Technologies (PLTR) Sovereign AI Push Mean For Investors?",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
    "label": "CONFIRMED",
-   "url": "https://www.unite.ai/uk-establishes-ai-biosecurity-lab-backed-by-openai-and-anthropic/",
-   "url_id": "f3565d8df59e0bcce9c4ed84a00c5041"
+   "url": "https://ca.finance.yahoo.com/news/does-palantir-technologies-pltr-sovereign-031717592.html",
+   "url_id": "5cdf8c56e6e63dbf27041f6bd421f0b7"
   },
   {
-   "headline": "Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects",
-   "outlet": "infoq.com",
-   "outlet_name": "infoq.com",
+   "headline": "Anthropic Says Its AI Posed As Human To Seek Approval For Malicious Code On GitHub During…",
+   "outlet": "Kenya Insights",
+   "outlet_name": "Kenya Insights",
    "label": "REPORTED",
-   "url": "https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "url_id": "82d6126d8a31acc03c122c39e5b6d832"
+   "url": "https://kenyainsights.com/anthropic-says-its-ai-posed-as-human-to-seek-approval-for-malicious-code-on-github-during-exercise",
+   "url_id": "ee9825bad2009686045c1b01a972602d"
+  },
+  {
+   "headline": "CA Launches New AI Tool To Help People Find State Jobs",
+   "outlet": "Patch",
+   "outlet_name": "Patch",
+   "label": "REPORTED",
+   "url": "https://patch.com/california/across-ca/ca-launches-new-ai-tool-help-people-find-state-jobs",
+   "url_id": "246741127c06fbf77bbb8fd2ac299a10"
+  },
+  {
+   "headline": "UK Commits £100M to AI Biosecurity Lab, £200M in OpenAI/Anthropic Credits",
+   "outlet": "www.techi.com",
+   "outlet_name": "www.techi.com",
+   "label": "CONFIRMED",
+   "url": "https://www.techi.com/uk-ai-biosecurity-lab-100m-openai-anthropic-credits/",
+   "url_id": "587bdb7f5fd0c5a7b5b174e5782e06b5"
   },
   {
    "headline": "Zillow brings specialized housing intelligence to Claude",
@@ -136,6 +128,14 @@
    "label": "REPORTED",
    "url": "https://www.keysnews.com/living/keys_homes/zillow-brings-specialized-housing-intelligence-to-claude/article_40e4a47e-f3a0-45bb-ba15-84779eb31e3a.html",
    "url_id": "400466328444f5a32c1886d664ad8d42"
+  },
+  {
+   "headline": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered…",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-gb/technology/artificial-intelligence/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/ar-AA2fXDkw",
+   "url_id": "935b55b90f6d804fe677efefe9dbeeae"
   },
   {
    "headline": "Congress wants to help workers facing AI job loss. So far, it hasn’t.",
@@ -154,14 +154,14 @@
    "url_id": "f4bbedd01e42ce1a98388485b2ff6f1a"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by seven different outlets in the last few hours.",
+ "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 8700,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/05.mp3",
- "audio_seconds": 55.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/06.mp3",
+ "audio_seconds": 52.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per KELO-AM: OpenAI resumes frontier AI training with enhanced security, no internet access.\nReported by AOL: Anthropic's Revenue Surged to $16.3 Billion in the First Half of 2026, Up From $1.1 Billion a Year Ago.\nReported by Yahoo: MSI Malaysia unveils the Prestige N16 Flip AI+, the world’s first Nvidia RTX Spark-powered 2-in-1 laptop.\nReported by OrcaRouter: Claude Duet vs Gemini Intelligence: Who Holds the Gate.\nReported by Pulse 2.0: Higgsfield Adds TCV And NVIDIA To Series B As AI Media Platform Surpasses $1 Billion Annualized Revenue.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by AI: Reset to Zero: AI: Anthropic’s $750B Compute Bill, OpenAI’s Trim, Nvidia’s Safety Net & More. AI-RTZ #1249.\nReported by Fello AI: Muse Spark vs ChatGPT vs Claude vs Gemini (2026).\nReported by Hoodline: OpenAI AI Agents Weakened Internal Safety Monitoring.\nConfirmed, per TMJ4 News: AI military drone maker Rownd Inc begins building and testing its specialty drones in Washington County.\nConfirmed, per Yahoo! Finance Canada: What Does Palantir Technologies (PLTR) Sovereign AI Push Mean For Investors.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
