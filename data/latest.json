@@ -1,109 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T01:20:02Z",
- "hour": "2026-10-24T01:00:00Z",
+ "generated_at": "2026-10-24T02:20:03Z",
+ "hour": "2026-10-24T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-24T00:05:45Z",
-   "url_id": "a35ae475cae47d2d1935427040f3ed50"
+   "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
+   "outlet": "siliconangle.com",
+   "outlet_name": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
+   "label": "CONFIRMED",
+   "summary_1line": "Moonshot AI's Kim K3.1 Pro excels in 3D modeling and financial analysis, with 3T parameters and 92.7% BenchCAD score.",
+   "published_at": "2026-10-24T00:55:53Z",
+   "url_id": "d1af262baf6f76c71994da0701c469cb"
   },
   {
-   "title": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’",
-   "outlet": "Yahoo",
-   "outlet_name": "Yahoo",
-   "url": "https://www.yahoo.com/news/politics/articles/paxton-sues-openai-altman-failing-210059371.html",
+   "title": "Grok's Secure Vault Explained: What It Stores and Who Gets It",
+   "outlet": "BASENOR",
+   "outlet_name": "BASENOR",
+   "url": "https://www.basenor.com/blogs/news/groks-secure-vault-explained-what-it-stores-and-who-gets-it",
    "label": "REPORTED",
-   "summary_1line": "Paxton sues OpenAI over ChatGPT safety claims, citing AI risks and lack of warnings.",
-   "published_at": "2026-10-23T21:00:59Z",
-   "url_id": "75f11499c564a8bc8e7577ebcc7ab54f"
+   "summary_1line": "Grok's Enterprise Vault secures sensitive data with customer-controlled encryption and no training use.",
+   "published_at": "2026-10-24T01:03:37Z",
+   "url_id": "df50ac292fdee1f18e9d15195aedb087"
   },
   {
-   "title": "News Orgs Fight OpenAI, Microsoft's Fair Use Arguments",
-   "outlet": "Law360",
-   "outlet_name": "Law360",
-   "url": "https://www.law360.com/articles/2541714/news-orgs-fight-openai-microsoft-s-fair-use-arguments",
+   "title": "TeraWulf’s 20-year lease agreement with Anthropic expected to generate $19B in revenue",
+   "outlet": "Fox Business",
+   "outlet_name": "Fox Business",
+   "url": "https://www.foxbusiness.com/video/6407315743112",
    "label": "REPORTED",
-   "summary_1line": "News orgs challenge OpenAI and Microsoft's fair use claim for AI training.",
-   "published_at": "2026-10-23T22:10:17Z",
-   "url_id": "93bb249027169136fad6fbc402b1ad7a"
+   "summary_1line": "Fox airs COPS and Hannity from 9 PM to 11:30 PM on multiple channels.",
+   "published_at": "2026-10-24T00:13:42Z",
+   "url_id": "df4fc65282c4d060e83deb658fc10237"
   },
   {
-   "title": "Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests",
-   "outlet": "Visual Studio Magazine",
-   "outlet_name": "Visual Studio Magazine",
-   "url": "https://visualstudiomagazine.com/articles/2026/10/23/azure-devops-comes-to-microsoft-copilot-with-plugin-for-work-items-pull-requests.aspx",
+   "title": "Kimi K3.1 Pro vs. Claude Opus 5.5 and GPT-6 Astra",
+   "outlet": "R&D World",
+   "outlet_name": "R&D World",
+   "url": "https://www.rdworldonline.com/how-kimi-k3-1-pro-stacks-up-against-claude-opus-5-5-and-gpt-6-astra/",
    "label": "REPORTED",
-   "summary_1line": "Microsoft adds Azure DevOps plugin to Copilot for seamless development workflow access.",
-   "published_at": "2026-10-23T22:09:49Z",
-   "url_id": "7ba425261d35f5c3e96700f6d75e9551"
+   "summary_1line": "Moonshot AI's Kimi K3.1 Pro scores near frontier on AI benchmarks, with full weights to be released Nov. 4.",
+   "published_at": "2026-10-24T00:02:40Z",
+   "url_id": "9bc4cd126d80eb252d302a474c022230"
   },
   {
-   "title": "OpenAI Tightens Rules to Block Rival Model Distillation",
-   "outlet": "BankInfoSecurity",
-   "outlet_name": "BankInfoSecurity",
-   "url": "https://www.bankinfosecurity.com/openai-tightens-rules-to-block-rival-model-distillation-a-33194",
+   "title": "Amazon’s $5 billion Nvidia AI servers sit idle in warehouses amid data center power shortages",
+   "outlet": "The American Bazaar",
+   "outlet_name": "The American Bazaar",
+   "url": "https://americanbazaaronline.com/2026/10/23/amazons-5-billion-nvidia-ai-servers-sit-idle-in-warehouses-amid-data-center-power-shortages-490651/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI bans model distillation and adds approval for AI routers and national security uses.",
-   "published_at": "2026-10-23T21:47:58Z",
-   "url_id": "9058c15e9d6f569a20cb659595f483d0"
+   "summary_1line": "Amazon stores AI server racks due to power shortages in data centers.",
+   "published_at": "2026-10-23T23:54:29Z",
+   "url_id": "45bbc056317a6ceea48e275859f985f4"
   }
  ],
  "ticker": [
   {
-   "headline": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "label": "REPORTED",
-   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
-   "url_id": "a35ae475cae47d2d1935427040f3ed50"
+   "headline": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
+   "outlet": "siliconangle.com",
+   "outlet_name": "SiliconANGLE",
+   "label": "CONFIRMED",
+   "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
+   "url_id": "d1af262baf6f76c71994da0701c469cb"
   },
   {
-   "headline": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’",
-   "outlet": "Yahoo",
-   "outlet_name": "Yahoo",
+   "headline": "Grok's Secure Vault Explained: What It Stores and Who Gets It",
+   "outlet": "BASENOR",
+   "outlet_name": "BASENOR",
    "label": "REPORTED",
-   "url": "https://www.yahoo.com/news/politics/articles/paxton-sues-openai-altman-failing-210059371.html",
-   "url_id": "75f11499c564a8bc8e7577ebcc7ab54f"
+   "url": "https://www.basenor.com/blogs/news/groks-secure-vault-explained-what-it-stores-and-who-gets-it",
+   "url_id": "df50ac292fdee1f18e9d15195aedb087"
   },
   {
-   "headline": "News Orgs Fight OpenAI, Microsoft's Fair Use Arguments",
-   "outlet": "Law360",
-   "outlet_name": "Law360",
+   "headline": "TeraWulf’s 20-year lease agreement with Anthropic expected to generate $19B in revenue",
+   "outlet": "Fox Business",
+   "outlet_name": "Fox Business",
    "label": "REPORTED",
-   "url": "https://www.law360.com/articles/2541714/news-orgs-fight-openai-microsoft-s-fair-use-arguments",
-   "url_id": "93bb249027169136fad6fbc402b1ad7a"
+   "url": "https://www.foxbusiness.com/video/6407315743112",
+   "url_id": "df4fc65282c4d060e83deb658fc10237"
   },
   {
-   "headline": "Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests",
-   "outlet": "Visual Studio Magazine",
-   "outlet_name": "Visual Studio Magazine",
+   "headline": "Kimi K3.1 Pro vs. Claude Opus 5.5 and GPT-6 Astra",
+   "outlet": "R&D World",
+   "outlet_name": "R&D World",
    "label": "REPORTED",
-   "url": "https://visualstudiomagazine.com/articles/2026/10/23/azure-devops-comes-to-microsoft-copilot-with-plugin-for-work-items-pull-requests.aspx",
-   "url_id": "7ba425261d35f5c3e96700f6d75e9551"
+   "url": "https://www.rdworldonline.com/how-kimi-k3-1-pro-stacks-up-against-claude-opus-5-5-and-gpt-6-astra/",
+   "url_id": "9bc4cd126d80eb252d302a474c022230"
   },
   {
-   "headline": "OpenAI Tightens Rules to Block Rival Model Distillation",
+   "headline": "Amazon’s $5 billion Nvidia AI servers sit idle in warehouses amid data center power…",
+   "outlet": "The American Bazaar",
+   "outlet_name": "The American Bazaar",
+   "label": "REPORTED",
+   "url": "https://americanbazaaronline.com/2026/10/23/amazons-5-billion-nvidia-ai-servers-sit-idle-in-warehouses-amid-data-center-power-shortages-490651/",
+   "url_id": "45bbc056317a6ceea48e275859f985f4"
+  },
+  {
+   "headline": "AG Paxton sues OpenAI and its CEO for allegedly deceiving and harming Texans",
+   "outlet": "KVUE",
+   "outlet_name": "KVUE",
+   "label": "REPORTED",
+   "url": "https://www.kvue.com/video/tech/paxton-sues-openai-sam-altman/269-0f92774b-f65e-4507-b79e-aeb4bbaf6618",
+   "url_id": "0d1d2213e4daf8a1ee5e87e4efbfe793"
+  },
+  {
+   "headline": "OpenAI Agents Disable Their Own Safety Monitoring",
    "outlet": "BankInfoSecurity",
    "outlet_name": "BankInfoSecurity",
    "label": "REPORTED",
-   "url": "https://www.bankinfosecurity.com/openai-tightens-rules-to-block-rival-model-distillation-a-33194",
-   "url_id": "9058c15e9d6f569a20cb659595f483d0"
+   "url": "https://www.bankinfosecurity.com/openai-agents-disable-their-own-safety-monitoring-a-33197",
+   "url_id": "0a6499a2544eee4430a791adcc50d078"
   },
   {
-   "headline": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
-   "url_id": "e4cc85becea33bb3cb239dad5fc5310a"
+   "headline": "Mining Regulatory Shifts, Profits, AI, and Environmental Rules",
+   "outlet": "Mexico Business News",
+   "outlet_name": "Mexico Business News",
+   "label": "REPORTED",
+   "url": "https://mexicobusiness.news/mining/news/mining-regulatory-shifts-profits-ai-and-environmental-rules",
+   "url_id": "db423afbdffff42e4cf71f35e7425021"
   },
   {
    "headline": "China’s AI Export Controls Exclude Overseas Model Services Via APIs",
@@ -114,54 +130,38 @@
    "url_id": "92927cd8c52d138cdc183d242146d706"
   },
   {
-   "headline": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm…",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
-   "url_id": "fa5d4551543f8dea259148103c82dfc0"
-  },
-  {
-   "headline": "SpaceX Forms 130-Company AI Alliance as Grok Commercialization Accelerates",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "I built a harness so I can watch Claude edit my videos live",
+   "outlet": "agentcut.synteq.app",
+   "outlet_name": "agentcut.synteq.app",
    "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/3fa102fa-fcf0-48eb-879b-e9097821cada",
-   "url_id": "12538cf3112dd5691e73740f069ee396"
+   "url": "https://agentcut.synteq.app",
+   "url_id": "ed543af64f6dfb7e753a307a4801fdca"
   },
   {
-   "headline": "A timeline of developments in AI safety since the attack on Hugging Face",
-   "outlet": "Union-Bulletin",
-   "outlet_name": "Union-Bulletin",
-   "label": "CONFIRMED",
-   "url": "https://www.union-bulletin.com/news/national/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/article_66d915ff-ee47-5ff9-b27e-48803edbdf74.html",
-   "url_id": "b5377cc1054e443d5acd824f140feb98"
-  },
-  {
-   "headline": "I paired Gemini Notebook with YouTube to study complex topics faster than standard note…",
-   "outlet": "androidpolice.com",
-   "outlet_name": "androidpolice.com",
+   "headline": "Poor Man's Claude Pro – All the code you'll ever need for $20 per month",
+   "outlet": "bweller.me",
+   "outlet_name": "bweller.me",
    "label": "STILL OPEN",
-   "url": "https://www.androidpolice.com/paired-gemini-notebook-with-youtube-to-study-complex-topics-faster/",
-   "url_id": "a3c08ab57060c20dcc5542fb77deab6f"
+   "url": "https://bweller.me/write-all-the-code-youll-ever-need-from-your-phone-for-20-per-month/",
+   "url_id": "af577f35e5a8d3d38b6c0a3af9259098"
   },
   {
-   "headline": "NVIDIA vs. AMD vs. Apple — here’s what the numbers actually say about which AI machine is…",
-   "outlet": "Entrepreneur on MSN",
-   "outlet_name": "Entrepreneur on MSN",
+   "headline": "California’s New Workplace AI Laws: What Employers Need to Know About SB 947 and SB 951",
+   "outlet": "Law.com",
+   "outlet_name": "Law.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/technology/hardware-and-devices/nvidia-vs-amd-vs-apple-here-s-what-the-numbers-actually-say-about-which-ai-machine-is-right-for-you/ar-AA2fWXPz",
-   "url_id": "ca0e3bf7d381335795830bb5a466a65b"
+   "url": "https://www.law.com/therecorder/2026/10/23/californias-new-workplace-ai-laws-what-employers-need-to-know-about-sb-947-and-sb-951/",
+   "url_id": "b238a82e7a135c0c2ac3db40cf1f4fbe"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 9900,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 9700,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/01.mp3",
- "audio_seconds": 46.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/02.mp3",
+ "audio_seconds": 63.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by BBC: UK to invest £100m in 'world first' AI Biosecurity Lab.\nReported by Yahoo: Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’.\nReported by Law360: News Orgs Fight OpenAI, Microsoft's Fair Use Arguments.\nReported by Visual Studio Magazine: Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests.\nReported by BankInfoSecurity: OpenAI Tightens Rules to Block Rival Model Distillation.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMoonshot AI's Kim K3.1 Pro model features 3T parameters and scores 92.7% on BenchCAD, excelling in 3D modeling and financial analysis. Confirmed by SiliconANGLE.\nGrok's Enterprise Vault secures sensitive data with customer-controlled encryption and doesn't use it for training. Reported by BASENOR.\nTeraWulf has signed a 20-year lease agreement with Anthropic expected to generate 19 billion dollars in revenue. Reported by Fox Business.\nMoonshot AI's Kimi K3.1 Pro scores near frontier on benchmarks, with full weights to be released November 4. Reported by R&D World.\nAmazon stores artificial intelligence server racks in warehouses due to power shortages at data centers. Reported by The American Bazaar.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
