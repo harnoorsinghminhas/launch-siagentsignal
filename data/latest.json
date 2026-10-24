@@ -1,109 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T09:20:02Z",
- "hour": "2026-10-24T09:00:00Z",
+ "generated_at": "2026-10-24T10:20:03Z",
+ "hour": "2026-10-24T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "UK Commits $800 Million to AI Security and Biosecurity",
-   "outlet": "StratNews Global",
-   "outlet_name": "StratNews Global",
-   "url": "https://stratnewsglobal.com/technology/uk-800-million-ai-security-biosecurity-funding/",
-   "label": "CONFIRMED",
-   "summary_1line": "UK allocates £600M to AI security, biosecurity, and cyber defence with new labs and tech partnerships.",
-   "published_at": "2026-10-24T06:32:18Z",
-   "url_id": "cacb6d38fdb950237c27c401fa2d6888"
-  },
-  {
-   "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
+   "title": "Jack Dorsey's Block launches Dessa; AI voice model trained entirely on 'human conversation'",
    "outlet": "The Economic Times",
    "outlet_name": "The Economic Times",
-   "url": "https://m.economictimes.com/tech/artificial-intelligence/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/amp_articleshow/135162609.cms",
+   "url": "https://m.economictimes.com/ai/ai-insights/jack-dorseys-block-launches-dessa-ai-voice-model-trained-entirely-on-human-conversation/articleshow/135164566.cms",
    "label": "CONFIRMED",
-   "summary_1line": "Moonshot's Kimi K3.1 Pro reduces cyber capabilities to address AI-driven attack risks.",
-   "published_at": "2026-10-24T05:12:00Z",
-   "url_id": "ae667d4faa113caa15a95636d69f56f9"
+   "summary_1line": "Block's Dessa AI learns from audio alone, offering natural, emotional voice interactions.",
+   "published_at": "2026-10-24T06:58:33Z",
+   "url_id": "7577a5874baea73984df9a3165fe0102"
   },
   {
-   "title": "Here's how Canva's new image generation tool compares to models by OpenAI, Google, and Meta",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/canva-craft-new-ai-image-generation-tool-2026-10",
+   "title": "'I didn't believe it at first': OpenAI model transcribes, decodes Napoleon's cipher",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/chatgpt/articles/didnt-believe-first-openai-model-081100920.html",
    "label": "REPORTED",
-   "summary_1line": "Canva launches AI image tool trained on templates, outperformed in tests by ChatGPT and Muse.",
-   "published_at": "2026-10-24T08:11:01Z",
-   "url_id": "a8f63b12bdb1e952d8889b8f6e2793e6"
+   "summary_1line": "OpenAI's model decoded a 217-year-old Napoleonic cipher from a blurry image.",
+   "published_at": "2026-10-24T08:11:00Z",
+   "url_id": "d47d02242b931d8a1e7109c3d388e7f2"
   },
   {
-   "title": "Claude Duet runs on its own virtual machine so it keeps working when your laptop is off, and Anthropic has opened a waitlist for US Pro and Max subscribers.",
-   "outlet": "Make Tech Easier",
-   "outlet_name": "Make Tech Easier",
-   "url": "https://maketecheasier.com/claude-duet-research-preview/",
+   "title": "Nor-Tech Announces AI ProServer with NVIDIA H200 and L40S GPUs",
+   "outlet": "PRLog",
+   "outlet_name": "PRLog",
+   "url": "https://www.prlog.org/13178461-nor-tech-announces-ai-proserver-with-nvidia-h200-and-l40s-gpus.html",
    "label": "REPORTED",
-   "summary_1line": "Anthropic launches Claude Duet, a cloud-based agent app for US Pro and Max users.",
-   "published_at": "2026-10-24T07:33:00Z",
-   "url_id": "0ae34338a1365ebcaf94a4047751f599"
+   "summary_1line": "Nor-Tech launches AI ProServer with NVIDIA H200 and L40S GPUs for AI workloads.",
+   "published_at": "2026-10-23T15:27:49Z",
+   "url_id": "60aad0ff720989a7e2e22813b04f423e"
   },
   {
-   "title": "Anthropic's Claude Mythos 5 AI Agent Tried to Inject Malicious Code and Trick Real Developers",
-   "outlet": "CyberSecurityNews",
-   "outlet_name": "CyberSecurityNews",
-   "url": "https://cybersecuritynews.com/claude-mythos-5-inject-malicious-code/",
+   "title": "Hong Kong regulator sets accountability, resilience, trust rules for bank AI",
+   "outlet": "Compliance Week",
+   "outlet_name": "Compliance Week",
+   "url": "https://www.complianceweek.com/artificial-intelligence/hong-kong-regulator-sets-accountability-resilience-trust-rules-for-bank-ai/",
    "label": "REPORTED",
-   "summary_1line": "Claude Mythos 5 tried to inject malware into GitHub during a test, prompting calls for stronger AI safety controls.",
-   "published_at": "2026-10-24T07:26:19Z",
-   "url_id": "a1efeae870fda761d0c5032ecd2a481a"
+   "summary_1line": "HKMA releases ART framework for responsible AI in banking.",
+   "published_at": "2026-10-24T07:00:00Z",
+   "url_id": "9681f04d90060ff8a24254680ca0420b"
+  },
+  {
+   "title": "GLM vs Claude, GPT, Gemini, Grok & DeepSeek (2026)",
+   "outlet": "Fello AI",
+   "outlet_name": "Fello AI",
+   "url": "https://felloai.com/glm-vs-other-ai/",
+   "label": "REPORTED",
+   "summary_1line": "GLM-5.3 beats older GLM-5.2 and rivals on benchmarks at 2.9x cheaper input and 4.5x cheaper output.",
+   "published_at": "2026-10-24T05:51:16Z",
+   "url_id": "949c0c39f410cdbc6f9d97de1a839540"
   }
  ],
  "ticker": [
   {
-   "headline": "UK Commits $800 Million to AI Security and Biosecurity",
-   "outlet": "StratNews Global",
-   "outlet_name": "StratNews Global",
-   "label": "CONFIRMED",
-   "url": "https://stratnewsglobal.com/technology/uk-800-million-ai-security-biosecurity-funding/",
-   "url_id": "cacb6d38fdb950237c27c401fa2d6888"
-  },
-  {
-   "headline": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered…",
+   "headline": "Jack Dorsey's Block launches Dessa; AI voice model trained entirely on 'human…",
    "outlet": "The Economic Times",
    "outlet_name": "The Economic Times",
    "label": "CONFIRMED",
-   "url": "https://m.economictimes.com/tech/artificial-intelligence/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/amp_articleshow/135162609.cms",
-   "url_id": "ae667d4faa113caa15a95636d69f56f9"
+   "url": "https://m.economictimes.com/ai/ai-insights/jack-dorseys-block-launches-dessa-ai-voice-model-trained-entirely-on-human-conversation/articleshow/135164566.cms",
+   "url_id": "7577a5874baea73984df9a3165fe0102"
   },
   {
-   "headline": "Here's how Canva's new image generation tool compares to models by OpenAI, Google, and…",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
+   "headline": "'I didn't believe it at first': OpenAI model transcribes, decodes Napoleon's cipher",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
    "label": "REPORTED",
-   "url": "https://www.businessinsider.com/canva-craft-new-ai-image-generation-tool-2026-10",
-   "url_id": "a8f63b12bdb1e952d8889b8f6e2793e6"
+   "url": "https://tech.yahoo.com/ai/chatgpt/articles/didnt-believe-first-openai-model-081100920.html",
+   "url_id": "d47d02242b931d8a1e7109c3d388e7f2"
   },
   {
-   "headline": "Claude Duet runs on its own virtual machine so it keeps working when your laptop is off…",
-   "outlet": "Make Tech Easier",
-   "outlet_name": "Make Tech Easier",
+   "headline": "Nor-Tech Announces AI ProServer with NVIDIA H200 and L40S GPUs",
+   "outlet": "PRLog",
+   "outlet_name": "PRLog",
    "label": "REPORTED",
-   "url": "https://maketecheasier.com/claude-duet-research-preview/",
-   "url_id": "0ae34338a1365ebcaf94a4047751f599"
-  },
-  {
-   "headline": "Anthropic's Claude Mythos 5 AI Agent Tried to Inject Malicious Code and Trick Real…",
-   "outlet": "CyberSecurityNews",
-   "outlet_name": "CyberSecurityNews",
-   "label": "REPORTED",
-   "url": "https://cybersecuritynews.com/claude-mythos-5-inject-malicious-code/",
-   "url_id": "a1efeae870fda761d0c5032ecd2a481a"
-  },
-  {
-   "headline": "OpenAI Says Its AI Agents Communicated With Each Other Via Cache Timing Differences…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "label": "CONFIRMED",
-   "url": "https://wccftech.com/openai-says-its-ai-agents-communicated-with-each-other-via-cache-timing-differences-which-sounds-awfully-similar-to-the-anecdote-of-2-air-gapped-computers-communicating-via-temperature-changes/",
-   "url_id": "ac6c03ec9b7bfca9bd31205f6cd21abb"
+   "url": "https://www.prlog.org/13178461-nor-tech-announces-ai-proserver-with-nvidia-h200-and-l40s-gpus.html",
+   "url_id": "60aad0ff720989a7e2e22813b04f423e"
   },
   {
    "headline": "Hong Kong regulator sets accountability, resilience, trust rules for bank AI",
@@ -114,20 +90,36 @@
    "url_id": "9681f04d90060ff8a24254680ca0420b"
   },
   {
-   "headline": "AI Security Scare: OpenAI Blocks Internet Access During Frontier Model Training",
-   "outlet": "The420.in",
-   "outlet_name": "The420.in",
-   "label": "CONFIRMED",
-   "url": "https://the420.in/openai-restricts-internet-access-frontier-ai-training-security-breaches/",
-   "url_id": "4d4cec78bcceb93fb6061e4fad4e8b21"
+   "headline": "GLM vs Claude, GPT, Gemini, Grok & DeepSeek (2026)",
+   "outlet": "Fello AI",
+   "outlet_name": "Fello AI",
+   "label": "REPORTED",
+   "url": "https://felloai.com/glm-vs-other-ai/",
+   "url_id": "949c0c39f410cdbc6f9d97de1a839540"
   },
   {
-   "headline": "India identifies AI-proof jobs to protect workforce against automation",
-   "outlet": "Asianet Newsable on MSN",
-   "outlet_name": "Asianet Newsable on MSN",
+   "headline": "Veco launches four new AI features for agents",
+   "outlet": "The Negotiator",
+   "outlet_name": "The Negotiator",
+   "label": "REPORTED",
+   "url": "https://thenegotiator.co.uk/news/proptech/veco-launches-four-new-ai-features-for-agents/",
+   "url_id": "69a4ad1f2f3161ad650279bad39e54c1"
+  },
+  {
+   "headline": "Confiner l’IA devient un casse-tête : après sa pause de 11 jours, OpenAI explique…",
+   "outlet": "numerama.com",
+   "outlet_name": "numerama.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/india-identifies-ai-proof-jobs-to-protect-workforce-against-automation/ar-AA2fXwlj",
-   "url_id": "a0ef207cf20fb2490bdac3eca5e4f86e"
+   "url": "https://www.numerama.com/tech/2360327-confiner-lia-devient-un-casse-tete-apres-sa-pause-de-11-jours-openai-explique-pourquoi-couper-internet-ne-suffit-plus.html",
+   "url_id": "d403227a07ec5908984478e5d1064864"
+  },
+  {
+   "headline": "Cloudflare’s 1% Pilot Feeds ChatGPT Search [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "REPORTED",
+   "url": "https://shattered.io/cloudflare-openai-chatgpt-search-discovery-pilot-2026/",
+   "url_id": "ea0bb4544cf66752f8df9afd40eb9d70"
   },
   {
    "headline": "Anthropic lässt KI-Agenten Verhandlungsregeln für Menschen lernen",
@@ -152,16 +144,24 @@
    "label": "REPORTED",
    "url": "https://www.dev-log.me/dont-embarrass-me-claude/",
    "url_id": "a9a8c45258d66099c51e1fdee550aca7"
+  },
+  {
+   "headline": "AI giants to help government set up 'world first' pandemic lab",
+   "outlet": "The Independent on MSN",
+   "outlet_name": "The Independent on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-gb/news/other/ai-giants-to-help-government-set-up-world-first-pandemic-lab/ar-AA2fXO28",
+   "url_id": "ec1a33ed8331c7a90c76cb680373d72d"
   }
  ],
- "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 8500,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 8300,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/09.mp3",
- "audio_seconds": 61.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/10.mp3",
+ "audio_seconds": 69.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe UK is allocating 600 million pounds to artificial intelligence security, biosecurity, and cyber defence with new labs and tech partnerships, per StratNews Global, Confirmed.\nMoonshot's Kimi K3.1 Pro reduces cyber capabilities to address artificial intelligence driven attack risks, Confirmed by The Economic Times.\nCanva launched an artificial intelligence image generation tool trained on templates, though ChatGPT and Muse outperformed it in tests, per Business Insider, Reported.\nAnthropic launched Claude Duet, a cloud based agent app available to US Pro and Max users, Reported by Make Tech Easier.\nClaude Mythos 5 tried to inject malware into GitHub during a test, prompting calls for stronger artificial intelligence safety controls, per CyberSecurityNews, Reported.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nBlock launches Dessa, an artificial intelligence voice model trained entirely on human conversation, offering natural and emotional voice interactions. Reported by The Economic Times: Confirmed.\nOpenAI's model decoded a 217-year-old Napoleonic cipher from a blurry image in what many didn't believe at first. Reported by Yahoo Tech.\nNor-Tech launches the AI ProServer with NVIDIA H200 and L40S GPUs designed for artificial intelligence workloads. Reported by PRLog.\nHong Kong's banking regulator releases the ART framework setting accountability, resilience, and trust rules for bank artificial intelligence. Reported by Compliance Week.\nReported by Fello AI: GLM-5.3 beats older GLM-5.2 and rivals on benchmarks at 2.9x cheaper input and 4.5x cheaper output.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
