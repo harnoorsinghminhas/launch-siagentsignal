@@ -1,109 +1,101 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T02:20:03Z",
- "hour": "2026-10-24T02:00:00Z",
+ "generated_at": "2026-10-24T03:20:02Z",
+ "hour": "2026-10-24T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
-   "outlet": "siliconangle.com",
-   "outlet_name": "SiliconANGLE",
-   "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
+   "title": "China’s AI compute power set to double, but heavily reliant on US chips: report",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
    "label": "CONFIRMED",
-   "summary_1line": "Moonshot AI's Kim K3.1 Pro excels in 3D modeling and financial analysis, with 3T parameters and 92.7% BenchCAD score.",
-   "published_at": "2026-10-24T00:55:53Z",
-   "url_id": "d1af262baf6f76c71994da0701c469cb"
+   "summary_1line": "China’s AI compute to double by 2027, 65% on US chips.",
+   "published_at": "2026-10-24T01:00:11Z",
+   "url_id": "e9dd1c2517c459cbb368e784b7c7332c"
   },
   {
-   "title": "Grok's Secure Vault Explained: What It Stores and Who Gets It",
-   "outlet": "BASENOR",
-   "outlet_name": "BASENOR",
-   "url": "https://www.basenor.com/blogs/news/groks-secure-vault-explained-what-it-stores-and-who-gets-it",
-   "label": "REPORTED",
-   "summary_1line": "Grok's Enterprise Vault secures sensitive data with customer-controlled encryption and no training use.",
-   "published_at": "2026-10-24T01:03:37Z",
-   "url_id": "df50ac292fdee1f18e9d15195aedb087"
+   "title": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026",
+   "outlet": "RIABiz",
+   "outlet_name": "RIABiz",
+   "url": "https://riabiz.com/a/2026/10/24/schwab-trumpeted-anthropics-claude-for-all-16000-of-its-rias-but-a-20-seat-enterprise-minimum-suddenly-sidelines-11000-plus-small-firms-right-before-impact-2026",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic's 20-seat Claude minimum sidelines 11,000 small RIAs after initial promise of universal access.",
+   "published_at": "2026-10-24T01:14:02Z",
+   "url_id": "81458a7ec0e725c712ef10435d52327a"
   },
   {
-   "title": "TeraWulf’s 20-year lease agreement with Anthropic expected to generate $19B in revenue",
-   "outlet": "Fox Business",
-   "outlet_name": "Fox Business",
-   "url": "https://www.foxbusiness.com/video/6407315743112",
+   "title": "Google is making Gemini smarter behind the wheel by connecting it to Gmail, Photos, and Maps",
+   "outlet": "Yahoo Autos",
+   "outlet_name": "Yahoo Autos",
+   "url": "https://autos.yahoo.com/ev-and-future-tech/articles/google-making-gemini-smarter-behind-004446501.html",
    "label": "REPORTED",
-   "summary_1line": "Fox airs COPS and Hannity from 9 PM to 11:30 PM on multiple channels.",
-   "published_at": "2026-10-24T00:13:42Z",
-   "url_id": "df4fc65282c4d060e83deb658fc10237"
+   "summary_1line": "Google rolls out Gemini's Personal Intelligence for driving with app data access.",
+   "published_at": "2026-10-24T00:44:00Z",
+   "url_id": "7d698c7043797c74dadf7e048e3b0079"
   },
   {
-   "title": "Kimi K3.1 Pro vs. Claude Opus 5.5 and GPT-6 Astra",
-   "outlet": "R&D World",
-   "outlet_name": "R&D World",
-   "url": "https://www.rdworldonline.com/how-kimi-k3-1-pro-stacks-up-against-claude-opus-5-5-and-gpt-6-astra/",
+   "title": "OpenAI bugging case raises questions about AI lab security",
+   "outlet": "AZ Family",
+   "outlet_name": "AZ Family",
+   "url": "https://www.azfamily.com/video/2026/10/24/openai-bugging-case-raises-questions-about-ai-lab-security/",
    "label": "REPORTED",
-   "summary_1line": "Moonshot AI's Kimi K3.1 Pro scores near frontier on AI benchmarks, with full weights to be released Nov. 4.",
-   "published_at": "2026-10-24T00:02:40Z",
-   "url_id": "9bc4cd126d80eb252d302a474c022230"
+   "summary_1line": "Storm uproots 19 trees in Heber-Overgaard; no injuries or home damage.",
+   "published_at": "2026-10-24T00:38:10Z",
+   "url_id": "55a3d9838aa26acacc4c1816b329445a"
   },
   {
-   "title": "Amazon’s $5 billion Nvidia AI servers sit idle in warehouses amid data center power shortages",
-   "outlet": "The American Bazaar",
-   "outlet_name": "The American Bazaar",
-   "url": "https://americanbazaaronline.com/2026/10/23/amazons-5-billion-nvidia-ai-servers-sit-idle-in-warehouses-amid-data-center-power-shortages-490651/",
+   "title": "Google Releases ChromeOS 156 With Gemini Talk to Type Dictation and Video Summaries on Chromebook Plus",
+   "outlet": "gHacks",
+   "outlet_name": "gHacks",
+   "url": "https://www.ghacks.net/2026/10/24/google-releases-chromeos-156-with-gemini-talk-to-type-dictation-and-video-summaries-on-chromebook-plus/",
    "label": "REPORTED",
-   "summary_1line": "Amazon stores AI server racks due to power shortages in data centers.",
-   "published_at": "2026-10-23T23:54:29Z",
-   "url_id": "45bbc056317a6ceea48e275859f985f4"
+   "summary_1line": null,
+   "published_at": "2026-10-24T02:17:27Z",
+   "url_id": "191c4d18dad110d984da89bab4d810ef"
   }
  ],
  "ticker": [
   {
-   "headline": "Moonshot AI launches new flagship Kim K3.1 Pro model with 3T parameters",
-   "outlet": "siliconangle.com",
-   "outlet_name": "SiliconANGLE",
+   "headline": "China’s AI compute power set to double, but heavily reliant on US chips: report",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
    "label": "CONFIRMED",
-   "url": "https://siliconangle.com/2026/10/23/moonshot-ai-launches-new-flagship-kim-k3-1-pro-model-with-3t-parameters/",
-   "url_id": "d1af262baf6f76c71994da0701c469cb"
+   "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
+   "url_id": "e9dd1c2517c459cbb368e784b7c7332c"
   },
   {
-   "headline": "Grok's Secure Vault Explained: What It Stores and Who Gets It",
-   "outlet": "BASENOR",
-   "outlet_name": "BASENOR",
-   "label": "REPORTED",
-   "url": "https://www.basenor.com/blogs/news/groks-secure-vault-explained-what-it-stores-and-who-gets-it",
-   "url_id": "df50ac292fdee1f18e9d15195aedb087"
+   "headline": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise…",
+   "outlet": "RIABiz",
+   "outlet_name": "RIABiz",
+   "label": "STILL OPEN",
+   "url": "https://riabiz.com/a/2026/10/24/schwab-trumpeted-anthropics-claude-for-all-16000-of-its-rias-but-a-20-seat-enterprise-minimum-suddenly-sidelines-11000-plus-small-firms-right-before-impact-2026",
+   "url_id": "81458a7ec0e725c712ef10435d52327a"
   },
   {
-   "headline": "TeraWulf’s 20-year lease agreement with Anthropic expected to generate $19B in revenue",
-   "outlet": "Fox Business",
-   "outlet_name": "Fox Business",
+   "headline": "Google is making Gemini smarter behind the wheel by connecting it to Gmail, Photos, and…",
+   "outlet": "Yahoo Autos",
+   "outlet_name": "Yahoo Autos",
    "label": "REPORTED",
-   "url": "https://www.foxbusiness.com/video/6407315743112",
-   "url_id": "df4fc65282c4d060e83deb658fc10237"
+   "url": "https://autos.yahoo.com/ev-and-future-tech/articles/google-making-gemini-smarter-behind-004446501.html",
+   "url_id": "7d698c7043797c74dadf7e048e3b0079"
   },
   {
-   "headline": "Kimi K3.1 Pro vs. Claude Opus 5.5 and GPT-6 Astra",
-   "outlet": "R&D World",
-   "outlet_name": "R&D World",
+   "headline": "OpenAI bugging case raises questions about AI lab security",
+   "outlet": "AZ Family",
+   "outlet_name": "AZ Family",
    "label": "REPORTED",
-   "url": "https://www.rdworldonline.com/how-kimi-k3-1-pro-stacks-up-against-claude-opus-5-5-and-gpt-6-astra/",
-   "url_id": "9bc4cd126d80eb252d302a474c022230"
+   "url": "https://www.azfamily.com/video/2026/10/24/openai-bugging-case-raises-questions-about-ai-lab-security/",
+   "url_id": "55a3d9838aa26acacc4c1816b329445a"
   },
   {
-   "headline": "Amazon’s $5 billion Nvidia AI servers sit idle in warehouses amid data center power…",
-   "outlet": "The American Bazaar",
-   "outlet_name": "The American Bazaar",
+   "headline": "Google Releases ChromeOS 156 With Gemini Talk to Type Dictation and Video Summaries on…",
+   "outlet": "gHacks",
+   "outlet_name": "gHacks",
    "label": "REPORTED",
-   "url": "https://americanbazaaronline.com/2026/10/23/amazons-5-billion-nvidia-ai-servers-sit-idle-in-warehouses-amid-data-center-power-shortages-490651/",
-   "url_id": "45bbc056317a6ceea48e275859f985f4"
-  },
-  {
-   "headline": "AG Paxton sues OpenAI and its CEO for allegedly deceiving and harming Texans",
-   "outlet": "KVUE",
-   "outlet_name": "KVUE",
-   "label": "REPORTED",
-   "url": "https://www.kvue.com/video/tech/paxton-sues-openai-sam-altman/269-0f92774b-f65e-4507-b79e-aeb4bbaf6618",
-   "url_id": "0d1d2213e4daf8a1ee5e87e4efbfe793"
+   "url": "https://www.ghacks.net/2026/10/24/google-releases-chromeos-156-with-gemini-talk-to-type-dictation-and-video-summaries-on-chromebook-plus/",
+   "url_id": "191c4d18dad110d984da89bab4d810ef"
   },
   {
    "headline": "OpenAI Agents Disable Their Own Safety Monitoring",
@@ -122,12 +114,28 @@
    "url_id": "db423afbdffff42e4cf71f35e7425021"
   },
   {
-   "headline": "China’s AI Export Controls Exclude Overseas Model Services Via APIs",
-   "outlet": "TOKENPOST",
-   "outlet_name": "TOKENPOST",
+   "headline": "Bitcoin Core Updates Security Policy As AI Speeds Bug Discovery",
+   "outlet": "Menafn",
+   "outlet_name": "Menafn",
    "label": "REPORTED",
-   "url": "https://www.tokenpost.com/news/regulation/39257",
-   "url_id": "92927cd8c52d138cdc183d242146d706"
+   "url": "https://menafn.com/1111855314/Bitcoin-Core-Updates-Security-Policy-As-AI-Speeds-Bug-Discovery",
+   "url_id": "791a4aac8e1e140d1b41a6c9f3b18a39"
+  },
+  {
+   "headline": "Inside China, the AI funding frenzy is just heating up",
+   "outlet": "Australian Financial Review",
+   "outlet_name": "Australian Financial Review",
+   "label": "STILL OPEN",
+   "url": "https://www.afr.com/world/asia/inside-china-the-ai-funding-frenzy-is-just-heating-up-20261024-p6181w",
+   "url_id": "bbe68761327e508cc22f8840e8816705"
+  },
+  {
+   "headline": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely…",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/ar-AA2fWY5k",
+   "url_id": "179c5dfebe199b99009ff696c85d0568"
   },
   {
    "headline": "I built a harness so I can watch Claude edit my videos live",
@@ -144,24 +152,16 @@
    "label": "STILL OPEN",
    "url": "https://bweller.me/write-all-the-code-youll-ever-need-from-your-phone-for-20-per-month/",
    "url_id": "af577f35e5a8d3d38b6c0a3af9259098"
-  },
-  {
-   "headline": "California’s New Workplace AI Laws: What Employers Need to Know About SB 947 and SB 951",
-   "outlet": "Law.com",
-   "outlet_name": "Law.com",
-   "label": "REPORTED",
-   "url": "https://www.law.com/therecorder/2026/10/23/californias-new-workplace-ai-laws-what-employers-need-to-know-about-sb-947-and-sb-951/",
-   "url_id": "b238a82e7a135c0c2ac3db40cf1f4fbe"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 9700,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 9600,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/02.mp3",
- "audio_seconds": 63.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/03.mp3",
+ "audio_seconds": 61.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMoonshot AI's Kim K3.1 Pro model features 3T parameters and scores 92.7% on BenchCAD, excelling in 3D modeling and financial analysis. Confirmed by SiliconANGLE.\nGrok's Enterprise Vault secures sensitive data with customer-controlled encryption and doesn't use it for training. Reported by BASENOR.\nTeraWulf has signed a 20-year lease agreement with Anthropic expected to generate 19 billion dollars in revenue. Reported by Fox Business.\nMoonshot AI's Kimi K3.1 Pro scores near frontier on benchmarks, with full weights to be released November 4. Reported by R&D World.\nAmazon stores artificial intelligence server racks in warehouses due to power shortages at data centers. Reported by The American Bazaar.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nChina's artificial intelligence compute power is set to double by 2027, confirmed by South China Morning Post, with 65 percent reliant on US chips.\nSchwab's promise of Anthropic's Claude for all 16,000 of its registered investment advisors hit a snag when a 20-seat enterprise minimum suddenly sidelined 11,000-plus small firms, still open per RIABiz.\nGoogle is making Gemini smarter behind the wheel by connecting it to Gmail, Photos, and Maps, reported by Yahoo Autos.\nOpenAI's bugging case raises questions about artificial intelligence lab security, reported by AZ Family.\nGoogle releases ChromeOS 156 with Gemini Talk to Type dictation and video summaries on Chromebook Plus, reported by gHacks.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
