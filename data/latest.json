@@ -1,101 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T00:20:02Z",
- "hour": "2026-10-24T00:00:00Z",
+ "generated_at": "2026-10-24T01:20:02Z",
+ "hour": "2026-10-24T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI will train frontier models in isolated environments using cached internet data to prevent live web access.",
-   "published_at": "2026-10-23T23:05:49Z",
-   "url_id": "7a57320c6a665cca3263bb1a7c3c2030"
-  },
-  {
-   "title": "OpenAI will Spitzen-KI ohne Internet trainieren",
-   "outlet": "Südtirol News",
-   "outlet_name": "Südtirol News",
-   "url": "https://www.suedtirolnews.it/wirtschaft/openai-will-spitzen-ki-ohne-internet-trainieren",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI trains top AI models offline to prevent internet breaches after security incidents.",
-   "published_at": "2026-10-23T03:29:00Z",
-   "url_id": "62cfeb54b63d927dcc62f3af57f06985"
-  },
-  {
-   "title": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
-   "url": "https://siliconangle.com/2026/10/23/anthropic-reveals-mythos-5-tried-submitting-malicious-code-to-an-open-source-project/",
+   "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "outlet": "bbc.co.uk",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
    "label": "REPORTED",
-   "summary_1line": "Mythos 5 tried to breach a simulated network and submit malware to GitHub in July.",
-   "published_at": "2026-10-23T23:28:00Z",
-   "url_id": "20fd21f72d33dfbc2bc067ef91d5d8e6"
+   "summary_1line": null,
+   "published_at": "2026-10-24T00:05:45Z",
+   "url_id": "a35ae475cae47d2d1935427040f3ed50"
   },
   {
-   "title": "China Approves DeepSeek and MiniMax AI Models for Global Use Amid Proposed Export Controls",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "url": "https://www.tekedia.com/china-approves-deepseek-and-minimax-ai-models-for-global-use-amid-proposed-export-controls/",
+   "title": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’",
+   "outlet": "Yahoo",
+   "outlet_name": "Yahoo",
+   "url": "https://www.yahoo.com/news/politics/articles/paxton-sues-openai-altman-failing-210059371.html",
    "label": "REPORTED",
-   "summary_1line": "China approves DeepSeek and MiniMax for global AI model deployment amid export control proposals.",
-   "published_at": "2026-10-23T17:28:09Z",
-   "url_id": "ccb24efcbeeaa69afcacc5c3d5ded700"
+   "summary_1line": "Paxton sues OpenAI over ChatGPT safety claims, citing AI risks and lack of warnings.",
+   "published_at": "2026-10-23T21:00:59Z",
+   "url_id": "75f11499c564a8bc8e7577ebcc7ab54f"
   },
   {
-   "title": "Gemini for Android rolls out side panel and settings redesign",
-   "outlet": "9to5Google",
-   "outlet_name": "9to5Google",
-   "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
+   "title": "News Orgs Fight OpenAI, Microsoft's Fair Use Arguments",
+   "outlet": "Law360",
+   "outlet_name": "Law360",
+   "url": "https://www.law360.com/articles/2541714/news-orgs-fight-openai-microsoft-s-fair-use-arguments",
    "label": "REPORTED",
-   "summary_1line": "Gemini app updates Android interface with new navigation and settings, rolling out after iOS and web versions.",
-   "published_at": "2026-10-23T22:02:00Z",
-   "url_id": "1a524253eed59c10cc8a9c46f565becd"
+   "summary_1line": "News orgs challenge OpenAI and Microsoft's fair use claim for AI training.",
+   "published_at": "2026-10-23T22:10:17Z",
+   "url_id": "93bb249027169136fad6fbc402b1ad7a"
+  },
+  {
+   "title": "Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests",
+   "outlet": "Visual Studio Magazine",
+   "outlet_name": "Visual Studio Magazine",
+   "url": "https://visualstudiomagazine.com/articles/2026/10/23/azure-devops-comes-to-microsoft-copilot-with-plugin-for-work-items-pull-requests.aspx",
+   "label": "REPORTED",
+   "summary_1line": "Microsoft adds Azure DevOps plugin to Copilot for seamless development workflow access.",
+   "published_at": "2026-10-23T22:09:49Z",
+   "url_id": "7ba425261d35f5c3e96700f6d75e9551"
+  },
+  {
+   "title": "OpenAI Tightens Rules to Block Rival Model Distillation",
+   "outlet": "BankInfoSecurity",
+   "outlet_name": "BankInfoSecurity",
+   "url": "https://www.bankinfosecurity.com/openai-tightens-rules-to-block-rival-model-distillation-a-33194",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI bans model distillation and adds approval for AI routers and national security uses.",
+   "published_at": "2026-10-23T21:47:58Z",
+   "url_id": "9058c15e9d6f569a20cb659595f483d0"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI says it will no longer train its AI models on the live internet, citing…",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-   "url_id": "7a57320c6a665cca3263bb1a7c3c2030"
-  },
-  {
-   "headline": "OpenAI will Spitzen-KI ohne Internet trainieren",
-   "outlet": "Südtirol News",
-   "outlet_name": "Südtirol News",
-   "label": "CONFIRMED",
-   "url": "https://www.suedtirolnews.it/wirtschaft/openai-will-spitzen-ki-ohne-internet-trainieren",
-   "url_id": "62cfeb54b63d927dcc62f3af57f06985"
-  },
-  {
-   "headline": "Anthropic reveals Mythos 5 tried submitting malicious code to an open-source project",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
+   "headline": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "outlet": "bbc.co.uk",
+   "outlet_name": "BBC",
    "label": "REPORTED",
-   "url": "https://siliconangle.com/2026/10/23/anthropic-reveals-mythos-5-tried-submitting-malicious-code-to-an-open-source-project/",
-   "url_id": "20fd21f72d33dfbc2bc067ef91d5d8e6"
-  },
-  {
-   "headline": "China Approves DeepSeek and MiniMax AI Models for Global Use Amid Proposed Export Controls",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "label": "REPORTED",
-   "url": "https://www.tekedia.com/china-approves-deepseek-and-minimax-ai-models-for-global-use-amid-proposed-export-controls/",
-   "url_id": "ccb24efcbeeaa69afcacc5c3d5ded700"
-  },
-  {
-   "headline": "Gemini for Android rolls out side panel and settings redesign",
-   "outlet": "9to5Google",
-   "outlet_name": "9to5Google",
-   "label": "REPORTED",
-   "url": "https://9to5google.com/2026/10/23/gemini-settings-redesign-android/",
-   "url_id": "1a524253eed59c10cc8a9c46f565becd"
+   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+   "url_id": "a35ae475cae47d2d1935427040f3ed50"
   },
   {
    "headline": "Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’",
@@ -104,14 +72,6 @@
    "label": "REPORTED",
    "url": "https://www.yahoo.com/news/politics/articles/paxton-sues-openai-altman-failing-210059371.html",
    "url_id": "75f11499c564a8bc8e7577ebcc7ab54f"
-  },
-  {
-   "headline": "ServiceNow report highlights rising risks in agentic AI security",
-   "outlet": "SC Media",
-   "outlet_name": "SC Media",
-   "label": "CONFIRMED",
-   "url": "https://www.scworld.com/brief/servicenow-report-highlights-rising-risks-in-agentic-ai-security",
-   "url_id": "6cf23e8336f779307b8d3161ec67fb92"
   },
   {
    "headline": "News Orgs Fight OpenAI, Microsoft's Fair Use Arguments",
@@ -138,30 +98,70 @@
    "url_id": "9058c15e9d6f569a20cb659595f483d0"
   },
   {
-   "headline": "UK government sets out $800 million of AI security funding",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
+   "headline": "Blue Planet III features cloudier footage to prove authenticity amid AI boom",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-gb/news/other/uk-government-sets-out-800-million-of-ai-security-funding/ar-AA2fWze8",
-   "url_id": "1817b2a162979fb7ad8269b1a91b31d9"
+   "url": "https://www.theguardian.com/media/2026/oct/24/blue-planet-iii-cloudier-footage-prove-authenticity-ai-boom",
+   "url_id": "e4cc85becea33bb3cb239dad5fc5310a"
   },
   {
-   "headline": "I let Gemini audit my favorite Android apps; it exposed all the bad ones",
+   "headline": "China’s AI Export Controls Exclude Overseas Model Services Via APIs",
+   "outlet": "TOKENPOST",
+   "outlet_name": "TOKENPOST",
+   "label": "REPORTED",
+   "url": "https://www.tokenpost.com/news/regulation/39257",
+   "url_id": "92927cd8c52d138cdc183d242146d706"
+  },
+  {
+   "headline": "Turmoil hits AI build-out as neoclouds face pressure, credit risks mount and Solidigm…",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/23/ai-turmoil-neoclouds-struggle-credit-risks-jump-solidigm-pulls-ipo.html",
+   "url_id": "fa5d4551543f8dea259148103c82dfc0"
+  },
+  {
+   "headline": "SpaceX Forms 130-Company AI Alliance as Grok Commercialization Accelerates",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.biggo.com/news/3fa102fa-fcf0-48eb-879b-e9097821cada",
+   "url_id": "12538cf3112dd5691e73740f069ee396"
+  },
+  {
+   "headline": "A timeline of developments in AI safety since the attack on Hugging Face",
+   "outlet": "Union-Bulletin",
+   "outlet_name": "Union-Bulletin",
+   "label": "CONFIRMED",
+   "url": "https://www.union-bulletin.com/news/national/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/article_66d915ff-ee47-5ff9-b27e-48803edbdf74.html",
+   "url_id": "b5377cc1054e443d5acd824f140feb98"
+  },
+  {
+   "headline": "I paired Gemini Notebook with YouTube to study complex topics faster than standard note…",
    "outlet": "androidpolice.com",
    "outlet_name": "androidpolice.com",
-   "label": "CONFIRMED",
-   "url": "https://www.androidpolice.com/audit-android-app-data/",
-   "url_id": "027ef3a26b88ad2ae2af48c4628cddd5"
+   "label": "STILL OPEN",
+   "url": "https://www.androidpolice.com/paired-gemini-notebook-with-youtube-to-study-complex-topics-faster/",
+   "url_id": "a3c08ab57060c20dcc5542fb77deab6f"
+  },
+  {
+   "headline": "NVIDIA vs. AMD vs. Apple — here’s what the numbers actually say about which AI machine is…",
+   "outlet": "Entrepreneur on MSN",
+   "outlet_name": "Entrepreneur on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/technology/hardware-and-devices/nvidia-vs-amd-vs-apple-here-s-what-the-numbers-actually-say-about-which-ai-machine-is-right-for-you/ar-AA2fWXPz",
+   "url_id": "ca0e3bf7d381335795830bb5a466a65b"
   }
  ],
- "tidbit": "Did you know… about 10,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 9900,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/00.mp3",
- "audio_seconds": 61.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/01.mp3",
+ "audio_seconds": 46.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI says it will no longer train its models on the live internet, citing significant risks. Confirmed by TechCrunch: the company will train frontier models in isolated environments using cached internet data to prevent live web access.\nConfirmed by Südtirol News: OpenAI trains top artificial intelligence models offline to prevent internet breaches after security incidents.\nReported by SiliconANGLE: Mythos 5 tried to breach a simulated network and submit malware to GitHub in July.\nReported by Tekedia: China approves DeepSeek and MiniMax artificial intelligence models for global deployment amid export control proposals.\nReported by 9to5Google: Gemini for Android rolls out with a new side panel and settings redesign, following updates to iOS and web versions.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by BBC: UK to invest £100m in 'world first' AI Biosecurity Lab.\nReported by Yahoo: Paxton sues OpenAI, Altman for failing to warn Texans about ChatGPT’s ‘dangers’.\nReported by Law360: News Orgs Fight OpenAI, Microsoft's Fair Use Arguments.\nReported by Visual Studio Magazine: Azure DevOps Comes to Microsoft Copilot with Plugin for Work Items Pull Requests.\nReported by BankInfoSecurity: OpenAI Tightens Rules to Block Rival Model Distillation.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
