@@ -1,125 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T22:20:02Z",
- "hour": "2026-10-24T22:00:00Z",
+ "generated_at": "2026-10-24T23:20:03Z",
+ "hour": "2026-10-24T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Paxton Sues OpenAI And Sam Altman Over Suicide Claims, Seeks ChatGPT Ban For Texas Kids",
-   "outlet": "WBAP",
-   "outlet_name": "WBAP",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFBHYUx0c3BOMlBIVFJXVEN2TUxyYVBhWVUzRzBvRFpDS2gxUXRWTExUVEJ1VFNGNWd3dEVjMzd4YzhEb2hOVG5QYUU5NG55c1diM21rTE5hX2lOdUFPSWx5LW5BZGRyS3F4VzNEemFnTDRIRFdPNU1vYWppcHRjcDVvR2NUdEdwWGZUNnVCSHZ5U18zTkRjSm9vV2NMOWhlY25fU0tHbmltdTM3YXdNdTZSaVpmZUJrSXBn?oc=5",
+   "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
+   "outlet": "Yahoo",
+   "outlet_name": "Yahoo",
+   "url": "https://www.yahoo.com/entertainment/music/articles/elvis-presley-rightsholders-sue-anthropic-182826689.html",
+   "label": "REPORTED",
+   "summary_1line": "Elvis estate sues Anthropic over unauthorized use of 274 songs in AI training.",
+   "published_at": "2026-10-24T18:28:26Z",
+   "url_id": "14e0c19066976a4ceaba19ce3c717629"
+  },
+  {
+   "title": "Ohio Labor Groups Back AI Regulation Bill HB 1032",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
+   "url": "https://hoodline.com/2026/10/ohio-labor-groups-push-bill-to-keep-ai-out-of-state-benefit-decisions/",
+   "label": "REPORTED",
+   "summary_1line": "Ohio labor backs bill to require AI transparency and human oversight in employment and benefits.",
+   "published_at": "2026-10-24T18:32:51Z",
+   "url_id": "162c73630bbe530d8c2f7ef72a4a6db0"
+  },
+  {
+   "title": "Pennsylvania will require labels on AI-generated ads",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+   "label": "CONFIRMED",
+   "summary_1line": "Pennsylvania requires AI ad disclosures, with major loopholes on definitions of 'significant modification' and 'evidently fictional'.",
+   "published_at": "2026-10-24T18:32:21Z",
+   "url_id": "7c7736f93625c4fab23bcda2cdc06908"
+  },
+  {
+   "title": "Daytona Raises $60 Million to Build Cloud Infrastructure for AI Agents",
+   "outlet": "WeRSM",
+   "outlet_name": "WeRSM",
+   "url": "https://wersm.com/daytona-raises-60-million-cloud-infrastructure-ai-agents/",
+   "label": "REPORTED",
+   "summary_1line": "Daytona raises $60M to build cloud for AI agents needing isolated, stateful environments.",
+   "published_at": "2026-10-24T14:19:06Z",
+   "url_id": "bb84a443af6c5beab0ad04815519f0e6"
+  },
+  {
+   "title": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
+   "outlet": "PCMag UK",
+   "outlet_name": "PCMag UK",
+   "url": "https://uk.pcmag.com/ai/168086/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-24T21:37:25Z",
-   "url_id": "ce24b18b4be11b1c90270f849775eeba"
-  },
-  {
-   "title": "Zagitta’s Nvidia Rtx 30 Gpu Unlock Mod Hits 129.6 TFLOPS",
-   "outlet": "شبكة تواصل الإخبارية",
-   "outlet_name": "شبكة تواصل الإخبارية",
-   "url": "https://twaslnews1.twaslnews.com/6536451/",
-   "label": "REPORTED",
-   "summary_1line": "Zagitta's mod boosts RTX 3090 BF16 to 129.6 TFLOPS in compute benchmarks.",
-   "published_at": "2026-10-24T20:45:28Z",
-   "url_id": "d654b6af6de410a7c7e270edafe7978d"
-  },
-  {
-   "title": "Who Is Dario Amodei? The Anthropic CEO Behind Claude",
-   "outlet": "The Profile | Polina Pompliano",
-   "outlet_name": "The Profile | Polina Pompliano",
-   "url": "https://www.readtheprofile.com/p/who-is-dario-amodei",
-   "label": "REPORTED",
-   "summary_1line": "Dario Amodei's Anthropic prepares for largest IPO ever with $2 trillion target and $47B revenue.",
-   "published_at": "2026-10-24T20:35:29Z",
-   "url_id": "0a1b8a80604f49fdeba0b23b91c6e096"
-  },
-  {
-   "title": "EU AI Act",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
-   "url": "https://ppc.land/eu-ai-act/",
-   "label": "REPORTED",
-   "summary_1line": "EU AI Act enters force in 2024, updated in 2026 with fixed deadlines for high-risk AI systems.",
-   "published_at": "2026-10-24T20:28:18Z",
-   "url_id": "0fb3c2bec806ab1f3387281eeee2eff3"
-  },
-  {
-   "title": "I linked Gemini Notebook to Gemini and queried 4 research notebooks in one chat thread",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
-   "url": "https://www.androidpolice.com/linked-gemini-notebook-to-gemini-queried-notebooks-in-one-chat-thread/",
-   "label": "REPORTED",
-   "summary_1line": "Google rebranded NotebookLM to Gemini Notebook in July 2026, enabling cross-notebook references via Gemini.",
-   "published_at": "2026-10-24T19:00:13Z",
-   "url_id": "9c5ee4e260ca9d90e479a2f91c5a4855"
+   "published_at": "2026-10-24T15:33:43Z",
+   "url_id": "967b6251cba2fab4db5488a3a36f11d6"
   }
  ],
  "ticker": [
   {
-   "headline": "Paxton Sues OpenAI And Sam Altman Over Suicide Claims, Seeks ChatGPT Ban For Texas Kids",
-   "outlet": "WBAP",
-   "outlet_name": "WBAP",
+   "headline": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
+   "outlet": "Yahoo",
+   "outlet_name": "Yahoo",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONFBHYUx0c3BOMlBIVFJXVEN2TUxyYVBhWVUzRzBvRFpDS2gxUXRWTExUVEJ1VFNGNWd3dEVjMzd4YzhEb2hOVG5QYUU5NG55c1diM21rTE5hX2lOdUFPSWx5LW5BZGRyS3F4VzNEemFnTDRIRFdPNU1vYWppcHRjcDVvR2NUdEdwWGZUNnVCSHZ5U18zTkRjSm9vV2NMOWhlY25fU0tHbmltdTM3YXdNdTZSaVpmZUJrSXBn?oc=5",
-   "url_id": "ce24b18b4be11b1c90270f849775eeba"
+   "url": "https://www.yahoo.com/entertainment/music/articles/elvis-presley-rightsholders-sue-anthropic-182826689.html",
+   "url_id": "14e0c19066976a4ceaba19ce3c717629"
   },
   {
-   "headline": "Zagitta’s Nvidia Rtx 30 Gpu Unlock Mod Hits 129.6 TFLOPS",
-   "outlet": "شبكة تواصل الإخبارية",
-   "outlet_name": "شبكة تواصل الإخبارية",
+   "headline": "Ohio Labor Groups Back AI Regulation Bill HB 1032",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
    "label": "REPORTED",
-   "url": "https://twaslnews1.twaslnews.com/6536451/",
-   "url_id": "d654b6af6de410a7c7e270edafe7978d"
+   "url": "https://hoodline.com/2026/10/ohio-labor-groups-push-bill-to-keep-ai-out-of-state-benefit-decisions/",
+   "url_id": "162c73630bbe530d8c2f7ef72a4a6db0"
   },
   {
-   "headline": "Who Is Dario Amodei? The Anthropic CEO Behind Claude",
-   "outlet": "The Profile | Polina Pompliano",
-   "outlet_name": "The Profile | Polina Pompliano",
-   "label": "REPORTED",
-   "url": "https://www.readtheprofile.com/p/who-is-dario-amodei",
-   "url_id": "0a1b8a80604f49fdeba0b23b91c6e096"
-  },
-  {
-   "headline": "EU AI Act",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
-   "label": "REPORTED",
-   "url": "https://ppc.land/eu-ai-act/",
-   "url_id": "0fb3c2bec806ab1f3387281eeee2eff3"
-  },
-  {
-   "headline": "I linked Gemini Notebook to Gemini and queried 4 research notebooks in one chat thread",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
-   "label": "REPORTED",
-   "url": "https://www.androidpolice.com/linked-gemini-notebook-to-gemini-queried-notebooks-in-one-chat-thread/",
-   "url_id": "9c5ee4e260ca9d90e479a2f91c5a4855"
-  },
-  {
-   "headline": "DEEP Robotics Unveils Five Research Advances in Embodied AI Intrado",
-   "outlet": "Chinook Observer",
-   "outlet_name": "Chinook Observer",
+   "headline": "Pennsylvania will require labels on AI-generated ads",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://pr.chinookobserver.com/article/DEEP-Robotics-Unveils-Five-Research-Advances-in-Embodied-AI/6adca349dba4ed9cc76d95c2",
-   "url_id": "b6dc7c449d1628569a294ca24f617200"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+   "url_id": "7c7736f93625c4fab23bcda2cdc06908"
   },
   {
-   "headline": "The AI graveyard: a running list of projects and startups that didn’t make it",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "url_id": "8905358cb7c4854202895460be23d661"
+   "headline": "Daytona Raises $60 Million to Build Cloud Infrastructure for AI Agents",
+   "outlet": "WeRSM",
+   "outlet_name": "WeRSM",
+   "label": "REPORTED",
+   "url": "https://wersm.com/daytona-raises-60-million-cloud-infrastructure-ai-agents/",
+   "url_id": "bb84a443af6c5beab0ad04815519f0e6"
   },
   {
-   "headline": "Elon Musk actually follows through on Grok AI adaptation of The Odyssey",
-   "outlet": "mashable.com",
-   "outlet_name": "mashable.com",
-   "label": "CONFIRMED",
-   "url": "https://mashable.com/tech/elon-musk-grok-odyssey-ai-film-adaption",
-   "url_id": "9bf70d4beac107826a1d00542d112334"
+   "headline": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
+   "outlet": "PCMag UK",
+   "outlet_name": "PCMag UK",
+   "label": "REPORTED",
+   "url": "https://uk.pcmag.com/ai/168086/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training",
+   "url_id": "967b6251cba2fab4db5488a3a36f11d6"
+  },
+  {
+   "headline": "Runcie Chidebe: Comparing ChatGPT-Generated and Clinician-Authored Cancer PEMs in Nigeria",
+   "outlet": "Oncodaily",
+   "outlet_name": "Oncodaily",
+   "label": "REPORTED",
+   "url": "https://oncodaily.com/voices/runcie-chidebe-616667",
+   "url_id": "d241f5599380dd0b80d7503563685ed2"
+  },
+  {
+   "headline": "Grok Bot Hits Penn Station: What the NYC Ad Push Means",
+   "outlet": "BASENOR - Tesla Accessories",
+   "outlet_name": "BASENOR - Tesla Accessories",
+   "label": "REPORTED",
+   "url": "https://www.basenor.com/blogs/news/grok-bot-hits-penn-station-what-the-nyc-ad-push-means",
+   "url_id": "0474273db95e079d162641bda847caf0"
   },
   {
    "headline": "Show HN: Perch, a calm Mac app for juggling Claude Code sessions",
@@ -152,16 +144,24 @@
    "label": "STILL OPEN",
    "url": "https://www.xda-developers.com/ran-9b-model-trained-on-claude-reasoning-on-8gb-gpu/",
    "url_id": "b4ea8916496781a1c8b6a95ae8bb1f89"
+  },
+  {
+   "headline": "Tokio Marine first Japan nonlife insurer to cover AI-enabled robots",
+   "outlet": "asia.nikkei.com",
+   "outlet_name": "asia.nikkei.com",
+   "label": "CONFIRMED",
+   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tokio-marine-first-japan-nonlife-insurer-to-cover-ai-enabled-robots",
+   "url_id": "fefb32deead9a592abe7b06c0e831e58"
   }
  ],
- "tidbit": "Did you know… about 6,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 5800,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 5700,
  "articles_24h_label": "about 6,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/22.mp3",
- "audio_seconds": 67.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/23.mp3",
+ "audio_seconds": 59.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nPaxton sues OpenAI and Sam Altman over suicide claims, reported by WBAP, and seeks a ChatGPT ban for Texas kids.\nZagitta's Nvidia RTX 30 GPU unlock mod hits 129.6 TFLOPS, reported by شبكة تواصل الإخبارية, boosting RTX 3090 BF16 in compute benchmarks.\nDario Amodei leads Anthropic as it prepares for its largest IPO ever, reported by The Profile | Polina Pompliano, with a $2 trillion target and $47B revenue.\nThe EU artificial intelligence Act entered force in 2024, reported by PPC Land, and was updated in 2026 with fixed deadlines for high-risk systems.\nGoogle rebranded NotebookLM to Gemini Notebook in July 2026, reported by Android Police, enabling cross-notebook references via Gemini in one chat thread.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nElvis Presley's estate is suing Anthropic, reported by Yahoo, over the use of 274 songs in training without permission.\nOhio labor groups are backing a regulation bill, reported by Hoodline, that would require transparency and human oversight in employment and benefits decisions.\nPennsylvania will require labels on artificially generated ads, confirmed by The Verge, though the rules have major loopholes around what counts as significant modification.\nDaytona has raised 60 million dollars, reported by WeRSM, to build cloud infrastructure for artificial intelligence agents that need isolated and stateful environments.\nOpenAI is now keeping its frontier models offline during training, reported by PCMag UK, to protect them from internet exposure.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
