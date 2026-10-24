@@ -1,110 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T20:20:03Z",
- "hour": "2026-10-24T20:00:00Z",
+ "generated_at": "2026-10-24T21:20:02Z",
+ "hour": "2026-10-24T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google DeepMind Pentagon AI contract resignations: Researchers exit over classified military deals; all you need to know",
-   "outlet": "Livemint",
-   "outlet_name": "Livemint",
-   "url": "https://www.livemint.com/companies/news/google-deepmind-pentagon-ai-contract-resignations-researchers-exit-over-classified-military-deals-all-you-need-to-know-11792862967400.html",
-   "label": "CONFIRMED",
-   "summary_1line": "DeepMind researchers resign over military AI contracts and lack of oversight.",
-   "published_at": "2026-10-24T18:17:04Z",
-   "url_id": "97f9231aeb816910eaa49ffe5ba88140"
-  },
-  {
-   "title": "Elvis Presley Estate Sues Anthropic for Stealing His Music ‘At a Scale Never Seen Before’ To Train AI",
-   "outlet": "VICE",
-   "outlet_name": "VICE",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkpHcG95OGt1cGU3Z3VWSmJHZkVzUVRlUko5S0xpLVM5REs2RUxkeHlENUQ3SzhYV3psUllVUE02YXM4bFVMbHlMbEgyaHIyM0ltNm9pdmJLTFY3aFpyNS1KTDFjRFo2enVVeVpjMUJXektqU21hbmRDZHVfQk81WlVVLWpmZEQ2dzRWcUI4TTd5M0dRbjFjM2RNWkc2eHQ2NEZOdTFETTVHdHV1OE9TOXVOSGdvYWNMQlJ4azFGYU1pUmFTUExoeTB0bFY?oc=5",
+   "title": "NVIDIA GeForce RTX 30 GPUs Get Up To 2X Faster AI Compute Performance With New GPU Unlock Mod, Real-World Gains Of Up To 60%",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "url": "https://wccftech.com/nvidia-geforce-rtx-30-gpus-get-up-to-2x-faster-ai-compute-performance-with-new-gpu-unlock-mod-real-world-gains-of-up-to-60/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-24T18:58:31Z",
-   "url_id": "9f4857b6069411443e1e36a640f80313"
+   "summary_1line": "GPU Unlock unlocks 50-80% more Tensor Core performance in RTX 30 Series GPUs for AI workloads.",
+   "published_at": "2026-10-24T14:52:16Z",
+   "url_id": "527bc87e418515b904e5a0bfd44c5ab6"
   },
   {
-   "title": "OpenAI Expands Decisions API, Scales Enterprise Push With Uber and Cuts Frontier Training Off From the Live Internet",
+   "title": "Pathos AI Secures $237M in Series E Financing to Scale Agentic AI Drug Development Platform and Advance Oncology Pipeline",
    "outlet": "AI Insider",
    "outlet_name": "AI Insider",
-   "url": "https://theaiinsider.tech/2026/10/24/openai-expands-decisions-api-scales-enterprise-push-with-uber-and-cuts-frontier-training-off-from-the-live-internet/",
+   "url": "https://theaiinsider.tech/2026/10/24/pathos-ai-secures-237m-in-series-e-financing-to-scale-agentic-ai-drug-development-platform-and-advance-oncology-pipeline/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI launches Decisions API, shifts AI training to cached internet, and rolls out ChatGPT Work to Uber’s 30K workforce.",
-   "published_at": "2026-10-24T18:44:06Z",
-   "url_id": "47e419e693ba825026b4a6f0bd61e72e"
+   "summary_1line": "Pathos AI raises $237M to scale AI platform and advance four clinical oncology drugs.",
+   "published_at": "2026-10-24T17:51:22Z",
+   "url_id": "f49f8f2aa5be61565dc9e44416a2a66b"
   },
   {
-   "title": "Grok's Odyssey Remake: 5 Details That Matter",
-   "outlet": "BASENOR - Tesla Accessories",
-   "outlet_name": "BASENOR - Tesla Accessories",
-   "url": "https://www.basenor.com/blogs/news/groks-odyssey-remake-5-details-that-matter",
+   "title": "This open-source Circle to Search skips Gemini and works offline",
+   "outlet": "How-To Geek",
+   "outlet_name": "How-To Geek",
+   "url": "https://www.howtogeek.com/this-open-source-circle-to-search-skips-gemini-and-works-offline/",
    "label": "REPORTED",
-   "summary_1line": "xAI's Grok creates film remakes with a $175K contest and end-of-2026 deadline.",
-   "published_at": "2026-10-24T18:03:39Z",
-   "url_id": "067983b817643e719c3a40e599488924"
+   "summary_1line": null,
+   "published_at": "2026-10-24T17:00:18Z",
+   "url_id": "7b14df8bb08f0bf9e7320ad93360c61a"
   },
   {
-   "title": "DeepSeek und MiniMax: Chinesische KI-Modelle dürfen ins Ausland",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "url": "https://borncity.com/news/deepseek-und-minimax-chinesische-ki-modelle-duerfen-ins-ausland/",
+   "title": "Sweden Bans ChatGPT and Claude, Approves Microsoft Copilot for Government Use",
+   "outlet": "KuCoin",
+   "outlet_name": "KuCoin",
+   "url": "https://www.kucoin.com/news/flash/sweden-bans-chatgpt-and-claude-approves-microsoft-copilot-for-government-use",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek and MiniMax gain global AI access after Chinese regulatory approval.",
-   "published_at": "2026-10-24T18:02:04Z",
-   "url_id": "5501f69cb3b1572b4155e72896cc4aa0"
+   "summary_1line": null,
+   "published_at": "2026-10-24T18:34:08Z",
+   "url_id": "eb730380f59687185d712e1aa8e958b0"
+  },
+  {
+   "title": "Congress and bureaucrats try to catch up AI, with predictable results",
+   "outlet": "Washington Examiner",
+   "outlet_name": "Washington Examiner",
+   "url": "https://www.washingtonexaminer.com/premium/4775344/ai-and-its-regulators/",
+   "label": "REPORTED",
+   "summary_1line": "AI leaders urge regulation amid fears of rogue systems and drone warfare.",
+   "published_at": "2026-10-24T12:15:40Z",
+   "url_id": "9cf21e7d09bdfd0088eb85d92696ebf1"
   }
  ],
  "ticker": [
-  {
-   "headline": "Google DeepMind Pentagon AI contract resignations: Researchers exit over classified…",
-   "outlet": "Livemint",
-   "outlet_name": "Livemint",
-   "label": "CONFIRMED",
-   "url": "https://www.livemint.com/companies/news/google-deepmind-pentagon-ai-contract-resignations-researchers-exit-over-classified-military-deals-all-you-need-to-know-11792862967400.html",
-   "url_id": "97f9231aeb816910eaa49ffe5ba88140"
-  },
-  {
-   "headline": "Elvis Presley Estate Sues Anthropic for Stealing His Music ‘At a Scale Never Seen Before’…",
-   "outlet": "VICE",
-   "outlet_name": "VICE",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkpHcG95OGt1cGU3Z3VWSmJHZkVzUVRlUko5S0xpLVM5REs2RUxkeHlENUQ3SzhYV3psUllVUE02YXM4bFVMbHlMbEgyaHIyM0ltNm9pdmJLTFY3aFpyNS1KTDFjRFo2enVVeVpjMUJXektqU21hbmRDZHVfQk81WlVVLWpmZEQ2dzRWcUI4TTd5M0dRbjFjM2RNWkc2eHQ2NEZOdTFETTVHdHV1OE9TOXVOSGdvYWNMQlJ4azFGYU1pUmFTUExoeTB0bFY?oc=5",
-   "url_id": "9f4857b6069411443e1e36a640f80313"
-  },
-  {
-   "headline": "OpenAI Expands Decisions API, Scales Enterprise Push With Uber and Cuts Frontier Training…",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
-   "label": "REPORTED",
-   "url": "https://theaiinsider.tech/2026/10/24/openai-expands-decisions-api-scales-enterprise-push-with-uber-and-cuts-frontier-training-off-from-the-live-internet/",
-   "url_id": "47e419e693ba825026b4a6f0bd61e72e"
-  },
-  {
-   "headline": "Grok's Odyssey Remake: 5 Details That Matter",
-   "outlet": "BASENOR - Tesla Accessories",
-   "outlet_name": "BASENOR - Tesla Accessories",
-   "label": "REPORTED",
-   "url": "https://www.basenor.com/blogs/news/groks-odyssey-remake-5-details-that-matter",
-   "url_id": "067983b817643e719c3a40e599488924"
-  },
-  {
-   "headline": "DeepSeek und MiniMax: Chinesische KI-Modelle dürfen ins Ausland",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "label": "REPORTED",
-   "url": "https://borncity.com/news/deepseek-und-minimax-chinesische-ki-modelle-duerfen-ins-ausland/",
-   "url_id": "5501f69cb3b1572b4155e72896cc4aa0"
-  },
-  {
-   "headline": "ABA Technology Presents Fusion AI In-a-Box to Jensen Huang, CEO and Founder of Nvidia, at…",
-   "outlet": "Atalayar",
-   "outlet_name": "Atalayar",
-   "label": "REPORTED",
-   "url": "https://www.atalayar.com/en/articulo/new-technologies-innovation/aba-technology-presents-fusion-ai-in-box-to-jensen-huang-ceo-and-founder-of-nvidia-at-gtc-berlin/20261024190903230078.html",
-   "url_id": "57a5bf155c00f477f3a95b91d9bf8173"
-  },
   {
    "headline": "NVIDIA GeForce RTX 30 GPUs Get Up To 2X Faster AI Compute Performance With New GPU Unlock…",
    "outlet": "Wccftech",
@@ -122,18 +74,50 @@
    "url_id": "f49f8f2aa5be61565dc9e44416a2a66b"
   },
   {
-   "headline": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely",
-   "outlet": "gizmodo.com",
-   "outlet_name": "gizmodo.com",
-   "label": "CONFIRMED",
-   "url": "https://gizmodo.com/openai-built-a-giant-fake-internet-for-its-agents-to-use-and-abuse-safely-2000830274",
-   "url_id": "0f6841fa8a6eca133588699617c07050"
+   "headline": "This open-source Circle to Search skips Gemini and works offline",
+   "outlet": "How-To Geek",
+   "outlet_name": "How-To Geek",
+   "label": "REPORTED",
+   "url": "https://www.howtogeek.com/this-open-source-circle-to-search-skips-gemini-and-works-offline/",
+   "url_id": "7b14df8bb08f0bf9e7320ad93360c61a"
+  },
+  {
+   "headline": "Sweden Bans ChatGPT and Claude, Approves Microsoft Copilot for Government Use",
+   "outlet": "KuCoin",
+   "outlet_name": "KuCoin",
+   "label": "REPORTED",
+   "url": "https://www.kucoin.com/news/flash/sweden-bans-chatgpt-and-claude-approves-microsoft-copilot-for-government-use",
+   "url_id": "eb730380f59687185d712e1aa8e958b0"
+  },
+  {
+   "headline": "Congress and bureaucrats try to catch up AI, with predictable results",
+   "outlet": "Washington Examiner",
+   "outlet_name": "Washington Examiner",
+   "label": "REPORTED",
+   "url": "https://www.washingtonexaminer.com/premium/4775344/ai-and-its-regulators/",
+   "url_id": "9cf21e7d09bdfd0088eb85d92696ebf1"
+  },
+  {
+   "headline": "Ohio Labor Groups Push Bill to Keep AI Out of State Benefit Decisions",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
+   "label": "REPORTED",
+   "url": "https://hoodline.com/2026/10/ohio-labor-groups-push-bill-to-keep-ai-out-of-state-benefit-decisions/",
+   "url_id": "eeb7d9e582c11cb854361d3a5dc81852"
+  },
+  {
+   "headline": "OpenAI Nears $1.25 Trillion Valuation. What That Tells Investors Ahead of a Potential…",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.yahoo.com/technology/ai/articles/openai-nears-1-25-trillion-055824797.html",
+   "url_id": "afd627b992df6e0e1499206dca52990e"
   },
   {
    "headline": "Elon Musk actually follows through on Grok AI adaptation of The Odyssey",
    "outlet": "mashable.com",
    "outlet_name": "mashable.com",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://mashable.com/tech/elon-musk-grok-odyssey-ai-film-adaption",
    "url_id": "9bf70d4beac107826a1d00542d112334"
   },
@@ -146,22 +130,38 @@
    "url_id": "dbccdbe0a56fd53d0ba3237a33807998"
   },
   {
-   "headline": "Claude Cohen-Tannoudji (Physics Nobel Prize 1997) has died",
-   "outlet": "lkb.fr",
-   "outlet_name": "lkb.fr",
+   "headline": "62% of Americans Agree: AI Scams Are a Bigger Threat Than Computer Viruses",
+   "outlet": "pcmag.com",
+   "outlet_name": "pcmag.com",
+   "label": "CONFIRMED",
+   "url": "https://www.pcmag.com/news/survey-finds-ai-scams-bigger-threat-than-computer-viruses",
+   "url_id": "0f795a3499e72df5f1dfc1411762a2b2"
+  },
+  {
+   "headline": "Blocks latest AI model Dessa was trained entirely on human speech — and it shows",
+   "outlet": "mashable.com",
+   "outlet_name": "mashable.com",
+   "label": "CONFIRMED",
+   "url": "https://mashable.com/tech/block-unveils-new-ai-model-dessa-trained-entirely-on-human-speech",
+   "url_id": "df62f78b9158c0cceed798fbbc4c9c52"
+  },
+  {
+   "headline": "UK Announces £600 Million AI Security Package Covering Cyber and Bio Threats",
+   "outlet": "The420.in",
+   "outlet_name": "The420.in",
    "label": "REPORTED",
-   "url": "https://www.lkb.fr/en/death-of-claude-cohen-tannoudji/",
-   "url_id": "82bb16e408b66b656d6f35b8575ad1cb"
+   "url": "https://the420.in/uk-600-million-ai-security-biosecurity-cyber-defence/",
+   "url_id": "cb803aa71fd2646e713d7ea3d3c67272"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 6200,
+ "tidbit": "Did you know… about 6,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 5900,
  "articles_24h_label": "about 6,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/20.mp3",
- "audio_seconds": 76.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/21.mp3",
+ "audio_seconds": 55.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Livemint: Google DeepMind Pentagon AI contract resignations: Researchers exit over classified military deals; all you need to know.\nReported by VICE: Elvis Presley Estate Sues Anthropic for Stealing His Music ‘At a Scale Never Seen Before’ To Train AI.\nReported by AI Insider: OpenAI Expands Decisions API, Scales Enterprise Push With Uber and Cuts Frontier Training Off From the Live Internet.\nReported by BASENOR - Tesla Accessories: Grok's Odyssey Remake: 5 Details That Matter.\nReported by BornCity: DeepSeek und MiniMax: Chinesische KI-Modelle dürfen ins Ausland.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Wccftech: NVIDIA GeForce RTX 30 GPUs unlock up to 50 to 80 percent more Tensor Core performance for computing tasks with real-world gains up to 60 percent.\nReported by AI Insider: Pathos AI secures $237M in Series E financing to scale its drug development platform and advance four clinical oncology drugs.\nAn open-source Circle to Search tool skips Gemini and works offline, reported by How-To Geek.\nSweden bans ChatGPT and Claude but approves Microsoft Copilot for government use, reported by KuCoin.\nReported by Washington Examiner: Congress and bureaucrats work to catch up with artificial intelligence, as leaders urge regulation amid fears of rogue systems and drone warfare.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
