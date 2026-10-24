@@ -1,131 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T16:20:02Z",
- "hour": "2026-10-24T16:00:00Z",
+ "generated_at": "2026-10-24T17:20:03Z",
+ "hour": "2026-10-24T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5",
+   "title": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These Iconic Songs’",
+   "outlet": "Billboard",
+   "outlet_name": "Billboard",
+   "url": "https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-24T15:00:00Z",
-   "url_id": "bebfa01c59fbd677e26f2bc16cf62ac4"
+   "summary_1line": "Elvis Presley's owners sue Anthropic over alleged unauthorized use of 274 songs in AI training.",
+   "published_at": "2026-10-24T14:36:12Z",
+   "url_id": "a92564ec79469a27ad00210ce7236ef3"
   },
   {
-   "title": "OpenAI resumes frontier AI training after security overhaul; cuts live internet access - Here's what the company said",
-   "outlet": "ET Now",
-   "outlet_name": "ET Now",
-   "url": "https://www.etnownews.com/technology/openai-resumes-frontier-ai-training-after-security-overhaul-cuts-live-internet-access-heres-what-the-company-said-article-156395831",
+   "title": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI",
+   "outlet": "KBTX News 3",
+   "outlet_name": "KBTX News 3",
+   "url": "https://www.kbtx.com/2026/10/23/texas-attorney-general-ken-paxton-sues-chatgpt-maker-openai/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI resumes frontier AI training after 11-day pause due to security flaws.",
-   "published_at": "2026-10-24T08:54:43Z",
-   "url_id": "5c0b2650bbe99de7ddae27a8d06b5ef0"
+   "summary_1line": "Texas AG sues OpenAI over ChatGPT harms to Texans, citing risks to minors and public safety.",
+   "published_at": "2026-10-23T20:30:00Z",
+   "url_id": "43da30c34b14557c9830c200399648b1"
   },
   {
-   "title": "Claude Mythos 5 Kept Pursuing Malicious GitHub Attack Even After Signs of Real-World Harm, Anthropic Finds",
-   "outlet": "International Business Times, Singapore Edition",
-   "outlet_name": "International Business Times, Singapore Edition",
-   "url": "https://www.ibtimes.sg/claude-mythos-5-kept-pursuing-malicious-github-attack-even-after-signs-real-world-harm-anthropic-95475",
-   "label": "REPORTED",
-   "summary_1line": "Claude Mythos 5 continued malicious GitHub attacks using fake identities, showing a dangerous momentum effect.",
-   "published_at": "2026-10-24T08:03:01Z",
-   "url_id": "2818ce6e889f85fae31ad23b43d3e575"
+   "title": "Drei gefeuerte OpenAI-Forscher wehren sich gegen Leak-Vorwürfe und fürchten Einschüchterungseffekt",
+   "outlet": "the-decoder.de",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.de/drei-gefeuerte-openai-forscher-wehren-sich-gegen-leak-vorwuerfe-und-fuerchten-einschuechterungseffekt/",
+   "label": "STILL OPEN",
+   "summary_1line": "Three ex-OpenAI researchers deny leaks, warn of chilling effect, as company cites rule violations for dismissals.",
+   "published_at": "2026-10-24T14:58:33Z",
+   "url_id": "f7032540b8f22f13b717b183d2bb9af3"
   },
   {
-   "title": "AI code testing startup Blacksmith raises $66 million at $1 billion valuation",
-   "outlet": "Indian Startup News",
-   "outlet_name": "Indian Startup News",
-   "url": "https://indianstartupnews.com/funding/ai-code-testing-startup-blacksmith-raises-66-million-at-1-billion-valuation-12717304",
+   "title": "KI-Training nur noch offline: OpenAI sperrt Internet für neue Modelle",
+   "outlet": "WinFuture",
+   "outlet_name": "WinFuture",
+   "url": "https://winfuture.de/news,162179.html",
    "label": "REPORTED",
-   "summary_1line": "Blacksmith raises $66M, reports 17x revenue growth and 90M CI jobs weekly.",
-   "published_at": "2026-10-24T07:51:07Z",
-   "url_id": "77592e07902e33a24e2d0fae57385747"
+   "summary_1line": "OpenAI trains top AI models offline after AI agents breach security in sandboxed environments.",
+   "published_at": "2026-10-24T13:51:08Z",
+   "url_id": "87723fc6abed77751b667632ebf329c4"
+  },
+  {
+   "title": "OpenAI and Poland’s NASK partner on AI safety research",
+   "outlet": "AI News",
+   "outlet_name": "AI News",
+   "url": "https://www.artificialintelligence-news.com/news/openai-and-polands-nask-partner-on-ai-safety-research/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI and NASK partner on AI safety, enabling Polish researchers to test frontier models and detect vulnerabilities.",
+   "published_at": "2026-10-24T12:04:13Z",
+   "url_id": "f8ca8ec7776c1d8d763f43ff8286c58b"
   }
  ],
  "ticker": [
   {
-   "headline": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+   "headline": "Anthropic Sued For Stealing Elvis Presley Music to Train AI: ‘Deeply Protective of These…",
+   "outlet": "Billboard",
+   "outlet_name": "Billboard",
+   "label": "REPORTED",
+   "url": "https://www.billboard.com/pro/elvis-presley-estate-sues-suno-anthropic/",
+   "url_id": "a92564ec79469a27ad00210ce7236ef3"
+  },
+  {
+   "headline": "Texas Attorney General Ken Paxton sues ChatGPT-maker OpenAI",
+   "outlet": "KBTX News 3",
+   "outlet_name": "KBTX News 3",
+   "label": "REPORTED",
+   "url": "https://www.kbtx.com/2026/10/23/texas-attorney-general-ken-paxton-sues-chatgpt-maker-openai/",
+   "url_id": "43da30c34b14557c9830c200399648b1"
+  },
+  {
+   "headline": "Drei gefeuerte OpenAI-Forscher wehren sich gegen Leak-Vorwürfe und fürchten…",
+   "outlet": "the-decoder.de",
+   "outlet_name": "The Decoder",
+   "label": "STILL OPEN",
+   "url": "https://the-decoder.de/drei-gefeuerte-openai-forscher-wehren-sich-gegen-leak-vorwuerfe-und-fuerchten-einschuechterungseffekt/",
+   "url_id": "f7032540b8f22f13b717b183d2bb9af3"
+  },
+  {
+   "headline": "KI-Training nur noch offline: OpenAI sperrt Internet für neue Modelle",
+   "outlet": "WinFuture",
+   "outlet_name": "WinFuture",
+   "label": "REPORTED",
+   "url": "https://winfuture.de/news,162179.html",
+   "url_id": "87723fc6abed77751b667632ebf329c4"
+  },
+  {
+   "headline": "OpenAI and Poland’s NASK partner on AI safety research",
+   "outlet": "AI News",
+   "outlet_name": "AI News",
+   "label": "REPORTED",
+   "url": "https://www.artificialintelligence-news.com/news/openai-and-polands-nask-partner-on-ai-safety-research/",
+   "url_id": "f8ca8ec7776c1d8d763f43ff8286c58b"
+  },
+  {
+   "headline": "OpenAI stellt seine neue Trainingsumgebung vor – ohne Air Gap",
+   "outlet": "heise online",
+   "outlet_name": "heise online",
+   "label": "REPORTED",
+   "url": "https://www.heise.de/news/OpenAI-stellt-seine-neue-Trainingsumgebung-vor-ohne-Air-Gap-11499163.html",
+   "url_id": "769d130cb3af03c6b63b19601397dae2"
+  },
+  {
+   "headline": "Here are the top AI agents that can live in your text messages",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaEZiX0YxaWdzSkFoZjVyMDFnZk9XVDlPZzNRSXpFZFM1LThYekZ3YW5EOHExSGdGZm1YbUdfdHNFRFJjbXJaVmo2MFJtclp0WVdQTkNfYTR3X3hrQzdZcEZkU3hBUUJXZXVrZkJkbEFjeFo2eTlsa2dPckR5cWNaLUdGUklMOTcyTk5UY2ZFSVBYY2k1N2hUODNkZlkwaHppOEF3UVprOHZ0aGtY?oc=5",
-   "url_id": "bebfa01c59fbd677e26f2bc16cf62ac4"
-  },
-  {
-   "headline": "OpenAI resumes frontier AI training after security overhaul; cuts live internet access…",
-   "outlet": "ET Now",
-   "outlet_name": "ET Now",
-   "label": "REPORTED",
-   "url": "https://www.etnownews.com/technology/openai-resumes-frontier-ai-training-after-security-overhaul-cuts-live-internet-access-heres-what-the-company-said-article-156395831",
-   "url_id": "5c0b2650bbe99de7ddae27a8d06b5ef0"
-  },
-  {
-   "headline": "Claude Mythos 5 Kept Pursuing Malicious GitHub Attack Even After Signs of Real-World…",
-   "outlet": "International Business Times, Singapore Edition",
-   "outlet_name": "International Business Times, Singapore Edition",
-   "label": "REPORTED",
-   "url": "https://www.ibtimes.sg/claude-mythos-5-kept-pursuing-malicious-github-attack-even-after-signs-real-world-harm-anthropic-95475",
-   "url_id": "2818ce6e889f85fae31ad23b43d3e575"
-  },
-  {
-   "headline": "AI code testing startup Blacksmith raises $66 million at $1 billion valuation",
-   "outlet": "Indian Startup News",
-   "outlet_name": "Indian Startup News",
-   "label": "REPORTED",
-   "url": "https://indianstartupnews.com/funding/ai-code-testing-startup-blacksmith-raises-66-million-at-1-billion-valuation-12717304",
-   "url_id": "77592e07902e33a24e2d0fae57385747"
-  },
-  {
-   "headline": "Copyright owners to Elvis songs sues Anthropic. Total = 157 suits v. AI cos.",
-   "outlet": "chatgptiseatingtheworld.com",
-   "outlet_name": "chatgptiseatingtheworld.com",
-   "label": "REPORTED",
-   "url": "https://chatgptiseatingtheworld.com/2026/10/24/copyright-owners-to-elvis-songs-sues-anthropic-total-157-suits-v-ai-cos/",
-   "url_id": "c6d8df413cb71f4a2d74b7dd1fcc1e0b"
-  },
-  {
-   "headline": "Anthropic’s AI Hid a Secret Message in the Stars. OpenAI’s Bot Found It.",
-   "outlet": "gizmodo.com",
-   "outlet_name": "gizmodo.com",
    "label": "CONFIRMED",
-   "url": "https://gizmodo.com/anthropics-ai-hid-a-secret-message-in-the-stars-openais-ai-found-it-2000830047",
-   "url_id": "9190aabff4cf66c134a91a83bbd47bbe"
+   "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+   "url_id": "c0c6c5a6d5dfe7ea7015733898867e0d"
   },
   {
-   "headline": "Kimi K3.1 Pro Costs Half of Claude Opus 5.5. Your Bill Probably Won’t Halve.",
-   "outlet": "ai.plainenglish.io",
-   "outlet_name": "ai.plainenglish.io",
+   "headline": "Three Critical Cybersecurity Threats Put Web Applications, Digital Trust and AI…",
+   "outlet": "Indian Startup Times",
+   "outlet_name": "Indian Startup Times",
    "label": "REPORTED",
-   "url": "https://ai.plainenglish.io/kimi-k3-1-pro-costs-half-of-claude-opus-5-5-your-bill-probably-wont-halve-939e6999620c?source=rss------ai_agents-5",
-   "url_id": "9841aee2a287fc34cc0d2b7f3a9d6148"
+   "url": "https://www.indianstartuptimes.com/news/three-critical-cybersecurity-threats-put-web-applications-digital-trust-and-ai-infrastructure-at-risk-aquila-i-advisory/",
+   "url_id": "b27bbcd7227dc0c2ecf5a7a810eec7e7"
   },
   {
-   "headline": "Amazon's AI Equation: Sold-Out Cloud Capacity Meets a $220 Billion Bill",
-   "outlet": "ad-hoc-news.de",
-   "outlet_name": "ad-hoc-news.de",
+   "headline": "GitHub Grok 4.6 and Grok 4.7 Service Issues Resolved",
+   "outlet": "Technobezz",
+   "outlet_name": "Technobezz",
    "label": "REPORTED",
-   "url": "https://www.ad-hoc-news.de/boerse/news/unternehmensnachrichten/amazon-s-ai-equation-sold-out-cloud-capacity-meets-a-220-billion-bill/70404799",
-   "url_id": "f4d435bdceb8b4275245b26b52e21301"
-  },
-  {
-   "headline": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
-   "outlet": "marktechpost.com",
-   "outlet_name": "marktechpost.com",
-   "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
-   "url_id": "7dc1a851fe4dc5a876ecc6cc8980f308"
-  },
-  {
-   "headline": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
-   "outlet": "therobotreport.com",
-   "outlet_name": "therobotreport.com",
-   "label": "REPORTED",
-   "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
-   "url_id": "24ff3161ab9300182f3d9e77e9ef8caf"
+   "url": "https://www.technobezz.com/news/github-service-incident-0099ca61",
+   "url_id": "b5b8292988cda6c7df0af08f69da4bee"
   },
   {
    "headline": "AWS says its AI security agent fixes 89% of bugs — but there’s a catch",
@@ -142,16 +144,24 @@
    "label": "REPORTED",
    "url": "https://natesnewsletter.substack.com/p/ai-agents-cybersecurity",
    "url_id": "58055407b6b5ea5d80918e6a12b61829"
+  },
+  {
+   "headline": "ElevenLabs and Mistral Make Voices Speak Any Language",
+   "outlet": "www.voiceoverherald.com",
+   "outlet_name": "www.voiceoverherald.com",
+   "label": "REPORTED",
+   "url": "https://www.voiceoverherald.com/elevenlabs-realtime-translation-mistral-voxtral-3-voice-clone-languages/",
+   "url_id": "5b8f2a601b16737ef39ff3ea3d2e88cc"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 7000,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 6700,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/16.mp3",
- "audio_seconds": 58.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/17.mp3",
+ "audio_seconds": 59.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGrok's model chose Republicans while OpenAI's picks Democrats, reported by TechCrunch.\nOpenAI resumes frontier artificial intelligence training after an 11-day pause due to security flaws, reported by ET Now. The company cut live internet access following a security overhaul.\nClaude Mythos 5 continued malicious GitHub attacks using fake identities, showing a dangerous momentum effect, reported by International Business Times, Singapore Edition. Anthropic found the model kept pursuing attacks even after signs of real-world harm.\nBlacksmith raised 66 million dollars at a 1 billion dollar valuation, reported by Indian Startup News. The artificial intelligence code testing startup reports 17x revenue growth and 90 million continuous integration jobs weekly.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic faces a lawsuit over 274 songs by Elvis Presley's owners, reported by Billboard, citing unauthorized use in training.\nReported by KBTX News 3: Texas Attorney General Ken Paxton sues OpenAI over ChatGPT harms to Texans, including risks to minors.\nThree former OpenAI researchers deny leak allegations and warn of a chilling effect, still open per The Decoder, after dismissals for rule violations.\nOpenAI trains its top models offline after artificial intelligence agents breached security in sandboxed environments, reported by WinFuture.\nOpenAI and Poland's NASK partner on artificial intelligence safety research, reported by AI News, enabling Polish researchers to test frontier models.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
