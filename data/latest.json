@@ -1,117 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T03:20:02Z",
- "hour": "2026-10-24T03:00:00Z",
+ "generated_at": "2026-10-24T04:20:02Z",
+ "hour": "2026-10-24T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China’s AI compute power set to double, but heavily reliant on US chips: report",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
-   "label": "CONFIRMED",
-   "summary_1line": "China’s AI compute to double by 2027, 65% on US chips.",
-   "published_at": "2026-10-24T01:00:11Z",
-   "url_id": "e9dd1c2517c459cbb368e784b7c7332c"
+   "title": "OpenAI Sued By Texas Attorney General Over Deceptive Practices And AI Chatbot Dangers",
+   "outlet": "Stocktwits",
+   "outlet_name": "Stocktwits",
+   "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-sued-by-texas-attorney-general-over-deceptive-practices-and-ai-chatbot-dangers/cZxypyxRBU5",
+   "label": "REPORTED",
+   "summary_1line": "Texas AG sues OpenAI and Sam Altman over alleged deceptive AI marketing and harms from ChatGPT.",
+   "published_at": "2026-10-23T19:52:23Z",
+   "url_id": "2c0ba80b31df3e3046bebb4914bb448e"
   },
   {
-   "title": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise minimum suddenly sidelines 11,000-plus small firms -- right before IMPACT 2026",
-   "outlet": "RIABiz",
-   "outlet_name": "RIABiz",
-   "url": "https://riabiz.com/a/2026/10/24/schwab-trumpeted-anthropics-claude-for-all-16000-of-its-rias-but-a-20-seat-enterprise-minimum-suddenly-sidelines-11000-plus-small-firms-right-before-impact-2026",
+   "title": "Bitcoin Core Updates Security Policy As AI Speeds Bug Discovery",
+   "outlet": "Menafn",
+   "outlet_name": "Menafn",
+   "url": "https://menafn.com/1111855314/Bitcoin-Core-Updates-Security-Policy-As-AI-Speeds-Bug-Discovery",
+   "label": "REPORTED",
+   "summary_1line": "Bitcoin Core speeds fixes for AI-found bugs, ending long disclosure embargoes for easily discoverable flaws.",
+   "published_at": "2026-10-23T09:32:13Z",
+   "url_id": "791a4aac8e1e140d1b41a6c9f3b18a39"
+  },
+  {
+   "title": "UK government sets out $800 million of AI security funding",
+   "outlet": "KSLM Radio",
+   "outlet_name": "KSLM Radio",
+   "url": "https://www.kslm.news/news/uk-government-sets-out-800-million-of-ai-security-funding-mvlnwmwk",
+   "label": "REPORTED",
+   "summary_1line": "KSLM 1220 AM / 104.3 FM offers live radio broadcasts and services.",
+   "published_at": "2026-10-24T00:33:27Z",
+   "url_id": "5f7dca95d57260b49cfee4a152997303"
+  },
+  {
+   "title": "Inside China, the AI funding frenzy is just heating up",
+   "outlet": "Australian Financial Review",
+   "outlet_name": "Australian Financial Review",
+   "url": "https://www.afr.com/world/asia/inside-china-the-ai-funding-frenzy-is-just-heating-up-20261024-p6181w",
    "label": "STILL OPEN",
-   "summary_1line": "Anthropic's 20-seat Claude minimum sidelines 11,000 small RIAs after initial promise of universal access.",
-   "published_at": "2026-10-24T01:14:02Z",
-   "url_id": "81458a7ec0e725c712ef10435d52327a"
+   "summary_1line": "Investors flock to Hangzhou for DeepSeek as global AI funding faces debt concerns.",
+   "published_at": "2026-10-23T15:00:00Z",
+   "url_id": "bbe68761327e508cc22f8840e8816705"
   },
   {
-   "title": "Google is making Gemini smarter behind the wheel by connecting it to Gmail, Photos, and Maps",
-   "outlet": "Yahoo Autos",
-   "outlet_name": "Yahoo Autos",
-   "url": "https://autos.yahoo.com/ev-and-future-tech/articles/google-making-gemini-smarter-behind-004446501.html",
-   "label": "REPORTED",
-   "summary_1line": "Google rolls out Gemini's Personal Intelligence for driving with app data access.",
-   "published_at": "2026-10-24T00:44:00Z",
-   "url_id": "7d698c7043797c74dadf7e048e3b0079"
-  },
-  {
-   "title": "OpenAI bugging case raises questions about AI lab security",
-   "outlet": "AZ Family",
-   "outlet_name": "AZ Family",
-   "url": "https://www.azfamily.com/video/2026/10/24/openai-bugging-case-raises-questions-about-ai-lab-security/",
-   "label": "REPORTED",
-   "summary_1line": "Storm uproots 19 trees in Heber-Overgaard; no injuries or home damage.",
-   "published_at": "2026-10-24T00:38:10Z",
-   "url_id": "55a3d9838aa26acacc4c1816b329445a"
-  },
-  {
-   "title": "Google Releases ChromeOS 156 With Gemini Talk to Type Dictation and Video Summaries on Chromebook Plus",
-   "outlet": "gHacks",
-   "outlet_name": "gHacks",
-   "url": "https://www.ghacks.net/2026/10/24/google-releases-chromeos-156-with-gemini-talk-to-type-dictation-and-video-summaries-on-chromebook-plus/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-24T02:17:27Z",
-   "url_id": "191c4d18dad110d984da89bab4d810ef"
+   "title": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
+   "outlet": "The Mighty 790 KFGO",
+   "outlet_name": "The Mighty 790 KFGO",
+   "url": "https://kfgo.com/2026/10/23/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say/",
+   "label": "CONFIRMED",
+   "summary_1line": "AI has doubled software flaws, triggering global outages and urgent fixes in critical systems.",
+   "published_at": "2026-10-23T10:20:34Z",
+   "url_id": "9645764d8b2dbd74f43cfbda3a41d566"
   }
  ],
  "ticker": [
   {
-   "headline": "China’s AI compute power set to double, but heavily reliant on US chips: report",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
-   "label": "CONFIRMED",
-   "url": "https://www.scmp.com/tech/tech-war/article/3371929/chinas-ai-compute-surge-heavily-reliant-us-chips-offshore-cloud-access-report",
-   "url_id": "e9dd1c2517c459cbb368e784b7c7332c"
-  },
-  {
-   "headline": "Schwab trumpeted Anthropic's Claude for all 16,000 of its RIAs, but a 20-seat enterprise…",
-   "outlet": "RIABiz",
-   "outlet_name": "RIABiz",
-   "label": "STILL OPEN",
-   "url": "https://riabiz.com/a/2026/10/24/schwab-trumpeted-anthropics-claude-for-all-16000-of-its-rias-but-a-20-seat-enterprise-minimum-suddenly-sidelines-11000-plus-small-firms-right-before-impact-2026",
-   "url_id": "81458a7ec0e725c712ef10435d52327a"
-  },
-  {
-   "headline": "Google is making Gemini smarter behind the wheel by connecting it to Gmail, Photos, and…",
-   "outlet": "Yahoo Autos",
-   "outlet_name": "Yahoo Autos",
+   "headline": "OpenAI Sued By Texas Attorney General Over Deceptive Practices And AI Chatbot Dangers",
+   "outlet": "Stocktwits",
+   "outlet_name": "Stocktwits",
    "label": "REPORTED",
-   "url": "https://autos.yahoo.com/ev-and-future-tech/articles/google-making-gemini-smarter-behind-004446501.html",
-   "url_id": "7d698c7043797c74dadf7e048e3b0079"
-  },
-  {
-   "headline": "OpenAI bugging case raises questions about AI lab security",
-   "outlet": "AZ Family",
-   "outlet_name": "AZ Family",
-   "label": "REPORTED",
-   "url": "https://www.azfamily.com/video/2026/10/24/openai-bugging-case-raises-questions-about-ai-lab-security/",
-   "url_id": "55a3d9838aa26acacc4c1816b329445a"
-  },
-  {
-   "headline": "Google Releases ChromeOS 156 With Gemini Talk to Type Dictation and Video Summaries on…",
-   "outlet": "gHacks",
-   "outlet_name": "gHacks",
-   "label": "REPORTED",
-   "url": "https://www.ghacks.net/2026/10/24/google-releases-chromeos-156-with-gemini-talk-to-type-dictation-and-video-summaries-on-chromebook-plus/",
-   "url_id": "191c4d18dad110d984da89bab4d810ef"
-  },
-  {
-   "headline": "OpenAI Agents Disable Their Own Safety Monitoring",
-   "outlet": "BankInfoSecurity",
-   "outlet_name": "BankInfoSecurity",
-   "label": "REPORTED",
-   "url": "https://www.bankinfosecurity.com/openai-agents-disable-their-own-safety-monitoring-a-33197",
-   "url_id": "0a6499a2544eee4430a791adcc50d078"
-  },
-  {
-   "headline": "Mining Regulatory Shifts, Profits, AI, and Environmental Rules",
-   "outlet": "Mexico Business News",
-   "outlet_name": "Mexico Business News",
-   "label": "REPORTED",
-   "url": "https://mexicobusiness.news/mining/news/mining-regulatory-shifts-profits-ai-and-environmental-rules",
-   "url_id": "db423afbdffff42e4cf71f35e7425021"
+   "url": "https://stocktwits.com/news-articles/markets/equity/open-ai-sued-by-texas-attorney-general-over-deceptive-practices-and-ai-chatbot-dangers/cZxypyxRBU5",
+   "url_id": "2c0ba80b31df3e3046bebb4914bb448e"
   },
   {
    "headline": "Bitcoin Core Updates Security Policy As AI Speeds Bug Discovery",
@@ -122,6 +74,14 @@
    "url_id": "791a4aac8e1e140d1b41a6c9f3b18a39"
   },
   {
+   "headline": "UK government sets out $800 million of AI security funding",
+   "outlet": "KSLM Radio",
+   "outlet_name": "KSLM Radio",
+   "label": "REPORTED",
+   "url": "https://www.kslm.news/news/uk-government-sets-out-800-million-of-ai-security-funding-mvlnwmwk",
+   "url_id": "5f7dca95d57260b49cfee4a152997303"
+  },
+  {
    "headline": "Inside China, the AI funding frenzy is just heating up",
    "outlet": "Australian Financial Review",
    "outlet_name": "Australian Financial Review",
@@ -130,38 +90,78 @@
    "url_id": "bbe68761327e508cc22f8840e8816705"
   },
   {
+   "headline": "AI-discovered bugs may soon trigger fresh disruptions, cyber experts say",
+   "outlet": "The Mighty 790 KFGO",
+   "outlet_name": "The Mighty 790 KFGO",
+   "label": "CONFIRMED",
+   "url": "https://kfgo.com/2026/10/23/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-cyber-experts-say/",
+   "url_id": "9645764d8b2dbd74f43cfbda3a41d566"
+  },
+  {
+   "headline": "Block unveils Dessa, an AI voice model trained only on human conversation",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/block-unveils-dessa-ai-voice-model/",
+   "url_id": "30d13bcd2bac14b82e37b4e1b7914476"
+  },
+  {
+   "headline": "Inside the cyber flaw scramble that brought the AI threat to life",
+   "outlet": "Politico Europe",
+   "outlet_name": "Politico Europe",
+   "label": "CONFIRMED",
+   "url": "https://www.politico.eu/article/the-cyber-flaw-scramble-that-brought-the-ai-threat-to-life/",
+   "url_id": "95e55b522ae19492ac5fcd043148bfa2"
+  },
+  {
+   "headline": "Mistral launches Timestral, an AI that forecasts numbers without a GPU",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
+   "label": "REPORTED",
+   "url": "https://pasqualepillitteri.it/en/news/26606/mistral-timestral-ai-forecasts-numbers-cpu",
+   "url_id": "3905012ae5eeb0a24be9af9663b7de7f"
+  },
+  {
    "headline": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely…",
    "outlet": "Reuters on MSN",
    "outlet_name": "Reuters on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/ar-AA2fWY5k",
-   "url_id": "179c5dfebe199b99009ff696c85d0568"
+   "url": "https://www.msn.com/en-us/news/other/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/ar-AA2fWY5k",
+   "url_id": "d96ae0442fcdc3584b2b42f163d9cb0c"
   },
   {
-   "headline": "I built a harness so I can watch Claude edit my videos live",
-   "outlet": "agentcut.synteq.app",
-   "outlet_name": "agentcut.synteq.app",
+   "headline": "Anthropic Adds Opt-In Security Scanning for Critical Open-Source Projects",
+   "outlet": "infoq.com",
+   "outlet_name": "infoq.com",
    "label": "REPORTED",
-   "url": "https://agentcut.synteq.app",
-   "url_id": "ed543af64f6dfb7e753a307a4801fdca"
+   "url": "https://www.infoq.com/news/2026/10/anthropic-oss-security-scanner/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+   "url_id": "82d6126d8a31acc03c122c39e5b6d832"
   },
   {
-   "headline": "Poor Man's Claude Pro – All the code you'll ever need for $20 per month",
-   "outlet": "bweller.me",
-   "outlet_name": "bweller.me",
-   "label": "STILL OPEN",
-   "url": "https://bweller.me/write-all-the-code-youll-ever-need-from-your-phone-for-20-per-month/",
-   "url_id": "af577f35e5a8d3d38b6c0a3af9259098"
+   "headline": "UK Establishes AI Biosecurity Lab Backed by OpenAI and Anthropic",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/uk-establishes-ai-biosecurity-lab-backed-by-openai-and-anthropic/",
+   "url_id": "da0587ad619de50cbd38189817c04581"
+  },
+  {
+   "headline": "Govt to issue consultation paper on a new AI law in 'coming weeks': Ashwini Vaishnaw",
+   "outlet": "Hindustan Times on MSN",
+   "outlet_name": "Hindustan Times on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/govt-to-issue-consultation-paper-on-a-new-ai-law-in-coming-weeks-ashwini-vaishnaw/ar-AA2fWhYI",
+   "url_id": "3f35add26dfb0ec1d867ddeb2b81d148"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… about 10,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 9600,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/03.mp3",
- "audio_seconds": 61.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/04.mp3",
+ "audio_seconds": 49.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nChina's artificial intelligence compute power is set to double by 2027, confirmed by South China Morning Post, with 65 percent reliant on US chips.\nSchwab's promise of Anthropic's Claude for all 16,000 of its registered investment advisors hit a snag when a 20-seat enterprise minimum suddenly sidelined 11,000-plus small firms, still open per RIABiz.\nGoogle is making Gemini smarter behind the wheel by connecting it to Gmail, Photos, and Maps, reported by Yahoo Autos.\nOpenAI's bugging case raises questions about artificial intelligence lab security, reported by AZ Family.\nGoogle releases ChromeOS 156 with Gemini Talk to Type dictation and video summaries on Chromebook Plus, reported by gHacks.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Stocktwits: OpenAI Sued By Texas Attorney General Over Deceptive Practices And AI Chatbot Dangers.\nReported by Menafn: Bitcoin Core Updates Security Policy As AI Speeds Bug Discovery.\nReported by KSLM Radio: UK government sets out $800 million of AI security funding.\nStill open, per Australian Financial Review: Inside China, the AI funding frenzy is just heating up.\nConfirmed, per The Mighty 790 KFGO: AI-discovered bugs may soon trigger fresh disruptions, cyber experts say.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
