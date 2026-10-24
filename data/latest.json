@@ -1,109 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T19:20:02Z",
- "hour": "2026-10-24T19:00:00Z",
+ "generated_at": "2026-10-24T20:20:03Z",
+ "hour": "2026-10-24T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia unveils Agent Knowledge Foundation for enterprise AI",
-   "outlet": "TechGig",
-   "outlet_name": "TechGig",
-   "url": "https://techgig.com/news/ai/nvidia-unveils-agent-knowledge-foundation-for-enterprise-ai/135102934",
-   "label": "REPORTED",
-   "summary_1line": "Nvidia launches open-source Agent Knowledge Foundation for enterprise AI data context.",
-   "published_at": "2026-10-23T07:57:57Z",
-   "url_id": "629119a4ec77a71439d612314474449a"
+   "title": "Google DeepMind Pentagon AI contract resignations: Researchers exit over classified military deals; all you need to know",
+   "outlet": "Livemint",
+   "outlet_name": "Livemint",
+   "url": "https://www.livemint.com/companies/news/google-deepmind-pentagon-ai-contract-resignations-researchers-exit-over-classified-military-deals-all-you-need-to-know-11792862967400.html",
+   "label": "CONFIRMED",
+   "summary_1line": "DeepMind researchers resign over military AI contracts and lack of oversight.",
+   "published_at": "2026-10-24T18:17:04Z",
+   "url_id": "97f9231aeb816910eaa49ffe5ba88140"
   },
   {
-   "title": "Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect",
-   "outlet": "WSJ",
-   "outlet_name": "WSJ",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTA2OWU1VV9mbXhWWWMxTVZ4QVA2UXEtamNNOFN0NmZpQXZSVUk1OHBGSXpBbkE2Vmo3Q1RDS3hMUWpFbm13VmF3SkplYWxqcnVrU3ZmV2xONWs4OGdKVjZSMnJUTjBfeWxmOUJkZDkzZ2NxQmZEZFpDZktuZEFxdEkzODFfdmlPaldWYzZXenFqTFhsUUw3OXBVTzNHZw?oc=5",
+   "title": "Elvis Presley Estate Sues Anthropic for Stealing His Music ‘At a Scale Never Seen Before’ To Train AI",
+   "outlet": "VICE",
+   "outlet_name": "VICE",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkpHcG95OGt1cGU3Z3VWSmJHZkVzUVRlUko5S0xpLVM5REs2RUxkeHlENUQ3SzhYV3psUllVUE02YXM4bFVMbHlMbEgyaHIyM0ltNm9pdmJLTFY3aFpyNS1KTDFjRFo2enVVeVpjMUJXektqU21hbmRDZHVfQk81WlVVLWpmZEQ2dzRWcUI4TTd5M0dRbjFjM2RNWkc2eHQ2NEZOdTFETTVHdHV1OE9TOXVOSGdvYWNMQlJ4azFGYU1pUmFTUExoeTB0bFY?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-24T17:07:00Z",
-   "url_id": "2b97d18dd8a470fc8536994b14954dde"
+   "published_at": "2026-10-24T18:58:31Z",
+   "url_id": "9f4857b6069411443e1e36a640f80313"
   },
   {
-   "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
-   "label": "CONFIRMED",
-   "summary_1line": "AI funding fears trigger market sell-off, with Meta and AI stocks dropping as defensive stocks and cybersecurity gain traction.",
-   "published_at": "2026-10-24T16:14:00Z",
-   "url_id": "bd9c959341a909a840de5a560a245e01"
+   "title": "OpenAI Expands Decisions API, Scales Enterprise Push With Uber and Cuts Frontier Training Off From the Live Internet",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
+   "url": "https://theaiinsider.tech/2026/10/24/openai-expands-decisions-api-scales-enterprise-push-with-uber-and-cuts-frontier-training-off-from-the-live-internet/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI launches Decisions API, shifts AI training to cached internet, and rolls out ChatGPT Work to Uber’s 30K workforce.",
+   "published_at": "2026-10-24T18:44:06Z",
+   "url_id": "47e419e693ba825026b4a6f0bd61e72e"
   },
   {
-   "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-   "outlet": "Oregon Public Broadcasting - OPB",
-   "outlet_name": "Oregon Public Broadcasting - OPB",
-   "url": "https://www.opb.org/article/2026/10/24/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows/",
-   "label": "CONFIRMED",
-   "summary_1line": "Pentagon AI weapons projects face gaps in following internal guidelines, with understaffed oversight.",
-   "published_at": "2026-10-24T17:41:23Z",
-   "url_id": "2e17d9892bf362282731f16320ae8463"
+   "title": "Grok's Odyssey Remake: 5 Details That Matter",
+   "outlet": "BASENOR - Tesla Accessories",
+   "outlet_name": "BASENOR - Tesla Accessories",
+   "url": "https://www.basenor.com/blogs/news/groks-odyssey-remake-5-details-that-matter",
+   "label": "REPORTED",
+   "summary_1line": "xAI's Grok creates film remakes with a $175K contest and end-of-2026 deadline.",
+   "published_at": "2026-10-24T18:03:39Z",
+   "url_id": "067983b817643e719c3a40e599488924"
   },
   {
-   "title": "A timeline of developments in AI safety since the attack on Hugging Face",
-   "outlet": "650 CKOM",
-   "outlet_name": "650 CKOM",
-   "url": "https://www.ckom.com/2026/10/24/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/",
-   "label": "CONFIRMED",
-   "summary_1line": "AI models attempted hacks and false tips, prompting safety reviews and model delays.",
-   "published_at": "2026-10-24T16:00:00Z",
-   "url_id": "0c338342ab26898b8bd7e9f74b2b27c2"
+   "title": "DeepSeek und MiniMax: Chinesische KI-Modelle dürfen ins Ausland",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "url": "https://borncity.com/news/deepseek-und-minimax-chinesische-ki-modelle-duerfen-ins-ausland/",
+   "label": "REPORTED",
+   "summary_1line": "DeepSeek and MiniMax gain global AI access after Chinese regulatory approval.",
+   "published_at": "2026-10-24T18:02:04Z",
+   "url_id": "5501f69cb3b1572b4155e72896cc4aa0"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia unveils Agent Knowledge Foundation for enterprise AI",
-   "outlet": "TechGig",
-   "outlet_name": "TechGig",
+   "headline": "Google DeepMind Pentagon AI contract resignations: Researchers exit over classified…",
+   "outlet": "Livemint",
+   "outlet_name": "Livemint",
+   "label": "CONFIRMED",
+   "url": "https://www.livemint.com/companies/news/google-deepmind-pentagon-ai-contract-resignations-researchers-exit-over-classified-military-deals-all-you-need-to-know-11792862967400.html",
+   "url_id": "97f9231aeb816910eaa49ffe5ba88140"
+  },
+  {
+   "headline": "Elvis Presley Estate Sues Anthropic for Stealing His Music ‘At a Scale Never Seen Before’…",
+   "outlet": "VICE",
+   "outlet_name": "VICE",
    "label": "REPORTED",
-   "url": "https://techgig.com/news/ai/nvidia-unveils-agent-knowledge-foundation-for-enterprise-ai/135102934",
-   "url_id": "629119a4ec77a71439d612314474449a"
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYkpHcG95OGt1cGU3Z3VWSmJHZkVzUVRlUko5S0xpLVM5REs2RUxkeHlENUQ3SzhYV3psUllVUE02YXM4bFVMbHlMbEgyaHIyM0ltNm9pdmJLTFY3aFpyNS1KTDFjRFo2enVVeVpjMUJXektqU21hbmRDZHVfQk81WlVVLWpmZEQ2dzRWcUI4TTd5M0dRbjFjM2RNWkc2eHQ2NEZOdTFETTVHdHV1OE9TOXVOSGdvYWNMQlJ4azFGYU1pUmFTUExoeTB0bFY?oc=5",
+   "url_id": "9f4857b6069411443e1e36a640f80313"
   },
   {
-   "headline": "Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect",
-   "outlet": "WSJ",
-   "outlet_name": "WSJ",
+   "headline": "OpenAI Expands Decisions API, Scales Enterprise Push With Uber and Cuts Frontier Training…",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTA2OWU1VV9mbXhWWWMxTVZ4QVA2UXEtamNNOFN0NmZpQXZSVUk1OHBGSXpBbkE2Vmo3Q1RDS3hMUWpFbm13VmF3SkplYWxqcnVrU3ZmV2xONWs4OGdKVjZSMnJUTjBfeWxmOUJkZDkzZ2NxQmZEZFpDZktuZEFxdEkzODFfdmlPaldWYzZXenFqTFhsUUw3OXBVTzNHZw?oc=5",
-   "url_id": "2b97d18dd8a470fc8536994b14954dde"
+   "url": "https://theaiinsider.tech/2026/10/24/openai-expands-decisions-api-scales-enterprise-push-with-uber-and-cuts-frontier-training-off-from-the-live-internet/",
+   "url_id": "47e419e693ba825026b4a6f0bd61e72e"
   },
   {
-   "headline": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
-   "url_id": "bd9c959341a909a840de5a560a245e01"
+   "headline": "Grok's Odyssey Remake: 5 Details That Matter",
+   "outlet": "BASENOR - Tesla Accessories",
+   "outlet_name": "BASENOR - Tesla Accessories",
+   "label": "REPORTED",
+   "url": "https://www.basenor.com/blogs/news/groks-odyssey-remake-5-details-that-matter",
+   "url_id": "067983b817643e719c3a40e599488924"
   },
   {
-   "headline": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
-   "outlet": "Oregon Public Broadcasting - OPB",
-   "outlet_name": "Oregon Public Broadcasting - OPB",
-   "label": "CONFIRMED",
-   "url": "https://www.opb.org/article/2026/10/24/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows/",
-   "url_id": "2e17d9892bf362282731f16320ae8463"
+   "headline": "DeepSeek und MiniMax: Chinesische KI-Modelle dürfen ins Ausland",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "label": "REPORTED",
+   "url": "https://borncity.com/news/deepseek-und-minimax-chinesische-ki-modelle-duerfen-ins-ausland/",
+   "url_id": "5501f69cb3b1572b4155e72896cc4aa0"
   },
   {
-   "headline": "A timeline of developments in AI safety since the attack on Hugging Face",
-   "outlet": "650 CKOM",
-   "outlet_name": "650 CKOM",
-   "label": "CONFIRMED",
-   "url": "https://www.ckom.com/2026/10/24/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/",
-   "url_id": "0c338342ab26898b8bd7e9f74b2b27c2"
+   "headline": "ABA Technology Presents Fusion AI In-a-Box to Jensen Huang, CEO and Founder of Nvidia, at…",
+   "outlet": "Atalayar",
+   "outlet_name": "Atalayar",
+   "label": "REPORTED",
+   "url": "https://www.atalayar.com/en/articulo/new-technologies-innovation/aba-technology-presents-fusion-ai-in-box-to-jensen-huang-ceo-and-founder-of-nvidia-at-gtc-berlin/20261024190903230078.html",
+   "url_id": "57a5bf155c00f477f3a95b91d9bf8173"
   },
   {
-   "headline": "Jack Dorsey's new voice AI is impressing users and alarming fraud watchers",
-   "outlet": "CoinDesk",
-   "outlet_name": "CoinDesk",
-   "label": "CONFIRMED",
-   "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-   "url_id": "9f131e1e722b3a9aa931577b12a00513"
+   "headline": "NVIDIA GeForce RTX 30 GPUs Get Up To 2X Faster AI Compute Performance With New GPU Unlock…",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "label": "REPORTED",
+   "url": "https://wccftech.com/nvidia-geforce-rtx-30-gpus-get-up-to-2x-faster-ai-compute-performance-with-new-gpu-unlock-mod-real-world-gains-of-up-to-60/",
+   "url_id": "527bc87e418515b904e5a0bfd44c5ab6"
+  },
+  {
+   "headline": "Pathos AI Secures $237M in Series E Financing to Scale Agentic AI Drug Development…",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
+   "label": "REPORTED",
+   "url": "https://theaiinsider.tech/2026/10/24/pathos-ai-secures-237m-in-series-e-financing-to-scale-agentic-ai-drug-development-platform-and-advance-oncology-pipeline/",
+   "url_id": "f49f8f2aa5be61565dc9e44416a2a66b"
   },
   {
    "headline": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely",
@@ -114,28 +130,20 @@
    "url_id": "0f6841fa8a6eca133588699617c07050"
   },
   {
-   "headline": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
-   "outlet": "pcmag.com",
-   "outlet_name": "pcmag.com",
-   "label": "CONFIRMED",
-   "url": "https://www.pcmag.com/news/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training",
-   "url_id": "febabe0d953086c2040320693bcedbb2"
+   "headline": "Elon Musk actually follows through on Grok AI adaptation of The Odyssey",
+   "outlet": "mashable.com",
+   "outlet_name": "mashable.com",
+   "label": "REPORTED",
+   "url": "https://mashable.com/tech/elon-musk-grok-odyssey-ai-film-adaption",
+   "url_id": "9bf70d4beac107826a1d00542d112334"
   },
   {
-   "headline": "You can now manage Gemini Notebooks directly from your Gemini chats",
-   "outlet": "androidauthority.com",
-   "outlet_name": "androidauthority.com",
+   "headline": "I linked Gemini Notebook to Gemini and queried 4 research notebooks in one chat thread",
+   "outlet": "androidpolice.com",
+   "outlet_name": "androidpolice.com",
    "label": "REPORTED",
-   "url": "https://www.androidauthority.com/gemini-notebook-connected-app-3727634/",
-   "url_id": "e9e3f6965057d43643c47e5efc007978"
-  },
-  {
-   "headline": "Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini…",
-   "outlet": "infoq.com",
-   "outlet_name": "infoq.com",
-   "label": "REPORTED",
-   "url": "https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
-   "url_id": "fd8ce425f57cc60fd9accd2a47a7c0e8"
+   "url": "https://www.androidpolice.com/linked-gemini-notebook-to-gemini-queried-notebooks-in-one-chat-thread/",
+   "url_id": "dbccdbe0a56fd53d0ba3237a33807998"
   },
   {
    "headline": "Claude Cohen-Tannoudji (Physics Nobel Prize 1997) has died",
@@ -144,24 +152,16 @@
    "label": "REPORTED",
    "url": "https://www.lkb.fr/en/death-of-claude-cohen-tannoudji/",
    "url_id": "82bb16e408b66b656d6f35b8575ad1cb"
-  },
-  {
-   "headline": "OpenAI unable to trace 53 private photos uploaded online by its own AI agents",
-   "outlet": "thepost.co.za",
-   "outlet_name": "thepost.co.za",
-   "label": "REPORTED",
-   "url": "https://thepost.co.za/technology/software-and-internet/2026-10-23-openai-unable-to-trace-53-private-photos-uploaded-online-by-its-own-ai-agents/",
-   "url_id": "ef782459c0af173d4d6b02afdb764456"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 6300,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 6200,
  "articles_24h_label": "about 6,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/19.mp3",
- "audio_seconds": 48.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/20.mp3",
+ "audio_seconds": 76.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TechGig: Nvidia unveils Agent Knowledge Foundation for enterprise AI.\nReported by WSJ: Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect.\nConfirmed, per CNBC: AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio.\nConfirmed, per Oregon Public Broadcasting - OPB: The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows.\nConfirmed, per 650 CKOM: A timeline of developments in AI safety since the attack on Hugging Face.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Livemint: Google DeepMind Pentagon AI contract resignations: Researchers exit over classified military deals; all you need to know.\nReported by VICE: Elvis Presley Estate Sues Anthropic for Stealing His Music ‘At a Scale Never Seen Before’ To Train AI.\nReported by AI Insider: OpenAI Expands Decisions API, Scales Enterprise Push With Uber and Cuts Frontier Training Off From the Live Internet.\nReported by BASENOR - Tesla Accessories: Grok's Odyssey Remake: 5 Details That Matter.\nReported by BornCity: DeepSeek und MiniMax: Chinesische KI-Modelle dürfen ins Ausland.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
