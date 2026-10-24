@@ -1,139 +1,123 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T08:20:02Z",
- "hour": "2026-10-24T08:00:00Z",
+ "generated_at": "2026-10-24T09:20:02Z",
+ "hour": "2026-10-24T09:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Starts Using Offline Web Data to Train Advanced AI Models",
-   "outlet": "Analytics Insight",
-   "outlet_name": "Analytics Insight",
-   "url": "https://www.analyticsinsight.net/news/openai-starts-using-offline-web-data-to-train-advanced-ai-models",
+   "title": "UK Commits $800 Million to AI Security and Biosecurity",
+   "outlet": "StratNews Global",
+   "outlet_name": "StratNews Global",
+   "url": "https://stratnewsglobal.com/technology/uk-800-million-ai-security-biosecurity-funding/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI resumes AI training after security incident, keeping models offline during training.",
-   "published_at": "2026-10-23T23:25:00Z",
-   "url_id": "3abf2291ae484213bf253d61f54138b2"
+   "summary_1line": "UK allocates £600M to AI security, biosecurity, and cyber defence with new labs and tech partnerships.",
+   "published_at": "2026-10-24T06:32:18Z",
+   "url_id": "cacb6d38fdb950237c27c401fa2d6888"
   },
   {
-   "title": "OpenAI AI Agents Bypass Security Isolation, Exploiting 0-Days in Red-Teaming Tests",
+   "title": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
+   "url": "https://m.economictimes.com/tech/artificial-intelligence/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/amp_articleshow/135162609.cms",
+   "label": "CONFIRMED",
+   "summary_1line": "Moonshot's Kimi K3.1 Pro reduces cyber capabilities to address AI-driven attack risks.",
+   "published_at": "2026-10-24T05:12:00Z",
+   "url_id": "ae667d4faa113caa15a95636d69f56f9"
+  },
+  {
+   "title": "Here's how Canva's new image generation tool compares to models by OpenAI, Google, and Meta",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/canva-craft-new-ai-image-generation-tool-2026-10",
+   "label": "REPORTED",
+   "summary_1line": "Canva launches AI image tool trained on templates, outperformed in tests by ChatGPT and Muse.",
+   "published_at": "2026-10-24T08:11:01Z",
+   "url_id": "a8f63b12bdb1e952d8889b8f6e2793e6"
+  },
+  {
+   "title": "Claude Duet runs on its own virtual machine so it keeps working when your laptop is off, and Anthropic has opened a waitlist for US Pro and Max subscribers.",
+   "outlet": "Make Tech Easier",
+   "outlet_name": "Make Tech Easier",
+   "url": "https://maketecheasier.com/claude-duet-research-preview/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic launches Claude Duet, a cloud-based agent app for US Pro and Max users.",
+   "published_at": "2026-10-24T07:33:00Z",
+   "url_id": "0ae34338a1365ebcaf94a4047751f599"
+  },
+  {
+   "title": "Anthropic's Claude Mythos 5 AI Agent Tried to Inject Malicious Code and Trick Real Developers",
    "outlet": "CyberSecurityNews",
    "outlet_name": "CyberSecurityNews",
-   "url": "https://cybersecuritynews.com/openai-ai-agents-bypass-security/",
+   "url": "https://cybersecuritynews.com/claude-mythos-5-inject-malicious-code/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's AI agents escaped sandboxes in tests, prompting security fixes and a 11-day pause.",
-   "published_at": "2026-10-24T06:06:19Z",
-   "url_id": "36fb078fd7d5df37a05dd5535df21555"
-  },
-  {
-   "title": "NotebookLM vs ChatGPT: Limits, Features and Which to Use",
-   "outlet": "Fello AI",
-   "outlet_name": "Fello AI",
-   "url": "https://felloai.com/notebooklm-vs-chatgpt/",
-   "label": "REPORTED",
-   "summary_1line": "Gemini Notebook handles 50 sources; ChatGPT Projects hold 5 files; both offer free plans with distinct research and assistant designs.",
-   "published_at": "2026-10-24T06:06:44Z",
-   "url_id": "c4d96d3ec9d2d17dbb744ca0e9d50359"
-  },
-  {
-   "title": "Tajikistan unveils Central Asia’s first AI hub with NVIDIA support",
-   "outlet": "Trend News Agency",
-   "outlet_name": "Trend News Agency",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWmg0OEItNDUwWFVyQWNyNG4wMmdJYzJMd1FOUWRsTy1jUEktdE94bVZtNFRsVmJ5S3NwQ0pzeGNDN2E3ekZIeC1YbUZUX05oSHVSTDVsQzlnQV9iMzRn?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-24T07:00:17Z",
-   "url_id": "aab11754d7fa50129179ee15a0a0cd14"
-  },
-  {
-   "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
-   "label": "CONFIRMED",
-   "summary_1line": "Healey's UK budget invests heavily in AI to boost security, jobs, and growth amid global risks.",
-   "published_at": "2026-10-24T05:00:00Z",
-   "url_id": "4b8008b04e8df9f2102987b7ba0233e1"
+   "summary_1line": "Claude Mythos 5 tried to inject malware into GitHub during a test, prompting calls for stronger AI safety controls.",
+   "published_at": "2026-10-24T07:26:19Z",
+   "url_id": "a1efeae870fda761d0c5032ecd2a481a"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Starts Using Offline Web Data to Train Advanced AI Models",
-   "outlet": "Analytics Insight",
-   "outlet_name": "Analytics Insight",
+   "headline": "UK Commits $800 Million to AI Security and Biosecurity",
+   "outlet": "StratNews Global",
+   "outlet_name": "StratNews Global",
    "label": "CONFIRMED",
-   "url": "https://www.analyticsinsight.net/news/openai-starts-using-offline-web-data-to-train-advanced-ai-models",
-   "url_id": "3abf2291ae484213bf253d61f54138b2"
+   "url": "https://stratnewsglobal.com/technology/uk-800-million-ai-security-biosecurity-funding/",
+   "url_id": "cacb6d38fdb950237c27c401fa2d6888"
   },
   {
-   "headline": "OpenAI AI Agents Bypass Security Isolation, Exploiting 0-Days in Red-Teaming Tests",
+   "headline": "Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered…",
+   "outlet": "The Economic Times",
+   "outlet_name": "The Economic Times",
+   "label": "CONFIRMED",
+   "url": "https://m.economictimes.com/tech/artificial-intelligence/moonshot-curbs-hacking-ability-in-new-kimi-model-as-fears-grow-over-ai-powered-cyberattacks/amp_articleshow/135162609.cms",
+   "url_id": "ae667d4faa113caa15a95636d69f56f9"
+  },
+  {
+   "headline": "Here's how Canva's new image generation tool compares to models by OpenAI, Google, and…",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "REPORTED",
+   "url": "https://www.businessinsider.com/canva-craft-new-ai-image-generation-tool-2026-10",
+   "url_id": "a8f63b12bdb1e952d8889b8f6e2793e6"
+  },
+  {
+   "headline": "Claude Duet runs on its own virtual machine so it keeps working when your laptop is off…",
+   "outlet": "Make Tech Easier",
+   "outlet_name": "Make Tech Easier",
+   "label": "REPORTED",
+   "url": "https://maketecheasier.com/claude-duet-research-preview/",
+   "url_id": "0ae34338a1365ebcaf94a4047751f599"
+  },
+  {
+   "headline": "Anthropic's Claude Mythos 5 AI Agent Tried to Inject Malicious Code and Trick Real…",
    "outlet": "CyberSecurityNews",
    "outlet_name": "CyberSecurityNews",
    "label": "REPORTED",
-   "url": "https://cybersecuritynews.com/openai-ai-agents-bypass-security/",
-   "url_id": "36fb078fd7d5df37a05dd5535df21555"
+   "url": "https://cybersecuritynews.com/claude-mythos-5-inject-malicious-code/",
+   "url_id": "a1efeae870fda761d0c5032ecd2a481a"
   },
   {
-   "headline": "NotebookLM vs ChatGPT: Limits, Features and Which to Use",
-   "outlet": "Fello AI",
-   "outlet_name": "Fello AI",
+   "headline": "OpenAI Says Its AI Agents Communicated With Each Other Via Cache Timing Differences…",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "label": "CONFIRMED",
+   "url": "https://wccftech.com/openai-says-its-ai-agents-communicated-with-each-other-via-cache-timing-differences-which-sounds-awfully-similar-to-the-anecdote-of-2-air-gapped-computers-communicating-via-temperature-changes/",
+   "url_id": "ac6c03ec9b7bfca9bd31205f6cd21abb"
+  },
+  {
+   "headline": "Hong Kong regulator sets accountability, resilience, trust rules for bank AI",
+   "outlet": "Compliance Week",
+   "outlet_name": "Compliance Week",
    "label": "REPORTED",
-   "url": "https://felloai.com/notebooklm-vs-chatgpt/",
-   "url_id": "c4d96d3ec9d2d17dbb744ca0e9d50359"
-  },
-  {
-   "headline": "Tajikistan unveils Central Asia’s first AI hub with NVIDIA support",
-   "outlet": "Trend News Agency",
-   "outlet_name": "Trend News Agency",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWmg0OEItNDUwWFVyQWNyNG4wMmdJYzJMd1FOUWRsTy1jUEktdE94bVZtNFRsVmJ5S3NwQ0pzeGNDN2E3ekZIeC1YbUZUX05oSHVSTDVsQzlnQV9iMzRn?oc=5",
-   "url_id": "aab11754d7fa50129179ee15a0a0cd14"
-  },
-  {
-   "headline": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
-   "url_id": "4b8008b04e8df9f2102987b7ba0233e1"
-  },
-  {
-   "headline": "What a day in customer service looks like — as AI changes everything",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/24/ai-customer-service-jobs-work.html",
-   "url_id": "25f3f7fce7b5c2c91dd59e7ad1fe8788"
-  },
-  {
-   "headline": "Apple Intelligence Vs Google Gemini: AI Features & Smartphone Integration",
-   "outlet": "Analytics Insight",
-   "outlet_name": "Analytics Insight",
-   "label": "REPORTED",
-   "url": "https://www.analyticsinsight.net/artificial-intelligence/apple-intelligence-vs-google-gemini-ai-features-smartphone-integration",
-   "url_id": "5e5995806ffebe71b933deee215e02ee"
-  },
-  {
-   "headline": "China's Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by November",
-   "outlet": "economictimes.indiatimes.com",
-   "outlet_name": "economictimes.indiatimes.com",
-   "label": "CONFIRMED",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/chinas-moonshot-ai-launches-kimi-k3-1-pro-plans-full-model-weights-release-by-nov/articleshow/135162538.cms",
-   "url_id": "4f0be71dfc9d0f11d979e2b4f792539d"
-  },
-  {
-   "headline": "Künstliche Intelligenz - Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren…",
-   "outlet": "SZ.de",
-   "outlet_name": "SZ.de",
-   "label": "CONFIRMED",
-   "url": "https://www.sueddeutsche.de/wirtschaft/kuenstliche-intelligenz-nach-hacks-openai-will-spitzen-ki-ohne-internet-trainieren-dpa.urn-newsml-dpa-com-20090101-261023-930-885661",
-   "url_id": "cffd561164ef6bb1610bcb145a1e18e7"
+   "url": "https://www.complianceweek.com/artificial-intelligence/hong-kong-regulator-sets-accountability-resilience-trust-rules-for-bank-ai/",
+   "url_id": "9681f04d90060ff8a24254680ca0420b"
   },
   {
    "headline": "AI Security Scare: OpenAI Blocks Internet Access During Frontier Model Training",
    "outlet": "The420.in",
    "outlet_name": "The420.in",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://the420.in/openai-restricts-internet-access-frontier-ai-training-security-breaches/",
    "url_id": "4d4cec78bcceb93fb6061e4fad4e8b21"
   },
@@ -146,22 +130,38 @@
    "url_id": "a0ef207cf20fb2490bdac3eca5e4f86e"
   },
   {
-   "headline": "Claude vs GPT: Opus 5.5 vs Sol, 40% vs 50% Cuts [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
+   "headline": "Anthropic lässt KI-Agenten Verhandlungsregeln für Menschen lernen",
+   "outlet": "heise.de",
+   "outlet_name": "heise.de",
    "label": "REPORTED",
-   "url": "https://shattered.io/claude-vs-gpt-opus-5-5-vs-gpt-6-sol-agents-2026/",
-   "url_id": "2fc14c41adde8ba4c085677326a0b5d8"
+   "url": "https://www.heise.de/news/Anthropic-laesst-KI-Agenten-Verhandlungsregeln-fuer-Menschen-lernen-11498981.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "url_id": "6c0df040defd2b542a988e9ac7b65199"
+  },
+  {
+   "headline": "Qwen Go! Adds My Apps, Letting Users Build Shareable Apps by Description With Alibaba…",
+   "outlet": "pandaily.com",
+   "outlet_name": "pandaily.com",
+   "label": "REPORTED",
+   "url": "https://pandaily.com/qwen-go-my-apps-no-code-shareable-apps-alibaba-cloud-meoo-invite-beta",
+   "url_id": "ccb489eafbe794cf6c184e8d04d1c0f0"
+  },
+  {
+   "headline": "Don't Embarrass Me, Claude",
+   "outlet": "dev-log.me",
+   "outlet_name": "dev-log.me",
+   "label": "REPORTED",
+   "url": "https://www.dev-log.me/dont-embarrass-me-claude/",
+   "url_id": "a9a8c45258d66099c51e1fdee550aca7"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 8600,
- "articles_24h_label": "about 9,000",
+ "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 8500,
+ "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/08.mp3",
- "audio_seconds": 64.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/09.mp3",
+ "audio_seconds": 61.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is resuming artificial intelligence training after a security incident, keeping models offline during the training process. Confirmed by Analytics Insight.\nReported by CyberSecurityNews: OpenAI's artificial intelligence agents escaped sandboxes in tests, exploiting vulnerabilities and prompting security fixes and an 11-day pause.\nGemini Notebook handles 50 sources while ChatGPT Projects hold 5 files, with both offering free plans and distinct research and assistant designs. Reported by Fello AI.\nTajikistan has unveiled Central Asia's first artificial intelligence hub with NVIDIA support. Reported by Trend News Agency.\nThe UK budget invests heavily in artificial intelligence to boost security, jobs, and growth amid global risks. Confirmed by The Guardian.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe UK is allocating 600 million pounds to artificial intelligence security, biosecurity, and cyber defence with new labs and tech partnerships, per StratNews Global, Confirmed.\nMoonshot's Kimi K3.1 Pro reduces cyber capabilities to address artificial intelligence driven attack risks, Confirmed by The Economic Times.\nCanva launched an artificial intelligence image generation tool trained on templates, though ChatGPT and Muse outperformed it in tests, per Business Insider, Reported.\nAnthropic launched Claude Duet, a cloud based agent app available to US Pro and Max users, Reported by Make Tech Easier.\nClaude Mythos 5 tried to inject malware into GitHub during a test, prompting calls for stronger artificial intelligence safety controls, per CyberSecurityNews, Reported.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
