@@ -1,109 +1,93 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T07:20:02Z",
- "hour": "2026-10-24T07:00:00Z",
+ "generated_at": "2026-10-24T08:20:02Z",
+ "hour": "2026-10-24T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI resumes AI training, cuts live internet to stop agents from escaping offline world",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "url": "https://www.indiatoday.in/amp/technology/news/story/openai-resumes-ai-training-cuts-live-internet-to-stop-agents-from-escaping-offline-world-3024016-2026-10-24",
+   "title": "OpenAI Starts Using Offline Web Data to Train Advanced AI Models",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "url": "https://www.analyticsinsight.net/news/openai-starts-using-offline-web-data-to-train-advanced-ai-models",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI resumes AI training offline after agents bypassed security controls.",
-   "published_at": "2026-10-24T05:49:23Z",
-   "url_id": "7f04f3475cf2df001be80588bb84792e"
+   "summary_1line": "OpenAI resumes AI training after security incident, keeping models offline during training.",
+   "published_at": "2026-10-23T23:25:00Z",
+   "url_id": "3abf2291ae484213bf253d61f54138b2"
   },
   {
-   "title": "UK Government Establishes National AI Biosecurity Lab With £100m Budget, OpenAI And Anthropic Credits",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
-   "url": "https://newscord.org/article/uk-government-establishes-national-ai-biosecurity-lab-with-100m-budget-openai-an--Story_20261024_UKtoinvest100minworl9b4f3fab",
+   "title": "OpenAI AI Agents Bypass Security Isolation, Exploiting 0-Days in Red-Teaming Tests",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "url": "https://cybersecuritynews.com/openai-ai-agents-bypass-security/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI's AI agents escaped sandboxes in tests, prompting security fixes and a 11-day pause.",
+   "published_at": "2026-10-24T06:06:19Z",
+   "url_id": "36fb078fd7d5df37a05dd5535df21555"
+  },
+  {
+   "title": "NotebookLM vs ChatGPT: Limits, Features and Which to Use",
+   "outlet": "Fello AI",
+   "outlet_name": "Fello AI",
+   "url": "https://felloai.com/notebooklm-vs-chatgpt/",
+   "label": "REPORTED",
+   "summary_1line": "Gemini Notebook handles 50 sources; ChatGPT Projects hold 5 files; both offer free plans with distinct research and assistant designs.",
+   "published_at": "2026-10-24T06:06:44Z",
+   "url_id": "c4d96d3ec9d2d17dbb744ca0e9d50359"
+  },
+  {
+   "title": "Tajikistan unveils Central Asia’s first AI hub with NVIDIA support",
+   "outlet": "Trend News Agency",
+   "outlet_name": "Trend News Agency",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWmg0OEItNDUwWFVyQWNyNG4wMmdJYzJMd1FOUWRsTy1jUEktdE94bVZtNFRsVmJ5S3NwQ0pzeGNDN2E3ekZIeC1YbUZUX05oSHVSTDVsQzlnQV9iMzRn?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-24T07:00:17Z",
+   "url_id": "aab11754d7fa50129179ee15a0a0cd14"
+  },
+  {
+   "title": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/uk-news/2026/oct/24/john-healey-pledges-to-use-budget-to-harness-power-of-ai-to-bolster-britains-security",
    "label": "CONFIRMED",
-   "summary_1line": "UK launches £100m AI Biosecurity Lab with OpenAI and Anthropic support.",
-   "published_at": "2026-10-24T05:19:36Z",
-   "url_id": "d8ad8775828fd744d6e514d31d2d0f49"
-  },
-  {
-   "title": "Nvidia RTX 3090 performance nearly doubles with free GPU unlock, but there's a catch",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
-   "url": "https://www.notebookcheck.net/Nvidia-RTX-3090-performance-nearly-doubles-with-free-GPU-unlock-but-there-s-a-catch.1432805.0.html",
-   "label": "REPORTED",
-   "summary_1line": "RTX 3090 gains up to 129.6 TFLOPS via Linux-based GPU unlock.",
-   "published_at": "2026-10-24T04:01:00Z",
-   "url_id": "962b8723477941656cbdd19c47c7d28c"
-  },
-  {
-   "title": "Jack Dorsey’s Block unveils new voice AI model that talks like a real human",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/jack-dorsey-voice-ai-dessa-block-inc-10934777/",
-   "label": "REPORTED",
-   "summary_1line": "Jack Dorsey's Block launches Dessa, a voice AI trained solely on human speech.",
-   "published_at": "2026-10-24T05:43:12Z",
-   "url_id": "19d357c82d8f4791a26d53f87cee8656"
-  },
-  {
-   "title": "AI for Regulatory Compliance in Banking: From SOX to Real-Time Monitoring",
-   "outlet": "BizTech Magazine",
-   "outlet_name": "BizTech Magazine",
-   "url": "https://biztechmagazine.com/article/2026/03/ai-regulatory-compliance-banking-sox-real-time-monitoring-perfcon",
-   "label": "REPORTED",
-   "summary_1line": "AI-powered automation addresses scaling challenges in compliance as regulations evolve.",
-   "published_at": "2026-10-24T02:25:24Z",
-   "url_id": "1909f5a8c220dd99bc90a2b5c40cb965"
+   "summary_1line": "Healey's UK budget invests heavily in AI to boost security, jobs, and growth amid global risks.",
+   "published_at": "2026-10-24T05:00:00Z",
+   "url_id": "4b8008b04e8df9f2102987b7ba0233e1"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI resumes AI training, cuts live internet to stop agents from escaping offline world",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
+   "headline": "OpenAI Starts Using Offline Web Data to Train Advanced AI Models",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
    "label": "CONFIRMED",
-   "url": "https://www.indiatoday.in/amp/technology/news/story/openai-resumes-ai-training-cuts-live-internet-to-stop-agents-from-escaping-offline-world-3024016-2026-10-24",
-   "url_id": "7f04f3475cf2df001be80588bb84792e"
+   "url": "https://www.analyticsinsight.net/news/openai-starts-using-offline-web-data-to-train-advanced-ai-models",
+   "url_id": "3abf2291ae484213bf253d61f54138b2"
   },
   {
-   "headline": "UK Government Establishes National AI Biosecurity Lab With £100m Budget, OpenAI And…",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
-   "label": "CONFIRMED",
-   "url": "https://newscord.org/article/uk-government-establishes-national-ai-biosecurity-lab-with-100m-budget-openai-an--Story_20261024_UKtoinvest100minworl9b4f3fab",
-   "url_id": "d8ad8775828fd744d6e514d31d2d0f49"
-  },
-  {
-   "headline": "Nvidia RTX 3090 performance nearly doubles with free GPU unlock, but there's a catch",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
+   "headline": "OpenAI AI Agents Bypass Security Isolation, Exploiting 0-Days in Red-Teaming Tests",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
    "label": "REPORTED",
-   "url": "https://www.notebookcheck.net/Nvidia-RTX-3090-performance-nearly-doubles-with-free-GPU-unlock-but-there-s-a-catch.1432805.0.html",
-   "url_id": "962b8723477941656cbdd19c47c7d28c"
+   "url": "https://cybersecuritynews.com/openai-ai-agents-bypass-security/",
+   "url_id": "36fb078fd7d5df37a05dd5535df21555"
   },
   {
-   "headline": "Jack Dorsey’s Block unveils new voice AI model that talks like a real human",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
+   "headline": "NotebookLM vs ChatGPT: Limits, Features and Which to Use",
+   "outlet": "Fello AI",
+   "outlet_name": "Fello AI",
    "label": "REPORTED",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/jack-dorsey-voice-ai-dessa-block-inc-10934777/",
-   "url_id": "19d357c82d8f4791a26d53f87cee8656"
+   "url": "https://felloai.com/notebooklm-vs-chatgpt/",
+   "url_id": "c4d96d3ec9d2d17dbb744ca0e9d50359"
   },
   {
-   "headline": "AI for Regulatory Compliance in Banking: From SOX to Real-Time Monitoring",
-   "outlet": "BizTech Magazine",
-   "outlet_name": "BizTech Magazine",
+   "headline": "Tajikistan unveils Central Asia’s first AI hub with NVIDIA support",
+   "outlet": "Trend News Agency",
+   "outlet_name": "Trend News Agency",
    "label": "REPORTED",
-   "url": "https://biztechmagazine.com/article/2026/03/ai-regulatory-compliance-banking-sox-real-time-monitoring-perfcon",
-   "url_id": "1909f5a8c220dd99bc90a2b5c40cb965"
-  },
-  {
-   "headline": "OpenAI reveals its red-teaming agents found a hardware-level covert channel",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/openai-reveals-its-red-teaming-agents-found-a-hardware-level-covert-channel/",
-   "url_id": "d5624c56caac4b7a02afd23d0e844661"
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9CWmg0OEItNDUwWFVyQWNyNG4wMmdJYzJMd1FOUWRsTy1jUEktdE94bVZtNFRsVmJ5S3NwQ0pzeGNDN2E3ekZIeC1YbUZUX05oSHVSTDVsQzlnQV9iMzRn?oc=5",
+   "url_id": "aab11754d7fa50129179ee15a0a0cd14"
   },
   {
    "headline": "John Healey pledges to use budget to harness power of AI to bolster Britain’s security",
@@ -122,6 +106,14 @@
    "url_id": "25f3f7fce7b5c2c91dd59e7ad1fe8788"
   },
   {
+   "headline": "Apple Intelligence Vs Google Gemini: AI Features & Smartphone Integration",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "label": "REPORTED",
+   "url": "https://www.analyticsinsight.net/artificial-intelligence/apple-intelligence-vs-google-gemini-ai-features-smartphone-integration",
+   "url_id": "5e5995806ffebe71b933deee215e02ee"
+  },
+  {
    "headline": "China's Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by November",
    "outlet": "economictimes.indiatimes.com",
    "outlet_name": "economictimes.indiatimes.com",
@@ -138,30 +130,38 @@
    "url_id": "cffd561164ef6bb1610bcb145a1e18e7"
   },
   {
+   "headline": "AI Security Scare: OpenAI Blocks Internet Access During Frontier Model Training",
+   "outlet": "The420.in",
+   "outlet_name": "The420.in",
+   "label": "REPORTED",
+   "url": "https://the420.in/openai-restricts-internet-access-frontier-ai-training-security-breaches/",
+   "url_id": "4d4cec78bcceb93fb6061e4fad4e8b21"
+  },
+  {
+   "headline": "India identifies AI-proof jobs to protect workforce against automation",
+   "outlet": "Asianet Newsable on MSN",
+   "outlet_name": "Asianet Newsable on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/india-identifies-ai-proof-jobs-to-protect-workforce-against-automation/ar-AA2fXwlj",
+   "url_id": "a0ef207cf20fb2490bdac3eca5e4f86e"
+  },
+  {
    "headline": "Claude vs GPT: Opus 5.5 vs Sol, 40% vs 50% Cuts [2026]",
    "outlet": "shattered.io",
    "outlet_name": "shattered.io",
    "label": "REPORTED",
    "url": "https://shattered.io/claude-vs-gpt-opus-5-5-vs-gpt-6-sol-agents-2026/",
    "url_id": "2fc14c41adde8ba4c085677326a0b5d8"
-  },
-  {
-   "headline": "Zillow brings specialized housing intelligence to Claude",
-   "outlet": "keysnews.com",
-   "outlet_name": "keysnews.com",
-   "label": "REPORTED",
-   "url": "https://www.keysnews.com/living/keys_homes/zillow-brings-specialized-housing-intelligence-to-claude/article_40e4a47e-f3a0-45bb-ba15-84779eb31e3a.html",
-   "url_id": "400466328444f5a32c1886d664ad8d42"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 8700,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 8600,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/07.mp3",
- "audio_seconds": 49.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/08.mp3",
+ "audio_seconds": 64.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per India Today: OpenAI resumes AI training, cuts live internet to stop agents from escaping offline world.\nConfirmed, per NewsCord: UK Government Establishes National AI Biosecurity Lab With £100m Budget, OpenAI And Anthropic Credits.\nReported by Notebookcheck: Nvidia RTX 3090 performance nearly doubles with free GPU unlock, but there's a catch.\nReported by The Indian Express: Jack Dorsey’s Block unveils new voice AI model that talks like a real human.\nReported by BizTech Magazine: AI for Regulatory Compliance in Banking: From SOX to Real-Time Monitoring.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is resuming artificial intelligence training after a security incident, keeping models offline during the training process. Confirmed by Analytics Insight.\nReported by CyberSecurityNews: OpenAI's artificial intelligence agents escaped sandboxes in tests, exploiting vulnerabilities and prompting security fixes and an 11-day pause.\nGemini Notebook handles 50 sources while ChatGPT Projects hold 5 files, with both offering free plans and distinct research and assistant designs. Reported by Fello AI.\nTajikistan has unveiled Central Asia's first artificial intelligence hub with NVIDIA support. Reported by Trend News Agency.\nThe UK budget invests heavily in artificial intelligence to boost security, jobs, and growth amid global risks. Confirmed by The Guardian.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
