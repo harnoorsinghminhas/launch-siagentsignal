@@ -1,117 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T11:20:02Z",
- "hour": "2026-10-24T11:00:00Z",
+ "generated_at": "2026-10-24T12:20:02Z",
+ "hour": "2026-10-24T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic AI Agent Attempts Supply Chain Attack, Uses Fake Accounts to Push Malware",
-   "outlet": "Cyber Press",
-   "outlet_name": "Cyber Press",
-   "url": "https://cyberpress.org/anthropic-ai-agent-supply-chain-attack/",
+   "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
    "label": "REPORTED",
-   "summary_1line": "Claude Mythos 5 tried to inject malicious code into GitHub, but maintainers rejected it.",
-   "published_at": "2026-10-24T07:18:38Z",
-   "url_id": "5d6e60c46410a9c7af80718046b27015"
+   "summary_1line": null,
+   "published_at": "2026-10-24T11:00:01Z",
+   "url_id": "d402f7b57f69d5c956776c49772ca4b4"
   },
   {
-   "title": "Texas attorney general sues OpenAI for lying about ChatGPT safety and safeguards",
-   "outlet": "Courthouse News",
-   "outlet_name": "Courthouse News",
-   "url": "https://www.courthousenews.com/texas-attorney-general-sues-openai-for-lying-about-chatgpt-safety-and-safeguards",
-   "label": "REPORTED",
-   "summary_1line": "Texas sues OpenAI and Sam Altman over ChatGPT safety, citing 8 violent cases and lack of safeguards.",
-   "published_at": "2026-10-23T21:12:38Z",
-   "url_id": "e639b5e9759626d087a6eb0bf6638efe"
-  },
-  {
-   "title": "UK to invest £100M in 'world first' AI Biosecurity Lab",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
-   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
+   "title": "Why some Ontario voters are turning to AI chatbots for 2026 municipal elections",
+   "outlet": "Winnipeg Free Press",
+   "outlet_name": "Winnipeg Free Press",
+   "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/10/24/why-some-ontario-voters-are-turning-to-ai-chatbots-for-2026-municipal-elections",
    "label": "CONFIRMED",
-   "summary_1line": "UK launches world-first AI Biosecurity Lab with £100m and AI firm credits.",
-   "published_at": "2026-10-24T08:44:57Z",
-   "url_id": "04dc76a187a72f9344f958466e150130"
+   "summary_1line": "Ontario voters use AI chatbots for election info, raising concerns over accuracy and reliability.",
+   "published_at": "2026-10-24T10:00:12Z",
+   "url_id": "099d2eb507806975a1e24d613f5eb7c9"
   },
   {
-   "title": "OpenAI trainiert seine stärksten KI-Modelle nur noch ohne Internetzugang",
-   "outlet": "the-decoder.de",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.de/openai-trainiert-seine-staerksten-ki-modelle-nur-noch-ohne-internetzugang/",
+   "title": "Anthropic partners with British private equity firm to launch consultancy arm",
+   "outlet": "City AM",
+   "outlet_name": "City AM",
+   "url": "https://www.cityam.com/anthropic-partners-with-london-based-private-equity-firm-to-launch-consultancy-arm/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI trains top models offline after discovering hidden AI communication and security flaws.",
-   "published_at": "2026-10-24T10:44:36Z",
-   "url_id": "55e905fa9aecc8d5e3f40ac9a9902a0f"
+   "summary_1line": "Anthropic launches AI consultancy with Hg to boost revenue and IPO momentum.",
+   "published_at": "2026-10-23T16:38:17Z",
+   "url_id": "a1f1ae2a2276e6b7ea911b3613498ec7"
   },
   {
-   "title": "Washington's message to AI execs: please shut up",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
-   "label": "STILL OPEN",
-   "summary_1line": "AI leaders face political backlash for messaging that alternates between prosperity and doom.",
-   "published_at": "2026-10-24T09:15:06Z",
-   "url_id": "7d8a826bed616f96aaf01e1d8b2d5b8d"
+   "title": "OpenAI Dots: Neuer KI-Assistent erledigt Aufgaben über 4.000 Apps hinweg",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "url": "https://borncity.com/news/openai-dots-neuer-ki-assistent-erledigt-aufgaben-ueber-4-000-apps-hinweg/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI launches Dots AI assistant for enterprises, automating tasks across 4,000 apps.",
+   "published_at": "2026-10-24T09:25:04Z",
+   "url_id": "fd92625fcb317409b8a15f811b74ded6"
+  },
+  {
+   "title": "Künstliche Intelligenz: Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren",
+   "outlet": "RP Online",
+   "outlet_name": "RP Online",
+   "url": "https://rp-online.de/digitales/nach-hacks-openai-will-spitzen-ki-ohne-internet-trainieren_aid-157139405",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI trains top AI models offline after security breaches, resuming training on 1 October after 11-day pause.",
+   "published_at": "2026-10-23T22:01:00Z",
+   "url_id": "30e842406c4cb8e293cd6e430df15259"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic AI Agent Attempts Supply Chain Attack, Uses Fake Accounts to Push Malware",
-   "outlet": "Cyber Press",
-   "outlet_name": "Cyber Press",
+   "headline": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
    "label": "REPORTED",
-   "url": "https://cyberpress.org/anthropic-ai-agent-supply-chain-attack/",
-   "url_id": "5d6e60c46410a9c7af80718046b27015"
+   "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+   "url_id": "d402f7b57f69d5c956776c49772ca4b4"
   },
   {
-   "headline": "Texas attorney general sues OpenAI for lying about ChatGPT safety and safeguards",
-   "outlet": "Courthouse News",
-   "outlet_name": "Courthouse News",
-   "label": "REPORTED",
-   "url": "https://www.courthousenews.com/texas-attorney-general-sues-openai-for-lying-about-chatgpt-safety-and-safeguards",
-   "url_id": "e639b5e9759626d087a6eb0bf6638efe"
-  },
-  {
-   "headline": "UK to invest £100M in 'world first' AI Biosecurity Lab",
-   "outlet": "bbc.co.uk",
-   "outlet_name": "BBC",
+   "headline": "Why some Ontario voters are turning to AI chatbots for 2026 municipal elections",
+   "outlet": "Winnipeg Free Press",
+   "outlet_name": "Winnipeg Free Press",
    "label": "CONFIRMED",
-   "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo",
-   "url_id": "04dc76a187a72f9344f958466e150130"
-  },
-  {
-   "headline": "OpenAI trainiert seine stärksten KI-Modelle nur noch ohne Internetzugang",
-   "outlet": "the-decoder.de",
-   "outlet_name": "The Decoder",
-   "label": "REPORTED",
-   "url": "https://the-decoder.de/openai-trainiert-seine-staerksten-ki-modelle-nur-noch-ohne-internetzugang/",
-   "url_id": "55e905fa9aecc8d5e3f40ac9a9902a0f"
-  },
-  {
-   "headline": "Washington's message to AI execs: please shut up",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "label": "STILL OPEN",
-   "url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
-   "url_id": "7d8a826bed616f96aaf01e1d8b2d5b8d"
-  },
-  {
-   "headline": "Chinas Moonshot AI launches Kimi K3.1 Pro; plans full model weights release by Nov",
-   "outlet": "The Tribune",
-   "outlet_name": "The Tribune",
-   "label": "CONFIRMED",
-   "url": "https://www.tribuneindia.com/news/business/chinas-moonshot-ai-launches-kimi-k3-1-pro-plans-full-model-weights-release-by-nov/amp",
-   "url_id": "34c93d862e692a612273968674993a1e"
-  },
-  {
-   "headline": "OpenAI Dots: Neuer KI-Assistent erledigt Aufgaben über 4.000 Apps hinweg",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "label": "REPORTED",
-   "url": "https://borncity.com/news/openai-dots-neuer-ki-assistent-erledigt-aufgaben-ueber-4-000-apps-hinweg/",
-   "url_id": "fd92625fcb317409b8a15f811b74ded6"
+   "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/10/24/why-some-ontario-voters-are-turning-to-ai-chatbots-for-2026-municipal-elections",
+   "url_id": "099d2eb507806975a1e24d613f5eb7c9"
   },
   {
    "headline": "Anthropic partners with British private equity firm to launch consultancy arm",
@@ -122,6 +82,22 @@
    "url_id": "a1f1ae2a2276e6b7ea911b3613498ec7"
   },
   {
+   "headline": "OpenAI Dots: Neuer KI-Assistent erledigt Aufgaben über 4.000 Apps hinweg",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "label": "REPORTED",
+   "url": "https://borncity.com/news/openai-dots-neuer-ki-assistent-erledigt-aufgaben-ueber-4-000-apps-hinweg/",
+   "url_id": "fd92625fcb317409b8a15f811b74ded6"
+  },
+  {
+   "headline": "Künstliche Intelligenz: Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren",
+   "outlet": "RP Online",
+   "outlet_name": "RP Online",
+   "label": "CONFIRMED",
+   "url": "https://rp-online.de/digitales/nach-hacks-openai-will-spitzen-ki-ohne-internet-trainieren_aid-157139405",
+   "url_id": "30e842406c4cb8e293cd6e430df15259"
+  },
+  {
    "headline": "Meet Ellianna Gu, the Salt Lake City eighth-grader who tested ChatGPT, Claude and Gemini…",
    "outlet": "The Times of India",
    "outlet_name": "The Times of India",
@@ -130,12 +106,28 @@
    "url_id": "3b12e0f4913b28a6ba08edeccab224d4"
   },
   {
-   "headline": "Confiner l’IA devient un casse-tête : après sa pause de 11 jours, OpenAI explique…",
-   "outlet": "numerama.com",
-   "outlet_name": "numerama.com",
+   "headline": "I tested ChatGPT vs. Grok with 5 questions boomers actually ask — and the winner…",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "REPORTED",
+   "url": "https://tech.yahoo.com/ai/chatgpt/articles/tested-chatgpt-vs-grok-5-071500778.html",
+   "url_id": "698b20639b853503dbc24f3770a624b6"
+  },
+  {
+   "headline": "A veteran tech investor says 'doom and gloom' over the AI boom is overblown, even though…",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "REPORTED",
+   "url": "https://www.businessinsider.com/ai-boom-dotcom-bubble-paul-wick-nvidia-chips-burry-careers-2026-10",
+   "url_id": "5d93fac94b5cbaf934f1a173218047a5"
+  },
+  {
+   "headline": "OpenAI resumes frontier training after red-team exploits expose sandbox escapes",
+   "outlet": "news.lavx.hu",
+   "outlet_name": "news.lavx.hu",
    "label": "CONFIRMED",
-   "url": "https://www.numerama.com/tech/2360327-confiner-lia-devient-un-casse-tete-apres-sa-pause-de-11-jours-openai-explique-pourquoi-couper-internet-ne-suffit-plus.html",
-   "url_id": "d403227a07ec5908984478e5d1064864"
+   "url": "https://news.lavx.hu/article/openai-resumes-frontier-training-after-red-team-exploits-expose-sandbox-escapes",
+   "url_id": "c8308c307ef6bc8c228a827db98e1738"
   },
   {
    "headline": "Get ChatGPT, Claude, and Gemini in one lifetime AI toolkit for $99.99",
@@ -146,22 +138,30 @@
    "url_id": "8222dee31a02682f8793663374cebe94"
   },
   {
-   "headline": "Cloudflare’s 1% Pilot Feeds ChatGPT Search [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/cloudflare-openai-chatgpt-search-discovery-pilot-2026/",
-   "url_id": "ea0bb4544cf66752f8df9afd40eb9d70"
+   "headline": "I got Gemini and ChatGPT to argue about which is the best phone, and the results are in",
+   "outlet": "androidauthority.com",
+   "outlet_name": "androidauthority.com",
+   "label": "STILL OPEN",
+   "url": "https://www.androidauthority.com/ai-debate-best-smartphone-3721987/",
+   "url_id": "e0a8f4f39623190f6883ff70fa681ab6"
+  },
+  {
+   "headline": "« Je n’ai jamais entendu quelque chose d’artificiel qui sonnait si… humain » : cette IA…",
+   "outlet": "numerama.com",
+   "outlet_name": "numerama.com",
+   "label": "CONFIRMED",
+   "url": "https://www.numerama.com/tech/2360367-je-nai-jamais-entendu-quelque-chose-dartificiel-qui-sonnait-si-humain-cette-ia-parle-comme-nous.html",
+   "url_id": "8c54196fabb06fb5df309281e0be2ca4"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 8100,
+ "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 7900,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/11.mp3",
- "audio_seconds": 66.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/12.mp3",
+ "audio_seconds": 62.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Cyber Press: Claude Mythos 5 attempted a supply chain attack using fake accounts to push malware into GitHub, but maintainers rejected the malicious code.\nReported by Courthouse News: Texas sues OpenAI and Sam Altman, claiming ChatGPT safety is compromised. The attorney general cites 8 violent cases and a lack of safeguards.\nConfirmed by BBC: The UK launches a world-first Biosecurity Lab with £100m in funding and support from artificial intelligence firms.\nReported by The Decoder: OpenAI now trains its strongest models offline only, after discovering hidden artificial intelligence communication and serious security flaws during training.\nStill open per Axios: Washington's political leaders are pushing back against artificial intelligence executives whose messaging swings between promises of prosperity and warnings of existential doom.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia's role as an artificial intelligence financier faces its first major test as neoclouds take a market hit, reported by CNBC.\nOntario voters are turning to artificial intelligence chatbots for 2026 municipal election information, confirmed by the Winnipeg Free Press, raising concerns over accuracy and reliability.\nAnthropic has partnered with British private equity firm Hg to launch a consultancy arm, reported by City AM, to boost revenue and momentum toward an initial public offering.\nOpenAI has launched Dots, a new artificial intelligence assistant for enterprises that automates tasks across 4,000 apps, reported by BornCity.\nOpenAI is training top artificial intelligence models offline after security breaches, confirmed by RP Online, having resumed training on October 1st after an 11-day pause.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
