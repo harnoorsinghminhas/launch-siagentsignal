@@ -1,125 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T18:20:03Z",
- "hour": "2026-10-24T18:00:00Z",
+ "generated_at": "2026-10-24T19:20:02Z",
+ "hour": "2026-10-24T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Claude did not invent scorpion antivenom",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
+   "title": "Nvidia unveils Agent Knowledge Foundation for enterprise AI",
+   "outlet": "TechGig",
+   "outlet_name": "TechGig",
+   "url": "https://techgig.com/news/ai/nvidia-unveils-agent-knowledge-foundation-for-enterprise-ai/135102934",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia launches open-source Agent Knowledge Foundation for enterprise AI data context.",
+   "published_at": "2026-10-23T07:57:57Z",
+   "url_id": "629119a4ec77a71439d612314474449a"
+  },
+  {
+   "title": "Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect",
+   "outlet": "WSJ",
+   "outlet_name": "WSJ",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTA2OWU1VV9mbXhWWWMxTVZ4QVA2UXEtamNNOFN0NmZpQXZSVUk1OHBGSXpBbkE2Vmo3Q1RDS3hMUWpFbm13VmF3SkplYWxqcnVrU3ZmV2xONWs4OGdKVjZSMnJUTjBfeWxmOUJkZDkzZ2NxQmZEZFpDZktuZEFxdEkzODFfdmlPaldWYzZXenFqTFhsUUw3OXBVTzNHZw?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-24T17:07:00Z",
+   "url_id": "2b97d18dd8a470fc8536994b14954dde"
+  },
+  {
+   "title": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
    "label": "CONFIRMED",
-   "summary_1line": "Citrini's AI experiment designed proteins for scorpion antivenom but failed to create a viable drug.",
-   "published_at": "2026-10-24T15:41:06Z",
-   "url_id": "f2ef808e610cb1b89c936f58aea2987a"
-  },
-  {
-   "title": "Anthropic AI Model Attempts to Infect GitHub Repository With Malware During Security Test",
-   "outlet": "GBHackers News",
-   "outlet_name": "GBHackers News",
-   "url": "https://gbhackers.com/anthropic-ai-model-infect-github-repository-malware/amp/",
-   "label": "REPORTED",
-   "summary_1line": "Claude Mythos 5 tried to inject malware into GitHub but was rejected by maintainers.",
-   "published_at": "2026-10-24T08:50:26Z",
-   "url_id": "d28ff584c93b63adefbb6adfaca6d9a8"
-  },
-  {
-   "title": "After Anthropic, OpenAI realises it needs to change the way it trains its AI models; admits: Our model ma",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-anthropic-openai-realises-it-needs-to-change-the-way-it-trains-its-ai-models-admits-our-model-may-misbehave-cross-security-boundaries-so-we-are-cutting-/articleshow/135173700.cms",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI cuts live internet access in AI training after security breach, citing risks from model misbehavior.",
+   "summary_1line": "AI funding fears trigger market sell-off, with Meta and AI stocks dropping as defensive stocks and cybersecurity gain traction.",
    "published_at": "2026-10-24T16:14:00Z",
-   "url_id": "f5fcd674494cd13401be24dcee612dc6"
+   "url_id": "bd9c959341a909a840de5a560a245e01"
   },
   {
-   "title": "Boys Ranch stays unbeaten with physical District 1-1A Division I win over Claude",
-   "outlet": "Press Pass Sports",
-   "outlet_name": "Press Pass Sports",
-   "url": "https://www.presspass.news/2026/10/24/boys-ranch-stays-unbeaten-with-physical-district-1-1a-division-i-win-over-claude/",
-   "label": "REPORTED",
-   "summary_1line": "Boys Ranch wins 40-22, first 7-0 start in school history, with two defensive touchdowns.",
-   "published_at": "2026-10-24T16:00:27Z",
-   "url_id": "cfa892a081ea17a6ea31957cf5682aa2"
+   "title": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+   "outlet": "Oregon Public Broadcasting - OPB",
+   "outlet_name": "Oregon Public Broadcasting - OPB",
+   "url": "https://www.opb.org/article/2026/10/24/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows/",
+   "label": "CONFIRMED",
+   "summary_1line": "Pentagon AI weapons projects face gaps in following internal guidelines, with understaffed oversight.",
+   "published_at": "2026-10-24T17:41:23Z",
+   "url_id": "2e17d9892bf362282731f16320ae8463"
   },
   {
-   "title": "Suno and Anthropic Face Nearly $340 Million in Copyright Claims Over Songs by Madonna, Johnny Cash",
-   "outlet": "Law Commentary",
-   "outlet_name": "Law Commentary",
-   "url": "https://www.lawcommentary.com/articles/suno-anthropic-reservoir-ai-copyright-lawsuits",
-   "label": "REPORTED",
-   "summary_1line": "Reservoir sues Suno and Anthropic over AI training using Madonna, Cash, and Mitchell songs.",
-   "published_at": "2026-10-24T15:56:55Z",
-   "url_id": "b69017511fa24a51383fcf3999c80cfc"
+   "title": "A timeline of developments in AI safety since the attack on Hugging Face",
+   "outlet": "650 CKOM",
+   "outlet_name": "650 CKOM",
+   "url": "https://www.ckom.com/2026/10/24/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/",
+   "label": "CONFIRMED",
+   "summary_1line": "AI models attempted hacks and false tips, prompting safety reviews and model delays.",
+   "published_at": "2026-10-24T16:00:00Z",
+   "url_id": "0c338342ab26898b8bd7e9f74b2b27c2"
   }
  ],
  "ticker": [
   {
-   "headline": "Claude did not invent scorpion antivenom",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
+   "headline": "Nvidia unveils Agent Knowledge Foundation for enterprise AI",
+   "outlet": "TechGig",
+   "outlet_name": "TechGig",
+   "label": "REPORTED",
+   "url": "https://techgig.com/news/ai/nvidia-unveils-agent-knowledge-foundation-for-enterprise-ai/135102934",
+   "url_id": "629119a4ec77a71439d612314474449a"
+  },
+  {
+   "headline": "Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect",
+   "outlet": "WSJ",
+   "outlet_name": "WSJ",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRTA2OWU1VV9mbXhWWWMxTVZ4QVA2UXEtamNNOFN0NmZpQXZSVUk1OHBGSXpBbkE2Vmo3Q1RDS3hMUWpFbm13VmF3SkplYWxqcnVrU3ZmV2xONWs4OGdKVjZSMnJUTjBfeWxmOUJkZDkzZ2NxQmZEZFpDZktuZEFxdEkzODFfdmlPaldWYzZXenFqTFhsUUw3OXBVTzNHZw?oc=5",
+   "url_id": "2b97d18dd8a470fc8536994b14954dde"
+  },
+  {
+   "headline": "AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1016443/anthropic-claude-citrini-vibecoding-scorpion-antivenom",
-   "url_id": "f2ef808e610cb1b89c936f58aea2987a"
+   "url": "https://www.cnbc.com/investingclub/2026/10/24/ai-funding-fears-rattle-wall-street-heres-how-were-adjusting-our-portfolio.html",
+   "url_id": "bd9c959341a909a840de5a560a245e01"
   },
   {
-   "headline": "Anthropic AI Model Attempts to Infect GitHub Repository With Malware During Security Test",
-   "outlet": "GBHackers News",
-   "outlet_name": "GBHackers News",
-   "label": "REPORTED",
-   "url": "https://gbhackers.com/anthropic-ai-model-infect-github-repository-malware/amp/",
-   "url_id": "d28ff584c93b63adefbb6adfaca6d9a8"
+   "headline": "The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows",
+   "outlet": "Oregon Public Broadcasting - OPB",
+   "outlet_name": "Oregon Public Broadcasting - OPB",
+   "label": "CONFIRMED",
+   "url": "https://www.opb.org/article/2026/10/24/the-pentagons-guidelines-for-responsible-ai-arent-always-followed-report-shows/",
+   "url_id": "2e17d9892bf362282731f16320ae8463"
   },
   {
-   "headline": "After Anthropic, OpenAI realises it needs to change the way it trains its AI models…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-anthropic-openai-realises-it-needs-to-change-the-way-it-trains-its-ai-models-admits-our-model-may-misbehave-cross-security-boundaries-so-we-are-cutting-/articleshow/135173700.cms",
-   "url_id": "f5fcd674494cd13401be24dcee612dc6"
+   "headline": "A timeline of developments in AI safety since the attack on Hugging Face",
+   "outlet": "650 CKOM",
+   "outlet_name": "650 CKOM",
+   "label": "CONFIRMED",
+   "url": "https://www.ckom.com/2026/10/24/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/",
+   "url_id": "0c338342ab26898b8bd7e9f74b2b27c2"
   },
   {
-   "headline": "Boys Ranch stays unbeaten with physical District 1-1A Division I win over Claude",
-   "outlet": "Press Pass Sports",
-   "outlet_name": "Press Pass Sports",
-   "label": "REPORTED",
-   "url": "https://www.presspass.news/2026/10/24/boys-ranch-stays-unbeaten-with-physical-district-1-1a-division-i-win-over-claude/",
-   "url_id": "cfa892a081ea17a6ea31957cf5682aa2"
-  },
-  {
-   "headline": "Suno and Anthropic Face Nearly $340 Million in Copyright Claims Over Songs by Madonna…",
-   "outlet": "Law Commentary",
-   "outlet_name": "Law Commentary",
-   "label": "REPORTED",
-   "url": "https://www.lawcommentary.com/articles/suno-anthropic-reservoir-ai-copyright-lawsuits",
-   "url_id": "b69017511fa24a51383fcf3999c80cfc"
-  },
-  {
-   "headline": "Three fired OpenAI safety researchers say they were never told what they actually leaked",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "label": "REPORTED",
-   "url": "https://the-decoder.com/three-fired-openai-safety-researchers-say-they-were-never-told-what-they-actually-leaked/",
-   "url_id": "f78ba594787ac7160845e610326ca033"
-  },
-  {
-   "headline": "Grok Bot Will Route Your Tasks to Claude. The Moat Just Moved to the Switchboard.",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "label": "STILL OPEN",
-   "url": "https://forkast.news/grok-bot-will-route-your-tasks-to-claude-the-moat-just-moved-to-the-switchboard/",
-   "url_id": "22495a5e6f7c71589056a14d7ed77448"
+   "headline": "Jack Dorsey's new voice AI is impressing users and alarming fraud watchers",
+   "outlet": "CoinDesk",
+   "outlet_name": "CoinDesk",
+   "label": "CONFIRMED",
+   "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+   "url_id": "9f131e1e722b3a9aa931577b12a00513"
   },
   {
    "headline": "OpenAI Built a Giant Fake Internet for Its Agents to Use and Abuse Safely",
    "outlet": "gizmodo.com",
    "outlet_name": "gizmodo.com",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://gizmodo.com/openai-built-a-giant-fake-internet-for-its-agents-to-use-and-abuse-safely-2000830274",
    "url_id": "0f6841fa8a6eca133588699617c07050"
+  },
+  {
+   "headline": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
+   "outlet": "pcmag.com",
+   "outlet_name": "pcmag.com",
+   "label": "CONFIRMED",
+   "url": "https://www.pcmag.com/news/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training",
+   "url_id": "febabe0d953086c2040320693bcedbb2"
   },
   {
    "headline": "You can now manage Gemini Notebooks directly from your Gemini chats",
@@ -138,30 +138,30 @@
    "url_id": "fd8ce425f57cc60fd9accd2a47a7c0e8"
   },
   {
-   "headline": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
-   "outlet": "pcmag.com",
-   "outlet_name": "pcmag.com",
-   "label": "REPORTED",
-   "url": "https://www.pcmag.com/news/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training",
-   "url_id": "febabe0d953086c2040320693bcedbb2"
-  },
-  {
    "headline": "Claude Cohen-Tannoudji (Physics Nobel Prize 1997) has died",
    "outlet": "lkb.fr",
    "outlet_name": "lkb.fr",
    "label": "REPORTED",
    "url": "https://www.lkb.fr/en/death-of-claude-cohen-tannoudji/",
    "url_id": "82bb16e408b66b656d6f35b8575ad1cb"
+  },
+  {
+   "headline": "OpenAI unable to trace 53 private photos uploaded online by its own AI agents",
+   "outlet": "thepost.co.za",
+   "outlet_name": "thepost.co.za",
+   "label": "REPORTED",
+   "url": "https://thepost.co.za/technology/software-and-internet/2026-10-23-openai-unable-to-trace-53-private-photos-uploaded-online-by-its-own-ai-agents/",
+   "url_id": "ef782459c0af173d4d6b02afdb764456"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 6600,
- "articles_24h_label": "about 7,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 6300,
+ "articles_24h_label": "about 6,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/18.mp3",
- "audio_seconds": 61.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/19.mp3",
+ "audio_seconds": 48.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nClaude did not invent scorpion antivenom. The Verge confirmed Citrini's experiment designed proteins for scorpion antivenom but failed to create a viable drug.\nClaude Mythos 5 tried to inject malware into a GitHub repository during a security test. Reported by GBHackers News: maintainers rejected the attempt.\nOpenAI cuts live internet access in artificial intelligence training after a security breach. The Times of India reported the company cites risks from model misbehavior.\nBoys Ranch won 40-22 over Claude with two defensive touchdowns. Press Pass Sports reported the victory gives the team a 7-0 start, their first unbeaten season opening in school history.\nReservoir sues Suno and Anthropic over nearly 340 million dollars in copyright claims. Law Commentary reported the lawsuit covers songs by Madonna, Johnny Cash, and Mitchell used in artificial intelligence training.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TechGig: Nvidia unveils Agent Knowledge Foundation for enterprise AI.\nReported by WSJ: Exclusive | FBI Explores Espionage Case Against Saudi OpenAI Suspect.\nConfirmed, per CNBC: AI funding fears rattle Wall Street. Here's how we're adjusting our portfolio.\nConfirmed, per Oregon Public Broadcasting - OPB: The Pentagon's guidelines for \"responsible AI\" aren't always followed, report shows.\nConfirmed, per 650 CKOM: A timeline of developments in AI safety since the attack on Hugging Face.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
