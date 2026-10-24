@@ -1,91 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T14:20:03Z",
- "hour": "2026-10-24T14:00:00Z",
+ "generated_at": "2026-10-24T15:20:02Z",
+ "hour": "2026-10-24T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "UK funds £100m AI biosecurity lab with OpenAI and Anthropic",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic",
-   "label": "CONFIRMED",
-   "summary_1line": "UK launches AI Biosecurity Lab with £100m and AI model access from OpenAI, Anthropic, DeepMind, and Basecamp.",
-   "published_at": "2026-10-24T10:59:22Z",
-   "url_id": "d8080c0d2add14da3843345149dcc694"
+   "title": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
+   "outlet": "The Star",
+   "outlet_name": "The Star",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/washingtons-deepseek-ban-may-deter-us-firms-from-adopting-chinese-ai-models-experts",
+   "label": "REPORTED",
+   "summary_1line": "US bans DeepSeek for national security; China calls it discriminatory, affecting US AI adoption.",
+   "published_at": "2026-10-24T12:43:00Z",
+   "url_id": "82a1fdeeb02a268ba0de284eddf92cc1"
   },
   {
-   "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Trump pushes AI growth amid voter backlash over data centers.",
-   "published_at": "2026-10-24T10:00:01Z",
-   "url_id": "0892d0b5390703fd97da17ff2af7f99c"
+   "title": "Gemini is making your Google smart home slower, it’s time to try Home Assistant",
+   "outlet": "How-To Geek",
+   "outlet_name": "How-To Geek",
+   "url": "https://www.howtogeek.com/gemini-making-google-smart-home-slower-try-home-assistant/",
+   "label": "REPORTED",
+   "summary_1line": "Google's Gemini AI rollout has degraded Google Home functionality, prompting users to switch to Home Assistant.",
+   "published_at": "2026-10-24T12:31:17Z",
+   "url_id": "aee75a34d80d0aad2dc4764f664ffb6b"
   },
   {
-   "title": "AI Billionaires Are Flooding Money Into Politics to Influence Elections, But It’s Backfiring",
-   "outlet": "Futurism",
-   "outlet_name": "Futurism",
-   "url": "https://futurism.com/future-society/ai-billionaires-elections-backfiring",
-   "label": "CONFIRMED",
-   "summary_1line": "AI donors face backlash as voters see AI money as toxic and corrupt.",
-   "published_at": "2026-10-24T11:51:00Z",
-   "url_id": "dcf7b846ca6bd492bec510e99de6fe17"
+   "title": "ChatGPT Has Ranked Which States Are Stupidest, Smelliest, And Hottest",
+   "outlet": "Yahoo News Singapore",
+   "outlet_name": "Yahoo News Singapore",
+   "url": "https://sg.news.yahoo.com/chatgpt-ranked-states-stupidest-smelliest-114602582.html",
+   "label": "REPORTED",
+   "summary_1line": "ChatGPT ranks states on intelligence, smell, and beauty, reinforcing geographic stereotypes.",
+   "published_at": "2026-10-24T11:46:02Z",
+   "url_id": "32bae7be2d3d75ac49b608736f104515"
   },
   {
-   "title": "Why Did OpenAI Fire 3 Safety Researchers? Report Reveals Signal Messages Discovery",
-   "outlet": "LatestLY",
-   "outlet_name": "LatestLY",
-   "url": "https://www.latestly.com/technology/why-did-openai-fire-3-safety-researchers-report-reveals-signal-messages-discovery-7655636.html",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI fires three safety researchers over disappearing messages on personal phones.",
-   "published_at": "2026-10-24T04:53:00Z",
-   "url_id": "12f28cce93d5d148945d7e078af3b5a1"
+   "title": "Microsoft Teams Adds GitHub Copilot With New Combined App",
+   "outlet": "TechJuice",
+   "outlet_name": "TechJuice",
+   "url": "https://www.techjuice.pk/microsoft-teams-github-copilot-new-app/",
+   "label": "REPORTED",
+   "summary_1line": "Microsoft merges GitHub apps into Teams, adding AI context and deadline for deprecation.",
+   "published_at": "2026-10-24T11:35:49Z",
+   "url_id": "6edd0e0a8b516df743af5cc421ab01ff"
+  },
+  {
+   "title": "OpenAI Launches New AI Tool That Makes Decisions Up to 10 Times Faster",
+   "outlet": "ProPakistani",
+   "outlet_name": "ProPakistani",
+   "url": "https://propakistani.pk/2026/10/23/openai-launches-new-ai-tool-that-makes-decisions-up-to-10-times-faster/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI's Decisions API cuts decision time to 100–180ms, offering faster, cheaper AI for developers.",
+   "published_at": "2026-10-23T11:29:56Z",
+   "url_id": "218bf8b56c1527ce060f148b142c9778"
   }
  ],
  "ticker": [
   {
-   "headline": "UK funds £100m AI biosecurity lab with OpenAI and Anthropic",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic",
-   "url_id": "d8080c0d2add14da3843345149dcc694"
+   "headline": "Washington’s DeepSeek ban may deter US firms from adopting Chinese AI models: experts",
+   "outlet": "The Star",
+   "outlet_name": "The Star",
+   "label": "REPORTED",
+   "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/10/24/washingtons-deepseek-ban-may-deter-us-firms-from-adopting-chinese-ai-models-experts",
+   "url_id": "82a1fdeeb02a268ba0de284eddf92cc1"
   },
   {
-   "headline": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
-   "url_id": "0892d0b5390703fd97da17ff2af7f99c"
+   "headline": "Gemini is making your Google smart home slower, it’s time to try Home Assistant",
+   "outlet": "How-To Geek",
+   "outlet_name": "How-To Geek",
+   "label": "REPORTED",
+   "url": "https://www.howtogeek.com/gemini-making-google-smart-home-slower-try-home-assistant/",
+   "url_id": "aee75a34d80d0aad2dc4764f664ffb6b"
   },
   {
-   "headline": "AI Billionaires Are Flooding Money Into Politics to Influence Elections, But It’s…",
-   "outlet": "Futurism",
-   "outlet_name": "Futurism",
-   "label": "CONFIRMED",
-   "url": "https://futurism.com/future-society/ai-billionaires-elections-backfiring",
-   "url_id": "dcf7b846ca6bd492bec510e99de6fe17"
+   "headline": "ChatGPT Has Ranked Which States Are Stupidest, Smelliest, And Hottest",
+   "outlet": "Yahoo News Singapore",
+   "outlet_name": "Yahoo News Singapore",
+   "label": "REPORTED",
+   "url": "https://sg.news.yahoo.com/chatgpt-ranked-states-stupidest-smelliest-114602582.html",
+   "url_id": "32bae7be2d3d75ac49b608736f104515"
   },
   {
-   "headline": "Why Did OpenAI Fire 3 Safety Researchers? Report Reveals Signal Messages Discovery",
-   "outlet": "LatestLY",
-   "outlet_name": "LatestLY",
-   "label": "STILL OPEN",
-   "url": "https://www.latestly.com/technology/why-did-openai-fire-3-safety-researchers-report-reveals-signal-messages-discovery-7655636.html",
-   "url_id": "12f28cce93d5d148945d7e078af3b5a1"
+   "headline": "Microsoft Teams Adds GitHub Copilot With New Combined App",
+   "outlet": "TechJuice",
+   "outlet_name": "TechJuice",
+   "label": "REPORTED",
+   "url": "https://www.techjuice.pk/microsoft-teams-github-copilot-new-app/",
+   "url_id": "6edd0e0a8b516df743af5cc421ab01ff"
   },
   {
-   "headline": "See what 5 builders are making with Gemini 4 Argon",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "OpenAI Launches New AI Tool That Makes Decisions Up to 10 Times Faster",
+   "outlet": "ProPakistani",
+   "outlet_name": "ProPakistani",
+   "label": "REPORTED",
+   "url": "https://propakistani.pk/2026/10/23/openai-launches-new-ai-tool-that-makes-decisions-up-to-10-times-faster/",
+   "url_id": "218bf8b56c1527ce060f148b142c9778"
+  },
+  {
+   "headline": "Running Kimi K3.1 Pro in Claude Code and Codex: The Config, the Silent Failures, and the…",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "label": "REPORTED",
+   "url": "https://www.orcarouter.ai/blog/kimi-k3-1-pro-claude-code-and-codex",
+   "url_id": "f4e6449a6d1625c7b3600f0b8d301d1e"
+  },
+  {
+   "headline": "Copyright owners to Elvis songs sues Anthropic. Total = 157 suits v. AI cos.",
+   "outlet": "chatgptiseatingtheworld.com",
+   "outlet_name": "chatgptiseatingtheworld.com",
+   "label": "REPORTED",
+   "url": "https://chatgptiseatingtheworld.com/2026/10/24/copyright-owners-to-elvis-songs-sues-anthropic-total-157-suits-v-ai-cos/",
+   "url_id": "c6d8df413cb71f4a2d74b7dd1fcc1e0b"
+  },
+  {
+   "headline": "Anthropic’s AI Hid a Secret Message in the Stars. OpenAI’s Bot Found It.",
+   "outlet": "gizmodo.com",
+   "outlet_name": "gizmodo.com",
    "label": "CONFIRMED",
-   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
-   "url_id": "6c762871900bdfe8c19c0a761928838a"
+   "url": "https://gizmodo.com/anthropics-ai-hid-a-secret-message-in-the-stars-openais-ai-found-it-2000830047",
+   "url_id": "9190aabff4cf66c134a91a83bbd47bbe"
   },
   {
    "headline": "Kimi K3.1 Pro Costs Half of Claude Opus 5.5. Your Bill Probably Won’t Halve.",
@@ -96,14 +130,6 @@
    "url_id": "9841aee2a287fc34cc0d2b7f3a9d6148"
   },
   {
-   "headline": "​UK AI Safety Evaluation Finds Claude Mythos 5 Deceived Developers With Fake Accounts",
-   "outlet": "The420.in",
-   "outlet_name": "The420.in",
-   "label": "REPORTED",
-   "url": "https://the420.in/claude-mythos-github-malware-incident/",
-   "url_id": "73e898bfd91133e43cef28678bf506a4"
-  },
-  {
    "headline": "OpenAI stellt seine neue Trainingsumgebung vor – ohne Air Gap",
    "outlet": "heise.de",
    "outlet_name": "heise.de",
@@ -112,46 +138,30 @@
    "url_id": "dd3cca9ba6a1474570fccb4eeacc6da6"
   },
   {
-   "headline": "Nvidia's RTX Spark has an NPU it barely mentions, and I spent a week figuring out what it…",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
+   "headline": "Meet Anthropic’s sandbox-runtime: OS-Level Sandboxing for AI Agents, No Containers",
+   "outlet": "marktechpost.com",
+   "outlet_name": "marktechpost.com",
    "label": "REPORTED",
-   "url": "https://www.xda-developers.com/nvidia-rtx-spark-npu-barely-mentions-spent-week-figuring-out/",
-   "url_id": "ed77744659a7745e45c9b291a1411b6c"
+   "url": "https://www.marktechpost.com/2026/10/24/anthropic-sandbox-runtime-ai-agent-sandbox/",
+   "url_id": "7dc1a851fe4dc5a876ecc6cc8980f308"
   },
   {
-   "headline": "Moonshot AI launches Kimi K3.1 Pro with better coding skills, reduced cyber risks",
-   "outlet": "Mint on MSN",
-   "outlet_name": "Mint on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/moonshot-ai-launches-kimi-k3-1-pro-with-better-coding-skills-reduced-cyber-risks/ar-AA2fYLjk",
-   "url_id": "843363d2da4e4f964dd674622e4cae6e"
-  },
-  {
-   "headline": "Abliteration AI: Wie gefährlich sind KI-Modelle ohne Schranken wirklich?",
-   "outlet": "t3n.de",
-   "outlet_name": "t3n.de",
-   "label": "CONFIRMED",
-   "url": "https://t3n.de/news/abliteration-ai-wie-gefaehrlich-1768996",
-   "url_id": "947d22fbd0c9779bb17523b69c4474b0"
-  },
-  {
-   "headline": "Google DeepMind employees resign over Pentagon AI deals, citing ethical concerns",
-   "outlet": "Hindustan Times on MSN",
-   "outlet_name": "Hindustan Times on MSN",
+   "headline": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+   "outlet": "therobotreport.com",
+   "outlet_name": "therobotreport.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/google-deepmind-employees-resign-over-pentagon-ai-deals-citing-ethical-concerns/ar-AA2fYtKi",
-   "url_id": "58bedd5626cb69facee2b42962e22b70"
+   "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+   "url_id": "24ff3161ab9300182f3d9e77e9ef8caf"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 7400,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 7200,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/14.mp3",
- "audio_seconds": 43.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/15.mp3",
+ "audio_seconds": 70.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Next Web: UK funds £100m AI biosecurity lab with OpenAI and Anthropic.\nConfirmed, per CNBC: Trump is pushing a massive AI buildout. His own voters are wary of what comes with it.\nConfirmed, per Futurism: AI Billionaires Are Flooding Money Into Politics to Influence Elections, But It’s Backfiring.\nStill open, per LatestLY: Why Did OpenAI Fire 3 Safety Researchers? Report Reveals Signal Messages Discovery.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nWashington's DeepSeek ban may deter US firms from adopting Chinese models. Reported by The Star: the US bans DeepSeek for national security while China calls it discriminatory, affecting adoption.\nGemini is making your Google smart home slower, prompting users to switch. Reported by How-To Geek: Google's Gemini rollout has degraded Google Home functionality.\nChatGPT has ranked which states are stupidest, smelliest, and hottest. Reported by Yahoo News Singapore: ChatGPT ranks states on intelligence, smell, and beauty, reinforcing geographic stereotypes.\nMicrosoft Teams adds GitHub Copilot with a new combined app. Reported by TechJuice: Microsoft merges GitHub apps into Teams, adding artificial intelligence context and a deadline for deprecation.\nOpenAI launches a new tool that makes decisions up to 10 times faster. Reported by ProPakistani: OpenAI's Decisions API cuts decision time to 100–180 milliseconds, offering faster, cheaper artificial intelligence for developers.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
