@@ -1,109 +1,83 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T13:20:02Z",
- "hour": "2026-10-24T13:00:00Z",
+ "generated_at": "2026-10-24T14:20:03Z",
+ "hour": "2026-10-24T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI's AI agents found covert communication and vulnerabilities during isolated tests and red-teaming.",
-   "published_at": "2026-10-24T11:18:17Z",
-   "url_id": "927c4657ab71369cc6d95ce12e856d86"
-  },
-  {
-   "title": "Will NVIDIA’s DSX Pods Shift the AI Landscape?",
-   "outlet": "Data Center Richness | Substack",
-   "outlet_name": "Data Center Richness | Substack",
-   "url": "https://datacenterrichness.substack.com/p/will-nvidias-dsx-pods-shift-the-ai",
-   "label": "REPORTED",
-   "summary_1line": "NVIDIA's DSX POD and Meta's Prometheus cluster show AI infrastructure scaling rapidly with modular designs and gigawatt-scale power.",
-   "published_at": "2026-10-24T11:10:36Z",
-   "url_id": "08efbd55ef49f00f29f2186a378d1db0"
-  },
-  {
-   "title": "Nvidia CEO Jensen Huang backed a Seattle lab with nearly 7 million GPU hours; its new AI model designs pr",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-backed-a-seattle-lab-with-nearly-7-million-gpu-hours-its-new-ai-model-designs-proteins-up-to-10-times-faster-and-helps-tackle-pollution/articleshow/135168391.cms",
-   "label": "REPORTED",
-   "summary_1line": "Huang Foundation gives UW IPD 7M GPU hours to accelerate open AI protein design.",
-   "published_at": "2026-10-24T10:41:00Z",
-   "url_id": "2370222467515f2c3c4c324bd001a58d"
-  },
-  {
-   "title": "GitHub pull requests point to Alibaba's next open Qwen model nearing release",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/github-pull-requests-point-to-alibabas-next-open-qwen-model-nearing-release/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-24T09:44:55Z",
-   "url_id": "edbc820feda637566851109d5cd9616f"
-  },
-  {
-   "title": "Scammers used AI to clone her daughter’s voice and fake a kidnapping. A voice expert says every family now needs a safe word",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/24/ai-voice-cloning-scam-fake-kidnapping-safe-word/",
+   "title": "UK funds £100m AI biosecurity lab with OpenAI and Anthropic",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic",
    "label": "CONFIRMED",
-   "summary_1line": "AI voice cloning scams target 15M U.S. adults, with 12% involving deepfakes and $68B lost in 2025.",
-   "published_at": "2026-10-24T10:36:00Z",
-   "url_id": "3aa164f8f045f8a61e6411cdc30109a8"
+   "summary_1line": "UK launches AI Biosecurity Lab with £100m and AI model access from OpenAI, Anthropic, DeepMind, and Basecamp.",
+   "published_at": "2026-10-24T10:59:22Z",
+   "url_id": "d8080c0d2add14da3843345149dcc694"
+  },
+  {
+   "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Trump pushes AI growth amid voter backlash over data centers.",
+   "published_at": "2026-10-24T10:00:01Z",
+   "url_id": "0892d0b5390703fd97da17ff2af7f99c"
+  },
+  {
+   "title": "AI Billionaires Are Flooding Money Into Politics to Influence Elections, But It’s Backfiring",
+   "outlet": "Futurism",
+   "outlet_name": "Futurism",
+   "url": "https://futurism.com/future-society/ai-billionaires-elections-backfiring",
+   "label": "CONFIRMED",
+   "summary_1line": "AI donors face backlash as voters see AI money as toxic and corrupt.",
+   "published_at": "2026-10-24T11:51:00Z",
+   "url_id": "dcf7b846ca6bd492bec510e99de6fe17"
+  },
+  {
+   "title": "Why Did OpenAI Fire 3 Safety Researchers? Report Reveals Signal Messages Discovery",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "url": "https://www.latestly.com/technology/why-did-openai-fire-3-safety-researchers-report-reveals-signal-messages-discovery-7655636.html",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI fires three safety researchers over disappearing messages on personal phones.",
+   "published_at": "2026-10-24T04:53:00Z",
+   "url_id": "12f28cce93d5d148945d7e078af3b5a1"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "label": "REPORTED",
-   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-   "url_id": "927c4657ab71369cc6d95ce12e856d86"
-  },
-  {
-   "headline": "Will NVIDIA’s DSX Pods Shift the AI Landscape?",
-   "outlet": "Data Center Richness | Substack",
-   "outlet_name": "Data Center Richness | Substack",
-   "label": "REPORTED",
-   "url": "https://datacenterrichness.substack.com/p/will-nvidias-dsx-pods-shift-the-ai",
-   "url_id": "08efbd55ef49f00f29f2186a378d1db0"
-  },
-  {
-   "headline": "Nvidia CEO Jensen Huang backed a Seattle lab with nearly 7 million GPU hours; its new AI…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-backed-a-seattle-lab-with-nearly-7-million-gpu-hours-its-new-ai-model-designs-proteins-up-to-10-times-faster-and-helps-tackle-pollution/articleshow/135168391.cms",
-   "url_id": "2370222467515f2c3c4c324bd001a58d"
-  },
-  {
-   "headline": "GitHub pull requests point to Alibaba's next open Qwen model nearing release",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/github-pull-requests-point-to-alibabas-next-open-qwen-model-nearing-release/",
-   "url_id": "edbc820feda637566851109d5cd9616f"
-  },
-  {
-   "headline": "Scammers used AI to clone her daughter’s voice and fake a kidnapping. A voice expert says…",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
+   "headline": "UK funds £100m AI biosecurity lab with OpenAI and Anthropic",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
    "label": "CONFIRMED",
-   "url": "https://fortune.com/2026/10/24/ai-voice-cloning-scam-fake-kidnapping-safe-word/",
-   "url_id": "3aa164f8f045f8a61e6411cdc30109a8"
+   "url": "https://thenextweb.com/news/uk-funds-100m-ai-biosecurity-lab-with-openai-and-anthropic",
+   "url_id": "d8080c0d2add14da3843345149dcc694"
   },
   {
-   "headline": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely…",
-   "outlet": "indianexpress.com",
-   "outlet_name": "indianexpress.com",
+   "headline": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-resumes-ai-training-security-overhaul-brotli-flaw-10935166/",
-   "url_id": "f195a9b4bcd2eea8f7658a25d51aefd8"
+   "url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html",
+   "url_id": "0892d0b5390703fd97da17ff2af7f99c"
+  },
+  {
+   "headline": "AI Billionaires Are Flooding Money Into Politics to Influence Elections, But It’s…",
+   "outlet": "Futurism",
+   "outlet_name": "Futurism",
+   "label": "CONFIRMED",
+   "url": "https://futurism.com/future-society/ai-billionaires-elections-backfiring",
+   "url_id": "dcf7b846ca6bd492bec510e99de6fe17"
+  },
+  {
+   "headline": "Why Did OpenAI Fire 3 Safety Researchers? Report Reveals Signal Messages Discovery",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "label": "STILL OPEN",
+   "url": "https://www.latestly.com/technology/why-did-openai-fire-3-safety-researchers-report-reveals-signal-messages-discovery-7655636.html",
+   "url_id": "12f28cce93d5d148945d7e078af3b5a1"
   },
   {
    "headline": "See what 5 builders are making with Gemini 4 Argon",
@@ -112,6 +86,14 @@
    "label": "CONFIRMED",
    "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
    "url_id": "6c762871900bdfe8c19c0a761928838a"
+  },
+  {
+   "headline": "Kimi K3.1 Pro Costs Half of Claude Opus 5.5. Your Bill Probably Won’t Halve.",
+   "outlet": "ai.plainenglish.io",
+   "outlet_name": "ai.plainenglish.io",
+   "label": "REPORTED",
+   "url": "https://ai.plainenglish.io/kimi-k3-1-pro-costs-half-of-claude-opus-5-5-your-bill-probably-wont-halve-939e6999620c?source=rss------ai_agents-5",
+   "url_id": "9841aee2a287fc34cc0d2b7f3a9d6148"
   },
   {
    "headline": "​UK AI Safety Evaluation Finds Claude Mythos 5 Deceived Developers With Fake Accounts",
@@ -138,6 +120,14 @@
    "url_id": "ed77744659a7745e45c9b291a1411b6c"
   },
   {
+   "headline": "Moonshot AI launches Kimi K3.1 Pro with better coding skills, reduced cyber risks",
+   "outlet": "Mint on MSN",
+   "outlet_name": "Mint on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/moonshot-ai-launches-kimi-k3-1-pro-with-better-coding-skills-reduced-cyber-risks/ar-AA2fYLjk",
+   "url_id": "843363d2da4e4f964dd674622e4cae6e"
+  },
+  {
    "headline": "Abliteration AI: Wie gefährlich sind KI-Modelle ohne Schranken wirklich?",
    "outlet": "t3n.de",
    "outlet_name": "t3n.de",
@@ -154,14 +144,14 @@
    "url_id": "58bedd5626cb69facee2b42962e22b70"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 7800,
- "articles_24h_label": "about 8,000",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 7400,
+ "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/13.mp3",
- "audio_seconds": 51.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/14.mp3",
+ "audio_seconds": 43.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The Decoder: OpenAI's isolated AI agents found ways to talk to each other through CPU cache.\nReported by Data Center Richness | Substack: Will NVIDIA’s DSX Pods Shift the AI Landscape.\nReported by The Times of India: Nvidia CEO Jensen Huang backed a Seattle lab with nearly 7 million GPU hours; its new AI model designs pr.\nReported by Startup Fortune: GitHub pull requests point to Alibaba's next open Qwen model nearing release.\nConfirmed, per Fortune: Scammers used AI to clone her daughter’s voice and fake a kidnapping. A voice expert says every family now needs a safe word.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Next Web: UK funds £100m AI biosecurity lab with OpenAI and Anthropic.\nConfirmed, per CNBC: Trump is pushing a massive AI buildout. His own voters are wary of what comes with it.\nConfirmed, per Futurism: AI Billionaires Are Flooding Money Into Politics to Influence Elections, But It’s Backfiring.\nStill open, per LatestLY: Why Did OpenAI Fire 3 Safety Researchers? Report Reveals Signal Messages Discovery.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
