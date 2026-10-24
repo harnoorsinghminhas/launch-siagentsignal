@@ -1,167 +1,167 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T12:20:02Z",
- "hour": "2026-10-24T12:00:00Z",
+ "generated_at": "2026-10-24T13:20:02Z",
+ "hour": "2026-10-24T13:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
+   "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI's AI agents found covert communication and vulnerabilities during isolated tests and red-teaming.",
+   "published_at": "2026-10-24T11:18:17Z",
+   "url_id": "927c4657ab71369cc6d95ce12e856d86"
+  },
+  {
+   "title": "Will NVIDIA’s DSX Pods Shift the AI Landscape?",
+   "outlet": "Data Center Richness | Substack",
+   "outlet_name": "Data Center Richness | Substack",
+   "url": "https://datacenterrichness.substack.com/p/will-nvidias-dsx-pods-shift-the-ai",
+   "label": "REPORTED",
+   "summary_1line": "NVIDIA's DSX POD and Meta's Prometheus cluster show AI infrastructure scaling rapidly with modular designs and gigawatt-scale power.",
+   "published_at": "2026-10-24T11:10:36Z",
+   "url_id": "08efbd55ef49f00f29f2186a378d1db0"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang backed a Seattle lab with nearly 7 million GPU hours; its new AI model designs pr",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-backed-a-seattle-lab-with-nearly-7-million-gpu-hours-its-new-ai-model-designs-proteins-up-to-10-times-faster-and-helps-tackle-pollution/articleshow/135168391.cms",
+   "label": "REPORTED",
+   "summary_1line": "Huang Foundation gives UW IPD 7M GPU hours to accelerate open AI protein design.",
+   "published_at": "2026-10-24T10:41:00Z",
+   "url_id": "2370222467515f2c3c4c324bd001a58d"
+  },
+  {
+   "title": "GitHub pull requests point to Alibaba's next open Qwen model nearing release",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/github-pull-requests-point-to-alibabas-next-open-qwen-model-nearing-release/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-24T11:00:01Z",
-   "url_id": "d402f7b57f69d5c956776c49772ca4b4"
+   "published_at": "2026-10-24T09:44:55Z",
+   "url_id": "edbc820feda637566851109d5cd9616f"
   },
   {
-   "title": "Why some Ontario voters are turning to AI chatbots for 2026 municipal elections",
-   "outlet": "Winnipeg Free Press",
-   "outlet_name": "Winnipeg Free Press",
-   "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/10/24/why-some-ontario-voters-are-turning-to-ai-chatbots-for-2026-municipal-elections",
+   "title": "Scammers used AI to clone her daughter’s voice and fake a kidnapping. A voice expert says every family now needs a safe word",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/24/ai-voice-cloning-scam-fake-kidnapping-safe-word/",
    "label": "CONFIRMED",
-   "summary_1line": "Ontario voters use AI chatbots for election info, raising concerns over accuracy and reliability.",
-   "published_at": "2026-10-24T10:00:12Z",
-   "url_id": "099d2eb507806975a1e24d613f5eb7c9"
-  },
-  {
-   "title": "Anthropic partners with British private equity firm to launch consultancy arm",
-   "outlet": "City AM",
-   "outlet_name": "City AM",
-   "url": "https://www.cityam.com/anthropic-partners-with-london-based-private-equity-firm-to-launch-consultancy-arm/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic launches AI consultancy with Hg to boost revenue and IPO momentum.",
-   "published_at": "2026-10-23T16:38:17Z",
-   "url_id": "a1f1ae2a2276e6b7ea911b3613498ec7"
-  },
-  {
-   "title": "OpenAI Dots: Neuer KI-Assistent erledigt Aufgaben über 4.000 Apps hinweg",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "url": "https://borncity.com/news/openai-dots-neuer-ki-assistent-erledigt-aufgaben-ueber-4-000-apps-hinweg/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI launches Dots AI assistant for enterprises, automating tasks across 4,000 apps.",
-   "published_at": "2026-10-24T09:25:04Z",
-   "url_id": "fd92625fcb317409b8a15f811b74ded6"
-  },
-  {
-   "title": "Künstliche Intelligenz: Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren",
-   "outlet": "RP Online",
-   "outlet_name": "RP Online",
-   "url": "https://rp-online.de/digitales/nach-hacks-openai-will-spitzen-ki-ohne-internet-trainieren_aid-157139405",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI trains top AI models offline after security breaches, resuming training on 1 October after 11-day pause.",
-   "published_at": "2026-10-23T22:01:00Z",
-   "url_id": "30e842406c4cb8e293cd6e430df15259"
+   "summary_1line": "AI voice cloning scams target 15M U.S. adults, with 12% involving deepfakes and $68B lost in 2025.",
+   "published_at": "2026-10-24T10:36:00Z",
+   "url_id": "3aa164f8f045f8a61e6411cdc30109a8"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia's role as AI financier faces first big test as neoclouds take market hit",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://www.cnbc.com/2026/10/24/nvidias-role-as-ai-financier-faces-first-big-test-as-neoclouds-take-market-hit.html",
-   "url_id": "d402f7b57f69d5c956776c49772ca4b4"
+   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+   "url_id": "927c4657ab71369cc6d95ce12e856d86"
   },
   {
-   "headline": "Why some Ontario voters are turning to AI chatbots for 2026 municipal elections",
-   "outlet": "Winnipeg Free Press",
-   "outlet_name": "Winnipeg Free Press",
-   "label": "CONFIRMED",
-   "url": "https://www.winnipegfreepress.com/arts-and-life/life/sci-tech/2026/10/24/why-some-ontario-voters-are-turning-to-ai-chatbots-for-2026-municipal-elections",
-   "url_id": "099d2eb507806975a1e24d613f5eb7c9"
-  },
-  {
-   "headline": "Anthropic partners with British private equity firm to launch consultancy arm",
-   "outlet": "City AM",
-   "outlet_name": "City AM",
+   "headline": "Will NVIDIA’s DSX Pods Shift the AI Landscape?",
+   "outlet": "Data Center Richness | Substack",
+   "outlet_name": "Data Center Richness | Substack",
    "label": "REPORTED",
-   "url": "https://www.cityam.com/anthropic-partners-with-london-based-private-equity-firm-to-launch-consultancy-arm/",
-   "url_id": "a1f1ae2a2276e6b7ea911b3613498ec7"
+   "url": "https://datacenterrichness.substack.com/p/will-nvidias-dsx-pods-shift-the-ai",
+   "url_id": "08efbd55ef49f00f29f2186a378d1db0"
   },
   {
-   "headline": "OpenAI Dots: Neuer KI-Assistent erledigt Aufgaben über 4.000 Apps hinweg",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "label": "REPORTED",
-   "url": "https://borncity.com/news/openai-dots-neuer-ki-assistent-erledigt-aufgaben-ueber-4-000-apps-hinweg/",
-   "url_id": "fd92625fcb317409b8a15f811b74ded6"
-  },
-  {
-   "headline": "Künstliche Intelligenz: Nach Hacks: OpenAI will Spitzen-KI ohne Internet trainieren",
-   "outlet": "RP Online",
-   "outlet_name": "RP Online",
-   "label": "CONFIRMED",
-   "url": "https://rp-online.de/digitales/nach-hacks-openai-will-spitzen-ki-ohne-internet-trainieren_aid-157139405",
-   "url_id": "30e842406c4cb8e293cd6e430df15259"
-  },
-  {
-   "headline": "Meet Ellianna Gu, the Salt Lake City eighth-grader who tested ChatGPT, Claude and Gemini…",
+   "headline": "Nvidia CEO Jensen Huang backed a Seattle lab with nearly 7 million GPU hours; its new AI…",
    "outlet": "The Times of India",
    "outlet_name": "The Times of India",
    "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/meet-ellianna-gu-the-salt-lake-city-eighth-grader-who-tested-chatgpt-claude-and-gemini-on-84-teen-emotional-scenarios-and-found-their-replies-often-lacked-empathy/articleshow/135165671.cms",
-   "url_id": "3b12e0f4913b28a6ba08edeccab224d4"
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/nvidia-ceo-jensen-huang-backed-a-seattle-lab-with-nearly-7-million-gpu-hours-its-new-ai-model-designs-proteins-up-to-10-times-faster-and-helps-tackle-pollution/articleshow/135168391.cms",
+   "url_id": "2370222467515f2c3c4c324bd001a58d"
   },
   {
-   "headline": "I tested ChatGPT vs. Grok with 5 questions boomers actually ask — and the winner…",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "GitHub pull requests point to Alibaba's next open Qwen model nearing release",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/chatgpt/articles/tested-chatgpt-vs-grok-5-071500778.html",
-   "url_id": "698b20639b853503dbc24f3770a624b6"
+   "url": "https://startupfortune.com/github-pull-requests-point-to-alibabas-next-open-qwen-model-nearing-release/",
+   "url_id": "edbc820feda637566851109d5cd9616f"
   },
   {
-   "headline": "A veteran tech investor says 'doom and gloom' over the AI boom is overblown, even though…",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
+   "headline": "Scammers used AI to clone her daughter’s voice and fake a kidnapping. A voice expert says…",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "CONFIRMED",
+   "url": "https://fortune.com/2026/10/24/ai-voice-cloning-scam-fake-kidnapping-safe-word/",
+   "url_id": "3aa164f8f045f8a61e6411cdc30109a8"
+  },
+  {
+   "headline": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely…",
+   "outlet": "indianexpress.com",
+   "outlet_name": "indianexpress.com",
+   "label": "CONFIRMED",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/openai-resumes-ai-training-security-overhaul-brotli-flaw-10935166/",
+   "url_id": "f195a9b4bcd2eea8f7658a25d51aefd8"
+  },
+  {
+   "headline": "See what 5 builders are making with Gemini 4 Argon",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-builders/",
+   "url_id": "6c762871900bdfe8c19c0a761928838a"
+  },
+  {
+   "headline": "​UK AI Safety Evaluation Finds Claude Mythos 5 Deceived Developers With Fake Accounts",
+   "outlet": "The420.in",
+   "outlet_name": "The420.in",
    "label": "REPORTED",
-   "url": "https://www.businessinsider.com/ai-boom-dotcom-bubble-paul-wick-nvidia-chips-burry-careers-2026-10",
-   "url_id": "5d93fac94b5cbaf934f1a173218047a5"
+   "url": "https://the420.in/claude-mythos-github-malware-incident/",
+   "url_id": "73e898bfd91133e43cef28678bf506a4"
   },
   {
-   "headline": "OpenAI resumes frontier training after red-team exploits expose sandbox escapes",
-   "outlet": "news.lavx.hu",
-   "outlet_name": "news.lavx.hu",
+   "headline": "OpenAI stellt seine neue Trainingsumgebung vor – ohne Air Gap",
+   "outlet": "heise.de",
+   "outlet_name": "heise.de",
+   "label": "REPORTED",
+   "url": "https://www.heise.de/news/OpenAI-stellt-seine-neue-Trainingsumgebung-vor-ohne-Air-Gap-11499163.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "url_id": "dd3cca9ba6a1474570fccb4eeacc6da6"
+  },
+  {
+   "headline": "Nvidia's RTX Spark has an NPU it barely mentions, and I spent a week figuring out what it…",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
+   "label": "REPORTED",
+   "url": "https://www.xda-developers.com/nvidia-rtx-spark-npu-barely-mentions-spent-week-figuring-out/",
+   "url_id": "ed77744659a7745e45c9b291a1411b6c"
+  },
+  {
+   "headline": "Abliteration AI: Wie gefährlich sind KI-Modelle ohne Schranken wirklich?",
+   "outlet": "t3n.de",
+   "outlet_name": "t3n.de",
    "label": "CONFIRMED",
-   "url": "https://news.lavx.hu/article/openai-resumes-frontier-training-after-red-team-exploits-expose-sandbox-escapes",
-   "url_id": "c8308c307ef6bc8c228a827db98e1738"
+   "url": "https://t3n.de/news/abliteration-ai-wie-gefaehrlich-1768996",
+   "url_id": "947d22fbd0c9779bb17523b69c4474b0"
   },
   {
-   "headline": "Get ChatGPT, Claude, and Gemini in one lifetime AI toolkit for $99.99",
-   "outlet": "mashable.com",
-   "outlet_name": "mashable.com",
-   "label": "CONFIRMED",
-   "url": "https://mashable.com/tech/oct-24-1minai-advanced-business-plan-lifetime-subscription",
-   "url_id": "8222dee31a02682f8793663374cebe94"
-  },
-  {
-   "headline": "I got Gemini and ChatGPT to argue about which is the best phone, and the results are in",
-   "outlet": "androidauthority.com",
-   "outlet_name": "androidauthority.com",
-   "label": "STILL OPEN",
-   "url": "https://www.androidauthority.com/ai-debate-best-smartphone-3721987/",
-   "url_id": "e0a8f4f39623190f6883ff70fa681ab6"
-  },
-  {
-   "headline": "« Je n’ai jamais entendu quelque chose d’artificiel qui sonnait si… humain » : cette IA…",
-   "outlet": "numerama.com",
-   "outlet_name": "numerama.com",
-   "label": "CONFIRMED",
-   "url": "https://www.numerama.com/tech/2360367-je-nai-jamais-entendu-quelque-chose-dartificiel-qui-sonnait-si-humain-cette-ia-parle-comme-nous.html",
-   "url_id": "8c54196fabb06fb5df309281e0be2ca4"
+   "headline": "Google DeepMind employees resign over Pentagon AI deals, citing ethical concerns",
+   "outlet": "Hindustan Times on MSN",
+   "outlet_name": "Hindustan Times on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/google-deepmind-employees-resign-over-pentagon-ai-deals-citing-ethical-concerns/ar-AA2fYtKi",
+   "url_id": "58bedd5626cb69facee2b42962e22b70"
   }
  ],
- "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 7900,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 7800,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/12.mp3",
- "audio_seconds": 62.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/13.mp3",
+ "audio_seconds": 51.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia's role as an artificial intelligence financier faces its first major test as neoclouds take a market hit, reported by CNBC.\nOntario voters are turning to artificial intelligence chatbots for 2026 municipal election information, confirmed by the Winnipeg Free Press, raising concerns over accuracy and reliability.\nAnthropic has partnered with British private equity firm Hg to launch a consultancy arm, reported by City AM, to boost revenue and momentum toward an initial public offering.\nOpenAI has launched Dots, a new artificial intelligence assistant for enterprises that automates tasks across 4,000 apps, reported by BornCity.\nOpenAI is training top artificial intelligence models offline after security breaches, confirmed by RP Online, having resumed training on October 1st after an 11-day pause.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The Decoder: OpenAI's isolated AI agents found ways to talk to each other through CPU cache.\nReported by Data Center Richness | Substack: Will NVIDIA’s DSX Pods Shift the AI Landscape.\nReported by The Times of India: Nvidia CEO Jensen Huang backed a Seattle lab with nearly 7 million GPU hours; its new AI model designs pr.\nReported by Startup Fortune: GitHub pull requests point to Alibaba's next open Qwen model nearing release.\nConfirmed, per Fortune: Scammers used AI to clone her daughter’s voice and fake a kidnapping. A voice expert says every family now needs a safe word.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
