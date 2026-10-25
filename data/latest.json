@@ -1,101 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T03:20:02Z",
- "hour": "2026-10-25T03:00:00Z",
+ "generated_at": "2026-10-25T04:20:01Z",
+ "hour": "2026-10-25T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China clears DeepSeek, MiniMax for overseas AI deployment",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
-   "url": "https://www.digitimes.com/news/a20261023PD242/deepseek-beijing-tv-technology.html",
+   "title": "Google DeepMind employees resign over Pentagon AI deals, citing ethical concerns | Trending",
+   "outlet": "Hindustan Times",
+   "outlet_name": "Hindustan Times",
+   "url": "https://www.hindustantimes.com/trending/google-deepmind-employees-resign-over-pentagon-ai-deals-citing-ethical-concerns-101792837956410.html",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek and MiniMax get approval for overseas AI model deployment.",
-   "published_at": "2026-10-25T00:45:17Z",
-   "url_id": "c2af5dff7cd503c096333c69250d866f"
+   "summary_1line": "DeepMind staff resign over Google's military AI contracts and ethical concerns.",
+   "published_at": "2026-10-24T11:54:25Z",
+   "url_id": "dc5be324a0a64fefb611d49026b51b47"
   },
   {
-   "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
-   "outlet": "The Hollywood Reporter",
-   "outlet_name": "The Hollywood Reporter",
-   "url": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
+   "title": "QCentroid Unveils “Missions” on NVIDIA CUDA-Q to Benchmark Classical, Quantum-Inspired, and QPU Workloads",
+   "outlet": "Quantum Computing Report",
+   "outlet_name": "Quantum Computing Report",
+   "url": "https://quantumcomputingreport.com/qcentroid-unveils-missions-on-nvidia-cuda-q-to-benchmark-classical-quantum-inspired-and-qpu-workloads/",
+   "label": "REPORTED",
+   "summary_1line": "QCentroid launches Missions to evaluate quantum vs classical solutions for enterprise bottlenecks.",
+   "published_at": "2026-10-24T02:43:26Z",
+   "url_id": "bb63fbd4baf136186bad59668da2d3eb"
+  },
+  {
+   "title": "Sweden’s Government Offices Block ChatGPT and Claude, Approve Copilot",
+   "outlet": "CEOWORLD magazine",
+   "outlet_name": "CEOWORLD magazine",
+   "url": "https://ceoworld.biz/2026/10/24/sweden-government-offices-block-chatgpt-claude-copilot/",
+   "label": "REPORTED",
+   "summary_1line": "Sweden blocks browser AI tools, approves Microsoft Copilot for staff.",
+   "published_at": "2026-10-24T22:36:29Z",
+   "url_id": "d66a71261e3281dbe953038a776525c0"
+  },
+  {
+   "title": "UK government sets out $800M of AI security funding",
+   "outlet": "reuters.com",
+   "outlet_name": "Reuters",
+   "url": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-25T02:22:54Z",
-   "url_id": "f88683b7e53f81feaabae42d10430d18"
+   "published_at": "2026-10-25T03:00:56Z",
+   "url_id": "efd737487f0629df551d4f50dc9bd337"
   },
   {
-   "title": "Building brand authority in the Gemini era of Search",
-   "outlet": "Google Business Profile",
-   "outlet_name": "Google Business Profile",
-   "url": "https://business.google.com/aunz/think/search-and-video/brand-authority-generative-ai-search/",
+   "title": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-ai-013010925.html",
    "label": "REPORTED",
-   "summary_1line": "AI search expands consumer journeys, enabling deeper, specific brand discovery.",
-   "published_at": "2026-10-25T00:59:53Z",
-   "url_id": "3de8a288b1088da33cdf9e23d053c1c9"
-  },
-  {
-   "title": "Broadband Breakfast on November 4, 2026: Reactions to Midterm Elections for Broadband and AI",
-   "outlet": "Broadband Breakfast",
-   "outlet_name": "Broadband Breakfast",
-   "url": "https://broadbandbreakfast.com/broadband-breakfast-on-november-4-2026-reactions-to-midterm-elections-for-broadband-and-ai/",
-   "label": "REPORTED",
-   "summary_1line": "Broadband Breakfast to discuss election impacts on broadband and AI policy in next Congress.",
-   "published_at": "2026-10-25T01:42:20Z",
-   "url_id": "96ad4d49e50248deb30cb7e8789b0d05"
-  },
-  {
-   "title": "FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and Mobility",
-   "outlet": "Ubergizmo",
-   "outlet_name": "Ubergizmo",
-   "url": "https://www.ubergizmo.com/2026/10/fix-2026-innovation-awards-9-best-innovation-technology-winners-in-robotics-ai-and-mobility/",
-   "label": "REPORTED",
-   "summary_1line": "FIX 2026 honors nine robotics and AI firms for innovations in mobility, cooling, and cybersecurity.",
-   "published_at": "2026-10-25T01:18:41Z",
-   "url_id": "5df9a72be039df718141d93c084b2312"
+   "summary_1line": "AI agents drive 10-15x token use, pushing GPU demand to new heights.",
+   "published_at": "2026-10-25T01:30:00Z",
+   "url_id": "737699b278b27cd49580ca4ffd4249d9"
   }
  ],
  "ticker": [
   {
-   "headline": "China clears DeepSeek, MiniMax for overseas AI deployment",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
+   "headline": "Google DeepMind employees resign over Pentagon AI deals, citing ethical concerns |…",
+   "outlet": "Hindustan Times",
+   "outlet_name": "Hindustan Times",
    "label": "CONFIRMED",
-   "url": "https://www.digitimes.com/news/a20261023PD242/deepseek-beijing-tv-technology.html",
-   "url_id": "c2af5dff7cd503c096333c69250d866f"
+   "url": "https://www.hindustantimes.com/trending/google-deepmind-employees-resign-over-pentagon-ai-deals-citing-ethical-concerns-101792837956410.html",
+   "url_id": "dc5be324a0a64fefb611d49026b51b47"
   },
   {
-   "headline": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
-   "outlet": "The Hollywood Reporter",
-   "outlet_name": "The Hollywood Reporter",
+   "headline": "QCentroid Unveils “Missions” on NVIDIA CUDA-Q to Benchmark Classical, Quantum-Inspired…",
+   "outlet": "Quantum Computing Report",
+   "outlet_name": "Quantum Computing Report",
    "label": "REPORTED",
-   "url": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
-   "url_id": "f88683b7e53f81feaabae42d10430d18"
+   "url": "https://quantumcomputingreport.com/qcentroid-unveils-missions-on-nvidia-cuda-q-to-benchmark-classical-quantum-inspired-and-qpu-workloads/",
+   "url_id": "bb63fbd4baf136186bad59668da2d3eb"
   },
   {
-   "headline": "Building brand authority in the Gemini era of Search",
-   "outlet": "Google Business Profile",
-   "outlet_name": "Google Business Profile",
+   "headline": "Sweden’s Government Offices Block ChatGPT and Claude, Approve Copilot",
+   "outlet": "CEOWORLD magazine",
+   "outlet_name": "CEOWORLD magazine",
    "label": "REPORTED",
-   "url": "https://business.google.com/aunz/think/search-and-video/brand-authority-generative-ai-search/",
-   "url_id": "3de8a288b1088da33cdf9e23d053c1c9"
+   "url": "https://ceoworld.biz/2026/10/24/sweden-government-offices-block-chatgpt-claude-copilot/",
+   "url_id": "d66a71261e3281dbe953038a776525c0"
   },
   {
-   "headline": "Broadband Breakfast on November 4, 2026: Reactions to Midterm Elections for Broadband and…",
-   "outlet": "Broadband Breakfast",
-   "outlet_name": "Broadband Breakfast",
+   "headline": "UK government sets out $800M of AI security funding",
+   "outlet": "reuters.com",
+   "outlet_name": "Reuters",
    "label": "REPORTED",
-   "url": "https://broadbandbreakfast.com/broadband-breakfast-on-november-4-2026-reactions-to-midterm-elections-for-broadband-and-ai/",
-   "url_id": "96ad4d49e50248deb30cb7e8789b0d05"
+   "url": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
+   "url_id": "efd737487f0629df551d4f50dc9bd337"
   },
   {
-   "headline": "FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and…",
-   "outlet": "Ubergizmo",
-   "outlet_name": "Ubergizmo",
+   "headline": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene…",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
    "label": "REPORTED",
-   "url": "https://www.ubergizmo.com/2026/10/fix-2026-innovation-awards-9-best-innovation-technology-winners-in-robotics-ai-and-mobility/",
-   "url_id": "5df9a72be039df718141d93c084b2312"
+   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-ai-013010925.html",
+   "url_id": "737699b278b27cd49580ca4ffd4249d9"
+  },
+  {
+   "headline": "​OpenAI Detects Widespread PHP Vulnerabilities as AI Cyber Threat Concerns Grow",
+   "outlet": "The420.in",
+   "outlet_name": "The420.in",
+   "label": "REPORTED",
+   "url": "https://the420.in/openai-php-vulnerabilities-ai-cybersecurity/",
+   "url_id": "12be060646152b1b2e437e3141fae87e"
+  },
+  {
+   "headline": "Claude Mythos 5's GitHub adventure: The postmortem",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
+   "label": "REPORTED",
+   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+   "url_id": "e16222d83dd92652e2816fb1d36e61cf"
+  },
+  {
+   "headline": "Show HN: AI Senate – AI senators debate live policy and vote on the record",
+   "outlet": "aisenatus.com",
+   "outlet_name": "aisenatus.com",
+   "label": "REPORTED",
+   "url": "https://aisenatus.com",
+   "url_id": "4e99a76a5557a76299918ca0e17b053c"
   },
   {
    "headline": "Tell Me Lies: Grok, GPT and Claude Voice Modes Guess Bitcoin's Price",
@@ -106,12 +130,12 @@
    "url_id": "8feacefa74cb7df753ae3fd9ef6f2ad2"
   },
   {
-   "headline": "​OpenAI Detects Widespread PHP Vulnerabilities as AI Cyber Threat Concerns Grow",
-   "outlet": "The420.in",
-   "outlet_name": "The420.in",
+   "headline": "OpenAI finds its AI agents can secretly communicate even without internet",
+   "outlet": "Times Now on MSN",
+   "outlet_name": "Times Now on MSN",
    "label": "REPORTED",
-   "url": "https://the420.in/openai-php-vulnerabilities-ai-cybersecurity/",
-   "url_id": "12be060646152b1b2e437e3141fae87e"
+   "url": "https://www.msn.com/en-in/news/other/openai-finds-its-ai-agents-can-secretly-communicate-even-without-internet/ar-AA2g0hLc",
+   "url_id": "9c95026688581e958173fd7fc33ca8c6"
   },
   {
    "headline": "Russian-Linked AI Deepfake Campaign Targets Texas Senate Candidate James Talarico With…",
@@ -128,40 +152,16 @@
    "label": "REPORTED",
    "url": "https://www.msn.com/en-in/news/other/google-ceo-sundar-pichai-responds-to-sam-altman-s-fend-google-off-remark-asks-are-you-bolting-agents-onto-chatgpt-or/ar-AA2fZ1Mx",
    "url_id": "954c5337639e12aa981bb883368fbd97"
-  },
-  {
-   "headline": "Show HN: AI Senate – AI senators debate live policy and vote on the record",
-   "outlet": "aisenatus.com",
-   "outlet_name": "aisenatus.com",
-   "label": "REPORTED",
-   "url": "https://aisenatus.com",
-   "url_id": "4e99a76a5557a76299918ca0e17b053c"
-  },
-  {
-   "headline": "Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21",
-   "outlet": "thesuburban.com",
-   "outlet_name": "thesuburban.com",
-   "label": "REPORTED",
-   "url": "https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce58907374f.html",
-   "url_id": "d37ca91eaacc98990dd997d3e0ac0070"
-  },
-  {
-   "headline": "'Black October': Alarm raised over an era of cyberattacks powered by AI.",
-   "outlet": "Vietnam.vn",
-   "outlet_name": "Vietnam.vn",
-   "label": "REPORTED",
-   "url": "https://www.vietnam.vn/en/thang-muoi-den-toi-bao-dong-ve-ky-nguyen-tan-cong-mang-duoc-tiep-suc-boi-ai",
-   "url_id": "2b0beec2277acc1b5de00ee8246cd069"
   }
  ],
- "tidbit": "Did you know… about 5,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 5400,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 5300,
  "articles_24h_label": "about 5,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/03.mp3",
- "audio_seconds": 48.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/04.mp3",
+ "audio_seconds": 58.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per digitimes: China clears DeepSeek, MiniMax for overseas AI deployment.\nReported by The Hollywood Reporter: Anthropic Sued for Using Elvis Presley Music to Train AI Models.\nReported by Google Business Profile: Building brand authority in the Gemini era of Search.\nReported by Broadband Breakfast: Broadband Breakfast on November 4, 2026: Reactions to Midterm Elections for Broadband and AI.\nReported by Ubergizmo: FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and Mobility.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Hindustan Times: Google DeepMind employees resign over Pentagon AI deals, citing ethical concerns | Trending.\nReported by Quantum Computing Report: QCentroid Unveils “Missions” on NVIDIA CUDA-Q to Benchmark Classical, Quantum-Inspired, and QPU Workloads.\nReported by CEOWORLD magazine: Sweden’s Government Offices Block ChatGPT and Claude, Approve Copilot.\nReported by Reuters: UK government sets out $800M of AI security funding.\nReported by Yahoo Finance: Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
