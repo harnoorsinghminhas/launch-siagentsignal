@@ -1,167 +1,167 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T01:20:03Z",
- "hour": "2026-10-25T01:00:00Z",
+ "generated_at": "2026-10-25T02:20:02Z",
+ "hour": "2026-10-25T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
-   "url": "https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html",
+   "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-25T00:45:44Z",
-   "url_id": "61aa5c65e9fd58490200017c112346a2"
+   "published_at": "2026-10-25T01:07:24Z",
+   "url_id": "833d5d33c61d3b3b5d1624a3f6c0cb62"
   },
   {
-   "title": "Anthropic delayed Mythos AI release over safety, losing lead",
-   "outlet": "TechGig",
-   "outlet_name": "TechGig",
-   "url": "https://techgig.com/news/industry/anthropic-delayed-mythos-ai-release-over-safety-losing-lead/135137875",
+   "title": "Anthropic unveils Claude Duet, its answer to AI agents like Dots",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-answer-002554435.html",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-24T18:34:55Z",
-   "url_id": "715d6d74f741540bc3b86d7c1d40cc31"
+   "published_at": "2026-10-25T00:25:00Z",
+   "url_id": "7ef6a0a013f4170b8df1e163a535ed27"
   },
   {
-   "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
-   "outlet": "BNN Bloomberg",
-   "outlet_name": "BNN Bloomberg",
-   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI resumes AI training after finding Brotli flaw and internal vulnerabilities.",
-   "published_at": "2026-10-24T01:10:00Z",
-   "url_id": "eb1a330c8bc4d2ba2204089045b48d33"
+   "title": "Will AI expose the rickety infrastructure of the internet?",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "label": "CONFIRMED",
+   "summary_1line": "PHP vulnerability found with AI tools; 70% of websites use it, prompting urgent patches or shutdowns.",
+   "published_at": "2026-10-24T20:15:33Z",
+   "url_id": "32bdfda6bc446511c74a7230208a7a1b"
   },
   {
-   "title": "China’s Moonshot AI Unveils Kimi K3.1 Pro, Challenging US Frontier Models on Coding, Agents, Finance",
-   "outlet": "Crowdfund Insider",
-   "outlet_name": "Crowdfund Insider",
-   "url": "https://www.crowdfundinsider.com/2026/10/320427-chinas-moonshot-ai-unveils-kimi-k3-1-pro-challenging-us-frontier-models-on-coding-agents-finance/",
+   "title": "OpenAI Says Its AI Agents Found A Way To Talk To Each Other Through The Processor's Cache, Even When Every Other Channel Was Cut Off",
+   "outlet": "OfficeChai",
+   "outlet_name": "OfficeChai",
+   "url": "https://officechai.com/ai/openai-says-its-ai-agents-found-a-way-to-talk-to-each-other-through-the-processors-cache-even-when-every-other-channel-was-cut-off/",
    "label": "REPORTED",
-   "summary_1line": "Moonshot AI's Kimi K3.1 Pro scores 65.7% on Terminal-Bench 4.0 and 92.7% on BenchCAD, with 2.8T parameters and full-project coding capability.",
-   "published_at": "2026-10-24T11:45:00Z",
-   "url_id": "7301933a34a9e9a5aff575a5d5fcaf24"
+   "summary_1line": "AI agents bypassed isolation using CPU cache timing in OpenAI's internal tests.",
+   "published_at": "2026-10-24T06:48:03Z",
+   "url_id": "5e65a57168b1821cfd21d71d50048216"
   },
   {
-   "title": "Traders Are Letting xAI's Grok Bot Run Unsupervised, and It Already Lost Money",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/traders-are-letting-xais-grok-bot-run-unsupervised-and-it-already-lost-money/",
+   "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+   "outlet": "The Robot Report",
+   "outlet_name": "The Robot Report",
+   "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-24T23:49:57Z",
-   "url_id": "ba7fd3be55a88200a951148057abfb3e"
+   "summary_1line": "Eka Robotics raises $150M for dexterous robot tech using simulation and physics-based AI.",
+   "published_at": "2026-10-24T12:46:11Z",
+   "url_id": "4f25e626a66a28c198d63eacf55cd239"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+   "headline": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "REPORTED",
+   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+   "url_id": "833d5d33c61d3b3b5d1624a3f6c0cb62"
+  },
+  {
+   "headline": "Anthropic unveils Claude Duet, its answer to AI agents like Dots",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "REPORTED",
+   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-answer-002554435.html",
+   "url_id": "7ef6a0a013f4170b8df1e163a535ed27"
+  },
+  {
+   "headline": "Will AI expose the rickety infrastructure of the internet?",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "url_id": "32bdfda6bc446511c74a7230208a7a1b"
+  },
+  {
+   "headline": "OpenAI Says Its AI Agents Found A Way To Talk To Each Other Through The Processor's…",
+   "outlet": "OfficeChai",
+   "outlet_name": "OfficeChai",
+   "label": "REPORTED",
+   "url": "https://officechai.com/ai/openai-says-its-ai-agents-found-a-way-to-talk-to-each-other-through-the-processors-cache-even-when-every-other-channel-was-cut-off/",
+   "url_id": "5e65a57168b1821cfd21d71d50048216"
+  },
+  {
+   "headline": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
+   "outlet": "The Robot Report",
+   "outlet_name": "The Robot Report",
+   "label": "REPORTED",
+   "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+   "url_id": "4f25e626a66a28c198d63eacf55cd239"
+  },
+  {
+   "headline": "Building brand authority in the Gemini era of Search",
+   "outlet": "Google Business Profile",
+   "outlet_name": "Google Business Profile",
+   "label": "REPORTED",
+   "url": "https://business.google.com/aunz/think/search-and-video/brand-authority-generative-ai-search/",
+   "url_id": "3de8a288b1088da33cdf9e23d053c1c9"
+  },
+  {
+   "headline": "China clears DeepSeek, MiniMax for overseas AI deployment",
    "outlet": "digitimes",
    "outlet_name": "digitimes",
    "label": "REPORTED",
-   "url": "https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html",
-   "url_id": "61aa5c65e9fd58490200017c112346a2"
+   "url": "https://www.digitimes.com/news/a20261023PD242/deepseek-beijing-tv-technology.html",
+   "url_id": "c2af5dff7cd503c096333c69250d866f"
   },
   {
-   "headline": "Anthropic delayed Mythos AI release over safety, losing lead",
-   "outlet": "TechGig",
-   "outlet_name": "TechGig",
+   "headline": "Column: Will general-purpose models overtake Physical AI?",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
    "label": "REPORTED",
-   "url": "https://techgig.com/news/industry/anthropic-delayed-mythos-ai-release-over-safety-losing-lead/135137875",
-   "url_id": "715d6d74f741540bc3b86d7c1d40cc31"
+   "url": "https://www.digitimes.com/news/a20261023PD210/physical-ai-robot-robotics-3d-2026.html",
+   "url_id": "bf922456b0f9e6162cb6701653f8baa7"
   },
   {
-   "headline": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely…",
-   "outlet": "BNN Bloomberg",
-   "outlet_name": "BNN Bloomberg",
+   "headline": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face",
+   "outlet": "Broadband Breakfast",
+   "outlet_name": "Broadband Breakfast",
    "label": "REPORTED",
-   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/",
-   "url_id": "eb1a330c8bc4d2ba2204089045b48d33"
+   "url": "https://broadbandbreakfast.com/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/",
+   "url_id": "6baf62101cd854b30d6b27d190e96257"
   },
   {
-   "headline": "China’s Moonshot AI Unveils Kimi K3.1 Pro, Challenging US Frontier Models on Coding…",
-   "outlet": "Crowdfund Insider",
-   "outlet_name": "Crowdfund Insider",
+   "headline": "AI is among 17 potentially ‘catastrophic threats’ that researchers say require targeted…",
+   "outlet": "Genocide Watch",
+   "outlet_name": "Genocide Watch",
    "label": "REPORTED",
-   "url": "https://www.crowdfundinsider.com/2026/10/320427-chinas-moonshot-ai-unveils-kimi-k3-1-pro-challenging-us-frontier-models-on-coding-agents-finance/",
-   "url_id": "7301933a34a9e9a5aff575a5d5fcaf24"
+   "url": "https://www.genocidewatch.com/single-post/ai-is-among-17-potentially-catastrophic-threats-that-researchers-say-require-targeted-action",
+   "url_id": "22e9a96759729d4cbf5fce546192658f"
   },
   {
-   "headline": "Traders Are Letting xAI's Grok Bot Run Unsupervised, and It Already Lost Money",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
+   "headline": "Extreme Networks Plans On-Premises AI Infrastructure To Harness Idle Network Compute",
+   "outlet": "SMBtech",
+   "outlet_name": "SMBtech",
    "label": "REPORTED",
-   "url": "https://startupfortune.com/traders-are-letting-xais-grok-bot-run-unsupervised-and-it-already-lost-money/",
-   "url_id": "ba7fd3be55a88200a951148057abfb3e"
+   "url": "https://smbtech.au/news/extreme-networks-plans-on-premises-ai-infrastructure-to-harness-idle-network-compute/",
+   "url_id": "512886bea374fc07c2811df9ed8efa97"
   },
   {
-   "headline": "Tech bills of the week: Preventing AI model theft; Regulating AI-generated political…",
-   "outlet": "Nextgov/FCW",
-   "outlet_name": "Nextgov/FCW",
+   "headline": "Tell Me Lies: Grok, GPT and Claude Voice Modes Guess Bitcoin's Price",
+   "outlet": "Cryptonews.net",
+   "outlet_name": "Cryptonews.net",
    "label": "REPORTED",
-   "url": "https://www.nextgov.com/policy/2026/10/tech-bills-week-preventing-ai-model-theft-regulating-ai-generated-political-content-and-more/416796/",
-   "url_id": "ee92e677d0c4f1d6003761655d06bedf"
-  },
-  {
-   "headline": "Claude Duet keeps working when your laptop is off, but uses your plan's limits",
-   "outlet": "MIXED Reality News",
-   "outlet_name": "MIXED Reality News",
-   "label": "REPORTED",
-   "url": "https://mixed-news.com/en/claude-duet-pro-max-background-agent-preview/",
-   "url_id": "956cf185587344e1684d44c698f374ce"
-  },
-  {
-   "headline": "AI Data Centers Spur Job Boom for Electricians & Welders",
-   "outlet": "Briefs Finance",
-   "outlet_name": "Briefs Finance",
-   "label": "REPORTED",
-   "url": "https://www.briefs.co/news/ai-s-data-center-buildout-is-minting-jobs-for-electricians-w/",
-   "url_id": "12b22bd3ee2aaea8121de6791ba710bb"
-  },
-  {
-   "headline": "Korea’s Enterprise AI Market Is Repricing Startup Experience",
-   "outlet": "KoreaTechDesk",
-   "outlet_name": "KoreaTechDesk",
-   "label": "REPORTED",
-   "url": "https://koreatechdesk.com/koreas-enterprise-ai-market-is-repricing-startup-experience",
-   "url_id": "61621fe26dab6312a25c4acc5dbcf308"
-  },
-  {
-   "headline": "What we learned making 12 apps usable by AI agents with WebMCP",
-   "outlet": "mindoodb.com",
-   "outlet_name": "mindoodb.com",
-   "label": "REPORTED",
-   "url": "https://mindoodb.com/blog/2026/10/27.10.2026090000KLEAGT/",
-   "url_id": "3c2b67a33a35f20cc89fa627e65181f4"
-  },
-  {
-   "headline": "AI Generated launch videos are starting to get insane",
-   "outlet": "motioncrackers.com",
-   "outlet_name": "motioncrackers.com",
-   "label": "REPORTED",
-   "url": "https://motioncrackers.com",
-   "url_id": "c1907eda5e40d181518c1b46b34beac8"
-  },
-  {
-   "headline": "AI Is Planning to Kill You",
-   "outlet": "hanzo.blog",
-   "outlet_name": "hanzo.blog",
-   "label": "REPORTED",
-   "url": "https://hanzo.blog/2026-10-16-your-ai-is-planning-to-kill-you/",
-   "url_id": "4b7b4af83865cb8e78d71f8687572b3d"
+   "url": "https://cryptonews.net/news/analytics/33646029/",
+   "url_id": "8feacefa74cb7df753ae3fd9ef6f2ad2"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 5,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 5500,
  "articles_24h_label": "about 5,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/01.mp3",
- "audio_seconds": 62.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/02.mp3",
+ "audio_seconds": 47.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia unveiled an OOI CPO prototype, reported by DigiTimes, designed for post-2028 artificial intelligence needs.\nAnthropic delayed its Mythos artificial intelligence release over safety concerns, reported by TechGig, losing competitive lead.\nReported by BNN Bloomberg: OpenAI resumed frontier artificial intelligence training after a security overhaul and disclosed a flaw in widely used software.\nMoonshot artificial intelligence's Kimi K3.1 Pro scores 65.7 percent on Terminal-Bench 4.0 and 92.7 percent on BenchCAD, reported by Crowdfund Insider, challenging US frontier models on coding, agents and finance.\nTraders are letting xAI's Grok Bot run unsupervised, reported by Startup Fortune, and it already lost money.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TechCrunch: Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.\nReported by Yahoo Tech: Anthropic unveils Claude Duet, its answer to AI agents like Dots.\nConfirmed, per TechCrunch: Will AI expose the rickety infrastructure of the internet.\nReported by OfficeChai: OpenAI Says Its AI Agents Found A Way To Talk To Each Other Through The Processor's Cache, Even When Every Other Channel Was Cut Off.\nReported by The Robot Report: Eka Robotics raises $150M to scale its vision-force-action model for robots.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
