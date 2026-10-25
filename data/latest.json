@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T21:20:01Z",
- "hour": "2026-10-25T22:00:00Z",
+ "generated_at": "2026-10-25T22:20:01Z",
+ "hour": "2026-10-25T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Seeking Value: GSK’s Drug-Safety AI Strategy Connects Data With Outcomes",
-   "outlet": "Newsweek",
-   "outlet_name": "Newsweek",
-   "url": "https://www.newsweek.com/seeking-value-gsk-cognizant-drug-safety-ai-12615586",
-   "label": "CONFIRMED",
-   "summary_1line": "GSK and Cognizant use AI agents to streamline drug-safety workflows and cut processing time by 40-50%.",
-   "published_at": "2026-10-25T17:42:00Z",
-   "url_id": "aa38290814fc8e5766109e9f6b71c90f"
-  },
-  {
-   "title": "AI-enabled CCTV cameras to boost security at 8 railway stations in Jaipur",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/city/jaipur/ai-enabled-cctv-cameras-to-boost-security-at-8-railway-stations-in-jaipur/articleshow/135195129.cms",
-   "label": "REPORTED",
-   "summary_1line": "NWR installs AI cameras at 8 Jaipur stations to prevent trespassing and boost safety.",
-   "published_at": "2026-10-25T17:03:00Z",
-   "url_id": "748753858f02969ce6d8972b42c22ddb"
-  },
-  {
-   "title": "Nvidia (NVDA) Has Lost Its China AI Accelerator Market",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-lost-china-ai-190626796.html",
-   "label": "REPORTED",
-   "summary_1line": "Nvidia loses China AI market; enterprises deploy liquid-cooled AI factories with GPU-backed financing.",
-   "published_at": "2026-10-25T19:06:26Z",
-   "url_id": "bdc236c24a79a541c43084ed4f0a86b5"
-  },
-  {
-   "title": "OpenAI, NASK partner on AI safety research",
-   "outlet": "TechGig",
-   "outlet_name": "TechGig",
-   "url": "https://techgig.com/news/ai/openai-nask-partner-on-ai-safety-research/135180796",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI and NASK partner on AI safety, giving Polish researchers access to frontier models.",
-   "published_at": "2026-10-25T03:08:52Z",
-   "url_id": "e47650dbdd7299a661dfd40915b662bf"
-  },
-  {
-   "title": "PauseAI protesters call for AI regulations outside Idaho Capitol",
-   "outlet": "Boise State University The Arbiter Online",
-   "outlet_name": "Boise State University The Arbiter Online",
-   "url": "https://www.arbiteronline.com/2026/10/25/protesters-gather-at-the-idaho-capitol-calling-for-stronger-ai-regulations/",
+   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-25T20:41:07Z",
-   "url_id": "9efccddc07c5fffc472f5188e627dc36"
+   "published_at": "2026-10-25T21:31:16Z",
+   "url_id": "18de7489ab7c4c707e9e416e4340f2ca"
+  },
+  {
+   "title": "Elvis Presley’s rights owners sue Anthropic over use of 274 songs",
+   "outlet": "The Needle Drop",
+   "outlet_name": "The Needle Drop",
+   "url": "https://theneedledrop.com/news/elvis-presleys-rights-owners-sue-anthropic-over-use-of-274-songs/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-25T20:47:01Z",
+   "url_id": "5b91c19d73337dee8b05b1ef134f27c1"
+  },
+  {
+   "title": "Claude was eating 84.6K tokens at the start of every chat until I made this one change",
+   "outlet": "How-To Geek",
+   "outlet_name": "How-To Geek",
+   "url": "https://www.howtogeek.com/claude-was-eating-85k-tokens-at-start-every-chat-until-made-one-change/",
+   "label": "REPORTED",
+   "summary_1line": "Claude desktop app uses 84.6K tokens on 'Hi'; CLI uses 36.9K with minimal setup.",
+   "published_at": "2026-10-25T20:30:16Z",
+   "url_id": "df1e8881552944032eee0c2e706031df"
+  },
+  {
+   "title": "Anthropic quietly separates Claude Agent SDK usage from subscription limits",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/anthropic-quietly-separates-claude-agent-sdk-usage-from-subscription-limits/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic revised Claude credits, removing a planned cap and introducing a modest credit system for production teams.",
+   "published_at": "2026-10-25T20:01:48Z",
+   "url_id": "6a968087cb5b66d81e0ec6469a3c5093"
+  },
+  {
+   "title": "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle",
+   "outlet": "Hit Channel",
+   "outlet_name": "Hit Channel",
+   "url": "https://hit-channel.com/elvis-presley-estate-sues-anthropic-ai-lawsuit/",
+   "label": "REPORTED",
+   "summary_1line": "Elvis estate sues Anthropic over use of 274 tracks to train AI model Claude.",
+   "published_at": "2026-10-25T18:56:51Z",
+   "url_id": "cb4dda3d3703e71a9e41b339cef9833c"
   }
  ],
  "ticker": [
   {
-   "headline": "Seeking Value: GSK’s Drug-Safety AI Strategy Connects Data With Outcomes",
-   "outlet": "Newsweek",
-   "outlet_name": "Newsweek",
-   "label": "CONFIRMED",
-   "url": "https://www.newsweek.com/seeking-value-gsk-cognizant-drug-safety-ai-12615586",
-   "url_id": "aa38290814fc8e5766109e9f6b71c90f"
+   "headline": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "REPORTED",
+   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "url_id": "18de7489ab7c4c707e9e416e4340f2ca"
   },
   {
-   "headline": "AI-enabled CCTV cameras to boost security at 8 railway stations in Jaipur",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "Elvis Presley’s rights owners sue Anthropic over use of 274 songs",
+   "outlet": "The Needle Drop",
+   "outlet_name": "The Needle Drop",
    "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/city/jaipur/ai-enabled-cctv-cameras-to-boost-security-at-8-railway-stations-in-jaipur/articleshow/135195129.cms",
-   "url_id": "748753858f02969ce6d8972b42c22ddb"
-  },
-  {
-   "headline": "Nvidia (NVDA) Has Lost Its China AI Accelerator Market",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-nvda-lost-china-ai-190626796.html",
-   "url_id": "bdc236c24a79a541c43084ed4f0a86b5"
-  },
-  {
-   "headline": "OpenAI, NASK partner on AI safety research",
-   "outlet": "TechGig",
-   "outlet_name": "TechGig",
-   "label": "REPORTED",
-   "url": "https://techgig.com/news/ai/openai-nask-partner-on-ai-safety-research/135180796",
-   "url_id": "e47650dbdd7299a661dfd40915b662bf"
-  },
-  {
-   "headline": "PauseAI protesters call for AI regulations outside Idaho Capitol",
-   "outlet": "Boise State University The Arbiter Online",
-   "outlet_name": "Boise State University The Arbiter Online",
-   "label": "REPORTED",
-   "url": "https://www.arbiteronline.com/2026/10/25/protesters-gather-at-the-idaho-capitol-calling-for-stronger-ai-regulations/",
-   "url_id": "9efccddc07c5fffc472f5188e627dc36"
+   "url": "https://theneedledrop.com/news/elvis-presleys-rights-owners-sue-anthropic-over-use-of-274-songs/",
+   "url_id": "5b91c19d73337dee8b05b1ef134f27c1"
   },
   {
    "headline": "Claude was eating 84.6K tokens at the start of every chat until I made this one change",
@@ -106,12 +82,52 @@
    "url_id": "df1e8881552944032eee0c2e706031df"
   },
   {
-   "headline": "Zillow Group (ZG) Could Be 28% Undervalued After Claude Rollout",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
+   "headline": "Anthropic quietly separates Claude Agent SDK usage from subscription limits",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://finance.yahoo.com/markets/stocks/articles/zillow-group-zg-could-28-170839920.html",
-   "url_id": "07f3635d7febe07c71bed7a3248717be"
+   "url": "https://startupfortune.com/anthropic-quietly-separates-claude-agent-sdk-usage-from-subscription-limits/",
+   "url_id": "6a968087cb5b66d81e0ec6469a3c5093"
+  },
+  {
+   "headline": "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle",
+   "outlet": "Hit Channel",
+   "outlet_name": "Hit Channel",
+   "label": "REPORTED",
+   "url": "https://hit-channel.com/elvis-presley-estate-sues-anthropic-ai-lawsuit/",
+   "url_id": "cb4dda3d3703e71a9e41b339cef9833c"
+  },
+  {
+   "headline": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "label": "REPORTED",
+   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+   "url_id": "1dc7e2df39a11f0023f40ba5aa4f39f6"
+  },
+  {
+   "headline": "Betting On AI Chips: Is NXP Or NVIDIA The Better Way In?",
+   "outlet": "Trefis",
+   "outlet_name": "Trefis",
+   "label": "REPORTED",
+   "url": "https://www.trefis.com/stock/nxpi/articles/620465/betting-on-ai-chips-is-nxp-or-nvidia-the-better-way-in/2026-10-25",
+   "url_id": "a2032d25852d8f2b142a81e5e706ee9e"
+  },
+  {
+   "headline": "Jensen Huang puts a $2,000-per-GPU yearly price on NVIDIA's AI Agent software",
+   "outlet": "TweakTown",
+   "outlet_name": "TweakTown",
+   "label": "STILL OPEN",
+   "url": "https://www.tweaktown.com/news/114285/jensen-huang-puts-a-dollars2000-per-gpu-yearly-price-on-nvidias-ai-agent-software/index.html",
+   "url_id": "06279478daa49bd258a0e6bb6a215a84"
+  },
+  {
+   "headline": "Watch Can Mistral Challenge Big Tech by Doing AI Differently?",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video",
+   "url_id": "d3d04385494f0961b71d31b165880c4d"
   },
   {
    "headline": "Pennsylvania enacts law regulating AI-generated advertisements",
@@ -122,46 +138,30 @@
    "url_id": "d743d0b210b50529bfc6fc92a27355a4"
   },
   {
-   "headline": "Lightning.ai October 2026 Security Incident",
-   "outlet": "lightning.ai",
-   "outlet_name": "lightning.ai",
-   "label": "REPORTED",
-   "url": "https://lightning.ai/security-incident/",
-   "url_id": "b1acbd4c71d1b53001988c79f9e0df94"
+   "headline": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+   "outlet": "minimaxir.com",
+   "outlet_name": "minimaxir.com",
+   "label": "STILL OPEN",
+   "url": "https://minimaxir.com/2026/10/cheap-llms/",
+   "url_id": "240888442444abd5f79d447ab21f8fbe"
   },
   {
-   "headline": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 5",
-   "outlet": "securityaffairs.com",
-   "outlet_name": "securityaffairs.com",
+   "headline": "DeepSeek, MiniMax Complete Registration for LLM Overseas Expansion as Compliance Channel…",
+   "outlet": "finance.biggo.com",
+   "outlet_name": "finance.biggo.com",
    "label": "REPORTED",
-   "url": "https://securityaffairs.com/201718/ai/security-affairs-ai-cybersecurity-newsletter-round-5.html",
-   "url_id": "863e72cb6e4e485ea5680d47b1cf4e18"
-  },
-  {
-   "headline": "Google, OpenAI and Anthropic back £100m UK AI biosecurity lab",
-   "outlet": "City A.M. on MSN",
-   "outlet_name": "City A.M. on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-gb/technology/artificial-intelligence/google-openai-and-anthropic-back-100m-uk-ai-biosecurity-lab/ar-AA2g1Qr3",
-   "url_id": "952478b39db12cf3bcc765b8decbdf60"
-  },
-  {
-   "headline": "AI Gateway Benchmark: OpenRouter, Vercel, Ramp, Keln",
-   "outlet": "keln.ai",
-   "outlet_name": "keln.ai",
-   "label": "REPORTED",
-   "url": "https://keln.ai/blog/ai-gateway-benchmark-deepseek-v4-1-flash",
-   "url_id": "b7153f0672209bd434c9b7e3d79eed6f"
+   "url": "https://finance.biggo.com/news/6df8af26-4351-4219-8da9-51b02a838227",
+   "url_id": "f776644744bad9136b272d9ef828b787"
   }
  ],
  "tidbit": "Did you know… about 4,700 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 4700,
  "articles_24h_label": "about 4,700",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/22.mp3",
- "audio_seconds": 62.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/23.mp3",
+ "audio_seconds": 56.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGSK and Cognizant use artificial intelligence agents to streamline drug safety workflows and cut processing time by 40 to 50 percent, according to Newsweek Confirmed.\nThe National Rail Administration installs artificial intelligence cameras at 8 Jaipur stations to prevent trespassing and boost safety, reported by The Times of India.\nNvidia loses its China artificial intelligence accelerator market as enterprises deploy liquid cooled artificial intelligence factories with GPU backed financing, per Yahoo Finance Reported.\nOpenAI and NASK partner on artificial intelligence safety, giving Polish researchers access to frontier models, according to TechGig Reported.\nOutside Idaho Capitol, PauseAI protesters call for artificial intelligence regulations, reported by Boise State University The Arbiter Online.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGrok has released the first seven minutes of its AI-generated Odyssey. Reported by TechCrunch.\nElvis Presley's rights owners are suing Anthropic over the use of 274 songs. Reported by The Needle Drop.\nClaude was consuming 84.6K tokens at the start of every chat. Reported by How-To Geek: the desktop app uses 84.6K tokens on Hi while the CLI uses 36.9K with minimal setup.\nAnthropic quietly separated Claude Agent SDK usage from subscription limits and introduced a modest credit system for production teams. Reported by Startup Fortune.\nElvis Presley's Estate is taking on Anthropic in a legal battle over the use of 274 tracks to train Claude. Reported by Hit Channel.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
