@@ -1,97 +1,99 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T05:20:03Z",
- "hour": "2026-10-25T05:00:00Z",
+ "generated_at": "2026-10-25T06:20:01Z",
+ "hour": "2026-10-25T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Texan Senate Candidate Sues OpenAI Before Midterms, Accuses Altman Of 'Lying To Users And Harming Texans'",
-   "outlet": "Yahoo",
-   "outlet_name": "Yahoo",
-   "url": "https://www.yahoo.com/news/politics/articles/texan-senate-candidate-sues-openai-095726911.html",
-   "label": "REPORTED",
-   "summary_1line": "Paxton sues OpenAI over alleged harms to Texans, amid broader state-level legal actions.",
-   "published_at": "2026-10-24T09:57:26Z",
-   "url_id": "bb024dce12655bc028cee0ab546917f4"
-  },
-  {
-   "title": "NVIDIA RTX 30 GPUs Get Huge AI Performance Boost With New Unlock Mod",
-   "outlet": "ThePCEnthusiast",
-   "outlet_name": "ThePCEnthusiast",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EYks3cXV5S1RQcEFXelhWaEhFWUZjVjVjaDhUU1Fwa1REbzRubzU1SHdRUGZmdDBTSnN0VnExczF6Rm1JUDIzUzJoNmhEN2FZSjZQdld0dGFMVVRQbFlrcGJlLU02YmZRSlcwM3VxT2VFRl9oYWFJTVdPRkM?oc=5",
+   "title": "Anthropic launches Claude Duet AI agent to compete with Meta, OpenAI",
+   "outlet": "Communicate Online",
+   "outlet_name": "Communicate Online",
+   "url": "https://communicateonline.me/news/anthropic-launches-claude-duet-ai-agent-to-compete-with-meta-openai/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-25T04:23:12Z",
-   "url_id": "43c9cf328f46795bfc413cac55022599"
+   "published_at": "2026-10-24T17:00:00Z",
+   "url_id": "2453a45d9d4547384127b7fd9756f8bd"
   },
   {
-   "title": "Anthropic platform team shifts entirely to AI coding with Claude Code",
-   "outlet": "TechGig",
-   "outlet_name": "TechGig",
-   "url": "https://techgig.com/news/ai/anthropic-platform-team-shifts-entirely-to-ai-coding-with-claude-code/135158866",
+   "title": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
+   "outlet": "PCMag Middle East",
+   "outlet_name": "PCMag Middle East",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFRQd3JRX3U3TF9fZTJnTHI0QjNrbUhzeGhyQnhxR3BMajBweVlVVWJtLUIzWjhEd05GM0g2VEpFeVNvR29Mbm9QT1hLWk1MbnpfSHV2dkZuVUpLMW1RVnV2TWJZRFhvMEotcU9IWXhydGVvRUZaSUlrMksxd25uTGJaSmVHc1N0VFVNTjdBUktCck1RNEhXSjlud1VmdnBZRnA2aFlwaDBUUQ?oc=5",
    "label": "REPORTED",
-   "summary_1line": "Anthropic fully shifts coding to AI, with Claude Code handling all code tasks.",
-   "published_at": "2026-10-24T02:20:23Z",
-   "url_id": "1c63a71645aecd45fac19eed37d06efe"
+   "summary_1line": null,
+   "published_at": "2026-10-25T03:56:07Z",
+   "url_id": "f0c9385c4b7761f29fe934211ef1cf75"
+  },
+  {
+   "title": "UK unveils $800 million AI security funding plan",
+   "outlet": "Yahoo Finance Australia",
+   "outlet_name": "Yahoo Finance Australia",
+   "url": "https://au.finance.yahoo.com/news/uk-unveils-800-million-ai-063614826.html",
+   "label": "REPORTED",
+   "summary_1line": "UK allocates $800M in AI funding for biosecurity, cyber defense, and public sector innovation.",
+   "published_at": "2026-10-23T19:35:00Z",
+   "url_id": "1c97b61d4408b0bca4c7bd02275942b4"
+  },
+  {
+   "title": "[WOWTALE Global Weekly #1] AI Megarounds Sweep Every Sector as Flapping Airplanes Raises $1B With No Product Yet",
+   "outlet": "Wowtale",
+   "outlet_name": "Wowtale",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84dU5kVEhQUTZrWVVnTjhiYzQ3TkNKYXlfcVBuOHpYOFdXRnROWVpGVGNGajJaeU9HWDhfdm5OaXBtUjNjZXBkNGFVLTFEUlQ4dmRZ?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-25T04:07:49Z",
+   "url_id": "15182e5066c12b37acf4a08f7221f690"
   }
  ],
  "ticker": [
   {
-   "headline": "Texan Senate Candidate Sues OpenAI Before Midterms, Accuses Altman Of 'Lying To Users And…",
-   "outlet": "Yahoo",
-   "outlet_name": "Yahoo",
+   "headline": "Anthropic launches Claude Duet AI agent to compete with Meta, OpenAI",
+   "outlet": "Communicate Online",
+   "outlet_name": "Communicate Online",
    "label": "REPORTED",
-   "url": "https://www.yahoo.com/news/politics/articles/texan-senate-candidate-sues-openai-095726911.html",
-   "url_id": "bb024dce12655bc028cee0ab546917f4"
+   "url": "https://communicateonline.me/news/anthropic-launches-claude-duet-ai-agent-to-compete-with-meta-openai/",
+   "url_id": "2453a45d9d4547384127b7fd9756f8bd"
   },
   {
-   "headline": "NVIDIA RTX 30 GPUs Get Huge AI Performance Boost With New Unlock Mod",
-   "outlet": "ThePCEnthusiast",
-   "outlet_name": "ThePCEnthusiast",
+   "headline": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
+   "outlet": "PCMag Middle East",
+   "outlet_name": "PCMag Middle East",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EYks3cXV5S1RQcEFXelhWaEhFWUZjVjVjaDhUU1Fwa1REbzRubzU1SHdRUGZmdDBTSnN0VnExczF6Rm1JUDIzUzJoNmhEN2FZSjZQdld0dGFMVVRQbFlrcGJlLU02YmZRSlcwM3VxT2VFRl9oYWFJTVdPRkM?oc=5",
-   "url_id": "43c9cf328f46795bfc413cac55022599"
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFRQd3JRX3U3TF9fZTJnTHI0QjNrbUhzeGhyQnhxR3BMajBweVlVVWJtLUIzWjhEd05GM0g2VEpFeVNvR29Mbm9QT1hLWk1MbnpfSHV2dkZuVUpLMW1RVnV2TWJZRFhvMEotcU9IWXhydGVvRUZaSUlrMksxd25uTGJaSmVHc1N0VFVNTjdBUktCck1RNEhXSjlud1VmdnBZRnA2aFlwaDBUUQ?oc=5",
+   "url_id": "f0c9385c4b7761f29fe934211ef1cf75"
   },
   {
-   "headline": "Anthropic platform team shifts entirely to AI coding with Claude Code",
-   "outlet": "TechGig",
-   "outlet_name": "TechGig",
+   "headline": "UK unveils $800 million AI security funding plan",
+   "outlet": "Yahoo Finance Australia",
+   "outlet_name": "Yahoo Finance Australia",
    "label": "REPORTED",
-   "url": "https://techgig.com/news/ai/anthropic-platform-team-shifts-entirely-to-ai-coding-with-claude-code/135158866",
-   "url_id": "1c63a71645aecd45fac19eed37d06efe"
+   "url": "https://au.finance.yahoo.com/news/uk-unveils-800-million-ai-063614826.html",
+   "url_id": "1c97b61d4408b0bca4c7bd02275942b4"
   },
   {
-   "headline": "Claude Mythos 5's GitHub adventure: The postmortem",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
+   "headline": "[WOWTALE Global Weekly #1] AI Megarounds Sweep Every Sector as Flapping Airplanes Raises…",
+   "outlet": "Wowtale",
+   "outlet_name": "Wowtale",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE84dU5kVEhQUTZrWVVnTjhiYzQ3TkNKYXlfcVBuOHpYOFdXRnROWVpGVGNGajJaeU9HWDhfdm5OaXBtUjNjZXBkNGFVLTFEUlQ4dmRZ?oc=5",
+   "url_id": "15182e5066c12b37acf4a08f7221f690"
+  },
+  {
+   "headline": "As the US and China form AI blocs, countries are increasingly torn between them",
+   "outlet": "Associated Press News on MSN",
+   "outlet_name": "Associated Press News on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-   "url_id": "e16222d83dd92652e2816fb1d36e61cf"
+   "url": "https://www.msn.com/en-us/news/other/as-the-us-and-china-form-ai-blocs-countries-are-increasingly-torn-between-them/ar-AA2g0RaJ",
+   "url_id": "65dfbf8f812802d5894fc89669f1c6ef"
   },
   {
-   "headline": "​OpenAI Detects Widespread PHP Vulnerabilities as AI Cyber Threat Concerns Grow",
-   "outlet": "The420.in",
-   "outlet_name": "The420.in",
-   "label": "REPORTED",
-   "url": "https://the420.in/openai-php-vulnerabilities-ai-cybersecurity/",
-   "url_id": "12be060646152b1b2e437e3141fae87e"
-  },
-  {
-   "headline": "Show HN: AI Senate – AI senators debate live policy and vote on the record",
-   "outlet": "aisenatus.com",
-   "outlet_name": "aisenatus.com",
-   "label": "REPORTED",
-   "url": "https://aisenatus.com",
-   "url_id": "4e99a76a5557a76299918ca0e17b053c"
-  },
-  {
-   "headline": "OpenAI finds its AI agents can secretly communicate even without internet",
-   "outlet": "Times Now on MSN",
-   "outlet_name": "Times Now on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/openai-finds-its-ai-agents-can-secretly-communicate-even-without-internet/ar-AA2g0hLc",
-   "url_id": "9c95026688581e958173fd7fc33ca8c6"
+   "headline": "Someone turned their monitor into a laser pointer firing range game using Claude Code",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
+   "label": "STILL OPEN",
+   "url": "https://www.xda-developers.com/someone-turned-their-monitor-into-a-laser-pointer-firing-range-game-using-claude-code/",
+   "url_id": "137f102fb2161a0ad9a28da78c775be9"
   },
   {
    "headline": "AI Performance in the Security Theater",
@@ -102,12 +104,20 @@
    "url_id": "6b61d3fb230c644395463ebfdc224967"
   },
   {
-   "headline": "Someone turned their monitor into a laser pointer firing range game using Claude Code",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
+   "headline": "Your LLM Bill Isn’t a Model Problem. It’s an Inference Problem.",
+   "outlet": "pub.towardsai.net",
+   "outlet_name": "pub.towardsai.net",
    "label": "REPORTED",
-   "url": "https://www.xda-developers.com/someone-turned-their-monitor-into-a-laser-pointer-firing-range-game-using-claude-code/",
-   "url_id": "137f102fb2161a0ad9a28da78c775be9"
+   "url": "https://pub.towardsai.net/your-llm-bill-isnt-a-model-problem-it-s-an-inference-problem-47b6fa070582?source=rss------ai_agents-5",
+   "url_id": "35864809579a91a79262604d5cd9b219"
+  },
+  {
+   "headline": "PHP cyber glitch: Former Obama cyber chief explains why AI finding software flaws is…",
+   "outlet": "Mint on MSN",
+   "outlet_name": "Mint on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/php-cyber-glitch-former-obama-cyber-chief-explains-why-ai-finding-software-flaws-is-tech-debt-coming-due/ar-AA2g0x3C",
+   "url_id": "d38e92b6fd1f383c72ad6c0428d0e9f3"
   },
   {
    "headline": "No More Temperature in Gemini: Smart Simplification or Lost Control?",
@@ -118,30 +128,30 @@
    "url_id": "bb9836f2bb6ed3361a6ba602eec33d6b"
   },
   {
-   "headline": "AI race beyond US, China: Japan, South Korea emerge as leading AI-ready economies. How…",
-   "outlet": "Business Today on MSN",
-   "outlet_name": "Business Today on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/money/general/ai-race-beyond-us-china-japan-south-korea-emerge-as-leading-ai-ready-economies-how-india-fares/ar-AA2g0hFk",
-   "url_id": "23a2626bf4980f372ed8253cdafd9d25"
+   "headline": "🔮 The internet under attack, AGI compression & the next oil shock that never will be...…",
+   "outlet": "exponentialview.co",
+   "outlet_name": "exponentialview.co",
+   "label": "REPORTED",
+   "url": "https://www.exponentialview.co/p/ev-607",
+   "url_id": "0702346964bcf86c1b8845ed61610fb1"
   },
   {
-   "headline": "PHP cyber glitch: Former Obama cyber chief explains why AI finding software flaws is…",
-   "outlet": "Mint on MSN",
-   "outlet_name": "Mint on MSN",
+   "headline": "Break It on Purpose: an AI pipeline that triages and fixes its own bugs",
+   "outlet": "zontakllc.com",
+   "outlet_name": "zontakllc.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/php-cyber-glitch-former-obama-cyber-chief-explains-why-ai-finding-software-flaws-is-tech-debt-coming-due/ar-AA2g0x3C",
-   "url_id": "d38e92b6fd1f383c72ad6c0428d0e9f3"
+   "url": "https://zontakllc.com/articles/break-it-on-purpose",
+   "url_id": "7c66dfcb583877b50f6ab2c18f4ea913"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from three different outlets.",
- "articles_24h_rounded": 5200,
+ "tidbit": "Did you know… about 5,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 5100,
  "articles_24h_label": "about 5,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/05.mp3",
- "audio_seconds": 55.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/06.mp3",
+ "audio_seconds": 39.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA Texas Senate candidate is suing OpenAI, accusing the company's leadership of lying to users and harming Texans. Reported by Yahoo: the lawsuit comes amid broader legal actions against the company at the state level.\nNvidia's RTX 30 graphics processors are getting a major performance boost for artificial intelligence tasks thanks to a new unlock modification. Reported by ThePCEnthusiast: the improvement makes older hardware more capable for modern computing demands.\nAnthropic's platform engineering team has shifted entirely to using Claude Code for all coding work. Reported by TechGig: the move represents a full commitment to artificial intelligence tools for their development process.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Communicate Online: Anthropic launches Claude Duet AI agent to compete with Meta, OpenAI.\nReported by PCMag Middle East: OpenAI Is Now Keeping Its Frontier Models off the Internet During Training.\nReported by Yahoo Finance Australia: UK unveils $800 million AI security funding plan.\nReported by Wowtale: [WOWTALE Global Weekly #1] AI Megarounds Sweep Every Sector as Flapping Airplanes Raises $1B With No Product Yet.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
