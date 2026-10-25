@@ -1,101 +1,73 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T04:20:01Z",
- "hour": "2026-10-25T04:00:00Z",
+ "generated_at": "2026-10-25T05:20:03Z",
+ "hour": "2026-10-25T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google DeepMind employees resign over Pentagon AI deals, citing ethical concerns | Trending",
-   "outlet": "Hindustan Times",
-   "outlet_name": "Hindustan Times",
-   "url": "https://www.hindustantimes.com/trending/google-deepmind-employees-resign-over-pentagon-ai-deals-citing-ethical-concerns-101792837956410.html",
-   "label": "CONFIRMED",
-   "summary_1line": "DeepMind staff resign over Google's military AI contracts and ethical concerns.",
-   "published_at": "2026-10-24T11:54:25Z",
-   "url_id": "dc5be324a0a64fefb611d49026b51b47"
-  },
-  {
-   "title": "QCentroid Unveils “Missions” on NVIDIA CUDA-Q to Benchmark Classical, Quantum-Inspired, and QPU Workloads",
-   "outlet": "Quantum Computing Report",
-   "outlet_name": "Quantum Computing Report",
-   "url": "https://quantumcomputingreport.com/qcentroid-unveils-missions-on-nvidia-cuda-q-to-benchmark-classical-quantum-inspired-and-qpu-workloads/",
+   "title": "Texan Senate Candidate Sues OpenAI Before Midterms, Accuses Altman Of 'Lying To Users And Harming Texans'",
+   "outlet": "Yahoo",
+   "outlet_name": "Yahoo",
+   "url": "https://www.yahoo.com/news/politics/articles/texan-senate-candidate-sues-openai-095726911.html",
    "label": "REPORTED",
-   "summary_1line": "QCentroid launches Missions to evaluate quantum vs classical solutions for enterprise bottlenecks.",
-   "published_at": "2026-10-24T02:43:26Z",
-   "url_id": "bb63fbd4baf136186bad59668da2d3eb"
+   "summary_1line": "Paxton sues OpenAI over alleged harms to Texans, amid broader state-level legal actions.",
+   "published_at": "2026-10-24T09:57:26Z",
+   "url_id": "bb024dce12655bc028cee0ab546917f4"
   },
   {
-   "title": "Sweden’s Government Offices Block ChatGPT and Claude, Approve Copilot",
-   "outlet": "CEOWORLD magazine",
-   "outlet_name": "CEOWORLD magazine",
-   "url": "https://ceoworld.biz/2026/10/24/sweden-government-offices-block-chatgpt-claude-copilot/",
-   "label": "REPORTED",
-   "summary_1line": "Sweden blocks browser AI tools, approves Microsoft Copilot for staff.",
-   "published_at": "2026-10-24T22:36:29Z",
-   "url_id": "d66a71261e3281dbe953038a776525c0"
-  },
-  {
-   "title": "UK government sets out $800M of AI security funding",
-   "outlet": "reuters.com",
-   "outlet_name": "Reuters",
-   "url": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
+   "title": "NVIDIA RTX 30 GPUs Get Huge AI Performance Boost With New Unlock Mod",
+   "outlet": "ThePCEnthusiast",
+   "outlet_name": "ThePCEnthusiast",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EYks3cXV5S1RQcEFXelhWaEhFWUZjVjVjaDhUU1Fwa1REbzRubzU1SHdRUGZmdDBTSnN0VnExczF6Rm1JUDIzUzJoNmhEN2FZSjZQdld0dGFMVVRQbFlrcGJlLU02YmZRSlcwM3VxT2VFRl9oYWFJTVdPRkM?oc=5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-25T03:00:56Z",
-   "url_id": "efd737487f0629df551d4f50dc9bd337"
+   "published_at": "2026-10-25T04:23:12Z",
+   "url_id": "43c9cf328f46795bfc413cac55022599"
   },
   {
-   "title": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-ai-013010925.html",
+   "title": "Anthropic platform team shifts entirely to AI coding with Claude Code",
+   "outlet": "TechGig",
+   "outlet_name": "TechGig",
+   "url": "https://techgig.com/news/ai/anthropic-platform-team-shifts-entirely-to-ai-coding-with-claude-code/135158866",
    "label": "REPORTED",
-   "summary_1line": "AI agents drive 10-15x token use, pushing GPU demand to new heights.",
-   "published_at": "2026-10-25T01:30:00Z",
-   "url_id": "737699b278b27cd49580ca4ffd4249d9"
+   "summary_1line": "Anthropic fully shifts coding to AI, with Claude Code handling all code tasks.",
+   "published_at": "2026-10-24T02:20:23Z",
+   "url_id": "1c63a71645aecd45fac19eed37d06efe"
   }
  ],
  "ticker": [
   {
-   "headline": "Google DeepMind employees resign over Pentagon AI deals, citing ethical concerns |…",
-   "outlet": "Hindustan Times",
-   "outlet_name": "Hindustan Times",
+   "headline": "Texan Senate Candidate Sues OpenAI Before Midterms, Accuses Altman Of 'Lying To Users And…",
+   "outlet": "Yahoo",
+   "outlet_name": "Yahoo",
+   "label": "REPORTED",
+   "url": "https://www.yahoo.com/news/politics/articles/texan-senate-candidate-sues-openai-095726911.html",
+   "url_id": "bb024dce12655bc028cee0ab546917f4"
+  },
+  {
+   "headline": "NVIDIA RTX 30 GPUs Get Huge AI Performance Boost With New Unlock Mod",
+   "outlet": "ThePCEnthusiast",
+   "outlet_name": "ThePCEnthusiast",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1EYks3cXV5S1RQcEFXelhWaEhFWUZjVjVjaDhUU1Fwa1REbzRubzU1SHdRUGZmdDBTSnN0VnExczF6Rm1JUDIzUzJoNmhEN2FZSjZQdld0dGFMVVRQbFlrcGJlLU02YmZRSlcwM3VxT2VFRl9oYWFJTVdPRkM?oc=5",
+   "url_id": "43c9cf328f46795bfc413cac55022599"
+  },
+  {
+   "headline": "Anthropic platform team shifts entirely to AI coding with Claude Code",
+   "outlet": "TechGig",
+   "outlet_name": "TechGig",
+   "label": "REPORTED",
+   "url": "https://techgig.com/news/ai/anthropic-platform-team-shifts-entirely-to-ai-coding-with-claude-code/135158866",
+   "url_id": "1c63a71645aecd45fac19eed37d06efe"
+  },
+  {
+   "headline": "Claude Mythos 5's GitHub adventure: The postmortem",
+   "outlet": "anthropic.com",
+   "outlet_name": "anthropic.com",
    "label": "CONFIRMED",
-   "url": "https://www.hindustantimes.com/trending/google-deepmind-employees-resign-over-pentagon-ai-deals-citing-ethical-concerns-101792837956410.html",
-   "url_id": "dc5be324a0a64fefb611d49026b51b47"
-  },
-  {
-   "headline": "QCentroid Unveils “Missions” on NVIDIA CUDA-Q to Benchmark Classical, Quantum-Inspired…",
-   "outlet": "Quantum Computing Report",
-   "outlet_name": "Quantum Computing Report",
-   "label": "REPORTED",
-   "url": "https://quantumcomputingreport.com/qcentroid-unveils-missions-on-nvidia-cuda-q-to-benchmark-classical-quantum-inspired-and-qpu-workloads/",
-   "url_id": "bb63fbd4baf136186bad59668da2d3eb"
-  },
-  {
-   "headline": "Sweden’s Government Offices Block ChatGPT and Claude, Approve Copilot",
-   "outlet": "CEOWORLD magazine",
-   "outlet_name": "CEOWORLD magazine",
-   "label": "REPORTED",
-   "url": "https://ceoworld.biz/2026/10/24/sweden-government-offices-block-chatgpt-claude-copilot/",
-   "url_id": "d66a71261e3281dbe953038a776525c0"
-  },
-  {
-   "headline": "UK government sets out $800M of AI security funding",
-   "outlet": "reuters.com",
-   "outlet_name": "Reuters",
-   "label": "REPORTED",
-   "url": "https://www.reuters.com/world/uk/uk-government-sets-out-800-million-ai-security-funding-2026-10-23/",
-   "url_id": "efd737487f0629df551d4f50dc9bd337"
-  },
-  {
-   "headline": "Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene…",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.yahoo.com/technology/ai/articles/nvidia-jensen-huang-says-ai-013010925.html",
-   "url_id": "737699b278b27cd49580ca4ffd4249d9"
+   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
+   "url_id": "e16222d83dd92652e2816fb1d36e61cf"
   },
   {
    "headline": "​OpenAI Detects Widespread PHP Vulnerabilities as AI Cyber Threat Concerns Grow",
@@ -106,28 +78,12 @@
    "url_id": "12be060646152b1b2e437e3141fae87e"
   },
   {
-   "headline": "Claude Mythos 5's GitHub adventure: The postmortem",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "REPORTED",
-   "url": "https://www.anthropic.com/research/alignment-assessment-ukaisi",
-   "url_id": "e16222d83dd92652e2816fb1d36e61cf"
-  },
-  {
    "headline": "Show HN: AI Senate – AI senators debate live policy and vote on the record",
    "outlet": "aisenatus.com",
    "outlet_name": "aisenatus.com",
    "label": "REPORTED",
    "url": "https://aisenatus.com",
    "url_id": "4e99a76a5557a76299918ca0e17b053c"
-  },
-  {
-   "headline": "Tell Me Lies: Grok, GPT and Claude Voice Modes Guess Bitcoin's Price",
-   "outlet": "Cryptonews.net",
-   "outlet_name": "Cryptonews.net",
-   "label": "REPORTED",
-   "url": "https://cryptonews.net/news/analytics/33646029/",
-   "url_id": "8feacefa74cb7df753ae3fd9ef6f2ad2"
   },
   {
    "headline": "OpenAI finds its AI agents can secretly communicate even without internet",
@@ -138,30 +94,54 @@
    "url_id": "9c95026688581e958173fd7fc33ca8c6"
   },
   {
-   "headline": "Russian-Linked AI Deepfake Campaign Targets Texas Senate Candidate James Talarico With…",
-   "outlet": "fish4news.co.uk",
-   "outlet_name": "fish4news.co.uk",
-   "label": "STILL OPEN",
-   "url": "https://fish4news.co.uk/james-talarico-russian-deepfake-false-abuse-claims/",
-   "url_id": "d1c11851bedb3167953555fb24ca8200"
+   "headline": "AI Performance in the Security Theater",
+   "outlet": "bykozy.me",
+   "outlet_name": "bykozy.me",
+   "label": "REPORTED",
+   "url": "https://bykozy.me/blog/ai-performance-at-the-security-theater/",
+   "url_id": "6b61d3fb230c644395463ebfdc224967"
   },
   {
-   "headline": "Google CEO Sundar Pichai responds to Sam Altman’s ‘fend Google off’ remark, asks: ‘Are…",
-   "outlet": "The Times of India on MSN",
-   "outlet_name": "The Times of India on MSN",
+   "headline": "Someone turned their monitor into a laser pointer firing range game using Claude Code",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/google-ceo-sundar-pichai-responds-to-sam-altman-s-fend-google-off-remark-asks-are-you-bolting-agents-onto-chatgpt-or/ar-AA2fZ1Mx",
-   "url_id": "954c5337639e12aa981bb883368fbd97"
+   "url": "https://www.xda-developers.com/someone-turned-their-monitor-into-a-laser-pointer-firing-range-game-using-claude-code/",
+   "url_id": "137f102fb2161a0ad9a28da78c775be9"
+  },
+  {
+   "headline": "No More Temperature in Gemini: Smart Simplification or Lost Control?",
+   "outlet": "python.plainenglish.io",
+   "outlet_name": "python.plainenglish.io",
+   "label": "REPORTED",
+   "url": "https://python.plainenglish.io/no-more-temperature-in-gemini-smart-simplification-or-lost-control-4919a565beeb?source=rss------ai_agents-5",
+   "url_id": "bb9836f2bb6ed3361a6ba602eec33d6b"
+  },
+  {
+   "headline": "AI race beyond US, China: Japan, South Korea emerge as leading AI-ready economies. How…",
+   "outlet": "Business Today on MSN",
+   "outlet_name": "Business Today on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/money/general/ai-race-beyond-us-china-japan-south-korea-emerge-as-leading-ai-ready-economies-how-india-fares/ar-AA2g0hFk",
+   "url_id": "23a2626bf4980f372ed8253cdafd9d25"
+  },
+  {
+   "headline": "PHP cyber glitch: Former Obama cyber chief explains why AI finding software flaws is…",
+   "outlet": "Mint on MSN",
+   "outlet_name": "Mint on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/php-cyber-glitch-former-obama-cyber-chief-explains-why-ai-finding-software-flaws-is-tech-debt-coming-due/ar-AA2g0x3C",
+   "url_id": "d38e92b6fd1f383c72ad6c0428d0e9f3"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 5300,
+ "tidbit": "Did you know… this hour's top stories come from three different outlets.",
+ "articles_24h_rounded": 5200,
  "articles_24h_label": "about 5,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/04.mp3",
- "audio_seconds": 58.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/05.mp3",
+ "audio_seconds": 55.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Hindustan Times: Google DeepMind employees resign over Pentagon AI deals, citing ethical concerns | Trending.\nReported by Quantum Computing Report: QCentroid Unveils “Missions” on NVIDIA CUDA-Q to Benchmark Classical, Quantum-Inspired, and QPU Workloads.\nReported by CEOWORLD magazine: Sweden’s Government Offices Block ChatGPT and Claude, Approve Copilot.\nReported by Reuters: UK government sets out $800M of AI security funding.\nReported by Yahoo Finance: Nvidia’s Jensen Huang Says AI Agents Have Sent Token, GPU Demand ‘Through the Roof’: Gene Munster Sees 15 Million Bot Users Soaring to Billions.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA Texas Senate candidate is suing OpenAI, accusing the company's leadership of lying to users and harming Texans. Reported by Yahoo: the lawsuit comes amid broader legal actions against the company at the state level.\nNvidia's RTX 30 graphics processors are getting a major performance boost for artificial intelligence tasks thanks to a new unlock modification. Reported by ThePCEnthusiast: the improvement makes older hardware more capable for modern computing demands.\nAnthropic's platform engineering team has shifted entirely to using Claude Code for all coding work. Reported by TechGig: the move represents a full commitment to artificial intelligence tools for their development process.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
