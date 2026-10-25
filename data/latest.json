@@ -1,81 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T13:20:01Z",
- "hour": "2026-10-25T13:00:00Z",
+ "generated_at": "2026-10-25T14:20:01Z",
+ "hour": "2026-10-25T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Beyond GRC: DigitalXForce Pioneers AI-Powered Risk Operations with Global X-ROC™ Rollout",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/news-releases/beyond-grc-digitalxforce-pioneers-ai-powered-risk-operations-with-global-x-roc-rollout-302918726.html",
+   "title": "OpenAI checked fired researchers’ phones for Signal chats, WSJ reports",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/openai-safety-researchers-fired-signal-chats-greenblatt-wsj",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI fires three researchers over Signal use; Greenblatt denies leaking internal data.",
+   "published_at": "2026-10-25T11:57:04Z",
+   "url_id": "a5682195b4ec6f83a4d9f4643b7ccaa3"
+  },
+  {
+   "title": "Accenture Federal Services, Google Public Sector Launch Gemini Launchpads for Federal Missions",
+   "outlet": "WashingtonExec",
+   "outlet_name": "WashingtonExec",
+   "url": "https://washingtonexec.com/news/accenture-federal-services-google-public-sector-launch-gemini-launchpads-for-fed",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-25T13:01:06Z",
+   "url_id": "9539a71516f3f1b9f7aafad3b1f97890"
+  },
+  {
+   "title": "Mint Explainer | Is India’s tech workforce AI-ready?",
+   "outlet": "Livemint",
+   "outlet_name": "Livemint",
+   "url": "https://www.livemint.com/ai/artificial-intelligence/is-india-s-tech-workforce-ai-ready-11792911678159.html",
    "label": "CONFIRMED",
-   "summary_1line": "DigitalXForce rolls out X-ROC to tackle control gaps and boost enterprise risk intelligence.",
-   "published_at": "2026-10-25T11:00:00Z",
-   "url_id": "f70905ebff02a4f8a20231232a7d1459"
+   "summary_1line": "India's AI skills gap grows, driving pay rises and reshaping job roles across sectors.",
+   "published_at": "2026-10-25T11:12:05Z",
+   "url_id": "9ff4bbfc5f0208995ebb1738001236b6"
   },
   {
-   "title": "Google DeepMind builds 3D periodic table with Gemini 4 Argon: What is so different about it",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-deepmind-builds-3d-periodic-table-with-gemini-4-argon-what-is-so-different-about-it/articleshow/135188911.cms",
+   "title": "DeepSeek and MiniMax cleared to take AI models abroad, state media says",
+   "outlet": "China Tech News",
+   "outlet_name": "China Tech News",
+   "url": "https://www.chinatechnews.com/2026/10/25/131329-deepseek-and-minimax-cleared-to-take-ai-models-abroad-state-media-says",
    "label": "REPORTED",
-   "summary_1line": "DeepMind's Gemini 4 Argon creates a 3D periodic table synced to Tom Lehrer’s song.",
-   "published_at": "2026-10-25T10:33:00Z",
-   "url_id": "16e64f0c6b49ab978dfb0f9ecf0ead54"
+   "summary_1line": "China's AI export rules target data, sensitive uses, and computing power, with DeepSeek and MiniMax securing licensing rights.",
+   "published_at": "2026-10-25T04:11:00Z",
+   "url_id": "9df3a9c7a077bb187ae32a478a4008c3"
   },
   {
-   "title": "Open-weight DeepSeek beats Google's gated Gemini model at finding bugs",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/open-weight-deepseek-beats-googles-gated-gemini-model-at-finding-bugs/",
+   "title": "Nvidia CEO Jensen Huang says China excels in AI research",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/jensen-huang-china-ai-research-talent/",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek's open model beats closed rivals in vulnerability detection, challenging Google's restricted rollout of Gemini 4 Argon.",
-   "published_at": "2026-10-25T10:30:53Z",
-   "url_id": "a0a96cc6b57a95280719e45f59a69fa2"
+   "summary_1line": "Huang claims China leads in AI research, backed by Carnegie data on degrees and employment.",
+   "published_at": "2026-10-25T03:34:00Z",
+   "url_id": "d59bc7f1716a5303e22cef170186da98"
   }
  ],
  "ticker": [
   {
-   "headline": "Beyond GRC: DigitalXForce Pioneers AI-Powered Risk Operations with Global X-ROC™ Rollout",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "OpenAI checked fired researchers’ phones for Signal chats, WSJ reports",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "STILL OPEN",
+   "url": "https://thenextweb.com/news/openai-safety-researchers-fired-signal-chats-greenblatt-wsj",
+   "url_id": "a5682195b4ec6f83a4d9f4643b7ccaa3"
+  },
+  {
+   "headline": "Accenture Federal Services, Google Public Sector Launch Gemini Launchpads for Federal…",
+   "outlet": "WashingtonExec",
+   "outlet_name": "WashingtonExec",
+   "label": "REPORTED",
+   "url": "https://washingtonexec.com/news/accenture-federal-services-google-public-sector-launch-gemini-launchpads-for-fed",
+   "url_id": "9539a71516f3f1b9f7aafad3b1f97890"
+  },
+  {
+   "headline": "Mint Explainer | Is India’s tech workforce AI-ready?",
+   "outlet": "Livemint",
+   "outlet_name": "Livemint",
    "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/beyond-grc-digitalxforce-pioneers-ai-powered-risk-operations-with-global-x-roc-rollout-302918726.html",
-   "url_id": "f70905ebff02a4f8a20231232a7d1459"
+   "url": "https://www.livemint.com/ai/artificial-intelligence/is-india-s-tech-workforce-ai-ready-11792911678159.html",
+   "url_id": "9ff4bbfc5f0208995ebb1738001236b6"
   },
   {
-   "headline": "Google DeepMind builds 3D periodic table with Gemini 4 Argon: What is so different about…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "DeepSeek and MiniMax cleared to take AI models abroad, state media says",
+   "outlet": "China Tech News",
+   "outlet_name": "China Tech News",
    "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/google-deepmind-builds-3d-periodic-table-with-gemini-4-argon-what-is-so-different-about-it/articleshow/135188911.cms",
-   "url_id": "16e64f0c6b49ab978dfb0f9ecf0ead54"
+   "url": "https://www.chinatechnews.com/2026/10/25/131329-deepseek-and-minimax-cleared-to-take-ai-models-abroad-state-media-says",
+   "url_id": "9df3a9c7a077bb187ae32a478a4008c3"
   },
   {
-   "headline": "Open-weight DeepSeek beats Google's gated Gemini model at finding bugs",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
+   "headline": "Nvidia CEO Jensen Huang says China excels in AI research",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
    "label": "REPORTED",
-   "url": "https://startupfortune.com/open-weight-deepseek-beats-googles-gated-gemini-model-at-finding-bugs/",
-   "url_id": "a0a96cc6b57a95280719e45f59a69fa2"
+   "url": "https://cryptobriefing.com/jensen-huang-china-ai-research-talent/",
+   "url_id": "d59bc7f1716a5303e22cef170186da98"
   },
   {
-   "headline": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
-   "outlet": "hollywoodreporter.com",
-   "outlet_name": "hollywoodreporter.com",
-   "label": "REPORTED",
-   "url": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
-   "url_id": "37e95cfdeafe1c2d9b843771355f7d32"
-  },
-  {
-   "headline": "US and China form AI blocs, leaving countries caught between them",
-   "outlet": "Newspoint on MSN",
-   "outlet_name": "Newspoint on MSN",
+   "headline": "ChatGPT is building detailed psychological profiles of its users",
+   "outlet": "Futurism on MSN",
+   "outlet_name": "Futurism on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/us-and-china-form-ai-blocs-leaving-countries-caught-between-them/ar-AA2g1aHN",
-   "url_id": "10cd8fa739c2c7da1d6a404b43a9b0a2"
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/chatgpt-is-building-detailed-psychological-profiles-of-its-users/ar-AA2g1UfY",
+   "url_id": "250247843515beffa9d2828ea2356d70"
   },
   {
    "headline": "Nvidia RTX Spark takes on AMD Strix Halo, and AMD has reason to worry",
@@ -94,14 +122,6 @@
    "url_id": "e13f1c0b1b8f319422ca5293f25ed31a"
   },
   {
-   "headline": "5 ways Gemini's Scheduled actions simplified my everyday routine",
-   "outlet": "androidpolice.com",
-   "outlet_name": "androidpolice.com",
-   "label": "REPORTED",
-   "url": "https://www.androidpolice.com/gemini-scheduled-actions-simplified-my-everyday-routine/",
-   "url_id": "0a529b6d13132c4f7189c82e9e9f9d32"
-  },
-  {
    "headline": "OpenAI Paused Frontier AI Training After a Security Incident",
    "outlet": "securityaffairs.com",
    "outlet_name": "securityaffairs.com",
@@ -110,20 +130,12 @@
    "url_id": "ad3c56fabc6e22bf7e07cda87a81a0c5"
   },
   {
-   "headline": "Bill Gates warns the 'evolutionary' age of AI will be brutal for workers",
-   "outlet": "observer.co.uk",
-   "outlet_name": "observer.co.uk",
+   "headline": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
+   "outlet": "marktechpost.com",
+   "outlet_name": "marktechpost.com",
    "label": "REPORTED",
-   "url": "https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers",
-   "url_id": "2ac70e327c2219095cb8bf5a50cb5bf0"
-  },
-  {
-   "headline": "Modders unlock hidden AI performance on NVIDIA RTX 20, 30 and 40 series GPUs, with up to…",
-   "outlet": "VideoCardz.com",
-   "outlet_name": "VideoCardz.com",
-   "label": "REPORTED",
-   "url": "https://videocardz.com/newz/modders-unlock-hidden-ai-performance-on-nvidia-rtx-20-30-and-40-series-gpus-with-up-to-2x-tensor-throughput",
-   "url_id": "d93577d87fdfb1477b9acc98ab70788d"
+   "url": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
+   "url_id": "e27eaac080708428ad6eff4487f655a1"
   },
   {
    "headline": "I canceled Google AI Plus after the downgrade, but I’m still using Gemini",
@@ -132,16 +144,24 @@
    "label": "STILL OPEN",
    "url": "https://www.androidauthority.com/gemini-ai-plus-downgrade-chatgpt-claude-alternatives-3724772/",
    "url_id": "d2b2e05546c3f77412f1bea95cfa9440"
+  },
+  {
+   "headline": "Teradyne Robotics partners with Sereact to scale physical AI in retail and logistics",
+   "outlet": "therobotreport.com",
+   "outlet_name": "therobotreport.com",
+   "label": "CONFIRMED",
+   "url": "https://www.therobotreport.com/teradyne-robotics-partners-sereact-scale-physical-ai-retail-logistics/",
+   "url_id": "c6ce62f16480079e5f5a073758507fa6"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from three different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 4600,
  "articles_24h_label": "about 4,600",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/13.mp3",
- "audio_seconds": 36.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/14.mp3",
+ "audio_seconds": 44.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per PR Newswire: Beyond GRC: DigitalXForce Pioneers AI-Powered Risk Operations with Global X-ROC™ Rollout.\nReported by The Times of India: Google DeepMind builds 3D periodic table with Gemini 4 Argon: What is so different about it.\nReported by Startup Fortune: Open-weight DeepSeek beats Google's gated Gemini model at finding bugs.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per The Next Web: OpenAI checked fired researchers’ phones for Signal chats, WSJ reports.\nReported by WashingtonExec: Accenture Federal Services, Google Public Sector Launch Gemini Launchpads for Federal Missions.\nConfirmed, per Livemint: Mint Explainer | Is India’s tech workforce AI-ready.\nReported by China Tech News: DeepSeek and MiniMax cleared to take AI models abroad, state media says.\nReported by Crypto Briefing: Nvidia CEO Jensen Huang says China excels in AI research.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
