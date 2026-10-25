@@ -1,101 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T11:20:01Z",
- "hour": "2026-10-25T11:00:00Z",
+ "generated_at": "2026-10-25T12:20:01Z",
+ "hour": "2026-10-25T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI cuts its valuation target to $1.25tn as it nears a $30bn round",
-   "outlet": "thenextweb.com",
+   "title": "Elvis Presley rightsholders sue AI company Anthropic over alleged copyright infringement of 274 songs",
+   "outlet": "NME",
+   "outlet_name": "NME",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbk9lV0FTQUFqTXo2a001RG5Nemk4d3N5Vno0VTF5bUhYWWxaVC13bklQWF90M2VfV3NqUnNJRGp1VzYzanhSemluZnhNejlGbmtQQ3ZnT2FBSEpoVUwyeDlMR1dnYmtneTFwMW1xY0tVYm5BSzlwVVBjUUJmTU1kVzFYbks2SnRTd2RxdDBRNXVjV1MxR2hSSUpJUUxFVUhfRXkxbExfdWN2YVV6SUVuZ25VVQ?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-25T11:44:52Z",
+   "url_id": "846d98464e53bead2c20f6f8f369fac2"
+  },
+  {
+   "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data; plus much more",
+   "outlet": "IAM Media",
+   "outlet_name": "IAM Media",
+   "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-25T11:33:58Z",
+   "url_id": "b322e34f3f55d59d4b3f3f34accd081c"
+  },
+  {
+   "title": "One of Google DeepMind's top execs says lifelong learners will have an edge in the AI workplace",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-25T11:00:01Z",
+   "url_id": "e1787acffb3e72a65c3b62ed1f7f9c2a"
+  },
+  {
+   "title": "Outside evaluators found ways OpenAI’s agents could slip past its monitor",
+   "outlet": "The Next Web",
    "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/openai-funding-round-1-25tn-uae-coatue",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI cuts funding valuation to $1.25tn, with UAE investors leading, aiming for $30bn and a delayed IPO.",
-   "published_at": "2026-10-25T10:17:55Z",
-   "url_id": "e19e861ca08d0c141669fe0557835167"
+   "url": "https://thenextweb.com/news/openai-monitoring-system-metr-redwood-red-team",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI agents found to hide actions from monitoring; flaws reported by METR and Redwood Research.",
+   "published_at": "2026-10-25T03:29:00Z",
+   "url_id": "da71feb42fdad9c2ef72144683519850"
   },
   {
-   "title": "Compare 12 Agent Swarm Frameworks: OpenAI, Google, Microsoft",
-   "outlet": "AIMultiple",
-   "outlet_name": "AIMultiple",
-   "url": "https://aimultiple.com/agent-swarm",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's agent swarm improves results 90.2% with 15x more tokens; LangGraph outperforms CrewAI in speed.",
-   "published_at": "2026-10-25T10:04:59Z",
-   "url_id": "152d5f6309693b25d1f7c35614c3a86b"
-  },
-  {
-   "title": "Nvidias offene Daten-Engine Flora soll Robotikdaten 125-mal günstiger beschriften als GPT-6 Astra",
-   "outlet": "the-decoder.de",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.de/nvidias-offene-daten-engine-flora-soll-robotikdaten-125-mal-guenstiger-beschriften-als-gpt-6-astra/",
-   "label": "REPORTED",
-   "summary_1line": "Nvidia's Flora cuts robot video annotation costs by 125x, outperforming GPT-6 Astra in error detection and action recognition.",
-   "published_at": "2026-10-25T09:45:49Z",
-   "url_id": "47d8c6218a24590b768511deca6df934"
-  },
-  {
-   "title": "Cerebras bets on wafer-scale chips as Nvidia's GPUs get scarce and pricey",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/cerebras-bets-on-wafer-scale-chips-as-nvidias-gpus-get-scarce-and-pricey/",
-   "label": "REPORTED",
-   "summary_1line": "Cerebras' wafer-scale chip offers 15x faster AI inference, backed by $20B OpenAI deal and $400M General Compute contract.",
-   "published_at": "2026-10-25T07:49:56Z",
-   "url_id": "b5e815af56affda079afbab27c1801cc"
-  },
-  {
-   "title": "Nvidia Aktie: Humanoid-Wette?",
-   "outlet": "Börse Global",
-   "outlet_name": "Börse Global",
-   "url": "https://www.boerse-global.de/nvidia-aktie-humanoid-wette/836111",
-   "label": "REPORTED",
-   "summary_1line": "Nvidia expands robotics and telecom AI with new tools, pilot projects, and a 2027 humanoid robot.",
-   "published_at": "2026-10-25T07:39:20Z",
-   "url_id": "01499f7861c86e0ebefab073f6c9d751"
+   "title": "Should Government Websites Block Personal AI Agent Transactions?",
+   "outlet": "GovTech",
+   "outlet_name": "GovTech",
+   "url": "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/should-government-websites-block-personal-ai-agent-transactions",
+   "label": "CONFIRMED",
+   "summary_1line": "Banks restrict AI agents from accessing accounts to prevent unauthorized transactions and clarify liability.",
+   "published_at": "2026-10-25T09:07:15Z",
+   "url_id": "8f4fd77716648d64f9cd54978907aa26"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI cuts its valuation target to $1.25tn as it nears a $30bn round",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "STILL OPEN",
-   "url": "https://thenextweb.com/news/openai-funding-round-1-25tn-uae-coatue",
-   "url_id": "e19e861ca08d0c141669fe0557835167"
+   "headline": "Elvis Presley rightsholders sue AI company Anthropic over alleged copyright infringement…",
+   "outlet": "NME",
+   "outlet_name": "NME",
+   "label": "REPORTED",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbk9lV0FTQUFqTXo2a001RG5Nemk4d3N5Vno0VTF5bUhYWWxaVC13bklQWF90M2VfV3NqUnNJRGp1VzYzanhSemluZnhNejlGbmtQQ3ZnT2FBSEpoVUwyeDlMR1dnYmtneTFwMW1xY0tVYm5BSzlwVVBjUUJmTU1kVzFYbks2SnRTd2RxdDBRNXVjV1MxR2hSSUpJUUxFVUhfRXkxbExfdWN2YVV6SUVuZ25VVQ?oc=5",
+   "url_id": "846d98464e53bead2c20f6f8f369fac2"
   },
   {
-   "headline": "Compare 12 Agent Swarm Frameworks: OpenAI, Google, Microsoft",
-   "outlet": "AIMultiple",
-   "outlet_name": "AIMultiple",
+   "headline": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing…",
+   "outlet": "IAM Media",
+   "outlet_name": "IAM Media",
    "label": "REPORTED",
-   "url": "https://aimultiple.com/agent-swarm",
-   "url_id": "152d5f6309693b25d1f7c35614c3a86b"
+   "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
+   "url_id": "b322e34f3f55d59d4b3f3f34accd081c"
   },
   {
-   "headline": "Nvidias offene Daten-Engine Flora soll Robotikdaten 125-mal günstiger beschriften als…",
-   "outlet": "the-decoder.de",
-   "outlet_name": "The Decoder",
+   "headline": "One of Google DeepMind's top execs says lifelong learners will have an edge in the AI…",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
    "label": "REPORTED",
-   "url": "https://the-decoder.de/nvidias-offene-daten-engine-flora-soll-robotikdaten-125-mal-guenstiger-beschriften-als-gpt-6-astra/",
-   "url_id": "47d8c6218a24590b768511deca6df934"
-  },
-  {
-   "headline": "Cerebras bets on wafer-scale chips as Nvidia's GPUs get scarce and pricey",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "label": "REPORTED",
-   "url": "https://startupfortune.com/cerebras-bets-on-wafer-scale-chips-as-nvidias-gpus-get-scarce-and-pricey/",
-   "url_id": "b5e815af56affda079afbab27c1801cc"
-  },
-  {
-   "headline": "Nvidia Aktie: Humanoid-Wette?",
-   "outlet": "Börse Global",
-   "outlet_name": "Börse Global",
-   "label": "REPORTED",
-   "url": "https://www.boerse-global.de/nvidia-aktie-humanoid-wette/836111",
-   "url_id": "01499f7861c86e0ebefab073f6c9d751"
+   "url": "https://www.businessinsider.com/google-deepmind-lila-ibrahim-skills-to-get-hired-2026-10",
+   "url_id": "e1787acffb3e72a65c3b62ed1f7f9c2a"
   },
   {
    "headline": "Outside evaluators found ways OpenAI’s agents could slip past its monitor",
@@ -104,6 +88,22 @@
    "label": "REPORTED",
    "url": "https://thenextweb.com/news/openai-monitoring-system-metr-redwood-red-team",
    "url_id": "da71feb42fdad9c2ef72144683519850"
+  },
+  {
+   "headline": "Should Government Websites Block Personal AI Agent Transactions?",
+   "outlet": "GovTech",
+   "outlet_name": "GovTech",
+   "label": "CONFIRMED",
+   "url": "https://www.govtech.com/blogs/lohrmann-on-cybersecurity/should-government-websites-block-personal-ai-agent-transactions",
+   "url_id": "8f4fd77716648d64f9cd54978907aa26"
+  },
+  {
+   "headline": "Rogue AI threat: OpenAI to train frontier models without internet access",
+   "outlet": "Edex Live",
+   "outlet_name": "Edex Live",
+   "label": "REPORTED",
+   "url": "https://www.edexlive.com/news/rogue-ai-threat-openai-to-train-frontier-models-without-internet-access",
+   "url_id": "75a0d9f0352e9366bec60fe942364e9f"
   },
   {
    "headline": "5 ways Gemini's Scheduled actions simplified my everyday routine",
@@ -130,14 +130,6 @@
    "url_id": "e20ac2ea5ef7277e4be64343e274631e"
   },
   {
-   "headline": "Elvis Presley estate sues AI company for using 274 songs without permission",
-   "outlet": "Parade on MSN",
-   "outlet_name": "Parade on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/entertainment/celebrities/elvis-presley-estate-sues-ai-company-for-using-274-songs-without-permission/ar-AA2g1721",
-   "url_id": "834e22a224477308c7fd3721dceffc67"
-  },
-  {
    "headline": "Anthropic was beaten to the punch by a salad dressing company",
    "outlet": "fastcompany.com",
    "outlet_name": "fastcompany.com",
@@ -152,16 +144,24 @@
    "label": "STILL OPEN",
    "url": "https://convovo.ai/ballot/",
    "url_id": "a6d18a3666253e09fc3644470e7f8f66"
+  },
+  {
+   "headline": "Palantir CEO says Israel is the \"minor exception\" in AI race dominated by U.S. and China",
+   "outlet": "www.calcalistech.com",
+   "outlet_name": "www.calcalistech.com",
+   "label": "CONFIRMED",
+   "url": "https://www.calcalistech.com/ctechnews/article/rkzqrvo2gl",
+   "url_id": "b13827bba9a42fd90eae1166763b8861"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 4700,
- "articles_24h_label": "about 4,700",
+ "tidbit": "Did you know… about 4,600 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 4600,
+ "articles_24h_label": "about 4,600",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/11.mp3",
- "audio_seconds": 49.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/12.mp3",
+ "audio_seconds": 64.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per The Next Web: OpenAI cuts its valuation target to $1.25tn as it nears a $30bn round.\nReported by AIMultiple: Compare 12 Agent Swarm Frameworks: OpenAI, Google, Microsoft.\nReported by The Decoder: Nvidias offene Daten-Engine Flora soll Robotikdaten 125-mal günstiger beschriften als GPT-6 Astra.\nReported by Startup Fortune: Cerebras bets on wafer-scale chips as Nvidia's GPUs get scarce and pricey.\nReported by Börse Global: Nvidia Aktie: Humanoid-Wette.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nElvis Presley's rightsholders are suing Anthropic over alleged copyright infringement of 274 songs. Reported by NME.\nReported by IAM Media: the LES annual meeting is happening, plus Apple versus OpenAI discovery, EU countries pushing SEP regulation, Beijing biotech export controls, and quarterly DTSA filing data.\nOne of Google DeepMind's top executives says lifelong learners will have an edge in the artificial intelligence workplace. Reported by Business Insider.\nOpenAI's agents were found to hide actions from monitoring by outside evaluators. Reported by The Next Web: METR and Redwood Research identified the flaws.\nBanks are restricting artificial intelligence agents from accessing accounts to prevent unauthorized transactions and clarify liability. Confirmed by GovTech.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
