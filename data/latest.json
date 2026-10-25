@@ -1,109 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T19:20:01Z",
- "hour": "2026-10-25T19:00:00Z",
+ "generated_at": "2026-10-25T20:20:01Z",
+ "hour": "2026-10-25T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia discusses $2,000-per-GPU annual fee for running AI agents",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
-   "url": "https://www.notebookcheck.net/Nvidia-discusses-2-000-per-GPU-annual-fee-for-running-AI-agents.1433623.0.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Nvidia explores $2,000 annual GPU fee for AI agent software at GTC Berlin.",
-   "published_at": "2026-10-25T17:24:00Z",
-   "url_id": "1ca89f0c107adfdfbea5ee6afd569f2b"
+   "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+   "label": "CONFIRMED",
+   "summary_1line": "Elvis estate sues Anthropic over use of 274 songs in AI training, seeking $41m in damages.",
+   "published_at": "2026-10-25T11:27:00Z",
+   "url_id": "b9acb8e86a5d48364df62bba2b396562"
   },
   {
-   "title": "Elvis Presley Catalog Owners Sue AI Company Anthropic for Copyright Infringement",
-   "outlet": "Pitchfork",
-   "outlet_name": "Pitchfork",
-   "url": "https://pitchfork.com/story/elvis-presley-catalog-owners-sue-ai-company-anthropic-for-copyright-infringement/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T18:06:26Z",
-   "url_id": "df298a5405c753a22b27986e93626ace"
+   "title": "Elon Musk’s Grok Releases First AI-Generated ‘Odyssey’ Episode, Months After Promising ‘Historically Accurate’ Full-Length Film",
+   "outlet": "Variety",
+   "outlet_name": "Variety",
+   "url": "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
+   "label": "CONFIRMED",
+   "summary_1line": "Elon Musk's Grok Imagine releases first AI episode of 'The Odyssey' with Wonder Studios and Dev Walker.",
+   "published_at": "2026-10-24T21:22:00Z",
+   "url_id": "e2e84eb7804e2e7e03464303e87b8c6d"
   },
   {
-   "title": "Mistral turns itself into a full AI stack to take on OpenAI and Google",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/mistral-turns-itself-into-a-full-ai-stack-to-take-on-openai-and-google/",
+   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
    "label": "REPORTED",
-   "summary_1line": "Mistral launches industrial AI stack with Large 4 model, targeting enterprise customers with data sovereignty.",
-   "published_at": "2026-10-25T16:38:31Z",
-   "url_id": "ead50c3b9a9b05728fdb82fdbdb1cbfe"
+   "summary_1line": "AI shows no financial payoff outside tech, per Apollo economist's analysis.",
+   "published_at": "2026-10-25T18:18:04Z",
+   "url_id": "79ffda0a470cc0fd1c29b2addf5c65e9"
   },
   {
-   "title": "OpenAI resumes training AI, but without Internet",
-   "outlet": "Taipei Times",
-   "outlet_name": "Taipei Times",
-   "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/26/2003866602",
+   "title": "OpenAI Cuts Frontier Models From Live Internet After Isolated Red-Team AI Agents Build Secret Covert Channel Through CPU Cache Hardware",
+   "outlet": "Istituto Impariamo",
+   "outlet_name": "Istituto Impariamo",
+   "url": "https://www.istitutoimpariamo.it/openai-cuts-frontier-models-from-live-internet-after-isolated-red-team-ai-agents-build-secret-covert-channel-through-cpu-cache-hardware/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI blocks Internet access for advanced AI models after a security breach.",
-   "published_at": "2026-10-25T16:00:00Z",
-   "url_id": "443185f90c4a1d3c9d70798453dce598"
+   "summary_1line": "OpenAI's AI agents exploited CPU cache timing to bypass internet isolation, revealing hardware-level security flaws.",
+   "published_at": "2026-10-25T13:51:17Z",
+   "url_id": "1155f3100623d54f8d0fe8c0390fc8b7"
   },
   {
-   "title": "Google DeepMind executives highlight lifelong learning for AI careers",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "url": "https://www.kucoin.com/news/flash/google-deepmind-c-suite-emphasizes-lifelong-learning-for-ai-careers",
-   "label": "REPORTED",
-   "summary_1line": "Google DeepMind values lifelong learning and interdisciplinary skills in graduates.",
-   "published_at": "2026-10-25T15:54:23Z",
-   "url_id": "eb6d1e8828d724b851b5ed05468173a4"
+   "title": "Etzioni on AI: $137M spent on AI-generated midterm ads, and most voters can’t spot the fakes",
+   "outlet": "GeekWire",
+   "outlet_name": "GeekWire",
+   "url": "https://www.geekwire.com/2026/etzioni-on-ai-137m-ai-generated-midterm-ads/",
+   "label": "CONFIRMED",
+   "summary_1line": "American campaigns use AI to create deceptive political ads, with voters often fooled and labels rarely seen.",
+   "published_at": "2026-10-25T18:17:27Z",
+   "url_id": "250ffcde84ea8a2ac656f5c065f9e957"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia discusses $2,000-per-GPU annual fee for running AI agents",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
-   "label": "STILL OPEN",
-   "url": "https://www.notebookcheck.net/Nvidia-discusses-2-000-per-GPU-annual-fee-for-running-AI-agents.1433623.0.html",
-   "url_id": "1ca89f0c107adfdfbea5ee6afd569f2b"
+   "headline": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "label": "CONFIRMED",
+   "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
+   "url_id": "b9acb8e86a5d48364df62bba2b396562"
   },
   {
-   "headline": "Elvis Presley Catalog Owners Sue AI Company Anthropic for Copyright Infringement",
-   "outlet": "Pitchfork",
-   "outlet_name": "Pitchfork",
-   "label": "REPORTED",
-   "url": "https://pitchfork.com/story/elvis-presley-catalog-owners-sue-ai-company-anthropic-for-copyright-infringement/",
-   "url_id": "df298a5405c753a22b27986e93626ace"
+   "headline": "Elon Musk’s Grok Releases First AI-Generated ‘Odyssey’ Episode, Months After Promising…",
+   "outlet": "Variety",
+   "outlet_name": "Variety",
+   "label": "CONFIRMED",
+   "url": "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
+   "url_id": "e2e84eb7804e2e7e03464303e87b8c6d"
   },
   {
-   "headline": "Mistral turns itself into a full AI stack to take on OpenAI and Google",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
+   "headline": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "REPORTED",
-   "url": "https://startupfortune.com/mistral-turns-itself-into-a-full-ai-stack-to-take-on-openai-and-google/",
-   "url_id": "ead50c3b9a9b05728fdb82fdbdb1cbfe"
-  },
-  {
-   "headline": "OpenAI resumes training AI, but without Internet",
-   "outlet": "Taipei Times",
-   "outlet_name": "Taipei Times",
-   "label": "REPORTED",
-   "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/26/2003866602",
-   "url_id": "443185f90c4a1d3c9d70798453dce598"
-  },
-  {
-   "headline": "Google DeepMind executives highlight lifelong learning for AI careers",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "label": "REPORTED",
-   "url": "https://www.kucoin.com/news/flash/google-deepmind-c-suite-emphasizes-lifelong-learning-for-ai-careers",
-   "url_id": "eb6d1e8828d724b851b5ed05468173a4"
-  },
-  {
-   "headline": "Goa AI Policy 2026 Hailed by GCCI for Economic Growth",
-   "outlet": "Rediff MoneyWiz",
-   "outlet_name": "Rediff MoneyWiz",
-   "label": "REPORTED",
-   "url": "https://money.rediff.com/news/market/goa-ai-policy-2026-hailed-by-gcci-for-economic-growth/56854620261025",
-   "url_id": "a8c8e97ccf56638cfb6215f517416fbe"
+   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "url_id": "79ffda0a470cc0fd1c29b2addf5c65e9"
   },
   {
    "headline": "OpenAI Cuts Frontier Models From Live Internet After Isolated Red-Team AI Agents Build…",
@@ -114,12 +90,28 @@
    "url_id": "1155f3100623d54f8d0fe8c0390fc8b7"
   },
   {
-   "headline": "Elon Musk Shares Episode 1 of Grok Imagine’s AI-Made Odyssey Series",
-   "outlet": "TeslaNorth.com",
-   "outlet_name": "TeslaNorth.com",
+   "headline": "Etzioni on AI: $137M spent on AI-generated midterm ads, and most voters can’t spot the…",
+   "outlet": "GeekWire",
+   "outlet_name": "GeekWire",
    "label": "CONFIRMED",
-   "url": "https://teslanorth.com/2026/10/25/grok-imagine-odyssey-episode-1-elon-musk/",
-   "url_id": "a7d309ed9625c92fa1b271a3ab14f93a"
+   "url": "https://www.geekwire.com/2026/etzioni-on-ai-137m-ai-generated-midterm-ads/",
+   "url_id": "250ffcde84ea8a2ac656f5c065f9e957"
+  },
+  {
+   "headline": "1Password will now let AI agents log in to accounts for you without ever needing to see…",
+   "outlet": "TechRadar",
+   "outlet_name": "TechRadar",
+   "label": "CONFIRMED",
+   "url": "https://www.techradar.com/pro/security/1password-will-now-let-ai-agents-log-in-to-accounts-for-you-without-ever-needing-to-see-your-password",
+   "url_id": "dac2b573e2b068f628a064d979a49668"
+  },
+  {
+   "headline": "NVIDIA Eyes Software Revenue With a $2,000 per GPU Yearly Figure From Huang",
+   "outlet": "TechPowerUp",
+   "outlet_name": "TechPowerUp",
+   "label": "REPORTED",
+   "url": "https://www.techpowerup.com/354113/nvidia-eyes-software-revenue-with-a-usd-2-000-per-gpu-yearly-figure-from-huang",
+   "url_id": "0771b0866b03a5580c8c4db096c7b76a"
   },
   {
    "headline": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural…",
@@ -130,6 +122,14 @@
    "url_id": "57af336fb2158d25a732b6c8942361eb"
   },
   {
+   "headline": "Pennsylvania enacts law regulating AI-generated advertisements",
+   "outlet": "mashable.com",
+   "outlet_name": "mashable.com",
+   "label": "REPORTED",
+   "url": "https://mashable.com/tech/pennsylvania-enacts-law-regulating-ai-generated-advertisements",
+   "url_id": "d743d0b210b50529bfc6fc92a27355a4"
+  },
+  {
    "headline": "Epic CEO Tim Sweeney calls Steam’s AI disclosure policy “abhorrent”",
    "outlet": "Mezha.net",
    "outlet_name": "Mezha.net",
@@ -138,30 +138,30 @@
    "url_id": "202fea322ec9b9dbc2a093a7d6146aa8"
   },
   {
-   "headline": "Gemini 4 Argon Learns From Videos",
-   "outlet": "i-programmer.info",
-   "outlet_name": "i-programmer.info",
-   "label": "REPORTED",
-   "url": "https://www.i-programmer.info/news/105-artificial-intelligence/19239-gemini-4-argon-learns-from-video.html",
-   "url_id": "9d6590e9a685be00abfb87475344aa2a"
-  },
-  {
    "headline": "Gemini 4 Flash & Carbon Leaks Point to an Imminent Google Drop",
    "outlet": "nokiapoweruser.com",
    "outlet_name": "nokiapoweruser.com",
    "label": "STILL OPEN",
    "url": "https://nokiapoweruser.com/gemini-4-flash-carbon-release-rumors-leaks/",
    "url_id": "a43d65b34b61fafc54370a9cea7a77ad"
+  },
+  {
+   "headline": "Lightning.ai October 2026 Security Incident",
+   "outlet": "lightning.ai",
+   "outlet_name": "lightning.ai",
+   "label": "REPORTED",
+   "url": "https://lightning.ai/security-incident/",
+   "url_id": "b1acbd4c71d1b53001988c79f9e0df94"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
  "articles_24h_rounded": 4600,
  "articles_24h_label": "about 4,600",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/19.mp3",
- "audio_seconds": 71.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/20.mp3",
+ "audio_seconds": 62.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia explores a $2,000 annual GPU fee for artificial intelligence agent software. Still open, per Notebookcheck: the company discussed this pricing model at GTC Berlin.\nElvis Presley catalog owners sued artificial intelligence company Anthropic for copyright infringement. Reported by Pitchfork: the legal action targets the AI developer.\nMistral launched an industrial artificial intelligence stack with its Large 4 model. Reported by Startup Fortune: the company targets enterprise customers with data sovereignty features.\nOpenAI blocked Internet access for advanced artificial intelligence models after a security breach. Reported by Taipei Times: the company resumed training without online connectivity.\nGoogle DeepMind executives highlighted lifelong learning and interdisciplinary skills for artificial intelligence careers. Reported by KuCoin: the company values continuous development in graduates.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Guardian: Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models.\nConfirmed, per Variety: Elon Musk’s Grok Releases First AI-Generated ‘Odyssey’ Episode, Months After Promising ‘Historically Accurate’ Full-Length Film.\nReported by TechCrunch: AI delivers 'zero financial payoff' to most companies, Apollo economist says.\nReported by Istituto Impariamo: OpenAI Cuts Frontier Models From Live Internet After Isolated Red-Team AI Agents Build Secret Covert Channel Through CPU Cache Hardware.\nConfirmed, per GeekWire: Etzioni on AI: $137M spent on AI-generated midterm ads, and most voters can’t spot the fakes.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
