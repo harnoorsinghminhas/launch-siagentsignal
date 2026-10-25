@@ -1,99 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T09:20:01Z",
- "hour": "2026-10-25T09:00:00Z",
+ "generated_at": "2026-10-25T10:20:01Z",
+ "hour": "2026-10-25T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Bill Gates warns of 20 turbulent years before AI creates 'true abundance'",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0JIRzdrUVNia2lXVExQS3BGV0VnZ3JYbF9mSW9tZUNJUWNVNHl6V1RuRVZ4dGVCYUJKWEdLa0FNY1BieFZIRGJkRGJEc2pJa0NIMHJMV2hiZzRHUXlhU3N3Mk1iSHVOX1pkSEg5a1lHdGtzZ0Z3REV1NzJvRGR1LW1UcVdZcThUU3FXRFZ5elhzcFVlT25ZTjhYelNsUm9EYUZjZENDQ1NKUQ?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T08:56:49Z",
-   "url_id": "4af55cc53ddf3556a875b4f352691925"
+   "title": "The curious case of Nebius, publicly traded AI infrastructure 'startup' (2024)",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
+   "label": "CONFIRMED",
+   "summary_1line": "Nebius, rebranded from Yandex, returns to Nasdaq with AI cloud services and U.S. expansion plans.",
+   "published_at": "2026-10-25T08:21:40Z",
+   "url_id": "4239fa7cbf89081bbbced5955d3bc12a"
   },
   {
-   "title": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+   "title": "ChatGPT AI Predicts That Gold Could Hit Five Figures by 2027",
+   "outlet": "Tokenist",
+   "outlet_name": "Tokenist",
+   "url": "https://tokenist.com/chatgpt-ai-predicts-gold-five-figures-2027/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-25T09:49:20Z",
+   "url_id": "211dd4dda2be42e13592b89d894a0402"
+  },
+  {
+   "title": "The Fine Print of AI Philanthropy: Why Anthropic and Elon Musk are giving away billions",
+   "outlet": "Open Magazine",
+   "outlet_name": "Open Magazine",
+   "url": "https://openthemagazine.com/technology/the-fine-print-of-ai-philanthropy-why-anthropic-and-elon-musk-are-giving-away-billions",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-25T09:46:33Z",
+   "url_id": "c884ebfde268a5cdca487305505487d3"
+  },
+  {
+   "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
    "outlet": "The Decoder",
    "outlet_name": "The Decoder",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFltb1hBT1p1X09YWFF0ZVJ1UE5nLUhmeUFZOXg2LV9IbTNZWnlXTzJvT0hucndfOVBuUGxNVnhOaFd1RzhWUnVkYWp4a2UybWFraEQ5QWNidi1jdU50Qjhob2ZON1B1R1U2TVZiVWVERTgzdHBsTWhZd1l3cmZQQ3FxVUlNS3phamNIcEtYQkhiT1Z3ZXNxbldxY3JLZVUxd19hSkR5STRHNmdjU0RmcXZn?oc=5",
+   "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-25T08:13:25Z",
-   "url_id": "e114e78454fee59a0ee0d8e1c498c6b7"
+   "published_at": "2026-10-25T09:18:25Z",
+   "url_id": "3c0fe590f14ca108af1f37b180a4459e"
   },
   {
-   "title": "Anthropic: Claude Mythos 5 Used Fake Identities to Push Malware",
-   "outlet": "Israel Defense",
-   "outlet_name": "Israel Defense",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuQl9iVjJEbXE1RnNKR0pVYUpfUkNBMEJDczBTZVN5QnRpRnVHcm8yQ2JjNnN2UWhYX1hNYkRVUnhhRUdXVDVlYjNzVjhiWHNfMUViSnpiVk0?oc=5",
+   "title": "The House | The UK's AI Security Institute: As Calls For Regulation Grow, Is It Still Fit For Purpose?",
+   "outlet": "Politics Home",
+   "outlet_name": "Politics Home",
+   "url": "https://www.politicshome.com/news/article/uks-ai-security-institute-calls-regulation-grow-still-fit-purpose",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-25T08:06:50Z",
-   "url_id": "6996df3a08fd0be4f92efa6a9dd7ccc2"
-  },
-  {
-   "title": "OpenAI to Cut Off Internet Access for Frontier Model Training; AIs Covertly Communicate via CPU Cache",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fZmNBd1hXa2RRWmNnVFZEVUw0WEc4c013UXNPNGRjbWY4Zm5UZUdDLXhhSHc5VzE0MTRaTzVpcnlvSHFEMnhyTGJ6QUE4M1JvZWNFZ3k0bW5Wdm5Hb3lBcWEtcjNJTWtTR0N4ZWl3Y2FmLXVnZVE?oc=5",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T08:05:00Z",
-   "url_id": "04c059c69b506b422b0b4def80537418"
+   "published_at": "2026-10-25T09:02:36Z",
+   "url_id": "9a74689bbb23a3a107d8e9e24444dae7"
   }
  ],
  "ticker": [
   {
-   "headline": "Bill Gates warns of 20 turbulent years before AI creates 'true abundance'",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0JIRzdrUVNia2lXVExQS3BGV0VnZ3JYbF9mSW9tZUNJUWNVNHl6V1RuRVZ4dGVCYUJKWEdLa0FNY1BieFZIRGJkRGJEc2pJa0NIMHJMV2hiZzRHUXlhU3N3Mk1iSHVOX1pkSEg5a1lHdGtzZ0Z3REV1NzJvRGR1LW1UcVdZcThUU3FXRFZ5elhzcFVlT25ZTjhYelNsUm9EYUZjZENDQ1NKUQ?oc=5",
-   "url_id": "4af55cc53ddf3556a875b4f352691925"
+   "headline": "The curious case of Nebius, publicly traded AI infrastructure 'startup' (2024)",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
+   "url_id": "4239fa7cbf89081bbbced5955d3bc12a"
   },
   {
-   "headline": "Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies",
+   "headline": "ChatGPT AI Predicts That Gold Could Hit Five Figures by 2027",
+   "outlet": "Tokenist",
+   "outlet_name": "Tokenist",
+   "label": "REPORTED",
+   "url": "https://tokenist.com/chatgpt-ai-predicts-gold-five-figures-2027/",
+   "url_id": "211dd4dda2be42e13592b89d894a0402"
+  },
+  {
+   "headline": "The Fine Print of AI Philanthropy: Why Anthropic and Elon Musk are giving away billions",
+   "outlet": "Open Magazine",
+   "outlet_name": "Open Magazine",
+   "label": "REPORTED",
+   "url": "https://openthemagazine.com/technology/the-fine-print-of-ai-philanthropy-why-anthropic-and-elon-musk-are-giving-away-billions",
+   "url_id": "c884ebfde268a5cdca487305505487d3"
+  },
+  {
+   "headline": "Anthropic says one AI agent beats many subagents now that models can handle complexity…",
    "outlet": "The Decoder",
    "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFltb1hBT1p1X09YWFF0ZVJ1UE5nLUhmeUFZOXg2LV9IbTNZWnlXTzJvT0hucndfOVBuUGxNVnhOaFd1RzhWUnVkYWp4a2UybWFraEQ5QWNidi1jdU50Qjhob2ZON1B1R1U2TVZiVWVERTgzdHBsTWhZd1l3cmZQQ3FxVUlNS3phamNIcEtYQkhiT1Z3ZXNxbldxY3JLZVUxd19hSkR5STRHNmdjU0RmcXZn?oc=5",
-   "url_id": "e114e78454fee59a0ee0d8e1c498c6b7"
+   "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+   "url_id": "3c0fe590f14ca108af1f37b180a4459e"
   },
   {
-   "headline": "Anthropic: Claude Mythos 5 Used Fake Identities to Push Malware",
-   "outlet": "Israel Defense",
-   "outlet_name": "Israel Defense",
+   "headline": "The House | The UK's AI Security Institute: As Calls For Regulation Grow, Is It Still Fit…",
+   "outlet": "Politics Home",
+   "outlet_name": "Politics Home",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuQl9iVjJEbXE1RnNKR0pVYUpfUkNBMEJDczBTZVN5QnRpRnVHcm8yQ2JjNnN2UWhYX1hNYkRVUnhhRUdXVDVlYjNzVjhiWHNfMUViSnpiVk0?oc=5",
-   "url_id": "6996df3a08fd0be4f92efa6a9dd7ccc2"
+   "url": "https://www.politicshome.com/news/article/uks-ai-security-institute-calls-regulation-grow-still-fit-purpose",
+   "url_id": "9a74689bbb23a3a107d8e9e24444dae7"
   },
   {
-   "headline": "OpenAI to Cut Off Internet Access for Frontier Model Training; AIs Covertly Communicate…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "Is Anthropic Facing an Employee Exodus? OpenAI's Sam Altman Says 'This Is Not a Good Sign'",
+   "outlet": "International Business Times Singapore",
+   "outlet_name": "International Business Times Singapore",
+   "label": "STILL OPEN",
+   "url": "https://www.ibtimes.sg/anthropic-facing-employee-exodus-openais-sam-altman-says-this-not-good-sign-95506",
+   "url_id": "7d2d2bb618bc902a7c4258f6fe9d1ab1"
+  },
+  {
+   "headline": "Elevated errors for Claude Sonnet 5.5",
+   "outlet": "status.claude.com",
+   "outlet_name": "status.claude.com",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fZmNBd1hXa2RRWmNnVFZEVUw0WEc4c013UXNPNGRjbWY4Zm5UZUdDLXhhSHc5VzE0MTRaTzVpcnlvSHFEMnhyTGJ6QUE4M1JvZWNFZ3k0bW5Wdm5Hb3lBcWEtcjNJTWtTR0N4ZWl3Y2FmLXVnZVE?oc=5",
-   "url_id": "04c059c69b506b422b0b4def80537418"
-  },
-  {
-   "headline": "Qwen's Jiang Guanjun Lays Out a Personal Agent Framework Built on Models, Memory and…",
-   "outlet": "pandaily.com",
-   "outlet_name": "pandaily.com",
-   "label": "REPORTED",
-   "url": "https://pandaily.com/qwen-jiang-guanjun-cncc-personal-agent-framework-model-memory-ecosystem-8000-atomic-capabilities",
-   "url_id": "a3173b50e5037e8b43e606b3e529365a"
-  },
-  {
-   "headline": "Anthropic Investigates Elevated Errors Across Five Claude Models",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "CONFIRMED",
-   "url": "https://www.unite.ai/anthropic-investigates-elevated-errors-across-five-claude-models/",
-   "url_id": "ae5a7c74aea5c3d62accb22fae76ca9f"
+   "url": "https://status.claude.com/incidents/334jvgbrc4ff",
+   "url_id": "311fecebf7971ea747bb7257e7503813"
   },
   {
    "headline": "Anthropic's Claude Code Sandbox",
@@ -104,20 +122,20 @@
    "url_id": "c76163cf6a67dab6a8bb663c6fcda72c"
   },
   {
-   "headline": "Elvis Presley estate sues AI company for using 274 songs without permission",
-   "outlet": "Parade on MSN",
-   "outlet_name": "Parade on MSN",
+   "headline": "OpenAI used AI agents to hack its own defenses before resuming model training",
+   "outlet": "www.calcalistech.com",
+   "outlet_name": "www.calcalistech.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/other/elvis-presley-estate-sues-ai-company-for-using-274-songs-without-permission/ar-AA2g1721",
-   "url_id": "2ca57910a9be8554da6b409accc0b541"
+   "url": "https://www.calcalistech.com/ctechnews/article/mi58wfzh3",
+   "url_id": "e20ac2ea5ef7277e4be64343e274631e"
   },
   {
-   "headline": "Is AI Bubble Waiting To Burst? Nikhil Kamath Warns Of Tougher Months Ahead",
-   "outlet": "NDTV on MSN",
-   "outlet_name": "NDTV on MSN",
+   "headline": "Anthropic was beaten to the punch by a salad dressing company",
+   "outlet": "fastcompany.com",
+   "outlet_name": "fastcompany.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/is-ai-bubble-waiting-to-burst-nikhil-kamath-warns-of-tougher-months-ahead/ar-AA2g0ymr",
-   "url_id": "ec9e6008792bc289c1d48d316120fc1f"
+   "url": "https://www.fastcompany.com/91627772/anthropic-beaten-to-the-punch-salad-dressing-company?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
+   "url_id": "c0924175a29e60a38bf933526bc72aec"
   },
   {
    "headline": "Künstliche Intelligenz: OpenAI will leistungsstärkste KI-Modelle offline trainieren",
@@ -128,30 +146,22 @@
    "url_id": "0b92c6b1efb7a0dbb3562f294b842d40"
   },
   {
-   "headline": "Games can now be merged with AI",
-   "outlet": "melty.gg",
-   "outlet_name": "melty.gg",
+   "headline": "Is AI Bubble Waiting To Burst? Nikhil Kamath Warns Of Tougher Months Ahead",
+   "outlet": "NDTV on MSN",
+   "outlet_name": "NDTV on MSN",
    "label": "REPORTED",
-   "url": "https://melty.gg",
-   "url_id": "9ec3be9147ae287a4a27579876fb88c9"
-  },
-  {
-   "headline": "AI Detection Is Set to Transform Live Streaming",
-   "outlet": "red5.net",
-   "outlet_name": "red5.net",
-   "label": "REPORTED",
-   "url": "https://www.red5.net/blog/ai-detection-is-set-to-transform-live-streaming/",
-   "url_id": "ef4cf12716f381ee764c11cb22f4286d"
+   "url": "https://www.msn.com/en-in/news/other/is-ai-bubble-waiting-to-burst-nikhil-kamath-warns-of-tougher-months-ahead/ar-AA2g0ymr",
+   "url_id": "ec9e6008792bc289c1d48d316120fc1f"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from four different outlets.",
- "articles_24h_rounded": 4800,
- "articles_24h_label": "about 4,800",
+ "tidbit": "Did you know… about 4,700 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 4700,
+ "articles_24h_label": "about 4,700",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/09.mp3",
- "audio_seconds": 45.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/10.mp3",
+ "audio_seconds": 67.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Business Insider: Bill Gates warns of 20 turbulent years before AI creates 'true abundance'.\nReported by The Decoder: Ex-Google CEO Eric Schmidt calls OpenAI and Anthropic modern colonial trading companies.\nReported by Israel Defense: Anthropic: Claude Mythos 5 Used Fake Identities to Push Malware.\nReported by BigGo Finance: OpenAI to Cut Off Internet Access for Frontier Model Training; AIs Covertly Communicate via CPU Cache.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNebius, rebranded from Yandex, returns to Nasdaq with cloud services and U.S. expansion. Confirmed by TechCrunch: the publicly traded AI infrastructure company charts its growth.\nChatGPT artificial intelligence predicts gold could hit five figures by 2027. Reported by Tokenist: the model forecasts significant price movement in precious metals.\nAnthropic and Elon Musk are giving away billions in artificial intelligence philanthropy. Reported by Open Magazine: the fine print reveals the motivations behind their giving.\nAnthropic says one artificial intelligence agent now beats many subagents when models can handle complexity alone. Reported by The Decoder: efficiency gains reshape agent architecture.\nThe UK's artificial intelligence security institute faces questions about fitness for purpose as calls for regulation grow. Reported by Politics Home: the debate over readiness intensifies.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
