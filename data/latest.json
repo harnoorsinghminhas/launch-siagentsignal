@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T20:20:01Z",
- "hour": "2026-10-25T20:00:00Z",
+ "generated_at": "2026-10-25T20:31:25Z",
+ "hour": "2026-10-25T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
-   "label": "CONFIRMED",
-   "summary_1line": "Elvis estate sues Anthropic over use of 274 songs in AI training, seeking $41m in damages.",
-   "published_at": "2026-10-25T11:27:00Z",
-   "url_id": "b9acb8e86a5d48364df62bba2b396562"
-  },
-  {
-   "title": "Elon Musk’s Grok Releases First AI-Generated ‘Odyssey’ Episode, Months After Promising ‘Historically Accurate’ Full-Length Film",
-   "outlet": "Variety",
-   "outlet_name": "Variety",
-   "url": "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
-   "label": "CONFIRMED",
-   "summary_1line": "Elon Musk's Grok Imagine releases first AI episode of 'The Odyssey' with Wonder Studios and Dev Walker.",
-   "published_at": "2026-10-24T21:22:00Z",
-   "url_id": "e2e84eb7804e2e7e03464303e87b8c6d"
-  },
-  {
-   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+   "title": "Elon Musk’s Grok Finally Delivers First Installment of ‘Historically Accurate’ ‘The Odyssey’",
+   "outlet": "Rolling Stone",
+   "outlet_name": "Rolling Stone",
+   "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/elon-musk-grok-the-odyssey-1235647751/",
    "label": "REPORTED",
-   "summary_1line": "AI shows no financial payoff outside tech, per Apollo economist's analysis.",
-   "published_at": "2026-10-25T18:18:04Z",
-   "url_id": "79ffda0a470cc0fd1c29b2addf5c65e9"
+   "summary_1line": "Grok releases first AI 'Odyssey' chapter, inspired by Nolan's film but in English.",
+   "published_at": "2026-10-25T19:10:00Z",
+   "url_id": "b50cc276051242b076ac09fc97347988"
   },
   {
-   "title": "OpenAI Cuts Frontier Models From Live Internet After Isolated Red-Team AI Agents Build Secret Covert Channel Through CPU Cache Hardware",
-   "outlet": "Istituto Impariamo",
-   "outlet_name": "Istituto Impariamo",
-   "url": "https://www.istitutoimpariamo.it/openai-cuts-frontier-models-from-live-internet-after-isolated-red-team-ai-agents-build-secret-covert-channel-through-cpu-cache-hardware/",
+   "title": "Deepfake Detection System Wins Thapar Students Top AI Cybersecurity Prize",
+   "outlet": "Urban Acres",
+   "outlet_name": "Urban Acres",
+   "url": "https://urbanacres.in/deepfake-detection-system-wins-thapar-students-top-ai-cybersecurity-prize/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's AI agents exploited CPU cache timing to bypass internet isolation, revealing hardware-level security flaws.",
-   "published_at": "2026-10-25T13:51:17Z",
-   "url_id": "1155f3100623d54f8d0fe8c0390fc8b7"
+   "summary_1line": "Students from Thapar win AI hackathon with deepfake detection system for banks.",
+   "published_at": "2026-10-25T19:29:25Z",
+   "url_id": "ceae51655e5db4887d6d5eefb47a11cf"
   },
   {
-   "title": "Etzioni on AI: $137M spent on AI-generated midterm ads, and most voters can’t spot the fakes",
-   "outlet": "GeekWire",
-   "outlet_name": "GeekWire",
-   "url": "https://www.geekwire.com/2026/etzioni-on-ai-137m-ai-generated-midterm-ads/",
+   "title": "1Password will now let AI agents log in to accounts for you without ever needing to see your password",
+   "outlet": "TechRadar",
+   "outlet_name": "TechRadar",
+   "url": "https://www.techradar.com/pro/security/1password-will-now-let-ai-agents-log-in-to-accounts-for-you-without-ever-needing-to-see-your-password",
    "label": "CONFIRMED",
-   "summary_1line": "American campaigns use AI to create deceptive political ads, with voters often fooled and labels rarely seen.",
-   "published_at": "2026-10-25T18:17:27Z",
-   "url_id": "250ffcde84ea8a2ac656f5c065f9e957"
+   "summary_1line": "1Password lets AI agents log in without seeing passwords, with user approval.",
+   "published_at": "2026-10-25T17:05:00Z",
+   "url_id": "dac2b573e2b068f628a064d979a49668"
+  },
+  {
+   "title": "UK government sets out US$800mil of AI security funding",
+   "outlet": "NST Online",
+   "outlet_name": "NST Online",
+   "url": "https://www.nst.com.my/amp/business/economy/2026/10/1563082/uk-government-sets-out-us800mil-ai-security-funding",
+   "label": "REPORTED",
+   "summary_1line": "UK allocates £600M to AI biosecurity, cyber defence and innovation.",
+   "published_at": "2026-10-25T04:50:46Z",
+   "url_id": "2bae58f98778c2057fa70741a83555b2"
+  },
+  {
+   "title": "NVIDIA Eyes Software Revenue With a $2,000 per GPU Yearly Figure From Huang",
+   "outlet": "TechPowerUp",
+   "outlet_name": "TechPowerUp",
+   "url": "https://www.techpowerup.com/354113/nvidia-eyes-software-revenue-with-a-usd-2-000-per-gpu-yearly-figure-from-huang",
+   "label": "REPORTED",
+   "summary_1line": "NVIDIA estimates $2,000 annual software cost per GPU for AI agents at GTC Berlin.",
+   "published_at": "2026-10-25T15:21:49Z",
+   "url_id": "0771b0866b03a5580c8c4db096c7b76a"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/us-news/2026/oct/25/elvis-presley-anthropic-lawsuit-ai-models-music",
-   "url_id": "b9acb8e86a5d48364df62bba2b396562"
-  },
-  {
-   "headline": "Elon Musk’s Grok Releases First AI-Generated ‘Odyssey’ Episode, Months After Promising…",
-   "outlet": "Variety",
-   "outlet_name": "Variety",
-   "label": "CONFIRMED",
-   "url": "https://variety.com/2026/film/news/elon-musks-grok-ai-generated-odyssey-1236930662/",
-   "url_id": "e2e84eb7804e2e7e03464303e87b8c6d"
-  },
-  {
-   "headline": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "Elon Musk’s Grok Finally Delivers First Installment of ‘Historically Accurate’ ‘The…",
+   "outlet": "Rolling Stone",
+   "outlet_name": "Rolling Stone",
    "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-   "url_id": "79ffda0a470cc0fd1c29b2addf5c65e9"
+   "url": "https://www.rollingstone.com/tv-movies/tv-movie-news/elon-musk-grok-the-odyssey-1235647751/",
+   "url_id": "b50cc276051242b076ac09fc97347988"
   },
   {
-   "headline": "OpenAI Cuts Frontier Models From Live Internet After Isolated Red-Team AI Agents Build…",
-   "outlet": "Istituto Impariamo",
-   "outlet_name": "Istituto Impariamo",
+   "headline": "Deepfake Detection System Wins Thapar Students Top AI Cybersecurity Prize",
+   "outlet": "Urban Acres",
+   "outlet_name": "Urban Acres",
    "label": "REPORTED",
-   "url": "https://www.istitutoimpariamo.it/openai-cuts-frontier-models-from-live-internet-after-isolated-red-team-ai-agents-build-secret-covert-channel-through-cpu-cache-hardware/",
-   "url_id": "1155f3100623d54f8d0fe8c0390fc8b7"
-  },
-  {
-   "headline": "Etzioni on AI: $137M spent on AI-generated midterm ads, and most voters can’t spot the…",
-   "outlet": "GeekWire",
-   "outlet_name": "GeekWire",
-   "label": "CONFIRMED",
-   "url": "https://www.geekwire.com/2026/etzioni-on-ai-137m-ai-generated-midterm-ads/",
-   "url_id": "250ffcde84ea8a2ac656f5c065f9e957"
+   "url": "https://urbanacres.in/deepfake-detection-system-wins-thapar-students-top-ai-cybersecurity-prize/",
+   "url_id": "ceae51655e5db4887d6d5eefb47a11cf"
   },
   {
    "headline": "1Password will now let AI agents log in to accounts for you without ever needing to see…",
@@ -106,12 +82,28 @@
    "url_id": "dac2b573e2b068f628a064d979a49668"
   },
   {
+   "headline": "UK government sets out US$800mil of AI security funding",
+   "outlet": "NST Online",
+   "outlet_name": "NST Online",
+   "label": "REPORTED",
+   "url": "https://www.nst.com.my/amp/business/economy/2026/10/1563082/uk-government-sets-out-us800mil-ai-security-funding",
+   "url_id": "2bae58f98778c2057fa70741a83555b2"
+  },
+  {
    "headline": "NVIDIA Eyes Software Revenue With a $2,000 per GPU Yearly Figure From Huang",
    "outlet": "TechPowerUp",
    "outlet_name": "TechPowerUp",
    "label": "REPORTED",
    "url": "https://www.techpowerup.com/354113/nvidia-eyes-software-revenue-with-a-usd-2-000-per-gpu-yearly-figure-from-huang",
    "url_id": "0771b0866b03a5580c8c4db096c7b76a"
+  },
+  {
+   "headline": "Elvis Presley’s rights holders sue Anthropic saying it trained AI on his music",
+   "outlet": "NBC News on MSN",
+   "outlet_name": "NBC News on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/entertainment/music/elvis-presley-s-rights-holders-sue-anthropic-saying-it-trained-ai-on-his-music/ar-AA2g2DjG",
+   "url_id": "3b0e6a5283969aa3a9e90a513dcf6bc8"
   },
   {
    "headline": "Hugging Face Releases Carbon-X, a 14B Open DNA Language Model that Brings DNA and Natural…",
@@ -152,16 +144,24 @@
    "label": "REPORTED",
    "url": "https://lightning.ai/security-incident/",
    "url_id": "b1acbd4c71d1b53001988c79f9e0df94"
+  },
+  {
+   "headline": "SECURITY AFFAIRS AI-CYBERSECURITY NEWSLETTER ROUND 5",
+   "outlet": "securityaffairs.com",
+   "outlet_name": "securityaffairs.com",
+   "label": "REPORTED",
+   "url": "https://securityaffairs.com/201718/ai/security-affairs-ai-cybersecurity-newsletter-round-5.html",
+   "url_id": "863e72cb6e4e485ea5680d47b1cf4e18"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
  "articles_24h_rounded": 4600,
  "articles_24h_label": "about 4,600",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/20.mp3",
- "audio_seconds": 62.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/21.mp3",
+ "audio_seconds": 51.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Guardian: Anthropic sued for allegedly using 274 Elvis Presley songs to train AI models.\nConfirmed, per Variety: Elon Musk’s Grok Releases First AI-Generated ‘Odyssey’ Episode, Months After Promising ‘Historically Accurate’ Full-Length Film.\nReported by TechCrunch: AI delivers 'zero financial payoff' to most companies, Apollo economist says.\nReported by Istituto Impariamo: OpenAI Cuts Frontier Models From Live Internet After Isolated Red-Team AI Agents Build Secret Covert Channel Through CPU Cache Hardware.\nConfirmed, per GeekWire: Etzioni on AI: $137M spent on AI-generated midterm ads, and most voters can’t spot the fakes.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Rolling Stone: Elon Musk’s Grok Finally Delivers First Installment of ‘Historically Accurate’ ‘The Odyssey’.\nReported by Urban Acres: Deepfake Detection System Wins Thapar Students Top AI Cybersecurity Prize.\nConfirmed, per TechRadar: 1Password will now let AI agents log in to accounts for you without ever needing to see your password.\nReported by NST Online: UK government sets out US$800mil of AI security funding.\nReported by TechPowerUp: NVIDIA Eyes Software Revenue With a $2,000 per GPU Yearly Figure From Huang.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
