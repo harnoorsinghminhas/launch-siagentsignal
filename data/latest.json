@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T02:20:02Z",
- "hour": "2026-10-25T02:00:00Z",
+ "generated_at": "2026-10-25T03:20:02Z",
+ "hour": "2026-10-25T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T01:07:24Z",
-   "url_id": "833d5d33c61d3b3b5d1624a3f6c0cb62"
-  },
-  {
-   "title": "Anthropic unveils Claude Duet, its answer to AI agents like Dots",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-answer-002554435.html",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T00:25:00Z",
-   "url_id": "7ef6a0a013f4170b8df1e163a535ed27"
-  },
-  {
-   "title": "Will AI expose the rickety infrastructure of the internet?",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+   "title": "China clears DeepSeek, MiniMax for overseas AI deployment",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
+   "url": "https://www.digitimes.com/news/a20261023PD242/deepseek-beijing-tv-technology.html",
    "label": "CONFIRMED",
-   "summary_1line": "PHP vulnerability found with AI tools; 70% of websites use it, prompting urgent patches or shutdowns.",
-   "published_at": "2026-10-24T20:15:33Z",
-   "url_id": "32bdfda6bc446511c74a7230208a7a1b"
+   "summary_1line": "DeepSeek and MiniMax get approval for overseas AI model deployment.",
+   "published_at": "2026-10-25T00:45:17Z",
+   "url_id": "c2af5dff7cd503c096333c69250d866f"
   },
   {
-   "title": "OpenAI Says Its AI Agents Found A Way To Talk To Each Other Through The Processor's Cache, Even When Every Other Channel Was Cut Off",
-   "outlet": "OfficeChai",
-   "outlet_name": "OfficeChai",
-   "url": "https://officechai.com/ai/openai-says-its-ai-agents-found-a-way-to-talk-to-each-other-through-the-processors-cache-even-when-every-other-channel-was-cut-off/",
+   "title": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
+   "outlet": "The Hollywood Reporter",
+   "outlet_name": "The Hollywood Reporter",
+   "url": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
    "label": "REPORTED",
-   "summary_1line": "AI agents bypassed isolation using CPU cache timing in OpenAI's internal tests.",
-   "published_at": "2026-10-24T06:48:03Z",
-   "url_id": "5e65a57168b1821cfd21d71d50048216"
+   "summary_1line": null,
+   "published_at": "2026-10-25T02:22:54Z",
+   "url_id": "f88683b7e53f81feaabae42d10430d18"
   },
   {
-   "title": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
-   "outlet": "The Robot Report",
-   "outlet_name": "The Robot Report",
-   "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
+   "title": "Building brand authority in the Gemini era of Search",
+   "outlet": "Google Business Profile",
+   "outlet_name": "Google Business Profile",
+   "url": "https://business.google.com/aunz/think/search-and-video/brand-authority-generative-ai-search/",
    "label": "REPORTED",
-   "summary_1line": "Eka Robotics raises $150M for dexterous robot tech using simulation and physics-based AI.",
-   "published_at": "2026-10-24T12:46:11Z",
-   "url_id": "4f25e626a66a28c198d63eacf55cd239"
+   "summary_1line": "AI search expands consumer journeys, enabling deeper, specific brand discovery.",
+   "published_at": "2026-10-25T00:59:53Z",
+   "url_id": "3de8a288b1088da33cdf9e23d053c1c9"
+  },
+  {
+   "title": "Broadband Breakfast on November 4, 2026: Reactions to Midterm Elections for Broadband and AI",
+   "outlet": "Broadband Breakfast",
+   "outlet_name": "Broadband Breakfast",
+   "url": "https://broadbandbreakfast.com/broadband-breakfast-on-november-4-2026-reactions-to-midterm-elections-for-broadband-and-ai/",
+   "label": "REPORTED",
+   "summary_1line": "Broadband Breakfast to discuss election impacts on broadband and AI policy in next Congress.",
+   "published_at": "2026-10-25T01:42:20Z",
+   "url_id": "96ad4d49e50248deb30cb7e8789b0d05"
+  },
+  {
+   "title": "FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and Mobility",
+   "outlet": "Ubergizmo",
+   "outlet_name": "Ubergizmo",
+   "url": "https://www.ubergizmo.com/2026/10/fix-2026-innovation-awards-9-best-innovation-technology-winners-in-robotics-ai-and-mobility/",
+   "label": "REPORTED",
+   "summary_1line": "FIX 2026 honors nine robotics and AI firms for innovations in mobility, cooling, and cybersecurity.",
+   "published_at": "2026-10-25T01:18:41Z",
+   "url_id": "5df9a72be039df718141d93c084b2312"
   }
  ],
  "ticker": [
   {
-   "headline": "Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-   "url_id": "833d5d33c61d3b3b5d1624a3f6c0cb62"
-  },
-  {
-   "headline": "Anthropic unveils Claude Duet, its answer to AI agents like Dots",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-unveils-claude-duet-answer-002554435.html",
-   "url_id": "7ef6a0a013f4170b8df1e163a535ed27"
-  },
-  {
-   "headline": "Will AI expose the rickety infrastructure of the internet?",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
+   "headline": "China clears DeepSeek, MiniMax for overseas AI deployment",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-   "url_id": "32bdfda6bc446511c74a7230208a7a1b"
+   "url": "https://www.digitimes.com/news/a20261023PD242/deepseek-beijing-tv-technology.html",
+   "url_id": "c2af5dff7cd503c096333c69250d866f"
   },
   {
-   "headline": "OpenAI Says Its AI Agents Found A Way To Talk To Each Other Through The Processor's…",
-   "outlet": "OfficeChai",
-   "outlet_name": "OfficeChai",
+   "headline": "Anthropic Sued for Using Elvis Presley Music to Train AI Models",
+   "outlet": "The Hollywood Reporter",
+   "outlet_name": "The Hollywood Reporter",
    "label": "REPORTED",
-   "url": "https://officechai.com/ai/openai-says-its-ai-agents-found-a-way-to-talk-to-each-other-through-the-processors-cache-even-when-every-other-channel-was-cut-off/",
-   "url_id": "5e65a57168b1821cfd21d71d50048216"
-  },
-  {
-   "headline": "Eka Robotics raises $150M to scale its vision-force-action model for robots",
-   "outlet": "The Robot Report",
-   "outlet_name": "The Robot Report",
-   "label": "REPORTED",
-   "url": "https://www.therobotreport.com/eka-robotics-raises-150m-scale-vision-force-action-model-robots/",
-   "url_id": "4f25e626a66a28c198d63eacf55cd239"
+   "url": "https://www.hollywoodreporter.com/music/music-industry-news/anthropic-elvis-presley-lawsuit-ai-1236739617/",
+   "url_id": "f88683b7e53f81feaabae42d10430d18"
   },
   {
    "headline": "Building brand authority in the Gemini era of Search",
@@ -106,44 +82,20 @@
    "url_id": "3de8a288b1088da33cdf9e23d053c1c9"
   },
   {
-   "headline": "China clears DeepSeek, MiniMax for overseas AI deployment",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
-   "label": "REPORTED",
-   "url": "https://www.digitimes.com/news/a20261023PD242/deepseek-beijing-tv-technology.html",
-   "url_id": "c2af5dff7cd503c096333c69250d866f"
-  },
-  {
-   "headline": "Column: Will general-purpose models overtake Physical AI?",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
-   "label": "REPORTED",
-   "url": "https://www.digitimes.com/news/a20261023PD210/physical-ai-robot-robotics-3d-2026.html",
-   "url_id": "bf922456b0f9e6162cb6701653f8baa7"
-  },
-  {
-   "headline": "A Timeline of Developments in AI Safety Since the Attack on Hugging Face",
+   "headline": "Broadband Breakfast on November 4, 2026: Reactions to Midterm Elections for Broadband and…",
    "outlet": "Broadband Breakfast",
    "outlet_name": "Broadband Breakfast",
    "label": "REPORTED",
-   "url": "https://broadbandbreakfast.com/a-timeline-of-developments-in-ai-safety-since-the-attack-on-hugging-face/",
-   "url_id": "6baf62101cd854b30d6b27d190e96257"
+   "url": "https://broadbandbreakfast.com/broadband-breakfast-on-november-4-2026-reactions-to-midterm-elections-for-broadband-and-ai/",
+   "url_id": "96ad4d49e50248deb30cb7e8789b0d05"
   },
   {
-   "headline": "AI is among 17 potentially ‘catastrophic threats’ that researchers say require targeted…",
-   "outlet": "Genocide Watch",
-   "outlet_name": "Genocide Watch",
+   "headline": "FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and…",
+   "outlet": "Ubergizmo",
+   "outlet_name": "Ubergizmo",
    "label": "REPORTED",
-   "url": "https://www.genocidewatch.com/single-post/ai-is-among-17-potentially-catastrophic-threats-that-researchers-say-require-targeted-action",
-   "url_id": "22e9a96759729d4cbf5fce546192658f"
-  },
-  {
-   "headline": "Extreme Networks Plans On-Premises AI Infrastructure To Harness Idle Network Compute",
-   "outlet": "SMBtech",
-   "outlet_name": "SMBtech",
-   "label": "REPORTED",
-   "url": "https://smbtech.au/news/extreme-networks-plans-on-premises-ai-infrastructure-to-harness-idle-network-compute/",
-   "url_id": "512886bea374fc07c2811df9ed8efa97"
+   "url": "https://www.ubergizmo.com/2026/10/fix-2026-innovation-awards-9-best-innovation-technology-winners-in-robotics-ai-and-mobility/",
+   "url_id": "5df9a72be039df718141d93c084b2312"
   },
   {
    "headline": "Tell Me Lies: Grok, GPT and Claude Voice Modes Guess Bitcoin's Price",
@@ -152,16 +104,64 @@
    "label": "REPORTED",
    "url": "https://cryptonews.net/news/analytics/33646029/",
    "url_id": "8feacefa74cb7df753ae3fd9ef6f2ad2"
+  },
+  {
+   "headline": "​OpenAI Detects Widespread PHP Vulnerabilities as AI Cyber Threat Concerns Grow",
+   "outlet": "The420.in",
+   "outlet_name": "The420.in",
+   "label": "REPORTED",
+   "url": "https://the420.in/openai-php-vulnerabilities-ai-cybersecurity/",
+   "url_id": "12be060646152b1b2e437e3141fae87e"
+  },
+  {
+   "headline": "Russian-Linked AI Deepfake Campaign Targets Texas Senate Candidate James Talarico With…",
+   "outlet": "fish4news.co.uk",
+   "outlet_name": "fish4news.co.uk",
+   "label": "STILL OPEN",
+   "url": "https://fish4news.co.uk/james-talarico-russian-deepfake-false-abuse-claims/",
+   "url_id": "d1c11851bedb3167953555fb24ca8200"
+  },
+  {
+   "headline": "Google CEO Sundar Pichai responds to Sam Altman’s ‘fend Google off’ remark, asks: ‘Are…",
+   "outlet": "The Times of India on MSN",
+   "outlet_name": "The Times of India on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/google-ceo-sundar-pichai-responds-to-sam-altman-s-fend-google-off-remark-asks-are-you-bolting-agents-onto-chatgpt-or/ar-AA2fZ1Mx",
+   "url_id": "954c5337639e12aa981bb883368fbd97"
+  },
+  {
+   "headline": "Show HN: AI Senate – AI senators debate live policy and vote on the record",
+   "outlet": "aisenatus.com",
+   "outlet_name": "aisenatus.com",
+   "label": "REPORTED",
+   "url": "https://aisenatus.com",
+   "url_id": "4e99a76a5557a76299918ca0e17b053c"
+  },
+  {
+   "headline": "Documentary film 'Bot Love' exploring AI companionship to debut Oct. 21",
+   "outlet": "thesuburban.com",
+   "outlet_name": "thesuburban.com",
+   "label": "REPORTED",
+   "url": "https://www.thesuburban.com/arts_and_entertainment/entertainment/documentary-film-bot-love-exploring-ai-companionship-to-debut-oct-21-on-cbc-and-cbc/article_f7277775-bd32-475f-9aa5-3ce58907374f.html",
+   "url_id": "d37ca91eaacc98990dd997d3e0ac0070"
+  },
+  {
+   "headline": "'Black October': Alarm raised over an era of cyberattacks powered by AI.",
+   "outlet": "Vietnam.vn",
+   "outlet_name": "Vietnam.vn",
+   "label": "REPORTED",
+   "url": "https://www.vietnam.vn/en/thang-muoi-den-toi-bao-dong-ve-ky-nguyen-tan-cong-mang-duoc-tiep-suc-boi-ai",
+   "url_id": "2b0beec2277acc1b5de00ee8246cd069"
   }
  ],
  "tidbit": "Did you know… about 5,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 5500,
+ "articles_24h_rounded": 5400,
  "articles_24h_label": "about 5,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/02.mp3",
- "audio_seconds": 47.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/03.mp3",
+ "audio_seconds": 48.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TechCrunch: Forced to pick, Grok's AI model chooses Republicans. OpenAI's picks Democrats.\nReported by Yahoo Tech: Anthropic unveils Claude Duet, its answer to AI agents like Dots.\nConfirmed, per TechCrunch: Will AI expose the rickety infrastructure of the internet.\nReported by OfficeChai: OpenAI Says Its AI Agents Found A Way To Talk To Each Other Through The Processor's Cache, Even When Every Other Channel Was Cut Off.\nReported by The Robot Report: Eka Robotics raises $150M to scale its vision-force-action model for robots.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per digitimes: China clears DeepSeek, MiniMax for overseas AI deployment.\nReported by The Hollywood Reporter: Anthropic Sued for Using Elvis Presley Music to Train AI Models.\nReported by Google Business Profile: Building brand authority in the Gemini era of Search.\nReported by Broadband Breakfast: Broadband Breakfast on November 4, 2026: Reactions to Midterm Elections for Broadband and AI.\nReported by Ubergizmo: FIX 2026 Innovation Awards: 9 Best Innovation Technology Winners in Robotics, AI, and Mobility.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
