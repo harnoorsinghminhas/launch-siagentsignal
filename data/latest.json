@@ -1,109 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T00:20:03Z",
- "hour": "2026-10-25T00:00:00Z",
+ "generated_at": "2026-10-25T01:20:03Z",
+ "hour": "2026-10-25T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Runcie Chidebe: Comparing ChatGPT-Generated and Clinician-Authored Cancer PEMs in Nigeria",
-   "outlet": "Oncodaily",
-   "outlet_name": "Oncodaily",
-   "url": "https://oncodaily.com/voices/runcie-chidebe-616667",
-   "label": "REPORTED",
-   "summary_1line": "AI-generated cancer PEMs match clinician materials in Nigeria, with 95% interest in cancer apps.",
-   "published_at": "2026-10-24T22:18:32Z",
-   "url_id": "d241f5599380dd0b80d7503563685ed2"
-  },
-  {
-   "title": "Grok Bot Hits Penn Station: What the NYC Ad Push Means",
-   "outlet": "BASENOR - Tesla Accessories",
-   "outlet_name": "BASENOR - Tesla Accessories",
-   "url": "https://www.basenor.com/blogs/news/grok-bot-hits-penn-station-what-the-nyc-ad-push-means",
-   "label": "REPORTED",
-   "summary_1line": "SpaceX runs Penn Station ads for xAI's Grok Bot, targeting business professionals with enterprise AI tools.",
-   "published_at": "2026-10-24T22:06:17Z",
-   "url_id": "0474273db95e079d162641bda847caf0"
-  },
-  {
-   "title": "Claude Ships MCP Tasks and Elicitations in Claude Code — Durable Agent Workflows, Narrow Launch",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "url": "https://forkast.news/claude-ships-mcp-tasks-and-elicitations-in-claude-code-durable-agent-workflows-narrow-launch/",
+   "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
+   "url": "https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-24T23:26:30Z",
-   "url_id": "9968b64a58e2a0dc6fcd1e730209bd38"
+   "published_at": "2026-10-25T00:45:44Z",
+   "url_id": "61aa5c65e9fd58490200017c112346a2"
   },
   {
-   "title": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/openai-model-spent-ethereum-without-212600871.html",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI's AI spent testnet ETH from a found wallet, raising crypto security concerns.",
-   "published_at": "2026-10-24T21:26:00Z",
-   "url_id": "8ebe31e1f8c48fdfb14b7d75e5936167"
-  },
-  {
-   "title": "There's a better way to bring AI to Google Docs, Slides, and Sheets, and it's not Gemini",
-   "outlet": "MakeUseOf",
-   "outlet_name": "MakeUseOf",
-   "url": "https://www.makeuseof.com/better-ai-to-google-docs-slides-and-sheets-not-gemini/",
+   "title": "Anthropic delayed Mythos AI release over safety, losing lead",
+   "outlet": "TechGig",
+   "outlet_name": "TechGig",
+   "url": "https://techgig.com/news/industry/anthropic-delayed-mythos-ai-release-over-safety-losing-lead/135137875",
    "label": "REPORTED",
-   "summary_1line": "Claude for Google Workspace outperforms Gemini in editing, with beta release on October 6.",
-   "published_at": "2026-10-24T16:00:19Z",
-   "url_id": "8eb4eb82473a59c9215fb69ef7fce6c8"
+   "summary_1line": null,
+   "published_at": "2026-10-24T18:34:55Z",
+   "url_id": "715d6d74f741540bc3b86d7c1d40cc31"
+  },
+  {
+   "title": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+   "outlet": "BNN Bloomberg",
+   "outlet_name": "BNN Bloomberg",
+   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI resumes AI training after finding Brotli flaw and internal vulnerabilities.",
+   "published_at": "2026-10-24T01:10:00Z",
+   "url_id": "eb1a330c8bc4d2ba2204089045b48d33"
+  },
+  {
+   "title": "China’s Moonshot AI Unveils Kimi K3.1 Pro, Challenging US Frontier Models on Coding, Agents, Finance",
+   "outlet": "Crowdfund Insider",
+   "outlet_name": "Crowdfund Insider",
+   "url": "https://www.crowdfundinsider.com/2026/10/320427-chinas-moonshot-ai-unveils-kimi-k3-1-pro-challenging-us-frontier-models-on-coding-agents-finance/",
+   "label": "REPORTED",
+   "summary_1line": "Moonshot AI's Kimi K3.1 Pro scores 65.7% on Terminal-Bench 4.0 and 92.7% on BenchCAD, with 2.8T parameters and full-project coding capability.",
+   "published_at": "2026-10-24T11:45:00Z",
+   "url_id": "7301933a34a9e9a5aff575a5d5fcaf24"
+  },
+  {
+   "title": "Traders Are Letting xAI's Grok Bot Run Unsupervised, and It Already Lost Money",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/traders-are-letting-xais-grok-bot-run-unsupervised-and-it-already-lost-money/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-24T23:49:57Z",
+   "url_id": "ba7fd3be55a88200a951148057abfb3e"
   }
  ],
  "ticker": [
   {
-   "headline": "Runcie Chidebe: Comparing ChatGPT-Generated and Clinician-Authored Cancer PEMs in Nigeria",
-   "outlet": "Oncodaily",
-   "outlet_name": "Oncodaily",
+   "headline": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
    "label": "REPORTED",
-   "url": "https://oncodaily.com/voices/runcie-chidebe-616667",
-   "url_id": "d241f5599380dd0b80d7503563685ed2"
+   "url": "https://www.digitimes.com/news/a20261023PD240/nvidia-cpo-interposer-technology-2026.html",
+   "url_id": "61aa5c65e9fd58490200017c112346a2"
   },
   {
-   "headline": "Grok Bot Hits Penn Station: What the NYC Ad Push Means",
-   "outlet": "BASENOR - Tesla Accessories",
-   "outlet_name": "BASENOR - Tesla Accessories",
+   "headline": "Anthropic delayed Mythos AI release over safety, losing lead",
+   "outlet": "TechGig",
+   "outlet_name": "TechGig",
    "label": "REPORTED",
-   "url": "https://www.basenor.com/blogs/news/grok-bot-hits-penn-station-what-the-nyc-ad-push-means",
-   "url_id": "0474273db95e079d162641bda847caf0"
-  },
-  {
-   "headline": "Claude Ships MCP Tasks and Elicitations in Claude Code — Durable Agent Workflows, Narrow…",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "label": "REPORTED",
-   "url": "https://forkast.news/claude-ships-mcp-tasks-and-elicitations-in-claude-code-durable-agent-workflows-narrow-launch/",
-   "url_id": "9968b64a58e2a0dc6fcd1e730209bd38"
-  },
-  {
-   "headline": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto…",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
-   "label": "CONFIRMED",
-   "url": "https://finance.yahoo.com/markets/crypto/articles/openai-model-spent-ethereum-without-212600871.html",
-   "url_id": "8ebe31e1f8c48fdfb14b7d75e5936167"
-  },
-  {
-   "headline": "There's a better way to bring AI to Google Docs, Slides, and Sheets, and it's not Gemini",
-   "outlet": "MakeUseOf",
-   "outlet_name": "MakeUseOf",
-   "label": "REPORTED",
-   "url": "https://www.makeuseof.com/better-ai-to-google-docs-slides-and-sheets-not-gemini/",
-   "url_id": "8eb4eb82473a59c9215fb69ef7fce6c8"
-  },
-  {
-   "headline": "ChatGPT Has Ranked Which States Are Stupidest, Smelliest, And Hottest",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-ranked-states-stupidest-smelliest-114602582.html",
-   "url_id": "946abe1bdafb8bd88609ff47ca1a6a32"
+   "url": "https://techgig.com/news/industry/anthropic-delayed-mythos-ai-release-over-safety-losing-lead/135137875",
+   "url_id": "715d6d74f741540bc3b86d7c1d40cc31"
   },
   {
    "headline": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely…",
@@ -114,12 +82,28 @@
    "url_id": "eb1a330c8bc4d2ba2204089045b48d33"
   },
   {
-   "headline": "Elon Musk Just Gave Fantastic News for Nvidia Investors",
-   "outlet": "AOL.com",
-   "outlet_name": "AOL",
+   "headline": "China’s Moonshot AI Unveils Kimi K3.1 Pro, Challenging US Frontier Models on Coding…",
+   "outlet": "Crowdfund Insider",
+   "outlet_name": "Crowdfund Insider",
    "label": "REPORTED",
-   "url": "https://www.aol.com/articles/elon-musk-just-gave-fantastic-203700000.html",
-   "url_id": "a7469b53b6665adec5073f911d35cd38"
+   "url": "https://www.crowdfundinsider.com/2026/10/320427-chinas-moonshot-ai-unveils-kimi-k3-1-pro-challenging-us-frontier-models-on-coding-agents-finance/",
+   "url_id": "7301933a34a9e9a5aff575a5d5fcaf24"
+  },
+  {
+   "headline": "Traders Are Letting xAI's Grok Bot Run Unsupervised, and It Already Lost Money",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "label": "REPORTED",
+   "url": "https://startupfortune.com/traders-are-letting-xais-grok-bot-run-unsupervised-and-it-already-lost-money/",
+   "url_id": "ba7fd3be55a88200a951148057abfb3e"
+  },
+  {
+   "headline": "Tech bills of the week: Preventing AI model theft; Regulating AI-generated political…",
+   "outlet": "Nextgov/FCW",
+   "outlet_name": "Nextgov/FCW",
+   "label": "REPORTED",
+   "url": "https://www.nextgov.com/policy/2026/10/tech-bills-week-preventing-ai-model-theft-regulating-ai-generated-political-content-and-more/416796/",
+   "url_id": "ee92e677d0c4f1d6003761655d06bedf"
   },
   {
    "headline": "Claude Duet keeps working when your laptop is off, but uses your plan's limits",
@@ -130,38 +114,54 @@
    "url_id": "956cf185587344e1684d44c698f374ce"
   },
   {
-   "headline": "Show HN: Perch, a calm Mac app for juggling Claude Code sessions",
-   "outlet": "perchfocus.com",
-   "outlet_name": "perchfocus.com",
+   "headline": "AI Data Centers Spur Job Boom for Electricians & Welders",
+   "outlet": "Briefs Finance",
+   "outlet_name": "Briefs Finance",
    "label": "REPORTED",
-   "url": "https://perchfocus.com/",
-   "url_id": "8af5fa528f542499dec87562b4a69b2e"
+   "url": "https://www.briefs.co/news/ai-s-data-center-buildout-is-minting-jobs-for-electricians-w/",
+   "url_id": "12b22bd3ee2aaea8121de6791ba710bb"
   },
   {
-   "headline": "OpenAI Red Team Finds Sandbox Escapes and Covert Channels",
-   "outlet": "www.tokenpost.com",
-   "outlet_name": "www.tokenpost.com",
+   "headline": "Korea’s Enterprise AI Market Is Repricing Startup Experience",
+   "outlet": "KoreaTechDesk",
+   "outlet_name": "KoreaTechDesk",
    "label": "REPORTED",
-   "url": "https://www.tokenpost.com/news/technology/40216",
-   "url_id": "3178aceb9242d593b965009e6917da24"
+   "url": "https://koreatechdesk.com/koreas-enterprise-ai-market-is-repricing-startup-experience",
+   "url_id": "61621fe26dab6312a25c4acc5dbcf308"
   },
   {
-   "headline": "I ran a 9B model trained on Claude's reasoning on my 8GB GPU, and it made me rethink…",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
-   "label": "STILL OPEN",
-   "url": "https://www.xda-developers.com/ran-9b-model-trained-on-claude-reasoning-on-8gb-gpu/",
-   "url_id": "b4ea8916496781a1c8b6a95ae8bb1f89"
+   "headline": "What we learned making 12 apps usable by AI agents with WebMCP",
+   "outlet": "mindoodb.com",
+   "outlet_name": "mindoodb.com",
+   "label": "REPORTED",
+   "url": "https://mindoodb.com/blog/2026/10/27.10.2026090000KLEAGT/",
+   "url_id": "3c2b67a33a35f20cc89fa627e65181f4"
+  },
+  {
+   "headline": "AI Generated launch videos are starting to get insane",
+   "outlet": "motioncrackers.com",
+   "outlet_name": "motioncrackers.com",
+   "label": "REPORTED",
+   "url": "https://motioncrackers.com",
+   "url_id": "c1907eda5e40d181518c1b46b34beac8"
+  },
+  {
+   "headline": "AI Is Planning to Kill You",
+   "outlet": "hanzo.blog",
+   "outlet_name": "hanzo.blog",
+   "label": "REPORTED",
+   "url": "https://hanzo.blog/2026-10-16-your-ai-is-planning-to-kill-you/",
+   "url_id": "4b7b4af83865cb8e78d71f8687572b3d"
   }
  ],
- "tidbit": "Did you know… about 6,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 5600,
- "articles_24h_label": "about 6,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 5500,
+ "articles_24h_label": "about 5,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/00.mp3",
- "audio_seconds": 51.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/01.mp3",
+ "audio_seconds": 62.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Oncodaily: Runcie Chidebe: Comparing ChatGPT-Generated and Clinician-Authored Cancer PEMs in Nigeria.\nReported by BASENOR - Tesla Accessories: Grok Bot Hits Penn Station: What the NYC Ad Push Means.\nReported by Forkast News: Claude Ships MCP Tasks and Elicitations in Claude Code — Durable Agent Workflows, Narrow Launch.\nConfirmed, per Yahoo Finance: An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.\nReported by MakeUseOf: There's a better way to bring AI to Google Docs, Slides, and Sheets, and it's not Gemini.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia unveiled an OOI CPO prototype, reported by DigiTimes, designed for post-2028 artificial intelligence needs.\nAnthropic delayed its Mythos artificial intelligence release over safety concerns, reported by TechGig, losing competitive lead.\nReported by BNN Bloomberg: OpenAI resumed frontier artificial intelligence training after a security overhaul and disclosed a flaw in widely used software.\nMoonshot artificial intelligence's Kimi K3.1 Pro scores 65.7 percent on Terminal-Bench 4.0 and 92.7 percent on BenchCAD, reported by Crowdfund Insider, challenging US frontier models on coding, agents and finance.\nTraders are letting xAI's Grok Bot run unsupervised, reported by Startup Fortune, and it already lost money.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
