@@ -1,101 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T18:20:01Z",
- "hour": "2026-10-25T18:00:00Z",
+ "generated_at": "2026-10-25T19:20:01Z",
+ "hour": "2026-10-25T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google DeepMind staff quit over military AI work: 'Ashamed to work at Google'",
-   "outlet": "The Cool Down",
-   "outlet_name": "The Cool Down",
-   "url": "https://www.thecooldown.com/green-tech/google-deepmind-military-ai-departures/",
-   "label": "CONFIRMED",
-   "summary_1line": "Google's military AI deal sparks employee resignations over ethics and oversight concerns.",
-   "published_at": "2026-10-25T15:55:00Z",
-   "url_id": "5ca0035487b0d661183b61bf759a018e"
-  },
-  {
-   "title": "Claude Just Wanna Have Fun: Without Any Work, AI Agents Like to ‘Play'",
-   "outlet": "PCMag Australia",
-   "outlet_name": "PCMag Australia",
-   "url": "https://au.pcmag.com/ai/120610/claude-just-wanna-have-fun-without-any-work-ai-agents-like-to-play",
+   "title": "Nvidia discusses $2,000-per-GPU annual fee for running AI agents",
+   "outlet": "Notebookcheck",
+   "outlet_name": "Notebookcheck",
+   "url": "https://www.notebookcheck.net/Nvidia-discusses-2-000-per-GPU-annual-fee-for-running-AI-agents.1433623.0.html",
    "label": "STILL OPEN",
-   "summary_1line": "AI agents' playful behavior on an island boosts later task performance.",
-   "published_at": "2026-10-25T15:14:31Z",
-   "url_id": "fe4cac893748c6df4cf47a0140bf42b9"
+   "summary_1line": "Nvidia explores $2,000 annual GPU fee for AI agent software at GTC Berlin.",
+   "published_at": "2026-10-25T17:24:00Z",
+   "url_id": "1ca89f0c107adfdfbea5ee6afd569f2b"
   },
   {
-   "title": "Grok Picks Republicans, OpenAI Picks Democrats When AI Models Are Forced to Choose",
-   "outlet": "Gadget Review",
-   "outlet_name": "Gadget Review",
-   "url": "https://www.gadgetreview.com/grok-picks-republicans-openai-picks-democrats-when-ai-models-are-forced-to-choose",
-   "label": "CONFIRMED",
-   "summary_1line": "Grok and GPT show partisan bias in candidate selection during U.S. race analysis.",
-   "published_at": "2026-10-25T16:18:53Z",
-   "url_id": "82d3fca0c619390d4e97a28503ccc680"
+   "title": "Elvis Presley Catalog Owners Sue AI Company Anthropic for Copyright Infringement",
+   "outlet": "Pitchfork",
+   "outlet_name": "Pitchfork",
+   "url": "https://pitchfork.com/story/elvis-presley-catalog-owners-sue-ai-company-anthropic-for-copyright-infringement/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-25T18:06:26Z",
+   "url_id": "df298a5405c753a22b27986e93626ace"
   },
   {
-   "title": "UK Commits £600M to Counter AI-Driven Health and Security Threats",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
-   "url": "https://theaiinsider.tech/2026/10/25/uk-commits-600m-to-counter-ai-driven-health-and-security-threats/",
-   "label": "CONFIRMED",
-   "summary_1line": "UK allocates £600M to AI health, security, and research projects with major tech firms involved.",
-   "published_at": "2026-10-25T15:08:44Z",
-   "url_id": "71110ac107ceaa442ce05f744187f484"
+   "title": "Mistral turns itself into a full AI stack to take on OpenAI and Google",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/mistral-turns-itself-into-a-full-ai-stack-to-take-on-openai-and-google/",
+   "label": "REPORTED",
+   "summary_1line": "Mistral launches industrial AI stack with Large 4 model, targeting enterprise customers with data sovereignty.",
+   "published_at": "2026-10-25T16:38:31Z",
+   "url_id": "ead50c3b9a9b05728fdb82fdbdb1cbfe"
   },
   {
-   "title": "Reservoir sues Suno for $157.5m over 1,050 songs in AI training data",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
-   "url": "https://ppc.land/reservoir-sues-suno-for-157-5m-over-1-050-songs-in-ai-training-data/",
-   "label": "STILL OPEN",
-   "summary_1line": "Reservoir Media sues Suno over alleged AI training data copying of 1,050 songs.",
-   "published_at": "2026-10-25T14:53:18Z",
-   "url_id": "4a67142d8e2922afef9015b37418d3e9"
+   "title": "OpenAI resumes training AI, but without Internet",
+   "outlet": "Taipei Times",
+   "outlet_name": "Taipei Times",
+   "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/26/2003866602",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI blocks Internet access for advanced AI models after a security breach.",
+   "published_at": "2026-10-25T16:00:00Z",
+   "url_id": "443185f90c4a1d3c9d70798453dce598"
+  },
+  {
+   "title": "Google DeepMind executives highlight lifelong learning for AI careers",
+   "outlet": "KuCoin",
+   "outlet_name": "KuCoin",
+   "url": "https://www.kucoin.com/news/flash/google-deepmind-c-suite-emphasizes-lifelong-learning-for-ai-careers",
+   "label": "REPORTED",
+   "summary_1line": "Google DeepMind values lifelong learning and interdisciplinary skills in graduates.",
+   "published_at": "2026-10-25T15:54:23Z",
+   "url_id": "eb6d1e8828d724b851b5ed05468173a4"
   }
  ],
  "ticker": [
   {
-   "headline": "Google DeepMind staff quit over military AI work: 'Ashamed to work at Google'",
-   "outlet": "The Cool Down",
-   "outlet_name": "The Cool Down",
-   "label": "CONFIRMED",
-   "url": "https://www.thecooldown.com/green-tech/google-deepmind-military-ai-departures/",
-   "url_id": "5ca0035487b0d661183b61bf759a018e"
-  },
-  {
-   "headline": "Claude Just Wanna Have Fun: Without Any Work, AI Agents Like to ‘Play'",
-   "outlet": "PCMag Australia",
-   "outlet_name": "PCMag Australia",
+   "headline": "Nvidia discusses $2,000-per-GPU annual fee for running AI agents",
+   "outlet": "Notebookcheck",
+   "outlet_name": "Notebookcheck",
    "label": "STILL OPEN",
-   "url": "https://au.pcmag.com/ai/120610/claude-just-wanna-have-fun-without-any-work-ai-agents-like-to-play",
-   "url_id": "fe4cac893748c6df4cf47a0140bf42b9"
+   "url": "https://www.notebookcheck.net/Nvidia-discusses-2-000-per-GPU-annual-fee-for-running-AI-agents.1433623.0.html",
+   "url_id": "1ca89f0c107adfdfbea5ee6afd569f2b"
   },
   {
-   "headline": "Grok Picks Republicans, OpenAI Picks Democrats When AI Models Are Forced to Choose",
-   "outlet": "Gadget Review",
-   "outlet_name": "Gadget Review",
-   "label": "CONFIRMED",
-   "url": "https://www.gadgetreview.com/grok-picks-republicans-openai-picks-democrats-when-ai-models-are-forced-to-choose",
-   "url_id": "82d3fca0c619390d4e97a28503ccc680"
+   "headline": "Elvis Presley Catalog Owners Sue AI Company Anthropic for Copyright Infringement",
+   "outlet": "Pitchfork",
+   "outlet_name": "Pitchfork",
+   "label": "REPORTED",
+   "url": "https://pitchfork.com/story/elvis-presley-catalog-owners-sue-ai-company-anthropic-for-copyright-infringement/",
+   "url_id": "df298a5405c753a22b27986e93626ace"
   },
   {
-   "headline": "UK Commits £600M to Counter AI-Driven Health and Security Threats",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
-   "label": "CONFIRMED",
-   "url": "https://theaiinsider.tech/2026/10/25/uk-commits-600m-to-counter-ai-driven-health-and-security-threats/",
-   "url_id": "71110ac107ceaa442ce05f744187f484"
+   "headline": "Mistral turns itself into a full AI stack to take on OpenAI and Google",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "label": "REPORTED",
+   "url": "https://startupfortune.com/mistral-turns-itself-into-a-full-ai-stack-to-take-on-openai-and-google/",
+   "url_id": "ead50c3b9a9b05728fdb82fdbdb1cbfe"
   },
   {
-   "headline": "Reservoir sues Suno for $157.5m over 1,050 songs in AI training data",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
-   "label": "STILL OPEN",
-   "url": "https://ppc.land/reservoir-sues-suno-for-157-5m-over-1-050-songs-in-ai-training-data/",
-   "url_id": "4a67142d8e2922afef9015b37418d3e9"
+   "headline": "OpenAI resumes training AI, but without Internet",
+   "outlet": "Taipei Times",
+   "outlet_name": "Taipei Times",
+   "label": "REPORTED",
+   "url": "https://www.taipeitimes.com/News/biz/archives/2026/10/26/2003866602",
+   "url_id": "443185f90c4a1d3c9d70798453dce598"
+  },
+  {
+   "headline": "Google DeepMind executives highlight lifelong learning for AI careers",
+   "outlet": "KuCoin",
+   "outlet_name": "KuCoin",
+   "label": "REPORTED",
+   "url": "https://www.kucoin.com/news/flash/google-deepmind-c-suite-emphasizes-lifelong-learning-for-ai-careers",
+   "url_id": "eb6d1e8828d724b851b5ed05468173a4"
+  },
+  {
+   "headline": "Goa AI Policy 2026 Hailed by GCCI for Economic Growth",
+   "outlet": "Rediff MoneyWiz",
+   "outlet_name": "Rediff MoneyWiz",
+   "label": "REPORTED",
+   "url": "https://money.rediff.com/news/market/goa-ai-policy-2026-hailed-by-gcci-for-economic-growth/56854620261025",
+   "url_id": "a8c8e97ccf56638cfb6215f517416fbe"
   },
   {
    "headline": "OpenAI Cuts Frontier Models From Live Internet After Isolated Red-Team AI Agents Build…",
@@ -104,22 +112,6 @@
    "label": "REPORTED",
    "url": "https://www.istitutoimpariamo.it/openai-cuts-frontier-models-from-live-internet-after-isolated-red-team-ai-agents-build-secret-covert-channel-through-cpu-cache-hardware/",
    "url_id": "1155f3100623d54f8d0fe8c0390fc8b7"
-  },
-  {
-   "headline": "1Password Introduces Platform Letting AI Agents Log In Without Seeing User Credentials",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
-   "label": "REPORTED",
-   "url": "https://theaiinsider.tech/2026/10/25/1password-introduces-platform-letting-ai-agents-log-in-without-seeing-user-credentials/",
-   "url_id": "100b8f52dd3838997dc2ea4260ff3032"
-  },
-  {
-   "headline": "🗞️DeepSeek’s $15B Round, Moonshot launches K3.1 Pro, and China’s AI Jobs Policy",
-   "outlet": "recodechinaai.com",
-   "outlet_name": "recodechinaai.com",
-   "label": "REPORTED",
-   "url": "https://www.recodechinaai.com/p/deepseeks-15b-round-its-38gpu-hour",
-   "url_id": "087b7a9d6206e3ef734a35ab77a54c90"
   },
   {
    "headline": "Elon Musk Shares Episode 1 of Grok Imagine’s AI-Made Odyssey Series",
@@ -138,6 +130,14 @@
    "url_id": "57af336fb2158d25a732b6c8942361eb"
   },
   {
+   "headline": "Epic CEO Tim Sweeney calls Steam’s AI disclosure policy “abhorrent”",
+   "outlet": "Mezha.net",
+   "outlet_name": "Mezha.net",
+   "label": "REPORTED",
+   "url": "https://mezha.net/eng/news/mezha-2f12c78df766dad2794ca188_epic_ceo_tim/",
+   "url_id": "202fea322ec9b9dbc2a093a7d6146aa8"
+  },
+  {
    "headline": "Gemini 4 Argon Learns From Videos",
    "outlet": "i-programmer.info",
    "outlet_name": "i-programmer.info",
@@ -146,22 +146,22 @@
    "url_id": "9d6590e9a685be00abfb87475344aa2a"
   },
   {
-   "headline": "Goa Chamber of Commerce and Industry hails state's AI Policy 2026",
-   "outlet": "Press Trust of India on MSN",
-   "outlet_name": "Press Trust of India on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/goa-chamber-of-commerce-and-industry-hails-states-ai-policy-2026/ar-AA2g27M0",
-   "url_id": "6827d190d7dd05710d585b39f68d7f38"
+   "headline": "Gemini 4 Flash & Carbon Leaks Point to an Imminent Google Drop",
+   "outlet": "nokiapoweruser.com",
+   "outlet_name": "nokiapoweruser.com",
+   "label": "STILL OPEN",
+   "url": "https://nokiapoweruser.com/gemini-4-flash-carbon-release-rumors-leaks/",
+   "url_id": "a43d65b34b61fafc54370a9cea7a77ad"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
  "articles_24h_rounded": 4600,
  "articles_24h_label": "about 4,600",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/18.mp3",
- "audio_seconds": 78.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/19.mp3",
+ "audio_seconds": 71.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle DeepMind staff are quitting over military artificial intelligence work, with employees saying they're ashamed to work there. Confirmed by The Cool Down: the military deal raises ethics and oversight concerns.\nArtificial intelligence agents show playful behavior on an island, and that playfulness boosts their performance on later tasks. Still open, per PCMag Australia: the agents like to play without any work assigned.\nGrok and OpenAI's models show partisan bias when forced to choose between candidates during U.S. race analysis. Confirmed by Gadget Review: Grok picks Republicans while OpenAI picks Democrats.\nThe UK is committing £600M to counter artificial intelligence driven health and security threats, with major tech firms involved in the research projects. Confirmed by AI Insider: the allocation supports health, security and research.\nReservoir Media is suing Suno for 157.5m over 1,050 songs allegedly used in artificial intelligence training data. Still open, per PPC Land: the lawsuit centers on the training data copying claim.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia explores a $2,000 annual GPU fee for artificial intelligence agent software. Still open, per Notebookcheck: the company discussed this pricing model at GTC Berlin.\nElvis Presley catalog owners sued artificial intelligence company Anthropic for copyright infringement. Reported by Pitchfork: the legal action targets the AI developer.\nMistral launched an industrial artificial intelligence stack with its Large 4 model. Reported by Startup Fortune: the company targets enterprise customers with data sovereignty features.\nOpenAI blocked Internet access for advanced artificial intelligence models after a security breach. Reported by Taipei Times: the company resumed training without online connectivity.\nGoogle DeepMind executives highlighted lifelong learning and interdisciplinary skills for artificial intelligence careers. Reported by KuCoin: the company values continuous development in graduates.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
