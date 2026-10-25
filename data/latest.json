@@ -1,102 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-24T23:20:03Z",
- "hour": "2026-10-24T23:00:00Z",
+ "generated_at": "2026-10-25T00:20:03Z",
+ "hour": "2026-10-25T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
-   "outlet": "Yahoo",
-   "outlet_name": "Yahoo",
-   "url": "https://www.yahoo.com/entertainment/music/articles/elvis-presley-rightsholders-sue-anthropic-182826689.html",
+   "title": "Runcie Chidebe: Comparing ChatGPT-Generated and Clinician-Authored Cancer PEMs in Nigeria",
+   "outlet": "Oncodaily",
+   "outlet_name": "Oncodaily",
+   "url": "https://oncodaily.com/voices/runcie-chidebe-616667",
    "label": "REPORTED",
-   "summary_1line": "Elvis estate sues Anthropic over unauthorized use of 274 songs in AI training.",
-   "published_at": "2026-10-24T18:28:26Z",
-   "url_id": "14e0c19066976a4ceaba19ce3c717629"
+   "summary_1line": "AI-generated cancer PEMs match clinician materials in Nigeria, with 95% interest in cancer apps.",
+   "published_at": "2026-10-24T22:18:32Z",
+   "url_id": "d241f5599380dd0b80d7503563685ed2"
   },
   {
-   "title": "Ohio Labor Groups Back AI Regulation Bill HB 1032",
-   "outlet": "Hoodline",
-   "outlet_name": "Hoodline",
-   "url": "https://hoodline.com/2026/10/ohio-labor-groups-push-bill-to-keep-ai-out-of-state-benefit-decisions/",
+   "title": "Grok Bot Hits Penn Station: What the NYC Ad Push Means",
+   "outlet": "BASENOR - Tesla Accessories",
+   "outlet_name": "BASENOR - Tesla Accessories",
+   "url": "https://www.basenor.com/blogs/news/grok-bot-hits-penn-station-what-the-nyc-ad-push-means",
    "label": "REPORTED",
-   "summary_1line": "Ohio labor backs bill to require AI transparency and human oversight in employment and benefits.",
-   "published_at": "2026-10-24T18:32:51Z",
-   "url_id": "162c73630bbe530d8c2f7ef72a4a6db0"
+   "summary_1line": "SpaceX runs Penn Station ads for xAI's Grok Bot, targeting business professionals with enterprise AI tools.",
+   "published_at": "2026-10-24T22:06:17Z",
+   "url_id": "0474273db95e079d162641bda847caf0"
   },
   {
-   "title": "Pennsylvania will require labels on AI-generated ads",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-   "label": "CONFIRMED",
-   "summary_1line": "Pennsylvania requires AI ad disclosures, with major loopholes on definitions of 'significant modification' and 'evidently fictional'.",
-   "published_at": "2026-10-24T18:32:21Z",
-   "url_id": "7c7736f93625c4fab23bcda2cdc06908"
-  },
-  {
-   "title": "Daytona Raises $60 Million to Build Cloud Infrastructure for AI Agents",
-   "outlet": "WeRSM",
-   "outlet_name": "WeRSM",
-   "url": "https://wersm.com/daytona-raises-60-million-cloud-infrastructure-ai-agents/",
-   "label": "REPORTED",
-   "summary_1line": "Daytona raises $60M to build cloud for AI agents needing isolated, stateful environments.",
-   "published_at": "2026-10-24T14:19:06Z",
-   "url_id": "bb84a443af6c5beab0ad04815519f0e6"
-  },
-  {
-   "title": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
-   "outlet": "PCMag UK",
-   "outlet_name": "PCMag UK",
-   "url": "https://uk.pcmag.com/ai/168086/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training",
+   "title": "Claude Ships MCP Tasks and Elicitations in Claude Code — Durable Agent Workflows, Narrow Launch",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "url": "https://forkast.news/claude-ships-mcp-tasks-and-elicitations-in-claude-code-durable-agent-workflows-narrow-launch/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-24T15:33:43Z",
-   "url_id": "967b6251cba2fab4db5488a3a36f11d6"
+   "published_at": "2026-10-24T23:26:30Z",
+   "url_id": "9968b64a58e2a0dc6fcd1e730209bd38"
+  },
+  {
+   "title": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/openai-model-spent-ethereum-without-212600871.html",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI's AI spent testnet ETH from a found wallet, raising crypto security concerns.",
+   "published_at": "2026-10-24T21:26:00Z",
+   "url_id": "8ebe31e1f8c48fdfb14b7d75e5936167"
+  },
+  {
+   "title": "There's a better way to bring AI to Google Docs, Slides, and Sheets, and it's not Gemini",
+   "outlet": "MakeUseOf",
+   "outlet_name": "MakeUseOf",
+   "url": "https://www.makeuseof.com/better-ai-to-google-docs-slides-and-sheets-not-gemini/",
+   "label": "REPORTED",
+   "summary_1line": "Claude for Google Workspace outperforms Gemini in editing, with beta release on October 6.",
+   "published_at": "2026-10-24T16:00:19Z",
+   "url_id": "8eb4eb82473a59c9215fb69ef7fce6c8"
   }
  ],
  "ticker": [
-  {
-   "headline": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
-   "outlet": "Yahoo",
-   "outlet_name": "Yahoo",
-   "label": "REPORTED",
-   "url": "https://www.yahoo.com/entertainment/music/articles/elvis-presley-rightsholders-sue-anthropic-182826689.html",
-   "url_id": "14e0c19066976a4ceaba19ce3c717629"
-  },
-  {
-   "headline": "Ohio Labor Groups Back AI Regulation Bill HB 1032",
-   "outlet": "Hoodline",
-   "outlet_name": "Hoodline",
-   "label": "REPORTED",
-   "url": "https://hoodline.com/2026/10/ohio-labor-groups-push-bill-to-keep-ai-out-of-state-benefit-decisions/",
-   "url_id": "162c73630bbe530d8c2f7ef72a4a6db0"
-  },
-  {
-   "headline": "Pennsylvania will require labels on AI-generated ads",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-   "url_id": "7c7736f93625c4fab23bcda2cdc06908"
-  },
-  {
-   "headline": "Daytona Raises $60 Million to Build Cloud Infrastructure for AI Agents",
-   "outlet": "WeRSM",
-   "outlet_name": "WeRSM",
-   "label": "REPORTED",
-   "url": "https://wersm.com/daytona-raises-60-million-cloud-infrastructure-ai-agents/",
-   "url_id": "bb84a443af6c5beab0ad04815519f0e6"
-  },
-  {
-   "headline": "OpenAI Is Now Keeping Its Frontier Models off the Internet During Training",
-   "outlet": "PCMag UK",
-   "outlet_name": "PCMag UK",
-   "label": "REPORTED",
-   "url": "https://uk.pcmag.com/ai/168086/openai-is-now-keeping-its-frontier-models-off-the-internet-during-training",
-   "url_id": "967b6251cba2fab4db5488a3a36f11d6"
-  },
   {
    "headline": "Runcie Chidebe: Comparing ChatGPT-Generated and Clinician-Authored Cancer PEMs in Nigeria",
    "outlet": "Oncodaily",
@@ -114,6 +74,62 @@
    "url_id": "0474273db95e079d162641bda847caf0"
   },
   {
+   "headline": "Claude Ships MCP Tasks and Elicitations in Claude Code — Durable Agent Workflows, Narrow…",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "label": "REPORTED",
+   "url": "https://forkast.news/claude-ships-mcp-tasks-and-elicitations-in-claude-code-durable-agent-workflows-narrow-launch/",
+   "url_id": "9968b64a58e2a0dc6fcd1e730209bd38"
+  },
+  {
+   "headline": "An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto…",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
+   "label": "CONFIRMED",
+   "url": "https://finance.yahoo.com/markets/crypto/articles/openai-model-spent-ethereum-without-212600871.html",
+   "url_id": "8ebe31e1f8c48fdfb14b7d75e5936167"
+  },
+  {
+   "headline": "There's a better way to bring AI to Google Docs, Slides, and Sheets, and it's not Gemini",
+   "outlet": "MakeUseOf",
+   "outlet_name": "MakeUseOf",
+   "label": "REPORTED",
+   "url": "https://www.makeuseof.com/better-ai-to-google-docs-slides-and-sheets-not-gemini/",
+   "url_id": "8eb4eb82473a59c9215fb69ef7fce6c8"
+  },
+  {
+   "headline": "ChatGPT Has Ranked Which States Are Stupidest, Smelliest, And Hottest",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "REPORTED",
+   "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-ranked-states-stupidest-smelliest-114602582.html",
+   "url_id": "946abe1bdafb8bd88609ff47ca1a6a32"
+  },
+  {
+   "headline": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely…",
+   "outlet": "BNN Bloomberg",
+   "outlet_name": "BNN Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/10/24/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/",
+   "url_id": "eb1a330c8bc4d2ba2204089045b48d33"
+  },
+  {
+   "headline": "Elon Musk Just Gave Fantastic News for Nvidia Investors",
+   "outlet": "AOL.com",
+   "outlet_name": "AOL",
+   "label": "REPORTED",
+   "url": "https://www.aol.com/articles/elon-musk-just-gave-fantastic-203700000.html",
+   "url_id": "a7469b53b6665adec5073f911d35cd38"
+  },
+  {
+   "headline": "Claude Duet keeps working when your laptop is off, but uses your plan's limits",
+   "outlet": "MIXED Reality News",
+   "outlet_name": "MIXED Reality News",
+   "label": "REPORTED",
+   "url": "https://mixed-news.com/en/claude-duet-pro-max-background-agent-preview/",
+   "url_id": "956cf185587344e1684d44c698f374ce"
+  },
+  {
    "headline": "Show HN: Perch, a calm Mac app for juggling Claude Code sessions",
    "outlet": "perchfocus.com",
    "outlet_name": "perchfocus.com",
@@ -122,20 +138,12 @@
    "url_id": "8af5fa528f542499dec87562b4a69b2e"
   },
   {
-   "headline": "Why police have been told to pause their use of AI in court cases",
-   "outlet": "Nation.Cymru",
-   "outlet_name": "Nation.Cymru",
+   "headline": "OpenAI Red Team Finds Sandbox Escapes and Covert Channels",
+   "outlet": "www.tokenpost.com",
+   "outlet_name": "www.tokenpost.com",
    "label": "REPORTED",
-   "url": "https://nation.cymru/feature/why-police-have-been-told-to-pause-their-use-of-ai-in-court-cases/",
-   "url_id": "2daa6194e8aa1c1e54e13a3ece522947"
-  },
-  {
-   "headline": "Gemini 4 Argon: 1M Tokens, $2 Price Doubles Dec. 1 [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/gemini-4-argon-malaysia-1m-tokens-price-doubles-dec-1-2026/",
-   "url_id": "35215cfe54ca9db338347b8c554b8592"
+   "url": "https://www.tokenpost.com/news/technology/40216",
+   "url_id": "3178aceb9242d593b965009e6917da24"
   },
   {
    "headline": "I ran a 9B model trained on Claude's reasoning on my 8GB GPU, and it made me rethink…",
@@ -144,24 +152,16 @@
    "label": "STILL OPEN",
    "url": "https://www.xda-developers.com/ran-9b-model-trained-on-claude-reasoning-on-8gb-gpu/",
    "url_id": "b4ea8916496781a1c8b6a95ae8bb1f89"
-  },
-  {
-   "headline": "Tokio Marine first Japan nonlife insurer to cover AI-enabled robots",
-   "outlet": "asia.nikkei.com",
-   "outlet_name": "asia.nikkei.com",
-   "label": "CONFIRMED",
-   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/tokio-marine-first-japan-nonlife-insurer-to-cover-ai-enabled-robots",
-   "url_id": "fefb32deead9a592abe7b06c0e831e58"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 5700,
+ "tidbit": "Did you know… about 6,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 5600,
  "articles_24h_label": "about 6,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/24/23.mp3",
- "audio_seconds": 59.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/00.mp3",
+ "audio_seconds": 51.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nElvis Presley's estate is suing Anthropic, reported by Yahoo, over the use of 274 songs in training without permission.\nOhio labor groups are backing a regulation bill, reported by Hoodline, that would require transparency and human oversight in employment and benefits decisions.\nPennsylvania will require labels on artificially generated ads, confirmed by The Verge, though the rules have major loopholes around what counts as significant modification.\nDaytona has raised 60 million dollars, reported by WeRSM, to build cloud infrastructure for artificial intelligence agents that need isolated and stateful environments.\nOpenAI is now keeping its frontier models offline during training, reported by PCMag UK, to protect them from internet exposure.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Oncodaily: Runcie Chidebe: Comparing ChatGPT-Generated and Clinician-Authored Cancer PEMs in Nigeria.\nReported by BASENOR - Tesla Accessories: Grok Bot Hits Penn Station: What the NYC Ad Push Means.\nReported by Forkast News: Claude Ships MCP Tasks and Elicitations in Claude Code — Durable Agent Workflows, Narrow Launch.\nConfirmed, per Yahoo Finance: An OpenAI Model Spent Ethereum Without Permission. Here's What That Means For Crypto Investors.\nReported by MakeUseOf: There's a better way to bring AI to Google Docs, Slides, and Sheets, and it's not Gemini.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
