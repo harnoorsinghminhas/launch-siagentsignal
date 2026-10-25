@@ -1,125 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T10:20:01Z",
- "hour": "2026-10-25T10:00:00Z",
+ "generated_at": "2026-10-25T11:20:01Z",
+ "hour": "2026-10-25T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "The curious case of Nebius, publicly traded AI infrastructure 'startup' (2024)",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
-   "label": "CONFIRMED",
-   "summary_1line": "Nebius, rebranded from Yandex, returns to Nasdaq with AI cloud services and U.S. expansion plans.",
-   "published_at": "2026-10-25T08:21:40Z",
-   "url_id": "4239fa7cbf89081bbbced5955d3bc12a"
+   "title": "OpenAI cuts its valuation target to $1.25tn as it nears a $30bn round",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/openai-funding-round-1-25tn-uae-coatue",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI cuts funding valuation to $1.25tn, with UAE investors leading, aiming for $30bn and a delayed IPO.",
+   "published_at": "2026-10-25T10:17:55Z",
+   "url_id": "e19e861ca08d0c141669fe0557835167"
   },
   {
-   "title": "ChatGPT AI Predicts That Gold Could Hit Five Figures by 2027",
-   "outlet": "Tokenist",
-   "outlet_name": "Tokenist",
-   "url": "https://tokenist.com/chatgpt-ai-predicts-gold-five-figures-2027/",
+   "title": "Compare 12 Agent Swarm Frameworks: OpenAI, Google, Microsoft",
+   "outlet": "AIMultiple",
+   "outlet_name": "AIMultiple",
+   "url": "https://aimultiple.com/agent-swarm",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T09:49:20Z",
-   "url_id": "211dd4dda2be42e13592b89d894a0402"
+   "summary_1line": "Anthropic's agent swarm improves results 90.2% with 15x more tokens; LangGraph outperforms CrewAI in speed.",
+   "published_at": "2026-10-25T10:04:59Z",
+   "url_id": "152d5f6309693b25d1f7c35614c3a86b"
   },
   {
-   "title": "The Fine Print of AI Philanthropy: Why Anthropic and Elon Musk are giving away billions",
-   "outlet": "Open Magazine",
-   "outlet_name": "Open Magazine",
-   "url": "https://openthemagazine.com/technology/the-fine-print-of-ai-philanthropy-why-anthropic-and-elon-musk-are-giving-away-billions",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T09:46:33Z",
-   "url_id": "c884ebfde268a5cdca487305505487d3"
-  },
-  {
-   "title": "Anthropic says one AI agent beats many subagents now that models can handle complexity alone",
-   "outlet": "The Decoder",
+   "title": "Nvidias offene Daten-Engine Flora soll Robotikdaten 125-mal günstiger beschriften als GPT-6 Astra",
+   "outlet": "the-decoder.de",
    "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
+   "url": "https://the-decoder.de/nvidias-offene-daten-engine-flora-soll-robotikdaten-125-mal-guenstiger-beschriften-als-gpt-6-astra/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T09:18:25Z",
-   "url_id": "3c0fe590f14ca108af1f37b180a4459e"
+   "summary_1line": "Nvidia's Flora cuts robot video annotation costs by 125x, outperforming GPT-6 Astra in error detection and action recognition.",
+   "published_at": "2026-10-25T09:45:49Z",
+   "url_id": "47d8c6218a24590b768511deca6df934"
   },
   {
-   "title": "The House | The UK's AI Security Institute: As Calls For Regulation Grow, Is It Still Fit For Purpose?",
-   "outlet": "Politics Home",
-   "outlet_name": "Politics Home",
-   "url": "https://www.politicshome.com/news/article/uks-ai-security-institute-calls-regulation-grow-still-fit-purpose",
+   "title": "Cerebras bets on wafer-scale chips as Nvidia's GPUs get scarce and pricey",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/cerebras-bets-on-wafer-scale-chips-as-nvidias-gpus-get-scarce-and-pricey/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T09:02:36Z",
-   "url_id": "9a74689bbb23a3a107d8e9e24444dae7"
+   "summary_1line": "Cerebras' wafer-scale chip offers 15x faster AI inference, backed by $20B OpenAI deal and $400M General Compute contract.",
+   "published_at": "2026-10-25T07:49:56Z",
+   "url_id": "b5e815af56affda079afbab27c1801cc"
+  },
+  {
+   "title": "Nvidia Aktie: Humanoid-Wette?",
+   "outlet": "Börse Global",
+   "outlet_name": "Börse Global",
+   "url": "https://www.boerse-global.de/nvidia-aktie-humanoid-wette/836111",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia expands robotics and telecom AI with new tools, pilot projects, and a 2027 humanoid robot.",
+   "published_at": "2026-10-25T07:39:20Z",
+   "url_id": "01499f7861c86e0ebefab073f6c9d751"
   }
  ],
  "ticker": [
   {
-   "headline": "The curious case of Nebius, publicly traded AI infrastructure 'startup' (2024)",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2024/11/24/the-curious-case-of-nebius-the-publicly-traded-ai-infrastructure-startup/",
-   "url_id": "4239fa7cbf89081bbbced5955d3bc12a"
+   "headline": "OpenAI cuts its valuation target to $1.25tn as it nears a $30bn round",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "STILL OPEN",
+   "url": "https://thenextweb.com/news/openai-funding-round-1-25tn-uae-coatue",
+   "url_id": "e19e861ca08d0c141669fe0557835167"
   },
   {
-   "headline": "ChatGPT AI Predicts That Gold Could Hit Five Figures by 2027",
-   "outlet": "Tokenist",
-   "outlet_name": "Tokenist",
+   "headline": "Compare 12 Agent Swarm Frameworks: OpenAI, Google, Microsoft",
+   "outlet": "AIMultiple",
+   "outlet_name": "AIMultiple",
    "label": "REPORTED",
-   "url": "https://tokenist.com/chatgpt-ai-predicts-gold-five-figures-2027/",
-   "url_id": "211dd4dda2be42e13592b89d894a0402"
+   "url": "https://aimultiple.com/agent-swarm",
+   "url_id": "152d5f6309693b25d1f7c35614c3a86b"
   },
   {
-   "headline": "The Fine Print of AI Philanthropy: Why Anthropic and Elon Musk are giving away billions",
-   "outlet": "Open Magazine",
-   "outlet_name": "Open Magazine",
-   "label": "REPORTED",
-   "url": "https://openthemagazine.com/technology/the-fine-print-of-ai-philanthropy-why-anthropic-and-elon-musk-are-giving-away-billions",
-   "url_id": "c884ebfde268a5cdca487305505487d3"
-  },
-  {
-   "headline": "Anthropic says one AI agent beats many subagents now that models can handle complexity…",
-   "outlet": "The Decoder",
+   "headline": "Nvidias offene Daten-Engine Flora soll Robotikdaten 125-mal günstiger beschriften als…",
+   "outlet": "the-decoder.de",
    "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://the-decoder.com/anthropic-says-one-ai-agent-beats-many-subagents-now-that-models-can-handle-complexity-alone/",
-   "url_id": "3c0fe590f14ca108af1f37b180a4459e"
+   "url": "https://the-decoder.de/nvidias-offene-daten-engine-flora-soll-robotikdaten-125-mal-guenstiger-beschriften-als-gpt-6-astra/",
+   "url_id": "47d8c6218a24590b768511deca6df934"
   },
   {
-   "headline": "The House | The UK's AI Security Institute: As Calls For Regulation Grow, Is It Still Fit…",
-   "outlet": "Politics Home",
-   "outlet_name": "Politics Home",
+   "headline": "Cerebras bets on wafer-scale chips as Nvidia's GPUs get scarce and pricey",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://www.politicshome.com/news/article/uks-ai-security-institute-calls-regulation-grow-still-fit-purpose",
-   "url_id": "9a74689bbb23a3a107d8e9e24444dae7"
+   "url": "https://startupfortune.com/cerebras-bets-on-wafer-scale-chips-as-nvidias-gpus-get-scarce-and-pricey/",
+   "url_id": "b5e815af56affda079afbab27c1801cc"
   },
   {
-   "headline": "Is Anthropic Facing an Employee Exodus? OpenAI's Sam Altman Says 'This Is Not a Good Sign'",
-   "outlet": "International Business Times Singapore",
-   "outlet_name": "International Business Times Singapore",
-   "label": "STILL OPEN",
-   "url": "https://www.ibtimes.sg/anthropic-facing-employee-exodus-openais-sam-altman-says-this-not-good-sign-95506",
-   "url_id": "7d2d2bb618bc902a7c4258f6fe9d1ab1"
-  },
-  {
-   "headline": "Elevated errors for Claude Sonnet 5.5",
-   "outlet": "status.claude.com",
-   "outlet_name": "status.claude.com",
+   "headline": "Nvidia Aktie: Humanoid-Wette?",
+   "outlet": "Börse Global",
+   "outlet_name": "Börse Global",
    "label": "REPORTED",
-   "url": "https://status.claude.com/incidents/334jvgbrc4ff",
-   "url_id": "311fecebf7971ea747bb7257e7503813"
+   "url": "https://www.boerse-global.de/nvidia-aktie-humanoid-wette/836111",
+   "url_id": "01499f7861c86e0ebefab073f6c9d751"
   },
   {
-   "headline": "Anthropic's Claude Code Sandbox",
-   "outlet": "aiweekly.co",
-   "outlet_name": "aiweekly.co",
+   "headline": "Outside evaluators found ways OpenAI’s agents could slip past its monitor",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
    "label": "REPORTED",
-   "url": "https://aiweekly.co/alerts/anthropic-open-sources-claude-code-sandbox-under-apache-20",
-   "url_id": "c76163cf6a67dab6a8bb663c6fcda72c"
+   "url": "https://thenextweb.com/news/openai-monitoring-system-metr-redwood-red-team",
+   "url_id": "da71feb42fdad9c2ef72144683519850"
+  },
+  {
+   "headline": "5 ways Gemini's Scheduled actions simplified my everyday routine",
+   "outlet": "androidpolice.com",
+   "outlet_name": "androidpolice.com",
+   "label": "REPORTED",
+   "url": "https://www.androidpolice.com/gemini-scheduled-actions-simplified-my-everyday-routine/",
+   "url_id": "0a529b6d13132c4f7189c82e9e9f9d32"
+  },
+  {
+   "headline": "Bill Gates warns the 'evolutionary' age of AI will be brutal for workers",
+   "outlet": "observer.co.uk",
+   "outlet_name": "observer.co.uk",
+   "label": "REPORTED",
+   "url": "https://observer.co.uk/news/technology/article/bill-gates-warns-the-evolutionary-age-of-ai-will-be-brutal-for-workers",
+   "url_id": "2ac70e327c2219095cb8bf5a50cb5bf0"
   },
   {
    "headline": "OpenAI used AI agents to hack its own defenses before resuming model training",
@@ -130,38 +130,38 @@
    "url_id": "e20ac2ea5ef7277e4be64343e274631e"
   },
   {
+   "headline": "Elvis Presley estate sues AI company for using 274 songs without permission",
+   "outlet": "Parade on MSN",
+   "outlet_name": "Parade on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/entertainment/celebrities/elvis-presley-estate-sues-ai-company-for-using-274-songs-without-permission/ar-AA2g1721",
+   "url_id": "834e22a224477308c7fd3721dceffc67"
+  },
+  {
    "headline": "Anthropic was beaten to the punch by a salad dressing company",
    "outlet": "fastcompany.com",
    "outlet_name": "fastcompany.com",
-   "label": "REPORTED",
+   "label": "STILL OPEN",
    "url": "https://www.fastcompany.com/91627772/anthropic-beaten-to-the-punch-salad-dressing-company?partner=rss&amp;utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss+fastcompany&amp;utm_content=rss",
    "url_id": "c0924175a29e60a38bf933526bc72aec"
   },
   {
-   "headline": "Künstliche Intelligenz: OpenAI will leistungsstärkste KI-Modelle offline trainieren",
-   "outlet": "ZEIT ONLINE on MSN",
-   "outlet_name": "ZEIT ONLINE on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/de-de/nachrichten/other/künstliche-intelligenz-openai-will-leistungsstärkste-ki-modelle-offline-trainieren/ar-AA2fXwQk",
-   "url_id": "0b92c6b1efb7a0dbb3562f294b842d40"
-  },
-  {
-   "headline": "Is AI Bubble Waiting To Burst? Nikhil Kamath Warns Of Tougher Months Ahead",
-   "outlet": "NDTV on MSN",
-   "outlet_name": "NDTV on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/is-ai-bubble-waiting-to-burst-nikhil-kamath-warns-of-tougher-months-ahead/ar-AA2g0ymr",
-   "url_id": "ec9e6008792bc289c1d48d316120fc1f"
+   "headline": "GPT picks Democrats. Grok picks Republicans",
+   "outlet": "convovo.ai",
+   "outlet_name": "convovo.ai",
+   "label": "STILL OPEN",
+   "url": "https://convovo.ai/ballot/",
+   "url_id": "a6d18a3666253e09fc3644470e7f8f66"
   }
  ],
- "tidbit": "Did you know… about 4,700 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
  "articles_24h_rounded": 4700,
  "articles_24h_label": "about 4,700",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/10.mp3",
- "audio_seconds": 67.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/11.mp3",
+ "audio_seconds": 49.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNebius, rebranded from Yandex, returns to Nasdaq with cloud services and U.S. expansion. Confirmed by TechCrunch: the publicly traded AI infrastructure company charts its growth.\nChatGPT artificial intelligence predicts gold could hit five figures by 2027. Reported by Tokenist: the model forecasts significant price movement in precious metals.\nAnthropic and Elon Musk are giving away billions in artificial intelligence philanthropy. Reported by Open Magazine: the fine print reveals the motivations behind their giving.\nAnthropic says one artificial intelligence agent now beats many subagents when models can handle complexity alone. Reported by The Decoder: efficiency gains reshape agent architecture.\nThe UK's artificial intelligence security institute faces questions about fitness for purpose as calls for regulation grow. Reported by Politics Home: the debate over readiness intensifies.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per The Next Web: OpenAI cuts its valuation target to $1.25tn as it nears a $30bn round.\nReported by AIMultiple: Compare 12 Agent Swarm Frameworks: OpenAI, Google, Microsoft.\nReported by The Decoder: Nvidias offene Daten-Engine Flora soll Robotikdaten 125-mal günstiger beschriften als GPT-6 Astra.\nReported by Startup Fortune: Cerebras bets on wafer-scale chips as Nvidia's GPUs get scarce and pricey.\nReported by Börse Global: Nvidia Aktie: Humanoid-Wette.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
