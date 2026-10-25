@@ -1,91 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T16:20:01Z",
- "hour": "2026-10-25T16:00:00Z",
+ "generated_at": "2026-10-25T17:20:01Z",
+ "hour": "2026-10-25T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Sweden's government blocks ChatGPT and Claude, keeps Copilot",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
-   "url": "https://www.notebookcheck.net/Sweden-s-government-blocks-ChatGPT-and-Claude-keeps-Copilot.1433522.0.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Sweden blocks ChatGPT and Claude for security, directing staff to Copilot.",
-   "published_at": "2026-10-24T18:10:00Z",
-   "url_id": "cdbbe31630dffd735e3e7d4a6deb48d5"
+   "title": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia's Flora cuts robot video labeling costs 125x to 72 cents per hour.",
+   "published_at": "2026-10-25T10:13:25Z",
+   "url_id": "abb8aeb471af3d1a253c688d7f3c8ac4"
   },
   {
-   "title": "Bitcoin Core Changes Security Rules as AI Makes Bugs Easier to Find",
-   "outlet": "CoinCodex",
-   "outlet_name": "CoinCodex",
-   "url": "https://coincodex.com/article/94252/bitcoin-core-changes-security-rules-as-ai-makes-bugs-easier-to-find/",
+   "title": "ECP proposes 12 amendments to regulate AI, curb misuse in elections",
+   "outlet": "The Express Tribune",
+   "outlet_name": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2636856/ecp-proposes-12-amendments-to-regulate-ai-curb-misuse-in-elections",
    "label": "CONFIRMED",
-   "summary_1line": "Bitcoin Core speeds up AI-discovered vulnerability patches with new disclosure rules.",
-   "published_at": "2026-10-25T08:26:00Z",
-   "url_id": "02cb5a6d3f8e613848f98bbc2e09349c"
+   "summary_1line": "ECP proposes 12 AI rules to ban deepfakes and mandate AI content disclosure in elections.",
+   "published_at": "2026-10-25T07:46:00Z",
+   "url_id": "0c145cc01d493f254e3ba79f54632478"
   },
   {
-   "title": "The AI graveyard: a running list of projects and startups that didn't make it",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "label": "CONFIRMED",
-   "summary_1line": "Multiple AI products shut down or pivoted amid challenges in funding, privacy, and performance.",
-   "published_at": "2026-10-25T13:16:49Z",
-   "url_id": "988202d2feb5743dae62da6676c5e85c"
-  },
-  {
-   "title": "Can Mistral Challenge Big Tech by Doing AI Differently?",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video",
+   "title": "Reservoir Sues Suno And Anthropic Over Alleged AI Copyright Infringement, Seeks Nearly $340 Million",
+   "outlet": "CelebrityAccess",
+   "outlet_name": "CelebrityAccess",
+   "url": "https://celebrityaccess.com/2026/10/25/reservoir-sues-suno-and-anthropic-over-alleged-ai-copyright-infringement-seeks-nearly-340-million/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-25T12:04:04Z",
-   "url_id": "1063cf236a9477a95b5a687cc7bb124c"
+   "published_at": "2026-10-25T15:54:28Z",
+   "url_id": "e475a0993518abcea5a9af481f9c440b"
+  },
+  {
+   "title": "Grok Bot Can Now Make Phone Calls for You — Here's How It Works",
+   "outlet": "BASENOR - Tesla Accessories",
+   "outlet_name": "BASENOR - Tesla Accessories",
+   "url": "https://www.basenor.com/blogs/news/grok-bot-can-now-make-phone-calls-for-you-heres-how-it-works",
+   "label": "REPORTED",
+   "summary_1line": "Grok Bot can now place calls, take notes, and send summaries, with real-world use in Tesla and Starlink.",
+   "published_at": "2026-10-25T15:04:22Z",
+   "url_id": "f94c260f3f68ee04751f886bb09c7d53"
+  },
+  {
+   "title": "Study Finds Grok and GPT Models Show Opposing Partisan Leans on U.S. Midterm Races",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
+   "url": "https://theaiinsider.tech/2026/10/25/study-finds-grok-and-gpt-models-show-opposing-partisan-leans-on-u-s-midterm-races/",
+   "label": "REPORTED",
+   "summary_1line": "Grok and GPT-6.1 recommend opposing candidates in U.S. election prompts, with 92% and 97% favoring Republicans and Democrats respectively.",
+   "published_at": "2026-10-25T14:28:46Z",
+   "url_id": "73005c4da03dcaafb51a9da3fce1a53f"
   }
  ],
  "ticker": [
   {
-   "headline": "Sweden's government blocks ChatGPT and Claude, keeps Copilot",
-   "outlet": "Notebookcheck",
-   "outlet_name": "Notebookcheck",
-   "label": "CONFIRMED",
-   "url": "https://www.notebookcheck.net/Sweden-s-government-blocks-ChatGPT-and-Claude-keeps-Copilot.1433522.0.html",
-   "url_id": "cdbbe31630dffd735e3e7d4a6deb48d5"
-  },
-  {
-   "headline": "Bitcoin Core Changes Security Rules as AI Makes Bugs Easier to Find",
-   "outlet": "CoinCodex",
-   "outlet_name": "CoinCodex",
-   "label": "CONFIRMED",
-   "url": "https://coincodex.com/article/94252/bitcoin-core-changes-security-rules-as-ai-makes-bugs-easier-to-find/",
-   "url_id": "02cb5a6d3f8e613848f98bbc2e09349c"
-  },
-  {
-   "headline": "The AI graveyard: a running list of projects and startups that didn't make it",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-   "url_id": "988202d2feb5743dae62da6676c5e85c"
-  },
-  {
-   "headline": "Can Mistral Challenge Big Tech by Doing AI Differently?",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "Nvidia open-sources Flora to make robot video labeling 125x cheaper than GPT-6 Astra",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video",
-   "url_id": "1063cf236a9477a95b5a687cc7bb124c"
+   "url": "https://the-decoder.com/nvidia-open-sources-flora-to-make-robot-video-labeling-125x-cheaper-than-gpt-6-astra/",
+   "url_id": "abb8aeb471af3d1a253c688d7f3c8ac4"
   },
   {
-   "headline": "It’s the Last Day To Get ChatGPT, Claude, & More All in One Platform for Just $60",
-   "outlet": "pcmag.com",
-   "outlet_name": "pcmag.com",
+   "headline": "ECP proposes 12 amendments to regulate AI, curb misuse in elections",
+   "outlet": "The Express Tribune",
+   "outlet_name": "The Express Tribune",
    "label": "CONFIRMED",
-   "url": "https://www.pcmag.com/deals/its-the-last-day-to-get-chatgpt-claude-more-all-in-one-platform-for-just",
-   "url_id": "823398b6565c254fdfccbf1f98966b5c"
+   "url": "https://tribune.com.pk/story/2636856/ecp-proposes-12-amendments-to-regulate-ai-curb-misuse-in-elections",
+   "url_id": "0c145cc01d493f254e3ba79f54632478"
+  },
+  {
+   "headline": "Reservoir Sues Suno And Anthropic Over Alleged AI Copyright Infringement, Seeks Nearly…",
+   "outlet": "CelebrityAccess",
+   "outlet_name": "CelebrityAccess",
+   "label": "REPORTED",
+   "url": "https://celebrityaccess.com/2026/10/25/reservoir-sues-suno-and-anthropic-over-alleged-ai-copyright-infringement-seeks-nearly-340-million/",
+   "url_id": "e475a0993518abcea5a9af481f9c440b"
+  },
+  {
+   "headline": "Grok Bot Can Now Make Phone Calls for You — Here's How It Works",
+   "outlet": "BASENOR - Tesla Accessories",
+   "outlet_name": "BASENOR - Tesla Accessories",
+   "label": "REPORTED",
+   "url": "https://www.basenor.com/blogs/news/grok-bot-can-now-make-phone-calls-for-you-heres-how-it-works",
+   "url_id": "f94c260f3f68ee04751f886bb09c7d53"
+  },
+  {
+   "headline": "Study Finds Grok and GPT Models Show Opposing Partisan Leans on U.S. Midterm Races",
+   "outlet": "AI Insider",
+   "outlet_name": "AI Insider",
+   "label": "REPORTED",
+   "url": "https://theaiinsider.tech/2026/10/25/study-finds-grok-and-gpt-models-show-opposing-partisan-leans-on-u-s-midterm-races/",
+   "url_id": "73005c4da03dcaafb51a9da3fce1a53f"
+  },
+  {
+   "headline": "KI-Agenten: Meta Muse und OpenAI Dots übernehmen persönliche Alltagsaufgaben",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "label": "REPORTED",
+   "url": "https://borncity.com/news/ki-agenten-meta-muse-und-openai-dots-uebernehmen-persoenliche-alltagsaufgaben/",
+   "url_id": "70ddc41891eb592e3ab7d4e0caeedfcf"
+  },
+  {
+   "headline": "‘Everyone is hedging.’ As the U.S. and China divide the world into rival AI blocs, that…",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "CONFIRMED",
+   "url": "https://fortune.com/2026/10/25/us-china-rival-ai-blocs-swing-countries-hedging/",
+   "url_id": "713550b9348890456770e7a6cc8f928a"
+  },
+  {
+   "headline": "Claude Just Wanna Have Fun: Without Any Work, AI Agents Like to ‘Play'",
+   "outlet": "PCMag Australia",
+   "outlet_name": "PCMag Australia",
+   "label": "REPORTED",
+   "url": "https://au.pcmag.com/ai/120610/claude-just-wanna-have-fun-without-any-work-ai-agents-like-to-play",
+   "url_id": "fe4cac893748c6df4cf47a0140bf42b9"
   },
   {
    "headline": "🗞️DeepSeek’s $15B Round, Moonshot launches K3.1 Pro, and China’s AI Jobs Policy",
@@ -96,14 +130,6 @@
    "url_id": "087b7a9d6206e3ef734a35ab77a54c90"
   },
   {
-   "headline": "Anthropic Launches OSS Scanner, a Free AI Vulnerability Scanner",
-   "outlet": "marktechpost.com",
-   "outlet_name": "marktechpost.com",
-   "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/25/anthropic-launches-oss-scanner-a-free-ai-vulnerability-scanner/",
-   "url_id": "e27eaac080708428ad6eff4487f655a1"
-  },
-  {
    "headline": "I built a complex app with Claude Code, Google Antigravity, and Codex, and only one felt…",
    "outlet": "xda-developers.com",
    "outlet_name": "xda-developers.com",
@@ -112,12 +138,12 @@
    "url_id": "1d50a8a17fc95ed6a02f23b2f1fc3bab"
   },
   {
-   "headline": "Google AI Studio prepares new Managed Agents hub",
-   "outlet": "testingcatalog.com",
-   "outlet_name": "testingcatalog.com",
-   "label": "STILL OPEN",
-   "url": "https://www.testingcatalog.com/google-ai-studio-prepares-new-managed-agents-hub/",
-   "url_id": "66e83aa11ee5c3b8e06413de96afb527"
+   "headline": "Goa Chamber of Commerce and Industry hails state's AI Policy 2026",
+   "outlet": "Press Trust of India on MSN",
+   "outlet_name": "Press Trust of India on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/goa-chamber-of-commerce-and-industry-hails-states-ai-policy-2026/ar-AA2g27M0",
+   "url_id": "6827d190d7dd05710d585b39f68d7f38"
   },
   {
    "headline": "AMD vs Nvidia GPU Chart: 32 GB vs 16 GB Flagships [2026]",
@@ -126,32 +152,16 @@
    "label": "REPORTED",
    "url": "https://shattered.io/amd-vs-nvidia-gpu-comparison-chart-rtx-50-vs-radeon-rx-9000-2026/",
    "url_id": "ba92d332ab9763a9d193848219d86991"
-  },
-  {
-   "headline": "Is Kubernetes ready for AI agents?",
-   "outlet": "thenewstack.io",
-   "outlet_name": "thenewstack.io",
-   "label": "CONFIRMED",
-   "url": "https://thenewstack.io/kubernetes-ready-ai-agents/",
-   "url_id": "c9f5d25fe0d5c78fa478eaf02f25b692"
-  },
-  {
-   "headline": "Growing Majority of Americans Convinced That AI Is Bad for Society",
-   "outlet": "futurism.com",
-   "outlet_name": "futurism.com",
-   "label": "CONFIRMED",
-   "url": "https://futurism.com/artificial-intelligence/majority-americans-ai-bad-society",
-   "url_id": "1cd1968d63675e627f02cef53be57580"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from four different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 4600,
  "articles_24h_label": "about 4,600",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/16.mp3",
- "audio_seconds": 38.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/17.mp3",
+ "audio_seconds": 59.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Notebookcheck: Sweden's government blocks ChatGPT and Claude, keeps Copilot.\nConfirmed, per CoinCodex: Bitcoin Core Changes Security Rules as AI Makes Bugs Easier to Find.\nConfirmed, per TechCrunch: The AI graveyard: a running list of projects and startups that didn't make it.\nReported by Bloomberg: Can Mistral Challenge Big Tech by Doing AI Differently.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia's Flora cuts robot video labeling costs to 72 cents per hour, reported by The Decoder.\nThe ECP proposes 12 amendments to regulate artificial intelligence and curb misuse in elections, confirmed by The Express Tribune.\nReservoir sues Suno and Anthropic over alleged copyright infringement, seeking nearly 340 million dollars, reported by CelebrityAccess.\nGrok Bot can now place calls, take notes, and send summaries, with real-world use in Tesla and Starlink, reported by BASENOR - Tesla Accessories.\nGrok and GPT-6.1 recommend opposing candidates in U.S. election prompts, with 92 percent and 97 percent favoring Republicans and Democrats respectively, reported by AI Insider.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
