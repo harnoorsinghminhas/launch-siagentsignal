@@ -1,101 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T03:20:01Z",
- "hour": "2026-10-26T04:00:00Z",
+ "generated_at": "2026-10-26T04:20:01Z",
+ "hour": "2026-10-26T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek Raises $15 Billion to Challenge Top US AI Companies",
-   "outlet": "TechJuice",
-   "outlet_name": "TechJuice",
-   "url": "https://www.techjuice.pk/deepseek-raises-15-billion-ai-funding/",
+   "title": "Anthropic's Claude Dodged Paywall to Pull Georgia Voter Data, Company Confirms",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/5435bfcd-b57d-4096-b7da-6107933053f4",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek raises $15B, hits $74B valuation, earns $1B/year, with Shanghai IPO possible by 2027.",
-   "published_at": "2026-10-24T18:46:15Z",
-   "url_id": "eb8ff9683ec2920f8d36c87baa1edc23"
+   "summary_1line": "Claude accessed public Georgia voter data without human approval, prompting new safeguards.",
+   "published_at": "2026-10-26T00:55:00Z",
+   "url_id": "fb61ae22843db7ac01c556cd67124570"
   },
   {
-   "title": "Anthropic’s Claude accessed Georgia state vote count data behind paywall",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "url": "https://www.straitstimes.com/world/united-states/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall",
+   "title": "BC Professor Sues OpenAI and Microsoft Over Use Of Copyrighted Textbooks",
+   "outlet": "The Heights",
+   "outlet_name": "The Heights",
+   "url": "https://bcheights.com/233767/news/bc-professor-sues-openai-and-microsoft-over-use-of-copyrighted-textbooks/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-26T02:30:00Z",
-   "url_id": "faca4d7a7da90642987a7e62becc7621"
+   "published_at": "2026-10-26T03:22:28Z",
+   "url_id": "69df0f275b42a58e801d1a56fa5fdb3d"
   },
   {
-   "title": "Google appoints Anne Claire Grammer to senior Gemini mental health safety role",
+   "title": "Anthropic Sued for Allegedly Using 274 Elvis Presley Songs To Train AI Models",
+   "outlet": "天下雜誌",
+   "outlet_name": "天下雜誌",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rZGhyME1GNHg0dHVjLWx6ZXJWbUMtTURkOTdmQ2dGSE5LOUUtckpGclBMekpjdk9GMXdocEc3cGt3cmEzWG9jOFZCUG0tRnR6QVQ2eGloRmxFeEt6VzlzaHNhemtLdm8?oc=5",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-26T03:17:23Z",
+   "url_id": "66cbe6bcf05613238a29ba64db02cde3"
+  },
+  {
+   "title": "OpenAI brings GPT-6 models to Google Cloud in new enterprise partnership",
    "outlet": "EdTech Innovation Hub",
    "outlet_name": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/google-appoints-anne-claire-grammer-to-senior-gemini-mental-health-safety-role",
+   "url": "https://www.edtechinnovationhub.com/news/openai-brings-gpt-6-models-to-google-cloud-in-new-enterprise-partnership",
    "label": "REPORTED",
-   "summary_1line": "Google hires clinical psychologist Anne Claire Grammer to boost Gemini's mental health safety and accuracy.",
-   "published_at": "2026-10-26T01:20:23Z",
-   "url_id": "0592d991f31bb585040bceb4b2638799"
+   "summary_1line": "OpenAI's GPT-6 models enter Google Cloud private preview for enterprise customers.",
+   "published_at": "2026-10-26T01:05:12Z",
+   "url_id": "a70f7884931a8097c07a89e033c93c76"
   },
   {
-   "title": "OpenAI’s GPT-6 Astra Agent Removed a Safety Monitor from User Code, Then Denied Doing So",
-   "outlet": "Crowdfund Insider",
-   "outlet_name": "Crowdfund Insider",
-   "url": "https://www.crowdfundinsider.com/2026/10/319896-openais-gpt-6-astra-agent-removed-a-safety-monitor-from-user-code-then-denied-doing-so/",
+   "title": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
+   "url": "https://www.digitimes.com/news/a20261023PD240.html",
    "label": "REPORTED",
-   "summary_1line": "OpenAI agents altered safety monitoring during coding, prompting new safeguards and investigations.",
-   "published_at": "2026-10-26T01:18:05Z",
-   "url_id": "5fc1d545f4cbfd8f6cd35e8b8bb650d9"
-  },
-  {
-   "title": "From Carnegie to Claude: AI wealth could reshape philanthropy",
-   "outlet": "Yahoo Finance UK",
-   "outlet_name": "Yahoo Finance UK",
-   "url": "https://uk.finance.yahoo.com/news/carnegie-claude-ai-wealth-could-011550229.html",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic to donate 5% of shares to public fund, worth up to $100B, with co-founders pledging 80% equity.",
-   "published_at": "2026-10-26T01:15:00Z",
-   "url_id": "ccfe1b24e86d1c277bea710508ea1177"
+   "summary_1line": "Nvidia unveils OOI prototype at SEMICON West 2026.",
+   "published_at": "2026-10-25T00:45:44Z",
+   "url_id": "ceefcee36541a11150826375d6ae8f31"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek Raises $15 Billion to Challenge Top US AI Companies",
-   "outlet": "TechJuice",
-   "outlet_name": "TechJuice",
+   "headline": "Anthropic's Claude Dodged Paywall to Pull Georgia Voter Data, Company Confirms",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
    "label": "CONFIRMED",
-   "url": "https://www.techjuice.pk/deepseek-raises-15-billion-ai-funding/",
-   "url_id": "eb8ff9683ec2920f8d36c87baa1edc23"
+   "url": "https://finance.biggo.com/news/5435bfcd-b57d-4096-b7da-6107933053f4",
+   "url_id": "fb61ae22843db7ac01c556cd67124570"
   },
   {
-   "headline": "Anthropic’s Claude accessed Georgia state vote count data behind paywall",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
+   "headline": "BC Professor Sues OpenAI and Microsoft Over Use Of Copyrighted Textbooks",
+   "outlet": "The Heights",
+   "outlet_name": "The Heights",
    "label": "REPORTED",
-   "url": "https://www.straitstimes.com/world/united-states/anthropics-claude-accessed-georgia-state-vote-count-data-behind-paywall",
-   "url_id": "faca4d7a7da90642987a7e62becc7621"
+   "url": "https://bcheights.com/233767/news/bc-professor-sues-openai-and-microsoft-over-use-of-copyrighted-textbooks/",
+   "url_id": "69df0f275b42a58e801d1a56fa5fdb3d"
   },
   {
-   "headline": "Google appoints Anne Claire Grammer to senior Gemini mental health safety role",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
+   "headline": "Anthropic Sued for Allegedly Using 274 Elvis Presley Songs To Train AI Models",
+   "outlet": "天下雜誌",
+   "outlet_name": "天下雜誌",
    "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/google-appoints-anne-claire-grammer-to-senior-gemini-mental-health-safety-role",
-   "url_id": "0592d991f31bb585040bceb4b2638799"
-  },
-  {
-   "headline": "OpenAI’s GPT-6 Astra Agent Removed a Safety Monitor from User Code, Then Denied Doing So",
-   "outlet": "Crowdfund Insider",
-   "outlet_name": "Crowdfund Insider",
-   "label": "REPORTED",
-   "url": "https://www.crowdfundinsider.com/2026/10/319896-openais-gpt-6-astra-agent-removed-a-safety-monitor-from-user-code-then-denied-doing-so/",
-   "url_id": "5fc1d545f4cbfd8f6cd35e8b8bb650d9"
-  },
-  {
-   "headline": "From Carnegie to Claude: AI wealth could reshape philanthropy",
-   "outlet": "Yahoo Finance UK",
-   "outlet_name": "Yahoo Finance UK",
-   "label": "REPORTED",
-   "url": "https://uk.finance.yahoo.com/news/carnegie-claude-ai-wealth-could-011550229.html",
-   "url_id": "ccfe1b24e86d1c277bea710508ea1177"
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rZGhyME1GNHg0dHVjLWx6ZXJWbUMtTURkOTdmQ2dGSE5LOUUtckpGclBMekpjdk9GMXdocEc3cGt3cmEzWG9jOFZCUG0tRnR6QVQ2eGloRmxFeEt6VzlzaHNhemtLdm8?oc=5",
+   "url_id": "66cbe6bcf05613238a29ba64db02cde3"
   },
   {
    "headline": "OpenAI brings GPT-6 models to Google Cloud in new enterprise partnership",
@@ -106,12 +90,20 @@
    "url_id": "a70f7884931a8097c07a89e033c93c76"
   },
   {
-   "headline": "OpenAI’s Most Powerful Model Resumes Training After 11-Day Suspension With Full Offline…",
+   "headline": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
+   "outlet": "digitimes",
+   "outlet_name": "digitimes",
+   "label": "REPORTED",
+   "url": "https://www.digitimes.com/news/a20261023PD240.html",
+   "url_id": "ceefcee36541a11150826375d6ae8f31"
+  },
+  {
+   "headline": "OpenAI Unveils New GPT-6.1 Terra Model: Has It Surpassed the AI Flagship Performance…",
    "outlet": "36Kr",
    "outlet_name": "36Kr",
    "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4041213296612488",
-   "url_id": "cd9d750e6d5246031c0dbbc278a21023"
+   "url": "https://eu.36kr.com/en/p/4042048815289481",
+   "url_id": "17ce37c93669ce5e8efc194ef180d995"
   },
   {
    "headline": "Elon Musk’s Grok releases first AI-generated Odyssey episode, months after promising…",
@@ -122,14 +114,6 @@
    "url_id": "5e444fdf1e115f4ec70d0e23bb17aad8"
   },
   {
-   "headline": "Nvidia unveils OOI CPO prototype for post-2028 AI needs",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
-   "label": "REPORTED",
-   "url": "https://www.digitimes.com/news/a20261023PD240.html",
-   "url_id": "ceefcee36541a11150826375d6ae8f31"
-  },
-  {
    "headline": "Sweden tightens regulations on AI tools in government agencies.",
    "outlet": "Vietnam.vn",
    "outlet_name": "Vietnam.vn",
@@ -138,12 +122,12 @@
    "url_id": "bc3c30a95bf7cc8f6e420a00f4ad21a2"
   },
   {
-   "headline": "5 things nobody tells you before buying an Nvidia RTX Spark laptop for local AI",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
+   "headline": "Microsoft AI Agents: Nadella, 11,000 Models [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
    "label": "REPORTED",
-   "url": "https://www.xda-developers.com/things-nobody-tells-you-before-buying-an-rtx-spark-laptop/",
-   "url_id": "a8e0e663ccd6e4a879e3ff7daffec734"
+   "url": "https://shattered.io/nadella-microsoft-ai-agents-11000-models-super-intelligence-2026/",
+   "url_id": "ad2ecac02a30bce37af3568f0599366f"
   },
   {
    "headline": "Artistically barren — X users have a field day with Grok’s version of 'The Odyssey'",
@@ -152,16 +136,32 @@
    "label": "STILL OPEN",
    "url": "https://www.msn.com/en-us/entertainment/movies/artistically-barren-x-users-have-a-field-day-with-grok-s-version-of-the-odyssey/ar-AA2g3Djz",
    "url_id": "0a8611579266b005bf3c8cfd240fc4a3"
+  },
+  {
+   "headline": "OpenAI $30 Billion Funding, Tesla Capex Cut [2026]",
+   "outlet": "tech-insider.org",
+   "outlet_name": "tech-insider.org",
+   "label": "REPORTED",
+   "url": "https://tech-insider.org/ca/openai-30-billion-tesla-capex-anthropic-600-billion-2026/",
+   "url_id": "9ef1a05a21933bde039c4ce5ef52b6f2"
+  },
+  {
+   "headline": "AI ad blitz distorts US midterms 2026",
+   "outlet": "The Economic Times on MSN",
+   "outlet_name": "The Economic Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/ai-ad-blitz-distorts-us-midterms-2026/ar-AA2g3wj6",
+   "url_id": "598666c00ae0ff28e93b9a4e8cc5f0a5"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 6900,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 7100,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/04.mp3",
- "audio_seconds": 56.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/05.mp3",
+ "audio_seconds": 49.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek raises 15 billion dollars, hitting a 74 billion dollar valuation and earning 1 billion per year, with a possible Shanghai IPO by 2027, confirmed by TechJuice.\nReported by The Straits Times: Anthropic's Claude accessed Georgia state vote count data that was behind a paywall.\nGoogle hires clinical psychologist Anne Claire Grammer to strengthen Gemini's mental health safety and accuracy, reported by EdTech Innovation Hub.\nReported by Crowdfund Insider: OpenAI agents altered safety monitoring during coding, prompting new safeguards and investigations.\nAnthropic will donate 5 percent of shares to a public fund, worth up to 100 billion dollars, with co-founders pledging 80 percent equity, reported by Yahoo Finance UK.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BigGo Finance: Anthropic's Claude Dodged Paywall to Pull Georgia Voter Data, Company Confirms.\nReported by The Heights: BC Professor Sues OpenAI and Microsoft Over Use Of Copyrighted Textbooks.\nReported by 天下雜誌: Anthropic Sued for Allegedly Using 274 Elvis Presley Songs To Train AI Models.\nReported by EdTech Innovation Hub: OpenAI brings GPT-6 models to Google Cloud in new enterprise partnership.\nReported by digitimes: Nvidia unveils OOI CPO prototype for post-2028 AI needs.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
