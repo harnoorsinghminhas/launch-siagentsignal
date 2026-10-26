@@ -1,101 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T17:20:02Z",
- "hour": "2026-10-26T18:00:00Z",
+ "generated_at": "2026-10-26T18:20:02Z",
+ "hour": "2026-10-26T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic's IPO outlines AI's extraordinary risks",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's IPO warns of AI existential risks and unauthorized system access.",
-   "published_at": "2026-10-26T13:52:48Z",
-   "url_id": "426a5bdbb8e16e3f8cdf5234a2016d0a"
+   "title": "Five weird details from Anthropic’s IPO filing",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-26T17:10:23Z",
+   "url_id": "fe6583a778a0b30ba7d2d12bed072e66"
   },
   {
-   "title": "Anthropic’s 7 co-founders are each worth $14 billion already—and that could double in IPO",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/26/anthropic-ipo-cofounders-how-rich-billionaires-philanthropy-amodei/",
+   "title": "Nvidia unveils RTX Spark software push for AI & games",
+   "outlet": "FutureFive New Zealand",
+   "outlet_name": "FutureFive New Zealand",
+   "url": "https://futurefive.co.nz/story/nvidia-unveils-rtx-spark-software-push-for-ai-games",
    "label": "CONFIRMED",
-   "summary_1line": "Seven Anthropic co-founders each own 240 million shares, with 80% pledged to philanthropy.",
-   "published_at": "2026-10-26T14:31:57Z",
-   "url_id": "34ca2b91b20b595706d493677e4243cd"
+   "summary_1line": "Nvidia launches RTX Spark with local AI, creative tools, and gaming support.",
+   "published_at": "2026-10-26T15:30:00Z",
+   "url_id": "750b2b60c0c2b25da53410eae7a1bbe9"
   },
   {
-   "title": "Christopher Nolan can rest easy after Elon Musk's Grok releases a terrible AI version of The Odyssey",
-   "outlet": "GamesRadar+",
-   "outlet_name": "GamesRadar+",
-   "url": "https://www.gamesradar.com/entertainment/drama-movies/christopher-nolan-can-rest-easy-after-elon-musks-grok-releases-a-terrible-ai-version-of-the-odyssey/",
-   "label": "CONFIRMED",
-   "summary_1line": "Grok releases AI adaptation of The Odyssey with criticism over its artistic quality.",
-   "published_at": "2026-10-26T14:10:47Z",
-   "url_id": "dc95ce24cef353ecbcf21eed9709e765"
+   "title": "Another blow for AI music? Anthropic hit with $41 million lawsuit by owners of Elvis Presley's catalogue",
+   "outlet": "MusicTech",
+   "outlet_name": "MusicTech",
+   "url": "https://musictech.com/news/industry/elvis-presley-catalogue-owners-sue-anthropic-for-41-million-over-alleged-ai-training/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-26T16:41:53Z",
+   "url_id": "1e2a84788ce305562f2c64bf2d297e98"
   },
   {
-   "title": "Anthropic AI bot accessed public Georgia voter data through state data hub",
-   "outlet": "WTOC",
-   "outlet_name": "WTOC",
-   "url": "https://www.wtoc.com/2026/10/26/anthropic-ai-bot-accessed-public-georgia-voter-data-through-state-data-hub/",
+   "title": "Anthropic wants it both ways: public money and private control",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/anthropic-ipo-control-private-trust-shareholders-vote-2026-10",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI bot accessed public Georgia voter data via state hub without touching registration systems.",
-   "published_at": "2026-10-26T12:50:00Z",
-   "url_id": "232ef885d99f0d720cadd42e3e5aa397"
+   "summary_1line": "Anthropic's IPO keeps control with founders and a trust, limiting public investor influence.",
+   "published_at": "2026-10-26T16:10:34Z",
+   "url_id": "1422fb72f2dbdcfe0f13ff258d8d2a30"
   },
   {
-   "title": "Anthropic's IPO Filing Reveals $80.7B Net Loss as Claude Maker Reports Explosive Revenue Growth",
-   "outlet": "International Business Times UK",
-   "outlet_name": "International Business Times UK",
-   "url": "https://www.ibtimes.co.uk/anthropic-ipo-filing-80-billion-loss-revenue-1827925",
+   "title": "Anthropic: From public benefit corporation to mighty IPO ANT",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/seekingalpha:76dce3589094b:0-anthropic-from-public-benefit-corporation-to-mighty-ipo-ant/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic reports $80.7B loss amid $16.3B revenue surge and $8.9B infrastructure spending.",
-   "published_at": "2026-10-26T08:20:00Z",
-   "url_id": "109bee6caf782fa5abdd312edc29b4a8"
+   "summary_1line": "Anthropic files S-1 for IPO, citing $65B funding and $16.3B revenue.",
+   "published_at": "2026-10-26T14:07:33Z",
+   "url_id": "7d7ec644e1b16b6ba9beba2a35a6b1ce"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic's IPO outlines AI's extraordinary risks",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "label": "CONFIRMED",
-   "url": "https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity",
-   "url_id": "426a5bdbb8e16e3f8cdf5234a2016d0a"
-  },
-  {
-   "headline": "Anthropic’s 7 co-founders are each worth $14 billion already—and that could double in IPO",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "label": "CONFIRMED",
-   "url": "https://fortune.com/2026/10/26/anthropic-ipo-cofounders-how-rich-billionaires-philanthropy-amodei/",
-   "url_id": "34ca2b91b20b595706d493677e4243cd"
-  },
-  {
-   "headline": "Christopher Nolan can rest easy after Elon Musk's Grok releases a terrible AI version of…",
-   "outlet": "GamesRadar+",
-   "outlet_name": "GamesRadar+",
-   "label": "CONFIRMED",
-   "url": "https://www.gamesradar.com/entertainment/drama-movies/christopher-nolan-can-rest-easy-after-elon-musks-grok-releases-a-terrible-ai-version-of-the-odyssey/",
-   "url_id": "dc95ce24cef353ecbcf21eed9709e765"
-  },
-  {
-   "headline": "Anthropic AI bot accessed public Georgia voter data through state data hub",
-   "outlet": "WTOC",
-   "outlet_name": "WTOC",
-   "label": "CONFIRMED",
-   "url": "https://www.wtoc.com/2026/10/26/anthropic-ai-bot-accessed-public-georgia-voter-data-through-state-data-hub/",
-   "url_id": "232ef885d99f0d720cadd42e3e5aa397"
-  },
-  {
-   "headline": "Anthropic's IPO Filing Reveals $80.7B Net Loss as Claude Maker Reports Explosive Revenue…",
-   "outlet": "International Business Times UK",
-   "outlet_name": "International Business Times UK",
-   "label": "CONFIRMED",
-   "url": "https://www.ibtimes.co.uk/anthropic-ipo-filing-80-billion-loss-revenue-1827925",
-   "url_id": "109bee6caf782fa5abdd312edc29b4a8"
+   "headline": "Five weird details from Anthropic’s IPO filing",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "label": "REPORTED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
+   "url_id": "fe6583a778a0b30ba7d2d12bed072e66"
   },
   {
    "headline": "Nvidia unveils RTX Spark software push for AI & games",
@@ -106,62 +74,94 @@
    "url_id": "750b2b60c0c2b25da53410eae7a1bbe9"
   },
   {
-   "headline": "Anthropic discloses risk factors in new S-1: Here's what you need to know",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/26/anthropic-discloses-risk-factors-in-new-s-1-heres-what-you-need-to-know.html",
-   "url_id": "1b929b945f72f2a7e5560b0d6a9e7dd6"
-  },
-  {
-   "headline": "OpenAI starts training its most powerful systems again – but keeps them off the internet…",
-   "outlet": "Yahoo News UK",
-   "outlet_name": "Yahoo News UK",
-   "label": "CONFIRMED",
-   "url": "https://uk.news.yahoo.com/openai-starts-training-most-powerful-135111058.html",
-   "url_id": "9fa4387c2b5f30f3603ee60723c074b2"
-  },
-  {
-   "headline": "Nevis raises $70M to expand its AI platform for wealth advisers",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/nevis-70m-series-b-ai-wealth-management",
-   "url_id": "efb9f9efbfb5e6d1b87912754044cbb9"
-  },
-  {
-   "headline": "DOJ Appeals Court Ruling Lifting Ban on Agency Anthropic Use",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "Another blow for AI music? Anthropic hit with $41 million lawsuit by owners of Elvis…",
+   "outlet": "MusicTech",
+   "outlet_name": "MusicTech",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-26/doj-appeals-court-ruling-lifting-ban-on-agency-anthropic-use",
-   "url_id": "a0120e0149577854d9a7848d9008a2e5"
+   "url": "https://musictech.com/news/industry/elvis-presley-catalogue-owners-sue-anthropic-for-41-million-over-alleged-ai-training/",
+   "url_id": "1e2a84788ce305562f2c64bf2d297e98"
   },
   {
-   "headline": "Dubai Chambers Launches World's First Agentic AI Marketplace by a Chamber of Commerce",
-   "outlet": "Voice of Alexandria",
-   "outlet_name": "Voice of Alexandria",
+   "headline": "Anthropic wants it both ways: public money and private control",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
    "label": "CONFIRMED",
-   "url": "https://www.voiceofalexandria.com/news/national_business_news/dubai-chambers-launches-worlds-first-agentic-ai-marketplace-by-a-chamber-of-commerce/article_b673c0b4-0436-5bdc-904e-e5b862bbeafe.html",
-   "url_id": "59bcc8646ed5ab23871344d9632e10f6"
+   "url": "https://www.businessinsider.com/anthropic-ipo-control-private-trust-shareholders-vote-2026-10",
+   "url_id": "1422fb72f2dbdcfe0f13ff258d8d2a30"
   },
   {
-   "headline": "Künstliche Intelligenz: KI-Pionier Anthropic beantragt Börsengang in den USA",
-   "outlet": "news.de on MSN",
-   "outlet_name": "news.de on MSN",
+   "headline": "Anthropic: From public benefit corporation to mighty IPO ANT",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/de-de/nachrichten/other/künstliche-intelligenz-ki-pionier-anthropic-beantragt-börsengang-in-den-usa/ar-AA2g5SpD",
-   "url_id": "56527d0b3a7c8b45bdd614841c18181c"
+   "url": "https://www.tradingview.com/news/seekingalpha:76dce3589094b:0-anthropic-from-public-benefit-corporation-to-mighty-ipo-ant/",
+   "url_id": "7d7ec644e1b16b6ba9beba2a35a6b1ce"
+  },
+  {
+   "headline": "The Anthropic IPO Is Also a Doomsday Primer",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
+   "label": "CONFIRMED",
+   "url": "https://www.wired.com/story/the-anthropic-ipo-is-also-a-doomsday-primer/",
+   "url_id": "38c916cf86609025b222fe32728c6aee"
+  },
+  {
+   "headline": "ANT IPO News - AI model developer Anthropic PBC files for an estimated $75 billion IPO…",
+   "outlet": "www.renaissancecapital.com",
+   "outlet_name": "www.renaissancecapital.com",
+   "label": "STILL OPEN",
+   "url": "https://www.renaissancecapital.com/IPO-Center/News/122417/AI-model-developer-Anthropic-PBC-files-for-an-estimated-$75-billion-IPO-tee",
+   "url_id": "e362ad73170a62f4f339201c07494f3b"
+  },
+  {
+   "headline": "Anthropic files for IPO, revealing up to $165 billion in NVIDIA GPU compute deals and a…",
+   "outlet": "The FPS Review on MSN",
+   "outlet_name": "The FPS Review on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/tech-companies/anthropic-files-for-ipo-revealing-up-to-165-billion-in-nvidia-gpu-compute-deals-and-a-warning-about-memory-supply/ar-AA2g5PPZ",
+   "url_id": "905ad686256fa76f7c825651abc4b134"
+  },
+  {
+   "headline": "Anthropic IPO could raise $100 billion at $2 trillion valuation",
+   "outlet": "TheDesk.net",
+   "outlet_name": "TheDesk.net",
+   "label": "CONFIRMED",
+   "url": "https://thedesk.net/2026/10/anthropic-claude-ipo-details/",
+   "url_id": "fd04c88ea76de945ca1690a6b891c230"
+  },
+  {
+   "headline": "CapCut is adding a ChatGPT plugin. See it in action.",
+   "outlet": "mashable.com",
+   "outlet_name": "mashable.com",
+   "label": "CONFIRMED",
+   "url": "https://mashable.com/tech/capcut-chatgpt-plugin-announced",
+   "url_id": "02a9bbeb7878e8a048e169f94845d062"
+  },
+  {
+   "headline": "Anthropic flags increasingly restrictive AI regulation as a business risk",
+   "outlet": "Yahoo Finance on MSN",
+   "outlet_name": "Yahoo Finance on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/anthropic-flags-increasingly-restrictive-ai-regulation-as-a-business-risk/ar-AA2g6zEk",
+   "url_id": "fcdfd72e92ce3509eb60f197197340d7"
+  },
+  {
+   "headline": "Anthropic vor Börsengang: Umsatz vervierzehnfacht und enorme KI-Kosten",
+   "outlet": "heise.de",
+   "outlet_name": "heise.de",
+   "label": "STILL OPEN",
+   "url": "https://www.heise.de/news/Anthropic-vor-Boersengang-Umsatz-vervierzehnfacht-und-enorme-KI-Kosten-11500707.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "url_id": "27b8c27d93e02e69cc49238937ee8d37"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
- "articles_24h_rounded": 14400,
- "articles_24h_label": "about 14,000",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 14900,
+ "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/18.mp3",
- "audio_seconds": 63.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/19.mp3",
+ "audio_seconds": 48.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's IPO filing outlines extraordinary risks in artificial intelligence, including existential threats and unauthorized system access. Confirmed by Axios.\nSeven Anthropic co-founders each own 240 million shares, with 80 percent pledged to philanthropy. Confirmed by Fortune.\nGrok released an artificial intelligence adaptation of The Odyssey that drew criticism over its artistic quality. Confirmed by GamesRadar+.\nAnthropic's artificial intelligence bot accessed public Georgia voter data through the state data hub without touching registration systems. Confirmed by WTOC.\nAnthropic reports an 80.7 billion dollar loss alongside a 16.3 billion dollar revenue surge and 8.9 billion dollars in infrastructure spending. Confirmed by International Business Times UK.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The Verge: Five weird details from Anthropic’s IPO filing.\nConfirmed, per FutureFive New Zealand: Nvidia unveils RTX Spark software push for AI & games.\nReported by MusicTech: Another blow for AI music? Anthropic hit with $41 million lawsuit by owners of Elvis Presley's catalogue.\nConfirmed, per Business Insider: Anthropic wants it both ways: public money and private control.\nConfirmed, per TradingView: Anthropic: From public benefit corporation to mighty IPO ANT.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
