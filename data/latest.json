@@ -1,101 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T12:20:02Z",
- "hour": "2026-10-26T13:00:00Z",
+ "generated_at": "2026-10-26T13:20:02Z",
+ "hour": "2026-10-26T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Why are Elvis Presley rightsholders suing AI company Anthropic?",
+   "title": "Who owns Elvis’s music in the AI era? Anthropic faces lawsuit",
+   "outlet": "Mathrubhumi English",
+   "outlet_name": "Mathrubhumi English",
+   "url": "https://english.mathrubhumi.com/news/world/anthropic-sued-elvis-presley-songs-ai-training-lawsuit-kklwpd5q",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic sued over alleged use of 274 Elvis songs in AI training.",
+   "published_at": "2026-10-26T04:38:00Z",
+   "url_id": "ef7096a3dbb2f99e801d5f702a2f4698"
+  },
+  {
+   "title": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
+   "outlet": "Rolling Stone UK",
+   "outlet_name": "Rolling Stone UK",
+   "url": "https://www.rollingstone.co.uk/music/news/elvis-presley-rightsholders-sue-anthropic-for-training-on-274-songs-without-permission-65378/",
+   "label": "REPORTED",
+   "summary_1line": "Elvis estate sues Anthropic over unauthorized use of 274 songs in training Claude AI.",
+   "published_at": "2026-10-26T09:50:00Z",
+   "url_id": "8a649bed1102d9fa213efd98f1dbcef8"
+  },
+  {
+   "title": "'Pure garbage': Elon Musk’s AI-generated 'The Odyssey' clip ridiculed online",
    "outlet": "Euronews.com",
    "outlet_name": "Euronews",
-   "url": "https://www.euronews.com/2026/10/26/why-are-elvis-presley-rightsholders-suing-ai-company-anthropic",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic sued over alleged Elvis song use in AI training, facing $40M+ damages.",
-   "published_at": "2026-10-26T09:37:19Z",
-   "url_id": "7ac12543d1f8a54a56b3415149704498"
+   "url": "https://www.euronews.com/2026/10/26/pure-garbage-elon-musks-ai-generated-the-odyssey-clip-ridiculed-online",
+   "label": "STILL OPEN",
+   "summary_1line": "Musk's AI 'Odyssey' trailer faces backlash for inaccuracies and poor artistry.",
+   "published_at": "2026-10-26T10:40:30Z",
+   "url_id": "8f5c00be8186898260c33b4c834aad97"
   },
   {
-   "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+   "title": "AdPlug Launches Google Ads MCP for Claude and ChatGPT, Built by a Marketer Who Once Spent $300,000 in a Day",
+   "outlet": "EIN Presswire",
+   "outlet_name": "EIN Presswire",
+   "url": "https://www.einpresswire.com/article/952051003/adplug-launches-google-ads-mcp-for-claude-and-chatgpt-built-by-a-marketer-who-once-spent-300-000-in-a-day",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-26T11:03:33Z",
-   "url_id": "27a94fbccecd690caaecc07ffc6b9ab5"
-  },
-  {
-   "title": "Grok's AI-made 'Odyssey' arrives, and it is hard to watch",
-   "outlet": "The Daily Star",
-   "outlet_name": "The Daily Star",
-   "url": "https://www.thedailystar.net/news/technology/news/groks-ai-made-odyssey-arrives-and-it-hard-watch-4307781",
-   "label": "CONFIRMED",
-   "summary_1line": "Grok's AI 'Odyssey' video is criticized for poor narrative and historical accuracy, despite promises of historical fidelity.",
-   "published_at": "2026-10-26T10:50:19Z",
-   "url_id": "67995340631158b948381fc3498518d0"
-  },
-  {
-   "title": "Meta's $42B in penalties is a warning to AI",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/26/meta-litigation-ai-legal-risk",
-   "label": "CONFIRMED",
-   "summary_1line": "Meta's $42B penalties warn AI firms of growing legal risks as Section 230 doesn't protect AI-generated content.",
-   "published_at": "2026-10-26T09:20:06Z",
-   "url_id": "4cd883f481701188874ac1e046be609a"
-  },
-  {
-   "title": "Polymarket traders cool on $2 trillion Anthropic IPO, with odds of a $2 trillion debut slipping to 42%",
-   "outlet": "Proactive financial news",
-   "outlet_name": "Proactive financial news",
-   "url": "https://www.proactiveinvestors.com/companies/news/1100666/polymarket-traders-cool-on-2-trillion-anthropic-ipo-with-odds-of-a-2-trillion-debut-slipping-to-42-1100666.html",
-   "label": "REPORTED",
-   "summary_1line": null,
+   "summary_1line": "Daniel Popa's AdPlug connects ad platforms to AI tools for PPC specialists.",
    "published_at": "2026-10-26T11:00:00Z",
-   "url_id": "ce51541619e93773e682157a50b71e57"
+   "url_id": "9a9ba49b8a430066a0585bf1ddf10952"
+  },
+  {
+   "title": "Most brokerages experimenting with AI lack a formal policy to govern it, NIBA research finds",
+   "outlet": "Insurance Business",
+   "outlet_name": "Insurance Business",
+   "url": "https://www.insurancebusinessmag.com/au/news/technology/most-brokerages-experimenting-with-ai-lack-a-formal-policy-to-govern-it-niba-research-finds-594915.aspx",
+   "label": "CONFIRMED",
+   "summary_1line": "91% of Australian brokerages use AI, but few have formal policies or safeguards.",
+   "published_at": "2026-10-26T12:09:27Z",
+   "url_id": "485fb6631ca1f1fe04bee520d2dd104e"
   }
  ],
  "ticker": [
   {
-   "headline": "Why are Elvis Presley rightsholders suing AI company Anthropic?",
+   "headline": "Who owns Elvis’s music in the AI era? Anthropic faces lawsuit",
+   "outlet": "Mathrubhumi English",
+   "outlet_name": "Mathrubhumi English",
+   "label": "CONFIRMED",
+   "url": "https://english.mathrubhumi.com/news/world/anthropic-sued-elvis-presley-songs-ai-training-lawsuit-kklwpd5q",
+   "url_id": "ef7096a3dbb2f99e801d5f702a2f4698"
+  },
+  {
+   "headline": "Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission",
+   "outlet": "Rolling Stone UK",
+   "outlet_name": "Rolling Stone UK",
+   "label": "REPORTED",
+   "url": "https://www.rollingstone.co.uk/music/news/elvis-presley-rightsholders-sue-anthropic-for-training-on-274-songs-without-permission-65378/",
+   "url_id": "8a649bed1102d9fa213efd98f1dbcef8"
+  },
+  {
+   "headline": "'Pure garbage': Elon Musk’s AI-generated 'The Odyssey' clip ridiculed online",
    "outlet": "Euronews.com",
    "outlet_name": "Euronews",
-   "label": "CONFIRMED",
-   "url": "https://www.euronews.com/2026/10/26/why-are-elvis-presley-rightsholders-suing-ai-company-anthropic",
-   "url_id": "7ac12543d1f8a54a56b3415149704498"
+   "label": "STILL OPEN",
+   "url": "https://www.euronews.com/2026/10/26/pure-garbage-elon-musks-ai-generated-the-odyssey-clip-ridiculed-online",
+   "url_id": "8f5c00be8186898260c33b4c834aad97"
   },
   {
-   "headline": "Anthropic’s Claude AI model accessed Georgia voter data in US",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
+   "headline": "AdPlug Launches Google Ads MCP for Claude and ChatGPT, Built by a Marketer Who Once Spent…",
+   "outlet": "EIN Presswire",
+   "outlet_name": "EIN Presswire",
    "label": "REPORTED",
-   "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
-   "url_id": "27a94fbccecd690caaecc07ffc6b9ab5"
+   "url": "https://www.einpresswire.com/article/952051003/adplug-launches-google-ads-mcp-for-claude-and-chatgpt-built-by-a-marketer-who-once-spent-300-000-in-a-day",
+   "url_id": "9a9ba49b8a430066a0585bf1ddf10952"
   },
   {
-   "headline": "Grok's AI-made 'Odyssey' arrives, and it is hard to watch",
-   "outlet": "The Daily Star",
-   "outlet_name": "The Daily Star",
+   "headline": "Most brokerages experimenting with AI lack a formal policy to govern it, NIBA research…",
+   "outlet": "Insurance Business",
+   "outlet_name": "Insurance Business",
    "label": "CONFIRMED",
-   "url": "https://www.thedailystar.net/news/technology/news/groks-ai-made-odyssey-arrives-and-it-hard-watch-4307781",
-   "url_id": "67995340631158b948381fc3498518d0"
+   "url": "https://www.insurancebusinessmag.com/au/news/technology/most-brokerages-experimenting-with-ai-lack-a-formal-policy-to-govern-it-niba-research-finds-594915.aspx",
+   "url_id": "485fb6631ca1f1fe04bee520d2dd104e"
   },
   {
-   "headline": "Meta's $42B in penalties is a warning to AI",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
+   "headline": "NJ Democrats eye data center, AI regulation if Congress changes hands",
+   "outlet": "New Jersey Monitor",
+   "outlet_name": "New Jersey Monitor",
    "label": "CONFIRMED",
-   "url": "https://www.axios.com/2026/10/26/meta-litigation-ai-legal-risk",
-   "url_id": "4cd883f481701188874ac1e046be609a"
+   "url": "https://newjerseymonitor.com/2026/10/26/democrats-midterm-elections-data-centers-ai/",
+   "url_id": "9bf9c25d4475997a44b2783fa5ea75b9"
   },
   {
-   "headline": "Polymarket traders cool on $2 trillion Anthropic IPO, with odds of a $2 trillion debut…",
-   "outlet": "Proactive financial news",
-   "outlet_name": "Proactive financial news",
-   "label": "REPORTED",
-   "url": "https://www.proactiveinvestors.com/companies/news/1100666/polymarket-traders-cool-on-2-trillion-anthropic-ipo-with-odds-of-a-2-trillion-debut-slipping-to-42-1100666.html",
-   "url_id": "ce51541619e93773e682157a50b71e57"
+   "headline": "Honeywell brings AI backed by Nvidia and Dell to Africa’s biggest refinery as Dangote…",
+   "outlet": "Business Insider Africa",
+   "outlet_name": "Business Insider Africa",
+   "label": "CONFIRMED",
+   "url": "https://africa.businessinsider.com/local/markets/honeywell-brings-ai-backed-by-nvidia-and-dell-to-africas-biggest-refinery-as-dangote/smyfmec",
+   "url_id": "4289b1c2e9604cdd6eb02469dc53d9d7"
   },
   {
    "headline": "Goa launches AI Policy 2026: Here's how it plans to use AI across public services |…",
@@ -106,20 +122,12 @@
    "url_id": "4f20b2635c2543a056bd0290e66e555a"
   },
   {
-   "headline": "Claude Mythos 5 used fake accounts to pressure a real GitHub maintainer",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/mythos-5-fake-accounts-github-malware-aisi-anthropic",
-   "url_id": "56e3f618bef61746d2143ded671e3d0d"
-  },
-  {
-   "headline": "Synextra launches AI agents to tackle high-volume regulated work",
-   "outlet": "Warrington Guardian",
-   "outlet_name": "Warrington Guardian",
-   "label": "REPORTED",
-   "url": "https://www.warringtonguardian.co.uk/news/26663996.warrington-firm-synextra-launches-new-ai-agent-service/",
-   "url_id": "411729329f3431b52f8ef6e5dfa5e77c"
+   "headline": "AI security scare ahead of US midterms: Anthropic's Claude accessed Georgia vote data…",
+   "outlet": "Mint on MSN",
+   "outlet_name": "Mint on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-in/news/other/ai-security-scare-ahead-of-us-midterms-anthropic-s-claude-accessed-georgia-vote-data-without-authorization-details/ar-AA2g59sy",
+   "url_id": "40e1901fead1914c1c9993ef2ea84453"
   },
   {
    "headline": "Malicious downloads can trick AI coding agents into compromising themselves",
@@ -130,38 +138,30 @@
    "url_id": "0a1f7446b6d0ffbe4c838f6da9bc2d8e"
   },
   {
-   "headline": "Rambus partners with ChipAgents on agentic AI for chip design",
-   "outlet": "techmonitor.ai",
-   "outlet_name": "techmonitor.ai",
+   "headline": "OpenAI, Anthropic disclosures spotlight growing AI containment challenge",
+   "outlet": "cio.com",
+   "outlet_name": "cio.com",
    "label": "CONFIRMED",
-   "url": "https://www.techmonitor.ai/news/rambus-partners-with-chipagents-on-agentic-ai-for-chip-design",
-   "url_id": "8b82a0eba20d8097143be773ad70c204"
+   "url": "https://www.cio.com/article/4240288/openai-anthropic-disclosures-spotlight-growing-ai-containment-challenge-2.html",
+   "url_id": "879f9a9b26f0c06aba52b31df968cd54"
   },
   {
-   "headline": "NVIDIA unveils architecture for secure enterprise AI agents",
-   "outlet": "Engineering.com",
-   "outlet_name": "Engineering.com",
-   "label": "REPORTED",
-   "url": "https://www.engineering.com/nvidia-unveils-architecture-for-secure-enterprise-ai-agents/",
-   "url_id": "35154e37b29cc7c2829b90d6e6f94e35"
-  },
-  {
-   "headline": "8x Faster Than GPT-6 Luna: New Model Outperforms Counterpart on Diffusion LLM Benchmark…",
-   "outlet": "eu.36kr.com",
-   "outlet_name": "eu.36kr.com",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4039680498717828",
-   "url_id": "686e5f2854ce39ff1d3e360d98dfdcdf"
+   "headline": "Anthropic details what stops Claude Duet from going rogue",
+   "outlet": "helpnetsecurity.com",
+   "outlet_name": "helpnetsecurity.com",
+   "label": "CONFIRMED",
+   "url": "https://www.helpnetsecurity.com/2026/10/26/anthropic-claude-duet-security-safeguards/",
+   "url_id": "9d3858a9297609b93899755d42e72c2e"
   }
  ],
- "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 10800,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 11200,
  "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/13.mp3",
- "audio_seconds": 62.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/14.mp3",
+ "audio_seconds": 58.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic faces a $40M+ damages lawsuit from Elvis Presley rightsholders over alleged use of Elvis songs in AI training, per Euronews Confirmed.\nThe Guardian Reported that Anthropic's Claude AI model accessed Georgia voter data in the US.\nGrok's AI-made Odyssey video arrived but is criticized for poor narrative and historical accuracy despite promises of historical fidelity, says The Daily Star Confirmed.\nMeta's $42B in penalties warns artificial intelligence firms of growing legal risks as Section 230 does not protect AI-generated content, per Axios Confirmed.\nPolymarket traders have cooled on a $2 trillion Anthropic IPO, with odds of a $2 trillion debut slipping to 42%, Proactive financial news Reported.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Mathrubhumi English: Who owns Elvis’s music in the AI era? Anthropic faces lawsuit.\nReported by Rolling Stone UK: Elvis Presley Rightsholders Sue Anthropic for Training on 274 Songs Without Permission.\nStill open, per Euronews: 'Pure garbage': Elon Musk’s AI-generated 'The Odyssey' clip ridiculed online.\nReported by EIN Presswire: AdPlug Launches Google Ads MCP for Claude and ChatGPT, Built by a Marketer Who Once Spent $300,000 in a Day.\nConfirmed, per Insurance Business: Most brokerages experimenting with AI lack a formal policy to govern it, NIBA research finds.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
