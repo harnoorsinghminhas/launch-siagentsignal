@@ -1,14 +1,14 @@
 {
- "items_total": 794117,
- "reading_hours_total": 39705.85,
+ "items_total": 794118,
+ "reading_hours_total": 39705.9,
  "minutes_per_item": 3,
- "rate_hours_per_hour": 0.017,
- "as_of_utc": "2026-10-26T20:23:53Z",
+ "rate_hours_per_hour": 0.019,
+ "as_of_utc": "2026-10-26T21:24:09Z",
  "first_day": "2026-08-13",
  "method": "Reading hours saved = every item we read x 3 minutes / 60, about the time to read a typical news article. Counted from our own records of what we read; nothing estimated except the live pace between updates.",
- "items_today": 8,
- "items_last_24h": 8,
- "rate_items_per_hour": 0.3,
+ "items_today": 9,
+ "items_last_24h": 9,
+ "rate_items_per_hour": 0.4,
  "days_counted": 75,
  "schema": 1
 }
