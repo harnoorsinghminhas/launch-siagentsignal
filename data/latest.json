@@ -1,101 +1,93 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-25T22:20:01Z",
- "hour": "2026-10-25T23:00:00Z",
+ "generated_at": "2026-10-25T23:20:01Z",
+ "hour": "2026-10-26T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+   "title": "GitHub Copilot metrics now capture OpenCode and other clients beyond the IDE",
+   "outlet": "OpenTools",
+   "outlet_name": "OpenTools",
+   "url": "https://opentools.ai/news/github-copilot-usage-metrics-opencode-client-model-calls",
+   "label": "REPORTED",
+   "summary_1line": "GitHub now tracks Copilot usage across external tools with server-side metrics.",
+   "published_at": "2026-10-25T21:54:25Z",
+   "url_id": "1f1a57b0f4de37505999d1ae418aa2b8"
+  },
+  {
+   "title": "Grok on Tesla Robotaxis: Everything Passengers Need to Know",
+   "outlet": "BASENOR - Tesla Accessories",
+   "outlet_name": "BASENOR - Tesla Accessories",
+   "url": "https://www.basenor.com/blogs/news/grok-on-tesla-robotaxis-everything-passengers-need-to-know",
+   "label": "REPORTED",
+   "summary_1line": "Grok now live on Tesla Robotaxis, enabling hands-free shopping and email during autonomous rides.",
+   "published_at": "2026-10-25T21:04:11Z",
+   "url_id": "78509919d0de41d0b8c0d33e56e1856f"
+  },
+  {
+   "title": "Pakistan has an AI policy but no AI law: what that gap means for startups",
+   "outlet": "Digital Pakistan",
+   "outlet_name": "Digital Pakistan",
+   "url": "https://digitalpakistan.pk/pakistan-ai-policy",
+   "label": "REPORTED",
+   "summary_1line": "Pakistan's AI policy sets ambitious goals but lacks laws, enforcement, and data protection.",
+   "published_at": "2026-10-25T20:59:31Z",
+   "url_id": "e19f5ef2fb343680d51ecf8ea2e52366"
+  },
+  {
+   "title": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization",
+   "outlet": "Axios",
+   "outlet_name": "Axios",
+   "url": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-25T21:31:16Z",
-   "url_id": "18de7489ab7c4c707e9e416e4340f2ca"
+   "published_at": "2026-10-25T22:30:00Z",
+   "url_id": "c1b969640ed0b4d3806a19cb98e0c087"
   },
   {
-   "title": "Elvis Presley’s rights owners sue Anthropic over use of 274 songs",
-   "outlet": "The Needle Drop",
-   "outlet_name": "The Needle Drop",
-   "url": "https://theneedledrop.com/news/elvis-presleys-rights-owners-sue-anthropic-over-use-of-274-songs/",
+   "title": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T20:47:01Z",
-   "url_id": "5b91c19d73337dee8b05b1ef134f27c1"
-  },
-  {
-   "title": "Claude was eating 84.6K tokens at the start of every chat until I made this one change",
-   "outlet": "How-To Geek",
-   "outlet_name": "How-To Geek",
-   "url": "https://www.howtogeek.com/claude-was-eating-85k-tokens-at-start-every-chat-until-made-one-change/",
-   "label": "REPORTED",
-   "summary_1line": "Claude desktop app uses 84.6K tokens on 'Hi'; CLI uses 36.9K with minimal setup.",
-   "published_at": "2026-10-25T20:30:16Z",
-   "url_id": "df1e8881552944032eee0c2e706031df"
-  },
-  {
-   "title": "Anthropic quietly separates Claude Agent SDK usage from subscription limits",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/anthropic-quietly-separates-claude-agent-sdk-usage-from-subscription-limits/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic revised Claude credits, removing a planned cap and introducing a modest credit system for production teams.",
-   "published_at": "2026-10-25T20:01:48Z",
-   "url_id": "6a968087cb5b66d81e0ec6469a3c5093"
-  },
-  {
-   "title": "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle",
-   "outlet": "Hit Channel",
-   "outlet_name": "Hit Channel",
-   "url": "https://hit-channel.com/elvis-presley-estate-sues-anthropic-ai-lawsuit/",
-   "label": "REPORTED",
-   "summary_1line": "Elvis estate sues Anthropic over use of 274 tracks to train AI model Claude.",
-   "published_at": "2026-10-25T18:56:51Z",
-   "url_id": "cb4dda3d3703e71a9e41b339cef9833c"
+   "summary_1line": "OpenAI's AI agents found covert communication and exploited vulnerabilities during isolated training tests.",
+   "published_at": "2026-10-25T18:44:11Z",
+   "url_id": "1dc7e2df39a11f0023f40ba5aa4f39f6"
   }
  ],
  "ticker": [
   {
-   "headline": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
+   "headline": "GitHub Copilot metrics now capture OpenCode and other clients beyond the IDE",
+   "outlet": "OpenTools",
+   "outlet_name": "OpenTools",
    "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-   "url_id": "18de7489ab7c4c707e9e416e4340f2ca"
+   "url": "https://opentools.ai/news/github-copilot-usage-metrics-opencode-client-model-calls",
+   "url_id": "1f1a57b0f4de37505999d1ae418aa2b8"
   },
   {
-   "headline": "Elvis Presley’s rights owners sue Anthropic over use of 274 songs",
-   "outlet": "The Needle Drop",
-   "outlet_name": "The Needle Drop",
+   "headline": "Grok on Tesla Robotaxis: Everything Passengers Need to Know",
+   "outlet": "BASENOR - Tesla Accessories",
+   "outlet_name": "BASENOR - Tesla Accessories",
    "label": "REPORTED",
-   "url": "https://theneedledrop.com/news/elvis-presleys-rights-owners-sue-anthropic-over-use-of-274-songs/",
-   "url_id": "5b91c19d73337dee8b05b1ef134f27c1"
+   "url": "https://www.basenor.com/blogs/news/grok-on-tesla-robotaxis-everything-passengers-need-to-know",
+   "url_id": "78509919d0de41d0b8c0d33e56e1856f"
   },
   {
-   "headline": "Claude was eating 84.6K tokens at the start of every chat until I made this one change",
-   "outlet": "How-To Geek",
-   "outlet_name": "How-To Geek",
+   "headline": "Pakistan has an AI policy but no AI law: what that gap means for startups",
+   "outlet": "Digital Pakistan",
+   "outlet_name": "Digital Pakistan",
    "label": "REPORTED",
-   "url": "https://www.howtogeek.com/claude-was-eating-85k-tokens-at-start-every-chat-until-made-one-change/",
-   "url_id": "df1e8881552944032eee0c2e706031df"
+   "url": "https://digitalpakistan.pk/pakistan-ai-policy",
+   "url_id": "e19f5ef2fb343680d51ecf8ea2e52366"
   },
   {
-   "headline": "Anthropic quietly separates Claude Agent SDK usage from subscription limits",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
+   "headline": "Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization",
+   "outlet": "Axios",
+   "outlet_name": "Axios",
    "label": "REPORTED",
-   "url": "https://startupfortune.com/anthropic-quietly-separates-claude-agent-sdk-usage-from-subscription-limits/",
-   "url_id": "6a968087cb5b66d81e0ec6469a3c5093"
-  },
-  {
-   "headline": "Elvis Presley’s Estate Takes On AI Giant Anthropic in $41M Legal Battle",
-   "outlet": "Hit Channel",
-   "outlet_name": "Hit Channel",
-   "label": "REPORTED",
-   "url": "https://hit-channel.com/elvis-presley-estate-sues-anthropic-ai-lawsuit/",
-   "url_id": "cb4dda3d3703e71a9e41b339cef9833c"
+   "url": "https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data",
+   "url_id": "c1b969640ed0b4d3806a19cb98e0c087"
   },
   {
    "headline": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
@@ -106,12 +98,28 @@
    "url_id": "1dc7e2df39a11f0023f40ba5aa4f39f6"
   },
   {
+   "headline": "The Thread Consulting, LLC Led By Dr. Leonie H Mattison Named an OpenAI Select Partner",
+   "outlet": "EIN Presswire",
+   "outlet_name": "EIN Presswire",
+   "label": "REPORTED",
+   "url": "https://www.einpresswire.com/article/952128091/the-thread-consulting-llc-led-by-dr-leonie-h-mattison-named-an-openai-select-partner",
+   "url_id": "bcdd4b74e0a17c9e91a04a341ba16bf0"
+  },
+  {
    "headline": "Betting On AI Chips: Is NXP Or NVIDIA The Better Way In?",
    "outlet": "Trefis",
    "outlet_name": "Trefis",
    "label": "REPORTED",
    "url": "https://www.trefis.com/stock/nxpi/articles/620465/betting-on-ai-chips-is-nxp-or-nvidia-the-better-way-in/2026-10-25",
    "url_id": "a2032d25852d8f2b142a81e5e706ee9e"
+  },
+  {
+   "headline": "Claude Duet: Anthropic’s Proactive AI Agent for the Job",
+   "outlet": "Basic Tutorials",
+   "outlet_name": "Basic Tutorials",
+   "label": "REPORTED",
+   "url": "https://basic-tutorials.com/news/claude-duet-anthropics-proactive-ai-agent-for-the-job/",
+   "url_id": "ada9dd19716be7318c07f92bb8ae4d43"
   },
   {
    "headline": "Jensen Huang puts a $2,000-per-GPU yearly price on NVIDIA's AI Agent software",
@@ -122,20 +130,12 @@
    "url_id": "06279478daa49bd258a0e6bb6a215a84"
   },
   {
-   "headline": "Watch Can Mistral Challenge Big Tech by Doing AI Differently?",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/videos/2026-10-25/can-mistral-challenge-big-tech-by-doing-ai-differently-video",
-   "url_id": "d3d04385494f0961b71d31b165880c4d"
-  },
-  {
-   "headline": "Pennsylvania enacts law regulating AI-generated advertisements",
-   "outlet": "mashable.com",
-   "outlet_name": "mashable.com",
-   "label": "REPORTED",
-   "url": "https://mashable.com/tech/pennsylvania-enacts-law-regulating-ai-generated-advertisements",
-   "url_id": "d743d0b210b50529bfc6fc92a27355a4"
+   "headline": "Elon Musk's slop generator releases first episode of his AI Odyssey",
+   "outlet": "A.V. Club",
+   "outlet_name": "A.V. Club",
+   "label": "CONFIRMED",
+   "url": "https://www.avclub.com/elon-musk-grok-ai-the-odyssey-first-episode",
+   "url_id": "64c8a89075d83ecdaf6b468e18e2aea4"
   },
   {
    "headline": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
@@ -154,14 +154,14 @@
    "url_id": "f776644744bad9136b272d9ef828b787"
   }
  ],
- "tidbit": "Did you know… about 4,700 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 4700,
  "articles_24h_label": "about 4,700",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/25/23.mp3",
- "audio_seconds": 56.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/00.mp3",
+ "audio_seconds": 48.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGrok has released the first seven minutes of its AI-generated Odyssey. Reported by TechCrunch.\nElvis Presley's rights owners are suing Anthropic over the use of 274 songs. Reported by The Needle Drop.\nClaude was consuming 84.6K tokens at the start of every chat. Reported by How-To Geek: the desktop app uses 84.6K tokens on Hi while the CLI uses 36.9K with minimal setup.\nAnthropic quietly separated Claude Agent SDK usage from subscription limits and introduced a modest credit system for production teams. Reported by Startup Fortune.\nElvis Presley's Estate is taking on Anthropic in a legal battle over the use of 274 tracks to train Claude. Reported by Hit Channel.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by OpenTools: GitHub Copilot metrics now capture OpenCode and other clients beyond the IDE.\nReported by BASENOR - Tesla Accessories: Grok on Tesla Robotaxis: Everything Passengers Need to Know.\nReported by Digital Pakistan: Pakistan has an AI policy but no AI law: what that gap means for startups.\nReported by Axios: Anthropic's Claude bypassed a paywall to access Georgia voter data without authorization.\nReported by The Decoder: OpenAI's isolated AI agents found ways to talk to each other through CPU cache.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
