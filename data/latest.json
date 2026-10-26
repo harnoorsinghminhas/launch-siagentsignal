@@ -1,109 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T08:20:01Z",
- "hour": "2026-10-26T09:00:00Z",
+ "generated_at": "2026-10-26T09:20:02Z",
+ "hour": "2026-10-26T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "SpaceX secures $40 billion in debt financing to buy AI chips, says Elon Musk",
-   "outlet": "ET Enterprise AI",
-   "outlet_name": "ET Enterprise AI",
-   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/spacex-secures-40-billion-in-debt-financing-to-buy-ai-chips-says-elon-musk/135204105",
+   "title": "Elon Musk’s Grok Releases AI-Generated Odyssey Episode Amid Nolan Feud",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "url": "https://www.analyticsinsight.net/news/elon-musks-grok-releases-ai-generated-odyssey-episode-amid-nolan-feud",
    "label": "CONFIRMED",
-   "summary_1line": "SpaceX closes $40B financing for AI chips, targeting 2027-2028 GPU rollout.",
-   "published_at": "2026-10-26T05:54:59Z",
-   "url_id": "deb41678e43cee49954620655128c96f"
+   "summary_1line": "Grok Imagine releases first episode of AI adaptation of The Odyssey, months after Musk's promise.",
+   "published_at": "2026-10-26T00:15:00Z",
+   "url_id": "5e00156bf598563b565eb8750739d297"
   },
   {
-   "title": "Anthropic logged net loss of over $80 billion in first half of 2026",
-   "outlet": "Red Lake Nation News",
-   "outlet_name": "Red Lake Nation News",
-   "url": "https://www.redlakenationnews.com/story/2026/10/26/business/anthropic-logged-net-loss-of-over-80-billion-in-first-half-of-2026/143654.html",
+   "title": "From OpenAI to Malaysia, Masayoshi Son Unveils SoftBank's \"ASI Blueprint\"! $50 Billion Investment Plan Ignites Bullish Sentiment in Semiconductors",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
+   "url": "https://news.futunn.com/en/post/1002257141/from-openai-to-malaysia-masayoshi-son-unveils-softbank-s-asi",
+   "label": "REPORTED",
+   "summary_1line": "JavaScript must be enabled to use the site.",
+   "published_at": "2026-10-26T07:28:17Z",
+   "url_id": "a26daa3a4c9fdd5b728efadaeb0a9165"
+  },
+  {
+   "title": "Azerbaijan updates journalists’ ethics code to regulate AI use and privacy",
+   "outlet": "Trend News Agency",
+   "outlet_name": "Trend News Agency",
+   "url": "https://www.trend.az/azerbaijan/society/4239001.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's first-half loss surged to $80.7B due to bond value increases.",
-   "published_at": "2026-10-26T05:06:39Z",
-   "url_id": "51f7ef34fcb9b1ddc163ef29046851a8"
+   "summary_1line": "Azerbaijan updates journalist ethics code to regulate AI use and protect personal data.",
+   "published_at": "2026-10-26T06:16:31Z",
+   "url_id": "0809d5cae5fb49aa2b7a33aff3625c63"
   },
   {
-   "title": "Anthropic’s draft AI bill draws fire for setting a high bar on federal action",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/anthropic-draft-ai-safety-bill-criticism/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic shares draft AI safety bill with lawmakers, setting $1B and 50-person thresholds for federal action.",
-   "published_at": "2026-10-25T17:00:00Z",
-   "url_id": "eb1ffc1546dd83685ea68ea05a637862"
+   "title": "Britain’s First AI Biosecurity Lab Pairs OpenAI and Anthropic Against Biological Threats",
+   "outlet": "techtimes",
+   "outlet_name": "techtimes",
+   "url": "https://www.techtimes.com/articles/329471/20261026/britains-first-ai-biosecurity-lab-pairs-openai-anthropic-against-biological-threats.htm",
+   "label": "CONFIRMED",
+   "summary_1line": "UK launches AIBL with £100M cash and £200M AI credits to combat AI-enabled biological threats.",
+   "published_at": "2026-10-26T00:40:00Z",
+   "url_id": "aa0580dfe3992f357ef3ffef05e2973a"
   },
   {
-   "title": "Claude Monet's \"Iris\" Sells for Record-Breaking $56.2 Million USD at Sotheby's Paris",
-   "outlet": "Hypebeast",
-   "outlet_name": "Hypebeast",
-   "url": "https://hypebeast.com/2026/10/claude-monet-iris-sells-for-record-breaking-56-million-usd-sothebys-paris-auction-news",
-   "label": "REPORTED",
-   "summary_1line": "Monet's 'Iris' sells for $56.2M, setting French art auction record.",
-   "published_at": "2026-10-26T06:10:59Z",
-   "url_id": "3d4e6f7a8c1f2831c15c5964af8c8771"
-  },
-  {
-   "title": "AI: Anthropic’s Margin, OpenAI’s Opportunity. AI-RTZ #1251",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "url": "https://michaelparekh.substack.com/p/ai-anthropics-margin-openais-opportunity",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI gains share from Anthropic as pricing shifts, with major customers switching due to discounts and flexible models.",
-   "published_at": "2026-10-26T05:02:33Z",
-   "url_id": "a0dc35dcd18aa66e879a15b408ebd752"
+   "title": "AI cloud computing companies face ‘guppy-level death’, Elon Musk warns, as funding dries up – business live",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+   "label": "STILL OPEN",
+   "summary_1line": "Musk warns 200 neoclouds face collapse as AI data center funding dries up.",
+   "published_at": "2026-10-26T07:33:27Z",
+   "url_id": "1fd65540b9b49b18bb841c6ebab54704"
   }
  ],
  "ticker": [
   {
-   "headline": "SpaceX secures $40 billion in debt financing to buy AI chips, says Elon Musk",
-   "outlet": "ET Enterprise AI",
-   "outlet_name": "ET Enterprise AI",
+   "headline": "Elon Musk’s Grok Releases AI-Generated Odyssey Episode Amid Nolan Feud",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
    "label": "CONFIRMED",
-   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/spacex-secures-40-billion-in-debt-financing-to-buy-ai-chips-says-elon-musk/135204105",
-   "url_id": "deb41678e43cee49954620655128c96f"
-  },
-  {
-   "headline": "Anthropic logged net loss of over $80 billion in first half of 2026",
-   "outlet": "Red Lake Nation News",
-   "outlet_name": "Red Lake Nation News",
-   "label": "CONFIRMED",
-   "url": "https://www.redlakenationnews.com/story/2026/10/26/business/anthropic-logged-net-loss-of-over-80-billion-in-first-half-of-2026/143654.html",
-   "url_id": "51f7ef34fcb9b1ddc163ef29046851a8"
-  },
-  {
-   "headline": "Anthropic’s draft AI bill draws fire for setting a high bar on federal action",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/anthropic-draft-ai-safety-bill-criticism/",
-   "url_id": "eb1ffc1546dd83685ea68ea05a637862"
-  },
-  {
-   "headline": "Claude Monet's \"Iris\" Sells for Record-Breaking $56.2 Million USD at Sotheby's Paris",
-   "outlet": "Hypebeast",
-   "outlet_name": "Hypebeast",
-   "label": "REPORTED",
-   "url": "https://hypebeast.com/2026/10/claude-monet-iris-sells-for-record-breaking-56-million-usd-sothebys-paris-auction-news",
-   "url_id": "3d4e6f7a8c1f2831c15c5964af8c8771"
-  },
-  {
-   "headline": "AI: Anthropic’s Margin, OpenAI’s Opportunity. AI-RTZ #1251",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "label": "REPORTED",
-   "url": "https://michaelparekh.substack.com/p/ai-anthropics-margin-openais-opportunity",
-   "url_id": "a0dc35dcd18aa66e879a15b408ebd752"
-  },
-  {
-   "headline": "Kakao Pay CEO Shin Won-keun Says Stablecoins Are Key to AI Payments, Urges Faster…",
-   "outlet": "bloomingbit",
-   "outlet_name": "bloomingbit",
-   "label": "REPORTED",
-   "url": "https://en.bloomingbit.io/feed/news/122916",
-   "url_id": "93f3bf97331bbe61eb305557b90811e4"
+   "url": "https://www.analyticsinsight.net/news/elon-musks-grok-releases-ai-generated-odyssey-episode-amid-nolan-feud",
+   "url_id": "5e00156bf598563b565eb8750739d297"
   },
   {
    "headline": "From OpenAI to Malaysia, Masayoshi Son Unveils SoftBank's \"ASI Blueprint\"! $50 Billion…",
@@ -114,20 +74,52 @@
    "url_id": "a26daa3a4c9fdd5b728efadaeb0a9165"
   },
   {
-   "headline": "Misumi launches $50 million early-stage investment fund targeting robotics",
-   "outlet": "Robotics & Automation News",
-   "outlet_name": "Robotics & Automation News",
-   "label": "REPORTED",
-   "url": "https://roboticsandautomationnews.com/2026/10/26/misumi-launches-50-million-early-stage-investment-fund-targeting-robotics/106300/",
-   "url_id": "990b307bb68d396c9f176482b7ae3311"
+   "headline": "Azerbaijan updates journalists’ ethics code to regulate AI use and privacy",
+   "outlet": "Trend News Agency",
+   "outlet_name": "Trend News Agency",
+   "label": "CONFIRMED",
+   "url": "https://www.trend.az/azerbaijan/society/4239001.html",
+   "url_id": "0809d5cae5fb49aa2b7a33aff3625c63"
   },
   {
-   "headline": "Dream Labs raises $90 million seed funding to ‘build the brain for everyday robots’",
-   "outlet": "Robotics & Automation News",
-   "outlet_name": "Robotics & Automation News",
+   "headline": "Britain’s First AI Biosecurity Lab Pairs OpenAI and Anthropic Against Biological Threats",
+   "outlet": "techtimes",
+   "outlet_name": "techtimes",
+   "label": "CONFIRMED",
+   "url": "https://www.techtimes.com/articles/329471/20261026/britains-first-ai-biosecurity-lab-pairs-openai-anthropic-against-biological-threats.htm",
+   "url_id": "aa0580dfe3992f357ef3ffef05e2973a"
+  },
+  {
+   "headline": "AI cloud computing companies face ‘guppy-level death’, Elon Musk warns, as funding dries…",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "label": "STILL OPEN",
+   "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
+   "url_id": "1fd65540b9b49b18bb841c6ebab54704"
+  },
+  {
+   "headline": "Anthropic sued for allegedly training Claude on Elvis Presley's music",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
    "label": "REPORTED",
-   "url": "https://roboticsandautomationnews.com/2026/10/26/dream-labs-raises-90-million-seed-funding-to-build-the-brain-for-everyday-robots/106290/",
-   "url_id": "718522c7a285049cb6a4e2187fa94c9a"
+   "url": "https://mashable.com/tech/anthropic-claude-elvis-presley-lawsuit-copyright",
+   "url_id": "ca348d499c7abc70be876eef15410fb2"
+  },
+  {
+   "headline": "OpenAI Frontier AI Security: Containment Failures",
+   "outlet": "Techgenyz",
+   "outlet_name": "Techgenyz",
+   "label": "REPORTED",
+   "url": "https://techgenyz.com/openai-frontier-ai-security-offline-training/",
+   "url_id": "5929af0eeba685896010d2e958544db7"
+  },
+  {
+   "headline": "Anthropic’s Claude bypassed paywall to access Georgia voter data ahead of US midterms",
+   "outlet": "indianexpress.com",
+   "outlet_name": "indianexpress.com",
+   "label": "STILL OPEN",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-georgia-voter-data-us-midterm-elections-10936982/",
+   "url_id": "72fff874ac227ab3374a8a82e92bd46f"
   },
   {
    "headline": "Defective Products: OpenAI, Dangerous Chatbots and Deception",
@@ -138,30 +130,38 @@
    "url_id": "5c41af9de708f4d8ba550b2c7d2041f0"
   },
   {
-   "headline": "DeepSeek vs Qwen vs Mistral: 1T Params, $1.36 Input [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/deepseek-vs-qwen-vs-mistral-open-weight-models-2026/",
-   "url_id": "3765ca26790fba4bb114cd6fd1c3918e"
+   "headline": "Users report that Anthropic blocked Claude from reverse-engineering TVs",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
+   "label": "STILL OPEN",
+   "url": "https://www.xda-developers.com/users-report-that-anthropic-blocked-claude-from-reverse-engineering-tvs/",
+   "url_id": "46ba7b279a1cf0f15892fd0e178a7c19"
   },
   {
-   "headline": "Grok, Elon Musk's AI, has released the first episode of \"Odyssey\"",
-   "outlet": "Informat.ro",
-   "outlet_name": "Informat.ro",
+   "headline": "Synextra launches AI agents to tackle high-volume regulated work",
+   "outlet": "Warrington Guardian on MSN",
+   "outlet_name": "Warrington Guardian on MSN",
    "label": "REPORTED",
-   "url": "https://informat.ro/en/arts-lifestyle/grok-imagine-releases-first-episode-of-ai-adaptation-of-the-odyssey-145232",
-   "url_id": "1d380f157b8ecbcdea864217afc1b71d"
+   "url": "https://www.msn.com/en-gb/news/other/synextra-launches-ai-agents-to-tackle-high-volume-regulated-work/ar-AA2g3MaI",
+   "url_id": "5e52be29e4fede6b60b32a20f1722121"
+  },
+  {
+   "headline": "Show HN: Continue Your Google AI Mode Chats in Gemini/Claude",
+   "outlet": "chromewebstore.google.com",
+   "outlet_name": "chromewebstore.google.com",
+   "label": "REPORTED",
+   "url": "https://chromewebstore.google.com/detail/relay-continue-google-sea/fjjfadgooapnegipjocinojjhaajghag",
+   "url_id": "6317efb1024f9afdbb5b8710f17afd3b"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
- "articles_24h_rounded": 9000,
- "articles_24h_label": "about 9,000",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 9500,
+ "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/09.mp3",
- "audio_seconds": 49.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/10.mp3",
+ "audio_seconds": 56.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per ET Enterprise AI: SpaceX secures $40 billion in debt financing to buy AI chips, says Elon Musk.\nConfirmed, per Red Lake Nation News: Anthropic logged net loss of over $80 billion in first half of 2026.\nReported by Crypto Briefing: Anthropic’s draft AI bill draws fire for setting a high bar on federal action.\nReported by Hypebeast: Claude Monet's \"Iris\" Sells for Record-Breaking $56.2 Million USD at Sotheby's Paris.\nReported by AI: Reset to Zero: AI: Anthropic’s Margin, OpenAI’s Opportunity. AI-RTZ #1251.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Analytics Insight: Elon Musk’s Grok Releases AI-Generated Odyssey Episode Amid Nolan Feud.\nReported by 富途牛牛: From OpenAI to Malaysia, Masayoshi Son Unveils SoftBank's \"ASI Blueprint\"! $50 Billion Investment Plan Ignites Bullish Sentiment in Semiconductors.\nConfirmed, per Trend News Agency: Azerbaijan updates journalists’ ethics code to regulate AI use and privacy.\nConfirmed, per techtimes: Britain’s First AI Biosecurity Lab Pairs OpenAI and Anthropic Against Biological Threats.\nStill open, per The Guardian: AI cloud computing companies face ‘guppy-level death’, Elon Musk warns, as funding dries up – business live.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
