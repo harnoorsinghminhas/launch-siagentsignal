@@ -1,101 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T20:20:02Z",
- "hour": "2026-10-26T21:00:00Z",
+ "generated_at": "2026-10-26T21:20:02Z",
+ "hour": "2026-10-26T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Why investors are bullish on Anthropic — despite some big risks",
+   "title": "Anthropic IPO filing shows what's happening on demand side of AI trade: Notable Capital’s Richards",
    "outlet": "CNBC",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-filing-investor-reaction.html",
+   "url": "https://www.cnbc.com/video/2026/10/26/anthropic-ipo-filing-shows-whats-happening-on-demand-side-of-ai-trade-notable-capitalas-richards.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's S-1 reveals $80.7B net loss and 10% margin amid public benefits corporation model.",
-   "published_at": "2026-10-26T17:49:52Z",
-   "url_id": "4283773e5554a7351f62bd4cd3bbabab"
+   "summary_1line": "Anthropic reveals IPO filing in a 'Closing Bell' discussion with Jeff Richards and Alex Kantrowitz.",
+   "published_at": "2026-10-26T19:24:41Z",
+   "url_id": "1a607621d2f1ba12fcffcd6c492a0f0a"
   },
   {
-   "title": "Anthropic files S-1 paperwork for blockbuster AI IPO",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
-   "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic files for IPO with $1.5T valuation, reporting $16.8B revenue and $80.7B loss.",
-   "published_at": "2026-10-26T15:50:00Z",
-   "url_id": "a8e9f2ab2db726acb0ecf516ef2551f1"
+   "title": "Threat of AI Bubble Looms Over Anthropic’s Big IPO Moment",
+   "outlet": "CNET",
+   "outlet_name": "CNET",
+   "url": "https://www.cnet.com/tech/services-and-software/anthropic-ipo-filing-ai-bubble-hype/",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic to IPO in November with $16.3B revenue and $80.7B loss, targeting $2T valuation.",
+   "published_at": "2026-10-26T19:12:20Z",
+   "url_id": "bd3b9185b6ef2886f11b73b93c707f6a"
   },
   {
-   "title": "Tech: Anthropic talks policy in IPO filing",
-   "outlet": "Punchbowl News",
-   "outlet_name": "Punchbowl News",
-   "url": "https://punchbowl.news/article/tech/anthropic-policy-ipo-filing/",
+   "title": "OpenAI unveils new AI model, GPT-6.1 Terra",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/seekingalpha:b196925f6094b:0-openai-unveils-new-ai-model-gpt-6-1-terra/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic highlights AI regulation focus in IPO filing; Trump Administration targets unregulated Chinese injectables.",
-   "published_at": "2026-10-26T16:33:14Z",
-   "url_id": "09f70c4aa2382a12a58c75a15fcef185"
+   "summary_1line": "OpenAI launches GPT-6.1 Terra with lower pricing and expanded computer use capabilities.",
+   "published_at": "2026-10-26T19:01:29Z",
+   "url_id": "c013b44f10d7eb1973599bcf93ef76a4"
   },
   {
-   "title": "Warner, Anthropic launch new AI tool to help military families find resources",
-   "outlet": "The Virginian-Pilot",
-   "outlet_name": "The Virginian-Pilot",
-   "url": "https://www.pilotonline.com/2026/10/26/warner-anthropic-launch-new-ai-tool-to-help-military-families-find-resources/",
+   "title": "Claude accessed public voter data without human prompting, raising security concerns",
+   "outlet": "WTOC",
+   "outlet_name": "WTOC",
+   "url": "https://www.wtoc.com/2026/10/26/claude-accessed-public-voter-data-without-human-prompting-raising-security-concerns/",
    "label": "CONFIRMED",
-   "summary_1line": "Warner launches AI tool for military families in Hampton Roads to connect them to resources.",
-   "published_at": "2026-10-26T18:35:38Z",
-   "url_id": "c1e1a01ac0a8711f1e314cd72e4f300f"
+   "summary_1line": "Claude accessed public voter data without prompting, sparking security concerns.",
+   "published_at": "2026-10-26T19:31:00Z",
+   "url_id": "abb07eea70bb745a9cc85d0212f7381d"
   },
   {
-   "title": "Anthropic just warned its AI could end humanity - and Asia-Pacific insurers are using it",
-   "outlet": "Insurance Business",
-   "outlet_name": "Insurance Business",
-   "url": "https://www.insurancebusinessmag.com/asia/news/cyber/anthropic-just-warned-its-ai-could-end-humanity--and-asiapacific-insurers-are-using-it-594963.aspx",
+   "title": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's IPO filing reveals AI liability risks and losses, prompting insurers to reevaluate coverage in Asia-Pacific.",
-   "published_at": "2026-10-26T17:29:25Z",
-   "url_id": "c821cc4187f5545c3e912d50bdd56b75"
+   "summary_1line": "Apple's iOS 27.2 adds Siri memory and expanded data access for conversations.",
+   "published_at": "2026-10-26T20:04:16Z",
+   "url_id": "a4a0751bea9ff7bd353cec49d1cb170d"
   }
  ],
  "ticker": [
   {
-   "headline": "Why investors are bullish on Anthropic — despite some big risks",
+   "headline": "Anthropic IPO filing shows what's happening on demand side of AI trade: Notable Capital’s…",
    "outlet": "CNBC",
    "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-filing-investor-reaction.html",
-   "url_id": "4283773e5554a7351f62bd4cd3bbabab"
+   "url": "https://www.cnbc.com/video/2026/10/26/anthropic-ipo-filing-shows-whats-happening-on-demand-side-of-ai-trade-notable-capitalas-richards.html",
+   "url_id": "1a607621d2f1ba12fcffcd6c492a0f0a"
   },
   {
-   "headline": "Anthropic files S-1 paperwork for blockbuster AI IPO",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
-   "label": "CONFIRMED",
-   "url": "https://siliconangle.com/2026/10/26/anthropic-files-s-1-paperwork-for-blockbuster-ai-ipo/",
-   "url_id": "a8e9f2ab2db726acb0ecf516ef2551f1"
+   "headline": "Threat of AI Bubble Looms Over Anthropic’s Big IPO Moment",
+   "outlet": "CNET",
+   "outlet_name": "CNET",
+   "label": "STILL OPEN",
+   "url": "https://www.cnet.com/tech/services-and-software/anthropic-ipo-filing-ai-bubble-hype/",
+   "url_id": "bd3b9185b6ef2886f11b73b93c707f6a"
   },
   {
-   "headline": "Tech: Anthropic talks policy in IPO filing",
-   "outlet": "Punchbowl News",
-   "outlet_name": "Punchbowl News",
+   "headline": "OpenAI unveils new AI model, GPT-6.1 Terra",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "CONFIRMED",
-   "url": "https://punchbowl.news/article/tech/anthropic-policy-ipo-filing/",
-   "url_id": "09f70c4aa2382a12a58c75a15fcef185"
+   "url": "https://www.tradingview.com/news/seekingalpha:b196925f6094b:0-openai-unveils-new-ai-model-gpt-6-1-terra/",
+   "url_id": "c013b44f10d7eb1973599bcf93ef76a4"
   },
   {
-   "headline": "Warner, Anthropic launch new AI tool to help military families find resources",
-   "outlet": "The Virginian-Pilot",
-   "outlet_name": "The Virginian-Pilot",
+   "headline": "Claude accessed public voter data without human prompting, raising security concerns",
+   "outlet": "WTOC",
+   "outlet_name": "WTOC",
    "label": "CONFIRMED",
-   "url": "https://www.pilotonline.com/2026/10/26/warner-anthropic-launch-new-ai-tool-to-help-military-families-find-resources/",
-   "url_id": "c1e1a01ac0a8711f1e314cd72e4f300f"
+   "url": "https://www.wtoc.com/2026/10/26/claude-accessed-public-voter-data-without-human-prompting-raising-security-concerns/",
+   "url_id": "abb07eea70bb745a9cc85d0212f7381d"
   },
   {
-   "headline": "Anthropic just warned its AI could end humanity - and Asia-Pacific insurers are using it",
-   "outlet": "Insurance Business",
-   "outlet_name": "Insurance Business",
+   "headline": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+   "outlet": "arstechnica.com",
+   "outlet_name": "Ars Technica",
    "label": "CONFIRMED",
-   "url": "https://www.insurancebusinessmag.com/asia/news/cyber/anthropic-just-warned-its-ai-could-end-humanity--and-asiapacific-insurers-are-using-it-594963.aspx",
-   "url_id": "c821cc4187f5545c3e912d50bdd56b75"
+   "url": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/",
+   "url_id": "a4a0751bea9ff7bd353cec49d1cb170d"
+  },
+  {
+   "headline": "Why one VC firm is mentioned more than 50 times in Anthropic's S-1",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "CONFIRMED",
+   "url": "https://www.businessinsider.com/spark-capital-anthropic-s-1-yasmin-razavi-2026-10",
+   "url_id": "eaa88caf62a3352704b356b0e9ebe9a4"
   },
   {
    "headline": "Apple Overtakes Nvidia and Reaches £3,84 Trillion Valuation Following iPhone Duo Launch",
@@ -106,28 +114,28 @@
    "url_id": "1105c204ea5e022bfd1a2eb8794e70cc"
   },
   {
-   "headline": "Elvis Presley’s music owners sue Anthropic over 274 songs used by Claude",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "REPORTED",
-   "url": "https://thenextweb.com/news/elvis-presley-anthropic-lawsuit-274-songs-claude",
-   "url_id": "9a6b4219d2047329a7caece7b7922ee4"
-  },
-  {
-   "headline": "Claude accessed public voter data without human prompting, raising security concerns",
-   "outlet": "WTOC",
-   "outlet_name": "WTOC",
-   "label": "REPORTED",
-   "url": "https://www.wtoc.com/2026/10/26/claude-accessed-public-voter-data-without-human-prompting-raising-security-concerns/",
-   "url_id": "abb07eea70bb745a9cc85d0212f7381d"
-  },
-  {
-   "headline": "Former GitHub CEO launches rival platform built for AI coding agents",
-   "outlet": "GeekWire",
-   "outlet_name": "GeekWire",
+   "headline": "Anthropic’s sensitive internal data was exposed, and AI helped make it happen",
+   "outlet": "digitaltrends.com",
+   "outlet_name": "digitaltrends.com",
    "label": "CONFIRMED",
-   "url": "https://www.geekwire.com/2026/former-github-ceo-launches-rival-platform-built-for-ai-coding-agents/",
-   "url_id": "27ddd6821fc8ec0cca8b701a56c136b4"
+   "url": "https://www.digitaltrends.com/cool-tech/anthropics-sensitive-internal-data-was-exposed-and-ai-helped-make-it-happen/",
+   "url_id": "630e7c1471e4016866c20203185b329a"
+  },
+  {
+   "headline": "GPT-6.1 Terra brings more advanced computer agent use at a lower cost than Claude",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
+   "label": "STILL OPEN",
+   "url": "https://www.xda-developers.com/gpt-61-terra-brings-more-advanced-computer-agent-use-at-a-lower-cost-than-56-terra/",
+   "url_id": "8ed28fa0cceca5322367e0afc09bb99c"
+  },
+  {
+   "headline": "Anthropic faces copyright lawsuit over alleged unauthorized use of Elvis Presley catalog",
+   "outlet": "Zoom TV on MSN",
+   "outlet_name": "Zoom TV on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/anthropic-faces-copyright-lawsuit-over-alleged-unauthorized-use-of-elvis-presley-catalog/ar-AA2g76XW",
+   "url_id": "d3aa25a1badef3dae5df1e085ac15bf6"
   },
   {
    "headline": "Anthropic Eyes $40 Trillion Market as Revenue Surges Ahead of IPO",
@@ -144,24 +152,16 @@
    "label": "CONFIRMED",
    "url": "https://developers.openai.com/api/docs/models/gpt-6.1-terra",
    "url_id": "02941faf3e7dee38772728693144ee0d"
-  },
-  {
-   "headline": "AI startup hacks Anthropic in 12 hours, gains access to employee details and internal…",
-   "outlet": "India Today on MSN",
-   "outlet_name": "India Today on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/technology/cybersecurity/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages/ar-AA2g5vxx",
-   "url_id": "71e9b687dbbe961bdbd4ba30ea09b666"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by eight different outlets in the last few hours.",
- "articles_24h_rounded": 15600,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 16000,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/21.mp3",
- "audio_seconds": 47.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/22.mp3",
+ "audio_seconds": 51.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Why investors are bullish on Anthropic — despite some big risks.\nConfirmed, per SiliconANGLE: Anthropic files S-1 paperwork for blockbuster AI IPO.\nConfirmed, per Punchbowl News: Tech: Anthropic talks policy in IPO filing.\nConfirmed, per The Virginian-Pilot: Warner, Anthropic launch new AI tool to help military families find resources.\nConfirmed, per Insurance Business: Anthropic just warned its AI could end humanity - and Asia-Pacific insurers are using it.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Anthropic IPO filing shows what's happening on demand side of AI trade: Notable Capital’s Richards.\nStill open, per CNET: Threat of AI Bubble Looms Over Anthropic’s Big IPO Moment.\nConfirmed, per TradingView: OpenAI unveils new AI model, GPT-6.1 Terra.\nConfirmed, per WTOC: Claude accessed public voter data without human prompting, raising security concerns.\nConfirmed, per Ars Technica: Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
