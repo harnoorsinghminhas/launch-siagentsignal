@@ -1,141 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T06:20:02Z",
- "hour": "2026-10-26T07:00:00Z",
+ "generated_at": "2026-10-26T07:20:02Z",
+ "hour": "2026-10-26T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Elon Musk announces $40 billion SpaceX debt raise to fund massive AI chip purchases",
-   "outlet": "Business Today",
-   "outlet_name": "Business Today",
-   "url": "https://www.businesstoday.in/latest/corporate/story/elon-musk-announces-40-billion-spacex-debt-raise-to-fund-massive-ai-chip-purchases-563528-2026-10-26",
+   "title": "Anthropic Research Confirms AI Still Cannot Conduct Genuine Real-World Scientific Research",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "url": "https://eu.36kr.com/en/p/4039193966269570",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic's Agent4Sci evaluates AI agents on 20 scientific benchmarks, showing 10.4% average improvement with Claude Opus.",
+   "published_at": "2026-10-26T04:35:46Z",
+   "url_id": "b8b370dfdecc34b5cd9b5a514c579cb5"
+  },
+  {
+   "title": "Huawei, DeepSeek AI training linked to pirated books by Korean authors",
+   "outlet": "Korea JoongAng Daily",
+   "outlet_name": "Korea JoongAng Daily",
+   "url": "https://www.koreajoongangdaily.com/lifestyle/huawei-deepseek-ai-training-linked-to-pirated-books-by-korean-authors/12936070",
+   "label": "REPORTED",
+   "summary_1line": "Chinese AI firms used pirated Korean books to train models, with DeepSeek reproducing Han Kang's text.",
+   "published_at": "2026-10-26T04:18:32Z",
+   "url_id": "7b1626ebdda691338e34d44430ba8769"
+  },
+  {
+   "title": "This country bans ChatGPT and Claude AI on govt computers, here is why",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
+   "url": "https://www.digit.in/news/general/this-country-just-banned-chatgpt-and-claude-on-govt-computers-here-is-why.html",
    "label": "CONFIRMED",
-   "summary_1line": "SpaceX secures $40B debt for AI hardware, citing Starlink revenue and investment-grade status.",
-   "published_at": "2026-10-26T02:38:32Z",
-   "url_id": "2586f4a2fe2e76a111bdafab7dfd301e"
+   "summary_1line": "Sweden blocks ChatGPT and Claude, mandates Microsoft Copilot for government staff.",
+   "published_at": "2026-10-25T17:00:00Z",
+   "url_id": "17bea8ae90018d0e7e79e6dd2bb1f20f"
   },
   {
-   "title": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
+   "title": "Claude Just Wanna Have Fun: Without Any Work, AI Agents Like to ‘Play'",
+   "outlet": "PCMag Middle East",
+   "outlet_name": "PCMag Middle East",
+   "url": "https://me.pcmag.com/en/ai/38439/claude-just-wanna-have-fun-without-any-work-ai-agents-like-to-play",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-26T04:56:16Z",
-   "url_id": "8642b36e2c92969f6bfdac586b8e9160"
+   "summary_1line": "AI agents' playful behavior improves task performance in simulations.",
+   "published_at": "2026-10-26T04:04:03Z",
+   "url_id": "95d7e45824443d176d6b819ebae827ba"
   },
   {
-   "title": "'Dear ChatGPT': 12-year-old wins top youth prize at Australian Poetry Slam – video",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/video/2026/oct/26/dear-chatgpt-12-year-old-wins-top-youth-prize-at-australian-poetry-slam-video",
+   "title": "Anthropic taps a deep well of distrust in this rural town",
+   "outlet": "CNN",
+   "outlet_name": "CNN",
+   "url": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-26T04:43:00Z",
-   "url_id": "e3d731c451b62d9268d3fb4e15879d8c"
-  },
-  {
-   "title": "Anthropic’s $750 billion compute costs threaten profitability",
-   "outlet": "Ticker News",
-   "outlet_name": "Ticker News",
-   "url": "https://tickernews.co/anthropics-750-billion-compute-costs-threaten-profitability/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-26T05:06:18Z",
-   "url_id": "21118b1f7eb70df9adfb41dc56fd6dc0"
-  },
-  {
-   "title": "Elvis Presley IP Owners Sue Anthropic Over Allegations of Copyright Infringement",
-   "outlet": "Digital Music News",
-   "outlet_name": "Digital Music News",
-   "url": "https://www.digitalmusicnews.com/2026/10/25/elvis-presley-ip-anthropic-copyright-infringement/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-26T04:46:06Z",
-   "url_id": "3749cc0bcf77328b66c0a961321038d0"
+   "summary_1line": "Australia's first major AI data center proposal faces local pushback over water and energy use.",
+   "published_at": "2026-10-26T04:00:15Z",
+   "url_id": "64d8e0601cd3e1659d762e79028b1ea5"
   }
  ],
  "ticker": [
   {
-   "headline": "Elon Musk announces $40 billion SpaceX debt raise to fund massive AI chip purchases",
-   "outlet": "Business Today",
-   "outlet_name": "Business Today",
+   "headline": "Anthropic Research Confirms AI Still Cannot Conduct Genuine Real-World Scientific Research",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "label": "REPORTED",
+   "url": "https://eu.36kr.com/en/p/4039193966269570",
+   "url_id": "b8b370dfdecc34b5cd9b5a514c579cb5"
+  },
+  {
+   "headline": "Huawei, DeepSeek AI training linked to pirated books by Korean authors",
+   "outlet": "Korea JoongAng Daily",
+   "outlet_name": "Korea JoongAng Daily",
+   "label": "REPORTED",
+   "url": "https://www.koreajoongangdaily.com/lifestyle/huawei-deepseek-ai-training-linked-to-pirated-books-by-korean-authors/12936070",
+   "url_id": "7b1626ebdda691338e34d44430ba8769"
+  },
+  {
+   "headline": "This country bans ChatGPT and Claude AI on govt computers, here is why",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
    "label": "CONFIRMED",
-   "url": "https://www.businesstoday.in/latest/corporate/story/elon-musk-announces-40-billion-spacex-debt-raise-to-fund-massive-ai-chip-purchases-563528-2026-10-26",
-   "url_id": "2586f4a2fe2e76a111bdafab7dfd301e"
+   "url": "https://www.digit.in/news/general/this-country-just-banned-chatgpt-and-claude-on-govt-computers-here-is-why.html",
+   "url_id": "17bea8ae90018d0e7e79e6dd2bb1f20f"
   },
   {
-   "headline": "SoftBank reportedly plans $50 billion tech investment in aspiring 'AI nation' Malaysia",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "Claude Just Wanna Have Fun: Without Any Work, AI Agents Like to ‘Play'",
+   "outlet": "PCMag Middle East",
+   "outlet_name": "PCMag Middle East",
    "label": "REPORTED",
-   "url": "https://www.cnbc.com/2026/10/26/softbank-masayoshi-son-malaysia-ai-billions.html",
-   "url_id": "8642b36e2c92969f6bfdac586b8e9160"
+   "url": "https://me.pcmag.com/en/ai/38439/claude-just-wanna-have-fun-without-any-work-ai-agents-like-to-play",
+   "url_id": "95d7e45824443d176d6b819ebae827ba"
   },
   {
-   "headline": "'Dear ChatGPT': 12-year-old wins top youth prize at Australian Poetry Slam – video",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
+   "headline": "Anthropic taps a deep well of distrust in this rural town",
+   "outlet": "CNN",
+   "outlet_name": "CNN",
    "label": "REPORTED",
-   "url": "https://www.theguardian.com/technology/video/2026/oct/26/dear-chatgpt-12-year-old-wins-top-youth-prize-at-australian-poetry-slam-video",
-   "url_id": "e3d731c451b62d9268d3fb4e15879d8c"
+   "url": "https://www.cnn.com/2026/10/26/australia/australia-ai-western-downs-digital-park-intl-hnk",
+   "url_id": "64d8e0601cd3e1659d762e79028b1ea5"
   },
   {
-   "headline": "Anthropic’s $750 billion compute costs threaten profitability",
-   "outlet": "Ticker News",
-   "outlet_name": "Ticker News",
-   "label": "REPORTED",
-   "url": "https://tickernews.co/anthropics-750-billion-compute-costs-threaten-profitability/",
-   "url_id": "21118b1f7eb70df9adfb41dc56fd6dc0"
-  },
-  {
-   "headline": "Elvis Presley IP Owners Sue Anthropic Over Allegations of Copyright Infringement",
-   "outlet": "Digital Music News",
-   "outlet_name": "Digital Music News",
-   "label": "REPORTED",
-   "url": "https://www.digitalmusicnews.com/2026/10/25/elvis-presley-ip-anthropic-copyright-infringement/",
-   "url_id": "3749cc0bcf77328b66c0a961321038d0"
-  },
-  {
-   "headline": "FBI weighs espionage charges against OpenAI engineer over Saudi ties",
-   "outlet": "The Jerusalem Post",
-   "outlet_name": "The Jerusalem Post",
-   "label": "REPORTED",
-   "url": "https://www.jpost.com/international/article-912853",
-   "url_id": "d51b33cccf3ac346daa595cbb79a3b04"
-  },
-  {
-   "headline": "Cassava Artificial Intelligence AI deploys NVIDIA Nemotron to accelerate agentic AI…",
-   "outlet": "Cyprus Shipping News",
-   "outlet_name": "Cyprus Shipping News",
-   "label": "REPORTED",
-   "url": "https://cyprusshippingnews.com/2026/10/26/cassava-artificial-intelligence-ai-deploys-nvidia-nemotron-to-accelerate-agentic-ai-adoption-across-its-markets/",
-   "url_id": "058fb1494887bf48c4dc9e7545847ff3"
-  },
-  {
-   "headline": "UK Commits £100M to Build AI Biosecurity Lab with OpenAI, Anthropic, and Google DeepMind",
-   "outlet": "kucoin",
-   "outlet_name": "kucoin",
+   "headline": "Grok is Red, OpenAI is Blue! AI Models Turn Political with a Vengeance",
+   "outlet": "CXOtoday",
+   "outlet_name": "CXOtoday",
    "label": "CONFIRMED",
-   "url": "https://www.kucoin.com/news/flash/uk-commits-100m-to-build-ai-biosecurity-lab-with-openai-anthropic-and-google-deepmind",
-   "url_id": "85e743f36ee87306713425035e08cb3f"
+   "url": "https://cxotoday.com/ai/grok-is-red-openai-is-blue-ai-models-turn-political-with-a-vengeance/",
+   "url_id": "866858e9941213b86ab109e142308883"
   },
   {
-   "headline": "As the US and China form AI blocs, countries are increasingly torn between them",
-   "outlet": "Eagle-Tribune",
-   "outlet_name": "Eagle-Tribune",
+   "headline": "Elon Musk Says Debt Markets Have Shut Out AI 'Neoclouds' As SpaceX Locks In $40 Billion…",
+   "outlet": "Free Press Journal",
+   "outlet_name": "Free Press Journal",
    "label": "STILL OPEN",
-   "url": "https://www.eagletribune.com/region/as-the-us-and-china-form-ai-blocs-countries-are-increasingly-torn-between-them/article_bd224c7a-9c56-5083-8be0-eaacf38465c2.html",
-   "url_id": "b183aa4228465d603a060769674a6211"
+   "url": "https://www.freepressjournal.in/tech/elon-musk-says-debt-markets-have-shut-out-ai-neoclouds-as-spacex-locks-in-40-billion-for-chips",
+   "url_id": "f2d234ecf23d9cbff5c166d59f82969c"
   },
   {
-   "headline": "Moonshot AI Launches More Powerful Kimi Model",
-   "outlet": "Caixin Global",
-   "outlet_name": "Caixin Global",
+   "headline": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely…",
+   "outlet": "The Hindu",
+   "outlet_name": "The Hindu",
    "label": "REPORTED",
-   "url": "https://www.caixinglobal.com/2026-10-26/moonshot-ai-launches-more-powerful-kimi-model-102497310.html",
-   "url_id": "8f64b57b948597720c3f247513396e62"
+   "url": "https://www.thehindu.com/sci-tech/technology/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/article71625518.ece",
+   "url_id": "62e11aa9186a30b0fe03462a3e3ea32e"
+  },
+  {
+   "headline": "Elvis Presley’s rights holders sue Anthropic over AI training on 274 songs",
+   "outlet": "Arkansas Public Advocate on MSN",
+   "outlet_name": "Arkansas Public Advocate on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/entertainment/celebrities/elvis-presley-s-rights-holders-sue-anthropic-over-ai-training-on-274-songs/ar-AA2g45uj",
+   "url_id": "a5dcf256a95338db9662299ed3a5c013"
   },
   {
    "headline": "AusClinBench: a deterministically scored benchmark of large language models against…",
@@ -146,22 +138,30 @@
    "url_id": "59bed3888d461cb5d28fc0b92569a91c"
   },
   {
-   "headline": "Talent, compute and R&D key to India's AI ambitions: Report",
-   "outlet": "The Economic Times on MSN",
-   "outlet_name": "The Economic Times on MSN",
+   "headline": "AI surveillance towers at US-Mexico border spark privacy concerns",
+   "outlet": "CBS News 8 on MSN",
+   "outlet_name": "CBS News 8 on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/talent-compute-and-r-d-key-to-india-s-ai-ambitions-report/ar-AA2g3s47",
-   "url_id": "991af2d4cff3641660ac1afe22f0b03c"
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/ai-surveillance-towers-at-us-mexico-border-spark-privacy-concerns/ar-AA2g4fTa",
+   "url_id": "ad0977243e65163cbf6a560cf7e9eac9"
+  },
+  {
+   "headline": "Google open-sources the Elephant-Goldfish Model plugin its engineers use to catch AI…",
+   "outlet": "helpnetsecurity.com",
+   "outlet_name": "helpnetsecurity.com",
+   "label": "REPORTED",
+   "url": "https://www.helpnetsecurity.com/2026/10/26/google-elephant-goldfish-model-plugin/",
+   "url_id": "10d9ab5e6f67c0a585a6dd506555e90c"
   }
  ],
- "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 8600,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 8800,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/07.mp3",
- "audio_seconds": 57.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/08.mp3",
+ "audio_seconds": 70.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSpaceX is securing $40 billion in debt to fund artificial intelligence chip purchases, according to Business Today Confirmed. The company cited Starlink revenue and investment-grade status.\nSoftBank is reportedly planning a $50 billion technology investment in Malaysia, positioning the country as an aspiring artificial intelligence nation, per CNBC Reported.\nA 12-year-old has won a top youth prize at an Australian Poetry Slam with a piece titled Dear ChatGPT, according to The Guardian Reported.\nAnthropic's $750 billion compute costs are threatening profitability, per Ticker News Reported.\nElvis Presley IP owners are suing Anthropic over allegations of copyright infringement, according to Digital Music News Reported.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's Agent4Sci evaluates artificial intelligence agents on 20 scientific benchmarks. Reported by 36Kr: Claude Opus shows 10.4% average improvement, though agents still cannot conduct genuine real-world scientific research.\nChinese artificial intelligence firms used pirated Korean books to train models. Reported by Korea JoongAng Daily: DeepSeek has reproduced text from Han Kang, implicating Huawei and DeepSeek in the unauthorized use.\nSweden blocks ChatGPT and Claude from government computers. Confirmed by Digit: the country mandates Microsoft Copilot for government staff instead.\nArtificial intelligence agents exhibit playful behavior in simulations that improves their task performance. Reported by PCMag Middle East: agents like to play without work obligations.\nAustralia's first major artificial intelligence data center proposal faces local opposition. Reported by CNN: Anthropic's project encounters pushback from the rural town over water and energy use.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
