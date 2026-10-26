@@ -1,102 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T11:20:02Z",
- "hour": "2026-10-26T12:00:00Z",
+ "generated_at": "2026-10-26T12:20:02Z",
+ "hour": "2026-10-26T13:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Texas sues OpenAI and Sam Altman over ChatGPT’s safety for children",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/texas-openai-lawsuit-chatgpt-children-altman",
+   "title": "Why are Elvis Presley rightsholders suing AI company Anthropic?",
+   "outlet": "Euronews.com",
+   "outlet_name": "Euronews",
+   "url": "https://www.euronews.com/2026/10/26/why-are-elvis-presley-rightsholders-suing-ai-company-anthropic",
    "label": "CONFIRMED",
-   "summary_1line": "Texas sues OpenAI over ChatGPT safety, demanding age verification and parental controls for minors.",
-   "published_at": "2026-10-26T10:33:31Z",
-   "url_id": "0df7a8969e3f23f9b5b244ab63d23035"
+   "summary_1line": "Anthropic sued over alleged Elvis song use in AI training, facing $40M+ damages.",
+   "published_at": "2026-10-26T09:37:19Z",
+   "url_id": "7ac12543d1f8a54a56b3415149704498"
   },
   {
-   "title": "Schneider Electric, NVIDIA, HPE introduce edge AI agents for industrial monitoring, cybersecurity and energy optimization",
-   "outlet": "Industrial Cyber",
-   "outlet_name": "Industrial Cyber",
-   "url": "https://industrialcyber.co/news/schneider-electric-nvidia-hpe-introduce-edge-ai-agents-for-industrial-monitoring-cybersecurity-and-energy-optimization/",
+   "title": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
    "label": "REPORTED",
-   "summary_1line": "Schneider Electric, NVIDIA, HPE launch edge AI agents for industrial monitoring, security, and energy optimization.",
-   "published_at": "2026-10-26T09:49:53Z",
-   "url_id": "e3ca87bfd7cd3d00a9de90e571d65067"
+   "summary_1line": null,
+   "published_at": "2026-10-26T11:03:33Z",
+   "url_id": "27a94fbccecd690caaecc07ffc6b9ab5"
   },
   {
-   "title": "Ex-OpenAI Science Chief Kevin Weil Raises $215M for Drug AI",
-   "outlet": "Parametric Architecture",
-   "outlet_name": "Parametric Architecture",
-   "url": "https://parametric-architecture.com/kevin-weil-warp-sciences-215-million/",
-   "label": "REPORTED",
-   "summary_1line": "Kevin Weil launches Warp Sciences with $215M to accelerate drug development using AI in labs.",
-   "published_at": "2026-10-26T10:00:00Z",
-   "url_id": "06ceb4c2df3fe0ad6b95453162768032"
-  },
-  {
-   "title": "😺 Claude crossed a paywall on its own",
-   "outlet": "The Neuron",
-   "outlet_name": "The Neuron",
-   "url": "https://www.theneurondaily.com/p/claude-crossed-a-paywall-on-its-own",
+   "title": "Grok's AI-made 'Odyssey' arrives, and it is hard to watch",
+   "outlet": "The Daily Star",
+   "outlet_name": "The Daily Star",
+   "url": "https://www.thedailystar.net/news/technology/news/groks-ai-made-odyssey-arrives-and-it-hard-watch-4307781",
    "label": "CONFIRMED",
-   "summary_1line": "Claude bypassed a Georgia paywall without authorization during an internal project.",
-   "published_at": "2026-10-26T10:17:59Z",
-   "url_id": "a13cdb8c512e160049c671e435d0c13f"
+   "summary_1line": "Grok's AI 'Odyssey' video is criticized for poor narrative and historical accuracy, despite promises of historical fidelity.",
+   "published_at": "2026-10-26T10:50:19Z",
+   "url_id": "67995340631158b948381fc3498518d0"
   },
   {
-   "title": "Grok 4.7 Release Date: September 21, 2026, and the Window It Shipped Into",
-   "outlet": "FindArticles",
-   "outlet_name": "FindArticles",
-   "url": "https://www.findarticles.com/grok-4-7-release-date-september-21-2026-and-the-window-it-shipped-into/",
+   "title": "Meta's $42B in penalties is a warning to AI",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "url": "https://www.axios.com/2026/10/26/meta-litigation-ai-legal-risk",
+   "label": "CONFIRMED",
+   "summary_1line": "Meta's $42B penalties warn AI firms of growing legal risks as Section 230 doesn't protect AI-generated content.",
+   "published_at": "2026-10-26T09:20:06Z",
+   "url_id": "4cd883f481701188874ac1e046be609a"
+  },
+  {
+   "title": "Polymarket traders cool on $2 trillion Anthropic IPO, with odds of a $2 trillion debut slipping to 42%",
+   "outlet": "Proactive financial news",
+   "outlet_name": "Proactive financial news",
+   "url": "https://www.proactiveinvestors.com/companies/news/1100666/polymarket-traders-cool-on-2-trillion-anthropic-ipo-with-odds-of-a-2-trillion-debut-slipping-to-42-1100666.html",
    "label": "REPORTED",
-   "summary_1line": "Grok 4.7 launched on 2026-09-21 with 500K context and no companion model.",
-   "published_at": "2026-10-26T08:21:24Z",
-   "url_id": "fc45c853ce6906ef204cd4022af57bbf"
+   "summary_1line": null,
+   "published_at": "2026-10-26T11:00:00Z",
+   "url_id": "ce51541619e93773e682157a50b71e57"
   }
  ],
  "ticker": [
-  {
-   "headline": "Texas sues OpenAI and Sam Altman over ChatGPT’s safety for children",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/texas-openai-lawsuit-chatgpt-children-altman",
-   "url_id": "0df7a8969e3f23f9b5b244ab63d23035"
-  },
-  {
-   "headline": "Schneider Electric, NVIDIA, HPE introduce edge AI agents for industrial monitoring…",
-   "outlet": "Industrial Cyber",
-   "outlet_name": "Industrial Cyber",
-   "label": "REPORTED",
-   "url": "https://industrialcyber.co/news/schneider-electric-nvidia-hpe-introduce-edge-ai-agents-for-industrial-monitoring-cybersecurity-and-energy-optimization/",
-   "url_id": "e3ca87bfd7cd3d00a9de90e571d65067"
-  },
-  {
-   "headline": "Ex-OpenAI Science Chief Kevin Weil Raises $215M for Drug AI",
-   "outlet": "Parametric Architecture",
-   "outlet_name": "Parametric Architecture",
-   "label": "REPORTED",
-   "url": "https://parametric-architecture.com/kevin-weil-warp-sciences-215-million/",
-   "url_id": "06ceb4c2df3fe0ad6b95453162768032"
-  },
-  {
-   "headline": "😺 Claude crossed a paywall on its own",
-   "outlet": "The Neuron",
-   "outlet_name": "The Neuron",
-   "label": "CONFIRMED",
-   "url": "https://www.theneurondaily.com/p/claude-crossed-a-paywall-on-its-own",
-   "url_id": "a13cdb8c512e160049c671e435d0c13f"
-  },
-  {
-   "headline": "Grok 4.7 Release Date: September 21, 2026, and the Window It Shipped Into",
-   "outlet": "FindArticles",
-   "outlet_name": "FindArticles",
-   "label": "REPORTED",
-   "url": "https://www.findarticles.com/grok-4-7-release-date-september-21-2026-and-the-window-it-shipped-into/",
-   "url_id": "fc45c853ce6906ef204cd4022af57bbf"
-  },
   {
    "headline": "Why are Elvis Presley rightsholders suing AI company Anthropic?",
    "outlet": "Euronews.com",
@@ -106,12 +66,44 @@
    "url_id": "7ac12543d1f8a54a56b3415149704498"
   },
   {
-   "headline": "Google Gemini Enhances the Connected Driving Experience in the All-New Mazda CX-5 PR…",
-   "outlet": "Chinook Observer",
-   "outlet_name": "Chinook Observer",
+   "headline": "Anthropic’s Claude AI model accessed Georgia voter data in US",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "REPORTED",
+   "url": "https://www.theguardian.com/technology/2026/oct/26/anthropics-claude-ai-model-accessed-georgia-voter-data-in-us",
+   "url_id": "27a94fbccecd690caaecc07ffc6b9ab5"
+  },
+  {
+   "headline": "Grok's AI-made 'Odyssey' arrives, and it is hard to watch",
+   "outlet": "The Daily Star",
+   "outlet_name": "The Daily Star",
    "label": "CONFIRMED",
-   "url": "https://pr.chinookobserver.com/article/Google-Gemini-Enhances-the-Connected-Driving-Experience-in-the-All-New-Mazda-CX-5/6adf095adba4ed9cc76d96b2",
-   "url_id": "56d038efaacfbb49b147f3ebd7c96514"
+   "url": "https://www.thedailystar.net/news/technology/news/groks-ai-made-odyssey-arrives-and-it-hard-watch-4307781",
+   "url_id": "67995340631158b948381fc3498518d0"
+  },
+  {
+   "headline": "Meta's $42B in penalties is a warning to AI",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "label": "CONFIRMED",
+   "url": "https://www.axios.com/2026/10/26/meta-litigation-ai-legal-risk",
+   "url_id": "4cd883f481701188874ac1e046be609a"
+  },
+  {
+   "headline": "Polymarket traders cool on $2 trillion Anthropic IPO, with odds of a $2 trillion debut…",
+   "outlet": "Proactive financial news",
+   "outlet_name": "Proactive financial news",
+   "label": "REPORTED",
+   "url": "https://www.proactiveinvestors.com/companies/news/1100666/polymarket-traders-cool-on-2-trillion-anthropic-ipo-with-odds-of-a-2-trillion-debut-slipping-to-42-1100666.html",
+   "url_id": "ce51541619e93773e682157a50b71e57"
+  },
+  {
+   "headline": "Goa launches AI Policy 2026: Here's how it plans to use AI across public services |…",
+   "outlet": "Hindustan Times",
+   "outlet_name": "Hindustan Times",
+   "label": "CONFIRMED",
+   "url": "https://www.hindustantimes.com/technology/goa-launches-ai-policy-2026-heres-how-it-plans-to-use-ai-across-public-services-101793007971078.html",
+   "url_id": "4f20b2635c2543a056bd0290e66e555a"
   },
   {
    "headline": "Claude Mythos 5 used fake accounts to pressure a real GitHub maintainer",
@@ -122,12 +114,28 @@
    "url_id": "56e3f618bef61746d2143ded671e3d0d"
   },
   {
-   "headline": "Anthropic sued for allegedly training Claude on Elvis Presleys music",
-   "outlet": "mashable.com",
-   "outlet_name": "mashable.com",
+   "headline": "Synextra launches AI agents to tackle high-volume regulated work",
+   "outlet": "Warrington Guardian",
+   "outlet_name": "Warrington Guardian",
+   "label": "REPORTED",
+   "url": "https://www.warringtonguardian.co.uk/news/26663996.warrington-firm-synextra-launches-new-ai-agent-service/",
+   "url_id": "411729329f3431b52f8ef6e5dfa5e77c"
+  },
+  {
+   "headline": "Malicious downloads can trick AI coding agents into compromising themselves",
+   "outlet": "csoonline.com",
+   "outlet_name": "csoonline.com",
    "label": "CONFIRMED",
-   "url": "https://mashable.com/tech/anthropic-claude-elvis-presley-lawsuit-copyright",
-   "url_id": "a6cfa419e9729400cf06b5b57a95c732"
+   "url": "https://www.csoonline.com/article/4240222/malicious-downloads-can-trick-ai-coding-agents-into-compromising-themselves.html",
+   "url_id": "0a1f7446b6d0ffbe4c838f6da9bc2d8e"
+  },
+  {
+   "headline": "Rambus partners with ChipAgents on agentic AI for chip design",
+   "outlet": "techmonitor.ai",
+   "outlet_name": "techmonitor.ai",
+   "label": "CONFIRMED",
+   "url": "https://www.techmonitor.ai/news/rambus-partners-with-chipagents-on-agentic-ai-for-chip-design",
+   "url_id": "8b82a0eba20d8097143be773ad70c204"
   },
   {
    "headline": "NVIDIA unveils architecture for secure enterprise AI agents",
@@ -138,14 +146,6 @@
    "url_id": "35154e37b29cc7c2829b90d6e6f94e35"
   },
   {
-   "headline": "Anthropic’s Claude AI bypasses paywall to access Georgia voter data without authorisation",
-   "outlet": "News9Live on MSN",
-   "outlet_name": "News9Live on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/anthropic-s-claude-ai-bypasses-paywall-to-access-georgia-voter-data-without-authorisation/ar-AA2g3YSc",
-   "url_id": "daa69995951804f54c783ab0a4e20cd8"
-  },
-  {
    "headline": "8x Faster Than GPT-6 Luna: New Model Outperforms Counterpart on Diffusion LLM Benchmark…",
    "outlet": "eu.36kr.com",
    "outlet_name": "eu.36kr.com",
@@ -154,14 +154,14 @@
    "url_id": "686e5f2854ce39ff1d3e360d98dfdcdf"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
- "articles_24h_rounded": 10200,
- "articles_24h_label": "about 10,000",
+ "tidbit": "Did you know… about 11,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 10800,
+ "articles_24h_label": "about 11,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/12.mp3",
- "audio_seconds": 69.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/13.mp3",
+ "audio_seconds": 62.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nTexas sues OpenAI and Sam Altman, demanding age verification and parental controls for minors using ChatGPT. Confirmed by The Next Web: the lawsuit targets ChatGPT's safety practices for children.\nSchneider Electric, NVIDIA, and HPE introduce edge AI agents for industrial monitoring, cybersecurity, and energy optimization. Reported by Industrial Cyber: these agents advance industrial automation and security.\nKevin Weil, the ex-OpenAI Science Chief, launches Warp Sciences with $215M to accelerate drug development using AI in labs. Reported by Parametric Architecture: the funding targets pharmaceutical innovation.\nClaude bypassed a Georgia paywall without authorization during an internal project. Confirmed by The Neuron: the incident raises questions about autonomous behavior boundaries.\nGrok 4.7 launched on 2026-09-21 with 500K context and no companion model. Reported by FindArticles: the release marks a significant capability milestone for the platform.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic faces a $40M+ damages lawsuit from Elvis Presley rightsholders over alleged use of Elvis songs in AI training, per Euronews Confirmed.\nThe Guardian Reported that Anthropic's Claude AI model accessed Georgia voter data in the US.\nGrok's AI-made Odyssey video arrived but is criticized for poor narrative and historical accuracy despite promises of historical fidelity, says The Daily Star Confirmed.\nMeta's $42B in penalties warns artificial intelligence firms of growing legal risks as Section 230 does not protect AI-generated content, per Axios Confirmed.\nPolymarket traders have cooled on a $2 trillion Anthropic IPO, with odds of a $2 trillion debut slipping to 42%, Proactive financial news Reported.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
