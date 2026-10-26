@@ -1,133 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T16:20:02Z",
- "hour": "2026-10-26T17:00:00Z",
+ "generated_at": "2026-10-26T17:20:02Z",
+ "hour": "2026-10-26T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic officially files for its public debut",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+   "title": "Anthropic's IPO outlines AI's extraordinary risks",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "url": "https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic files for IPO with $16.3B revenue, 7 founders control 50.1% voting power.",
-   "published_at": "2026-10-26T14:35:22Z",
-   "url_id": "832e953a20ffd4759e39ee533490d2f5"
+   "summary_1line": "Anthropic's IPO warns of AI existential risks and unauthorized system access.",
+   "published_at": "2026-10-26T13:52:48Z",
+   "url_id": "426a5bdbb8e16e3f8cdf5234a2016d0a"
   },
   {
-   "title": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-   "outlet": "WIRED",
-   "outlet_name": "WIRED",
-   "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic files IPO prospectus with $16B revenue, $80M loss, and AI risk warnings.",
-   "published_at": "2026-10-26T14:50:00Z",
-   "url_id": "c7a21e6e7deca897174686f47285590c"
-  },
-  {
-   "title": "Anthropic IPO filing to put AI investment boom to the test",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
-   "url": "https://ca.finance.yahoo.com/news/anthropic-ipo-filing-put-ai-135721675.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic files for U.S. IPO, signaling AI lab market entry amid investor caution.",
-   "published_at": "2026-10-26T13:57:21Z",
-   "url_id": "673d6ae277400e48a196a890b1d176c4"
-  },
-  {
-   "title": "Anthropic’s S-1 shows $16.3 billion in revenue and an $80.7 billion net loss",
+   "title": "Anthropic’s 7 co-founders are each worth $14 billion already—and that could double in IPO",
    "outlet": "Fortune",
    "outlet_name": "Fortune",
-   "url": "http://fortune.com/2026/10/26/anthropics-s-1/",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic reports $16.3B revenue and $80.7B loss in first half of 2026, targeting $1.5T–$2T valuation.",
-   "published_at": "2026-10-26T13:32:05Z",
-   "url_id": "6f97d373844a5da614f366b9366e2f98"
+   "url": "https://fortune.com/2026/10/26/anthropic-ipo-cofounders-how-rich-billionaires-philanthropy-amodei/",
+   "label": "CONFIRMED",
+   "summary_1line": "Seven Anthropic co-founders each own 240 million shares, with 80% pledged to philanthropy.",
+   "published_at": "2026-10-26T14:31:57Z",
+   "url_id": "34ca2b91b20b595706d493677e4243cd"
   },
   {
-   "title": "Elon Musk Has Followed Through on His Threat to Remake ‘The Odyssey’ With Grok AI",
-   "outlet": "PetaPixel",
-   "outlet_name": "PetaPixel",
-   "url": "https://petapixel.com/2026/10/26/elon-musk-has-followed-through-on-his-threat-to-remake-the-odyssey-with-grok-ai/",
+   "title": "Christopher Nolan can rest easy after Elon Musk's Grok releases a terrible AI version of The Odyssey",
+   "outlet": "GamesRadar+",
+   "outlet_name": "GamesRadar+",
+   "url": "https://www.gamesradar.com/entertainment/drama-movies/christopher-nolan-can-rest-easy-after-elon-musks-grok-releases-a-terrible-ai-version-of-the-odyssey/",
    "label": "CONFIRMED",
-   "summary_1line": "Grok released an AI version of The Odyssey amid criticism for cultural insensitivity and lack of gravitas.",
-   "published_at": "2026-10-26T14:19:29Z",
-   "url_id": "f2173a751980f27a9c43e5f2c8dce15c"
+   "summary_1line": "Grok releases AI adaptation of The Odyssey with criticism over its artistic quality.",
+   "published_at": "2026-10-26T14:10:47Z",
+   "url_id": "dc95ce24cef353ecbcf21eed9709e765"
+  },
+  {
+   "title": "Anthropic AI bot accessed public Georgia voter data through state data hub",
+   "outlet": "WTOC",
+   "outlet_name": "WTOC",
+   "url": "https://www.wtoc.com/2026/10/26/anthropic-ai-bot-accessed-public-georgia-voter-data-through-state-data-hub/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic's AI bot accessed public Georgia voter data via state hub without touching registration systems.",
+   "published_at": "2026-10-26T12:50:00Z",
+   "url_id": "232ef885d99f0d720cadd42e3e5aa397"
+  },
+  {
+   "title": "Anthropic's IPO Filing Reveals $80.7B Net Loss as Claude Maker Reports Explosive Revenue Growth",
+   "outlet": "International Business Times UK",
+   "outlet_name": "International Business Times UK",
+   "url": "https://www.ibtimes.co.uk/anthropic-ipo-filing-80-billion-loss-revenue-1827925",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic reports $80.7B loss amid $16.3B revenue surge and $8.9B infrastructure spending.",
+   "published_at": "2026-10-26T08:20:00Z",
+   "url_id": "109bee6caf782fa5abdd312edc29b4a8"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic officially files for its public debut",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
+   "headline": "Anthropic's IPO outlines AI's extraordinary risks",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-   "url_id": "832e953a20ffd4759e39ee533490d2f5"
+   "url": "https://www.axios.com/2026/10/26/anthropic-ipo-risk-factors-humanity",
+   "url_id": "426a5bdbb8e16e3f8cdf5234a2016d0a"
   },
   {
-   "headline": "Anthropic’s IPO Prospectus Reveals What’s Under the Hood",
-   "outlet": "WIRED",
-   "outlet_name": "WIRED",
-   "label": "CONFIRMED",
-   "url": "https://www.wired.com/story/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-   "url_id": "c7a21e6e7deca897174686f47285590c"
-  },
-  {
-   "headline": "Anthropic IPO filing to put AI investment boom to the test",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
-   "label": "CONFIRMED",
-   "url": "https://ca.finance.yahoo.com/news/anthropic-ipo-filing-put-ai-135721675.html",
-   "url_id": "673d6ae277400e48a196a890b1d176c4"
-  },
-  {
-   "headline": "Anthropic’s S-1 shows $16.3 billion in revenue and an $80.7 billion net loss",
+   "headline": "Anthropic’s 7 co-founders are each worth $14 billion already—and that could double in IPO",
    "outlet": "Fortune",
    "outlet_name": "Fortune",
-   "label": "STILL OPEN",
-   "url": "http://fortune.com/2026/10/26/anthropics-s-1/",
-   "url_id": "6f97d373844a5da614f366b9366e2f98"
+   "label": "CONFIRMED",
+   "url": "https://fortune.com/2026/10/26/anthropic-ipo-cofounders-how-rich-billionaires-philanthropy-amodei/",
+   "url_id": "34ca2b91b20b595706d493677e4243cd"
   },
   {
-   "headline": "Elon Musk Has Followed Through on His Threat to Remake ‘The Odyssey’ With Grok AI",
-   "outlet": "PetaPixel",
-   "outlet_name": "PetaPixel",
+   "headline": "Christopher Nolan can rest easy after Elon Musk's Grok releases a terrible AI version of…",
+   "outlet": "GamesRadar+",
+   "outlet_name": "GamesRadar+",
    "label": "CONFIRMED",
-   "url": "https://petapixel.com/2026/10/26/elon-musk-has-followed-through-on-his-threat-to-remake-the-odyssey-with-grok-ai/",
-   "url_id": "f2173a751980f27a9c43e5f2c8dce15c"
-  },
-  {
-   "headline": "AI startup hacks Anthropic in 12 hours, gains access to employee details and internal…",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "label": "CONFIRMED",
-   "url": "https://www.indiatoday.in/amp/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-   "url_id": "58e93b2f3fd068ed38a3b6aff51210fb"
+   "url": "https://www.gamesradar.com/entertainment/drama-movies/christopher-nolan-can-rest-easy-after-elon-musks-grok-releases-a-terrible-ai-version-of-the-odyssey/",
+   "url_id": "dc95ce24cef353ecbcf21eed9709e765"
   },
   {
    "headline": "Anthropic AI bot accessed public Georgia voter data through state data hub",
-   "outlet": "Atlanta News First",
-   "outlet_name": "Atlanta News First",
+   "outlet": "WTOC",
+   "outlet_name": "WTOC",
    "label": "CONFIRMED",
-   "url": "https://www.atlantanewsfirst.com/2026/10/26/anthropic-ai-bot-accessed-public-georgia-voter-data-through-state-data-hub/",
-   "url_id": "3bcf8aeea34dd42e332dbb8a54714c17"
+   "url": "https://www.wtoc.com/2026/10/26/anthropic-ai-bot-accessed-public-georgia-voter-data-through-state-data-hub/",
+   "url_id": "232ef885d99f0d720cadd42e3e5aa397"
   },
   {
-   "headline": "Anthropic files SEC prospectus, bringing AI lab a step closer to historic offering",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "REPORTED",
-   "url": "https://www.cnbc.com/video/2026/10/26/anthropic-files-sec-prospectus.html",
-   "url_id": "f3651f7977fb089cb2597c318404327f"
+   "headline": "Anthropic's IPO Filing Reveals $80.7B Net Loss as Claude Maker Reports Explosive Revenue…",
+   "outlet": "International Business Times UK",
+   "outlet_name": "International Business Times UK",
+   "label": "CONFIRMED",
+   "url": "https://www.ibtimes.co.uk/anthropic-ipo-filing-80-billion-loss-revenue-1827925",
+   "url_id": "109bee6caf782fa5abdd312edc29b4a8"
   },
   {
-   "headline": "Oracle unveils AI agents for business applications",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "Nvidia unveils RTX Spark software push for AI & games",
+   "outlet": "FutureFive New Zealand",
+   "outlet_name": "FutureFive New Zealand",
    "label": "CONFIRMED",
-   "url": "https://www.tradingview.com/news/seekingalpha:52f145b0a094b:0-oracle-unveils-ai-agents-for-business-applications/",
-   "url_id": "9fc299dda2533228e888f8dce1a3b834"
+   "url": "https://futurefive.co.nz/story/nvidia-unveils-rtx-spark-software-push-for-ai-games",
+   "url_id": "750b2b60c0c2b25da53410eae7a1bbe9"
   },
   {
    "headline": "Anthropic discloses risk factors in new S-1: Here's what you need to know",
@@ -138,12 +114,36 @@
    "url_id": "1b929b945f72f2a7e5560b0d6a9e7dd6"
   },
   {
-   "headline": "Cadence unveils Nvidia-backed AI models that chipmakers can run in-house",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
+   "headline": "OpenAI starts training its most powerful systems again – but keeps them off the internet…",
+   "outlet": "Yahoo News UK",
+   "outlet_name": "Yahoo News UK",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/cadence-unveils-nvidia-backed-ai-models-that-chipmakers-can-run-in-house/ar-AA2g5Mr3",
-   "url_id": "24963d991184cd0b0ca45753a00ad317"
+   "url": "https://uk.news.yahoo.com/openai-starts-training-most-powerful-135111058.html",
+   "url_id": "9fa4387c2b5f30f3603ee60723c074b2"
+  },
+  {
+   "headline": "Nevis raises $70M to expand its AI platform for wealth advisers",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/nevis-70m-series-b-ai-wealth-management",
+   "url_id": "efb9f9efbfb5e6d1b87912754044cbb9"
+  },
+  {
+   "headline": "DOJ Appeals Court Ruling Lifting Ban on Agency Anthropic Use",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-26/doj-appeals-court-ruling-lifting-ban-on-agency-anthropic-use",
+   "url_id": "a0120e0149577854d9a7848d9008a2e5"
+  },
+  {
+   "headline": "Dubai Chambers Launches World's First Agentic AI Marketplace by a Chamber of Commerce",
+   "outlet": "Voice of Alexandria",
+   "outlet_name": "Voice of Alexandria",
+   "label": "CONFIRMED",
+   "url": "https://www.voiceofalexandria.com/news/national_business_news/dubai-chambers-launches-worlds-first-agentic-ai-marketplace-by-a-chamber-of-commerce/article_b673c0b4-0436-5bdc-904e-e5b862bbeafe.html",
+   "url_id": "59bcc8646ed5ab23871344d9632e10f6"
   },
   {
    "headline": "Künstliche Intelligenz: KI-Pionier Anthropic beantragt Börsengang in den USA",
@@ -154,14 +154,14 @@
    "url_id": "56527d0b3a7c8b45bdd614841c18181c"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13500,
+ "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
+ "articles_24h_rounded": 14400,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/17.mp3",
- "audio_seconds": 45.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/18.mp3",
+ "audio_seconds": 63.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Anthropic officially files for its public debut.\nConfirmed, per WIRED: Anthropic’s IPO Prospectus Reveals What’s Under the Hood.\nConfirmed, per Yahoo! Finance Canada: Anthropic IPO filing to put AI investment boom to the test.\nStill open, per Fortune: Anthropic’s S-1 shows $16.3 billion in revenue and an $80.7 billion net loss.\nConfirmed, per PetaPixel: Elon Musk Has Followed Through on His Threat to Remake ‘The Odyssey’ With Grok AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's IPO filing outlines extraordinary risks in artificial intelligence, including existential threats and unauthorized system access. Confirmed by Axios.\nSeven Anthropic co-founders each own 240 million shares, with 80 percent pledged to philanthropy. Confirmed by Fortune.\nGrok released an artificial intelligence adaptation of The Odyssey that drew criticism over its artistic quality. Confirmed by GamesRadar+.\nAnthropic's artificial intelligence bot accessed public Georgia voter data through the state data hub without touching registration systems. Confirmed by WTOC.\nAnthropic reports an 80.7 billion dollar loss alongside a 16.3 billion dollar revenue surge and 8.9 billion dollars in infrastructure spending. Confirmed by International Business Times UK.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
