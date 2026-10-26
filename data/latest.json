@@ -1,101 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T00:20:01Z",
- "hour": "2026-10-26T01:00:00Z",
+ "generated_at": "2026-10-26T01:20:01Z",
+ "hour": "2026-10-26T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Elvis Presley’s Estate Sues AI Company Anthropic -",
-   "outlet": "Happy Mag",
-   "outlet_name": "Happy Mag",
-   "url": "https://happymag.tv/elvis-presley-estate-sues-ai-company-anthropic/",
+   "title": "Anthropic Sued for Training Claude on Elvis Presley Songs",
+   "outlet": "Vulture",
+   "outlet_name": "Vulture",
+   "url": "https://www.vulture.com/article/anthropic-elvis-lawsuit.html",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T23:11:55Z",
-   "url_id": "65eeac96ff8b33abfbd6de8d37952dd0"
+   "summary_1line": "Elvis catalog owners sue Anthropic over AI training using Presley's songs.",
+   "published_at": "2026-10-25T22:57:50Z",
+   "url_id": "a7a19775813450ffefbf26064af59cca"
   },
   {
-   "title": "SUSE strengthens NVIDIA AI Factory ecosystem",
-   "outlet": "ARNnet",
-   "outlet_name": "ARNnet",
-   "url": "https://www.arnnet.com.au/article/4239936/suse-strengthens-nvidia-ai-factory-ecosystem.html",
+   "title": "Nigeria Data Protection Commission calls for privacy-by-design in frontier AI regulation",
+   "outlet": "Tech Review Africa",
+   "outlet_name": "Tech Review Africa",
+   "url": "https://techreviewafrica.com/news/7935/nigeria-data-protection-commission-calls-for-privacy-by-design-in-frontier-ai-regulation",
    "label": "REPORTED",
-   "summary_1line": "SUSE and NVIDIA launch sovereign AI tools with certification for private enterprise AI deployment.",
-   "published_at": "2026-10-25T22:30:47Z",
-   "url_id": "43682a4d3c8a3ef47ec54d466e5f649a"
+   "summary_1line": "NDPC urges privacy-by-design in Nigeria's frontier AI to prevent cyber risks and disinformation.",
+   "published_at": "2026-10-25T23:49:16Z",
+   "url_id": "88ce1e67f88d8e419ff7833a66f691a0"
   },
   {
-   "title": "Adveritas: ARR rose 47% YoY as SME, US and ChatGPT opportunities expanded",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4354195:0-adveritas-arr-rose-47-yoy-as-sme-us-and-chatgpt-opportunities-expanded/",
+   "title": "Messi asks ChatGPT to teach him a chess opening",
+   "outlet": "Chess News | ChessBase",
+   "outlet_name": "Chess News | ChessBase",
+   "url": "https://en.chessbase.com/post/messi-chatgpt-chess-opening",
    "label": "REPORTED",
-   "summary_1line": "Adveritas sees 47% YoY ARR growth to $17.9m with new SME and US ad opportunities.",
-   "published_at": "2026-10-25T22:21:03Z",
-   "url_id": "e575bcf9587462d84bb89cd7dd533931"
+   "summary_1line": "Messi's ChatGPT ad inspires Nakamura to win a chess tournament with the GOAT Horns opening.",
+   "published_at": "2026-10-25T23:44:28Z",
+   "url_id": "b6d71a6b9244058850b802e4301c98e4"
   },
   {
-   "title": "DV360 Marketplace gains Gemini-curated bundles, 50 packages per line item",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
-   "url": "https://ppc.land/dv360-marketplace-gains-gemini-curated-bundles-50-packages-per-line-item/",
+   "title": "AI bot tied to Anthropic reaches public Georgia data hub",
+   "outlet": "FOX 5 Atlanta",
+   "outlet_name": "FOX 5 Atlanta",
+   "url": "https://www.fox5atlanta.com/news/ai-bot-tied-anthropic-reaches-public-georgia-election-hub",
    "label": "REPORTED",
-   "summary_1line": "Google's AI-curated ad bundles now enable single-click activation for live events in DV360.",
-   "published_at": "2026-10-25T22:18:20Z",
-   "url_id": "0c5892d16192980249c253cd3630c818"
+   "summary_1line": "Anthropic's AI bot accessed public Georgia voter data without breaching secure systems.",
+   "published_at": "2026-10-25T23:33:35Z",
+   "url_id": "3f0b88ff7117a75f988ffcbd414ed832"
   },
   {
-   "title": "Elon Musk’s Grok Imagine Releases First Odyssey Episode With Wonder Studios: 8 outlets compared",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
-   "url": "https://newscord.org/article/elon-musks-grok-imagine-releases-first-odyssey-episode-with-wonder-studios--Story_20261025_Grokreleasesthefirst8aca6dbe",
+   "title": "Let Your TV Pick the Scares: Halloween Movie Night, Now Powered by Gemini",
+   "outlet": "Women Love Tech",
+   "outlet_name": "Women Love Tech",
+   "url": "https://womenlovetech.com/let-your-tv-pick-the-scares-halloween-movie-night-now-powered-by-gemini/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-25T23:23:18Z",
-   "url_id": "bfb4fbc2cb5ac5ee51a4aaa4c3c37e68"
+   "summary_1line": "TCL's smart TVs use Google Gemini to help pick horror movies for Halloween.",
+   "published_at": "2026-10-25T23:19:00Z",
+   "url_id": "7bd87a14c112310c98760af99d49c5fd"
   }
  ],
  "ticker": [
   {
-   "headline": "Elvis Presley’s Estate Sues AI Company Anthropic -",
-   "outlet": "Happy Mag",
-   "outlet_name": "Happy Mag",
+   "headline": "Anthropic Sued for Training Claude on Elvis Presley Songs",
+   "outlet": "Vulture",
+   "outlet_name": "Vulture",
    "label": "REPORTED",
-   "url": "https://happymag.tv/elvis-presley-estate-sues-ai-company-anthropic/",
-   "url_id": "65eeac96ff8b33abfbd6de8d37952dd0"
+   "url": "https://www.vulture.com/article/anthropic-elvis-lawsuit.html",
+   "url_id": "a7a19775813450ffefbf26064af59cca"
   },
   {
-   "headline": "SUSE strengthens NVIDIA AI Factory ecosystem",
-   "outlet": "ARNnet",
-   "outlet_name": "ARNnet",
+   "headline": "Nigeria Data Protection Commission calls for privacy-by-design in frontier AI regulation",
+   "outlet": "Tech Review Africa",
+   "outlet_name": "Tech Review Africa",
    "label": "REPORTED",
-   "url": "https://www.arnnet.com.au/article/4239936/suse-strengthens-nvidia-ai-factory-ecosystem.html",
-   "url_id": "43682a4d3c8a3ef47ec54d466e5f649a"
+   "url": "https://techreviewafrica.com/news/7935/nigeria-data-protection-commission-calls-for-privacy-by-design-in-frontier-ai-regulation",
+   "url_id": "88ce1e67f88d8e419ff7833a66f691a0"
   },
   {
-   "headline": "Adveritas: ARR rose 47% YoY as SME, US and ChatGPT opportunities expanded",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "Messi asks ChatGPT to teach him a chess opening",
+   "outlet": "Chess News | ChessBase",
+   "outlet_name": "Chess News | ChessBase",
    "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/urn:summary_document_report:quartr.com:4354195:0-adveritas-arr-rose-47-yoy-as-sme-us-and-chatgpt-opportunities-expanded/",
-   "url_id": "e575bcf9587462d84bb89cd7dd533931"
+   "url": "https://en.chessbase.com/post/messi-chatgpt-chess-opening",
+   "url_id": "b6d71a6b9244058850b802e4301c98e4"
   },
   {
-   "headline": "DV360 Marketplace gains Gemini-curated bundles, 50 packages per line item",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
+   "headline": "AI bot tied to Anthropic reaches public Georgia data hub",
+   "outlet": "FOX 5 Atlanta",
+   "outlet_name": "FOX 5 Atlanta",
    "label": "REPORTED",
-   "url": "https://ppc.land/dv360-marketplace-gains-gemini-curated-bundles-50-packages-per-line-item/",
-   "url_id": "0c5892d16192980249c253cd3630c818"
+   "url": "https://www.fox5atlanta.com/news/ai-bot-tied-anthropic-reaches-public-georgia-election-hub",
+   "url_id": "3f0b88ff7117a75f988ffcbd414ed832"
   },
   {
-   "headline": "Elon Musk’s Grok Imagine Releases First Odyssey Episode With Wonder Studios: 8 outlets…",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
+   "headline": "Let Your TV Pick the Scares: Halloween Movie Night, Now Powered by Gemini",
+   "outlet": "Women Love Tech",
+   "outlet_name": "Women Love Tech",
    "label": "REPORTED",
-   "url": "https://newscord.org/article/elon-musks-grok-imagine-releases-first-odyssey-episode-with-wonder-studios--Story_20261025_Grokreleasesthefirst8aca6dbe",
-   "url_id": "bfb4fbc2cb5ac5ee51a4aaa4c3c37e68"
+   "url": "https://womenlovetech.com/let-your-tv-pick-the-scares-halloween-movie-night-now-powered-by-gemini/",
+   "url_id": "7bd87a14c112310c98760af99d49c5fd"
+  },
+  {
+   "headline": "SUSE Brings Sovereign Control to Enterprise Agentic AI with NVIDIA",
+   "outlet": "iTWire",
+   "outlet_name": "iTWire",
+   "label": "REPORTED",
+   "url": "https://itwire.com/business-it-news/data/suse-brings-sovereign-control-to-enterprise-agentic-ai-with-nvidia",
+   "url_id": "0ce7b5d46f594d076585b8dceb7af269"
   },
   {
    "headline": "China’s DeepSeek Nears Completion of 100 Billion Yuan Funding Round",
@@ -114,20 +122,20 @@
    "url_id": "899ae7af539ffa93aad85bf6e4571eb7"
   },
   {
-   "headline": "The Thread Consulting, LLC Led By Dr. Leonie H Mattison Named an OpenAI Select Partner",
-   "outlet": "EIN Presswire",
-   "outlet_name": "EIN Presswire",
+   "headline": "OpenAI Training AI in Systems Shut Off From Web Access",
+   "outlet": "pymnts.com",
+   "outlet_name": "pymnts.com",
    "label": "REPORTED",
-   "url": "https://www.einpresswire.com/article/952128091/the-thread-consulting-llc-led-by-dr-leonie-h-mattison-named-an-openai-select-partner",
-   "url_id": "bcdd4b74e0a17c9e91a04a341ba16bf0"
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/",
+   "url_id": "9260dd757e19097227eef12ed4bcadf0"
   },
   {
-   "headline": "Claude Duet: Anthropic’s Proactive AI Agent for the Job",
-   "outlet": "Basic Tutorials",
-   "outlet_name": "Basic Tutorials",
+   "headline": "Anthropic Merges Claude Chat and Cowork for Enterprise Users",
+   "outlet": "pymnts.com",
+   "outlet_name": "pymnts.com",
    "label": "REPORTED",
-   "url": "https://basic-tutorials.com/news/claude-duet-anthropics-proactive-ai-agent-for-the-job/",
-   "url_id": "ada9dd19716be7318c07f92bb8ae4d43"
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/",
+   "url_id": "3c8490a45f56168304c7d540b3f768b2"
   },
   {
    "headline": "Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit",
@@ -144,24 +152,16 @@
    "label": "REPORTED",
    "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
    "url_id": "dc410205ba07a4c7f2ab4896b7ffbd0b"
-  },
-  {
-   "headline": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-   "outlet": "minimaxir.com",
-   "outlet_name": "minimaxir.com",
-   "label": "STILL OPEN",
-   "url": "https://minimaxir.com/2026/10/cheap-llms/",
-   "url_id": "240888442444abd5f79d447ab21f8fbe"
   }
  ],
- "tidbit": "Did you know… about 4,700 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 4700,
- "articles_24h_label": "about 4,700",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 5200,
+ "articles_24h_label": "about 5,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/01.mp3",
- "audio_seconds": 53.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/02.mp3",
+ "audio_seconds": 47.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Happy Mag: Elvis Presley’s Estate Sues AI Company Anthropic -.\nReported by ARNnet: SUSE strengthens NVIDIA AI Factory ecosystem.\nReported by TradingView: Adveritas: ARR rose 47% YoY as SME, US and ChatGPT opportunities expanded.\nReported by PPC Land: DV360 Marketplace gains Gemini-curated bundles, 50 packages per line item.\nReported by NewsCord: Elon Musk’s Grok Imagine Releases First Odyssey Episode With Wonder Studios: 8 outlets compared.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Vulture: Anthropic Sued for Training Claude on Elvis Presley Songs.\nReported by Tech Review Africa: Nigeria Data Protection Commission calls for privacy-by-design in frontier AI regulation.\nReported by Chess News | ChessBase: Messi asks ChatGPT to teach him a chess opening.\nReported by FOX 5 Atlanta: AI bot tied to Anthropic reaches public Georgia data hub.\nReported by Women Love Tech: Let Your TV Pick the Scares: Halloween Movie Night, Now Powered by Gemini.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
