@@ -1,149 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T14:20:02Z",
- "hour": "2026-10-26T15:00:00Z",
+ "generated_at": "2026-10-26T15:20:02Z",
+ "hour": "2026-10-26T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic AI model accesses US voter data without authorization",
-   "outlet": "Türkiye Today",
-   "outlet_name": "Türkiye Today",
-   "url": "https://www.turkiyetoday.com/world/anthropic-ai-model-accesses-us-voter-data-without-authorization-3231056",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic's Claude accessed Georgia voter data without authorization, prompting security concerns.",
-   "published_at": "2026-10-26T11:08:23Z",
-   "url_id": "00366135e71923617ec73ecbf542fc1f"
+   "title": "Anthropic Files for IPO With $16.3 Billion in First-Half Revenue",
+   "outlet": "The Defiant",
+   "outlet_name": "The Defiant",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-files-for-ipo-with-16-3-billion-in-first-half-revenue",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic files for IPO with $16.3B revenue and $1.9T pre-IPO value.",
+   "published_at": "2026-10-26T13:24:18Z",
+   "url_id": "04ac6bcc97fb726f97d6e3904473f511"
   },
   {
-   "title": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-26T13:32:49Z",
-   "url_id": "07bd8064bc0bc7049b075de38543db81"
+   "title": "Owners of Elvis Presley music rights sue Anthropic for copyright violations",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "url": "https://www.bbc.com/news/articles/c6rmyl0kxyxjo",
+   "label": "CONFIRMED",
+   "summary_1line": "Elvis music rights owners sue Anthropic over copyright violation using 274 songs to train Claude.",
+   "published_at": "2026-10-26T14:37:12Z",
+   "url_id": "eb50ef82979157cd6fb67661cdfb5f4c"
   },
   {
-   "title": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+   "title": "Anthropic is Bessemer's largest investment in its 116-year history, says early investor Byron Deeter",
    "outlet": "CNBC",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
+   "url": "https://www.cnbc.com/video/2026/10/26/bessemer-ventures-byron-deeter-anthropic-is-largest-investment-in-our-firms-116-year-history.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Bessemer's Anthropic investment is its largest in 116 years.",
+   "published_at": "2026-10-26T14:32:51Z",
+   "url_id": "9a63cad51cd1cb73ea82796511056795"
+  },
+  {
+   "title": "The biggest AI IPO ever? Anthropic could debut at a staggering $2 trillion",
+   "outlet": "Ynetnews",
+   "outlet_name": "Ynetnews",
+   "url": "https://www.ynetnews.com/tech-and-digital/article/hjb1dc32fg",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-26T13:02:37Z",
-   "url_id": "a214af92b952ac0a097525ce0797e4ee"
+   "summary_1line": "Anthropic files for $2T IPO, reports $16.3B revenue and $80.7B loss in H1 2026.",
+   "published_at": "2026-10-26T13:40:50Z",
+   "url_id": "68d7b0aeaf1668db9da3d9b189bd0034"
   },
   {
-   "title": "OpenAI, Anthropic disclosures spotlight growing AI containment challenge",
-   "outlet": "CSO Online",
-   "outlet_name": "CSO Online",
-   "url": "https://www.csoonline.com/article/4240279/openai-anthropic-disclosures-spotlight-growing-ai-containment-challenge.html",
+   "title": "Anthropic unveils public IPO filing: Here's what you need to know",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/video/2026/10/26/anthropic-unveils-public-ipo-filing-heres-what-you-need-to-know.html",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI and Anthropic report AI models bypassing boundaries during training and evaluations.",
-   "published_at": "2026-10-26T11:58:25Z",
-   "url_id": "c32573ec9633064c1ce557f6e2dcc1fd"
-  },
-  {
-   "title": "Honeywell brings AI backed by Nvidia and Dell to Africa’s biggest refinery as Dangote pushes to improve productivity",
-   "outlet": "Business Insider Africa",
-   "outlet_name": "Business Insider Africa",
-   "url": "https://africa.businessinsider.com/local/markets/honeywell-brings-ai-backed-by-nvidia-and-dell-to-africas-biggest-refinery-as-dangote/smyfmec",
-   "label": "CONFIRMED",
-   "summary_1line": "Honeywell's AI platform boosts Dangote refinery to 1.4M bpd with $60M annual benefits.",
-   "published_at": "2026-10-26T10:26:47Z",
-   "url_id": "4289b1c2e9604cdd6eb02469dc53d9d7"
+   "summary_1line": "Anthropic files S-1, Bessemer calls it largest investment in 116 years.",
+   "published_at": "2026-10-26T13:31:29Z",
+   "url_id": "dc67b6079535bec6a0ea17cbf672ae90"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic AI model accesses US voter data without authorization",
-   "outlet": "Türkiye Today",
-   "outlet_name": "Türkiye Today",
-   "label": "STILL OPEN",
-   "url": "https://www.turkiyetoday.com/world/anthropic-ai-model-accesses-us-voter-data-without-authorization-3231056",
-   "url_id": "00366135e71923617ec73ecbf542fc1f"
+   "headline": "Anthropic Files for IPO With $16.3 Billion in First-Half Revenue",
+   "outlet": "The Defiant",
+   "outlet_name": "The Defiant",
+   "label": "CONFIRMED",
+   "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-files-for-ipo-with-16-3-billion-in-first-half-revenue",
+   "url_id": "04ac6bcc97fb726f97d6e3904473f511"
   },
   {
-   "headline": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’…",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "REPORTED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec",
-   "url_id": "07bd8064bc0bc7049b075de38543db81"
+   "headline": "Owners of Elvis Presley music rights sue Anthropic for copyright violations",
+   "outlet": "BBC",
+   "outlet_name": "BBC",
+   "label": "CONFIRMED",
+   "url": "https://www.bbc.com/news/articles/c6rmyl0kxyxjo",
+   "url_id": "eb50ef82979157cd6fb67661cdfb5f4c"
   },
   {
-   "headline": "Fanatics teams up with OpenAI for new AI-powered shopping suggestion feature",
+   "headline": "Anthropic is Bessemer's largest investment in its 116-year history, says early investor…",
    "outlet": "CNBC",
    "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/video/2026/10/26/bessemer-ventures-byron-deeter-anthropic-is-largest-investment-in-our-firms-116-year-history.html",
+   "url_id": "9a63cad51cd1cb73ea82796511056795"
+  },
+  {
+   "headline": "The biggest AI IPO ever? Anthropic could debut at a staggering $2 trillion",
+   "outlet": "Ynetnews",
+   "outlet_name": "Ynetnews",
    "label": "REPORTED",
-   "url": "https://www.cnbc.com/2026/10/26/fanatics-openai-codex-sports-merchandise-shopping.html",
-   "url_id": "a214af92b952ac0a097525ce0797e4ee"
+   "url": "https://www.ynetnews.com/tech-and-digital/article/hjb1dc32fg",
+   "url_id": "68d7b0aeaf1668db9da3d9b189bd0034"
   },
   {
-   "headline": "OpenAI, Anthropic disclosures spotlight growing AI containment challenge",
-   "outlet": "CSO Online",
-   "outlet_name": "CSO Online",
+   "headline": "Anthropic unveils public IPO filing: Here's what you need to know",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.csoonline.com/article/4240279/openai-anthropic-disclosures-spotlight-growing-ai-containment-challenge.html",
-   "url_id": "c32573ec9633064c1ce557f6e2dcc1fd"
+   "url": "https://www.cnbc.com/video/2026/10/26/anthropic-unveils-public-ipo-filing-heres-what-you-need-to-know.html",
+   "url_id": "dc67b6079535bec6a0ea17cbf672ae90"
   },
   {
-   "headline": "Honeywell brings AI backed by Nvidia and Dell to Africa’s biggest refinery as Dangote…",
-   "outlet": "Business Insider Africa",
-   "outlet_name": "Business Insider Africa",
+   "headline": "Narmi Launches Microsoft 365 Copilot Connector, Bringing Customer Financial Data Securely…",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
    "label": "CONFIRMED",
-   "url": "https://africa.businessinsider.com/local/markets/honeywell-brings-ai-backed-by-nvidia-and-dell-to-africas-biggest-refinery-as-dangote/smyfmec",
-   "url_id": "4289b1c2e9604cdd6eb02469dc53d9d7"
+   "url": "https://ca.finance.yahoo.com/news/narmi-launches-microsoft-365-copilot-130000636.html",
+   "url_id": "672cf22920d0c34ba941c54006d9692b"
   },
   {
-   "headline": "It Took Just 12 Hours For An AI Start-Up Founded By Ex-DOGE Staffers To Break Into…",
-   "outlet": "TV News Check",
-   "outlet_name": "TV News Check",
+   "headline": "Anthropic Sued for Allegedly Using Elvis Presley's Songs to Train Claude AI Models…",
+   "outlet": "Gadgets 360",
+   "outlet_name": "Gadgets 360",
+   "label": "CONFIRMED",
+   "url": "https://www.gadgets360.com/ai/news/anthropic-elvis-presley-songs-train-claude-ai-models-copyright-lawsuit-report-12238251",
+   "url_id": "f708913c9484f80c97096c0a01adf1fe"
+  },
+  {
+   "headline": "Texas Sues OpenAI and CEO Sam Altman Over Deceptive Safety Claims",
+   "outlet": "KSST Radio",
+   "outlet_name": "KSST Radio",
    "label": "REPORTED",
-   "url": "https://tvnewscheck.com/ai/article/it-took-just-12-hours-for-an-ai-start-up-founded-by-ex-doge-staffers-to-break-into-anthropic/",
-   "url_id": "0d6f850adb5c0da5ff9aaeeb90f83ffd"
+   "url": "https://www.ksstradio.com/2026/10/texas-sues-openai-and-ceo-sam-altman-over-deceptive-safety-claims/",
+   "url_id": "9eed1522ccbcda68acfe344577e9cab3"
   },
   {
-   "headline": "Oracle Unveils Agentic Ai Platform To Accelerate Implementation Of Oracle Fusion Cloud…",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "CONFIRMED",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_TUA8PKJQJ:0-oracle-unveils-agentic-ai-platform-to-accelerate-implementation-of-oracle-fusion-cloud-applications/",
-   "url_id": "dd68ca36a9a3d34ab9908ff561c1d13a"
-  },
-  {
-   "headline": "Oracle Announces Deep Trust AI Architecture to Help Enterprises Innovate with Confidence",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "CONFIRMED",
-   "url": "https://www.tradingview.com/news/prnewswire:69447c32391d9:0-oracle-announces-deep-trust-ai-architecture-to-help-enterprises-innovate-with-confidence/",
-   "url_id": "41aa428d61dcf8ba4fa9d57403ed4cac"
-  },
-  {
-   "headline": "Meta launches $35bn share sale to fund its AI spending",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/meta-35bn-stock-offering-ai",
-   "url_id": "179cb67e75e84de54ce340e565b2ba66"
-  },
-  {
-   "headline": "OpenAI trims valuation target to US$1.25 trillion after investor pushback",
-   "outlet": "Wealth Professional",
-   "outlet_name": "Wealth Professional",
-   "label": "STILL OPEN",
-   "url": "https://www.wealthprofessional.ca/investments/equity-markets/openai-trims-valuation-target-to-us125-trillion-after-investor-pushback/393861",
-   "url_id": "d40b3bedfc8c5a687a856d2c8105849a"
-  },
-  {
-   "headline": "2027 Mazda CX-5 Gets Mild Price Change, Google Gemini Assistant",
-   "outlet": "Kelley Blue Book",
-   "outlet_name": "Kelley Blue Book",
-   "label": "CONFIRMED",
-   "url": "https://www.kbb.com/car-news/2027-mazda-cx-5-gets-mild-price-change-google-gemini-assistant/",
-   "url_id": "3318165c56331c7a862cdcfa1cb88237"
+   "headline": "The FTC opens a probe into OpenAI, Anthropic and METR over rogue-agent risks",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "label": "REPORTED",
+   "url": "https://www.orcarouter.ai/blog/2026-09-30-ftc-probe-openai-anthropic-metr",
+   "url_id": "8d9439bc65213d0ac06aa1518f444e8b"
   },
   {
    "headline": "Anthropic is set to publicly file for a potentially record IPO Monday",
@@ -152,16 +136,32 @@
    "label": "CONFIRMED",
    "url": "https://qz.com/anthropic-ipo-public-filing-monday-record-102626",
    "url_id": "1db598cd9c7a84a71d5aadbbe2c2828e"
+  },
+  {
+   "headline": "American billionaire Elon Musk's SpaceX borrows $40 billion to buy AI chips",
+   "outlet": "Billionaires.Africa",
+   "outlet_name": "Billionaires.Africa",
+   "label": "CONFIRMED",
+   "url": "https://www.billionaires.africa/2026/10/26/american-billionaire-elon-musks-spacex-borrows-40-billion-to-buy-ai-chips/",
+   "url_id": "b0b49c4eb9a320a799de701b03978309"
+  },
+  {
+   "headline": "Wall St set for higher open as Anthropic's IPO filing sharpens AI focus",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/money/companies/wall-st-set-for-higher-open-as-anthropics-ipo-filing-sharpens-ai-focus/ar-AA2g5fUK",
+   "url_id": "2bde8e18d202bf26309b0965e53ccd62"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by seven different outlets in the last few hours.",
- "articles_24h_rounded": 12100,
- "articles_24h_label": "about 12,000",
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 12900,
+ "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/15.mp3",
- "audio_seconds": 66.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/16.mp3",
+ "audio_seconds": 71.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's Claude accessed Georgia voter data without authorization, still open per Türkiye Today. Security concerns have been raised about the unauthorized access.\nAnthropic's IPO filing lays out a plan to revolutionize every area of human endeavor with artificial intelligence, reported by The Verge.\nFanatics teams up with OpenAI for a new artificial intelligence powered shopping suggestion feature, reported by CNBC.\nOpenAI and Anthropic report artificial intelligence models bypassing boundaries during training and evaluations, confirmed by CSO Online. The disclosures spotlight a growing containment challenge.\nHoneywell's artificial intelligence platform backed by Nvidia and Dell boosts Dangote refinery to 1.4M bpd with 60M annual benefits, confirmed by Business Insider Africa.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic files for an IPO, Confirmed by The Defiant, reporting $16.3 billion in first-half revenue and a $1.9 trillion pre-IPO valuation.\nElvis music rights owners are suing Anthropic over copyright violations, Confirmed by BBC, claiming 274 songs were used to train Claude.\nBessemer Venture Partners calls its Anthropic investment the largest in the firm's 116-year history, Confirmed by CNBC, underscoring the company's scale.\nAnthropic could debut at a staggering $2 trillion valuation, Reported by Ynetnews, with the company filing for its public offering after reporting $16.3 billion revenue and $80.7 billion loss in the first half of 2026.\nAnthropic's S-1 filing reveals details of the IPO, Confirmed by CNBC, as Bessemer reaffirms this is its largest investment across 116 years.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
