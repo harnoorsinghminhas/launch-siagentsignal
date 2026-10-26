@@ -1,101 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T01:20:01Z",
- "hour": "2026-10-26T02:00:00Z",
+ "generated_at": "2026-10-26T02:20:02Z",
+ "hour": "2026-10-26T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic Sued for Training Claude on Elvis Presley Songs",
-   "outlet": "Vulture",
-   "outlet_name": "Vulture",
-   "url": "https://www.vulture.com/article/anthropic-elvis-lawsuit.html",
-   "label": "REPORTED",
-   "summary_1line": "Elvis catalog owners sue Anthropic over AI training using Presley's songs.",
-   "published_at": "2026-10-25T22:57:50Z",
-   "url_id": "a7a19775813450ffefbf26064af59cca"
+   "title": "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports",
+   "outlet": "Central Oregon Daily",
+   "outlet_name": "Central Oregon Daily",
+   "url": "https://www.centraloregondaily.com/news/consumer/anthropics-claude-accessed-public-us-state-of-georgia-voter-information-axios-reports/article_6f97d7b1-ef89-596f-9fc7-59fc27b7c6f1.html",
+   "label": "STILL OPEN",
+   "summary_1line": "Claude accessed public Georgia voter data in training run, Anthropic confirms.",
+   "published_at": "2026-10-25T22:48:06Z",
+   "url_id": "f7f96f249289eca0c7523ece5ec33b0b"
   },
   {
-   "title": "Nigeria Data Protection Commission calls for privacy-by-design in frontier AI regulation",
-   "outlet": "Tech Review Africa",
-   "outlet_name": "Tech Review Africa",
-   "url": "https://techreviewafrica.com/news/7935/nigeria-data-protection-commission-calls-for-privacy-by-design-in-frontier-ai-regulation",
+   "title": "WWT & DDN launch AI storage design for NVIDIA Vera Rubin",
+   "outlet": "DataCenterNews Asia Pacific",
+   "outlet_name": "DataCenterNews Asia Pacific",
+   "url": "https://datacenternews.asia/story/wwt-ddn-launch-ai-storage-design-for-nvidia-vera-rubin",
    "label": "REPORTED",
-   "summary_1line": "NDPC urges privacy-by-design in Nigeria's frontier AI to prevent cyber risks and disinformation.",
-   "published_at": "2026-10-25T23:49:16Z",
-   "url_id": "88ce1e67f88d8e419ff7833a66f691a0"
+   "summary_1line": "WWT and DDN launch AI storage design for 50MW+ AI campuses using NVIDIA Vera Rubin.",
+   "published_at": "2026-10-26T00:30:00Z",
+   "url_id": "2e6b41ab3fe97d8623251e6922e6f4d1"
   },
   {
-   "title": "Messi asks ChatGPT to teach him a chess opening",
-   "outlet": "Chess News | ChessBase",
-   "outlet_name": "Chess News | ChessBase",
-   "url": "https://en.chessbase.com/post/messi-chatgpt-chess-opening",
-   "label": "REPORTED",
-   "summary_1line": "Messi's ChatGPT ad inspires Nakamura to win a chess tournament with the GOAT Horns opening.",
-   "published_at": "2026-10-25T23:44:28Z",
-   "url_id": "b6d71a6b9244058850b802e4301c98e4"
+   "title": "Elon Musk Goes Ballistic On AI Neoclouds, Says They Will See “Guppy-Level Death” As SpaceX Raises $40 Billion For GPUs",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "url": "https://wccftech.com/elon-musk-goes-ballistic-on-ai-neoclouds-says-they-will-see-guppy-level-death-as-spacex-raises-40-billion-for-gpus/",
+   "label": "STILL OPEN",
+   "summary_1line": "Musk criticizes neoclouds' debt access, citing market shifts and rising penalties.",
+   "published_at": "2026-10-25T17:27:00Z",
+   "url_id": "36df70de01deea6f70368357c403e472"
   },
   {
-   "title": "AI bot tied to Anthropic reaches public Georgia data hub",
-   "outlet": "FOX 5 Atlanta",
-   "outlet_name": "FOX 5 Atlanta",
-   "url": "https://www.fox5atlanta.com/news/ai-bot-tied-anthropic-reaches-public-georgia-election-hub",
+   "title": "Anthropic, an artificial intelligence (AI) company, is facing a copyright lawsuit over allegations t..",
+   "outlet": "매일경제",
+   "outlet_name": "매일경제",
+   "url": "https://www.mk.co.kr/en/world/12185437",
    "label": "REPORTED",
-   "summary_1line": "Anthropic's AI bot accessed public Georgia voter data without breaching secure systems.",
-   "published_at": "2026-10-25T23:33:35Z",
-   "url_id": "3f0b88ff7117a75f988ffcbd414ed832"
+   "summary_1line": null,
+   "published_at": "2026-10-26T00:40:50Z",
+   "url_id": "14291a46c8362bd33ba23f3ad18701ee"
   },
   {
-   "title": "Let Your TV Pick the Scares: Halloween Movie Night, Now Powered by Gemini",
-   "outlet": "Women Love Tech",
-   "outlet_name": "Women Love Tech",
-   "url": "https://womenlovetech.com/let-your-tv-pick-the-scares-halloween-movie-night-now-powered-by-gemini/",
+   "title": "OpenAI backs Korean startups with model masters program in Seoul",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "url": "https://biz.chosun.com/en/en-it/2026/10/26/TGFVAAGONVADVGG6T5W6H6C3Q4/",
    "label": "REPORTED",
-   "summary_1line": "TCL's smart TVs use Google Gemini to help pick horror movies for Halloween.",
-   "published_at": "2026-10-25T23:19:00Z",
-   "url_id": "7bd87a14c112310c98760af99d49c5fd"
+   "summary_1line": "OpenAI hosts Seoul event for 11 Korean startups to showcase AI services using its models.",
+   "published_at": "2026-10-26T00:37:00Z",
+   "url_id": "5bd79b9243eff607754bc0469c093508"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic Sued for Training Claude on Elvis Presley Songs",
-   "outlet": "Vulture",
-   "outlet_name": "Vulture",
-   "label": "REPORTED",
-   "url": "https://www.vulture.com/article/anthropic-elvis-lawsuit.html",
-   "url_id": "a7a19775813450ffefbf26064af59cca"
+   "headline": "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports",
+   "outlet": "Central Oregon Daily",
+   "outlet_name": "Central Oregon Daily",
+   "label": "STILL OPEN",
+   "url": "https://www.centraloregondaily.com/news/consumer/anthropics-claude-accessed-public-us-state-of-georgia-voter-information-axios-reports/article_6f97d7b1-ef89-596f-9fc7-59fc27b7c6f1.html",
+   "url_id": "f7f96f249289eca0c7523ece5ec33b0b"
   },
   {
-   "headline": "Nigeria Data Protection Commission calls for privacy-by-design in frontier AI regulation",
-   "outlet": "Tech Review Africa",
-   "outlet_name": "Tech Review Africa",
+   "headline": "WWT & DDN launch AI storage design for NVIDIA Vera Rubin",
+   "outlet": "DataCenterNews Asia Pacific",
+   "outlet_name": "DataCenterNews Asia Pacific",
    "label": "REPORTED",
-   "url": "https://techreviewafrica.com/news/7935/nigeria-data-protection-commission-calls-for-privacy-by-design-in-frontier-ai-regulation",
-   "url_id": "88ce1e67f88d8e419ff7833a66f691a0"
+   "url": "https://datacenternews.asia/story/wwt-ddn-launch-ai-storage-design-for-nvidia-vera-rubin",
+   "url_id": "2e6b41ab3fe97d8623251e6922e6f4d1"
   },
   {
-   "headline": "Messi asks ChatGPT to teach him a chess opening",
-   "outlet": "Chess News | ChessBase",
-   "outlet_name": "Chess News | ChessBase",
-   "label": "REPORTED",
-   "url": "https://en.chessbase.com/post/messi-chatgpt-chess-opening",
-   "url_id": "b6d71a6b9244058850b802e4301c98e4"
+   "headline": "Elon Musk Goes Ballistic On AI Neoclouds, Says They Will See “Guppy-Level Death” As…",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "label": "STILL OPEN",
+   "url": "https://wccftech.com/elon-musk-goes-ballistic-on-ai-neoclouds-says-they-will-see-guppy-level-death-as-spacex-raises-40-billion-for-gpus/",
+   "url_id": "36df70de01deea6f70368357c403e472"
   },
   {
-   "headline": "AI bot tied to Anthropic reaches public Georgia data hub",
-   "outlet": "FOX 5 Atlanta",
-   "outlet_name": "FOX 5 Atlanta",
+   "headline": "Anthropic, an artificial intelligence (AI) company, is facing a copyright lawsuit over…",
+   "outlet": "매일경제",
+   "outlet_name": "매일경제",
    "label": "REPORTED",
-   "url": "https://www.fox5atlanta.com/news/ai-bot-tied-anthropic-reaches-public-georgia-election-hub",
-   "url_id": "3f0b88ff7117a75f988ffcbd414ed832"
+   "url": "https://www.mk.co.kr/en/world/12185437",
+   "url_id": "14291a46c8362bd33ba23f3ad18701ee"
   },
   {
-   "headline": "Let Your TV Pick the Scares: Halloween Movie Night, Now Powered by Gemini",
-   "outlet": "Women Love Tech",
-   "outlet_name": "Women Love Tech",
+   "headline": "OpenAI backs Korean startups with model masters program in Seoul",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
    "label": "REPORTED",
-   "url": "https://womenlovetech.com/let-your-tv-pick-the-scares-halloween-movie-night-now-powered-by-gemini/",
-   "url_id": "7bd87a14c112310c98760af99d49c5fd"
+   "url": "https://biz.chosun.com/en/en-it/2026/10/26/TGFVAAGONVADVGG6T5W6H6C3Q4/",
+   "url_id": "5bd79b9243eff607754bc0469c093508"
+  },
+  {
+   "headline": "Google DeepMind engineer Sofia Liguori resigns over military AI contracts",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "label": "REPORTED",
+   "url": "https://www.edtechinnovationhub.com/news/google-deepmind-engineer-sofia-liguori-resigns-over-military-ai-contracts",
+   "url_id": "c14cff59d0a0a6a13bef39d1b0e81161"
+  },
+  {
+   "headline": "METR questions Anthropic's AI safety tests despite agreeing catastrophic risk is low",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "label": "REPORTED",
+   "url": "https://www.edtechinnovationhub.com/news/metr-questions-anthropics-ai-safety-tests-despite-agreeing-catastrophic-risk-is-low",
+   "url_id": "7ff389a79be738ac204c2a144488177f"
+  },
+  {
+   "headline": "OpenAI’s Most Powerful Model Resumes Training After 11-Day Suspension With Full Offline…",
+   "outlet": "36Kr",
+   "outlet_name": "36Kr",
+   "label": "REPORTED",
+   "url": "https://eu.36kr.com/en/p/4041213296612488",
+   "url_id": "cd9d750e6d5246031c0dbbc278a21023"
   },
   {
    "headline": "SUSE Brings Sovereign Control to Enterprise Agentic AI with NVIDIA",
@@ -106,20 +130,20 @@
    "url_id": "0ce7b5d46f594d076585b8dceb7af269"
   },
   {
-   "headline": "China’s DeepSeek Nears Completion of 100 Billion Yuan Funding Round",
-   "outlet": "THE ELEC, Korea Electronics Industry Media",
-   "outlet_name": "THE ELEC, Korea Electronics Industry Media",
+   "headline": "Orange Business, NVIDIA Advance Distributed Voice AI Inference for Enterprises",
+   "outlet": "The Fast Mode",
+   "outlet_name": "The Fast Mode",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrc2hUV1BwMlRSSTV4N3g3c3ZVX3plMWdpREZrYzRsZmdqbWxfR3FETGtxRUhwdmp6Z0RGSE53UGFteV9iS20yRlVlejBaR1NIVThMMGlubHZJN1BMSEVoQ2M2YV9jeDg?oc=5",
-   "url_id": "b028ba5d134c73f1e532f896e6f358ef"
+   "url": "https://www.thefastmode.com/technology-solutions/51180-orange-business-nvidia-advance-distributed-voice-ai-inference-for-enterprises",
+   "url_id": "5d129749095c148344e1156786dba972"
   },
   {
-   "headline": "Anthropic's Claude accessed public US state of Georgia voter information, Axios reports",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
+   "headline": "5 things nobody tells you before buying an Nvidia RTX Spark laptop for local AI",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
    "label": "REPORTED",
-   "url": "https://www.reuters.com/world/us/anthropics-claude-accessed-public-us-state-georgia-voter-information-axios-2026-10-25/",
-   "url_id": "899ae7af539ffa93aad85bf6e4571eb7"
+   "url": "https://www.xda-developers.com/things-nobody-tells-you-before-buying-an-rtx-spark-laptop/",
+   "url_id": "a8e0e663ccd6e4a879e3ff7daffec734"
   },
   {
    "headline": "OpenAI Training AI in Systems Shut Off From Web Access",
@@ -128,40 +152,16 @@
    "label": "REPORTED",
    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-training-ai-in-systems-shut-off-from-web-access/",
    "url_id": "9260dd757e19097227eef12ed4bcadf0"
-  },
-  {
-   "headline": "Anthropic Merges Claude Chat and Cowork for Enterprise Users",
-   "outlet": "pymnts.com",
-   "outlet_name": "pymnts.com",
-   "label": "REPORTED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-merges-claude-chat-and-cowork-for-enterprise-users/",
-   "url_id": "3c8490a45f56168304c7d540b3f768b2"
-  },
-  {
-   "headline": "Aivres NVIDIA Vera Rubin and HGX B300 at OCP Summit",
-   "outlet": "servethehome.com",
-   "outlet_name": "servethehome.com",
-   "label": "REPORTED",
-   "url": "https://www.servethehome.com/aivres-nvidia-vera-rubin-and-hgx-b300-at-ocp-summit-2026/",
-   "url_id": "fa6bdbabb4531a8abd1854eaee54016a"
-  },
-  {
-   "headline": "Nanbeige Releases Nanbeige4.3-33B, a 33B Open Agentic Coding Model",
-   "outlet": "marktechpost.com",
-   "outlet_name": "marktechpost.com",
-   "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/25/nanbeige-releases-nanbeige4-3-33b-open-agentic-coding-model/",
-   "url_id": "dc410205ba07a4c7f2ab4896b7ffbd0b"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 5200,
- "articles_24h_label": "about 5,000",
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "articles_24h_rounded": 6400,
+ "articles_24h_label": "about 6,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/02.mp3",
- "audio_seconds": 47.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/03.mp3",
+ "audio_seconds": 58.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Vulture: Anthropic Sued for Training Claude on Elvis Presley Songs.\nReported by Tech Review Africa: Nigeria Data Protection Commission calls for privacy-by-design in frontier AI regulation.\nReported by Chess News | ChessBase: Messi asks ChatGPT to teach him a chess opening.\nReported by FOX 5 Atlanta: AI bot tied to Anthropic reaches public Georgia data hub.\nReported by Women Love Tech: Let Your TV Pick the Scares: Halloween Movie Night, Now Powered by Gemini.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's Claude accessed public Georgia voter information during a training run, Anthropic confirms. Still open, per Central Oregon Daily.\nWWT and DDN launch artificial intelligence storage design for 50MW+ artificial intelligence campuses using NVIDIA Vera Rubin. Reported by DataCenterNews Asia Pacific.\nElon Musk criticizes neoclouds' debt access, citing market shifts and rising penalties as SpaceX raises 40 billion for GPUs. Still open, per Wccftech.\nAn artificial intelligence company is facing a copyright lawsuit over allegations. Reported by 매일경제.\nOpenAI hosts a Seoul event for 11 Korean startups to showcase artificial intelligence services using its models. Reported by Chosunbiz.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
