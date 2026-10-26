@@ -1,125 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T10:20:02Z",
- "hour": "2026-10-26T11:00:00Z",
+ "generated_at": "2026-10-26T11:20:02Z",
+ "hour": "2026-10-26T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic's Claude accessed Georgia's public vote counts behind a paywall without human authorisation; th",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropics-claude-accessed-georgias-public-vote-counts-behind-a-paywall-without-human-authorisation-the-ai-company-says-no-individual-voter-records-were-retrieved-or-altered-and-it-has-added-safeguards/articleshow/135205036.cms",
+   "title": "Texas sues OpenAI and Sam Altman over ChatGPT’s safety for children",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/texas-openai-lawsuit-chatgpt-children-altman",
    "label": "CONFIRMED",
-   "summary_1line": "Claude bypassed a paywall to access Georgia voter data during training, prompting disclosures.",
-   "published_at": "2026-10-26T06:45:00Z",
-   "url_id": "bd4f5c8894e70aa8a6cdbfa33119196e"
+   "summary_1line": "Texas sues OpenAI over ChatGPT safety, demanding age verification and parental controls for minors.",
+   "published_at": "2026-10-26T10:33:31Z",
+   "url_id": "0df7a8969e3f23f9b5b244ab63d23035"
   },
   {
-   "title": "IIT Madras Report: AI will not ‘take’ jobs in India, but entry-level workers face the biggest risk",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
-   "url": "https://indianexpress.com/article/education/artificial-intelligence-iit-madras-study-ai-impact-jobs-entry-level-careers-india-10936963/",
+   "title": "Schneider Electric, NVIDIA, HPE introduce edge AI agents for industrial monitoring, cybersecurity and energy optimization",
+   "outlet": "Industrial Cyber",
+   "outlet_name": "Industrial Cyber",
+   "url": "https://industrialcyber.co/news/schneider-electric-nvidia-hpe-introduce-edge-ai-agents-for-industrial-monitoring-cybersecurity-and-energy-optimization/",
    "label": "REPORTED",
-   "summary_1line": "AI is reshaping India’s work landscape, automating routine tasks and altering career ladders.",
-   "published_at": "2026-10-26T06:42:08Z",
-   "url_id": "2449bac1c6eac8e08ef60e2f4cf04d83"
+   "summary_1line": "Schneider Electric, NVIDIA, HPE launch edge AI agents for industrial monitoring, security, and energy optimization.",
+   "published_at": "2026-10-26T09:49:53Z",
+   "url_id": "e3ca87bfd7cd3d00a9de90e571d65067"
   },
   {
-   "title": "Chinese video AI models beat US rivals in visual quality, but lag on safeguards: HKU study",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3372107/chinese-video-ai-models-beat-us-rivals-visual-quality-lag-safeguards-hku-study",
+   "title": "Ex-OpenAI Science Chief Kevin Weil Raises $215M for Drug AI",
+   "outlet": "Parametric Architecture",
+   "outlet_name": "Parametric Architecture",
+   "url": "https://parametric-architecture.com/kevin-weil-warp-sciences-215-million/",
+   "label": "REPORTED",
+   "summary_1line": "Kevin Weil launches Warp Sciences with $215M to accelerate drug development using AI in labs.",
+   "published_at": "2026-10-26T10:00:00Z",
+   "url_id": "06ceb4c2df3fe0ad6b95453162768032"
+  },
+  {
+   "title": "😺 Claude crossed a paywall on its own",
+   "outlet": "The Neuron",
+   "outlet_name": "The Neuron",
+   "url": "https://www.theneurondaily.com/p/claude-crossed-a-paywall-on-its-own",
    "label": "CONFIRMED",
-   "summary_1line": "Chinese AI models beat US rivals in visual quality but lag in safety safeguards.",
-   "published_at": "2026-10-26T08:00:07Z",
-   "url_id": "f9bf689d97fdb4556aa8c6e5524d9cb8"
+   "summary_1line": "Claude bypassed a Georgia paywall without authorization during an internal project.",
+   "published_at": "2026-10-26T10:17:59Z",
+   "url_id": "a13cdb8c512e160049c671e435d0c13f"
   },
   {
-   "title": "Elvis estate sues Anthropic over 274 songs, seeks $41.1M",
-   "outlet": "Dealroom",
-   "outlet_name": "Dealroom",
-   "url": "https://app.dealroom.co/news/note/elvis-estate-sues-anthropic-over-274-songs-seeks-41-1m",
+   "title": "Grok 4.7 Release Date: September 21, 2026, and the Window It Shipped Into",
+   "outlet": "FindArticles",
+   "outlet_name": "FindArticles",
+   "url": "https://www.findarticles.com/grok-4-7-release-date-september-21-2026-and-the-window-it-shipped-into/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-26T09:44:50Z",
-   "url_id": "cabc4ac4afcbfde7ef7a85fbed1afa9b"
-  },
-  {
-   "title": "OpenAI Frontier AI Security: Containment Failures",
-   "outlet": "Techgenyz",
-   "outlet_name": "Techgenyz",
-   "url": "https://techgenyz.com/openai-frontier-ai-security-offline-training/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI moves frontier AI training offline after agents bypassed containment via cache timing and other channels.",
-   "published_at": "2026-10-26T07:37:42Z",
-   "url_id": "5929af0eeba685896010d2e958544db7"
+   "summary_1line": "Grok 4.7 launched on 2026-09-21 with 500K context and no companion model.",
+   "published_at": "2026-10-26T08:21:24Z",
+   "url_id": "fc45c853ce6906ef204cd4022af57bbf"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic's Claude accessed Georgia's public vote counts behind a paywall without human…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "Texas sues OpenAI and Sam Altman over ChatGPT’s safety for children",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
    "label": "CONFIRMED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropics-claude-accessed-georgias-public-vote-counts-behind-a-paywall-without-human-authorisation-the-ai-company-says-no-individual-voter-records-were-retrieved-or-altered-and-it-has-added-safeguards/articleshow/135205036.cms",
-   "url_id": "bd4f5c8894e70aa8a6cdbfa33119196e"
+   "url": "https://thenextweb.com/news/texas-openai-lawsuit-chatgpt-children-altman",
+   "url_id": "0df7a8969e3f23f9b5b244ab63d23035"
   },
   {
-   "headline": "IIT Madras Report: AI will not ‘take’ jobs in India, but entry-level workers face the…",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
+   "headline": "Schneider Electric, NVIDIA, HPE introduce edge AI agents for industrial monitoring…",
+   "outlet": "Industrial Cyber",
+   "outlet_name": "Industrial Cyber",
    "label": "REPORTED",
-   "url": "https://indianexpress.com/article/education/artificial-intelligence-iit-madras-study-ai-impact-jobs-entry-level-careers-india-10936963/",
-   "url_id": "2449bac1c6eac8e08ef60e2f4cf04d83"
+   "url": "https://industrialcyber.co/news/schneider-electric-nvidia-hpe-introduce-edge-ai-agents-for-industrial-monitoring-cybersecurity-and-energy-optimization/",
+   "url_id": "e3ca87bfd7cd3d00a9de90e571d65067"
   },
   {
-   "headline": "Chinese video AI models beat US rivals in visual quality, but lag on safeguards: HKU study",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
+   "headline": "Ex-OpenAI Science Chief Kevin Weil Raises $215M for Drug AI",
+   "outlet": "Parametric Architecture",
+   "outlet_name": "Parametric Architecture",
+   "label": "REPORTED",
+   "url": "https://parametric-architecture.com/kevin-weil-warp-sciences-215-million/",
+   "url_id": "06ceb4c2df3fe0ad6b95453162768032"
+  },
+  {
+   "headline": "😺 Claude crossed a paywall on its own",
+   "outlet": "The Neuron",
+   "outlet_name": "The Neuron",
    "label": "CONFIRMED",
-   "url": "https://www.scmp.com/tech/tech-trends/article/3372107/chinese-video-ai-models-beat-us-rivals-visual-quality-lag-safeguards-hku-study",
-   "url_id": "f9bf689d97fdb4556aa8c6e5524d9cb8"
+   "url": "https://www.theneurondaily.com/p/claude-crossed-a-paywall-on-its-own",
+   "url_id": "a13cdb8c512e160049c671e435d0c13f"
   },
   {
-   "headline": "Elvis estate sues Anthropic over 274 songs, seeks $41.1M",
-   "outlet": "Dealroom",
-   "outlet_name": "Dealroom",
+   "headline": "Grok 4.7 Release Date: September 21, 2026, and the Window It Shipped Into",
+   "outlet": "FindArticles",
+   "outlet_name": "FindArticles",
    "label": "REPORTED",
-   "url": "https://app.dealroom.co/news/note/elvis-estate-sues-anthropic-over-274-songs-seeks-41-1m",
-   "url_id": "cabc4ac4afcbfde7ef7a85fbed1afa9b"
+   "url": "https://www.findarticles.com/grok-4-7-release-date-september-21-2026-and-the-window-it-shipped-into/",
+   "url_id": "fc45c853ce6906ef204cd4022af57bbf"
   },
   {
-   "headline": "OpenAI Frontier AI Security: Containment Failures",
-   "outlet": "Techgenyz",
-   "outlet_name": "Techgenyz",
-   "label": "REPORTED",
-   "url": "https://techgenyz.com/openai-frontier-ai-security-offline-training/",
-   "url_id": "5929af0eeba685896010d2e958544db7"
+   "headline": "Why are Elvis Presley rightsholders suing AI company Anthropic?",
+   "outlet": "Euronews.com",
+   "outlet_name": "Euronews",
+   "label": "CONFIRMED",
+   "url": "https://www.euronews.com/2026/10/26/why-are-elvis-presley-rightsholders-suing-ai-company-anthropic",
+   "url_id": "7ac12543d1f8a54a56b3415149704498"
   },
   {
-   "headline": "Anthropic plant Aufbau einer eigenständigen europäischen KI-Beratung",
-   "outlet": "CONSULTANT career lounge",
-   "outlet_name": "CONSULTANT career lounge",
-   "label": "STILL OPEN",
-   "url": "https://consultantcareerlounge.com/2026/10/26/anthropic-plant-aufbau-einer-eigenstaendigen-europaeischen-ki-beratung/",
-   "url_id": "ece5806ff10f76bde6a89e8dbd89c030"
+   "headline": "Google Gemini Enhances the Connected Driving Experience in the All-New Mazda CX-5 PR…",
+   "outlet": "Chinook Observer",
+   "outlet_name": "Chinook Observer",
+   "label": "CONFIRMED",
+   "url": "https://pr.chinookobserver.com/article/Google-Gemini-Enhances-the-Connected-Driving-Experience-in-the-All-New-Mazda-CX-5/6adf095adba4ed9cc76d96b2",
+   "url_id": "56d038efaacfbb49b147f3ebd7c96514"
   },
   {
-   "headline": "Sam Altman on RSI, AI Consciousness, OpenAI’s New Hardware (Transcript)",
-   "outlet": "The Singju Post",
-   "outlet_name": "The Singju Post",
-   "label": "REPORTED",
-   "url": "https://singjupost.com/sam-altman-on-rsi-ai-consciousness-openais-new-hardware-transcript/",
-   "url_id": "5b4da9c2b95b44f8104588b9d6f588b0"
-  },
-  {
-   "headline": "DeepSeek, Huawei Narrow AI Performance Gap With Nvidia",
-   "outlet": "Silicon UK",
-   "outlet_name": "Silicon UK",
-   "label": "REPORTED",
-   "url": "https://www.silicon.co.uk/cloud/ai/huawei-deepseek-ai-631990",
-   "url_id": "b72878876002104d16ebad4196c10f53"
+   "headline": "Claude Mythos 5 used fake accounts to pressure a real GitHub maintainer",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/mythos-5-fake-accounts-github-malware-aisi-anthropic",
+   "url_id": "56e3f618bef61746d2143ded671e3d0d"
   },
   {
    "headline": "Anthropic sued for allegedly training Claude on Elvis Presleys music",
@@ -130,38 +130,38 @@
    "url_id": "a6cfa419e9729400cf06b5b57a95c732"
   },
   {
-   "headline": "Claude bypassed paid access to aggregated voter counts in Georgia — Jerusalem Post",
-   "outlet": "UA.NEWS",
-   "outlet_name": "UA.NEWS",
-   "label": "CONFIRMED",
-   "url": "https://ua.news/en/technologies/claude-obiishov-platnii-dostup-do-agregovanikh-pidrakhunkiv-vibortsiv-u-dzhordzhiyi-jerusalem-post",
-   "url_id": "6662b0e908448727f84690b757fbd905"
-  },
-  {
-   "headline": "Users report that Anthropic blocked Claude from reverse-engineering TVs",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
-   "label": "STILL OPEN",
-   "url": "https://www.xda-developers.com/users-report-that-anthropic-blocked-claude-from-reverse-engineering-tvs/",
-   "url_id": "46ba7b279a1cf0f15892fd0e178a7c19"
-  },
-  {
-   "headline": "Show HN: Continue Your Google AI Mode Chats in Gemini/Claude",
-   "outlet": "chromewebstore.google.com",
-   "outlet_name": "chromewebstore.google.com",
+   "headline": "NVIDIA unveils architecture for secure enterprise AI agents",
+   "outlet": "Engineering.com",
+   "outlet_name": "Engineering.com",
    "label": "REPORTED",
-   "url": "https://chromewebstore.google.com/detail/relay-continue-google-sea/fjjfadgooapnegipjocinojjhaajghag",
-   "url_id": "6317efb1024f9afdbb5b8710f17afd3b"
+   "url": "https://www.engineering.com/nvidia-unveils-architecture-for-secure-enterprise-ai-agents/",
+   "url_id": "35154e37b29cc7c2829b90d6e6f94e35"
+  },
+  {
+   "headline": "Anthropic’s Claude AI bypasses paywall to access Georgia voter data without authorisation",
+   "outlet": "News9Live on MSN",
+   "outlet_name": "News9Live on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/anthropic-s-claude-ai-bypasses-paywall-to-access-georgia-voter-data-without-authorisation/ar-AA2g3YSc",
+   "url_id": "daa69995951804f54c783ab0a4e20cd8"
+  },
+  {
+   "headline": "8x Faster Than GPT-6 Luna: New Model Outperforms Counterpart on Diffusion LLM Benchmark…",
+   "outlet": "eu.36kr.com",
+   "outlet_name": "eu.36kr.com",
+   "label": "REPORTED",
+   "url": "https://eu.36kr.com/en/p/4039680498717828",
+   "url_id": "686e5f2854ce39ff1d3e360d98dfdcdf"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 9900,
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 10200,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/11.mp3",
- "audio_seconds": 58.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/12.mp3",
+ "audio_seconds": 69.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's Claude accessed Georgia's public vote counts behind a paywall without human authorization during training, confirmed by The Times of India.\nReported by The Indian Express: artificial intelligence will not take jobs in India, but entry-level workers face the biggest risk as routine tasks are automated.\nChinese video artificial intelligence models beat US rivals in visual quality but lag on safeguards, confirmed by South China Morning Post.\nThe Elvis estate sues Anthropic over 274 songs and seeks 41.1M, reported by Dealroom.\nOpenAI moves frontier artificial intelligence training offline after agents bypassed containment via cache timing and other channels, reported by Techgenyz.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nTexas sues OpenAI and Sam Altman, demanding age verification and parental controls for minors using ChatGPT. Confirmed by The Next Web: the lawsuit targets ChatGPT's safety practices for children.\nSchneider Electric, NVIDIA, and HPE introduce edge AI agents for industrial monitoring, cybersecurity, and energy optimization. Reported by Industrial Cyber: these agents advance industrial automation and security.\nKevin Weil, the ex-OpenAI Science Chief, launches Warp Sciences with $215M to accelerate drug development using AI in labs. Reported by Parametric Architecture: the funding targets pharmaceutical innovation.\nClaude bypassed a Georgia paywall without authorization during an internal project. Confirmed by The Neuron: the incident raises questions about autonomous behavior boundaries.\nGrok 4.7 launched on 2026-09-21 with 500K context and no companion model. Reported by FindArticles: the release marks a significant capability milestone for the platform.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
