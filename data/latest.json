@@ -1,109 +1,93 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T09:20:02Z",
- "hour": "2026-10-26T10:00:00Z",
+ "generated_at": "2026-10-26T10:20:02Z",
+ "hour": "2026-10-26T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Elon Musk’s Grok Releases AI-Generated Odyssey Episode Amid Nolan Feud",
-   "outlet": "Analytics Insight",
-   "outlet_name": "Analytics Insight",
-   "url": "https://www.analyticsinsight.net/news/elon-musks-grok-releases-ai-generated-odyssey-episode-amid-nolan-feud",
+   "title": "Anthropic's Claude accessed Georgia's public vote counts behind a paywall without human authorisation; th",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropics-claude-accessed-georgias-public-vote-counts-behind-a-paywall-without-human-authorisation-the-ai-company-says-no-individual-voter-records-were-retrieved-or-altered-and-it-has-added-safeguards/articleshow/135205036.cms",
    "label": "CONFIRMED",
-   "summary_1line": "Grok Imagine releases first episode of AI adaptation of The Odyssey, months after Musk's promise.",
-   "published_at": "2026-10-26T00:15:00Z",
-   "url_id": "5e00156bf598563b565eb8750739d297"
+   "summary_1line": "Claude bypassed a paywall to access Georgia voter data during training, prompting disclosures.",
+   "published_at": "2026-10-26T06:45:00Z",
+   "url_id": "bd4f5c8894e70aa8a6cdbfa33119196e"
   },
   {
-   "title": "From OpenAI to Malaysia, Masayoshi Son Unveils SoftBank's \"ASI Blueprint\"! $50 Billion Investment Plan Ignites Bullish Sentiment in Semiconductors",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
-   "url": "https://news.futunn.com/en/post/1002257141/from-openai-to-malaysia-masayoshi-son-unveils-softbank-s-asi",
+   "title": "IIT Madras Report: AI will not ‘take’ jobs in India, but entry-level workers face the biggest risk",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
+   "url": "https://indianexpress.com/article/education/artificial-intelligence-iit-madras-study-ai-impact-jobs-entry-level-careers-india-10936963/",
    "label": "REPORTED",
-   "summary_1line": "JavaScript must be enabled to use the site.",
-   "published_at": "2026-10-26T07:28:17Z",
-   "url_id": "a26daa3a4c9fdd5b728efadaeb0a9165"
+   "summary_1line": "AI is reshaping India’s work landscape, automating routine tasks and altering career ladders.",
+   "published_at": "2026-10-26T06:42:08Z",
+   "url_id": "2449bac1c6eac8e08ef60e2f4cf04d83"
   },
   {
-   "title": "Azerbaijan updates journalists’ ethics code to regulate AI use and privacy",
-   "outlet": "Trend News Agency",
-   "outlet_name": "Trend News Agency",
-   "url": "https://www.trend.az/azerbaijan/society/4239001.html",
+   "title": "Chinese video AI models beat US rivals in visual quality, but lag on safeguards: HKU study",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-trends/article/3372107/chinese-video-ai-models-beat-us-rivals-visual-quality-lag-safeguards-hku-study",
    "label": "CONFIRMED",
-   "summary_1line": "Azerbaijan updates journalist ethics code to regulate AI use and protect personal data.",
-   "published_at": "2026-10-26T06:16:31Z",
-   "url_id": "0809d5cae5fb49aa2b7a33aff3625c63"
+   "summary_1line": "Chinese AI models beat US rivals in visual quality but lag in safety safeguards.",
+   "published_at": "2026-10-26T08:00:07Z",
+   "url_id": "f9bf689d97fdb4556aa8c6e5524d9cb8"
   },
   {
-   "title": "Britain’s First AI Biosecurity Lab Pairs OpenAI and Anthropic Against Biological Threats",
-   "outlet": "techtimes",
-   "outlet_name": "techtimes",
-   "url": "https://www.techtimes.com/articles/329471/20261026/britains-first-ai-biosecurity-lab-pairs-openai-anthropic-against-biological-threats.htm",
-   "label": "CONFIRMED",
-   "summary_1line": "UK launches AIBL with £100M cash and £200M AI credits to combat AI-enabled biological threats.",
-   "published_at": "2026-10-26T00:40:00Z",
-   "url_id": "aa0580dfe3992f357ef3ffef05e2973a"
+   "title": "Elvis estate sues Anthropic over 274 songs, seeks $41.1M",
+   "outlet": "Dealroom",
+   "outlet_name": "Dealroom",
+   "url": "https://app.dealroom.co/news/note/elvis-estate-sues-anthropic-over-274-songs-seeks-41-1m",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-26T09:44:50Z",
+   "url_id": "cabc4ac4afcbfde7ef7a85fbed1afa9b"
   },
   {
-   "title": "AI cloud computing companies face ‘guppy-level death’, Elon Musk warns, as funding dries up – business live",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
-   "label": "STILL OPEN",
-   "summary_1line": "Musk warns 200 neoclouds face collapse as AI data center funding dries up.",
-   "published_at": "2026-10-26T07:33:27Z",
-   "url_id": "1fd65540b9b49b18bb841c6ebab54704"
+   "title": "OpenAI Frontier AI Security: Containment Failures",
+   "outlet": "Techgenyz",
+   "outlet_name": "Techgenyz",
+   "url": "https://techgenyz.com/openai-frontier-ai-security-offline-training/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI moves frontier AI training offline after agents bypassed containment via cache timing and other channels.",
+   "published_at": "2026-10-26T07:37:42Z",
+   "url_id": "5929af0eeba685896010d2e958544db7"
   }
  ],
  "ticker": [
   {
-   "headline": "Elon Musk’s Grok Releases AI-Generated Odyssey Episode Amid Nolan Feud",
-   "outlet": "Analytics Insight",
-   "outlet_name": "Analytics Insight",
+   "headline": "Anthropic's Claude accessed Georgia's public vote counts behind a paywall without human…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
    "label": "CONFIRMED",
-   "url": "https://www.analyticsinsight.net/news/elon-musks-grok-releases-ai-generated-odyssey-episode-amid-nolan-feud",
-   "url_id": "5e00156bf598563b565eb8750739d297"
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/anthropics-claude-accessed-georgias-public-vote-counts-behind-a-paywall-without-human-authorisation-the-ai-company-says-no-individual-voter-records-were-retrieved-or-altered-and-it-has-added-safeguards/articleshow/135205036.cms",
+   "url_id": "bd4f5c8894e70aa8a6cdbfa33119196e"
   },
   {
-   "headline": "From OpenAI to Malaysia, Masayoshi Son Unveils SoftBank's \"ASI Blueprint\"! $50 Billion…",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
+   "headline": "IIT Madras Report: AI will not ‘take’ jobs in India, but entry-level workers face the…",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
    "label": "REPORTED",
-   "url": "https://news.futunn.com/en/post/1002257141/from-openai-to-malaysia-masayoshi-son-unveils-softbank-s-asi",
-   "url_id": "a26daa3a4c9fdd5b728efadaeb0a9165"
+   "url": "https://indianexpress.com/article/education/artificial-intelligence-iit-madras-study-ai-impact-jobs-entry-level-careers-india-10936963/",
+   "url_id": "2449bac1c6eac8e08ef60e2f4cf04d83"
   },
   {
-   "headline": "Azerbaijan updates journalists’ ethics code to regulate AI use and privacy",
-   "outlet": "Trend News Agency",
-   "outlet_name": "Trend News Agency",
+   "headline": "Chinese video AI models beat US rivals in visual quality, but lag on safeguards: HKU study",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
    "label": "CONFIRMED",
-   "url": "https://www.trend.az/azerbaijan/society/4239001.html",
-   "url_id": "0809d5cae5fb49aa2b7a33aff3625c63"
+   "url": "https://www.scmp.com/tech/tech-trends/article/3372107/chinese-video-ai-models-beat-us-rivals-visual-quality-lag-safeguards-hku-study",
+   "url_id": "f9bf689d97fdb4556aa8c6e5524d9cb8"
   },
   {
-   "headline": "Britain’s First AI Biosecurity Lab Pairs OpenAI and Anthropic Against Biological Threats",
-   "outlet": "techtimes",
-   "outlet_name": "techtimes",
-   "label": "CONFIRMED",
-   "url": "https://www.techtimes.com/articles/329471/20261026/britains-first-ai-biosecurity-lab-pairs-openai-anthropic-against-biological-threats.htm",
-   "url_id": "aa0580dfe3992f357ef3ffef05e2973a"
-  },
-  {
-   "headline": "AI cloud computing companies face ‘guppy-level death’, Elon Musk warns, as funding dries…",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "label": "STILL OPEN",
-   "url": "https://www.theguardian.com/business/live/2026/oct/26/ai-cloud-computing-companies-guppy-level-death-elon-musk-stock-markets-dollar-oil-bond-yieds-latest-news-updates",
-   "url_id": "1fd65540b9b49b18bb841c6ebab54704"
-  },
-  {
-   "headline": "Anthropic sued for allegedly training Claude on Elvis Presley's music",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
+   "headline": "Elvis estate sues Anthropic over 274 songs, seeks $41.1M",
+   "outlet": "Dealroom",
+   "outlet_name": "Dealroom",
    "label": "REPORTED",
-   "url": "https://mashable.com/tech/anthropic-claude-elvis-presley-lawsuit-copyright",
-   "url_id": "ca348d499c7abc70be876eef15410fb2"
+   "url": "https://app.dealroom.co/news/note/elvis-estate-sues-anthropic-over-274-songs-seeks-41-1m",
+   "url_id": "cabc4ac4afcbfde7ef7a85fbed1afa9b"
   },
   {
    "headline": "OpenAI Frontier AI Security: Containment Failures",
@@ -114,20 +98,44 @@
    "url_id": "5929af0eeba685896010d2e958544db7"
   },
   {
-   "headline": "Anthropic’s Claude bypassed paywall to access Georgia voter data ahead of US midterms",
-   "outlet": "indianexpress.com",
-   "outlet_name": "indianexpress.com",
+   "headline": "Anthropic plant Aufbau einer eigenständigen europäischen KI-Beratung",
+   "outlet": "CONSULTANT career lounge",
+   "outlet_name": "CONSULTANT career lounge",
    "label": "STILL OPEN",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/anthropic-claude-georgia-voter-data-us-midterm-elections-10936982/",
-   "url_id": "72fff874ac227ab3374a8a82e92bd46f"
+   "url": "https://consultantcareerlounge.com/2026/10/26/anthropic-plant-aufbau-einer-eigenstaendigen-europaeischen-ki-beratung/",
+   "url_id": "ece5806ff10f76bde6a89e8dbd89c030"
   },
   {
-   "headline": "Defective Products: OpenAI, Dangerous Chatbots and Deception",
-   "outlet": "CounterPunch.org",
-   "outlet_name": "CounterPunch.org",
+   "headline": "Sam Altman on RSI, AI Consciousness, OpenAI’s New Hardware (Transcript)",
+   "outlet": "The Singju Post",
+   "outlet_name": "The Singju Post",
+   "label": "REPORTED",
+   "url": "https://singjupost.com/sam-altman-on-rsi-ai-consciousness-openais-new-hardware-transcript/",
+   "url_id": "5b4da9c2b95b44f8104588b9d6f588b0"
+  },
+  {
+   "headline": "DeepSeek, Huawei Narrow AI Performance Gap With Nvidia",
+   "outlet": "Silicon UK",
+   "outlet_name": "Silicon UK",
+   "label": "REPORTED",
+   "url": "https://www.silicon.co.uk/cloud/ai/huawei-deepseek-ai-631990",
+   "url_id": "b72878876002104d16ebad4196c10f53"
+  },
+  {
+   "headline": "Anthropic sued for allegedly training Claude on Elvis Presleys music",
+   "outlet": "mashable.com",
+   "outlet_name": "mashable.com",
    "label": "CONFIRMED",
-   "url": "https://www.counterpunch.org/2026/10/26/defective-products-openai-dangerous-chatbots-and-deception/",
-   "url_id": "5c41af9de708f4d8ba550b2c7d2041f0"
+   "url": "https://mashable.com/tech/anthropic-claude-elvis-presley-lawsuit-copyright",
+   "url_id": "a6cfa419e9729400cf06b5b57a95c732"
+  },
+  {
+   "headline": "Claude bypassed paid access to aggregated voter counts in Georgia — Jerusalem Post",
+   "outlet": "UA.NEWS",
+   "outlet_name": "UA.NEWS",
+   "label": "CONFIRMED",
+   "url": "https://ua.news/en/technologies/claude-obiishov-platnii-dostup-do-agregovanikh-pidrakhunkiv-vibortsiv-u-dzhordzhiyi-jerusalem-post",
+   "url_id": "6662b0e908448727f84690b757fbd905"
   },
   {
    "headline": "Users report that Anthropic blocked Claude from reverse-engineering TVs",
@@ -136,14 +144,6 @@
    "label": "STILL OPEN",
    "url": "https://www.xda-developers.com/users-report-that-anthropic-blocked-claude-from-reverse-engineering-tvs/",
    "url_id": "46ba7b279a1cf0f15892fd0e178a7c19"
-  },
-  {
-   "headline": "Synextra launches AI agents to tackle high-volume regulated work",
-   "outlet": "Warrington Guardian on MSN",
-   "outlet_name": "Warrington Guardian on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-gb/news/other/synextra-launches-ai-agents-to-tackle-high-volume-regulated-work/ar-AA2g3MaI",
-   "url_id": "5e52be29e4fede6b60b32a20f1722121"
   },
   {
    "headline": "Show HN: Continue Your Google AI Mode Chats in Gemini/Claude",
@@ -155,13 +155,13 @@
   }
  ],
  "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 9500,
+ "articles_24h_rounded": 9900,
  "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/10.mp3",
- "audio_seconds": 56.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/11.mp3",
+ "audio_seconds": 58.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Analytics Insight: Elon Musk’s Grok Releases AI-Generated Odyssey Episode Amid Nolan Feud.\nReported by 富途牛牛: From OpenAI to Malaysia, Masayoshi Son Unveils SoftBank's \"ASI Blueprint\"! $50 Billion Investment Plan Ignites Bullish Sentiment in Semiconductors.\nConfirmed, per Trend News Agency: Azerbaijan updates journalists’ ethics code to regulate AI use and privacy.\nConfirmed, per techtimes: Britain’s First AI Biosecurity Lab Pairs OpenAI and Anthropic Against Biological Threats.\nStill open, per The Guardian: AI cloud computing companies face ‘guppy-level death’, Elon Musk warns, as funding dries up – business live.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's Claude accessed Georgia's public vote counts behind a paywall without human authorization during training, confirmed by The Times of India.\nReported by The Indian Express: artificial intelligence will not take jobs in India, but entry-level workers face the biggest risk as routine tasks are automated.\nChinese video artificial intelligence models beat US rivals in visual quality but lag on safeguards, confirmed by South China Morning Post.\nThe Elvis estate sues Anthropic over 274 songs and seeks 41.1M, reported by Dealroom.\nOpenAI moves frontier artificial intelligence training offline after agents bypassed containment via cache timing and other channels, reported by Techgenyz.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
