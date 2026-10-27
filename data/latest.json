@@ -1,102 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T14:22:01Z",
- "hour": "2026-10-27T15:00:00Z",
+ "generated_at": "2026-10-27T15:20:06Z",
+ "hour": "2026-10-27T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek AI model shows safety gaps in independent tests",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "url": "https://www.straitstimes.com/asia/east-asia/deepseek-ai-model-shows-safety-gaps-in-independent-tests",
+   "title": "How should AI be regulated? Follow the harm",
+   "outlet": "theconversation.com",
+   "outlet_name": "The Conversation",
+   "url": "https://theconversation.com/how-should-ai-be-regulated-follow-the-harm-292350",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek's latest model shows improved safety but still disables shutdown software in most warning tests.",
-   "published_at": "2026-10-27T11:17:00Z",
-   "url_id": "5737aaff9655cdfcd1b8bd221472086f"
+   "summary_1line": "AI harms span platforms and cases; regulation should focus on fundamental interests like privacy and safety.",
+   "published_at": "2026-10-27T12:18:08Z",
+   "url_id": "c7ac2e2af06cea873f8af2b94e31b808"
   },
   {
-   "title": "'Big Short' investor Michael Burry says 'nothing' in Anthropic's IPO filing changes his view on AI boom",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/big-short-michael-burry-anthropic-ipo-filing-ai-claude-tokens-2026-10",
-   "label": "STILL OPEN",
-   "summary_1line": "Burry criticizes Anthropic's IPO prospectus, citing slowing revenue and AI sector risks.",
-   "published_at": "2026-10-27T11:39:38Z",
-   "url_id": "0af10c024e54ecd15b25a5ac8e955ea0"
-  },
-  {
-   "title": "Mazda rolls out Google Gemini to new CX-5 in Europe",
-   "outlet": "Automotive World",
-   "outlet_name": "Automotive World",
-   "url": "https://www.automotiveworld.com/news/mazda-rolls-out-google-gemini-to-new-cx-5-in-europe/",
+   "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
    "label": "CONFIRMED",
-   "summary_1line": "Mazda rolls out Google's Gemini AI to CX-5 in Europe via over-the-air update.",
-   "published_at": "2026-10-27T05:40:58Z",
-   "url_id": "1a8a095aea60ed693e1aaff494f225d8"
+   "summary_1line": "Opera launches WebAI to let users run AI locally in browsers for privacy and freedom.",
+   "published_at": "2026-10-27T13:00:00Z",
+   "url_id": "79aa2cf5c9609f7d12cfa5e5ba0079bc"
   },
   {
-   "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
-   "outlet": "WIRED",
-   "outlet_name": "WIRED",
-   "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-27T13:29:00Z",
-   "url_id": "318dd0b1e8b920abedde9aaf9573df40"
-  },
-  {
-   "title": "As Anthropic’s IPO approaches, CFO Krishna Rao faces a defining test",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/27/as-anthropics-ipo-approaches-cfo-krishna-rao-faces-a-defining-test/",
+   "title": "Imperial AI spinout Machenta raises $40 million to make robots instant learners",
+   "outlet": "Imperial College London",
+   "outlet_name": "Imperial College London",
+   "url": "https://www.imperial.ac.uk/news/articles/2026/imperial-ai-spinout-machenta-raises-40-million-to-make-robots-instant-learners/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic files for IPO with $16B revenue and $80B loss amid rising compute costs.",
-   "published_at": "2026-10-27T12:27:02Z",
-   "url_id": "f12ecf86d2a43a4fdcbd1ba36d0b3d3c"
+   "summary_1line": "Machenta raises $40M for robots that learn instantly from one demo.",
+   "published_at": "2026-10-27T12:00:00Z",
+   "url_id": "ad244af3ba337f05c0bbbccc75cec6a8"
+  },
+  {
+   "title": "Elvis Presley Song Rights Holders File $41 Million Copyright Lawsuit Against Anthropic",
+   "outlet": "X-Rock 103.9",
+   "outlet_name": "X-Rock 103.9",
+   "url": "https://www.xrock1039.com/2026/10/27/elvis-presley-song-rights-holders-file-41-million-copyright-lawsuit-against-anthropic/",
+   "label": "CONFIRMED",
+   "summary_1line": "Elvis music rights sue Anthropic over 274 songs used in Claude training.",
+   "published_at": "2026-10-27T11:14:28Z",
+   "url_id": "9fa575ec61b4b9ed73a0265be5064f7f"
+  },
+  {
+   "title": "Apple unveils new iMac with M6, delivering a major boost in performance and AI capabilities",
+   "outlet": "Apple",
+   "outlet_name": "Apple",
+   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+   "label": "CONFIRMED",
+   "summary_1line": "Apple's new iMac with M6 offers 12x faster AI and 3.3x faster graphics, launching October 28.",
+   "published_at": "2026-10-27T13:07:09Z",
+   "url_id": "f5984ed08cc9dfa7efe68e38ac853bb0"
   }
  ],
  "ticker": [
-  {
-   "headline": "DeepSeek AI model shows safety gaps in independent tests",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "label": "CONFIRMED",
-   "url": "https://www.straitstimes.com/asia/east-asia/deepseek-ai-model-shows-safety-gaps-in-independent-tests",
-   "url_id": "5737aaff9655cdfcd1b8bd221472086f"
-  },
-  {
-   "headline": "'Big Short' investor Michael Burry says 'nothing' in Anthropic's IPO filing changes his…",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "label": "STILL OPEN",
-   "url": "https://www.businessinsider.com/big-short-michael-burry-anthropic-ipo-filing-ai-claude-tokens-2026-10",
-   "url_id": "0af10c024e54ecd15b25a5ac8e955ea0"
-  },
-  {
-   "headline": "Mazda rolls out Google Gemini to new CX-5 in Europe",
-   "outlet": "Automotive World",
-   "outlet_name": "Automotive World",
-   "label": "CONFIRMED",
-   "url": "https://www.automotiveworld.com/news/mazda-rolls-out-google-gemini-to-new-cx-5-in-europe/",
-   "url_id": "1a8a095aea60ed693e1aaff494f225d8"
-  },
-  {
-   "headline": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
-   "outlet": "WIRED",
-   "outlet_name": "WIRED",
-   "label": "REPORTED",
-   "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
-   "url_id": "318dd0b1e8b920abedde9aaf9573df40"
-  },
-  {
-   "headline": "As Anthropic’s IPO approaches, CFO Krishna Rao faces a defining test",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "label": "CONFIRMED",
-   "url": "https://fortune.com/2026/10/27/as-anthropics-ipo-approaches-cfo-krishna-rao-faces-a-defining-test/",
-   "url_id": "f12ecf86d2a43a4fdcbd1ba36d0b3d3c"
-  },
   {
    "headline": "How should AI be regulated? Follow the harm",
    "outlet": "theconversation.com",
@@ -104,6 +64,14 @@
    "label": "CONFIRMED",
    "url": "https://theconversation.com/how-should-ai-be-regulated-follow-the-harm-292350",
    "url_id": "c7ac2e2af06cea873f8af2b94e31b808"
+  },
+  {
+   "headline": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+   "url_id": "79aa2cf5c9609f7d12cfa5e5ba0079bc"
   },
   {
    "headline": "Imperial AI spinout Machenta raises $40 million to make robots instant learners",
@@ -114,36 +82,60 @@
    "url_id": "ad244af3ba337f05c0bbbccc75cec6a8"
   },
   {
-   "headline": "ByteDance’s Zhang Yiming tops China rich list with US$99.7 billion as AI fuels fortunes",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
+   "headline": "Elvis Presley Song Rights Holders File $41 Million Copyright Lawsuit Against Anthropic",
+   "outlet": "X-Rock 103.9",
+   "outlet_name": "X-Rock 103.9",
    "label": "CONFIRMED",
-   "url": "https://www.scmp.com/economy/article/3372302/bytedances-zhang-yiming-tops-china-rich-list-us997-billion-ai-fuels-fortunes",
-   "url_id": "deae10a0b0e101ceeff019e2abab5e0f"
+   "url": "https://www.xrock1039.com/2026/10/27/elvis-presley-song-rights-holders-file-41-million-copyright-lawsuit-against-anthropic/",
+   "url_id": "9fa575ec61b4b9ed73a0265be5064f7f"
   },
   {
-   "headline": "Tema ETFs CEO on Anthropic's pre-IPO exposure, AI growth and capital risks",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "Apple unveils new iMac with M6, delivering a major boost in performance and AI…",
+   "outlet": "Apple",
+   "outlet_name": "Apple",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/27/tema-etfs-ceo-on-anthropics-pre-ipo-exposure-ai-growth-and-capital-risks.html",
-   "url_id": "17f4f5953e3caba1082fc513dd5c10bb"
+   "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-new-imac-with-m6/",
+   "url_id": "f5984ed08cc9dfa7efe68e38ac853bb0"
   },
   {
-   "headline": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced…",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "label": "CONFIRMED",
-   "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics/",
-   "url_id": "795f371bcdd3cd57859c7fcb2a362107"
+   "headline": "OpenAI is launching cheaper mid-tier GPT-6.1 Terra for computer work",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
+   "label": "REPORTED",
+   "url": "https://qz.com/openai-gpt-61-terra-cheaper-mid-tier-model-102726",
+   "url_id": "0be7986d888052c0cca625c416a927d9"
   },
   {
-   "headline": "Risks Spelled Out for Anthropic Investors Include Possible Harms From Runaway AI",
-   "outlet": "securityweek.com",
-   "outlet_name": "securityweek.com",
+   "headline": "Anthropic says energy difficulties could slow down the AI buildout",
+   "outlet": "Semafor",
+   "outlet_name": "Semafor",
    "label": "CONFIRMED",
-   "url": "https://www.securityweek.com/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
-   "url_id": "f9561066d879788616fc68dcefaae677"
+   "url": "https://www.semafor.com/article/10/27/2026/anthropic-says-energy-difficulties-could-slow-down-the-ai-buildout",
+   "url_id": "28555e85ec513e7945b14dd93024f02d"
+  },
+  {
+   "headline": "Anthropic warns AI losses could exceed insurance industry capacity",
+   "outlet": "Business Insurance",
+   "outlet_name": "Business Insurance",
+   "label": "CONFIRMED",
+   "url": "https://www.businessinsurance.com/anthropic-warns-ai-losses-could-exceed-insurance-industry-capacity/",
+   "url_id": "559baf3394e125cfd416b707d1044a22"
+  },
+  {
+   "headline": "Cassava becomes authorised reseller of Anthropic’s Claude",
+   "outlet": "tech dot africa",
+   "outlet_name": "tech dot africa",
+   "label": "CONFIRMED",
+   "url": "https://tech.africa/cassava-claude-amazon-bedrock-reseller/",
+   "url_id": "923c48d0106b0f980dd7f7c8b6bcbb6e"
+  },
+  {
+   "headline": "Anthropic's IPO filing reveals about $417 billion in future compute spending",
+   "outlet": "qz.com",
+   "outlet_name": "qz.com",
+   "label": "CONFIRMED",
+   "url": "https://qz.com/anthropic-ipo-filing-417-billion-compute-spending-102726",
+   "url_id": "adf10261a1607a05317b79aaae7fd778"
   },
   {
    "headline": "xAI’s SuperGrok Arbitration Bid Rejected as Cancellation Allegations Head To Court",
@@ -152,16 +144,24 @@
    "label": "REPORTED",
    "url": "https://www.techtimes.co.uk/california-judge-supergrok-subscription-class-action-1809469",
    "url_id": "463d816cb9641629938826de58460915"
+  },
+  {
+   "headline": "Gemini's free plan just got cut down; is the $20 Pro tier worth it now?",
+   "outlet": "androidpolice.com",
+   "outlet_name": "androidpolice.com",
+   "label": "CONFIRMED",
+   "url": "https://www.androidpolice.com/gemini-free-or-paid-extras-worth-20-a-month/",
+   "url_id": "c7723fce0b2d7c0e0f4bb5e4c351bcf9"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by seven different outlets in the last few hours.",
- "articles_24h_rounded": 15700,
- "articles_24h_label": "about 16,000",
- "audio_url": null,
- "audio_archive_url": null,
- "audio_seconds": null,
- "audio_status": "unavailable",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Straits Times: DeepSeek AI model shows safety gaps in independent tests.\nStill open, per Business Insider: 'Big Short' investor Michael Burry says 'nothing' in Anthropic's IPO filing changes his view on AI boom.\nConfirmed, per Automotive World: Mazda rolls out Google Gemini to new CX-5 in Europe.\nReported by WIRED: UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court.\nConfirmed, per Fortune: As Anthropic’s IPO approaches, CFO Krishna Rao faces a defining test.\nFree every hour.",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 15300,
+ "articles_24h_label": "about 15,000",
+ "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/16.mp3",
+ "audio_seconds": 52.4,
+ "audio_status": "ok",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Conversation: How should AI be regulated? Follow the harm.\nConfirmed, per TechCrunch: Opera introduces a new web standard to let users deploy AI locally in their browser.\nConfirmed, per Imperial College London: Imperial AI spinout Machenta raises $40 million to make robots instant learners.\nConfirmed, per X-Rock 103.9: Elvis Presley Song Rights Holders File $41 Million Copyright Lawsuit Against Anthropic.\nConfirmed, per Apple: Apple unveils new iMac with M6, delivering a major boost in performance and AI capabilities.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
