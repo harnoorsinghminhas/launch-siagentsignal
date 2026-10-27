@@ -1,101 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T06:20:02Z",
- "hour": "2026-10-27T07:00:00Z",
+ "generated_at": "2026-10-27T07:20:09Z",
+ "hour": "2026-10-27T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic model accessed publicly available Georgia voter data; no human authorization",
-   "outlet": "KOMO",
-   "outlet_name": "KOMO",
-   "url": "https://komonews.com/news/nation-world/anthropic-model-accessed-publicly-available-georgia-voter-data-no-human-authorization-artificial-intelligence",
+   "title": "Anthropic Warns Its AI Models Could Pose Existential Risks as It Prepares for Blockbuster IPO",
+   "outlet": "SSBCrack",
+   "outlet_name": "SSBCrack",
+   "url": "https://news.ssbcrack.com/anthropic-warns-its-ai-models-could-pose-existential-risks-as-it-prepares-for-blockbuster-ipo/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's AI accessed public Georgia voter data via paywall bypass, no records altered.",
-   "published_at": "2026-10-27T02:29:38Z",
-   "url_id": "c00fd3fa5c82de838f592c020f4f5b34"
+   "summary_1line": "Anthropic prepares for $100B IPO, warning of AI existential risks and $80B losses.",
+   "published_at": "2026-10-26T19:44:58Z",
+   "url_id": "8b8dc47791f5bcadf58cea50494e6142"
   },
   {
-   "title": "IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the Enterprise",
-   "outlet": "IBM Newsroom",
-   "outlet_name": "IBM Newsroom",
-   "url": "https://newsroom.ibm.com/2026-10-27-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise",
+   "title": "Anthropic Founders Keep 50% Vote Through LLC Share as Retail ANT Buyers Get No Say Over AI Risk",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "url": "https://www.techtimes.com/articles/329523/20261027/anthropic-founders-keep-50-vote-through-llc-share-retail-ant-buyers-get-no-say-over-ai-risk.htm",
    "label": "CONFIRMED",
-   "summary_1line": "IBM extends Vault to secure AI agents with identity, access and real-time controls at TechXchange 2026.",
-   "published_at": "2026-10-27T04:04:43Z",
-   "url_id": "fbaccad807f7258f05c81adbe3269c99"
+   "summary_1line": "Anthropic's founders control 50.1% of votes, limiting public investor influence on AI safety and governance.",
+   "published_at": "2026-10-27T05:20:02Z",
+   "url_id": "ffd02e45e3460fc298375324cc27b39d"
   },
   {
-   "title": "OpenAI Launches GPT-6.1 Terra With API Pricing 50% Lower Than GPT-5.6 Terra",
-   "outlet": "gHacks",
-   "outlet_name": "gHacks",
-   "url": "https://www.ghacks.net/2026/10/27/openai-launches-gpt-6-1-terra-with-api-pricing-50-lower-than-gpt-5-6-terra/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI launches GPT-6.1 Terra with 50% lower pricing and better performance than prior models.",
-   "published_at": "2026-10-27T03:37:49Z",
-   "url_id": "87380ab23154e4b1623ab4719c2aff57"
-  },
-  {
-   "title": "Risks spelled out for Anthropic investors include possible harms from runaway AI",
-   "outlet": "WTOP News",
-   "outlet_name": "WTOP News",
-   "url": "https://wtop.com/national/2026/10/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic details AI risks in 93-page IPO filing, citing safety, misuse, and compute challenges.",
-   "published_at": "2026-10-27T04:04:06Z",
-   "url_id": "3c705c0b042825a1f0c7c332d3210f58"
-  },
-  {
-   "title": "Injective Launches Nvidia GPU Rental-Fee Perpetual Futures With Up to 10x Leverage",
-   "outlet": "bloomingbit",
-   "outlet_name": "bloomingbit",
-   "url": "https://en.bloomingbit.io/feed/news/123014",
+   "title": "Dan Ives on Anthropic: This is not the top of the AI trade",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/video/2026/10/27/dan-ives-on-anthropic-this-is-not-the-top-of-the-ai-trade.html",
    "label": "REPORTED",
-   "summary_1line": "Injective launches GPU rental fee futures with 10x leverage, tracking five Nvidia GPU models.",
-   "published_at": "2026-10-27T05:44:38Z",
-   "url_id": "c5ab06460fc95b16d909881ea22d11af"
+   "summary_1line": "Dan Ives says AI trade not at peak, still in monetization phase.",
+   "published_at": "2026-10-27T05:17:42Z",
+   "url_id": "4e06fb5e0ad06c1382d9e847a10a447a"
+  },
+  {
+   "title": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+   "label": "CONFIRMED",
+   "summary_1line": "China's AI stock market drops 40% amid weak demand and US tech bans.",
+   "published_at": "2026-10-27T04:42:00Z",
+   "url_id": "b864ced9a200924ab4a0eb2783ad22a2"
+  },
+  {
+   "title": "International Business Machines Corporation (IBM) Launches AI Agent Identity and Control Suite",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/tradingview:a7259f95d493a:0-international-business-machines-corporation-ibm-launches-ai-agent-identity-and-control-suite/",
+   "label": "CONFIRMED",
+   "summary_1line": "IBM launches AI agent identity suite with HashiCorp, watsonx, and NVIDIA tools.",
+   "published_at": "2026-10-27T04:01:00Z",
+   "url_id": "c052e4fad4202abbba54b287bceb86e7"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic model accessed publicly available Georgia voter data; no human authorization",
-   "outlet": "KOMO",
-   "outlet_name": "KOMO",
+   "headline": "Anthropic Warns Its AI Models Could Pose Existential Risks as It Prepares for Blockbuster…",
+   "outlet": "SSBCrack",
+   "outlet_name": "SSBCrack",
    "label": "CONFIRMED",
-   "url": "https://komonews.com/news/nation-world/anthropic-model-accessed-publicly-available-georgia-voter-data-no-human-authorization-artificial-intelligence",
-   "url_id": "c00fd3fa5c82de838f592c020f4f5b34"
+   "url": "https://news.ssbcrack.com/anthropic-warns-its-ai-models-could-pose-existential-risks-as-it-prepares-for-blockbuster-ipo/",
+   "url_id": "8b8dc47791f5bcadf58cea50494e6142"
   },
   {
-   "headline": "IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the…",
-   "outlet": "IBM Newsroom",
-   "outlet_name": "IBM Newsroom",
+   "headline": "Anthropic Founders Keep 50% Vote Through LLC Share as Retail ANT Buyers Get No Say Over…",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
    "label": "CONFIRMED",
-   "url": "https://newsroom.ibm.com/2026-10-27-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise",
-   "url_id": "fbaccad807f7258f05c81adbe3269c99"
+   "url": "https://www.techtimes.com/articles/329523/20261027/anthropic-founders-keep-50-vote-through-llc-share-retail-ant-buyers-get-no-say-over-ai-risk.htm",
+   "url_id": "ffd02e45e3460fc298375324cc27b39d"
   },
   {
-   "headline": "OpenAI Launches GPT-6.1 Terra With API Pricing 50% Lower Than GPT-5.6 Terra",
-   "outlet": "gHacks",
-   "outlet_name": "gHacks",
-   "label": "CONFIRMED",
-   "url": "https://www.ghacks.net/2026/10/27/openai-launches-gpt-6-1-terra-with-api-pricing-50-lower-than-gpt-5-6-terra/",
-   "url_id": "87380ab23154e4b1623ab4719c2aff57"
-  },
-  {
-   "headline": "Risks spelled out for Anthropic investors include possible harms from runaway AI",
-   "outlet": "WTOP News",
-   "outlet_name": "WTOP News",
-   "label": "CONFIRMED",
-   "url": "https://wtop.com/national/2026/10/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
-   "url_id": "3c705c0b042825a1f0c7c332d3210f58"
-  },
-  {
-   "headline": "Injective Launches Nvidia GPU Rental-Fee Perpetual Futures With Up to 10x Leverage",
-   "outlet": "bloomingbit",
-   "outlet_name": "bloomingbit",
+   "headline": "Dan Ives on Anthropic: This is not the top of the AI trade",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "REPORTED",
-   "url": "https://en.bloomingbit.io/feed/news/123014",
-   "url_id": "c5ab06460fc95b16d909881ea22d11af"
+   "url": "https://www.cnbc.com/video/2026/10/27/dan-ives-on-anthropic-this-is-not-the-top-of-the-ai-trade.html",
+   "url_id": "4e06fb5e0ad06c1382d9e847a10a447a"
   },
   {
    "headline": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
@@ -106,12 +90,20 @@
    "url_id": "b864ced9a200924ab4a0eb2783ad22a2"
   },
   {
-   "headline": "International Business Machines Corporation (IBM) Debuts Governance Tools for AI Agents",
+   "headline": "International Business Machines Corporation (IBM) Launches AI Agent Identity and Control…",
    "outlet": "TradingView",
    "outlet_name": "TradingView",
    "label": "CONFIRMED",
-   "url": "https://www.tradingview.com/news/tradingview:6e535e4819e23:0-international-business-machines-corporation-ibm-debuts-governance-tools-for-ai-agents/",
-   "url_id": "0ca89d8b19b960a5cef116ca56c1b7fa"
+   "url": "https://www.tradingview.com/news/tradingview:a7259f95d493a:0-international-business-machines-corporation-ibm-launches-ai-agent-identity-and-control-suite/",
+   "url_id": "c052e4fad4202abbba54b287bceb86e7"
+  },
+  {
+   "headline": "OpenAI introduces GPT 6.1 Terra AI model, says it excels at communication and…",
+   "outlet": "Digit on MSN",
+   "outlet_name": "Digit on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/openai-introduces-gpt-61-terra-ai-model-says-it-excels-at-communication-and-computer-based-tasks/ar-AA2g8me9",
+   "url_id": "5a6848fb0f97842ee1c9294bb10918cc"
   },
   {
    "headline": "The Anthropic IPO filing: 14-fold 1H26 revenue growth behind a US$80.75 billion paper loss",
@@ -130,14 +122,6 @@
    "url_id": "c905161c0fcc5a1f9a2b5d5c3fb42cea"
   },
   {
-   "headline": "OpenAI’s August fix for theft of reasoning traces was quickly bypassed",
-   "outlet": "csoonline.com",
-   "outlet_name": "csoonline.com",
-   "label": "CONFIRMED",
-   "url": "https://www.csoonline.com/article/4240662/openais-august-fix-for-theft-of-reasoning-traces-was-quickly-bypassed.html",
-   "url_id": "ddb96a723da52bce0d979e2fcb24bbda"
-  },
-  {
    "headline": "Anthropic aims for record $2 trillion IPO amid AI market scrutiny",
    "outlet": "The Chosun Ilbo on MSN",
    "outlet_name": "The Chosun Ilbo on MSN",
@@ -146,22 +130,38 @@
    "url_id": "4a89ae59308b3356d6db0e38b7a816e3"
   },
   {
-   "headline": "OpenAI introduces GPT 6.1 Terra AI model, says it excels at communication and…",
-   "outlet": "Digit on MSN",
-   "outlet_name": "Digit on MSN",
+   "headline": "IIT - Kharagpur Establishes India First Physical AI School",
+   "outlet": "rediff.com",
+   "outlet_name": "rediff.com",
+   "label": "CONFIRMED",
+   "url": "https://www.rediff.com/news/report/iit-kharagpur-to-set-up-indias-first-physical-ai-school/20261027.htm",
+   "url_id": "b213b993739a231bbdafc2280b365ce0"
+  },
+  {
+   "headline": "Anthropic’s S-1 draws reactions: Investor says $100B ARR could be possible by year-end",
+   "outlet": "Stocktwits on MSN",
+   "outlet_name": "Stocktwits on MSN",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/openai-introduces-gpt-61-terra-ai-model-says-it-excels-at-communication-and-computer-based-tasks/ar-AA2g8me9",
-   "url_id": "5a6848fb0f97842ee1c9294bb10918cc"
+   "url": "https://www.msn.com/en-us/news/other/anthropic-s-s-1-draws-reactions-investor-says-100b-arr-could-be-possible-by-year-end/ar-AA2g8n6Z",
+   "url_id": "971e31ea22fa9d8abc2d62fdfdf3409c"
+  },
+  {
+   "headline": "Anthropic flags increasingly restrictive AI regulation as a business risk",
+   "outlet": "Yahoo Finance on MSN",
+   "outlet_name": "Yahoo Finance on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/news/other/anthropic-flags-increasingly-restrictive-ai-regulation-as-a-business-risk/ar-AA2g6zEk",
+   "url_id": "9c27458f64b565e0d63edd0c507d9579"
   }
  ],
- "tidbit": "Did you know… about 16,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 15800,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 15900,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/07.mp3",
- "audio_seconds": 52.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/08.mp3",
+ "audio_seconds": 55.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per KOMO: Anthropic model accessed publicly available Georgia voter data; no human authorization.\nConfirmed, per IBM Newsroom: IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the Enterprise.\nConfirmed, per gHacks: OpenAI Launches GPT-6.1 Terra With API Pricing 50% Lower Than GPT-5.6 Terra.\nConfirmed, per WTOP News: Risks spelled out for Anthropic investors include possible harms from runaway AI.\nReported by bloomingbit: Injective Launches Nvidia GPU Rental-Fee Perpetual Futures With Up to 10x Leverage.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per SSBCrack: Anthropic Warns Its AI Models Could Pose Existential Risks as It Prepares for Blockbuster IPO.\nConfirmed, per Tech Times: Anthropic Founders Keep 50% Vote Through LLC Share as Retail ANT Buyers Get No Say Over AI Risk.\nReported by CNBC: Dan Ives on Anthropic: This is not the top of the AI trade.\nConfirmed, per The Guardian: Chinese markets lose trillions as race for AI supremacy with US takes its toll.\nConfirmed, per TradingView: International Business Machines Corporation (IBM) Launches AI Agent Identity and Control Suite.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
