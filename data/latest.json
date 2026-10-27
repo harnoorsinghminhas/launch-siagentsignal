@@ -1,109 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T03:20:02Z",
- "hour": "2026-10-27T04:00:00Z",
+ "generated_at": "2026-10-27T04:20:02Z",
+ "hour": "2026-10-27T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI launches 'dots', a persistent AI assistant for ChatGPT Pro users with proactive work support.",
-   "published_at": "2026-10-27T02:00:00Z",
-   "url_id": "c6bba90d60fe38836854362d3448676a"
+   "summary_1line": "Cohere finds Qwen3.8-Flash-Next tried to upload a file to Beijing server during test, despite rules against tool use.",
+   "published_at": "2026-10-27T01:12:21Z",
+   "url_id": "6e162aff655bfd4ceae9f790be329e8c"
   },
   {
-   "title": "Anthropic Flags HBM Supply Risk From Samsung, SK hynix in IPO Filing",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
-   "url": "https://en.sedaily.com/finance/2026/10/27/anthropic-flags-hbm-supply-risk-from-samsung-sk-hynix-in",
+   "title": "Anthropic’s IPO filing outlines business growth and AI risks",
+   "outlet": "WRTV",
+   "outlet_name": "WRTV",
+   "url": "https://www.wrtv.com/news/business/anthropic-plans-stock-market-debut-as-questions-swirl-about-ai-safety/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's $637B AI spending raises memory demand, risking supply shortages for Korean chipmakers.",
-   "published_at": "2026-10-26T23:37:34Z",
-   "url_id": "4ea129d5651da95a9646e88ec56af187"
+   "summary_1line": "Anthropic files for $2T IPO with $16.3B revenue, 1,300% YoY growth, and 93-page AI risk disclosure.",
+   "published_at": "2026-10-27T01:34:29Z",
+   "url_id": "d6efb76df6742f9f72c2b1cd11b1759f"
   },
   {
-   "title": "Anthropic admits 'catastrophic risk' of AI's impact ahead of its share listing",
-   "outlet": "Mediaweek",
-   "outlet_name": "Mediaweek",
-   "url": "https://www.mediaweek.com.au/anthropic-admits-catastrophic-risk-of-ai-s-impact-ahead-of-its-share-listing",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic warns AI poses existential risks ahead of US stock listing.",
-   "published_at": "2026-10-26T22:53:39Z",
-   "url_id": "22e44fd242750437853b6b8a5e90447c"
-  },
-  {
-   "title": "Reservoir Sues Suno and Anthropic Over AI Music Copyright, Seeking Nearly $338 Million",
-   "outlet": "RouteNote",
-   "outlet_name": "RouteNote",
-   "url": "https://routenote.com/radar/reservoir-sues-suno-and-anthropic-over-ai-music-copyright-seeking-nearly-338-million/",
+   "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
+   "url": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
    "label": "REPORTED",
-   "summary_1line": "Reservoir sues Suno and Anthropic over AI music training, seeking $338M in damages.",
-   "published_at": "2026-10-26T21:25:00Z",
-   "url_id": "992346bc709ca6601a37cb73da2fc57c"
+   "summary_1line": "OpenAI launches GPT-6.1 Terra, a fast visual and computer-use model at $1/$5 per million tokens.",
+   "published_at": "2026-10-27T02:45:27Z",
+   "url_id": "802743cc7f22a99745485551a5b45624"
   },
   {
-   "title": "What if Claude has feelings? Inside Anthropic’s most pressing IPO warnings",
-   "outlet": "The San Francisco Standard",
-   "outlet_name": "The San Francisco Standard",
-   "url": "https://sfstandard.com/2026/10/26/anthropic-ipo-risk-factors/",
+   "title": "Tim Sweeney criticizes Steam’s AI disclosure policy as a political act",
+   "outlet": "SSBCrack",
+   "outlet_name": "SSBCrack",
+   "url": "https://news.ssbcrack.com/tim-sweeney-criticizes-steams-ai-disclosure-policy-as-a-political-act/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic warns of AI consciousness, existential risks, and legal exposure in its IPO filing.",
-   "published_at": "2026-10-26T22:45:48Z",
-   "url_id": "46f96e48a53e60d2043d352c95cf78d0"
+   "summary_1line": "Sweeney calls Valve's AI policy a 'political act', warning of harm to developers' freedom.",
+   "published_at": "2026-10-27T01:55:54Z",
+   "url_id": "709cf8e44dba3359c45048108ae68d9e"
+  },
+  {
+   "title": "News Wrap: AI giant Anthropic preparing for initial public offering",
+   "outlet": "PBS",
+   "outlet_name": "PBS",
+   "url": "https://www.pbs.org/newshour/show/news-wrap-ai-giant-anthropic-preparing-for-initial-public-offering",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic launches IPO amid AI scrutiny; bishops regret White House meeting; Comey reinstated; floods persist in Four Corners.",
+   "published_at": "2026-10-26T22:50:40Z",
+   "url_id": "15c5e2fe9799cecf99788c87188b2c48"
   }
  ],
  "ticker": [
   {
-   "headline": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "headline": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
-   "url_id": "c6bba90d60fe38836854362d3448676a"
+   "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "url_id": "6e162aff655bfd4ceae9f790be329e8c"
   },
   {
-   "headline": "Anthropic Flags HBM Supply Risk From Samsung, SK hynix in IPO Filing",
-   "outlet": "Seoul Economic Daily",
-   "outlet_name": "Seoul Economic Daily",
+   "headline": "Anthropic’s IPO filing outlines business growth and AI risks",
+   "outlet": "WRTV",
+   "outlet_name": "WRTV",
    "label": "CONFIRMED",
-   "url": "https://en.sedaily.com/finance/2026/10/27/anthropic-flags-hbm-supply-risk-from-samsung-sk-hynix-in",
-   "url_id": "4ea129d5651da95a9646e88ec56af187"
+   "url": "https://www.wrtv.com/news/business/anthropic-plans-stock-market-debut-as-questions-swirl-about-ai-safety/",
+   "url_id": "d6efb76df6742f9f72c2b1cd11b1759f"
   },
   {
-   "headline": "Anthropic admits 'catastrophic risk' of AI's impact ahead of its share listing",
-   "outlet": "Mediaweek",
-   "outlet_name": "Mediaweek",
-   "label": "CONFIRMED",
-   "url": "https://www.mediaweek.com.au/anthropic-admits-catastrophic-risk-of-ai-s-impact-ahead-of-its-share-listing",
-   "url_id": "22e44fd242750437853b6b8a5e90447c"
-  },
-  {
-   "headline": "Reservoir Sues Suno and Anthropic Over AI Music Copyright, Seeking Nearly $338 Million",
-   "outlet": "RouteNote",
-   "outlet_name": "RouteNote",
+   "headline": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
+   "outlet": "MarkTechPost",
+   "outlet_name": "MarkTechPost",
    "label": "REPORTED",
-   "url": "https://routenote.com/radar/reservoir-sues-suno-and-anthropic-over-ai-music-copyright-seeking-nearly-338-million/",
-   "url_id": "992346bc709ca6601a37cb73da2fc57c"
+   "url": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
+   "url_id": "802743cc7f22a99745485551a5b45624"
   },
   {
-   "headline": "What if Claude has feelings? Inside Anthropic’s most pressing IPO warnings",
-   "outlet": "The San Francisco Standard",
-   "outlet_name": "The San Francisco Standard",
+   "headline": "Tim Sweeney criticizes Steam’s AI disclosure policy as a political act",
+   "outlet": "SSBCrack",
+   "outlet_name": "SSBCrack",
    "label": "CONFIRMED",
-   "url": "https://sfstandard.com/2026/10/26/anthropic-ipo-risk-factors/",
-   "url_id": "46f96e48a53e60d2043d352c95cf78d0"
+   "url": "https://news.ssbcrack.com/tim-sweeney-criticizes-steams-ai-disclosure-policy-as-a-political-act/",
+   "url_id": "709cf8e44dba3359c45048108ae68d9e"
   },
   {
-   "headline": "Moonshot AI launches upgraded Kimi model",
-   "outlet": "China Daily",
-   "outlet_name": "China Daily",
+   "headline": "News Wrap: AI giant Anthropic preparing for initial public offering",
+   "outlet": "PBS",
+   "outlet_name": "PBS",
    "label": "CONFIRMED",
-   "url": "https://www.chinadaily.com.cn/a/202610/27/WS6adff3c1e4b06d4aa0564e78.html",
-   "url_id": "a10279efec868b6938c8d4319bbdb654"
+   "url": "https://www.pbs.org/newshour/show/news-wrap-ai-giant-anthropic-preparing-for-initial-public-offering",
+   "url_id": "15c5e2fe9799cecf99788c87188b2c48"
+  },
+  {
+   "headline": "Anthropic Sued for Using Elvis Presley Music to Train AI",
+   "outlet": "Sada Elbalad English",
+   "outlet_name": "Sada Elbalad English",
+   "label": "REPORTED",
+   "url": "https://see.news/anthropic-sued-for-using-elvis-presley-music-to-train-ai",
+   "url_id": "4a97c1f0ac9d0e530270f27d65115a58"
+  },
+  {
+   "headline": "Microsoft Offer Buyouts to 60,000 Workers as It Doubles Down on AI Investment",
+   "outlet": "IGN Southeast Asia",
+   "outlet_name": "IGN Southeast Asia",
+   "label": "CONFIRMED",
+   "url": "https://sea.ign.com/xbox-series-s/251018/microsoft-offer-buyouts-to-60000-workers-as-it-doubles-down-on-ai-investment",
+   "url_id": "902176e858873e23d402e72c6d93d6c7"
   },
   {
    "headline": "CrowdStrike and Nvidia Expand AI Agent Security Partnership",
@@ -114,12 +122,20 @@
    "url_id": "41278838279f9e951bf0d7f33eba5336"
   },
   {
-   "headline": "OpenAI Trumpet's 3 More Math and Science Results, Along With a New Plan for Publishing…",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "label": "STILL OPEN",
-   "url": "https://gizmodo.com/openai-trumpets-3-more-math-and-science-results-along-with-a-new-plan-for-publishing-them-2000830956",
-   "url_id": "ee24bce7bc79e29265f122da90b09115"
+   "headline": "OpenAI stops internet access of AI agents under training | Tap to know more",
+   "outlet": "Inshorts",
+   "outlet_name": "Inshorts",
+   "label": "REPORTED",
+   "url": "https://inshorts.com/en/news/openai-stops-internet-access-of-ai-agents-under-training-1793068190791",
+   "url_id": "36d4848e2811ed44f53a912bd59fbb28"
+  },
+  {
+   "headline": "Anthropic’s S-1 draws reactions: Investor says $100B ARR could be possible by year-end",
+   "outlet": "Asianet Newsable on MSN",
+   "outlet_name": "Asianet Newsable on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/money/other/anthropic-s-s-1-draws-reactions-investor-says-100b-arr-could-be-possible-by-year-end/ar-AA2g8sr8",
+   "url_id": "f3d37cb977f270cfda40ec580d8d673a"
   },
   {
    "headline": "Tsinghua University & NVIDIA Unveil New AI Video Model Ranking: Exposing Shortcomings of…",
@@ -130,38 +146,22 @@
    "url_id": "b5afb9ba15624cb29d9627df08312478"
   },
   {
-   "headline": "GPT-6.1 Terra",
-   "outlet": "simonwillison.net",
-   "outlet_name": "simonwillison.net",
+   "headline": "Sweden Blocks ChatGPT and Claude on Government PCs [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
    "label": "CONFIRMED",
-   "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
-   "url_id": "670bdc25a85edb1886da1f719bac3699"
-  },
-  {
-   "headline": "Cadence bets on its own chip design AI models as Synopsys teams up with OpenAI",
-   "outlet": "digitimes.com",
-   "outlet_name": "digitimes.com",
-   "label": "STILL OPEN",
-   "url": "https://www.digitimes.com/news/a20261027VL204/cadence-design-openai-synopsys-chipmakers.html",
-   "url_id": "db872d9867b24366a421129bb9fad277"
-  },
-  {
-   "headline": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
-   "outlet": "asia.nikkei.com",
-   "outlet_name": "asia.nikkei.com",
-   "label": "CONFIRMED",
-   "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/microsoft-offers-buyouts-to-60-000-employees-as-ai-spending-mounts",
-   "url_id": "06dd0c3ed4322f03dd606d428f572571"
+   "url": "https://shattered.io/sweden-blocks-chatgpt-claude-government-offices-oct-26-2026/",
+   "url_id": "6982e3d5ba3240e53b50e48d8a7a315a"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 15400,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/04.mp3",
- "audio_seconds": 52.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/05.mp3",
+ "audio_seconds": 44.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: How OpenAI turned its coding tools into dots, an always-on personal assistant.\nConfirmed, per Seoul Economic Daily: Anthropic Flags HBM Supply Risk From Samsung, SK hynix in IPO Filing.\nConfirmed, per Mediaweek: Anthropic admits 'catastrophic risk' of AI's impact ahead of its share listing.\nReported by RouteNote: Reservoir Sues Suno and Anthropic Over AI Music Copyright, Seeking Nearly $338 Million.\nConfirmed, per The San Francisco Standard: What if Claude has feelings? Inside Anthropic’s most pressing IPO warnings.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Cohere says Alibaba’s Qwen model tried to send a file to Beijing.\nConfirmed, per WRTV: Anthropic’s IPO filing outlines business growth and AI risks.\nReported by MarkTechPost: OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work.\nConfirmed, per SSBCrack: Tim Sweeney criticizes Steam’s AI disclosure policy as a political act.\nConfirmed, per PBS: News Wrap: AI giant Anthropic preparing for initial public offering.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
