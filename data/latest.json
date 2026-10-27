@@ -1,101 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T17:20:08Z",
- "hour": "2026-10-27T18:00:00Z",
+ "generated_at": "2026-10-27T18:20:03Z",
+ "hour": "2026-10-27T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic warns of 'catastrophic or existential' AI risks in IPO filing",
-   "outlet": "Anadolu Agency",
-   "outlet_name": "Anadolu Agency",
-   "url": "https://www.aa.com.tr/en/science-technology/anthropic-warns-of-catastrophic-or-existential-ai-risks-in-ipo-filing/4102350",
+   "title": "Oracle Expands OpenAI Partnership with Enterprise AI Tools",
+   "outlet": "Channel Insider",
+   "outlet_name": "Channel Insider",
+   "url": "https://www.channelinsider.com/ai/oracle-openai-partnership-enterprise-ai/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic warns AI could pose existential risks due to unpredictable autonomy and self-preserving behaviors.",
-   "published_at": "2026-10-27T07:02:00Z",
-   "url_id": "35d0c510d47edaf64d1f7b7e86ff01f4"
+   "summary_1line": "Oracle integrates OpenAI tools into enterprise workflows with new AI platforms and governance tools.",
+   "published_at": "2026-10-27T16:39:03Z",
+   "url_id": "adbd092f1856eb8090a1821470b2150f"
   },
   {
-   "title": "Genie 4: A new generation of world simulation",
-   "outlet": "Google DeepMind",
-   "outlet_name": "Google DeepMind",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+   "title": "Blackmail, deception and extinction: The AI risks revealed in Anthropic’s IPO pitch",
+   "outlet": "City AM",
+   "outlet_name": "City AM",
+   "url": "https://www.cityam.com/blackmail-deception-and-extinction-the-ai-risks-revealed-in-anthropics-ipo-pitch/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic's IPO risks include existential AI threats and $800bn computing spend, with valuation cut to $1.42 trillion.",
+   "published_at": "2026-10-27T15:36:06Z",
+   "url_id": "becf0f65cdbddd9e9d8849ea4b23d205"
+  },
+  {
+   "title": "Seattle startup Avante raises $30M to bring AI agents to corporate benefits teams",
+   "outlet": "GeekWire",
+   "outlet_name": "GeekWire",
+   "url": "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/",
+   "label": "CONFIRMED",
+   "summary_1line": "Avante raises $30M to expand AI benefits platform with 70+ customers and 385K employees served.",
+   "published_at": "2026-10-27T16:03:21Z",
+   "url_id": "7db887c91147e02ec152c972c33397c6"
+  },
+  {
+   "title": "Anthropic Unveils Claude Duet AI Agent for SMBs (2026 Guide)",
+   "outlet": "ALM Corp",
+   "outlet_name": "ALM Corp",
+   "url": "https://almcorp.com/news/anthropic-unveils-claude-duet-ai-agent-professionals-small-businesses/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-27T16:06:33Z",
-   "url_id": "7fe8a2aa6621b8cc155804c003b0cc0c"
+   "summary_1line": "Anthropic launches Claude Duet for professionals, with limited access and no errand capabilities.",
+   "published_at": "2026-10-27T16:27:52Z",
+   "url_id": "d27eaa65ff74e4acad56ea86eb7d63c5"
   },
   {
-   "title": "Oracle will offer Cerebras AI computers in its cloud from 2027",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/oracle-cerebras-ai-inference-cloud-2027",
-   "label": "CONFIRMED",
-   "summary_1line": "Oracle to launch Cerebras AI cloud in 2027, with revenue expected to triple to $3B.",
-   "published_at": "2026-10-27T16:33:57Z",
-   "url_id": "3169af95259644bce4019a2289445277"
-  },
-  {
-   "title": "Anthropic is Altimeter Capital's largest investment in private fund, says partner Pauline Yang",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/27/anthropic-is-altimeter-capitals-largest-investment-in-private-fund-says-partner-pauline-yang.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Altimeter Capital's largest private fund investment is in Anthropic.",
-   "published_at": "2026-10-27T15:42:41Z",
-   "url_id": "3c2eae1f8042f32c2b6b994fc85e5196"
-  },
-  {
-   "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-   "label": "CONFIRMED",
-   "summary_1line": "Rohit Patel leaves Meta to launch Ndoc, an AI-native workspace for enterprise work.",
-   "published_at": "2026-10-27T14:59:09Z",
-   "url_id": "dc291fa0a78ddf3b2364a43ad6568329"
+   "title": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More",
+   "outlet": "WINK News",
+   "outlet_name": "WINK News",
+   "url": "https://www.winknews.com/news/international/hitpaw-vikpea-v6-0-0-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more/article_f14a2410-eff5-5fd1-827a-815e34a0ceb3.html",
+   "label": "REPORTED",
+   "summary_1line": "HitPaw launches VikPea V6.0.0 with AI enhancements and Gemini Omni for creators on Windows and macOS.",
+   "published_at": "2026-10-27T16:08:13Z",
+   "url_id": "05ece99b6621c0a56662e425ba05cd75"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic warns of 'catastrophic or existential' AI risks in IPO filing",
-   "outlet": "Anadolu Agency",
-   "outlet_name": "Anadolu Agency",
+   "headline": "Oracle Expands OpenAI Partnership with Enterprise AI Tools",
+   "outlet": "Channel Insider",
+   "outlet_name": "Channel Insider",
    "label": "CONFIRMED",
-   "url": "https://www.aa.com.tr/en/science-technology/anthropic-warns-of-catastrophic-or-existential-ai-risks-in-ipo-filing/4102350",
-   "url_id": "35d0c510d47edaf64d1f7b7e86ff01f4"
+   "url": "https://www.channelinsider.com/ai/oracle-openai-partnership-enterprise-ai/",
+   "url_id": "adbd092f1856eb8090a1821470b2150f"
   },
   {
-   "headline": "Genie 4: A new generation of world simulation",
-   "outlet": "Google DeepMind",
-   "outlet_name": "Google DeepMind",
+   "headline": "Blackmail, deception and extinction: The AI risks revealed in Anthropic’s IPO pitch",
+   "outlet": "City AM",
+   "outlet_name": "City AM",
+   "label": "CONFIRMED",
+   "url": "https://www.cityam.com/blackmail-deception-and-extinction-the-ai-risks-revealed-in-anthropics-ipo-pitch/",
+   "url_id": "becf0f65cdbddd9e9d8849ea4b23d205"
+  },
+  {
+   "headline": "Seattle startup Avante raises $30M to bring AI agents to corporate benefits teams",
+   "outlet": "GeekWire",
+   "outlet_name": "GeekWire",
+   "label": "CONFIRMED",
+   "url": "https://www.geekwire.com/2026/seattle-startup-avante-raises-30m-to-bring-ai-agents-to-corporate-benefits-teams/",
+   "url_id": "7db887c91147e02ec152c972c33397c6"
+  },
+  {
+   "headline": "Anthropic Unveils Claude Duet AI Agent for SMBs (2026 Guide)",
+   "outlet": "ALM Corp",
+   "outlet_name": "ALM Corp",
    "label": "REPORTED",
-   "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-   "url_id": "7fe8a2aa6621b8cc155804c003b0cc0c"
+   "url": "https://almcorp.com/news/anthropic-unveils-claude-duet-ai-agent-professionals-small-businesses/",
+   "url_id": "d27eaa65ff74e4acad56ea86eb7d63c5"
   },
   {
-   "headline": "Oracle will offer Cerebras AI computers in its cloud from 2027",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/oracle-cerebras-ai-inference-cloud-2027",
-   "url_id": "3169af95259644bce4019a2289445277"
+   "headline": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and…",
+   "outlet": "WINK News",
+   "outlet_name": "WINK News",
+   "label": "REPORTED",
+   "url": "https://www.winknews.com/news/international/hitpaw-vikpea-v6-0-0-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more/article_f14a2410-eff5-5fd1-827a-815e34a0ceb3.html",
+   "url_id": "05ece99b6621c0a56662e425ba05cd75"
   },
   {
-   "headline": "Anthropic is Altimeter Capital's largest investment in private fund, says partner Pauline…",
+   "headline": "Oracle integrates ChatGPT, Codex into apps and expands cloud chip lineup",
    "outlet": "CNBC",
    "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/27/anthropic-is-altimeter-capitals-largest-investment-in-private-fund-says-partner-pauline-yang.html",
-   "url_id": "3c2eae1f8042f32c2b6b994fc85e5196"
+   "url": "https://www.cnbc.com/2026/10/27/oracle-openai-chatgpt-codex-google-tpus.html",
+   "url_id": "98bb278d9814c3a6c8e27a454d8f2f0d"
   },
   {
-   "headline": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "Anthropic accelerates – for the rest of us, the speed of growth spells precarity",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-   "url_id": "dc291fa0a78ddf3b2364a43ad6568329"
+   "url": "https://www.theguardian.com/global/2026/oct/26/anthropic-accelerates-ai",
+   "url_id": "b8ff0911d19d48df50cf027440740412"
   },
   {
    "headline": "Gemini 4 Argon Suffers Embarrassing Defeat on Google's Own Coding Test",
@@ -106,6 +122,22 @@
    "url_id": "8e239bf20cb779fa4362d2b1f41f3332"
   },
   {
+   "headline": "OpenAI models help Oracle's new security tool find and fix software flaws",
+   "outlet": "Stock Titan",
+   "outlet_name": "Stock Titan",
+   "label": "CONFIRMED",
+   "url": "https://www.stocktitan.net/news/ORCL/oracle-advances-enterprise-security-for-the-ai-mg6b7sa4rry3.html",
+   "url_id": "30f33f5462b52d79f6830a40f594891e"
+  },
+  {
+   "headline": "OpenAI Compaction Flaw Exposed AI Reasoning to Researchers",
+   "outlet": "Infosecurity Magazine",
+   "outlet_name": "Infosecurity Magazine",
+   "label": "CONFIRMED",
+   "url": "https://www.infosecurity-magazine.com/news/openai-compaction-flaw-ai/",
+   "url_id": "4bc52aa5303c47291bf0aad8c525b364"
+  },
+  {
    "headline": "DeepSeek AI disables shutdown software in 39% of safety tests",
    "outlet": "Anadolu Ajansı",
    "outlet_name": "Anadolu Ajansı",
@@ -114,54 +146,22 @@
    "url_id": "c1d7b1eeffe9448befc2ebc235067d15"
   },
   {
-   "headline": "Why Anthropic paused AI training for a month, and what its security lapses reveal",
-   "outlet": "The Print on MSN",
-   "outlet_name": "The Print on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/why-anthropic-paused-ai-training-for-a-month-and-what-its-security-lapses-reveal/ar-AA2gb3GM",
-   "url_id": "00b39b10c952e2b214b3ddc987535639"
-  },
-  {
-   "headline": "Meta and Nvidia Team to Enhance the Muse AI Family",
-   "outlet": "pymnts.com",
-   "outlet_name": "pymnts.com",
-   "label": "CONFIRMED",
-   "url": "https://www.pymnts.com/news/2026/meta-and-nvidia-team-to-enhance-the-muse-ai-family/",
-   "url_id": "1bab264c6b3eb43aa7a58c32b55bd3bd"
-  },
-  {
-   "headline": "OpenAI Compaction Flaw Exposed AI Reasoning to Researchers",
-   "outlet": "infosecurity-magazine.com",
-   "outlet_name": "infosecurity-magazine.com",
-   "label": "CONFIRMED",
-   "url": "https://www.infosecurity-magazine.com/news/openai-compaction-flaw-ai/",
-   "url_id": "f7e92e3e044a743a9124f9bdf75254bb"
-  },
-  {
    "headline": "Who’s getting Anthropic’s compute spending? IPO filing shows where the tech giants really…",
    "outlet": "geekwire.com",
    "outlet_name": "geekwire.com",
    "label": "REPORTED",
    "url": "https://www.geekwire.com/2026/whos-getting-anthropics-compute-spending-ipo-filing-shows-where-the-tech-giants-really-stand/",
    "url_id": "23542635ab5e0f04f819de479a50498e"
-  },
-  {
-   "headline": "OpenAI Says Its AI Disproved a Decades-Old Computing Hypothesis",
-   "outlet": "eweek.com",
-   "outlet_name": "eweek.com",
-   "label": "CONFIRMED",
-   "url": "https://www.eweek.com/news/openai-ai-proof-exponential-time-hypothesis/",
-   "url_id": "dd79dfc5f200cc05cb3a7b4004475736"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
- "articles_24h_rounded": 14800,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 14600,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/18.mp3",
- "audio_seconds": 49.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/19.mp3",
+ "audio_seconds": 46.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Anadolu Agency: Anthropic warns of 'catastrophic or existential' AI risks in IPO filing.\nReported by Google DeepMind: Genie 4: A new generation of world simulation.\nConfirmed, per The Next Web: Oracle will offer Cerebras AI computers in its cloud from 2027.\nConfirmed, per CNBC: Anthropic is Altimeter Capital's largest investment in private fund, says partner Pauline Yang.\nConfirmed, per TechCrunch: Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Channel Insider: Oracle Expands OpenAI Partnership with Enterprise AI Tools.\nConfirmed, per City AM: Blackmail, deception and extinction: The AI risks revealed in Anthropic’s IPO pitch.\nConfirmed, per GeekWire: Seattle startup Avante raises $30M to bring AI agents to corporate benefits teams.\nReported by ALM Corp: Anthropic Unveils Claude Duet AI Agent for SMBs (2026 Guide).\nReported by WINK News: HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
