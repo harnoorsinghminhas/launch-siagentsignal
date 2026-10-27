@@ -1,125 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T20:20:10Z",
- "hour": "2026-10-27T21:00:00Z",
+ "generated_at": "2026-10-27T21:20:04Z",
+ "hour": "2026-10-27T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google DeepMind Genie 4 Adds Native Audio and Live Scene Edits",
-   "outlet": "SQ Magazine",
-   "outlet_name": "SQ Magazine",
-   "url": "https://sqmagazine.co.uk/google-deepmind-genie-4-world-model-audio/",
+   "title": "Anthropic Faces $41 Million Copyright Lawsuit Over Elvis Presley Songs",
+   "outlet": "Law Commentary",
+   "outlet_name": "Law Commentary",
+   "url": "https://www.lawcommentary.com/articles/anthropic-41-million-elvis-presley-ai-copyright-lawsuit",
    "label": "CONFIRMED",
-   "summary_1line": "Google DeepMind releases Genie 4, a real-time world model with audio and editing, for research preview.",
-   "published_at": "2026-10-27T17:22:06Z",
-   "url_id": "dd6e3eddda62d2491bc94e920dc92572"
+   "summary_1line": "Reservoir sues Suno and Anthropic over $340M in alleged copyright infringement using Madonna, Cash, and Mitchell music.",
+   "published_at": "2026-10-27T18:50:41Z",
+   "url_id": "701f89fae9348dc7532fec8e2a1c29d9"
   },
   {
-   "title": "Elon Musk's grand plan for AI-generated movie faces reality check after Grok releases 7 minutes",
-   "outlet": "The Cool Down",
-   "outlet_name": "The Cool Down",
-   "url": "https://www.thecooldown.com/green-tech/elon-musk-grok-odyssey-seven-minutes/",
+   "title": "Nvidia's worst nightmare may be lurking inside Anthropic's IPO filing",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/anthropic-ipo-filing-reveals-looming-threat-to-nvidia-pricing-power-2026-10",
    "label": "CONFIRMED",
-   "summary_1line": "Grok Imagine releases 7-minute AI Odyssey episode, fulfilling part of Musk's 2026 pledge.",
-   "published_at": "2026-10-27T17:34:00Z",
-   "url_id": "7af2aa71a60565f4935959cc8ac752f3"
+   "summary_1line": "Anthropic uses four chip types to reduce Nvidia dependence, citing long-term strategy and supply resilience.",
+   "published_at": "2026-10-27T19:31:17Z",
+   "url_id": "e733033c04edbf917f1b7fe09e365a04"
   },
   {
-   "title": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic's IPO prospectus shows explosive growth and massive losses, with a $1.5T–$2T valuation target.",
-   "published_at": "2026-10-27T17:26:34Z",
-   "url_id": "06ef50975b56416301c588a7c30eab51"
-  },
-  {
-   "title": "Tenacity's Ben Narasin: Anthropic could price IPO near $2 trillion",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/27/tenacitys-ben-narasin-anthropic-could-price-ipo-near-2-trillion.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Ben Narasin speculates Anthropic's IPO could be near $2 trillion.",
-   "published_at": "2026-10-27T13:09:41Z",
-   "url_id": "59d1ff9c916068a1922f26e6caa50a78"
-  },
-  {
-   "title": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-   "outlet": "WIRED",
-   "outlet_name": "WIRED",
-   "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
+   "title": "Early progress on accelerating drug development with Claude",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic warns data center gas demand could spike, raising fuel costs and supply risks.",
-   "published_at": "2026-10-27T18:20:00Z",
-   "url_id": "c5ef3105c22ded8c21c7832887cb7832"
+   "summary_1line": "Anthropic partners with biotech firms to use AI in drug development, with early success in cancer, allergies, and rare diseases.",
+   "published_at": "2026-10-27T20:20:53Z",
+   "url_id": "f672afb1c42c3ff984ca07fd8e0a3cfa"
+  },
+  {
+   "title": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
+   "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+   "label": "CONFIRMED",
+   "summary_1line": "MP Jess Asato sues xAI over deepfake misuse, citing years of advocacy against AI-generated abuse.",
+   "published_at": "2026-10-27T13:29:41Z",
+   "url_id": "9866bf72e87f85c819e465892f18e86a"
+  },
+  {
+   "title": "Anthropic Files for Potential $100 Billion IPO Amid AI Safety Concerns",
+   "outlet": "Vision Times",
+   "outlet_name": "Vision Times",
+   "url": "https://www.visiontimes.com/2026/10/27/anthropic-files-for-potential-100-billion-ipo-amid-ai-safety-concerns.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic files for $100B IPO amid AI safety concerns and massive losses.",
+   "published_at": "2026-10-27T16:58:58Z",
+   "url_id": "7e15c22367c31f7718186ba4d2bc298f"
   }
  ],
  "ticker": [
   {
-   "headline": "Google DeepMind Genie 4 Adds Native Audio and Live Scene Edits",
-   "outlet": "SQ Magazine",
-   "outlet_name": "SQ Magazine",
-   "label": "CONFIRMED",
-   "url": "https://sqmagazine.co.uk/google-deepmind-genie-4-world-model-audio/",
-   "url_id": "dd6e3eddda62d2491bc94e920dc92572"
-  },
-  {
-   "headline": "Elon Musk's grand plan for AI-generated movie faces reality check after Grok releases 7…",
-   "outlet": "The Cool Down",
-   "outlet_name": "The Cool Down",
-   "label": "CONFIRMED",
-   "url": "https://www.thecooldown.com/green-tech/elon-musk-grok-odyssey-seven-minutes/",
-   "url_id": "7af2aa71a60565f4935959cc8ac752f3"
-  },
-  {
-   "headline": "Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "STILL OPEN",
-   "url": "https://www.cnbc.com/2026/10/27/-anthropic-ipo-investors-growth-losses-s-1.html",
-   "url_id": "06ef50975b56416301c588a7c30eab51"
-  },
-  {
-   "headline": "Tenacity's Ben Narasin: Anthropic could price IPO near $2 trillion",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "STILL OPEN",
-   "url": "https://www.cnbc.com/video/2026/10/27/tenacitys-ben-narasin-anthropic-could-price-ipo-near-2-trillion.html",
-   "url_id": "59d1ff9c916068a1922f26e6caa50a78"
-  },
-  {
-   "headline": "Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks",
-   "outlet": "WIRED",
-   "outlet_name": "WIRED",
-   "label": "CONFIRMED",
-   "url": "https://www.wired.com/story/anthropic-ipo-identifies-gas-supply-as-big-near-term-risks/",
-   "url_id": "c5ef3105c22ded8c21c7832887cb7832"
-  },
-  {
-   "headline": "Trump says he will ban the term 'artificial intelligence', wants it called 'super…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "CONFIRMED",
-   "url": "https://timesofindia.indiatimes.com/world/us/trump-says-he-will-ban-the-term-artificial-intelligence-wants-it-called-super-intelligence/articleshow/135241647.cms",
-   "url_id": "770ac7fa4bfef705ad3b5ff250fc883d"
-  },
-  {
-   "headline": "Anthropic Files for IPO With $16.3B Revenue and Massive AI Spending",
-   "outlet": "Channel Insider",
-   "outlet_name": "Channel Insider",
-   "label": "REPORTED",
-   "url": "https://www.channelinsider.com/channel-business/news-anthropic-ipo-filing-revenue-ai-spending-channel-partners/",
-   "url_id": "4f88a4ea9a8a42b27833c53a9db06b83"
-  },
-  {
    "headline": "Anthropic Faces $41 Million Copyright Lawsuit Over Elvis Presley Songs",
    "outlet": "Law Commentary",
    "outlet_name": "Law Commentary",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.lawcommentary.com/articles/anthropic-41-million-elvis-presley-ai-copyright-lawsuit",
    "url_id": "701f89fae9348dc7532fec8e2a1c29d9"
+  },
+  {
+   "headline": "Nvidia's worst nightmare may be lurking inside Anthropic's IPO filing",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "CONFIRMED",
+   "url": "https://www.businessinsider.com/anthropic-ipo-filing-reveals-looming-threat-to-nvidia-pricing-power-2026-10",
+   "url_id": "e733033c04edbf917f1b7fe09e365a04"
+  },
+  {
+   "headline": "Early progress on accelerating drug development with Claude",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/research/early-progress-drug-development",
+   "url_id": "f672afb1c42c3ff984ca07fd8e0a3cfa"
+  },
+  {
+   "headline": "UK Politician Jess Asato Got Deepfaked. Now She’s Taking xAI to Court",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
+   "label": "CONFIRMED",
+   "url": "https://www.wired.com/story/the-big-interview-podcast-jess-asato/",
+   "url_id": "9866bf72e87f85c819e465892f18e86a"
+  },
+  {
+   "headline": "Anthropic Files for Potential $100 Billion IPO Amid AI Safety Concerns",
+   "outlet": "Vision Times",
+   "outlet_name": "Vision Times",
+   "label": "CONFIRMED",
+   "url": "https://www.visiontimes.com/2026/10/27/anthropic-files-for-potential-100-billion-ipo-amid-ai-safety-concerns.html",
+   "url_id": "7e15c22367c31f7718186ba4d2bc298f"
+  },
+  {
+   "headline": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+   "url_id": "b4e5877b1cf140e0e751f5d9247a2562"
+  },
+  {
+   "headline": "The big takeaways and big questions from Anthropic’s S-1",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
+   "label": "CONFIRMED",
+   "url": "https://fortune.com/2026/10/27/the-big-takeaways-and-big-questions-from-anthropics-s-1/",
+   "url_id": "bb5ee5ff52dcf981d150e14da487fa47"
   },
   {
    "headline": "Eight states file coordinated lawsuits sues OpenAi, alleging ChatGPT safety failures",
@@ -130,38 +122,46 @@
    "url_id": "4e3ae1be5433bf424ed4161129635fd2"
   },
   {
-   "headline": "Oracle Announces AI Security Mesh Powered by OpenAI Cyber Models",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
+   "headline": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+   "outlet": "latent.space",
+   "outlet_name": "latent.space",
    "label": "CONFIRMED",
-   "url": "https://www.unite.ai/oracle-announces-ai-security-mesh-powered-by-openai-cyber-models/",
-   "url_id": "4f9b3899f7528576f6593485bdf65c63"
+   "url": "https://latent.space/p/opus55/",
+   "url_id": "2247b97d682bdb4bd15f6b60c12c77a6"
   },
   {
-   "headline": "[Launched] Generally Available: Cost management and tagging for Claude models in…",
-   "outlet": "azure.microsoft.com",
-   "outlet_name": "azure.microsoft.com",
-   "label": "REPORTED",
-   "url": "https://azure.microsoft.com/updates?id=577260",
-   "url_id": "e57d2c76db7a7abab5b3f424fa4c2996"
+   "headline": "Anthropic sued for allegedly using Elvis Presley's music to train Claude AI",
+   "outlet": "San Francisco Chronicle on MSN",
+   "outlet_name": "San Francisco Chronicle on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/anthropic-sued-for-allegedly-using-elvis-presleys-music-to-train-claude-ai/ar-AA2gbR9R",
+   "url_id": "687e9bf8415adc12df028300fabb3986"
   },
   {
-   "headline": "Research Sheds New Light On DeepSeek’s Safety Risks",
-   "outlet": "gizmodo.com",
-   "outlet_name": "gizmodo.com",
+   "headline": "8 examples of Gemini 4 Argon in action",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
    "label": "CONFIRMED",
-   "url": "https://gizmodo.com/research-sheds-new-light-on-deepseeks-safety-risks-2000831270",
-   "url_id": "35f5c3aa8a527b83a9312d9c39bff64f"
+   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
+   "url_id": "04e4128465ea7ce7e99774ef2a63af44"
+  },
+  {
+   "headline": "Trump Says ‘Artificial Intelligence’ Is ‘a Very Bad and Inaccurate Name,’ and That He…",
+   "outlet": "variety.com",
+   "outlet_name": "variety.com",
+   "label": "CONFIRMED",
+   "url": "https://variety.com/2026/digital/news/trump-artificial-intelligence-officially-ban-term-ai-1236932249/",
+   "url_id": "c64761acb9073a6907b37e2c776d2df8"
   }
  ],
  "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 14600,
+ "articles_24h_rounded": 14700,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/21.mp3",
- "audio_seconds": 52.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/22.mp3",
+ "audio_seconds": 88.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per SQ Magazine: Google DeepMind Genie 4 Adds Native Audio and Live Scene Edits.\nConfirmed, per The Cool Down: Elon Musk's grand plan for AI-generated movie faces reality check after Grok releases 7 minutes.\nStill open, per CNBC: Anthropic's IPO could be 'speculative fiction' or a 'generational moment' — investors are split.\nStill open, per CNBC: Tenacity's Ben Narasin: Anthropic could price IPO near $2 trillion.\nConfirmed, per WIRED: Anthropic Flags Gas Supply as One of Its Biggest Near-Term Risks.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReservoir sues Suno and Anthropic over 340 million dollars in alleged copyright infringement using Madonna, Cash, and Mitchell music. Confirmed by Law Commentary: Anthropic faces 41 million dollar copyright lawsuit over Elvis Presley songs.\nAnthropic uses four chip types to reduce Nvidia dependence, citing long-term strategy and supply resilience. Confirmed by Business Insider: Nvidia's worst nightmare may be lurking inside Anthropic's IPO filing.\nConfirmed by Anthropic: early progress on accelerating drug development with Claude. Anthropic partners with biotech firms to use artificial intelligence in drug development, with early success in cancer, allergies, and rare diseases.\nMP Jess Asato sues xAI over deepfake misuse, citing years of advocacy against artificial intelligence generated abuse. Confirmed by Wired: UK politician Jess Asato got deepfaked and is now taking xAI to court.\nAnthropic files for potential 100 billion dollar IPO amid artificial intelligence safety concerns and massive losses. Confirmed by Vision Times: Anthropic files for potential 100 billion dollar IPO amid artificial intelligence safety concerns.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
