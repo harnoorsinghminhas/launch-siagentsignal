@@ -1,117 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T02:20:02Z",
- "hour": "2026-10-27T03:00:00Z",
+ "generated_at": "2026-10-27T03:20:02Z",
+ "hour": "2026-10-27T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Inside Anthropic's massive — and wild — IPO prospectus",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises",
+   "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic reveals $650B computing costs, $134B cash, and $6.6M revenue per employee in IPO filing.",
-   "published_at": "2026-10-26T22:58:44Z",
-   "url_id": "b71e641c52ff468e9a32383aabc762c1"
+   "summary_1line": "OpenAI launches 'dots', a persistent AI assistant for ChatGPT Pro users with proactive work support.",
+   "published_at": "2026-10-27T02:00:00Z",
+   "url_id": "c6bba90d60fe38836854362d3448676a"
   },
   {
-   "title": "Anthropic files for blockbuster IPO that could value AI giant at $2 trillion",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
-   "url": "https://nypost.com/2026/10/26/tech/anthropic-files-for-blockbuster-ipo-that-could-value-ai-giant-at-2-trillion-2/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic files $2T IPO, with founders poised to earn billions.",
-   "published_at": "2026-10-27T00:39:30Z",
-   "url_id": "4bd0dd0c5d93148cd294257e16b857e2"
-  },
-  {
-   "title": "Fortinet Expands AI Security with FortiGuard Inline AI Security Service",
-   "outlet": "The Fast Mode",
-   "outlet_name": "The Fast Mode",
-   "url": "https://www.thefastmode.com/technology-solutions/51193-fortinet-expands-ai-security-with-fortiguard-inline-ai-security-service",
+   "title": "Anthropic Flags HBM Supply Risk From Samsung, SK hynix in IPO Filing",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/finance/2026/10/27/anthropic-flags-hbm-supply-risk-from-samsung-sk-hynix-in",
    "label": "CONFIRMED",
-   "summary_1line": "Fortinet launches AI security service for FortiGate users with real-time threat detection and policy enforcement.",
-   "published_at": "2026-10-26T16:14:00Z",
-   "url_id": "483931d68d1757be7cba42c1f6b1187a"
+   "summary_1line": "Anthropic's $637B AI spending raises memory demand, risking supply shortages for Korean chipmakers.",
+   "published_at": "2026-10-26T23:37:34Z",
+   "url_id": "4ea129d5651da95a9646e88ec56af187"
   },
   {
-   "title": "OpenAI Debuts 'Shepherd' Model for AI Research Validation",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "url": "https://www.techbuzz.ai/articles/openai-debuts-shepherd-model-for-ai-research-validation",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI introduces 'shepherd' model to validate AI-generated scientific research.",
-   "published_at": "2026-10-27T00:06:00Z",
-   "url_id": "8ec98bb81a2d1d929e1bb1ee98591ae9"
+   "title": "Anthropic admits 'catastrophic risk' of AI's impact ahead of its share listing",
+   "outlet": "Mediaweek",
+   "outlet_name": "Mediaweek",
+   "url": "https://www.mediaweek.com.au/anthropic-admits-catastrophic-risk-of-ai-s-impact-ahead-of-its-share-listing",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic warns AI poses existential risks ahead of US stock listing.",
+   "published_at": "2026-10-26T22:53:39Z",
+   "url_id": "22e44fd242750437853b6b8a5e90447c"
   },
   {
-   "title": "Google Gemini debuts on Mazda CX-5",
-   "outlet": "Eurekar",
-   "outlet_name": "Eurekar",
-   "url": "https://www.eurekar.co.uk/articles/2026-10-26/google-gemini-debuts-on-mazda-cx-5",
+   "title": "Reservoir Sues Suno and Anthropic Over AI Music Copyright, Seeking Nearly $338 Million",
+   "outlet": "RouteNote",
+   "outlet_name": "RouteNote",
+   "url": "https://routenote.com/radar/reservoir-sues-suno-and-anthropic-over-ai-music-copyright-seeking-nearly-338-million/",
    "label": "REPORTED",
-   "summary_1line": "Mazda CX-5 adds Google Gemini for natural voice control in 12 European languages.",
-   "published_at": "2026-10-27T00:02:34Z",
-   "url_id": "3a626dbd23098e1c57dcf2344b865d71"
+   "summary_1line": "Reservoir sues Suno and Anthropic over AI music training, seeking $338M in damages.",
+   "published_at": "2026-10-26T21:25:00Z",
+   "url_id": "992346bc709ca6601a37cb73da2fc57c"
+  },
+  {
+   "title": "What if Claude has feelings? Inside Anthropic’s most pressing IPO warnings",
+   "outlet": "The San Francisco Standard",
+   "outlet_name": "The San Francisco Standard",
+   "url": "https://sfstandard.com/2026/10/26/anthropic-ipo-risk-factors/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic warns of AI consciousness, existential risks, and legal exposure in its IPO filing.",
+   "published_at": "2026-10-26T22:45:48Z",
+   "url_id": "46f96e48a53e60d2043d352c95cf78d0"
   }
  ],
  "ticker": [
   {
-   "headline": "Inside Anthropic's massive — and wild — IPO prospectus",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "label": "CONFIRMED",
-   "url": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises",
-   "url_id": "b71e641c52ff468e9a32383aabc762c1"
-  },
-  {
-   "headline": "Anthropic files for blockbuster IPO that could value AI giant at $2 trillion",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
-   "label": "REPORTED",
-   "url": "https://nypost.com/2026/10/26/tech/anthropic-files-for-blockbuster-ipo-that-could-value-ai-giant-at-2-trillion-2/",
-   "url_id": "4bd0dd0c5d93148cd294257e16b857e2"
-  },
-  {
-   "headline": "Fortinet Expands AI Security with FortiGuard Inline AI Security Service",
-   "outlet": "The Fast Mode",
-   "outlet_name": "The Fast Mode",
-   "label": "CONFIRMED",
-   "url": "https://www.thefastmode.com/technology-solutions/51193-fortinet-expands-ai-security-with-fortiguard-inline-ai-security-service",
-   "url_id": "483931d68d1757be7cba42c1f6b1187a"
-  },
-  {
-   "headline": "OpenAI Debuts 'Shepherd' Model for AI Research Validation",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "label": "REPORTED",
-   "url": "https://www.techbuzz.ai/articles/openai-debuts-shepherd-model-for-ai-research-validation",
-   "url_id": "8ec98bb81a2d1d929e1bb1ee98591ae9"
-  },
-  {
-   "headline": "Google Gemini debuts on Mazda CX-5",
-   "outlet": "Eurekar",
-   "outlet_name": "Eurekar",
-   "label": "REPORTED",
-   "url": "https://www.eurekar.co.uk/articles/2026-10-26/google-gemini-debuts-on-mazda-cx-5",
-   "url_id": "3a626dbd23098e1c57dcf2344b865d71"
-  },
-  {
-   "headline": "Musk’s Grok Releases First “Odyssey” Episode",
-   "outlet": "Dark Horizons",
-   "outlet_name": "Dark Horizons",
-   "label": "REPORTED",
-   "url": "https://www.darkhorizons.com/musks-grok-releases-first-odyssey-episode/",
-   "url_id": "a194d32821b28fb7bff340a03bfc08ed"
-  },
-  {
-   "headline": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
+   "headline": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+   "url_id": "c6bba90d60fe38836854362d3448676a"
+  },
+  {
+   "headline": "Anthropic Flags HBM Supply Risk From Samsung, SK hynix in IPO Filing",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "label": "CONFIRMED",
+   "url": "https://en.sedaily.com/finance/2026/10/27/anthropic-flags-hbm-supply-risk-from-samsung-sk-hynix-in",
+   "url_id": "4ea129d5651da95a9646e88ec56af187"
+  },
+  {
+   "headline": "Anthropic admits 'catastrophic risk' of AI's impact ahead of its share listing",
+   "outlet": "Mediaweek",
+   "outlet_name": "Mediaweek",
+   "label": "CONFIRMED",
+   "url": "https://www.mediaweek.com.au/anthropic-admits-catastrophic-risk-of-ai-s-impact-ahead-of-its-share-listing",
+   "url_id": "22e44fd242750437853b6b8a5e90447c"
+  },
+  {
+   "headline": "Reservoir Sues Suno and Anthropic Over AI Music Copyright, Seeking Nearly $338 Million",
+   "outlet": "RouteNote",
+   "outlet_name": "RouteNote",
    "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-   "url_id": "6e162aff655bfd4ceae9f790be329e8c"
+   "url": "https://routenote.com/radar/reservoir-sues-suno-and-anthropic-over-ai-music-copyright-seeking-nearly-338-million/",
+   "url_id": "992346bc709ca6601a37cb73da2fc57c"
+  },
+  {
+   "headline": "What if Claude has feelings? Inside Anthropic’s most pressing IPO warnings",
+   "outlet": "The San Francisco Standard",
+   "outlet_name": "The San Francisco Standard",
+   "label": "CONFIRMED",
+   "url": "https://sfstandard.com/2026/10/26/anthropic-ipo-risk-factors/",
+   "url_id": "46f96e48a53e60d2043d352c95cf78d0"
+  },
+  {
+   "headline": "Moonshot AI launches upgraded Kimi model",
+   "outlet": "China Daily",
+   "outlet_name": "China Daily",
+   "label": "CONFIRMED",
+   "url": "https://www.chinadaily.com.cn/a/202610/27/WS6adff3c1e4b06d4aa0564e78.html",
+   "url_id": "a10279efec868b6938c8d4319bbdb654"
+  },
+  {
+   "headline": "CrowdStrike and Nvidia Expand AI Agent Security Partnership",
+   "outlet": "eSecurity Planet",
+   "outlet_name": "eSecurity Planet",
+   "label": "REPORTED",
+   "url": "https://www.esecurityplanet.com/artificial-intelligence/news-crowdstrike-nvidia-ai-agent-security/",
+   "url_id": "41278838279f9e951bf0d7f33eba5336"
   },
   {
    "headline": "OpenAI Trumpet's 3 More Math and Science Results, Along With a New Plan for Publishing…",
@@ -122,28 +122,28 @@
    "url_id": "ee24bce7bc79e29265f122da90b09115"
   },
   {
-   "headline": "BlackBerry reinvented: CEO sees big opportunities AI-powered robots",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/26/blackberry-qnx-physical-ai-robots.html",
-   "url_id": "9c3e388e3f09001974b170768ab2203f"
+   "headline": "Tsinghua University & NVIDIA Unveil New AI Video Model Ranking: Exposing Shortcomings of…",
+   "outlet": "eu.36kr.com",
+   "outlet_name": "eu.36kr.com",
+   "label": "REPORTED",
+   "url": "https://eu.36kr.com/en/p/4043400670581632",
+   "url_id": "b5afb9ba15624cb29d9627df08312478"
   },
   {
-   "headline": "Analysis-China’s lab-grown diamond makers target AI, chip sectors for next wave of growth",
-   "outlet": "KSLM Radio",
-   "outlet_name": "KSLM Radio",
+   "headline": "GPT-6.1 Terra",
+   "outlet": "simonwillison.net",
+   "outlet_name": "simonwillison.net",
    "label": "CONFIRMED",
-   "url": "https://www.kslm.news/news/analysis-china-8217-s-lab-grown-diamond-makers-target-ai-chip-sectors-for-next-wave-of-growth-mvpw30wa",
-   "url_id": "d342e978683b3a2ed0d4b2aec5470f57"
+   "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+   "url_id": "670bdc25a85edb1886da1f719bac3699"
   },
   {
-   "headline": "LA Film School Whistleblower Lawsuit Thrown Out After Plaintiffs Use ChatGPT on Filing",
-   "outlet": "thewrap.com",
-   "outlet_name": "thewrap.com",
-   "label": "CONFIRMED",
-   "url": "https://www.thewrap.com/industry-news/public-policy-legal/la-film-school-whistleblower-lawsuit-tossed-chatgpt/",
-   "url_id": "0be309f99832a1da45d584720a3565ff"
+   "headline": "Cadence bets on its own chip design AI models as Synopsys teams up with OpenAI",
+   "outlet": "digitimes.com",
+   "outlet_name": "digitimes.com",
+   "label": "STILL OPEN",
+   "url": "https://www.digitimes.com/news/a20261027VL204/cadence-design-openai-synopsys-chipmakers.html",
+   "url_id": "db872d9867b24366a421129bb9fad277"
   },
   {
    "headline": "Microsoft offers buyouts to 60,000 employees as AI spending mounts",
@@ -154,14 +154,14 @@
    "url_id": "06dd0c3ed4322f03dd606d428f572571"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 15600,
- "articles_24h_label": "about 16,000",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 15400,
+ "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/03.mp3",
- "audio_seconds": 47.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/04.mp3",
+ "audio_seconds": 52.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Axios: Inside Anthropic's massive — and wild — IPO prospectus.\nReported by New York Post: Anthropic files for blockbuster IPO that could value AI giant at $2 trillion.\nConfirmed, per The Fast Mode: Fortinet Expands AI Security with FortiGuard Inline AI Security Service.\nReported by The Tech Buzz: OpenAI Debuts 'Shepherd' Model for AI Research Validation.\nReported by Eurekar: Google Gemini debuts on Mazda CX-5.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: How OpenAI turned its coding tools into dots, an always-on personal assistant.\nConfirmed, per Seoul Economic Daily: Anthropic Flags HBM Supply Risk From Samsung, SK hynix in IPO Filing.\nConfirmed, per Mediaweek: Anthropic admits 'catastrophic risk' of AI's impact ahead of its share listing.\nReported by RouteNote: Reservoir Sues Suno and Anthropic Over AI Music Copyright, Seeking Nearly $338 Million.\nConfirmed, per The San Francisco Standard: What if Claude has feelings? Inside Anthropic’s most pressing IPO warnings.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
