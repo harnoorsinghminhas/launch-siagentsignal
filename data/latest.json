@@ -1,125 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-26T22:20:02Z",
- "hour": "2026-10-26T23:00:00Z",
+ "generated_at": "2026-10-26T23:20:02Z",
+ "hour": "2026-10-27T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "US FTC Escalates AI Safety Investigation, Demands Testimony From Anthropic Executives",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
-   "url": "https://stocktwits.com/news-articles/markets/equity/us-ftc-escalates-ai-safety-investigation-demands-testimony-from-anthropic-executives/cZU3XRzRBz4",
-   "label": "STILL OPEN",
-   "summary_1line": "FTC demands safety records from AI firms amid growing regulatory scrutiny.",
-   "published_at": "2026-10-26T20:12:55Z",
-   "url_id": "054e9c3fd07e4274aacc3e9500e45fcb"
+   "title": "Anthropic's IPO puts power in the hands of founders, giving everyday shareholders little voice",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-founder-voting-control.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic's founders hold 50.1% voting power in new governance structure.",
+   "published_at": "2026-10-26T19:48:02Z",
+   "url_id": "3850f9e43f36230fd85f4cd315f33866"
   },
   {
-   "title": "Anthropic sued over alleged use of 274 Elvis Presley songs to train AI models",
-   "outlet": "The Express Tribune",
-   "outlet_name": "The Express Tribune",
-   "url": "https://tribune.com.pk/story/2637010/anthropic-sued-over-alleged-use-of-274-elvis-presley-songs-to-train-ai-models",
+   "title": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic sued for allegedly using 274 Elvis songs in AI training without permission.",
-   "published_at": "2026-10-26T15:06:21Z",
-   "url_id": "832119c8c4185982f134317bcba15059"
+   "summary_1line": "OpenAI's GPT-6.1 Terra cuts API prices by half and boosts performance, reducing hallucinations and improving coding and visual reasoning.",
+   "published_at": "2026-10-26T20:35:05Z",
+   "url_id": "d37542ef1893d66664f85a2aead73bfa"
   },
   {
-   "title": "As AI Raises New Data Security Questions, Synology to Showcase Its Surveillance Ecosystem at ISC East 2026",
-   "outlet": "The Joplin Globe",
-   "outlet_name": "The Joplin Globe",
-   "url": "https://www.joplinglobe.com/region/national_business/as-ai-raises-new-data-security-questions-synology-to-showcase-its-surveillance-ecosystem-at-isc/article_fbdc62f6-f2f4-57f8-94e5-5b4135e53a1e.html",
+   "title": "Anthropic is burning gas to feed the AI boom",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
    "label": "CONFIRMED",
-   "summary_1line": "Synology to showcase AI-powered surveillance at ISC East 2026, stressing data control.",
-   "published_at": "2026-10-26T19:00:46Z",
-   "url_id": "90b25df22e1c2207b0005388eceb7125"
+   "summary_1line": "Anthropic's S-1 reveals data center gas reliance and climate-related cost risks.",
+   "published_at": "2026-10-26T21:45:31Z",
+   "url_id": "bcbaf4634e1a8a36b6de8da9b19c96ac"
   },
   {
-   "title": "Elon Musk's SpaceX agrees to a $40 billion financing lease with an Apollo-managed firm for Nvidia's next-",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-spacex-agrees-to-a-40-billion-financing-lease-with-an-apollo-managed-firm-for-nvidias-next-generation-ai-chips-with-equipment-due-in-2027-as-the-company-expands-its-computing-business/articleshow/135216997.cms",
+   "title": "Anthropic Board Member Reed Hastings Says \"Creative Destruction\" Is The Main AI Risk",
+   "outlet": "Deadline",
+   "outlet_name": "Deadline",
+   "url": "https://deadline.com/2026/10/anthropic-ipo-reed-hastings-ai-creative-destruction-1237197156/",
    "label": "CONFIRMED",
-   "summary_1line": "SpaceX lands $40B GPU lease for AI infrastructure, with deliveries in 2027.",
-   "published_at": "2026-10-26T17:45:00Z",
-   "url_id": "f70c700ced521e6dd99447b5de1c38f8"
+   "summary_1line": "Hastings warns AI threatens companies, not humanity; Anthropic reports 14x revenue growth and $1.5T–$2T IPO valuation.",
+   "published_at": "2026-10-26T21:08:00Z",
+   "url_id": "5499466115340aedfe176d52054c5ad6"
   },
   {
-   "title": "6 key takeaways from Anthropic’s IPO filing",
-   "outlet": "NBC News",
-   "outlet_name": "NBC News",
-   "url": "https://www.nbcnews.com/business/corporations/anthropics-ipo-filing-takeaways-rcna605686",
+   "title": "Elvis Presley Estate Files $41 Million Copyright Infringement Lawsuit Against AI Company Anthropic",
+   "outlet": "SSBCrack",
+   "outlet_name": "SSBCrack",
+   "url": "https://news.ssbcrack.com/elvis-presley-estate-files-41-million-copyright-infringement-lawsuit-against-ai-company-anthropic/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's IPO filing reveals $2.7M in CEO security services and growth risks.",
-   "published_at": "2026-10-26T19:32:03Z",
-   "url_id": "b7cd10fa421121320db3468ac494839f"
+   "summary_1line": "Elvis rights sue Anthropic over AI training using 274 songs.",
+   "published_at": "2026-10-26T12:09:53Z",
+   "url_id": "a7463f798bc4d1b1fd792bc44a3e168b"
   }
  ],
  "ticker": [
   {
-   "headline": "US FTC Escalates AI Safety Investigation, Demands Testimony From Anthropic Executives",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
-   "label": "STILL OPEN",
-   "url": "https://stocktwits.com/news-articles/markets/equity/us-ftc-escalates-ai-safety-investigation-demands-testimony-from-anthropic-executives/cZU3XRzRBz4",
-   "url_id": "054e9c3fd07e4274aacc3e9500e45fcb"
-  },
-  {
-   "headline": "Anthropic sued over alleged use of 274 Elvis Presley songs to train AI models",
-   "outlet": "The Express Tribune",
-   "outlet_name": "The Express Tribune",
+   "headline": "Anthropic's IPO puts power in the hands of founders, giving everyday shareholders little…",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://tribune.com.pk/story/2637010/anthropic-sued-over-alleged-use-of-274-elvis-presley-songs-to-train-ai-models",
-   "url_id": "832119c8c4185982f134317bcba15059"
+   "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-founder-voting-control.html",
+   "url_id": "3850f9e43f36230fd85f4cd315f33866"
   },
   {
-   "headline": "As AI Raises New Data Security Questions, Synology to Showcase Its Surveillance Ecosystem…",
-   "outlet": "The Joplin Globe",
-   "outlet_name": "The Joplin Globe",
+   "headline": "GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
    "label": "CONFIRMED",
-   "url": "https://www.joplinglobe.com/region/national_business/as-ai-raises-new-data-security-questions-synology-to-showcase-its-surveillance-ecosystem-at-isc/article_fbdc62f6-f2f4-57f8-94e5-5b4135e53a1e.html",
-   "url_id": "90b25df22e1c2207b0005388eceb7125"
+   "url": "https://the-decoder.com/gpt-6-1-terra-halves-openais-api-prices-and-still-gains-ground-on-its-larger-models/",
+   "url_id": "d37542ef1893d66664f85a2aead73bfa"
   },
   {
-   "headline": "Elon Musk's SpaceX agrees to a $40 billion financing lease with an Apollo-managed firm…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "Anthropic is burning gas to feed the AI boom",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/elon-musks-spacex-agrees-to-a-40-billion-financing-lease-with-an-apollo-managed-firm-for-nvidias-next-generation-ai-chips-with-equipment-due-in-2027-as-the-company-expands-its-computing-business/articleshow/135216997.cms",
-   "url_id": "f70c700ced521e6dd99447b5de1c38f8"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+   "url_id": "bcbaf4634e1a8a36b6de8da9b19c96ac"
   },
   {
-   "headline": "6 key takeaways from Anthropic’s IPO filing",
-   "outlet": "NBC News",
-   "outlet_name": "NBC News",
+   "headline": "Anthropic Board Member Reed Hastings Says \"Creative Destruction\" Is The Main AI Risk",
+   "outlet": "Deadline",
+   "outlet_name": "Deadline",
    "label": "CONFIRMED",
-   "url": "https://www.nbcnews.com/business/corporations/anthropics-ipo-filing-takeaways-rcna605686",
-   "url_id": "b7cd10fa421121320db3468ac494839f"
+   "url": "https://deadline.com/2026/10/anthropic-ipo-reed-hastings-ai-creative-destruction-1237197156/",
+   "url_id": "5499466115340aedfe176d52054c5ad6"
   },
   {
-   "headline": "Alibaba AI model secretly tried to reach Beijing server in test, rival Cohere says",
-   "outlet": "The Mighty 790 KFGO",
-   "outlet_name": "The Mighty 790 KFGO",
+   "headline": "Elvis Presley Estate Files $41 Million Copyright Infringement Lawsuit Against AI Company…",
+   "outlet": "SSBCrack",
+   "outlet_name": "SSBCrack",
    "label": "CONFIRMED",
-   "url": "https://kfgo.com/2026/10/26/alibaba-ai-model-secretly-tried-to-reach-beijing-server-in-test-rival-cohere-says/",
-   "url_id": "cd36023b074e53bfd46eaf0b163ffdd4"
+   "url": "https://news.ssbcrack.com/elvis-presley-estate-files-41-million-copyright-infringement-lawsuit-against-ai-company-anthropic/",
+   "url_id": "a7463f798bc4d1b1fd792bc44a3e168b"
   },
   {
-   "headline": "Anthropic’s Massive Revenue Surge Comes With Ballooning Computing Bill",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/graphics/2026-anthropic-ipo/",
-   "url_id": "9c24d1739928c20d5ccf9b55bdf13b8a"
-  },
-  {
-   "headline": "Cadence Maestro Brings NVIDIA AI Models to Chip Design",
-   "outlet": "Analytics Insight",
-   "outlet_name": "Analytics Insight",
+   "headline": "Grok Says Its AI-Generated Version of ‘The Odyssey’ Is ‘Not Historically Accurate’",
+   "outlet": "WIRED",
+   "outlet_name": "WIRED",
    "label": "CONFIRMED",
-   "url": "https://www.analyticsinsight.net/news/cadence-maestro-brings-nvidia-ai-models-to-chip-design",
-   "url_id": "a1f1e07ed6b528fadb9215d8abee75b6"
+   "url": "https://www.wired.com/story/grok-says-its-ai-generated-version-of-the-odyssey-is-not-historically-accurate/",
+   "url_id": "fe4f70d71813e647c61fdd44fd4f4676"
+  },
+  {
+   "headline": "Elvis Presley rightsholders claim Anthropic copied “iconic” collection",
+   "outlet": "World IP Review",
+   "outlet_name": "World IP Review",
+   "label": "CONFIRMED",
+   "url": "https://www.worldipreview.com/artificial-intelligence/elvis-presley-rightsholders-claim-anthropic-copied-iconic-collection",
+   "url_id": "35b1ad1c0d19c6f1d2e133c81b82909a"
+  },
+  {
+   "headline": "Cadence unveils 'Maestro' AI models for chip design using Nvidia Nemotron",
+   "outlet": "DigitalToday",
+   "outlet_name": "DigitalToday",
+   "label": "CONFIRMED",
+   "url": "https://www.digitaltoday.co.kr/en/view/119641/cadence-unveils-maestro-ai-models-for-chip-design-using-nvidia-nemotron",
+   "url_id": "f05b00c029389c3c2f1128336ec5ee81"
+  },
+  {
+   "headline": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
+   "outlet": "therecord.media",
+   "outlet_name": "therecord.media",
+   "label": "CONFIRMED",
+   "url": "https://therecord.media/texas-sues-openai-deceiving-customers",
+   "url_id": "79b64415c6df2d59808fa708e40c9b6d"
   },
   {
    "headline": "Anthropic files to go public, and it could be the biggest IPO ever",
@@ -138,30 +146,22 @@
    "url_id": "8ed28fa0cceca5322367e0afc09bb99c"
   },
   {
-   "headline": "Apple Says Siri AI Will Support Even More Languages Later This Year",
-   "outlet": "macrumors.com",
-   "outlet_name": "macrumors.com",
-   "label": "CONFIRMED",
-   "url": "https://www.macrumors.com/2026/10/26/siri-ai-even-more-languages-later-this-year/",
-   "url_id": "0e2ff3939de40684738f4eb1adf0e422"
-  },
-  {
-   "headline": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
-   "outlet": "therecord.media",
-   "outlet_name": "therecord.media",
+   "headline": "Anthropic must pay Alphabet, Nvidia, Microsoft and Amazon whether or not it uses their…",
+   "outlet": "qz.com",
+   "outlet_name": "qz.com",
    "label": "REPORTED",
-   "url": "https://therecord.media/texas-sues-openai-deceiving-customers",
-   "url_id": "79b64415c6df2d59808fa708e40c9b6d"
+   "url": "https://qz.com/anthropic-ipo-tech-giants-gain",
+   "url_id": "e841c0bb3131cccfaeb249adfb9c9dcc"
   }
  ],
  "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
- "articles_24h_rounded": 16200,
- "articles_24h_label": "about 16,000",
+ "articles_24h_rounded": 16600,
+ "articles_24h_label": "about 17,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/26/23.mp3",
- "audio_seconds": 66.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/00.mp3",
+ "audio_seconds": 51.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nThe FTC is escalating its artificial intelligence safety investigation and demanding testimony from Anthropic executives, still open per Stocktwits, amid growing regulatory scrutiny of AI firms.\nAnthropic is being sued over the alleged use of 274 Elvis Presley songs to train artificial intelligence models without permission, confirmed by The Express Tribune.\nSynology will showcase its artificial intelligence-powered surveillance ecosystem at ISC East 2026, confirmed by The Joplin Globe, as artificial intelligence raises new data security questions.\nSpaceX has agreed to a 40 billion dollar financing lease with an Apollo-managed firm for Nvidia's next-generation equipment, confirmed by The Times of India, with deliveries expected in 2027.\nAnthropic's IPO filing reveals growth risks and details on CEO security services, confirmed by NBC News in a look at 6 key takeaways from the filing.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Anthropic's IPO puts power in the hands of founders, giving everyday shareholders little voice.\nConfirmed, per The Decoder: GPT-6.1 Terra halves OpenAI's API prices and still gains ground on its larger models.\nConfirmed, per The Verge: Anthropic is burning gas to feed the AI boom.\nConfirmed, per Deadline: Anthropic Board Member Reed Hastings Says \"Creative Destruction\" Is The Main AI Risk.\nConfirmed, per SSBCrack: Elvis Presley Estate Files $41 Million Copyright Infringement Lawsuit Against AI Company Anthropic.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
