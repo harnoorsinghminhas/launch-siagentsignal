@@ -1,101 +1,93 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T08:20:16Z",
- "hour": "2026-10-27T09:00:00Z",
+ "generated_at": "2026-10-27T09:20:03Z",
+ "hour": "2026-10-27T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic says its AI technology ‘could pose catastrophic or existential risk to humanity’",
-   "outlet": "The Irish Times",
-   "outlet_name": "The Irish Times",
-   "url": "https://www.irishtimes.com/technology/big-tech/2026/10/27/anthropic-says-its-ai-technology-could-pose-catastrophic-or-existential-risk-to-humanity/",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic files for IPO, warning of existential AI risks in 90-page prospectus.",
-   "published_at": "2026-10-27T07:49:17Z",
-   "url_id": "382f58bb005dce91ec6bfd87a7bdad10"
-  },
-  {
-   "title": "Elvis Presley Song Rights Holders File $41 Million Copyright Lawsuit Against Anthropic",
-   "outlet": "Decatur Radio",
-   "outlet_name": "Decatur Radio",
-   "url": "https://www.decaturradio.com/2026/10/27/elvis-presley-song-rights-holders-file-41-million-copyright-lawsuit-against-anthropic/",
-   "label": "REPORTED",
-   "summary_1line": "Elvis music rights sue Anthropic over 274 songs used in Claude training.",
-   "published_at": "2026-10-27T06:52:31Z",
-   "url_id": "e183c2a64c6fb777a5dd333e1709d0c3"
-  },
-  {
-   "title": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
+   "title": "OpenAI introduces GPT 6.1 Terra AI model, says it excels at communication and computer-based tasks",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
+   "url": "https://www.digit.in/news/general/openai-introduces-gpt-61-terra-ai-model-says-it-excels-at-communication-and-computer-based-tasks.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's IPO could be the largest in history as AI market cap surges to trillions.",
-   "published_at": "2026-10-26T22:50:07Z",
-   "url_id": "f9800f8a15a8cc488a0cdaf53ce43df0"
+   "summary_1line": "OpenAI's GPT-6.1 Terra improves on GPT-5.6 Terra with faster tasks, lower cost, and better accuracy.",
+   "published_at": "2026-10-27T04:44:00Z",
+   "url_id": "1dc9427566ff4818ea271c4675e2d2cc"
   },
   {
-   "title": "Protectt.ai takes majority stake in AIShield to expand AI security business",
-   "outlet": "Fortune India",
-   "outlet_name": "Fortune India",
-   "url": "https://www.fortuneindia.com/technology/protecttai-takes-majority-stake-in-aishield-to-expand-ai-security-business/166876",
-   "label": "CONFIRMED",
-   "summary_1line": "Protectt.ai buys AIShield to build sovereign AI security for enterprises in BFSI and beyond.",
-   "published_at": "2026-10-26T23:51:00Z",
-   "url_id": "d0f73927121d1468983e5b14adc80be2"
-  },
-  {
-   "title": "Agile Robots Launches Agile ONE SN Humanoid at NVIDIA GTC Berlin and Pilots Humanoids with Audi",
-   "outlet": "Yahoo Finance UK",
-   "outlet_name": "Yahoo Finance UK",
-   "url": "https://uk.finance.yahoo.com/news/agile-robots-launches-agile-one-062200731.html",
+   "title": "Elvis Presley's music rights holders sue Anthropic for $48.6M over AI training",
+   "outlet": "Türkiye Today",
+   "outlet_name": "Türkiye Today",
+   "url": "https://www.turkiyetoday.com/culture/elvis-presleys-music-rights-holders-sue-anthropic-for-486m-over-ai-training-3231088",
    "label": "REPORTED",
-   "summary_1line": "Agile Robots and NVIDIA launch humanoid Agile ONE SN with new arms and Audi logistics pilot.",
-   "published_at": "2026-10-27T06:22:00Z",
-   "url_id": "d705d0ffab8545574896267aa602371f"
+   "summary_1line": "Publishers sue Anthropic over use of Elvis Presley songs in AI training.",
+   "published_at": "2026-10-27T05:57:05Z",
+   "url_id": "00b6507b0e3c78d9304b30ac4ce3af31"
+  },
+  {
+   "title": "KT unveils Token Factory with automatic AI model selection and unified billing",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "url": "https://www.digitaltoday.co.kr/en/view/120112/kt-unveils-token-factory-ai-platform-for-automatic-model-selection-and-unified-billing",
+   "label": "CONFIRMED",
+   "summary_1line": "KT launches Token Factory with 73 AI models, cutting costs by up to 25%.",
+   "published_at": "2026-10-27T05:59:50Z",
+   "url_id": "2ea284b162cbe0c6acdc11825956a225"
+  },
+  {
+   "title": "Business News | Meet the Young AI Entrepreneur Making an Impact: Adhiraj Chauhan",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "url": "https://www.latestly.com/agency-news/business-news-meet-the-young-ai-entrepreneur-making-an-impact-adhiraj-chauhan-7658068.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Student Adhiraj Chauhan builds AI apps for mental health and water quality, winning awards and securing government funding.",
+   "published_at": "2026-10-27T05:44:24Z",
+   "url_id": "d417973e2b49aba4fed644be1fa8c5ee"
+  },
+  {
+   "title": "SWI Group launches SWI Compute for NVIDIA AI factories",
+   "outlet": "ET Datacenters",
+   "outlet_name": "ET Datacenters",
+   "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/swi-group-launches-swi-compute-for-nvidia-ai-factories/135222771",
+   "label": "REPORTED",
+   "summary_1line": "SWI Group launches SWI Compute with $1B NVIDIA order and UK AI factory starting 2027.",
+   "published_at": "2026-10-27T05:58:06Z",
+   "url_id": "f924b401eb3776e57e5343ce57735357"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic says its AI technology ‘could pose catastrophic or existential risk to humanity’",
-   "outlet": "The Irish Times",
-   "outlet_name": "The Irish Times",
-   "label": "STILL OPEN",
-   "url": "https://www.irishtimes.com/technology/big-tech/2026/10/27/anthropic-says-its-ai-technology-could-pose-catastrophic-or-existential-risk-to-humanity/",
-   "url_id": "382f58bb005dce91ec6bfd87a7bdad10"
-  },
-  {
-   "headline": "Elvis Presley Song Rights Holders File $41 Million Copyright Lawsuit Against Anthropic",
-   "outlet": "Decatur Radio",
-   "outlet_name": "Decatur Radio",
-   "label": "REPORTED",
-   "url": "https://www.decaturradio.com/2026/10/27/elvis-presley-song-rights-holders-file-41-million-copyright-lawsuit-against-anthropic/",
-   "url_id": "e183c2a64c6fb777a5dd333e1709d0c3"
-  },
-  {
-   "headline": "From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "OpenAI introduces GPT 6.1 Terra AI model, says it excels at communication and…",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/26/anthropic-ipo-might-trigger-tech-reset-if-ipo-underperforms.html",
-   "url_id": "f9800f8a15a8cc488a0cdaf53ce43df0"
+   "url": "https://www.digit.in/news/general/openai-introduces-gpt-61-terra-ai-model-says-it-excels-at-communication-and-computer-based-tasks.html",
+   "url_id": "1dc9427566ff4818ea271c4675e2d2cc"
   },
   {
-   "headline": "Protectt.ai takes majority stake in AIShield to expand AI security business",
-   "outlet": "Fortune India",
-   "outlet_name": "Fortune India",
-   "label": "CONFIRMED",
-   "url": "https://www.fortuneindia.com/technology/protecttai-takes-majority-stake-in-aishield-to-expand-ai-security-business/166876",
-   "url_id": "d0f73927121d1468983e5b14adc80be2"
-  },
-  {
-   "headline": "Agile Robots Launches Agile ONE SN Humanoid at NVIDIA GTC Berlin and Pilots Humanoids…",
-   "outlet": "Yahoo Finance UK",
-   "outlet_name": "Yahoo Finance UK",
+   "headline": "Elvis Presley's music rights holders sue Anthropic for $48.6M over AI training",
+   "outlet": "Türkiye Today",
+   "outlet_name": "Türkiye Today",
    "label": "REPORTED",
-   "url": "https://uk.finance.yahoo.com/news/agile-robots-launches-agile-one-062200731.html",
-   "url_id": "d705d0ffab8545574896267aa602371f"
+   "url": "https://www.turkiyetoday.com/culture/elvis-presleys-music-rights-holders-sue-anthropic-for-486m-over-ai-training-3231088",
+   "url_id": "00b6507b0e3c78d9304b30ac4ce3af31"
+  },
+  {
+   "headline": "KT unveils Token Factory with automatic AI model selection and unified billing",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "label": "CONFIRMED",
+   "url": "https://www.digitaltoday.co.kr/en/view/120112/kt-unveils-token-factory-ai-platform-for-automatic-model-selection-and-unified-billing",
+   "url_id": "2ea284b162cbe0c6acdc11825956a225"
+  },
+  {
+   "headline": "Business News | Meet the Young AI Entrepreneur Making an Impact: Adhiraj Chauhan",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "label": "CONFIRMED",
+   "url": "https://www.latestly.com/agency-news/business-news-meet-the-young-ai-entrepreneur-making-an-impact-adhiraj-chauhan-7658068.html",
+   "url_id": "d417973e2b49aba4fed644be1fa8c5ee"
   },
   {
    "headline": "SWI Group launches SWI Compute for NVIDIA AI factories",
@@ -107,11 +99,19 @@
   },
   {
    "headline": "Anthropic’s S-1, by the numbers: A thriving business—with a $441 billion asterisk",
-   "outlet": "fortune.com",
+   "outlet": "Fortune",
    "outlet_name": "Fortune",
    "label": "CONFIRMED",
    "url": "https://fortune.com/2026/10/27/anthropic-s1-ipo-filing-financials-profits/",
-   "url_id": "ab8d4eb2ecdeca9988485c50f3e81d8c"
+   "url_id": "ddba9d42f1d46bb22f051da79c648a67"
+  },
+  {
+   "headline": "Injective Opens 10x Leverage Perpetuals on Nvidia GPU Rental Costs",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "CONFIRMED",
+   "url": "https://finance.biggo.com/news/a3cde71f-20b1-4376-a43f-b04c219f1f90",
+   "url_id": "a28552e9db6deebbf72d449c52c0cc65"
   },
   {
    "headline": "Nvidia Announces $3 Billion Investment in Meta Share Issuance",
@@ -122,12 +122,12 @@
    "url_id": "35ec1611ddcc1da9305ed2e98d8b10b5"
   },
   {
-   "headline": "OpenAI introduces GPT 6.1 Terra AI model, says it excels at communication and…",
-   "outlet": "Digit on MSN",
-   "outlet_name": "Digit on MSN",
+   "headline": "CoreWeave Builds the First Global Backbone Network Purpose-Built for AI",
+   "outlet": "wf.coreweave.com",
+   "outlet_name": "wf.coreweave.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/news/other/openai-introduces-gpt-61-terra-ai-model-says-it-excels-at-communication-and-computer-based-tasks/ar-AA2g8me9",
-   "url_id": "5a6848fb0f97842ee1c9294bb10918cc"
+   "url": "https://wf.coreweave.com/blog/coreweave-builds-the-first-global-backbone-network-purpose-built-for-ai",
+   "url_id": "5a9e5f040f9c115ccf6c1e27074f1575"
   },
   {
    "headline": "Anthropic IPO filing exposes massive compute buildout spanning TPUs, GPUs, and dedicated…",
@@ -146,22 +146,22 @@
    "url_id": "dce4d2f1cd05cdd887ed2af19a7c1eb3"
   },
   {
-   "headline": "IIT - Kharagpur Establishes India First Physical AI School",
-   "outlet": "rediff.com",
-   "outlet_name": "rediff.com",
+   "headline": "15 college students share their favorite Gemini features",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
    "label": "CONFIRMED",
-   "url": "https://www.rediff.com/news/report/iit-kharagpur-to-set-up-indias-first-physical-ai-school/20261027.htm",
-   "url_id": "b213b993739a231bbdafc2280b365ce0"
+   "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
+   "url_id": "21b2e051bb312e28fcf2dd9a27f2adac"
   }
  ],
  "tidbit": "Did you know… about 16,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 16000,
+ "articles_24h_rounded": 15800,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/09.mp3",
- "audio_seconds": 54.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/10.mp3",
+ "audio_seconds": 62.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per The Irish Times: Anthropic says its AI technology ‘could pose catastrophic or existential risk to humanity’.\nReported by Decatur Radio: Elvis Presley Song Rights Holders File $41 Million Copyright Lawsuit Against Anthropic.\nConfirmed, per CNBC: From Wall Street to Silicon Valley, Anthropic IPO poised to have massive 'trickle-down effect'.\nConfirmed, per Fortune India: Protectt.ai takes majority stake in AIShield to expand AI security business.\nReported by Yahoo Finance UK: Agile Robots Launches Agile ONE SN Humanoid at NVIDIA GTC Berlin and Pilots Humanoids with Audi.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI introduced GPT 6.1 Terra, a new model that improves on GPT-5.6 Terra with faster tasks, lower cost, and better accuracy, confirmed by Digit.\nPublishers are suing Anthropic for $48.6M, reported by Türkiye Today, over the use of Elvis Presley songs in artificial intelligence training.\nKT unveiled Token Factory with 73 artificial intelligence models and unified billing, cutting costs by up to 25%, confirmed by 디지털투데이.\nStudent Adhiraj Chauhan builds artificial intelligence apps for mental health and water quality, winning awards and securing government funding, confirmed by LatestLY.\nSWI Group launched SWI Compute with a $1B NVIDIA order and a UK artificial intelligence factory starting in 2027, reported by ET Datacenters.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
