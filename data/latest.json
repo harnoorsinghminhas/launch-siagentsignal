@@ -1,101 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T09:20:03Z",
- "hour": "2026-10-27T10:00:00Z",
+ "generated_at": "2026-10-27T10:20:41Z",
+ "hour": "2026-10-27T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI introduces GPT 6.1 Terra AI model, says it excels at communication and computer-based tasks",
-   "outlet": "Digit",
-   "outlet_name": "Digit",
-   "url": "https://www.digit.in/news/general/openai-introduces-gpt-61-terra-ai-model-says-it-excels-at-communication-and-computer-based-tasks.html",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI's GPT-6.1 Terra improves on GPT-5.6 Terra with faster tasks, lower cost, and better accuracy.",
-   "published_at": "2026-10-27T04:44:00Z",
-   "url_id": "1dc9427566ff4818ea271c4675e2d2cc"
-  },
-  {
-   "title": "Elvis Presley's music rights holders sue Anthropic for $48.6M over AI training",
-   "outlet": "Türkiye Today",
-   "outlet_name": "Türkiye Today",
-   "url": "https://www.turkiyetoday.com/culture/elvis-presleys-music-rights-holders-sue-anthropic-for-486m-over-ai-training-3231088",
+   "title": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
    "label": "REPORTED",
-   "summary_1line": "Publishers sue Anthropic over use of Elvis Presley songs in AI training.",
-   "published_at": "2026-10-27T05:57:05Z",
-   "url_id": "00b6507b0e3c78d9304b30ac4ce3af31"
+   "summary_1line": null,
+   "published_at": "2026-10-27T09:07:41Z",
+   "url_id": "66e503e7499e9e1b1331e4c442369be1"
   },
   {
-   "title": "KT unveils Token Factory with automatic AI model selection and unified billing",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/120112/kt-unveils-token-factory-ai-platform-for-automatic-model-selection-and-unified-billing",
+   "title": "OpenAI Adds Election AI Deepfake Defenses, Protections to Prevent Fraudulent Activity",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "url": "https://www.techtimes.com/articles/329534/20261027/openai-adds-election-ai-deepfake-defenses-protections-prevent-fraudulent-activity.htm",
    "label": "CONFIRMED",
-   "summary_1line": "KT launches Token Factory with 73 AI models, cutting costs by up to 25%.",
-   "published_at": "2026-10-27T05:59:50Z",
-   "url_id": "2ea284b162cbe0c6acdc11825956a225"
+   "summary_1line": "OpenAI boosts election security with deepfake detection, real-time vote data, and public verification tools.",
+   "published_at": "2026-10-27T00:31:00Z",
+   "url_id": "eea0e455b064fccdac45ca80666f0ec5"
   },
   {
-   "title": "Business News | Meet the Young AI Entrepreneur Making an Impact: Adhiraj Chauhan",
-   "outlet": "LatestLY",
-   "outlet_name": "LatestLY",
-   "url": "https://www.latestly.com/agency-news/business-news-meet-the-young-ai-entrepreneur-making-an-impact-adhiraj-chauhan-7658068.html",
+   "title": "OpenAI Announces New Discoveries In Mathematics, Computer Science And Physics",
+   "outlet": "Engadget",
+   "outlet_name": "Engadget",
+   "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
    "label": "CONFIRMED",
-   "summary_1line": "Student Adhiraj Chauhan builds AI apps for mental health and water quality, winning awards and securing government funding.",
-   "published_at": "2026-10-27T05:44:24Z",
-   "url_id": "d417973e2b49aba4fed644be1fa8c5ee"
+   "summary_1line": "OpenAI shares math, CS, and physics discoveries with new release strategies and no academic credit.",
+   "published_at": "2026-10-27T08:18:16Z",
+   "url_id": "e8b94b3074b0b77899a1e8e81684c307"
   },
   {
-   "title": "SWI Group launches SWI Compute for NVIDIA AI factories",
-   "outlet": "ET Datacenters",
-   "outlet_name": "ET Datacenters",
-   "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/swi-group-launches-swi-compute-for-nvidia-ai-factories/135222771",
+   "title": "Naver, Brookfield and Nvidia launch $9B AI factory plan in South Korea",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "url": "https://biz.chosun.com/en/en-it/2026/10/27/GRRSGZ7TAFCRRNC65VSNTGGD3M/",
    "label": "REPORTED",
-   "summary_1line": "SWI Group launches SWI Compute with $1B NVIDIA order and UK AI factory starting 2027.",
-   "published_at": "2026-10-27T05:58:06Z",
-   "url_id": "f924b401eb3776e57e5343ce57735357"
+   "summary_1line": "Naver, Brookfield, and NVIDIA launch AI factory with $9B investment, targeting 55MW in 2027 and 200MW by 2028.",
+   "published_at": "2026-10-27T07:47:00Z",
+   "url_id": "c1e15ae5ab69029ff74bfdaf985a62ac"
+  },
+  {
+   "title": "Defence Ministry arm, Sarvam sign pact for tri-service AI projects",
+   "outlet": "Telangana Today",
+   "outlet_name": "Telangana Today",
+   "url": "https://telanganatoday.com/defence-ministry-arm-sarvam-sign-pact-for-tri-service-ai-projects",
+   "label": "CONFIRMED",
+   "summary_1line": "Sarvam and India's defence body launch tri-service AI pact for defence applications.",
+   "published_at": "2026-10-27T06:02:30Z",
+   "url_id": "a01b1edbb7e2e88cb52ea7e412cd8c16"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI introduces GPT 6.1 Terra AI model, says it excels at communication and…",
-   "outlet": "Digit",
-   "outlet_name": "Digit",
-   "label": "CONFIRMED",
-   "url": "https://www.digit.in/news/general/openai-introduces-gpt-61-terra-ai-model-says-it-excels-at-communication-and-computer-based-tasks.html",
-   "url_id": "1dc9427566ff4818ea271c4675e2d2cc"
-  },
-  {
-   "headline": "Elvis Presley's music rights holders sue Anthropic for $48.6M over AI training",
-   "outlet": "Türkiye Today",
-   "outlet_name": "Türkiye Today",
+   "headline": "Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
    "label": "REPORTED",
-   "url": "https://www.turkiyetoday.com/culture/elvis-presleys-music-rights-holders-sue-anthropic-for-486m-over-ai-training-3231088",
-   "url_id": "00b6507b0e3c78d9304b30ac4ce3af31"
+   "url": "https://www.cnbc.com/2026/10/27/nvidia-invest-meta.html",
+   "url_id": "66e503e7499e9e1b1331e4c442369be1"
   },
   {
-   "headline": "KT unveils Token Factory with automatic AI model selection and unified billing",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
+   "headline": "OpenAI Adds Election AI Deepfake Defenses, Protections to Prevent Fraudulent Activity",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
    "label": "CONFIRMED",
-   "url": "https://www.digitaltoday.co.kr/en/view/120112/kt-unveils-token-factory-ai-platform-for-automatic-model-selection-and-unified-billing",
-   "url_id": "2ea284b162cbe0c6acdc11825956a225"
+   "url": "https://www.techtimes.com/articles/329534/20261027/openai-adds-election-ai-deepfake-defenses-protections-prevent-fraudulent-activity.htm",
+   "url_id": "eea0e455b064fccdac45ca80666f0ec5"
   },
   {
-   "headline": "Business News | Meet the Young AI Entrepreneur Making an Impact: Adhiraj Chauhan",
-   "outlet": "LatestLY",
-   "outlet_name": "LatestLY",
+   "headline": "OpenAI Announces New Discoveries In Mathematics, Computer Science And Physics",
+   "outlet": "Engadget",
+   "outlet_name": "Engadget",
    "label": "CONFIRMED",
-   "url": "https://www.latestly.com/agency-news/business-news-meet-the-young-ai-entrepreneur-making-an-impact-adhiraj-chauhan-7658068.html",
-   "url_id": "d417973e2b49aba4fed644be1fa8c5ee"
+   "url": "https://www.engadget.com/2297941/openai-new-discoveries-mathematics-computer-science-physics/",
+   "url_id": "e8b94b3074b0b77899a1e8e81684c307"
   },
   {
-   "headline": "SWI Group launches SWI Compute for NVIDIA AI factories",
-   "outlet": "ET Datacenters",
-   "outlet_name": "ET Datacenters",
+   "headline": "Naver, Brookfield and Nvidia launch $9B AI factory plan in South Korea",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
    "label": "REPORTED",
-   "url": "https://datacenters.economictimes.indiatimes.com/news/ai-compute-infrastructure/swi-group-launches-swi-compute-for-nvidia-ai-factories/135222771",
-   "url_id": "f924b401eb3776e57e5343ce57735357"
+   "url": "https://biz.chosun.com/en/en-it/2026/10/27/GRRSGZ7TAFCRRNC65VSNTGGD3M/",
+   "url_id": "c1e15ae5ab69029ff74bfdaf985a62ac"
+  },
+  {
+   "headline": "Defence Ministry arm, Sarvam sign pact for tri-service AI projects",
+   "outlet": "Telangana Today",
+   "outlet_name": "Telangana Today",
+   "label": "CONFIRMED",
+   "url": "https://telanganatoday.com/defence-ministry-arm-sarvam-sign-pact-for-tri-service-ai-projects",
+   "url_id": "a01b1edbb7e2e88cb52ea7e412cd8c16"
+  },
+  {
+   "headline": "Our Claude is an awesome Claude",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
+   "label": "CONFIRMED",
+   "url": "https://www.businessinsider.com/anthropic-ipo-s1-cult-claude-religion-language-2026-10",
+   "url_id": "468e7fc90ae5dc350ad842cbf9598208"
+  },
+  {
+   "headline": "Anthropic IPO leads AI's $235 billion dealmaking blitz",
+   "outlet": "Axios",
+   "outlet_name": "Axios",
+   "label": "REPORTED",
+   "url": "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals",
+   "url_id": "6fe9ace81e0edbc7914731d019da4ed8"
   },
   {
    "headline": "Anthropic’s S-1, by the numbers: A thriving business—with a $441 billion asterisk",
@@ -106,20 +122,20 @@
    "url_id": "ddba9d42f1d46bb22f051da79c648a67"
   },
   {
-   "headline": "Injective Opens 10x Leverage Perpetuals on Nvidia GPU Rental Costs",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "😺 OpenAI's big day brought a disproof and Terra",
+   "outlet": "theneurondaily.com",
+   "outlet_name": "theneurondaily.com",
    "label": "CONFIRMED",
-   "url": "https://finance.biggo.com/news/a3cde71f-20b1-4376-a43f-b04c219f1f90",
-   "url_id": "a28552e9db6deebbf72d449c52c0cc65"
+   "url": "https://www.theneurondaily.com/p/openai-s-big-day-brought-a-disproof-and-terra",
+   "url_id": "9e5a4f2e401c6ffcc8a97cb3435cdfb3"
   },
   {
-   "headline": "Nvidia Announces $3 Billion Investment in Meta Share Issuance",
-   "outlet": "www.tokenpost.com",
-   "outlet_name": "www.tokenpost.com",
+   "headline": "Anthropic files for IPO ahead of expected Thanksgiving debut",
+   "outlet": "techmonitor.ai",
+   "outlet_name": "techmonitor.ai",
    "label": "REPORTED",
-   "url": "https://www.tokenpost.com/news/business/41568",
-   "url_id": "35ec1611ddcc1da9305ed2e98d8b10b5"
+   "url": "https://www.techmonitor.ai/news/anthropic-files-for-ipo-ahead-of-expected-thanksgiving-debut",
+   "url_id": "dbccc50586d38f45b25f8e14e6cfe6d7"
   },
   {
    "headline": "CoreWeave Builds the First Global Backbone Network Purpose-Built for AI",
@@ -136,32 +152,16 @@
    "label": "REPORTED",
    "url": "https://www.digitimes.com/news/a20261027VL217/anthropic-ipo-data-infrastructure-capacity.html",
    "url_id": "dca3b9ea2ec39be9e5c2b24bcaa6698c"
-  },
-  {
-   "headline": "Broadcom, financial firms agree on US$63 billion funding for Anthropic chip purchases",
-   "outlet": "digitimes.com",
-   "outlet_name": "digitimes.com",
-   "label": "REPORTED",
-   "url": "https://www.digitimes.com/news/a20261027VL222/broadcom-anthropic-funding-financing-finance.html",
-   "url_id": "dce4d2f1cd05cdd887ed2af19a7c1eb3"
-  },
-  {
-   "headline": "15 college students share their favorite Gemini features",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://blog.google/products-and-platforms/products/gemini/college-student-favorite-features/",
-   "url_id": "21b2e051bb312e28fcf2dd9a27f2adac"
   }
  ],
- "tidbit": "Did you know… about 16,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 15800,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/10.mp3",
- "audio_seconds": 62.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/11.mp3",
+ "audio_seconds": 49.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI introduced GPT 6.1 Terra, a new model that improves on GPT-5.6 Terra with faster tasks, lower cost, and better accuracy, confirmed by Digit.\nPublishers are suing Anthropic for $48.6M, reported by Türkiye Today, over the use of Elvis Presley songs in artificial intelligence training.\nKT unveiled Token Factory with 73 artificial intelligence models and unified billing, cutting costs by up to 25%, confirmed by 디지털투데이.\nStudent Adhiraj Chauhan builds artificial intelligence apps for mental health and water quality, winning awards and securing government funding, confirmed by LatestLY.\nSWI Group launched SWI Compute with a $1B NVIDIA order and a UK artificial intelligence factory starting in 2027, reported by ET Datacenters.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by CNBC: Nvidia to invest $3 billion in Meta as tech giants deepen AI partnership.\nConfirmed, per Tech Times: OpenAI Adds Election AI Deepfake Defenses, Protections to Prevent Fraudulent Activity.\nConfirmed, per Engadget: OpenAI Announces New Discoveries In Mathematics, Computer Science And Physics.\nReported by Chosunbiz: Naver, Brookfield and Nvidia launch $9B AI factory plan in South Korea.\nConfirmed, per Telangana Today: Defence Ministry arm, Sarvam sign pact for tri-service AI projects.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
