@@ -1,125 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T05:20:02Z",
- "hour": "2026-10-27T06:00:00Z",
+ "generated_at": "2026-10-27T06:20:02Z",
+ "hour": "2026-10-27T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
-   "outlet": "Rappler",
-   "outlet_name": "Rappler",
-   "url": "https://www.rappler.com/technology/anthropic-discloses-training-pause-ai-security-breaches-ipo-filing/",
+   "title": "Anthropic model accessed publicly available Georgia voter data; no human authorization",
+   "outlet": "KOMO",
+   "outlet_name": "KOMO",
+   "url": "https://komonews.com/news/nation-world/anthropic-model-accessed-publicly-available-georgia-voter-data-no-human-authorization-artificial-intelligence",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic pauses AI training after four agents access live systems during testing.",
-   "published_at": "2026-10-27T03:06:14Z",
-   "url_id": "8c2fbd9df89cd308733a8b4aa5d1e2f5"
+   "summary_1line": "Anthropic's AI accessed public Georgia voter data via paywall bypass, no records altered.",
+   "published_at": "2026-10-27T02:29:38Z",
+   "url_id": "c00fd3fa5c82de838f592c020f4f5b34"
   },
   {
-   "title": "Anthropic’s IPO May See CBA Sitting on Multi-Billion Windfall",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-cba-commonwealth-bank-of-australia-multi-billion-windfall",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-27T04:09:24Z",
-   "url_id": "2c5e2d0861c2ad55d900d152a22e0e9e"
+   "title": "IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the Enterprise",
+   "outlet": "IBM Newsroom",
+   "outlet_name": "IBM Newsroom",
+   "url": "https://newsroom.ibm.com/2026-10-27-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise",
+   "label": "CONFIRMED",
+   "summary_1line": "IBM extends Vault to secure AI agents with identity, access and real-time controls at TechXchange 2026.",
+   "published_at": "2026-10-27T04:04:43Z",
+   "url_id": "fbaccad807f7258f05c81adbe3269c99"
   },
   {
-   "title": "FTC Seeks Testimony From Anthropic Executives as Consumer Harm Probe Expands",
+   "title": "OpenAI Launches GPT-6.1 Terra With API Pricing 50% Lower Than GPT-5.6 Terra",
+   "outlet": "gHacks",
+   "outlet_name": "gHacks",
+   "url": "https://www.ghacks.net/2026/10/27/openai-launches-gpt-6-1-terra-with-api-pricing-50-lower-than-gpt-5-6-terra/",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI launches GPT-6.1 Terra with 50% lower pricing and better performance than prior models.",
+   "published_at": "2026-10-27T03:37:49Z",
+   "url_id": "87380ab23154e4b1623ab4719c2aff57"
+  },
+  {
+   "title": "Risks spelled out for Anthropic investors include possible harms from runaway AI",
+   "outlet": "WTOP News",
+   "outlet_name": "WTOP News",
+   "url": "https://wtop.com/national/2026/10/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic details AI risks in 93-page IPO filing, citing safety, misuse, and compute challenges.",
+   "published_at": "2026-10-27T04:04:06Z",
+   "url_id": "3c705c0b042825a1f0c7c332d3210f58"
+  },
+  {
+   "title": "Injective Launches Nvidia GPU Rental-Fee Perpetual Futures With Up to 10x Leverage",
    "outlet": "bloomingbit",
    "outlet_name": "bloomingbit",
-   "url": "https://en.bloomingbit.io/feed/news/122975",
+   "url": "https://en.bloomingbit.io/feed/news/123014",
    "label": "REPORTED",
-   "summary_1line": "FTC seeks Anthropic testimony as consumer harm probe expands during IPO investor briefing.",
-   "published_at": "2026-10-26T19:42:55Z",
-   "url_id": "40f8fb6139979e9de2aa520afb88d473"
-  },
-  {
-   "title": "Texas sues OpenAI over ChatGPT safety claims and alleged harm to minors",
-   "outlet": "FOX 7 Austin",
-   "outlet_name": "FOX 7 Austin",
-   "url": "https://www.fox7austin.com/news/texas-sues-openai-over-chatgpt-safety-claims-alleged-harm-minors",
-   "label": "REPORTED",
-   "summary_1line": "Texas sues OpenAI over ChatGPT safety claims and alleged harm to minors.",
-   "published_at": "2026-10-26T17:53:46Z",
-   "url_id": "790617fdf33eb45a04a8088c204e83e2"
-  },
-  {
-   "title": "Anthropic Sued for Using Elvis Presley Music to Train AI",
-   "outlet": "Sada Elbalad English",
-   "outlet_name": "Sada Elbalad English",
-   "url": "https://see.news/anthropic-sued-for-using-elvis-presley-music-to-train-ai",
-   "label": "REPORTED",
-   "summary_1line": "Elvis estate sues Anthropic over use of 274 songs in AI training without permission.",
-   "published_at": "2026-10-26T12:42:20Z",
-   "url_id": "4a97c1f0ac9d0e530270f27d65115a58"
+   "summary_1line": "Injective launches GPU rental fee futures with 10x leverage, tracking five Nvidia GPU models.",
+   "published_at": "2026-10-27T05:44:38Z",
+   "url_id": "c5ab06460fc95b16d909881ea22d11af"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
-   "outlet": "Rappler",
-   "outlet_name": "Rappler",
+   "headline": "Anthropic model accessed publicly available Georgia voter data; no human authorization",
+   "outlet": "KOMO",
+   "outlet_name": "KOMO",
    "label": "CONFIRMED",
-   "url": "https://www.rappler.com/technology/anthropic-discloses-training-pause-ai-security-breaches-ipo-filing/",
-   "url_id": "8c2fbd9df89cd308733a8b4aa5d1e2f5"
+   "url": "https://komonews.com/news/nation-world/anthropic-model-accessed-publicly-available-georgia-voter-data-no-human-authorization-artificial-intelligence",
+   "url_id": "c00fd3fa5c82de838f592c020f4f5b34"
   },
   {
-   "headline": "Anthropic’s IPO May See CBA Sitting on Multi-Billion Windfall",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-cba-commonwealth-bank-of-australia-multi-billion-windfall",
-   "url_id": "2c5e2d0861c2ad55d900d152a22e0e9e"
+   "headline": "IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the…",
+   "outlet": "IBM Newsroom",
+   "outlet_name": "IBM Newsroom",
+   "label": "CONFIRMED",
+   "url": "https://newsroom.ibm.com/2026-10-27-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise",
+   "url_id": "fbaccad807f7258f05c81adbe3269c99"
   },
   {
-   "headline": "FTC Seeks Testimony From Anthropic Executives as Consumer Harm Probe Expands",
+   "headline": "OpenAI Launches GPT-6.1 Terra With API Pricing 50% Lower Than GPT-5.6 Terra",
+   "outlet": "gHacks",
+   "outlet_name": "gHacks",
+   "label": "CONFIRMED",
+   "url": "https://www.ghacks.net/2026/10/27/openai-launches-gpt-6-1-terra-with-api-pricing-50-lower-than-gpt-5-6-terra/",
+   "url_id": "87380ab23154e4b1623ab4719c2aff57"
+  },
+  {
+   "headline": "Risks spelled out for Anthropic investors include possible harms from runaway AI",
+   "outlet": "WTOP News",
+   "outlet_name": "WTOP News",
+   "label": "CONFIRMED",
+   "url": "https://wtop.com/national/2026/10/risks-spelled-out-for-anthropic-investors-include-possible-harms-from-runaway-ai/",
+   "url_id": "3c705c0b042825a1f0c7c332d3210f58"
+  },
+  {
+   "headline": "Injective Launches Nvidia GPU Rental-Fee Perpetual Futures With Up to 10x Leverage",
    "outlet": "bloomingbit",
    "outlet_name": "bloomingbit",
    "label": "REPORTED",
-   "url": "https://en.bloomingbit.io/feed/news/122975",
-   "url_id": "40f8fb6139979e9de2aa520afb88d473"
+   "url": "https://en.bloomingbit.io/feed/news/123014",
+   "url_id": "c5ab06460fc95b16d909881ea22d11af"
   },
   {
-   "headline": "Texas sues OpenAI over ChatGPT safety claims and alleged harm to minors",
-   "outlet": "FOX 7 Austin",
-   "outlet_name": "FOX 7 Austin",
-   "label": "REPORTED",
-   "url": "https://www.fox7austin.com/news/texas-sues-openai-over-chatgpt-safety-claims-alleged-harm-minors",
-   "url_id": "790617fdf33eb45a04a8088c204e83e2"
-  },
-  {
-   "headline": "Anthropic Sued for Using Elvis Presley Music to Train AI",
-   "outlet": "Sada Elbalad English",
-   "outlet_name": "Sada Elbalad English",
-   "label": "REPORTED",
-   "url": "https://see.news/anthropic-sued-for-using-elvis-presley-music-to-train-ai",
-   "url_id": "4a97c1f0ac9d0e530270f27d65115a58"
-  },
-  {
-   "headline": "Microsoft offers voluntary buyouts to 60,000 employees amid AI investments",
-   "outlet": "siliconangle.com",
-   "outlet_name": "SiliconANGLE",
+   "headline": "Chinese markets lose trillions as race for AI supremacy with US takes its toll",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://siliconangle.com/2026/10/26/microsoft-offers-voluntary-buyouts-to-60000-employees-amid-ai-investments/",
-   "url_id": "ea178e5e65880759697175dabe91a180"
+   "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing",
+   "url_id": "b864ced9a200924ab4a0eb2783ad22a2"
   },
   {
-   "headline": "Anthropic’s S-1 draws reactions: Investor says $100B ARR could be possible by year-end",
-   "outlet": "Asianet Newsable on MSN",
-   "outlet_name": "Asianet Newsable on MSN",
+   "headline": "International Business Machines Corporation (IBM) Debuts Governance Tools for AI Agents",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/money/other/anthropic-s-s-1-draws-reactions-investor-says-100b-arr-could-be-possible-by-year-end/ar-AA2g8sr8",
-   "url_id": "f3d37cb977f270cfda40ec580d8d673a"
+   "url": "https://www.tradingview.com/news/tradingview:6e535e4819e23:0-international-business-machines-corporation-ibm-debuts-governance-tools-for-ai-agents/",
+   "url_id": "0ca89d8b19b960a5cef116ca56c1b7fa"
   },
   {
-   "headline": "Tsinghua University & NVIDIA Unveil New AI Video Model Ranking: Exposing Shortcomings of…",
-   "outlet": "eu.36kr.com",
-   "outlet_name": "eu.36kr.com",
+   "headline": "The Anthropic IPO filing: 14-fold 1H26 revenue growth behind a US$80.75 billion paper loss",
+   "outlet": "digitimes.com",
+   "outlet_name": "digitimes.com",
    "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4043400670581632",
-   "url_id": "b5afb9ba15624cb29d9627df08312478"
+   "url": "https://www.digitimes.com/news/a20261027VL210/anthropic-revenue-loss-growth-ipo.html",
+   "url_id": "8ba114d717cd4c66aff5609f7a0b3ecf"
+  },
+  {
+   "headline": "Nvidia says GPUs last 8 years, unlocking AI financing",
+   "outlet": "digitimes.com",
+   "outlet_name": "digitimes.com",
+   "label": "CONFIRMED",
+   "url": "https://www.digitimes.com/news/a20261027PD203/nvidia-financing-gtc-berlin-ceo.html",
+   "url_id": "c905161c0fcc5a1f9a2b5d5c3fb42cea"
   },
   {
    "headline": "OpenAI’s August fix for theft of reasoning traces was quickly bypassed",
@@ -130,38 +138,30 @@
    "url_id": "ddb96a723da52bce0d979e2fcb24bbda"
   },
   {
-   "headline": "Sweden Blocks ChatGPT and Claude on Government PCs [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "CONFIRMED",
-   "url": "https://shattered.io/sweden-blocks-chatgpt-claude-government-offices-oct-26-2026/",
-   "url_id": "6982e3d5ba3240e53b50e48d8a7a315a"
+   "headline": "Anthropic aims for record $2 trillion IPO amid AI market scrutiny",
+   "outlet": "The Chosun Ilbo on MSN",
+   "outlet_name": "The Chosun Ilbo on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-xl/money/general/anthropic-aims-for-record-2-trillion-ipo-amid-ai-market-scrutiny/ar-AA2g73ND",
+   "url_id": "4a89ae59308b3356d6db0e38b7a816e3"
   },
   {
-   "headline": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI…",
-   "outlet": "Reuters on MSN",
-   "outlet_name": "Reuters on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/bank-of-korea-warns-countrys-chip-exports-could-fall-by-up-to-100-billion-if-ai-spending-slows/ar-AA2g8mY8",
-   "url_id": "6b91c9609c954a7daba40ed46c461e26"
-  },
-  {
-   "headline": "Claude accessed public voter data without human prompting, raising security concerns",
-   "outlet": "KLTV.com",
-   "outlet_name": "KLTV.com",
-   "label": "CONFIRMED",
-   "url": "https://www.kltv.com/2026/10/26/claude-accessed-public-voter-data-without-human-prompting-raising-security-concerns/",
-   "url_id": "751f09d3513d9569013ceec70a76cafb"
+   "headline": "OpenAI introduces GPT 6.1 Terra AI model, says it excels at communication and…",
+   "outlet": "Digit on MSN",
+   "outlet_name": "Digit on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/openai-introduces-gpt-61-terra-ai-model-says-it-excels-at-communication-and-computer-based-tasks/ar-AA2g8me9",
+   "url_id": "5a6848fb0f97842ee1c9294bb10918cc"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "tidbit": "Did you know… about 16,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 15800,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/06.mp3",
- "audio_seconds": 49.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/07.mp3",
+ "audio_seconds": 52.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Rappler: Anthropic discloses month-long training pause, AI security breaches in IPO filing.\nReported by Bloomberg: Anthropic’s IPO May See CBA Sitting on Multi-Billion Windfall.\nReported by bloomingbit: FTC Seeks Testimony From Anthropic Executives as Consumer Harm Probe Expands.\nReported by FOX 7 Austin: Texas sues OpenAI over ChatGPT safety claims and alleged harm to minors.\nReported by Sada Elbalad English: Anthropic Sued for Using Elvis Presley Music to Train AI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per KOMO: Anthropic model accessed publicly available Georgia voter data; no human authorization.\nConfirmed, per IBM Newsroom: IBM Introduces Identity and Control for AI Agents, Securing Frontier Intelligence for the Enterprise.\nConfirmed, per gHacks: OpenAI Launches GPT-6.1 Terra With API Pricing 50% Lower Than GPT-5.6 Terra.\nConfirmed, per WTOP News: Risks spelled out for Anthropic investors include possible harms from runaway AI.\nReported by bloomingbit: Injective Launches Nvidia GPU Rental-Fee Perpetual Futures With Up to 10x Leverage.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
