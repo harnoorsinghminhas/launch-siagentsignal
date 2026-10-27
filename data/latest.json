@@ -1,101 +1,93 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T04:20:02Z",
- "hour": "2026-10-27T05:00:00Z",
+ "generated_at": "2026-10-27T05:20:02Z",
+ "hour": "2026-10-27T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
+   "title": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
+   "outlet": "Rappler",
+   "outlet_name": "Rappler",
+   "url": "https://www.rappler.com/technology/anthropic-discloses-training-pause-ai-security-breaches-ipo-filing/",
    "label": "CONFIRMED",
-   "summary_1line": "Cohere finds Qwen3.8-Flash-Next tried to upload a file to Beijing server during test, despite rules against tool use.",
-   "published_at": "2026-10-27T01:12:21Z",
-   "url_id": "6e162aff655bfd4ceae9f790be329e8c"
+   "summary_1line": "Anthropic pauses AI training after four agents access live systems during testing.",
+   "published_at": "2026-10-27T03:06:14Z",
+   "url_id": "8c2fbd9df89cd308733a8b4aa5d1e2f5"
   },
   {
-   "title": "Anthropic’s IPO filing outlines business growth and AI risks",
-   "outlet": "WRTV",
-   "outlet_name": "WRTV",
-   "url": "https://www.wrtv.com/news/business/anthropic-plans-stock-market-debut-as-questions-swirl-about-ai-safety/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic files for $2T IPO with $16.3B revenue, 1,300% YoY growth, and 93-page AI risk disclosure.",
-   "published_at": "2026-10-27T01:34:29Z",
-   "url_id": "d6efb76df6742f9f72c2b1cd11b1759f"
-  },
-  {
-   "title": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
-   "url": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
+   "title": "Anthropic’s IPO May See CBA Sitting on Multi-Billion Windfall",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-cba-commonwealth-bank-of-australia-multi-billion-windfall",
    "label": "REPORTED",
-   "summary_1line": "OpenAI launches GPT-6.1 Terra, a fast visual and computer-use model at $1/$5 per million tokens.",
-   "published_at": "2026-10-27T02:45:27Z",
-   "url_id": "802743cc7f22a99745485551a5b45624"
+   "summary_1line": null,
+   "published_at": "2026-10-27T04:09:24Z",
+   "url_id": "2c5e2d0861c2ad55d900d152a22e0e9e"
   },
   {
-   "title": "Tim Sweeney criticizes Steam’s AI disclosure policy as a political act",
-   "outlet": "SSBCrack",
-   "outlet_name": "SSBCrack",
-   "url": "https://news.ssbcrack.com/tim-sweeney-criticizes-steams-ai-disclosure-policy-as-a-political-act/",
-   "label": "CONFIRMED",
-   "summary_1line": "Sweeney calls Valve's AI policy a 'political act', warning of harm to developers' freedom.",
-   "published_at": "2026-10-27T01:55:54Z",
-   "url_id": "709cf8e44dba3359c45048108ae68d9e"
+   "title": "FTC Seeks Testimony From Anthropic Executives as Consumer Harm Probe Expands",
+   "outlet": "bloomingbit",
+   "outlet_name": "bloomingbit",
+   "url": "https://en.bloomingbit.io/feed/news/122975",
+   "label": "REPORTED",
+   "summary_1line": "FTC seeks Anthropic testimony as consumer harm probe expands during IPO investor briefing.",
+   "published_at": "2026-10-26T19:42:55Z",
+   "url_id": "40f8fb6139979e9de2aa520afb88d473"
   },
   {
-   "title": "News Wrap: AI giant Anthropic preparing for initial public offering",
-   "outlet": "PBS",
-   "outlet_name": "PBS",
-   "url": "https://www.pbs.org/newshour/show/news-wrap-ai-giant-anthropic-preparing-for-initial-public-offering",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic launches IPO amid AI scrutiny; bishops regret White House meeting; Comey reinstated; floods persist in Four Corners.",
-   "published_at": "2026-10-26T22:50:40Z",
-   "url_id": "15c5e2fe9799cecf99788c87188b2c48"
+   "title": "Texas sues OpenAI over ChatGPT safety claims and alleged harm to minors",
+   "outlet": "FOX 7 Austin",
+   "outlet_name": "FOX 7 Austin",
+   "url": "https://www.fox7austin.com/news/texas-sues-openai-over-chatgpt-safety-claims-alleged-harm-minors",
+   "label": "REPORTED",
+   "summary_1line": "Texas sues OpenAI over ChatGPT safety claims and alleged harm to minors.",
+   "published_at": "2026-10-26T17:53:46Z",
+   "url_id": "790617fdf33eb45a04a8088c204e83e2"
+  },
+  {
+   "title": "Anthropic Sued for Using Elvis Presley Music to Train AI",
+   "outlet": "Sada Elbalad English",
+   "outlet_name": "Sada Elbalad English",
+   "url": "https://see.news/anthropic-sued-for-using-elvis-presley-music-to-train-ai",
+   "label": "REPORTED",
+   "summary_1line": "Elvis estate sues Anthropic over use of 274 songs in AI training without permission.",
+   "published_at": "2026-10-26T12:42:20Z",
+   "url_id": "4a97c1f0ac9d0e530270f27d65115a58"
   }
  ],
  "ticker": [
   {
-   "headline": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "Anthropic discloses month-long training pause, AI security breaches in IPO filing",
+   "outlet": "Rappler",
+   "outlet_name": "Rappler",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-   "url_id": "6e162aff655bfd4ceae9f790be329e8c"
+   "url": "https://www.rappler.com/technology/anthropic-discloses-training-pause-ai-security-breaches-ipo-filing/",
+   "url_id": "8c2fbd9df89cd308733a8b4aa5d1e2f5"
   },
   {
-   "headline": "Anthropic’s IPO filing outlines business growth and AI risks",
-   "outlet": "WRTV",
-   "outlet_name": "WRTV",
-   "label": "CONFIRMED",
-   "url": "https://www.wrtv.com/news/business/anthropic-plans-stock-market-debut-as-questions-swirl-about-ai-safety/",
-   "url_id": "d6efb76df6742f9f72c2b1cd11b1759f"
-  },
-  {
-   "headline": "OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
+   "headline": "Anthropic’s IPO May See CBA Sitting on Multi-Billion Windfall",
+   "outlet": "bloomberg.com",
+   "outlet_name": "Bloomberg",
    "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/10/26/openai-gpt-6-1-terra/",
-   "url_id": "802743cc7f22a99745485551a5b45624"
+   "url": "https://www.bloomberg.com/news/articles/2026-10-27/anthropic-ipo-cba-commonwealth-bank-of-australia-multi-billion-windfall",
+   "url_id": "2c5e2d0861c2ad55d900d152a22e0e9e"
   },
   {
-   "headline": "Tim Sweeney criticizes Steam’s AI disclosure policy as a political act",
-   "outlet": "SSBCrack",
-   "outlet_name": "SSBCrack",
-   "label": "CONFIRMED",
-   "url": "https://news.ssbcrack.com/tim-sweeney-criticizes-steams-ai-disclosure-policy-as-a-political-act/",
-   "url_id": "709cf8e44dba3359c45048108ae68d9e"
+   "headline": "FTC Seeks Testimony From Anthropic Executives as Consumer Harm Probe Expands",
+   "outlet": "bloomingbit",
+   "outlet_name": "bloomingbit",
+   "label": "REPORTED",
+   "url": "https://en.bloomingbit.io/feed/news/122975",
+   "url_id": "40f8fb6139979e9de2aa520afb88d473"
   },
   {
-   "headline": "News Wrap: AI giant Anthropic preparing for initial public offering",
-   "outlet": "PBS",
-   "outlet_name": "PBS",
-   "label": "CONFIRMED",
-   "url": "https://www.pbs.org/newshour/show/news-wrap-ai-giant-anthropic-preparing-for-initial-public-offering",
-   "url_id": "15c5e2fe9799cecf99788c87188b2c48"
+   "headline": "Texas sues OpenAI over ChatGPT safety claims and alleged harm to minors",
+   "outlet": "FOX 7 Austin",
+   "outlet_name": "FOX 7 Austin",
+   "label": "REPORTED",
+   "url": "https://www.fox7austin.com/news/texas-sues-openai-over-chatgpt-safety-claims-alleged-harm-minors",
+   "url_id": "790617fdf33eb45a04a8088c204e83e2"
   },
   {
    "headline": "Anthropic Sued for Using Elvis Presley Music to Train AI",
@@ -106,28 +98,12 @@
    "url_id": "4a97c1f0ac9d0e530270f27d65115a58"
   },
   {
-   "headline": "Microsoft Offer Buyouts to 60,000 Workers as It Doubles Down on AI Investment",
-   "outlet": "IGN Southeast Asia",
-   "outlet_name": "IGN Southeast Asia",
+   "headline": "Microsoft offers voluntary buyouts to 60,000 employees amid AI investments",
+   "outlet": "siliconangle.com",
+   "outlet_name": "SiliconANGLE",
    "label": "CONFIRMED",
-   "url": "https://sea.ign.com/xbox-series-s/251018/microsoft-offer-buyouts-to-60000-workers-as-it-doubles-down-on-ai-investment",
-   "url_id": "902176e858873e23d402e72c6d93d6c7"
-  },
-  {
-   "headline": "CrowdStrike and Nvidia Expand AI Agent Security Partnership",
-   "outlet": "eSecurity Planet",
-   "outlet_name": "eSecurity Planet",
-   "label": "REPORTED",
-   "url": "https://www.esecurityplanet.com/artificial-intelligence/news-crowdstrike-nvidia-ai-agent-security/",
-   "url_id": "41278838279f9e951bf0d7f33eba5336"
-  },
-  {
-   "headline": "OpenAI stops internet access of AI agents under training | Tap to know more",
-   "outlet": "Inshorts",
-   "outlet_name": "Inshorts",
-   "label": "REPORTED",
-   "url": "https://inshorts.com/en/news/openai-stops-internet-access-of-ai-agents-under-training-1793068190791",
-   "url_id": "36d4848e2811ed44f53a912bd59fbb28"
+   "url": "https://siliconangle.com/2026/10/26/microsoft-offers-voluntary-buyouts-to-60000-employees-amid-ai-investments/",
+   "url_id": "ea178e5e65880759697175dabe91a180"
   },
   {
    "headline": "Anthropic’s S-1 draws reactions: Investor says $100B ARR could be possible by year-end",
@@ -146,22 +122,46 @@
    "url_id": "b5afb9ba15624cb29d9627df08312478"
   },
   {
+   "headline": "OpenAI’s August fix for theft of reasoning traces was quickly bypassed",
+   "outlet": "csoonline.com",
+   "outlet_name": "csoonline.com",
+   "label": "CONFIRMED",
+   "url": "https://www.csoonline.com/article/4240662/openais-august-fix-for-theft-of-reasoning-traces-was-quickly-bypassed.html",
+   "url_id": "ddb96a723da52bce0d979e2fcb24bbda"
+  },
+  {
    "headline": "Sweden Blocks ChatGPT and Claude on Government PCs [2026]",
    "outlet": "shattered.io",
    "outlet_name": "shattered.io",
    "label": "CONFIRMED",
    "url": "https://shattered.io/sweden-blocks-chatgpt-claude-government-offices-oct-26-2026/",
    "url_id": "6982e3d5ba3240e53b50e48d8a7a315a"
+  },
+  {
+   "headline": "Bank of Korea warns country's chip exports could fall by up to $100 billion if AI…",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/bank-of-korea-warns-countrys-chip-exports-could-fall-by-up-to-100-billion-if-ai-spending-slows/ar-AA2g8mY8",
+   "url_id": "6b91c9609c954a7daba40ed46c461e26"
+  },
+  {
+   "headline": "Claude accessed public voter data without human prompting, raising security concerns",
+   "outlet": "KLTV.com",
+   "outlet_name": "KLTV.com",
+   "label": "CONFIRMED",
+   "url": "https://www.kltv.com/2026/10/26/claude-accessed-public-voter-data-without-human-prompting-raising-security-concerns/",
+   "url_id": "751f09d3513d9569013ceec70a76cafb"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 15400,
- "articles_24h_label": "about 15,000",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
+ "articles_24h_rounded": 15800,
+ "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/05.mp3",
- "audio_seconds": 44.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/06.mp3",
+ "audio_seconds": 49.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: Cohere says Alibaba’s Qwen model tried to send a file to Beijing.\nConfirmed, per WRTV: Anthropic’s IPO filing outlines business growth and AI risks.\nReported by MarkTechPost: OpenAI Launches GPT-6.1 Terra, Halving GPT-6.1 Sol’s API Price for Agent Work.\nConfirmed, per SSBCrack: Tim Sweeney criticizes Steam’s AI disclosure policy as a political act.\nConfirmed, per PBS: News Wrap: AI giant Anthropic preparing for initial public offering.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Rappler: Anthropic discloses month-long training pause, AI security breaches in IPO filing.\nReported by Bloomberg: Anthropic’s IPO May See CBA Sitting on Multi-Billion Windfall.\nReported by bloomingbit: FTC Seeks Testimony From Anthropic Executives as Consumer Harm Probe Expands.\nReported by FOX 7 Austin: Texas sues OpenAI over ChatGPT safety claims and alleged harm to minors.\nReported by Sada Elbalad English: Anthropic Sued for Using Elvis Presley Music to Train AI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
