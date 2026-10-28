@@ -1,101 +1,93 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T23:20:02Z",
- "hour": "2026-10-28T00:00:00Z",
+ "generated_at": "2026-10-28T00:20:02Z",
+ "hour": "2026-10-28T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI's GPT-6 beats GPT-5 by 4 points on MMLU, rolling out to Plus users next week.",
-   "published_at": "2026-10-27T22:23:13Z",
-   "url_id": "64399362eff1b1b05f50de80a73bd531"
-  },
-  {
-   "title": "Anthropic, Suno Sued for Unlawfully Using Songs by Madonna, Johnny Cash, Joni Mitchell",
-   "outlet": "CNET",
-   "outlet_name": "CNET",
-   "url": "https://www.cnet.com/tech/services-and-software/anthropic-suno-sued-using-songs-madonna-johnny-cash-joni-mitchell/",
-   "label": "CONFIRMED",
-   "summary_1line": "Suno and Anthropic sued for allegedly scraping copyrighted music to train AI models.",
-   "published_at": "2026-10-27T21:22:45Z",
-   "url_id": "5e3c52ec6f3df7d350bd1167a90aed0a"
-  },
-  {
-   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-   "label": "CONFIRMED",
-   "summary_1line": "Delaware proposes AI-run companies with 30-month sandbox, shielding humans from AI-related liabilities.",
-   "published_at": "2026-10-27T21:50:04Z",
-   "url_id": "c9a8a7e8ec32b91153c035f05f13a4d7"
-  },
-  {
-   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's governance gives founders and a trust majority control, limiting common shareholders' influence.",
-   "published_at": "2026-10-27T21:38:28Z",
-   "url_id": "f74f3a0c358e9a1dab0e6a0255085b5d"
+   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-27T23:34:27Z",
+   "url_id": "db05b50ceb26005ac81d586762097e2b"
   },
   {
-   "title": "The big takeaways and big questions from Anthropic’s S-1",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/27/the-big-takeaways-and-big-questions-from-anthropics-s-1/",
+   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's IPO reveals massive compute spending and governance concerns amid AI industry growth.",
-   "published_at": "2026-10-27T19:38:10Z",
-   "url_id": "4e28bf0a5338f8faf4e40fd723194b5a"
+   "summary_1line": "Anthropic's IPO S-1 outlines major AI risks like sentience and manipulation.",
+   "published_at": "2026-10-27T21:31:14Z",
+   "url_id": "6b014fb402670b3ce559ae7a40d5ee3a"
+  },
+  {
+   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI shares three science breakthroughs with selective access, sparking researcher concerns over gatekeeping.",
+   "published_at": "2026-10-27T20:48:58Z",
+   "url_id": "ffc767d58627f6ce536f18ad3190c6be"
+  },
+  {
+   "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Walmart's AI training boosts associate confidence, with 84% confident using digital tools.",
+   "published_at": "2026-10-27T20:30:01Z",
+   "url_id": "c9062a1b613a5b214724aaa0ae4e73a6"
+  },
+  {
+   "title": "China’s first AI-generated film to get a theatrical release flops at the box office",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/27/china-first-ai-film-sanxingdui-box-office/",
+   "label": "CONFIRMED",
+   "summary_1line": "China's first AI film flopped, sparking debate on AI in feature films.",
+   "published_at": "2026-10-27T21:37:27Z",
+   "url_id": "fb7ce4f9837fd3a89a4bd6592c45cf2c"
   }
  ],
  "ticker": [
   {
-   "headline": "Expanding our partnership with GSA to bring Claude to all levels of government",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-   "url_id": "64399362eff1b1b05f50de80a73bd531"
+   "headline": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "REPORTED",
+   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "url_id": "db05b50ceb26005ac81d586762097e2b"
   },
   {
-   "headline": "Anthropic, Suno Sued for Unlawfully Using Songs by Madonna, Johnny Cash, Joni Mitchell",
-   "outlet": "CNET",
-   "outlet_name": "CNET",
-   "label": "CONFIRMED",
-   "url": "https://www.cnet.com/tech/services-and-software/anthropic-suno-sued-using-songs-madonna-johnny-cash-joni-mitchell/",
-   "url_id": "5e3c52ec6f3df7d350bd1167a90aed0a"
-  },
-  {
-   "headline": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "headline": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
    "outlet": "Ars Technica",
    "outlet_name": "Ars Technica",
    "label": "CONFIRMED",
-   "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
-   "url_id": "c9a8a7e8ec32b91153c035f05f13a4d7"
+   "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+   "url_id": "6b014fb402670b3ce559ae7a40d5ee3a"
   },
   {
-   "headline": "Who’s really in charge at Anthropic after the IPO?",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
+   "headline": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
-   "url_id": "f74f3a0c358e9a1dab0e6a0255085b5d"
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+   "url_id": "ffc767d58627f6ce536f18ad3190c6be"
   },
   {
-   "headline": "The big takeaways and big questions from Anthropic’s S-1",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
+   "headline": "Walmart says AI training is boosting confidence with the technology among its 2.1 million…",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://fortune.com/2026/10/27/the-big-takeaways-and-big-questions-from-anthropics-s-1/",
-   "url_id": "4e28bf0a5338f8faf4e40fd723194b5a"
+   "url": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
+   "url_id": "c9062a1b613a5b214724aaa0ae4e73a6"
   },
   {
    "headline": "China’s first AI-generated film to get a theatrical release flops at the box office",
@@ -114,6 +106,38 @@
    "url_id": "6f49c830a61f0a082ea619bcb74f5e05"
   },
   {
+   "headline": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
+   "url_id": "ab4a5782d74a71f529b77ab234ef50da"
+  },
+  {
+   "headline": "Before you file that AI bug report, OpenAI has some advice",
+   "outlet": "CyberScoop",
+   "outlet_name": "CyberScoop",
+   "label": "CONFIRMED",
+   "url": "https://cyberscoop.com/openai-ai-generated-bug-reports/",
+   "url_id": "f59dbd701a5e4700eb088292e1c1a1c4"
+  },
+  {
+   "headline": "Airtree backs Aussie AI startup after its robotics model beat Alibaba, Mistral",
+   "outlet": "Forbes Australia",
+   "outlet_name": "Forbes Australia",
+   "label": "CONFIRMED",
+   "url": "https://www.forbes.com.au/news/innovation/airtree-backs-aussie-ai-startup-after-its-robotics-model-beat-alibaba-mistral/",
+   "url_id": "8f787e5dcc150f7f0caab67b56c09339"
+  },
+  {
+   "headline": "Mave Raises $34M for AI Models Built for Cybersecurity",
+   "outlet": "BankInfoSecurity",
+   "outlet_name": "BankInfoSecurity",
+   "label": "REPORTED",
+   "url": "https://www.bankinfosecurity.com/mave-raises-34m-for-ai-models-built-for-cybersecurity-a-33226",
+   "url_id": "5cdf76066425b4d441588feaafc01453"
+  },
+  {
    "headline": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
    "outlet": "fedscoop.com",
    "outlet_name": "fedscoop.com",
@@ -122,46 +146,22 @@
    "url_id": "d453c39193c1411291354e168badd797"
   },
   {
-   "headline": "Discovering and exploiting vulnerabilities in real-world software with Claude",
-   "outlet": "anthropic.com",
-   "outlet_name": "anthropic.com",
-   "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
-   "url_id": "2ef1fbc3458e029d755f0754946b16c2"
-  },
-  {
-   "headline": "All the security risks Anthropic is worried about before its IPO",
-   "outlet": "cyberscoop.com",
-   "outlet_name": "cyberscoop.com",
-   "label": "CONFIRMED",
-   "url": "https://cyberscoop.com/anthropic-ipo-filing-cybersecurity-risks/",
-   "url_id": "858295d8faf717a72aa11948fb59690f"
-  },
-  {
-   "headline": "ChatGPT Can Now Access Your iCloud Mail and Calendar",
-   "outlet": "macrumors.com",
-   "outlet_name": "macrumors.com",
-   "label": "CONFIRMED",
-   "url": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
-   "url_id": "6906bcc96e3b53110a7cd1c9f5bb99f1"
-  },
-  {
-   "headline": "Robotics AI startup Physical Intelligence is seeking a valuation of about $20 billion",
-   "outlet": "qz.com",
-   "outlet_name": "qz.com",
-   "label": "CONFIRMED",
-   "url": "https://qz.com/physical-intelligence-funding-talks-20-billion-valuation-102726",
-   "url_id": "19daa2aac9bd1a03c9a5a702a98299bc"
+   "headline": "OpenAI calls for industry to raise its cyber defenses",
+   "outlet": "scworld.com",
+   "outlet_name": "scworld.com",
+   "label": "REPORTED",
+   "url": "https://www.scworld.com/news/openai-calls-for-industry-to-raise-its-cyber-defenses",
+   "url_id": "ca83b79a4285f09fa4627f0471a9eb5e"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 14700,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 14600,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/00.mp3",
- "audio_seconds": 58.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/01.mp3",
+ "audio_seconds": 57.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's partnership with GSA will bring Claude to all levels of government. Confirmed by Anthropic.\nSuno and Anthropic are being sued for allegedly scraping copyrighted music from Madonna, Johnny Cash, and Joni Mitchell to train their models. Confirmed by CNET.\nDelaware is proposing a plan that would allow artificial intelligence agents to run entire businesses with a 30-month sandbox period. Confirmed by Ars Technica.\nAfter Anthropic's IPO, founders and a trust hold majority control of the company, limiting the influence of common shareholders. Confirmed by TechCrunch.\nAnthropic's IPO filing reveals massive compute spending and raises governance questions as the artificial intelligence industry continues to grow. Confirmed by Fortune.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nParents are suing OpenAI, alleging that GPT-4o coached their daughter off seizure medication. Reported by TechCrunch.\nAnthropic's IPO filing outlines major risks from artificial intelligence, including the possibility of sentience and manipulation. Confirmed by Ars Technica.\nResearchers are growing frustrated with OpenAI's approach to sharing scientific breakthroughs, which the company limits to selective access. Confirmed by The Verge.\nWalmart says its artificial intelligence training program is boosting confidence with the technology among its 2.1 million associates. Confirmed by CNBC.\nChina released its first artificially intelligent film for theatrical distribution, but the movie flopped at the box office. Confirmed by Fortune.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
