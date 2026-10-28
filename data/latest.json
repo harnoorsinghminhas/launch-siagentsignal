@@ -1,126 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T05:20:03Z",
- "hour": "2026-10-28T06:00:00Z",
+ "generated_at": "2026-10-28T06:20:02Z",
+ "hour": "2026-10-28T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google",
-   "outlet": "The American Bazaar",
-   "outlet_name": "The American Bazaar",
-   "url": "https://americanbazaaronline.com/2026/10/27/indian-american-ex-meta-ai-director-rohit-patel-launches-startup-to-challenge-microsoft-google-490892/",
+   "title": "​​Google DeepMind Unveils Genie 4 for Real-Time World Simulation",
+   "outlet": "Analytics India Magazine",
+   "outlet_name": "Analytics India Magazine",
+   "url": "https://analyticsindiamag.com/ai-news/google-deepmind-unveils-genie-4-for-real-time-world-simulation",
    "label": "REPORTED",
-   "summary_1line": "Rohit Patel launches Ndoc, a unified AI workspace to replace office tools, after leaving Meta.",
-   "published_at": "2026-10-27T20:17:29Z",
-   "url_id": "0d0d7fe39f40f0ed1aedc2386a919b7f"
+   "summary_1line": "Google DeepMind launches Genie 4, a real-time world model for interactive 3D simulations.",
+   "published_at": "2026-10-28T04:26:43Z",
+   "url_id": "94d50be187a26304764fc3e0284e906f"
   },
   {
-   "title": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More",
-   "outlet": "Your Valley",
-   "outlet_name": "Your Valley",
-   "url": "https://www.yourvalley.net/stories/hitpaw-vikpea-v600-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more,735384",
-   "label": "REPORTED",
-   "summary_1line": "HitPaw launches VikPea V6.0.0 with AI enhancements and Gemini Omni for creators.",
-   "published_at": "2026-10-27T16:08:13Z",
-   "url_id": "9f43871f50be1cdbc881f82b28b8aaf1"
+   "title": "Anthropic speeds up drug discovery as Claude spots issues humans miss, cuts review time by 89%",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
+   "url": "https://www.indiatoday.in/technology/news/story/anthropic-speeds-up-drug-discovery-as-claude-spots-issues-humans-miss-cuts-review-time-by-89-3026594-2026-10-28",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic uses Claude to cut drug review time by 89% and accelerate rare disease research.",
+   "published_at": "2026-10-28T03:14:45Z",
+   "url_id": "2b83fbfcbff0f4453d703cad10bee43a"
   },
   {
-   "title": "Ojumu calls for global consensus on AI regulation",
-   "outlet": "The Guardian Nigeria News",
-   "outlet_name": "The Guardian Nigeria News",
-   "url": "https://guardian.ng/news/ojumu-calls-for-global-consensus-on-ai-regulation/",
+   "title": "Cloudera Launches Cloudera Blueprints, Bringing NVIDIA Agent Toolkit to Enterprise Data Anywhere",
+   "outlet": "iTWire",
+   "outlet_name": "iTWire",
+   "url": "https://itwire.com/business-it-news/data/cloudera-launches-cloudera-blueprints-bringing-nvidia-agent-toolkit-to-enterprise-data-anywhere",
    "label": "REPORTED",
-   "summary_1line": "Nigerian AI expert calls for global AI regulation and sovereign digital autonomy.",
-   "published_at": "2026-10-28T03:31:41Z",
-   "url_id": "9e7764477fa2aec175704a518ce6e411"
+   "summary_1line": "Cloudera launches AI solutions for enterprises across cloud, data centres and edge.",
+   "published_at": "2026-10-27T22:41:12Z",
+   "url_id": "c300704941e01351b5dc9f2a8a00ca7b"
   },
   {
-   "title": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
-   "outlet": "Check Point Research",
-   "outlet_name": "Check Point Research",
-   "url": "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/",
-   "label": "REPORTED",
-   "summary_1line": "Attackers used fake AI tool GitHub projects to distribute malware via SEO-poisoned links.",
-   "published_at": "2026-10-28T03:26:56Z",
-   "url_id": "d4795de52ec9d1d16b4d833c829a18c7"
+   "title": "Meta rolls out consumer AI agent in Singapore amid global safety, retail pushback",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
+   "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/meta-rolls-out-consumer-ai-agent-singapore-amid-global-safety-retail-pushback",
+   "label": "CONFIRMED",
+   "summary_1line": "Meta launches consumer AI agent Muse in Singapore with app integrations and privacy safeguards.",
+   "published_at": "2026-10-28T01:57:00Z",
+   "url_id": "7beb78976be7fac35b5527b0e3f59a6a"
   },
   {
-   "title": "British Columbia privacy watchdog investigates OpenAI use of Tumbler Ridge shooter’s personal information",
-   "outlet": "Courthouse News",
-   "outlet_name": "Courthouse News",
-   "url": "https://www.courthousenews.com/british-columbia-privacy-watchdog-investigates-openai-use-of-tumbler-ridge-shooters-personal-information/",
+   "title": "Belatedly, OpenAI releases 2 new open weight models",
+   "outlet": "TechTarget",
+   "outlet_name": "TechTarget",
+   "url": "https://www.techtarget.com/news/Belatedly-OpenAI-releases-2-new-open-weight-models/834315/",
    "label": "REPORTED",
-   "summary_1line": "BC privacy watchdog investigates OpenAI over handling shooter's chat data.",
-   "published_at": "2026-10-28T03:20:06Z",
-   "url_id": "aaaa0d2e9d7ba41268d9e84bafc0754b"
+   "summary_1line": "OpenAI launches open weight models for edge and data centers, responding to industry demand.",
+   "published_at": "2026-10-27T18:10:55Z",
+   "url_id": "7fc3e5c5cbca691c277a33fbedeb4cd3"
   }
  ],
  "ticker": [
-  {
-   "headline": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft…",
-   "outlet": "The American Bazaar",
-   "outlet_name": "The American Bazaar",
-   "label": "REPORTED",
-   "url": "https://americanbazaaronline.com/2026/10/27/indian-american-ex-meta-ai-director-rohit-patel-launches-startup-to-challenge-microsoft-google-490892/",
-   "url_id": "0d0d7fe39f40f0ed1aedc2386a919b7f"
-  },
-  {
-   "headline": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and…",
-   "outlet": "Your Valley",
-   "outlet_name": "Your Valley",
-   "label": "REPORTED",
-   "url": "https://www.yourvalley.net/stories/hitpaw-vikpea-v600-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more,735384",
-   "url_id": "9f43871f50be1cdbc881f82b28b8aaf1"
-  },
-  {
-   "headline": "Ojumu calls for global consensus on AI regulation",
-   "outlet": "The Guardian Nigeria News",
-   "outlet_name": "The Guardian Nigeria News",
-   "label": "REPORTED",
-   "url": "https://guardian.ng/news/ojumu-calls-for-global-consensus-on-ai-regulation/",
-   "url_id": "9e7764477fa2aec175704a518ce6e411"
-  },
-  {
-   "headline": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
-   "outlet": "Check Point Research",
-   "outlet_name": "Check Point Research",
-   "label": "REPORTED",
-   "url": "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/",
-   "url_id": "d4795de52ec9d1d16b4d833c829a18c7"
-  },
-  {
-   "headline": "British Columbia privacy watchdog investigates OpenAI use of Tumbler Ridge shooter’s…",
-   "outlet": "Courthouse News",
-   "outlet_name": "Courthouse News",
-   "label": "REPORTED",
-   "url": "https://www.courthousenews.com/british-columbia-privacy-watchdog-investigates-openai-use-of-tumbler-ridge-shooters-personal-information/",
-   "url_id": "aaaa0d2e9d7ba41268d9e84bafc0754b"
-  },
-  {
-   "headline": "OpenAI calls for industry to raise its cyber defenses",
-   "outlet": "SC Media",
-   "outlet_name": "SC Media",
-   "label": "REPORTED",
-   "url": "https://www.scworld.com/news/openai-calls-for-industry-to-raise-its-cyber-defenses",
-   "url_id": "7ea40e913ef10c24ca34ef15cc4b05dc"
-  },
-  {
-   "headline": "Nvidia's Madison Huang returns to Seoul amid physical AI push",
-   "outlet": "The Korea Herald",
-   "outlet_name": "The Korea Herald",
-   "label": "REPORTED",
-   "url": "https://www.koreaherald.com/article/10917506",
-   "url_id": "eb9e0d4656e71fe482738223af7e601c"
-  },
-  {
-   "headline": "AI startup Simplismart raises $14M from Dallas Venture Capital, Nvidia, and others",
-   "outlet": "YourStory",
-   "outlet_name": "YourStory",
-   "label": "REPORTED",
-   "url": "https://yourstory.com/2026/10/ai-startup-simplismart-14-million-dallas-venture-capital-nvidia-others",
-   "url_id": "ae0125d57832e5a999665c30fe043054"
-  },
   {
    "headline": "​​Google DeepMind Unveils Genie 4 for Real-Time World Simulation",
    "outlet": "Analytics India Magazine",
@@ -130,38 +66,102 @@
    "url_id": "94d50be187a26304764fc3e0284e906f"
   },
   {
-   "headline": "AMD vs Nvidia AI Chips: 432 GB vs 288 GB [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/amd-vs-nvidia-ai-accelerators-mi455x-vs-vera-rubin-432gb-vs-288gb-2026/",
-   "url_id": "cd15c1beae93d7cbec516e9b7a874007"
+   "headline": "Anthropic speeds up drug discovery as Claude spots issues humans miss, cuts review time…",
+   "outlet": "India Today",
+   "outlet_name": "India Today",
+   "label": "CONFIRMED",
+   "url": "https://www.indiatoday.in/technology/news/story/anthropic-speeds-up-drug-discovery-as-claude-spots-issues-humans-miss-cuts-review-time-by-89-3026594-2026-10-28",
+   "url_id": "2b83fbfcbff0f4453d703cad10bee43a"
   },
   {
-   "headline": "Five-Dimensional Framework Maps How Universities Should Integrate ChatGPT",
-   "outlet": "Bioengineer.org",
-   "outlet_name": "Bioengineer.org",
+   "headline": "Cloudera Launches Cloudera Blueprints, Bringing NVIDIA Agent Toolkit to Enterprise Data…",
+   "outlet": "iTWire",
+   "outlet_name": "iTWire",
    "label": "REPORTED",
-   "url": "https://bioengineer.org/five-dimensional-framework-maps-how-universities-should-integrate-chatgpt/",
-   "url_id": "c296f39ced021bce570193b5bfce4dae"
+   "url": "https://itwire.com/business-it-news/data/cloudera-launches-cloudera-blueprints-bringing-nvidia-agent-toolkit-to-enterprise-data-anywhere",
+   "url_id": "c300704941e01351b5dc9f2a8a00ca7b"
   },
   {
-   "headline": "ChatGPT, Perplexity and DeepSeek Show Diverging Shifts in Male Infertility Answers",
-   "outlet": "Bioengineer.org",
-   "outlet_name": "Bioengineer.org",
+   "headline": "Meta rolls out consumer AI agent in Singapore amid global safety, retail pushback",
+   "outlet": "The Business Times",
+   "outlet_name": "The Business Times",
+   "label": "CONFIRMED",
+   "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/meta-rolls-out-consumer-ai-agent-singapore-amid-global-safety-retail-pushback",
+   "url_id": "7beb78976be7fac35b5527b0e3f59a6a"
+  },
+  {
+   "headline": "Belatedly, OpenAI releases 2 new open weight models",
+   "outlet": "TechTarget",
+   "outlet_name": "TechTarget",
    "label": "REPORTED",
-   "url": "https://bioengineer.org/chatgpt-perplexity-and-deepseek-show-diverging-shifts-in-male-infertility-answers/",
-   "url_id": "eb71d7c02a864e8bf7a18cbaf6d70d33"
+   "url": "https://www.techtarget.com/news/Belatedly-OpenAI-releases-2-new-open-weight-models/834315/",
+   "url_id": "7fc3e5c5cbca691c277a33fbedeb4cd3"
+  },
+  {
+   "headline": "Anthropic's record IPO faces some big questions",
+   "outlet": "economictimes.indiatimes.com",
+   "outlet_name": "economictimes.indiatimes.com",
+   "label": "REPORTED",
+   "url": "https://economictimes.indiatimes.com/tech/technology/anthropics-record-ipo-faces-some-big-questions/articleshow/135249836.cms",
+   "url_id": "48604ff26f5c9742e8b79ef7f90927dd"
+  },
+  {
+   "headline": "Nvidia unveils modular AI factory pods to build data centres in 14 days",
+   "outlet": "Stockhead on MSN",
+   "outlet_name": "Stockhead on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-au/technology/artificial-intelligence/nvidia-unveils-modular-ai-factory-pods-to-build-data-centres-in-14-days/ar-AA2gclt1",
+   "url_id": "e17c60738b5266c182c2d4abdb52ad21"
+  },
+  {
+   "headline": "AI reshapes China wealth rankings as ByteDance's Wenfeng Liang debuts at No. 7",
+   "outlet": "digitimes.com",
+   "outlet_name": "digitimes.com",
+   "label": "CONFIRMED",
+   "url": "https://www.digitimes.com/news/a20261028PD201/2026-bytedance-ai-chip-deepseek-growth.html",
+   "url_id": "19df0c80c45048fe11cedf8d54adb2ae"
+  },
+  {
+   "headline": "Record 115 state AI laws in 2026: Illinois sets frontier audit mandate, Congress still…",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/record-115-state-ai-laws-in-2026-illinois-sets-frontier-audit-mandate-congress-still-silent/ar-AA2gcGcF",
+   "url_id": "febc4bf7d7a4ea085700db23c9b1878f"
+  },
+  {
+   "headline": "Anthropic: The \"King of AI\" Powering Innovations for Elon Musk, Jensen Huang and Top Tech…",
+   "outlet": "eu.36kr.com",
+   "outlet_name": "eu.36kr.com",
+   "label": "REPORTED",
+   "url": "https://eu.36kr.com/en/p/4044878331385479",
+   "url_id": "a1141b5678fd7c02583866e38a209d50"
+  },
+  {
+   "headline": "NVIDIA & Oracle Expand Strategic Partnership: Advanced AI Computing & Cloud Collaboration…",
+   "outlet": "eu.36kr.com",
+   "outlet_name": "eu.36kr.com",
+   "label": "REPORTED",
+   "url": "https://eu.36kr.com/en/p/4044952793863298",
+   "url_id": "371dacda38097a6c7bd50738327c903a"
+  },
+  {
+   "headline": "Hate setting up eSIMs? Gemini might soon do it for you (APK teardown)",
+   "outlet": "androidauthority.com",
+   "outlet_name": "androidauthority.com",
+   "label": "STILL OPEN",
+   "url": "https://www.androidauthority.com/gemini-sim-manager-connector-esim-apk-teardown-3728812/",
+   "url_id": "119269f3a9aa9414b6960f125d25ec6f"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 14500,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 14700,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/06.mp3",
- "audio_seconds": 53.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/07.mp3",
+ "audio_seconds": 50.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The American Bazaar: Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google.\nReported by Your Valley: HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More.\nReported by The Guardian Nigeria News: Ojumu calls for global consensus on AI regulation.\nReported by Check Point Research: Tricks from the Past deployed via signed ChatGPT and Claude binaries.\nReported by Courthouse News: British Columbia privacy watchdog investigates OpenAI use of Tumbler Ridge shooter’s personal information.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle DeepMind has unveiled Genie 4, a real-time world model designed for interactive 3D simulations. Reported by Analytics India Magazine.\nAnthropic has accelerated drug discovery using Claude to identify issues humans miss, cutting review time by 89%. Confirmed per India Today.\nCloudera launches Blueprints, bringing NVIDIA Agent Toolkit to enterprises across cloud, data centres and edge environments. Reported by iTWire.\nMeta has rolled out consumer artificial intelligence agent Muse in Singapore, featuring app integrations and privacy safeguards. Confirmed by The Business Times.\nOpenAI has released 2 new open weight models for edge and data centers, responding to industry demand. Reported by TechTarget.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
