@@ -1,102 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T04:20:04Z",
- "hour": "2026-10-28T05:00:00Z",
+ "generated_at": "2026-10-28T05:20:03Z",
+ "hour": "2026-10-28T06:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Weighs Buying Google AI Chips to Reduce Nvidia Dependence",
-   "outlet": "bloomingbit",
-   "outlet_name": "bloomingbit",
-   "url": "https://en.bloomingbit.io/feed/news/123089",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI considers buying Google TPUs to reduce Nvidia reliance.",
-   "published_at": "2026-10-28T02:14:59Z",
-   "url_id": "a41b6f917baf62ab080bc3d66402f589"
-  },
-  {
-   "title": "OpenAI launches GPT-6.1 Terra with near-Astra performance at a fraction of the cost",
-   "outlet": "Tech Edition",
-   "outlet_name": "Tech Edition",
-   "url": "https://www.techedt.com/openai-launches-gpt-6-1-terra-with-near-astra-performance-at-a-fraction-of-the-cost",
+   "title": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google",
+   "outlet": "The American Bazaar",
+   "outlet_name": "The American Bazaar",
+   "url": "https://americanbazaaronline.com/2026/10/27/indian-american-ex-meta-ai-director-rohit-patel-launches-startup-to-challenge-microsoft-google-490892/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI launches GPT-6.1 Terra, a faster, cheaper AI model for professional tasks.",
-   "published_at": "2026-10-28T03:09:34Z",
-   "url_id": "1ce5203aaa9ed461c7b5e2986b472a64"
+   "summary_1line": "Rohit Patel launches Ndoc, a unified AI workspace to replace office tools, after leaving Meta.",
+   "published_at": "2026-10-27T20:17:29Z",
+   "url_id": "0d0d7fe39f40f0ed1aedc2386a919b7f"
   },
   {
-   "title": "Cohere Flags Potential Data Exfiltration Attempt by Alibaba’s Qwen AI Model During Security Test",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "url": "https://www.tekedia.com/cohere-flags-potential-data-exfiltration-attempt-by-alibabas-qwen-ai-model-during-security-test/",
-   "label": "CONFIRMED",
-   "summary_1line": "Qwen model attempted data transfer during test, raising AI security concerns.",
-   "published_at": "2026-10-27T21:25:34Z",
-   "url_id": "fbc7fa9344f5c6acc41c20517d3d5718"
-  },
-  {
-   "title": "‘NxtGen will own the sovereign ground for AI’, says CEO on OpenAI partnership",
-   "outlet": "CRN Asia",
-   "outlet_name": "CRN Asia",
-   "url": "https://www.crnasia.com/india/news/2026/nxtgen-will-own-the-sovereign-ground-for-ai-says-ceo-on-openai-partnership",
-   "label": "CONFIRMED",
-   "summary_1line": "NxtGen becomes OpenAI Select Partner to offer sovereign AI for Indian enterprises.",
-   "published_at": "2026-10-28T03:08:04Z",
-   "url_id": "b6c867bf9366d5293ce47c2a6ad58552"
-  },
-  {
-   "title": "GSA unveils token-based OneGov pricing for Claude",
-   "outlet": "Nextgov/FCW",
-   "outlet_name": "Nextgov/FCW",
-   "url": "https://www.nextgov.com/acquisition/2026/10/gsa-unveils-token-based-onegov-pricing-claude/416855/",
+   "title": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More",
+   "outlet": "Your Valley",
+   "outlet_name": "Your Valley",
+   "url": "https://www.yourvalley.net/stories/hitpaw-vikpea-v600-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more,735384",
    "label": "REPORTED",
-   "summary_1line": "Anthropic offers 40% Claude discount to U.S. agencies via OneGov, saving $1 billion.",
-   "published_at": "2026-10-27T22:36:00Z",
-   "url_id": "1a6d05856af45067092227b0b0ba3490"
+   "summary_1line": "HitPaw launches VikPea V6.0.0 with AI enhancements and Gemini Omni for creators.",
+   "published_at": "2026-10-27T16:08:13Z",
+   "url_id": "9f43871f50be1cdbc881f82b28b8aaf1"
+  },
+  {
+   "title": "Ojumu calls for global consensus on AI regulation",
+   "outlet": "The Guardian Nigeria News",
+   "outlet_name": "The Guardian Nigeria News",
+   "url": "https://guardian.ng/news/ojumu-calls-for-global-consensus-on-ai-regulation/",
+   "label": "REPORTED",
+   "summary_1line": "Nigerian AI expert calls for global AI regulation and sovereign digital autonomy.",
+   "published_at": "2026-10-28T03:31:41Z",
+   "url_id": "9e7764477fa2aec175704a518ce6e411"
+  },
+  {
+   "title": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
+   "outlet": "Check Point Research",
+   "outlet_name": "Check Point Research",
+   "url": "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/",
+   "label": "REPORTED",
+   "summary_1line": "Attackers used fake AI tool GitHub projects to distribute malware via SEO-poisoned links.",
+   "published_at": "2026-10-28T03:26:56Z",
+   "url_id": "d4795de52ec9d1d16b4d833c829a18c7"
+  },
+  {
+   "title": "British Columbia privacy watchdog investigates OpenAI use of Tumbler Ridge shooter’s personal information",
+   "outlet": "Courthouse News",
+   "outlet_name": "Courthouse News",
+   "url": "https://www.courthousenews.com/british-columbia-privacy-watchdog-investigates-openai-use-of-tumbler-ridge-shooters-personal-information/",
+   "label": "REPORTED",
+   "summary_1line": "BC privacy watchdog investigates OpenAI over handling shooter's chat data.",
+   "published_at": "2026-10-28T03:20:06Z",
+   "url_id": "aaaa0d2e9d7ba41268d9e84bafc0754b"
   }
  ],
  "ticker": [
-  {
-   "headline": "OpenAI Weighs Buying Google AI Chips to Reduce Nvidia Dependence",
-   "outlet": "bloomingbit",
-   "outlet_name": "bloomingbit",
-   "label": "STILL OPEN",
-   "url": "https://en.bloomingbit.io/feed/news/123089",
-   "url_id": "a41b6f917baf62ab080bc3d66402f589"
-  },
-  {
-   "headline": "OpenAI launches GPT-6.1 Terra with near-Astra performance at a fraction of the cost",
-   "outlet": "Tech Edition",
-   "outlet_name": "Tech Edition",
-   "label": "REPORTED",
-   "url": "https://www.techedt.com/openai-launches-gpt-6-1-terra-with-near-astra-performance-at-a-fraction-of-the-cost",
-   "url_id": "1ce5203aaa9ed461c7b5e2986b472a64"
-  },
-  {
-   "headline": "Cohere Flags Potential Data Exfiltration Attempt by Alibaba’s Qwen AI Model During…",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "label": "CONFIRMED",
-   "url": "https://www.tekedia.com/cohere-flags-potential-data-exfiltration-attempt-by-alibabas-qwen-ai-model-during-security-test/",
-   "url_id": "fbc7fa9344f5c6acc41c20517d3d5718"
-  },
-  {
-   "headline": "‘NxtGen will own the sovereign ground for AI’, says CEO on OpenAI partnership",
-   "outlet": "CRN Asia",
-   "outlet_name": "CRN Asia",
-   "label": "CONFIRMED",
-   "url": "https://www.crnasia.com/india/news/2026/nxtgen-will-own-the-sovereign-ground-for-ai-says-ceo-on-openai-partnership",
-   "url_id": "b6c867bf9366d5293ce47c2a6ad58552"
-  },
-  {
-   "headline": "GSA unveils token-based OneGov pricing for Claude",
-   "outlet": "Nextgov/FCW",
-   "outlet_name": "Nextgov/FCW",
-   "label": "REPORTED",
-   "url": "https://www.nextgov.com/acquisition/2026/10/gsa-unveils-token-based-onegov-pricing-claude/416855/",
-   "url_id": "1a6d05856af45067092227b0b0ba3490"
-  },
   {
    "headline": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft…",
    "outlet": "The American Bazaar",
@@ -138,30 +98,70 @@
    "url_id": "aaaa0d2e9d7ba41268d9e84bafc0754b"
   },
   {
-   "headline": "ASUS Launches Intel Arc Pro B70 GPU With Eye-Watering Price Tag To Rival NVIDIA RTX 5090",
-   "outlet": "ChannelNews.com.au",
-   "outlet_name": "ChannelNews.com.au",
+   "headline": "OpenAI calls for industry to raise its cyber defenses",
+   "outlet": "SC Media",
+   "outlet_name": "SC Media",
    "label": "REPORTED",
-   "url": "https://www.channelnews.com.au/asus-launches-intel-arc-pro-b70-gpu-with-eye-watering-price-tag-to-rival-nvidia-rtx-5090/",
-   "url_id": "f539585a5314481ca6e78f08bdec5d68"
+   "url": "https://www.scworld.com/news/openai-calls-for-industry-to-raise-its-cyber-defenses",
+   "url_id": "7ea40e913ef10c24ca34ef15cc4b05dc"
   },
   {
-   "headline": "Elvis Presley rights holders sue Anthropic over AI training data",
-   "outlet": "news.lavx.hu",
-   "outlet_name": "news.lavx.hu",
+   "headline": "Nvidia's Madison Huang returns to Seoul amid physical AI push",
+   "outlet": "The Korea Herald",
+   "outlet_name": "The Korea Herald",
    "label": "REPORTED",
-   "url": "https://news.lavx.hu/article/elvis-presley-rights-holders-sue-anthropic-over-ai-training-data",
-   "url_id": "40f75414df40321bef08f599b6446ab7"
+   "url": "https://www.koreaherald.com/article/10917506",
+   "url_id": "eb9e0d4656e71fe482738223af7e601c"
+  },
+  {
+   "headline": "AI startup Simplismart raises $14M from Dallas Venture Capital, Nvidia, and others",
+   "outlet": "YourStory",
+   "outlet_name": "YourStory",
+   "label": "REPORTED",
+   "url": "https://yourstory.com/2026/10/ai-startup-simplismart-14-million-dallas-venture-capital-nvidia-others",
+   "url_id": "ae0125d57832e5a999665c30fe043054"
+  },
+  {
+   "headline": "​​Google DeepMind Unveils Genie 4 for Real-Time World Simulation",
+   "outlet": "Analytics India Magazine",
+   "outlet_name": "Analytics India Magazine",
+   "label": "REPORTED",
+   "url": "https://analyticsindiamag.com/ai-news/google-deepmind-unveils-genie-4-for-real-time-world-simulation",
+   "url_id": "94d50be187a26304764fc3e0284e906f"
+  },
+  {
+   "headline": "AMD vs Nvidia AI Chips: 432 GB vs 288 GB [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "REPORTED",
+   "url": "https://shattered.io/amd-vs-nvidia-ai-accelerators-mi455x-vs-vera-rubin-432gb-vs-288gb-2026/",
+   "url_id": "cd15c1beae93d7cbec516e9b7a874007"
+  },
+  {
+   "headline": "Five-Dimensional Framework Maps How Universities Should Integrate ChatGPT",
+   "outlet": "Bioengineer.org",
+   "outlet_name": "Bioengineer.org",
+   "label": "REPORTED",
+   "url": "https://bioengineer.org/five-dimensional-framework-maps-how-universities-should-integrate-chatgpt/",
+   "url_id": "c296f39ced021bce570193b5bfce4dae"
+  },
+  {
+   "headline": "ChatGPT, Perplexity and DeepSeek Show Diverging Shifts in Male Infertility Answers",
+   "outlet": "Bioengineer.org",
+   "outlet_name": "Bioengineer.org",
+   "label": "REPORTED",
+   "url": "https://bioengineer.org/chatgpt-perplexity-and-deepseek-show-diverging-shifts-in-male-infertility-answers/",
+   "url_id": "eb71d7c02a864e8bf7a18cbaf6d70d33"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 14800,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 14500,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/05.mp3",
- "audio_seconds": 47.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/06.mp3",
+ "audio_seconds": 53.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per bloomingbit: OpenAI Weighs Buying Google AI Chips to Reduce Nvidia Dependence.\nReported by Tech Edition: OpenAI launches GPT-6.1 Terra with near-Astra performance at a fraction of the cost.\nConfirmed, per Tekedia: Cohere Flags Potential Data Exfiltration Attempt by Alibaba’s Qwen AI Model During Security Test.\nConfirmed, per CRN Asia: ‘NxtGen will own the sovereign ground for AI’, says CEO on OpenAI partnership.\nReported by Nextgov/FCW: GSA unveils token-based OneGov pricing for Claude.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The American Bazaar: Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft, Google.\nReported by Your Valley: HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and More.\nReported by The Guardian Nigeria News: Ojumu calls for global consensus on AI regulation.\nReported by Check Point Research: Tricks from the Past deployed via signed ChatGPT and Claude binaries.\nReported by Courthouse News: British Columbia privacy watchdog investigates OpenAI use of Tumbler Ridge shooter’s personal information.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
