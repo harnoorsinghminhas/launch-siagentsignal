@@ -1,109 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T06:20:02Z",
- "hour": "2026-10-28T07:00:00Z",
+ "generated_at": "2026-10-28T07:20:02Z",
+ "hour": "2026-10-28T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "​​Google DeepMind Unveils Genie 4 for Real-Time World Simulation",
-   "outlet": "Analytics India Magazine",
-   "outlet_name": "Analytics India Magazine",
-   "url": "https://analyticsindiamag.com/ai-news/google-deepmind-unveils-genie-4-for-real-time-world-simulation",
-   "label": "REPORTED",
-   "summary_1line": "Google DeepMind launches Genie 4, a real-time world model for interactive 3D simulations.",
-   "published_at": "2026-10-28T04:26:43Z",
-   "url_id": "94d50be187a26304764fc3e0284e906f"
-  },
-  {
-   "title": "Anthropic speeds up drug discovery as Claude spots issues humans miss, cuts review time by 89%",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
-   "url": "https://www.indiatoday.in/technology/news/story/anthropic-speeds-up-drug-discovery-as-claude-spots-issues-humans-miss-cuts-review-time-by-89-3026594-2026-10-28",
+   "title": "Parents Sue OpenAI, Accuse ChatGPT Of Coaching Daughter To Cut Seizure Medicines Before Her Death",
+   "outlet": "Times Now",
+   "outlet_name": "Times Now",
+   "url": "https://www.timesnownews.com/technology-science/parents-sue-openai-accuse-chatgpt-of-coaching-daughter-to-cut-seizure-medicines-before-her-death-article-156419845",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic uses Claude to cut drug review time by 89% and accelerate rare disease research.",
-   "published_at": "2026-10-28T03:14:45Z",
-   "url_id": "2b83fbfcbff0f4453d703cad10bee43a"
+   "summary_1line": "Family sues OpenAI over ChatGPT advising epilepsy patient to stop medication.",
+   "published_at": "2026-10-28T05:12:06Z",
+   "url_id": "2d45953140653ca0b39201ac63bd48ca"
   },
   {
-   "title": "Cloudera Launches Cloudera Blueprints, Bringing NVIDIA Agent Toolkit to Enterprise Data Anywhere",
-   "outlet": "iTWire",
-   "outlet_name": "iTWire",
-   "url": "https://itwire.com/business-it-news/data/cloudera-launches-cloudera-blueprints-bringing-nvidia-agent-toolkit-to-enterprise-data-anywhere",
-   "label": "REPORTED",
-   "summary_1line": "Cloudera launches AI solutions for enterprises across cloud, data centres and edge.",
-   "published_at": "2026-10-27T22:41:12Z",
-   "url_id": "c300704941e01351b5dc9f2a8a00ca7b"
-  },
-  {
-   "title": "Meta rolls out consumer AI agent in Singapore amid global safety, retail pushback",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
-   "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/meta-rolls-out-consumer-ai-agent-singapore-amid-global-safety-retail-pushback",
+   "title": "ChatGPT can now tackle your iCloud inbox and calendar",
+   "outlet": "Cult of Mac",
+   "outlet_name": "Cult of Mac",
+   "url": "https://www.cultofmac.com/news/chatgpt-can-now-tackle-your-icloud-inbox-and-calendar",
    "label": "CONFIRMED",
-   "summary_1line": "Meta launches consumer AI agent Muse in Singapore with app integrations and privacy safeguards.",
-   "published_at": "2026-10-28T01:57:00Z",
-   "url_id": "7beb78976be7fac35b5527b0e3f59a6a"
+   "summary_1line": "ChatGPT now connects to iCloud Mail and Calendar for seamless email and event management.",
+   "published_at": "2026-10-28T05:39:57Z",
+   "url_id": "14a85ebf9f0ecbed409b6462efe6e9ab"
   },
   {
-   "title": "Belatedly, OpenAI releases 2 new open weight models",
-   "outlet": "TechTarget",
-   "outlet_name": "TechTarget",
-   "url": "https://www.techtarget.com/news/Belatedly-OpenAI-releases-2-new-open-weight-models/834315/",
+   "title": "China’s CXMT to Start AI Memory Production Despite Low Yields",
+   "outlet": "Asia Business Outlook",
+   "outlet_name": "Asia Business Outlook",
+   "url": "https://www.asiabusinessoutlook.com/news/chinas-cxmt-to-start-ai-memory-production-despite-low-yields-nwid-12700.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Website navigation and footer content only; no news event reported.",
+   "published_at": "2026-10-28T00:45:56Z",
+   "url_id": "78bcf94e0e3a5aa2360c61545126c03c"
+  },
+  {
+   "title": "UK announces £100m AI Biosecurity Lab with OpenAI and Anthropic backing",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "url": "https://www.edtechinnovationhub.com/news/uk-announces-100m-ai-biosecurity-lab-with-openai-and-anthropic-backing",
    "label": "REPORTED",
-   "summary_1line": "OpenAI launches open weight models for edge and data centers, responding to industry demand.",
-   "published_at": "2026-10-27T18:10:55Z",
-   "url_id": "7fc3e5c5cbca691c277a33fbedeb4cd3"
+   "summary_1line": "UK launches AI Biosecurity Lab with £300m in funding from public and AI firms.",
+   "published_at": "2026-10-28T01:15:54Z",
+   "url_id": "c4ed1f03f1505607a817fb96fed0f38d"
+  },
+  {
+   "title": "Indian Military Picks Sarvam AI for National Security",
+   "outlet": "TradeFlock",
+   "outlet_name": "TradeFlock",
+   "url": "https://tradeflock.com/indian-military-picks-sarvam-ai-national-security/",
+   "label": "CONFIRMED",
+   "summary_1line": "India's defence ministry partners with Sarvam AI to build a unified, secure AI system for all military branches.",
+   "published_at": "2026-10-28T06:03:41Z",
+   "url_id": "974cda09eeae173f972c9b3118d1608a"
   }
  ],
  "ticker": [
   {
-   "headline": "​​Google DeepMind Unveils Genie 4 for Real-Time World Simulation",
-   "outlet": "Analytics India Magazine",
-   "outlet_name": "Analytics India Magazine",
-   "label": "REPORTED",
-   "url": "https://analyticsindiamag.com/ai-news/google-deepmind-unveils-genie-4-for-real-time-world-simulation",
-   "url_id": "94d50be187a26304764fc3e0284e906f"
-  },
-  {
-   "headline": "Anthropic speeds up drug discovery as Claude spots issues humans miss, cuts review time…",
-   "outlet": "India Today",
-   "outlet_name": "India Today",
+   "headline": "Parents Sue OpenAI, Accuse ChatGPT Of Coaching Daughter To Cut Seizure Medicines Before…",
+   "outlet": "Times Now",
+   "outlet_name": "Times Now",
    "label": "CONFIRMED",
-   "url": "https://www.indiatoday.in/technology/news/story/anthropic-speeds-up-drug-discovery-as-claude-spots-issues-humans-miss-cuts-review-time-by-89-3026594-2026-10-28",
-   "url_id": "2b83fbfcbff0f4453d703cad10bee43a"
+   "url": "https://www.timesnownews.com/technology-science/parents-sue-openai-accuse-chatgpt-of-coaching-daughter-to-cut-seizure-medicines-before-her-death-article-156419845",
+   "url_id": "2d45953140653ca0b39201ac63bd48ca"
   },
   {
-   "headline": "Cloudera Launches Cloudera Blueprints, Bringing NVIDIA Agent Toolkit to Enterprise Data…",
-   "outlet": "iTWire",
-   "outlet_name": "iTWire",
-   "label": "REPORTED",
-   "url": "https://itwire.com/business-it-news/data/cloudera-launches-cloudera-blueprints-bringing-nvidia-agent-toolkit-to-enterprise-data-anywhere",
-   "url_id": "c300704941e01351b5dc9f2a8a00ca7b"
-  },
-  {
-   "headline": "Meta rolls out consumer AI agent in Singapore amid global safety, retail pushback",
-   "outlet": "The Business Times",
-   "outlet_name": "The Business Times",
+   "headline": "ChatGPT can now tackle your iCloud inbox and calendar",
+   "outlet": "Cult of Mac",
+   "outlet_name": "Cult of Mac",
    "label": "CONFIRMED",
-   "url": "https://www.businesstimes.com.sg/companies-markets/telcos-media-tech/meta-rolls-out-consumer-ai-agent-singapore-amid-global-safety-retail-pushback",
-   "url_id": "7beb78976be7fac35b5527b0e3f59a6a"
+   "url": "https://www.cultofmac.com/news/chatgpt-can-now-tackle-your-icloud-inbox-and-calendar",
+   "url_id": "14a85ebf9f0ecbed409b6462efe6e9ab"
   },
   {
-   "headline": "Belatedly, OpenAI releases 2 new open weight models",
-   "outlet": "TechTarget",
-   "outlet_name": "TechTarget",
+   "headline": "China’s CXMT to Start AI Memory Production Despite Low Yields",
+   "outlet": "Asia Business Outlook",
+   "outlet_name": "Asia Business Outlook",
+   "label": "CONFIRMED",
+   "url": "https://www.asiabusinessoutlook.com/news/chinas-cxmt-to-start-ai-memory-production-despite-low-yields-nwid-12700.html",
+   "url_id": "78bcf94e0e3a5aa2360c61545126c03c"
+  },
+  {
+   "headline": "UK announces £100m AI Biosecurity Lab with OpenAI and Anthropic backing",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
    "label": "REPORTED",
-   "url": "https://www.techtarget.com/news/Belatedly-OpenAI-releases-2-new-open-weight-models/834315/",
-   "url_id": "7fc3e5c5cbca691c277a33fbedeb4cd3"
+   "url": "https://www.edtechinnovationhub.com/news/uk-announces-100m-ai-biosecurity-lab-with-openai-and-anthropic-backing",
+   "url_id": "c4ed1f03f1505607a817fb96fed0f38d"
   },
   {
-   "headline": "Anthropic's record IPO faces some big questions",
+   "headline": "Indian Military Picks Sarvam AI for National Security",
+   "outlet": "TradeFlock",
+   "outlet_name": "TradeFlock",
+   "label": "CONFIRMED",
+   "url": "https://tradeflock.com/indian-military-picks-sarvam-ai-national-security/",
+   "url_id": "974cda09eeae173f972c9b3118d1608a"
+  },
+  {
+   "headline": "OpenAI Deploys \"textGrain\" Invisible Watermark in the EU, Highlighting the Fragility of…",
+   "outlet": "Vocal",
+   "outlet_name": "Vocal",
+   "label": "REPORTED",
+   "url": "https://vocal.media/01/openai-deploys-textgrain-invisible-watermark-in-the-eu-highlighting-the-fragility-of-ai-text-provenance",
+   "url_id": "bab07f267a03644c68dc535836a2423c"
+  },
+  {
+   "headline": "Anthropic Makes Major Entry into AI Drug Discovery: Acquires \"One-Person Pharma,\"…",
+   "outlet": "富途牛牛",
+   "outlet_name": "富途牛牛",
+   "label": "REPORTED",
+   "url": "https://news.futunn.com/en/post/1002522481/anthropic-makes-major-entry-into-ai-drug-discovery-acquires-one",
+   "url_id": "308f563adcba052caf759e4fa0593317"
+  },
+  {
+   "headline": "Nvidia backs Indian AI startup Simplismart in $14 mn Series B round",
+   "outlet": "Adgully",
+   "outlet_name": "Adgully",
+   "label": "REPORTED",
+   "url": "https://www.adgully.com/post/22960/nvidia-backs-indian-ai-startup-simplismart-in-14-mn-series-b-round",
+   "url_id": "7da2b188e7836a6a598fcda35a7f5b71"
+  },
+  {
+   "headline": "Anthropic vor dem Börsengang: Umsatz steigt 17-fach, Kosten nur 4-fach",
+   "outlet": "FAZ",
+   "outlet_name": "FAZ",
+   "label": "REPORTED",
+   "url": "https://www.faz.net/premium/digitalwirtschaft/kuenstliche-intelligenz/anthropic-vor-dem-boersengang-umsatz-steigt-17-fach-kosten-nur-4-fach-accg-201624565.html",
+   "url_id": "019d5af674b04c722da19d77dd397c50"
+  },
+  {
+   "headline": "Indian IT firms poised to benefit from enterprise AI adoption as infrastructure costs…",
    "outlet": "economictimes.indiatimes.com",
    "outlet_name": "economictimes.indiatimes.com",
-   "label": "REPORTED",
-   "url": "https://economictimes.indiatimes.com/tech/technology/anthropics-record-ipo-faces-some-big-questions/articleshow/135249836.cms",
-   "url_id": "48604ff26f5c9742e8b79ef7f90927dd"
+   "label": "CONFIRMED",
+   "url": "https://economictimes.indiatimes.com/tech/information-tech/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report/articleshow/135253790.cms",
+   "url_id": "16df1acbfc544c51f851effb25041ce0"
   },
   {
    "headline": "Nvidia unveils modular AI factory pods to build data centres in 14 days",
@@ -120,48 +152,16 @@
    "label": "CONFIRMED",
    "url": "https://www.digitimes.com/news/a20261028PD201/2026-bytedance-ai-chip-deepseek-growth.html",
    "url_id": "19df0c80c45048fe11cedf8d54adb2ae"
-  },
-  {
-   "headline": "Record 115 state AI laws in 2026: Illinois sets frontier audit mandate, Congress still…",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/record-115-state-ai-laws-in-2026-illinois-sets-frontier-audit-mandate-congress-still-silent/ar-AA2gcGcF",
-   "url_id": "febc4bf7d7a4ea085700db23c9b1878f"
-  },
-  {
-   "headline": "Anthropic: The \"King of AI\" Powering Innovations for Elon Musk, Jensen Huang and Top Tech…",
-   "outlet": "eu.36kr.com",
-   "outlet_name": "eu.36kr.com",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4044878331385479",
-   "url_id": "a1141b5678fd7c02583866e38a209d50"
-  },
-  {
-   "headline": "NVIDIA & Oracle Expand Strategic Partnership: Advanced AI Computing & Cloud Collaboration…",
-   "outlet": "eu.36kr.com",
-   "outlet_name": "eu.36kr.com",
-   "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4044952793863298",
-   "url_id": "371dacda38097a6c7bd50738327c903a"
-  },
-  {
-   "headline": "Hate setting up eSIMs? Gemini might soon do it for you (APK teardown)",
-   "outlet": "androidauthority.com",
-   "outlet_name": "androidauthority.com",
-   "label": "STILL OPEN",
-   "url": "https://www.androidauthority.com/gemini-sim-manager-connector-esim-apk-teardown-3728812/",
-   "url_id": "119269f3a9aa9414b6960f125d25ec6f"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 14700,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 14600,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/07.mp3",
- "audio_seconds": 50.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/08.mp3",
+ "audio_seconds": 58.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle DeepMind has unveiled Genie 4, a real-time world model designed for interactive 3D simulations. Reported by Analytics India Magazine.\nAnthropic has accelerated drug discovery using Claude to identify issues humans miss, cutting review time by 89%. Confirmed per India Today.\nCloudera launches Blueprints, bringing NVIDIA Agent Toolkit to enterprises across cloud, data centres and edge environments. Reported by iTWire.\nMeta has rolled out consumer artificial intelligence agent Muse in Singapore, featuring app integrations and privacy safeguards. Confirmed by The Business Times.\nOpenAI has released 2 new open weight models for edge and data centers, responding to industry demand. Reported by TechTarget.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nParents are suing OpenAI, according to Times Now in a confirmed report, claiming ChatGPT advised an epilepsy patient to stop taking seizure medication.\nConfirmed by Cult of Mac: ChatGPT now connects to iCloud Mail and Calendar for seamless email and event management.\nConfirmed per Asia Business Outlook: China's CXMT is starting artificial intelligence memory production despite low yields.\nReported by EdTech Innovation Hub: The UK launched an artificial intelligence Biosecurity Lab with backing from OpenAI and Anthropic.\nIndia's defence ministry has partnered with Sarvam AI to build a unified, secure artificial intelligence system for all military branches, confirmed by TradeFlock.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
