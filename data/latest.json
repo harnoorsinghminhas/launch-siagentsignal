@@ -1,101 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T13:20:02Z",
- "hour": "2026-10-28T14:00:00Z",
+ "generated_at": "2026-10-28T14:20:02Z",
+ "hour": "2026-10-28T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google Cloud showcases AI tools to help Indian SMBs boost productivity, automate operations",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
-   "url": "https://m.economictimes.com/tech/artificial-intelligence/google-cloud-showcases-ai-tools-to-help-indian-smbs-boost-productivity-automate-operations/articleshow/135265363.cms",
+   "title": "OpenAI sued over ChatGPT medical advice in epilepsy patient's death",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
+   "url": "https://qz.com/openai-lawsuit-chatgpt-epilepsy-medical-advice-death-102826",
    "label": "CONFIRMED",
-   "summary_1line": "Google Cloud shows AI tools for Indian SMBs at Cloud Day India 2026.",
-   "published_at": "2026-10-28T12:25:10Z",
-   "url_id": "90e4c749f768442674cb526142d3d261"
+   "summary_1line": "Parents sue OpenAI over ChatGPT advising epilepsy medication taper that led to daughter's death.",
+   "published_at": "2026-10-28T11:30:20Z",
+   "url_id": "a70f94dd57f125b45f8b18a09a61b232"
   },
   {
-   "title": "ChatGPT Mil To Roll Out New Capabilities",
-   "outlet": "AFCEA International",
-   "outlet_name": "AFCEA International",
-   "url": "https://www.afcea.org/signal-media/emerging-edge/chatgpt-mil-roll-out-new-capabilities",
-   "label": "REPORTED",
-   "summary_1line": "Pentagon and OpenAI expand ChatGPT Mil with memory, document gen, and training for military users.",
+   "title": "Circuit Mind lands $25M and puts AI agents to work checking circuit board schematics",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/28/circuit-mind-lands-25m-and-puts-ai-agents-to-work-checking-circuit-board-schematics/",
+   "label": "CONFIRMED",
+   "summary_1line": "Circuit Mind raises $25M to launch AI tool cutting design time by 90% and reducing costs by 25%.",
    "published_at": "2026-10-28T12:00:00Z",
-   "url_id": "0f30e2869e33ea2f2822e0cefd2a823b"
+   "url_id": "9cdbf5223300a1208f2122993a0192b1"
   },
   {
-   "title": "KLIA Customs foils attempt to transit AI chips with potential military use",
-   "outlet": "Newswav",
-   "outlet_name": "Newswav",
-   "url": "https://newswav.com/article/klia-customs-foils-attempt-to-transit-ai-chips-with-potential-military-use-A2610_zQiI7b",
+   "title": "Apple announces major updates to creator studio with new AI features",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-announces-major-updates-creator-111833775.html",
    "label": "CONFIRMED",
-   "summary_1line": "Malaysia seizes 30 AI chip servers worth RM49.5M in transit, fifth case this year.",
-   "published_at": "2026-10-28T11:17:45Z",
-   "url_id": "7236a19bc694be553c7d698fe0d8d045"
+   "summary_1line": "Apple's Creator Studio gets AI tools in November, free for new Mac/iPad buyers.",
+   "published_at": "2026-10-28T11:18:33Z",
+   "url_id": "7983f001858a44a60d1886d62af7efaf"
   },
   {
-   "title": "Ceva Unveils Next-Generation NeuPro NPU Portfolio and Announces Expansion into AI Infrastructure",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/prnewswire:9476c5c53ea83:0-ceva-unveils-next-generation-neupro-npu-portfolio-and-announces-expansion-into-ai-infrastructure/",
+   "title": "Verisk Expands Insurance Intelligence Integrations with Amazon Quick, Microsoft Copilot and Claude by Anthropic",
+   "outlet": "Quiver Quantitative",
+   "outlet_name": "Quiver Quantitative",
+   "url": "https://www.quiverquant.com/news/Verisk+Expands+Insurance+Intelligence+Integrations+with+Amazon+Quick%2C+Microsoft+Copilot+and+Claude+by+Anthropic",
    "label": "CONFIRMED",
-   "summary_1line": "Ceva launches next-gen NeuPro NPUs with 2X AI throughput and 50% better efficiency, expanding into AI infrastructure.",
-   "published_at": "2026-10-28T11:00:00Z",
-   "url_id": "097d5a670efa6fb4ec46ce7f56da8b1d"
+   "summary_1line": "Verisk expands insurance intelligence access via Amazon Quick and Microsoft Copilot integrations.",
+   "published_at": "2026-10-28T12:30:00Z",
+   "url_id": "8f4f85a1bed24801172f53e697bb9c10"
   },
   {
-   "title": "Test Triangle Announces Microsoft AI Cloud Partner Program Membership",
-   "outlet": "EIN Presswire",
-   "outlet_name": "EIN Presswire",
-   "url": "https://www.einpresswire.com/article/952829991/test-triangle-announces-microsoft-ai-cloud-partner-program-membership",
+   "title": "Anthropic's IPO filing revives tech rally ahead of earnings and economic data releases",
+   "outlet": "The Jerusalem Post",
+   "outlet_name": "The Jerusalem Post",
+   "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-913104",
    "label": "REPORTED",
-   "summary_1line": "Test Triangle joins Microsoft AI Cloud Partner Program for Azure, Copilot, and Dynamics 365 services.",
-   "published_at": "2026-10-28T11:24:00Z",
-   "url_id": "4d338453acce83815202486e11a6a1a2"
+   "summary_1line": "Anthropic files for IPO, tech indices rise as AI sector surges.",
+   "published_at": "2026-10-28T10:29:02Z",
+   "url_id": "e1e4208b42898ed632a9a7b76e7ccb41"
   }
  ],
  "ticker": [
   {
-   "headline": "Google Cloud showcases AI tools to help Indian SMBs boost productivity, automate…",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
+   "headline": "OpenAI sued over ChatGPT medical advice in epilepsy patient's death",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
    "label": "CONFIRMED",
-   "url": "https://m.economictimes.com/tech/artificial-intelligence/google-cloud-showcases-ai-tools-to-help-indian-smbs-boost-productivity-automate-operations/articleshow/135265363.cms",
-   "url_id": "90e4c749f768442674cb526142d3d261"
+   "url": "https://qz.com/openai-lawsuit-chatgpt-epilepsy-medical-advice-death-102826",
+   "url_id": "a70f94dd57f125b45f8b18a09a61b232"
   },
   {
-   "headline": "ChatGPT Mil To Roll Out New Capabilities",
-   "outlet": "AFCEA International",
-   "outlet_name": "AFCEA International",
-   "label": "REPORTED",
-   "url": "https://www.afcea.org/signal-media/emerging-edge/chatgpt-mil-roll-out-new-capabilities",
-   "url_id": "0f30e2869e33ea2f2822e0cefd2a823b"
-  },
-  {
-   "headline": "KLIA Customs foils attempt to transit AI chips with potential military use",
-   "outlet": "Newswav",
-   "outlet_name": "Newswav",
+   "headline": "Circuit Mind lands $25M and puts AI agents to work checking circuit board schematics",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
    "label": "CONFIRMED",
-   "url": "https://newswav.com/article/klia-customs-foils-attempt-to-transit-ai-chips-with-potential-military-use-A2610_zQiI7b",
-   "url_id": "7236a19bc694be553c7d698fe0d8d045"
+   "url": "https://siliconangle.com/2026/10/28/circuit-mind-lands-25m-and-puts-ai-agents-to-work-checking-circuit-board-schematics/",
+   "url_id": "9cdbf5223300a1208f2122993a0192b1"
   },
   {
-   "headline": "Ceva Unveils Next-Generation NeuPro NPU Portfolio and Announces Expansion into AI…",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "Apple announces major updates to creator studio with new AI features",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
    "label": "CONFIRMED",
-   "url": "https://www.tradingview.com/news/prnewswire:9476c5c53ea83:0-ceva-unveils-next-generation-neupro-npu-portfolio-and-announces-expansion-into-ai-infrastructure/",
-   "url_id": "097d5a670efa6fb4ec46ce7f56da8b1d"
-  },
-  {
-   "headline": "Test Triangle Announces Microsoft AI Cloud Partner Program Membership",
-   "outlet": "EIN Presswire",
-   "outlet_name": "EIN Presswire",
-   "label": "REPORTED",
-   "url": "https://www.einpresswire.com/article/952829991/test-triangle-announces-microsoft-ai-cloud-partner-program-membership",
-   "url_id": "4d338453acce83815202486e11a6a1a2"
+   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-announces-major-updates-creator-111833775.html",
+   "url_id": "7983f001858a44a60d1886d62af7efaf"
   },
   {
    "headline": "Verisk Expands Insurance Intelligence Integrations with Amazon Quick, Microsoft Copilot…",
@@ -122,6 +106,14 @@
    "url_id": "c83806ed3d1c33faf3b897a68ce325c5"
   },
   {
+   "headline": "Anthropic buys a one-person biotech and starts its own drug programmes",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/anthropic-mithril-acquisition-claude-drug-development",
+   "url_id": "cca8d4c4e510214da72e5ef78a8533b2"
+  },
+  {
    "headline": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers…",
    "outlet": "The Decoder",
    "outlet_name": "The Decoder",
@@ -130,38 +122,46 @@
    "url_id": "a57e5c613b01c6dc0196a5efab4a6720"
   },
   {
-   "headline": "Anthropic, Suno sued over alleged AI training using Madonna, Johnny Cash, Joni Mitchell's…",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/news/other/anthropic-suno-sued-over-alleged-ai-training-using-madonna-johnny-cash-joni-mitchells-music/ar-AA2gdr3z",
-   "url_id": "dbe4774b8e557e918ae89c854b1c0124"
-  },
-  {
-   "headline": "Despite Pentagon blacklist, Anthropic expands US government AI deal with new GSA agreement",
-   "outlet": "Business Today on MSN",
-   "outlet_name": "Business Today on MSN",
+   "headline": "Sen. Elizabeth Warren demands Anthropic answer AI safety questions before its IPO",
+   "outlet": "Quartz",
+   "outlet_name": "Quartz",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/despite-pentagon-blacklist-anthropic-expands-us-government-ai-deal-with-new-gsa-agreement/ar-AA2geUOH",
-   "url_id": "c58453f03e8a96171da2ae6801d7f781"
+   "url": "https://qz.com/warren-anthropic-ai-safety-questions-ipo-102826",
+   "url_id": "3fff3a8db77391bf7c33c2ad5cf8878b"
   },
   {
-   "headline": "American billionaire Elon Musk’s SpaceX could get up to $120.5 billion from Anthropic",
-   "outlet": "Billionaires.Africa",
-   "outlet_name": "Billionaires.Africa",
+   "headline": "ThinkMarkets launches 24/7 pre-IPO markets on Anthropic and OpenAI",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "REPORTED",
-   "url": "https://www.billionaires.africa/2026/10/28/american-billionaire-elon-musks-spacex-could-get-up-to-120-5-billion-from-anthropic/",
-   "url_id": "98e719d54e7489bd0699c88a922e8a2d"
+   "url": "https://www.tradingview.com/news/financewire:b7506124b094b:0-thinkmarkets-launches-24-7-pre-ipo-markets-on-anthropic-and-openai/",
+   "url_id": "b2ee5d6cbf58cdb061bc7ca3cf9e13a1"
+  },
+  {
+   "headline": "Fleet brings NVIDIA AI workstations into enterprise security and governance workflows",
+   "outlet": "Cybersecurity Insiders",
+   "outlet_name": "Cybersecurity Insiders",
+   "label": "REPORTED",
+   "url": "https://www.cybersecurity-insiders.com/fleet-brings-nvidia-ai-workstations-into-enterprise-security-and-governance-workflows/",
+   "url_id": "a9a0fd37e0dfa2fde1c1872afd9a4855"
+  },
+  {
+   "headline": "EXCLUSIVE: AI Military Mishap Fuels Fears of Accidental Global Conflict",
+   "outlet": "RadarOnline",
+   "outlet_name": "RadarOnline",
+   "label": "STILL OPEN",
+   "url": "https://radaronline.com/p/ai-military-mishap-accidental-global-conflict/",
+   "url_id": "aec4e2b2a02abf3da818884ca6879329"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 14800,
+ "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
+ "articles_24h_rounded": 14900,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/14.mp3",
- "audio_seconds": 57.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/15.mp3",
+ "audio_seconds": 55.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle Cloud shows artificial intelligence tools for Indian small and medium businesses at Cloud Day India 2026, confirmed by The Economic Times.\nPentagon and OpenAI expand ChatGPT Mil with memory, document generation, and training capabilities for military users, reported by AFCEA International.\nMalaysia seizes 30 artificial intelligence chip servers worth RM49.5M in transit at KLIA Customs, in the fifth case this year, confirmed by Newswav.\nCeva launches next-generation NeuPro NPUs with 2X artificial intelligence throughput and 50 percent better efficiency, expanding into artificial intelligence infrastructure, confirmed by TradingView.\nTest Triangle joins Microsoft artificial intelligence Cloud Partner Program for Azure, Copilot, and Dynamics 365 services, reported by EIN Presswire.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is being sued by parents over ChatGPT advising an epilepsy medication taper that led to their daughter's death, confirmed by Quartz.\nCircuit Mind raised 25M to launch an artificial intelligence tool that cuts design time by 90 percent and reduces costs by 25 percent, confirmed by SiliconANGLE.\nApple's Creator Studio gets artificial intelligence tools in November, free for new Mac and iPad buyers, confirmed by Yahoo Tech.\nVerisk expands insurance intelligence access via Amazon Quick and Microsoft Copilot integrations, confirmed by Quiver Quantitative.\nAnthropic files for an initial public offering as tech indices rise and the artificial intelligence sector surges, reported by The Jerusalem Post.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
