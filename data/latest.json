@@ -1,117 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-27T22:20:03Z",
- "hour": "2026-10-27T23:00:00Z",
+ "generated_at": "2026-10-27T23:20:02Z",
+ "hour": "2026-10-28T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic Says It Will Revolutionize Biology—Some Day",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
+   "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic downplays AI's role in drug discovery, citing research gaps and long development timelines.",
-   "published_at": "2026-10-27T19:39:04Z",
-   "url_id": "b1e376bba5838b3f7304b3a949cd0e4b"
+   "summary_1line": "OpenAI's GPT-6 beats GPT-5 by 4 points on MMLU, rolling out to Plus users next week.",
+   "published_at": "2026-10-27T22:23:13Z",
+   "url_id": "64399362eff1b1b05f50de80a73bd531"
   },
   {
-   "title": "Anthropic warns of losing control of AI as it races toward historic IPO",
-   "outlet": "KOMO",
-   "outlet_name": "KOMO",
-   "url": "https://komonews.com/news/nation-world/anthropic-warns-of-losing-control-of-ai-as-it-races-toward-historic-ipo",
+   "title": "Anthropic, Suno Sued for Unlawfully Using Songs by Madonna, Johnny Cash, Joni Mitchell",
+   "outlet": "CNET",
+   "outlet_name": "CNET",
+   "url": "https://www.cnet.com/tech/services-and-software/anthropic-suno-sued-using-songs-madonna-johnny-cash-joni-mitchell/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic warns AI could threaten humanity and face lawsuits over rogue agents.",
-   "published_at": "2026-10-27T20:15:21Z",
-   "url_id": "9de23c7a812f8312c6539baa09b83563"
+   "summary_1line": "Suno and Anthropic sued for allegedly scraping copyrighted music to train AI models.",
+   "published_at": "2026-10-27T21:22:45Z",
+   "url_id": "5e3c52ec6f3df7d350bd1167a90aed0a"
   },
   {
-   "title": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
+   "title": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
    "label": "CONFIRMED",
-   "summary_1line": "Amazon discourages tokenmaxxing, promotes feature velocity as key AI productivity metric.",
-   "published_at": "2026-10-27T18:57:45Z",
-   "url_id": "b4e5877b1cf140e0e751f5d9247a2562"
+   "summary_1line": "Delaware proposes AI-run companies with 30-month sandbox, shielding humans from AI-related liabilities.",
+   "published_at": "2026-10-27T21:50:04Z",
+   "url_id": "c9a8a7e8ec32b91153c035f05f13a4d7"
   },
   {
-   "title": "Eight states file coordinated lawsuits sues OpenAi, alleging ChatGPT safety failures",
-   "outlet": "WPEC",
-   "outlet_name": "WPEC",
-   "url": "https://cbs12.com/news/nation-world/eight-states-file-coordinated-lawsuits-sues-openai-alleging-chatgpt-safety-failures-leeza-garber-artificial-intelligence-technology-chatbots-ai-generative-text-personal-information-privacy-meta-data-social-media",
-   "label": "REPORTED",
-   "summary_1line": "Eight states sue OpenAI over ChatGPT safety failures for teens.",
-   "published_at": "2026-10-27T18:17:46Z",
-   "url_id": "4ef366cb07e78dd6bd846d6077d9ee8e"
+   "title": "Who’s really in charge at Anthropic after the IPO?",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic's governance gives founders and a trust majority control, limiting common shareholders' influence.",
+   "published_at": "2026-10-27T21:38:28Z",
+   "url_id": "f74f3a0c358e9a1dab0e6a0255085b5d"
   },
   {
-   "title": "Ex-Google engineer Nate Soares hasn’t added to his 401(k) in a decade because he’s an ‘AI kills all humans guy’",
+   "title": "The big takeaways and big questions from Anthropic’s S-1",
    "outlet": "fortune.com",
    "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/27/ai-humanity-nate-soares-401k-retirement/",
+   "url": "https://fortune.com/2026/10/27/the-big-takeaways-and-big-questions-from-anthropics-s-1/",
    "label": "CONFIRMED",
-   "summary_1line": "Nate Soares warns AI could kill all humans, urging nations to treat it like nuclear weapons.",
-   "published_at": "2026-10-27T19:05:10Z",
-   "url_id": "6128e44e0275898a59e98db850ae2199"
+   "summary_1line": "Anthropic's IPO reveals massive compute spending and governance concerns amid AI industry growth.",
+   "published_at": "2026-10-27T19:38:10Z",
+   "url_id": "4e28bf0a5338f8faf4e40fd723194b5a"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic Says It Will Revolutionize Biology—Some Day",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
+   "headline": "Expanding our partnership with GSA to bring Claude to all levels of government",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
    "label": "CONFIRMED",
-   "url": "https://www.wired.com/story/anthropic-says-it-will-revolutionize-biology-some-day/",
-   "url_id": "b1e376bba5838b3f7304b3a949cd0e4b"
+   "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+   "url_id": "64399362eff1b1b05f50de80a73bd531"
   },
   {
-   "headline": "Anthropic warns of losing control of AI as it races toward historic IPO",
-   "outlet": "KOMO",
-   "outlet_name": "KOMO",
+   "headline": "Anthropic, Suno Sued for Unlawfully Using Songs by Madonna, Johnny Cash, Joni Mitchell",
+   "outlet": "CNET",
+   "outlet_name": "CNET",
    "label": "CONFIRMED",
-   "url": "https://komonews.com/news/nation-world/anthropic-warns-of-losing-control-of-ai-as-it-races-toward-historic-ipo",
-   "url_id": "9de23c7a812f8312c6539baa09b83563"
+   "url": "https://www.cnet.com/tech/services-and-software/anthropic-suno-sued-using-songs-madonna-johnny-cash-joni-mitchell/",
+   "url_id": "5e3c52ec6f3df7d350bd1167a90aed0a"
   },
   {
-   "headline": "Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "\"No human at the helm\": Delaware plan would let AI agents run entire businesses",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/27/amazon-ai-coding-tokenmaxxing.html",
-   "url_id": "b4e5877b1cf140e0e751f5d9247a2562"
+   "url": "https://arstechnica.com/tech-policy/2026/10/no-human-at-the-helm-delaware-plan-would-let-ai-agents-run-entire-businesses/",
+   "url_id": "c9a8a7e8ec32b91153c035f05f13a4d7"
   },
   {
-   "headline": "Eight states file coordinated lawsuits sues OpenAi, alleging ChatGPT safety failures",
-   "outlet": "WPEC",
-   "outlet_name": "WPEC",
-   "label": "REPORTED",
-   "url": "https://cbs12.com/news/nation-world/eight-states-file-coordinated-lawsuits-sues-openai-alleging-chatgpt-safety-failures-leeza-garber-artificial-intelligence-technology-chatbots-ai-generative-text-personal-information-privacy-meta-data-social-media",
-   "url_id": "4ef366cb07e78dd6bd846d6077d9ee8e"
+   "headline": "Who’s really in charge at Anthropic after the IPO?",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+   "url_id": "f74f3a0c358e9a1dab0e6a0255085b5d"
   },
   {
-   "headline": "Ex-Google engineer Nate Soares hasn’t added to his 401(k) in a decade because he’s an ‘AI…",
+   "headline": "The big takeaways and big questions from Anthropic’s S-1",
    "outlet": "fortune.com",
    "outlet_name": "Fortune",
    "label": "CONFIRMED",
-   "url": "https://fortune.com/2026/10/27/ai-humanity-nate-soares-401k-retirement/",
-   "url_id": "6128e44e0275898a59e98db850ae2199"
+   "url": "https://fortune.com/2026/10/27/the-big-takeaways-and-big-questions-from-anthropics-s-1/",
+   "url_id": "4e28bf0a5338f8faf4e40fd723194b5a"
   },
   {
-   "headline": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "China’s first AI-generated film to get a theatrical release flops at the box office",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
    "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/cybersecurity/articles/ai-agents-creating-layer-cybersecurity-191603170.html",
-   "url_id": "51412bbcbb8f1920f6dbc485d0acc179"
+   "url": "https://fortune.com/2026/10/27/china-first-ai-film-sanxingdui-box-office/",
+   "url_id": "fb7ce4f9837fd3a89a4bd6592c45cf2c"
   },
   {
-   "headline": "Alibaba's latest Qwen models routed some requests through company servers, researchers…",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
+   "headline": "Oracle and OpenAI Unveil $12,000 Cloud Credit Bundle for Small Businesses",
+   "outlet": "Small Business Trends",
+   "outlet_name": "Small Business Trends",
+   "label": "REPORTED",
+   "url": "https://smallbiztrends.com/oracle-and-openai-unveil-12000-cloud-credit-bundle-for-small-businesses/",
+   "url_id": "6f49c830a61f0a082ea619bcb74f5e05"
+  },
+  {
+   "headline": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
+   "outlet": "fedscoop.com",
+   "outlet_name": "fedscoop.com",
    "label": "CONFIRMED",
-   "url": "https://the-decoder.com/alibabas-latest-qwen-models-routed-some-requests-through-company-servers-researchers-find/",
-   "url_id": "2d4232590babd909fa64bd9c77c9d0fe"
+   "url": "https://fedscoop.com/gsa-onegov-deal-claude-anthropic/",
+   "url_id": "d453c39193c1411291354e168badd797"
   },
   {
    "headline": "Discovering and exploiting vulnerabilities in real-world software with Claude",
@@ -122,46 +130,38 @@
    "url_id": "2ef1fbc3458e029d755f0754946b16c2"
   },
   {
-   "headline": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
-   "outlet": "lspace.beehiiv.com",
-   "outlet_name": "lspace.beehiiv.com",
+   "headline": "All the security risks Anthropic is worried about before its IPO",
+   "outlet": "cyberscoop.com",
+   "outlet_name": "cyberscoop.com",
    "label": "CONFIRMED",
-   "url": "https://lspace.beehiiv.com/podcast/s/latent_space_the_ai_engineer_podcast/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands",
-   "url_id": "4602f74f0c25e983dc46d129c23537c0"
+   "url": "https://cyberscoop.com/anthropic-ipo-filing-cybersecurity-risks/",
+   "url_id": "858295d8faf717a72aa11948fb59690f"
   },
   {
-   "headline": "Anthropic sued for allegedly using Elvis Presley's music to train Claude AI",
-   "outlet": "San Francisco Chronicle on MSN",
-   "outlet_name": "San Francisco Chronicle on MSN",
+   "headline": "ChatGPT Can Now Access Your iCloud Mail and Calendar",
+   "outlet": "macrumors.com",
+   "outlet_name": "macrumors.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/anthropic-sued-for-allegedly-using-elvis-presleys-music-to-train-claude-ai/ar-AA2gbR9R",
-   "url_id": "687e9bf8415adc12df028300fabb3986"
+   "url": "https://www.macrumors.com/2026/10/27/chatgpt-icloud-mail-calendar-plugin/",
+   "url_id": "6906bcc96e3b53110a7cd1c9f5bb99f1"
   },
   {
-   "headline": "8 examples of Gemini 4 Argon in action",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Robotics AI startup Physical Intelligence is seeking a valuation of about $20 billion",
+   "outlet": "qz.com",
+   "outlet_name": "qz.com",
    "label": "CONFIRMED",
-   "url": "https://blog.google/products-and-platforms/products/gemini/gemini-4-argon-in-action/",
-   "url_id": "04e4128465ea7ce7e99774ef2a63af44"
-  },
-  {
-   "headline": "OpenAI’s Sam Altman urges companies to focus on AI security threat as GPT-6 adoption soars",
-   "outlet": "www.thenationalnews.com",
-   "outlet_name": "www.thenationalnews.com",
-   "label": "CONFIRMED",
-   "url": "https://www.thenationalnews.com/business/2026/10/27/openais-sam-altman-urges-companies-to-focus-on-ai-security-threat-as-gpt-6-adoption-soars/",
-   "url_id": "d8f33b4e68d01540ef5b3c58070f729b"
+   "url": "https://qz.com/physical-intelligence-funding-talks-20-billion-valuation-102726",
+   "url_id": "19daa2aac9bd1a03c9a5a702a98299bc"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
  "articles_24h_rounded": 14700,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/27/23.mp3",
- "audio_seconds": 55.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/00.mp3",
+ "audio_seconds": 58.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Wired: Anthropic Says It Will Revolutionize Biology—Some Day.\nConfirmed, per KOMO: Anthropic warns of losing control of AI as it races toward historic IPO.\nConfirmed, per CNBC: Amazon's anti-tokenmaxxing memo says engineers should be pickier about using AI.\nReported by WPEC: Eight states file coordinated lawsuits sues OpenAi, alleging ChatGPT safety failures.\nConfirmed, per Fortune: Ex-Google engineer Nate Soares hasn’t added to his 401(k) in a decade because he’s an ‘AI kills all humans guy’.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's partnership with GSA will bring Claude to all levels of government. Confirmed by Anthropic.\nSuno and Anthropic are being sued for allegedly scraping copyrighted music from Madonna, Johnny Cash, and Joni Mitchell to train their models. Confirmed by CNET.\nDelaware is proposing a plan that would allow artificial intelligence agents to run entire businesses with a 30-month sandbox period. Confirmed by Ars Technica.\nAfter Anthropic's IPO, founders and a trust hold majority control of the company, limiting the influence of common shareholders. Confirmed by TechCrunch.\nAnthropic's IPO filing reveals massive compute spending and raises governance questions as the artificial intelligence industry continues to grow. Confirmed by Fortune.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
