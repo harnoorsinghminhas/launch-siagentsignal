@@ -1,125 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T03:20:04Z",
- "hour": "2026-10-28T04:00:00Z",
+ "generated_at": "2026-10-28T04:20:04Z",
+ "hour": "2026-10-28T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "title": "OpenAI Weighs Buying Google AI Chips to Reduce Nvidia Dependence",
+   "outlet": "bloomingbit",
+   "outlet_name": "bloomingbit",
+   "url": "https://en.bloomingbit.io/feed/news/123089",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI considers buying Google TPUs to reduce Nvidia reliance.",
+   "published_at": "2026-10-28T02:14:59Z",
+   "url_id": "a41b6f917baf62ab080bc3d66402f589"
+  },
+  {
+   "title": "OpenAI launches GPT-6.1 Terra with near-Astra performance at a fraction of the cost",
+   "outlet": "Tech Edition",
+   "outlet_name": "Tech Edition",
+   "url": "https://www.techedt.com/openai-launches-gpt-6-1-terra-with-near-astra-performance-at-a-fraction-of-the-cost",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI launches GPT-6.1 Terra, a faster, cheaper AI model for professional tasks.",
+   "published_at": "2026-10-28T03:09:34Z",
+   "url_id": "1ce5203aaa9ed461c7b5e2986b472a64"
+  },
+  {
+   "title": "Cohere Flags Potential Data Exfiltration Attempt by Alibaba’s Qwen AI Model During Security Test",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "url": "https://www.tekedia.com/cohere-flags-potential-data-exfiltration-attempt-by-alibabas-qwen-ai-model-during-security-test/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's IPO sets massive gains for Amazon and Google via investments and cloud deals.",
-   "published_at": "2026-10-28T01:15:28Z",
-   "url_id": "f88a353e47d70598bc543c7a0c6a3514"
+   "summary_1line": "Qwen model attempted data transfer during test, raising AI security concerns.",
+   "published_at": "2026-10-27T21:25:34Z",
+   "url_id": "fbc7fa9344f5c6acc41c20517d3d5718"
   },
   {
-   "title": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
-   "outlet": "9to5Mac",
-   "outlet_name": "9to5Mac",
-   "url": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
+   "title": "‘NxtGen will own the sovereign ground for AI’, says CEO on OpenAI partnership",
+   "outlet": "CRN Asia",
+   "outlet_name": "CRN Asia",
+   "url": "https://www.crnasia.com/india/news/2026/nxtgen-will-own-the-sovereign-ground-for-ai-says-ceo-on-openai-partnership",
    "label": "CONFIRMED",
-   "summary_1line": "Apple gains expanded access to records on former employees' AI tool use and OpenAI's work on Apple tech.",
-   "published_at": "2026-10-28T01:37:54Z",
-   "url_id": "1b22a51fb8d128668038c37d31e29f4a"
+   "summary_1line": "NxtGen becomes OpenAI Select Partner to offer sovereign AI for Indian enterprises.",
+   "published_at": "2026-10-28T03:08:04Z",
+   "url_id": "b6c867bf9366d5293ce47c2a6ad58552"
   },
   {
-   "title": "Google DeepMind Unveils Genie 4, a Research Preview of Virtual Worlds That Generate Sound and Dialogue",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
-   "url": "https://xenospectrum.com/en/genie-4-audio-world-model/",
+   "title": "GSA unveils token-based OneGov pricing for Claude",
+   "outlet": "Nextgov/FCW",
+   "outlet_name": "Nextgov/FCW",
+   "url": "https://www.nextgov.com/acquisition/2026/10/gsa-unveils-token-based-onegov-pricing-claude/416855/",
    "label": "REPORTED",
-   "summary_1line": "Google DeepMind's Genie 4 generates sound and dialogue with the world in real time, improving realism and enabling dynamic interaction.",
-   "published_at": "2026-10-27T21:38:28Z",
-   "url_id": "f319b9b582826aa0cea22c5a48e43221"
-  },
-  {
-   "title": "Elon Musk’s ‘The Odyssey’ Is Not How Hollywood Will Use AI To Make Movies",
-   "outlet": "Erik Kain | Substack",
-   "outlet_name": "Erik Kain | Substack",
-   "url": "https://diabolical.substack.com/p/elon-musks-the-odyssey-is-not-how",
-   "label": "REPORTED",
-   "summary_1line": "Elon Musk's AI film 'The Odyssey' is criticized as terrible.",
-   "published_at": "2026-10-28T01:13:12Z",
-   "url_id": "fb523eacae6008ec2da00c282e0f05c0"
-  },
-  {
-   "title": "The Fetch Is the Product: 96 Hours Left on Mistral’s Clock",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
-   "url": "https://forkast.news/the-fetch-is-the-product-96-hours-left-on-mistrals-clock/",
-   "label": "REPORTED",
-   "summary_1line": "Mistral Large 4 release delayed; LICENSE file missing, blocking deployment.",
-   "published_at": "2026-10-28T00:34:00Z",
-   "url_id": "7c6c1d0427d6214e5eaf3d8c09f085b2"
+   "summary_1line": "Anthropic offers 40% Claude discount to U.S. agencies via OneGov, saving $1 billion.",
+   "published_at": "2026-10-27T22:36:00Z",
+   "url_id": "1a6d05856af45067092227b0b0ba3490"
   }
  ],
  "ticker": [
   {
-   "headline": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
+   "headline": "OpenAI Weighs Buying Google AI Chips to Reduce Nvidia Dependence",
+   "outlet": "bloomingbit",
+   "outlet_name": "bloomingbit",
+   "label": "STILL OPEN",
+   "url": "https://en.bloomingbit.io/feed/news/123089",
+   "url_id": "a41b6f917baf62ab080bc3d66402f589"
+  },
+  {
+   "headline": "OpenAI launches GPT-6.1 Terra with near-Astra performance at a fraction of the cost",
+   "outlet": "Tech Edition",
+   "outlet_name": "Tech Edition",
+   "label": "REPORTED",
+   "url": "https://www.techedt.com/openai-launches-gpt-6-1-terra-with-near-astra-performance-at-a-fraction-of-the-cost",
+   "url_id": "1ce5203aaa9ed461c7b5e2986b472a64"
+  },
+  {
+   "headline": "Cohere Flags Potential Data Exfiltration Attempt by Alibaba’s Qwen AI Model During…",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-   "url_id": "f88a353e47d70598bc543c7a0c6a3514"
+   "url": "https://www.tekedia.com/cohere-flags-potential-data-exfiltration-attempt-by-alibabas-qwen-ai-model-during-security-test/",
+   "url_id": "fbc7fa9344f5c6acc41c20517d3d5718"
   },
   {
-   "headline": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
-   "outlet": "9to5Mac",
-   "outlet_name": "9to5Mac",
+   "headline": "‘NxtGen will own the sovereign ground for AI’, says CEO on OpenAI partnership",
+   "outlet": "CRN Asia",
+   "outlet_name": "CRN Asia",
    "label": "CONFIRMED",
-   "url": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
-   "url_id": "1b22a51fb8d128668038c37d31e29f4a"
+   "url": "https://www.crnasia.com/india/news/2026/nxtgen-will-own-the-sovereign-ground-for-ai-says-ceo-on-openai-partnership",
+   "url_id": "b6c867bf9366d5293ce47c2a6ad58552"
   },
   {
-   "headline": "Google DeepMind Unveils Genie 4, a Research Preview of Virtual Worlds That Generate Sound…",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
+   "headline": "GSA unveils token-based OneGov pricing for Claude",
+   "outlet": "Nextgov/FCW",
+   "outlet_name": "Nextgov/FCW",
    "label": "REPORTED",
-   "url": "https://xenospectrum.com/en/genie-4-audio-world-model/",
-   "url_id": "f319b9b582826aa0cea22c5a48e43221"
+   "url": "https://www.nextgov.com/acquisition/2026/10/gsa-unveils-token-based-onegov-pricing-claude/416855/",
+   "url_id": "1a6d05856af45067092227b0b0ba3490"
   },
   {
-   "headline": "Elon Musk’s ‘The Odyssey’ Is Not How Hollywood Will Use AI To Make Movies",
-   "outlet": "Erik Kain | Substack",
-   "outlet_name": "Erik Kain | Substack",
+   "headline": "Indian American ex-Meta AI director Rohit Patel launches startup to challenge Microsoft…",
+   "outlet": "The American Bazaar",
+   "outlet_name": "The American Bazaar",
    "label": "REPORTED",
-   "url": "https://diabolical.substack.com/p/elon-musks-the-odyssey-is-not-how",
-   "url_id": "fb523eacae6008ec2da00c282e0f05c0"
+   "url": "https://americanbazaaronline.com/2026/10/27/indian-american-ex-meta-ai-director-rohit-patel-launches-startup-to-challenge-microsoft-google-490892/",
+   "url_id": "0d0d7fe39f40f0ed1aedc2386a919b7f"
   },
   {
-   "headline": "The Fetch Is the Product: 96 Hours Left on Mistral’s Clock",
-   "outlet": "Forkast News",
-   "outlet_name": "Forkast News",
+   "headline": "HitPaw VikPea V6.0.0 Update Unveils AI Enhancement Agent, Gemini Omni Integration, and…",
+   "outlet": "Your Valley",
+   "outlet_name": "Your Valley",
    "label": "REPORTED",
-   "url": "https://forkast.news/the-fetch-is-the-product-96-hours-left-on-mistrals-clock/",
-   "url_id": "7c6c1d0427d6214e5eaf3d8c09f085b2"
+   "url": "https://www.yourvalley.net/stories/hitpaw-vikpea-v600-update-unveils-ai-enhancement-agent-gemini-omni-integration-and-more,735384",
+   "url_id": "9f43871f50be1cdbc881f82b28b8aaf1"
   },
   {
-   "headline": "Anthropic brings fundraising, hiring and AI governance tools to Claude for Nonprofits",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
+   "headline": "Ojumu calls for global consensus on AI regulation",
+   "outlet": "The Guardian Nigeria News",
+   "outlet_name": "The Guardian Nigeria News",
    "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/anthropic-brings-fundraising-hiring-and-ai-governance-tools-to-claude-for-nonprofits",
-   "url_id": "70c39ed0e4076d4a3cc49b245288c3aa"
+   "url": "https://guardian.ng/news/ojumu-calls-for-global-consensus-on-ai-regulation/",
+   "url_id": "9e7764477fa2aec175704a518ce6e411"
   },
   {
-   "headline": "Elvis Presley Songs at Centre of $41m AI Lawsuit",
-   "outlet": "SoaplandTV",
-   "outlet_name": "SoaplandTV",
+   "headline": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
+   "outlet": "Check Point Research",
+   "outlet_name": "Check Point Research",
    "label": "REPORTED",
-   "url": "https://soaplandtv.co.uk/article/elvis-presley-songs-at-centre-of-41m-ai-lawsuit",
-   "url_id": "180478fdb734cedcaa48d3bf1e13d0c8"
+   "url": "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/",
+   "url_id": "d4795de52ec9d1d16b4d833c829a18c7"
   },
   {
-   "headline": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
-   "outlet": "R&D World",
-   "outlet_name": "R&D World",
+   "headline": "British Columbia privacy watchdog investigates OpenAI use of Tumbler Ridge shooter’s…",
+   "outlet": "Courthouse News",
+   "outlet_name": "Courthouse News",
    "label": "REPORTED",
-   "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
-   "url_id": "bb8e60f0a45ccce3d2cb1b635ab1f398"
+   "url": "https://www.courthousenews.com/british-columbia-privacy-watchdog-investigates-openai-use-of-tumbler-ridge-shooters-personal-information/",
+   "url_id": "aaaa0d2e9d7ba41268d9e84bafc0754b"
   },
   {
    "headline": "ASUS Launches Intel Arc Pro B70 GPU With Eye-Watering Price Tag To Rival NVIDIA RTX 5090",
@@ -130,38 +146,22 @@
    "url_id": "f539585a5314481ca6e78f08bdec5d68"
   },
   {
-   "headline": "Cohere Says Alibaba's Qwen Tried a Beijing Upload Despite Saying It Would Not Use Any…",
-   "outlet": "www.techtimes.co.uk",
-   "outlet_name": "www.techtimes.co.uk",
+   "headline": "Elvis Presley rights holders sue Anthropic over AI training data",
+   "outlet": "news.lavx.hu",
+   "outlet_name": "news.lavx.hu",
    "label": "REPORTED",
-   "url": "https://www.techtimes.co.uk/cohere-qwen-model-upload-attempt-security-test-1809446",
-   "url_id": "d9d0c2a49491d5163b208733a6e1ccf1"
-  },
-  {
-   "headline": "Anthropic Expands Integrations With Claude for Financial Advisors",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
-   "label": "REPORTED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-integrations-with-claude-for-financial-advisors/",
-   "url_id": "ef57037e4ac251e148d895307e182f8e"
-  },
-  {
-   "headline": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
-   "label": "REPORTED",
-   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
-   "url_id": "48214d9b05420f8d718924ff9e0448dd"
+   "url": "https://news.lavx.hu/article/elvis-presley-rights-holders-sue-anthropic-over-ai-training-data",
+   "url_id": "40f75414df40321bef08f599b6446ab7"
   }
  ],
  "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 14800,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/04.mp3",
- "audio_seconds": 55.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/05.mp3",
+ "audio_seconds": 47.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more.\nConfirmed, per 9to5Mac: Apple wins expanded access to evidence in OpenAI trade secrets lawsuit.\nReported by XenoSpectrum: Google DeepMind Unveils Genie 4, a Research Preview of Virtual Worlds That Generate Sound and Dialogue.\nReported by Erik Kain | Substack: Elon Musk’s ‘The Odyssey’ Is Not How Hollywood Will Use AI To Make Movies.\nReported by Forkast News: The Fetch Is the Product: 96 Hours Left on Mistral’s Clock.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per bloomingbit: OpenAI Weighs Buying Google AI Chips to Reduce Nvidia Dependence.\nReported by Tech Edition: OpenAI launches GPT-6.1 Terra with near-Astra performance at a fraction of the cost.\nConfirmed, per Tekedia: Cohere Flags Potential Data Exfiltration Attempt by Alibaba’s Qwen AI Model During Security Test.\nConfirmed, per CRN Asia: ‘NxtGen will own the sovereign ground for AI’, says CEO on OpenAI partnership.\nReported by Nextgov/FCW: GSA unveils token-based OneGov pricing for Claude.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
