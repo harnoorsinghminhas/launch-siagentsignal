@@ -1,101 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T02:20:02Z",
- "hour": "2026-10-28T03:00:00Z",
+ "generated_at": "2026-10-28T03:20:04Z",
+ "hour": "2026-10-28T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Oracle brings Google’s TPUs to its cloud, adds ChatGPT integrations",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
-   "url": "https://siliconangle.com/2026/10/27/oracle-brings-googles-tpus-to-its-cloud-adds-chatgpt-integrations/",
+   "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
    "label": "CONFIRMED",
-   "summary_1line": "Oracle adds Google’s TPUs and ChatGPT to its cloud, launching AI tools for businesses.",
-   "published_at": "2026-10-27T23:33:00Z",
-   "url_id": "2dfb28eb324346efb58a9a352743e219"
+   "summary_1line": "Anthropic's IPO sets massive gains for Amazon and Google via investments and cloud deals.",
+   "published_at": "2026-10-28T01:15:28Z",
+   "url_id": "f88a353e47d70598bc543c7a0c6a3514"
   },
   {
-   "title": "Google Cloud and NVIDIA unveil Vera Rubin AI systems | ETIH EdTech News",
-   "outlet": "EdTech Innovation Hub",
-   "outlet_name": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/google-cloud-and-nvidia-unveil-vera-rubin-ai-systems-and-new-sovereign-cloud-tools",
-   "label": "REPORTED",
-   "summary_1line": "Google and NVIDIA launch sovereign AI systems with Vera Rubin GPUs, available in November 2026.",
-   "published_at": "2026-10-28T00:30:53Z",
-   "url_id": "045ddcbbdd305edd71a47086437b92df"
+   "title": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
+   "outlet": "9to5Mac",
+   "outlet_name": "9to5Mac",
+   "url": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
+   "label": "CONFIRMED",
+   "summary_1line": "Apple gains expanded access to records on former employees' AI tool use and OpenAI's work on Apple tech.",
+   "published_at": "2026-10-28T01:37:54Z",
+   "url_id": "1b22a51fb8d128668038c37d31e29f4a"
   },
   {
-   "title": "OpenAI says AI refuted the Exponential Time Hypothesis",
-   "outlet": "R&D World",
-   "outlet_name": "R&D World",
-   "url": "https://www.rdworldonline.com/openai-ai-refuted-exponential-time-hypothesis-math-physics-proofs/",
+   "title": "Google DeepMind Unveils Genie 4, a Research Preview of Virtual Worlds That Generate Sound and Dialogue",
+   "outlet": "XenoSpectrum",
+   "outlet_name": "XenoSpectrum",
+   "url": "https://xenospectrum.com/en/genie-4-audio-world-model/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI claims AI breakthroughs in math and physics, with Anthropic independently reporting a similar result.",
-   "published_at": "2026-10-28T00:20:13Z",
-   "url_id": "071d468fad5e1aa70a12ded9a1c4a190"
+   "summary_1line": "Google DeepMind's Genie 4 generates sound and dialogue with the world in real time, improving realism and enabling dynamic interaction.",
+   "published_at": "2026-10-27T21:38:28Z",
+   "url_id": "f319b9b582826aa0cea22c5a48e43221"
   },
   {
-   "title": "What an Anthropic IPO Could Mean for the Bay Area",
-   "outlet": "KQED",
-   "outlet_name": "KQED",
-   "url": "https://www.kqed.org/forum/2010101915855/what-an-anthropic-ipo-could-mean-for-the-bay-area",
+   "title": "Elon Musk’s ‘The Odyssey’ Is Not How Hollywood Will Use AI To Make Movies",
+   "outlet": "Erik Kain | Substack",
+   "outlet_name": "Erik Kain | Substack",
+   "url": "https://diabolical.substack.com/p/elon-musks-the-odyssey-is-not-how",
    "label": "REPORTED",
-   "summary_1line": "Anthropic files for IPO, offering first detailed view of its finances and risks.",
-   "published_at": "2026-10-27T23:30:00Z",
-   "url_id": "c1b9d1f3d739175d0b15af8f4641711f"
+   "summary_1line": "Elon Musk's AI film 'The Odyssey' is criticized as terrible.",
+   "published_at": "2026-10-28T01:13:12Z",
+   "url_id": "fb523eacae6008ec2da00c282e0f05c0"
   },
   {
-   "title": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "url": "https://michaelparekh.substack.com/p/racing-far-and-wide-in-ai-anthropic",
+   "title": "The Fetch Is the Product: 96 Hours Left on Mistral’s Clock",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "url": "https://forkast.news/the-fetch-is-the-product-96-hours-left-on-mistrals-clock/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic boosts AI efficiency; OpenAI cuts prices; Google advances world AI models.",
-   "published_at": "2026-10-27T23:17:23Z",
-   "url_id": "de44475978c6cf6250e550eeb8384293"
+   "summary_1line": "Mistral Large 4 release delayed; LICENSE file missing, blocking deployment.",
+   "published_at": "2026-10-28T00:34:00Z",
+   "url_id": "7c6c1d0427d6214e5eaf3d8c09f085b2"
   }
  ],
  "ticker": [
   {
-   "headline": "Oracle brings Google’s TPUs to its cloud, adds ChatGPT integrations",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
+   "headline": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://siliconangle.com/2026/10/27/oracle-brings-googles-tpus-to-its-cloud-adds-chatgpt-integrations/",
-   "url_id": "2dfb28eb324346efb58a9a352743e219"
+   "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+   "url_id": "f88a353e47d70598bc543c7a0c6a3514"
   },
   {
-   "headline": "Google Cloud and NVIDIA unveil Vera Rubin AI systems | ETIH EdTech News",
+   "headline": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
+   "outlet": "9to5Mac",
+   "outlet_name": "9to5Mac",
+   "label": "CONFIRMED",
+   "url": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
+   "url_id": "1b22a51fb8d128668038c37d31e29f4a"
+  },
+  {
+   "headline": "Google DeepMind Unveils Genie 4, a Research Preview of Virtual Worlds That Generate Sound…",
+   "outlet": "XenoSpectrum",
+   "outlet_name": "XenoSpectrum",
+   "label": "REPORTED",
+   "url": "https://xenospectrum.com/en/genie-4-audio-world-model/",
+   "url_id": "f319b9b582826aa0cea22c5a48e43221"
+  },
+  {
+   "headline": "Elon Musk’s ‘The Odyssey’ Is Not How Hollywood Will Use AI To Make Movies",
+   "outlet": "Erik Kain | Substack",
+   "outlet_name": "Erik Kain | Substack",
+   "label": "REPORTED",
+   "url": "https://diabolical.substack.com/p/elon-musks-the-odyssey-is-not-how",
+   "url_id": "fb523eacae6008ec2da00c282e0f05c0"
+  },
+  {
+   "headline": "The Fetch Is the Product: 96 Hours Left on Mistral’s Clock",
+   "outlet": "Forkast News",
+   "outlet_name": "Forkast News",
+   "label": "REPORTED",
+   "url": "https://forkast.news/the-fetch-is-the-product-96-hours-left-on-mistrals-clock/",
+   "url_id": "7c6c1d0427d6214e5eaf3d8c09f085b2"
+  },
+  {
+   "headline": "Anthropic brings fundraising, hiring and AI governance tools to Claude for Nonprofits",
    "outlet": "EdTech Innovation Hub",
    "outlet_name": "EdTech Innovation Hub",
    "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/google-cloud-and-nvidia-unveil-vera-rubin-ai-systems-and-new-sovereign-cloud-tools",
-   "url_id": "045ddcbbdd305edd71a47086437b92df"
+   "url": "https://www.edtechinnovationhub.com/news/anthropic-brings-fundraising-hiring-and-ai-governance-tools-to-claude-for-nonprofits",
+   "url_id": "70c39ed0e4076d4a3cc49b245288c3aa"
   },
   {
-   "headline": "OpenAI says AI refuted the Exponential Time Hypothesis",
-   "outlet": "R&D World",
-   "outlet_name": "R&D World",
+   "headline": "Elvis Presley Songs at Centre of $41m AI Lawsuit",
+   "outlet": "SoaplandTV",
+   "outlet_name": "SoaplandTV",
    "label": "REPORTED",
-   "url": "https://www.rdworldonline.com/openai-ai-refuted-exponential-time-hypothesis-math-physics-proofs/",
-   "url_id": "071d468fad5e1aa70a12ded9a1c4a190"
-  },
-  {
-   "headline": "What an Anthropic IPO Could Mean for the Bay Area",
-   "outlet": "KQED",
-   "outlet_name": "KQED",
-   "label": "REPORTED",
-   "url": "https://www.kqed.org/forum/2010101915855/what-an-anthropic-ipo-could-mean-for-the-bay-area",
-   "url_id": "c1b9d1f3d739175d0b15af8f4641711f"
-  },
-  {
-   "headline": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "label": "REPORTED",
-   "url": "https://michaelparekh.substack.com/p/racing-far-and-wide-in-ai-anthropic",
-   "url_id": "de44475978c6cf6250e550eeb8384293"
+   "url": "https://soaplandtv.co.uk/article/elvis-presley-songs-at-centre-of-41m-ai-lawsuit",
+   "url_id": "180478fdb734cedcaa48d3bf1e13d0c8"
   },
   {
    "headline": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
@@ -106,62 +122,46 @@
    "url_id": "bb8e60f0a45ccce3d2cb1b635ab1f398"
   },
   {
-   "headline": "OpenAI plans to buy Google's AI chips, The Information reports",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "label": "REPORTED",
-   "url": "https://www.reuters.com/business/openai-plans-buy-googles-ai-chips-information-reports-2026-10-28/",
-   "url_id": "9d28f77b11e680cacb1efbb591316807"
-  },
-  {
-   "headline": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
-   "outlet": "Bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-said-to-pick-jpmorgan-to-lead-ipo-s-us-retail-offering",
-   "url_id": "890b2a35f207909330a43bdd6953c96d"
-  },
-  {
-   "headline": "See How Anthropic Arrived at Its Mind-Boggling $40 Trillion Market Opportunity",
-   "outlet": "WSJ",
-   "outlet_name": "WSJ",
-   "label": "REPORTED",
-   "url": "https://www.wsj.com/tech/ai/see-how-anthropic-arrived-at-its-mind-boggling-40-trillion-market-opportunity-948c56a0",
-   "url_id": "9ae2dba55947ab73ccf665c3c7ccf34c"
-  },
-  {
-   "headline": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
-   "outlet": "9to5mac.com",
-   "outlet_name": "9to5mac.com",
-   "label": "REPORTED",
-   "url": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
-   "url_id": "380c410e687b405e0df541cca041e845"
-  },
-  {
-   "headline": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-   "outlet": "bleepingcomputer.com",
-   "outlet_name": "bleepingcomputer.com",
-   "label": "REPORTED",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-   "url_id": "53ad5e7a5da996ed53b9b0eb2e51e826"
-  },
-  {
    "headline": "ASUS Launches Intel Arc Pro B70 GPU With Eye-Watering Price Tag To Rival NVIDIA RTX 5090",
    "outlet": "ChannelNews.com.au",
    "outlet_name": "ChannelNews.com.au",
    "label": "REPORTED",
    "url": "https://www.channelnews.com.au/asus-launches-intel-arc-pro-b70-gpu-with-eye-watering-price-tag-to-rival-nvidia-rtx-5090/",
    "url_id": "f539585a5314481ca6e78f08bdec5d68"
+  },
+  {
+   "headline": "Cohere Says Alibaba's Qwen Tried a Beijing Upload Despite Saying It Would Not Use Any…",
+   "outlet": "www.techtimes.co.uk",
+   "outlet_name": "www.techtimes.co.uk",
+   "label": "REPORTED",
+   "url": "https://www.techtimes.co.uk/cohere-qwen-model-upload-attempt-security-test-1809446",
+   "url_id": "d9d0c2a49491d5163b208733a6e1ccf1"
+  },
+  {
+   "headline": "Anthropic Expands Integrations With Claude for Financial Advisors",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
+   "label": "REPORTED",
+   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/anthropic-expands-integrations-with-claude-for-financial-advisors/",
+   "url_id": "ef57037e4ac251e148d895307e182f8e"
+  },
+  {
+   "headline": "Amazon ECS now supports GPU sharing with NVIDIA Multi-Process Service (MPS)",
+   "outlet": "aws.amazon.com",
+   "outlet_name": "aws.amazon.com",
+   "label": "REPORTED",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/amazon-ecs-gpu-sharing-nvidia-mps/",
+   "url_id": "48214d9b05420f8d718924ff9e0448dd"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 14800,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/03.mp3",
- "audio_seconds": 71.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/04.mp3",
+ "audio_seconds": 55.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOracle adds Google's TPUs and ChatGPT to its cloud. Confirmed by SiliconANGLE: Oracle is launching artificial intelligence tools for businesses using these new capabilities.\nGoogle Cloud and NVIDIA launch sovereign artificial intelligence systems with Vera Rubin GPUs available in November 2026. Reported by EdTech Innovation Hub: this partnership delivers new infrastructure for education and enterprise.\nOpenAI claims artificial intelligence breakthroughs in math and physics. Reported by R&D World: Anthropic independently reported a similar result in these research areas.\nAnthropic files for its initial public offering, offering the first detailed view of its finances and risks. Reported by KQED: this disclosure marks a significant moment for the company.\nAnthropic boosts artificial intelligence efficiency while OpenAI cuts prices and Google advances world artificial intelligence models. Reported by AI: Reset to Zero: these developments shape the competitive landscape across the sector.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more.\nConfirmed, per 9to5Mac: Apple wins expanded access to evidence in OpenAI trade secrets lawsuit.\nReported by XenoSpectrum: Google DeepMind Unveils Genie 4, a Research Preview of Virtual Worlds That Generate Sound and Dialogue.\nReported by Erik Kain | Substack: Elon Musk’s ‘The Odyssey’ Is Not How Hollywood Will Use AI To Make Movies.\nReported by Forkast News: The Fetch Is the Product: 96 Hours Left on Mistral’s Clock.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
