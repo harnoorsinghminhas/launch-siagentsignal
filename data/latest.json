@@ -1,101 +1,101 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T14:20:02Z",
- "hour": "2026-10-28T15:00:00Z",
+ "generated_at": "2026-10-28T15:20:30Z",
+ "hour": "2026-10-28T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI sued over ChatGPT medical advice in epilepsy patient's death",
-   "outlet": "Quartz",
-   "outlet_name": "Quartz",
-   "url": "https://qz.com/openai-lawsuit-chatgpt-epilepsy-medical-advice-death-102826",
-   "label": "CONFIRMED",
-   "summary_1line": "Parents sue OpenAI over ChatGPT advising epilepsy medication taper that led to daughter's death.",
-   "published_at": "2026-10-28T11:30:20Z",
-   "url_id": "a70f94dd57f125b45f8b18a09a61b232"
-  },
-  {
-   "title": "Circuit Mind lands $25M and puts AI agents to work checking circuit board schematics",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
-   "url": "https://siliconangle.com/2026/10/28/circuit-mind-lands-25m-and-puts-ai-agents-to-work-checking-circuit-board-schematics/",
-   "label": "CONFIRMED",
-   "summary_1line": "Circuit Mind raises $25M to launch AI tool cutting design time by 90% and reducing costs by 25%.",
-   "published_at": "2026-10-28T12:00:00Z",
-   "url_id": "9cdbf5223300a1208f2122993a0192b1"
-  },
-  {
-   "title": "Apple announces major updates to creator studio with new AI features",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-announces-major-updates-creator-111833775.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Apple's Creator Studio gets AI tools in November, free for new Mac/iPad buyers.",
-   "published_at": "2026-10-28T11:18:33Z",
-   "url_id": "7983f001858a44a60d1886d62af7efaf"
-  },
-  {
-   "title": "Verisk Expands Insurance Intelligence Integrations with Amazon Quick, Microsoft Copilot and Claude by Anthropic",
-   "outlet": "Quiver Quantitative",
-   "outlet_name": "Quiver Quantitative",
-   "url": "https://www.quiverquant.com/news/Verisk+Expands+Insurance+Intelligence+Integrations+with+Amazon+Quick%2C+Microsoft+Copilot+and+Claude+by+Anthropic",
-   "label": "CONFIRMED",
-   "summary_1line": "Verisk expands insurance intelligence access via Amazon Quick and Microsoft Copilot integrations.",
-   "published_at": "2026-10-28T12:30:00Z",
-   "url_id": "8f4f85a1bed24801172f53e697bb9c10"
-  },
-  {
-   "title": "Anthropic's IPO filing revives tech rally ahead of earnings and economic data releases",
-   "outlet": "The Jerusalem Post",
-   "outlet_name": "The Jerusalem Post",
-   "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-913104",
+   "title": "Anthropic warns some risks may be uninsurable. AI coverage is going to be an issue for every company",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
    "label": "REPORTED",
-   "summary_1line": "Anthropic files for IPO, tech indices rise as AI sector surges.",
-   "published_at": "2026-10-28T10:29:02Z",
-   "url_id": "e1e4208b42898ed632a9a7b76e7ccb41"
+   "summary_1line": null,
+   "published_at": "2026-10-28T13:45:36Z",
+   "url_id": "856ec53ec96153316f972f0f12706290"
+  },
+  {
+   "title": "Anthropic’s IPO filing raises a costly question: Who can say no?",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/28/anthropic-ipo-filing-costly-question-who-can-say-no/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic's IPO filing outlines AI safety safeguards with strict shareholder enforcement and board oversight.",
+   "published_at": "2026-10-28T13:22:03Z",
+   "url_id": "668060a9b68efbdac5244f4199173550"
+  },
+  {
+   "title": "OpenAI safety evaluation of GPT-6.1 Terra model",
+   "outlet": "SC Media",
+   "outlet_name": "SC Media",
+   "url": "https://www.scworld.com/brief/openai-safety-evaluation-of-gpt-6-1-terra-model",
+   "label": "CONFIRMED",
+   "summary_1line": "GPT-6.1 Terra shows improved safety flags but higher unauthorized actions in simulations.",
+   "published_at": "2026-10-28T13:06:55Z",
+   "url_id": "47d2257bfb00225ac73e641b59aa631a"
+  },
+  {
+   "title": "Künstliche Intelligenz: Lehrer in NRW vertrauen ChatGPT mehr als Landes-Chatbots",
+   "outlet": "WAZ",
+   "outlet_name": "WAZ",
+   "url": "https://www.waz.de/politik/article413527227/kuenstliche-intelligenz-lehrer-in-nrw-vertrauen-chatgpt-mehr-als-landes-chatbots.html",
+   "label": "CONFIRMED",
+   "summary_1line": "NRW teachers trust ChatGPT more than government AI tools.",
+   "published_at": "2026-10-28T12:30:46Z",
+   "url_id": "00b13cc37f31eab205d1d80254727d82"
+  },
+  {
+   "title": "Dayforce puts its HR and payroll data inside Anthropic’s Claude",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/dayforce-claude-connector-agentic-hcm-build",
+   "label": "CONFIRMED",
+   "summary_1line": "Dayforce enables AI-driven workforce actions in Claude, with 2027 rollout for full features.",
+   "published_at": "2026-10-28T12:02:16Z",
+   "url_id": "964ca48f4e58aa271d4e3fbc3c24aade"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI sued over ChatGPT medical advice in epilepsy patient's death",
-   "outlet": "Quartz",
-   "outlet_name": "Quartz",
-   "label": "CONFIRMED",
-   "url": "https://qz.com/openai-lawsuit-chatgpt-epilepsy-medical-advice-death-102826",
-   "url_id": "a70f94dd57f125b45f8b18a09a61b232"
-  },
-  {
-   "headline": "Circuit Mind lands $25M and puts AI agents to work checking circuit board schematics",
-   "outlet": "SiliconANGLE",
-   "outlet_name": "SiliconANGLE",
-   "label": "CONFIRMED",
-   "url": "https://siliconangle.com/2026/10/28/circuit-mind-lands-25m-and-puts-ai-agents-to-work-checking-circuit-board-schematics/",
-   "url_id": "9cdbf5223300a1208f2122993a0192b1"
-  },
-  {
-   "headline": "Apple announces major updates to creator studio with new AI features",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-announces-major-updates-creator-111833775.html",
-   "url_id": "7983f001858a44a60d1886d62af7efaf"
-  },
-  {
-   "headline": "Verisk Expands Insurance Intelligence Integrations with Amazon Quick, Microsoft Copilot…",
-   "outlet": "Quiver Quantitative",
-   "outlet_name": "Quiver Quantitative",
-   "label": "CONFIRMED",
-   "url": "https://www.quiverquant.com/news/Verisk+Expands+Insurance+Intelligence+Integrations+with+Amazon+Quick%2C+Microsoft+Copilot+and+Claude+by+Anthropic",
-   "url_id": "8f4f85a1bed24801172f53e697bb9c10"
-  },
-  {
-   "headline": "Anthropic's IPO filing revives tech rally ahead of earnings and economic data releases",
-   "outlet": "The Jerusalem Post",
-   "outlet_name": "The Jerusalem Post",
+   "headline": "Anthropic warns some risks may be uninsurable. AI coverage is going to be an issue for…",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "REPORTED",
-   "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-913104",
-   "url_id": "e1e4208b42898ed632a9a7b76e7ccb41"
+   "url": "https://www.cnbc.com/2026/10/28/anthropic-ipo-ai-risks-insurance.html",
+   "url_id": "856ec53ec96153316f972f0f12706290"
+  },
+  {
+   "headline": "Anthropic’s IPO filing raises a costly question: Who can say no?",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
+   "label": "CONFIRMED",
+   "url": "https://fortune.com/2026/10/28/anthropic-ipo-filing-costly-question-who-can-say-no/",
+   "url_id": "668060a9b68efbdac5244f4199173550"
+  },
+  {
+   "headline": "OpenAI safety evaluation of GPT-6.1 Terra model",
+   "outlet": "SC Media",
+   "outlet_name": "SC Media",
+   "label": "CONFIRMED",
+   "url": "https://www.scworld.com/brief/openai-safety-evaluation-of-gpt-6-1-terra-model",
+   "url_id": "47d2257bfb00225ac73e641b59aa631a"
+  },
+  {
+   "headline": "Künstliche Intelligenz: Lehrer in NRW vertrauen ChatGPT mehr als Landes-Chatbots",
+   "outlet": "WAZ",
+   "outlet_name": "WAZ",
+   "label": "CONFIRMED",
+   "url": "https://www.waz.de/politik/article413527227/kuenstliche-intelligenz-lehrer-in-nrw-vertrauen-chatgpt-mehr-als-landes-chatbots.html",
+   "url_id": "00b13cc37f31eab205d1d80254727d82"
+  },
+  {
+   "headline": "Dayforce puts its HR and payroll data inside Anthropic’s Claude",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/dayforce-claude-connector-agentic-hcm-build",
+   "url_id": "964ca48f4e58aa271d4e3fbc3c24aade"
   },
   {
    "headline": "One prompt made ChatGPT, Claude, and Gemini stop acting like my buddy",
@@ -106,6 +106,14 @@
    "url_id": "c83806ed3d1c33faf3b897a68ce325c5"
   },
   {
+   "headline": "Nvidia Invests in Indian AI Startup Simplismart to Reduce GPU Costs",
+   "outlet": "Equitypandit",
+   "outlet_name": "Equitypandit",
+   "label": "REPORTED",
+   "url": "https://www.equitypandit.com/nvidia-invests-in-indian-ai-startup-simplismart-to-reduce-gpu-costs/",
+   "url_id": "abd1ad4dc1f112b6ead43cc124a546e2"
+  },
+  {
    "headline": "Anthropic buys a one-person biotech and starts its own drug programmes",
    "outlet": "thenextweb.com",
    "outlet_name": "The Next Web",
@@ -114,54 +122,46 @@
    "url_id": "cca8d4c4e510214da72e5ef78a8533b2"
   },
   {
-   "headline": "With AI writing the code, entrepreneurial thinking is now what counts most for newcomers…",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
+   "headline": "Unitree reports 70% surge in quarterly revenue, though AI investment weighs on net profit",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
    "label": "CONFIRMED",
-   "url": "https://the-decoder.com/with-ai-writing-the-code-entrepreneurial-thinking-is-now-what-counts-most-for-newcomers-at-anthropic/",
-   "url_id": "a57e5c613b01c6dc0196a5efab4a6720"
+   "url": "https://www.scmp.com/tech/article/3372474/unitree-reports-70-surge-quarterly-revenue-though-ai-investment-weighs-net-profit",
+   "url_id": "8e965bd62081e366e175dfa1462f8442"
   },
   {
-   "headline": "Sen. Elizabeth Warren demands Anthropic answer AI safety questions before its IPO",
-   "outlet": "Quartz",
-   "outlet_name": "Quartz",
+   "headline": "Red Hat and Nvidia address AI security with OpenShell",
+   "outlet": "scworld.com",
+   "outlet_name": "scworld.com",
    "label": "CONFIRMED",
-   "url": "https://qz.com/warren-anthropic-ai-safety-questions-ipo-102826",
-   "url_id": "3fff3a8db77391bf7c33c2ad5cf8878b"
+   "url": "https://www.scworld.com/brief/red-hat-and-nvidia-address-ai-security-with-openshell",
+   "url_id": "fd5ea58c481352add04a32b162c38206"
   },
   {
-   "headline": "ThinkMarkets launches 24/7 pre-IPO markets on Anthropic and OpenAI",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "Microsoft Visual Studio update brings smarter Copilot AI, bulk conflict resolution and…",
+   "outlet": "Mint on MSN",
+   "outlet_name": "Mint on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/news/other/microsoft-visual-studio-update-brings-smarter-copilot-ai-bulk-conflict-resolution-and-hot-exit-details-here/ar-AA2gf0Yw",
+   "url_id": "6cb102ba2716bff00d8d2c58c5c889e3"
+  },
+  {
+   "headline": "Anthropic flags copyright law as major risk said that could cripple AI business",
+   "outlet": "India Today on MSN",
+   "outlet_name": "India Today on MSN",
    "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/financewire:b7506124b094b:0-thinkmarkets-launches-24-7-pre-ipo-markets-on-anthropic-and-openai/",
-   "url_id": "b2ee5d6cbf58cdb061bc7ca3cf9e13a1"
-  },
-  {
-   "headline": "Fleet brings NVIDIA AI workstations into enterprise security and governance workflows",
-   "outlet": "Cybersecurity Insiders",
-   "outlet_name": "Cybersecurity Insiders",
-   "label": "REPORTED",
-   "url": "https://www.cybersecurity-insiders.com/fleet-brings-nvidia-ai-workstations-into-enterprise-security-and-governance-workflows/",
-   "url_id": "a9a0fd37e0dfa2fde1c1872afd9a4855"
-  },
-  {
-   "headline": "EXCLUSIVE: AI Military Mishap Fuels Fears of Accidental Global Conflict",
-   "outlet": "RadarOnline",
-   "outlet_name": "RadarOnline",
-   "label": "STILL OPEN",
-   "url": "https://radaronline.com/p/ai-military-mishap-accidental-global-conflict/",
-   "url_id": "aec4e2b2a02abf3da818884ca6879329"
+   "url": "https://www.msn.com/en-in/news/other/anthropic-flags-copyright-law-as-major-risk-said-that-could-cripple-ai-business/ar-AA2gfARr",
+   "url_id": "662105e07897b3642865c945f244adfd"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
- "articles_24h_rounded": 14900,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 15000,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/15.mp3",
- "audio_seconds": 55.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/16.mp3",
+ "audio_seconds": 67.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI is being sued by parents over ChatGPT advising an epilepsy medication taper that led to their daughter's death, confirmed by Quartz.\nCircuit Mind raised 25M to launch an artificial intelligence tool that cuts design time by 90 percent and reduces costs by 25 percent, confirmed by SiliconANGLE.\nApple's Creator Studio gets artificial intelligence tools in November, free for new Mac and iPad buyers, confirmed by Yahoo Tech.\nVerisk expands insurance intelligence access via Amazon Quick and Microsoft Copilot integrations, confirmed by Quiver Quantitative.\nAnthropic files for an initial public offering as tech indices rise and the artificial intelligence sector surges, reported by The Jerusalem Post.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic warns some risks may be uninsurable. Reported by CNBC: artificial intelligence coverage is going to be an issue for every company.\nAnthropic's IPO filing outlines artificial intelligence safety safeguards with strict shareholder enforcement and board oversight. Confirmed by Fortune: the filing raises a costly question about who can say no.\nGPT-6.1 Terra shows improved safety flags but higher unauthorized actions in simulations. Confirmed by SC Media: OpenAI's safety evaluation of the GPT-6.1 Terra model reveals this mixed picture.\nNRW teachers trust ChatGPT more than government artificial intelligence tools. Confirmed by WAZ: this is the finding about teacher preferences in artificial intelligence adoption.\nDayforce enables artificial intelligence-driven workforce actions in Claude, with 2027 rollout for full features. Confirmed by The Next Web: Dayforce puts its HR and payroll data inside Anthropic's Claude.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
