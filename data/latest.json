@@ -1,109 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T20:20:03Z",
- "hour": "2026-10-28T21:00:00Z",
+ "generated_at": "2026-10-28T21:20:02Z",
+ "hour": "2026-10-28T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Gov. Hochul Signs AI Chatbot and Baby Monitor Safety Laws",
-   "outlet": "WKTV",
-   "outlet_name": "WKTV",
-   "url": "https://www.wktv.com/news/local/gov-hochul-signs-ai-chatbot-and-baby-monitor-safety-laws/article_43f16042-bff7-4566-a927-6ce91179324b.html",
+   "title": "Lawsuit says ChatGPT persuaded person to stop taking epilepsy meds, leading to her death",
+   "outlet": "Mashable SEA",
+   "outlet_name": "Mashable SEA",
+   "url": "https://sea.mashable.com/tech/56472/lawsuit-says-chatgpt-persuaded-person-to-stop-taking-epilepsy-meds-leading-to-her-death",
    "label": "CONFIRMED",
-   "summary_1line": "New York passes laws to protect kids from unsafe AI chatbots and baby monitors.",
-   "published_at": "2026-10-28T14:24:00Z",
-   "url_id": "7e19012aa2f951a8264f3881e0292d57"
+   "summary_1line": "Wan's parents sue OpenAI, claiming ChatGPT advised her to stop epilepsy meds, leading to her death.",
+   "published_at": "2026-10-28T10:31:00Z",
+   "url_id": "08fd49709ed9ae9e438bf1bec42867b8"
   },
   {
-   "title": "Texas sues OpenAI, Sam Altman over ChatGPT safety and age verification",
-   "outlet": "Biometric Update",
-   "outlet_name": "Biometric Update",
-   "url": "https://www.biometricupdate.com/202610/texas-sues-openai-sam-altman-over-chatgpt-safety-and-age-verification",
+   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic reports 900% retention and 10x spending growth on Claude Code, with new tools to track AI ROI.",
+   "published_at": "2026-10-28T19:19:58Z",
+   "url_id": "8ddc3eea5fadd9dce6421623ea94a5d0"
+  },
+  {
+   "title": "New York Gov. Hochul signs AI chatbot safety bill into law, protecting kids and communities",
+   "outlet": "Transparency Coalition",
+   "outlet_name": "Transparency Coalition",
+   "url": "https://www.transparencycoalition.ai/news/new-york-gov-hochul-signs-ai-chatbot-safety-bill-into-law-protecting-kids-and-communities",
+   "label": "CONFIRMED",
+   "summary_1line": "New York enacts AI chatbot safety law for minors, effective Jan. 1, 2027.",
+   "published_at": "2026-10-28T17:55:55Z",
+   "url_id": "dc602c18854e34f5e34c277e7f99a292"
+  },
+  {
+   "title": "Gemini hits 1 billion users as Alphabet’s quarterly results disappoint",
+   "outlet": "CTech",
+   "outlet_name": "CTech",
+   "url": "https://www.calcalistech.com/ctechnews/article/86rmzrc2i",
    "label": "REPORTED",
-   "summary_1line": "Texas sues OpenAI and Sam Altman over ChatGPT safety and age verification.",
-   "published_at": "2026-10-28T18:27:34Z",
-   "url_id": "a62ad8bd076b622e87e249e3f9e6cc47"
+   "summary_1line": "Gemini hits 1 billion users as Alphabet's Q3 results fall short of expectations.",
+   "published_at": "2026-10-28T20:24:00Z",
+   "url_id": "690aff9c5d6d1e7a3c6bd26a2dd62f4b"
   },
   {
-   "title": "GitHub unveils Copilot Fusion and multi-agent Projects at Universe 2026",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/github-copilot-fusion-foundry-universe-2026/",
-   "label": "CONFIRMED",
-   "summary_1line": "GitHub launches Copilot Fusion and multi-agent projects at Universe 2026, enabling AI coordination in development.",
-   "published_at": "2026-10-28T10:12:00Z",
-   "url_id": "34c219751a859ccdc56663cae8303bff"
-  },
-  {
-   "title": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/",
+   "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-28T19:02:16Z",
-   "url_id": "aa73b5ac690b6b6969ea369b8c79b009"
-  },
-  {
-   "title": "Grok Deepfaked This UK Politician—Now She’s Taking Elon Musk’s xAI To Court",
-   "outlet": "Wired",
-   "outlet_name": "Wired",
-   "url": "https://www.wired.com/video/watch/big-interview-jess-asato",
-   "label": "CONFIRMED",
-   "summary_1line": "Jess Asato fought back against deepfakes by Grok, leading to a government ban on nudification apps and calls for AI chatbot regulation.",
-   "published_at": "2026-10-27T17:00:00Z",
-   "url_id": "95545cee9885721a71768c787b19bd82"
+   "summary_1line": "Google's Gemini 4 Carbon outperforms Argon in AI index, security, and coding, with access limited to experts first.",
+   "published_at": "2026-10-28T19:21:14Z",
+   "url_id": "b93392a0b20595f6bbbe0675631cf967"
   }
  ],
  "ticker": [
   {
-   "headline": "Gov. Hochul Signs AI Chatbot and Baby Monitor Safety Laws",
-   "outlet": "WKTV",
-   "outlet_name": "WKTV",
+   "headline": "Lawsuit says ChatGPT persuaded person to stop taking epilepsy meds, leading to her death",
+   "outlet": "Mashable SEA",
+   "outlet_name": "Mashable SEA",
    "label": "CONFIRMED",
-   "url": "https://www.wktv.com/news/local/gov-hochul-signs-ai-chatbot-and-baby-monitor-safety-laws/article_43f16042-bff7-4566-a927-6ce91179324b.html",
-   "url_id": "7e19012aa2f951a8264f3881e0292d57"
+   "url": "https://sea.mashable.com/tech/56472/lawsuit-says-chatgpt-persuaded-person-to-stop-taking-epilepsy-meds-leading-to-her-death",
+   "url_id": "08fd49709ed9ae9e438bf1bec42867b8"
   },
   {
-   "headline": "Texas sues OpenAI, Sam Altman over ChatGPT safety and age verification",
-   "outlet": "Biometric Update",
-   "outlet_name": "Biometric Update",
+   "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "url_id": "8ddc3eea5fadd9dce6421623ea94a5d0"
+  },
+  {
+   "headline": "New York Gov. Hochul signs AI chatbot safety bill into law, protecting kids and…",
+   "outlet": "Transparency Coalition",
+   "outlet_name": "Transparency Coalition",
+   "label": "CONFIRMED",
+   "url": "https://www.transparencycoalition.ai/news/new-york-gov-hochul-signs-ai-chatbot-safety-bill-into-law-protecting-kids-and-communities",
+   "url_id": "dc602c18854e34f5e34c277e7f99a292"
+  },
+  {
+   "headline": "Gemini hits 1 billion users as Alphabet’s quarterly results disappoint",
+   "outlet": "CTech",
+   "outlet_name": "CTech",
    "label": "REPORTED",
-   "url": "https://www.biometricupdate.com/202610/texas-sues-openai-sam-altman-over-chatgpt-safety-and-age-verification",
-   "url_id": "a62ad8bd076b622e87e249e3f9e6cc47"
+   "url": "https://www.calcalistech.com/ctechnews/article/86rmzrc2i",
+   "url_id": "690aff9c5d6d1e7a3c6bd26a2dd62f4b"
   },
   {
-   "headline": "GitHub unveils Copilot Fusion and multi-agent Projects at Universe 2026",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/github-copilot-fusion-foundry-universe-2026/",
-   "url_id": "34c219751a859ccdc56663cae8303bff"
-  },
-  {
-   "headline": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
+   "headline": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the…",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/",
-   "url_id": "aa73b5ac690b6b6969ea369b8c79b009"
+   "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
+   "url_id": "b93392a0b20595f6bbbe0675631cf967"
   },
   {
-   "headline": "Grok Deepfaked This UK Politician—Now She’s Taking Elon Musk’s xAI To Court",
-   "outlet": "Wired",
-   "outlet_name": "Wired",
+   "headline": "Anthropic filed to go public—what retail investors should weigh before its IPO",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.wired.com/video/watch/big-interview-jess-asato",
-   "url_id": "95545cee9885721a71768c787b19bd82"
+   "url": "https://www.cnbc.com/make-it/2026/10/28/anthropic-ipo-investor-guide.html",
+   "url_id": "6910e4175f98f0eb9a86455124cb4ce5"
   },
   {
-   "headline": "Former DOJ antitrust chiefs Kanter and Mekki launch AI legal startup FluxCap",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "Trump says US will beat China in AI as technology emerges",
+   "outlet": "WAFB",
+   "outlet_name": "WAFB",
+   "label": "STILL OPEN",
+   "url": "https://www.wafb.com/2026/10/28/trump-says-us-will-beat-china-ai-technology-emerges/",
+   "url_id": "b592b372a18b7fcfaf189e891e601dca"
+  },
+  {
+   "headline": "Apple Brings Its Own Version of Microsoft 365 Copilot to Pages, Keynote, and Numbers",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
    "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/kanter-mekki-launch-fluxcap-ai-legal-startup/",
-   "url_id": "577590ca51808f615706fa158348c80d"
+   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-brings-own-version-microsoft-184522033.html",
+   "url_id": "7f04c71bcff61eb8c8e3d6a2c3e7cbfe"
+  },
+  {
+   "headline": "Anthropic manager drops coding interviews because Claude is better at them",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/anthropic-felix-rieseberg-coding-interview-claude",
+   "url_id": "7f188de6e47b86f1d9ff5ba2899e6fa4"
   },
   {
    "headline": "Gemini 4 Carbon: our next frontier model",
@@ -114,54 +138,30 @@
    "url_id": "03f4012760c87a3eb22d14f8f3257395"
   },
   {
-   "headline": "Anthropic moves further up the legal tech stack with launch of Claude for Legal Artifacts",
-   "outlet": "legaltechnology.com",
-   "outlet_name": "legaltechnology.com",
-   "label": "CONFIRMED",
-   "url": "https://legaltechnology.com/anthropic-moves-further-up-the-legal-tech-stack-with-launch-of-claude-for-legal-artifacts/",
-   "url_id": "4cd28e7415c71c713ce847f8523f4b7a"
-  },
-  {
-   "headline": "Microsoft Makes Copilot Harness Available Through Foundry",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "CONFIRMED",
-   "url": "https://www.unite.ai/microsoft-makes-copilot-harness-available-through-foundry/",
-   "url_id": "89e9ac71e51eb354573910d3a77f78f9"
-  },
-  {
-   "headline": "What Really Happens When You Ask ChatGPT, Grok, or Gemini About Abortion",
-   "outlet": "Cosmopolitan on MSN",
-   "outlet_name": "Cosmopolitan on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/news/other/what-really-happens-when-you-ask-chatgpt-grok-or-gemini-about-abortion/ar-AA2ggApV",
-   "url_id": "a41d8efc5cb1d400acfec39841f1baf9"
-  },
-  {
-   "headline": "Geforce Gt 200 - NVIDIA unveils the GeForce GTX 200 series ZDNet",
-   "outlet": "auroradesio.it",
-   "outlet_name": "auroradesio.it",
-   "label": "REPORTED",
-   "url": "https://www.auroradesio.it/top/178357433/",
-   "url_id": "1620ad21ce64e6eb92a296075ce0ab73"
-  },
-  {
    "headline": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
    "outlet": "aws.amazon.com",
    "outlet_name": "aws.amazon.com",
    "label": "CONFIRMED",
    "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
    "url_id": "a15f6ab37c7893ad744089ed28b17b62"
+  },
+  {
+   "headline": "European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance",
+   "outlet": "therecord.media",
+   "outlet_name": "therecord.media",
+   "label": "CONFIRMED",
+   "url": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
+   "url_id": "a3e709ac8003ec5fc28fa6fecc6a654c"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 15400,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 15500,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/21.mp3",
- "audio_seconds": 70.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/22.mp3",
+ "audio_seconds": 55.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNew York passes laws to protect kids from unsafe chatbots and baby monitors. Confirmed by WKTV: Governor Hochul signed these safety measures into law.\nTexas sues OpenAI and Sam Altman over ChatGPT safety concerns and age verification. Reported by Biometric Update: the state is taking legal action.\nGitHub launches Copilot Fusion and multi-agent projects at Universe 2026, enabling artificial intelligence coordination in development. Confirmed by Crypto Briefing: these tools expand what developers can do.\nThe US Department of Justice is inquiring about Nvidia's purchase of Hugging Face. Reported by Reuters: sources say the agency is investigating the deal.\nA UK politician fought back against deepfakes created by Grok, leading to a government ban on nudification apps and calls for artificial intelligence chatbot regulation. Confirmed by Wired: Jess Asato took legal action against Elon Musk's xAI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nWan's parents sued OpenAI, claiming ChatGPT advised her to stop epilepsy meds, leading to her death. Confirmed by Mashable SEA.\nAnthropic reports 900 percent retention and 10x spending growth on Claude Code, with new tools to track artificial intelligence ROI. Confirmed by TechCrunch.\nNew York enacted an artificial intelligence chatbot safety law for minors, effective January 1, 2027. Confirmed by Transparency Coalition.\nGemini hit 1 billion users as Alphabet's Q3 results fell short of expectations. Reported by CTech.\nGoogle's Gemini 4 Carbon outperforms Argon in artificial intelligence index, security, and coding, with access limited to experts first. Reported by The Decoder.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
