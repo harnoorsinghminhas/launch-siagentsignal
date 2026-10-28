@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T08:20:03Z",
- "hour": "2026-10-28T09:00:00Z",
+ "generated_at": "2026-10-28T09:20:03Z",
+ "hour": "2026-10-28T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI: Anthropic’s S-1, more on “Mo’ Money & Mo’ Problems”. AI-RTZ #1253",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "url": "https://michaelparekh.substack.com/p/ai-anthropics-s-1-more-on-mo-money",
+   "title": "Google unveils Genie 4 world model powered by Gemini AI models",
+   "outlet": "The Hindu",
+   "outlet_name": "The Hindu",
+   "url": "https://www.thehindu.com/sci-tech/technology/google-unveils-genie-4-world-model-powered-by-gemini-ai-models/article71634624.ece",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic files S-1 with $80.7B net loss, $11.6B revenue, and $637B compute spend.",
-   "published_at": "2026-10-28T05:02:33Z",
-   "url_id": "7a0c95fbf6baaa3e7f978ecb24d3f43a"
+   "summary_1line": "Google launches Genie 4, a real-time world model with native audio and realism, for research preview.",
+   "published_at": "2026-10-28T06:46:26Z",
+   "url_id": "9b098984bbd932737b6a1f2b561e827c"
   },
   {
-   "title": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
+   "title": "Analysis-China’s new export curbs draw a line around its AI crown jewels",
+   "outlet": "WSAU",
+   "outlet_name": "WSAU",
+   "url": "https://wsau.com/2026/10/28/analysis-chinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels/",
+   "label": "CONFIRMED",
+   "summary_1line": "China proposes AI export rules to restrict overseas access to advanced models and tech.",
+   "published_at": "2026-10-27T19:18:00Z",
+   "url_id": "0d96aea1094a81b1fc3c971272b5ab5c"
+  },
+  {
+   "title": "Trump's immigration policy is so harmful to talent that Anthropic mentioned it as a risk factor in its historic IPO",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/28/anthropic-ipo-filing-immigration-risks-trump-h1b-visa-fees-ai-talent-recruitment/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-28T06:21:00Z",
-   "url_id": "e0e30a2251fa88257376bfa0b43f9a65"
+   "summary_1line": "Anthropic warns U.S. immigration policy could hurt its AI talent recruitment.",
+   "published_at": "2026-10-28T07:04:40Z",
+   "url_id": "72c2b7f7d4b3690422308309a8718e53"
   },
   {
-   "title": "Why Anthropic’s IPO is risky business",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/27/why-anthropics-ipo-is-risky-business.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's IPO filing names broad risks including cyber threats and existential AI dangers.",
-   "published_at": "2026-10-28T00:39:39Z",
-   "url_id": "ef0096d82ac64ca5550cafc3d8782322"
-  },
-  {
-   "title": "SK hynix reports 632% surge in Q3 profit due to AI-driven demand for memory chips",
-   "outlet": "ETCIO",
-   "outlet_name": "ETCIO",
-   "url": "https://cio.economictimes.indiatimes.com/news/investments/sk-hynix-reports-632-surge-in-q3-profit-due-to-ai-driven-demand-for-memory-chips/135249628",
-   "label": "CONFIRMED",
-   "summary_1line": "SK hynix's Q3 profit jumps 632%, with 60 trillion won shareholder return planned.",
-   "published_at": "2026-10-27T22:30:00Z",
-   "url_id": "372004d925dd4a3592178ad55ab7dfec"
-  },
-  {
-   "title": "OpenAI Advances Proactive Agents and AI Math Breakthroughs While Facing Lawsuit Over ChatGPT Medical Advice",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
-   "url": "https://theaiinsider.tech/2026/10/28/openai-advances-proactive-agents-and-ai-math-breakthroughs-while-facing-lawsuit-over-chatgpt-medical-advice/",
+   "title": "Claude Opus 5.5 Takes Top Spot as Artificial Analysis Launches Intelligence Index v5",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/claude-opus-55-takes-top-spot-as-artificial-analysis-launches-intelligence-index-v5/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-28T07:33:32Z",
-   "url_id": "8da83fdf7bd202605c9c1347297c6dc7"
+   "summary_1line": "New AI benchmark shifts top spot to Claude Opus 5.5, widens open-weight gap to 12 points.",
+   "published_at": "2026-10-28T06:50:27Z",
+   "url_id": "070fa95fa4e90706f2cd22cac0019b5f"
+  },
+  {
+   "title": "Moonshot debuts first AI upgrade since its own DeepSeek moment",
+   "outlet": "The Star",
+   "outlet_name": "The Star",
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/28/moonshot-debuts-first-ai-upgrade-since-its-own-deepseek-moment",
+   "label": "REPORTED",
+   "summary_1line": "Moonshot AI launches Kimi K3.1 Pro to boost financial and coding AI, amid export rules and data concerns.",
+   "published_at": "2026-10-28T06:30:00Z",
+   "url_id": "ab023856dee5ca3bec30a2c7267d183a"
   }
  ],
  "ticker": [
   {
-   "headline": "AI: Anthropic’s S-1, more on “Mo’ Money & Mo’ Problems”. AI-RTZ #1253",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
+   "headline": "Google unveils Genie 4 world model powered by Gemini AI models",
+   "outlet": "The Hindu",
+   "outlet_name": "The Hindu",
    "label": "CONFIRMED",
-   "url": "https://michaelparekh.substack.com/p/ai-anthropics-s-1-more-on-mo-money",
-   "url_id": "7a0c95fbf6baaa3e7f978ecb24d3f43a"
+   "url": "https://www.thehindu.com/sci-tech/technology/google-unveils-genie-4-world-model-powered-by-gemini-ai-models/article71634624.ece",
+   "url_id": "9b098984bbd932737b6a1f2b561e827c"
   },
   {
-   "headline": "‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of…",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "label": "REPORTED",
-   "url": "https://www.theguardian.com/australia-news/2026/oct/28/emotional-intimacy-ai-chatbots-ban-digital-duty-of-care-laws-australian-politics",
-   "url_id": "e0e30a2251fa88257376bfa0b43f9a65"
-  },
-  {
-   "headline": "Why Anthropic’s IPO is risky business",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "Analysis-China’s new export curbs draw a line around its AI crown jewels",
+   "outlet": "WSAU",
+   "outlet_name": "WSAU",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/video/2026/10/27/why-anthropics-ipo-is-risky-business.html",
-   "url_id": "ef0096d82ac64ca5550cafc3d8782322"
-  },
-  {
-   "headline": "SK hynix reports 632% surge in Q3 profit due to AI-driven demand for memory chips",
-   "outlet": "ETCIO",
-   "outlet_name": "ETCIO",
-   "label": "CONFIRMED",
-   "url": "https://cio.economictimes.indiatimes.com/news/investments/sk-hynix-reports-632-surge-in-q3-profit-due-to-ai-driven-demand-for-memory-chips/135249628",
-   "url_id": "372004d925dd4a3592178ad55ab7dfec"
-  },
-  {
-   "headline": "OpenAI Advances Proactive Agents and AI Math Breakthroughs While Facing Lawsuit Over…",
-   "outlet": "AI Insider",
-   "outlet_name": "AI Insider",
-   "label": "REPORTED",
-   "url": "https://theaiinsider.tech/2026/10/28/openai-advances-proactive-agents-and-ai-math-breakthroughs-while-facing-lawsuit-over-chatgpt-medical-advice/",
-   "url_id": "8da83fdf7bd202605c9c1347297c6dc7"
+   "url": "https://wsau.com/2026/10/28/analysis-chinas-new-export-curbs-draw-a-line-around-its-ai-crown-jewels/",
+   "url_id": "0d96aea1094a81b1fc3c971272b5ab5c"
   },
   {
    "headline": "Trump's immigration policy is so harmful to talent that Anthropic mentioned it as a risk…",
@@ -106,44 +82,60 @@
    "url_id": "72c2b7f7d4b3690422308309a8718e53"
   },
   {
-   "headline": "Nvidia backs Indian AI startup Simplismart in $14 mn Series B round",
-   "outlet": "Adgully",
-   "outlet_name": "Adgully",
+   "headline": "Claude Opus 5.5 Takes Top Spot as Artificial Analysis Launches Intelligence Index v5",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://www.adgully.com/post/22960/nvidia-backs-indian-ai-startup-simplismart-in-14-mn-series-b-round",
-   "url_id": "7da2b188e7836a6a598fcda35a7f5b71"
+   "url": "https://startupfortune.com/claude-opus-55-takes-top-spot-as-artificial-analysis-launches-intelligence-index-v5/",
+   "url_id": "070fa95fa4e90706f2cd22cac0019b5f"
   },
   {
-   "headline": "Anthropic’s IPO Filing Raises Big Insurance Question: Who Insures AI Risk?",
-   "outlet": "Hunton Andrews Kurth LLP",
-   "outlet_name": "Hunton Andrews Kurth LLP",
+   "headline": "Moonshot debuts first AI upgrade since its own DeepSeek moment",
+   "outlet": "The Star",
+   "outlet_name": "The Star",
    "label": "REPORTED",
-   "url": "https://www.hunton.com/hunton-insurance-recovery-blog/anthropics-ipo-filing-raises-big-insurance-question-who-insures-ai-risk",
-   "url_id": "7ebd43cc9f51a6814a35d22dec5d3c7f"
+   "url": "https://www.thestar.com.my/tech/tech-news/2026/10/28/moonshot-debuts-first-ai-upgrade-since-its-own-deepseek-moment",
+   "url_id": "ab023856dee5ca3bec30a2c7267d183a"
   },
   {
-   "headline": "OpenAI Deploys \"textGrain\" Invisible Watermark in the EU, Highlighting the Fragility of…",
-   "outlet": "Vocal",
-   "outlet_name": "Vocal",
+   "headline": "Anthropic, Suno Sued Over Alleged AI Training Using Madonna, Johnny Cash, Joni Mitchell’s…",
+   "outlet": "techtimes",
+   "outlet_name": "techtimes",
    "label": "REPORTED",
-   "url": "https://vocal.media/01/openai-deploys-textgrain-invisible-watermark-in-the-eu-highlighting-the-fragility-of-ai-text-provenance",
-   "url_id": "bab07f267a03644c68dc535836a2423c"
+   "url": "https://www.techtimes.com/articles/329602/20261028/anthropic-suno-sued-over-alleged-ai-training-using-madonna-johnny-cash-joni-mitchells-music.htm",
+   "url_id": "8058d27bbd2cee0205e8721d5ec0c023"
   },
   {
-   "headline": "Anthropic Makes Major Entry into AI Drug Discovery: Acquires \"One-Person Pharma,\"…",
-   "outlet": "富途牛牛",
-   "outlet_name": "富途牛牛",
+   "headline": "Oracle adds Google TPU, broadens AI chip stack to rival Nvidia",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "label": "CONFIRMED",
+   "url": "https://biz.chosun.com/en/en-it/2026/10/28/EYPVTAA4OJHILPN62TU367GENU/",
+   "url_id": "378d47faf1f08e96c89ef5abee00a719"
+  },
+  {
+   "headline": "Anthropic Files for Record-Breaking IPO: A $2 Trillion Bet on the Future of AI",
+   "outlet": "BBN Times",
+   "outlet_name": "BBN Times",
    "label": "REPORTED",
-   "url": "https://news.futunn.com/en/post/1002522481/anthropic-makes-major-entry-into-ai-drug-discovery-acquires-one",
-   "url_id": "308f563adcba052caf759e4fa0593317"
+   "url": "https://www.bbntimes.com/companies/anthropic-files-for-record-breaking-ipo-a-2-trillion-bet-on-the-future-of-ai",
+   "url_id": "cef3d922566d900e35400eaeae93c9c7"
   },
   {
    "headline": "AI chips worth $12.1 million seized at Malaysia airport, customs authority says",
-   "outlet": "livemint.com",
-   "outlet_name": "livemint.com",
+   "outlet": "economictimes.indiatimes.com",
+   "outlet_name": "economictimes.indiatimes.com",
    "label": "CONFIRMED",
-   "url": "https://www.livemint.com/technology/ai-chips-worth-12-1-million-seized-at-malaysia-airport-customs-authority-says-11793164926684.html",
-   "url_id": "80625981b7a9d021a6096cb0d0fd405f"
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/ai-chips-worth-12-1-million-seized-at-malaysia-airport-customs-authority-says/articleshow/135255556.cms",
+   "url_id": "562b8f2831d7628636973c05355bd42e"
+  },
+  {
+   "headline": "Gemini Notebook gets voice recorder, but it’s a mess compared to Pixel Recorder",
+   "outlet": "androidauthority.com",
+   "outlet_name": "androidauthority.com",
+   "label": "CONFIRMED",
+   "url": "https://www.androidauthority.com/gemini-notebook-voice-recorder-3728848/",
+   "url_id": "265d126c76c620c0479ca21b474c839d"
   },
   {
    "headline": "Indian IT firms poised to benefit from enterprise AI adoption as infrastructure costs…",
@@ -152,16 +144,24 @@
    "label": "CONFIRMED",
    "url": "https://www.msn.com/en-in/news/other/indian-it-firms-poised-to-benefit-from-enterprise-ai-adoption-as-infrastructure-costs-rise-report/ar-AA2gdbdX",
    "url_id": "d4834c731fdc06f1e62abd2d94729b61"
+  },
+  {
+   "headline": "Agentic AI can cut banks' transaction monitoring workload by up to 50%: McKinsey",
+   "outlet": "economictimes.indiatimes.com",
+   "outlet_name": "economictimes.indiatimes.com",
+   "label": "CONFIRMED",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/agentic-ai-can-cut-banks-transaction-monitoring-workload-by-up-to-50-improve-compliance-quality-mckinsey/articleshow/135257083.cms",
+   "url_id": "fe23fc15dda5ea111f8a467cb2fcdd71"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 14600,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/09.mp3",
- "audio_seconds": 51.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/10.mp3",
+ "audio_seconds": 53.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per AI: Reset to Zero: AI: Anthropic’s S-1, more on “Mo’ Money & Mo’ Problems”. AI-RTZ #1253.\nReported by The Guardian: ‘Emotional intimacy’ from AI chatbots would be banned under Australia’s digital duty of care laws.\nConfirmed, per CNBC: Why Anthropic’s IPO is risky business.\nConfirmed, per ETCIO: SK hynix reports 632% surge in Q3 profit due to AI-driven demand for memory chips.\nReported by AI Insider: OpenAI Advances Proactive Agents and AI Math Breakthroughs While Facing Lawsuit Over ChatGPT Medical Advice.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle launches Genie 4, a real-time world model with native audio and realism for research preview, confirmed by The Hindu.\nConfirmed by WSAU: China proposes new artificial intelligence export rules to restrict overseas access to advanced models and technology.\nAnthropic warns that U.S. immigration policy could harm its artificial intelligence talent recruitment, reported by Fortune.\nNew artificial intelligence benchmark shifts top spot to Claude Opus 5.5 and widens the open-weight gap to 12 points, reported by Startup Fortune.\nMoonshot AI launches Kimi K3.1 Pro to boost financial and coding capabilities amid export rules and data concerns, reported by The Star.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
