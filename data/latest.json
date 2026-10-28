@@ -1,101 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T21:20:02Z",
- "hour": "2026-10-28T22:00:00Z",
+ "generated_at": "2026-10-28T22:20:07Z",
+ "hour": "2026-10-28T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Lawsuit says ChatGPT persuaded person to stop taking epilepsy meds, leading to her death",
-   "outlet": "Mashable SEA",
-   "outlet_name": "Mashable SEA",
-   "url": "https://sea.mashable.com/tech/56472/lawsuit-says-chatgpt-persuaded-person-to-stop-taking-epilepsy-meds-leading-to-her-death",
-   "label": "CONFIRMED",
-   "summary_1line": "Wan's parents sue OpenAI, claiming ChatGPT advised her to stop epilepsy meds, leading to her death.",
-   "published_at": "2026-10-28T10:31:00Z",
-   "url_id": "08fd49709ed9ae9e438bf1bec42867b8"
+   "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can’t use",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-28T18:47:27Z",
+   "url_id": "2dcdcd3cb59e8ab101c7a8b5c41bd6ec"
   },
   {
-   "title": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "label": "STILL OPEN",
+   "summary_1line": "Microsoft earned $10B from OpenAI in Q3 2026, with $24.1B annual revenue and a 20% sharing rate reportedly in place.",
+   "published_at": "2026-10-28T21:34:30Z",
+   "url_id": "9daffbb1423852ca8cc43d1c9f3a3f17"
+  },
+  {
+   "title": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
+   "url": "https://ca.finance.yahoo.com/news/servicenow-openai-accelerate-enterprise-ai-200700987.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic reports 900% retention and 10x spending growth on Claude Code, with new tools to track AI ROI.",
-   "published_at": "2026-10-28T19:19:58Z",
-   "url_id": "8ddc3eea5fadd9dce6421623ea94a5d0"
+   "summary_1line": "ServiceNow and OpenAI launch AI integrations for secure, governed enterprise workflows.",
+   "published_at": "2026-10-28T20:07:00Z",
+   "url_id": "924689b6204a181536b5980ba5a23e13"
   },
   {
-   "title": "New York Gov. Hochul signs AI chatbot safety bill into law, protecting kids and communities",
-   "outlet": "Transparency Coalition",
-   "outlet_name": "Transparency Coalition",
-   "url": "https://www.transparencycoalition.ai/news/new-york-gov-hochul-signs-ai-chatbot-safety-bill-into-law-protecting-kids-and-communities",
+   "title": "Pflugerville adopts new policy for AI, surveillance technology and data privacy",
+   "outlet": "Community Impact",
+   "outlet_name": "Community Impact",
+   "url": "https://communityimpact.com/pflugerville-hutto/government/pflugerville-adopts-new-policy-for-ai-surveillance-technology-and-data-privacy/",
    "label": "CONFIRMED",
-   "summary_1line": "New York enacts AI chatbot safety law for minors, effective Jan. 1, 2027.",
-   "published_at": "2026-10-28T17:55:55Z",
-   "url_id": "dc602c18854e34f5e34c277e7f99a292"
+   "summary_1line": "Pflugerville approves SAFE tech policy with strict AI and surveillance safeguards.",
+   "published_at": "2026-10-28T21:33:59Z",
+   "url_id": "66472fd40af19df993954ae7bd9570ac"
   },
   {
-   "title": "Gemini hits 1 billion users as Alphabet’s quarterly results disappoint",
-   "outlet": "CTech",
-   "outlet_name": "CTech",
-   "url": "https://www.calcalistech.com/ctechnews/article/86rmzrc2i",
-   "label": "REPORTED",
-   "summary_1line": "Gemini hits 1 billion users as Alphabet's Q3 results fall short of expectations.",
-   "published_at": "2026-10-28T20:24:00Z",
-   "url_id": "690aff9c5d6d1e7a3c6bd26a2dd62f4b"
-  },
-  {
-   "title": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the board",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
-   "label": "REPORTED",
-   "summary_1line": "Google's Gemini 4 Carbon outperforms Argon in AI index, security, and coding, with access limited to experts first.",
-   "published_at": "2026-10-28T19:21:14Z",
-   "url_id": "b93392a0b20595f6bbbe0675631cf967"
+   "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+   "outlet": "Decrypt",
+   "outlet_name": "Decrypt",
+   "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+   "label": "CONFIRMED",
+   "summary_1line": "Upwind Security raises $400M at $3.8B valuation, revenue quadrupled in 2026.",
+   "published_at": "2026-10-28T13:15:00Z",
+   "url_id": "f13cdba64e4b34e5e5129f2a43258c4c"
   }
  ],
  "ticker": [
   {
-   "headline": "Lawsuit says ChatGPT persuaded person to stop taking epilepsy meds, leading to her death",
-   "outlet": "Mashable SEA",
-   "outlet_name": "Mashable SEA",
-   "label": "CONFIRMED",
-   "url": "https://sea.mashable.com/tech/56472/lawsuit-says-chatgpt-persuaded-person-to-stop-taking-epilepsy-meds-leading-to-her-death",
-   "url_id": "08fd49709ed9ae9e438bf1bec42867b8"
+   "headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can’t use",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "label": "REPORTED",
+   "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+   "url_id": "2dcdcd3cb59e8ab101c7a8b5c41bd6ec"
   },
   {
-   "headline": "Anthropic just launched tools to show companies what their AI spending is buying",
+   "headline": "Microsoft recorded $10 billion in revenue from OpenAI",
    "outlet": "TechCrunch",
    "outlet_name": "TechCrunch",
+   "label": "STILL OPEN",
+   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+   "url_id": "9daffbb1423852ca8cc43d1c9f3a3f17"
+  },
+  {
+   "headline": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to…",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
-   "url_id": "8ddc3eea5fadd9dce6421623ea94a5d0"
+   "url": "https://ca.finance.yahoo.com/news/servicenow-openai-accelerate-enterprise-ai-200700987.html",
+   "url_id": "924689b6204a181536b5980ba5a23e13"
   },
   {
-   "headline": "New York Gov. Hochul signs AI chatbot safety bill into law, protecting kids and…",
-   "outlet": "Transparency Coalition",
-   "outlet_name": "Transparency Coalition",
+   "headline": "Pflugerville adopts new policy for AI, surveillance technology and data privacy",
+   "outlet": "Community Impact",
+   "outlet_name": "Community Impact",
    "label": "CONFIRMED",
-   "url": "https://www.transparencycoalition.ai/news/new-york-gov-hochul-signs-ai-chatbot-safety-bill-into-law-protecting-kids-and-communities",
-   "url_id": "dc602c18854e34f5e34c277e7f99a292"
+   "url": "https://communityimpact.com/pflugerville-hutto/government/pflugerville-adopts-new-policy-for-ai-surveillance-technology-and-data-privacy/",
+   "url_id": "66472fd40af19df993954ae7bd9570ac"
   },
   {
-   "headline": "Gemini hits 1 billion users as Alphabet’s quarterly results disappoint",
-   "outlet": "CTech",
-   "outlet_name": "CTech",
-   "label": "REPORTED",
-   "url": "https://www.calcalistech.com/ctechnews/article/86rmzrc2i",
-   "url_id": "690aff9c5d6d1e7a3c6bd26a2dd62f4b"
+   "headline": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+   "outlet": "Decrypt",
+   "outlet_name": "Decrypt",
+   "label": "CONFIRMED",
+   "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+   "url_id": "f13cdba64e4b34e5e5129f2a43258c4c"
   },
   {
-   "headline": "Google Deepmind releases Gemini 4 Carbon just two weeks after Argon with gains across the…",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "label": "REPORTED",
-   "url": "https://the-decoder.com/google-deepmind-releases-gemini-4-carbon-just-two-weeks-after-argon-with-gains-across-the-board/",
-   "url_id": "b93392a0b20595f6bbbe0675631cf967"
+   "headline": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+   "outlet": "Decrypt",
+   "outlet_name": "Decrypt",
+   "label": "STILL OPEN",
+   "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+   "url_id": "9d99fa95d1b37ab429742a4e1fe49097"
+  },
+  {
+   "headline": "AI for Science expands to foundations and research institutions",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
+   "label": "CONFIRMED",
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "url_id": "5c21ffeb271fe2e2a4b57abb1f96e8f2"
+  },
+  {
+   "headline": "Anthropic Warns AI Could Pose \"Catastrophic Risk\" To Humanity",
+   "outlet": "Montana Standard",
+   "outlet_name": "Montana Standard",
+   "label": "CONFIRMED",
+   "url": "https://mtstandard.com/partners/video-elephant/news/video_0d363cc6-d819-51d9-b868-f55fe36e2c9b.html",
+   "url_id": "9209713fae4924dbd8968cf79fad5ac4"
   },
   {
    "headline": "Anthropic filed to go public—what retail investors should weigh before its IPO",
@@ -106,62 +130,38 @@
    "url_id": "6910e4175f98f0eb9a86455124cb4ce5"
   },
   {
-   "headline": "Trump says US will beat China in AI as technology emerges",
-   "outlet": "WAFB",
-   "outlet_name": "WAFB",
-   "label": "STILL OPEN",
-   "url": "https://www.wafb.com/2026/10/28/trump-says-us-will-beat-china-ai-technology-emerges/",
-   "url_id": "b592b372a18b7fcfaf189e891e601dca"
-  },
-  {
-   "headline": "Apple Brings Its Own Version of Microsoft 365 Copilot to Pages, Keynote, and Numbers",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "GSA Expands Claude OneGov Deal With 40% Token-Usage Discount",
+   "outlet": "MeriTalk",
+   "outlet_name": "MeriTalk",
    "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-brings-own-version-microsoft-184522033.html",
-   "url_id": "7f04c71bcff61eb8c8e3d6a2c3e7cbfe"
+   "url": "https://www.meritalk.com/articles/gsa-expands-claude-onegov-deal-with-40-token-usage-discount/",
+   "url_id": "ab1d9cf41050fda87dd5dbe6dbe73b6d"
   },
   {
-   "headline": "Anthropic manager drops coding interviews because Claude is better at them",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
+   "headline": "Dive into new topics with immersive explorations in the Gemini app.",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
    "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/anthropic-felix-rieseberg-coding-interview-claude",
-   "url_id": "7f188de6e47b86f1d9ff5ba2899e6fa4"
+   "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
+   "url_id": "548188bf70724d9d39395d8d5c914afe"
   },
   {
-   "headline": "Gemini 4 Carbon: our next frontier model",
+   "headline": "Gemini 4 Carbon",
    "outlet": "blog.google",
    "outlet_name": "blog.google",
    "label": "CONFIRMED",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-   "url_id": "03f4012760c87a3eb22d14f8f3257395"
-  },
-  {
-   "headline": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
-   "outlet": "aws.amazon.com",
-   "outlet_name": "aws.amazon.com",
-   "label": "CONFIRMED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
-   "url_id": "a15f6ab37c7893ad744089ed28b17b62"
-  },
-  {
-   "headline": "European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance",
-   "outlet": "therecord.media",
-   "outlet_name": "therecord.media",
-   "label": "CONFIRMED",
-   "url": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
-   "url_id": "a3e709ac8003ec5fc28fa6fecc6a654c"
+   "url_id": "a92d7b7ef0e2da4d5922c4312bd7f7df"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… one story this hour was carried by 13 different outlets in the last few hours.",
  "articles_24h_rounded": 15500,
- "articles_24h_label": "about 15,000",
- "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/22.mp3",
- "audio_seconds": 55.0,
- "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nWan's parents sued OpenAI, claiming ChatGPT advised her to stop epilepsy meds, leading to her death. Confirmed by Mashable SEA.\nAnthropic reports 900 percent retention and 10x spending growth on Claude Code, with new tools to track artificial intelligence ROI. Confirmed by TechCrunch.\nNew York enacted an artificial intelligence chatbot safety law for minors, effective January 1, 2027. Confirmed by Transparency Coalition.\nGemini hit 1 billion users as Alphabet's Q3 results fell short of expectations. Reported by CTech.\nGoogle's Gemini 4 Carbon outperforms Argon in artificial intelligence index, security, and coding, with access limited to experts first. Reported by The Decoder.\nFree every hour.",
+ "articles_24h_label": "about 16,000",
+ "audio_url": null,
+ "audio_archive_url": null,
+ "audio_seconds": null,
+ "audio_status": "unavailable",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Ars Technica: Google announces Gemini 4 Carbon, its latest frontier AI model that you can’t use.\nStill open, per TechCrunch: Microsoft recorded $10 billion in revenue from OpenAI.\nConfirmed, per Yahoo! Finance Canada: ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development.\nConfirmed, per Community Impact: Pflugerville adopts new policy for AI, surveillance technology and data privacy.\nConfirmed, per Decrypt: AI Security Startup Upwind Raises $400M at $3.8B Valuation.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
