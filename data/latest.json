@@ -1,125 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T01:20:05Z",
- "hour": "2026-10-28T02:00:00Z",
+ "generated_at": "2026-10-28T02:20:02Z",
+ "hour": "2026-10-28T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic says Claude generated 35,000 designs in allergy drug research",
-   "outlet": "KUTV",
-   "outlet_name": "KUTV",
-   "url": "https://kutv.com/news/nation-world/anthropic-ipo-filing-warns-ai-could-pose-catastrophic-existential-risks-if-misused",
+   "title": "Oracle brings Google’s TPUs to its cloud, adds ChatGPT integrations",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/27/oracle-brings-googles-tpus-to-its-cloud-adds-chatgpt-integrations/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's Claude generated 35K allergy drug designs and cut review time by 89%.",
-   "published_at": "2026-10-27T20:34:38Z",
-   "url_id": "7887002b9b4c115a277357eb5c6f910c"
+   "summary_1line": "Oracle adds Google’s TPUs and ChatGPT to its cloud, launching AI tools for businesses.",
+   "published_at": "2026-10-27T23:33:00Z",
+   "url_id": "2dfb28eb324346efb58a9a352743e219"
   },
   {
-   "title": "Oracle and OpenAI Unveil $12,000 Cloud Credit Bundle for Small Businesses",
-   "outlet": "Small Business Trends",
-   "outlet_name": "Small Business Trends",
-   "url": "https://smallbiztrends.com/oracle-and-openai-unveil-12000-cloud-credit-bundle-for-small-businesses/",
+   "title": "Google Cloud and NVIDIA unveil Vera Rubin AI systems | ETIH EdTech News",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "url": "https://www.edtechinnovationhub.com/news/google-cloud-and-nvidia-unveil-vera-rubin-ai-systems-and-new-sovereign-cloud-tools",
    "label": "REPORTED",
-   "summary_1line": "Oracle and OpenAI launch AI bundle for small businesses with $12K cloud credits and integrated tools.",
-   "published_at": "2026-10-27T21:50:43Z",
-   "url_id": "6f49c830a61f0a082ea619bcb74f5e05"
+   "summary_1line": "Google and NVIDIA launch sovereign AI systems with Vera Rubin GPUs, available in November 2026.",
+   "published_at": "2026-10-28T00:30:53Z",
+   "url_id": "045ddcbbdd305edd71a47086437b92df"
   },
   {
-   "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+   "title": "OpenAI says AI refuted the Exponential Time Hypothesis",
+   "outlet": "R&D World",
+   "outlet_name": "R&D World",
+   "url": "https://www.rdworldonline.com/openai-ai-refuted-exponential-time-hypothesis-math-physics-proofs/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-27T23:34:59Z",
-   "url_id": "8886dedbab3363b9d3d17a6f9e9fe388"
+   "summary_1line": "OpenAI claims AI breakthroughs in math and physics, with Anthropic independently reporting a similar result.",
+   "published_at": "2026-10-28T00:20:13Z",
+   "url_id": "071d468fad5e1aa70a12ded9a1c4a190"
   },
   {
-   "title": "Anthropic’s Pre-IPO Filing Is the Scariest Thing You’ll Read This Halloween Season",
-   "outlet": "Vanity Fair",
-   "outlet_name": "Vanity Fair",
-   "url": "https://www.vanityfair.com/story/anthropic-pre-ipo-filing",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic files IPO doc amid $81B loss and security breach, as AI safety and market trends shift.",
-   "published_at": "2026-10-27T22:46:46Z",
-   "url_id": "53b8953d2007dd85b87a9d1721e42bfb"
-  },
-  {
-   "title": "Oracle announces expanded collaboration with OpenAI",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/27/oracle-announces-expanded-collaboration-with-openai.html",
+   "title": "What an Anthropic IPO Could Mean for the Bay Area",
+   "outlet": "KQED",
+   "outlet_name": "KQED",
+   "url": "https://www.kqed.org/forum/2010101915855/what-an-anthropic-ipo-could-mean-for-the-bay-area",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-27T23:10:39Z",
-   "url_id": "a8a4120533e0f798bef7cc34754b5f27"
+   "summary_1line": "Anthropic files for IPO, offering first detailed view of its finances and risks.",
+   "published_at": "2026-10-27T23:30:00Z",
+   "url_id": "c1b9d1f3d739175d0b15af8f4641711f"
+  },
+  {
+   "title": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "url": "https://michaelparekh.substack.com/p/racing-far-and-wide-in-ai-anthropic",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic boosts AI efficiency; OpenAI cuts prices; Google advances world AI models.",
+   "published_at": "2026-10-27T23:17:23Z",
+   "url_id": "de44475978c6cf6250e550eeb8384293"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic says Claude generated 35,000 designs in allergy drug research",
-   "outlet": "KUTV",
-   "outlet_name": "KUTV",
+   "headline": "Oracle brings Google’s TPUs to its cloud, adds ChatGPT integrations",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
    "label": "CONFIRMED",
-   "url": "https://kutv.com/news/nation-world/anthropic-ipo-filing-warns-ai-could-pose-catastrophic-existential-risks-if-misused",
-   "url_id": "7887002b9b4c115a277357eb5c6f910c"
+   "url": "https://siliconangle.com/2026/10/27/oracle-brings-googles-tpus-to-its-cloud-adds-chatgpt-integrations/",
+   "url_id": "2dfb28eb324346efb58a9a352743e219"
   },
   {
-   "headline": "Oracle and OpenAI Unveil $12,000 Cloud Credit Bundle for Small Businesses",
-   "outlet": "Small Business Trends",
-   "outlet_name": "Small Business Trends",
+   "headline": "Google Cloud and NVIDIA unveil Vera Rubin AI systems | ETIH EdTech News",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
    "label": "REPORTED",
-   "url": "https://smallbiztrends.com/oracle-and-openai-unveil-12000-cloud-credit-bundle-for-small-businesses/",
-   "url_id": "6f49c830a61f0a082ea619bcb74f5e05"
+   "url": "https://www.edtechinnovationhub.com/news/google-cloud-and-nvidia-unveil-vera-rubin-ai-systems-and-new-sovereign-cloud-tools",
+   "url_id": "045ddcbbdd305edd71a47086437b92df"
   },
   {
-   "headline": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "OpenAI says AI refuted the Exponential Time Hypothesis",
+   "outlet": "R&D World",
+   "outlet_name": "R&D World",
    "label": "REPORTED",
-   "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
-   "url_id": "8886dedbab3363b9d3d17a6f9e9fe388"
-  },
-  {
-   "headline": "Anthropic’s Pre-IPO Filing Is the Scariest Thing You’ll Read This Halloween Season",
-   "outlet": "Vanity Fair",
-   "outlet_name": "Vanity Fair",
-   "label": "STILL OPEN",
-   "url": "https://www.vanityfair.com/story/anthropic-pre-ipo-filing",
-   "url_id": "53b8953d2007dd85b87a9d1721e42bfb"
-  },
-  {
-   "headline": "Oracle announces expanded collaboration with OpenAI",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "REPORTED",
-   "url": "https://www.cnbc.com/video/2026/10/27/oracle-announces-expanded-collaboration-with-openai.html",
-   "url_id": "a8a4120533e0f798bef7cc34754b5f27"
-  },
-  {
-   "headline": "Anthropic acquires single-employee rare disease drug developer",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "CONFIRMED",
-   "url": "https://www.tradingview.com/news/seekingalpha:165281227094b:0-anthropic-acquires-single-employee-rare-disease-drug-developer/",
-   "url_id": "9f4c734055a9b44a7cabc1ebf3439088"
-  },
-  {
-   "headline": "Mave Raises $34M for AI Models Built for Cybersecurity",
-   "outlet": "BankInfoSecurity",
-   "outlet_name": "BankInfoSecurity",
-   "label": "REPORTED",
-   "url": "https://www.bankinfosecurity.com/mave-raises-34m-for-ai-models-built-for-cybersecurity-a-33226",
-   "url_id": "5cdf76066425b4d441588feaafc01453"
-  },
-  {
-   "headline": "OpenAI Launches GPT-6.1 Terra Model Focused on Fast Computer Use",
-   "outlet": "LatestLY",
-   "outlet_name": "LatestLY",
-   "label": "REPORTED",
-   "url": "https://www.latestly.com/technology/openai-launches-gpt-6-1-terra-model-focused-on-fast-computer-use-7658420.html",
-   "url_id": "32ae270a3dfae59df71f924621002a11"
+   "url": "https://www.rdworldonline.com/openai-ai-refuted-exponential-time-hypothesis-math-physics-proofs/",
+   "url_id": "071d468fad5e1aa70a12ded9a1c4a190"
   },
   {
    "headline": "What an Anthropic IPO Could Mean for the Bay Area",
@@ -138,30 +98,70 @@
    "url_id": "de44475978c6cf6250e550eeb8384293"
   },
   {
-   "headline": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
-   "outlet": "fedscoop.com",
-   "outlet_name": "fedscoop.com",
-   "label": "CONFIRMED",
-   "url": "https://fedscoop.com/gsa-onegov-deal-claude-anthropic/",
-   "url_id": "d453c39193c1411291354e168badd797"
+   "headline": "Anthropic acquires a one-person biotech that used Claude to coordinate 11 labs",
+   "outlet": "R&D World",
+   "outlet_name": "R&D World",
+   "label": "REPORTED",
+   "url": "https://www.rdworldonline.com/anthropic-acquires-mithril-medicine-one-person-biotech/",
+   "url_id": "bb8e60f0a45ccce3d2cb1b635ab1f398"
   },
   {
-   "headline": "ChatGPT finally gets the iCloud Mail and Calendar plugins users have been waiting for",
-   "outlet": "digitaltrends.com",
-   "outlet_name": "digitaltrends.com",
-   "label": "CONFIRMED",
-   "url": "https://www.digitaltrends.com/computing/chatgpt-finally-gets-the-icloud-mail-and-calendar-plugins-users-have-been-waiting-for/",
-   "url_id": "0f64fa85c066fa027d3f77061ee259a2"
+   "headline": "OpenAI plans to buy Google's AI chips, The Information reports",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "label": "REPORTED",
+   "url": "https://www.reuters.com/business/openai-plans-buy-googles-ai-chips-information-reports-2026-10-28/",
+   "url_id": "9d28f77b11e680cacb1efbb591316807"
+  },
+  {
+   "headline": "Anthropic Said to Pick JPMorgan to Lead IPO’s US Retail Offering",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-10-28/anthropic-said-to-pick-jpmorgan-to-lead-ipo-s-us-retail-offering",
+   "url_id": "890b2a35f207909330a43bdd6953c96d"
+  },
+  {
+   "headline": "See How Anthropic Arrived at Its Mind-Boggling $40 Trillion Market Opportunity",
+   "outlet": "WSJ",
+   "outlet_name": "WSJ",
+   "label": "REPORTED",
+   "url": "https://www.wsj.com/tech/ai/see-how-anthropic-arrived-at-its-mind-boggling-40-trillion-market-opportunity-948c56a0",
+   "url_id": "9ae2dba55947ab73ccf665c3c7ccf34c"
+  },
+  {
+   "headline": "Apple wins expanded access to evidence in OpenAI trade secrets lawsuit",
+   "outlet": "9to5mac.com",
+   "outlet_name": "9to5mac.com",
+   "label": "REPORTED",
+   "url": "https://9to5mac.com/2026/10/27/apple-wins-expanded-access-to-evidence-in-openai-trade-secrets-lawsuit/",
+   "url_id": "380c410e687b405e0df541cca041e845"
+  },
+  {
+   "headline": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
+   "outlet": "bleepingcomputer.com",
+   "outlet_name": "bleepingcomputer.com",
+   "label": "REPORTED",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
+   "url_id": "53ad5e7a5da996ed53b9b0eb2e51e826"
+  },
+  {
+   "headline": "ASUS Launches Intel Arc Pro B70 GPU With Eye-Watering Price Tag To Rival NVIDIA RTX 5090",
+   "outlet": "ChannelNews.com.au",
+   "outlet_name": "ChannelNews.com.au",
+   "label": "REPORTED",
+   "url": "https://www.channelnews.com.au/asus-launches-intel-arc-pro-b70-gpu-with-eye-watering-price-tag-to-rival-nvidia-rtx-5090/",
+   "url_id": "f539585a5314481ca6e78f08bdec5d68"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 14700,
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "articles_24h_rounded": 14800,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/02.mp3",
- "audio_seconds": 45.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/03.mp3",
+ "audio_seconds": 71.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per KUTV: Anthropic says Claude generated 35,000 designs in allergy drug research.\nReported by Small Business Trends: Oracle and OpenAI Unveil $12,000 Cloud Credit Bundle for Small Businesses.\nReported by CNBC: SK Hynix third-quarter profit sharply beats estimates on AI memory boost.\nStill open, per Vanity Fair: Anthropic’s Pre-IPO Filing Is the Scariest Thing You’ll Read This Halloween Season.\nReported by CNBC: Oracle announces expanded collaboration with OpenAI.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOracle adds Google's TPUs and ChatGPT to its cloud. Confirmed by SiliconANGLE: Oracle is launching artificial intelligence tools for businesses using these new capabilities.\nGoogle Cloud and NVIDIA launch sovereign artificial intelligence systems with Vera Rubin GPUs available in November 2026. Reported by EdTech Innovation Hub: this partnership delivers new infrastructure for education and enterprise.\nOpenAI claims artificial intelligence breakthroughs in math and physics. Reported by R&D World: Anthropic independently reported a similar result in these research areas.\nAnthropic files for its initial public offering, offering the first detailed view of its finances and risks. Reported by KQED: this disclosure marks a significant moment for the company.\nAnthropic boosts artificial intelligence efficiency while OpenAI cuts prices and Google advances world artificial intelligence models. Reported by AI: Reset to Zero: these developments shape the competitive landscape across the sector.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
