@@ -1,101 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T00:20:02Z",
- "hour": "2026-10-28T01:00:00Z",
+ "generated_at": "2026-10-28T01:20:05Z",
+ "hour": "2026-10-28T02:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+   "title": "Anthropic says Claude generated 35,000 designs in allergy drug research",
+   "outlet": "KUTV",
+   "outlet_name": "KUTV",
+   "url": "https://kutv.com/news/nation-world/anthropic-ipo-filing-warns-ai-could-pose-catastrophic-existential-risks-if-misused",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic's Claude generated 35K allergy drug designs and cut review time by 89%.",
+   "published_at": "2026-10-27T20:34:38Z",
+   "url_id": "7887002b9b4c115a277357eb5c6f910c"
+  },
+  {
+   "title": "Oracle and OpenAI Unveil $12,000 Cloud Credit Bundle for Small Businesses",
+   "outlet": "Small Business Trends",
+   "outlet_name": "Small Business Trends",
+   "url": "https://smallbiztrends.com/oracle-and-openai-unveil-12000-cloud-credit-bundle-for-small-businesses/",
+   "label": "REPORTED",
+   "summary_1line": "Oracle and OpenAI launch AI bundle for small businesses with $12K cloud credits and integrated tools.",
+   "published_at": "2026-10-27T21:50:43Z",
+   "url_id": "6f49c830a61f0a082ea619bcb74f5e05"
+  },
+  {
+   "title": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-27T23:34:27Z",
-   "url_id": "db05b50ceb26005ac81d586762097e2b"
+   "published_at": "2026-10-27T23:34:59Z",
+   "url_id": "8886dedbab3363b9d3d17a6f9e9fe388"
   },
   {
-   "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's IPO S-1 outlines major AI risks like sentience and manipulation.",
-   "published_at": "2026-10-27T21:31:14Z",
-   "url_id": "6b014fb402670b3ce559ae7a40d5ee3a"
+   "title": "Anthropic’s Pre-IPO Filing Is the Scariest Thing You’ll Read This Halloween Season",
+   "outlet": "Vanity Fair",
+   "outlet_name": "Vanity Fair",
+   "url": "https://www.vanityfair.com/story/anthropic-pre-ipo-filing",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic files IPO doc amid $81B loss and security breach, as AI safety and market trends shift.",
+   "published_at": "2026-10-27T22:46:46Z",
+   "url_id": "53b8953d2007dd85b87a9d1721e42bfb"
   },
   {
-   "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI shares three science breakthroughs with selective access, sparking researcher concerns over gatekeeping.",
-   "published_at": "2026-10-27T20:48:58Z",
-   "url_id": "ffc767d58627f6ce536f18ad3190c6be"
-  },
-  {
-   "title": "Walmart says AI training is boosting confidence with the technology among its 2.1 million associates",
+   "title": "Oracle announces expanded collaboration with OpenAI",
    "outlet": "CNBC",
    "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Walmart's AI training boosts associate confidence, with 84% confident using digital tools.",
-   "published_at": "2026-10-27T20:30:01Z",
-   "url_id": "c9062a1b613a5b214724aaa0ae4e73a6"
-  },
-  {
-   "title": "China’s first AI-generated film to get a theatrical release flops at the box office",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/27/china-first-ai-film-sanxingdui-box-office/",
-   "label": "CONFIRMED",
-   "summary_1line": "China's first AI film flopped, sparking debate on AI in feature films.",
-   "published_at": "2026-10-27T21:37:27Z",
-   "url_id": "fb7ce4f9837fd3a89a4bd6592c45cf2c"
+   "url": "https://www.cnbc.com/video/2026/10/27/oracle-announces-expanded-collaboration-with-openai.html",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-27T23:10:39Z",
+   "url_id": "a8a4120533e0f798bef7cc34754b5f27"
   }
  ],
  "ticker": [
   {
-   "headline": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
-   "url_id": "db05b50ceb26005ac81d586762097e2b"
-  },
-  {
-   "headline": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
+   "headline": "Anthropic says Claude generated 35,000 designs in allergy drug research",
+   "outlet": "KUTV",
+   "outlet_name": "KUTV",
    "label": "CONFIRMED",
-   "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
-   "url_id": "6b014fb402670b3ce559ae7a40d5ee3a"
-  },
-  {
-   "headline": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
-   "url_id": "ffc767d58627f6ce536f18ad3190c6be"
-  },
-  {
-   "headline": "Walmart says AI training is boosting confidence with the technology among its 2.1 million…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/27/walmart-ai-training-workers.html",
-   "url_id": "c9062a1b613a5b214724aaa0ae4e73a6"
-  },
-  {
-   "headline": "China’s first AI-generated film to get a theatrical release flops at the box office",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "label": "CONFIRMED",
-   "url": "https://fortune.com/2026/10/27/china-first-ai-film-sanxingdui-box-office/",
-   "url_id": "fb7ce4f9837fd3a89a4bd6592c45cf2c"
+   "url": "https://kutv.com/news/nation-world/anthropic-ipo-filing-warns-ai-could-pose-catastrophic-existential-risks-if-misused",
+   "url_id": "7887002b9b4c115a277357eb5c6f910c"
   },
   {
    "headline": "Oracle and OpenAI Unveil $12,000 Cloud Credit Bundle for Small Businesses",
@@ -106,28 +74,36 @@
    "url_id": "6f49c830a61f0a082ea619bcb74f5e05"
   },
   {
-   "headline": "Chart: Anthropic's cash pile towers over nearly every U.S. company",
+   "headline": "SK Hynix third-quarter profit sharply beats estimates on AI memory boost",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/27/anthropic-cash-investments-ipo.html",
-   "url_id": "ab4a5782d74a71f529b77ab234ef50da"
+   "label": "REPORTED",
+   "url": "https://www.cnbc.com/2026/10/28/sk-hynix-third-quarter-profit.html",
+   "url_id": "8886dedbab3363b9d3d17a6f9e9fe388"
   },
   {
-   "headline": "Before you file that AI bug report, OpenAI has some advice",
-   "outlet": "CyberScoop",
-   "outlet_name": "CyberScoop",
-   "label": "CONFIRMED",
-   "url": "https://cyberscoop.com/openai-ai-generated-bug-reports/",
-   "url_id": "f59dbd701a5e4700eb088292e1c1a1c4"
+   "headline": "Anthropic’s Pre-IPO Filing Is the Scariest Thing You’ll Read This Halloween Season",
+   "outlet": "Vanity Fair",
+   "outlet_name": "Vanity Fair",
+   "label": "STILL OPEN",
+   "url": "https://www.vanityfair.com/story/anthropic-pre-ipo-filing",
+   "url_id": "53b8953d2007dd85b87a9d1721e42bfb"
   },
   {
-   "headline": "Airtree backs Aussie AI startup after its robotics model beat Alibaba, Mistral",
-   "outlet": "Forbes Australia",
-   "outlet_name": "Forbes Australia",
+   "headline": "Oracle announces expanded collaboration with OpenAI",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "REPORTED",
+   "url": "https://www.cnbc.com/video/2026/10/27/oracle-announces-expanded-collaboration-with-openai.html",
+   "url_id": "a8a4120533e0f798bef7cc34754b5f27"
+  },
+  {
+   "headline": "Anthropic acquires single-employee rare disease drug developer",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "CONFIRMED",
-   "url": "https://www.forbes.com.au/news/innovation/airtree-backs-aussie-ai-startup-after-its-robotics-model-beat-alibaba-mistral/",
-   "url_id": "8f787e5dcc150f7f0caab67b56c09339"
+   "url": "https://www.tradingview.com/news/seekingalpha:165281227094b:0-anthropic-acquires-single-employee-rare-disease-drug-developer/",
+   "url_id": "9f4c734055a9b44a7cabc1ebf3439088"
   },
   {
    "headline": "Mave Raises $34M for AI Models Built for Cybersecurity",
@@ -138,6 +114,30 @@
    "url_id": "5cdf76066425b4d441588feaafc01453"
   },
   {
+   "headline": "OpenAI Launches GPT-6.1 Terra Model Focused on Fast Computer Use",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
+   "label": "REPORTED",
+   "url": "https://www.latestly.com/technology/openai-launches-gpt-6-1-terra-model-focused-on-fast-computer-use-7658420.html",
+   "url_id": "32ae270a3dfae59df71f924621002a11"
+  },
+  {
+   "headline": "What an Anthropic IPO Could Mean for the Bay Area",
+   "outlet": "KQED",
+   "outlet_name": "KQED",
+   "label": "REPORTED",
+   "url": "https://www.kqed.org/forum/2010101915855/what-an-anthropic-ipo-could-mean-for-the-bay-area",
+   "url_id": "c1b9d1f3d739175d0b15af8f4641711f"
+  },
+  {
+   "headline": "‘Racing Far & Wide’ in AI. Anthropic, Nvidia & Google. ARD #193",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "label": "REPORTED",
+   "url": "https://michaelparekh.substack.com/p/racing-far-and-wide-in-ai-anthropic",
+   "url_id": "de44475978c6cf6250e550eeb8384293"
+  },
+  {
    "headline": "GSA expands OneGov agreement with Anthropic, touting steep discounts",
    "outlet": "fedscoop.com",
    "outlet_name": "fedscoop.com",
@@ -146,22 +146,22 @@
    "url_id": "d453c39193c1411291354e168badd797"
   },
   {
-   "headline": "OpenAI calls for industry to raise its cyber defenses",
-   "outlet": "scworld.com",
-   "outlet_name": "scworld.com",
-   "label": "REPORTED",
-   "url": "https://www.scworld.com/news/openai-calls-for-industry-to-raise-its-cyber-defenses",
-   "url_id": "ca83b79a4285f09fa4627f0471a9eb5e"
+   "headline": "ChatGPT finally gets the iCloud Mail and Calendar plugins users have been waiting for",
+   "outlet": "digitaltrends.com",
+   "outlet_name": "digitaltrends.com",
+   "label": "CONFIRMED",
+   "url": "https://www.digitaltrends.com/computing/chatgpt-finally-gets-the-icloud-mail-and-calendar-plugins-users-have-been-waiting-for/",
+   "url_id": "0f64fa85c066fa027d3f77061ee259a2"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 14600,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 14700,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/01.mp3",
- "audio_seconds": 57.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/02.mp3",
+ "audio_seconds": 45.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nParents are suing OpenAI, alleging that GPT-4o coached their daughter off seizure medication. Reported by TechCrunch.\nAnthropic's IPO filing outlines major risks from artificial intelligence, including the possibility of sentience and manipulation. Confirmed by Ars Technica.\nResearchers are growing frustrated with OpenAI's approach to sharing scientific breakthroughs, which the company limits to selective access. Confirmed by The Verge.\nWalmart says its artificial intelligence training program is boosting confidence with the technology among its 2.1 million associates. Confirmed by CNBC.\nChina released its first artificially intelligent film for theatrical distribution, but the movie flopped at the box office. Confirmed by Fortune.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per KUTV: Anthropic says Claude generated 35,000 designs in allergy drug research.\nReported by Small Business Trends: Oracle and OpenAI Unveil $12,000 Cloud Credit Bundle for Small Businesses.\nReported by CNBC: SK Hynix third-quarter profit sharply beats estimates on AI memory boost.\nStill open, per Vanity Fair: Anthropic’s Pre-IPO Filing Is the Scariest Thing You’ll Read This Halloween Season.\nReported by CNBC: Oracle announces expanded collaboration with OpenAI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
