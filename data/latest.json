@@ -1,133 +1,149 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T18:20:02Z",
- "hour": "2026-10-28T19:00:00Z",
+ "generated_at": "2026-10-28T19:20:04Z",
+ "hour": "2026-10-28T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "title": "Microsoft is ending Copilot support on smart TVs",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
    "label": "CONFIRMED",
-   "summary_1line": "Google opens Connected Apps platform to developers for AI integrations in Search and Gemini.",
-   "published_at": "2026-10-28T17:00:00Z",
-   "url_id": "f9e844fcc262ffc31f5d6824b2a5baad"
+   "summary_1line": "Microsoft ends Copilot on all smart TVs by 2026.",
+   "published_at": "2026-10-28T18:36:26Z",
+   "url_id": "8c981a7773ea1054fdafa2b299186f91"
   },
   {
-   "title": "ChatGPT has been blamed for a woman’s death: a lawsuit against OpenAI",
-   "outlet": "UkrMedia News",
-   "outlet_name": "UkrMedia News",
-   "url": "https://ukrmedia.news/en/world/chatgpt-openai-smert-zhinky-pozov/",
-   "label": "REPORTED",
-   "summary_1line": "Parents sue OpenAI after ChatGPT advised epilepsy patient to stop meds, leading to her death.",
-   "published_at": "2026-10-28T16:42:14Z",
-   "url_id": "d618074720ea02cc05b4bcf861d6aa77"
-  },
-  {
-   "title": "Google DeepMind Unveils Genie 4: All About Real-Time World Building With Built-In Sound",
-   "outlet": "NDTV",
-   "outlet_name": "NDTV",
-   "url": "https://www.ndtv.com/feature/google-deepmind-unveils-genie-4-all-about-real-time-world-building-with-built-in-sound-12250501",
-   "label": "REPORTED",
-   "summary_1line": "Google DeepMind launches Genie 4 with real-time 3D environments and interactive audio.",
-   "published_at": "2026-10-28T16:59:12Z",
-   "url_id": "aba5076deee482ed57ec710600942732"
-  },
-  {
-   "title": "AI startup claims it hacked Anthropic in 12 hours, gains access to employee details and internal messages",
-   "outlet": "TechRadar",
-   "outlet_name": "TechRadar",
-   "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
+   "title": "Google Launches Connected Apps Platform for Gemini",
+   "outlet": "Droid Life",
+   "outlet_name": "Droid Life",
+   "url": "https://www.droid-life.com/2026/10/28/google-launches-connected-apps-platform-for-gemini/",
    "label": "CONFIRMED",
-   "summary_1line": "AI startup Cathedral breaches Anthropic via third-party software, exposing HR and sales data.",
-   "published_at": "2026-10-28T15:25:00Z",
-   "url_id": "ef105abe134977055448da9fb45e02ff"
+   "summary_1line": "Google rolls out Connected Apps to Gemini and Search with 50+ integrations.",
+   "published_at": "2026-10-28T17:00:18Z",
+   "url_id": "0e3b560b8f83a963d9d34c1b8c555f80"
   },
   {
-   "title": "Elon Musk’s Grok AI Predicts SOMI Crypto Could Explode by 2027",
-   "outlet": "99Bitcoins",
-   "outlet_name": "99Bitcoins",
-   "url": "https://99bitcoins.com/news/altcoins/elon-musk-grok-ai-predicts-somi-crypto/",
-   "label": "STILL OPEN",
-   "summary_1line": "Grok AI speculates Somnia crypto could surge to $25 by Jan 1, 2027, under a major adoption scenario.",
-   "published_at": "2026-10-28T16:08:47Z",
-   "url_id": "ca018512aa3657be7fff4c3ac80b2b8d"
+   "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+   "label": "CONFIRMED",
+   "summary_1line": "Google opens Android to third-party AI agents and launches smart glasses with Gemini.",
+   "published_at": "2026-10-28T16:59:59Z",
+   "url_id": "b9545b95e7aefbea9a3774048c094600"
+  },
+  {
+   "title": "GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API cost",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
+   "url": "https://thenewstack.io/github-copilot-fusion/",
+   "label": "CONFIRMED",
+   "summary_1line": "GitHub's Copilot Fusion matches Claude Code at half the cost and 40% less time.",
+   "published_at": "2026-10-28T16:22:17Z",
+   "url_id": "5c876ffa4db184f9f6062fcf59b9b0d1"
+  },
+  {
+   "title": "Google AI gets cagey when asked who won the 2020 elections",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "label": "CONFIRMED",
+   "summary_1line": "Google's AI Mode avoids stating 2020 and 2024 election winners, directing users to official sources instead.",
+   "published_at": "2026-10-28T03:45:00Z",
+   "url_id": "ef243006ac6a7e08f10375eeac8ba9ef"
   }
  ],
  "ticker": [
   {
-   "headline": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
+   "headline": "Microsoft is ending Copilot support on smart TVs",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
-   "url_id": "f9e844fcc262ffc31f5d6824b2a5baad"
+   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+   "url_id": "8c981a7773ea1054fdafa2b299186f91"
   },
   {
-   "headline": "ChatGPT has been blamed for a woman’s death: a lawsuit against OpenAI",
-   "outlet": "UkrMedia News",
-   "outlet_name": "UkrMedia News",
-   "label": "REPORTED",
-   "url": "https://ukrmedia.news/en/world/chatgpt-openai-smert-zhinky-pozov/",
-   "url_id": "d618074720ea02cc05b4bcf861d6aa77"
-  },
-  {
-   "headline": "Google DeepMind Unveils Genie 4: All About Real-Time World Building With Built-In Sound",
-   "outlet": "NDTV",
-   "outlet_name": "NDTV",
-   "label": "REPORTED",
-   "url": "https://www.ndtv.com/feature/google-deepmind-unveils-genie-4-all-about-real-time-world-building-with-built-in-sound-12250501",
-   "url_id": "aba5076deee482ed57ec710600942732"
-  },
-  {
-   "headline": "AI startup claims it hacked Anthropic in 12 hours, gains access to employee details and…",
-   "outlet": "TechRadar",
-   "outlet_name": "TechRadar",
+   "headline": "Google Launches Connected Apps Platform for Gemini",
+   "outlet": "Droid Life",
+   "outlet_name": "Droid Life",
    "label": "CONFIRMED",
-   "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
-   "url_id": "ef105abe134977055448da9fb45e02ff"
+   "url": "https://www.droid-life.com/2026/10/28/google-launches-connected-apps-platform-for-gemini/",
+   "url_id": "0e3b560b8f83a963d9d34c1b8c555f80"
   },
   {
-   "headline": "Elon Musk’s Grok AI Predicts SOMI Crypto Could Explode by 2027",
-   "outlet": "99Bitcoins",
-   "outlet_name": "99Bitcoins",
-   "label": "STILL OPEN",
-   "url": "https://99bitcoins.com/news/altcoins/elon-musk-grok-ai-predicts-somi-crypto/",
-   "url_id": "ca018512aa3657be7fff4c3ac80b2b8d"
-  },
-  {
-   "headline": "Anthropic Releases Claude for Legal Artifacts, a Set of New Interactive Tools for Legal…",
-   "outlet": "law.com",
-   "outlet_name": "law.com",
+   "headline": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
    "label": "CONFIRMED",
-   "url": "https://www.law.com/legaltechnews/2026/10/28/anthropic-releases-claude-for-legal-artifacts-a-set-of-new-interactive-tools-for-legal-users-/",
-   "url_id": "0c559f0b2604698165b1b83655791909"
-  },
-  {
-   "headline": "New York adopts law restricting harmful AI chatbot features that target children",
-   "outlet": "Syracuse.com on MSN",
-   "outlet_name": "Syracuse.com on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/new-york-adopts-law-restricting-harmful-ai-chatbot-features-that-target-children/ar-AA2gg3WG",
-   "url_id": "d063966b02f1059f5616a9a72bba6de1"
-  },
-  {
-   "headline": "Microsoft to end Copilot support on smart TVs by end of year",
-   "outlet": "Windows Central on MSN",
-   "outlet_name": "Windows Central on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-gb/technology/consumer-electronics/microsoft-to-end-copilot-support-on-smart-tvs-by-end-of-year/ar-AA2gfBN8",
-   "url_id": "c7c4cef975bc61a0daabbe7a730c72cd"
+   "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+   "url_id": "b9545b95e7aefbea9a3774048c094600"
   },
   {
    "headline": "GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats…",
-   "outlet": "thenewstack.io",
-   "outlet_name": "thenewstack.io",
-   "label": "REPORTED",
+   "outlet": "The New Stack",
+   "outlet_name": "The New Stack",
+   "label": "CONFIRMED",
    "url": "https://thenewstack.io/github-copilot-fusion/",
-   "url_id": "90e03dcdfa6d6d10cf760f59031c3c34"
+   "url_id": "5c876ffa4db184f9f6062fcf59b9b0d1"
+  },
+  {
+   "headline": "Google AI gets cagey when asked who won the 2020 elections",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "label": "CONFIRMED",
+   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "url_id": "ef243006ac6a7e08f10375eeac8ba9ef"
+  },
+  {
+   "headline": "Anthropic erweitert Claude for Legal um vorgefertigte Vorlagen für Kanzleien",
+   "outlet": "the-decoder.de",
+   "outlet_name": "The Decoder",
+   "label": "CONFIRMED",
+   "url": "https://the-decoder.de/anthropic-erweitert-claude-for-legal-um-vorgefertigte-vorlagen-fuer-kanzleien/",
+   "url_id": "00d66a328057c46a95fc9cd636b237d4"
+  },
+  {
+   "headline": "Malaysia intercepted $12.2 million shipment of servers with AI chips suspected of…",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "CONFIRMED",
+   "url": "https://fortune.com/2026/10/28/malaysia-intercepted-ai-chips-shipment-export-controls-china/",
+   "url_id": "b6c03d1f1a96e836938bb41d36d79276"
+  },
+  {
+   "headline": "Texas sues OpenAI, Sam Altman over ChatGPT safety and age verification",
+   "outlet": "Biometric Update",
+   "outlet_name": "Biometric Update",
+   "label": "REPORTED",
+   "url": "https://www.biometricupdate.com/202610/texas-sues-openai-sam-altman-over-chatgpt-safety-and-age-verification",
+   "url_id": "a62ad8bd076b622e87e249e3f9e6cc47"
+  },
+  {
+   "headline": "Grok Deepfaked This UK Politician—Now She’s Taking Elon Musk’s xAI To Court",
+   "outlet": "Wired",
+   "outlet_name": "Wired",
+   "label": "CONFIRMED",
+   "url": "https://www.wired.com/video/watch/big-interview-jess-asato",
+   "url_id": "95545cee9885721a71768c787b19bd82"
+  },
+  {
+   "headline": "Gemini 4 Carbon: our next frontier model",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+   "url_id": "03f4012760c87a3eb22d14f8f3257395"
+  },
+  {
+   "headline": "Gov. Hochul signs bill to shield children from unsafe AI chatbots, baby monitors",
+   "outlet": "WRGB CBS 6 on MSN",
+   "outlet_name": "WRGB CBS 6 on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/gov-hochul-signs-bill-to-shield-children-from-unsafe-ai-chatbots-baby-monitors/ar-AA2gfYN3",
+   "url_id": "601356d48d424663d5cd3e534d886d9d"
   },
   {
    "headline": "Plato Raises $16 Million Series A to Build Simulated Workplaces for AI Agents",
@@ -136,32 +152,16 @@
    "label": "CONFIRMED",
    "url": "https://www.unite.ai/plato-raises-16-million-series-a-simulated-workplaces-ai-agents/",
    "url_id": "55b5276c42903bb3fae235b4ea334000"
-  },
-  {
-   "headline": "Microsoft Makes Copilot Harness Available Through Foundry",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
-   "label": "CONFIRMED",
-   "url": "https://www.unite.ai/microsoft-makes-copilot-harness-available-through-foundry/",
-   "url_id": "b2b559efa21c11ff4357a523ad7c0241"
-  },
-  {
-   "headline": "Video Introducing Directory: free recruiting data for ChatGPT and Claude Directory brings…",
-   "outlet": "firecrawl.dev",
-   "outlet_name": "firecrawl.dev",
-   "label": "REPORTED",
-   "url": "https://www.firecrawl.dev/blog/introducing-directory",
-   "url_id": "04f422ec8ad779fde821f27c0004a4c5"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 15400,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 15500,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/19.mp3",
- "audio_seconds": 47.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/20.mp3",
+ "audio_seconds": 45.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: As AI agents reshape the web, Google opens Gemini and Search to more apps.\nReported by UkrMedia News: ChatGPT has been blamed for a woman’s death: a lawsuit against OpenAI.\nReported by NDTV: Google DeepMind Unveils Genie 4: All About Real-Time World Building With Built-In Sound.\nConfirmed, per TechRadar: AI startup claims it hacked Anthropic in 12 hours, gains access to employee details and internal messages.\nStill open, per 99Bitcoins: Elon Musk’s Grok AI Predicts SOMI Crypto Could Explode by 2027.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: Microsoft is ending Copilot support on smart TVs.\nConfirmed, per Droid Life: Google Launches Connected Apps Platform for Gemini.\nConfirmed, per The Decoder: Google opens Android development to third-party AI agents and unveils new Gemini APIs.\nConfirmed, per The New Stack: GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API cost.\nConfirmed, per Ars Technica: Google AI gets cagey when asked who won the 2020 elections.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
