@@ -1,149 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T10:20:02Z",
- "hour": "2026-10-28T11:00:00Z",
+ "generated_at": "2026-10-28T11:20:02Z",
+ "hour": "2026-10-28T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI to buy Google's AI chip TPU",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/120762/openai-to-buy-googles-ai-chip-tpu",
+   "title": "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
+   "url": "https://siliconangle.com/2026/10/28/exclusive-prophecy-launches-datagpt-to-run-data-workflows-inside-chatgpt-claude-and-copilot/",
+   "label": "CONFIRMED",
+   "summary_1line": "Prophecy launches DataGPT to let analysts run verifiable data workflows in AI tools.",
+   "published_at": "2026-10-28T09:00:00Z",
+   "url_id": "515c7dad44cbe3b79db1145676f67fd8"
+  },
+  {
+   "title": "NY governor signs major chatbot safety bill into law",
+   "outlet": "Mashable SEA",
+   "outlet_name": "Mashable SEA",
+   "url": "https://sea.mashable.com/tech-industry/56462/ny-governor-signs-major-chatbot-safety-bill-into-law",
+   "label": "CONFIRMED",
+   "summary_1line": "New York bans AI chatbots from harmful features for minors, with penalties and oversight.",
+   "published_at": "2026-10-28T10:00:00Z",
+   "url_id": "92324504164d47f79e728e12037ca9da"
+  },
+  {
+   "title": "Dubai Future Foundation Launches AI Sandbox to Help Companies Navigate Regulation",
+   "outlet": "TechAfrica News",
+   "outlet_name": "TechAfrica News",
+   "url": "https://techafricanews.com/2026/10/28/dubai-future-foundation-launches-ai-sandbox-to-help-companies-navigate-regulation/",
+   "label": "CONFIRMED",
+   "summary_1line": "Dubai launches AI Sandbox to help companies deploy AI solutions amid regulatory challenges.",
+   "published_at": "2026-10-28T08:17:50Z",
+   "url_id": "e10582bcf0a8ec3c0c031bfb9c075ac9"
+  },
+  {
+   "title": "Nvidia-backed firm launches US$3.1 bil GPU loan in market",
+   "outlet": "The Edge Malaysia",
+   "outlet_name": "The Edge Malaysia",
+   "url": "https://theedgemalaysia.com/node/823601",
+   "label": "REPORTED",
+   "summary_1line": "Zankore raises $3.1B for AI factory with Nvidia-backed GPU financing.",
+   "published_at": "2026-10-28T06:15:33Z",
+   "url_id": "71a1dc6dfa1c21a552c29ab6012a3020"
+  },
+  {
+   "title": "Claude AI Predicts the 'Flippening': How Does ETH Overtake BTC?",
+   "outlet": "99Bitcoins",
+   "outlet_name": "99Bitcoins",
+   "url": "https://99bitcoins.com/news/altcoins/claude-ai-predicts-the-flippening-how-does-ethereum-finally-overtake-bitcoin/",
    "label": "STILL OPEN",
-   "summary_1line": "OpenAI plans to buy Google's TPU, Oracle joins as new customer.",
-   "published_at": "2026-10-28T05:53:12Z",
-   "url_id": "6435c3b0ea9e5cebbeb78c22469a9c2b"
-  },
-  {
-   "title": "Google DeepMind Introduces Genie 4 With Real-Time Simulation, Native Audio Generation",
-   "outlet": "Gadgets 360",
-   "outlet_name": "Gadgets 360",
-   "url": "https://www.gadgets360.com/ai/news/google-deepmind-genie-4-launch-features-availability-12247160",
-   "label": "CONFIRMED",
-   "summary_1line": "Google's Genie 4 enables real-time, interactive simulations with native audio and dialogue via natural-language prompts.",
-   "published_at": "2026-10-28T07:17:52Z",
-   "url_id": "e512ffadeeb4b1462968f1ddf298e13e"
-  },
-  {
-   "title": "Anthropic Files for Record-Breaking IPO: A $2 Trillion Bet on the Future of AI",
-   "outlet": "BBN Times",
-   "outlet_name": "BBN Times",
-   "url": "https://www.bbntimes.com/companies/anthropic-files-for-record-breaking-ipo-a-2-trillion-bet-on-the-future-of-ai",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic files for $2 trillion IPO with $16.29B revenue and 900% net revenue retention.",
-   "published_at": "2026-10-27T21:22:30Z",
-   "url_id": "cef3d922566d900e35400eaeae93c9c7"
-  },
-  {
-   "title": "AI Chips Emerge as High-Value Contraband in Malaysia Seizure",
-   "outlet": "StratNews Global",
-   "outlet_name": "StratNews Global",
-   "url": "https://stratnewsglobal.com/technology/malaysia-ai-chips-smuggling-seizure-airport/",
-   "label": "CONFIRMED",
-   "summary_1line": "Malaysia seizes $12.1M in AI chips amid suspected smuggling linked to five prior cases.",
-   "published_at": "2026-10-28T05:50:59Z",
-   "url_id": "45e0117273f34fa1fec1c195454b7604"
-  },
-  {
-   "title": "Should AI Decide Your Court Case? This Judge Says Yes",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-   "label": "CONFIRMED",
-   "summary_1line": "Judge Vos urges AI use in courts amid rising AI-generated claims and fabricated evidence.",
-   "published_at": "2026-10-28T06:00:00Z",
-   "url_id": "df65cd12f346a5f252ddcccefe90258a"
+   "summary_1line": "Claude AI speculates Ethereum could overtake Bitcoin via a bond market pilot, reaching $13,500 by Jan 1, 2027.",
+   "published_at": "2026-10-28T09:28:55Z",
+   "url_id": "25851c32b9fc06f8fb3164b5cabc08ff"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI to buy Google's AI chip TPU",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "label": "STILL OPEN",
-   "url": "https://www.digitaltoday.co.kr/en/view/120762/openai-to-buy-googles-ai-chip-tpu",
-   "url_id": "6435c3b0ea9e5cebbeb78c22469a9c2b"
-  },
-  {
-   "headline": "Google DeepMind Introduces Genie 4 With Real-Time Simulation, Native Audio Generation",
-   "outlet": "Gadgets 360",
-   "outlet_name": "Gadgets 360",
+   "headline": "Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and…",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
    "label": "CONFIRMED",
-   "url": "https://www.gadgets360.com/ai/news/google-deepmind-genie-4-launch-features-availability-12247160",
-   "url_id": "e512ffadeeb4b1462968f1ddf298e13e"
+   "url": "https://siliconangle.com/2026/10/28/exclusive-prophecy-launches-datagpt-to-run-data-workflows-inside-chatgpt-claude-and-copilot/",
+   "url_id": "515c7dad44cbe3b79db1145676f67fd8"
   },
   {
-   "headline": "Anthropic Files for Record-Breaking IPO: A $2 Trillion Bet on the Future of AI",
-   "outlet": "BBN Times",
-   "outlet_name": "BBN Times",
+   "headline": "NY governor signs major chatbot safety bill into law",
+   "outlet": "Mashable SEA",
+   "outlet_name": "Mashable SEA",
    "label": "CONFIRMED",
-   "url": "https://www.bbntimes.com/companies/anthropic-files-for-record-breaking-ipo-a-2-trillion-bet-on-the-future-of-ai",
-   "url_id": "cef3d922566d900e35400eaeae93c9c7"
-  },
-  {
-   "headline": "AI Chips Emerge as High-Value Contraband in Malaysia Seizure",
-   "outlet": "StratNews Global",
-   "outlet_name": "StratNews Global",
-   "label": "CONFIRMED",
-   "url": "https://stratnewsglobal.com/technology/malaysia-ai-chips-smuggling-seizure-airport/",
-   "url_id": "45e0117273f34fa1fec1c195454b7604"
-  },
-  {
-   "headline": "Should AI Decide Your Court Case? This Judge Says Yes",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "label": "CONFIRMED",
-   "url": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
-   "url_id": "df65cd12f346a5f252ddcccefe90258a"
-  },
-  {
-   "headline": "Anthropic, Suno Sued Over Alleged AI Training Using Madonna, Johnny Cash, Joni Mitchell’s…",
-   "outlet": "techtimes",
-   "outlet_name": "techtimes",
-   "label": "REPORTED",
-   "url": "https://www.techtimes.com/articles/329602/20261028/anthropic-suno-sued-over-alleged-ai-training-using-madonna-johnny-cash-joni-mitchells-music.htm",
-   "url_id": "8058d27bbd2cee0205e8721d5ec0c023"
-  },
-  {
-   "headline": "Texas OpenAI lawsuit challenges ChatGPT safety claims",
-   "outlet": "Cybernews",
-   "outlet_name": "Cybernews",
-   "label": "REPORTED",
-   "url": "https://cybernews.com/ai-news/texas-paxton-openai-chatgpt-safety-lawsuit/",
-   "url_id": "ccd2441175cceb16b0caf1552c506ded"
-  },
-  {
-   "headline": "ESET adds AI chat and agent safeguards to consumer and small-business security",
-   "outlet": "Tech Edition",
-   "outlet_name": "Tech Edition",
-   "label": "CONFIRMED",
-   "url": "https://www.techedt.com/eset-adds-ai-chat-and-agent-safeguards-to-consumer-and-small-business-security",
-   "url_id": "2ecf185cc03076f3636497b548ff450e"
+   "url": "https://sea.mashable.com/tech-industry/56462/ny-governor-signs-major-chatbot-safety-bill-into-law",
+   "url_id": "92324504164d47f79e728e12037ca9da"
   },
   {
    "headline": "Dubai Future Foundation Launches AI Sandbox to Help Companies Navigate Regulation",
    "outlet": "TechAfrica News",
    "outlet_name": "TechAfrica News",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://techafricanews.com/2026/10/28/dubai-future-foundation-launches-ai-sandbox-to-help-companies-navigate-regulation/",
    "url_id": "e10582bcf0a8ec3c0c031bfb9c075ac9"
   },
   {
-   "headline": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and…",
-   "outlet": "The Hacker News",
-   "outlet_name": "The Hacker News",
+   "headline": "Nvidia-backed firm launches US$3.1 bil GPU loan in market",
+   "outlet": "The Edge Malaysia",
+   "outlet_name": "The Edge Malaysia",
    "label": "REPORTED",
-   "url": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
-   "url_id": "2158a3a7bcab11c20713157588e5a545"
+   "url": "https://theedgemalaysia.com/node/823601",
+   "url_id": "71a1dc6dfa1c21a552c29ab6012a3020"
   },
   {
-   "headline": "Gemini Notebook gets voice recorder, but it’s a mess compared to Pixel Recorder",
-   "outlet": "androidauthority.com",
-   "outlet_name": "androidauthority.com",
+   "headline": "Claude AI Predicts the 'Flippening': How Does ETH Overtake BTC?",
+   "outlet": "99Bitcoins",
+   "outlet_name": "99Bitcoins",
+   "label": "STILL OPEN",
+   "url": "https://99bitcoins.com/news/altcoins/claude-ai-predicts-the-flippening-how-does-ethereum-finally-overtake-bitcoin/",
+   "url_id": "25851c32b9fc06f8fb3164b5cabc08ff"
+  },
+  {
+   "headline": "Business News | SK Hynix Sells out AI Memory Chips Through 2029 on Record USD 74.64…",
+   "outlet": "LatestLY",
+   "outlet_name": "LatestLY",
    "label": "CONFIRMED",
-   "url": "https://www.androidauthority.com/gemini-notebook-voice-recorder-3728848/",
-   "url_id": "265d126c76c620c0479ca21b474c839d"
+   "url": "https://www.latestly.com/agency-news/business-news-sk-hynix-sells-out-ai-memory-chips-through-2029-on-record-usd-74-64-billion-revenue-7659571.html",
+   "url_id": "d512eb13f4ba0792bc96f83d1252c5e0"
+  },
+  {
+   "headline": "Oracle and OpenAI Announce 4 Enterprise AI Tools: What’s Available?",
+   "outlet": "Techgenyz",
+   "outlet_name": "Techgenyz",
+   "label": "REPORTED",
+   "url": "https://techgenyz.com/oracle-ai-workspace-4-enterprise-ai-tools/",
+   "url_id": "04ed26c4996bb01b27c87677d05c3a6d"
+  },
+  {
+   "headline": "What a US-China AI Safety Channel Needs",
+   "outlet": "Countercurrents",
+   "outlet_name": "Countercurrents",
+   "label": "REPORTED",
+   "url": "https://countercurrents.org/2026/10/what-a-us-china-ai-safety-channel-needs/",
+   "url_id": "2f86a0b1577326230a7ec0c09c37626b"
+  },
+  {
+   "headline": "Commentary: Anthropic says its goal is to help humanity, but you may not want to believe…",
+   "outlet": "Los Angeles Times",
+   "outlet_name": "Los Angeles Times",
+   "label": "REPORTED",
+   "url": "https://www.latimes.com/business/story/2026-10-28/anthropic-says-its-goal-is-to-help-humanity-but-you-may-not-want-to-believe-it",
+   "url_id": "8b78e26e4206a3e8ecc5e2ccebb6f54e"
+  },
+  {
+   "headline": "Elon Musk’s AI Grok unveils first 'Odyssey' chapter in step toward full-length series",
+   "outlet": "Hindustan Times on MSN",
+   "outlet_name": "Hindustan Times on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/elon-musk-s-ai-grok-unveils-first-odyssey-chapter-in-step-toward-full-length-series/ar-AA2gei6V",
+   "url_id": "891a64c46e6f8c1f1d866a41abaef72a"
   },
   {
    "headline": "Agentic AI can cut banks' transaction monitoring workload by up to 50%: McKinsey",
@@ -152,16 +144,24 @@
    "label": "CONFIRMED",
    "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/agentic-ai-can-cut-banks-transaction-monitoring-workload-by-up-to-50-improve-compliance-quality-mckinsey/articleshow/135257083.cms",
    "url_id": "fe23fc15dda5ea111f8a467cb2fcdd71"
+  },
+  {
+   "headline": "Claude Code's default telemetry sends Anthropic SHA-256 hashes of files it reads",
+   "outlet": "agenticbench.org",
+   "outlet_name": "agenticbench.org",
+   "label": "REPORTED",
+   "url": "https://agenticbench.org/ant-1-claude-code-telemetry.html",
+   "url_id": "d6378a1886c9ef1f50f0a6425202095f"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
- "articles_24h_rounded": 14600,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 14900,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/11.mp3",
- "audio_seconds": 43.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/12.mp3",
+ "audio_seconds": 46.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per 디지털투데이: OpenAI to buy Google's AI chip TPU.\nConfirmed, per Gadgets 360: Google DeepMind Introduces Genie 4 With Real-Time Simulation, Native Audio Generation.\nConfirmed, per BBN Times: Anthropic Files for Record-Breaking IPO: A $2 Trillion Bet on the Future of AI.\nConfirmed, per StratNews Global: AI Chips Emerge as High-Value Contraband in Malaysia Seizure.\nConfirmed, per Wired: Should AI Decide Your Court Case? This Judge Says Yes.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per SiliconANGLE: Exclusive: Prophecy launches DataGPT to run data workflows inside ChatGPT, Claude and Copilot.\nConfirmed, per Mashable SEA: NY governor signs major chatbot safety bill into law.\nConfirmed, per TechAfrica News: Dubai Future Foundation Launches AI Sandbox to Help Companies Navigate Regulation.\nReported by The Edge Malaysia: Nvidia-backed firm launches US$3.1 bil GPU loan in market.\nStill open, per 99Bitcoins: Claude AI Predicts the 'Flippening': How Does ETH Overtake BTC.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
