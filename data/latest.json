@@ -1,117 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T19:20:04Z",
- "hour": "2026-10-28T20:00:00Z",
+ "generated_at": "2026-10-28T20:20:03Z",
+ "hour": "2026-10-28T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Microsoft is ending Copilot support on smart TVs",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+   "title": "Gov. Hochul Signs AI Chatbot and Baby Monitor Safety Laws",
+   "outlet": "WKTV",
+   "outlet_name": "WKTV",
+   "url": "https://www.wktv.com/news/local/gov-hochul-signs-ai-chatbot-and-baby-monitor-safety-laws/article_43f16042-bff7-4566-a927-6ce91179324b.html",
    "label": "CONFIRMED",
-   "summary_1line": "Microsoft ends Copilot on all smart TVs by 2026.",
-   "published_at": "2026-10-28T18:36:26Z",
-   "url_id": "8c981a7773ea1054fdafa2b299186f91"
+   "summary_1line": "New York passes laws to protect kids from unsafe AI chatbots and baby monitors.",
+   "published_at": "2026-10-28T14:24:00Z",
+   "url_id": "7e19012aa2f951a8264f3881e0292d57"
   },
   {
-   "title": "Google Launches Connected Apps Platform for Gemini",
-   "outlet": "Droid Life",
-   "outlet_name": "Droid Life",
-   "url": "https://www.droid-life.com/2026/10/28/google-launches-connected-apps-platform-for-gemini/",
-   "label": "CONFIRMED",
-   "summary_1line": "Google rolls out Connected Apps to Gemini and Search with 50+ integrations.",
-   "published_at": "2026-10-28T17:00:18Z",
-   "url_id": "0e3b560b8f83a963d9d34c1b8c555f80"
+   "title": "Texas sues OpenAI, Sam Altman over ChatGPT safety and age verification",
+   "outlet": "Biometric Update",
+   "outlet_name": "Biometric Update",
+   "url": "https://www.biometricupdate.com/202610/texas-sues-openai-sam-altman-over-chatgpt-safety-and-age-verification",
+   "label": "REPORTED",
+   "summary_1line": "Texas sues OpenAI and Sam Altman over ChatGPT safety and age verification.",
+   "published_at": "2026-10-28T18:27:34Z",
+   "url_id": "a62ad8bd076b622e87e249e3f9e6cc47"
   },
   {
-   "title": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
+   "title": "GitHub unveils Copilot Fusion and multi-agent Projects at Universe 2026",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/github-copilot-fusion-foundry-universe-2026/",
    "label": "CONFIRMED",
-   "summary_1line": "Google opens Android to third-party AI agents and launches smart glasses with Gemini.",
-   "published_at": "2026-10-28T16:59:59Z",
-   "url_id": "b9545b95e7aefbea9a3774048c094600"
+   "summary_1line": "GitHub launches Copilot Fusion and multi-agent projects at Universe 2026, enabling AI coordination in development.",
+   "published_at": "2026-10-28T10:12:00Z",
+   "url_id": "34c219751a859ccdc56663cae8303bff"
   },
   {
-   "title": "GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API cost",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "url": "https://thenewstack.io/github-copilot-fusion/",
-   "label": "CONFIRMED",
-   "summary_1line": "GitHub's Copilot Fusion matches Claude Code at half the cost and 40% less time.",
-   "published_at": "2026-10-28T16:22:17Z",
-   "url_id": "5c876ffa4db184f9f6062fcf59b9b0d1"
+   "title": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-28T19:02:16Z",
+   "url_id": "aa73b5ac690b6b6969ea369b8c79b009"
   },
   {
-   "title": "Google AI gets cagey when asked who won the 2020 elections",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+   "title": "Grok Deepfaked This UK Politician—Now She’s Taking Elon Musk’s xAI To Court",
+   "outlet": "Wired",
+   "outlet_name": "Wired",
+   "url": "https://www.wired.com/video/watch/big-interview-jess-asato",
    "label": "CONFIRMED",
-   "summary_1line": "Google's AI Mode avoids stating 2020 and 2024 election winners, directing users to official sources instead.",
-   "published_at": "2026-10-28T03:45:00Z",
-   "url_id": "ef243006ac6a7e08f10375eeac8ba9ef"
+   "summary_1line": "Jess Asato fought back against deepfakes by Grok, leading to a government ban on nudification apps and calls for AI chatbot regulation.",
+   "published_at": "2026-10-27T17:00:00Z",
+   "url_id": "95545cee9885721a71768c787b19bd82"
   }
  ],
  "ticker": [
   {
-   "headline": "Microsoft is ending Copilot support on smart TVs",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
+   "headline": "Gov. Hochul Signs AI Chatbot and Baby Monitor Safety Laws",
+   "outlet": "WKTV",
+   "outlet_name": "WKTV",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-   "url_id": "8c981a7773ea1054fdafa2b299186f91"
-  },
-  {
-   "headline": "Google Launches Connected Apps Platform for Gemini",
-   "outlet": "Droid Life",
-   "outlet_name": "Droid Life",
-   "label": "CONFIRMED",
-   "url": "https://www.droid-life.com/2026/10/28/google-launches-connected-apps-platform-for-gemini/",
-   "url_id": "0e3b560b8f83a963d9d34c1b8c555f80"
-  },
-  {
-   "headline": "Google opens Android development to third-party AI agents and unveils new Gemini APIs",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "label": "CONFIRMED",
-   "url": "https://the-decoder.com/google-opens-android-development-to-third-party-ai-agents-and-unveils-new-gemini-apis/",
-   "url_id": "b9545b95e7aefbea9a3774048c094600"
-  },
-  {
-   "headline": "GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats…",
-   "outlet": "The New Stack",
-   "outlet_name": "The New Stack",
-   "label": "CONFIRMED",
-   "url": "https://thenewstack.io/github-copilot-fusion/",
-   "url_id": "5c876ffa4db184f9f6062fcf59b9b0d1"
-  },
-  {
-   "headline": "Google AI gets cagey when asked who won the 2020 elections",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "label": "CONFIRMED",
-   "url": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
-   "url_id": "ef243006ac6a7e08f10375eeac8ba9ef"
-  },
-  {
-   "headline": "Anthropic erweitert Claude for Legal um vorgefertigte Vorlagen für Kanzleien",
-   "outlet": "the-decoder.de",
-   "outlet_name": "The Decoder",
-   "label": "CONFIRMED",
-   "url": "https://the-decoder.de/anthropic-erweitert-claude-for-legal-um-vorgefertigte-vorlagen-fuer-kanzleien/",
-   "url_id": "00d66a328057c46a95fc9cd636b237d4"
-  },
-  {
-   "headline": "Malaysia intercepted $12.2 million shipment of servers with AI chips suspected of…",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "CONFIRMED",
-   "url": "https://fortune.com/2026/10/28/malaysia-intercepted-ai-chips-shipment-export-controls-china/",
-   "url_id": "b6c03d1f1a96e836938bb41d36d79276"
+   "url": "https://www.wktv.com/news/local/gov-hochul-signs-ai-chatbot-and-baby-monitor-safety-laws/article_43f16042-bff7-4566-a927-6ce91179324b.html",
+   "url_id": "7e19012aa2f951a8264f3881e0292d57"
   },
   {
    "headline": "Texas sues OpenAI, Sam Altman over ChatGPT safety and age verification",
@@ -122,12 +74,36 @@
    "url_id": "a62ad8bd076b622e87e249e3f9e6cc47"
   },
   {
+   "headline": "GitHub unveils Copilot Fusion and multi-agent Projects at Universe 2026",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "CONFIRMED",
+   "url": "https://cryptobriefing.com/github-copilot-fusion-foundry-universe-2026/",
+   "url_id": "34c219751a859ccdc56663cae8303bff"
+  },
+  {
+   "headline": "EXCLUSIVE: US DOJ is inquiring about Nvidia's purchase of Hugging Face, sources say",
+   "outlet": "Reuters",
+   "outlet_name": "Reuters",
+   "label": "REPORTED",
+   "url": "https://www.reuters.com/world/us-doj-is-inquiring-about-nvidias-purchase-hugging-face-sources-say-2026-10-28/",
+   "url_id": "aa73b5ac690b6b6969ea369b8c79b009"
+  },
+  {
    "headline": "Grok Deepfaked This UK Politician—Now She’s Taking Elon Musk’s xAI To Court",
    "outlet": "Wired",
    "outlet_name": "Wired",
    "label": "CONFIRMED",
    "url": "https://www.wired.com/video/watch/big-interview-jess-asato",
    "url_id": "95545cee9885721a71768c787b19bd82"
+  },
+  {
+   "headline": "Former DOJ antitrust chiefs Kanter and Mekki launch AI legal startup FluxCap",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "CONFIRMED",
+   "url": "https://cryptobriefing.com/kanter-mekki-launch-fluxcap-ai-legal-startup/",
+   "url_id": "577590ca51808f615706fa158348c80d"
   },
   {
    "headline": "Gemini 4 Carbon: our next frontier model",
@@ -138,30 +114,54 @@
    "url_id": "03f4012760c87a3eb22d14f8f3257395"
   },
   {
-   "headline": "Gov. Hochul signs bill to shield children from unsafe AI chatbots, baby monitors",
-   "outlet": "WRGB CBS 6 on MSN",
-   "outlet_name": "WRGB CBS 6 on MSN",
+   "headline": "Anthropic moves further up the legal tech stack with launch of Claude for Legal Artifacts",
+   "outlet": "legaltechnology.com",
+   "outlet_name": "legaltechnology.com",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/gov-hochul-signs-bill-to-shield-children-from-unsafe-ai-chatbots-baby-monitors/ar-AA2gfYN3",
-   "url_id": "601356d48d424663d5cd3e534d886d9d"
+   "url": "https://legaltechnology.com/anthropic-moves-further-up-the-legal-tech-stack-with-launch-of-claude-for-legal-artifacts/",
+   "url_id": "4cd28e7415c71c713ce847f8523f4b7a"
   },
   {
-   "headline": "Plato Raises $16 Million Series A to Build Simulated Workplaces for AI Agents",
+   "headline": "Microsoft Makes Copilot Harness Available Through Foundry",
    "outlet": "Unite.AI",
    "outlet_name": "Unite.AI",
    "label": "CONFIRMED",
-   "url": "https://www.unite.ai/plato-raises-16-million-series-a-simulated-workplaces-ai-agents/",
-   "url_id": "55b5276c42903bb3fae235b4ea334000"
+   "url": "https://www.unite.ai/microsoft-makes-copilot-harness-available-through-foundry/",
+   "url_id": "89e9ac71e51eb354573910d3a77f78f9"
+  },
+  {
+   "headline": "What Really Happens When You Ask ChatGPT, Grok, or Gemini About Abortion",
+   "outlet": "Cosmopolitan on MSN",
+   "outlet_name": "Cosmopolitan on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-us/news/other/what-really-happens-when-you-ask-chatgpt-grok-or-gemini-about-abortion/ar-AA2ggApV",
+   "url_id": "a41d8efc5cb1d400acfec39841f1baf9"
+  },
+  {
+   "headline": "Geforce Gt 200 - NVIDIA unveils the GeForce GTX 200 series ZDNet",
+   "outlet": "auroradesio.it",
+   "outlet_name": "auroradesio.it",
+   "label": "REPORTED",
+   "url": "https://www.auroradesio.it/top/178357433/",
+   "url_id": "1620ad21ce64e6eb92a296075ce0ab73"
+  },
+  {
+   "headline": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+   "outlet": "aws.amazon.com",
+   "outlet_name": "aws.amazon.com",
+   "label": "CONFIRMED",
+   "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
+   "url_id": "a15f6ab37c7893ad744089ed28b17b62"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 15500,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 15400,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/20.mp3",
- "audio_seconds": 45.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/21.mp3",
+ "audio_seconds": 70.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Verge: Microsoft is ending Copilot support on smart TVs.\nConfirmed, per Droid Life: Google Launches Connected Apps Platform for Gemini.\nConfirmed, per The Decoder: Google opens Android development to third-party AI agents and unveils new Gemini APIs.\nConfirmed, per The New Stack: GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats Claude Code for half the API cost.\nConfirmed, per Ars Technica: Google AI gets cagey when asked who won the 2020 elections.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNew York passes laws to protect kids from unsafe chatbots and baby monitors. Confirmed by WKTV: Governor Hochul signed these safety measures into law.\nTexas sues OpenAI and Sam Altman over ChatGPT safety concerns and age verification. Reported by Biometric Update: the state is taking legal action.\nGitHub launches Copilot Fusion and multi-agent projects at Universe 2026, enabling artificial intelligence coordination in development. Confirmed by Crypto Briefing: these tools expand what developers can do.\nThe US Department of Justice is inquiring about Nvidia's purchase of Hugging Face. Reported by Reuters: sources say the agency is investigating the deal.\nA UK politician fought back against deepfakes created by Grok, leading to a government ban on nudification apps and calls for artificial intelligence chatbot regulation. Confirmed by Wired: Jess Asato took legal action against Elon Musk's xAI.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
