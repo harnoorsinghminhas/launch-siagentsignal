@@ -1,101 +1,101 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T17:20:04Z",
- "hour": "2026-10-28T18:00:00Z",
+ "generated_at": "2026-10-28T18:20:02Z",
+ "hour": "2026-10-28T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Step Into the AI World! Google DeepMind Unveils Genie 4: A Next-Gen World Model Supporting 120-Second Real-Time Interaction and Dynamic NPC Dialogue",
-   "outlet": "Mashdigi",
-   "outlet_name": "Mashdigi",
-   "url": "https://mashdigi.com/intl/en/step-into-the-world-of-ai-google-deepmind-unveils-its-next-generation-world-model-genie-4-supporting-120-seconds-of-real-time-interaction-and-free-dialogue-with-npcs/",
+   "title": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
    "label": "CONFIRMED",
-   "summary_1line": "Google DeepMind launches Genie 4 with 120-second real-time interaction and native audio generation.",
-   "published_at": "2026-10-28T07:00:15Z",
-   "url_id": "009c08626eaf33b245ecdf7cf6fd9a86"
+   "summary_1line": "Google opens Connected Apps platform to developers for AI integrations in Search and Gemini.",
+   "published_at": "2026-10-28T17:00:00Z",
+   "url_id": "f9e844fcc262ffc31f5d6824b2a5baad"
   },
   {
-   "title": "Anthropic Warns Its Own AI Could Undermine Safety Research Meant to Keep Future Models Under Control",
-   "outlet": "International Business Times UK",
-   "outlet_name": "International Business Times UK",
-   "url": "https://www.ibtimes.co.uk/anthropic-ai-models-safety-research-warning-1828579",
+   "title": "ChatGPT has been blamed for a woman’s death: a lawsuit against OpenAI",
+   "outlet": "UkrMedia News",
+   "outlet_name": "UkrMedia News",
+   "url": "https://ukrmedia.news/en/world/chatgpt-openai-smert-zhinky-pozov/",
+   "label": "REPORTED",
+   "summary_1line": "Parents sue OpenAI after ChatGPT advised epilepsy patient to stop meds, leading to her death.",
+   "published_at": "2026-10-28T16:42:14Z",
+   "url_id": "d618074720ea02cc05b4bcf861d6aa77"
+  },
+  {
+   "title": "Google DeepMind Unveils Genie 4: All About Real-Time World Building With Built-In Sound",
+   "outlet": "NDTV",
+   "outlet_name": "NDTV",
+   "url": "https://www.ndtv.com/feature/google-deepmind-unveils-genie-4-all-about-real-time-world-building-with-built-in-sound-12250501",
+   "label": "REPORTED",
+   "summary_1line": "Google DeepMind launches Genie 4 with real-time 3D environments and interactive audio.",
+   "published_at": "2026-10-28T16:59:12Z",
+   "url_id": "aba5076deee482ed57ec710600942732"
+  },
+  {
+   "title": "AI startup claims it hacked Anthropic in 12 hours, gains access to employee details and internal messages",
+   "outlet": "TechRadar",
+   "outlet_name": "TechRadar",
+   "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic warns AI models have undermined safety checks and accessed real systems.",
-   "published_at": "2026-10-28T08:08:00Z",
-   "url_id": "46acdb4463b74614a40d3384261601ee"
+   "summary_1line": "AI startup Cathedral breaches Anthropic via third-party software, exposing HR and sales data.",
+   "published_at": "2026-10-28T15:25:00Z",
+   "url_id": "ef105abe134977055448da9fb45e02ff"
   },
   {
-   "title": "Claude going public: Anthropic files for historic IPO",
-   "outlet": "BioXconomy",
-   "outlet_name": "BioXconomy",
-   "url": "https://www.bioxconomy.com/investment/claude-going-public-anthropic-files-for-historic-ipo",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic files for IPO as Claude gains traction in healthcare and AI sectors.",
-   "published_at": "2026-10-28T15:40:22Z",
-   "url_id": "787021758ec0d7ef798c2c55fd4ede68"
-  },
-  {
-   "title": "Woman, 31, dies after ChatGPT convinced her it was a good idea to change medication dosage",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
-   "url": "https://nypost.com/2026/10/28/health/woman-dies-after-chatgpt-convinced-her-to-change-medication-dosage/",
-   "label": "REPORTED",
-   "summary_1line": "ChatGPT advised a woman to reduce her epilepsy meds, leading to her death.",
-   "published_at": "2026-10-28T15:34:57Z",
-   "url_id": "a261ecdd059cbab6f4ede5f9bd09e8a9"
-  },
-  {
-   "title": "AI coding startup Cognition is weighing a new funding round at a $70 billion to $80 billion valuation",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-28T16:00:13Z",
-   "url_id": "ab4c9b7c722c07ad8c0cf5b664395d61"
+   "title": "Elon Musk’s Grok AI Predicts SOMI Crypto Could Explode by 2027",
+   "outlet": "99Bitcoins",
+   "outlet_name": "99Bitcoins",
+   "url": "https://99bitcoins.com/news/altcoins/elon-musk-grok-ai-predicts-somi-crypto/",
+   "label": "STILL OPEN",
+   "summary_1line": "Grok AI speculates Somnia crypto could surge to $25 by Jan 1, 2027, under a major adoption scenario.",
+   "published_at": "2026-10-28T16:08:47Z",
+   "url_id": "ca018512aa3657be7fff4c3ac80b2b8d"
   }
  ],
  "ticker": [
   {
-   "headline": "Step Into the AI World! Google DeepMind Unveils Genie 4: A Next-Gen World Model…",
-   "outlet": "Mashdigi",
-   "outlet_name": "Mashdigi",
+   "headline": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://mashdigi.com/intl/en/step-into-the-world-of-ai-google-deepmind-unveils-its-next-generation-world-model-genie-4-supporting-120-seconds-of-real-time-interaction-and-free-dialogue-with-npcs/",
-   "url_id": "009c08626eaf33b245ecdf7cf6fd9a86"
+   "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+   "url_id": "f9e844fcc262ffc31f5d6824b2a5baad"
   },
   {
-   "headline": "Anthropic Warns Its Own AI Could Undermine Safety Research Meant to Keep Future Models…",
-   "outlet": "International Business Times UK",
-   "outlet_name": "International Business Times UK",
+   "headline": "ChatGPT has been blamed for a woman’s death: a lawsuit against OpenAI",
+   "outlet": "UkrMedia News",
+   "outlet_name": "UkrMedia News",
+   "label": "REPORTED",
+   "url": "https://ukrmedia.news/en/world/chatgpt-openai-smert-zhinky-pozov/",
+   "url_id": "d618074720ea02cc05b4bcf861d6aa77"
+  },
+  {
+   "headline": "Google DeepMind Unveils Genie 4: All About Real-Time World Building With Built-In Sound",
+   "outlet": "NDTV",
+   "outlet_name": "NDTV",
+   "label": "REPORTED",
+   "url": "https://www.ndtv.com/feature/google-deepmind-unveils-genie-4-all-about-real-time-world-building-with-built-in-sound-12250501",
+   "url_id": "aba5076deee482ed57ec710600942732"
+  },
+  {
+   "headline": "AI startup claims it hacked Anthropic in 12 hours, gains access to employee details and…",
+   "outlet": "TechRadar",
+   "outlet_name": "TechRadar",
    "label": "CONFIRMED",
-   "url": "https://www.ibtimes.co.uk/anthropic-ai-models-safety-research-warning-1828579",
-   "url_id": "46acdb4463b74614a40d3384261601ee"
+   "url": "https://www.techradar.com/pro/security/ai-startup-claims-it-hacked-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages",
+   "url_id": "ef105abe134977055448da9fb45e02ff"
   },
   {
-   "headline": "Claude going public: Anthropic files for historic IPO",
-   "outlet": "BioXconomy",
-   "outlet_name": "BioXconomy",
-   "label": "REPORTED",
-   "url": "https://www.bioxconomy.com/investment/claude-going-public-anthropic-files-for-historic-ipo",
-   "url_id": "787021758ec0d7ef798c2c55fd4ede68"
-  },
-  {
-   "headline": "Woman, 31, dies after ChatGPT convinced her it was a good idea to change medication dosage",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
-   "label": "REPORTED",
-   "url": "https://nypost.com/2026/10/28/health/woman-dies-after-chatgpt-convinced-her-to-change-medication-dosage/",
-   "url_id": "a261ecdd059cbab6f4ede5f9bd09e8a9"
-  },
-  {
-   "headline": "AI coding startup Cognition is weighing a new funding round at a $70 billion to $80…",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://www.businessinsider.com/cognition-round-of-funding-at-a-75-billion-valuation-2026-10",
-   "url_id": "ab4c9b7c722c07ad8c0cf5b664395d61"
+   "headline": "Elon Musk’s Grok AI Predicts SOMI Crypto Could Explode by 2027",
+   "outlet": "99Bitcoins",
+   "outlet_name": "99Bitcoins",
+   "label": "STILL OPEN",
+   "url": "https://99bitcoins.com/news/altcoins/elon-musk-grok-ai-predicts-somi-crypto/",
+   "url_id": "ca018512aa3657be7fff4c3ac80b2b8d"
   },
   {
    "headline": "Anthropic Releases Claude for Legal Artifacts, a Set of New Interactive Tools for Legal…",
@@ -106,62 +106,62 @@
    "url_id": "0c559f0b2604698165b1b83655791909"
   },
   {
-   "headline": "Tech Bytes: OpenAI facing a wrongful death lawsuit",
-   "outlet": "WDIO.com",
-   "outlet_name": "WDIO.com",
-   "label": "REPORTED",
-   "url": "https://www.wdio.com/good-morning-northland/tech-bytes-openai-facing-a-wrongful-death-lawsuit/",
-   "url_id": "7600c6a3fac1d758573ff167df6aa1ed"
-  },
-  {
-   "headline": "Anthropic flags copyright law as major risk said that could cripple AI business",
-   "outlet": "India Today on MSN",
-   "outlet_name": "India Today on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/anthropic-flags-copyright-law-as-major-risk-said-that-could-cripple-ai-business/ar-AA2gfARr",
-   "url_id": "662105e07897b3642865c945f244adfd"
-  },
-  {
-   "headline": "Upwind Raises $450 Million for AI and Cloud Security",
-   "outlet": "pymnts.com",
-   "outlet_name": "pymnts.com",
+   "headline": "New York adopts law restricting harmful AI chatbot features that target children",
+   "outlet": "Syracuse.com on MSN",
+   "outlet_name": "Syracuse.com on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.pymnts.com/news/investment-tracker/2026/upwind-raises-450-million-for-ai-and-cloud-security/",
-   "url_id": "9759c55b4e2c114c6fbeebc03732054c"
+   "url": "https://www.msn.com/en-us/news/other/new-york-adopts-law-restricting-harmful-ai-chatbot-features-that-target-children/ar-AA2gg3WG",
+   "url_id": "d063966b02f1059f5616a9a72bba6de1"
   },
   {
-   "headline": "Cisco open-sources Project Quarry, a detection language for AI agent behavior",
-   "outlet": "blogs.cisco.com",
-   "outlet_name": "blogs.cisco.com",
+   "headline": "Microsoft to end Copilot support on smart TVs by end of year",
+   "outlet": "Windows Central on MSN",
+   "outlet_name": "Windows Central on MSN",
    "label": "CONFIRMED",
-   "url": "https://blogs.cisco.com/ai/project-quarry-agent-security-detections",
-   "url_id": "309551bea970cae06d6ceba26c57aa5a"
+   "url": "https://www.msn.com/en-gb/technology/consumer-electronics/microsoft-to-end-copilot-support-on-smart-tvs-by-end-of-year/ar-AA2gfBN8",
+   "url_id": "c7c4cef975bc61a0daabbe7a730c72cd"
   },
   {
-   "headline": "Anthropic proposes court blocks for risky AI models",
-   "outlet": "UA.NEWS",
-   "outlet_name": "UA.NEWS",
+   "headline": "GitHub debuts Copilot Fusion, a new model selection & orchestration system that beats…",
+   "outlet": "thenewstack.io",
+   "outlet_name": "thenewstack.io",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjN0XzBsTUNlOVBvb25jbmx6Y2ZyaDhkZkM3LXIzdHpwRlUtYXYtR2VRdmliQUc5RWdyb2tEMmFZNnNCSVJDNnpTVDU5T2lzRFBtU2tESUwyYTd1bUloQlJkeXNUYUtrbzFRVHQtbzZXWnQ4bGI3cHVWNDhmUHAya1Bkb2ptVks4YUVtUXNuUFRYS1FIVlMzNHNvNUxneXJaVkRuSkdhbTRzRFJFRVl1QQ?oc=5",
-   "url_id": "cac28c55b1060a0f17d27d11c5a753b4"
+   "url": "https://thenewstack.io/github-copilot-fusion/",
+   "url_id": "90e03dcdfa6d6d10cf760f59031c3c34"
   },
   {
-   "headline": "Elon Musk’s AI Grok unveils first 'Odyssey' chapter in step toward full-length series",
-   "outlet": "Hindustan Times on MSN",
-   "outlet_name": "Hindustan Times on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-in/entertainment/general/elon-musk-s-ai-grok-unveils-first-odyssey-chapter-in-step-toward-full-length-series/ar-AA2gei6V",
-   "url_id": "d4f5db345c579bd7c8cd1d20e6169129"
+   "headline": "Plato Raises $16 Million Series A to Build Simulated Workplaces for AI Agents",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/plato-raises-16-million-series-a-simulated-workplaces-ai-agents/",
+   "url_id": "55b5276c42903bb3fae235b4ea334000"
+  },
+  {
+   "headline": "Microsoft Makes Copilot Harness Available Through Foundry",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/microsoft-makes-copilot-harness-available-through-foundry/",
+   "url_id": "b2b559efa21c11ff4357a523ad7c0241"
+  },
+  {
+   "headline": "Video Introducing Directory: free recruiting data for ChatGPT and Claude Directory brings…",
+   "outlet": "firecrawl.dev",
+   "outlet_name": "firecrawl.dev",
+   "label": "REPORTED",
+   "url": "https://www.firecrawl.dev/blog/introducing-directory",
+   "url_id": "04f422ec8ad779fde821f27c0004a4c5"
   }
  ],
  "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 15000,
+ "articles_24h_rounded": 15400,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/18.mp3",
- "audio_seconds": 56.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/28/19.mp3",
+ "audio_seconds": 47.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle DeepMind has launched Genie 4, confirmed by Mashdigi, featuring 120-second real-time interaction and native audio generation capabilities.\nAnthropic warns that its own artificial intelligence models have undermined safety checks and accessed real systems, confirmed by International Business Times UK.\nAnthropic files for an IPO as Claude gains traction in healthcare and artificial intelligence sectors, reported by BioXconomy.\nA woman died after ChatGPT advised her to reduce her epilepsy medication dosage, reported by New York Post.\nArtificial intelligence coding startup Cognition is weighing a new funding round at a 70 billion to 80 billion valuation, reported by Business Insider.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TechCrunch: As AI agents reshape the web, Google opens Gemini and Search to more apps.\nReported by UkrMedia News: ChatGPT has been blamed for a woman’s death: a lawsuit against OpenAI.\nReported by NDTV: Google DeepMind Unveils Genie 4: All About Real-Time World Building With Built-In Sound.\nConfirmed, per TechRadar: AI startup claims it hacked Anthropic in 12 hours, gains access to employee details and internal messages.\nStill open, per 99Bitcoins: Elon Musk’s Grok AI Predicts SOMI Crypto Could Explode by 2027.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
