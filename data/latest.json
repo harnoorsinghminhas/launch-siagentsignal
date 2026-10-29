@@ -1,101 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T02:20:02Z",
- "hour": "2026-10-29T03:00:00Z",
+ "generated_at": "2026-10-29T03:20:04Z",
+ "hour": "2026-10-29T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "LG Announces Discontinuation of Microsoft Copilot AI Service on TVs",
+   "title": "Texas sues OpenAI and Sam Altman over ChatGPT safety",
+   "outlet": "Digital Watch Observatory",
+   "outlet_name": "Digital Watch Observatory",
+   "url": "https://dig.watch/updates/texas-sues-openai-and-sam-altman",
+   "label": "REPORTED",
+   "summary_1line": "Texas sues OpenAI and Sam Altman to block minors from ChatGPT and require safety reviews.",
+   "published_at": "2026-10-29T01:37:39Z",
+   "url_id": "e5fc0c3fb00e5807db35c404d2f6794f"
+  },
+  {
+   "title": "Moonshot AI And DeepSeek Relied Outputs From OpenAI's Astra When Developing Their Latest Models Released This Month - The Information",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3P10CQ:0-moonshot-ai-and-deepseek-relied-outputs-from-openai-s-astra-when-developing-their-latest-models-released-this-month-the-information/",
+   "label": "STILL OPEN",
+   "summary_1line": "Moonshot AI and DeepSeek say they used OpenAI's Astra in developing their models.",
+   "published_at": "2026-10-29T01:05:00Z",
+   "url_id": "ee78cc12db229adbdf9caa3708b3c3da"
+  },
+  {
+   "title": "Anthropic Backs Legal Action Against Unsafe AI Systems",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "url": "https://www.analyticsinsight.net/news/anthropic-backs-legal-action-against-unsafe-ai-systems",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic urges California to allow court orders blocking AI models with serious public risks.",
+   "published_at": "2026-10-28T22:00:00Z",
+   "url_id": "2243bd88009ffbdc72e89bae8b1818fc"
+  },
+  {
+   "title": "SK Hynix Q3 Revenue Surpasses 100 Trillion Won Amid AI Memory Demand Surge",
    "outlet": "KuCoin",
    "outlet_name": "KuCoin",
-   "url": "https://www.kucoin.com/news/flash/lg-announces-microsoft-copilot-ai-service-to-be-discontinued-on-tvs",
-   "label": "STILL OPEN",
-   "summary_1line": "Microsoft ends Copilot on LG TVs after mandatory installation.",
-   "published_at": "2026-10-28T23:24:46Z",
-   "url_id": "d01d2c79982c9afbe8010fae86e83146"
+   "url": "https://www.kucoin.com/news/flash/sk-hynix-q3-revenue-surpasses-100-trillion-won-amid-ai-memory-demand-surge",
+   "label": "CONFIRMED",
+   "summary_1line": "SK Hynix's AI-driven memory demand surges, with sales and profits up 328% and 632% year-over-year.",
+   "published_at": "2026-10-29T00:56:52Z",
+   "url_id": "81fb2a4b83b614cf09fb2f92a70880f5"
   },
   {
-   "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+   "title": "Hochul signs sweeping AI restrictions, safeguards for baby monitors with new laws to rein in 'big tech'",
+   "outlet": "New York Post",
+   "outlet_name": "New York Post",
+   "url": "https://nypost.com/2026/10/28/us-news/hochul-signs-sweeping-restrictions-on-ai-pushes-back-on-big-tech-with-new-laws/",
    "label": "CONFIRMED",
-   "summary_1line": "Samsung reports strong Q3 growth and announces $1B AI infrastructure investment with Mistral AI.",
-   "published_at": "2026-10-29T00:57:00Z",
-   "url_id": "8428ae6cfe230e4a4ffc66f8290c630d"
-  },
-  {
-   "title": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
-   "outlet": "9to5Mac",
-   "outlet_name": "9to5Mac",
-   "url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
-   "label": "CONFIRMED",
-   "summary_1line": "Apple's lawsuit against OpenAI and io Products sets July 19, 2027 trial date.",
-   "published_at": "2026-10-29T00:30:44Z",
-   "url_id": "55cfddaae2398ccc67e2cb92da769a75"
-  },
-  {
-   "title": "California Enacts AI Spokespeople, Chatbots and Content Disclosures Laws",
-   "outlet": "JD Supra",
-   "outlet_name": "JD Supra",
-   "url": "https://www.jdsupra.com/legalnews/california-enacts-ai-spokespeople-4564975/",
-   "label": "CONFIRMED",
-   "summary_1line": "California enacts AI transparency laws for generative AI and synthetic performers, effective 2027.",
-   "published_at": "2026-10-28T18:53:30Z",
-   "url_id": "38ad2ce600e46799cbfaf387388f0d3a"
-  },
-  {
-   "title": "AI made legal content cheaper. Law firms are exploring case files as a search resource",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/contributor-content/ai-made-legal-content-cheaper-law-firms-are-exploring-case-files-as-a-search-resource/",
-   "label": "CONFIRMED",
-   "summary_1line": "AI makes generic legal content abundant; firms now compete with evidence-backed case insights.",
-   "published_at": "2026-10-28T12:41:00Z",
-   "url_id": "5357aa2066570e84caee88083c1a803a"
+   "summary_1line": "Hochul bans AI chatbots from feigning emotions for kids and mandates baby monitor security in New York.",
+   "published_at": "2026-10-28T21:35:00Z",
+   "url_id": "9284ec1f050907c72aa043f90119daf7"
   }
  ],
  "ticker": [
   {
-   "headline": "LG Announces Discontinuation of Microsoft Copilot AI Service on TVs",
+   "headline": "Texas sues OpenAI and Sam Altman over ChatGPT safety",
+   "outlet": "Digital Watch Observatory",
+   "outlet_name": "Digital Watch Observatory",
+   "label": "REPORTED",
+   "url": "https://dig.watch/updates/texas-sues-openai-and-sam-altman",
+   "url_id": "e5fc0c3fb00e5807db35c404d2f6794f"
+  },
+  {
+   "headline": "Moonshot AI And DeepSeek Relied Outputs From OpenAI's Astra When Developing Their Latest…",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "STILL OPEN",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_P8N3P10CQ:0-moonshot-ai-and-deepseek-relied-outputs-from-openai-s-astra-when-developing-their-latest-models-released-this-month-the-information/",
+   "url_id": "ee78cc12db229adbdf9caa3708b3c3da"
+  },
+  {
+   "headline": "Anthropic Backs Legal Action Against Unsafe AI Systems",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "label": "CONFIRMED",
+   "url": "https://www.analyticsinsight.net/news/anthropic-backs-legal-action-against-unsafe-ai-systems",
+   "url_id": "2243bd88009ffbdc72e89bae8b1818fc"
+  },
+  {
+   "headline": "SK Hynix Q3 Revenue Surpasses 100 Trillion Won Amid AI Memory Demand Surge",
    "outlet": "KuCoin",
    "outlet_name": "KuCoin",
-   "label": "STILL OPEN",
-   "url": "https://www.kucoin.com/news/flash/lg-announces-microsoft-copilot-ai-service-to-be-discontinued-on-tvs",
-   "url_id": "d01d2c79982c9afbe8010fae86e83146"
+   "label": "CONFIRMED",
+   "url": "https://www.kucoin.com/news/flash/sk-hynix-q3-revenue-surpasses-100-trillion-won-amid-ai-memory-demand-surge",
+   "url_id": "81fb2a4b83b614cf09fb2f92a70880f5"
   },
   {
-   "headline": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "Hochul signs sweeping AI restrictions, safeguards for baby monitors with new laws to rein…",
+   "outlet": "New York Post",
+   "outlet_name": "New York Post",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
-   "url_id": "8428ae6cfe230e4a4ffc66f8290c630d"
+   "url": "https://nypost.com/2026/10/28/us-news/hochul-signs-sweeping-restrictions-on-ai-pushes-back-on-big-tech-with-new-laws/",
+   "url_id": "9284ec1f050907c72aa043f90119daf7"
   },
   {
-   "headline": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
-   "outlet": "9to5Mac",
-   "outlet_name": "9to5Mac",
+   "headline": "AI Literacy, BRICS Participation Among Focus Of Dewan Rakyat",
+   "outlet": "BERNAMA",
+   "outlet_name": "BERNAMA",
    "label": "CONFIRMED",
-   "url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
-   "url_id": "55cfddaae2398ccc67e2cb92da769a75"
+   "url": "https://www.bernama.com/tv/news.php?id=2627084",
+   "url_id": "52b850a39899c8a69ea7a54e5d148bef"
   },
   {
-   "headline": "California Enacts AI Spokespeople, Chatbots and Content Disclosures Laws",
-   "outlet": "JD Supra",
-   "outlet_name": "JD Supra",
-   "label": "CONFIRMED",
-   "url": "https://www.jdsupra.com/legalnews/california-enacts-ai-spokespeople-4564975/",
-   "url_id": "38ad2ce600e46799cbfaf387388f0d3a"
+   "headline": "ChatGPT is not your mortgage broker: Australians warned against building home loan…",
+   "outlet": "The National Law Review",
+   "outlet_name": "The National Law Review",
+   "label": "REPORTED",
+   "url": "https://natlawreview.com/press-releases/chatgpt-not-your-mortgage-broker-australians-warned-against-building-home",
+   "url_id": "33c64897ab852ced6960bc262eb7c666"
   },
   {
-   "headline": "AI made legal content cheaper. Law firms are exploring case files as a search resource",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/contributor-content/ai-made-legal-content-cheaper-law-firms-are-exploring-case-files-as-a-search-resource/",
-   "url_id": "5357aa2066570e84caee88083c1a803a"
+   "headline": "Anthropic’s Elvis lawsuit could reach inside Claude itself",
+   "outlet": "TheStreet",
+   "outlet_name": "TheStreet",
+   "label": "REPORTED",
+   "url": "https://www.thestreet.com/investing/anthropic-ipo-elvis-copyright-lawsuit",
+   "url_id": "ed0b61c5a1d7f8f79108da9d9e0b5e6f"
   },
   {
    "headline": "Christopher Stubbs joins Anthropic's oversight trust | ETIH EdTech News",
@@ -106,22 +130,6 @@
    "url_id": "f6364e72263c3d0dcb2c759c4c761343"
   },
   {
-   "headline": "Hochul signs sweeping restrictions on AI, pushes back on big tech with new laws",
-   "outlet": "New York Post on MSN",
-   "outlet_name": "New York Post on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/hochul-signs-sweeping-restrictions-on-ai-pushes-back-on-big-tech-with-new-laws/ar-AA2ghth5",
-   "url_id": "d67a935880f117d38775cacdc22e6629"
-  },
-  {
-   "headline": "Google unveils Gemini 4 Carbon for cyber defenders",
-   "outlet": "testingcatalog.com",
-   "outlet_name": "testingcatalog.com",
-   "label": "REPORTED",
-   "url": "https://www.testingcatalog.com/google-unveils-gemini-4-carbon-for-cyber-defenders/",
-   "url_id": "ee01b4a8512772fade9eec80d55f3d57"
-  },
-  {
    "headline": "Directions EMEA 2026: Microsoft to introduce Copilot bundle for Dynamics 365 Business…",
    "outlet": "MSDynamicsWorld.com",
    "outlet_name": "MSDynamicsWorld.com",
@@ -130,38 +138,30 @@
    "url_id": "c89910f50455ae33e26dd89d89642ba4"
   },
   {
-   "headline": "I tested the 3 Claude Code alternatives the internet keeps talking about, and only one…",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
-   "label": "STILL OPEN",
-   "url": "https://www.xda-developers.com/i-tested-the-3-claude-code-alternatives-the-internet-keeps-talking-about-and-only-one-let-me-down/",
-   "url_id": "3f2c84fcf07119f3514e5b7e779276e8"
-  },
-  {
-   "headline": "Chinese parents sue OpenAI over their daughter's death; say ChatGPT-maker could have…",
-   "outlet": "The Times of India on MSN",
-   "outlet_name": "The Times of India on MSN",
+   "headline": "Family files wrongful death lawsuit against OpenAI",
+   "outlet": "KING5.com",
+   "outlet_name": "KING5.com",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/chinese-parents-sue-openai-over-their-daughter-s-death-say-chatgpt-maker-could-have-prevented-her-death-by-making-medical-advice-off-limits/ar-AA2gfJTa",
-   "url_id": "c0aac219f91f37fd818e19a5918e6710"
+   "url": "https://www.king5.com/video/news/local/family-files-wrongful-death-lawsuit-against-openai/281-4bcd5fdb-b0d8-4f35-b625-eb559209bea3",
+   "url_id": "b8545c183f2fd483f129c34b2581dedd"
   },
   {
-   "headline": "Microsoft Azure revenue surges 48% to $33.2B, beating expectations as cloud and AI demand…",
-   "outlet": "geekwire.com",
-   "outlet_name": "geekwire.com",
-   "label": "CONFIRMED",
-   "url": "https://www.geekwire.com/2026/microsoft-azure-revenue-surges-48-to-33-2b-beating-expectations-as-cloud-and-ai-demand-grows/",
-   "url_id": "850fec619efb588422dec1cd3fafccbe"
+   "headline": "Microsoft Sees Enterprise AI Adoption Accelerate as Copilot Usage Grows",
+   "outlet": "pymnts.com",
+   "outlet_name": "pymnts.com",
+   "label": "REPORTED",
+   "url": "https://www.pymnts.com/earnings/2026/microsoft-sees-enterprise-ai-adoption-accelerate-as-copilot-usage-grows/",
+   "url_id": "7dda30befe3279c37ece63b8b7ca23d2"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 15600,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 15700,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/03.mp3",
- "audio_seconds": 52.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/04.mp3",
+ "audio_seconds": 61.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per KuCoin: LG Announces Discontinuation of Microsoft Copilot AI Service on TVs.\nConfirmed, per CNBC: Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips.\nConfirmed, per 9to5Mac: Apple and OpenAI trade secrets lawsuit now has an official trial date.\nConfirmed, per JD Supra: California Enacts AI Spokespeople, Chatbots and Content Disclosures Laws.\nConfirmed, per TechCrunch: AI made legal content cheaper. Law firms are exploring case files as a search resource.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nTexas is suing OpenAI and Sam Altman, reported by Digital Watch Observatory, seeking to block minors from ChatGPT and require safety reviews.\nMoonshot AI and DeepSeek say they used OpenAI's Astra when developing their latest models released this month, still open per TradingView.\nAnthropic backs legal action against unsafe artificial intelligence systems, confirmed by Analytics Insight, urging California to allow court orders blocking models with serious public risks.\nSK Hynix's artificial intelligence-driven memory demand surges, confirmed by KuCoin, with sales and profits up 328 percent and 632 percent year-over-year.\nHochul signs sweeping artificial intelligence restrictions in New York, confirmed by New York Post, banning chatbots from feigning emotions for kids and mandating baby monitor security.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
