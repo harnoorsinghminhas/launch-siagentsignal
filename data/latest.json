@@ -1,117 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T22:20:07Z",
- "hour": "2026-10-28T23:00:00Z",
+ "generated_at": "2026-10-28T23:20:04Z",
+ "hour": "2026-10-29T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can’t use",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-28T18:47:27Z",
-   "url_id": "2dcdcd3cb59e8ab101c7a8b5c41bd6ec"
-  },
-  {
-   "title": "Microsoft recorded $10 billion in revenue from OpenAI",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "label": "STILL OPEN",
-   "summary_1line": "Microsoft earned $10B from OpenAI in Q3 2026, with $24.1B annual revenue and a 20% sharing rate reportedly in place.",
-   "published_at": "2026-10-28T21:34:30Z",
-   "url_id": "9daffbb1423852ca8cc43d1c9f3a3f17"
-  },
-  {
-   "title": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
-   "url": "https://ca.finance.yahoo.com/news/servicenow-openai-accelerate-enterprise-ai-200700987.html",
+   "title": "Cisco Launches Project Quarry to Detect AI Agent Threats",
+   "outlet": "Mexico Business News",
+   "outlet_name": "Mexico Business News",
+   "url": "https://mexicobusiness.news/cybersecurity/news/cisco-launches-project-quarry-detect-ai-agent-threats",
    "label": "CONFIRMED",
-   "summary_1line": "ServiceNow and OpenAI launch AI integrations for secure, governed enterprise workflows.",
-   "published_at": "2026-10-28T20:07:00Z",
-   "url_id": "924689b6204a181536b5980ba5a23e13"
+   "summary_1line": "Cisco launches Project Quarry to detect AI agent threats via action sequences.",
+   "published_at": "2026-10-28T19:53:43Z",
+   "url_id": "2f5324b2e10e9fb3298a2fe20e8ce8c6"
   },
   {
-   "title": "Pflugerville adopts new policy for AI, surveillance technology and data privacy",
-   "outlet": "Community Impact",
-   "outlet_name": "Community Impact",
-   "url": "https://communityimpact.com/pflugerville-hutto/government/pflugerville-adopts-new-policy-for-ai-surveillance-technology-and-data-privacy/",
+   "title": "Anthropic’s public benefit structure creates unusual risks for IPO investors",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/28/anthropic-pbc-what-its-structure-means-for-investors-.html",
    "label": "CONFIRMED",
-   "summary_1line": "Pflugerville approves SAFE tech policy with strict AI and surveillance safeguards.",
-   "published_at": "2026-10-28T21:33:59Z",
-   "url_id": "66472fd40af19df993954ae7bd9570ac"
+   "summary_1line": "Anthropic targets $1.5T IPO with PBC structure, balancing public benefit and investor interests.",
+   "published_at": "2026-10-28T21:48:17Z",
+   "url_id": "66674776a52a65a16a3922a56e250041"
   },
   {
-   "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-   "outlet": "Decrypt",
-   "outlet_name": "Decrypt",
-   "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+   "title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
+   "outlet": "Newsday",
+   "outlet_name": "Newsday",
+   "url": "https://www.newsday.com/news/nation/chatbots-ai-new-york-legislation-bans-children-n79620",
    "label": "CONFIRMED",
-   "summary_1line": "Upwind Security raises $400M at $3.8B valuation, revenue quadrupled in 2026.",
-   "published_at": "2026-10-28T13:15:00Z",
-   "url_id": "f13cdba64e4b34e5e5129f2a43258c4c"
+   "summary_1line": "New York bans unsafe chatbot behaviors for kids under 18, with enforcement and penalties.",
+   "published_at": "2026-10-28T15:00:00Z",
+   "url_id": "af75958c4207ab7191d64544c278f2da"
+  },
+  {
+   "title": "Anthropic Finds AI Agents Sway Human Experts' Decisions",
+   "outlet": "BankInfoSecurity",
+   "outlet_name": "BankInfoSecurity",
+   "url": "https://www.bankinfosecurity.com/anthropic-finds-ai-agents-sway-human-experts-decisions-a-33240",
+   "label": "CONFIRMED",
+   "summary_1line": "86% of analysts followed AI agents' decisions in a study on farming policy.",
+   "published_at": "2026-10-28T21:41:37Z",
+   "url_id": "eb872be4ba94633330cfc0e94be8f894"
+  },
+  {
+   "title": "OpenAI launching election 'war room'",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
+   "url": "https://mashable.com/tech/open-ai-launches-midterm-election-war-room",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI launches election war room to monitor AI's role in politics amid rising disinformation.",
+   "published_at": "2026-10-27T20:00:00Z",
+   "url_id": "ce5d199a1eaddb9ab59b78bd30e65c29"
   }
  ],
  "ticker": [
   {
-   "headline": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can’t use",
-   "outlet": "Ars Technica",
-   "outlet_name": "Ars Technica",
-   "label": "REPORTED",
-   "url": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
-   "url_id": "2dcdcd3cb59e8ab101c7a8b5c41bd6ec"
-  },
-  {
-   "headline": "Microsoft recorded $10 billion in revenue from OpenAI",
-   "outlet": "TechCrunch",
-   "outlet_name": "TechCrunch",
-   "label": "STILL OPEN",
-   "url": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
-   "url_id": "9daffbb1423852ca8cc43d1c9f3a3f17"
-  },
-  {
-   "headline": "ServiceNow and OpenAI accelerate enterprise AI, from models and operations to…",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
+   "headline": "Cisco Launches Project Quarry to Detect AI Agent Threats",
+   "outlet": "Mexico Business News",
+   "outlet_name": "Mexico Business News",
    "label": "CONFIRMED",
-   "url": "https://ca.finance.yahoo.com/news/servicenow-openai-accelerate-enterprise-ai-200700987.html",
-   "url_id": "924689b6204a181536b5980ba5a23e13"
+   "url": "https://mexicobusiness.news/cybersecurity/news/cisco-launches-project-quarry-detect-ai-agent-threats",
+   "url_id": "2f5324b2e10e9fb3298a2fe20e8ce8c6"
   },
   {
-   "headline": "Pflugerville adopts new policy for AI, surveillance technology and data privacy",
-   "outlet": "Community Impact",
-   "outlet_name": "Community Impact",
+   "headline": "Anthropic’s public benefit structure creates unusual risks for IPO investors",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://communityimpact.com/pflugerville-hutto/government/pflugerville-adopts-new-policy-for-ai-surveillance-technology-and-data-privacy/",
-   "url_id": "66472fd40af19df993954ae7bd9570ac"
+   "url": "https://www.cnbc.com/2026/10/28/anthropic-pbc-what-its-structure-means-for-investors-.html",
+   "url_id": "66674776a52a65a16a3922a56e250041"
   },
   {
-   "headline": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-   "outlet": "Decrypt",
-   "outlet_name": "Decrypt",
+   "headline": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation…",
+   "outlet": "Newsday",
+   "outlet_name": "Newsday",
    "label": "CONFIRMED",
-   "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
-   "url_id": "f13cdba64e4b34e5e5129f2a43258c4c"
+   "url": "https://www.newsday.com/news/nation/chatbots-ai-new-york-legislation-bans-children-n79620",
+   "url_id": "af75958c4207ab7191d64544c278f2da"
   },
   {
-   "headline": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
-   "outlet": "Decrypt",
-   "outlet_name": "Decrypt",
-   "label": "STILL OPEN",
-   "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
-   "url_id": "9d99fa95d1b37ab429742a4e1fe49097"
-  },
-  {
-   "headline": "AI for Science expands to foundations and research institutions",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
+   "headline": "Anthropic Finds AI Agents Sway Human Experts' Decisions",
+   "outlet": "BankInfoSecurity",
+   "outlet_name": "BankInfoSecurity",
    "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "url_id": "5c21ffeb271fe2e2a4b57abb1f96e8f2"
+   "url": "https://www.bankinfosecurity.com/anthropic-finds-ai-agents-sway-human-experts-decisions-a-33240",
+   "url_id": "eb872be4ba94633330cfc0e94be8f894"
+  },
+  {
+   "headline": "OpenAI launching election 'war room'",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
+   "label": "CONFIRMED",
+   "url": "https://mashable.com/tech/open-ai-launches-midterm-election-war-room",
+   "url_id": "ce5d199a1eaddb9ab59b78bd30e65c29"
+  },
+  {
+   "headline": "Microsoft opens Copilot harness to Foundry for multi-model agents",
+   "outlet": "Blockchain News",
+   "outlet_name": "Blockchain News",
+   "label": "CONFIRMED",
+   "url": "https://blockchain.news/news/microsoft-opens-copilot-harness-to-foundry-for-multi-model-agents",
+   "url_id": "838f5f19cb9166d1e9d3d4e07ea2ed77"
   },
   {
    "headline": "Anthropic Warns AI Could Pose \"Catastrophic Risk\" To Humanity",
@@ -122,28 +114,28 @@
    "url_id": "9209713fae4924dbd8968cf79fad5ac4"
   },
   {
-   "headline": "Anthropic filed to go public—what retail investors should weigh before its IPO",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "AI for Science expands to foundations and research institutions",
+   "outlet": "Anthropic",
+   "outlet_name": "Anthropic",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/make-it/2026/10/28/anthropic-ipo-investor-guide.html",
-   "url_id": "6910e4175f98f0eb9a86455124cb4ce5"
+   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+   "url_id": "5c21ffeb271fe2e2a4b57abb1f96e8f2"
   },
   {
-   "headline": "GSA Expands Claude OneGov Deal With 40% Token-Usage Discount",
-   "outlet": "MeriTalk",
-   "outlet_name": "MeriTalk",
+   "headline": "Gemini 4 Carbon: Our next frontier model",
+   "outlet": "deepmind.google",
+   "outlet_name": "deepmind.google",
    "label": "CONFIRMED",
-   "url": "https://www.meritalk.com/articles/gsa-expands-claude-onegov-deal-with-40-token-usage-discount/",
-   "url_id": "ab1d9cf41050fda87dd5dbe6dbe73b6d"
+   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+   "url_id": "3e32bae570ff21ee59e510c657138291"
   },
   {
-   "headline": "Dive into new topics with immersive explorations in the Gemini app.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
+   "headline": "Anthropic tells California governor courts should be able to block risky AI models",
+   "outlet": "economictimes.indiatimes.com",
+   "outlet_name": "economictimes.indiatimes.com",
    "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-app/immersive-explorations-student-hub/",
-   "url_id": "548188bf70724d9d39395d8d5c914afe"
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-tells-california-governor-courts-should-be-able-to-block-risky-ai-models/articleshow/135278359.cms",
+   "url_id": "9e9bc01296c75d9fc33e3721dd9a5a0f"
   },
   {
    "headline": "Gemini 4 Carbon",
@@ -152,16 +144,24 @@
    "label": "CONFIRMED",
    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
    "url_id": "a92d7b7ef0e2da4d5922c4312bd7f7df"
+  },
+  {
+   "headline": "Pflugerville Adopts SAFE AI Policy, 3 Risk Tiers [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "CONFIRMED",
+   "url": "https://shattered.io/pflugerville-safe-technology-policy-ai-surveillance-three-risk-tiers-2026/",
+   "url_id": "2501651fd9b5416a127b42ca4242b1f4"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by 13 different outlets in the last few hours.",
- "articles_24h_rounded": 15500,
+ "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
+ "articles_24h_rounded": 15600,
  "articles_24h_label": "about 16,000",
- "audio_url": null,
- "audio_archive_url": null,
- "audio_seconds": null,
- "audio_status": "unavailable",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Ars Technica: Google announces Gemini 4 Carbon, its latest frontier AI model that you can’t use.\nStill open, per TechCrunch: Microsoft recorded $10 billion in revenue from OpenAI.\nConfirmed, per Yahoo! Finance Canada: ServiceNow and OpenAI accelerate enterprise AI, from models and operations to cybersecurity and agentic development.\nConfirmed, per Community Impact: Pflugerville adopts new policy for AI, surveillance technology and data privacy.\nConfirmed, per Decrypt: AI Security Startup Upwind Raises $400M at $3.8B Valuation.\nFree every hour.",
+ "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/00.mp3",
+ "audio_seconds": 49.1,
+ "audio_status": "ok",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Mexico Business News: Cisco Launches Project Quarry to Detect AI Agent Threats.\nConfirmed, per CNBC: Anthropic’s public benefit structure creates unusual risks for IPO investors.\nConfirmed, per Newsday: New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries.\nConfirmed, per BankInfoSecurity: Anthropic Finds AI Agents Sway Human Experts' Decisions.\nConfirmed, per Mashable: OpenAI launching election 'war room'.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
