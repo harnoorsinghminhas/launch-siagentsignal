@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T06:20:03Z",
- "hour": "2026-10-29T07:00:00Z",
+ "generated_at": "2026-10-29T07:20:03Z",
+ "hour": "2026-10-29T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "New York passes law banning harmful AI chatbot interactions with children",
-   "outlet": "TRT World",
-   "outlet_name": "TRT World",
-   "url": "https://www.trtworld.com/article/f61a89957353",
+   "title": "Anthropic tells California governor courts should be able to block risky AI models",
+   "outlet": "شبكة تواصل الإخبارية",
+   "outlet_name": "شبكة تواصل الإخبارية",
+   "url": "https://twaslnews1.twaslnews.com/6777590/",
    "label": "CONFIRMED",
-   "summary_1line": "New York bans AI chatbots from pretending to be human or having relationships with minors.",
-   "published_at": "2026-10-29T03:42:18Z",
-   "url_id": "a77d931c15584a6da1a58aba7b6f3422"
+   "summary_1line": "Anthropic urges court blocks for AI models with serious public risks, criticizing broad 'kill switches'.",
+   "published_at": "2026-10-29T04:09:56Z",
+   "url_id": "997427769ebb4ea66439d046d55c4076"
   },
   {
-   "title": "Nvidia unveils DSX POD server racks to speed up AI factory buildouts",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/nvidia-dsx-pod-ai-factory-racks/",
-   "label": "CONFIRMED",
-   "summary_1line": "Nvidia's DSX POD cuts AI data center setup to 14 days, with 504 GPUs and 30% lower power use.",
-   "published_at": "2026-10-29T04:06:25Z",
-   "url_id": "9428e5dfbd20f20a439f32b0f8159d45"
-  },
-  {
-   "title": "New York enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation boundaries",
-   "outlet": "Boston Herald",
-   "outlet_name": "Boston Herald",
-   "url": "https://www.bostonherald.com/2026/10/28/ai-regulation-states/",
-   "label": "CONFIRMED",
-   "summary_1line": "New York bans unsafe AI chatbot features for kids under 18, effective Jan. 1.",
-   "published_at": "2026-10-28T16:32:00Z",
-   "url_id": "d222f056d2f6a9f748e1615ba91b5f41"
-  },
-  {
-   "title": "Supermicro introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% liquid-cooled rack-scale solution, complementing the NVIDIA Vera Rubin Platform, for Agentic AI at Scale",
-   "outlet": "Cyprus Shipping News",
-   "outlet_name": "Cyprus Shipping News",
-   "url": "https://cyprusshippingnews.com/2026/10/29/supermicro-introduces-the-nvidia-vera-cpu-rack-a-256-cpu-100-liquid-cooled-rack-scale-solution-complementing-the-nvidia-vera-rubin-platform-for-agentic-ai-at-scale/",
+   "title": "Parents Sue OpenAI After ChatGPT Allegedly Coached Engineer to Stop Seizure Medication",
+   "outlet": "The SOFX Report",
+   "outlet_name": "The SOFX Report",
+   "url": "https://www.sofx.com/parents-sue-openai-after-chatgpt-allegedly-coached-engineer-to-stop-seizure-medication/",
    "label": "REPORTED",
-   "summary_1line": "Supermicro's NVIDIA Vera CPU rack powers agentic AI with 256 CPUs and 22,500 sandboxes.",
-   "published_at": "2026-10-29T03:19:18Z",
-   "url_id": "5684f6a8096a470d0561e1ea3c441803"
+   "summary_1line": null,
+   "published_at": "2026-10-29T03:53:57Z",
+   "url_id": "402b78cb04c20ade7564ad3e007f1de8"
   },
   {
-   "title": "Claude's new smart reports tell bosses when workers are 'off-topic'",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
-   "url": "https://mashable.com/tech/claude-smart-reports-anthropic-ai-worker-overview",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's Claude smart reports track employee AI use and spending for enterprise teams.",
-   "published_at": "2026-10-29T03:06:27Z",
-   "url_id": "3edbcfd5a46d193ff3c93ce49bc2310e"
+   "title": "Anthropic gets too much attention as a litmus test for AI, says Albion's Ware",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/video/2026/10/29/anthropic-gets-too-much-attention-as-a-litmus-test-for-ai-jason-ware.html",
+   "label": "REPORTED",
+   "summary_1line": "Ware warns Anthropic's IPO isn't a binary AI investment case.",
+   "published_at": "2026-10-29T03:58:30Z",
+   "url_id": "a3e247b1675161bc70652cc1989a3f33"
+  },
+  {
+   "title": "Anthropic Launches AI Spend Transparency Tools Ahead of IPO",
+   "outlet": "AndroGuider",
+   "outlet_name": "AndroGuider",
+   "url": "https://www.androguider.com/2026/10/anthropic-launches-ai-spend.html",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic launches AI spend tools for enterprises to track and justify AI costs.",
+   "published_at": "2026-10-28T22:42:00Z",
+   "url_id": "4fd65c547259668501b5d34fc0651c4d"
+  },
+  {
+   "title": "Hochul Signs Chatbot Safety Law That Reaches ChatGPT and Claude, Not Just Companion Apps",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "url": "https://www.techtimes.com/articles/329665/20261029/hochul-signs-chatbot-safety-law-that-reaches-chatgpt-claude-not-just-companion-apps.htm",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-28T23:31:00Z",
+   "url_id": "e120d62641738154ce333ba004f3af0e"
   }
  ],
  "ticker": [
   {
-   "headline": "New York passes law banning harmful AI chatbot interactions with children",
-   "outlet": "TRT World",
-   "outlet_name": "TRT World",
+   "headline": "Anthropic tells California governor courts should be able to block risky AI models",
+   "outlet": "شبكة تواصل الإخبارية",
+   "outlet_name": "شبكة تواصل الإخبارية",
    "label": "CONFIRMED",
-   "url": "https://www.trtworld.com/article/f61a89957353",
-   "url_id": "a77d931c15584a6da1a58aba7b6f3422"
+   "url": "https://twaslnews1.twaslnews.com/6777590/",
+   "url_id": "997427769ebb4ea66439d046d55c4076"
   },
   {
-   "headline": "Nvidia unveils DSX POD server racks to speed up AI factory buildouts",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/nvidia-dsx-pod-ai-factory-racks/",
-   "url_id": "9428e5dfbd20f20a439f32b0f8159d45"
-  },
-  {
-   "headline": "New York enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation…",
-   "outlet": "Boston Herald",
-   "outlet_name": "Boston Herald",
-   "label": "CONFIRMED",
-   "url": "https://www.bostonherald.com/2026/10/28/ai-regulation-states/",
-   "url_id": "d222f056d2f6a9f748e1615ba91b5f41"
-  },
-  {
-   "headline": "Supermicro introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% liquid-cooled rack-scale…",
-   "outlet": "Cyprus Shipping News",
-   "outlet_name": "Cyprus Shipping News",
+   "headline": "Parents Sue OpenAI After ChatGPT Allegedly Coached Engineer to Stop Seizure Medication",
+   "outlet": "The SOFX Report",
+   "outlet_name": "The SOFX Report",
    "label": "REPORTED",
-   "url": "https://cyprusshippingnews.com/2026/10/29/supermicro-introduces-the-nvidia-vera-cpu-rack-a-256-cpu-100-liquid-cooled-rack-scale-solution-complementing-the-nvidia-vera-rubin-platform-for-agentic-ai-at-scale/",
-   "url_id": "5684f6a8096a470d0561e1ea3c441803"
-  },
-  {
-   "headline": "Claude's new smart reports tell bosses when workers are 'off-topic'",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
-   "label": "CONFIRMED",
-   "url": "https://mashable.com/tech/claude-smart-reports-anthropic-ai-worker-overview",
-   "url_id": "3edbcfd5a46d193ff3c93ce49bc2310e"
+   "url": "https://www.sofx.com/parents-sue-openai-after-chatgpt-allegedly-coached-engineer-to-stop-seizure-medication/",
+   "url_id": "402b78cb04c20ade7564ad3e007f1de8"
   },
   {
    "headline": "Anthropic gets too much attention as a litmus test for AI, says Albion's Ware",
@@ -114,12 +90,28 @@
    "url_id": "4fd65c547259668501b5d34fc0651c4d"
   },
   {
-   "headline": "Google’s Gemini can now make complex topics more fun with new interactive learning feature",
-   "outlet": "digitaltrends.com",
-   "outlet_name": "digitaltrends.com",
+   "headline": "Hochul Signs Chatbot Safety Law That Reaches ChatGPT and Claude, Not Just Companion Apps",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "label": "REPORTED",
+   "url": "https://www.techtimes.com/articles/329665/20261029/hochul-signs-chatbot-safety-law-that-reaches-chatgpt-claude-not-just-companion-apps.htm",
+   "url_id": "e120d62641738154ce333ba004f3af0e"
+  },
+  {
+   "headline": "AI: Google’s TPU Moment, with OpenAI, Oracle & Anthropic. AI-RTZ #1254",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "label": "REPORTED",
+   "url": "https://michaelparekh.substack.com/p/ai-googles-tpu-moment-with-openai",
+   "url_id": "21b6c86c4c8bc88b1b1ecc4d381d440f"
+  },
+  {
+   "headline": "You can now chat with ChatGPT dots using iMessage and RCS texts, but there is a catch",
+   "outlet": "Digit",
+   "outlet_name": "Digit",
    "label": "CONFIRMED",
-   "url": "https://www.digitaltrends.com/computing/googles-gemini-can-now-make-complex-topics-more-fun-with-interactive-visual-explorations/",
-   "url_id": "7e5ca541a71e08ac6fa2b8b298736f56"
+   "url": "https://www.digit.in/news/general/you-can-now-chat-with-chatgpt-dots-using-imessage-and-rcs-texts-but-there-is-a-catch.html",
+   "url_id": "7262f7c93b0dc4616d43f3fa5b8a7746"
   },
   {
    "headline": "Anthropic's Elvis lawsuit could reach inside Claude itself",
@@ -152,16 +144,24 @@
    "label": "CONFIRMED",
    "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
    "url_id": "f66bf8327311981e4758da2aa93bc543"
+  },
+  {
+   "headline": "China Releases First Fengyun Satellite AI Models for Typhoon Analysis and Severe Storm…",
+   "outlet": "pandaily.com",
+   "outlet_name": "pandaily.com",
+   "label": "CONFIRMED",
+   "url": "https://pandaily.com/first-fengyun-satellite-extreme-weather-ai-models-typhoon-cloud-image-interpretation-severe-convection-nowcasting",
+   "url_id": "8963cb05043daddede90395f25cae137"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 14700,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/07.mp3",
- "audio_seconds": 54.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/08.mp3",
+ "audio_seconds": 65.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TRT World: New York passes law banning harmful AI chatbot interactions with children.\nConfirmed, per Crypto Briefing: Nvidia unveils DSX POD server racks to speed up AI factory buildouts.\nConfirmed, per Boston Herald: New York enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation boundaries.\nReported by Cyprus Shipping News: Supermicro introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% liquid-cooled rack-scale solution, complementing the NVIDIA Vera Rubin Platform, for Agentic AI at Scale.\nConfirmed, per Mashable: Claude's new smart reports tell bosses when workers are 'off-topic'.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic tells California governor courts should be able to block risky AI models, according to reporting confirmed by شبكة تواصل الإخبارية. The company urges court blocks for models with serious public risks.\nParents are suing OpenAI after ChatGPT allegedly coached an engineer to stop seizure medication, reported by The SOFX Report.\nAnthropic gets too much attention as a litmus test for artificial intelligence, according to reporting reported by CNBC. Albion's Ware warns the company's IPO isn't a binary investment case.\nAnthropic launches artificial intelligence spend transparency tools ahead of its IPO, reported by AndroGuider. The tools help enterprises track and justify artificial intelligence costs.\nHochul signs chatbot safety law that reaches ChatGPT and Claude, not just companion apps, reported by Tech Times.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
