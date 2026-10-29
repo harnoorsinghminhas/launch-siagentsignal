@@ -1,133 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T21:20:02Z",
- "hour": "2026-10-29T22:00:00Z",
+ "generated_at": "2026-10-29T22:20:02Z",
+ "hour": "2026-10-29T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI-backed Thrive Holdings acquires ADT",
+   "title": "Google Introduces Gemini 4 Carbon With New Cybersecurity and Coding Capabilities",
+   "outlet": "The National CIO Review",
+   "outlet_name": "The National CIO Review",
+   "url": "https://nationalcioreview.com/articles-insights/extra-bytes/google-introduces-gemini-4-carbon-with-new-cybersecurity-and-coding-capabilities/",
+   "label": "REPORTED",
+   "summary_1line": "Google's Gemini 4 Carbon excels in cybersecurity and long-term coding, with 88.2% vulnerability detection and 89-point Elo gain.",
+   "published_at": "2026-10-29T17:14:08Z",
+   "url_id": "30e26fd2b46bbe93e9dbe2cf975ba801"
+  },
+  {
+   "title": "Microsoft made $10bn from OpenAI last quarter, 11% of its revenue",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/microsoft-openai-revenue-10bn-quarter",
+   "label": "REPORTED",
+   "summary_1line": "Microsoft reports $10bn from OpenAI in Q3 2026, up from $6bn quarterly average.",
+   "published_at": "2026-10-29T19:24:15Z",
+   "url_id": "c66d0900a7f117cc7a2ccc04d1ac7674"
+  },
+  {
+   "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI doubles Pro plan usage limits amid rising competition from Anthropic.",
+   "published_at": "2026-10-29T20:04:37Z",
+   "url_id": "24150bbd0d34302b59b4f5edbb2a4f7b"
+  },
+  {
+   "title": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
+   "label": "CONFIRMED",
+   "summary_1line": "Experts adopted AI agent's random preferences and believed they made the final call.",
+   "published_at": "2026-10-29T19:33:37Z",
+   "url_id": "ce60afcfeab588ff8f5d957cb2d606e7"
+  },
+  {
+   "title": "Meta quietly launches an AI fashion app called Style Sketch",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-29T19:56:19Z",
-   "url_id": "5229178591e013ae66fadd7c87f44b52"
-  },
-  {
-   "title": "Serval raises $150m at $3bn valuation to replace ServiceNow with AI agents",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/serval-series-c-150m-3bn-valuation-sequoia",
+   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
    "label": "CONFIRMED",
-   "summary_1line": "Serval raises $150m, valued at $3bn, as enterprises shift from ServiceNow to AI automation.",
-   "published_at": "2026-10-29T17:45:20Z",
-   "url_id": "8eba9e2719b5e1cbcd9433597c31caed"
-  },
-  {
-   "title": "Family sues OpenAI, CEO Sam Altman over woman’s death",
-   "outlet": "WPXI",
-   "outlet_name": "WPXI",
-   "url": "https://www.wpxi.com/news/trending/family-sues-openai-ceo-sam-altman-over-womans-death/NJCQ2S625NDMPASJDIWQJALLJM/",
-   "label": "REPORTED",
-   "summary_1line": "Family sues OpenAI over ChatGPT's medical advice linked to woman's death.",
-   "published_at": "2026-10-29T16:17:41Z",
-   "url_id": "b2adee43223999426f74f16d4bd0e843"
-  },
-  {
-   "title": "NVFP4-Release von Mistral Large 4: 610 GB, acht Blackwells",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "url": "https://www.orcarouter.ai/de/blog/mistral-large-4-nvfp4-day-zero-serving",
-   "label": "REPORTED",
-   "summary_1line": "Mistral Large 4 released with 1.05B parameters, NVFP4 support, and serving specs for 8 Blackwell GPUs.",
-   "published_at": "2026-10-29T15:38:51Z",
-   "url_id": "4f8c0183b338413e5f529ae9fb89cec7"
-  },
-  {
-   "title": "Anthropic is SpaceX’s biggest customer, bringing in a third of revenue",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/anthropic-spacex-largest-customer-customer-b",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-29T20:10:34Z",
-   "url_id": "a0f2a60ddeb2fae5f1554e09fedcbb6e"
+   "summary_1line": "Meta launches Style Sketch, an AI fashion app using Instagram to suggest outfits.",
+   "published_at": "2026-10-29T19:14:36Z",
+   "url_id": "79cec0107600d9d5485438305d4d095f"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI-backed Thrive Holdings acquires ADT",
+   "headline": "Google Introduces Gemini 4 Carbon With New Cybersecurity and Coding Capabilities",
+   "outlet": "The National CIO Review",
+   "outlet_name": "The National CIO Review",
+   "label": "REPORTED",
+   "url": "https://nationalcioreview.com/articles-insights/extra-bytes/google-introduces-gemini-4-carbon-with-new-cybersecurity-and-coding-capabilities/",
+   "url_id": "30e26fd2b46bbe93e9dbe2cf975ba801"
+  },
+  {
+   "headline": "Microsoft made $10bn from OpenAI last quarter, 11% of its revenue",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "REPORTED",
+   "url": "https://thenextweb.com/news/microsoft-openai-revenue-10bn-quarter",
+   "url_id": "c66d0900a7f117cc7a2ccc04d1ac7674"
+  },
+  {
+   "headline": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "label": "CONFIRMED",
+   "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
+   "url_id": "24150bbd0d34302b59b4f5edbb2a4f7b"
+  },
+  {
+   "headline": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study…",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "label": "CONFIRMED",
+   "url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
+   "url_id": "ce60afcfeab588ff8f5d957cb2d606e7"
+  },
+  {
+   "headline": "Meta quietly launches an AI fashion app called Style Sketch",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-   "url_id": "5229178591e013ae66fadd7c87f44b52"
-  },
-  {
-   "headline": "Serval raises $150m at $3bn valuation to replace ServiceNow with AI agents",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
    "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/serval-series-c-150m-3bn-valuation-sequoia",
-   "url_id": "8eba9e2719b5e1cbcd9433597c31caed"
+   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+   "url_id": "79cec0107600d9d5485438305d4d095f"
   },
   {
-   "headline": "Family sues OpenAI, CEO Sam Altman over woman’s death",
-   "outlet": "WPXI",
-   "outlet_name": "WPXI",
-   "label": "REPORTED",
-   "url": "https://www.wpxi.com/news/trending/family-sues-openai-ceo-sam-altman-over-womans-death/NJCQ2S625NDMPASJDIWQJALLJM/",
-   "url_id": "b2adee43223999426f74f16d4bd0e843"
-  },
-  {
-   "headline": "NVFP4-Release von Mistral Large 4: 610 GB, acht Blackwells",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "label": "REPORTED",
-   "url": "https://www.orcarouter.ai/de/blog/mistral-large-4-nvfp4-day-zero-serving",
-   "url_id": "4f8c0183b338413e5f529ae9fb89cec7"
-  },
-  {
-   "headline": "Anthropic is SpaceX’s biggest customer, bringing in a third of revenue",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "REPORTED",
-   "url": "https://thenextweb.com/news/anthropic-spacex-largest-customer-customer-b",
-   "url_id": "a0f2a60ddeb2fae5f1554e09fedcbb6e"
-  },
-  {
-   "headline": "NewCore Wins 2026 Cyber Top Innovator for Bringing Human Accountability to AI Agents",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/newcore-wins-2026-cyber-top-innovator-for-bringing-human-accountability-to-ai-agents-302923998.html",
-   "url_id": "31e9404aeaf37e57cb7f13012f009e6f"
+   "url": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+   "url_id": "fb854b59ddd18d657d6cc5cbb09bce29"
   },
   {
-   "headline": "Trust robots over doctors? Many AI users already do",
-   "outlet": "The Daily Gazette",
-   "outlet_name": "The Daily Gazette",
-   "label": "CONFIRMED",
-   "url": "https://www.dailygazette.com/life_and_arts/health/trust-robots-over-doctors-many-ai-users-already-do/article_a6faf1ee-7836-5571-8e53-43fcc3de6a9d.html",
-   "url_id": "ee7686907f75d5e44a89c71692954f0e"
+   "headline": "Elon Musk’s Grok AI Predicts an Explosive Move for Zcash (ZEC)",
+   "outlet": "99Bitcoins",
+   "outlet_name": "99Bitcoins",
+   "label": "STILL OPEN",
+   "url": "https://99bitcoins.com/news/altcoins/elon-musks-grok-ai-predicts-an-explosive-move-for-zcash-zec/",
+   "url_id": "1313ea0ea989f9cbee50b0396949b78f"
   },
   {
-   "headline": "Lenovo unveils Yoga Pro 9n and Yoga 9n 2-in-1 NVIDIA RTX Spark powered AI PCs in India",
-   "outlet": "VARIndia",
-   "outlet_name": "VARIndia",
+   "headline": "Cal Poly Unveils NVIDIA-Powered AI Factory to Expand AI Education and Research",
+   "outlet": "Cal Poly",
+   "outlet_name": "Cal Poly",
    "label": "REPORTED",
-   "url": "https://www.varindia.com/news/lenovo-unveils-yoga-pro-9n-and-yoga-9n-2-in-1-nvidia-rtx-spark-powered-ai-pcs-in-india",
-   "url_id": "b56ef265de3163a58a570412f2707af7"
-  },
-  {
-   "headline": "Microsoft announces Copilot capacities for audit, tax, compliance, more",
-   "outlet": "Accounting Today",
-   "outlet_name": "Accounting Today",
-   "label": "REPORTED",
-   "url": "https://www.accountingtoday.com/news/microsoft-announces-copilot-capacities-for-audit-tax-compliance-more",
-   "url_id": "b4ac2fb0cba63249610eca6e3b0066d8"
+   "url": "https://ucm.calpoly.edu/news/cal-poly-unveils-nvidia-powered-ai-factory-expand-ai-education-and-research",
+   "url_id": "b2b5a7c5c495ac8d66d79d1888b036f0"
   },
   {
    "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
@@ -138,30 +130,38 @@
    "url_id": "edb9777d0c2845786c1e0dbcc5255694"
   },
   {
-   "headline": "Read more Announcements October 29, 2026 Introducing Reducto Office: Full-fidelity doc…",
-   "outlet": "reducto.ai",
-   "outlet_name": "reducto.ai",
-   "label": "REPORTED",
-   "url": "https://reducto.ai/blog/reducto-office-plugin",
-   "url_id": "d15aff137402905340714b82e940fc72"
+   "headline": "OpenAI’s four-layer system targets rogue models before they breach security",
+   "outlet": "interestingengineering.com",
+   "outlet_name": "interestingengineering.com",
+   "label": "CONFIRMED",
+   "url": "https://interestingengineering.com/ai-robotics/openai-four-layer-defense-frontier-models",
+   "url_id": "d3e5521248e1b2e89a0ebebc43cbb3a1"
   },
   {
-   "headline": "Parents sue OpenAI, lawsuit claims ChatGPT medical advice led to daughter’s death",
-   "outlet": "The Western Journal on MSN",
-   "outlet_name": "The Western Journal on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/parents-sue-openai-lawsuit-claims-chatgpt-medical-advice-led-to-daughter-s-death/ar-AA2gmefj",
-   "url_id": "c101277c369b3d044db8a9fe32eccb0d"
+   "headline": "I stopped giving ChatGPT, Claude, and Gemini detailed prompts for a week, and one…",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
+   "label": "CONFIRMED",
+   "url": "https://www.xda-developers.com/stopped-giving-chatgpt-claude-and-gemini-detailed-prompts-one-struggled-more-than-expected/",
+   "url_id": "3222dcefc3dde1454a21887e585d7ad5"
+  },
+  {
+   "headline": "OpenAI Plans to Aim Robotics Program at Building More Data Centers",
+   "outlet": "www.tokenpost.com",
+   "outlet_name": "www.tokenpost.com",
+   "label": "CONFIRMED",
+   "url": "https://www.tokenpost.com/news/technology/43797",
+   "url_id": "ece4c5136da33f138ad77a1cd943c65e"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13700,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13600,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/22.mp3",
- "audio_seconds": 49.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/23.mp3",
+ "audio_seconds": 46.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TechCrunch: OpenAI-backed Thrive Holdings acquires ADT.\nConfirmed, per The Next Web: Serval raises $150m at $3bn valuation to replace ServiceNow with AI agents.\nReported by WPXI: Family sues OpenAI, CEO Sam Altman over woman’s death.\nReported by OrcaRouter: NVFP4-Release von Mistral Large 4: 610 GB, acht Blackwells.\nReported by The Next Web: Anthropic is SpaceX’s biggest customer, bringing in a third of revenue.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The National CIO Review: Google Introduces Gemini 4 Carbon With New Cybersecurity and Coding Capabilities.\nReported by The Next Web: Microsoft made $10bn from OpenAI last quarter, 11% of its revenue.\nConfirmed, per The Decoder: OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up.\nConfirmed, per The Decoder: Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds.\nConfirmed, per TechCrunch: Meta quietly launches an AI fashion app called Style Sketch.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
