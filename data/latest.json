@@ -1,117 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T20:20:02Z",
- "hour": "2026-10-29T21:00:00Z",
+ "generated_at": "2026-10-29T21:20:02Z",
+ "hour": "2026-10-29T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-   "label": "CONFIRMED",
-   "summary_1line": "Google enables full file editing in Gemini, now available on web.",
-   "published_at": "2026-10-29T18:45:31Z",
-   "url_id": "94092833fac50dc8f8f78e6c18a29103"
+   "title": "OpenAI-backed Thrive Holdings acquires ADT",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-29T19:56:19Z",
+   "url_id": "5229178591e013ae66fadd7c87f44b52"
   },
   {
-   "title": "Early Anthropic member recalls burnout and big ambitions in the AI lab's early days",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/early-anthropic-employee-dishes-ai-lab-2026-10",
-   "label": "CONFIRMED",
-   "summary_1line": "Former Anthropic employee details burnout and workplace tensions in early days.",
-   "published_at": "2026-10-29T18:19:23Z",
-   "url_id": "f853743c5df75530908b490fce6e8797"
-  },
-  {
-   "title": "OpenAI rewrites its AI rulebook around five core values",
+   "title": "Serval raises $150m at $3bn valuation to replace ServiceNow with AI agents",
    "outlet": "thenextweb.com",
    "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/openai-model-spec-five-values-update",
+   "url": "https://thenextweb.com/news/serval-series-c-150m-3bn-valuation-sequoia",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI updates AI rulebook to prioritize human intent and agency, calling GPT model 'faithful' to user needs.",
-   "published_at": "2026-10-29T18:16:13Z",
-   "url_id": "f4641bb459830e3c46759269e4c2a4be"
+   "summary_1line": "Serval raises $150m, valued at $3bn, as enterprises shift from ServiceNow to AI automation.",
+   "published_at": "2026-10-29T17:45:20Z",
+   "url_id": "8eba9e2719b5e1cbcd9433597c31caed"
   },
   {
-   "title": "Nvidia Faces DOJ Scrutiny Over $13 Billion Hugging Face Acquisition",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "url": "https://www.tekedia.com/nvidia-faces-doj-scrutiny-over-13-billion-hugging-face-acquisition/",
+   "title": "Family sues OpenAI, CEO Sam Altman over woman’s death",
+   "outlet": "WPXI",
+   "outlet_name": "WPXI",
+   "url": "https://www.wpxi.com/news/trending/family-sues-openai-ceo-sam-altman-over-womans-death/NJCQ2S625NDMPASJDIWQJALLJM/",
    "label": "REPORTED",
-   "summary_1line": "Nvidia’s $13B Hugging Face deal faces DOJ scrutiny over AI competition concerns.",
-   "published_at": "2026-10-29T11:44:37Z",
-   "url_id": "098ec73c241ed6c1c7d38117f2051b1e"
+   "summary_1line": "Family sues OpenAI over ChatGPT's medical advice linked to woman's death.",
+   "published_at": "2026-10-29T16:17:41Z",
+   "url_id": "b2adee43223999426f74f16d4bd0e843"
   },
   {
-   "title": "FuriosaAI raises $620m at a $2.9bn valuation for its Nvidia rival chips",
+   "title": "NVFP4-Release von Mistral Large 4: 610 GB, acht Blackwells",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "url": "https://www.orcarouter.ai/de/blog/mistral-large-4-nvfp4-day-zero-serving",
+   "label": "REPORTED",
+   "summary_1line": "Mistral Large 4 released with 1.05B parameters, NVFP4 support, and serving specs for 8 Blackwell GPUs.",
+   "published_at": "2026-10-29T15:38:51Z",
+   "url_id": "4f8c0183b338413e5f529ae9fb89cec7"
+  },
+  {
+   "title": "Anthropic is SpaceX’s biggest customer, bringing in a third of revenue",
    "outlet": "thenextweb.com",
    "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/furiosaai-series-d-620m-2-9bn-valuation",
+   "url": "https://thenextweb.com/news/anthropic-spacex-largest-customer-customer-b",
    "label": "REPORTED",
-   "summary_1line": "FuriosaAI raises $620m, valuing company at $2.9bn, to scale RNGD AI chips globally.",
-   "published_at": "2026-10-29T18:20:29Z",
-   "url_id": "e8eac80db3a18aa54a0d99a6e2664c85"
+   "summary_1line": null,
+   "published_at": "2026-10-29T20:10:34Z",
+   "url_id": "a0f2a60ddeb2fae5f1554e09fedcbb6e"
   }
  ],
  "ticker": [
   {
-   "headline": "You can generate and edit Google Docs files directly in Gemini chats now",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-   "url_id": "94092833fac50dc8f8f78e6c18a29103"
+   "headline": "OpenAI-backed Thrive Holdings acquires ADT",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "REPORTED",
+   "url": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+   "url_id": "5229178591e013ae66fadd7c87f44b52"
   },
   {
-   "headline": "Early Anthropic member recalls burnout and big ambitions in the AI lab's early days",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "label": "CONFIRMED",
-   "url": "https://www.businessinsider.com/early-anthropic-employee-dishes-ai-lab-2026-10",
-   "url_id": "f853743c5df75530908b490fce6e8797"
-  },
-  {
-   "headline": "OpenAI rewrites its AI rulebook around five core values",
+   "headline": "Serval raises $150m at $3bn valuation to replace ServiceNow with AI agents",
    "outlet": "thenextweb.com",
    "outlet_name": "The Next Web",
    "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/openai-model-spec-five-values-update",
-   "url_id": "f4641bb459830e3c46759269e4c2a4be"
+   "url": "https://thenextweb.com/news/serval-series-c-150m-3bn-valuation-sequoia",
+   "url_id": "8eba9e2719b5e1cbcd9433597c31caed"
   },
   {
-   "headline": "Nvidia Faces DOJ Scrutiny Over $13 Billion Hugging Face Acquisition",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
+   "headline": "Family sues OpenAI, CEO Sam Altman over woman’s death",
+   "outlet": "WPXI",
+   "outlet_name": "WPXI",
    "label": "REPORTED",
-   "url": "https://www.tekedia.com/nvidia-faces-doj-scrutiny-over-13-billion-hugging-face-acquisition/",
-   "url_id": "098ec73c241ed6c1c7d38117f2051b1e"
-  },
-  {
-   "headline": "FuriosaAI raises $620m at a $2.9bn valuation for its Nvidia rival chips",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "REPORTED",
-   "url": "https://thenextweb.com/news/furiosaai-series-d-620m-2-9bn-valuation",
-   "url_id": "e8eac80db3a18aa54a0d99a6e2664c85"
-  },
-  {
-   "headline": "Google Launches Gemini 4 Carbon and Genie 4 AI Models With Native Audio and…",
-   "outlet": "Brave New Coin",
-   "outlet_name": "Brave New Coin",
-   "label": "REPORTED",
-   "url": "https://bravenewcoin.com/insights/google-launches-gemini-4-carbon-and-genie-4-ai-models-with-native-audio-and-photorealistic-simulations",
-   "url_id": "6b05ed4d9aa89377f5f6b858a243e1a7"
-  },
-  {
-   "headline": "Microsoft announces Copilot capacities for audit, tax, compliance, more",
-   "outlet": "Accounting Today",
-   "outlet_name": "Accounting Today",
-   "label": "REPORTED",
-   "url": "https://www.accountingtoday.com/news/microsoft-announces-copilot-capacities-for-audit-tax-compliance-more",
-   "url_id": "5d1e24020a85324c81b01b34f665aa6b"
+   "url": "https://www.wpxi.com/news/trending/family-sues-openai-ceo-sam-altman-over-womans-death/NJCQ2S625NDMPASJDIWQJALLJM/",
+   "url_id": "b2adee43223999426f74f16d4bd0e843"
   },
   {
    "headline": "NVFP4-Release von Mistral Large 4: 610 GB, acht Blackwells",
@@ -122,6 +90,46 @@
    "url_id": "4f8c0183b338413e5f529ae9fb89cec7"
   },
   {
+   "headline": "Anthropic is SpaceX’s biggest customer, bringing in a third of revenue",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "REPORTED",
+   "url": "https://thenextweb.com/news/anthropic-spacex-largest-customer-customer-b",
+   "url_id": "a0f2a60ddeb2fae5f1554e09fedcbb6e"
+  },
+  {
+   "headline": "NewCore Wins 2026 Cyber Top Innovator for Bringing Human Accountability to AI Agents",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "CONFIRMED",
+   "url": "https://www.prnewswire.com/news-releases/newcore-wins-2026-cyber-top-innovator-for-bringing-human-accountability-to-ai-agents-302923998.html",
+   "url_id": "31e9404aeaf37e57cb7f13012f009e6f"
+  },
+  {
+   "headline": "Trust robots over doctors? Many AI users already do",
+   "outlet": "The Daily Gazette",
+   "outlet_name": "The Daily Gazette",
+   "label": "CONFIRMED",
+   "url": "https://www.dailygazette.com/life_and_arts/health/trust-robots-over-doctors-many-ai-users-already-do/article_a6faf1ee-7836-5571-8e53-43fcc3de6a9d.html",
+   "url_id": "ee7686907f75d5e44a89c71692954f0e"
+  },
+  {
+   "headline": "Lenovo unveils Yoga Pro 9n and Yoga 9n 2-in-1 NVIDIA RTX Spark powered AI PCs in India",
+   "outlet": "VARIndia",
+   "outlet_name": "VARIndia",
+   "label": "REPORTED",
+   "url": "https://www.varindia.com/news/lenovo-unveils-yoga-pro-9n-and-yoga-9n-2-in-1-nvidia-rtx-spark-powered-ai-pcs-in-india",
+   "url_id": "b56ef265de3163a58a570412f2707af7"
+  },
+  {
+   "headline": "Microsoft announces Copilot capacities for audit, tax, compliance, more",
+   "outlet": "Accounting Today",
+   "outlet_name": "Accounting Today",
+   "label": "REPORTED",
+   "url": "https://www.accountingtoday.com/news/microsoft-announces-copilot-capacities-for-audit-tax-compliance-more",
+   "url_id": "b4ac2fb0cba63249610eca6e3b0066d8"
+  },
+  {
    "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
    "outlet": "TechCrunch on MSN",
    "outlet_name": "TechCrunch on MSN",
@@ -130,38 +138,30 @@
    "url_id": "edb9777d0c2845786c1e0dbcc5255694"
   },
   {
-   "headline": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
-   "url_id": "2dd2fa0de222f0a828c172dec72ec106"
+   "headline": "Read more Announcements October 29, 2026 Introducing Reducto Office: Full-fidelity doc…",
+   "outlet": "reducto.ai",
+   "outlet_name": "reducto.ai",
+   "label": "REPORTED",
+   "url": "https://reducto.ai/blog/reducto-office-plugin",
+   "url_id": "d15aff137402905340714b82e940fc72"
   },
   {
-   "headline": "Parents sue OpenAI, alleging ChatGPT guided daughter off epilepsy medication before her…",
-   "outlet": "Windows Report on MSN",
-   "outlet_name": "Windows Report on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-xl/news/other/parents-sue-openai-alleging-chatgpt-guided-daughter-off-epilepsy-medication-before-her-death/ar-AA2gmsJ4",
-   "url_id": "290cb6eb828e6e13507f734f73df87ef"
-  },
-  {
-   "headline": "Family sues OpenAI, CEO Sam Altman over woman’s death",
-   "outlet": "WDBO on MSN",
-   "outlet_name": "WDBO on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/family-sues-openai-ceo-sam-altman-over-woman-s-death/ar-AA2glutU",
-   "url_id": "89c2355f8764d4b07c84700516103d4f"
+   "headline": "Parents sue OpenAI, lawsuit claims ChatGPT medical advice led to daughter’s death",
+   "outlet": "The Western Journal on MSN",
+   "outlet_name": "The Western Journal on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/parents-sue-openai-lawsuit-claims-chatgpt-medical-advice-led-to-daughter-s-death/ar-AA2gmefj",
+   "url_id": "c101277c369b3d044db8a9fe32eccb0d"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 13700,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/21.mp3",
- "audio_seconds": 55.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/22.mp3",
+ "audio_seconds": 49.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle now lets you generate and edit Docs files directly inside Gemini chats on the web, Confirmed by The Verge.\nAn early Anthropic member recalls burnout and big ambitions during the artificial intelligence lab's early days, Confirmed by Business Insider.\nOpenAI has rewritten its artificial intelligence rulebook around five core values to prioritize human intent and agency, Confirmed by The Next Web.\nNvidia faces Department of Justice scrutiny over its $13 Billion Hugging Face acquisition over artificial intelligence competition concerns, Reported by Tekedia.\nFuriosaAI raises $620m at a $2.9bn valuation to scale its Nvidia rival chips globally, Reported by The Next Web.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TechCrunch: OpenAI-backed Thrive Holdings acquires ADT.\nConfirmed, per The Next Web: Serval raises $150m at $3bn valuation to replace ServiceNow with AI agents.\nReported by WPXI: Family sues OpenAI, CEO Sam Altman over woman’s death.\nReported by OrcaRouter: NVFP4-Release von Mistral Large 4: 610 GB, acht Blackwells.\nReported by The Next Web: Anthropic is SpaceX’s biggest customer, bringing in a third of revenue.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
