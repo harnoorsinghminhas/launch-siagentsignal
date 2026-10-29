@@ -1,117 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T15:20:03Z",
- "hour": "2026-10-29T16:00:00Z",
+ "generated_at": "2026-10-29T16:20:03Z",
+ "hour": "2026-10-29T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Mistral AI publicly releases Large 4, targets cybersecurity users",
+   "title": "Nvidia CEO reportedly targeted by Chinese spy",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
+   "label": "STILL OPEN",
+   "summary_1line": "Alice Huang, linked to Chinese intelligence, had a close relationship with Nvidia CEO Jensen Huang.",
+   "published_at": "2026-10-29T15:25:00Z",
+   "url_id": "c93d1f86f736fdc21c242113ec2d7735"
+  },
+  {
+   "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+   "outlet": "WIRED",
+   "outlet_name": "WIRED",
+   "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+   "label": "CONFIRMED",
+   "summary_1line": "Mistral claims Le Chonk is the world’s best open-weight AI for coding and cybersecurity.",
+   "published_at": "2026-10-29T14:00:00Z",
+   "url_id": "f6bd5c1ea2465509c5040eb9740a5890"
+  },
+  {
+   "title": "Orange unit signs deal to Mistral's latest AI cybersecurity model",
    "outlet": "The Lufkin Daily News",
    "outlet_name": "The Lufkin Daily News",
-   "url": "https://lufkindailynews.com/news_reuters/business/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/article_e608ec03-fe87-564c-97cb-c54f15de9c19.html",
+   "url": "https://lufkindailynews.com/news_reuters/business/orange-unit-signs-deal-to-mistrals-latest-ai-cybersecurity-model/article_58f79bb3-b5cc-520f-adce-29d294c21763.html",
    "label": "CONFIRMED",
-   "summary_1line": "Mistral AI releases Large 4 model for independent cybersecurity use.",
-   "published_at": "2026-10-29T14:03:36Z",
-   "url_id": "d9b8958e56eae09a11f35d179b44b738"
+   "summary_1line": "Orange Cyberdefense partners with Mistral AI for European AI-powered cybersecurity.",
+   "published_at": "2026-10-29T14:32:02Z",
+   "url_id": "95c0f94ff3b8784f7f6a5ec7fec2502c"
   },
   {
-   "title": "McGraw Hill Announces Agentic AI Education Plugin for Microsoft Copilot",
-   "outlet": "Eagle-Tribune",
-   "outlet_name": "Eagle-Tribune",
-   "url": "https://www.eagletribune.com/region/mcgraw-hill-announces-agentic-ai-education-plugin-for-microsoft-copilot/article_be35849e-85c4-55d6-98b1-631758d9a478.html",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-29T13:01:06Z",
-   "url_id": "22f4d9247dc16a5976db8fba6896bfd3"
+   "title": "New York Enacts Strict AI Companion Law to Prohibit Human-Like Emotional Interaction with Minors",
+   "outlet": "kucoin",
+   "outlet_name": "kucoin",
+   "url": "https://www.kucoin.com/news/flash/new-york-enacts-strict-ai-companion-law-to-ban-human-like-emotional-interaction-for-minors",
+   "label": "CONFIRMED",
+   "summary_1line": "New York bans AI emotional companions for minors with age verification requirements.",
+   "published_at": "2026-10-28T21:18:00Z",
+   "url_id": "47897d2cc04edea8ae31c08cb57af191"
   },
   {
-   "title": "Anthropic’s business plan: Build God or die trying",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+   "title": "Check Point Secures AI-Scale Traffic for Neoclouds, Sovereign AI and the Enterprise with New Maestro Hyperscale Orchestrator",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/check-point-secures-ai-scale-traffic-for-neoclouds-sovereign-ai-and-the-enterprise-with-new-maestro-hyperscale-orchestrator-302923480.html",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic faces $850B in compute commitments, needing $188B in annual revenue to stay afloat.",
-   "published_at": "2026-10-29T13:30:00Z",
-   "url_id": "442b73501cc822fb427f985c22a5e057"
-  },
-  {
-   "title": "Fake Anthropic AI previews lure in overeager employees",
-   "outlet": "CSO Online",
-   "outlet_name": "CSO Online",
-   "url": "https://www.csoonline.com/article/4241895/fake-anthropic-ai-previews-lure-in-overeager-employees.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Hackers use fake Anthropic AI invites to steal Google and Microsoft credentials via spoofed login pages.",
-   "published_at": "2026-10-29T13:07:52Z",
-   "url_id": "467ffb2c1dfdd8b69398524a4c135dc0"
-  },
-  {
-   "title": "Fusemachines Rolls Out Compliance Features in HireFoundry.ai to Help Enterprises Navigate Evolving U.S. State AI Hiring Laws",
-   "outlet": "The Daily Tribune News",
-   "outlet_name": "The Daily Tribune News",
-   "url": "https://www.daily-tribune.com/online_features/press_releases/fusemachines-rolls-out-compliance-features-in-hirefoundry-ai-to-help-enterprises-navigate-evolving-u-s/article_cb0798c7-e52a-574e-8f9c-b73b3b73e955.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Fusemachines launches AI consent module for hiring compliance across all 50 states.",
-   "published_at": "2026-10-29T12:00:00Z",
-   "url_id": "4c9a1f241b71e7544fbe0be1baf72968"
+   "summary_1line": "Check Point's MHO 200 quadruples capacity and threat prevention for AI-scale network security.",
+   "published_at": "2026-10-29T14:08:46Z",
+   "url_id": "7444b592ac7f99af5136c52326ddc79c"
   }
  ],
  "ticker": [
   {
-   "headline": "Mistral AI publicly releases Large 4, targets cybersecurity users",
-   "outlet": "The Lufkin Daily News",
-   "outlet_name": "The Lufkin Daily News",
-   "label": "CONFIRMED",
-   "url": "https://lufkindailynews.com/news_reuters/business/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/article_e608ec03-fe87-564c-97cb-c54f15de9c19.html",
-   "url_id": "d9b8958e56eae09a11f35d179b44b738"
-  },
-  {
-   "headline": "McGraw Hill Announces Agentic AI Education Plugin for Microsoft Copilot",
-   "outlet": "Eagle-Tribune",
-   "outlet_name": "Eagle-Tribune",
-   "label": "REPORTED",
-   "url": "https://www.eagletribune.com/region/mcgraw-hill-announces-agentic-ai-education-plugin-for-microsoft-copilot/article_be35849e-85c4-55d6-98b1-631758d9a478.html",
-   "url_id": "22f4d9247dc16a5976db8fba6896bfd3"
-  },
-  {
-   "headline": "Anthropic’s business plan: Build God or die trying",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
-   "url_id": "442b73501cc822fb427f985c22a5e057"
-  },
-  {
-   "headline": "Fake Anthropic AI previews lure in overeager employees",
-   "outlet": "CSO Online",
-   "outlet_name": "CSO Online",
-   "label": "CONFIRMED",
-   "url": "https://www.csoonline.com/article/4241895/fake-anthropic-ai-previews-lure-in-overeager-employees.html",
-   "url_id": "467ffb2c1dfdd8b69398524a4c135dc0"
-  },
-  {
-   "headline": "Fusemachines Rolls Out Compliance Features in HireFoundry.ai to Help Enterprises Navigate…",
-   "outlet": "The Daily Tribune News",
-   "outlet_name": "The Daily Tribune News",
-   "label": "CONFIRMED",
-   "url": "https://www.daily-tribune.com/online_features/press_releases/fusemachines-rolls-out-compliance-features-in-hirefoundry-ai-to-help-enterprises-navigate-evolving-u-s/article_cb0798c7-e52a-574e-8f9c-b73b3b73e955.html",
-   "url_id": "4c9a1f241b71e7544fbe0be1baf72968"
-  },
-  {
-   "headline": "Thriller at the top of Nvidia: AI powerhouse targeted by China in secret surveillance…",
-   "outlet": "Bankingnews",
-   "outlet_name": "Bankingnews",
+   "headline": "Nvidia CEO reportedly targeted by Chinese spy",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
    "label": "STILL OPEN",
-   "url": "https://www.bankingnews.gr/diethni/articles/907880/thriller-at-the-top-of-nvidia-ai-powerhouse-targeted-by-china-in-secret-surveillance-operations",
-   "url_id": "3dda5ad00a80f60b9e98ec7f3ba6e1a7"
+   "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
+   "url_id": "c93d1f86f736fdc21c242113ec2d7735"
   },
   {
    "headline": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
    "outlet": "WIRED",
    "outlet_name": "WIRED",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
    "url_id": "f6bd5c1ea2465509c5040eb9740a5890"
+  },
+  {
+   "headline": "Orange unit signs deal to Mistral's latest AI cybersecurity model",
+   "outlet": "The Lufkin Daily News",
+   "outlet_name": "The Lufkin Daily News",
+   "label": "CONFIRMED",
+   "url": "https://lufkindailynews.com/news_reuters/business/orange-unit-signs-deal-to-mistrals-latest-ai-cybersecurity-model/article_58f79bb3-b5cc-520f-adce-29d294c21763.html",
+   "url_id": "95c0f94ff3b8784f7f6a5ec7fec2502c"
   },
   {
    "headline": "New York Enacts Strict AI Companion Law to Prohibit Human-Like Emotional Interaction with…",
@@ -122,6 +90,38 @@
    "url_id": "47897d2cc04edea8ae31c08cb57af191"
   },
   {
+   "headline": "Check Point Secures AI-Scale Traffic for Neoclouds, Sovereign AI and the Enterprise with…",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "CONFIRMED",
+   "url": "https://www.prnewswire.com/news-releases/check-point-secures-ai-scale-traffic-for-neoclouds-sovereign-ai-and-the-enterprise-with-new-maestro-hyperscale-orchestrator-302923480.html",
+   "url_id": "7444b592ac7f99af5136c52326ddc79c"
+  },
+  {
+   "headline": "Granary-v2: what is in NVIDIA’s public speech-label release",
+   "outlet": "OpenTools",
+   "outlet_name": "OpenTools",
+   "label": "REPORTED",
+   "url": "https://opentools.ai/news/nvidia-granary-v2-public-labels-audio-target-coverage-licenses",
+   "url_id": "6b4b4cc5f94da56a25115c25397b88c2"
+  },
+  {
+   "headline": "Can Anthropic really become a $10 trillion company?",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "label": "CONFIRMED",
+   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+   "url_id": "db087fbdf1bd068823e4d437aba8a698"
+  },
+  {
+   "headline": "Anthropic is asking Wall Street to believe in AGI",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "label": "CONFIRMED",
+   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+   "url_id": "3a644431de131a7405e5f75f870e1819"
+  },
+  {
    "headline": "Mollie launches AI plugins and MCP server for Claude and ChatGPT",
    "outlet": "The Paypers",
    "outlet_name": "The Paypers",
@@ -130,38 +130,38 @@
    "url_id": "82aebcfeb95e6b37af8b596bb1af2045"
   },
   {
-   "headline": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching…",
+   "headline": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
    "outlet": "The Hacker News",
    "outlet_name": "The Hacker News",
    "label": "CONFIRMED",
-   "url": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-   "url_id": "39dd292566ccfe636be8bdb65ff5fbf8"
+   "url": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+   "url_id": "2de55ee6da32676c732bacb5a734a165"
   },
   {
-   "headline": "Anthropic CEO Dario Amodei charts a new direction for tech philanthropy",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "How Gemini is helping students and teachers in the classroom",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/29/anthropic-ceo-dario-amodei-charts-new-direction-for-tech-philanthropy.html",
-   "url_id": "c86060f9bb6865253fbe00c2b794c357"
+   "url": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
+   "url_id": "523fa1a93b8db76831b101730caabe86"
   },
   {
-   "headline": "Crux Labs Raises Over $6M to Turn Enterprise Judgment Into Better AI Agents",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
+   "headline": "Anthropic announced new achievements in drug research and lab work. An expert says AI is…",
+   "outlet": "International Business Times on MSN",
+   "outlet_name": "International Business Times on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.unite.ai/crux-labs-raises-over-6m-enterprise-ai-agent-evaluation/",
-   "url_id": "87be1999615fc2bd9eca912624f31daa"
+   "url": "https://www.msn.com/en-us/science/biology/anthropic-announced-new-achievements-in-drug-research-and-lab-work-an-expert-says-ai-is-changing-the-medical-field/ar-AA2glAOK",
+   "url_id": "211b2de2131730af5fe14201bde25550"
   }
  ],
  "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 14100,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/16.mp3",
- "audio_seconds": 54.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/17.mp3",
+ "audio_seconds": 54.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Lufkin Daily News: Mistral AI publicly releases Large 4, targets cybersecurity users.\nReported by Eagle-Tribune: McGraw Hill Announces Agentic AI Education Plugin for Microsoft Copilot.\nConfirmed, per The Verge: Anthropic’s business plan: Build God or die trying.\nConfirmed, per CSO Online: Fake Anthropic AI previews lure in overeager employees.\nConfirmed, per The Daily Tribune News: Fusemachines Rolls Out Compliance Features in HireFoundry.ai to Help Enterprises Navigate Evolving U.S. State AI Hiring Laws.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia CEO Jensen Huang reportedly had a close relationship with Alice Huang, who was linked to Chinese intelligence. Still open, per The Guardian.\nMistral claims its artificial intelligence model Le Chonk is the world's best open-weight model for coding and cybersecurity. Confirmed by WIRED.\nOrange Cyberdefense has partnered with Mistral artificial intelligence for European artificial intelligence powered cybersecurity solutions. Confirmed by The Lufkin Daily News.\nNew York has enacted a law banning artificial intelligence emotional companions for minors, with age verification requirements now in place. Confirmed by kucoin.\nCheck Point's new Maestro Hyperscale Orchestrator 200 quadruples capacity and threat prevention for artificial intelligence scale network security. Confirmed by PR Newswire.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
