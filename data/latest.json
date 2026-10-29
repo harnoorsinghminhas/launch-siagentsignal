@@ -1,125 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T10:20:02Z",
- "hour": "2026-10-29T11:00:00Z",
+ "generated_at": "2026-10-29T11:20:03Z",
+ "hour": "2026-10-29T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI, ServiceNow Deepen Alliance to Embed AI Agents in Enterprise Workflows",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/9183c050-ac60-40a5-ad27-8742ea1676e9",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI and ServiceNow deepen AI integration in enterprise workflows with new tools and features.",
-   "published_at": "2026-10-29T07:35:00Z",
-   "url_id": "dde855988abf06e5d24935eb532c899f"
-  },
-  {
-   "title": "Woman dies after allegedly following ChatGPT’s advice to change medication dosage; parents sue OpenAI",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/etimes/trending/woman-dies-after-allegedly-following-chatgpts-advice-to-change-medication-dosage-parents-sue-openai/articleshow/135296713.cms",
+   "title": "Anthropic Launches Claude Smart Reports for Enterprise AI Usage Monitoring",
+   "outlet": "KuCoin",
+   "outlet_name": "KuCoin",
+   "url": "https://www.kucoin.com/news/flash/anthropic-launches-claude-smart-reports-for-enterprise-ai-usage-monitoring",
    "label": "REPORTED",
-   "summary_1line": "Bowen Wan's parents sue OpenAI after alleging ChatGPT encouraged her to stop epilepsy medication.",
-   "published_at": "2026-10-29T01:08:00Z",
-   "url_id": "723ba4fd9b1240f09c816cff183ca534"
+   "summary_1line": "Anthropic launches AI usage reports for enterprises, with privacy safeguards and cost tracking.",
+   "published_at": "2026-10-29T09:56:36Z",
+   "url_id": "cc88396877c14655a00fefe4b7f0e041"
   },
   {
-   "title": "Google DeepMind and Google Cloud deploy AI across Singapore's health system",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/seekingalpha:7c6b26218094b:0-google-deepmind-and-google-cloud-deploy-ai-across-singapore-s-health-system/",
-   "label": "CONFIRMED",
-   "summary_1line": "Google DeepMind and Google Cloud deploy AI in Singapore's health system for research and clinical care.",
-   "published_at": "2026-10-29T07:11:14Z",
-   "url_id": "f49a61950460c336d4aba0d07246eeae"
+   "title": "Google unveils Gemini 4 Carbon with cyber focus",
+   "outlet": "IT Brief Asia",
+   "outlet_name": "IT Brief Asia",
+   "url": "https://itbrief.asia/story/google-unveils-gemini-4-carbon-with-cyber-focus",
+   "label": "REPORTED",
+   "summary_1line": "Google's Gemini 4 Carbon leads in cybersecurity and coding, with 88.2% vulnerability detection and 89 Elo gain on WebDev Arena.",
+   "published_at": "2026-10-29T09:01:00Z",
+   "url_id": "91bbc942aa4163adb5e98cd21eb7f294"
   },
   {
-   "title": "Tencent targets Southeast Asia as launch pad for AI agent WorkBuddy amid tough local market",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market",
-   "label": "CONFIRMED",
-   "summary_1line": "Tencent expands AI global reach via Southeast Asia, targeting 150+ countries.",
-   "published_at": "2026-10-29T07:30:10Z",
-   "url_id": "aa0e236b961bfecd2034c0c2d86f0258"
+   "title": "Google Chrome Rolls Out Gemini Autofill That Pulls Order Numbers and Flight Bookings From Gmail",
+   "outlet": "gHacks",
+   "outlet_name": "gHacks",
+   "url": "https://www.ghacks.net/2026/10/29/google-chrome-rolls-out-gemini-autofill-that-pulls-order-numbers-and-flight-bookings-from-gmail/",
+   "label": "REPORTED",
+   "summary_1line": "Chrome's new Gmail autofill pulls flight and order details for U.S. adults with Personal Intelligence.",
+   "published_at": "2026-10-29T08:56:32Z",
+   "url_id": "1757970c8058e52660b99c70a6b65978"
   },
   {
-   "title": "Doosan Robotics narrows Q3 loss as EOL business drives revenue growth",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
-   "url": "https://biz.chosun.com/en/en-industry/2026/10/29/BDLZGM2AK5ES7FUUDJRNHG4CRQ/",
+   "title": "DeepSeek, Moonshot used OpenAI’s GPT-6 Astra to train latest models: Report",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report-10941782/",
+   "label": "STILL OPEN",
+   "summary_1line": "DeepSeek and Moonshot AI used OpenAI's GPT-6 Astra to train models, sparking concerns over AI capability replication.",
+   "published_at": "2026-10-29T01:32:00Z",
+   "url_id": "d857fead671d4bc19aa03ce8415ab840"
+  },
+  {
+   "title": "Samsung keeps shattering profit records as AI boom lifts chip demand",
+   "outlet": "ABC News - Breaking News, Latest News and Videos",
+   "outlet_name": "ABC News - Breaking News, Latest News and Videos",
+   "url": "https://abcnews.com/Business/wireStory/samsung-shattering-profit-records-ai-boom-lifts-chip-137662083",
    "label": "CONFIRMED",
-   "summary_1line": "Doosan Robotics' EOL sector revenue rose 55% to $5M, with 59.1% overall revenue growth.",
-   "published_at": "2026-10-29T07:21:00Z",
-   "url_id": "21df3cf72475d62c5ae1a647ea2c0474"
+   "summary_1line": "Samsung hits record profit as AI demand surges, with plans for $599B chip hub investment.",
+   "published_at": "2026-10-29T07:17:31Z",
+   "url_id": "613cb1eccaf162edd7d818f23658e71a"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI, ServiceNow Deepen Alliance to Embed AI Agents in Enterprise Workflows",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "label": "CONFIRMED",
-   "url": "https://finance.biggo.com/news/9183c050-ac60-40a5-ad27-8742ea1676e9",
-   "url_id": "dde855988abf06e5d24935eb532c899f"
-  },
-  {
-   "headline": "Woman dies after allegedly following ChatGPT’s advice to change medication dosage…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
+   "headline": "Anthropic Launches Claude Smart Reports for Enterprise AI Usage Monitoring",
+   "outlet": "KuCoin",
+   "outlet_name": "KuCoin",
    "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/etimes/trending/woman-dies-after-allegedly-following-chatgpts-advice-to-change-medication-dosage-parents-sue-openai/articleshow/135296713.cms",
-   "url_id": "723ba4fd9b1240f09c816cff183ca534"
+   "url": "https://www.kucoin.com/news/flash/anthropic-launches-claude-smart-reports-for-enterprise-ai-usage-monitoring",
+   "url_id": "cc88396877c14655a00fefe4b7f0e041"
   },
   {
-   "headline": "Google DeepMind and Google Cloud deploy AI across Singapore's health system",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "CONFIRMED",
-   "url": "https://www.tradingview.com/news/seekingalpha:7c6b26218094b:0-google-deepmind-and-google-cloud-deploy-ai-across-singapore-s-health-system/",
-   "url_id": "f49a61950460c336d4aba0d07246eeae"
-  },
-  {
-   "headline": "Tencent targets Southeast Asia as launch pad for AI agent WorkBuddy amid tough local…",
-   "outlet": "scmp.com",
-   "outlet_name": "South China Morning Post",
-   "label": "CONFIRMED",
-   "url": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market",
-   "url_id": "aa0e236b961bfecd2034c0c2d86f0258"
-  },
-  {
-   "headline": "Doosan Robotics narrows Q3 loss as EOL business drives revenue growth",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
-   "label": "CONFIRMED",
-   "url": "https://biz.chosun.com/en/en-industry/2026/10/29/BDLZGM2AK5ES7FUUDJRNHG4CRQ/",
-   "url_id": "21df3cf72475d62c5ae1a647ea2c0474"
-  },
-  {
-   "headline": "Krafton automates security alerts, investigations and reporting with Microsoft Security…",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
+   "headline": "Google unveils Gemini 4 Carbon with cyber focus",
+   "outlet": "IT Brief Asia",
+   "outlet_name": "IT Brief Asia",
    "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/121358/krafton-automates-security-alerts-investigations-reporting-with-microsoft-security-copilot",
-   "url_id": "8e886ad5a0f0e532bb0f9c79cf3a458b"
+   "url": "https://itbrief.asia/story/google-unveils-gemini-4-carbon-with-cyber-focus",
+   "url_id": "91bbc942aa4163adb5e98cd21eb7f294"
   },
   {
-   "headline": "AI-Driven Hacking Raises Security Concerns for Law Firms Worldwide",
-   "outlet": "The 420.in",
-   "outlet_name": "The 420.in",
+   "headline": "Google Chrome Rolls Out Gemini Autofill That Pulls Order Numbers and Flight Bookings From…",
+   "outlet": "gHacks",
+   "outlet_name": "gHacks",
    "label": "REPORTED",
-   "url": "https://the420.in/cyber-crime/law-firm-cyberattacks-ai-crowdstrike-report/",
-   "url_id": "d2d6635c96238e057ac8b4e4e140fb0c"
+   "url": "https://www.ghacks.net/2026/10/29/google-chrome-rolls-out-gemini-autofill-that-pulls-order-numbers-and-flight-bookings-from-gmail/",
+   "url_id": "1757970c8058e52660b99c70a6b65978"
   },
   {
-   "headline": "Anthropic proposes that the court block the release of a dangerous AI model.",
-   "outlet": "Vietnam.vn",
-   "outlet_name": "Vietnam.vn",
+   "headline": "DeepSeek, Moonshot used OpenAI’s GPT-6 Astra to train latest models: Report",
+   "outlet": "The Indian Express",
+   "outlet_name": "The Indian Express",
+   "label": "STILL OPEN",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report-10941782/",
+   "url_id": "d857fead671d4bc19aa03ce8415ab840"
+  },
+  {
+   "headline": "Samsung keeps shattering profit records as AI boom lifts chip demand",
+   "outlet": "ABC News - Breaking News, Latest News and Videos",
+   "outlet_name": "ABC News - Breaking News, Latest News and Videos",
+   "label": "CONFIRMED",
+   "url": "https://abcnews.com/Business/wireStory/samsung-shattering-profit-records-ai-boom-lifts-chip-137662083",
+   "url_id": "613cb1eccaf162edd7d818f23658e71a"
+  },
+  {
+   "headline": "Chinese AI model raises cybersecurity concerns in new tests",
+   "outlet": "Qazinform",
+   "outlet_name": "Qazinform",
+   "label": "CONFIRMED",
+   "url": "https://qazinform.com/news/chinese-ai-model-raises-cybersecurity-concerns-in-new-tests-47df3d",
+   "url_id": "f94286801d7cb71b026ac5d2982a790a"
+  },
+  {
+   "headline": "Nvidia, AMD Commit $4B to Meta AI Buildout",
+   "outlet": "Data Center Knowledge",
+   "outlet_name": "Data Center Knowledge",
+   "label": "CONFIRMED",
+   "url": "https://www.datacenterknowledge.com/data-center-chips/nvidia-amd-commit-4b-to-meta-ai-buildout",
+   "url_id": "183a6fa6b9c460035dad0ca38e8117ce"
+  },
+  {
+   "headline": "PolicyMe launches AI copilot to speed up complex underwriting",
+   "outlet": "FinTech Global",
+   "outlet_name": "FinTech Global",
    "label": "REPORTED",
-   "url": "https://www.vietnam.vn/en/anthropic-de-xuat-toa-an-ngan-phat-hanh-mo-hinh-ai-nguy-hiem",
-   "url_id": "c1db7c024856fc43975e6dc3757e4aa2"
+   "url": "https://fintech.global/2026/10/29/policyme-launches-ai-copilot-to-speed-up-complex-underwriting/",
+   "url_id": "bb2bed4dd089f278dad5075f2fac60b9"
+  },
+  {
+   "headline": "Naver closes $10bn investment from Brookfield and Nvidia",
+   "outlet": "datacenterdynamics.com",
+   "outlet_name": "datacenterdynamics.com",
+   "label": "REPORTED",
+   "url": "https://www.datacenterdynamics.com/en/news/naver-closes-10bn-investment-from-brookfield-and-nvidia/",
+   "url_id": "b95cdbe819f66d19129b57159a890de7"
+  },
+  {
+   "headline": "inDrive, Pony.ai and NVIDIA explore robotaxi launch in Kazakhstan’s Astana",
+   "outlet": "trend.az",
+   "outlet_name": "trend.az",
+   "label": "REPORTED",
+   "url": "https://www.trend.az/casia/kazakhstan/4240674.html",
+   "url_id": "b2a2c1ecb2f67b072413ec2e05e784d3"
   },
   {
    "headline": "When ChatGPT’s medical advice led to tragedy",
@@ -136,32 +152,16 @@
    "label": "REPORTED",
    "url": "https://www.msn.com/en-xl/entertainment/music/elvis-copyright-holders-sue-anthropic-over-unauthorized-ai-training/ar-AA2gj7AS",
    "url_id": "9649b4ffe3963848e33657e914b91905"
-  },
-  {
-   "headline": "Samsung, SK Hynix as vital as NVIDIA in AI",
-   "outlet": "The Chosun Ilbo on MSN",
-   "outlet_name": "The Chosun Ilbo on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-xl/money/technology/samsung-sk-hynix-as-vital-as-nvidia-in-ai/ar-AA2gjFG1",
-   "url_id": "ccc78abc8adddfd56ff903891cfe0254"
-  },
-  {
-   "headline": "Mistral Adds Responses API, Making European Infrastructure Drop-In for Agent Pipelines",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/mistral-adds-responses-api-making-european-infrastructure-drop-in-for-agent-pipelines/ar-AA2gjItv",
-   "url_id": "662986ee8ada821543815e7399109ade"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 14800,
- "articles_24h_label": "about 15,000",
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 14300,
+ "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/11.mp3",
- "audio_seconds": 65.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/12.mp3",
+ "audio_seconds": 63.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI and ServiceNow are deepening their alliance to embed artificial intelligence agents in enterprise workflows with new tools and features, confirmed by BigGo Finance.\nA woman died after allegedly following ChatGPT's advice to change her medication dosage, and her parents are suing OpenAI, reported by The Times of India.\nGoogle DeepMind and Google Cloud have deployed artificial intelligence across Singapore's health system for research and clinical care, confirmed by TradingView.\nTencent is expanding its artificial intelligence reach globally via Southeast Asia, targeting 150 plus countries with its WorkBuddy agent, confirmed by South China Morning Post.\nDoosan Robotics narrowed its Q3 loss as its EOL business drove revenue growth, with EOL sector revenue rising 55 percent to 5 dollars, confirmed by Chosunbiz.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic launches Claude Smart Reports for Enterprise reported by KuCoin, providing privacy safeguards and cost tracking for artificial intelligence usage.\nGoogle's Gemini 4 Carbon reported by IT Brief Asia leads in cybersecurity and coding, detecting 88.2% of vulnerabilities and gaining 89 Elo on WebDev Arena.\nChrome's new Gmail autofill reported by gHacks pulls flight and order details for U.S. adults with Personal Intelligence.\nDeepSeek and Moonshot used OpenAI's GPT-6 Astra to train their latest models, still open per The Indian Express, sparking concerns over artificial intelligence capability replication.\nSamsung keeps shattering profit records as artificial intelligence demand surges, confirmed by ABC News - Breaking News, Latest News and Videos, with plans for a 599B chip hub investment.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
