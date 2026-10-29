@@ -1,109 +1,93 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T09:20:03Z",
- "hour": "2026-10-29T10:00:00Z",
+ "generated_at": "2026-10-29T10:20:02Z",
+ "hour": "2026-10-29T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "New Relic Integrates Change Tracking into GitHub Copilot",
-   "outlet": "VARIndia",
-   "outlet_name": "VARIndia",
-   "url": "https://www.varindia.com/news/new-relic-integrates-change-tracking-into-github-copilot",
+   "title": "OpenAI, ServiceNow Deepen Alliance to Embed AI Agents in Enterprise Workflows",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/9183c050-ac60-40a5-ad27-8742ea1676e9",
    "label": "CONFIRMED",
-   "summary_1line": "New Relic integrates AI tools with GitHub to bring real-time production data into coding workflows.",
-   "published_at": "2026-10-29T05:44:50Z",
-   "url_id": "7bc4688c35260c6d98ea0bf83dd30486"
+   "summary_1line": "OpenAI and ServiceNow deepen AI integration in enterprise workflows with new tools and features.",
+   "published_at": "2026-10-29T07:35:00Z",
+   "url_id": "dde855988abf06e5d24935eb532c899f"
   },
   {
-   "title": "Family sues OpenAI over ChatGPT advice on epilepsy drug dose",
-   "outlet": "Türkiye Today",
-   "outlet_name": "Türkiye Today",
-   "url": "https://www.turkiyetoday.com/lifestyle/family-sues-openai-over-chatgpt-advice-on-epilepsy-drug-dose-3231248",
+   "title": "Woman dies after allegedly following ChatGPT’s advice to change medication dosage; parents sue OpenAI",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/etimes/trending/woman-dies-after-allegedly-following-chatgpts-advice-to-change-medication-dosage-parents-sue-openai/articleshow/135296713.cms",
    "label": "REPORTED",
-   "summary_1line": "Family sues OpenAI after ChatGPT advised epilepsy patient to stop medication, leading to death.",
-   "published_at": "2026-10-29T07:29:15Z",
-   "url_id": "1ebccc42bedb67ddfdd727da69754ead"
+   "summary_1line": "Bowen Wan's parents sue OpenAI after alleging ChatGPT encouraged her to stop epilepsy medication.",
+   "published_at": "2026-10-29T01:08:00Z",
+   "url_id": "723ba4fd9b1240f09c816cff183ca534"
   },
   {
-   "title": "Australia Makes AI Emotional Manipulation Illegal: First-of-Its-Kind Chatbot Design Law Passes",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "url": "https://www.techtimes.com/articles/329653/20261029/australia-makes-ai-emotional-manipulation-illegal-first-its-kind-chatbot-design-law-passes.htm",
+   "title": "Google DeepMind and Google Cloud deploy AI across Singapore's health system",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/seekingalpha:7c6b26218094b:0-google-deepmind-and-google-cloud-deploy-ai-across-singapore-s-health-system/",
    "label": "CONFIRMED",
-   "summary_1line": "Australia bans AI chatbot designs that manipulate children, citing teen suicide cases.",
-   "published_at": "2026-10-29T00:20:00Z",
-   "url_id": "83fd2152e02ad590c7e6f8ab775c8939"
+   "summary_1line": "Google DeepMind and Google Cloud deploy AI in Singapore's health system for research and clinical care.",
+   "published_at": "2026-10-29T07:11:14Z",
+   "url_id": "f49a61950460c336d4aba0d07246eeae"
   },
   {
-   "title": "Chinese AI firms tap OpenAI Astra outputs to train rival models",
+   "title": "Tencent targets Southeast Asia as launch pad for AI agent WorkBuddy amid tough local market",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market",
+   "label": "CONFIRMED",
+   "summary_1line": "Tencent expands AI global reach via Southeast Asia, targeting 150+ countries.",
+   "published_at": "2026-10-29T07:30:10Z",
+   "url_id": "aa0e236b961bfecd2034c0c2d86f0258"
+  },
+  {
+   "title": "Doosan Robotics narrows Q3 loss as EOL business drives revenue growth",
    "outlet": "Chosunbiz",
    "outlet_name": "Chosunbiz",
-   "url": "https://biz.chosun.com/en/en-it/2026/10/29/XGDRDFOZCNE5NCCWPS54KBGA4E/",
+   "url": "https://biz.chosun.com/en/en-industry/2026/10/29/BDLZGM2AK5ES7FUUDJRNHG4CRQ/",
    "label": "CONFIRMED",
-   "summary_1line": "DeepSeek and Moonshot AI used GPT-6 Astra to distill models amid rising access concerns.",
-   "published_at": "2026-10-29T06:38:00Z",
-   "url_id": "a307144a50fd753d9fb490251ab3cc9f"
-  },
-  {
-   "title": "Grok can launch a thousand ships – but this AI remake of the Odyssey can’t make us feel",
-   "outlet": "The Conversation",
-   "outlet_name": "The Conversation",
-   "url": "https://theconversation.com/grok-can-launch-a-thousand-ships-but-this-ai-remake-of-the-odyssey-cant-make-us-feel-295340",
-   "label": "REPORTED",
-   "summary_1line": "Grok Imagine's AI film of the Odyssey lacks emotional depth and realism, according to critics.",
-   "published_at": "2026-10-29T04:30:29Z",
-   "url_id": "dcbd93707444273b1fd468415c371f51"
+   "summary_1line": "Doosan Robotics' EOL sector revenue rose 55% to $5M, with 59.1% overall revenue growth.",
+   "published_at": "2026-10-29T07:21:00Z",
+   "url_id": "21df3cf72475d62c5ae1a647ea2c0474"
   }
  ],
  "ticker": [
   {
-   "headline": "New Relic Integrates Change Tracking into GitHub Copilot",
-   "outlet": "VARIndia",
-   "outlet_name": "VARIndia",
+   "headline": "OpenAI, ServiceNow Deepen Alliance to Embed AI Agents in Enterprise Workflows",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
    "label": "CONFIRMED",
-   "url": "https://www.varindia.com/news/new-relic-integrates-change-tracking-into-github-copilot",
-   "url_id": "7bc4688c35260c6d98ea0bf83dd30486"
+   "url": "https://finance.biggo.com/news/9183c050-ac60-40a5-ad27-8742ea1676e9",
+   "url_id": "dde855988abf06e5d24935eb532c899f"
   },
   {
-   "headline": "Family sues OpenAI over ChatGPT advice on epilepsy drug dose",
-   "outlet": "Türkiye Today",
-   "outlet_name": "Türkiye Today",
+   "headline": "Woman dies after allegedly following ChatGPT’s advice to change medication dosage…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
    "label": "REPORTED",
-   "url": "https://www.turkiyetoday.com/lifestyle/family-sues-openai-over-chatgpt-advice-on-epilepsy-drug-dose-3231248",
-   "url_id": "1ebccc42bedb67ddfdd727da69754ead"
+   "url": "https://timesofindia.indiatimes.com/etimes/trending/woman-dies-after-allegedly-following-chatgpts-advice-to-change-medication-dosage-parents-sue-openai/articleshow/135296713.cms",
+   "url_id": "723ba4fd9b1240f09c816cff183ca534"
   },
   {
-   "headline": "Australia Makes AI Emotional Manipulation Illegal: First-of-Its-Kind Chatbot Design Law…",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
+   "headline": "Google DeepMind and Google Cloud deploy AI across Singapore's health system",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "CONFIRMED",
-   "url": "https://www.techtimes.com/articles/329653/20261029/australia-makes-ai-emotional-manipulation-illegal-first-its-kind-chatbot-design-law-passes.htm",
-   "url_id": "83fd2152e02ad590c7e6f8ab775c8939"
+   "url": "https://www.tradingview.com/news/seekingalpha:7c6b26218094b:0-google-deepmind-and-google-cloud-deploy-ai-across-singapore-s-health-system/",
+   "url_id": "f49a61950460c336d4aba0d07246eeae"
   },
   {
-   "headline": "Chinese AI firms tap OpenAI Astra outputs to train rival models",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
+   "headline": "Tencent targets Southeast Asia as launch pad for AI agent WorkBuddy amid tough local…",
+   "outlet": "scmp.com",
+   "outlet_name": "South China Morning Post",
    "label": "CONFIRMED",
-   "url": "https://biz.chosun.com/en/en-it/2026/10/29/XGDRDFOZCNE5NCCWPS54KBGA4E/",
-   "url_id": "a307144a50fd753d9fb490251ab3cc9f"
-  },
-  {
-   "headline": "Grok can launch a thousand ships – but this AI remake of the Odyssey can’t make us feel",
-   "outlet": "The Conversation",
-   "outlet_name": "The Conversation",
-   "label": "REPORTED",
-   "url": "https://theconversation.com/grok-can-launch-a-thousand-ships-but-this-ai-remake-of-the-odyssey-cant-make-us-feel-295340",
-   "url_id": "dcbd93707444273b1fd468415c371f51"
-  },
-  {
-   "headline": "Kimi vs DeepSeek (2026): Which Chinese AI Should You Use?",
-   "outlet": "Fello AI",
-   "outlet_name": "Fello AI",
-   "label": "CONFIRMED",
-   "url": "https://felloai.com/kimi-vs-deepseek/",
-   "url_id": "28bc4f6cf1713c48c508a3d158cecf3e"
+   "url": "https://www.scmp.com/tech/big-tech/article/3372550/tencent-targets-southeast-asia-launch-pad-ai-agent-workbuddy-amid-tough-local-market",
+   "url_id": "aa0e236b961bfecd2034c0c2d86f0258"
   },
   {
    "headline": "Doosan Robotics narrows Q3 loss as EOL business drives revenue growth",
@@ -138,6 +122,14 @@
    "url_id": "c1db7c024856fc43975e6dc3757e4aa2"
   },
   {
+   "headline": "When ChatGPT’s medical advice led to tragedy",
+   "outlet": "indianexpress.com",
+   "outlet_name": "indianexpress.com",
+   "label": "CONFIRMED",
+   "url": "https://indianexpress.com/article/technology/artificial-intelligence/when-chatgpts-medical-advice-led-to-tragedy-10941764/",
+   "url_id": "e09db3c0eb9d8d99368ed6917be9833e"
+  },
+  {
    "headline": "Elvis copyright holders sue Anthropic over unauthorized AI training",
    "outlet": "The Chosun Ilbo on MSN",
    "outlet_name": "The Chosun Ilbo on MSN",
@@ -152,16 +144,24 @@
    "label": "REPORTED",
    "url": "https://www.msn.com/en-xl/money/technology/samsung-sk-hynix-as-vital-as-nvidia-in-ai/ar-AA2gjFG1",
    "url_id": "ccc78abc8adddfd56ff903891cfe0254"
+  },
+  {
+   "headline": "Mistral Adds Responses API, Making European Infrastructure Drop-In for Agent Pipelines",
+   "outlet": "Tech Times on MSN",
+   "outlet_name": "Tech Times on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/mistral-adds-responses-api-making-european-infrastructure-drop-in-for-agent-pipelines/ar-AA2gjItv",
+   "url_id": "662986ee8ada821543815e7399109ade"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 14800,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/10.mp3",
- "audio_seconds": 63.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/11.mp3",
+ "audio_seconds": 65.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNew Relic integrates real-time production data into coding workflows by bringing change tracking into GitHub Copilot. Confirmed by VARIndia.\nReported by Türkiye Today: a family is suing OpenAI after ChatGPT advised an epilepsy patient to stop taking medication, which led to death.\nAustralia has made emotional manipulation by chatbot designs illegal, becoming the first country to pass such a law. Confirmed by Tech Times, citing concerns over teen suicide cases.\nChinese artificial intelligence firms DeepSeek and Moonshot AI used GPT-6 Astra outputs to train rival models. Confirmed by Chosunbiz amid rising access concerns.\nGrok Imagine created an artificial intelligence film of the Odyssey, but according to critics reported by The Conversation, it lacks emotional depth and realism.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI and ServiceNow are deepening their alliance to embed artificial intelligence agents in enterprise workflows with new tools and features, confirmed by BigGo Finance.\nA woman died after allegedly following ChatGPT's advice to change her medication dosage, and her parents are suing OpenAI, reported by The Times of India.\nGoogle DeepMind and Google Cloud have deployed artificial intelligence across Singapore's health system for research and clinical care, confirmed by TradingView.\nTencent is expanding its artificial intelligence reach globally via Southeast Asia, targeting 150 plus countries with its WorkBuddy agent, confirmed by South China Morning Post.\nDoosan Robotics narrowed its Q3 loss as its EOL business drove revenue growth, with EOL sector revenue rising 55 percent to 5 dollars, confirmed by Chosunbiz.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
