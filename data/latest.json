@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-28T23:20:04Z",
- "hour": "2026-10-29T00:00:00Z",
+ "generated_at": "2026-10-29T00:20:02Z",
+ "hour": "2026-10-29T01:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Cisco Launches Project Quarry to Detect AI Agent Threats",
-   "outlet": "Mexico Business News",
-   "outlet_name": "Mexico Business News",
-   "url": "https://mexicobusiness.news/cybersecurity/news/cisco-launches-project-quarry-detect-ai-agent-threats",
+   "title": "Former DOJ Antitrust Enforcers Launch AI-Powered Legal Platform",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
+   "url": "https://news.bloomberglaw.com/antitrust/former-doj-antitrust-enforcers-launch-ai-powered-legal-platform",
    "label": "CONFIRMED",
-   "summary_1line": "Cisco launches Project Quarry to detect AI agent threats via action sequences.",
-   "published_at": "2026-10-28T19:53:43Z",
-   "url_id": "2f5324b2e10e9fb3298a2fe20e8ce8c6"
+   "summary_1line": "Biden-era antitrust officials launch AI legal tool for plaintiffs’ firms.",
+   "published_at": "2026-10-28T20:57:00Z",
+   "url_id": "d799309ece3c044b4016f6eff037ccce"
   },
   {
-   "title": "Anthropic’s public benefit structure creates unusual risks for IPO investors",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/28/anthropic-pbc-what-its-structure-means-for-investors-.html",
+   "title": "Gemini 4 Carbon tops AI index; cyber defenders get it first",
+   "outlet": "R&D World",
+   "outlet_name": "R&D World",
+   "url": "https://www.rdworldonline.com/googles-gemini-4-carbon-takes-benchmark-lead-with-access-limited-to-cyber-defenders/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic targets $1.5T IPO with PBC structure, balancing public benefit and investor interests.",
-   "published_at": "2026-10-28T21:48:17Z",
-   "url_id": "66674776a52a65a16a3922a56e250041"
+   "summary_1line": "Google's Carbon AI scores 59 on reasoning, beats Argon in security, costs $7.76 per task, and will roll out to Fairwind partners.",
+   "published_at": "2026-10-28T19:29:31Z",
+   "url_id": "bc93a0acd04d0ee10c9122da403f8ca5"
   },
   {
-   "title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
-   "outlet": "Newsday",
-   "outlet_name": "Newsday",
-   "url": "https://www.newsday.com/news/nation/chatbots-ai-new-york-legislation-bans-children-n79620",
+   "title": "Microsoft opens Copilot harness to Foundry for multi-model agents",
+   "outlet": "Blockchain News",
+   "outlet_name": "Blockchain News",
+   "url": "https://blockchain.news/news/microsoft-opens-copilot-harness-to-foundry-for-multi-model-agents",
    "label": "CONFIRMED",
-   "summary_1line": "New York bans unsafe chatbot behaviors for kids under 18, with enforcement and penalties.",
-   "published_at": "2026-10-28T15:00:00Z",
-   "url_id": "af75958c4207ab7191d64544c278f2da"
+   "summary_1line": "Microsoft opens Copilot harness to Foundry for multi-model agents and tool use.",
+   "published_at": "2026-10-28T16:38:00Z",
+   "url_id": "838f5f19cb9166d1e9d3d4e07ea2ed77"
   },
   {
-   "title": "Anthropic Finds AI Agents Sway Human Experts' Decisions",
-   "outlet": "BankInfoSecurity",
-   "outlet_name": "BankInfoSecurity",
-   "url": "https://www.bankinfosecurity.com/anthropic-finds-ai-agents-sway-human-experts-decisions-a-33240",
+   "title": "GitHub opens Copilot to enterprise users in Australia",
+   "outlet": "CFOtech Australia",
+   "outlet_name": "CFOtech Australia",
+   "url": "https://cfotech.com.au/story/github-opens-copilot-to-enterprise-users-in-australia",
    "label": "CONFIRMED",
-   "summary_1line": "86% of analysts followed AI agents' decisions in a study on farming policy.",
-   "published_at": "2026-10-28T21:41:37Z",
-   "url_id": "eb872be4ba94633330cfc0e94be8f894"
+   "summary_1line": "GitHub rolls out Copilot to Australian enterprises, with AI credits and rising AI-driven development.",
+   "published_at": "2026-10-28T22:30:00Z",
+   "url_id": "6b6dbe2116ef93c04b225a80c1f2ec0e"
   },
   {
-   "title": "OpenAI launching election 'war room'",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
-   "url": "https://mashable.com/tech/open-ai-launches-midterm-election-war-room",
+   "title": "Trump says US will beat China in AI as technology emerges",
+   "outlet": "KNOE",
+   "outlet_name": "KNOE",
+   "url": "https://www.knoe.com/video/2026/10/28/trump-says-us-will-beat-china-ai-technology-emerges/",
    "label": "CONFIRMED",
-   "summary_1line": "OpenAI launches election war room to monitor AI's role in politics amid rising disinformation.",
-   "published_at": "2026-10-27T20:00:00Z",
-   "url_id": "ce5d199a1eaddb9ab59b78bd30e65c29"
+   "summary_1line": "A 5th grader saves a bus driver; Flávio Bolsonaro arrives in Miami after losing election.",
+   "published_at": "2026-10-28T19:43:00Z",
+   "url_id": "1e957d9466ea55f85fc46aff5a777f7a"
   }
  ],
  "ticker": [
   {
-   "headline": "Cisco Launches Project Quarry to Detect AI Agent Threats",
-   "outlet": "Mexico Business News",
-   "outlet_name": "Mexico Business News",
+   "headline": "Former DOJ Antitrust Enforcers Launch AI-Powered Legal Platform",
+   "outlet": "Bloomberg Law News",
+   "outlet_name": "Bloomberg Law News",
    "label": "CONFIRMED",
-   "url": "https://mexicobusiness.news/cybersecurity/news/cisco-launches-project-quarry-detect-ai-agent-threats",
-   "url_id": "2f5324b2e10e9fb3298a2fe20e8ce8c6"
+   "url": "https://news.bloomberglaw.com/antitrust/former-doj-antitrust-enforcers-launch-ai-powered-legal-platform",
+   "url_id": "d799309ece3c044b4016f6eff037ccce"
   },
   {
-   "headline": "Anthropic’s public benefit structure creates unusual risks for IPO investors",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
+   "headline": "Gemini 4 Carbon tops AI index; cyber defenders get it first",
+   "outlet": "R&D World",
+   "outlet_name": "R&D World",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/28/anthropic-pbc-what-its-structure-means-for-investors-.html",
-   "url_id": "66674776a52a65a16a3922a56e250041"
-  },
-  {
-   "headline": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation…",
-   "outlet": "Newsday",
-   "outlet_name": "Newsday",
-   "label": "CONFIRMED",
-   "url": "https://www.newsday.com/news/nation/chatbots-ai-new-york-legislation-bans-children-n79620",
-   "url_id": "af75958c4207ab7191d64544c278f2da"
-  },
-  {
-   "headline": "Anthropic Finds AI Agents Sway Human Experts' Decisions",
-   "outlet": "BankInfoSecurity",
-   "outlet_name": "BankInfoSecurity",
-   "label": "CONFIRMED",
-   "url": "https://www.bankinfosecurity.com/anthropic-finds-ai-agents-sway-human-experts-decisions-a-33240",
-   "url_id": "eb872be4ba94633330cfc0e94be8f894"
-  },
-  {
-   "headline": "OpenAI launching election 'war room'",
-   "outlet": "Mashable",
-   "outlet_name": "Mashable",
-   "label": "CONFIRMED",
-   "url": "https://mashable.com/tech/open-ai-launches-midterm-election-war-room",
-   "url_id": "ce5d199a1eaddb9ab59b78bd30e65c29"
+   "url": "https://www.rdworldonline.com/googles-gemini-4-carbon-takes-benchmark-lead-with-access-limited-to-cyber-defenders/",
+   "url_id": "bc93a0acd04d0ee10c9122da403f8ca5"
   },
   {
    "headline": "Microsoft opens Copilot harness to Foundry for multi-model agents",
@@ -106,20 +82,52 @@
    "url_id": "838f5f19cb9166d1e9d3d4e07ea2ed77"
   },
   {
-   "headline": "Anthropic Warns AI Could Pose \"Catastrophic Risk\" To Humanity",
-   "outlet": "Montana Standard",
-   "outlet_name": "Montana Standard",
+   "headline": "GitHub opens Copilot to enterprise users in Australia",
+   "outlet": "CFOtech Australia",
+   "outlet_name": "CFOtech Australia",
    "label": "CONFIRMED",
-   "url": "https://mtstandard.com/partners/video-elephant/news/video_0d363cc6-d819-51d9-b868-f55fe36e2c9b.html",
-   "url_id": "9209713fae4924dbd8968cf79fad5ac4"
+   "url": "https://cfotech.com.au/story/github-opens-copilot-to-enterprise-users-in-australia",
+   "url_id": "6b6dbe2116ef93c04b225a80c1f2ec0e"
   },
   {
-   "headline": "AI for Science expands to foundations and research institutions",
-   "outlet": "Anthropic",
-   "outlet_name": "Anthropic",
+   "headline": "Trump says US will beat China in AI as technology emerges",
+   "outlet": "KNOE",
+   "outlet_name": "KNOE",
    "label": "CONFIRMED",
-   "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
-   "url_id": "5c21ffeb271fe2e2a4b57abb1f96e8f2"
+   "url": "https://www.knoe.com/video/2026/10/28/trump-says-us-will-beat-china-ai-technology-emerges/",
+   "url_id": "1e957d9466ea55f85fc46aff5a777f7a"
+  },
+  {
+   "headline": "Anthropic IPO exposes major AI insurance coverage gaps and liability risks",
+   "outlet": "Beinsure",
+   "outlet_name": "Beinsure",
+   "label": "CONFIRMED",
+   "url": "https://beinsure.com/news/anthropic-ipo-exposes-major-ai-insurance-coverage-gaps/",
+   "url_id": "c2f6c7a0cad387e8484a270615112259"
+  },
+  {
+   "headline": "A Seattle woman trusted ChatGPT with her medication decisions. It cost her everything",
+   "outlet": "The Seattle Times",
+   "outlet_name": "The Seattle Times",
+   "label": "CONFIRMED",
+   "url": "https://www.seattletimes.com/nation-world/she-trusted-chatgpt-with-her-medication-decisions-it-cost-her-everything/",
+   "url_id": "bd8f9043b077b8e6e9d8807aa3affce2"
+  },
+  {
+   "headline": "Goodwin Launches AI Governance Benchmark in Anthropic’s Claude for Legal",
+   "outlet": "citybiz",
+   "outlet_name": "citybiz",
+   "label": "REPORTED",
+   "url": "https://www.citybiz.co/article/925844/goodwin-launches-ai-governance-benchmark-in-anthropics-claude-for-legal/",
+   "url_id": "1e51824e9491cb66d49a410d01b8d964"
+  },
+  {
+   "headline": "California Enacts AI Spokespeople, Chatbots and Content Disclosures Laws",
+   "outlet": "JD Supra",
+   "outlet_name": "JD Supra",
+   "label": "CONFIRMED",
+   "url": "https://www.jdsupra.com/legalnews/california-enacts-ai-spokespeople-4564975/",
+   "url_id": "38ad2ce600e46799cbfaf387388f0d3a"
   },
   {
    "headline": "Gemini 4 Carbon: Our next frontier model",
@@ -130,38 +138,30 @@
    "url_id": "3e32bae570ff21ee59e510c657138291"
   },
   {
-   "headline": "Anthropic tells California governor courts should be able to block risky AI models",
-   "outlet": "economictimes.indiatimes.com",
-   "outlet_name": "economictimes.indiatimes.com",
-   "label": "CONFIRMED",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/anthropic-tells-california-governor-courts-should-be-able-to-block-risky-ai-models/articleshow/135278359.cms",
-   "url_id": "9e9bc01296c75d9fc33e3721dd9a5a0f"
-  },
-  {
-   "headline": "Gemini 4 Carbon",
-   "outlet": "blog.google",
-   "outlet_name": "blog.google",
-   "label": "CONFIRMED",
-   "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
-   "url_id": "a92d7b7ef0e2da4d5922c4312bd7f7df"
-  },
-  {
    "headline": "Pflugerville Adopts SAFE AI Policy, 3 Risk Tiers [2026]",
    "outlet": "shattered.io",
    "outlet_name": "shattered.io",
    "label": "CONFIRMED",
    "url": "https://shattered.io/pflugerville-safe-technology-policy-ai-surveillance-three-risk-tiers-2026/",
    "url_id": "2501651fd9b5416a127b42ca4242b1f4"
+  },
+  {
+   "headline": "NVIDIA RTX Spark launches on the market, new Windows PCs with Blackwell GPU and 128 GB of…",
+   "outlet": "kotaworld.it",
+   "outlet_name": "kotaworld.it",
+   "label": "REPORTED",
+   "url": "https://www.kotaworld.it/en/en-tech/7612-nvidia-rtx-spark-launches-on-the-market-new-windows-pcs-with-blackwell-gpu-and-128-gb-of-unified-memory",
+   "url_id": "527302a93d1cede105ec5d04608aef55"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by six different outlets in the last few hours.",
- "articles_24h_rounded": 15600,
+ "tidbit": "Did you know… about 16,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 15700,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/00.mp3",
- "audio_seconds": 49.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/01.mp3",
+ "audio_seconds": 43.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Mexico Business News: Cisco Launches Project Quarry to Detect AI Agent Threats.\nConfirmed, per CNBC: Anthropic’s public benefit structure creates unusual risks for IPO investors.\nConfirmed, per Newsday: New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries.\nConfirmed, per BankInfoSecurity: Anthropic Finds AI Agents Sway Human Experts' Decisions.\nConfirmed, per Mashable: OpenAI launching election 'war room'.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Bloomberg Law News: Former DOJ Antitrust Enforcers Launch AI-Powered Legal Platform.\nConfirmed, per R&D World: Gemini 4 Carbon tops AI index; cyber defenders get it first.\nConfirmed, per Blockchain News: Microsoft opens Copilot harness to Foundry for multi-model agents.\nConfirmed, per CFOtech Australia: GitHub opens Copilot to enterprise users in Australia.\nConfirmed, per KNOE: Trump says US will beat China in AI as technology emerges.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
