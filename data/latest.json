@@ -1,101 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T01:20:02Z",
- "hour": "2026-10-29T02:00:00Z",
+ "generated_at": "2026-10-29T02:20:02Z",
+ "hour": "2026-10-29T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Family sues OpenAI, claiming ChatGPT is partly responsible for daughter’s death",
-   "outlet": "KOMO",
-   "outlet_name": "KOMO",
-   "url": "https://komonews.com/news/local/openai-chapgpt-medical-advice-ai-chatbot-anti-seizure-medication-amazon-lawsuit-capitol-hill-apartment-doctor-patient-relationship-tech-epilepsy-companies-online-safety",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-29T00:22:24Z",
-   "url_id": "c77cfcab0e746f6a4ac6268e54e5ccd3"
+   "title": "LG Announces Discontinuation of Microsoft Copilot AI Service on TVs",
+   "outlet": "KuCoin",
+   "outlet_name": "KuCoin",
+   "url": "https://www.kucoin.com/news/flash/lg-announces-microsoft-copilot-ai-service-to-be-discontinued-on-tvs",
+   "label": "STILL OPEN",
+   "summary_1line": "Microsoft ends Copilot on LG TVs after mandatory installation.",
+   "published_at": "2026-10-28T23:24:46Z",
+   "url_id": "d01d2c79982c9afbe8010fae86e83146"
   },
   {
-   "title": "Anthropic's IPO filing highlights China AI rivalry as model distillation, chip export controls emerge as key risks",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
-   "url": "https://www.digitimes.com/news/a20261028PD218/anthropic-ipo-startup-technology-training.html",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-28T23:48:16Z",
-   "url_id": "1b557da27535d08f18532dd7c1a0f0c8"
-  },
-  {
-   "title": "US DOJ flags competition risks in Nvidia’s acquisition of open-source AI platform Hugging Face",
-   "outlet": "Firstpost",
-   "outlet_name": "Firstpost",
-   "url": "https://www.firstpost.com/business/nvidia-hugging-face-acquisition-doj-ai-competition-14056152.html",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-29T00:16:53Z",
-   "url_id": "ca9289e16b5b7be821f7675214c6cdcc"
-  },
-  {
-   "title": "A Seattle woman trusted ChatGPT with her medication decisions. It cost her everything",
-   "outlet": "The Seattle Times",
-   "outlet_name": "The Seattle Times",
-   "url": "https://www.seattletimes.com/nation-world/she-trusted-chatgpt-with-her-medication-decisions-it-cost-her-everything/",
+   "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
    "label": "CONFIRMED",
-   "summary_1line": "Bowen Wan reduced her epilepsy dose with ChatGPT's advice, risking unsafe self-medication.",
-   "published_at": "2026-10-28T20:29:58Z",
-   "url_id": "bd8f9043b077b8e6e9d8807aa3affce2"
+   "summary_1line": "Samsung reports strong Q3 growth and announces $1B AI infrastructure investment with Mistral AI.",
+   "published_at": "2026-10-29T00:57:00Z",
+   "url_id": "8428ae6cfe230e4a4ffc66f8290c630d"
   },
   {
-   "title": "Goodwin Launches AI Governance Benchmark in Anthropic’s Claude for Legal",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
-   "url": "https://www.citybiz.co/article/925844/goodwin-launches-ai-governance-benchmark-in-anthropics-claude-for-legal/",
-   "label": "REPORTED",
-   "summary_1line": "Goodwin's AI Governance Benchmark launched in Claude for Legal for legal teams to assess AI oversight.",
-   "published_at": "2026-10-28T17:38:09Z",
-   "url_id": "1e51824e9491cb66d49a410d01b8d964"
+   "title": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
+   "outlet": "9to5Mac",
+   "outlet_name": "9to5Mac",
+   "url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
+   "label": "CONFIRMED",
+   "summary_1line": "Apple's lawsuit against OpenAI and io Products sets July 19, 2027 trial date.",
+   "published_at": "2026-10-29T00:30:44Z",
+   "url_id": "55cfddaae2398ccc67e2cb92da769a75"
+  },
+  {
+   "title": "California Enacts AI Spokespeople, Chatbots and Content Disclosures Laws",
+   "outlet": "JD Supra",
+   "outlet_name": "JD Supra",
+   "url": "https://www.jdsupra.com/legalnews/california-enacts-ai-spokespeople-4564975/",
+   "label": "CONFIRMED",
+   "summary_1line": "California enacts AI transparency laws for generative AI and synthetic performers, effective 2027.",
+   "published_at": "2026-10-28T18:53:30Z",
+   "url_id": "38ad2ce600e46799cbfaf387388f0d3a"
+  },
+  {
+   "title": "AI made legal content cheaper. Law firms are exploring case files as a search resource",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/contributor-content/ai-made-legal-content-cheaper-law-firms-are-exploring-case-files-as-a-search-resource/",
+   "label": "CONFIRMED",
+   "summary_1line": "AI makes generic legal content abundant; firms now compete with evidence-backed case insights.",
+   "published_at": "2026-10-28T12:41:00Z",
+   "url_id": "5357aa2066570e84caee88083c1a803a"
   }
  ],
  "ticker": [
   {
-   "headline": "Family sues OpenAI, claiming ChatGPT is partly responsible for daughter’s death",
-   "outlet": "KOMO",
-   "outlet_name": "KOMO",
-   "label": "REPORTED",
-   "url": "https://komonews.com/news/local/openai-chapgpt-medical-advice-ai-chatbot-anti-seizure-medication-amazon-lawsuit-capitol-hill-apartment-doctor-patient-relationship-tech-epilepsy-companies-online-safety",
-   "url_id": "c77cfcab0e746f6a4ac6268e54e5ccd3"
+   "headline": "LG Announces Discontinuation of Microsoft Copilot AI Service on TVs",
+   "outlet": "KuCoin",
+   "outlet_name": "KuCoin",
+   "label": "STILL OPEN",
+   "url": "https://www.kucoin.com/news/flash/lg-announces-microsoft-copilot-ai-service-to-be-discontinued-on-tvs",
+   "url_id": "d01d2c79982c9afbe8010fae86e83146"
   },
   {
-   "headline": "Anthropic's IPO filing highlights China AI rivalry as model distillation, chip export…",
-   "outlet": "digitimes",
-   "outlet_name": "digitimes",
-   "label": "REPORTED",
-   "url": "https://www.digitimes.com/news/a20261028PD218/anthropic-ipo-startup-technology-training.html",
-   "url_id": "1b557da27535d08f18532dd7c1a0f0c8"
-  },
-  {
-   "headline": "US DOJ flags competition risks in Nvidia’s acquisition of open-source AI platform Hugging…",
-   "outlet": "Firstpost",
-   "outlet_name": "Firstpost",
-   "label": "REPORTED",
-   "url": "https://www.firstpost.com/business/nvidia-hugging-face-acquisition-doj-ai-competition-14056152.html",
-   "url_id": "ca9289e16b5b7be821f7675214c6cdcc"
-  },
-  {
-   "headline": "A Seattle woman trusted ChatGPT with her medication decisions. It cost her everything",
-   "outlet": "The Seattle Times",
-   "outlet_name": "The Seattle Times",
+   "headline": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI…",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.seattletimes.com/nation-world/she-trusted-chatgpt-with-her-medication-decisions-it-cost-her-everything/",
-   "url_id": "bd8f9043b077b8e6e9d8807aa3affce2"
+   "url": "https://www.cnbc.com/2026/10/29/samsung-electronics-third-quarter-earnings.html",
+   "url_id": "8428ae6cfe230e4a4ffc66f8290c630d"
   },
   {
-   "headline": "Goodwin Launches AI Governance Benchmark in Anthropic’s Claude for Legal",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
-   "label": "REPORTED",
-   "url": "https://www.citybiz.co/article/925844/goodwin-launches-ai-governance-benchmark-in-anthropics-claude-for-legal/",
-   "url_id": "1e51824e9491cb66d49a410d01b8d964"
+   "headline": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
+   "outlet": "9to5Mac",
+   "outlet_name": "9to5Mac",
+   "label": "CONFIRMED",
+   "url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
+   "url_id": "55cfddaae2398ccc67e2cb92da769a75"
   },
   {
    "headline": "California Enacts AI Spokespeople, Chatbots and Content Disclosures Laws",
@@ -106,20 +90,44 @@
    "url_id": "38ad2ce600e46799cbfaf387388f0d3a"
   },
   {
-   "headline": "Gemini 4 Carbon: Our next frontier model",
-   "outlet": "deepmind.google",
-   "outlet_name": "deepmind.google",
+   "headline": "AI made legal content cheaper. Law firms are exploring case files as a search resource",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-   "url_id": "3e32bae570ff21ee59e510c657138291"
+   "url": "https://techcrunch.com/contributor-content/ai-made-legal-content-cheaper-law-firms-are-exploring-case-files-as-a-search-resource/",
+   "url_id": "5357aa2066570e84caee88083c1a803a"
   },
   {
-   "headline": "Pflugerville Adopts SAFE AI Policy, 3 Risk Tiers [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
+   "headline": "Christopher Stubbs joins Anthropic's oversight trust | ETIH EdTech News",
+   "outlet": "EdTech Innovation Hub",
+   "outlet_name": "EdTech Innovation Hub",
+   "label": "REPORTED",
+   "url": "https://www.edtechinnovationhub.com/news/harvard-physicist-christopher-stubbs-joins-anthropics-ai-oversight-trust",
+   "url_id": "f6364e72263c3d0dcb2c759c4c761343"
+  },
+  {
+   "headline": "Hochul signs sweeping restrictions on AI, pushes back on big tech with new laws",
+   "outlet": "New York Post on MSN",
+   "outlet_name": "New York Post on MSN",
    "label": "CONFIRMED",
-   "url": "https://shattered.io/pflugerville-safe-technology-policy-ai-surveillance-three-risk-tiers-2026/",
-   "url_id": "2501651fd9b5416a127b42ca4242b1f4"
+   "url": "https://www.msn.com/en-us/news/other/hochul-signs-sweeping-restrictions-on-ai-pushes-back-on-big-tech-with-new-laws/ar-AA2ghth5",
+   "url_id": "d67a935880f117d38775cacdc22e6629"
+  },
+  {
+   "headline": "Google unveils Gemini 4 Carbon for cyber defenders",
+   "outlet": "testingcatalog.com",
+   "outlet_name": "testingcatalog.com",
+   "label": "REPORTED",
+   "url": "https://www.testingcatalog.com/google-unveils-gemini-4-carbon-for-cyber-defenders/",
+   "url_id": "ee01b4a8512772fade9eec80d55f3d57"
+  },
+  {
+   "headline": "Directions EMEA 2026: Microsoft to introduce Copilot bundle for Dynamics 365 Business…",
+   "outlet": "MSDynamicsWorld.com",
+   "outlet_name": "MSDynamicsWorld.com",
+   "label": "REPORTED",
+   "url": "https://msdynamicsworld.com/story/directions-emea-2026-microsoft-introduce-copilot-bundle-dynamics-365-business-central",
+   "url_id": "c89910f50455ae33e26dd89d89642ba4"
   },
   {
    "headline": "I tested the 3 Claude Code alternatives the internet keeps talking about, and only one…",
@@ -130,38 +138,30 @@
    "url_id": "3f2c84fcf07119f3514e5b7e779276e8"
   },
   {
-   "headline": "NVIDIA RTX Spark launches on the market, new Windows PCs with Blackwell GPU and 128 GB of…",
-   "outlet": "kotaworld.it",
-   "outlet_name": "kotaworld.it",
+   "headline": "Chinese parents sue OpenAI over their daughter's death; say ChatGPT-maker could have…",
+   "outlet": "The Times of India on MSN",
+   "outlet_name": "The Times of India on MSN",
    "label": "REPORTED",
-   "url": "https://www.kotaworld.it/en/en-tech/7612-nvidia-rtx-spark-launches-on-the-market-new-windows-pcs-with-blackwell-gpu-and-128-gb-of-unified-memory",
-   "url_id": "527302a93d1cede105ec5d04608aef55"
+   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/chinese-parents-sue-openai-over-their-daughter-s-death-say-chatgpt-maker-could-have-prevented-her-death-by-making-medical-advice-off-limits/ar-AA2gfJTa",
+   "url_id": "c0aac219f91f37fd818e19a5918e6710"
   },
   {
-   "headline": "Google parent's revenue jumps 25% as homegrown AI chips take on Nvidia",
-   "outlet": "asia.nikkei.com",
-   "outlet_name": "asia.nikkei.com",
-   "label": "REPORTED",
-   "url": "https://asia.nikkei.com/business/technology/google-parent-s-revenue-jumps-25-as-homegrown-ai-chips-take-on-nvidia",
-   "url_id": "50ca27468aef3c7aabecd4c9b9bdd94d"
-  },
-  {
-   "headline": "Apple and OpenAI trade secrets lawsuit now has an official trial date",
-   "outlet": "9to5mac.com",
-   "outlet_name": "9to5mac.com",
-   "label": "REPORTED",
-   "url": "https://9to5mac.com/2026/10/28/apple-and-openai-trade-secrets-lawsuit-now-has-an-official-trial-date/",
-   "url_id": "bcfe7eff446454a595c2c561a4351020"
+   "headline": "Microsoft Azure revenue surges 48% to $33.2B, beating expectations as cloud and AI demand…",
+   "outlet": "geekwire.com",
+   "outlet_name": "geekwire.com",
+   "label": "CONFIRMED",
+   "url": "https://www.geekwire.com/2026/microsoft-azure-revenue-surges-48-to-33-2b-beating-expectations-as-cloud-and-ai-demand-grows/",
+   "url_id": "850fec619efb588422dec1cd3fafccbe"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
  "articles_24h_rounded": 15600,
  "articles_24h_label": "about 16,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/02.mp3",
- "audio_seconds": 57.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/03.mp3",
+ "audio_seconds": 52.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA family is suing OpenAI, claiming ChatGPT played a role in their daughter's death. Reported by KOMO.\nAnthropic's IPO filing highlights China artificial intelligence rivalry, with model distillation and chip export controls emerging as key risks. Reported by digitimes.\nThe US Department of Justice has flagged competition risks in Nvidia's acquisition of open-source artificial intelligence platform Hugging Face. Reported by Firstpost.\nA Seattle woman reduced her epilepsy medication dose following ChatGPT's advice, risking unsafe self-medication. Confirmed by The Seattle Times.\nGoodwin has launched an artificial intelligence Governance Benchmark in Claude for Legal, helping legal teams assess artificial intelligence oversight. Reported by citybiz.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per KuCoin: LG Announces Discontinuation of Microsoft Copilot AI Service on TVs.\nConfirmed, per CNBC: Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips.\nConfirmed, per 9to5Mac: Apple and OpenAI trade secrets lawsuit now has an official trial date.\nConfirmed, per JD Supra: California Enacts AI Spokespeople, Chatbots and Content Disclosures Laws.\nConfirmed, per TechCrunch: AI made legal content cheaper. Law firms are exploring case files as a search resource.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
