@@ -1,125 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T11:20:03Z",
- "hour": "2026-10-29T12:00:00Z",
+ "generated_at": "2026-10-29T12:20:06Z",
+ "hour": "2026-10-29T13:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic Launches Claude Smart Reports for Enterprise AI Usage Monitoring",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "url": "https://www.kucoin.com/news/flash/anthropic-launches-claude-smart-reports-for-enterprise-ai-usage-monitoring",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic launches AI usage reports for enterprises, with privacy safeguards and cost tracking.",
-   "published_at": "2026-10-29T09:56:36Z",
-   "url_id": "cc88396877c14655a00fefe4b7f0e041"
-  },
-  {
-   "title": "Google unveils Gemini 4 Carbon with cyber focus",
-   "outlet": "IT Brief Asia",
-   "outlet_name": "IT Brief Asia",
-   "url": "https://itbrief.asia/story/google-unveils-gemini-4-carbon-with-cyber-focus",
-   "label": "REPORTED",
-   "summary_1line": "Google's Gemini 4 Carbon leads in cybersecurity and coding, with 88.2% vulnerability detection and 89 Elo gain on WebDev Arena.",
-   "published_at": "2026-10-29T09:01:00Z",
-   "url_id": "91bbc942aa4163adb5e98cd21eb7f294"
-  },
-  {
-   "title": "Google Chrome Rolls Out Gemini Autofill That Pulls Order Numbers and Flight Bookings From Gmail",
-   "outlet": "gHacks",
-   "outlet_name": "gHacks",
-   "url": "https://www.ghacks.net/2026/10/29/google-chrome-rolls-out-gemini-autofill-that-pulls-order-numbers-and-flight-bookings-from-gmail/",
-   "label": "REPORTED",
-   "summary_1line": "Chrome's new Gmail autofill pulls flight and order details for U.S. adults with Personal Intelligence.",
-   "published_at": "2026-10-29T08:56:32Z",
-   "url_id": "1757970c8058e52660b99c70a6b65978"
-  },
-  {
-   "title": "DeepSeek, Moonshot used OpenAI’s GPT-6 Astra to train latest models: Report",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report-10941782/",
+   "title": "Family sues OpenAI, claiming ChatGPT is partly responsible for daughter’s death",
+   "outlet": "KHGI",
+   "outlet_name": "KHGI",
+   "url": "https://nebraska.tv/news/nation-world/gallery/openai-chapgpt-medical-advice-ai-chatbot-anti-seizure-medication-amazon-lawsuit-capitol-hill-apartment-doctor-patient-relationship-tech-epilepsy-companies-online-safety",
    "label": "STILL OPEN",
-   "summary_1line": "DeepSeek and Moonshot AI used OpenAI's GPT-6 Astra to train models, sparking concerns over AI capability replication.",
-   "published_at": "2026-10-29T01:32:00Z",
-   "url_id": "d857fead671d4bc19aa03ce8415ab840"
+   "summary_1line": "Family sues OpenAI, claiming ChatGPT contributed to daughter's death.",
+   "published_at": "2026-10-29T11:14:55Z",
+   "url_id": "0f97201d0bcab223e24bd884601639fd"
   },
   {
-   "title": "Samsung keeps shattering profit records as AI boom lifts chip demand",
-   "outlet": "ABC News - Breaking News, Latest News and Videos",
-   "outlet_name": "ABC News - Breaking News, Latest News and Videos",
-   "url": "https://abcnews.com/Business/wireStory/samsung-shattering-profit-records-ai-boom-lifts-chip-137662083",
+   "title": "PolicyMe launches AI copilot to speed up complex underwriting",
+   "outlet": "FinTech Global",
+   "outlet_name": "FinTech Global",
+   "url": "https://fintech.global/2026/10/29/policyme-launches-ai-copilot-to-speed-up-complex-underwriting/",
    "label": "CONFIRMED",
-   "summary_1line": "Samsung hits record profit as AI demand surges, with plans for $599B chip hub investment.",
-   "published_at": "2026-10-29T07:17:31Z",
-   "url_id": "613cb1eccaf162edd7d818f23658e71a"
+   "summary_1line": "PolicyMe's AI copilot cuts underwriting time by 59% for complex cases.",
+   "published_at": "2026-10-29T09:51:43Z",
+   "url_id": "bb2bed4dd089f278dad5075f2fac60b9"
+  },
+  {
+   "title": "You can now text your ChatGPT Dot: 3 things to know",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
+   "url": "https://www.thenews.com.pk/latest/1421702-you-can-now-text-your-chatgpt-dot-3-things-to-know",
+   "label": "CONFIRMED",
+   "summary_1line": "US ChatGPT Pro users can now text their Dot via iMessage or RCS.",
+   "published_at": "2026-10-29T07:27:27Z",
+   "url_id": "505e209222a59a8175ba30c964160d0e"
+  },
+  {
+   "title": "Google unveils Gemini 4 Carbon just two weeks after Argon: Here’s what’s new",
+   "outlet": "WION",
+   "outlet_name": "WION",
+   "url": "https://www.wionews.com/technology/google-unveils-gemini-4-carbon-just-two-weeks-after-argon-here-s-what-s-new-1793264520275",
+   "label": "REPORTED",
+   "summary_1line": "Google's Gemini 4 Carbon leads in cybersecurity benchmarks, targeting code flaw detection and fixes.",
+   "published_at": "2026-10-29T11:11:00Z",
+   "url_id": "8a769e93df7576795bf326348d557d60"
+  },
+  {
+   "title": "Anthropic spent $2.75 million guarding Dario Amodei last year—more than 4 times his salary, but a fraction of Mark Zuckerberg’s security bill",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/29/anthropic-dario-amodei-security-costs-ipo-filing-mark-zuckerberg-meta-ai-executive-threats/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic spent $2.75M in 2025 on CEO Dario Amodei’s security, amid rising threats to AI executives.",
+   "published_at": "2026-10-29T07:04:00Z",
+   "url_id": "ae819879518f539721b1cf8ba0d359cc"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic Launches Claude Smart Reports for Enterprise AI Usage Monitoring",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "label": "REPORTED",
-   "url": "https://www.kucoin.com/news/flash/anthropic-launches-claude-smart-reports-for-enterprise-ai-usage-monitoring",
-   "url_id": "cc88396877c14655a00fefe4b7f0e041"
-  },
-  {
-   "headline": "Google unveils Gemini 4 Carbon with cyber focus",
-   "outlet": "IT Brief Asia",
-   "outlet_name": "IT Brief Asia",
-   "label": "REPORTED",
-   "url": "https://itbrief.asia/story/google-unveils-gemini-4-carbon-with-cyber-focus",
-   "url_id": "91bbc942aa4163adb5e98cd21eb7f294"
-  },
-  {
-   "headline": "Google Chrome Rolls Out Gemini Autofill That Pulls Order Numbers and Flight Bookings From…",
-   "outlet": "gHacks",
-   "outlet_name": "gHacks",
-   "label": "REPORTED",
-   "url": "https://www.ghacks.net/2026/10/29/google-chrome-rolls-out-gemini-autofill-that-pulls-order-numbers-and-flight-bookings-from-gmail/",
-   "url_id": "1757970c8058e52660b99c70a6b65978"
-  },
-  {
-   "headline": "DeepSeek, Moonshot used OpenAI’s GPT-6 Astra to train latest models: Report",
-   "outlet": "The Indian Express",
-   "outlet_name": "The Indian Express",
+   "headline": "Family sues OpenAI, claiming ChatGPT is partly responsible for daughter’s death",
+   "outlet": "KHGI",
+   "outlet_name": "KHGI",
    "label": "STILL OPEN",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/deepseek-moonshot-used-openais-gpt-6-astra-to-train-latest-models-report-10941782/",
-   "url_id": "d857fead671d4bc19aa03ce8415ab840"
-  },
-  {
-   "headline": "Samsung keeps shattering profit records as AI boom lifts chip demand",
-   "outlet": "ABC News - Breaking News, Latest News and Videos",
-   "outlet_name": "ABC News - Breaking News, Latest News and Videos",
-   "label": "CONFIRMED",
-   "url": "https://abcnews.com/Business/wireStory/samsung-shattering-profit-records-ai-boom-lifts-chip-137662083",
-   "url_id": "613cb1eccaf162edd7d818f23658e71a"
-  },
-  {
-   "headline": "Chinese AI model raises cybersecurity concerns in new tests",
-   "outlet": "Qazinform",
-   "outlet_name": "Qazinform",
-   "label": "CONFIRMED",
-   "url": "https://qazinform.com/news/chinese-ai-model-raises-cybersecurity-concerns-in-new-tests-47df3d",
-   "url_id": "f94286801d7cb71b026ac5d2982a790a"
-  },
-  {
-   "headline": "Nvidia, AMD Commit $4B to Meta AI Buildout",
-   "outlet": "Data Center Knowledge",
-   "outlet_name": "Data Center Knowledge",
-   "label": "CONFIRMED",
-   "url": "https://www.datacenterknowledge.com/data-center-chips/nvidia-amd-commit-4b-to-meta-ai-buildout",
-   "url_id": "183a6fa6b9c460035dad0ca38e8117ce"
+   "url": "https://nebraska.tv/news/nation-world/gallery/openai-chapgpt-medical-advice-ai-chatbot-anti-seizure-medication-amazon-lawsuit-capitol-hill-apartment-doctor-patient-relationship-tech-epilepsy-companies-online-safety",
+   "url_id": "0f97201d0bcab223e24bd884601639fd"
   },
   {
    "headline": "PolicyMe launches AI copilot to speed up complex underwriting",
    "outlet": "FinTech Global",
    "outlet_name": "FinTech Global",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://fintech.global/2026/10/29/policyme-launches-ai-copilot-to-speed-up-complex-underwriting/",
    "url_id": "bb2bed4dd089f278dad5075f2fac60b9"
+  },
+  {
+   "headline": "You can now text your ChatGPT Dot: 3 things to know",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
+   "label": "CONFIRMED",
+   "url": "https://www.thenews.com.pk/latest/1421702-you-can-now-text-your-chatgpt-dot-3-things-to-know",
+   "url_id": "505e209222a59a8175ba30c964160d0e"
+  },
+  {
+   "headline": "Google unveils Gemini 4 Carbon just two weeks after Argon: Here’s what’s new",
+   "outlet": "WION",
+   "outlet_name": "WION",
+   "label": "REPORTED",
+   "url": "https://www.wionews.com/technology/google-unveils-gemini-4-carbon-just-two-weeks-after-argon-here-s-what-s-new-1793264520275",
+   "url_id": "8a769e93df7576795bf326348d557d60"
+  },
+  {
+   "headline": "Anthropic spent $2.75 million guarding Dario Amodei last year—more than 4 times his…",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "REPORTED",
+   "url": "https://fortune.com/2026/10/29/anthropic-dario-amodei-security-costs-ipo-filing-mark-zuckerberg-meta-ai-executive-threats/",
+   "url_id": "ae819879518f539721b1cf8ba0d359cc"
+  },
+  {
+   "headline": "Xmind Launches AI Agent for Mind Maps and Opens Its Platform to ChatGPT and Claude",
+   "outlet": "Big News Network.com",
+   "outlet_name": "Big News Network.com",
+   "label": "REPORTED",
+   "url": "https://www.bignewsnetwork.com/news/279402664/xmind-launches-ai-agent-for-mind-maps-and-opens-its-platform-to-chatgpt-and-claude",
+   "url_id": "844d02b3230778e020928fac1f586473"
+  },
+  {
+   "headline": "FuriosaAI Raises $620 Million To Challenge NVIDIA and Solve Data Center Power Bottleneck",
+   "outlet": "Ventureburn",
+   "outlet_name": "Ventureburn",
+   "label": "REPORTED",
+   "url": "https://ventureburn.com/furiosaai-raises-620-million-challenge-nvidia-on-ai-chip-power/",
+   "url_id": "7b3f25d1a82752dd67d1cd31f308fa3c"
+  },
+  {
+   "headline": "ChatGPT brushed off symptom concerns 158 times as woman cut epilepsy medication before…",
+   "outlet": "The Cool Down",
+   "outlet_name": "The Cool Down",
+   "label": "STILL OPEN",
+   "url": "https://www.thecooldown.com/green-tech/chatgpt-epilepsy-medication-lawsuit-woman-death/",
+   "url_id": "f3642967e15590d8e30703ddf68a7f86"
+  },
+  {
+   "headline": "AFL-CIO drafting ‘gold-standard’ AI legislation",
+   "outlet": "semafor.com",
+   "outlet_name": "Semafor",
+   "label": "CONFIRMED",
+   "url": "https://www.semafor.com/article/10/29/2026/afl-cio-drafting-gold-standard-ai-legislation",
+   "url_id": "6d401cd113b13966780a7a670b9b8e86"
+  },
+  {
+   "headline": "Google launches Gemini 4 Carbon AI model for cybersecurity and coding, limits initial…",
+   "outlet": "Business Today on MSN",
+   "outlet_name": "Business Today on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/google-launches-gemini-4-carbon-ai-model-for-cybersecurity-and-coding-limits-initial-access/ar-AA2gk2kT",
+   "url_id": "ef87ff4aa3038be0dc764e24cfb0dcb5"
   },
   {
    "headline": "Naver closes $10bn investment from Brookfield and Nvidia",
@@ -136,32 +152,16 @@
    "label": "REPORTED",
    "url": "https://www.trend.az/casia/kazakhstan/4240674.html",
    "url_id": "b2a2c1ecb2f67b072413ec2e05e784d3"
-  },
-  {
-   "headline": "When ChatGPT’s medical advice led to tragedy",
-   "outlet": "indianexpress.com",
-   "outlet_name": "indianexpress.com",
-   "label": "CONFIRMED",
-   "url": "https://indianexpress.com/article/technology/artificial-intelligence/when-chatgpts-medical-advice-led-to-tragedy-10941764/",
-   "url_id": "e09db3c0eb9d8d99368ed6917be9833e"
-  },
-  {
-   "headline": "Elvis copyright holders sue Anthropic over unauthorized AI training",
-   "outlet": "The Chosun Ilbo on MSN",
-   "outlet_name": "The Chosun Ilbo on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-xl/entertainment/music/elvis-copyright-holders-sue-anthropic-over-unauthorized-ai-training/ar-AA2gj7AS",
-   "url_id": "9649b4ffe3963848e33657e914b91905"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 14300,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/12.mp3",
- "audio_seconds": 63.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/13.mp3",
+ "audio_seconds": 52.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic launches Claude Smart Reports for Enterprise reported by KuCoin, providing privacy safeguards and cost tracking for artificial intelligence usage.\nGoogle's Gemini 4 Carbon reported by IT Brief Asia leads in cybersecurity and coding, detecting 88.2% of vulnerabilities and gaining 89 Elo on WebDev Arena.\nChrome's new Gmail autofill reported by gHacks pulls flight and order details for U.S. adults with Personal Intelligence.\nDeepSeek and Moonshot used OpenAI's GPT-6 Astra to train their latest models, still open per The Indian Express, sparking concerns over artificial intelligence capability replication.\nSamsung keeps shattering profit records as artificial intelligence demand surges, confirmed by ABC News - Breaking News, Latest News and Videos, with plans for a 599B chip hub investment.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per KHGI: Family sues OpenAI, claiming ChatGPT is partly responsible for daughter’s death.\nConfirmed, per FinTech Global: PolicyMe launches AI copilot to speed up complex underwriting.\nConfirmed, per The News International: You can now text your ChatGPT Dot: 3 things to know.\nReported by WION: Google unveils Gemini 4 Carbon just two weeks after Argon: Here’s what’s new.\nReported by Fortune: Anthropic spent $2.75 million guarding Dario Amodei last year—more than 4 times his salary, but a fraction of Mark Zuckerberg’s security bill.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
