@@ -1,149 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T19:20:03Z",
- "hour": "2026-10-29T20:00:00Z",
+ "generated_at": "2026-10-29T20:20:02Z",
+ "hour": "2026-10-29T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Ranking Members Raskin, Garcia Demand White House Preserve Trump’s AI Chatbot Conversations After Reports He Consulted Elon Musk’s Grok on Venezuela Military Operation",
-   "outlet": "democrats-judiciary",
-   "outlet_name": "democrats-judiciary",
-   "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-members-raskin-garcia-demand-white-house-preserve-trump-s-ai-chatbot-conversations-after-reports-he-consulted-elon-musk-s-grok-on-venezuela-military-operation",
-   "label": "STILL OPEN",
-   "summary_1line": "Congressmen demand Trump preserve AI chatbot records after reports of Grok use in Venezuela military planning.",
-   "published_at": "2026-10-29T06:50:00Z",
-   "url_id": "830286eec76c915400b20e8b00e7fea9"
-  },
-  {
-   "title": "Gemini 4 Carbon Launched With Advanced AI Cybersecurity",
-   "outlet": "NewsBricks",
-   "outlet_name": "NewsBricks",
-   "url": "https://www.newsbricks.com/technology/gemini4-carbon-advanced-cybersecurity-coding",
-   "label": "REPORTED",
-   "summary_1line": "Google's Gemini 4 Carbon improves on coding and cybersecurity, with benchmark results showing significant gains over prior models.",
-   "published_at": "2026-10-29T13:35:00Z",
-   "url_id": "8c1fc30fea1a21c38bad37fa36274994"
-  },
-  {
-   "title": "Publishers urge US court to reject OpenAI’s fair use defence in copyright case",
-   "outlet": "The Bookseller",
-   "outlet_name": "The Bookseller",
-   "url": "https://www.thebookseller.com/news/publishers-urge-us-court-to-reject-openais-fair-use-defence-in-copyright-case",
-   "label": "REPORTED",
-   "summary_1line": "Publishing groups urge US court to reject OpenAI’s fair-use defence in copyright case.",
-   "published_at": "2026-10-29T16:31:17Z",
-   "url_id": "a47b9e54bb3e94fca0ad714753e840d4"
-  },
-  {
-   "title": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
+   "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
    "label": "CONFIRMED",
-   "summary_1line": "Amazon's AI spending surges, cuts 57K jobs, blocks third-party agents, and grows Alexa for Shopping use.",
-   "published_at": "2026-10-29T16:00:01Z",
-   "url_id": "d1e433e371c8af9aa6b76c9cce484d4a"
+   "summary_1line": "Google enables full file editing in Gemini, now available on web.",
+   "published_at": "2026-10-29T18:45:31Z",
+   "url_id": "94092833fac50dc8f8f78e6c18a29103"
   },
   {
-   "title": "Canada to invest $1.6 billion in AI firm Cohere",
-   "outlet": "BetaKit",
-   "outlet_name": "BetaKit",
-   "url": "https://betakit.com/canada-to-invest-up-to-1-6-billion-in-ai-firm-cohere/",
+   "title": "Early Anthropic member recalls burnout and big ambitions in the AI lab's early days",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/early-anthropic-employee-dishes-ai-lab-2026-10",
    "label": "CONFIRMED",
-   "summary_1line": "Cohere raises $7B CAD, valued at $36B, with $1.6B from Canada.",
-   "published_at": "2026-10-29T16:41:15Z",
-   "url_id": "f81d0547a094c0a7415ecd60ff67504f"
+   "summary_1line": "Former Anthropic employee details burnout and workplace tensions in early days.",
+   "published_at": "2026-10-29T18:19:23Z",
+   "url_id": "f853743c5df75530908b490fce6e8797"
+  },
+  {
+   "title": "OpenAI rewrites its AI rulebook around five core values",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/openai-model-spec-five-values-update",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI updates AI rulebook to prioritize human intent and agency, calling GPT model 'faithful' to user needs.",
+   "published_at": "2026-10-29T18:16:13Z",
+   "url_id": "f4641bb459830e3c46759269e4c2a4be"
+  },
+  {
+   "title": "Nvidia Faces DOJ Scrutiny Over $13 Billion Hugging Face Acquisition",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "url": "https://www.tekedia.com/nvidia-faces-doj-scrutiny-over-13-billion-hugging-face-acquisition/",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia’s $13B Hugging Face deal faces DOJ scrutiny over AI competition concerns.",
+   "published_at": "2026-10-29T11:44:37Z",
+   "url_id": "098ec73c241ed6c1c7d38117f2051b1e"
+  },
+  {
+   "title": "FuriosaAI raises $620m at a $2.9bn valuation for its Nvidia rival chips",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/furiosaai-series-d-620m-2-9bn-valuation",
+   "label": "REPORTED",
+   "summary_1line": "FuriosaAI raises $620m, valuing company at $2.9bn, to scale RNGD AI chips globally.",
+   "published_at": "2026-10-29T18:20:29Z",
+   "url_id": "e8eac80db3a18aa54a0d99a6e2664c85"
   }
  ],
  "ticker": [
   {
-   "headline": "Ranking Members Raskin, Garcia Demand White House Preserve Trump’s AI Chatbot…",
-   "outlet": "democrats-judiciary",
-   "outlet_name": "democrats-judiciary",
-   "label": "STILL OPEN",
-   "url": "https://democrats-judiciary.house.gov/media-center/press-releases/ranking-members-raskin-garcia-demand-white-house-preserve-trump-s-ai-chatbot-conversations-after-reports-he-consulted-elon-musk-s-grok-on-venezuela-military-operation",
-   "url_id": "830286eec76c915400b20e8b00e7fea9"
+   "headline": "You can generate and edit Google Docs files directly in Gemini chats now",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "label": "CONFIRMED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+   "url_id": "94092833fac50dc8f8f78e6c18a29103"
   },
   {
-   "headline": "Gemini 4 Carbon Launched With Advanced AI Cybersecurity",
-   "outlet": "NewsBricks",
-   "outlet_name": "NewsBricks",
+   "headline": "Early Anthropic member recalls burnout and big ambitions in the AI lab's early days",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
+   "label": "CONFIRMED",
+   "url": "https://www.businessinsider.com/early-anthropic-employee-dishes-ai-lab-2026-10",
+   "url_id": "f853743c5df75530908b490fce6e8797"
+  },
+  {
+   "headline": "OpenAI rewrites its AI rulebook around five core values",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/openai-model-spec-five-values-update",
+   "url_id": "f4641bb459830e3c46759269e4c2a4be"
+  },
+  {
+   "headline": "Nvidia Faces DOJ Scrutiny Over $13 Billion Hugging Face Acquisition",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
    "label": "REPORTED",
-   "url": "https://www.newsbricks.com/technology/gemini4-carbon-advanced-cybersecurity-coding",
-   "url_id": "8c1fc30fea1a21c38bad37fa36274994"
+   "url": "https://www.tekedia.com/nvidia-faces-doj-scrutiny-over-13-billion-hugging-face-acquisition/",
+   "url_id": "098ec73c241ed6c1c7d38117f2051b1e"
   },
   {
-   "headline": "Publishers urge US court to reject OpenAI’s fair use defence in copyright case",
-   "outlet": "The Bookseller",
-   "outlet_name": "The Bookseller",
+   "headline": "FuriosaAI raises $620m at a $2.9bn valuation for its Nvidia rival chips",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
    "label": "REPORTED",
-   "url": "https://www.thebookseller.com/news/publishers-urge-us-court-to-reject-openais-fair-use-defence-in-copyright-case",
-   "url_id": "a47b9e54bb3e94fca0ad714753e840d4"
+   "url": "https://thenextweb.com/news/furiosaai-series-d-620m-2-9bn-valuation",
+   "url_id": "e8eac80db3a18aa54a0d99a6e2664c85"
   },
   {
-   "headline": "Amazon to report Q3 earnings after the bell with AI spend under scrutiny",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html",
-   "url_id": "d1e433e371c8af9aa6b76c9cce484d4a"
-  },
-  {
-   "headline": "Canada to invest $1.6 billion in AI firm Cohere",
-   "outlet": "BetaKit",
-   "outlet_name": "BetaKit",
-   "label": "CONFIRMED",
-   "url": "https://betakit.com/canada-to-invest-up-to-1-6-billion-in-ai-firm-cohere/",
-   "url_id": "f81d0547a094c0a7415ecd60ff67504f"
-  },
-  {
-   "headline": "Democrats demand records of White House AI use",
-   "outlet": "Oman Observer",
-   "outlet_name": "Oman Observer",
-   "label": "STILL OPEN",
-   "url": "https://www.omanobserver.om/article/1198806/world/americas/democrats-demand-records-of-white-house-ai-use",
-   "url_id": "90318fa5f72267c6a889594245b00e8c"
-  },
-  {
-   "headline": "EXL Named OpenAI Select Partner to Expand Enterprise AI Deployments",
-   "outlet": "citybiz",
-   "outlet_name": "citybiz",
-   "label": "CONFIRMED",
-   "url": "https://www.citybiz.co/article/926646/exl-named-openai-select-partner-to-expand-enterprise-ai-deployments/",
-   "url_id": "9fa106c92c6bf8e3832ba742d4e93a6d"
-  },
-  {
-   "headline": "Accelerate agentic AI with NVIDIA Nemotron models on Amazon EKS and SageMaker HyperPod EKS",
-   "outlet": "Amazon Web Services (AWS)",
-   "outlet_name": "Amazon Web Services (AWS)",
-   "label": "CONFIRMED",
-   "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-ai-with-nvidia-nemotron-models-on-amazon-eks-and-sagemaker-hyperpod-eks/",
-   "url_id": "47c192ba3129d41da01b2253b86d6a7d"
-  },
-  {
-   "headline": "vivenu Brings Live Ticketing Operations Into AI Tools Including Claude and ChatGPT With…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "Google Launches Gemini 4 Carbon and Genie 4 AI Models With Native Audio and…",
+   "outlet": "Brave New Coin",
+   "outlet_name": "Brave New Coin",
    "label": "REPORTED",
-   "url": "https://www.prnewswire.com/news-releases/vivenu-brings-live-ticketing-operations-into-ai-tools-including-claude-and-chatgpt-with-the-launch-of-vivenu-mcp-server-302923730.html",
-   "url_id": "a9db60e0d08fd229b1358f4fbdd6780a"
+   "url": "https://bravenewcoin.com/insights/google-launches-gemini-4-carbon-and-genie-4-ai-models-with-native-audio-and-photorealistic-simulations",
+   "url_id": "6b05ed4d9aa89377f5f6b858a243e1a7"
   },
   {
-   "headline": "Le Chonk: Built for Coders, Trusted by Defenders.",
-   "outlet": "mistral.ai",
-   "outlet_name": "mistral.ai",
-   "label": "CONFIRMED",
-   "url": "https://mistral.ai/news/mistral-large-4-oss/",
-   "url_id": "5a25565ab71a8d06b3b9b7c297f43e97"
+   "headline": "Microsoft announces Copilot capacities for audit, tax, compliance, more",
+   "outlet": "Accounting Today",
+   "outlet_name": "Accounting Today",
+   "label": "REPORTED",
+   "url": "https://www.accountingtoday.com/news/microsoft-announces-copilot-capacities-for-audit-tax-compliance-more",
+   "url_id": "5d1e24020a85324c81b01b34f665aa6b"
   },
   {
-   "headline": "Frontier AI one of greatest threats to Canadians as Ottawa releases national security…",
-   "outlet": "National Post on MSN",
-   "outlet_name": "National Post on MSN",
+   "headline": "NVFP4-Release von Mistral Large 4: 610 GB, acht Blackwells",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "label": "REPORTED",
+   "url": "https://www.orcarouter.ai/de/blog/mistral-large-4-nvfp4-day-zero-serving",
+   "url_id": "4f8c0183b338413e5f529ae9fb89cec7"
+  },
+  {
+   "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+   "outlet": "TechCrunch on MSN",
+   "outlet_name": "TechCrunch on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-ca/news/other/frontier-ai-one-of-greatest-threats-to-canadians-as-ottawa-releases-national-security-strategy/ar-AA2gm3vm",
-   "url_id": "723d41964aab063b891753d1775a7b71"
+   "url": "https://www.msn.com/en-us/news/other/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/ar-AA2glChD",
+   "url_id": "edb9777d0c2845786c1e0dbcc5255694"
+  },
+  {
+   "headline": "Gemini Notebook makes hundreds of textbooks available to help students learn even more.",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+   "url_id": "2dd2fa0de222f0a828c172dec72ec106"
   },
   {
    "headline": "Parents sue OpenAI, alleging ChatGPT guided daughter off epilepsy medication before her…",
@@ -152,16 +144,24 @@
    "label": "CONFIRMED",
    "url": "https://www.msn.com/en-xl/news/other/parents-sue-openai-alleging-chatgpt-guided-daughter-off-epilepsy-medication-before-her-death/ar-AA2gmsJ4",
    "url_id": "290cb6eb828e6e13507f734f73df87ef"
+  },
+  {
+   "headline": "Family sues OpenAI, CEO Sam Altman over woman’s death",
+   "outlet": "WDBO on MSN",
+   "outlet_name": "WDBO on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-us/news/other/family-sues-openai-ceo-sam-altman-over-woman-s-death/ar-AA2glutU",
+   "url_id": "89c2355f8764d4b07c84700516103d4f"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 13800,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 13700,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/20.mp3",
- "audio_seconds": 54.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/21.mp3",
+ "audio_seconds": 55.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per democrats-judiciary: Ranking Members Raskin, Garcia Demand White House Preserve Trump’s AI Chatbot Conversations After Reports He Consulted Elon Musk’s Grok on Venezuela Military Operation.\nReported by NewsBricks: Gemini 4 Carbon Launched With Advanced AI Cybersecurity.\nReported by The Bookseller: Publishers urge US court to reject OpenAI’s fair use defence in copyright case.\nConfirmed, per CNBC: Amazon to report Q3 earnings after the bell with AI spend under scrutiny.\nConfirmed, per BetaKit: Canada to invest $1.6 billion in AI firm Cohere.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle now lets you generate and edit Docs files directly inside Gemini chats on the web, Confirmed by The Verge.\nAn early Anthropic member recalls burnout and big ambitions during the artificial intelligence lab's early days, Confirmed by Business Insider.\nOpenAI has rewritten its artificial intelligence rulebook around five core values to prioritize human intent and agency, Confirmed by The Next Web.\nNvidia faces Department of Justice scrutiny over its $13 Billion Hugging Face acquisition over artificial intelligence competition concerns, Reported by Tekedia.\nFuriosaAI raises $620m at a $2.9bn valuation to scale its Nvidia rival chips globally, Reported by The Next Web.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
