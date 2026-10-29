@@ -1,125 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T05:20:03Z",
- "hour": "2026-10-29T06:00:00Z",
+ "generated_at": "2026-10-29T06:20:03Z",
+ "hour": "2026-10-29T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google launches Gemini 4 Carbon AI model, improving software vulnerability detection and security",
-   "outlet": "ETCISO",
-   "outlet_name": "ETCISO",
-   "url": "https://ciso.economictimes.indiatimes.com/news/vulnerabilities-exploits/google-launches-gemini-4-carbon-ai-model-improving-software-vulnerability-detection-and-security/135286967",
+   "title": "New York passes law banning harmful AI chatbot interactions with children",
+   "outlet": "TRT World",
+   "outlet_name": "TRT World",
+   "url": "https://www.trtworld.com/article/f61a89957353",
    "label": "CONFIRMED",
-   "summary_1line": "Google's Gemini 4 Carbon AI improves vulnerability detection and security, with 88.2% success on SEC-bench Pro and zero attack success on Gray Swan.",
-   "published_at": "2026-10-28T19:38:00Z",
-   "url_id": "a37a76e71bbf9bf03ba8ee5418ff9672"
+   "summary_1line": "New York bans AI chatbots from pretending to be human or having relationships with minors.",
+   "published_at": "2026-10-29T03:42:18Z",
+   "url_id": "a77d931c15584a6da1a58aba7b6f3422"
   },
   {
-   "title": "Norwegian media seek court pause on Meta AI terms",
-   "outlet": "NeoTeo",
-   "outlet_name": "NeoTeo",
-   "url": "https://www.neoteo.com/en/ten-norwegian-media-groups-ask-court-to-pause-meta-terms",
-   "label": "REPORTED",
-   "summary_1line": "Norwegian media groups seek court pause on Meta’s AI terms before legality is assessed.",
-   "published_at": "2026-10-28T19:33:34Z",
-   "url_id": "ef5c0efc76f8a389ebc52244d2d8d411"
-  },
-  {
-   "title": "AI Safety",
-   "outlet": "The Herald Journal",
-   "outlet_name": "The Herald Journal",
-   "url": "https://www.hjnews.com/nation/ai-safety/image_cad4730e-cbf9-58eb-8cac-a2b53045fdab.html",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-29T04:01:27Z",
-   "url_id": "43acac59c7c9d88b7ed03b5320b7c096"
-  },
-  {
-   "title": "Trump flags imported robotics as a national security risk, holds off on tariffs",
+   "title": "Nvidia unveils DSX POD server racks to speed up AI factory buildouts",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/trump-robotics-imports-national-security-section-232/",
-   "label": "REPORTED",
-   "summary_1line": "Trump declares robotics a security risk, delays tariffs for 180-day talks.",
-   "published_at": "2026-10-28T23:39:34Z",
-   "url_id": "98fbf09acfc43afe094a788334da6bc8"
+   "url": "https://cryptobriefing.com/nvidia-dsx-pod-ai-factory-racks/",
+   "label": "CONFIRMED",
+   "summary_1line": "Nvidia's DSX POD cuts AI data center setup to 14 days, with 504 GPUs and 30% lower power use.",
+   "published_at": "2026-10-29T04:06:25Z",
+   "url_id": "9428e5dfbd20f20a439f32b0f8159d45"
   },
   {
-   "title": "Pflugerville City Council passes SAFE Act to regulate AI, surveillance",
-   "outlet": "FOX 7 Austin",
-   "outlet_name": "FOX 7 Austin",
-   "url": "https://www.fox7austin.com/news/pflugerville-city-council-passes-safe-act-regulate-ai-surveillance",
+   "title": "New York enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation boundaries",
+   "outlet": "Boston Herald",
+   "outlet_name": "Boston Herald",
+   "url": "https://www.bostonherald.com/2026/10/28/ai-regulation-states/",
    "label": "CONFIRMED",
-   "summary_1line": "Pflugerville passes SAFE Act to regulate AI and surveillance with resident oversight and data privacy rules.",
-   "published_at": "2026-10-28T18:54:00Z",
-   "url_id": "c0218db79f6efc446443c1bc36d4f63b"
+   "summary_1line": "New York bans unsafe AI chatbot features for kids under 18, effective Jan. 1.",
+   "published_at": "2026-10-28T16:32:00Z",
+   "url_id": "d222f056d2f6a9f748e1615ba91b5f41"
+  },
+  {
+   "title": "Supermicro introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% liquid-cooled rack-scale solution, complementing the NVIDIA Vera Rubin Platform, for Agentic AI at Scale",
+   "outlet": "Cyprus Shipping News",
+   "outlet_name": "Cyprus Shipping News",
+   "url": "https://cyprusshippingnews.com/2026/10/29/supermicro-introduces-the-nvidia-vera-cpu-rack-a-256-cpu-100-liquid-cooled-rack-scale-solution-complementing-the-nvidia-vera-rubin-platform-for-agentic-ai-at-scale/",
+   "label": "REPORTED",
+   "summary_1line": "Supermicro's NVIDIA Vera CPU rack powers agentic AI with 256 CPUs and 22,500 sandboxes.",
+   "published_at": "2026-10-29T03:19:18Z",
+   "url_id": "5684f6a8096a470d0561e1ea3c441803"
+  },
+  {
+   "title": "Claude's new smart reports tell bosses when workers are 'off-topic'",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
+   "url": "https://mashable.com/tech/claude-smart-reports-anthropic-ai-worker-overview",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic's Claude smart reports track employee AI use and spending for enterprise teams.",
+   "published_at": "2026-10-29T03:06:27Z",
+   "url_id": "3edbcfd5a46d193ff3c93ce49bc2310e"
   }
  ],
  "ticker": [
   {
-   "headline": "Google launches Gemini 4 Carbon AI model, improving software vulnerability detection and…",
-   "outlet": "ETCISO",
-   "outlet_name": "ETCISO",
+   "headline": "New York passes law banning harmful AI chatbot interactions with children",
+   "outlet": "TRT World",
+   "outlet_name": "TRT World",
    "label": "CONFIRMED",
-   "url": "https://ciso.economictimes.indiatimes.com/news/vulnerabilities-exploits/google-launches-gemini-4-carbon-ai-model-improving-software-vulnerability-detection-and-security/135286967",
-   "url_id": "a37a76e71bbf9bf03ba8ee5418ff9672"
+   "url": "https://www.trtworld.com/article/f61a89957353",
+   "url_id": "a77d931c15584a6da1a58aba7b6f3422"
   },
   {
-   "headline": "Norwegian media seek court pause on Meta AI terms",
-   "outlet": "NeoTeo",
-   "outlet_name": "NeoTeo",
-   "label": "REPORTED",
-   "url": "https://www.neoteo.com/en/ten-norwegian-media-groups-ask-court-to-pause-meta-terms",
-   "url_id": "ef5c0efc76f8a389ebc52244d2d8d411"
-  },
-  {
-   "headline": "AI Safety",
-   "outlet": "The Herald Journal",
-   "outlet_name": "The Herald Journal",
-   "label": "REPORTED",
-   "url": "https://www.hjnews.com/nation/ai-safety/image_cad4730e-cbf9-58eb-8cac-a2b53045fdab.html",
-   "url_id": "43acac59c7c9d88b7ed03b5320b7c096"
-  },
-  {
-   "headline": "Trump flags imported robotics as a national security risk, holds off on tariffs",
+   "headline": "Nvidia unveils DSX POD server racks to speed up AI factory buildouts",
    "outlet": "Crypto Briefing",
    "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/trump-robotics-imports-national-security-section-232/",
-   "url_id": "98fbf09acfc43afe094a788334da6bc8"
-  },
-  {
-   "headline": "Pflugerville City Council passes SAFE Act to regulate AI, surveillance",
-   "outlet": "FOX 7 Austin",
-   "outlet_name": "FOX 7 Austin",
    "label": "CONFIRMED",
-   "url": "https://www.fox7austin.com/news/pflugerville-city-council-passes-safe-act-regulate-ai-surveillance",
-   "url_id": "c0218db79f6efc446443c1bc36d4f63b"
+   "url": "https://cryptobriefing.com/nvidia-dsx-pod-ai-factory-racks/",
+   "url_id": "9428e5dfbd20f20a439f32b0f8159d45"
   },
   {
-   "headline": "Can Gemini 4 Carbon Save Google's Reputation? Key Insights & Analysis",
-   "outlet": "36Kr",
-   "outlet_name": "36Kr",
+   "headline": "New York enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation…",
+   "outlet": "Boston Herald",
+   "outlet_name": "Boston Herald",
+   "label": "CONFIRMED",
+   "url": "https://www.bostonherald.com/2026/10/28/ai-regulation-states/",
+   "url_id": "d222f056d2f6a9f748e1615ba91b5f41"
+  },
+  {
+   "headline": "Supermicro introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% liquid-cooled rack-scale…",
+   "outlet": "Cyprus Shipping News",
+   "outlet_name": "Cyprus Shipping News",
    "label": "REPORTED",
-   "url": "https://eu.36kr.com/en/p/4046230101006213",
-   "url_id": "cf4331e70701a2c3c1cd708fd0fe2f4b"
+   "url": "https://cyprusshippingnews.com/2026/10/29/supermicro-introduces-the-nvidia-vera-cpu-rack-a-256-cpu-100-liquid-cooled-rack-scale-solution-complementing-the-nvidia-vera-rubin-platform-for-agentic-ai-at-scale/",
+   "url_id": "5684f6a8096a470d0561e1ea3c441803"
   },
   {
    "headline": "Claude's new smart reports tell bosses when workers are 'off-topic'",
    "outlet": "Mashable",
    "outlet_name": "Mashable",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://mashable.com/tech/claude-smart-reports-anthropic-ai-worker-overview",
    "url_id": "3edbcfd5a46d193ff3c93ce49bc2310e"
   },
   {
-   "headline": "Bigger than Bing or Xbox: Microsoft’s OpenAI haul reaches $10B in quarterly revenue",
-   "outlet": "geekwire.com",
-   "outlet_name": "geekwire.com",
-   "label": "CONFIRMED",
-   "url": "https://www.geekwire.com/2026/bigger-than-bing-or-xbox-microsofts-openai-haul-reaches-10b-in-quarterly-revenue/",
-   "url_id": "916ff21cbdcbcf86af2dcf341fe234f4"
+   "headline": "Anthropic gets too much attention as a litmus test for AI, says Albion's Ware",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "REPORTED",
+   "url": "https://www.cnbc.com/video/2026/10/29/anthropic-gets-too-much-attention-as-a-litmus-test-for-ai-jason-ware.html",
+   "url_id": "a3e247b1675161bc70652cc1989a3f33"
+  },
+  {
+   "headline": "Anthropic Launches AI Spend Transparency Tools Ahead of IPO",
+   "outlet": "AndroGuider",
+   "outlet_name": "AndroGuider",
+   "label": "REPORTED",
+   "url": "https://www.androguider.com/2026/10/anthropic-launches-ai-spend.html",
+   "url_id": "4fd65c547259668501b5d34fc0651c4d"
   },
   {
    "headline": "Google’s Gemini can now make complex topics more fun with new interactive learning feature",
@@ -130,38 +122,46 @@
    "url_id": "7e5ca541a71e08ac6fa2b8b298736f56"
   },
   {
-   "headline": "Anthropic ships Claude Enterprise cost tools as AI ROI doubts persist",
-   "outlet": "Cryptopolitan on MSN",
-   "outlet_name": "Cryptopolitan on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/technology/artificial-intelligence/anthropic-ships-claude-enterprise-cost-tools-as-ai-roi-doubts-persist/ar-AA2gilDi",
-   "url_id": "39f72f377e249f8937bd00ba42631061"
+   "headline": "Anthropic's Elvis lawsuit could reach inside Claude itself",
+   "outlet": "TheStreet on MSN",
+   "outlet_name": "TheStreet on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-us/money/general/anthropic-s-elvis-lawsuit-could-reach-inside-claude-itself/ar-AA2gj6Fk",
+   "url_id": "54093ae7fcd9bcb6f3d7a43c1f13e827"
   },
   {
-   "headline": "Anthropic flags copyright law as major risk said that could cripple AI business",
-   "outlet": "India Today on MSN",
-   "outlet_name": "India Today on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/anthropic-flags-copyright-law-as-major-risk-said-that-could-cripple-ai-business/ar-AA2gfARr?ocid=BingNewsVerp",
-   "url_id": "6b44410c5945d7c543e5543e3459396b"
+   "headline": "Chinese AI model carries out complex cyberattacks in controlled tests, researchers say",
+   "outlet": "Reuters on MSN",
+   "outlet_name": "Reuters on MSN",
+   "label": "CONFIRMED",
+   "url": "https://www.msn.com/en-ca/technology/artificial-intelligence/chinese-ai-model-carries-out-complex-cyberattacks-in-controlled-tests-researchers-say/ar-AA2giLZA",
+   "url_id": "8550a25a863e15031ed445d776db68a4"
   },
   {
-   "headline": "Microsoft cloud and AI revenue in 1QFY27surge past expectations, driven by robust Copilot…",
-   "outlet": "digitimes.com",
-   "outlet_name": "digitimes.com",
+   "headline": "Google launches Gemini 4 Carbon and Genie 4 AI models: Key features, uses and availability",
+   "outlet": "Mint on MSN",
+   "outlet_name": "Mint on MSN",
    "label": "REPORTED",
-   "url": "https://www.digitimes.com/news/a20261029VL215/microsoft-azure-copilot-revenue-growth-2027.html",
-   "url_id": "2705aa4a51633bb1418c58a730c60320"
+   "url": "https://www.msn.com/en-in/technology/artificial-intelligence/google-launches-gemini-4-carbon-and-genie-4-ai-models-key-features-uses-and-availability/ar-AA2giJtI",
+   "url_id": "9ea4f96484a550d72238434af0edd6c1"
+  },
+  {
+   "headline": "Partnering with Singapore to bring frontier AI to public health",
+   "outlet": "blog.google",
+   "outlet_name": "blog.google",
+   "label": "CONFIRMED",
+   "url": "https://blog.google/innovation-and-ai/technology/health/google-for-health-summit-singapore/",
+   "url_id": "f66bf8327311981e4758da2aa93bc543"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
- "articles_24h_rounded": 14800,
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 14700,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/06.mp3",
- "audio_seconds": 42.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/07.mp3",
+ "audio_seconds": 54.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per ETCISO: Google launches Gemini 4 Carbon AI model, improving software vulnerability detection and security.\nReported by NeoTeo: Norwegian media seek court pause on Meta AI terms.\nReported by The Herald Journal: AI Safety.\nReported by Crypto Briefing: Trump flags imported robotics as a national security risk, holds off on tariffs.\nConfirmed, per FOX 7 Austin: Pflugerville City Council passes SAFE Act to regulate AI, surveillance.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per TRT World: New York passes law banning harmful AI chatbot interactions with children.\nConfirmed, per Crypto Briefing: Nvidia unveils DSX POD server racks to speed up AI factory buildouts.\nConfirmed, per Boston Herald: New York enacts ban on ‘unsafe’ chatbot behavior with kids as states push AI regulation boundaries.\nReported by Cyprus Shipping News: Supermicro introduces the NVIDIA Vera CPU Rack, a 256 CPU, 100% liquid-cooled rack-scale solution, complementing the NVIDIA Vera Rubin Platform, for Agentic AI at Scale.\nConfirmed, per Mashable: Claude's new smart reports tell bosses when workers are 'off-topic'.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
