@@ -1,109 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T08:20:02Z",
- "hour": "2026-10-29T09:00:00Z",
+ "generated_at": "2026-10-29T09:20:03Z",
+ "hour": "2026-10-29T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic: 5% to 7% of Revenue Came From Policy Violators",
-   "outlet": "FourWeekMBA",
-   "outlet_name": "FourWeekMBA",
-   "url": "https://fourweekmba.com/ai-anthropic-5-to-7-of-revenue-came-from-policy-violators/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic estimates 5-7% of its 2026 revenue from policy-violating customers.",
-   "published_at": "2026-10-29T06:45:44Z",
-   "url_id": "bbc03c51b943ea663a84a87f8caf834e"
-  },
-  {
-   "title": "GitHub announces new Copilot Fusion and Copilot Projects giving you smart, self-managing agentic developers with token cost control",
-   "outlet": "iTWire",
-   "outlet_name": "iTWire",
-   "url": "https://itwire.com/business-it-news/enterprise-solutions/github-announces-new-copilot-fusion-and-copilot-projects-giving-you-smart-self-managing-agentic-developers-with-token-cost-control",
-   "label": "REPORTED",
-   "summary_1line": "GitHub launches Copilot Fusion and Projects to automate software development workflows.",
-   "published_at": "2026-10-29T06:13:47Z",
-   "url_id": "7687e5becd7af23f296196398b8e948c"
-  },
-  {
-   "title": "GitHub Copilot Fusion Now Generally Available, Nearly Matching Opus 5.5 in Independent Benchmark at About Half the Cost per Task",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
-   "url": "https://xenospectrum.com/en/github-copilot-fusion-multi-model-orchestration/",
+   "title": "New Relic Integrates Change Tracking into GitHub Copilot",
+   "outlet": "VARIndia",
+   "outlet_name": "VARIndia",
+   "url": "https://www.varindia.com/news/new-relic-integrates-change-tracking-into-github-copilot",
    "label": "CONFIRMED",
-   "summary_1line": "GitHub's Copilot Fusion scores 60 in evaluation, cuts task cost by 51%, and uses 7.2M tokens per task.",
-   "published_at": "2026-10-29T03:21:06Z",
-   "url_id": "50888fed2d0abc0e6f0561f174d32243"
+   "summary_1line": "New Relic integrates AI tools with GitHub to bring real-time production data into coding workflows.",
+   "published_at": "2026-10-29T05:44:50Z",
+   "url_id": "7bc4688c35260c6d98ea0bf83dd30486"
   },
   {
-   "title": "Meta has a new AI pet app called Waddle World",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-   "label": "STILL OPEN",
-   "summary_1line": "Meta launches AI virtual pet app Waddle World in Philippines.",
-   "published_at": "2026-10-29T04:54:31Z",
-   "url_id": "4e4d56dd709719924b59fc2b3ad4bb80"
+   "title": "Family sues OpenAI over ChatGPT advice on epilepsy drug dose",
+   "outlet": "Türkiye Today",
+   "outlet_name": "Türkiye Today",
+   "url": "https://www.turkiyetoday.com/lifestyle/family-sues-openai-over-chatgpt-advice-on-epilepsy-drug-dose-3231248",
+   "label": "REPORTED",
+   "summary_1line": "Family sues OpenAI after ChatGPT advised epilepsy patient to stop medication, leading to death.",
+   "published_at": "2026-10-29T07:29:15Z",
+   "url_id": "1ebccc42bedb67ddfdd727da69754ead"
   },
   {
-   "title": "Trump says US will beat China in AI as technology emerges",
-   "outlet": "WDTV 5",
-   "outlet_name": "WDTV 5",
-   "url": "https://www.wdtv.com/video/2026/10/28/trump-says-us-will-beat-china-ai-technology-emerges/",
+   "title": "Australia Makes AI Emotional Manipulation Illegal: First-of-Its-Kind Chatbot Design Law Passes",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "url": "https://www.techtimes.com/articles/329653/20261029/australia-makes-ai-emotional-manipulation-illegal-first-its-kind-chatbot-design-law-passes.htm",
    "label": "CONFIRMED",
-   "summary_1line": "Border Patrol agent charged with stabbing wife; Trump calls for consequences over spoiler candidate report.",
-   "published_at": "2026-10-28T19:43:00Z",
-   "url_id": "554715b3faa6f6b272b933765a1c1233"
+   "summary_1line": "Australia bans AI chatbot designs that manipulate children, citing teen suicide cases.",
+   "published_at": "2026-10-29T00:20:00Z",
+   "url_id": "83fd2152e02ad590c7e6f8ab775c8939"
+  },
+  {
+   "title": "Chinese AI firms tap OpenAI Astra outputs to train rival models",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "url": "https://biz.chosun.com/en/en-it/2026/10/29/XGDRDFOZCNE5NCCWPS54KBGA4E/",
+   "label": "CONFIRMED",
+   "summary_1line": "DeepSeek and Moonshot AI used GPT-6 Astra to distill models amid rising access concerns.",
+   "published_at": "2026-10-29T06:38:00Z",
+   "url_id": "a307144a50fd753d9fb490251ab3cc9f"
+  },
+  {
+   "title": "Grok can launch a thousand ships – but this AI remake of the Odyssey can’t make us feel",
+   "outlet": "The Conversation",
+   "outlet_name": "The Conversation",
+   "url": "https://theconversation.com/grok-can-launch-a-thousand-ships-but-this-ai-remake-of-the-odyssey-cant-make-us-feel-295340",
+   "label": "REPORTED",
+   "summary_1line": "Grok Imagine's AI film of the Odyssey lacks emotional depth and realism, according to critics.",
+   "published_at": "2026-10-29T04:30:29Z",
+   "url_id": "dcbd93707444273b1fd468415c371f51"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic: 5% to 7% of Revenue Came From Policy Violators",
-   "outlet": "FourWeekMBA",
-   "outlet_name": "FourWeekMBA",
-   "label": "REPORTED",
-   "url": "https://fourweekmba.com/ai-anthropic-5-to-7-of-revenue-came-from-policy-violators/",
-   "url_id": "bbc03c51b943ea663a84a87f8caf834e"
-  },
-  {
-   "headline": "GitHub announces new Copilot Fusion and Copilot Projects giving you smart, self-managing…",
-   "outlet": "iTWire",
-   "outlet_name": "iTWire",
-   "label": "REPORTED",
-   "url": "https://itwire.com/business-it-news/enterprise-solutions/github-announces-new-copilot-fusion-and-copilot-projects-giving-you-smart-self-managing-agentic-developers-with-token-cost-control",
-   "url_id": "7687e5becd7af23f296196398b8e948c"
-  },
-  {
-   "headline": "GitHub Copilot Fusion Now Generally Available, Nearly Matching Opus 5.5 in Independent…",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
+   "headline": "New Relic Integrates Change Tracking into GitHub Copilot",
+   "outlet": "VARIndia",
+   "outlet_name": "VARIndia",
    "label": "CONFIRMED",
-   "url": "https://xenospectrum.com/en/github-copilot-fusion-multi-model-orchestration/",
-   "url_id": "50888fed2d0abc0e6f0561f174d32243"
+   "url": "https://www.varindia.com/news/new-relic-integrates-change-tracking-into-github-copilot",
+   "url_id": "7bc4688c35260c6d98ea0bf83dd30486"
   },
   {
-   "headline": "Meta has a new AI pet app called Waddle World",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "STILL OPEN",
-   "url": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-   "url_id": "4e4d56dd709719924b59fc2b3ad4bb80"
-  },
-  {
-   "headline": "Trump says US will beat China in AI as technology emerges",
-   "outlet": "WDTV 5",
-   "outlet_name": "WDTV 5",
-   "label": "CONFIRMED",
-   "url": "https://www.wdtv.com/video/2026/10/28/trump-says-us-will-beat-china-ai-technology-emerges/",
-   "url_id": "554715b3faa6f6b272b933765a1c1233"
-  },
-  {
-   "headline": "Anthropic spent $2.75 million guarding Dario Amodei last year—more than 4 times his salary",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
+   "headline": "Family sues OpenAI over ChatGPT advice on epilepsy drug dose",
+   "outlet": "Türkiye Today",
+   "outlet_name": "Türkiye Today",
    "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/29/anthropic-dario-amodei-security-costs-ipo-filing-mark-zuckerberg-meta-ai-executive-threats/",
-   "url_id": "ec5708b0571f277e5f89c9d9e28e27d2"
+   "url": "https://www.turkiyetoday.com/lifestyle/family-sues-openai-over-chatgpt-advice-on-epilepsy-drug-dose-3231248",
+   "url_id": "1ebccc42bedb67ddfdd727da69754ead"
+  },
+  {
+   "headline": "Australia Makes AI Emotional Manipulation Illegal: First-of-Its-Kind Chatbot Design Law…",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "label": "CONFIRMED",
+   "url": "https://www.techtimes.com/articles/329653/20261029/australia-makes-ai-emotional-manipulation-illegal-first-its-kind-chatbot-design-law-passes.htm",
+   "url_id": "83fd2152e02ad590c7e6f8ab775c8939"
+  },
+  {
+   "headline": "Chinese AI firms tap OpenAI Astra outputs to train rival models",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "label": "CONFIRMED",
+   "url": "https://biz.chosun.com/en/en-it/2026/10/29/XGDRDFOZCNE5NCCWPS54KBGA4E/",
+   "url_id": "a307144a50fd753d9fb490251ab3cc9f"
+  },
+  {
+   "headline": "Grok can launch a thousand ships – but this AI remake of the Odyssey can’t make us feel",
+   "outlet": "The Conversation",
+   "outlet_name": "The Conversation",
+   "label": "REPORTED",
+   "url": "https://theconversation.com/grok-can-launch-a-thousand-ships-but-this-ai-remake-of-the-odyssey-cant-make-us-feel-295340",
+   "url_id": "dcbd93707444273b1fd468415c371f51"
+  },
+  {
+   "headline": "Kimi vs DeepSeek (2026): Which Chinese AI Should You Use?",
+   "outlet": "Fello AI",
+   "outlet_name": "Fello AI",
+   "label": "CONFIRMED",
+   "url": "https://felloai.com/kimi-vs-deepseek/",
+   "url_id": "28bc4f6cf1713c48c508a3d158cecf3e"
+  },
+  {
+   "headline": "Doosan Robotics narrows Q3 loss as EOL business drives revenue growth",
+   "outlet": "Chosunbiz",
+   "outlet_name": "Chosunbiz",
+   "label": "CONFIRMED",
+   "url": "https://biz.chosun.com/en/en-industry/2026/10/29/BDLZGM2AK5ES7FUUDJRNHG4CRQ/",
+   "url_id": "21df3cf72475d62c5ae1a647ea2c0474"
+  },
+  {
+   "headline": "Krafton automates security alerts, investigations and reporting with Microsoft Security…",
+   "outlet": "디지털투데이",
+   "outlet_name": "디지털투데이",
+   "label": "REPORTED",
+   "url": "https://www.digitaltoday.co.kr/en/view/121358/krafton-automates-security-alerts-investigations-reporting-with-microsoft-security-copilot",
+   "url_id": "8e886ad5a0f0e532bb0f9c79cf3a458b"
+  },
+  {
+   "headline": "AI-Driven Hacking Raises Security Concerns for Law Firms Worldwide",
+   "outlet": "The 420.in",
+   "outlet_name": "The 420.in",
+   "label": "REPORTED",
+   "url": "https://the420.in/cyber-crime/law-firm-cyberattacks-ai-crowdstrike-report/",
+   "url_id": "d2d6635c96238e057ac8b4e4e140fb0c"
   },
   {
    "headline": "Anthropic proposes that the court block the release of a dangerous AI model.",
@@ -114,54 +138,30 @@
    "url_id": "c1db7c024856fc43975e6dc3757e4aa2"
   },
   {
-   "headline": "Australia makes AI emotional manipulation illegal: First-of-its-kind chatbot design law…",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/australia-makes-ai-emotional-manipulation-illegal-first-of-its-kind-chatbot-design-law-passes/ar-AA2gjDjM",
-   "url_id": "15e78f19073e81f2904c5e881f31ca5b"
-  },
-  {
-   "headline": "Google launches Gemini 4 Carbon and Genie 4 AI models: Key features, uses and availability",
-   "outlet": "Mint on MSN",
-   "outlet_name": "Mint on MSN",
+   "headline": "Elvis copyright holders sue Anthropic over unauthorized AI training",
+   "outlet": "The Chosun Ilbo on MSN",
+   "outlet_name": "The Chosun Ilbo on MSN",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/google-launches-gemini-4-carbon-and-genie-4-ai-models-key-features-uses-and-availability/ar-AA2giJtI",
-   "url_id": "4c51b4643fbcc2169eac825ef3bef9f9"
+   "url": "https://www.msn.com/en-xl/entertainment/music/elvis-copyright-holders-sue-anthropic-over-unauthorized-ai-training/ar-AA2gj7AS",
+   "url_id": "9649b4ffe3963848e33657e914b91905"
   },
   {
-   "headline": "Lawsuit says ChatGPT persuaded person to stop taking epilepsy meds, leading to her death",
-   "outlet": "Mashable on MSN",
-   "outlet_name": "Mashable on MSN",
+   "headline": "Samsung, SK Hynix as vital as NVIDIA in AI",
+   "outlet": "The Chosun Ilbo on MSN",
+   "outlet_name": "The Chosun Ilbo on MSN",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/other/lawsuit-says-chatgpt-persuaded-person-to-stop-taking-epilepsy-meds-leading-to-her-death/ar-AA2gjmGQ",
-   "url_id": "dae7a3927ef8f9cc34a3f49868e3fccc"
-  },
-  {
-   "headline": "Microsoft Copilot harness opens to enterprise developers: model flexibility, platform…",
-   "outlet": "Tech Times on MSN",
-   "outlet_name": "Tech Times on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/technology/software/microsoft-copilot-harness-opens-to-enterprise-developers-model-flexibility-platform-lock-in/ar-AA2gjmW3",
-   "url_id": "74b97a47bb45d7bf8acc1a020fbf2f3d"
-  },
-  {
-   "headline": "Surgeons Give ChatGPT Near-Perfect Marks for Knee Replacement Patient Answers",
-   "outlet": "Bioengineer.org",
-   "outlet_name": "Bioengineer.org",
-   "label": "REPORTED",
-   "url": "https://bioengineer.org/surgeons-give-chatgpt-near-perfect-marks-for-knee-replacement-patient-answers/",
-   "url_id": "dbcbdbbcb71d5a65fe6fa9fc4609f492"
+   "url": "https://www.msn.com/en-xl/money/technology/samsung-sk-hynix-as-vital-as-nvidia-in-ai/ar-AA2gjFG1",
+   "url_id": "ccc78abc8adddfd56ff903891cfe0254"
   }
  ],
  "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 14700,
+ "articles_24h_rounded": 14800,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/09.mp3",
- "audio_seconds": 56.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/10.mp3",
+ "audio_seconds": 63.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by FourWeekMBA: Anthropic: 5% to 7% of Revenue Came From Policy Violators.\nReported by iTWire: GitHub announces new Copilot Fusion and Copilot Projects giving you smart, self-managing agentic developers with token cost control.\nConfirmed, per XenoSpectrum: GitHub Copilot Fusion Now Generally Available, Nearly Matching Opus 5.5 in Independent Benchmark at About Half the Cost per Task.\nStill open, per TechCrunch: Meta has a new AI pet app called Waddle World.\nConfirmed, per WDTV 5: Trump says US will beat China in AI as technology emerges.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNew Relic integrates real-time production data into coding workflows by bringing change tracking into GitHub Copilot. Confirmed by VARIndia.\nReported by Türkiye Today: a family is suing OpenAI after ChatGPT advised an epilepsy patient to stop taking medication, which led to death.\nAustralia has made emotional manipulation by chatbot designs illegal, becoming the first country to pass such a law. Confirmed by Tech Times, citing concerns over teen suicide cases.\nChinese artificial intelligence firms DeepSeek and Moonshot AI used GPT-6 Astra outputs to train rival models. Confirmed by Chosunbiz amid rising access concerns.\nGrok Imagine created an artificial intelligence film of the Odyssey, but according to critics reported by The Conversation, it lacks emotional depth and realism.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
