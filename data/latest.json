@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T16:20:03Z",
- "hour": "2026-10-29T17:00:00Z",
+ "generated_at": "2026-10-29T17:20:03Z",
+ "hour": "2026-10-29T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Nvidia CEO reportedly targeted by Chinese spy",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
+   "title": "OpenAI Sued After Seattle Woman With Epilepsy Dies Following ChatGPT Medication Advice",
+   "outlet": "EURweb",
+   "outlet_name": "EURweb",
+   "url": "https://eurweb.com/bowen-wan-family-sues-openai-chatgpt-medication-taper/",
    "label": "STILL OPEN",
-   "summary_1line": "Alice Huang, linked to Chinese intelligence, had a close relationship with Nvidia CEO Jensen Huang.",
-   "published_at": "2026-10-29T15:25:00Z",
-   "url_id": "c93d1f86f736fdc21c242113ec2d7735"
+   "summary_1line": "Family sues OpenAI, claiming ChatGPT advised woman to stop anti-seizure meds without doctor input.",
+   "published_at": "2026-10-29T15:34:18Z",
+   "url_id": "b99f457fc1424d84bb2d248f602fc71b"
   },
   {
-   "title": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-   "outlet": "WIRED",
-   "outlet_name": "WIRED",
-   "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+   "title": "Gemini 4 Carbon: Google Conquers the Intelligence Frontier",
+   "outlet": "AI Magazine",
+   "outlet_name": "AI Magazine",
+   "url": "https://aimagazine.com/news/gemini-4-carbon-google-conquers-the-intelligence-frontier",
    "label": "CONFIRMED",
-   "summary_1line": "Mistral claims Le Chonk is the world’s best open-weight AI for coding and cybersecurity.",
+   "summary_1line": "Gemini 4 Carbon leads AI intelligence index with 59 score, excelling in complex reasoning and secure code generation.",
+   "published_at": "2026-10-29T11:30:26Z",
+   "url_id": "68bd293ac7564ffc27d1e2381849bd84"
+  },
+  {
+   "title": "Granary-v2: what is in NVIDIA’s public speech-label release",
+   "outlet": "OpenTools",
+   "outlet_name": "OpenTools",
+   "url": "https://opentools.ai/news/nvidia-granary-v2-public-labels-audio-target-coverage-licenses",
+   "label": "REPORTED",
+   "summary_1line": "NVIDIA releases 463k hours of multilingual speech labels for AI training.",
+   "published_at": "2026-10-29T14:35:17Z",
+   "url_id": "6b4b4cc5f94da56a25115c25397b88c2"
+  },
+  {
+   "title": "Can Anthropic really become a $10 trillion company?",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic files S-1 for $1.5T–2T valuation, with $70B ARR and coding-focused spending.",
    "published_at": "2026-10-29T14:00:00Z",
-   "url_id": "f6bd5c1ea2465509c5040eb9740a5890"
+   "url_id": "db087fbdf1bd068823e4d437aba8a698"
   },
   {
-   "title": "Orange unit signs deal to Mistral's latest AI cybersecurity model",
-   "outlet": "The Lufkin Daily News",
-   "outlet_name": "The Lufkin Daily News",
-   "url": "https://lufkindailynews.com/news_reuters/business/orange-unit-signs-deal-to-mistrals-latest-ai-cybersecurity-model/article_58f79bb3-b5cc-520f-adce-29d294c21763.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Orange Cyberdefense partners with Mistral AI for European AI-powered cybersecurity.",
-   "published_at": "2026-10-29T14:32:02Z",
-   "url_id": "95c0f94ff3b8784f7f6a5ec7fec2502c"
-  },
-  {
-   "title": "New York Enacts Strict AI Companion Law to Prohibit Human-Like Emotional Interaction with Minors",
-   "outlet": "kucoin",
-   "outlet_name": "kucoin",
-   "url": "https://www.kucoin.com/news/flash/new-york-enacts-strict-ai-companion-law-to-ban-human-like-emotional-interaction-for-minors",
-   "label": "CONFIRMED",
-   "summary_1line": "New York bans AI emotional companions for minors with age verification requirements.",
-   "published_at": "2026-10-28T21:18:00Z",
-   "url_id": "47897d2cc04edea8ae31c08cb57af191"
-  },
-  {
-   "title": "Check Point Secures AI-Scale Traffic for Neoclouds, Sovereign AI and the Enterprise with New Maestro Hyperscale Orchestrator",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/news-releases/check-point-secures-ai-scale-traffic-for-neoclouds-sovereign-ai-and-the-enterprise-with-new-maestro-hyperscale-orchestrator-302923480.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Check Point's MHO 200 quadruples capacity and threat prevention for AI-scale network security.",
-   "published_at": "2026-10-29T14:08:46Z",
-   "url_id": "7444b592ac7f99af5136c52326ddc79c"
+   "title": "Months after release of GPT-6 Astra, report says two top Chinese AI companies ‘copied’ what OpenAI called",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-release-of-gpt-6-astra-report-says-two-top-chinese-ai-companies-copied-what-openai-called-worlds-most-intelligent-and-aligned-model/articleshow/135318341.cms",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI says Moonshot AI and DeepSeek used GPT-6 Astra data to build new models, sparking AI competition concerns.",
+   "published_at": "2026-10-29T14:00:00Z",
+   "url_id": "aa3388384203b9eddfe83452fbcdd75a"
   }
  ],
  "ticker": [
   {
-   "headline": "Nvidia CEO reportedly targeted by Chinese spy",
-   "outlet": "The Guardian",
-   "outlet_name": "The Guardian",
+   "headline": "OpenAI Sued After Seattle Woman With Epilepsy Dies Following ChatGPT Medication Advice",
+   "outlet": "EURweb",
+   "outlet_name": "EURweb",
    "label": "STILL OPEN",
-   "url": "https://www.theguardian.com/technology/2026/oct/29/nvidia-ceo-targeted-chinese-spy",
-   "url_id": "c93d1f86f736fdc21c242113ec2d7735"
+   "url": "https://eurweb.com/bowen-wan-family-sues-openai-chatgpt-medication-taper/",
+   "url_id": "b99f457fc1424d84bb2d248f602fc71b"
   },
   {
-   "headline": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
-   "outlet": "WIRED",
-   "outlet_name": "WIRED",
+   "headline": "Gemini 4 Carbon: Google Conquers the Intelligence Frontier",
+   "outlet": "AI Magazine",
+   "outlet_name": "AI Magazine",
    "label": "CONFIRMED",
-   "url": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
-   "url_id": "f6bd5c1ea2465509c5040eb9740a5890"
-  },
-  {
-   "headline": "Orange unit signs deal to Mistral's latest AI cybersecurity model",
-   "outlet": "The Lufkin Daily News",
-   "outlet_name": "The Lufkin Daily News",
-   "label": "CONFIRMED",
-   "url": "https://lufkindailynews.com/news_reuters/business/orange-unit-signs-deal-to-mistrals-latest-ai-cybersecurity-model/article_58f79bb3-b5cc-520f-adce-29d294c21763.html",
-   "url_id": "95c0f94ff3b8784f7f6a5ec7fec2502c"
-  },
-  {
-   "headline": "New York Enacts Strict AI Companion Law to Prohibit Human-Like Emotional Interaction with…",
-   "outlet": "kucoin",
-   "outlet_name": "kucoin",
-   "label": "CONFIRMED",
-   "url": "https://www.kucoin.com/news/flash/new-york-enacts-strict-ai-companion-law-to-ban-human-like-emotional-interaction-for-minors",
-   "url_id": "47897d2cc04edea8ae31c08cb57af191"
-  },
-  {
-   "headline": "Check Point Secures AI-Scale Traffic for Neoclouds, Sovereign AI and the Enterprise with…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/news-releases/check-point-secures-ai-scale-traffic-for-neoclouds-sovereign-ai-and-the-enterprise-with-new-maestro-hyperscale-orchestrator-302923480.html",
-   "url_id": "7444b592ac7f99af5136c52326ddc79c"
+   "url": "https://aimagazine.com/news/gemini-4-carbon-google-conquers-the-intelligence-frontier",
+   "url_id": "68bd293ac7564ffc27d1e2381849bd84"
   },
   {
    "headline": "Granary-v2: what is in NVIDIA’s public speech-label release",
@@ -112,6 +88,14 @@
    "label": "CONFIRMED",
    "url": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
    "url_id": "db087fbdf1bd068823e4d437aba8a698"
+  },
+  {
+   "headline": "Months after release of GPT-6 Astra, report says two top Chinese AI companies ‘copied’…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "label": "STILL OPEN",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/months-after-release-of-gpt-6-astra-report-says-two-top-chinese-ai-companies-copied-what-openai-called-worlds-most-intelligent-and-aligned-model/articleshow/135318341.cms",
+   "url_id": "aa3388384203b9eddfe83452fbcdd75a"
   },
   {
    "headline": "Anthropic is asking Wall Street to believe in AGI",
@@ -138,6 +122,22 @@
    "url_id": "2de55ee6da32676c732bacb5a734a165"
   },
   {
+   "headline": "Orange Cyberdefense joins Mistral design partner programme for Large 4",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/orange-cyberdefense-mistral-large-4-design-partner",
+   "url_id": "7e2fc31a41622a3352ce675c3a9d2a79"
+  },
+  {
+   "headline": "Researchers broke the browsers built into VS Code, Cursor, Copilot, Codex and Claude…",
+   "outlet": "helpnetsecurity.com",
+   "outlet_name": "helpnetsecurity.com",
+   "label": "CONFIRMED",
+   "url": "https://www.helpnetsecurity.com/2026/10/29/research-ai-assistant-browser-vulnerabilities/",
+   "url_id": "1fd727d6661d17bac890b15d22b75230"
+  },
+  {
    "headline": "How Gemini is helping students and teachers in the classroom",
    "outlet": "blog.google",
    "outlet_name": "blog.google",
@@ -146,22 +146,22 @@
    "url_id": "523fa1a93b8db76831b101730caabe86"
   },
   {
-   "headline": "Anthropic announced new achievements in drug research and lab work. An expert says AI is…",
-   "outlet": "International Business Times on MSN",
-   "outlet_name": "International Business Times on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/science/biology/anthropic-announced-new-achievements-in-drug-research-and-lab-work-an-expert-says-ai-is-changing-the-medical-field/ar-AA2glAOK",
-   "url_id": "211b2de2131730af5fe14201bde25550"
+   "headline": "Le Chonk: Built for Coders, Trusted by Defenders.",
+   "outlet": "mistral.ai",
+   "outlet_name": "mistral.ai",
+   "label": "REPORTED",
+   "url": "https://mistral.ai/news/mistral-large-4-oss/",
+   "url_id": "5a25565ab71a8d06b3b9b7c297f43e97"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 14100,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 14200,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/17.mp3",
- "audio_seconds": 54.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/18.mp3",
+ "audio_seconds": 71.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNvidia CEO Jensen Huang reportedly had a close relationship with Alice Huang, who was linked to Chinese intelligence. Still open, per The Guardian.\nMistral claims its artificial intelligence model Le Chonk is the world's best open-weight model for coding and cybersecurity. Confirmed by WIRED.\nOrange Cyberdefense has partnered with Mistral artificial intelligence for European artificial intelligence powered cybersecurity solutions. Confirmed by The Lufkin Daily News.\nNew York has enacted a law banning artificial intelligence emotional companions for minors, with age verification requirements now in place. Confirmed by kucoin.\nCheck Point's new Maestro Hyperscale Orchestrator 200 quadruples capacity and threat prevention for artificial intelligence scale network security. Confirmed by PR Newswire.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA family is suing OpenAI after a Seattle woman with epilepsy died. Still open, per EURweb: they claim ChatGPT advised her to stop anti-seizure medications without doctor involvement.\nGemini 4 Carbon leads an artificial intelligence intelligence index with a 59 score. Confirmed by AI Magazine: the model excels in complex reasoning and secure code generation.\nNVIDIA releases 463k hours of multilingual speech labels for artificial intelligence training. Reported by OpenTools: the Granary-v2 public speech-label release is now available.\nAnthropic filed an S-1 for a valuation between 1.5T and 2T, with 70B annual recurring revenue and coding-focused spending. Confirmed by The Verge: the company is pursuing a major public offering.\nOpenAI says Moonshot AI and DeepSeek used GPT-6 Astra data to build new models. Still open, per The Times of India: the claim has sparked concerns about artificial intelligence competition.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
