@@ -1,101 +1,109 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T15:20:01Z",
- "hour": "2026-10-30T16:00:00Z",
+ "generated_at": "2026-10-30T16:20:01Z",
+ "hour": "2026-10-30T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy Nvidia's next-generation chips",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/30/nvidia-india-ai-chips-computing.html",
-   "label": "CONFIRMED",
-   "summary_1line": "AM Intelligence raises $3B to buy Nvidia Rubin GPUs for 100MW AI setup, aiming for 300MW in 15 months.",
-   "published_at": "2026-10-30T08:19:14Z",
-   "url_id": "cca2549065ba2fd341355e64537f476f"
-  },
-  {
-   "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-   "label": "CONFIRMED",
-   "summary_1line": "DoorDash sees few AI agent orders, with CEO Tony Xu calling the space dynamic and evolving.",
-   "published_at": "2026-10-30T13:54:25Z",
-   "url_id": "6e71e92aae50069aef3ab820c146d660"
-  },
-  {
-   "title": "Trai proposes mandatory AI policies, incident reporting for telcos",
-   "outlet": "Livemint",
-   "outlet_name": "Livemint",
-   "url": "https://www.livemint.com/industry/telecom/trai-proposes-mandatory-ai-policies-incident-reporting-for-telcos-11793363777693.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Trai proposes AI risk policies for telecom operators to ensure safe and responsible AI use.",
-   "published_at": "2026-10-30T13:29:58Z",
-   "url_id": "7df6b2d78c17f5b40148958a21ea484c"
-  },
-  {
-   "title": "Anthropic's IPO Filing Asks Investors to Bet on Miracles",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "url": "https://www.techbuzz.ai/articles/anthropic-s-ipo-filing-asks-investors-to-bet-on-miracles",
+   "title": "Wikipedia chooses the middle ground in New York Times and OpenAI lawsuit",
+   "outlet": "A.V. Club",
+   "outlet_name": "A.V. Club",
+   "url": "https://www.avclub.com/wikipedia-ai-new-york-times-openai",
    "label": "REPORTED",
-   "summary_1line": "Anthropic's IPO filing frames AI investment as a civilizational bet with existential stakes.",
-   "published_at": "2026-10-30T13:31:00Z",
-   "url_id": "27c245cca7bec8e43dec71a7213609f7"
+   "summary_1line": "Wikipedia files amicus brief urging balanced fair use in Times vs OpenAI/Microsoft lawsuit.",
+   "published_at": "2026-10-30T13:52:24Z",
+   "url_id": "bc7d9aa673b7d7aaf0c2586db89a7feb"
   },
   {
-   "title": "Anthropic's $224 Billion Cloud Bill Reveals the Real Winner of the AI Boom",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
-   "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-224-billion-cloud-bill-125000694.html",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic to go public with $2T valuation, spending $224B on Amazon and Google cloud.",
-   "published_at": "2026-10-30T12:50:00Z",
-   "url_id": "7a237211c95e65ff2d02d68a2fcf83d8"
+   "title": "Exclusive: Dark Matter acquires House Numbers’ agentic AI platform",
+   "outlet": "HousingWire",
+   "outlet_name": "HousingWire",
+   "url": "https://www.housingwire.com/articles/exclusive-dark-matter-acquires-house-numbers-agentic-ai-platform/",
+   "label": "CONFIRMED",
+   "summary_1line": "Dark Matter acquires House Numbers to boost AI in mortgage lending.",
+   "published_at": "2026-10-30T14:34:56Z",
+   "url_id": "34855a701c6e2347a02d7353850280ab"
+  },
+  {
+   "title": "Texas sues OpenAI and CEO Sam Altman to bar minors from ChatGPT and vet new models",
+   "outlet": "Martin Cid Magazine",
+   "outlet_name": "Martin Cid Magazine",
+   "url": "https://www.martincid.com/technology-sv/tech-ai/texas-sues-openai-sam-altman-chatgpt-minors/",
+   "label": "STILL OPEN",
+   "summary_1line": "Navigation interface with no news content.",
+   "published_at": "2026-10-30T13:41:13Z",
+   "url_id": "4f65b3b4c80683a4685c16f95cc41ef2"
+  },
+  {
+   "title": "NVIDIA GeForce RTX 5080 24GB May Replace 16GB Card Right After Christmas",
+   "outlet": "HotHardware",
+   "outlet_name": "HotHardware",
+   "url": "https://hothardware.com/news/nvidia-geforce-rtx-5080-24gb-replace-16gb-card-after-christmas",
+   "label": "STILL OPEN",
+   "summary_1line": "Rumors say NVIDIA will launch a 24GB RTX 5080 in China by early 2027.",
+   "published_at": "2026-10-30T10:37:00Z",
+   "url_id": "128b9110c2050c164f0317dcd8e730b4"
+  },
+  {
+   "title": "Anthropic’s IPO filing spends 69,800 words on AI’s risks to investors and says little about the risks to the rest of us",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/30/anthropic-ipo-public-risk-statement-ai-hidden-costs/",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic details 69,800 words of AI risks, with 103 real-world harms and a proposed public risk statement to address societal costs.",
+   "published_at": "2026-10-30T14:27:58Z",
+   "url_id": "c5851008c6093cfbc83b29cbcbe0de00"
   }
  ],
  "ticker": [
   {
-   "headline": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/30/nvidia-india-ai-chips-computing.html",
-   "url_id": "cca2549065ba2fd341355e64537f476f"
-  },
-  {
-   "headline": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-   "url_id": "6e71e92aae50069aef3ab820c146d660"
-  },
-  {
-   "headline": "Trai proposes mandatory AI policies, incident reporting for telcos",
-   "outlet": "Livemint",
-   "outlet_name": "Livemint",
-   "label": "CONFIRMED",
-   "url": "https://www.livemint.com/industry/telecom/trai-proposes-mandatory-ai-policies-incident-reporting-for-telcos-11793363777693.html",
-   "url_id": "7df6b2d78c17f5b40148958a21ea484c"
-  },
-  {
-   "headline": "Anthropic's IPO Filing Asks Investors to Bet on Miracles",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
+   "headline": "Wikipedia chooses the middle ground in New York Times and OpenAI lawsuit",
+   "outlet": "A.V. Club",
+   "outlet_name": "A.V. Club",
    "label": "REPORTED",
-   "url": "https://www.techbuzz.ai/articles/anthropic-s-ipo-filing-asks-investors-to-bet-on-miracles",
-   "url_id": "27c245cca7bec8e43dec71a7213609f7"
+   "url": "https://www.avclub.com/wikipedia-ai-new-york-times-openai",
+   "url_id": "bc7d9aa673b7d7aaf0c2586db89a7feb"
   },
   {
-   "headline": "Anthropic's $224 Billion Cloud Bill Reveals the Real Winner of the AI Boom",
-   "outlet": "Yahoo Finance",
-   "outlet_name": "Yahoo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.yahoo.com/technology/ai/articles/anthropics-224-billion-cloud-bill-125000694.html",
-   "url_id": "7a237211c95e65ff2d02d68a2fcf83d8"
+   "headline": "Exclusive: Dark Matter acquires House Numbers’ agentic AI platform",
+   "outlet": "HousingWire",
+   "outlet_name": "HousingWire",
+   "label": "CONFIRMED",
+   "url": "https://www.housingwire.com/articles/exclusive-dark-matter-acquires-house-numbers-agentic-ai-platform/",
+   "url_id": "34855a701c6e2347a02d7353850280ab"
+  },
+  {
+   "headline": "Texas sues OpenAI and CEO Sam Altman to bar minors from ChatGPT and vet new models",
+   "outlet": "Martin Cid Magazine",
+   "outlet_name": "Martin Cid Magazine",
+   "label": "STILL OPEN",
+   "url": "https://www.martincid.com/technology-sv/tech-ai/texas-sues-openai-sam-altman-chatgpt-minors/",
+   "url_id": "4f65b3b4c80683a4685c16f95cc41ef2"
+  },
+  {
+   "headline": "NVIDIA GeForce RTX 5080 24GB May Replace 16GB Card Right After Christmas",
+   "outlet": "HotHardware",
+   "outlet_name": "HotHardware",
+   "label": "STILL OPEN",
+   "url": "https://hothardware.com/news/nvidia-geforce-rtx-5080-24gb-replace-16gb-card-after-christmas",
+   "url_id": "128b9110c2050c164f0317dcd8e730b4"
+  },
+  {
+   "headline": "Anthropic’s IPO filing spends 69,800 words on AI’s risks to investors and says little…",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "CONFIRMED",
+   "url": "https://fortune.com/2026/10/30/anthropic-ipo-public-risk-statement-ai-hidden-costs/",
+   "url_id": "c5851008c6093cfbc83b29cbcbe0de00"
+  },
+  {
+   "headline": "Nvidia Takes On Rogue AI Agents With Software And Hardware Guardrails",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "CONFIRMED",
+   "url": "https://tech.yahoo.com/ai/articles/nvidia-takes-rogue-ai-agents-140000543.html",
+   "url_id": "9e57cbee46332bb6888f44b09f60f37e"
   },
   {
    "headline": "Lightmatter's lead ASIC engineer Clifford Chao joins OpenAI as silicon lead",
@@ -106,36 +114,36 @@
    "url_id": "485ab030cfa7cd606a22f697c3aa28d5"
   },
   {
-   "headline": "GitHub bets on multi-agent software development with Copilot overhaul",
-   "outlet": "InfoWorld",
-   "outlet_name": "InfoWorld",
+   "headline": "MP pushes for regulation of AI in healthcare, medical education",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
    "label": "CONFIRMED",
-   "url": "https://www.infoworld.com/article/4242710/github-bets-on-multi-agent-software-development-with-copilot-overhaul.html",
-   "url_id": "5740a42941a4b93a9c5d33a9cd3b9f5b"
+   "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-mp-pushes-for-regulation-of-ai-in-healthcare-medical-education/articleshow/135363546.cms",
+   "url_id": "89a75b150a1e9b165b66ec945ee81a14"
   },
   {
-   "headline": "Report: Nvidia Accelerating RTX 5080 24GB Launch, Could Arrive By December",
-   "outlet": "Digital Foundry",
-   "outlet_name": "Digital Foundry",
-   "label": "REPORTED",
-   "url": "https://www.digitalfoundry.net/news/2026/10/report-nvidia-accelerating-rtx-5080-24gb-launch-could-arrive-by-december",
-   "url_id": "0c24c8201d990b7b32f873209fa7cba5"
-  },
-  {
-   "headline": "London’s Easol secures €26.78 million Series A extension as it launches AI agents for…",
-   "outlet": "eu-startups.com",
-   "outlet_name": "eu-startups.com",
+   "headline": "Google Gemini’s File Generating and Editing Feature May Be Its Most Useful Yet",
+   "outlet": "Technowize",
+   "outlet_name": "Technowize",
    "label": "CONFIRMED",
-   "url": "https://www.eu-startups.com/2026/10/londons-easol-secures-e26-78-million-series-a-extension-as-it-launches-ai-agents-for-experience-businesses/",
-   "url_id": "646902d07e408ace48516db0d19df300"
+   "url": "https://www.technowize.com/google-geminis-file-generating-and-editing-feature-may-be-its-most-useful-yet/",
+   "url_id": "1ea36d6db499f2b0f1dbc11e1d613766"
   },
   {
-   "headline": "Mistral releases latest AI model for download, giving companies more control over their…",
-   "outlet": "Euronews on MSN",
-   "outlet_name": "Euronews on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-au/money/general/mistral-releases-latest-ai-model-for-download-giving-companies-more-control-over-their-cybersecurity/ar-AA2gkREi",
-   "url_id": "eb4e83753b1cc4df968f13d1e3d0aa84"
+   "headline": "Microsoft to end Copilot support on LG, Samsung smart TVs",
+   "outlet": "TheDesk.net",
+   "outlet_name": "TheDesk.net",
+   "label": "CONFIRMED",
+   "url": "https://thedesk.net/2026/10/microsoft-copilot-ending-lg-samsung-smart-tvs/",
+   "url_id": "681b3b35f7a68540742b28f00d1c561a"
+  },
+  {
+   "headline": "KI-Update kompakt: Mistral ML4, Cohere, KI-Empfehlungen, KI klont Indie-Spiele",
+   "outlet": "heise.de",
+   "outlet_name": "heise.de",
+   "label": "CONFIRMED",
+   "url": "https://www.heise.de/news/KI-Update-kompakt-Mistral-ML4-Cohere-KI-Empfehlungen-KI-klont-Indie-Spiele-11506040.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "url_id": "e657ead0686e512193b17a2d5c473731"
   },
   {
    "headline": "Anthropic AI model finds Linux kernel bug that leads to remote root access",
@@ -144,24 +152,16 @@
    "label": "CONFIRMED",
    "url": "https://www.csoonline.com/article/4242724/anthropic-ai-model-finds-linux-kernel-bug-that-leads-to-remote-root-access.html",
    "url_id": "3c6a12c8de37d1033a34fa0e482e5b8c"
-  },
-  {
-   "headline": "I regret paying for these 10 apps, Android and Gemini replaced them for free",
-   "outlet": "androidpolice.com",
-   "outlet_name": "androidpolice.com",
-   "label": "CONFIRMED",
-   "url": "https://www.androidpolice.com/i-regret-paying-10-apps-android-gemini-replaced-them-for-free/",
-   "url_id": "bc7b85642d4e9baa2790c8cd5d57491f"
   }
  ],
  "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 14900,
+ "articles_24h_rounded": 14800,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/16.mp3",
- "audio_seconds": 48.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/17.mp3",
+ "audio_seconds": 54.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per CNBC: Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy Nvidia's next-generation chips.\nConfirmed, per TechCrunch: DoorDash said it’s only received ‘several hundred’ orders from AI agents.\nConfirmed, per Livemint: Trai proposes mandatory AI policies, incident reporting for telcos.\nReported by The Tech Buzz: Anthropic's IPO Filing Asks Investors to Bet on Miracles.\nReported by Yahoo Finance: Anthropic's $224 Billion Cloud Bill Reveals the Real Winner of the AI Boom.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by A.V. Club: Wikipedia chooses the middle ground in New York Times and OpenAI lawsuit.\nConfirmed, per HousingWire: Exclusive: Dark Matter acquires House Numbers’ agentic AI platform.\nStill open, per Martin Cid Magazine: Texas sues OpenAI and CEO Sam Altman to bar minors from ChatGPT and vet new models.\nStill open, per HotHardware: NVIDIA GeForce RTX 5080 24GB May Replace 16GB Card Right After Christmas.\nConfirmed, per Fortune: Anthropic’s IPO filing spends 69,800 words on AI’s risks to investors and says little about the risks to the rest of us.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
