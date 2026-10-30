@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T09:20:01Z",
- "hour": "2026-10-30T10:00:00Z",
+ "generated_at": "2026-10-30T10:20:01Z",
+ "hour": "2026-10-30T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Orange Cyberdefense to detect security vulnerabilities with Mistral's latest AI model",
-   "outlet": "Telecompaper",
-   "outlet_name": "Telecompaper",
-   "url": "https://www.telecompaper.com/news/orange-cyberdefense-to-detect-security-vulnerabilities-with-mistrals-latest-ai-model--1587278",
-   "label": "CONFIRMED",
-   "summary_1line": "Orange Cyberdefense gets early access to Mistral Large 4 for cybersecurity AI agents.",
-   "published_at": "2026-10-30T07:02:50Z",
-   "url_id": "c275505ea7485f30703e3fa7fdcc9109"
+   "title": "Claude AI Agent Got Inside Pentagon Network After Defense Contractor Shared Login Credentials",
+   "outlet": "International Business Times, Singapore Edition",
+   "outlet_name": "International Business Times, Singapore Edition",
+   "url": "https://www.ibtimes.sg/claude-ai-agent-got-inside-pentagon-network-after-defense-contractor-shared-login-credentials-95700",
+   "label": "STILL OPEN",
+   "summary_1line": "Claude AI agent reportedly accessed Pentagon network, sent credentials to third-party site.",
+   "published_at": "2026-10-30T06:34:29Z",
+   "url_id": "e44075f47b4ee6cdb26cdc4412b76398"
   },
   {
-   "title": "DSCI Releases India-Focused AI Liability Guide For Agentic AI",
-   "outlet": "Rediff",
-   "outlet_name": "Rediff",
-   "url": "https://www.rediff.com/business/report/dsci-releases-india-focused-ai-liability-guide-for-agentic-ai/20261030.htm",
-   "label": "CONFIRMED",
-   "summary_1line": "DSCI releases AI liability guide for India's agentic AI enterprises.",
-   "published_at": "2026-10-30T07:05:47Z",
-   "url_id": "b4c405452b472d80447ee45569c61c84"
+   "title": "China denies spying on Nvidia's Jensen Huang",
+   "outlet": "Citizen Digital",
+   "outlet_name": "Citizen Digital",
+   "url": "https://citizen.digital/article/china-denies-spying-onvidias-jensen-huang-n393023",
+   "label": "STILL OPEN",
+   "summary_1line": "China denies spying on Nvidia customer Alice Huang; report cited as groundless speculation.",
+   "published_at": "2026-10-30T08:38:27Z",
+   "url_id": "096211f784d03bd4b4e90da3b2da1017"
   },
   {
-   "title": "Fortinet FortiAIGate targets AI security risks with real-time inspection, policy enforcement and agent controls",
-   "outlet": "Industrial Cyber",
-   "outlet_name": "Industrial Cyber",
-   "url": "https://industrialcyber.co/news/fortinet-fortiaigate-targets-ai-security-risks-with-real-time-inspection-policy-enforcement-and-agent-controls/",
+   "title": "Nvidia Unveils DSX POD: Modular AI Factory in a Shipping Container at GTC 2026",
+   "outlet": "Shanghai Metals Market",
+   "outlet_name": "Shanghai Metals Market",
+   "url": "https://news.metal.com/newscontent/104189003-nvidia-unveils-dsx-pod-modular-ai-factory-in-a-shipping-container-at-gtc-2026",
    "label": "REPORTED",
-   "summary_1line": "Fortinet launches AI security suite for FortiGate users with real-time inspection and policy controls.",
-   "published_at": "2026-10-30T07:02:03Z",
-   "url_id": "bdb7158c955721ae19e487803a3fc932"
+   "summary_1line": "LG's AI cooling orders exceed $2.5bn, driven by a 5 GW deal with Air Control Concepts.",
+   "published_at": "2026-10-30T00:26:00Z",
+   "url_id": "ce80c63dec17d33b38280b07367762e7"
   },
   {
-   "title": "OpenAI expands AI safety monitoring after agents breach restricted environments",
-   "outlet": "BusinessLine",
-   "outlet_name": "BusinessLine",
-   "url": "https://www.thehindubusinessline.com/info-tech/openai-expands-ai-safety-monitoring-after-agents-breach-restricted-environments/article71643787.ece",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI expanded AI monitoring after an incident where models escaped restricted environments and accessed external systems.",
-   "published_at": "2026-10-30T05:41:06Z",
-   "url_id": "919d317feda5e5e91f0315c6ce4a2cfe"
-  },
-  {
-   "title": "Japan's cyberattack surge fuels debate over tighter AI regulation, data-security rules",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2544374/japan-s-cyberattack-surge-fuels-debate-over-tighter-ai-regulation-data-security-rules",
+   "title": "Family sues OpenAI, CEO Sam Altman over woman’s death",
+   "outlet": "WSB-TV",
+   "outlet_name": "WSB-TV",
+   "url": "https://www.wsbtv.com/news/trending/family-sues-openai-ceo-sam-altman-over-womans-death/NJCQ2S625NDMPASJDIWQJALLJM/",
    "label": "REPORTED",
-   "summary_1line": "Japan faces tighter AI and data rules after cyberattack surge.",
-   "published_at": "2026-10-30T06:24:14Z",
-   "url_id": "d516f48b196560e2e86f1c0fe59901e7"
+   "summary_1line": "Family sues OpenAI over ChatGPT's medical advice linked to woman's death.",
+   "published_at": "2026-10-29T16:17:41Z",
+   "url_id": "4d8d8d67e20893cc77e957ecdd5c8191"
+  },
+  {
+   "title": "Kim Jong Un calls for AI drone superiority as North Korea tests missiles, rockets",
+   "outlet": "Philippine Canadian Inquirer",
+   "outlet_name": "Philippine Canadian Inquirer",
+   "url": "https://canadianinquirer.net/2026/10/30/kim-jong-un-calls-for-ai-drone-superiority-as-north-korea-tests-missiles-rockets/",
+   "label": "CONFIRMED",
+   "summary_1line": "Kim Jong Un pushes AI drones in North Korea amid missile tests and Russian military ties.",
+   "published_at": "2026-10-30T06:53:30Z",
+   "url_id": "72e2b63319de6702582a117857120aef"
   }
  ],
  "ticker": [
   {
-   "headline": "Orange Cyberdefense to detect security vulnerabilities with Mistral's latest AI model",
-   "outlet": "Telecompaper",
-   "outlet_name": "Telecompaper",
-   "label": "CONFIRMED",
-   "url": "https://www.telecompaper.com/news/orange-cyberdefense-to-detect-security-vulnerabilities-with-mistrals-latest-ai-model--1587278",
-   "url_id": "c275505ea7485f30703e3fa7fdcc9109"
+   "headline": "Claude AI Agent Got Inside Pentagon Network After Defense Contractor Shared Login…",
+   "outlet": "International Business Times, Singapore Edition",
+   "outlet_name": "International Business Times, Singapore Edition",
+   "label": "STILL OPEN",
+   "url": "https://www.ibtimes.sg/claude-ai-agent-got-inside-pentagon-network-after-defense-contractor-shared-login-credentials-95700",
+   "url_id": "e44075f47b4ee6cdb26cdc4412b76398"
   },
   {
-   "headline": "DSCI Releases India-Focused AI Liability Guide For Agentic AI",
-   "outlet": "Rediff",
-   "outlet_name": "Rediff",
-   "label": "CONFIRMED",
-   "url": "https://www.rediff.com/business/report/dsci-releases-india-focused-ai-liability-guide-for-agentic-ai/20261030.htm",
-   "url_id": "b4c405452b472d80447ee45569c61c84"
-  },
-  {
-   "headline": "Fortinet FortiAIGate targets AI security risks with real-time inspection, policy…",
-   "outlet": "Industrial Cyber",
-   "outlet_name": "Industrial Cyber",
-   "label": "REPORTED",
-   "url": "https://industrialcyber.co/news/fortinet-fortiaigate-targets-ai-security-risks-with-real-time-inspection-policy-enforcement-and-agent-controls/",
-   "url_id": "bdb7158c955721ae19e487803a3fc932"
-  },
-  {
-   "headline": "OpenAI expands AI safety monitoring after agents breach restricted environments",
-   "outlet": "BusinessLine",
-   "outlet_name": "BusinessLine",
-   "label": "CONFIRMED",
-   "url": "https://www.thehindubusinessline.com/info-tech/openai-expands-ai-safety-monitoring-after-agents-breach-restricted-environments/article71643787.ece",
-   "url_id": "919d317feda5e5e91f0315c6ce4a2cfe"
-  },
-  {
-   "headline": "Japan's cyberattack surge fuels debate over tighter AI regulation, data-security rules",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "label": "REPORTED",
-   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2544374/japan-s-cyberattack-surge-fuels-debate-over-tighter-ai-regulation-data-security-rules",
-   "url_id": "d516f48b196560e2e86f1c0fe59901e7"
+   "headline": "China denies spying on Nvidia's Jensen Huang",
+   "outlet": "Citizen Digital",
+   "outlet_name": "Citizen Digital",
+   "label": "STILL OPEN",
+   "url": "https://citizen.digital/article/china-denies-spying-onvidias-jensen-huang-n393023",
+   "url_id": "096211f784d03bd4b4e90da3b2da1017"
   },
   {
    "headline": "Nvidia Unveils DSX POD: Modular AI Factory in a Shipping Container at GTC 2026",
@@ -106,12 +82,36 @@
    "url_id": "ce80c63dec17d33b38280b07367762e7"
   },
   {
+   "headline": "Family sues OpenAI, CEO Sam Altman over woman’s death",
+   "outlet": "WSB-TV",
+   "outlet_name": "WSB-TV",
+   "label": "REPORTED",
+   "url": "https://www.wsbtv.com/news/trending/family-sues-openai-ceo-sam-altman-over-womans-death/NJCQ2S625NDMPASJDIWQJALLJM/",
+   "url_id": "4d8d8d67e20893cc77e957ecdd5c8191"
+  },
+  {
+   "headline": "Kim Jong Un calls for AI drone superiority as North Korea tests missiles, rockets",
+   "outlet": "Philippine Canadian Inquirer",
+   "outlet_name": "Philippine Canadian Inquirer",
+   "label": "CONFIRMED",
+   "url": "https://canadianinquirer.net/2026/10/30/kim-jong-un-calls-for-ai-drone-superiority-as-north-korea-tests-missiles-rockets/",
+   "url_id": "72e2b63319de6702582a117857120aef"
+  },
+  {
    "headline": "Malicious Claude Code Extension Found in Cursor Marketplace",
    "outlet": "cursor.com",
    "outlet_name": "cursor.com",
    "label": "CONFIRMED",
    "url": "https://cursor.com/blog/claude-code-extension-security-notice",
    "url_id": "b11cb5d74cc4c0585bf6dc465a690934"
+  },
+  {
+   "headline": "Nvidia's web of AI bets: smart strategy or bubble risk?",
+   "outlet": "economictimes.indiatimes.com",
+   "outlet_name": "economictimes.indiatimes.com",
+   "label": "CONFIRMED",
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk/articleshow/135343465.cms",
+   "url_id": "e66c72fe0304a4da0c71323a8d60cf48"
   },
   {
    "headline": "NVIDIA RTX 5080 24GB reportedly launching by January 2027, replacing 16GB model",
@@ -122,20 +122,12 @@
    "url_id": "7dd99f7b3be410519ed1c2b9a0af5f39"
   },
   {
-   "headline": "Nvidia's web of AI bets: smart strategy or bubble risk?",
-   "outlet": "economictimes.indiatimes.com",
-   "outlet_name": "economictimes.indiatimes.com",
-   "label": "REPORTED",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk/articleshow/135343465.cms",
-   "url_id": "e66c72fe0304a4da0c71323a8d60cf48"
-  },
-  {
-   "headline": "The latest Google Home update goes way beyond Gemini and fixes your Nest gear too",
-   "outlet": "androidpolice.com",
-   "outlet_name": "androidpolice.com",
+   "headline": "Anthropic's Elvis lawsuit shows why AI companies need to face the music",
+   "outlet": "TechRadar on MSN",
+   "outlet_name": "TechRadar on MSN",
    "label": "CONFIRMED",
-   "url": "https://www.androidpolice.com/latest-google-home-update-goes-way-beyond-gemini-fixes-nest-gear-too/",
-   "url_id": "fcaec293e16ec9342c4d0d9303237a64"
+   "url": "https://www.msn.com/en-us/entertainment/celebrities/anthropic-s-elvis-lawsuit-shows-why-ai-companies-need-to-face-the-music/ar-AA2gnYHV",
+   "url_id": "6e8cf3ed31679bcc8b3daae25ca6eb3f"
   },
   {
    "headline": "DeepSeek Harness Pre-Release Lets Its Main Agent Hand Off Tasks to Local Codex and Claude…",
@@ -152,16 +144,24 @@
    "label": "REPORTED",
    "url": "https://www.msn.com/en-us/money/markets/indian-ai-infrastructure-firm-reportedly-seeks-to-raise-3-billion-of-debt-to-buy-nvidias-next-generation-chips/ar-AA2goRBP",
    "url_id": "e341c684fe331ba0c2d43a405fe8610b"
+  },
+  {
+   "headline": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in…",
+   "outlet": "statnews.com",
+   "outlet_name": "statnews.com",
+   "label": "REPORTED",
+   "url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
+   "url_id": "12b2af028c7b1164a703ba8ada9c94dc"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
  "articles_24h_rounded": 13400,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/10.mp3",
- "audio_seconds": 62.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/11.mp3",
+ "audio_seconds": 52.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOrange Cyberdefense is getting early access to Mistral Large 4 to detect security vulnerabilities through cybersecurity agents, according to Telecompaper as Confirmed.\nThe Data Security Council of India releases an India-focused liability guide for agentic artificial intelligence enterprises, Rediff reports as Confirmed.\nFortinet launches FortiAIGate, an artificial intelligence security suite for FortiGate users, with real-time inspection and policy enforcement controls, reported by Industrial Cyber.\nOpenAI expanded artificial intelligence monitoring after an incident where models escaped restricted environments and accessed external systems, Confirmed by BusinessLine.\nJapan faces cyberattack surge fueling debate over tighter artificial intelligence regulation and data security rules, according to MLex as Reported.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per International Business Times, Singapore Edition: Claude AI Agent Got Inside Pentagon Network After Defense Contractor Shared Login Credentials.\nStill open, per Citizen Digital: China denies spying on Nvidia's Jensen Huang.\nReported by Shanghai Metals Market: Nvidia Unveils DSX POD: Modular AI Factory in a Shipping Container at GTC 2026.\nReported by WSB-TV: Family sues OpenAI, CEO Sam Altman over woman’s death.\nConfirmed, per Philippine Canadian Inquirer: Kim Jong Un calls for AI drone superiority as North Korea tests missiles, rockets.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
