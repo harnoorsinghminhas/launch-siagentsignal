@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T03:20:01Z",
- "hour": "2026-10-30T04:00:00Z",
+ "generated_at": "2026-10-30T04:20:01Z",
+ "hour": "2026-10-30T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Mistral Releases Large 4 Weights for Self-Hosted AI",
-   "outlet": "FindArticles",
-   "outlet_name": "FindArticles",
-   "url": "https://www.findarticles.com/mistral-large-4-open-weights-self-hosted-ai/",
+   "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+   "outlet": "BleepingComputer",
+   "outlet_name": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
    "label": "CONFIRMED",
-   "summary_1line": "Mistral releases open-weight Large 4 for on-prem deployment, targeting coding and cybersecurity.",
-   "published_at": "2026-10-30T00:24:21Z",
-   "url_id": "5cf43c147954ef59b84cd9979e9ba484"
+   "summary_1line": "OpenAI doubles usage limits for all Pro tiers, reversing prior plan due to customer feedback.",
+   "published_at": "2026-10-29T23:35:52Z",
+   "url_id": "1043e9024d5af6544e30729c76610b63"
   },
   {
-   "title": "Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI industry's 'fair use' excuses are getting old",
-   "outlet": "TechRadar",
-   "outlet_name": "TechRadar",
-   "url": "https://www.techradar.com/ai-platforms-assistants/anthropic-sued-for-allegedly-using-274-elvis-presley-songs-in-ai-training-and-its-about-time-ai-companies-faced-the-music",
-   "label": "REPORTED",
-   "summary_1line": "Elvis song owners sue Anthropic over alleged use of 274 songs in AI training.",
-   "published_at": "2026-10-30T01:00:00Z",
-   "url_id": "37e77744bd79715db31ef7597215bc5f"
-  },
-  {
-   "title": "Schneider Electric, NVIDIA & HPE launch industrial AI",
-   "outlet": "ChannelLife New Zealand",
-   "outlet_name": "ChannelLife New Zealand",
-   "url": "https://channellife.co.nz/story/schneider-electric-nvidia-hpe-launch-industrial-ai",
-   "label": "REPORTED",
-   "summary_1line": "Schneider Electric, NVIDIA and HPE launch edge AI agents for industrial operations.",
-   "published_at": "2026-10-29T21:38:00Z",
-   "url_id": "7800b4ede95251355b221e8cb294564e"
-  },
-  {
-   "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+   "title": "Serval Raises $150M to Expand Enterprise AI Automation",
+   "outlet": "Ventureburn",
+   "outlet_name": "Ventureburn",
+   "url": "https://ventureburn.com/serval-raises-150m-enterprise-ai-automation/",
    "label": "CONFIRMED",
-   "summary_1line": "Microsoft raises $25B in bonds for AI infrastructure, targeting $170B in 2026 spending.",
-   "published_at": "2026-10-30T00:38:13Z",
-   "url_id": "f3032c67e91543ee0bcc8535230356ca"
+   "summary_1line": "Serval raises $150M at $3B valuation for AI automation platform expansion.",
+   "published_at": "2026-10-29T17:01:00Z",
+   "url_id": "b6e5c556db74ec5d6d99de829151886a"
   },
   {
-   "title": "Pentagon AI Security Breach: Accenture Employee Connected Personal Claude Agent, Sensitive Data Flowed Out for Two Months Before Detection",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/175009c4-92fb-476d-bd86-25b3c7a9bc67",
+   "title": "Hyundai to Launch Saemangeum AI Data Center Units Next Month",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/finance/2026/10/30/hyundai-to-launch-saemangeum-ai-data-center-units-next-month",
+   "label": "CONFIRMED",
+   "summary_1line": "Hyundai launches AI data center at Saemangeum with $6.3B investment and autonomous driving focus.",
+   "published_at": "2026-10-30T01:31:05Z",
+   "url_id": "a72d7ab96e2c1f55f54f8bcbdeb1bd80"
+  },
+  {
+   "title": "Microsoft’s Anthropic Brief Is About More Than AI — It’s About Democracy",
+   "outlet": "NYU Stern Center for Business & Human Rights",
+   "outlet_name": "NYU Stern Center for Business & Human Rights",
+   "url": "https://bhr.stern.nyu.edu/microsofts-anthropic-brief-is-about-more-than-ai-its-about-democracy/",
    "label": "REPORTED",
-   "summary_1line": "Accenture employee linked personal Claude to DoD system, exposing sensitive data for two months.",
-   "published_at": "2026-10-30T00:26:00Z",
-   "url_id": "79b416013117a72021699e554869e295"
+   "summary_1line": "Microsoft's Anthropic brief extends beyond AI to address democracy.",
+   "published_at": "2026-10-30T02:26:58Z",
+   "url_id": "ccbbcd7324f7390ea816fc5189bb4664"
+  },
+  {
+   "title": "New York signs law to protect children from AI chatbots",
+   "outlet": "Dimsum Daily",
+   "outlet_name": "Dimsum Daily",
+   "url": "https://www.dimsumdaily.hk/new-york-signs-law-to-protect-children-from-ai-chatbots/",
+   "label": "REPORTED",
+   "summary_1line": "New York bans AI chatbot features harmful to minors, with $25k penalties and public complaint portal.",
+   "published_at": "2026-10-30T02:16:46Z",
+   "url_id": "4b23074ad264255abcb68c3d49d5e289"
   }
  ],
  "ticker": [
   {
-   "headline": "Mistral Releases Large 4 Weights for Self-Hosted AI",
-   "outlet": "FindArticles",
-   "outlet_name": "FindArticles",
+   "headline": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+   "outlet": "BleepingComputer",
+   "outlet_name": "BleepingComputer",
    "label": "CONFIRMED",
-   "url": "https://www.findarticles.com/mistral-large-4-open-weights-self-hosted-ai/",
-   "url_id": "5cf43c147954ef59b84cd9979e9ba484"
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+   "url_id": "1043e9024d5af6544e30729c76610b63"
   },
   {
-   "headline": "Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI…",
-   "outlet": "TechRadar",
-   "outlet_name": "TechRadar",
-   "label": "REPORTED",
-   "url": "https://www.techradar.com/ai-platforms-assistants/anthropic-sued-for-allegedly-using-274-elvis-presley-songs-in-ai-training-and-its-about-time-ai-companies-faced-the-music",
-   "url_id": "37e77744bd79715db31ef7597215bc5f"
-  },
-  {
-   "headline": "Schneider Electric, NVIDIA & HPE launch industrial AI",
-   "outlet": "ChannelLife New Zealand",
-   "outlet_name": "ChannelLife New Zealand",
-   "label": "REPORTED",
-   "url": "https://channellife.co.nz/story/schneider-electric-nvidia-hpe-launch-industrial-ai",
-   "url_id": "7800b4ede95251355b221e8cb294564e"
-  },
-  {
-   "headline": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
+   "headline": "Serval Raises $150M to Expand Enterprise AI Automation",
+   "outlet": "Ventureburn",
+   "outlet_name": "Ventureburn",
    "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
-   "url_id": "f3032c67e91543ee0bcc8535230356ca"
-  },
-  {
-   "headline": "Pentagon AI Security Breach: Accenture Employee Connected Personal Claude Agent…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/175009c4-92fb-476d-bd86-25b3c7a9bc67",
-   "url_id": "79b416013117a72021699e554869e295"
+   "url": "https://ventureburn.com/serval-raises-150m-enterprise-ai-automation/",
+   "url_id": "b6e5c556db74ec5d6d99de829151886a"
   },
   {
    "headline": "Hyundai to Launch Saemangeum AI Data Center Units Next Month",
@@ -122,6 +98,14 @@
    "url_id": "4b23074ad264255abcb68c3d49d5e289"
   },
   {
+   "headline": "Mistral Large 4 vs DeepSeek V4 Pro: Two Open Flagships, and a Price Gap That Is Not the…",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "label": "REPORTED",
+   "url": "https://www.orcarouter.ai/blog/mistral-large-4-vs-deepseek-v4-pro",
+   "url_id": "99eac646c612a3027b27d06e549abc22"
+  },
+  {
    "headline": "Mistral Large 4 Pricing: $1.36 In, $4.18 Out, and a Half-Price Promotion With No End Date",
    "outlet": "OrcaRouter",
    "outlet_name": "OrcaRouter",
@@ -138,12 +122,20 @@
    "url_id": "1dcb2053a5b511c14d86f22a42e9c76e"
   },
   {
-   "headline": "Alphabet Loses $500 Billion in Market Value as AI Threatens Google Search",
-   "outlet": "pymnts.com",
-   "outlet_name": "pymnts.com",
-   "label": "CONFIRMED",
-   "url": "https://www.pymnts.com/news/artificial-intelligence/2026/alphabet-loses-500-billion-in-market-value-as-ai-threatens-google-search/",
-   "url_id": "6a9fa57e1fe395b2d1b837777b3f8f83"
+   "headline": "Cerebras Bets on Wafer-Sized AI Chips to Challenge Nvidia",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "label": "REPORTED",
+   "url": "https://en.sedaily.com/finance/2026/10/30/cerebras-bets-on-wafer-sized-ai-chips-to-challenge-nvidia",
+   "url_id": "791eb4410edad4bcd3fbb52cfddbd42e"
+  },
+  {
+   "headline": "Sources: Indian AI infrastructure company AM Intelligence seeks to raise as much as $3B…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "label": "REPORTED",
+   "url": "https://www.techmeme.com/261029/p69#a261029p69",
+   "url_id": "3c1c5739a8044e75e70c2777f44fcbfc"
   },
   {
    "headline": "ChatGPT Can Predict Environmental Research Trends, but Mostly by Repeating Them",
@@ -152,16 +144,24 @@
    "label": "REPORTED",
    "url": "https://bioengineer.org/chatgpt-can-predict-environmental-research-trends-but-mostly-by-repeating-them/",
    "url_id": "9b1ef9fae3520a5fca5db43e1dc837d0"
+  },
+  {
+   "headline": "Months after release of GPT-6 Astra, report says two top Chinese AI companies copied what…",
+   "outlet": "The Times of India on MSN",
+   "outlet_name": "The Times of India on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-in/news/other/months-after-release-of-gpt-6-astra-report-says-two-top-chinese-ai-companies-copied-what-openai-called-world-s-most-intelligent-and-aligned-model/ar-AA2gmoMm?ocid=BingNewsVerp",
+   "url_id": "8a289119d10356501534db471d5bfcc6"
   }
  ],
- "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 13700,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/04.mp3",
- "audio_seconds": 50.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/05.mp3",
+ "audio_seconds": 45.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per FindArticles: Mistral Releases Large 4 Weights for Self-Hosted AI.\nReported by TechRadar: Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI industry's 'fair use' excuses are getting old.\nReported by ChannelLife New Zealand: Schneider Electric, NVIDIA & HPE launch industrial AI.\nConfirmed, per CNBC: Microsoft plans to raise $25 billion in debt as it pursues AI buildout.\nReported by BigGo Finance: Pentagon AI Security Breach: Accenture Employee Connected Personal Claude Agent, Sensitive Data Flowed Out for Two Months Before Detection.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per BleepingComputer: OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut.\nConfirmed, per Ventureburn: Serval Raises $150M to Expand Enterprise AI Automation.\nConfirmed, per Seoul Economic Daily: Hyundai to Launch Saemangeum AI Data Center Units Next Month.\nReported by NYU Stern Center for Business & Human Rights: Microsoft’s Anthropic Brief Is About More Than AI — It’s About Democracy.\nReported by Dimsum Daily: New York signs law to protect children from AI chatbots.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
