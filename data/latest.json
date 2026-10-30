@@ -1,102 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T05:20:01Z",
- "hour": "2026-10-30T06:00:00Z",
+ "generated_at": "2026-10-30T06:20:01Z",
+ "hour": "2026-10-30T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "New Relic Change Tracking Brings Headless Intelligent Observability Directly into GitHub Copilot, Empowering Developers to Ship Code with Confidence",
-   "outlet": "CXO Digitalpulse",
-   "outlet_name": "CXO Digitalpulse",
-   "url": "https://www.cxodigitalpulse.com/new-relic-change-tracking-brings-headless-intelligent-observability-directly-into-github-copilot-empowering-developers-to-ship-code-with-confidence/",
+   "title": "OpenAI tightens AI safety, says it could've detected Hugging Face breach 30 hrs earlier | System would've flagged Sept breach in 15 mins",
+   "outlet": "Inshorts",
+   "outlet_name": "Inshorts",
+   "url": "https://inshorts.com/en/news/openai-tightens-ai-safety--says-it-could-ve-detected-hugging-face-breach-30-hrs-earlier-1793332954854",
    "label": "REPORTED",
-   "summary_1line": "New Relic integrates AI tools with GitHub for real-time production telemetry in development workflows.",
-   "published_at": "2026-10-30T04:32:08Z",
-   "url_id": "14d278b14e47a42800329f94dc4b3bc5"
+   "summary_1line": "OpenAI's new safety system could have detected Hugging Face breach 30 hours earlier.",
+   "published_at": "2026-10-30T04:05:17Z",
+   "url_id": "3e2d011b1a14f04a618c1d0571ef5693"
   },
   {
-   "title": "Mistral Large 4 Open Weights Released: Better Coding Efficiency, but Gaps With Chinese Rivals Remain",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
-   "url": "https://xenospectrum.com/en/mistral-large-four-open-weights/",
+   "title": "Mistral Large 4 vs Claude Fable 5.1: 17 Points, 12x Price",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "url": "https://www.orcarouter.ai/blog/mistral-large-4-vs-claude-fable-5-1",
    "label": "REPORTED",
-   "summary_1line": "Mistral AI releases Mistral Large 4 with 41% Terminal-Bench 4.0 score and 30% fewer output tokens.",
-   "published_at": "2026-10-30T04:27:57Z",
-   "url_id": "bd8d05338f049c0eda5eab6bfd111eb2"
+   "summary_1line": "Mistral Large 4 released with ownership rights, outperforming Claude Fable 5.1 on benchmarks and offering lower token costs.",
+   "published_at": "2026-10-30T03:53:46Z",
+   "url_id": "08f8ebc4839158f7f89f506a96c1bfda"
   },
   {
-   "title": "Anthropic's heavy AI spending could hold the key to its profitability: Ark Invest",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/30/anthropics-heavy-ai-spending-could-hold-the-key-to-its-profitability.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Downing says Anthropic's growth could justify $2T valuation.",
-   "published_at": "2026-10-30T03:09:31Z",
-   "url_id": "cc257d958471ca7a89766fd39c7e37a3"
-  },
-  {
-   "title": "Elizabeth Warren Says Nvidia Board and Jensen Huang 'Owe Congress Answers’ Over Reported Spy Ties— Wants AI Technology Kept 'Out of China's Hands'",
-   "outlet": "AOL",
-   "outlet_name": "AOL",
-   "url": "https://www.aol.com/articles/elizabeth-warren-says-nvidia-board-035437000.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Warren demands answers from Nvidia over Chinese spy ties, urging AI restrictions.",
-   "published_at": "2026-10-29T20:54:00Z",
-   "url_id": "d63b99e05df178268a147f0de31e4f71"
-  },
-  {
-   "title": "Honeywell launches Forge Plant Cognition with Dangote, built with NVIDIA AI and Dell capabilities",
-   "outlet": "DATAQUEST",
-   "outlet_name": "DATAQUEST",
-   "url": "https://www.dqindia.com/semiconductors/honeywell-launches-forge-plant-cognition-with-dangote-built-with-nvidia-ai-and-dell-capabilities-12757263",
+   "title": "With Gemini 4 Carbon, Google Touts Big Leap in Cybersecurity Capabilities",
+   "outlet": "PCMag Middle East",
+   "outlet_name": "PCMag Middle East",
+   "url": "https://me.pcmag.com/en/ai/38481/with-gemini-4-carbon-google-touts-big-leap-in-cybersecurity-capabilities",
    "label": "REPORTED",
-   "summary_1line": "Honeywell's AI platform boosts refinery value and operations at Dangote's Lekki refinery.",
-   "published_at": "2026-10-29T20:00:00Z",
-   "url_id": "cc45d5d30e42666489634ab94efd2d4e"
+   "summary_1line": "Google's Gemini 4 Carbon outperforms rivals in cybersecurity with 0% prompt injection success.",
+   "published_at": "2026-10-30T03:49:44Z",
+   "url_id": "e1071fe50524a9fc1bb13388cf02e423"
+  },
+  {
+   "title": "Mistral Large 4 Day-0 RL: AIME 64% to 75% in 75 Steps",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "url": "https://www.orcarouter.ai/blog/mistral-large-4-day-zero-rl-recipe",
+   "label": "REPORTED",
+   "summary_1line": "SkyRL boosts Mistral Large 4's AIME score 11 points on 8 GB200 nodes via LoRA RL.",
+   "published_at": "2026-10-30T03:48:21Z",
+   "url_id": "94542d455d2ce83da40c05f778480207"
+  },
+  {
+   "title": "Trust3 AI brings enterprise agent security to Claude Code",
+   "outlet": "Cyprus Shipping News",
+   "outlet_name": "Cyprus Shipping News",
+   "url": "https://cyprusshippingnews.com/2026/10/30/trust3-ai-brings-enterprise-agent-security-to-claude-code/",
+   "label": "REPORTED",
+   "summary_1line": "Trust3 AI adds AI agent visibility to Claude Code without software installs.",
+   "published_at": "2026-10-30T03:21:01Z",
+   "url_id": "116e959b56c1e57e952f1e3239e33d9c"
   }
  ],
  "ticker": [
-  {
-   "headline": "New Relic Change Tracking Brings Headless Intelligent Observability Directly into GitHub…",
-   "outlet": "CXO Digitalpulse",
-   "outlet_name": "CXO Digitalpulse",
-   "label": "REPORTED",
-   "url": "https://www.cxodigitalpulse.com/new-relic-change-tracking-brings-headless-intelligent-observability-directly-into-github-copilot-empowering-developers-to-ship-code-with-confidence/",
-   "url_id": "14d278b14e47a42800329f94dc4b3bc5"
-  },
-  {
-   "headline": "Mistral Large 4 Open Weights Released: Better Coding Efficiency, but Gaps With Chinese…",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
-   "label": "REPORTED",
-   "url": "https://xenospectrum.com/en/mistral-large-four-open-weights/",
-   "url_id": "bd8d05338f049c0eda5eab6bfd111eb2"
-  },
-  {
-   "headline": "Anthropic's heavy AI spending could hold the key to its profitability: Ark Invest",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "STILL OPEN",
-   "url": "https://www.cnbc.com/video/2026/10/30/anthropics-heavy-ai-spending-could-hold-the-key-to-its-profitability.html",
-   "url_id": "cc257d958471ca7a89766fd39c7e37a3"
-  },
-  {
-   "headline": "Elizabeth Warren Says Nvidia Board and Jensen Huang 'Owe Congress Answers’ Over Reported…",
-   "outlet": "AOL",
-   "outlet_name": "AOL",
-   "label": "STILL OPEN",
-   "url": "https://www.aol.com/articles/elizabeth-warren-says-nvidia-board-035437000.html",
-   "url_id": "d63b99e05df178268a147f0de31e4f71"
-  },
-  {
-   "headline": "Honeywell launches Forge Plant Cognition with Dangote, built with NVIDIA AI and Dell…",
-   "outlet": "DATAQUEST",
-   "outlet_name": "DATAQUEST",
-   "label": "REPORTED",
-   "url": "https://www.dqindia.com/semiconductors/honeywell-launches-forge-plant-cognition-with-dangote-built-with-nvidia-ai-and-dell-capabilities-12757263",
-   "url_id": "cc45d5d30e42666489634ab94efd2d4e"
-  },
   {
    "headline": "OpenAI tightens AI safety, says it could've detected Hugging Face breach 30 hrs earlier |…",
    "outlet": "Inshorts",
@@ -120,6 +80,46 @@
    "label": "REPORTED",
    "url": "https://me.pcmag.com/en/ai/38481/with-gemini-4-carbon-google-touts-big-leap-in-cybersecurity-capabilities",
    "url_id": "e1071fe50524a9fc1bb13388cf02e423"
+  },
+  {
+   "headline": "Mistral Large 4 Day-0 RL: AIME 64% to 75% in 75 Steps",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "label": "REPORTED",
+   "url": "https://www.orcarouter.ai/blog/mistral-large-4-day-zero-rl-recipe",
+   "url_id": "94542d455d2ce83da40c05f778480207"
+  },
+  {
+   "headline": "Trust3 AI brings enterprise agent security to Claude Code",
+   "outlet": "Cyprus Shipping News",
+   "outlet_name": "Cyprus Shipping News",
+   "label": "REPORTED",
+   "url": "https://cyprusshippingnews.com/2026/10/30/trust3-ai-brings-enterprise-agent-security-to-claude-code/",
+   "url_id": "116e959b56c1e57e952f1e3239e33d9c"
+  },
+  {
+   "headline": "TACTICAAI and NVIDIA collaborate to scale agentic AI capabilities with NVIDIA Nemotron",
+   "outlet": "Cyprus Shipping News",
+   "outlet_name": "Cyprus Shipping News",
+   "label": "REPORTED",
+   "url": "https://cyprusshippingnews.com/2026/10/30/tacticaai-and-nvidia-collaborate-to-scale-agentic-ai-capabilities-with-nvidia-nemotron/",
+   "url_id": "606833a4d2e645e2b989c02a17328f95"
+  },
+  {
+   "headline": "Nvidia’s web of AI bets: Smart strategy or bubble risk?",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
+   "label": "REPORTED",
+   "url": "https://www.straitstimes.com/business/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk",
+   "url_id": "d8962e9dffe0dbd3fce3111843a706d7"
+  },
+  {
+   "headline": "The story of Anthropic in three numbers",
+   "outlet": "ft.com",
+   "outlet_name": "Financial Times",
+   "label": "REPORTED",
+   "url": "https://www.ft.com/content/fe539e51-61d4-49e8-ab1f-65fd19a74b66?syn-25a6b1a6=1",
+   "url_id": "00b70c3deaab736cce5b70a52029e968"
   },
   {
    "headline": "Nvidia dominates AI robot chips with 69% market share",
@@ -154,14 +154,14 @@
    "url_id": "1f4578b92b414783a1e57b3ab7f8a9cf"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 13500,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/06.mp3",
- "audio_seconds": 74.6,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/07.mp3",
+ "audio_seconds": 61.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nNew Relic integrates AI tools with GitHub for real-time production telemetry. Reported by CXO Digitalpulse: this brings intelligent observability directly into developer workflows.\nMistral AI releases Mistral Large 4 with 41% Terminal-Bench 4.0 score and 30% fewer output tokens. Reported by XenoSpectrum: the open weights model shows better coding efficiency.\nAnthropic's heavy spending on artificial intelligence could hold the key to profitability, according to analysis. Still open per CNBC: growth could justify the company's valuation.\nElizabeth Warren demands answers from Nvidia over reported spy ties and wants artificial intelligence technology kept out of certain hands. Still open per AOL: the senator is urging restrictions.\nHoneywell launches Forge Plant Cognition with Dangote, built with artificial intelligence and Dell capabilities. Reported by DATAQUEST: the platform boosts refinery operations and value.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI's new safety system could have detected the Hugging Face breach 30 hours earlier, flagging it in 15 minutes, reported by Inshorts.\nMistral Large 4 released with ownership rights, outperforming Claude Fable 5.1 on benchmarks and offering lower token costs, reported by OrcaRouter.\nGoogle's Gemini 4 Carbon outperforms rivals in cybersecurity with 0 percent prompt injection success, reported by PCMag Middle East.\nSkyRL boosts Mistral Large 4's AIME score 11 points on 8 GB200 nodes via LoRA RL, reported by OrcaRouter.\nTrust3 AI adds artificial intelligence agent visibility to Claude Code without software installs, reported by Cyprus Shipping News.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
