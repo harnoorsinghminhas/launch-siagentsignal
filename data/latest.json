@@ -1,133 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T20:20:01Z",
- "hour": "2026-10-30T21:00:00Z",
+ "generated_at": "2026-10-30T21:20:01Z",
+ "hour": "2026-10-30T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
+   "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go deceive people'",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
    "label": "CONFIRMED",
-   "summary_1line": "Tampered Claude Code extension in Cursor marketplace targeted 5,000 users for data theft.",
-   "published_at": "2026-10-30T18:16:10Z",
-   "url_id": "02bc7cd153906f8b12b0b978ad05836f"
+   "summary_1line": "Documentary on Holmes sparks AI-era investor caution amid her prison case and new venture.",
+   "published_at": "2026-10-30T16:03:45Z",
+   "url_id": "c5a12919840bed9be204d6f520344f8c"
   },
   {
-   "title": "Mistral Releases 1-Trillion-Parameter AI Model for Cybersecurity",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
-   "url": "https://www.techrepublic.com/article/news-mistral-large-4-ai-cybersecurity-open-weights/",
+   "title": "I read Anthropic's 92-page risk factor document, so you don't have to – video explainer",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer",
    "label": "CONFIRMED",
-   "summary_1line": "Mistral AI releases 1-trillion-parameter model for on-premises security AI use.",
-   "published_at": "2026-10-30T16:20:41Z",
-   "url_id": "7ce118f9dca73b64a992dc64727bdd5a"
+   "summary_1line": "Anthropic's IPO filing includes a 92-page risk document on AI dangers.",
+   "published_at": "2026-10-30T19:57:00Z",
+   "url_id": "8a85edb31a78a0d97bf257820521820f"
   },
   {
-   "title": "OpenAI Just Announced Three Scientific Breakthroughs",
-   "outlet": "Vocal",
-   "outlet_name": "Vocal",
-   "url": "https://vocal.media/futurism/openai-just-announced-three-scientific-breakthroughs",
+   "title": "Cognizant puts 25,000 staff behind OpenAI, days after a Gemini push",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/cognizant-openai-frontier-capability-group-25000",
+   "label": "CONFIRMED",
+   "summary_1line": "Cognizant deploys 25,000 staff to OpenAI tools for clients, cutting content time by 60%.",
+   "published_at": "2026-10-30T19:20:13Z",
+   "url_id": "52ab2a0a5d933d65195752b7ae944e40"
+  },
+  {
+   "title": "Anthropic appears to have ordered AI tool Claude to stop remaking video games",
+   "outlet": "Game Developer",
+   "outlet_name": "Game Developer",
+   "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic updates Claude to block AI game remakes, citing IP concerns.",
+   "published_at": "2026-10-30T18:57:20Z",
+   "url_id": "122c4f0b0bc1c513331293ccfc5514e6"
+  },
+  {
+   "title": "The ethical risks of AI in law: Hallucinations, confidentiality, and client consent",
+   "outlet": "JD Supra",
+   "outlet_name": "JD Supra",
+   "url": "https://www.jdsupra.com/legalnews/the-ethical-risks-of-ai-in-law-4317615/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's AI solved three major scientific problems in 2026, with all proofs formally verified in Lean.",
-   "published_at": "2026-10-30T18:04:28Z",
-   "url_id": "74105d6a12ceac0cca51cb1cb99df3f1"
-  },
-  {
-   "title": "OpenAI Committs To Launch Community Safety Report On Violence Prevention & Other Community Safety Issues",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46G2ZA:0-openai-committs-to-launch-community-safety-report-on-violence-prevention-other-community-safety-issues/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI commits to a community safety report on violence prevention.",
-   "published_at": "2026-10-30T16:23:31Z",
-   "url_id": "bfa12c3f028579e17bbff3f0bd2ba06e"
-  },
-  {
-   "title": "Unvetted foreign workers at AI firms raise national security alarms, advocates warn",
-   "outlet": "930 WFMD Free Talk",
-   "outlet_name": "930 WFMD Free Talk",
-   "url": "https://www.wfmd.com/2026/10/30/unvetted-foreign-workers-at-ai-firms-raise-national-security-alarms-advocates-warn/",
-   "label": "CONFIRMED",
-   "summary_1line": "AI safety and foreign infiltration risks spark national security alarms amid rising incidents and calls for regulation.",
-   "published_at": "2026-10-30T19:29:29Z",
-   "url_id": "f009df3d98fd2e21c7d18f37066ca18d"
+   "summary_1line": "Lawyers face ethical risks using AI after sanctions for hallucinated legal citations in Mata v. Avianca.",
+   "published_at": "2026-10-30T17:40:46Z",
+   "url_id": "4bdff182814951572357d36e8c05b9e4"
   }
  ],
  "ticker": [
   {
-   "headline": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data…",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
+   "headline": "Theranos whistleblower Tyler Shultz warns that the AI boom is 'a great opportunity to go…",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
-   "url_id": "02bc7cd153906f8b12b0b978ad05836f"
+   "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+   "url_id": "c5a12919840bed9be204d6f520344f8c"
   },
   {
-   "headline": "Mistral Releases 1-Trillion-Parameter AI Model for Cybersecurity",
-   "outlet": "TechRepublic",
-   "outlet_name": "TechRepublic",
+   "headline": "I read Anthropic's 92-page risk factor document, so you don't have to – video explainer",
+   "outlet": "The Guardian",
+   "outlet_name": "The Guardian",
    "label": "CONFIRMED",
-   "url": "https://www.techrepublic.com/article/news-mistral-large-4-ai-cybersecurity-open-weights/",
-   "url_id": "7ce118f9dca73b64a992dc64727bdd5a"
+   "url": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer",
+   "url_id": "8a85edb31a78a0d97bf257820521820f"
   },
   {
-   "headline": "OpenAI Just Announced Three Scientific Breakthroughs",
-   "outlet": "Vocal",
-   "outlet_name": "Vocal",
+   "headline": "Cognizant puts 25,000 staff behind OpenAI, days after a Gemini push",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/cognizant-openai-frontier-capability-group-25000",
+   "url_id": "52ab2a0a5d933d65195752b7ae944e40"
+  },
+  {
+   "headline": "Anthropic appears to have ordered AI tool Claude to stop remaking video games",
+   "outlet": "Game Developer",
+   "outlet_name": "Game Developer",
+   "label": "STILL OPEN",
+   "url": "https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games",
+   "url_id": "122c4f0b0bc1c513331293ccfc5514e6"
+  },
+  {
+   "headline": "The ethical risks of AI in law: Hallucinations, confidentiality, and client consent",
+   "outlet": "JD Supra",
+   "outlet_name": "JD Supra",
    "label": "REPORTED",
-   "url": "https://vocal.media/futurism/openai-just-announced-three-scientific-breakthroughs",
-   "url_id": "74105d6a12ceac0cca51cb1cb99df3f1"
+   "url": "https://www.jdsupra.com/legalnews/the-ethical-risks-of-ai-in-law-4317615/",
+   "url_id": "4bdff182814951572357d36e8c05b9e4"
   },
   {
-   "headline": "OpenAI Committs To Launch Community Safety Report On Violence Prevention & Other…",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "Show Your ID to Use ChatGPT? How New York’s New AI Law Ends Online Anonymity",
+   "outlet": "Yahoo",
+   "outlet_name": "Yahoo",
    "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46G2ZA:0-openai-committs-to-launch-community-safety-report-on-violence-prevention-other-community-safety-issues/",
-   "url_id": "bfa12c3f028579e17bbff3f0bd2ba06e"
+   "url": "https://www.yahoo.com/news/politics/articles/show-id-chatgpt-york-ai-184110911.html",
+   "url_id": "0344c2e0e45cbad0ba998f300ad45f8d"
   },
   {
-   "headline": "Unvetted foreign workers at AI firms raise national security alarms, advocates warn",
-   "outlet": "930 WFMD Free Talk",
-   "outlet_name": "930 WFMD Free Talk",
-   "label": "CONFIRMED",
-   "url": "https://www.wfmd.com/2026/10/30/unvetted-foreign-workers-at-ai-firms-raise-national-security-alarms-advocates-warn/",
-   "url_id": "f009df3d98fd2e21c7d18f37066ca18d"
-  },
-  {
-   "headline": "McGraw Hill plans Copilot access to licensed course materials",
-   "outlet": "OpenTools",
-   "outlet_name": "OpenTools",
+   "headline": "AI Law Firm Crosby Makes Play for Collapsing Weil Gotshal",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
    "label": "REPORTED",
-   "url": "https://opentools.ai/news/mcgraw-hill-copilot-licensed-course-materials-limited-beta-2027",
-   "url_id": "37790fbdc1abe1245856528634f6aa51"
+   "url": "https://www.techbuzz.ai/articles/ai-law-firm-crosby-makes-play-for-collapsing-weil-gotshal",
+   "url_id": "bb5c2102804f67d48749491a41158026"
   },
   {
-   "headline": "OpenAI to limit weapons information for teenagers in ChatGPT — Channel NewsAsia",
-   "outlet": "UA.NEWS",
-   "outlet_name": "UA.NEWS",
-   "label": "CONFIRMED",
-   "url": "https://ua.news/en/technologies/openai-obmezhit-dlia-pidlitkiv-informatsiiu-pro-zbroiu-v-chatgpt-channel-newsasia",
-   "url_id": "74197290f07c992ad21dad0f09a1d938"
-  },
-  {
-   "headline": "Google Gemini upgrades are rolling out to all supported Android devices",
-   "outlet": "mashable.com",
-   "outlet_name": "mashable.com",
-   "label": "CONFIRMED",
-   "url": "https://mashable.com/tech/google-gemini-app-upgrade-file-generation",
-   "url_id": "d77e0054be8481665567869d3f1cdda0"
-  },
-  {
-   "headline": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
-   "outlet": "microsoft.com",
-   "outlet_name": "microsoft.com",
-   "label": "CONFIRMED",
-   "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence/",
-   "url_id": "bafa68df361fc999449edec43075c48a"
+   "headline": "Bipartisan U.S. Lawmakers Push To Ban DeepSeek From Government Devices: 5 outlets compared",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
+   "label": "REPORTED",
+   "url": "https://newscord.org/article/bipartisan-us-lawmakers-push-to-ban-deepseek-from-government-devices--Story_20250207_ThenewTikTokLawmaker418065c6",
+   "url_id": "2f328b3870766b2ecad9301c4ca9cfaf"
   },
   {
    "headline": "OpenAI to Honor Shared Robots.txt Signal for AI Training Preferences",
@@ -138,30 +130,38 @@
    "url_id": "a8cf90100be5199a676e9752e68f183d"
   },
   {
-   "headline": "Google Gemini Notebook just gave students free access to hundreds of textbooks",
-   "outlet": "digitaltrends.com",
-   "outlet_name": "digitaltrends.com",
+   "headline": "OpenAI to limit weapons information for teenagers in ChatGPT — Channel NewsAsia",
+   "outlet": "UA.NEWS",
+   "outlet_name": "UA.NEWS",
    "label": "CONFIRMED",
-   "url": "https://www.digitaltrends.com/computing/google-gemini-notebook-hundreds-free-textbooks/",
-   "url_id": "2a9aaeb45d407af8a1f61e91abe68303"
+   "url": "https://ua.news/en/technologies/openai-obmezhit-dlia-pidlitkiv-informatsiiu-pro-zbroiu-v-chatgpt-channel-newsasia",
+   "url_id": "74197290f07c992ad21dad0f09a1d938"
   },
   {
-   "headline": "Evil Qwen and activation steering: why SBOMs aren’t enough",
-   "outlet": "arize.com",
-   "outlet_name": "arize.com",
+   "headline": "5 ways SMBs are using AI agents to manage task overload",
+   "outlet": "nwitimes.com",
+   "outlet_name": "nwitimes.com",
    "label": "CONFIRMED",
-   "url": "https://arize.com/blog/evil-qwen-activation-steering/",
-   "url_id": "9ab5398bda1fbe80b9aab96cbff7daa3"
+   "url": "https://nwitimes.com/news/nation-world/business/article_3eb1cf95-d94f-558b-aa10-3ee0b747e9e9.html",
+   "url_id": "9ee91b9a39c738a5dd8418d2053fee2e"
+  },
+  {
+   "headline": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone",
+   "outlet": "thenewstack.io",
+   "outlet_name": "thenewstack.io",
+   "label": "REPORTED",
+   "url": "https://thenewstack.io/claude-ultra-session-limit/",
+   "url_id": "d24dee3bdf7bcf9481aed100959d3df4"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 14600,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/21.mp3",
- "audio_seconds": 48.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/22.mp3",
+ "audio_seconds": 58.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Decoder: Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft.\nConfirmed, per TechRepublic: Mistral Releases 1-Trillion-Parameter AI Model for Cybersecurity.\nReported by Vocal: OpenAI Just Announced Three Scientific Breakthroughs.\nReported by TradingView: OpenAI Committs To Launch Community Safety Report On Violence Prevention & Other Community Safety Issues.\nConfirmed, per 930 WFMD Free Talk: Unvetted foreign workers at AI firms raise national security alarms, advocates warn.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed by TechCrunch: a Theranos whistleblower warns that the artificial intelligence boom is a great opportunity to go deceive people, as a documentary on Holmes sparks investor caution.\nConfirmed by The Guardian: Anthropic's 92-page risk factor document details artificial intelligence dangers included in their IPO filing.\nConfirmed by The Next Web: Cognizant deploys 25,000 staff to OpenAI tools for clients, cutting content time by 60 percent.\nStill open, per Game Developer: Anthropic appears to have ordered Claude to stop remaking video games, citing intellectual property concerns.\nReported by JD Supra: lawyers face ethical risks using artificial intelligence after sanctions for hallucinated legal citations in Mata v. Avianca.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
