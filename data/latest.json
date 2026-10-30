@@ -1,101 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T12:20:01Z",
- "hour": "2026-10-30T13:00:00Z",
+ "generated_at": "2026-10-30T13:20:02Z",
+ "hour": "2026-10-30T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
-   "outlet": "The Hacker News",
-   "outlet_name": "The Hacker News",
-   "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+   "title": "Berkeley Law professor: Anthropic’s IPO puts AI accountability to the test",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/30/anthropic-ipo-s1-ai-accountability-independent-evaluator/",
    "label": "CONFIRMED",
-   "summary_1line": "Malicious Claude Code extension installs SSH backdoor, affecting 5,000 users.",
-   "published_at": "2026-10-30T08:55:00Z",
-   "url_id": "7bafe843d6243b348c4fd71ed2c086b3"
+   "summary_1line": "Anthropic prioritizes ethics over revenue, investing $1B to build safety and transparency in AI.",
+   "published_at": "2026-10-30T12:00:00Z",
+   "url_id": "c2a91f4a4033af6eb69ce71630ac8dd3"
   },
   {
-   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+   "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
    "label": "CONFIRMED",
-   "summary_1line": "Wikimedia urges balanced AI copyright rules to protect open knowledge and innovation.",
-   "published_at": "2026-10-30T02:00:00Z",
-   "url_id": "c096782638d443ac76bdbc5e974cfdf4"
+   "summary_1line": "Anthropic reports $16.29B revenue, 85% gross margin, and over 200M shares held by founders.",
+   "published_at": "2026-10-30T12:27:36Z",
+   "url_id": "cdc166e9987b4b8391725d0ad1202087"
   },
   {
-   "title": "Anthropic is now SpaceX's biggest customer",
-   "outlet": "semafor.com",
-   "outlet_name": "Semafor",
-   "url": "https://www.semafor.com/article/10/30/2026/anthropic-is-now-spacexs-biggest-customer",
+   "title": "GitHub Launches Copilot Fusion for Smarter AI Programming",
+   "outlet": "RS Web Solutions",
+   "outlet_name": "RS Web Solutions",
+   "url": "https://www.rswebsols.com/news/github-introduces-copilot-fusion-for-more-intelligent-and-cost-effective-ai-programming/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic, a top AI firm, now accounts for a third of SpaceX's sales and half of its revenue from Amazon, Google, and Microsoft.",
-   "published_at": "2026-10-30T10:37:22Z",
-   "url_id": "8e855cd9047e686b02931c5b86b62dc5"
+   "summary_1line": "GitHub's Copilot Fusion autonomously routes coding tasks to optimal AI models across IDEs.",
+   "published_at": "2026-10-30T03:00:00Z",
+   "url_id": "4746aecc292c0bd907c14e470834dcdf"
   },
   {
-   "title": "Beijing rejects spy claims involving Nvidia CEO amid rising US-China tech tensions",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
-   "url": "https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless",
+   "title": "Mistral open-sources AI model despite warning it could aid cyberattacks",
+   "outlet": "CSO Online",
+   "outlet_name": "CSO Online",
+   "url": "https://www.csoonline.com/article/4242648/mistral-releases-large-4-weights-despite-warning-of-cyberattack-uplift.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Mistral releases open-weight AI model with 96.6% malicious prompt refusal, updates to safeguards for API only.",
+   "published_at": "2026-10-30T11:03:45Z",
+   "url_id": "b488b4e9d1997ac4081dc92b60e49d52"
+  },
+  {
+   "title": "Here’s when top Wall Street executives expect OpenAI will launch its blockbuster IPO",
+   "outlet": "New York Post",
+   "outlet_name": "New York Post",
+   "url": "https://nypost.com/2026/10/30/business/heres-when-top-wall-street-executives-expect-openai-will-launch-its-blockbuster-ipo/",
    "label": "STILL OPEN",
-   "summary_1line": "China denies US claim that Chinese spy targeted Nvidia CEO Jensen Huang.",
-   "published_at": "2026-10-30T10:30:07Z",
-   "url_id": "1dd888948ea1e7332941cccb35d46a35"
-  },
-  {
-   "title": "Google AI Overview targeted by French publishers' EU antitrust complaint",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2544409/google-ai-overview-targeted-by-french-publishers-eu-antitrust-complaint",
-   "label": "REPORTED",
-   "summary_1line": "French publishers complain about Google's unilaterally rolled-out AI features in France.",
-   "published_at": "2026-10-30T10:27:16Z",
-   "url_id": "b1684f376c06c449b890a9ce13f782bd"
+   "summary_1line": "Wall Street expects OpenAI's IPO in Q1 2027, despite company denial.",
+   "published_at": "2026-10-30T10:10:59Z",
+   "url_id": "d07725fc91b77b97af61731a2d6a9b6a"
   }
  ],
  "ticker": [
   {
-   "headline": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
-   "outlet": "The Hacker News",
-   "outlet_name": "The Hacker News",
+   "headline": "Berkeley Law professor: Anthropic’s IPO puts AI accountability to the test",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
    "label": "CONFIRMED",
-   "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-   "url_id": "7bafe843d6243b348c4fd71ed2c086b3"
+   "url": "https://fortune.com/2026/10/30/anthropic-ipo-s1-ai-accountability-independent-evaluator/",
+   "url_id": "c2a91f4a4033af6eb69ce71630ac8dd3"
   },
   {
-   "headline": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
-   "outlet": "The Verge",
-   "outlet_name": "The Verge",
+   "headline": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
-   "url_id": "c096782638d443ac76bdbc5e974cfdf4"
+   "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+   "url_id": "cdc166e9987b4b8391725d0ad1202087"
   },
   {
-   "headline": "Anthropic is now SpaceX's biggest customer",
-   "outlet": "semafor.com",
-   "outlet_name": "Semafor",
+   "headline": "GitHub Launches Copilot Fusion for Smarter AI Programming",
+   "outlet": "RS Web Solutions",
+   "outlet_name": "RS Web Solutions",
    "label": "CONFIRMED",
-   "url": "https://www.semafor.com/article/10/30/2026/anthropic-is-now-spacexs-biggest-customer",
-   "url_id": "8e855cd9047e686b02931c5b86b62dc5"
+   "url": "https://www.rswebsols.com/news/github-introduces-copilot-fusion-for-more-intelligent-and-cost-effective-ai-programming/",
+   "url_id": "4746aecc292c0bd907c14e470834dcdf"
   },
   {
-   "headline": "Beijing rejects spy claims involving Nvidia CEO amid rising US-China tech tensions",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
+   "headline": "Mistral open-sources AI model despite warning it could aid cyberattacks",
+   "outlet": "CSO Online",
+   "outlet_name": "CSO Online",
+   "label": "CONFIRMED",
+   "url": "https://www.csoonline.com/article/4242648/mistral-releases-large-4-weights-despite-warning-of-cyberattack-uplift.html",
+   "url_id": "b488b4e9d1997ac4081dc92b60e49d52"
+  },
+  {
+   "headline": "Here’s when top Wall Street executives expect OpenAI will launch its blockbuster IPO",
+   "outlet": "New York Post",
+   "outlet_name": "New York Post",
    "label": "STILL OPEN",
-   "url": "https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless",
-   "url_id": "1dd888948ea1e7332941cccb35d46a35"
+   "url": "https://nypost.com/2026/10/30/business/heres-when-top-wall-street-executives-expect-openai-will-launch-its-blockbuster-ipo/",
+   "url_id": "d07725fc91b77b97af61731a2d6a9b6a"
   },
   {
-   "headline": "Google AI Overview targeted by French publishers' EU antitrust complaint",
-   "outlet": "MLex",
-   "outlet_name": "MLex",
-   "label": "REPORTED",
-   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2544409/google-ai-overview-targeted-by-french-publishers-eu-antitrust-complaint",
-   "url_id": "b1684f376c06c449b890a9ce13f782bd"
+   "headline": "Foxconn chairman says new OpenAI tie-up is in the works, Reuters reports",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/foxconn-openai-new-tie-up-no-ai-bubble",
+   "url_id": "ad08ae420f2b91ff9ca8d08ecd465d83"
+  },
+  {
+   "headline": "Spotify plans to launch AI remix tool in early 2027, FT reports",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "STILL OPEN",
+   "url": "https://thenextweb.com/news/spotify-ai-remix-tool-2027-launch",
+   "url_id": "fc78e6d5d8f190510fc791636dd2e248"
   },
   {
    "headline": "Google Unveils Gemini 4 Carbon With Advanced Cybersecurity Skills — Who Gets Access First?",
@@ -106,44 +122,28 @@
    "url_id": "a96771f942629e136d0b798863e1f10c"
   },
   {
-   "headline": "Mistral open-sources AI model despite warning it could aid cyberattacks",
-   "outlet": "CSO Online",
-   "outlet_name": "CSO Online",
+   "headline": "I regret paying for these 10 apps, Android and Gemini replaced them for free",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
+   "label": "CONFIRMED",
+   "url": "https://www.androidpolice.com/i-regret-paying-10-apps-android-gemini-replaced-them-for-free/",
+   "url_id": "ee978d891be99836427789acfb64edd4"
+  },
+  {
+   "headline": "Mistral releases latest AI model for download, giving companies more control over their…",
+   "outlet": "Euronews on MSN",
+   "outlet_name": "Euronews on MSN",
    "label": "REPORTED",
-   "url": "https://www.csoonline.com/article/4242648/mistral-releases-large-4-weights-despite-warning-of-cyberattack-uplift.html",
-   "url_id": "b488b4e9d1997ac4081dc92b60e49d52"
+   "url": "https://www.msn.com/en-au/money/general/mistral-releases-latest-ai-model-for-download-giving-companies-more-control-over-their-cybersecurity/ar-AA2gkREi",
+   "url_id": "eb4e83753b1cc4df968f13d1e3d0aa84"
   },
   {
-   "headline": "Spotify plans Q1 2027 launch for AI covers and remixes tool, weighing $4–$5 monthly price…",
-   "outlet": "Music Business Worldwide",
-   "outlet_name": "Music Business Worldwide",
-   "label": "STILL OPEN",
-   "url": "https://www.musicbusinessworldwide.com/spotify-plans-q1-2027-launch-for-ai-covers-and-remixes-tool-weighing-4-5-monthly-price-report/",
-   "url_id": "03e3ad2c4cce40a2f11e29859bf563d1"
-  },
-  {
-   "headline": "Wikimedia asks court to rule AI training fair use, but not chatbot copying",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
+   "headline": "Tampered Claude Code Extension: 5,000 Cursor Users [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
    "label": "CONFIRMED",
-   "url": "https://thenextweb.com/news/wikimedia-amicus-brief-openai-new-york-times-fair-use-rag",
-   "url_id": "d9fb7141815b00c14af48ea5c3aa467e"
-  },
-  {
-   "headline": "Mistral AI ouvre les poids de son modèle Large 4",
-   "outlet": "Le Monde Informatique",
-   "outlet_name": "Le Monde Informatique",
-   "label": "CONFIRMED",
-   "url": "https://www.lemondeinformatique.fr/actualites/lire-mistral-ai-ouvre-les-poids-de-son-modele-large-4-100889.html",
-   "url_id": "3193cc715fb547ac33ad7c2a679d0e65"
-  },
-  {
-   "headline": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
-   "outlet": "economictimes.indiatimes.com",
-   "outlet_name": "economictimes.indiatimes.com",
-   "label": "CONFIRMED",
-   "url": "https://economictimes.indiatimes.com/tech/technology/foxconn-working-on-a-new-tie-up-with-openai-says-there-is-no-ai-bubble/articleshow/135352103.cms",
-   "url_id": "c0775ffb4508dab7a9cf25fc7a43cbcf"
+   "url": "https://shattered.io/cursor-tampered-claude-code-extension-5000-users-2026/",
+   "url_id": "46ccab7f4bb189520212d5b9122785a2"
   },
   {
    "headline": "Did Trump Ask AI for Advice on Maduro? Democrats Demand White House Records of Grok…",
@@ -154,14 +154,14 @@
    "url_id": "a48f9c5be53fe523119e71aedfc14404"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 14700,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 14600,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/13.mp3",
- "audio_seconds": 49.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/14.mp3",
+ "audio_seconds": 45.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Hacker News: Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor.\nConfirmed, per The Verge: Wikipedia’s operator says a bad AI copyright ruling could threaten the open web.\nConfirmed, per Semafor: Anthropic is now SpaceX's biggest customer.\nStill open, per South China Morning Post: Beijing rejects spy claims involving Nvidia CEO amid rising US-China tech tensions.\nReported by MLex: Google AI Overview targeted by French publishers' EU antitrust complaint.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Fortune: Berkeley Law professor: Anthropic’s IPO puts AI accountability to the test.\nConfirmed, per CNBC: The big questions remaining after Anthropic’s blockbuster IPO prospectus.\nConfirmed, per RS Web Solutions: GitHub Launches Copilot Fusion for Smarter AI Programming.\nConfirmed, per CSO Online: Mistral open-sources AI model despite warning it could aid cyberattacks.\nStill open, per New York Post: Here’s when top Wall Street executives expect OpenAI will launch its blockbuster IPO.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
