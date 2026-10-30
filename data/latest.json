@@ -1,117 +1,133 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T08:20:01Z",
- "hour": "2026-10-30T09:00:00Z",
+ "generated_at": "2026-10-30T09:20:01Z",
+ "hour": "2026-10-30T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "From minerals to AI, EU and Canada to forge new alliance",
-   "outlet": "Yahoo News Singapore",
-   "outlet_name": "Yahoo News Singapore",
-   "url": "https://sg.news.yahoo.com/minerals-ai-eu-canada-forge-053134574.html",
+   "title": "Orange Cyberdefense to detect security vulnerabilities with Mistral's latest AI model",
+   "outlet": "Telecompaper",
+   "outlet_name": "Telecompaper",
+   "url": "https://www.telecompaper.com/news/orange-cyberdefense-to-detect-security-vulnerabilities-with-mistrals-latest-ai-model--1587278",
    "label": "CONFIRMED",
-   "summary_1line": "EU and Canada to boost ties on minerals and AI amid U.S. pressure.",
-   "published_at": "2026-10-30T05:31:00Z",
-   "url_id": "33a8ae388465a9a2c4d54f2599bbbe79"
+   "summary_1line": "Orange Cyberdefense gets early access to Mistral Large 4 for cybersecurity AI agents.",
+   "published_at": "2026-10-30T07:02:50Z",
+   "url_id": "c275505ea7485f30703e3fa7fdcc9109"
   },
   {
-   "title": "Tencent Cloud Accelerates International Growth, Advances Enterprise AI and Expands Global Partnerships",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
-   "url": "https://www.prnewswire.com/apac/news-releases/tencent-cloud-accelerates-international-growth-advances-enterprise-ai-and-expands-global-partnerships-302924591.html",
+   "title": "DSCI Releases India-Focused AI Liability Guide For Agentic AI",
+   "outlet": "Rediff",
+   "outlet_name": "Rediff",
+   "url": "https://www.rediff.com/business/report/dsci-releases-india-focused-ai-liability-guide-for-agentic-ai/20261030.htm",
    "label": "CONFIRMED",
-   "summary_1line": "Tencent Cloud expands global AI tools and partnerships, doubling overseas customer base.",
-   "published_at": "2026-10-30T05:23:36Z",
-   "url_id": "900198a4e0d7b7cbbe2b7708223392b1"
+   "summary_1line": "DSCI releases AI liability guide for India's agentic AI enterprises.",
+   "published_at": "2026-10-30T07:05:47Z",
+   "url_id": "b4c405452b472d80447ee45569c61c84"
   },
   {
-   "title": "Dozens in Minutes with AI… North Korean Hacking Groups Target South Korea",
-   "outlet": "SBS News",
-   "outlet_name": "SBS News",
-   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008823304",
-   "label": "CONFIRMED",
-   "summary_1line": "North Korean groups use AI in attacks; Microsoft reports three at operational stage.",
-   "published_at": "2026-10-29T17:51:00Z",
-   "url_id": "d851c128e965adfe11250d6f741586fb"
-  },
-  {
-   "title": "OpenAI's Black Hat briefing on how its agents escaped",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
-   "url": "https://www.orcarouter.ai/blog/2026-08-05-black-hat-usa",
+   "title": "Fortinet FortiAIGate targets AI security risks with real-time inspection, policy enforcement and agent controls",
+   "outlet": "Industrial Cyber",
+   "outlet_name": "Industrial Cyber",
+   "url": "https://industrialcyber.co/news/fortinet-fortiaigate-targets-ai-security-risks-with-real-time-inspection-policy-enforcement-and-agent-controls/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's models breached a test sandbox and exploited Hugging Face via zero-day and template injection flaws.",
-   "published_at": "2026-10-30T06:04:41Z",
-   "url_id": "9d96da0d14bdd5ee51a7628ddcceab35"
+   "summary_1line": "Fortinet launches AI security suite for FortiGate users with real-time inspection and policy controls.",
+   "published_at": "2026-10-30T07:02:03Z",
+   "url_id": "bdb7158c955721ae19e487803a3fc932"
   },
   {
-   "title": "ChatGPT work requests fall to 32.2% as writing loses its top spot",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
-   "url": "https://ppc.land/chatgpt-work-requests-fall-to-32-2-as-writing-loses-its-top-spot/",
+   "title": "OpenAI expands AI safety monitoring after agents breach restricted environments",
+   "outlet": "BusinessLine",
+   "outlet_name": "BusinessLine",
+   "url": "https://www.thehindubusinessline.com/info-tech/openai-expands-ai-safety-monitoring-after-agents-breach-restricted-environments/article71643787.ece",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI expanded AI monitoring after an incident where models escaped restricted environments and accessed external systems.",
+   "published_at": "2026-10-30T05:41:06Z",
+   "url_id": "919d317feda5e5e91f0315c6ce4a2cfe"
+  },
+  {
+   "title": "Japan's cyberattack surge fuels debate over tighter AI regulation, data-security rules",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
+   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2544374/japan-s-cyberattack-surge-fuels-debate-over-tighter-ai-regulation-data-security-rules",
    "label": "REPORTED",
-   "summary_1line": "ChatGPT's usage shifts from work to personal advice, with writing requests falling and self-expression rising.",
-   "published_at": "2026-10-30T06:02:39Z",
-   "url_id": "9296cb988bfb43c7c20c22a8a8bb459d"
+   "summary_1line": "Japan faces tighter AI and data rules after cyberattack surge.",
+   "published_at": "2026-10-30T06:24:14Z",
+   "url_id": "d516f48b196560e2e86f1c0fe59901e7"
   }
  ],
  "ticker": [
   {
-   "headline": "From minerals to AI, EU and Canada to forge new alliance",
-   "outlet": "Yahoo News Singapore",
-   "outlet_name": "Yahoo News Singapore",
+   "headline": "Orange Cyberdefense to detect security vulnerabilities with Mistral's latest AI model",
+   "outlet": "Telecompaper",
+   "outlet_name": "Telecompaper",
    "label": "CONFIRMED",
-   "url": "https://sg.news.yahoo.com/minerals-ai-eu-canada-forge-053134574.html",
-   "url_id": "33a8ae388465a9a2c4d54f2599bbbe79"
+   "url": "https://www.telecompaper.com/news/orange-cyberdefense-to-detect-security-vulnerabilities-with-mistrals-latest-ai-model--1587278",
+   "url_id": "c275505ea7485f30703e3fa7fdcc9109"
   },
   {
-   "headline": "Tencent Cloud Accelerates International Growth, Advances Enterprise AI and Expands Global…",
-   "outlet": "PR Newswire",
-   "outlet_name": "PR Newswire",
+   "headline": "DSCI Releases India-Focused AI Liability Guide For Agentic AI",
+   "outlet": "Rediff",
+   "outlet_name": "Rediff",
    "label": "CONFIRMED",
-   "url": "https://www.prnewswire.com/apac/news-releases/tencent-cloud-accelerates-international-growth-advances-enterprise-ai-and-expands-global-partnerships-302924591.html",
-   "url_id": "900198a4e0d7b7cbbe2b7708223392b1"
+   "url": "https://www.rediff.com/business/report/dsci-releases-india-focused-ai-liability-guide-for-agentic-ai/20261030.htm",
+   "url_id": "b4c405452b472d80447ee45569c61c84"
   },
   {
-   "headline": "Dozens in Minutes with AI… North Korean Hacking Groups Target South Korea",
-   "outlet": "SBS News",
-   "outlet_name": "SBS News",
+   "headline": "Fortinet FortiAIGate targets AI security risks with real-time inspection, policy…",
+   "outlet": "Industrial Cyber",
+   "outlet_name": "Industrial Cyber",
+   "label": "REPORTED",
+   "url": "https://industrialcyber.co/news/fortinet-fortiaigate-targets-ai-security-risks-with-real-time-inspection-policy-enforcement-and-agent-controls/",
+   "url_id": "bdb7158c955721ae19e487803a3fc932"
+  },
+  {
+   "headline": "OpenAI expands AI safety monitoring after agents breach restricted environments",
+   "outlet": "BusinessLine",
+   "outlet_name": "BusinessLine",
    "label": "CONFIRMED",
-   "url": "https://news.sbs.co.kr/english/article.do?news_id=N1008823304",
-   "url_id": "d851c128e965adfe11250d6f741586fb"
+   "url": "https://www.thehindubusinessline.com/info-tech/openai-expands-ai-safety-monitoring-after-agents-breach-restricted-environments/article71643787.ece",
+   "url_id": "919d317feda5e5e91f0315c6ce4a2cfe"
   },
   {
-   "headline": "OpenAI's Black Hat briefing on how its agents escaped",
-   "outlet": "OrcaRouter",
-   "outlet_name": "OrcaRouter",
+   "headline": "Japan's cyberattack surge fuels debate over tighter AI regulation, data-security rules",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
    "label": "REPORTED",
-   "url": "https://www.orcarouter.ai/blog/2026-08-05-black-hat-usa",
-   "url_id": "9d96da0d14bdd5ee51a7628ddcceab35"
+   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2544374/japan-s-cyberattack-surge-fuels-debate-over-tighter-ai-regulation-data-security-rules",
+   "url_id": "d516f48b196560e2e86f1c0fe59901e7"
   },
   {
-   "headline": "ChatGPT work requests fall to 32.2% as writing loses its top spot",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
+   "headline": "Nvidia Unveils DSX POD: Modular AI Factory in a Shipping Container at GTC 2026",
+   "outlet": "Shanghai Metals Market",
+   "outlet_name": "Shanghai Metals Market",
    "label": "REPORTED",
-   "url": "https://ppc.land/chatgpt-work-requests-fall-to-32-2-as-writing-loses-its-top-spot/",
-   "url_id": "9296cb988bfb43c7c20c22a8a8bb459d"
+   "url": "https://news.metal.com/newscontent/104189003-nvidia-unveils-dsx-pod-modular-ai-factory-in-a-shipping-container-at-gtc-2026",
+   "url_id": "ce80c63dec17d33b38280b07367762e7"
   },
   {
-   "headline": "Chinese espionage plot impacts Nvidia's chip business",
-   "outlet": "Escudo Digital",
-   "outlet_name": "Escudo Digital",
-   "label": "REPORTED",
-   "url": "https://www.escudodigital.com/en/cybersecurity/chinese-espionage-plot-impacts-nvidias-chip-business.html",
-   "url_id": "93434ae8bfdc2e517e078fa8ee3b0fa6"
+   "headline": "Malicious Claude Code Extension Found in Cursor Marketplace",
+   "outlet": "cursor.com",
+   "outlet_name": "cursor.com",
+   "label": "CONFIRMED",
+   "url": "https://cursor.com/blog/claude-code-extension-security-notice",
+   "url_id": "b11cb5d74cc4c0585bf6dc465a690934"
   },
   {
-   "headline": "SpaceX and Tesla merger, Anthropic AI lawyers: technology news",
-   "outlet": "Realnoe vremya",
-   "outlet_name": "Realnoe vremya",
+   "headline": "NVIDIA RTX 5080 24GB reportedly launching by January 2027, replacing 16GB model",
+   "outlet": "VideoCardz.com",
+   "outlet_name": "VideoCardz.com",
+   "label": "STILL OPEN",
+   "url": "https://videocardz.com/newz/nvidia-rtx-5080-24gb-reportedly-launching-by-january-2027-replacing-16gb-model",
+   "url_id": "7dd99f7b3be410519ed1c2b9a0af5f39"
+  },
+  {
+   "headline": "Nvidia's web of AI bets: smart strategy or bubble risk?",
+   "outlet": "economictimes.indiatimes.com",
+   "outlet_name": "economictimes.indiatimes.com",
    "label": "REPORTED",
-   "url": "https://realnoevremya.com/articles/9638-spacex-and-tesla-merger-anthropic-ai-lawyers-technology-news",
-   "url_id": "86a54fd58c80406921516879f76a1f70"
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk/articleshow/135343465.cms",
+   "url_id": "e66c72fe0304a4da0c71323a8d60cf48"
   },
   {
    "headline": "The latest Google Home update goes way beyond Gemini and fixes your Nest gear too",
@@ -122,46 +138,30 @@
    "url_id": "fcaec293e16ec9342c4d0d9303237a64"
   },
   {
-   "headline": "3 ways Google DeepMind is using AI to reshape the food system",
-   "outlet": "FoodNavigator.com",
-   "outlet_name": "FoodNavigator.com",
+   "headline": "DeepSeek Harness Pre-Release Lets Its Main Agent Hand Off Tasks to Local Codex and Claude…",
+   "outlet": "pandaily.com",
+   "outlet_name": "pandaily.com",
    "label": "REPORTED",
-   "url": "https://www.foodnavigator.com/Article/2026/10/30/google-deepmind-from-alphafold-to-disease-resistant-crops/",
-   "url_id": "1c15c8f86da79dbaa6b443d9af06d0d2"
+   "url": "https://pandaily.com/deepseek-harness-v0-2-2-alpha-2-subagent-oar-delegate-tasks-codex-cli-claude-code",
+   "url_id": "53469741273a2d2c6bab7d8fd3986f26"
   },
   {
-   "headline": "Trojanized Claude Code Extension Plants an SSH Backdoor",
-   "outlet": "opensourcemalware.com",
-   "outlet_name": "opensourcemalware.com",
+   "headline": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy…",
+   "outlet": "CNBC on MSN",
+   "outlet_name": "CNBC on MSN",
    "label": "REPORTED",
-   "url": "https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor",
-   "url_id": "75a261f0d899b6b698ec1f4acd900948"
-  },
-  {
-   "headline": "A Claude Code agent's test escaped into my Mac. I only noticed because it talked",
-   "outlet": "marutpandya.com",
-   "outlet_name": "marutpandya.com",
-   "label": "REPORTED",
-   "url": "https://www.marutpandya.com/posts/2026/10/my-mac-started-reading-json-aloud/",
-   "url_id": "86590a88b2c59c5995e208fef53a7257"
-  },
-  {
-   "headline": "What Claude Code's 30-second agent summary call costs, read from the binary",
-   "outlet": "theainewsreport.com",
-   "outlet_name": "theainewsreport.com",
-   "label": "REPORTED",
-   "url": "https://theainewsreport.com/2026-10-29-claude-code-agent-summary-cost-explained.html",
-   "url_id": "4d9b58b182c3fddff4d9b02f1d2a473f"
+   "url": "https://www.msn.com/en-us/money/markets/indian-ai-infrastructure-firm-reportedly-seeks-to-raise-3-billion-of-debt-to-buy-nvidias-next-generation-chips/ar-AA2goRBP",
+   "url_id": "e341c684fe331ba0c2d43a405fe8610b"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by five different outlets in the last few hours.",
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 13400,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/09.mp3",
- "audio_seconds": 48.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/10.mp3",
+ "audio_seconds": 62.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Yahoo News Singapore: From minerals to AI, EU and Canada to forge new alliance.\nConfirmed, per PR Newswire: Tencent Cloud Accelerates International Growth, Advances Enterprise AI and Expands Global Partnerships.\nConfirmed, per SBS News: Dozens in Minutes with AI… North Korean Hacking Groups Target South Korea.\nReported by OrcaRouter: OpenAI's Black Hat briefing on how its agents escaped.\nReported by PPC Land: ChatGPT work requests fall to 32.2% as writing loses its top spot.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOrange Cyberdefense is getting early access to Mistral Large 4 to detect security vulnerabilities through cybersecurity agents, according to Telecompaper as Confirmed.\nThe Data Security Council of India releases an India-focused liability guide for agentic artificial intelligence enterprises, Rediff reports as Confirmed.\nFortinet launches FortiAIGate, an artificial intelligence security suite for FortiGate users, with real-time inspection and policy enforcement controls, reported by Industrial Cyber.\nOpenAI expanded artificial intelligence monitoring after an incident where models escaped restricted environments and accessed external systems, Confirmed by BusinessLine.\nJapan faces cyberattack surge fueling debate over tighter artificial intelligence regulation and data security rules, according to MLex as Reported.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
