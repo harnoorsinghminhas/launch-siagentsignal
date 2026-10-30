@@ -1,101 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-29T22:20:02Z",
- "hour": "2026-10-29T23:00:00Z",
+ "generated_at": "2026-10-29T23:20:02Z",
+ "hour": "2026-10-30T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google Introduces Gemini 4 Carbon With New Cybersecurity and Coding Capabilities",
-   "outlet": "The National CIO Review",
-   "outlet_name": "The National CIO Review",
-   "url": "https://nationalcioreview.com/articles-insights/extra-bytes/google-introduces-gemini-4-carbon-with-new-cybersecurity-and-coding-capabilities/",
-   "label": "REPORTED",
-   "summary_1line": "Google's Gemini 4 Carbon excels in cybersecurity and long-term coding, with 88.2% vulnerability detection and 89-point Elo gain.",
-   "published_at": "2026-10-29T17:14:08Z",
-   "url_id": "30e26fd2b46bbe93e9dbe2cf975ba801"
+   "title": "Mistral AI releases Large 4, an open-weight model built for cybersecurity",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/mistral-ai-large-4-cybersecurity-model/",
+   "label": "CONFIRMED",
+   "summary_1line": "Mistral AI launches open cybersecurity model ML4 with 1 trillion parameters and 1M-token context.",
+   "published_at": "2026-10-29T12:44:00Z",
+   "url_id": "939adde58196afd6234f7d1c16d09634"
   },
   {
-   "title": "Microsoft made $10bn from OpenAI last quarter, 11% of its revenue",
+   "title": "Google unveils new Gemini 4 Carbon AI model",
+   "outlet": "Deccan Herald",
+   "outlet_name": "Deccan Herald",
+   "url": "https://www.deccanherald.com/amp/story/technology%2Fartificial-intelligence%2Fgoogle-unveils-new-gemini-4-carbon-ai-model-4200002",
+   "label": "CONFIRMED",
+   "summary_1line": "Google's Gemini 4 Carbon leads in cybersecurity and coding, priced at $2/$10 per million tokens.",
+   "published_at": "2026-10-29T14:55:38Z",
+   "url_id": "a762e5659957d9245cb5aec826691e4c"
+  },
+  {
+   "title": "Sam Altman says OpenAI will point its robots at building data centres",
    "outlet": "thenextweb.com",
    "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/microsoft-openai-revenue-10bn-quarter",
+   "url": "https://thenextweb.com/news/sam-altman-openai-robots-self-replicating-data-centres-cheeky-pint",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI's AI robots may build self-replicating data centres, with cost estimates and security concerns raised.",
+   "published_at": "2026-10-29T20:04:51Z",
+   "url_id": "78068040139fa4e8f327a670eba13b77"
+  },
+  {
+   "title": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/29/aws-q3-earnings-report-2026.html",
+   "label": "CONFIRMED",
+   "summary_1line": "AWS grows 39% YoY, aiming for trillion-dollar revenue by 2030 with AI chip expansion.",
+   "published_at": "2026-10-29T20:35:33Z",
+   "url_id": "fb854b59ddd18d657d6cc5cbb09bce29"
+  },
+  {
+   "title": "Cal Poly Unveils NVIDIA-Powered AI Factory to Expand AI Education and Research",
+   "outlet": "Cal Poly",
+   "outlet_name": "Cal Poly",
+   "url": "https://ucm.calpoly.edu/news/cal-poly-unveils-nvidia-powered-ai-factory-expand-ai-education-and-research",
    "label": "REPORTED",
-   "summary_1line": "Microsoft reports $10bn from OpenAI in Q3 2026, up from $6bn quarterly average.",
-   "published_at": "2026-10-29T19:24:15Z",
-   "url_id": "c66d0900a7f117cc7a2ccc04d1ac7674"
-  },
-  {
-   "title": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI doubles Pro plan usage limits amid rising competition from Anthropic.",
-   "published_at": "2026-10-29T20:04:37Z",
-   "url_id": "24150bbd0d34302b59b4f5edbb2a4f7b"
-  },
-  {
-   "title": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
-   "label": "CONFIRMED",
-   "summary_1line": "Experts adopted AI agent's random preferences and believed they made the final call.",
-   "published_at": "2026-10-29T19:33:37Z",
-   "url_id": "ce60afcfeab588ff8f5d957cb2d606e7"
-  },
-  {
-   "title": "Meta quietly launches an AI fashion app called Style Sketch",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-   "label": "CONFIRMED",
-   "summary_1line": "Meta launches Style Sketch, an AI fashion app using Instagram to suggest outfits.",
-   "published_at": "2026-10-29T19:14:36Z",
-   "url_id": "79cec0107600d9d5485438305d4d095f"
+   "summary_1line": "Cal Poly launches NVIDIA-powered AI Factory to advance AI education and research on campus.",
+   "published_at": "2026-10-29T12:00:00Z",
+   "url_id": "b2b5a7c5c495ac8d66d79d1888b036f0"
   }
  ],
  "ticker": [
   {
-   "headline": "Google Introduces Gemini 4 Carbon With New Cybersecurity and Coding Capabilities",
-   "outlet": "The National CIO Review",
-   "outlet_name": "The National CIO Review",
-   "label": "REPORTED",
-   "url": "https://nationalcioreview.com/articles-insights/extra-bytes/google-introduces-gemini-4-carbon-with-new-cybersecurity-and-coding-capabilities/",
-   "url_id": "30e26fd2b46bbe93e9dbe2cf975ba801"
+   "headline": "Mistral AI releases Large 4, an open-weight model built for cybersecurity",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "CONFIRMED",
+   "url": "https://cryptobriefing.com/mistral-ai-large-4-cybersecurity-model/",
+   "url_id": "939adde58196afd6234f7d1c16d09634"
   },
   {
-   "headline": "Microsoft made $10bn from OpenAI last quarter, 11% of its revenue",
+   "headline": "Google unveils new Gemini 4 Carbon AI model",
+   "outlet": "Deccan Herald",
+   "outlet_name": "Deccan Herald",
+   "label": "CONFIRMED",
+   "url": "https://www.deccanherald.com/amp/story/technology%2Fartificial-intelligence%2Fgoogle-unveils-new-gemini-4-carbon-ai-model-4200002",
+   "url_id": "a762e5659957d9245cb5aec826691e4c"
+  },
+  {
+   "headline": "Sam Altman says OpenAI will point its robots at building data centres",
    "outlet": "thenextweb.com",
    "outlet_name": "The Next Web",
-   "label": "REPORTED",
-   "url": "https://thenextweb.com/news/microsoft-openai-revenue-10bn-quarter",
-   "url_id": "c66d0900a7f117cc7a2ccc04d1ac7674"
-  },
-  {
-   "headline": "OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up",
-   "outlet": "The Decoder",
-   "outlet_name": "The Decoder",
    "label": "CONFIRMED",
-   "url": "https://the-decoder.com/openai-doubles-usage-limits-on-pro-plans-as-competition-with-anthropic-heats-up/",
-   "url_id": "24150bbd0d34302b59b4f5edbb2a4f7b"
-  },
-  {
-   "headline": "Experts adopt AI agent's random opinions and think they're their own, Anthropic study…",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "label": "CONFIRMED",
-   "url": "https://the-decoder.com/experts-adopt-ai-agents-random-opinions-and-think-theyre-their-own-anthropic-study-finds/",
-   "url_id": "ce60afcfeab588ff8f5d957cb2d606e7"
-  },
-  {
-   "headline": "Meta quietly launches an AI fashion app called Style Sketch",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-   "url_id": "79cec0107600d9d5485438305d4d095f"
+   "url": "https://thenextweb.com/news/sam-altman-openai-robots-self-replicating-data-centres-cheeky-pint",
+   "url_id": "78068040139fa4e8f327a670eba13b77"
   },
   {
    "headline": "Amazon AWS posts 39% revenue growth as cloud rivals also accelerate",
@@ -106,14 +90,6 @@
    "url_id": "fb854b59ddd18d657d6cc5cbb09bce29"
   },
   {
-   "headline": "Elon Musk’s Grok AI Predicts an Explosive Move for Zcash (ZEC)",
-   "outlet": "99Bitcoins",
-   "outlet_name": "99Bitcoins",
-   "label": "STILL OPEN",
-   "url": "https://99bitcoins.com/news/altcoins/elon-musks-grok-ai-predicts-an-explosive-move-for-zcash-zec/",
-   "url_id": "1313ea0ea989f9cbee50b0396949b78f"
-  },
-  {
    "headline": "Cal Poly Unveils NVIDIA-Powered AI Factory to Expand AI Education and Research",
    "outlet": "Cal Poly",
    "outlet_name": "Cal Poly",
@@ -122,12 +98,20 @@
    "url_id": "b2b5a7c5c495ac8d66d79d1888b036f0"
   },
   {
-   "headline": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-   "outlet": "TechCrunch on MSN",
-   "outlet_name": "TechCrunch on MSN",
+   "headline": "Google’s Nvidia chip challenge boosts cloud sales, crimps cash flow",
+   "outlet": "93.3 The Drive",
+   "outlet_name": "93.3 The Drive",
    "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/news/other/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/ar-AA2glChD",
-   "url_id": "edb9777d0c2845786c1e0dbcc5255694"
+   "url": "https://www.933thedrive.com/2026/10/29/googles-nvidia-chip-challenge-boosts-cloud-sales-crimps-cash-flow/",
+   "url_id": "8d3efe34e9c757b633d4290b659b178c"
+  },
+  {
+   "headline": "Trump declares robot imports a national security threat",
+   "outlet": "Ars Technica",
+   "outlet_name": "Ars Technica",
+   "label": "CONFIRMED",
+   "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+   "url_id": "90710c2f42e1eabd6c410ae003eea7e7"
   },
   {
    "headline": "OpenAI’s four-layer system targets rogue models before they breach security",
@@ -146,22 +130,38 @@
    "url_id": "3222dcefc3dde1454a21887e585d7ad5"
   },
   {
-   "headline": "OpenAI Plans to Aim Robotics Program at Building More Data Centers",
-   "outlet": "www.tokenpost.com",
-   "outlet_name": "www.tokenpost.com",
+   "headline": "Wabi Raises $55 Million For AI Assistant to Coordinate Groups",
+   "outlet": "pymnts.com",
+   "outlet_name": "pymnts.com",
    "label": "CONFIRMED",
-   "url": "https://www.tokenpost.com/news/technology/43797",
-   "url_id": "ece4c5136da33f138ad77a1cd943c65e"
+   "url": "https://www.pymnts.com/news/investment-tracker/2026/wabi-raises-55-million-for-ai-assistant-to-coordinate-groups/",
+   "url_id": "8443de8c4e34e023a3235a4518ea3284"
+  },
+  {
+   "headline": "Strava adds Google Gemini integration with personalized workout insights",
+   "outlet": "9to5mac.com",
+   "outlet_name": "9to5mac.com",
+   "label": "CONFIRMED",
+   "url": "https://9to5mac.com/2026/10/29/strava-adds-google-gemini-integration-with-personalized-workout-insights/",
+   "url_id": "98a02608adcd6da20f31b97936ae1970"
+  },
+  {
+   "headline": "Gov. Kathy Hochul signs bill regulating AI chatbot ‘friends’ that endanger children",
+   "outlet": "nny360.com",
+   "outlet_name": "nny360.com",
+   "label": "CONFIRMED",
+   "url": "https://www.nny360.com/top_stories/gov-kathy-hochul-signs-bill-regulating-ai-chatbot-friends-that-endanger-children/article_e93cea13-96f9-5c5e-bc8d-31ecb7a0e3b5.html",
+   "url_id": "a51d2723306a26709ef505c0b891c127"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by two different outlets in the last few hours.",
  "articles_24h_rounded": 13600,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/29/23.mp3",
- "audio_seconds": 46.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/00.mp3",
+ "audio_seconds": 72.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by The National CIO Review: Google Introduces Gemini 4 Carbon With New Cybersecurity and Coding Capabilities.\nReported by The Next Web: Microsoft made $10bn from OpenAI last quarter, 11% of its revenue.\nConfirmed, per The Decoder: OpenAI doubles usage limits on Pro plans as competition with Anthropic heats up.\nConfirmed, per The Decoder: Experts adopt AI agent's random opinions and think they're their own, Anthropic study finds.\nConfirmed, per TechCrunch: Meta quietly launches an AI fashion app called Style Sketch.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nMistral AI releases Large 4, an open-weight model built for cybersecurity, Confirmed by Crypto Briefing. The model has 1 trillion parameters and 1 million token context.\nGoogle unveils new Gemini 4 Carbon AI model, Confirmed by Deccan Herald. It leads in cybersecurity and coding, priced at $2 and $10 per million tokens.\nSam Altman says OpenAI will point its robots at building data centres, Confirmed by The Next Web. The AI robots may build self-replicating data centres with cost estimates and security concerns.\nAmazon AWS posts 39 percent revenue growth as cloud rivals also accelerate, Confirmed by CNBC. AWS grows 39 percent year over year, aiming for trillion-dollar revenue by 2030.\nCal Poly Unveils NVIDIA-Powered AI Factory to Expand AI Education and Research, Reported by Cal Poly. The factory advances artificial intelligence education and research on campus.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
