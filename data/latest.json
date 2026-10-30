@@ -1,167 +1,167 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T11:20:02Z",
- "hour": "2026-10-30T12:00:00Z",
+ "generated_at": "2026-10-30T12:20:01Z",
+ "hour": "2026-10-30T13:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Wikimedia Foundation warns AI copyright ruling could threaten open web",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/wikimedia-ai-copyright-ruling-open-web/",
+   "title": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
+   "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
    "label": "CONFIRMED",
-   "summary_1line": "Wikimedia urges courts to protect AI training but not chatbot outputs that regurgitate content.",
-   "published_at": "2026-10-30T02:02:00Z",
-   "url_id": "bc504cb6b6096e32cd0db85dbbf73ddd"
+   "summary_1line": "Malicious Claude Code extension installs SSH backdoor, affecting 5,000 users.",
+   "published_at": "2026-10-30T08:55:00Z",
+   "url_id": "7bafe843d6243b348c4fd71ed2c086b3"
   },
   {
-   "title": "😸 Mistral released a 1T-parameter open model",
-   "outlet": "The Neuron",
-   "outlet_name": "The Neuron",
-   "url": "https://www.theneurondaily.com/p/mistral-released-a-1t-parameter-open-model",
-   "label": "REPORTED",
-   "summary_1line": "Mistral releases 1T-parameter open AI model for self-hosting, with cyber variant for vetted partners.",
-   "published_at": "2026-10-30T09:30:57Z",
-   "url_id": "99d33c2ad61ffd013c543d69e4acc1fe"
+   "title": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+   "label": "CONFIRMED",
+   "summary_1line": "Wikimedia urges balanced AI copyright rules to protect open knowledge and innovation.",
+   "published_at": "2026-10-30T02:00:00Z",
+   "url_id": "c096782638d443ac76bdbc5e974cfdf4"
   },
   {
-   "title": "Trump Used Grok on Venezuela; DOJ Then Called Presidential Records Act Unconstitutional",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "url": "https://www.techtimes.com/articles/329743/20261030/trump-used-grok-venezuela-doj-then-called-presidential-records-act-unconstitutional.htm",
-   "label": "REPORTED",
-   "summary_1line": "Trump used Grok to advise on Venezuela; Congress demands AI chatbot logs be preserved.",
-   "published_at": "2026-10-29T22:40:00Z",
-   "url_id": "2f13c0bd4e4f5b519c86024a4dbd82d4"
+   "title": "Anthropic is now SpaceX's biggest customer",
+   "outlet": "semafor.com",
+   "outlet_name": "Semafor",
+   "url": "https://www.semafor.com/article/10/30/2026/anthropic-is-now-spacexs-biggest-customer",
+   "label": "CONFIRMED",
+   "summary_1line": "Anthropic, a top AI firm, now accounts for a third of SpaceX's sales and half of its revenue from Amazon, Google, and Microsoft.",
+   "published_at": "2026-10-30T10:37:22Z",
+   "url_id": "8e855cd9047e686b02931c5b86b62dc5"
   },
   {
-   "title": "Microsoft AI CEO Mustafa Suleyman recalls Google co-founder Larry Page’s sci-fi vision from 2015 lunch at",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-recalls-google-co-founder-larry-pages-sci-fi-vision-from-2015-lunch-at-spacex-canteen-elon-musk-says-he-is-right/articleshow/135330855.cms",
-   "label": "REPORTED",
-   "summary_1line": "In 2015, Larry Page envisioned galaxy exploration by 2100 via von Neumann probes, with Elon Musk endorsing the idea.",
-   "published_at": "2026-10-30T09:12:00Z",
-   "url_id": "a03e21a9c5e9319a751af7d433f44eb8"
+   "title": "Beijing rejects spy claims involving Nvidia CEO amid rising US-China tech tensions",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless",
+   "label": "STILL OPEN",
+   "summary_1line": "China denies US claim that Chinese spy targeted Nvidia CEO Jensen Huang.",
+   "published_at": "2026-10-30T10:30:07Z",
+   "url_id": "1dd888948ea1e7332941cccb35d46a35"
   },
   {
-   "title": "82 % de failles corrigées selon Mistral : Orange Cyberdefense obtient une variante cyber de Large 4",
-   "outlet": "LEPTIDIGITAL",
-   "outlet_name": "LEPTIDIGITAL",
-   "url": "https://www.leptidigital.fr/securite-informatique/partenariat-mistral-orange-cyberdefense-large-4-99110/",
+   "title": "Google AI Overview targeted by French publishers' EU antitrust complaint",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
+   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2544409/google-ai-overview-targeted-by-french-publishers-eu-antitrust-complaint",
    "label": "REPORTED",
-   "summary_1line": "Orange Cyberdefense gains early access to Mistral AI's cybersecurity variant for European clients.",
-   "published_at": "2026-10-30T09:08:40Z",
-   "url_id": "17321b305bd40b570e20c74f1f6e4bf5"
+   "summary_1line": "French publishers complain about Google's unilaterally rolled-out AI features in France.",
+   "published_at": "2026-10-30T10:27:16Z",
+   "url_id": "b1684f376c06c449b890a9ce13f782bd"
   }
  ],
  "ticker": [
   {
-   "headline": "Wikimedia Foundation warns AI copyright ruling could threaten open web",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
+   "headline": "Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
    "label": "CONFIRMED",
-   "url": "https://cryptobriefing.com/wikimedia-ai-copyright-ruling-open-web/",
-   "url_id": "bc504cb6b6096e32cd0db85dbbf73ddd"
+   "url": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+   "url_id": "7bafe843d6243b348c4fd71ed2c086b3"
   },
   {
-   "headline": "😸 Mistral released a 1T-parameter open model",
-   "outlet": "The Neuron",
-   "outlet_name": "The Neuron",
-   "label": "REPORTED",
-   "url": "https://www.theneurondaily.com/p/mistral-released-a-1t-parameter-open-model",
-   "url_id": "99d33c2ad61ffd013c543d69e4acc1fe"
-  },
-  {
-   "headline": "Trump Used Grok on Venezuela; DOJ Then Called Presidential Records Act Unconstitutional",
-   "outlet": "Tech Times",
-   "outlet_name": "Tech Times",
-   "label": "REPORTED",
-   "url": "https://www.techtimes.com/articles/329743/20261030/trump-used-grok-venezuela-doj-then-called-presidential-records-act-unconstitutional.htm",
-   "url_id": "2f13c0bd4e4f5b519c86024a4dbd82d4"
-  },
-  {
-   "headline": "Microsoft AI CEO Mustafa Suleyman recalls Google co-founder Larry Page’s sci-fi vision…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-recalls-google-co-founder-larry-pages-sci-fi-vision-from-2015-lunch-at-spacex-canteen-elon-musk-says-he-is-right/articleshow/135330855.cms",
-   "url_id": "a03e21a9c5e9319a751af7d433f44eb8"
-  },
-  {
-   "headline": "82 % de failles corrigées selon Mistral : Orange Cyberdefense obtient une variante cyber…",
-   "outlet": "LEPTIDIGITAL",
-   "outlet_name": "LEPTIDIGITAL",
-   "label": "REPORTED",
-   "url": "https://www.leptidigital.fr/securite-informatique/partenariat-mistral-orange-cyberdefense-large-4-99110/",
-   "url_id": "17321b305bd40b570e20c74f1f6e4bf5"
-  },
-  {
-   "headline": "Malicious Claude Code Extension Found in Cursor Marketplace",
-   "outlet": "cursor.com",
-   "outlet_name": "cursor.com",
+   "headline": "Wikipedia’s operator says a bad AI copyright ruling could threaten the open web",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
    "label": "CONFIRMED",
-   "url": "https://cursor.com/blog/claude-code-extension-security-notice",
-   "url_id": "b11cb5d74cc4c0585bf6dc465a690934"
+   "url": "https://www.theverge.com/policy/1022880/wikipedia-openai-new-york-times-copyright",
+   "url_id": "c096782638d443ac76bdbc5e974cfdf4"
   },
   {
-   "headline": "NVIDIA RTX 5080 24GB reportedly launching by January 2027, replacing 16GB model",
-   "outlet": "VideoCardz.com",
-   "outlet_name": "VideoCardz.com",
+   "headline": "Anthropic is now SpaceX's biggest customer",
+   "outlet": "semafor.com",
+   "outlet_name": "Semafor",
+   "label": "CONFIRMED",
+   "url": "https://www.semafor.com/article/10/30/2026/anthropic-is-now-spacexs-biggest-customer",
+   "url_id": "8e855cd9047e686b02931c5b86b62dc5"
+  },
+  {
+   "headline": "Beijing rejects spy claims involving Nvidia CEO amid rising US-China tech tensions",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
    "label": "STILL OPEN",
-   "url": "https://videocardz.com/newz/nvidia-rtx-5080-24gb-reportedly-launching-by-january-2027-replacing-16gb-model",
-   "url_id": "7dd99f7b3be410519ed1c2b9a0af5f39"
+   "url": "https://www.scmp.com/tech/tech-war/article/3372743/china-dismisses-us-report-suspected-spy-targeting-nvidia-ceo-jensen-huang-groundless",
+   "url_id": "1dd888948ea1e7332941cccb35d46a35"
   },
   {
-   "headline": "Anthropic's Elvis lawsuit shows why AI companies need to face the music",
-   "outlet": "TechRadar on MSN",
-   "outlet_name": "TechRadar on MSN",
-   "label": "CONFIRMED",
-   "url": "https://www.msn.com/en-us/entertainment/celebrities/anthropic-s-elvis-lawsuit-shows-why-ai-companies-need-to-face-the-music/ar-AA2gnYHV",
-   "url_id": "6e8cf3ed31679bcc8b3daae25ca6eb3f"
-  },
-  {
-   "headline": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy…",
-   "outlet": "CNBC on MSN",
-   "outlet_name": "CNBC on MSN",
+   "headline": "Google AI Overview targeted by French publishers' EU antitrust complaint",
+   "outlet": "MLex",
+   "outlet_name": "MLex",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/money/markets/indian-ai-infrastructure-firm-reportedly-seeks-to-raise-3-billion-of-debt-to-buy-nvidias-next-generation-chips/ar-AA2goRBP",
-   "url_id": "e341c684fe331ba0c2d43a405fe8610b"
+   "url": "https://www.mlex.com/mlex/artificial-intelligence/articles/2544409/google-ai-overview-targeted-by-french-publishers-eu-antitrust-complaint",
+   "url_id": "b1684f376c06c449b890a9ce13f782bd"
   },
   {
-   "headline": "Family sues OpenAI over woman’s death, claims ChatGPT urged her to cut epilepsy medication",
-   "outlet": "Sinar Daily on MSN",
-   "outlet_name": "Sinar Daily on MSN",
+   "headline": "Google Unveils Gemini 4 Carbon With Advanced Cybersecurity Skills — Who Gets Access First?",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "label": "REPORTED",
+   "url": "https://www.techrepublic.com/article/news-google-gemini-4-carbon-access/",
+   "url_id": "a96771f942629e136d0b798863e1f10c"
+  },
+  {
+   "headline": "Mistral open-sources AI model despite warning it could aid cyberattacks",
+   "outlet": "CSO Online",
+   "outlet_name": "CSO Online",
+   "label": "REPORTED",
+   "url": "https://www.csoonline.com/article/4242648/mistral-releases-large-4-weights-despite-warning-of-cyberattack-uplift.html",
+   "url_id": "b488b4e9d1997ac4081dc92b60e49d52"
+  },
+  {
+   "headline": "Spotify plans Q1 2027 launch for AI covers and remixes tool, weighing $4–$5 monthly price…",
+   "outlet": "Music Business Worldwide",
+   "outlet_name": "Music Business Worldwide",
    "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-my/news/national/family-sues-openai-over-woman-s-death-claims-chatgpt-urged-her-to-cut-epilepsy-medication/ar-AA2gomUM",
-   "url_id": "ed4cb3d325063b0b9b2ee7d7c771765e"
+   "url": "https://www.musicbusinessworldwide.com/spotify-plans-q1-2027-launch-for-ai-covers-and-remixes-tool-weighing-4-5-monthly-price-report/",
+   "url_id": "03e3ad2c4cce40a2f11e29859bf563d1"
   },
   {
-   "headline": "Waiting for an AI law is a poor compliance strategy",
-   "outlet": "YourStory.com",
-   "outlet_name": "YourStory.com",
-   "label": "REPORTED",
-   "url": "https://yourstory.com/2026/10/waiting-for-an-ai-law-is-a-poor-compliance-strategy",
-   "url_id": "03497250da77b4ae90d049e9b9cc3308"
+   "headline": "Wikimedia asks court to rule AI training fair use, but not chatbot copying",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "CONFIRMED",
+   "url": "https://thenextweb.com/news/wikimedia-amicus-brief-openai-new-york-times-fair-use-rag",
+   "url_id": "d9fb7141815b00c14af48ea5c3aa467e"
   },
   {
-   "headline": "Half of Christian questions on ChatGPT are attempts to understand the Bible",
-   "outlet": "www.christiantoday.com",
-   "outlet_name": "www.christiantoday.com",
-   "label": "REPORTED",
-   "url": "https://www.christiantoday.com/news/half-of-christian-questions-on-chatgpt-are-attempts-understand-the-bible",
-   "url_id": "b17cc29dcf993ea2e45414afa064037e"
+   "headline": "Mistral AI ouvre les poids de son modèle Large 4",
+   "outlet": "Le Monde Informatique",
+   "outlet_name": "Le Monde Informatique",
+   "label": "CONFIRMED",
+   "url": "https://www.lemondeinformatique.fr/actualites/lire-mistral-ai-ouvre-les-poids-de-son-modele-large-4-100889.html",
+   "url_id": "3193cc715fb547ac33ad7c2a679d0e65"
+  },
+  {
+   "headline": "Foxconn working on a new tie-up with OpenAI, says there is no AI bubble",
+   "outlet": "economictimes.indiatimes.com",
+   "outlet_name": "economictimes.indiatimes.com",
+   "label": "CONFIRMED",
+   "url": "https://economictimes.indiatimes.com/tech/technology/foxconn-working-on-a-new-tie-up-with-openai-says-there-is-no-ai-bubble/articleshow/135352103.cms",
+   "url_id": "c0775ffb4508dab7a9cf25fc7a43cbcf"
+  },
+  {
+   "headline": "Did Trump Ask AI for Advice on Maduro? Democrats Demand White House Records of Grok…",
+   "outlet": "www.techtimes.co.uk",
+   "outlet_name": "www.techtimes.co.uk",
+   "label": "STILL OPEN",
+   "url": "https://www.techtimes.co.uk/democrats-demand-trump-ai-chats-grok-maduro-1809550",
+   "url_id": "a48f9c5be53fe523119e71aedfc14404"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 14700,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/12.mp3",
- "audio_seconds": 80.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/13.mp3",
+ "audio_seconds": 49.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nWikimedia Foundation warns that a recent artificial intelligence copyright ruling could threaten the open web. Confirmed by Crypto Briefing: Wikimedia urges courts to protect artificial intelligence training but not chatbot outputs that regurgitate content.\nMistral released a 1T-parameter open model for self-hosting. Reported by The Neuron: the company also offers a cyber variant for vetted partners.\nTrump used Grok to advise on Venezuela, and Congress demands the artificial intelligence chatbot logs be preserved. Reported by Tech Times: the Department of Justice then called the Presidential Records Act unconstitutional.\nIn 2015, Larry Page envisioned galaxy exploration by 2100 via von Neumann probes, with Elon Musk endorsing the idea. Reported by The Times of India: Microsoft artificial intelligence CEO Mustafa Suleyman recalls the sci-fi vision from a lunch.\nOrange Cyberdefense gains early access to Mistral artificial intelligence's cybersecurity variant for European clients. Reported by LEPTIDIGITAL: 82 percent of failles are corrected according to Mistral.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Hacker News: Official Claude Code VS Code Extension Compromised to Install Persistent SSH Backdoor.\nConfirmed, per The Verge: Wikipedia’s operator says a bad AI copyright ruling could threaten the open web.\nConfirmed, per Semafor: Anthropic is now SpaceX's biggest customer.\nStill open, per South China Morning Post: Beijing rejects spy claims involving Nvidia CEO amid rising US-China tech tensions.\nReported by MLex: Google AI Overview targeted by French publishers' EU antitrust complaint.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
