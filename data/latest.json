@@ -1,133 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T02:20:01Z",
- "hour": "2026-10-30T03:00:00Z",
+ "generated_at": "2026-10-30T03:20:01Z",
+ "hour": "2026-10-30T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "As Anthropic eyes a mega-IPO, why are Chinese tech valuations so far behind?",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
-   "url": "https://www.scmp.com/business/markets/article/3372621/anthropic-eyes-mega-ipo-why-are-chinese-tech-valuations-so-far-behind",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic targets $1.5T-$2T IPO, widening US-China tech valuation gap.",
-   "published_at": "2026-10-29T23:00:07Z",
-   "url_id": "83144c760c11ad7883d122360df9dbf6"
+   "title": "Mistral Releases Large 4 Weights for Self-Hosted AI",
+   "outlet": "FindArticles",
+   "outlet_name": "FindArticles",
+   "url": "https://www.findarticles.com/mistral-large-4-open-weights-self-hosted-ai/",
+   "label": "CONFIRMED",
+   "summary_1line": "Mistral releases open-weight Large 4 for on-prem deployment, targeting coding and cybersecurity.",
+   "published_at": "2026-10-30T00:24:21Z",
+   "url_id": "5cf43c147954ef59b84cd9979e9ba484"
   },
   {
-   "title": "House Democrats probe White House’s use of Musk’s Nazi chatbot",
-   "outlet": "Daily Kos",
-   "outlet_name": "Daily Kos",
-   "url": "https://www.dailykos.com/stories/2026/10/29/800119581/congress/house-democrats-probe-white-house-musk-nazi-chatbot/",
+   "title": "Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI industry's 'fair use' excuses are getting old",
+   "outlet": "TechRadar",
+   "outlet_name": "TechRadar",
+   "url": "https://www.techradar.com/ai-platforms-assistants/anthropic-sued-for-allegedly-using-274-elvis-presley-songs-in-ai-training-and-its-about-time-ai-companies-faced-the-music",
    "label": "REPORTED",
-   "summary_1line": "Democrats probe Trump's use of Musk's racist chatbot Grok in policy decisions.",
-   "published_at": "2026-10-29T23:00:00Z",
-   "url_id": "2c868b28b92a213086a4896c23614846"
+   "summary_1line": "Elvis song owners sue Anthropic over alleged use of 274 songs in AI training.",
+   "published_at": "2026-10-30T01:00:00Z",
+   "url_id": "37e77744bd79715db31ef7597215bc5f"
   },
   {
-   "title": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "url": "https://www.reuters.com/technology/nvidia-talks-give-credit-support-nscales-deal-with-anthropic-information-reports-2026-10-30/",
+   "title": "Schneider Electric, NVIDIA & HPE launch industrial AI",
+   "outlet": "ChannelLife New Zealand",
+   "outlet_name": "ChannelLife New Zealand",
+   "url": "https://channellife.co.nz/story/schneider-electric-nvidia-hpe-launch-industrial-ai",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-30T01:26:00Z",
-   "url_id": "d82ad9a206776934a3f93831a50463ba"
+   "summary_1line": "Schneider Electric, NVIDIA and HPE launch edge AI agents for industrial operations.",
+   "published_at": "2026-10-29T21:38:00Z",
+   "url_id": "7800b4ede95251355b221e8cb294564e"
   },
   {
-   "title": "A Woman Used ChatGPT to Taper Off Medication. It’s Advice May Have Killed Her.",
-   "outlet": "Pain News Network",
-   "outlet_name": "Pain News Network",
-   "url": "https://www.painnewsnetwork.org/stories/2026/10/29/a-woman-used-chatgpt-to-taper-off-medication-its-advice-killed-her",
-   "label": "REPORTED",
-   "summary_1line": "A woman died after following ChatGPT's medical advice to taper off epilepsy medication.",
-   "published_at": "2026-10-29T22:33:01Z",
-   "url_id": "10ac4987f225910039d6acf4ebe1be0c"
+   "title": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Microsoft raises $25B in bonds for AI infrastructure, targeting $170B in 2026 spending.",
+   "published_at": "2026-10-30T00:38:13Z",
+   "url_id": "f3032c67e91543ee0bcc8535230356ca"
   },
   {
-   "title": "Behind DeepSeek’s $16 Billion Funding: Chinese Tech Titans and State Players",
-   "outlet": "theinformation.com",
-   "outlet_name": "The Information",
-   "url": "https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players",
+   "title": "Pentagon AI Security Breach: Accenture Employee Connected Personal Claude Agent, Sensitive Data Flowed Out for Two Months Before Detection",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/175009c4-92fb-476d-bd86-25b3c7a9bc67",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-30T01:08:40Z",
-   "url_id": "29d038b2104fa20cf1b41328a76595a7"
+   "summary_1line": "Accenture employee linked personal Claude to DoD system, exposing sensitive data for two months.",
+   "published_at": "2026-10-30T00:26:00Z",
+   "url_id": "79b416013117a72021699e554869e295"
   }
  ],
  "ticker": [
   {
-   "headline": "As Anthropic eyes a mega-IPO, why are Chinese tech valuations so far behind?",
-   "outlet": "South China Morning Post",
-   "outlet_name": "South China Morning Post",
-   "label": "REPORTED",
-   "url": "https://www.scmp.com/business/markets/article/3372621/anthropic-eyes-mega-ipo-why-are-chinese-tech-valuations-so-far-behind",
-   "url_id": "83144c760c11ad7883d122360df9dbf6"
-  },
-  {
-   "headline": "House Democrats probe White House’s use of Musk’s Nazi chatbot",
-   "outlet": "Daily Kos",
-   "outlet_name": "Daily Kos",
-   "label": "REPORTED",
-   "url": "https://www.dailykos.com/stories/2026/10/29/800119581/congress/house-democrats-probe-white-house-musk-nazi-chatbot/",
-   "url_id": "2c868b28b92a213086a4896c23614846"
-  },
-  {
-   "headline": "Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information…",
-   "outlet": "Reuters",
-   "outlet_name": "Reuters",
-   "label": "REPORTED",
-   "url": "https://www.reuters.com/technology/nvidia-talks-give-credit-support-nscales-deal-with-anthropic-information-reports-2026-10-30/",
-   "url_id": "d82ad9a206776934a3f93831a50463ba"
-  },
-  {
-   "headline": "A Woman Used ChatGPT to Taper Off Medication. It’s Advice May Have Killed Her.",
-   "outlet": "Pain News Network",
-   "outlet_name": "Pain News Network",
-   "label": "REPORTED",
-   "url": "https://www.painnewsnetwork.org/stories/2026/10/29/a-woman-used-chatgpt-to-taper-off-medication-its-advice-killed-her",
-   "url_id": "10ac4987f225910039d6acf4ebe1be0c"
-  },
-  {
-   "headline": "Behind DeepSeek’s $16 Billion Funding: Chinese Tech Titans and State Players",
-   "outlet": "theinformation.com",
-   "outlet_name": "The Information",
-   "label": "REPORTED",
-   "url": "https://www.theinformation.com/articles/behind-deepseeks-16-billion-funding-chinese-tech-titans-state-players",
-   "url_id": "29d038b2104fa20cf1b41328a76595a7"
-  },
-  {
-   "headline": "AI Governance Is Becoming a Business Law Imperative in Florida’s Emerging Technology…",
-   "outlet": "The Florida Bar",
-   "outlet_name": "The Florida Bar",
-   "label": "REPORTED",
-   "url": "https://www.floridabar.org/the-florida-bar-journal/ai-governance-is-becoming-a-business-law-imperative-in-floridas-emerging-technology-economy-why-florida-businesses-should-move-from-ai-experimentation-to-accountable-ai-oversight/",
-   "url_id": "47df3594aab191c186a669fb124f19d8"
-  },
-  {
-   "headline": "Grok Pricing, Explained in 5 Points",
-   "outlet": "BASENOR - Tesla Accessories",
-   "outlet_name": "BASENOR - Tesla Accessories",
-   "label": "REPORTED",
-   "url": "https://www.basenor.com/blogs/news/grok-pricing-explained-in-5-points",
-   "url_id": "f0f21a8bc9b8105657961998efb5e234"
-  },
-  {
-   "headline": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-   "outlet": "bleepingcomputer.com",
-   "outlet_name": "bleepingcomputer.com",
+   "headline": "Mistral Releases Large 4 Weights for Self-Hosted AI",
+   "outlet": "FindArticles",
+   "outlet_name": "FindArticles",
    "label": "CONFIRMED",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-   "url_id": "92f9a6802cbb503a27da56c1e7637bd4"
+   "url": "https://www.findarticles.com/mistral-large-4-open-weights-self-hosted-ai/",
+   "url_id": "5cf43c147954ef59b84cd9979e9ba484"
   },
   {
-   "headline": "OpenAI sued after ChatGPT allegedly coached a user to stop seizure medication",
-   "outlet": "Black Enterprise on MSN",
-   "outlet_name": "Black Enterprise on MSN",
+   "headline": "Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI…",
+   "outlet": "TechRadar",
+   "outlet_name": "TechRadar",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-us/news/other/openai-sued-after-chatgpt-allegedly-coached-a-user-to-stop-seizure-medication/ar-AA2gmT7Y",
-   "url_id": "7317d9b0e3c4b707b00cbfe1ca6054bc"
+   "url": "https://www.techradar.com/ai-platforms-assistants/anthropic-sued-for-allegedly-using-274-elvis-presley-songs-in-ai-training-and-its-about-time-ai-companies-faced-the-music",
+   "url_id": "37e77744bd79715db31ef7597215bc5f"
+  },
+  {
+   "headline": "Schneider Electric, NVIDIA & HPE launch industrial AI",
+   "outlet": "ChannelLife New Zealand",
+   "outlet_name": "ChannelLife New Zealand",
+   "label": "REPORTED",
+   "url": "https://channellife.co.nz/story/schneider-electric-nvidia-hpe-launch-industrial-ai",
+   "url_id": "7800b4ede95251355b221e8cb294564e"
+  },
+  {
+   "headline": "Microsoft plans to raise $25 billion in debt as it pursues AI buildout",
+   "outlet": "cnbc.com",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/29/microsoft-25-billion-debt-offering.html",
+   "url_id": "f3032c67e91543ee0bcc8535230356ca"
+  },
+  {
+   "headline": "Pentagon AI Security Breach: Accenture Employee Connected Personal Claude Agent…",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.biggo.com/news/175009c4-92fb-476d-bd86-25b3c7a9bc67",
+   "url_id": "79b416013117a72021699e554869e295"
+  },
+  {
+   "headline": "Hyundai to Launch Saemangeum AI Data Center Units Next Month",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "label": "CONFIRMED",
+   "url": "https://en.sedaily.com/finance/2026/10/30/hyundai-to-launch-saemangeum-ai-data-center-units-next-month",
+   "url_id": "a72d7ab96e2c1f55f54f8bcbdeb1bd80"
+  },
+  {
+   "headline": "Microsoft’s Anthropic Brief Is About More Than AI — It’s About Democracy",
+   "outlet": "NYU Stern Center for Business & Human Rights",
+   "outlet_name": "NYU Stern Center for Business & Human Rights",
+   "label": "REPORTED",
+   "url": "https://bhr.stern.nyu.edu/microsofts-anthropic-brief-is-about-more-than-ai-its-about-democracy/",
+   "url_id": "ccbbcd7324f7390ea816fc5189bb4664"
+  },
+  {
+   "headline": "New York signs law to protect children from AI chatbots",
+   "outlet": "Dimsum Daily",
+   "outlet_name": "Dimsum Daily",
+   "label": "REPORTED",
+   "url": "https://www.dimsumdaily.hk/new-york-signs-law-to-protect-children-from-ai-chatbots/",
+   "url_id": "4b23074ad264255abcb68c3d49d5e289"
+  },
+  {
+   "headline": "Mistral Large 4 Pricing: $1.36 In, $4.18 Out, and a Half-Price Promotion With No End Date",
+   "outlet": "OrcaRouter",
+   "outlet_name": "OrcaRouter",
+   "label": "REPORTED",
+   "url": "https://www.orcarouter.ai/blog/mistral-large-4-pricing",
+   "url_id": "bf81536c4ff51c4c8fadd957d8caba65"
+  },
+  {
+   "headline": "2027: Govs, experts call for ethical journalism, AI regulation",
+   "outlet": "Head Topics",
+   "outlet_name": "Head Topics",
+   "label": "REPORTED",
+   "url": "https://ng.headtopics.com/news/2027-govs-experts-call-for-ethical-journalism-ai-89352396",
+   "url_id": "1dcb2053a5b511c14d86f22a42e9c76e"
   },
   {
    "headline": "Alphabet Loses $500 Billion in Market Value as AI Threatens Google Search",
@@ -138,30 +146,22 @@
    "url_id": "6a9fa57e1fe395b2d1b837777b3f8f83"
   },
   {
-   "headline": "Xmind Launches AI Agent for Mind Maps and Opens Its Platform to ChatGPT and Claude",
-   "outlet": "markets.businessinsider.com",
-   "outlet_name": "markets.businessinsider.com",
+   "headline": "ChatGPT Can Predict Environmental Research Trends, but Mostly by Repeating Them",
+   "outlet": "Bioengineer.org",
+   "outlet_name": "Bioengineer.org",
    "label": "REPORTED",
-   "url": "https://markets.businessinsider.com/news/stocks/xmind-launches-ai-agent-for-mind-maps-and-opens-its-platform-to-chatgpt-and-claude-1036686054",
-   "url_id": "82a654f8ae975c3d1f4e2de34963066b"
-  },
-  {
-   "headline": "API credits benefit for eligible ChatGPT subscriptions",
-   "outlet": "simonwillison.net",
-   "outlet_name": "simonwillison.net",
-   "label": "REPORTED",
-   "url": "https://simonwillison.net/2026/Oct/29/api-credits/",
-   "url_id": "88899755dba00e8dcefccb9814540c5b"
+   "url": "https://bioengineer.org/chatgpt-can-predict-environmental-research-trends-but-mostly-by-repeating-them/",
+   "url_id": "9b1ef9fae3520a5fca5db43e1dc837d0"
   }
  ],
  "tidbit": "Did you know… about 14,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 13700,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/03.mp3",
- "audio_seconds": 48.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/04.mp3",
+ "audio_seconds": 50.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by South China Morning Post: As Anthropic eyes a mega-IPO, why are Chinese tech valuations so far behind.\nReported by Daily Kos: House Democrats probe White House’s use of Musk’s Nazi chatbot.\nReported by Reuters: Nvidia in talks to give credit support for Nscale's deal with Anthropic, The Information reports.\nReported by Pain News Network: A Woman Used ChatGPT to Taper Off Medication. It’s Advice May Have Killed Her.\nReported by The Information: Behind DeepSeek’s $16 Billion Funding: Chinese Tech Titans and State Players.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per FindArticles: Mistral Releases Large 4 Weights for Self-Hosted AI.\nReported by TechRadar: Anthropic sued over Elvis catalog — and the 274-song copyright battle shows the AI industry's 'fair use' excuses are getting old.\nReported by ChannelLife New Zealand: Schneider Electric, NVIDIA & HPE launch industrial AI.\nConfirmed, per CNBC: Microsoft plans to raise $25 billion in debt as it pursues AI buildout.\nReported by BigGo Finance: Pentagon AI Security Breach: Accenture Employee Connected Personal Claude Agent, Sensitive Data Flowed Out for Two Months Before Detection.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
