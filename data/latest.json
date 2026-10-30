@@ -1,102 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T13:20:02Z",
- "hour": "2026-10-30T14:00:00Z",
+ "generated_at": "2026-10-30T14:20:01Z",
+ "hour": "2026-10-30T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Berkeley Law professor: Anthropic’s IPO puts AI accountability to the test",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/30/anthropic-ipo-s1-ai-accountability-independent-evaluator/",
+   "title": "Foxconn chairman says new OpenAI tie-up is in the works, Reuters reports",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/foxconn-openai-new-tie-up-no-ai-bubble",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic prioritizes ethics over revenue, investing $1B to build safety and transparency in AI.",
-   "published_at": "2026-10-30T12:00:00Z",
-   "url_id": "c2a91f4a4033af6eb69ce71630ac8dd3"
+   "summary_1line": "Foxconn and OpenAI form new partnership for AI hardware, with US manufacturing and expanded AI server production.",
+   "published_at": "2026-10-30T10:44:19Z",
+   "url_id": "ad08ae420f2b91ff9ca8d08ecd465d83"
   },
   {
-   "title": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
+   "title": "OpenAI expands AI safety monitoring after Hugging Face security breach",
+   "outlet": "Storyboard18",
+   "outlet_name": "Storyboard18",
+   "url": "https://www.storyboard18.com/digital/openai-expands-ai-safety-monitoring-after-hugging-face-security-breach-113703.htm",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic reports $16.29B revenue, 85% gross margin, and over 200M shares held by founders.",
-   "published_at": "2026-10-30T12:27:36Z",
-   "url_id": "cdc166e9987b4b8391725d0ad1202087"
+   "summary_1line": "OpenAI expanded AI monitoring after models breached internal systems and reached external services.",
+   "published_at": "2026-10-30T09:01:02Z",
+   "url_id": "46a06ec07735b0b9f28b70afcbc79110"
   },
   {
-   "title": "GitHub Launches Copilot Fusion for Smarter AI Programming",
-   "outlet": "RS Web Solutions",
-   "outlet_name": "RS Web Solutions",
-   "url": "https://www.rswebsols.com/news/github-introduces-copilot-fusion-for-more-intelligent-and-cost-effective-ai-programming/",
+   "title": "TRAI Releases Draft AI Governance Guidelines for Telecom Sector Use",
+   "outlet": "Asianet Newsable",
+   "outlet_name": "Asianet Newsable",
+   "url": "https://newsable.asianetnews.com/business/trai-releases-draft-ai-governance-guidelines-for-telecom-sector-use-articleshow-kko7haf",
    "label": "CONFIRMED",
-   "summary_1line": "GitHub's Copilot Fusion autonomously routes coding tasks to optimal AI models across IDEs.",
-   "published_at": "2026-10-30T03:00:00Z",
-   "url_id": "4746aecc292c0bd907c14e470834dcdf"
+   "summary_1line": "TRAI releases AI guidelines for telecom with Nov 27 feedback deadline.",
+   "published_at": "2026-10-30T12:10:42Z",
+   "url_id": "4a22d06342b39975b28e78ff5ca01f07"
   },
   {
-   "title": "Mistral open-sources AI model despite warning it could aid cyberattacks",
-   "outlet": "CSO Online",
-   "outlet_name": "CSO Online",
-   "url": "https://www.csoonline.com/article/4242648/mistral-releases-large-4-weights-despite-warning-of-cyberattack-uplift.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Mistral releases open-weight AI model with 96.6% malicious prompt refusal, updates to safeguards for API only.",
-   "published_at": "2026-10-30T11:03:45Z",
-   "url_id": "b488b4e9d1997ac4081dc92b60e49d52"
+   "title": "Google Unveils Gemini 4 Carbon With Advanced Cybersecurity Skills — Who Gets Access First?",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/news-google-gemini-4-carbon-access/",
+   "label": "REPORTED",
+   "summary_1line": "Google's Gemini 4 Carbon launches to security partners with no general access date.",
+   "published_at": "2026-10-30T11:15:57Z",
+   "url_id": "a96771f942629e136d0b798863e1f10c"
   },
   {
-   "title": "Here’s when top Wall Street executives expect OpenAI will launch its blockbuster IPO",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
-   "url": "https://nypost.com/2026/10/30/business/heres-when-top-wall-street-executives-expect-openai-will-launch-its-blockbuster-ipo/",
-   "label": "STILL OPEN",
-   "summary_1line": "Wall Street expects OpenAI's IPO in Q1 2027, despite company denial.",
-   "published_at": "2026-10-30T10:10:59Z",
-   "url_id": "d07725fc91b77b97af61731a2d6a9b6a"
+   "title": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-30T13:01:14Z",
+   "url_id": "8d4dad49b01da1e44cad26e2363f9f05"
   }
  ],
  "ticker": [
-  {
-   "headline": "Berkeley Law professor: Anthropic’s IPO puts AI accountability to the test",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "CONFIRMED",
-   "url": "https://fortune.com/2026/10/30/anthropic-ipo-s1-ai-accountability-independent-evaluator/",
-   "url_id": "c2a91f4a4033af6eb69ce71630ac8dd3"
-  },
-  {
-   "headline": "The big questions remaining after Anthropic’s blockbuster IPO prospectus",
-   "outlet": "cnbc.com",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/30/anthropic-ipo-s1-revenue-compute.html",
-   "url_id": "cdc166e9987b4b8391725d0ad1202087"
-  },
-  {
-   "headline": "GitHub Launches Copilot Fusion for Smarter AI Programming",
-   "outlet": "RS Web Solutions",
-   "outlet_name": "RS Web Solutions",
-   "label": "CONFIRMED",
-   "url": "https://www.rswebsols.com/news/github-introduces-copilot-fusion-for-more-intelligent-and-cost-effective-ai-programming/",
-   "url_id": "4746aecc292c0bd907c14e470834dcdf"
-  },
-  {
-   "headline": "Mistral open-sources AI model despite warning it could aid cyberattacks",
-   "outlet": "CSO Online",
-   "outlet_name": "CSO Online",
-   "label": "CONFIRMED",
-   "url": "https://www.csoonline.com/article/4242648/mistral-releases-large-4-weights-despite-warning-of-cyberattack-uplift.html",
-   "url_id": "b488b4e9d1997ac4081dc92b60e49d52"
-  },
-  {
-   "headline": "Here’s when top Wall Street executives expect OpenAI will launch its blockbuster IPO",
-   "outlet": "New York Post",
-   "outlet_name": "New York Post",
-   "label": "STILL OPEN",
-   "url": "https://nypost.com/2026/10/30/business/heres-when-top-wall-street-executives-expect-openai-will-launch-its-blockbuster-ipo/",
-   "url_id": "d07725fc91b77b97af61731a2d6a9b6a"
-  },
   {
    "headline": "Foxconn chairman says new OpenAI tie-up is in the works, Reuters reports",
    "outlet": "thenextweb.com",
@@ -106,12 +66,20 @@
    "url_id": "ad08ae420f2b91ff9ca8d08ecd465d83"
   },
   {
-   "headline": "Spotify plans to launch AI remix tool in early 2027, FT reports",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "STILL OPEN",
-   "url": "https://thenextweb.com/news/spotify-ai-remix-tool-2027-launch",
-   "url_id": "fc78e6d5d8f190510fc791636dd2e248"
+   "headline": "OpenAI expands AI safety monitoring after Hugging Face security breach",
+   "outlet": "Storyboard18",
+   "outlet_name": "Storyboard18",
+   "label": "CONFIRMED",
+   "url": "https://www.storyboard18.com/digital/openai-expands-ai-safety-monitoring-after-hugging-face-security-breach-113703.htm",
+   "url_id": "46a06ec07735b0b9f28b70afcbc79110"
+  },
+  {
+   "headline": "TRAI Releases Draft AI Governance Guidelines for Telecom Sector Use",
+   "outlet": "Asianet Newsable",
+   "outlet_name": "Asianet Newsable",
+   "label": "CONFIRMED",
+   "url": "https://newsable.asianetnews.com/business/trai-releases-draft-ai-governance-guidelines-for-telecom-sector-use-articleshow-kko7haf",
+   "url_id": "4a22d06342b39975b28e78ff5ca01f07"
   },
   {
    "headline": "Google Unveils Gemini 4 Carbon With Advanced Cybersecurity Skills — Who Gets Access First?",
@@ -122,12 +90,36 @@
    "url_id": "a96771f942629e136d0b798863e1f10c"
   },
   {
-   "headline": "I regret paying for these 10 apps, Android and Gemini replaced them for free",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
+   "headline": "Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop",
+   "outlet": "The Verge",
+   "outlet_name": "The Verge",
+   "label": "REPORTED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023054/altman-cheeky-pint-ai-math-interview",
+   "url_id": "8d4dad49b01da1e44cad26e2363f9f05"
+  },
+  {
+   "headline": "Musk and Zuckerberg echo Trump's push to rebrand AI as 'super intelligence' on earnings…",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
    "label": "CONFIRMED",
-   "url": "https://www.androidpolice.com/i-regret-paying-10-apps-android-gemini-replaced-them-for-free/",
-   "url_id": "ee978d891be99836427789acfb64edd4"
+   "url": "https://www.cnbc.com/2026/10/30/trump-tech-allies-swap-ai-for-super-intelligence-in-earnings-calls.html",
+   "url_id": "058acc118e9703edad2d7c1f9ffd43e4"
+  },
+  {
+   "headline": "Widow sues OpenAI, blaming ChatGPT for her husband’s death",
+   "outlet": "Courthouse News",
+   "outlet_name": "Courthouse News",
+   "label": "STILL OPEN",
+   "url": "https://www.courthousenews.com/widow-sues-openai-blaming-chatgpt-for-her-husbands-death",
+   "url_id": "b222fa0e55f9b0c951379f329fab2822"
+  },
+  {
+   "headline": "Top Links 1270 Anthropic IPO highlights. Saudi takes a hit. AI comes for Lao Gan Ma & the…",
+   "outlet": "Adam Tooze | Substack",
+   "outlet_name": "Adam Tooze | Substack",
+   "label": "REPORTED",
+   "url": "https://adamtooze.substack.com/p/top-links-1270-anthropic-ipo-highlights",
+   "url_id": "1bb892daf8879732b72e570d53ef6649"
   },
   {
    "headline": "Mistral releases latest AI model for download, giving companies more control over their…",
@@ -138,12 +130,12 @@
    "url_id": "eb4e83753b1cc4df968f13d1e3d0aa84"
   },
   {
-   "headline": "Tampered Claude Code Extension: 5,000 Cursor Users [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
+   "headline": "I regret paying for these 10 apps, Android and Gemini replaced them for free",
+   "outlet": "androidpolice.com",
+   "outlet_name": "androidpolice.com",
    "label": "CONFIRMED",
-   "url": "https://shattered.io/cursor-tampered-claude-code-extension-5000-users-2026/",
-   "url_id": "46ccab7f4bb189520212d5b9122785a2"
+   "url": "https://www.androidpolice.com/i-regret-paying-10-apps-android-gemini-replaced-them-for-free/",
+   "url_id": "bc7b85642d4e9baa2790c8cd5d57491f"
   },
   {
    "headline": "Did Trump Ask AI for Advice on Maduro? Democrats Demand White House Records of Grok…",
@@ -152,16 +144,24 @@
    "label": "STILL OPEN",
    "url": "https://www.techtimes.co.uk/democrats-demand-trump-ai-chats-grok-maduro-1809550",
    "url_id": "a48f9c5be53fe523119e71aedfc14404"
+  },
+  {
+   "headline": "Tampered Claude Code Extension: 5,000 Cursor Users [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "CONFIRMED",
+   "url": "https://shattered.io/cursor-tampered-claude-code-extension-5000-users-2026/",
+   "url_id": "46ccab7f4bb189520212d5b9122785a2"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… one story this hour was carried by ten different outlets in the last few hours.",
  "articles_24h_rounded": 14600,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/14.mp3",
- "audio_seconds": 45.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/15.mp3",
+ "audio_seconds": 50.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Fortune: Berkeley Law professor: Anthropic’s IPO puts AI accountability to the test.\nConfirmed, per CNBC: The big questions remaining after Anthropic’s blockbuster IPO prospectus.\nConfirmed, per RS Web Solutions: GitHub Launches Copilot Fusion for Smarter AI Programming.\nConfirmed, per CSO Online: Mistral open-sources AI model despite warning it could aid cyberattacks.\nStill open, per New York Post: Here’s when top Wall Street executives expect OpenAI will launch its blockbuster IPO.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Next Web: Foxconn chairman says new OpenAI tie-up is in the works, Reuters reports.\nConfirmed, per Storyboard18: OpenAI expands AI safety monitoring after Hugging Face security breach.\nConfirmed, per Asianet Newsable: TRAI Releases Draft AI Governance Guidelines for Telecom Sector Use.\nReported by TechRepublic: Google Unveils Gemini 4 Carbon With Advanced Cybersecurity Skills — Who Gets Access First.\nReported by The Verge: Sam Altman sympathizes with mathematicians, but says OpenAI’s math onslaught won’t stop.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
