@@ -1,101 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T16:20:01Z",
- "hour": "2026-10-30T17:00:00Z",
+ "generated_at": "2026-10-30T17:20:01Z",
+ "hour": "2026-10-30T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Wikipedia chooses the middle ground in New York Times and OpenAI lawsuit",
-   "outlet": "A.V. Club",
-   "outlet_name": "A.V. Club",
-   "url": "https://www.avclub.com/wikipedia-ai-new-york-times-openai",
+   "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+   "label": "CONFIRMED",
+   "summary_1line": "Pope Leo XIV urges banning lethal AI weapons and human oversight in AI decisions.",
+   "published_at": "2026-10-30T14:58:06Z",
+   "url_id": "d7f3b41f1dba70c81d259dfc49ace297"
+  },
+  {
+   "title": "Google Gemini Now Lets You Edit Docs and PDFs Directly in Chat",
+   "outlet": "Android Headlines",
+   "outlet_name": "Android Headlines",
+   "url": "https://www.androidheadlines.com/2026/10/gemini-edit-files-docs-pdf-directly-in-chat.html",
+   "label": "CONFIRMED",
+   "summary_1line": "Google lets Gemini users edit files in real time inside chat.",
+   "published_at": "2026-10-30T14:48:21Z",
+   "url_id": "2538f50b67edb284408cabbd56a3d42f"
+  },
+  {
+   "title": "Judge strikes Medicaid ‘medically frail’ limit; family sues OpenAI over ChatGPT drug taper; Medicare fraud fugitive gets 20 years — Morning Medical Update Weekly Recap",
+   "outlet": "Medical Economics",
+   "outlet_name": "Medical Economics",
+   "url": "https://www.medicaleconomics.com/view/judge-strikes-medicaid-medically-frail-limit-family-sues-openai-over-chatgpt-drug-taper-medicare-fraud-fugitive-gets-20-years-weekly-recap",
    "label": "REPORTED",
-   "summary_1line": "Wikipedia files amicus brief urging balanced fair use in Times vs OpenAI/Microsoft lawsuit.",
-   "published_at": "2026-10-30T13:52:24Z",
-   "url_id": "bc7d9aa673b7d7aaf0c2586db89a7feb"
+   "summary_1line": "Judge strikes Medicaid frailty rule; family sues OpenAI over ChatGPT drug taper; fraudster gets 20 years for Medicare scam.",
+   "published_at": "2026-10-30T16:19:33Z",
+   "url_id": "a36d93680614c724e32c14ecea391696"
   },
   {
-   "title": "Exclusive: Dark Matter acquires House Numbers’ agentic AI platform",
-   "outlet": "HousingWire",
-   "outlet_name": "HousingWire",
-   "url": "https://www.housingwire.com/articles/exclusive-dark-matter-acquires-house-numbers-agentic-ai-platform/",
+   "title": "Nvidia Takes On Rogue AI Agents With Software And Hardware Guardrails",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/articles/nvidia-takes-rogue-ai-agents-140000543.html",
    "label": "CONFIRMED",
-   "summary_1line": "Dark Matter acquires House Numbers to boost AI in mortgage lending.",
-   "published_at": "2026-10-30T14:34:56Z",
-   "url_id": "34855a701c6e2347a02d7353850280ab"
+   "summary_1line": "Nvidia launches AI agent guardrails to prevent rogue actions in enterprise environments.",
+   "published_at": "2026-10-30T14:00:00Z",
+   "url_id": "9e57cbee46332bb6888f44b09f60f37e"
   },
   {
-   "title": "Texas sues OpenAI and CEO Sam Altman to bar minors from ChatGPT and vet new models",
-   "outlet": "Martin Cid Magazine",
-   "outlet_name": "Martin Cid Magazine",
-   "url": "https://www.martincid.com/technology-sv/tech-ai/texas-sues-openai-sam-altman-chatgpt-minors/",
-   "label": "STILL OPEN",
-   "summary_1line": "Navigation interface with no news content.",
-   "published_at": "2026-10-30T13:41:13Z",
-   "url_id": "4f65b3b4c80683a4685c16f95cc41ef2"
-  },
-  {
-   "title": "NVIDIA GeForce RTX 5080 24GB May Replace 16GB Card Right After Christmas",
-   "outlet": "HotHardware",
-   "outlet_name": "HotHardware",
-   "url": "https://hothardware.com/news/nvidia-geforce-rtx-5080-24gb-replace-16gb-card-after-christmas",
-   "label": "STILL OPEN",
-   "summary_1line": "Rumors say NVIDIA will launch a 24GB RTX 5080 in China by early 2027.",
-   "published_at": "2026-10-30T10:37:00Z",
-   "url_id": "128b9110c2050c164f0317dcd8e730b4"
-  },
-  {
-   "title": "Anthropic’s IPO filing spends 69,800 words on AI’s risks to investors and says little about the risks to the rest of us",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/30/anthropic-ipo-public-risk-statement-ai-hidden-costs/",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic details 69,800 words of AI risks, with 103 real-world harms and a proposed public risk statement to address societal costs.",
-   "published_at": "2026-10-30T14:27:58Z",
-   "url_id": "c5851008c6093cfbc83b29cbcbe0de00"
+   "title": "Texas sues OpenAI over ChatGPT’s alleged harmful advice, child safety risks",
+   "outlet": "Top Class Actions",
+   "outlet_name": "Top Class Actions",
+   "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/texas-sues-openai-over-chatgpts-alleged-harmful-advice-child-safety-risks/",
+   "label": "REPORTED",
+   "summary_1line": "Texas sues OpenAI and Sam Altman over ChatGPT safety claims and child data practices.",
+   "published_at": "2026-10-30T16:05:57Z",
+   "url_id": "d8a538807e04fc8ec63af5579d9a25f7"
   }
  ],
  "ticker": [
   {
-   "headline": "Wikipedia chooses the middle ground in New York Times and OpenAI lawsuit",
-   "outlet": "A.V. Club",
-   "outlet_name": "A.V. Club",
+   "headline": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+   "outlet": "theverge.com",
+   "outlet_name": "The Verge",
+   "label": "CONFIRMED",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+   "url_id": "d7f3b41f1dba70c81d259dfc49ace297"
+  },
+  {
+   "headline": "Google Gemini Now Lets You Edit Docs and PDFs Directly in Chat",
+   "outlet": "Android Headlines",
+   "outlet_name": "Android Headlines",
+   "label": "CONFIRMED",
+   "url": "https://www.androidheadlines.com/2026/10/gemini-edit-files-docs-pdf-directly-in-chat.html",
+   "url_id": "2538f50b67edb284408cabbd56a3d42f"
+  },
+  {
+   "headline": "Judge strikes Medicaid ‘medically frail’ limit; family sues OpenAI over ChatGPT drug…",
+   "outlet": "Medical Economics",
+   "outlet_name": "Medical Economics",
    "label": "REPORTED",
-   "url": "https://www.avclub.com/wikipedia-ai-new-york-times-openai",
-   "url_id": "bc7d9aa673b7d7aaf0c2586db89a7feb"
-  },
-  {
-   "headline": "Exclusive: Dark Matter acquires House Numbers’ agentic AI platform",
-   "outlet": "HousingWire",
-   "outlet_name": "HousingWire",
-   "label": "CONFIRMED",
-   "url": "https://www.housingwire.com/articles/exclusive-dark-matter-acquires-house-numbers-agentic-ai-platform/",
-   "url_id": "34855a701c6e2347a02d7353850280ab"
-  },
-  {
-   "headline": "Texas sues OpenAI and CEO Sam Altman to bar minors from ChatGPT and vet new models",
-   "outlet": "Martin Cid Magazine",
-   "outlet_name": "Martin Cid Magazine",
-   "label": "STILL OPEN",
-   "url": "https://www.martincid.com/technology-sv/tech-ai/texas-sues-openai-sam-altman-chatgpt-minors/",
-   "url_id": "4f65b3b4c80683a4685c16f95cc41ef2"
-  },
-  {
-   "headline": "NVIDIA GeForce RTX 5080 24GB May Replace 16GB Card Right After Christmas",
-   "outlet": "HotHardware",
-   "outlet_name": "HotHardware",
-   "label": "STILL OPEN",
-   "url": "https://hothardware.com/news/nvidia-geforce-rtx-5080-24gb-replace-16gb-card-after-christmas",
-   "url_id": "128b9110c2050c164f0317dcd8e730b4"
-  },
-  {
-   "headline": "Anthropic’s IPO filing spends 69,800 words on AI’s risks to investors and says little…",
-   "outlet": "fortune.com",
-   "outlet_name": "Fortune",
-   "label": "CONFIRMED",
-   "url": "https://fortune.com/2026/10/30/anthropic-ipo-public-risk-statement-ai-hidden-costs/",
-   "url_id": "c5851008c6093cfbc83b29cbcbe0de00"
+   "url": "https://www.medicaleconomics.com/view/judge-strikes-medicaid-medically-frail-limit-family-sues-openai-over-chatgpt-drug-taper-medicare-fraud-fugitive-gets-20-years-weekly-recap",
+   "url_id": "a36d93680614c724e32c14ecea391696"
   },
   {
    "headline": "Nvidia Takes On Rogue AI Agents With Software And Hardware Guardrails",
@@ -106,28 +90,36 @@
    "url_id": "9e57cbee46332bb6888f44b09f60f37e"
   },
   {
-   "headline": "Lightmatter's lead ASIC engineer Clifford Chao joins OpenAI as silicon lead",
-   "outlet": "Data Center Dynamics",
-   "outlet_name": "Data Center Dynamics",
-   "label": "CONFIRMED",
-   "url": "https://www.datacenterdynamics.com/en/news/lightmatters-lead-asic-engineer-clifford-chao-joins-openai-as-silicon-lead/",
-   "url_id": "485ab030cfa7cd606a22f697c3aa28d5"
+   "headline": "Texas sues OpenAI over ChatGPT’s alleged harmful advice, child safety risks",
+   "outlet": "Top Class Actions",
+   "outlet_name": "Top Class Actions",
+   "label": "REPORTED",
+   "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/texas-sues-openai-over-chatgpts-alleged-harmful-advice-child-safety-risks/",
+   "url_id": "d8a538807e04fc8ec63af5579d9a25f7"
   },
   {
-   "headline": "MP pushes for regulation of AI in healthcare, medical education",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "CONFIRMED",
-   "url": "https://timesofindia.indiatimes.com/india/rajya-sabha-mp-pushes-for-regulation-of-ai-in-healthcare-medical-education/articleshow/135363546.cms",
-   "url_id": "89a75b150a1e9b165b66ec945ee81a14"
+   "headline": "Nvidia launches RTX Spark laptops with local AI push",
+   "outlet": "IT Brief UK",
+   "outlet_name": "IT Brief UK",
+   "label": "REPORTED",
+   "url": "https://itbrief.co.uk/story/nvidia-launches-rtx-spark-laptops-with-local-ai-push",
+   "url_id": "ea7f4876022f522df3b6f83f4ce0bf92"
   },
   {
-   "headline": "Google Gemini’s File Generating and Editing Feature May Be Its Most Useful Yet",
-   "outlet": "Technowize",
-   "outlet_name": "Technowize",
+   "headline": "Google Unveils Gemini Suggested Autofill for Chrome: What Users Should Know",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "label": "REPORTED",
+   "url": "https://www.techrepublic.com/article/news-google-gemini-chrome-autofill-gmail/",
+   "url_id": "6cc9b342c861e3066183b8003edc825c"
+  },
+  {
+   "headline": "According to OpenAI CEO Sam Altman, 'It's Quite Terrible' for People to Have RAM in Their…",
+   "outlet": "IGN",
+   "outlet_name": "IGN",
    "label": "CONFIRMED",
-   "url": "https://www.technowize.com/google-geminis-file-generating-and-editing-feature-may-be-its-most-useful-yet/",
-   "url_id": "1ea36d6db499f2b0f1dbc11e1d613766"
+   "url": "https://www.ign.com/articles/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ram-in-your-gaming-pc",
+   "url_id": "d919362182f4275beb022310cb872c1a"
   },
   {
    "headline": "Microsoft to end Copilot support on LG, Samsung smart TVs",
@@ -138,30 +130,38 @@
    "url_id": "681b3b35f7a68540742b28f00d1c561a"
   },
   {
-   "headline": "KI-Update kompakt: Mistral ML4, Cohere, KI-Empfehlungen, KI klont Indie-Spiele",
-   "outlet": "heise.de",
-   "outlet_name": "heise.de",
-   "label": "CONFIRMED",
-   "url": "https://www.heise.de/news/KI-Update-kompakt-Mistral-ML4-Cohere-KI-Empfehlungen-KI-klont-Indie-Spiele-11506040.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "url_id": "e657ead0686e512193b17a2d5c473731"
+   "headline": "Anthropic staff say AI could kill everyone. But its safety rule keeps getting weaker",
+   "outlet": "qz.com",
+   "outlet_name": "qz.com",
+   "label": "REPORTED",
+   "url": "https://qz.com/anthropic-employees-warn-ai-kill-everyone-safety-rules-102326",
+   "url_id": "2a15f07b60f65e63ace54e5a02befeac"
   },
   {
-   "headline": "Anthropic AI model finds Linux kernel bug that leads to remote root access",
-   "outlet": "csoonline.com",
-   "outlet_name": "csoonline.com",
-   "label": "CONFIRMED",
-   "url": "https://www.csoonline.com/article/4242724/anthropic-ai-model-finds-linux-kernel-bug-that-leads-to-remote-root-access.html",
-   "url_id": "3c6a12c8de37d1033a34fa0e482e5b8c"
+   "headline": "OpenAI Announces Community Safety Report and New Teen Weapons Limits",
+   "outlet": "Unite.AI",
+   "outlet_name": "Unite.AI",
+   "label": "REPORTED",
+   "url": "https://www.unite.ai/openai-announces-community-safety-report-and-new-teen-weapons-limits/",
+   "url_id": "c176e1d01916dc33416f7e617ce23681"
+  },
+  {
+   "headline": "Google Announces Gemini 4 Carbon: A Revolutionary Leap in Code Generation and…",
+   "outlet": "Root-Nation.com",
+   "outlet_name": "Root-Nation.com",
+   "label": "REPORTED",
+   "url": "https://root-nation.com/en/news-en/it-news-en/en-google-s-gemini-4-carbon-promises-significant-leap-in-ai-coding-read-more-https-www-engadget-com-2300677-google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
+   "url_id": "02eb4f286ecc59e3bafcc1b231bfebf9"
   }
  ],
- "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 14800,
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 14600,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/17.mp3",
- "audio_seconds": 54.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/18.mp3",
+ "audio_seconds": 68.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by A.V. Club: Wikipedia chooses the middle ground in New York Times and OpenAI lawsuit.\nConfirmed, per HousingWire: Exclusive: Dark Matter acquires House Numbers’ agentic AI platform.\nStill open, per Martin Cid Magazine: Texas sues OpenAI and CEO Sam Altman to bar minors from ChatGPT and vet new models.\nStill open, per HotHardware: NVIDIA GeForce RTX 5080 24GB May Replace 16GB Card Right After Christmas.\nConfirmed, per Fortune: Anthropic’s IPO filing spends 69,800 words on AI’s risks to investors and says little about the risks to the rest of us.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nPope Leo calls for disarmament of lethal artificial intelligence weapons and human oversight in decisions. Confirmed by The Verge: machines are tools, not persons.\nGoogle Gemini now lets you edit documents and PDFs directly inside the chat interface. Confirmed by Android Headlines: real time file editing is now available.\nA judge struck down Medicaid's medically frail limit. Reported by Medical Economics: a family sues OpenAI over ChatGPT drug taper advice, and a Medicare fraud fugitive received 20 years.\nNvidia launches software and hardware guardrails to take on rogue artificial intelligence agents in enterprise environments. Confirmed by Yahoo Tech: safeguards prevent unauthorized actions.\nTexas sues OpenAI and Sam Altman over ChatGPT safety claims and child data practices. Reported by Top Class Actions: allegations include harmful advice and child safety risks.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
