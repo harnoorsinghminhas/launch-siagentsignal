@@ -1,101 +1,101 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T10:20:01Z",
- "hour": "2026-10-30T11:00:00Z",
+ "generated_at": "2026-10-30T11:20:02Z",
+ "hour": "2026-10-30T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Claude AI Agent Got Inside Pentagon Network After Defense Contractor Shared Login Credentials",
-   "outlet": "International Business Times, Singapore Edition",
-   "outlet_name": "International Business Times, Singapore Edition",
-   "url": "https://www.ibtimes.sg/claude-ai-agent-got-inside-pentagon-network-after-defense-contractor-shared-login-credentials-95700",
-   "label": "STILL OPEN",
-   "summary_1line": "Claude AI agent reportedly accessed Pentagon network, sent credentials to third-party site.",
-   "published_at": "2026-10-30T06:34:29Z",
-   "url_id": "e44075f47b4ee6cdb26cdc4412b76398"
-  },
-  {
-   "title": "China denies spying on Nvidia's Jensen Huang",
-   "outlet": "Citizen Digital",
-   "outlet_name": "Citizen Digital",
-   "url": "https://citizen.digital/article/china-denies-spying-onvidias-jensen-huang-n393023",
-   "label": "STILL OPEN",
-   "summary_1line": "China denies spying on Nvidia customer Alice Huang; report cited as groundless speculation.",
-   "published_at": "2026-10-30T08:38:27Z",
-   "url_id": "096211f784d03bd4b4e90da3b2da1017"
-  },
-  {
-   "title": "Nvidia Unveils DSX POD: Modular AI Factory in a Shipping Container at GTC 2026",
-   "outlet": "Shanghai Metals Market",
-   "outlet_name": "Shanghai Metals Market",
-   "url": "https://news.metal.com/newscontent/104189003-nvidia-unveils-dsx-pod-modular-ai-factory-in-a-shipping-container-at-gtc-2026",
-   "label": "REPORTED",
-   "summary_1line": "LG's AI cooling orders exceed $2.5bn, driven by a 5 GW deal with Air Control Concepts.",
-   "published_at": "2026-10-30T00:26:00Z",
-   "url_id": "ce80c63dec17d33b38280b07367762e7"
-  },
-  {
-   "title": "Family sues OpenAI, CEO Sam Altman over woman’s death",
-   "outlet": "WSB-TV",
-   "outlet_name": "WSB-TV",
-   "url": "https://www.wsbtv.com/news/trending/family-sues-openai-ceo-sam-altman-over-womans-death/NJCQ2S625NDMPASJDIWQJALLJM/",
-   "label": "REPORTED",
-   "summary_1line": "Family sues OpenAI over ChatGPT's medical advice linked to woman's death.",
-   "published_at": "2026-10-29T16:17:41Z",
-   "url_id": "4d8d8d67e20893cc77e957ecdd5c8191"
-  },
-  {
-   "title": "Kim Jong Un calls for AI drone superiority as North Korea tests missiles, rockets",
-   "outlet": "Philippine Canadian Inquirer",
-   "outlet_name": "Philippine Canadian Inquirer",
-   "url": "https://canadianinquirer.net/2026/10/30/kim-jong-un-calls-for-ai-drone-superiority-as-north-korea-tests-missiles-rockets/",
+   "title": "Wikimedia Foundation warns AI copyright ruling could threaten open web",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/wikimedia-ai-copyright-ruling-open-web/",
    "label": "CONFIRMED",
-   "summary_1line": "Kim Jong Un pushes AI drones in North Korea amid missile tests and Russian military ties.",
-   "published_at": "2026-10-30T06:53:30Z",
-   "url_id": "72e2b63319de6702582a117857120aef"
+   "summary_1line": "Wikimedia urges courts to protect AI training but not chatbot outputs that regurgitate content.",
+   "published_at": "2026-10-30T02:02:00Z",
+   "url_id": "bc504cb6b6096e32cd0db85dbbf73ddd"
+  },
+  {
+   "title": "😸 Mistral released a 1T-parameter open model",
+   "outlet": "The Neuron",
+   "outlet_name": "The Neuron",
+   "url": "https://www.theneurondaily.com/p/mistral-released-a-1t-parameter-open-model",
+   "label": "REPORTED",
+   "summary_1line": "Mistral releases 1T-parameter open AI model for self-hosting, with cyber variant for vetted partners.",
+   "published_at": "2026-10-30T09:30:57Z",
+   "url_id": "99d33c2ad61ffd013c543d69e4acc1fe"
+  },
+  {
+   "title": "Trump Used Grok on Venezuela; DOJ Then Called Presidential Records Act Unconstitutional",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "url": "https://www.techtimes.com/articles/329743/20261030/trump-used-grok-venezuela-doj-then-called-presidential-records-act-unconstitutional.htm",
+   "label": "REPORTED",
+   "summary_1line": "Trump used Grok to advise on Venezuela; Congress demands AI chatbot logs be preserved.",
+   "published_at": "2026-10-29T22:40:00Z",
+   "url_id": "2f13c0bd4e4f5b519c86024a4dbd82d4"
+  },
+  {
+   "title": "Microsoft AI CEO Mustafa Suleyman recalls Google co-founder Larry Page’s sci-fi vision from 2015 lunch at",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-recalls-google-co-founder-larry-pages-sci-fi-vision-from-2015-lunch-at-spacex-canteen-elon-musk-says-he-is-right/articleshow/135330855.cms",
+   "label": "REPORTED",
+   "summary_1line": "In 2015, Larry Page envisioned galaxy exploration by 2100 via von Neumann probes, with Elon Musk endorsing the idea.",
+   "published_at": "2026-10-30T09:12:00Z",
+   "url_id": "a03e21a9c5e9319a751af7d433f44eb8"
+  },
+  {
+   "title": "82 % de failles corrigées selon Mistral : Orange Cyberdefense obtient une variante cyber de Large 4",
+   "outlet": "LEPTIDIGITAL",
+   "outlet_name": "LEPTIDIGITAL",
+   "url": "https://www.leptidigital.fr/securite-informatique/partenariat-mistral-orange-cyberdefense-large-4-99110/",
+   "label": "REPORTED",
+   "summary_1line": "Orange Cyberdefense gains early access to Mistral AI's cybersecurity variant for European clients.",
+   "published_at": "2026-10-30T09:08:40Z",
+   "url_id": "17321b305bd40b570e20c74f1f6e4bf5"
   }
  ],
  "ticker": [
   {
-   "headline": "Claude AI Agent Got Inside Pentagon Network After Defense Contractor Shared Login…",
-   "outlet": "International Business Times, Singapore Edition",
-   "outlet_name": "International Business Times, Singapore Edition",
-   "label": "STILL OPEN",
-   "url": "https://www.ibtimes.sg/claude-ai-agent-got-inside-pentagon-network-after-defense-contractor-shared-login-credentials-95700",
-   "url_id": "e44075f47b4ee6cdb26cdc4412b76398"
-  },
-  {
-   "headline": "China denies spying on Nvidia's Jensen Huang",
-   "outlet": "Citizen Digital",
-   "outlet_name": "Citizen Digital",
-   "label": "STILL OPEN",
-   "url": "https://citizen.digital/article/china-denies-spying-onvidias-jensen-huang-n393023",
-   "url_id": "096211f784d03bd4b4e90da3b2da1017"
-  },
-  {
-   "headline": "Nvidia Unveils DSX POD: Modular AI Factory in a Shipping Container at GTC 2026",
-   "outlet": "Shanghai Metals Market",
-   "outlet_name": "Shanghai Metals Market",
-   "label": "REPORTED",
-   "url": "https://news.metal.com/newscontent/104189003-nvidia-unveils-dsx-pod-modular-ai-factory-in-a-shipping-container-at-gtc-2026",
-   "url_id": "ce80c63dec17d33b38280b07367762e7"
-  },
-  {
-   "headline": "Family sues OpenAI, CEO Sam Altman over woman’s death",
-   "outlet": "WSB-TV",
-   "outlet_name": "WSB-TV",
-   "label": "REPORTED",
-   "url": "https://www.wsbtv.com/news/trending/family-sues-openai-ceo-sam-altman-over-womans-death/NJCQ2S625NDMPASJDIWQJALLJM/",
-   "url_id": "4d8d8d67e20893cc77e957ecdd5c8191"
-  },
-  {
-   "headline": "Kim Jong Un calls for AI drone superiority as North Korea tests missiles, rockets",
-   "outlet": "Philippine Canadian Inquirer",
-   "outlet_name": "Philippine Canadian Inquirer",
+   "headline": "Wikimedia Foundation warns AI copyright ruling could threaten open web",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
    "label": "CONFIRMED",
-   "url": "https://canadianinquirer.net/2026/10/30/kim-jong-un-calls-for-ai-drone-superiority-as-north-korea-tests-missiles-rockets/",
-   "url_id": "72e2b63319de6702582a117857120aef"
+   "url": "https://cryptobriefing.com/wikimedia-ai-copyright-ruling-open-web/",
+   "url_id": "bc504cb6b6096e32cd0db85dbbf73ddd"
+  },
+  {
+   "headline": "😸 Mistral released a 1T-parameter open model",
+   "outlet": "The Neuron",
+   "outlet_name": "The Neuron",
+   "label": "REPORTED",
+   "url": "https://www.theneurondaily.com/p/mistral-released-a-1t-parameter-open-model",
+   "url_id": "99d33c2ad61ffd013c543d69e4acc1fe"
+  },
+  {
+   "headline": "Trump Used Grok on Venezuela; DOJ Then Called Presidential Records Act Unconstitutional",
+   "outlet": "Tech Times",
+   "outlet_name": "Tech Times",
+   "label": "REPORTED",
+   "url": "https://www.techtimes.com/articles/329743/20261030/trump-used-grok-venezuela-doj-then-called-presidential-records-act-unconstitutional.htm",
+   "url_id": "2f13c0bd4e4f5b519c86024a4dbd82d4"
+  },
+  {
+   "headline": "Microsoft AI CEO Mustafa Suleyman recalls Google co-founder Larry Page’s sci-fi vision…",
+   "outlet": "The Times of India",
+   "outlet_name": "The Times of India",
+   "label": "REPORTED",
+   "url": "https://timesofindia.indiatimes.com/technology/tech-news/microsoft-ai-ceo-mustafa-suleyman-recalls-google-co-founder-larry-pages-sci-fi-vision-from-2015-lunch-at-spacex-canteen-elon-musk-says-he-is-right/articleshow/135330855.cms",
+   "url_id": "a03e21a9c5e9319a751af7d433f44eb8"
+  },
+  {
+   "headline": "82 % de failles corrigées selon Mistral : Orange Cyberdefense obtient une variante cyber…",
+   "outlet": "LEPTIDIGITAL",
+   "outlet_name": "LEPTIDIGITAL",
+   "label": "REPORTED",
+   "url": "https://www.leptidigital.fr/securite-informatique/partenariat-mistral-orange-cyberdefense-large-4-99110/",
+   "url_id": "17321b305bd40b570e20c74f1f6e4bf5"
   },
   {
    "headline": "Malicious Claude Code Extension Found in Cursor Marketplace",
@@ -104,14 +104,6 @@
    "label": "CONFIRMED",
    "url": "https://cursor.com/blog/claude-code-extension-security-notice",
    "url_id": "b11cb5d74cc4c0585bf6dc465a690934"
-  },
-  {
-   "headline": "Nvidia's web of AI bets: smart strategy or bubble risk?",
-   "outlet": "economictimes.indiatimes.com",
-   "outlet_name": "economictimes.indiatimes.com",
-   "label": "CONFIRMED",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk/articleshow/135343465.cms",
-   "url_id": "e66c72fe0304a4da0c71323a8d60cf48"
   },
   {
    "headline": "NVIDIA RTX 5080 24GB reportedly launching by January 2027, replacing 16GB model",
@@ -130,14 +122,6 @@
    "url_id": "6e8cf3ed31679bcc8b3daae25ca6eb3f"
   },
   {
-   "headline": "DeepSeek Harness Pre-Release Lets Its Main Agent Hand Off Tasks to Local Codex and Claude…",
-   "outlet": "pandaily.com",
-   "outlet_name": "pandaily.com",
-   "label": "REPORTED",
-   "url": "https://pandaily.com/deepseek-harness-v0-2-2-alpha-2-subagent-oar-delegate-tasks-codex-cli-claude-code",
-   "url_id": "53469741273a2d2c6bab7d8fd3986f26"
-  },
-  {
    "headline": "Indian AI infrastructure firm reportedly seeks to raise $3 billion of debt to buy…",
    "outlet": "CNBC on MSN",
    "outlet_name": "CNBC on MSN",
@@ -146,22 +130,38 @@
    "url_id": "e341c684fe331ba0c2d43a405fe8610b"
   },
   {
-   "headline": "STAT+: FDA, CMS scramble to avoid regulatory logjam as more states look to test AI in…",
-   "outlet": "statnews.com",
-   "outlet_name": "statnews.com",
+   "headline": "Family sues OpenAI over woman’s death, claims ChatGPT urged her to cut epilepsy medication",
+   "outlet": "Sinar Daily on MSN",
+   "outlet_name": "Sinar Daily on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-my/news/national/family-sues-openai-over-woman-s-death-claims-chatgpt-urged-her-to-cut-epilepsy-medication/ar-AA2gomUM",
+   "url_id": "ed4cb3d325063b0b9b2ee7d7c771765e"
+  },
+  {
+   "headline": "Waiting for an AI law is a poor compliance strategy",
+   "outlet": "YourStory.com",
+   "outlet_name": "YourStory.com",
    "label": "REPORTED",
-   "url": "https://www.statnews.com/2026/10/30/fda-cms-health-ai-regulation-state-sandboxes-run-into-federal-rules/?utm_campaign=rss",
-   "url_id": "12b2af028c7b1164a703ba8ada9c94dc"
+   "url": "https://yourstory.com/2026/10/waiting-for-an-ai-law-is-a-poor-compliance-strategy",
+   "url_id": "03497250da77b4ae90d049e9b9cc3308"
+  },
+  {
+   "headline": "Half of Christian questions on ChatGPT are attempts to understand the Bible",
+   "outlet": "www.christiantoday.com",
+   "outlet_name": "www.christiantoday.com",
+   "label": "REPORTED",
+   "url": "https://www.christiantoday.com/news/half-of-christian-questions-on-chatgpt-are-attempts-understand-the-bible",
+   "url_id": "b17cc29dcf993ea2e45414afa064037e"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
- "articles_24h_rounded": 13400,
- "articles_24h_label": "about 13,000",
+ "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "articles_24h_rounded": 14700,
+ "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/11.mp3",
- "audio_seconds": 52.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/12.mp3",
+ "audio_seconds": 80.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per International Business Times, Singapore Edition: Claude AI Agent Got Inside Pentagon Network After Defense Contractor Shared Login Credentials.\nStill open, per Citizen Digital: China denies spying on Nvidia's Jensen Huang.\nReported by Shanghai Metals Market: Nvidia Unveils DSX POD: Modular AI Factory in a Shipping Container at GTC 2026.\nReported by WSB-TV: Family sues OpenAI, CEO Sam Altman over woman’s death.\nConfirmed, per Philippine Canadian Inquirer: Kim Jong Un calls for AI drone superiority as North Korea tests missiles, rockets.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nWikimedia Foundation warns that a recent artificial intelligence copyright ruling could threaten the open web. Confirmed by Crypto Briefing: Wikimedia urges courts to protect artificial intelligence training but not chatbot outputs that regurgitate content.\nMistral released a 1T-parameter open model for self-hosting. Reported by The Neuron: the company also offers a cyber variant for vetted partners.\nTrump used Grok to advise on Venezuela, and Congress demands the artificial intelligence chatbot logs be preserved. Reported by Tech Times: the Department of Justice then called the Presidential Records Act unconstitutional.\nIn 2015, Larry Page envisioned galaxy exploration by 2100 via von Neumann probes, with Elon Musk endorsing the idea. Reported by The Times of India: Microsoft artificial intelligence CEO Mustafa Suleyman recalls the sci-fi vision from a lunch.\nOrange Cyberdefense gains early access to Mistral artificial intelligence's cybersecurity variant for European clients. Reported by LEPTIDIGITAL: 82 percent of failles are corrected according to Mistral.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
