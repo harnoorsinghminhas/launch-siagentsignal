@@ -1,101 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T19:20:01Z",
- "hour": "2026-10-30T20:00:00Z",
+ "generated_at": "2026-10-30T20:20:01Z",
+ "hour": "2026-10-30T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI \"Ghost Students\" Steal Millions in Student Loans, DOJ Says",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+   "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
    "label": "CONFIRMED",
-   "summary_1line": "US charges five over AI-fueled ghost student fraud targeting 830K accounts and $130M in losses.",
-   "published_at": "2026-10-30T18:06:42Z",
-   "url_id": "4da51a8d3c864c8d2325e29e0068e50f"
+   "summary_1line": "Tampered Claude Code extension in Cursor marketplace targeted 5,000 users for data theft.",
+   "published_at": "2026-10-30T18:16:10Z",
+   "url_id": "02bc7cd153906f8b12b0b978ad05836f"
   },
   {
-   "title": "SpaceX launches Grok AI partner network for enterprise expansion",
-   "outlet": "MSSP Alert",
-   "outlet_name": "MSSP Alert",
-   "url": "https://www.msspalert.com/news/spacex-launches-grok-ai-partner-network-for-enterprise-expansion",
+   "title": "Mistral Releases 1-Trillion-Parameter AI Model for Cybersecurity",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/news-mistral-large-4-ai-cybersecurity-open-weights/",
+   "label": "CONFIRMED",
+   "summary_1line": "Mistral AI releases 1-trillion-parameter model for on-premises security AI use.",
+   "published_at": "2026-10-30T16:20:41Z",
+   "url_id": "7ce118f9dca73b64a992dc64727bdd5a"
+  },
+  {
+   "title": "OpenAI Just Announced Three Scientific Breakthroughs",
+   "outlet": "Vocal",
+   "outlet_name": "Vocal",
+   "url": "https://vocal.media/futurism/openai-just-announced-three-scientific-breakthroughs",
    "label": "REPORTED",
-   "summary_1line": "SpaceX expands Grok AI to enterprises via 130+ partners, including Ahead, Tech Mahindra, and EPAM.",
-   "published_at": "2026-10-30T16:51:54Z",
-   "url_id": "7bb30eb025eb822cfb780562015fc366"
+   "summary_1line": "OpenAI's AI solved three major scientific problems in 2026, with all proofs formally verified in Lean.",
+   "published_at": "2026-10-30T18:04:28Z",
+   "url_id": "74105d6a12ceac0cca51cb1cb99df3f1"
   },
   {
-   "title": "Anthropic Says Claude Built Five Exploit Chains Across Major Software",
-   "outlet": "eWeek",
-   "outlet_name": "eWeek",
-   "url": "https://www.eweek.com/news/anthropic-claude-five-exploit-chains/",
+   "title": "OpenAI Committs To Launch Community Safety Report On Violence Prevention & Other Community Safety Issues",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46G2ZA:0-openai-committs-to-launch-community-safety-report-on-violence-prevention-other-community-safety-issues/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI commits to a community safety report on violence prevention.",
+   "published_at": "2026-10-30T16:23:31Z",
+   "url_id": "bfa12c3f028579e17bbff3f0bd2ba06e"
+  },
+  {
+   "title": "Unvetted foreign workers at AI firms raise national security alarms, advocates warn",
+   "outlet": "930 WFMD Free Talk",
+   "outlet_name": "930 WFMD Free Talk",
+   "url": "https://www.wfmd.com/2026/10/30/unvetted-foreign-workers-at-ai-firms-raise-national-security-alarms-advocates-warn/",
    "label": "CONFIRMED",
-   "summary_1line": "Anthropic's Claude built five exploit chains across major systems in lab tests.",
-   "published_at": "2026-10-30T17:30:17Z",
-   "url_id": "aee99ab77ef58912821c7ebac62b13df"
-  },
-  {
-   "title": "China denies spying on Nvidia's Jensen Huang",
-   "outlet": "The Hindu",
-   "outlet_name": "The Hindu",
-   "url": "https://www.thehindu.com/news/international/china-denies-spying-on-nvidias-jensen-huang/article71646557.ece",
-   "label": "STILL OPEN",
-   "summary_1line": "China denies a spy plot involving Nvidia and a Singaporean data centre, calling it groundless speculation.",
-   "published_at": "2026-10-30T10:00:00Z",
-   "url_id": "2aaf7c6ab43e1563b0678fe8b6a4e10d"
-  },
-  {
-   "title": "TRAI Proposes Strict AI Rules for Telecom Networks",
-   "outlet": "Rediff MoneyWiz",
-   "outlet_name": "Rediff MoneyWiz",
-   "url": "https://money.rediff.com/news/market/trai-proposes-responsible-ai-guidelines-for-telecom-networks/57189620261030",
-   "label": "CONFIRMED",
-   "summary_1line": "TRAI proposes AI governance rules for telecom providers in India.",
-   "published_at": "2026-10-30T12:58:23Z",
-   "url_id": "2e90d45f705a0166038c59e0b9649101"
+   "summary_1line": "AI safety and foreign infiltration risks spark national security alarms amid rising incidents and calls for regulation.",
+   "published_at": "2026-10-30T19:29:29Z",
+   "url_id": "f009df3d98fd2e21c7d18f37066ca18d"
   }
  ],
  "ticker": [
   {
-   "headline": "AI \"Ghost Students\" Steal Millions in Student Loans, DOJ Says",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
+   "headline": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data…",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
    "label": "CONFIRMED",
-   "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
-   "url_id": "4da51a8d3c864c8d2325e29e0068e50f"
+   "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
+   "url_id": "02bc7cd153906f8b12b0b978ad05836f"
   },
   {
-   "headline": "SpaceX launches Grok AI partner network for enterprise expansion",
-   "outlet": "MSSP Alert",
-   "outlet_name": "MSSP Alert",
+   "headline": "Mistral Releases 1-Trillion-Parameter AI Model for Cybersecurity",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "label": "CONFIRMED",
+   "url": "https://www.techrepublic.com/article/news-mistral-large-4-ai-cybersecurity-open-weights/",
+   "url_id": "7ce118f9dca73b64a992dc64727bdd5a"
+  },
+  {
+   "headline": "OpenAI Just Announced Three Scientific Breakthroughs",
+   "outlet": "Vocal",
+   "outlet_name": "Vocal",
    "label": "REPORTED",
-   "url": "https://www.msspalert.com/news/spacex-launches-grok-ai-partner-network-for-enterprise-expansion",
-   "url_id": "7bb30eb025eb822cfb780562015fc366"
+   "url": "https://vocal.media/futurism/openai-just-announced-three-scientific-breakthroughs",
+   "url_id": "74105d6a12ceac0cca51cb1cb99df3f1"
   },
   {
-   "headline": "Anthropic Says Claude Built Five Exploit Chains Across Major Software",
-   "outlet": "eWeek",
-   "outlet_name": "eWeek",
+   "headline": "OpenAI Committs To Launch Community Safety Report On Violence Prevention & Other…",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "REPORTED",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN46G2ZA:0-openai-committs-to-launch-community-safety-report-on-violence-prevention-other-community-safety-issues/",
+   "url_id": "bfa12c3f028579e17bbff3f0bd2ba06e"
+  },
+  {
+   "headline": "Unvetted foreign workers at AI firms raise national security alarms, advocates warn",
+   "outlet": "930 WFMD Free Talk",
+   "outlet_name": "930 WFMD Free Talk",
    "label": "CONFIRMED",
-   "url": "https://www.eweek.com/news/anthropic-claude-five-exploit-chains/",
-   "url_id": "aee99ab77ef58912821c7ebac62b13df"
+   "url": "https://www.wfmd.com/2026/10/30/unvetted-foreign-workers-at-ai-firms-raise-national-security-alarms-advocates-warn/",
+   "url_id": "f009df3d98fd2e21c7d18f37066ca18d"
   },
   {
-   "headline": "China denies spying on Nvidia's Jensen Huang",
-   "outlet": "The Hindu",
-   "outlet_name": "The Hindu",
-   "label": "STILL OPEN",
-   "url": "https://www.thehindu.com/news/international/china-denies-spying-on-nvidias-jensen-huang/article71646557.ece",
-   "url_id": "2aaf7c6ab43e1563b0678fe8b6a4e10d"
+   "headline": "McGraw Hill plans Copilot access to licensed course materials",
+   "outlet": "OpenTools",
+   "outlet_name": "OpenTools",
+   "label": "REPORTED",
+   "url": "https://opentools.ai/news/mcgraw-hill-copilot-licensed-course-materials-limited-beta-2027",
+   "url_id": "37790fbdc1abe1245856528634f6aa51"
   },
   {
-   "headline": "TRAI Proposes Strict AI Rules for Telecom Networks",
-   "outlet": "Rediff MoneyWiz",
-   "outlet_name": "Rediff MoneyWiz",
+   "headline": "OpenAI to limit weapons information for teenagers in ChatGPT — Channel NewsAsia",
+   "outlet": "UA.NEWS",
+   "outlet_name": "UA.NEWS",
    "label": "CONFIRMED",
-   "url": "https://money.rediff.com/news/market/trai-proposes-responsible-ai-guidelines-for-telecom-networks/57189620261030",
-   "url_id": "2e90d45f705a0166038c59e0b9649101"
+   "url": "https://ua.news/en/technologies/openai-obmezhit-dlia-pidlitkiv-informatsiiu-pro-zbroiu-v-chatgpt-channel-newsasia",
+   "url_id": "74197290f07c992ad21dad0f09a1d938"
   },
   {
    "headline": "Google Gemini upgrades are rolling out to all supported Android devices",
@@ -114,20 +130,12 @@
    "url_id": "bafa68df361fc999449edec43075c48a"
   },
   {
-   "headline": "OpenAI Announces Community Safety Report and New Teen Weapons Limits",
+   "headline": "OpenAI to Honor Shared Robots.txt Signal for AI Training Preferences",
    "outlet": "Unite.AI",
    "outlet_name": "Unite.AI",
-   "label": "REPORTED",
-   "url": "https://www.unite.ai/openai-announces-community-safety-report-and-new-teen-weapons-limits/",
-   "url_id": "c176e1d01916dc33416f7e617ce23681"
-  },
-  {
-   "headline": "Google Announces Gemini 4 Carbon: A Revolutionary Leap in Code Generation and…",
-   "outlet": "Root-Nation.com",
-   "outlet_name": "Root-Nation.com",
-   "label": "REPORTED",
-   "url": "https://root-nation.com/en/news-en/it-news-en/en-google-s-gemini-4-carbon-promises-significant-leap-in-ai-coding-read-more-https-www-engadget-com-2300677-google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
-   "url_id": "02eb4f286ecc59e3bafcc1b231bfebf9"
+   "label": "CONFIRMED",
+   "url": "https://www.unite.ai/openai-to-honor-shared-robots-txt-signal-for-ai-training-preferences/",
+   "url_id": "a8cf90100be5199a676e9752e68f183d"
   },
   {
    "headline": "Google Gemini Notebook just gave students free access to hundreds of textbooks",
@@ -138,30 +146,22 @@
    "url_id": "2a9aaeb45d407af8a1f61e91abe68303"
   },
   {
-   "headline": "I stopped using ChatGPT, Claude, and Gemini for every little task, and my local LLM…",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
+   "headline": "Evil Qwen and activation steering: why SBOMs aren’t enough",
+   "outlet": "arize.com",
+   "outlet_name": "arize.com",
    "label": "CONFIRMED",
-   "url": "https://www.xda-developers.com/stopped-using-chatgpt-claude-gemini-for-every-little-task-local-llm-picked-up-slack/",
-   "url_id": "8a71f363d66fca05f1d88c7710fda557"
-  },
-  {
-   "headline": "The backdoored Claude Code 2.1.313 build in Cursor's marketplace, explained",
-   "outlet": "theainewsreport.com",
-   "outlet_name": "theainewsreport.com",
-   "label": "CONFIRMED",
-   "url": "https://theainewsreport.com/2026-10-30-cursor-claude-code-2-1-313-backdoor-explained.html",
-   "url_id": "1df6cd2925f406733a9d7d93e867502c"
+   "url": "https://arize.com/blog/evil-qwen-activation-steering/",
+   "url_id": "9ab5398bda1fbe80b9aab96cbff7daa3"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "tidbit": "Did you know… one story this hour was carried by three different outlets in the last few hours.",
  "articles_24h_rounded": 14600,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/20.mp3",
- "audio_seconds": 53.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/21.mp3",
+ "audio_seconds": 48.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Ars Technica: AI \"Ghost Students\" Steal Millions in Student Loans, DOJ Says.\nReported by MSSP Alert: SpaceX launches Grok AI partner network for enterprise expansion.\nConfirmed, per eWeek: Anthropic Says Claude Built Five Exploit Chains Across Major Software.\nStill open, per The Hindu: China denies spying on Nvidia's Jensen Huang.\nConfirmed, per Rediff MoneyWiz: TRAI Proposes Strict AI Rules for Telecom Networks.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per The Decoder: Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft.\nConfirmed, per TechRepublic: Mistral Releases 1-Trillion-Parameter AI Model for Cybersecurity.\nReported by Vocal: OpenAI Just Announced Three Scientific Breakthroughs.\nReported by TradingView: OpenAI Committs To Launch Community Safety Report On Violence Prevention & Other Community Safety Issues.\nConfirmed, per 930 WFMD Free Talk: Unvetted foreign workers at AI firms raise national security alarms, advocates warn.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
