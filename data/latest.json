@@ -1,125 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T06:20:01Z",
- "hour": "2026-10-30T07:00:00Z",
+ "generated_at": "2026-10-30T07:20:01Z",
+ "hour": "2026-10-30T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI tightens AI safety, says it could've detected Hugging Face breach 30 hrs earlier | System would've flagged Sept breach in 15 mins",
-   "outlet": "Inshorts",
-   "outlet_name": "Inshorts",
-   "url": "https://inshorts.com/en/news/openai-tightens-ai-safety--says-it-could-ve-detected-hugging-face-breach-30-hrs-earlier-1793332954854",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI's new safety system could have detected Hugging Face breach 30 hours earlier.",
-   "published_at": "2026-10-30T04:05:17Z",
-   "url_id": "3e2d011b1a14f04a618c1d0571ef5693"
+   "title": "Widow sues OpenAI, blaming ChatGPT for her husband’s death",
+   "outlet": "Courthouse News",
+   "outlet_name": "Courthouse News",
+   "url": "https://www.courthousenews.com/articles/widow-sues-openai-blaming-chatgpt-for-her-husbands-death",
+   "label": "STILL OPEN",
+   "summary_1line": "Feinberg sues OpenAI and Luka over chatbot use allegedly contributing to husband's suicide.",
+   "published_at": "2026-10-30T04:41:09Z",
+   "url_id": "89a8f751f58635d0b57f0e384d57da76"
   },
   {
-   "title": "Mistral Large 4 vs Claude Fable 5.1: 17 Points, 12x Price",
+   "title": "GOOGLE UNVEILS NEW AI: Gemini 4 Carbon Introduced With Advanced Coding And Cybersecurity Capabilities",
+   "outlet": "The Yeshiva World",
+   "outlet_name": "The Yeshiva World",
+   "url": "https://www.theyeshivaworld.com/news/general/2616718/google-unveils-new-ai-gemini-4-carbon-introduced-with-advanced-coding-and-cybersecurity-capabilities.html",
+   "label": "REPORTED",
+   "summary_1line": "Google's Gemini 4 Carbon scores 59, top in AI analysis index.",
+   "published_at": "2026-10-29T15:59:00Z",
+   "url_id": "5e73645f5e215aaa6a12c72a2fd4cd15"
+  },
+  {
+   "title": "Gemini 4 Carbon: first on the index, closed to callers",
    "outlet": "OrcaRouter",
    "outlet_name": "OrcaRouter",
-   "url": "https://www.orcarouter.ai/blog/mistral-large-4-vs-claude-fable-5-1",
+   "url": "https://www.orcarouter.ai/blog/gemini-4-carbon-launch-week-what-changed",
    "label": "REPORTED",
-   "summary_1line": "Mistral Large 4 released with ownership rights, outperforming Claude Fable 5.1 on benchmarks and offering lower token costs.",
-   "published_at": "2026-10-30T03:53:46Z",
-   "url_id": "08f8ebc4839158f7f89f506a96c1bfda"
+   "summary_1line": "Google announces Gemini 4 Carbon, top-ranked on AI index, with pricing and cybersecurity claims, but no model ID or technical specs.",
+   "published_at": "2026-10-30T06:30:10Z",
+   "url_id": "ef61f98813bd58041f18acd74212385d"
   },
   {
-   "title": "With Gemini 4 Carbon, Google Touts Big Leap in Cybersecurity Capabilities",
-   "outlet": "PCMag Middle East",
-   "outlet_name": "PCMag Middle East",
-   "url": "https://me.pcmag.com/en/ai/38481/with-gemini-4-carbon-google-touts-big-leap-in-cybersecurity-capabilities",
-   "label": "REPORTED",
-   "summary_1line": "Google's Gemini 4 Carbon outperforms rivals in cybersecurity with 0% prompt injection success.",
-   "published_at": "2026-10-30T03:49:44Z",
-   "url_id": "e1071fe50524a9fc1bb13388cf02e423"
-  },
-  {
-   "title": "Mistral Large 4 Day-0 RL: AIME 64% to 75% in 75 Steps",
+   "title": "Gemini 4 Carbon vs Gemini 4 Pro: one name is not a model",
    "outlet": "OrcaRouter",
    "outlet_name": "OrcaRouter",
-   "url": "https://www.orcarouter.ai/blog/mistral-large-4-day-zero-rl-recipe",
+   "url": "https://www.orcarouter.ai/blog/gemini-4-carbon-vs-gemini-4-pro",
    "label": "REPORTED",
-   "summary_1line": "SkyRL boosts Mistral Large 4's AIME score 11 points on 8 GB200 nodes via LoRA RL.",
-   "published_at": "2026-10-30T03:48:21Z",
-   "url_id": "94542d455d2ce83da40c05f778480207"
+   "summary_1line": "Google's Gemini 4 Carbon and Argon differ in intelligence and access, with no model named 'Pro'.",
+   "published_at": "2026-10-30T06:27:09Z",
+   "url_id": "d6c8051f6f665c56e48ed2fc2282065b"
   },
   {
-   "title": "Trust3 AI brings enterprise agent security to Claude Code",
-   "outlet": "Cyprus Shipping News",
-   "outlet_name": "Cyprus Shipping News",
-   "url": "https://cyprusshippingnews.com/2026/10/30/trust3-ai-brings-enterprise-agent-security-to-claude-code/",
+   "title": "SentinelOne Taps Anthropic’s Mythos 5.1 Amid Wave Of AI-Discovered Vulnerabilities",
+   "outlet": "SMBtech",
+   "outlet_name": "SMBtech",
+   "url": "https://smbtech.au/news/sentinelone-taps-anthropics-mythos-5-1-amid-wave-of-ai-discovered-vulnerabilities/",
    "label": "REPORTED",
-   "summary_1line": "Trust3 AI adds AI agent visibility to Claude Code without software installs.",
-   "published_at": "2026-10-30T03:21:01Z",
-   "url_id": "116e959b56c1e57e952f1e3239e33d9c"
+   "summary_1line": "SentinelOne adds Anthropic’s Claude Mythos 5.1 to its AI security service amid rising AI-driven vulnerability threats.",
+   "published_at": "2026-10-30T05:19:15Z",
+   "url_id": "fed67d34ee685eeee646a74cedf654bc"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI tightens AI safety, says it could've detected Hugging Face breach 30 hrs earlier |…",
-   "outlet": "Inshorts",
-   "outlet_name": "Inshorts",
-   "label": "REPORTED",
-   "url": "https://inshorts.com/en/news/openai-tightens-ai-safety--says-it-could-ve-detected-hugging-face-breach-30-hrs-earlier-1793332954854",
-   "url_id": "3e2d011b1a14f04a618c1d0571ef5693"
+   "headline": "Widow sues OpenAI, blaming ChatGPT for her husband’s death",
+   "outlet": "Courthouse News",
+   "outlet_name": "Courthouse News",
+   "label": "STILL OPEN",
+   "url": "https://www.courthousenews.com/articles/widow-sues-openai-blaming-chatgpt-for-her-husbands-death",
+   "url_id": "89a8f751f58635d0b57f0e384d57da76"
   },
   {
-   "headline": "Mistral Large 4 vs Claude Fable 5.1: 17 Points, 12x Price",
+   "headline": "GOOGLE UNVEILS NEW AI: Gemini 4 Carbon Introduced With Advanced Coding And Cybersecurity…",
+   "outlet": "The Yeshiva World",
+   "outlet_name": "The Yeshiva World",
+   "label": "REPORTED",
+   "url": "https://www.theyeshivaworld.com/news/general/2616718/google-unveils-new-ai-gemini-4-carbon-introduced-with-advanced-coding-and-cybersecurity-capabilities.html",
+   "url_id": "5e73645f5e215aaa6a12c72a2fd4cd15"
+  },
+  {
+   "headline": "Gemini 4 Carbon: first on the index, closed to callers",
    "outlet": "OrcaRouter",
    "outlet_name": "OrcaRouter",
    "label": "REPORTED",
-   "url": "https://www.orcarouter.ai/blog/mistral-large-4-vs-claude-fable-5-1",
-   "url_id": "08f8ebc4839158f7f89f506a96c1bfda"
+   "url": "https://www.orcarouter.ai/blog/gemini-4-carbon-launch-week-what-changed",
+   "url_id": "ef61f98813bd58041f18acd74212385d"
   },
   {
-   "headline": "With Gemini 4 Carbon, Google Touts Big Leap in Cybersecurity Capabilities",
-   "outlet": "PCMag Middle East",
-   "outlet_name": "PCMag Middle East",
-   "label": "REPORTED",
-   "url": "https://me.pcmag.com/en/ai/38481/with-gemini-4-carbon-google-touts-big-leap-in-cybersecurity-capabilities",
-   "url_id": "e1071fe50524a9fc1bb13388cf02e423"
-  },
-  {
-   "headline": "Mistral Large 4 Day-0 RL: AIME 64% to 75% in 75 Steps",
+   "headline": "Gemini 4 Carbon vs Gemini 4 Pro: one name is not a model",
    "outlet": "OrcaRouter",
    "outlet_name": "OrcaRouter",
    "label": "REPORTED",
-   "url": "https://www.orcarouter.ai/blog/mistral-large-4-day-zero-rl-recipe",
-   "url_id": "94542d455d2ce83da40c05f778480207"
+   "url": "https://www.orcarouter.ai/blog/gemini-4-carbon-vs-gemini-4-pro",
+   "url_id": "d6c8051f6f665c56e48ed2fc2282065b"
   },
   {
-   "headline": "Trust3 AI brings enterprise agent security to Claude Code",
-   "outlet": "Cyprus Shipping News",
-   "outlet_name": "Cyprus Shipping News",
+   "headline": "SentinelOne Taps Anthropic’s Mythos 5.1 Amid Wave Of AI-Discovered Vulnerabilities",
+   "outlet": "SMBtech",
+   "outlet_name": "SMBtech",
    "label": "REPORTED",
-   "url": "https://cyprusshippingnews.com/2026/10/30/trust3-ai-brings-enterprise-agent-security-to-claude-code/",
-   "url_id": "116e959b56c1e57e952f1e3239e33d9c"
+   "url": "https://smbtech.au/news/sentinelone-taps-anthropics-mythos-5-1-amid-wave-of-ai-discovered-vulnerabilities/",
+   "url_id": "fed67d34ee685eeee646a74cedf654bc"
   },
   {
-   "headline": "TACTICAAI and NVIDIA collaborate to scale agentic AI capabilities with NVIDIA Nemotron",
-   "outlet": "Cyprus Shipping News",
-   "outlet_name": "Cyprus Shipping News",
+   "headline": "Chinese espionage plot impacts Nvidia's chip business",
+   "outlet": "Escudo Digital",
+   "outlet_name": "Escudo Digital",
    "label": "REPORTED",
-   "url": "https://cyprusshippingnews.com/2026/10/30/tacticaai-and-nvidia-collaborate-to-scale-agentic-ai-capabilities-with-nvidia-nemotron/",
-   "url_id": "606833a4d2e645e2b989c02a17328f95"
+   "url": "https://www.escudodigital.com/en/cybersecurity/chinese-espionage-plot-impacts-nvidias-chip-business.html",
+   "url_id": "93434ae8bfdc2e517e078fa8ee3b0fa6"
   },
   {
-   "headline": "Nvidia’s web of AI bets: Smart strategy or bubble risk?",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
+   "headline": "SpaceX and Tesla merger, Anthropic AI lawyers: technology news",
+   "outlet": "Realnoe vremya",
+   "outlet_name": "Realnoe vremya",
    "label": "REPORTED",
-   "url": "https://www.straitstimes.com/business/nvidias-web-of-ai-bets-smart-strategy-or-bubble-risk",
-   "url_id": "d8962e9dffe0dbd3fce3111843a706d7"
+   "url": "https://realnoevremya.com/articles/9638-spacex-and-tesla-merger-anthropic-ai-lawyers-technology-news",
+   "url_id": "86a54fd58c80406921516879f76a1f70"
   },
   {
-   "headline": "The story of Anthropic in three numbers",
-   "outlet": "ft.com",
-   "outlet_name": "Financial Times",
-   "label": "REPORTED",
-   "url": "https://www.ft.com/content/fe539e51-61d4-49e8-ab1f-65fd19a74b66?syn-25a6b1a6=1",
-   "url_id": "00b70c3deaab736cce5b70a52029e968"
+   "headline": "The latest Google Home update goes way beyond Gemini and fixes your Nest gear too",
+   "outlet": "androidpolice.com",
+   "outlet_name": "androidpolice.com",
+   "label": "CONFIRMED",
+   "url": "https://www.androidpolice.com/latest-google-home-update-goes-way-beyond-gemini-fixes-nest-gear-too/",
+   "url_id": "fcaec293e16ec9342c4d0d9303237a64"
   },
   {
    "headline": "Nvidia dominates AI robot chips with 69% market share",
@@ -130,38 +130,38 @@
    "url_id": "50b04572d1e9b46af0cd5f6b8307651c"
   },
   {
-   "headline": "Sources: Indian AI infrastructure company AM Intelligence seeks to raise as much as $3B…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
+   "headline": "Trojanized Claude Code Extension Plants an SSH Backdoor",
+   "outlet": "opensourcemalware.com",
+   "outlet_name": "opensourcemalware.com",
    "label": "REPORTED",
-   "url": "https://www.techmeme.com/261029/p69#a261029p69",
-   "url_id": "3c1c5739a8044e75e70c2777f44fcbfc"
+   "url": "https://opensourcemalware.com/blog/trojanized-claude-code-extension-plants-persistent-ssh-backdoor",
+   "url_id": "75a261f0d899b6b698ec1f4acd900948"
   },
   {
-   "headline": "OpenAI-Backed Thrive Holdings to Acquire ADT in $15.3B All-Cash Deal",
-   "outlet": "Unite.AI",
-   "outlet_name": "Unite.AI",
+   "headline": "A Claude Code agent's test escaped into my Mac. I only noticed because it talked",
+   "outlet": "marutpandya.com",
+   "outlet_name": "marutpandya.com",
    "label": "REPORTED",
-   "url": "https://www.unite.ai/openai-backed-thrive-holdings-to-acquire-adt-in-15-3b-all-cash-deal/",
-   "url_id": "5b44c372fc96caebcda32c12276e37b7"
+   "url": "https://www.marutpandya.com/posts/2026/10/my-mac-started-reading-json-aloud/",
+   "url_id": "86590a88b2c59c5995e208fef53a7257"
   },
   {
-   "headline": "Gemini’s latest integration can tell you if you’re getting faster, one run at a time",
-   "outlet": "androidauthority.com",
-   "outlet_name": "androidauthority.com",
+   "headline": "What Claude Code's 30-second agent summary call costs, read from the binary",
+   "outlet": "theainewsreport.com",
+   "outlet_name": "theainewsreport.com",
    "label": "REPORTED",
-   "url": "https://www.androidauthority.com/google-gemini-strava-integration-3729811/",
-   "url_id": "1f4578b92b414783a1e57b3ab7f8a9cf"
+   "url": "https://theainewsreport.com/2026-10-29-claude-code-agent-summary-cost-explained.html",
+   "url_id": "4d9b58b182c3fddff4d9b02f1d2a473f"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from four different outlets.",
  "articles_24h_rounded": 13500,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/07.mp3",
- "audio_seconds": 61.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/08.mp3",
+ "audio_seconds": 56.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI's new safety system could have detected the Hugging Face breach 30 hours earlier, flagging it in 15 minutes, reported by Inshorts.\nMistral Large 4 released with ownership rights, outperforming Claude Fable 5.1 on benchmarks and offering lower token costs, reported by OrcaRouter.\nGoogle's Gemini 4 Carbon outperforms rivals in cybersecurity with 0 percent prompt injection success, reported by PCMag Middle East.\nSkyRL boosts Mistral Large 4's AIME score 11 points on 8 GB200 nodes via LoRA RL, reported by OrcaRouter.\nTrust3 AI adds artificial intelligence agent visibility to Claude Code without software installs, reported by Cyprus Shipping News.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA widow sues OpenAI and Luka over ChatGPT use allegedly contributing to her husband's suicide, still open per Courthouse News.\nGoogle's Gemini 4 Carbon scores 59, top in artificial intelligence analysis index, reported by The Yeshiva World.\nGoogle announces Gemini 4 Carbon, top-ranked on artificial intelligence index, with pricing and cybersecurity claims, but no model ID or technical specs, reported by OrcaRouter.\nGoogle's Gemini 4 Carbon and Argon differ in intelligence and access, with no model named Pro, reported by OrcaRouter.\nSentinelOne adds Anthropic's Claude Mythos 5.1 to its artificial intelligence security service amid rising artificial intelligence-driven vulnerability threats, reported by SMBtech.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
