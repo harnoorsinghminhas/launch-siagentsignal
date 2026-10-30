@@ -1,101 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T17:20:01Z",
- "hour": "2026-10-30T18:00:00Z",
+ "generated_at": "2026-10-30T18:20:01Z",
+ "hour": "2026-10-30T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+   "title": "From Stanford to Central Asia: Oxus Metals AI Raises US$36 Million to Transform Mineral Discovery Beyond Geopolitical Fault Lines",
+   "outlet": "巴士的報",
+   "outlet_name": "巴士的報",
+   "url": "https://www.bastillepost.com/global/article/6309423-from-stanford-to-central-asia-oxus-metals-ai-raises-us36-million-to-transform-mineral-discovery-beyond-geopolitical-fault-lines",
    "label": "CONFIRMED",
-   "summary_1line": "Pope Leo XIV urges banning lethal AI weapons and human oversight in AI decisions.",
-   "published_at": "2026-10-30T14:58:06Z",
-   "url_id": "d7f3b41f1dba70c81d259dfc49ace297"
+   "summary_1line": "Oxus Metals AI raises $36M to use AI in mineral exploration across Central Asia and beyond.",
+   "published_at": "2026-10-30T15:07:00Z",
+   "url_id": "6e65e47a9f48a67e27a30c44699c698f"
   },
   {
-   "title": "Google Gemini Now Lets You Edit Docs and PDFs Directly in Chat",
-   "outlet": "Android Headlines",
-   "outlet_name": "Android Headlines",
-   "url": "https://www.androidheadlines.com/2026/10/gemini-edit-files-docs-pdf-directly-in-chat.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Google lets Gemini users edit files in real time inside chat.",
-   "published_at": "2026-10-30T14:48:21Z",
-   "url_id": "2538f50b67edb284408cabbd56a3d42f"
-  },
-  {
-   "title": "Judge strikes Medicaid ‘medically frail’ limit; family sues OpenAI over ChatGPT drug taper; Medicare fraud fugitive gets 20 years — Morning Medical Update Weekly Recap",
-   "outlet": "Medical Economics",
-   "outlet_name": "Medical Economics",
-   "url": "https://www.medicaleconomics.com/view/judge-strikes-medicaid-medically-frail-limit-family-sues-openai-over-chatgpt-drug-taper-medicare-fraud-fugitive-gets-20-years-weekly-recap",
+   "title": "Nvidia launches RTX Spark laptops with local AI push",
+   "outlet": "IT Brief UK",
+   "outlet_name": "IT Brief UK",
+   "url": "https://itbrief.co.uk/story/nvidia-launches-rtx-spark-laptops-with-local-ai-push",
    "label": "REPORTED",
-   "summary_1line": "Judge strikes Medicaid frailty rule; family sues OpenAI over ChatGPT drug taper; fraudster gets 20 years for Medicare scam.",
-   "published_at": "2026-10-30T16:19:33Z",
-   "url_id": "a36d93680614c724e32c14ecea391696"
+   "summary_1line": "Nvidia launches RTX Spark laptops with local AI and 128GB memory at $2,399.",
+   "published_at": "2026-10-30T16:15:00Z",
+   "url_id": "ea7f4876022f522df3b6f83f4ce0bf92"
   },
   {
-   "title": "Nvidia Takes On Rogue AI Agents With Software And Hardware Guardrails",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/articles/nvidia-takes-rogue-ai-agents-140000543.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Nvidia launches AI agent guardrails to prevent rogue actions in enterprise environments.",
-   "published_at": "2026-10-30T14:00:00Z",
-   "url_id": "9e57cbee46332bb6888f44b09f60f37e"
-  },
-  {
-   "title": "Texas sues OpenAI over ChatGPT’s alleged harmful advice, child safety risks",
-   "outlet": "Top Class Actions",
-   "outlet_name": "Top Class Actions",
-   "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/texas-sues-openai-over-chatgpts-alleged-harmful-advice-child-safety-risks/",
+   "title": "Google Unveils Gemini Suggested Autofill for Chrome: What Users Should Know",
+   "outlet": "TechRepublic",
+   "outlet_name": "TechRepublic",
+   "url": "https://www.techrepublic.com/article/news-google-gemini-chrome-autofill-gmail/",
    "label": "REPORTED",
-   "summary_1line": "Texas sues OpenAI and Sam Altman over ChatGPT safety claims and child data practices.",
-   "published_at": "2026-10-30T16:05:57Z",
-   "url_id": "d8a538807e04fc8ec63af5579d9a25f7"
+   "summary_1line": "Google's Chrome now suggests email info for forms using Gemini-powered autofill.",
+   "published_at": "2026-10-30T15:20:41Z",
+   "url_id": "6cc9b342c861e3066183b8003edc825c"
+  },
+  {
+   "title": "According to OpenAI CEO Sam Altman, 'It's Quite Terrible' for People to Have RAM in Their Own Computers",
+   "outlet": "IGN",
+   "outlet_name": "IGN",
+   "url": "https://www.ign.com/articles/openai-ceo-sam-altman-thinks-its-terrible-for-you-to-have-ram-in-your-gaming-pc",
+   "label": "CONFIRMED",
+   "summary_1line": "Altman criticizes personal RAM use, linking AI demand to rising consumer hardware prices.",
+   "published_at": "2026-10-30T15:40:36Z",
+   "url_id": "d919362182f4275beb022310cb872c1a"
+  },
+  {
+   "title": "INSEAD establishes Thrive Lab with US$3 million funding from Google.org and Google DeepMind",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "url": "https://www.prnewswire.com/news-releases/insead-establishes-thrive-lab-with-us3-million-funding-from-googleorg-and-google-deepmind-302924894.html",
+   "label": "REPORTED",
+   "summary_1line": "INSEAD launches AI-focused research lab with $3M from Google, aiming to advance human well-being in the age of AI.",
+   "published_at": "2026-10-30T14:04:17Z",
+   "url_id": "8ea8d911be8d4f25308ecfc050b5829c"
   }
  ],
  "ticker": [
   {
-   "headline": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-   "outlet": "theverge.com",
-   "outlet_name": "The Verge",
+   "headline": "From Stanford to Central Asia: Oxus Metals AI Raises US$36 Million to Transform Mineral…",
+   "outlet": "巴士的報",
+   "outlet_name": "巴士的報",
    "label": "CONFIRMED",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-   "url_id": "d7f3b41f1dba70c81d259dfc49ace297"
-  },
-  {
-   "headline": "Google Gemini Now Lets You Edit Docs and PDFs Directly in Chat",
-   "outlet": "Android Headlines",
-   "outlet_name": "Android Headlines",
-   "label": "CONFIRMED",
-   "url": "https://www.androidheadlines.com/2026/10/gemini-edit-files-docs-pdf-directly-in-chat.html",
-   "url_id": "2538f50b67edb284408cabbd56a3d42f"
-  },
-  {
-   "headline": "Judge strikes Medicaid ‘medically frail’ limit; family sues OpenAI over ChatGPT drug…",
-   "outlet": "Medical Economics",
-   "outlet_name": "Medical Economics",
-   "label": "REPORTED",
-   "url": "https://www.medicaleconomics.com/view/judge-strikes-medicaid-medically-frail-limit-family-sues-openai-over-chatgpt-drug-taper-medicare-fraud-fugitive-gets-20-years-weekly-recap",
-   "url_id": "a36d93680614c724e32c14ecea391696"
-  },
-  {
-   "headline": "Nvidia Takes On Rogue AI Agents With Software And Hardware Guardrails",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/ai/articles/nvidia-takes-rogue-ai-agents-140000543.html",
-   "url_id": "9e57cbee46332bb6888f44b09f60f37e"
-  },
-  {
-   "headline": "Texas sues OpenAI over ChatGPT’s alleged harmful advice, child safety risks",
-   "outlet": "Top Class Actions",
-   "outlet_name": "Top Class Actions",
-   "label": "REPORTED",
-   "url": "https://topclassactions.com/lawsuit-settlements/lawsuit-news/texas-sues-openai-over-chatgpts-alleged-harmful-advice-child-safety-risks/",
-   "url_id": "d8a538807e04fc8ec63af5579d9a25f7"
+   "url": "https://www.bastillepost.com/global/article/6309423-from-stanford-to-central-asia-oxus-metals-ai-raises-us36-million-to-transform-mineral-discovery-beyond-geopolitical-fault-lines",
+   "url_id": "6e65e47a9f48a67e27a30c44699c698f"
   },
   {
    "headline": "Nvidia launches RTX Spark laptops with local AI push",
@@ -122,12 +90,28 @@
    "url_id": "d919362182f4275beb022310cb872c1a"
   },
   {
-   "headline": "Microsoft to end Copilot support on LG, Samsung smart TVs",
-   "outlet": "TheDesk.net",
-   "outlet_name": "TheDesk.net",
+   "headline": "INSEAD establishes Thrive Lab with US$3 million funding from Google.org and Google…",
+   "outlet": "PR Newswire",
+   "outlet_name": "PR Newswire",
+   "label": "REPORTED",
+   "url": "https://www.prnewswire.com/news-releases/insead-establishes-thrive-lab-with-us3-million-funding-from-googleorg-and-google-deepmind-302924894.html",
+   "url_id": "8ea8d911be8d4f25308ecfc050b5829c"
+  },
+  {
+   "headline": "Cognizant forms OpenAI delivery group with more than 25,000 professionals",
+   "outlet": "ROI-NJ",
+   "outlet_name": "ROI-NJ",
    "label": "CONFIRMED",
-   "url": "https://thedesk.net/2026/10/microsoft-copilot-ending-lg-samsung-smart-tvs/",
-   "url_id": "681b3b35f7a68540742b28f00d1c561a"
+   "url": "https://www.roi-nj.com/2026/10/30/tech/cognizant-forms-openai-delivery-group-with-more-than-25000-professionals/",
+   "url_id": "66205de8d9eceb9d142e7824c994af89"
+  },
+  {
+   "headline": "As Anthropic finally files for IPO, rising risks aren’t slowing the AI buildout – yet",
+   "outlet": "SiliconANGLE",
+   "outlet_name": "SiliconANGLE",
+   "label": "CONFIRMED",
+   "url": "https://siliconangle.com/2026/10/30/as-anthropic-finally-files-for-ipo-rising-risks-arent-slowing-the-ai-buildout-yet/",
+   "url_id": "7b685ad99a5b9221dc9125bf8950ef4f"
   },
   {
    "headline": "Anthropic staff say AI could kill everyone. But its safety rule keeps getting weaker",
@@ -152,16 +136,32 @@
    "label": "REPORTED",
    "url": "https://root-nation.com/en/news-en/it-news-en/en-google-s-gemini-4-carbon-promises-significant-leap-in-ai-coding-read-more-https-www-engadget-com-2300677-google-gemini-carbon-promises-significant-leap-in-ai-coding-and-cybersecurity/",
    "url_id": "02eb4f286ecc59e3bafcc1b231bfebf9"
+  },
+  {
+   "headline": "I stopped using ChatGPT, Claude, and Gemini for every little task, and my local LLM…",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
+   "label": "CONFIRMED",
+   "url": "https://www.xda-developers.com/stopped-using-chatgpt-claude-gemini-for-every-little-task-local-llm-picked-up-slack/",
+   "url_id": "8a71f363d66fca05f1d88c7710fda557"
+  },
+  {
+   "headline": "The backdoored Claude Code 2.1.313 build in Cursor's marketplace, explained",
+   "outlet": "theainewsreport.com",
+   "outlet_name": "theainewsreport.com",
+   "label": "CONFIRMED",
+   "url": "https://theainewsreport.com/2026-10-30-cursor-claude-code-2-1-313-backdoor-explained.html",
+   "url_id": "1df6cd2925f406733a9d7d93e867502c"
   }
  ],
- "tidbit": "Did you know… one story this hour was carried by four different outlets in the last few hours.",
+ "tidbit": "Did you know… about 15,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 14600,
  "articles_24h_label": "about 15,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/18.mp3",
- "audio_seconds": 68.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/19.mp3",
+ "audio_seconds": 69.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nPope Leo calls for disarmament of lethal artificial intelligence weapons and human oversight in decisions. Confirmed by The Verge: machines are tools, not persons.\nGoogle Gemini now lets you edit documents and PDFs directly inside the chat interface. Confirmed by Android Headlines: real time file editing is now available.\nA judge struck down Medicaid's medically frail limit. Reported by Medical Economics: a family sues OpenAI over ChatGPT drug taper advice, and a Medicare fraud fugitive received 20 years.\nNvidia launches software and hardware guardrails to take on rogue artificial intelligence agents in enterprise environments. Confirmed by Yahoo Tech: safeguards prevent unauthorized actions.\nTexas sues OpenAI and Sam Altman over ChatGPT safety claims and child data practices. Reported by Top Class Actions: allegations include harmful advice and child safety risks.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOxus Metals AI has raised 36 million dollars to use artificial intelligence in mineral exploration across Central Asia and beyond, confirmed by 巴士的報.\nNvidia has launched RTX Spark laptops with local artificial intelligence and 128GB memory at 2,399 dollars, reported by IT Brief UK.\nGoogle's Chrome now suggests email information for forms using Gemini-powered autofill, reported by TechRepublic.\nAccording to OpenAI CEO Sam Altman, it's quite terrible for people to have RAM in their own computers, confirmed by IGN. Altman links artificial intelligence demand to rising consumer hardware prices.\nINSEAD has launched an artificial intelligence-focused research lab with 3 million dollars from Google, reported by PR Newswire. The lab aims to advance human well-being in the age of artificial intelligence.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
