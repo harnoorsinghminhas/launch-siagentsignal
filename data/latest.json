@@ -1,101 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T02:20:01Z",
- "hour": "2026-10-31T03:00:00Z",
+ "generated_at": "2026-10-31T03:20:01Z",
+ "hour": "2026-10-31T04:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "China denies spying on Nvidia's Jensen Huang",
-   "outlet": "The New Indian Express",
-   "outlet_name": "The New Indian Express",
-   "url": "https://www.newindianexpress.com/amp/story/world/2026/Oct/30/china-denies-spying-on-nvidias-jensen-huang",
-   "label": "STILL OPEN",
-   "summary_1line": "China denies U.S. report of spy plot involving Megaspeed and Nvidia executive Alice Huang.",
-   "published_at": "2026-10-30T18:57:00Z",
-   "url_id": "547a2e799c8dd0ae2c7613e2eb9af98c"
+   "title": "Qwen-powered Apple AI to launch in China in December",
+   "outlet": "China Daily Global Edition",
+   "outlet_name": "China Daily Global Edition",
+   "url": "http://global.chinadaily.com.cn/a/202610/31/WS6ae54463e4b06d4aa0566359.html",
+   "label": "REPORTED",
+   "summary_1line": "Apple integrates Qwen AI into China's Apple Intelligence, launching in December.",
+   "published_at": "2026-10-31T01:29:07Z",
+   "url_id": "1181c6023c79ef3e6fdba83eedd4dd5e"
   },
   {
-   "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-   "outlet": "Financial Times",
-   "outlet_name": "Financial Times",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUV4SzVmMzFLRkI1UUhWNFBucHlqRTVacXh1cDlWRTFVY1pQeHBIUGtTRFlhSDNHc25OVUVqWGZZOFZLazRVaVpWR3luWk5ORWRBeFBUd0RsYndHZ3YwV2RVRFN5WTRYdzEwTm8yS0Z0YkRUQmNpTERIaWdKQU1Dbl9DZk4?oc=5",
+   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "label": "CONFIRMED",
+   "summary_1line": "Nvidia to back Nscale’s West Virginia AI data center with debt guarantee.",
+   "published_at": "2026-10-31T01:20:05Z",
+   "url_id": "778066fca87ac97904e51705070469ea"
+  },
+  {
+   "title": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+   "outlet": "WSJ",
+   "outlet_name": "WSJ",
+   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-31T00:06:45Z",
-   "url_id": "6c8413714a2c518a272ef8ae5af5eac0"
+   "published_at": "2026-10-31T01:56:25Z",
+   "url_id": "85ee6b6999ac6d594023983f708ea0b2"
   },
   {
-   "title": "EXCLUSIVE: Trump's Secret AI Chats Under Scrutiny — Congress Demands Grok Records After Venezuela Military Operation",
-   "outlet": "Radar Online",
-   "outlet_name": "Radar Online",
-   "url": "https://radaronline.com/p/trump-secret-ai-chats-congress-demands-grok-records-venezuela-military-operation/",
-   "label": "STILL OPEN",
-   "summary_1line": "Congress demands records of Trump's alleged AI chats with Elon Musk's Grok over Venezuela policy.",
-   "published_at": "2026-10-30T16:19:00Z",
-   "url_id": "175923f1cdf2dcf884ced54f6ed8bbf6"
+   "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+   "label": "CONFIRMED",
+   "summary_1line": "Crosby bids for Weil Gotshal's assets, aiming to reshape the legal industry with AI.",
+   "published_at": "2026-10-30T19:55:13Z",
+   "url_id": "2964e7b615a781fc5b4ebe34bd670090"
   },
   {
-   "title": "NYU’s Damodaran: Worst that can happen for Anthropic is the mood keeps going the way it is now",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/video/2026/10/30/nyuas-damodaran-worst-that-can-happen-for-anthropic-is-the-mood-keeps-going-the-way-it-is-now.html",
-   "label": "STILL OPEN",
-   "summary_1line": "Damodaran and Ives discuss speculation Anthropic may miss investment-grade rating post-IPO.",
-   "published_at": "2026-10-30T19:07:58Z",
-   "url_id": "675363db93632695fdb5368b0af433e9"
-  },
-  {
-   "title": "Mistral Releases Open-Source Weights for Large 4 AI Model with 1 Trillion Parameters",
-   "outlet": "ForkLog",
-   "outlet_name": "ForkLog",
-   "url": "https://forklog.com/en/mistral-releases-open-source-weights-for-large-4-ai-model-with-1-trillion-parameters/",
+   "title": "Kosa8 Labs Publishes AI Agent Security Benchmark for Regulated Firms",
+   "outlet": "The Fintech Times",
+   "outlet_name": "The Fintech Times",
+   "url": "https://thefintechtimes.com/kosa8-labs-publishes-ai-agent-security-benchmark-for-regulated-firms/",
    "label": "REPORTED",
-   "summary_1line": "Mistral releases 1.05-trillion-parameter Large 4 AI model with strong coding and cybersecurity performance.",
-   "published_at": "2026-10-30T13:30:00Z",
-   "url_id": "91012736240a238e1eee5f50cc32cef3"
+   "summary_1line": "Kosa8 claims its AI agent platform meets all 13 security requirements, with launch on Product Hunt set for 20 October 2026.",
+   "published_at": "2026-10-30T19:00:12Z",
+   "url_id": "3f8a8d6dc65a4431e0202e7725971cd0"
   }
  ],
  "ticker": [
   {
-   "headline": "China denies spying on Nvidia's Jensen Huang",
-   "outlet": "The New Indian Express",
-   "outlet_name": "The New Indian Express",
-   "label": "STILL OPEN",
-   "url": "https://www.newindianexpress.com/amp/story/world/2026/Oct/30/china-denies-spying-on-nvidias-jensen-huang",
-   "url_id": "547a2e799c8dd0ae2c7613e2eb9af98c"
-  },
-  {
-   "headline": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-   "outlet": "Financial Times",
-   "outlet_name": "Financial Times",
+   "headline": "Qwen-powered Apple AI to launch in China in December",
+   "outlet": "China Daily Global Edition",
+   "outlet_name": "China Daily Global Edition",
    "label": "REPORTED",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaUV4SzVmMzFLRkI1UUhWNFBucHlqRTVacXh1cDlWRTFVY1pQeHBIUGtTRFlhSDNHc25OVUVqWGZZOFZLazRVaVpWR3luWk5ORWRBeFBUd0RsYndHZ3YwV2RVRFN5WTRYdzEwTm8yS0Z0YkRUQmNpTERIaWdKQU1Dbl9DZk4?oc=5",
-   "url_id": "6c8413714a2c518a272ef8ae5af5eac0"
+   "url": "http://global.chinadaily.com.cn/a/202610/31/WS6ae54463e4b06d4aa0566359.html",
+   "url_id": "1181c6023c79ef3e6fdba83eedd4dd5e"
   },
   {
-   "headline": "EXCLUSIVE: Trump's Secret AI Chats Under Scrutiny — Congress Demands Grok Records After…",
-   "outlet": "Radar Online",
-   "outlet_name": "Radar Online",
-   "label": "STILL OPEN",
-   "url": "https://radaronline.com/p/trump-secret-ai-chats-congress-demands-grok-records-venezuela-military-operation/",
-   "url_id": "175923f1cdf2dcf884ced54f6ed8bbf6"
+   "headline": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "url_id": "778066fca87ac97904e51705070469ea"
   },
   {
-   "headline": "NYU’s Damodaran: Worst that can happen for Anthropic is the mood keeps going the way it…",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "STILL OPEN",
-   "url": "https://www.cnbc.com/video/2026/10/30/nyuas-damodaran-worst-that-can-happen-for-anthropic-is-the-mood-keeps-going-the-way-it-is-now.html",
-   "url_id": "675363db93632695fdb5368b0af433e9"
-  },
-  {
-   "headline": "Mistral Releases Open-Source Weights for Large 4 AI Model with 1 Trillion Parameters",
-   "outlet": "ForkLog",
-   "outlet_name": "ForkLog",
+   "headline": "OpenAI Raises Less Than Half of $30 Billion Target in Latest Round",
+   "outlet": "WSJ",
+   "outlet_name": "WSJ",
    "label": "REPORTED",
-   "url": "https://forklog.com/en/mistral-releases-open-source-weights-for-large-4-ai-model-with-1-trillion-parameters/",
-   "url_id": "91012736240a238e1eee5f50cc32cef3"
+   "url": "https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5",
+   "url_id": "85ee6b6999ac6d594023983f708ea0b2"
+  },
+  {
+   "headline": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+   "url_id": "2964e7b615a781fc5b4ebe34bd670090"
+  },
+  {
+   "headline": "Kosa8 Labs Publishes AI Agent Security Benchmark for Regulated Firms",
+   "outlet": "The Fintech Times",
+   "outlet_name": "The Fintech Times",
+   "label": "REPORTED",
+   "url": "https://thefintechtimes.com/kosa8-labs-publishes-ai-agent-security-benchmark-for-regulated-firms/",
+   "url_id": "3f8a8d6dc65a4431e0202e7725971cd0"
+  },
+  {
+   "headline": "Anthropic files potential record-breaking IPO",
+   "outlet": "Fox Business",
+   "outlet_name": "Fox Business",
+   "label": "REPORTED",
+   "url": "https://www.foxbusiness.com/video/6407688698112",
+   "url_id": "146e483c12ae13d15eab3e4ca8b04766"
+  },
+  {
+   "headline": "AI development is too vital to US security to become a partisan issue | LSE United States…",
+   "outlet": "The London School of Economics and Political Science",
+   "outlet_name": "The London School of Economics and Political Science",
+   "label": "REPORTED",
+   "url": "https://blogs.lse.ac.uk/usappblog/2026/10/30/ai-development-partisan-national-security/",
+   "url_id": "7cba12a842c991b561c4fbc5874c0b5e"
   },
   {
    "headline": "Wikimedia Takes on the AI Copyright Debate: What It Wants From OpenAI",
@@ -106,62 +122,46 @@
    "url_id": "a45d1217b468aee7a988c324fd603a5a"
   },
   {
-   "headline": "OpenAI Analyzes How ChatGPT Is Actually Used: Over 800,000 Logs Point to a Rise in…",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "Rewriting Copyright Law for Generative AI Would Hurt Everyone",
+   "outlet": "eff.org",
+   "outlet_name": "eff.org",
    "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/c3c5dc10-f3c8-44db-a252-ec54c077fb99",
-   "url_id": "7778b024aae006617c2a7c1343850de1"
+   "url": "https://www.eff.org/deeplinks/2026/10/rewriting-copyright-law-generative-ai-would-hurt-everyone",
+   "url_id": "54f9c0decde02b0e13d400c81b533ecc"
   },
   {
-   "headline": "Apple confirms its AI features reach China in December, with Qwen",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
+   "headline": "House Democrats Press OpenAI on ‘Whistleblower’ Firings, Hacking Incidents (Oct 30, 2026)",
+   "outlet": "VitalLaw.com",
+   "outlet_name": "VitalLaw.com",
    "label": "REPORTED",
-   "url": "https://thenextweb.com/news/apple-intelligence-china-ios-27-3-alibaba-qwen",
-   "url_id": "8a763fb96557cb818515fed4f30599d5"
+   "url": "https://www.vitallaw.com/news/house-democrats-press-openai-on-whistleblower-firings-hacking-incidents/cspd015b1cdd20501a4f01be8b709d2dc82edf",
+   "url_id": "8e7537785c55c901305544eb89d5760e"
   },
   {
-   "headline": "OpenAI, Google, Microsoft and Anthropic Back Shared Opt-Out Token for AI Crawlers",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+   "outlet": "Cryptonews.net",
+   "outlet_name": "Cryptonews.net",
    "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/62dc607d-ae87-403b-8a4b-67cb3604d1de",
-   "url_id": "926c152debd97d3b3d9eeda461e53b41"
+   "url": "https://cryptonews.net/news/finance/33680284/",
+   "url_id": "5a2e0a6a478cb390b3bbd236994a9c81"
   },
   {
-   "headline": "H3 Company Drops Out of Nvidia AI Scraping Lawsuit",
-   "outlet": "openclassactions.com",
-   "outlet_name": "openclassactions.com",
-   "label": "REPORTED",
-   "url": "https://openclassactions.com/news/ai/ted-entertainment-h3-drops-nvidia-ai-scraping-lawsuit.php",
-   "url_id": "fdfec9577fc895b93fc539edecb9f794"
-  },
-  {
-   "headline": "Anthropic files for initial public offering amid broader tech market volatility",
-   "outlet": "scworld.com",
-   "outlet_name": "scworld.com",
-   "label": "REPORTED",
-   "url": "https://www.scworld.com/brief/anthropic-files-for-initial-public-offering-amid-broader-tech-market-volatility",
-   "url_id": "95fc81ac01acda16fe7d4791d17c7784"
-  },
-  {
-   "headline": "Sources: OpenAI now seeks ~$20B at a $1.25T valuation for its latest round, from $30B at…",
-   "outlet": "techmeme.com",
-   "outlet_name": "techmeme.com",
-   "label": "REPORTED",
-   "url": "https://www.techmeme.com/261030/p30#a261030p30",
-   "url_id": "9e19775ade27920a240c8d296922d31c"
+   "headline": "Claude Code Game Rule: Osmani Cites 2 Sentences [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "STILL OPEN",
+   "url": "https://shattered.io/anthropic-osmani-claude-code-two-sentence-game-recreation-rule-2026/",
+   "url_id": "35db0ff2eabf2c69dbab0c9fdc53738b"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 14000,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13800,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/03.mp3",
- "audio_seconds": 47.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/04.mp3",
+ "audio_seconds": 46.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per The New Indian Express: China denies spying on Nvidia's Jensen Huang.\nReported by Financial Times: OpenAI slashes funding target by $10bn as tech anxieties mount.\nStill open, per Radar Online: EXCLUSIVE: Trump's Secret AI Chats Under Scrutiny — Congress Demands Grok Records After Venezuela Military Operation.\nStill open, per CNBC: NYU’s Damodaran: Worst that can happen for Anthropic is the mood keeps going the way it is now.\nReported by ForkLog: Mistral Releases Open-Source Weights for Large 4 AI Model with 1 Trillion Parameters.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by China Daily Global Edition: Qwen-powered Apple AI to launch in China in December.\nConfirmed, per TechCrunch: Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia.\nReported by WSJ: OpenAI Raises Less Than Half of $30 Billion Target in Latest Round.\nConfirmed, per TechCrunch: AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal.\nReported by The Fintech Times: Kosa8 Labs Publishes AI Agent Security Benchmark for Regulated Firms.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
