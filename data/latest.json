@@ -1,101 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T07:20:02Z",
- "hour": "2026-10-31T08:00:00Z",
+ "generated_at": "2026-10-31T08:20:02Z",
+ "hour": "2026-10-31T09:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46H006:0-openai-slashes-funding-target-by-10-billion-amid-tech-rout-ft-reports/",
+   "title": "Samsung AI transformation — Executives Meet OpenAI CEO Sam Altman",
+   "outlet": "The Korea Daily",
+   "outlet_name": "The Korea Daily",
+   "url": "https://en.koreadaily.com/samsung-ai-transformation-sam-altman-meeting/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI cuts funding target by $10 billion during tech market downturn.",
-   "published_at": "2026-10-31T01:00:00Z",
-   "url_id": "157229957c70761e6cfe9ee83ce701d8"
+   "summary_1line": "Samsung hosts AI seminar with OpenAI, trains 2,300 execs, aims for full AI adoption by 2027.",
+   "published_at": "2026-10-31T05:39:25Z",
+   "url_id": "5becd3dd2a0d1cccd457c5cf8c76245f"
   },
   {
-   "title": "Samsung executives meet OpenAI's Altman to discuss AI strategy",
-   "outlet": "The Korea Herald",
-   "outlet_name": "The Korea Herald",
-   "url": "https://www.koreaherald.com/article/10921312",
+   "title": "GitHub unveils new Copilot tools to advance agent-driven software development",
+   "outlet": "ET Enterprise AI",
+   "outlet_name": "ET Enterprise AI",
+   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/github-unveils-new-copilot-tools-to-advance-agent-driven-software-development/135356695",
    "label": "REPORTED",
-   "summary_1line": "Samsung meets OpenAI's CEO to advance AI in corporate management and operations.",
-   "published_at": "2026-10-31T06:13:35Z",
-   "url_id": "00f753e5e4c8d921bf413b7ead80346d"
+   "summary_1line": "GitHub launches AI agent tools at Universe 2026, with India's dev base at 32M.",
+   "published_at": "2026-10-30T10:36:49Z",
+   "url_id": "26e2b0d77fa1068825644ec3f0b4cc3d"
   },
   {
-   "title": "Apple Intelligence in China Arrives With iOS 27.3",
-   "outlet": "DigitBin",
-   "outlet_name": "DigitBin",
-   "url": "https://www.digitbin.com/apple-intelligence-china-ios-27-3/",
+   "title": "OpenAI Scales Back Financing Plan as Competitor’s IPO Timing Sways Private Fund Choices",
+   "outlet": "NAI500",
+   "outlet_name": "NAI500",
+   "url": "https://nai500.com/blog/2026/10/openai-scales-back-financing-plan-as-competitors-ipo-timing-sways-private-fund-choices/",
    "label": "REPORTED",
-   "summary_1line": "Apple launches Apple Intelligence in China with iOS 27.3 in December, powered by Qwen, excluding Siri AI.",
-   "published_at": "2026-10-31T05:38:51Z",
-   "url_id": "1fbb7d6f0ce17ffb3475e23082a05063"
+   "summary_1line": "OpenAI cuts funding to $20B at $1.25T amid rising computing costs and competitor IPO pressure.",
+   "published_at": "2026-10-31T02:52:15Z",
+   "url_id": "41774b9f23a1a949bc97d0eb8d93f8b9"
   },
   {
-   "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-   "outlet": "The Hacker News",
-   "outlet_name": "The Hacker News",
-   "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+   "title": "Infisical Raises $40M To Keep Company Secrets Safe From AI Agents",
+   "outlet": "Forbes Middle East",
+   "outlet_name": "Forbes Middle East",
+   "url": "https://forbesmiddleeast.com/innovation/startups/this-$600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents",
    "label": "REPORTED",
-   "summary_1line": "ChatGPT flaw lets attackers access private chats via shared links; fixed by OpenAI after Oct 18 report.",
-   "published_at": "2026-10-31T05:33:00Z",
-   "url_id": "7bb771db07b58d8831cbdb365612554b"
+   "summary_1line": "Infisical lets Airbus and Volkswagen use agents securely without sharing credentials.",
+   "published_at": "2026-10-31T05:01:32Z",
+   "url_id": "0ce860de4263997a9c070be6eef42f02"
   },
   {
-   "title": "AI: Anthropic’s S-1, the Cloud Gang Reports, OpenAI’s Price Push & More. AI-RTZ #1256",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "url": "https://michaelparekh.substack.com/p/ai-anthropics-s-1-the-cloud-gang",
+   "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+   "outlet": "Microsoft",
+   "outlet_name": "Microsoft",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic files S-1 IPO with $11.6B revenue and $974M profit; cloud giants report mixed results amid AI competition.",
-   "published_at": "2026-10-31T05:02:39Z",
-   "url_id": "9c392f10b9b5f02019dc270bf2055f22"
+   "summary_1line": "Malicious Claude Code extension briefly served on Cursor marketplace to exploit users.",
+   "published_at": "2026-10-31T01:02:57Z",
+   "url_id": "fb5683cdaf715b48219c698be88c6a02"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "Samsung AI transformation — Executives Meet OpenAI CEO Sam Altman",
+   "outlet": "The Korea Daily",
+   "outlet_name": "The Korea Daily",
    "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46H006:0-openai-slashes-funding-target-by-10-billion-amid-tech-rout-ft-reports/",
-   "url_id": "157229957c70761e6cfe9ee83ce701d8"
-  },
-  {
-   "headline": "Samsung executives meet OpenAI's Altman to discuss AI strategy",
-   "outlet": "The Korea Herald",
-   "outlet_name": "The Korea Herald",
-   "label": "REPORTED",
-   "url": "https://www.koreaherald.com/article/10921312",
-   "url_id": "00f753e5e4c8d921bf413b7ead80346d"
-  },
-  {
-   "headline": "Apple Intelligence in China Arrives With iOS 27.3",
-   "outlet": "DigitBin",
-   "outlet_name": "DigitBin",
-   "label": "REPORTED",
-   "url": "https://www.digitbin.com/apple-intelligence-china-ios-27-3/",
-   "url_id": "1fbb7d6f0ce17ffb3475e23082a05063"
-  },
-  {
-   "headline": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-   "outlet": "The Hacker News",
-   "outlet_name": "The Hacker News",
-   "label": "REPORTED",
-   "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-   "url_id": "7bb771db07b58d8831cbdb365612554b"
-  },
-  {
-   "headline": "AI: Anthropic’s S-1, the Cloud Gang Reports, OpenAI’s Price Push & More. AI-RTZ #1256",
-   "outlet": "AI: Reset to Zero",
-   "outlet_name": "AI: Reset to Zero",
-   "label": "REPORTED",
-   "url": "https://michaelparekh.substack.com/p/ai-anthropics-s-1-the-cloud-gang",
-   "url_id": "9c392f10b9b5f02019dc270bf2055f22"
+   "url": "https://en.koreadaily.com/samsung-ai-transformation-sam-altman-meeting/",
+   "url_id": "5becd3dd2a0d1cccd457c5cf8c76245f"
   },
   {
    "headline": "GitHub unveils new Copilot tools to advance agent-driven software development",
@@ -122,6 +90,30 @@
    "url_id": "0ce860de4263997a9c070be6eef42f02"
   },
   {
+   "headline": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+   "outlet": "Microsoft",
+   "outlet_name": "Microsoft",
+   "label": "REPORTED",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+   "url_id": "fb5683cdaf715b48219c698be88c6a02"
+  },
+  {
+   "headline": "Google Adds Hundreds of Free Textbooks to Gemini Notebook: Check Features and How…",
+   "outlet": "Jagran Josh",
+   "outlet_name": "Jagran Josh",
+   "label": "REPORTED",
+   "url": "https://www.jagranjosh.com/news/google-adds-hundreds-of-free-textbooks-to-gemini-notebook-check-features-and-how-students-can-access-them-188818",
+   "url_id": "e98eab32ac5b3ad6517ff3987eeb80c1"
+  },
+  {
+   "headline": "Apple Intelligence Is Coming to iPhone in China, With Help From Alibaba’s Qwen",
+   "outlet": "Appleosophy",
+   "outlet_name": "Appleosophy",
+   "label": "REPORTED",
+   "url": "https://appleosophy.com/wire/srs4f77/",
+   "url_id": "a6c7906801b820203a27863546629ce2"
+  },
+  {
    "headline": "Mistral AI publicly releases Large 4, targets cybersecurity users",
    "outlet": "economictimes.indiatimes.com",
    "outlet_name": "economictimes.indiatimes.com",
@@ -138,30 +130,38 @@
    "url_id": "9091cd02670a0d76744057d3e94a1a50"
   },
   {
-   "headline": "Anthropic discovers how harmless stories can turn models into power-seeking systems",
-   "outlet": "interestingengineering.com",
-   "outlet_name": "interestingengineering.com",
-   "label": "REPORTED",
-   "url": "https://interestingengineering.com/ai-robotics/anthropic-training-data-deception",
-   "url_id": "1df88606d369d9d9eedac6a995f8179d"
-  },
-  {
    "headline": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004…",
    "outlet": "latent.space",
    "outlet_name": "latent.space",
    "label": "REPORTED",
    "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
    "url_id": "6b3364e67e36a770aaa2d2a1055bc27d"
+  },
+  {
+   "headline": "11 New Features: Gemini Drops October 2026",
+   "outlet": "jetstream.blog",
+   "outlet_name": "jetstream.blog",
+   "label": "REPORTED",
+   "url": "https://jetstream.blog/en/gemini-drops-october-2026/",
+   "url_id": "16796b548562344335d2ac32447e92f5"
+  },
+  {
+   "headline": "OpenAI Highlights Legal Briefs Arguing AI Training Can Qualify as Fair Use",
+   "outlet": "www.tokenpost.com",
+   "outlet_name": "www.tokenpost.com",
+   "label": "REPORTED",
+   "url": "https://www.tokenpost.com/news/regulation/45206",
+   "url_id": "8b9c00928ab35ba507bdf8f083f3fce5"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 13300,
+ "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 13100,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/08.mp3",
- "audio_seconds": 51.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/09.mp3",
+ "audio_seconds": 59.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TradingView: OpenAI slashes funding target by $10 billion amid tech rout, FT reports.\nReported by The Korea Herald: Samsung executives meet OpenAI's Altman to discuss AI strategy.\nReported by DigitBin: Apple Intelligence in China Arrives With iOS 27.3.\nReported by The Hacker News: A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats.\nReported by AI: Reset to Zero: AI: Anthropic’s S-1, the Cloud Gang Reports, OpenAI’s Price Push & More. AI-RTZ #1256.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSamsung hosts an artificial intelligence seminar with OpenAI, training 2,300 executives toward full adoption by 2027. Reported by The Korea Daily.\nGitHub launches artificial intelligence agent tools at Universe 2026, with India's developer base at 32M. Reported by ET Enterprise AI.\nOpenAI cuts funding to $20B at $1.25T amid rising computing costs and competitor pressure. Reported by NAI500.\nInfisical raises $40M to let Airbus and Volkswagen use agents securely without sharing credentials. Reported by Forbes Middle East.\nA malicious Claude Code-branded extension briefly served on Cursor marketplace to exploit users with a persistent SSH backdoor. Reported by Microsoft.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
