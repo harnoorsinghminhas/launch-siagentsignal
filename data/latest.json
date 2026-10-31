@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T09:20:02Z",
- "hour": "2026-10-31T10:00:00Z",
+ "generated_at": "2026-10-31T10:20:08Z",
+ "hour": "2026-10-31T11:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Cuts Funding Target by $10 Billion and Valuation by $150 Billion Amid Tech Selloff",
-   "outlet": "Coinpedia",
-   "outlet_name": "Coinpedia",
-   "url": "https://coinpedia.org/crypto-live-news/openai-cuts-funding-target-by-10-billion-and-valuation-by-150-billion-amid-tech-selloff/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI cuts funding and valuation targets amid tech selloff.",
-   "published_at": "2026-10-31T06:49:47Z",
-   "url_id": "16dbe374180eae3d24450eb4f367b745"
-  },
-  {
-   "title": "OpenAI's $30 billion funding ambition shrinks to $20 billion: What's worrying investors?",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/moodys:1211b2d15e5c8:0-openai-s-30-billion-funding-ambition-shrinks-to-20-billion-what-s-worrying-investors/",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI cuts funding to $20B amid investor skepticism and Anthropic's IPO.",
-   "published_at": "2026-10-31T06:23:00Z",
-   "url_id": "2d56f9c8b2595a7f739fbc4495caa6ab"
-  },
-  {
-   "title": "OpenAI’s Altman meets Samsung executives as chip crunch deepens",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "url": "https://www.straitstimes.com/business/openais-altman-meets-samsung-executives-as-chip-crunch-deepens",
-   "label": "REPORTED",
-   "summary_1line": "Altman meets Samsung to boost AI and chip cooperation amid global shortages.",
-   "published_at": "2026-10-31T08:25:00Z",
-   "url_id": "668fc466e4cf7154e57556bc44b3bb79"
-  },
-  {
-   "title": "‘First’ insurance policy for domestic humanoid robots in the UK",
-   "outlet": "Robotics & Automation News",
-   "outlet_name": "Robotics & Automation News",
-   "url": "https://roboticsandautomationnews.com/2026/10/31/first-insurance-policy-for-domestic-humanoid-robots-in-the-uk/106568/",
-   "label": "REPORTED",
-   "summary_1line": "UK’s first robot insurance policy launched by Tokio Marine and Adrian Flux.",
-   "published_at": "2026-10-31T08:22:03Z",
-   "url_id": "fdb81714a6144e679bb3d72159f32bd5"
-  },
-  {
-   "title": "A Stolen Key Ran 1.7M Claude Calls in 13 Hours After Breach",
+   "title": "OpenAI Lists Astra for Law at GPT-6 Astra’s Own Price",
    "outlet": "FourWeekMBA",
    "outlet_name": "FourWeekMBA",
-   "url": "https://fourweekmba.com/ai-a-stolen-key-ran-1-7m-claude-calls-in-13-hours-after-breach/",
+   "url": "https://fourweekmba.com/ai-openai-lists-astra-for-law-at-gpt-6-astras-own-price/",
    "label": "REPORTED",
-   "summary_1line": "Stolen AI key made 1.7M Bedrock calls in 13 hours, costing over $100k.",
-   "published_at": "2026-10-31T08:19:13Z",
-   "url_id": "2b6c793dd76fb4ad8cd38c653479fbcb"
+   "summary_1line": null,
+   "published_at": "2026-10-31T08:52:49Z",
+   "url_id": "c1548eead1d07cf24af8ec3cc771f442"
+  },
+  {
+   "title": "Google Launches Gemini 4 Carbon With State-Of-The-Art Cybersecurity Capabilities",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "url": "https://cybersecuritynews.com/google-launches-gemini-4-carbon/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-31T05:20:45Z",
+   "url_id": "cbd65d6b22eb791a887abdf289cae9c7"
+  },
+  {
+   "title": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
+   "url": "https://ppc.land/google-microsoft-openai-and-anthropic-back-one-ai-training-opt-out/",
+   "label": "REPORTED",
+   "summary_1line": "Four AI firms agree to a shared robots.txt rule blocking AI training use of web content.",
+   "published_at": "2026-10-31T08:03:02Z",
+   "url_id": "070f648e006050bbb13ec9fda942fe29"
+  },
+  {
+   "title": "Mistral releases Large 4 open-weight frontier AI model",
+   "outlet": "Online Tech Tips",
+   "outlet_name": "Online Tech Tips",
+   "url": "https://www.online-tech-tips.com/mistral-releases-large-4-open-weight-frontier-ai-model/",
+   "label": "REPORTED",
+   "summary_1line": "Mistral releases open-weight AI model Large 4 for self-hosted use in Europe.",
+   "published_at": "2026-10-30T12:52:18Z",
+   "url_id": "c19fb19e152cd2e8f4442c171eb226ca"
+  },
+  {
+   "title": "OpenAI Buried a Quota Change at the Bottom of Its Checkout Page",
+   "outlet": "Vocal",
+   "outlet_name": "Vocal",
+   "url": "https://vocal.media/01/openai-buried-a-quota-change-at-the-bottom-of-its-checkout-page",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI merged ChatGPT and Codex quotas in a checkout page notice, ending freewheeling chat in paid plans.",
+   "published_at": "2026-10-31T06:50:13Z",
+   "url_id": "d170e822de87748ea13d1509c96804fc"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Cuts Funding Target by $10 Billion and Valuation by $150 Billion Amid Tech Selloff",
-   "outlet": "Coinpedia",
-   "outlet_name": "Coinpedia",
-   "label": "REPORTED",
-   "url": "https://coinpedia.org/crypto-live-news/openai-cuts-funding-target-by-10-billion-and-valuation-by-150-billion-amid-tech-selloff/",
-   "url_id": "16dbe374180eae3d24450eb4f367b745"
-  },
-  {
-   "headline": "OpenAI's $30 billion funding ambition shrinks to $20 billion: What's worrying investors?",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "STILL OPEN",
-   "url": "https://www.tradingview.com/news/moodys:1211b2d15e5c8:0-openai-s-30-billion-funding-ambition-shrinks-to-20-billion-what-s-worrying-investors/",
-   "url_id": "2d56f9c8b2595a7f739fbc4495caa6ab"
-  },
-  {
-   "headline": "OpenAI’s Altman meets Samsung executives as chip crunch deepens",
-   "outlet": "The Straits Times",
-   "outlet_name": "The Straits Times",
-   "label": "REPORTED",
-   "url": "https://www.straitstimes.com/business/openais-altman-meets-samsung-executives-as-chip-crunch-deepens",
-   "url_id": "668fc466e4cf7154e57556bc44b3bb79"
-  },
-  {
-   "headline": "‘First’ insurance policy for domestic humanoid robots in the UK",
-   "outlet": "Robotics & Automation News",
-   "outlet_name": "Robotics & Automation News",
-   "label": "REPORTED",
-   "url": "https://roboticsandautomationnews.com/2026/10/31/first-insurance-policy-for-domestic-humanoid-robots-in-the-uk/106568/",
-   "url_id": "fdb81714a6144e679bb3d72159f32bd5"
-  },
-  {
-   "headline": "A Stolen Key Ran 1.7M Claude Calls in 13 Hours After Breach",
+   "headline": "OpenAI Lists Astra for Law at GPT-6 Astra’s Own Price",
    "outlet": "FourWeekMBA",
    "outlet_name": "FourWeekMBA",
    "label": "REPORTED",
-   "url": "https://fourweekmba.com/ai-a-stolen-key-ran-1-7m-claude-calls-in-13-hours-after-breach/",
-   "url_id": "2b6c793dd76fb4ad8cd38c653479fbcb"
+   "url": "https://fourweekmba.com/ai-openai-lists-astra-for-law-at-gpt-6-astras-own-price/",
+   "url_id": "c1548eead1d07cf24af8ec3cc771f442"
+  },
+  {
+   "headline": "Google Launches Gemini 4 Carbon With State-Of-The-Art Cybersecurity Capabilities",
+   "outlet": "CyberSecurityNews",
+   "outlet_name": "CyberSecurityNews",
+   "label": "REPORTED",
+   "url": "https://cybersecuritynews.com/google-launches-gemini-4-carbon/",
+   "url_id": "cbd65d6b22eb791a887abdf289cae9c7"
   },
   {
    "headline": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
@@ -106,20 +82,20 @@
    "url_id": "070f648e006050bbb13ec9fda942fe29"
   },
   {
+   "headline": "Mistral releases Large 4 open-weight frontier AI model",
+   "outlet": "Online Tech Tips",
+   "outlet_name": "Online Tech Tips",
+   "label": "REPORTED",
+   "url": "https://www.online-tech-tips.com/mistral-releases-large-4-open-weight-frontier-ai-model/",
+   "url_id": "c19fb19e152cd2e8f4442c171eb226ca"
+  },
+  {
    "headline": "OpenAI Buried a Quota Change at the Bottom of Its Checkout Page",
    "outlet": "Vocal",
    "outlet_name": "Vocal",
    "label": "REPORTED",
    "url": "https://vocal.media/01/openai-buried-a-quota-change-at-the-bottom-of-its-checkout-page",
    "url_id": "d170e822de87748ea13d1509c96804fc"
-  },
-  {
-   "headline": "Mistral Large 4 “Le Chonk” Claims the Open-Weight Lead in Coding and Cyber Defense",
-   "outlet": "Intelligent Living",
-   "outlet_name": "Intelligent Living",
-   "label": "REPORTED",
-   "url": "https://www.intelligentliving.co/mistral-large-4-le-chonk/",
-   "url_id": "c876c96e5b46a4c057863a539f30ee5a"
   },
   {
    "headline": "Samsung, OpenAI chief discuss AI’s impact on future business strategies",
@@ -138,12 +114,20 @@
    "url_id": "c69a2aebf4599fd308775e20a2c8401f"
   },
   {
-   "headline": "Mistral AI publicly releases Large 4, targets cybersecurity users",
-   "outlet": "economictimes.indiatimes.com",
-   "outlet_name": "economictimes.indiatimes.com",
+   "headline": "Claude statt SAP-Maske: Wie KI-Agenten das ERP-System unsichtbar machen",
+   "outlet": "VDI nachrichten",
+   "outlet_name": "VDI nachrichten",
+   "label": "STILL OPEN",
+   "url": "https://www.vdi-nachrichten.com/technik/elektronik/claude-statt-sap-maske-wie-ki-agenten-das-erp-system-unsichtbar-machen/",
+   "url_id": "c38ac2bc633cfb0f009acb061f007852"
+  },
+  {
+   "headline": "OpenAI raises less than half of $30 billion target in latest round",
+   "outlet": "The Wall Street Journal on MSN",
+   "outlet_name": "The Wall Street Journal on MSN",
    "label": "REPORTED",
-   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/articleshow/135390933.cms",
-   "url_id": "6e8a953cb7683d22cc99e3f8ab3a3b79"
+   "url": "https://www.msn.com/en-us/money/general/openai-raises-less-than-half-of-30-billion-target-in-latest-round/ar-AA2grM9h",
+   "url_id": "df277f948b08cbf7d095925611ae345e"
   },
   {
    "headline": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
@@ -152,16 +136,32 @@
    "label": "REPORTED",
    "url": "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268/",
    "url_id": "77921ede45a7f17d9fb39931eaca5f5e"
+  },
+  {
+   "headline": "Mistral Le Chonk Coding Score 48 Ties Terra [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "REPORTED",
+   "url": "https://shattered.io/mistral-le-chonk-coding-agent-index-48-gpt-6-1-terra-2026/",
+   "url_id": "b81b81e3b18e005b7923ac14a29b54e2"
+  },
+  {
+   "headline": "ACE Robotics and NTU S-Lab Unveil Mundo, a World Model That Builds Robot Training Scenes…",
+   "outlet": "pandaily.com",
+   "outlet_name": "pandaily.com",
+   "label": "REPORTED",
+   "url": "https://pandaily.com/ace-robotics-ntu-s-lab-mundo-customized-world-model-1-12-photos-editable-3d-scene-mujoco-real-to-sim",
+   "url_id": "b11bf7e2914d25fc4f25458df99f9697"
   }
  ],
  "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 12900,
+ "articles_24h_rounded": 12700,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/10.mp3",
- "audio_seconds": 55.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/11.mp3",
+ "audio_seconds": 46.5,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Coinpedia: OpenAI Cuts Funding Target by $10 Billion and Valuation by $150 Billion Amid Tech Selloff.\nStill open, per TradingView: OpenAI's $30 billion funding ambition shrinks to $20 billion: What's worrying investors.\nReported by The Straits Times: OpenAI’s Altman meets Samsung executives as chip crunch deepens.\nReported by Robotics & Automation News: ‘First’ insurance policy for domestic humanoid robots in the UK.\nReported by FourWeekMBA: A Stolen Key Ran 1.7M Claude Calls in 13 Hours After Breach.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by FourWeekMBA: OpenAI Lists Astra for Law at GPT-6 Astra’s Own Price.\nReported by CyberSecurityNews: Google Launches Gemini 4 Carbon With State-Of-The-Art Cybersecurity Capabilities.\nReported by PPC Land: Google, Microsoft, OpenAI and Anthropic back one AI training opt-out.\nReported by Online Tech Tips: Mistral releases Large 4 open-weight frontier AI model.\nReported by Vocal: OpenAI Buried a Quota Change at the Bottom of Its Checkout Page.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
