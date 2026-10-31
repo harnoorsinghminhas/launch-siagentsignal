@@ -1,109 +1,85 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T13:20:02Z",
- "hour": "2026-10-31T14:00:00Z",
+ "generated_at": "2026-10-31T14:20:02Z",
+ "hour": "2026-10-31T15:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI slashes funding goal by $10B amid tech selloff: FT",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "url": "https://www.tradingview.com/news/seekingalpha:6ee12580c094b:0-openai-slashes-funding-goal-by-10b-amid-tech-selloff-ft/",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI cuts funding goal to $20B amid AI infrastructure concerns.",
-   "published_at": "2026-10-31T11:55:29Z",
-   "url_id": "8cfc4431119d3e4b9b7b71c94e6bb990"
-  },
-  {
-   "title": "Anthropic's path to the Nasdaq just got a lot bumpier",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Anthropic's IPO prospectus reveals $80B net loss amid rising AI sector financial concerns.",
-   "published_at": "2026-10-31T11:00:01Z",
-   "url_id": "7b34527cab799a31d0f950b4cdfab2cc"
-  },
-  {
-   "title": "OpenAI IPO Valuation Target Reportedly Trimmed By $150B After Nasdaq 100 Registers Worst Month Since March 2025 Following Brutal Tech Sell-Off",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
-   "url": "https://stocktwits.com/news-articles/markets/equity/openai-ipo-valuation-target-trimmed-150b-nasdaq-100-worst-month-march-2025/cZUKyMuR9cY",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI cuts funding target to $20B amid market sell-off and AI spending concerns.",
-   "published_at": "2026-10-31T11:34:01Z",
-   "url_id": "5471c082b63661edf6355a9654fb9d35"
-  },
-  {
-   "title": "Anthropic denies breach as tampered Claude Code extension hits Cursor users",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/tampered-claude-code-extension-cursor-ssh-backdoor",
+   "title": "Apple Brings 18 AI Features to China With Alibaba’s Qwen",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
+   "url": "https://fourweekmba.com/ai-apple-brings-18-ai-features-to-china-with-alibabas-qwen/",
    "label": "REPORTED",
-   "summary_1line": "Malicious Claude Code extension targeted 5,000 users with SSH backdoor attempt.",
-   "published_at": "2026-10-31T11:27:53Z",
-   "url_id": "7755b38fe4165d61aee1ce9f576cd6ea"
+   "summary_1line": "Apple launches AI features in China with Qwen integration, testing starts 4 Nov, public release Dec via iOS 27.3.",
+   "published_at": "2026-10-31T11:26:46Z",
+   "url_id": "38ac8c5186de6787f2ef1feb900f17f2"
   },
   {
-   "title": "A Claude agent ran inside a Pentagon network for two months, WIRED reports",
+   "title": "Apple Intelligence finally coming to China in December with iOS 27.3",
+   "outlet": "The Apple Post",
+   "outlet_name": "The Apple Post",
+   "url": "https://www.theapplepost.com/2026/10/31/73757/apple-intelligence-finally-coming-to-china-in-december-with-ios-27-3/",
+   "label": "REPORTED",
+   "summary_1line": "Apple launches Apple Intelligence in China in December with Qwen, on iPhone 16 and later models.",
+   "published_at": "2026-10-31T11:03:45Z",
+   "url_id": "1b653c6c2c37d16da2bd3f47c1ab796a"
+  },
+  {
+   "title": "Nvidia in talks to guarantee debt for Nscale’s Anthropic data centre",
    "outlet": "thenextweb.com",
    "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/accenture-contractor-claude-agent-pentagon-network-wired",
-   "label": "STILL OPEN",
-   "summary_1line": "Accenture contractor used AI to access Pentagon system, sending credentials to a high-risk site.",
-   "published_at": "2026-10-31T11:15:07Z",
-   "url_id": "b7f5a4231c33ba73171116c8d2f0e021"
+   "url": "https://thenextweb.com/news/nvidia-nscale-anthropic-data-centre-debt-guarantee",
+   "label": "REPORTED",
+   "summary_1line": "Nvidia in talks to back Nscale's West Virginia data centre with debt guarantee.",
+   "published_at": "2026-10-31T10:23:26Z",
+   "url_id": "2fecf90cf50474e9b13a5bc97b86a19f"
+  },
+  {
+   "title": "GPT Wins Big Against Claude in AI Showdown... Strategies: 'Attack' vs. 'Consensus'",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/f4f55fa1-ced0-47fe-a03e-4b431f2c1006",
+   "label": "REPORTED",
+   "summary_1line": "GPT-6.1 Sol beats Claude in AI games via aggressive strategy and deep team coordination.",
+   "published_at": "2026-10-31T09:25:00Z",
+   "url_id": "72b43b477d79cbb209b9da63df52b2e3"
+  },
+  {
+   "title": "In response to user complaints, OpenAI reverses the usage limit reduction in ChatGPT Pro and doubles the capacity",
+   "outlet": "صوت الإمارات",
+   "outlet_name": "صوت الإمارات",
+   "url": "https://www.voiceofemirates.com/en/news/2026/10/31/in-response-to-user-complaints-openai-reverses-the-usage-limit-reduction-in-chatgpt-pro-and-doubles-the-capacity/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI doubles usage limits for Pro plans after user backlash, effective October 29, 2026.",
+   "published_at": "2026-10-31T08:48:31Z",
+   "url_id": "660bf591b6674a08207d3456e0058e41"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI slashes funding goal by $10B amid tech selloff: FT",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
-   "label": "STILL OPEN",
-   "url": "https://www.tradingview.com/news/seekingalpha:6ee12580c094b:0-openai-slashes-funding-goal-by-10b-amid-tech-selloff-ft/",
-   "url_id": "8cfc4431119d3e4b9b7b71c94e6bb990"
-  },
-  {
-   "headline": "Anthropic's path to the Nasdaq just got a lot bumpier",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "CONFIRMED",
-   "url": "https://www.cnbc.com/2026/10/31/anthropic-ipo-ai-spending.html",
-   "url_id": "7b34527cab799a31d0f950b4cdfab2cc"
-  },
-  {
-   "headline": "OpenAI IPO Valuation Target Reportedly Trimmed By $150B After Nasdaq 100 Registers Worst…",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
-   "label": "STILL OPEN",
-   "url": "https://stocktwits.com/news-articles/markets/equity/openai-ipo-valuation-target-trimmed-150b-nasdaq-100-worst-month-march-2025/cZUKyMuR9cY",
-   "url_id": "5471c082b63661edf6355a9654fb9d35"
-  },
-  {
-   "headline": "Anthropic denies breach as tampered Claude Code extension hits Cursor users",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
+   "headline": "Apple Brings 18 AI Features to China With Alibaba’s Qwen",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
    "label": "REPORTED",
-   "url": "https://thenextweb.com/news/tampered-claude-code-extension-cursor-ssh-backdoor",
-   "url_id": "7755b38fe4165d61aee1ce9f576cd6ea"
+   "url": "https://fourweekmba.com/ai-apple-brings-18-ai-features-to-china-with-alibabas-qwen/",
+   "url_id": "38ac8c5186de6787f2ef1feb900f17f2"
   },
   {
-   "headline": "A Claude agent ran inside a Pentagon network for two months, WIRED reports",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "STILL OPEN",
-   "url": "https://thenextweb.com/news/accenture-contractor-claude-agent-pentagon-network-wired",
-   "url_id": "b7f5a4231c33ba73171116c8d2f0e021"
-  },
-  {
-   "headline": "Apple confirms Qwen support in China as iOS 27.3 beta arrives November 4",
+   "headline": "Apple Intelligence finally coming to China in December with iOS 27.3",
    "outlet": "The Apple Post",
    "outlet_name": "The Apple Post",
    "label": "REPORTED",
-   "url": "https://www.theapplepost.com/2026/10/31/73758/apple-confirms-qwen-support-in-china-as-ios-27-3-beta-arrives-november-4/",
-   "url_id": "3c76c1b47b97fe6e61343dc49837812d"
+   "url": "https://www.theapplepost.com/2026/10/31/73757/apple-intelligence-finally-coming-to-china-in-december-with-ios-27-3/",
+   "url_id": "1b653c6c2c37d16da2bd3f47c1ab796a"
+  },
+  {
+   "headline": "Nvidia in talks to guarantee debt for Nscale’s Anthropic data centre",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "REPORTED",
+   "url": "https://thenextweb.com/news/nvidia-nscale-anthropic-data-centre-debt-guarantee",
+   "url_id": "2fecf90cf50474e9b13a5bc97b86a19f"
   },
   {
    "headline": "GPT Wins Big Against Claude in AI Showdown... Strategies: 'Attack' vs. 'Consensus'",
@@ -114,20 +90,52 @@
    "url_id": "72b43b477d79cbb209b9da63df52b2e3"
   },
   {
-   "headline": "My favorite Claude Code alternative isn't Codex or Cursor: it's something way more…",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
+   "headline": "In response to user complaints, OpenAI reverses the usage limit reduction in ChatGPT Pro…",
+   "outlet": "صوت الإمارات",
+   "outlet_name": "صوت الإمارات",
    "label": "REPORTED",
-   "url": "https://www.xda-developers.com/favorite-claude-code-alt-not-codex-or-cursor-more-powerful-open-source/",
-   "url_id": "ef6c0ec40d728c7c2816776a019bb236"
+   "url": "https://www.voiceofemirates.com/en/news/2026/10/31/in-response-to-user-complaints-openai-reverses-the-usage-limit-reduction-in-chatgpt-pro-and-doubles-the-capacity/",
+   "url_id": "660bf591b6674a08207d3456e0058e41"
   },
   {
-   "headline": "Apple Intelligence to roll out on iPhones in China in December with Alibaba backing",
-   "outlet": "South China Morning Post on MSN",
-   "outlet_name": "South China Morning Post on MSN",
+   "headline": "Is AI your new wingman? How chatbots are transforming dating",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "label": "CONFIRMED",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
+   "url_id": "aa9a4da2b7657b1edae16269a9b4a2d7"
+  },
+  {
+   "headline": "Humans are still doing the work behind some AI agents",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "CONFIRMED",
+   "url": "https://www.cnbc.com/2026/10/31/ai-agents-humans-dazzle-duckbill-meta.html",
+   "url_id": "939df15937c2e91cce81ff1201246f63"
+  },
+  {
+   "headline": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+   "outlet": "wired.com",
+   "outlet_name": "Wired",
+   "label": "CONFIRMED",
+   "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+   "url_id": "cfd9c022f552f991968f62e10e6fc05d"
+  },
+  {
+   "headline": "CopperPilot, an AI design agent startup for electronics hardware, raises $390,000 in…",
+   "outlet": "Indian Startup News",
+   "outlet_name": "Indian Startup News",
    "label": "REPORTED",
-   "url": "https://www.msn.com/en-xl/news/other/apple-intelligence-to-roll-out-on-iphones-in-china-in-december-with-alibaba-backing/ar-AA2gsN3z",
-   "url_id": "8da479a71b7a91bd85905191d2ed7072"
+   "url": "https://indianstartupnews.com/funding/copperpilot-an-ai-design-agent-startup-for-electronics-hardware-raises-390000-in-funding-12771225",
+   "url_id": "22dc762e9760af3b1a0d8b624c6c3e97"
+  },
+  {
+   "headline": "Fears over $828 billion AI capex spending spree help erase $1 trillion in market value",
+   "outlet": "fortune.com",
+   "outlet_name": "Fortune",
+   "label": "REPORTED",
+   "url": "https://fortune.com/2026/10/31/big-tech-ai-capital-spending-spree/",
+   "url_id": "5c6529f81bfb7c830f1be6f8d4082829"
   },
   {
    "headline": "Cate Blanchett-backed group of stars files brief in NYT-OpenAI lawsuit",
@@ -144,24 +152,16 @@
    "label": "REPORTED",
    "url": "https://shattered.io/deepseek-vs-chatgpt-api-cost-v4-1-flash-vs-gpt-6-2026/",
    "url_id": "71b231381a5e7f163aba94ea8ae2f3d0"
-  },
-  {
-   "headline": "AI Code Security [2026]: Opus 5.5 & GPT-6-Sol Tie at 73%",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "REPORTED",
-   "url": "https://shattered.io/ai-generated-code-security-veracode-claude-opus-5-5-gpt-6-sol-73-percent-2026/",
-   "url_id": "f905b5013b1db029845437270218bbc8"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from four different outlets.",
- "articles_24h_rounded": 10500,
- "articles_24h_label": "about 11,000",
+ "tidbit": "Did you know… about 10,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 10300,
+ "articles_24h_label": "about 10,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/14.mp3",
- "audio_seconds": 51.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/15.mp3",
+ "audio_seconds": 60.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per TradingView: OpenAI slashes funding goal by $10B amid tech selloff: FT.\nConfirmed, per CNBC: Anthropic's path to the Nasdaq just got a lot bumpier.\nStill open, per Stocktwits: OpenAI IPO Valuation Target Reportedly Trimmed By $150B After Nasdaq 100 Registers Worst Month Since March 2025 Following Brutal Tech Sell-Off.\nReported by The Next Web: Anthropic denies breach as tampered Claude Code extension hits Cursor users.\nStill open, per The Next Web: A Claude agent ran inside a Pentagon network for two months, WIRED reports.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nApple brings 18 artificial intelligence features to China with Alibaba's Qwen. Reported by FourWeekMBA: testing starts November 4, with public release in December via iOS 27.3.\nApple Intelligence launches in China in December with Qwen integration on iPhone 16 and later models. The Apple Post reported this development.\nNvidia is in talks to guarantee debt for Nscale's West Virginia data centre. Reported by The Next Web.\nGPT-6.1 Sol beats Claude in artificial intelligence games through aggressive strategy and deep team coordination. BigGo Finance reported this outcome.\nOpenAI doubles usage limits for Pro plans after user backlash, effective October 29, 2026. صوت الإمارات reported this change.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
