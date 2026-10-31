@@ -1,167 +1,167 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T20:20:02Z",
- "hour": "2026-10-31T21:00:00Z",
+ "generated_at": "2026-10-31T21:20:02Z",
+ "hour": "2026-10-31T22:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow and spending",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI cuts funding target to $20B amid Wall Street backlash on AI spending.",
-   "published_at": "2026-10-31T17:15:00Z",
-   "url_id": "bcc3487f602ef30c3b68d6cb5f8bb6fc"
-  },
-  {
-   "title": "Sam Altman Meets 50 Samsung Execs, Gifts OpenAI’s Codex Keyboard",
-   "outlet": "SammyGuru",
-   "outlet_name": "SammyGuru",
-   "url": "https://sammyguru.com/sam-altman-openai-keyboard-samsung-executives/",
-   "label": "REPORTED",
-   "summary_1line": "Altman gifts Samsung executives OpenAI's Codex Micro Keyboard during AI strategy meeting.",
-   "published_at": "2026-10-31T17:08:36Z",
-   "url_id": "75983807301201090d44f97d6361f93f"
-  },
-  {
-   "title": "Google is letting Claude and Codex into Android Studio, and that changes everything",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/claude/articles/google-letting-claude-codex-android-170346241.html",
-   "label": "REPORTED",
-   "summary_1line": "Google lets Claude, Codex and others use Android Studio, cutting memory leak detection time by half.",
-   "published_at": "2026-10-31T17:03:46Z",
-   "url_id": "271e64543a33c323fffda4e0a10ac622"
-  },
-  {
-   "title": "Elon Musk Answers Vegetarian AI CEOs OpenAI CEO Sam Altman, Alphabet CEO Sundar Pichai and Anthropic CEO Dario Amodei With Steak and Eggs",
-   "outlet": "Martin Cid Magazine",
-   "outlet_name": "Martin Cid Magazine",
-   "url": "https://www.martincid.com/business/elon-musk-steak-eggs-vegetarian-ai-ceos-altman-pichai-amodei/",
+   "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
    "label": "STILL OPEN",
-   "summary_1line": "The text is a navigation interface with no news content.",
-   "published_at": "2026-10-31T17:41:46Z",
-   "url_id": "fa71fa41347dea934b9f24ee1048b82b"
+   "summary_1line": "OpenAI cuts funding target to $20B, citing market uncertainty in AI returns.",
+   "published_at": "2026-10-31T19:56:23Z",
+   "url_id": "c10bd0194e460aa08140b3dd28717707"
   },
   {
-   "title": "OpenAI Teases GPT-6.1 Astra Amid Relentless Hype Around The Mysterious GPT-6.2 Betelgeuse Model, As Another Evidence Surfaces Showing Kimi K3.1 Pro And GLM-5.3 As Products Of Distillation",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "url": "https://wccftech.com/openai-teases-gpt-6-1-astra-amid-relentless-hype-around-the-mysterious-gpt-6-2-betelgeuse-model-as-another-evidence-surfaces-showing-kimi-k3-1-pro-and-glm-5-3-as-products-of-distillation/",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI hints at GPT-6.1 Astra launch with banked resets; models show distillation signals.",
-   "published_at": "2026-10-31T17:11:35Z",
-   "url_id": "e1a4202b2f537a1a1dc7ed7a08ce1ba1"
+   "title": "Cloudera launches Cloudera Blueprints, bringing NVIDIA Agent Toolkit to enterprise data anywhere",
+   "outlet": "Zawya",
+   "outlet_name": "Zawya",
+   "url": "https://www.zawya.com/en/press-release/companies-news/cloudera-launches-cloudera-blueprints-bringing-nvidia-agent-toolkit-to-enterprise-data-anywhere-1858750",
+   "label": "REPORTED",
+   "summary_1line": "Cloudera launches AI solutions for enterprises using data anywhere.",
+   "published_at": "2026-10-31T19:48:00Z",
+   "url_id": "5b4ba22f755eeae1f8c58824d83a3800"
+  },
+  {
+   "title": "OpenAI reportedly lowers funding target for new round",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI scales back funding to $20B amid tepid investor response and market caution.",
+   "published_at": "2026-10-31T16:12:55Z",
+   "url_id": "c361ea6e6eba35fb9e53698dc084100a"
+  },
+  {
+   "title": "OpenAI in the Crosshairs of Wrongful Death Lawsuit",
+   "outlet": "Digital Health Wire",
+   "outlet_name": "Digital Health Wire",
+   "url": "https://digitalhealthwire.com/openai-in-the-crosshairs-of-wrongful-death-lawsuit/",
+   "label": "REPORTED",
+   "summary_1line": "ChatGPT advised medication cut; woman died; parents sue OpenAI over medical advice.",
+   "published_at": "2026-10-31T10:04:13Z",
+   "url_id": "230d298bf984d02ea806f7a1ff4d7b94"
+  },
+  {
+   "title": "OpenAI Cuts Funding Goal by $10B",
+   "outlet": "Briefs Finance",
+   "outlet_name": "Briefs Finance",
+   "url": "https://www.briefs.co/news/openai-trims-funding-goal-by-10-billion-as-ai-jitters-hit-ma/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI cuts fundraising to $20B at $1.25T as Anthropic targets $1.5T IPO, amid investor caution.",
+   "published_at": "2026-10-31T14:35:00Z",
+   "url_id": "dd703b5904c48f0bdc7d2cf3c08b6dbf"
   }
  ],
  "ticker": [
   {
-   "headline": "AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow…",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "label": "REPORTED",
-   "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/",
-   "url_id": "bcc3487f602ef30c3b68d6cb5f8bb6fc"
+   "headline": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "STILL OPEN",
+   "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
+   "url_id": "c10bd0194e460aa08140b3dd28717707"
   },
   {
-   "headline": "Sam Altman Meets 50 Samsung Execs, Gifts OpenAI’s Codex Keyboard",
-   "outlet": "SammyGuru",
-   "outlet_name": "SammyGuru",
+   "headline": "Cloudera launches Cloudera Blueprints, bringing NVIDIA Agent Toolkit to enterprise data…",
+   "outlet": "Zawya",
+   "outlet_name": "Zawya",
    "label": "REPORTED",
-   "url": "https://sammyguru.com/sam-altman-openai-keyboard-samsung-executives/",
-   "url_id": "75983807301201090d44f97d6361f93f"
+   "url": "https://www.zawya.com/en/press-release/companies-news/cloudera-launches-cloudera-blueprints-bringing-nvidia-agent-toolkit-to-enterprise-data-anywhere-1858750",
+   "url_id": "5b4ba22f755eeae1f8c58824d83a3800"
   },
   {
-   "headline": "Google is letting Claude and Codex into Android Studio, and that changes everything",
+   "headline": "OpenAI reportedly lowers funding target for new round",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
+   "label": "CONFIRMED",
+   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+   "url_id": "c361ea6e6eba35fb9e53698dc084100a"
+  },
+  {
+   "headline": "OpenAI in the Crosshairs of Wrongful Death Lawsuit",
+   "outlet": "Digital Health Wire",
+   "outlet_name": "Digital Health Wire",
+   "label": "REPORTED",
+   "url": "https://digitalhealthwire.com/openai-in-the-crosshairs-of-wrongful-death-lawsuit/",
+   "url_id": "230d298bf984d02ea806f7a1ff4d7b94"
+  },
+  {
+   "headline": "OpenAI Cuts Funding Goal by $10B",
+   "outlet": "Briefs Finance",
+   "outlet_name": "Briefs Finance",
+   "label": "REPORTED",
+   "url": "https://www.briefs.co/news/openai-trims-funding-goal-by-10-billion-as-ai-jitters-hit-ma/",
+   "url_id": "dd703b5904c48f0bdc7d2cf3c08b6dbf"
+  },
+  {
+   "headline": "Grok can launch a thousand ships – but this AI remake of The Odyssey can’t make us feel",
+   "outlet": "Stuff South Africa",
+   "outlet_name": "Stuff South Africa",
+   "label": "REPORTED",
+   "url": "https://stuff.co.za/2026/10/31/grok-ai-remake-of-the-odyssey-cant-make-us-feel/",
+   "url_id": "6ee657adee177307a76b562b0e2c2635"
+  },
+  {
+   "headline": "Anthropic’s late $900K push into California Democratic politics",
+   "outlet": "The San Francisco Standard",
+   "outlet_name": "The San Francisco Standard",
+   "label": "REPORTED",
+   "url": "https://sfstandard.com/2026/10/31/anthropic-democratic-party-contributions-sf-dems/",
+   "url_id": "5a45fc5a4618c72595ee0632fea29dfa"
+  },
+  {
+   "headline": "Google’s Gemini 4 Carbon is built for complex coding and cybersecurity tasks",
    "outlet": "Yahoo Tech",
    "outlet_name": "Yahoo Tech",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/claude/articles/google-letting-claude-codex-android-170346241.html",
-   "url_id": "271e64543a33c323fffda4e0a10ac622"
+   "url": "https://tech.yahoo.com/ai/gemini/articles/google-gemini-4-carbon-built-195920809.html",
+   "url_id": "2f9476c2944bdc04c820a5c7e74350a6"
   },
   {
-   "headline": "Elon Musk Answers Vegetarian AI CEOs OpenAI CEO Sam Altman, Alphabet CEO Sundar Pichai…",
-   "outlet": "Martin Cid Magazine",
-   "outlet_name": "Martin Cid Magazine",
+   "headline": "Anthropic IPO Could Receive Junk Credit Rating Despite $800 Billion AI Spending Plan",
+   "outlet": "Coinpedia",
+   "outlet_name": "Coinpedia",
    "label": "STILL OPEN",
-   "url": "https://www.martincid.com/business/elon-musk-steak-eggs-vegetarian-ai-ceos-altman-pichai-amodei/",
-   "url_id": "fa71fa41347dea934b9f24ee1048b82b"
+   "url": "https://coinpedia.org/crypto-live-news/anthropic-ipo-could-receive-junk-credit-rating-despite-800-billion-ai-spending-plan/",
+   "url_id": "6cb087f50cc4b024dd9883e9976c0110"
   },
   {
-   "headline": "OpenAI Teases GPT-6.1 Astra Amid Relentless Hype Around The Mysterious GPT-6.2 Betelgeuse…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "label": "STILL OPEN",
-   "url": "https://wccftech.com/openai-teases-gpt-6-1-astra-amid-relentless-hype-around-the-mysterious-gpt-6-2-betelgeuse-model-as-another-evidence-surfaces-showing-kimi-k3-1-pro-and-glm-5-3-as-products-of-distillation/",
-   "url_id": "e1a4202b2f537a1a1dc7ed7a08ce1ba1"
-  },
-  {
-   "headline": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
-   "outlet": "arxo.io",
-   "outlet_name": "arxo.io",
+   "headline": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
+   "outlet": "the-decoder.com",
+   "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://www.arxo.io/findings/ARXO-2026-0413/",
-   "url_id": "ac3576b1fa20cee459c240cf00428ae1"
+   "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+   "url_id": "a19f3f73447864d519c79d0abf66324b"
   },
   {
-   "headline": "Show HN: Publishub. An AI copilot for video creators and editors.",
-   "outlet": "getpublishub.com",
-   "outlet_name": "getpublishub.com",
+   "headline": "Chrome Gemini Autofill Reads Your Gmail: 3 Settings [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
    "label": "REPORTED",
-   "url": "https://www.getpublishub.com",
-   "url_id": "4e15285bc0ee53826572901a8c77b9f1"
+   "url": "https://shattered.io/chrome-gemini-suggested-autofill-gmail-three-data-types-2026/",
+   "url_id": "510bdf15c05ed21ebb54dbdd6a3cc512"
   },
   {
-   "headline": "Show HN: Clawdline – Manage Claude Code/Codex sessions across computers",
-   "outlet": "clawdline.com",
-   "outlet_name": "clawdline.com",
+   "headline": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+   "outlet": "ryanmadden.net",
+   "outlet_name": "ryanmadden.net",
    "label": "REPORTED",
-   "url": "https://clawdline.com/",
-   "url_id": "d698646c2174f237a949afe0f7674062"
-  },
-  {
-   "headline": "Show HN: VestLens, a MCP App for Wealthsimple Portfolios in Claude/ChatGPT",
-   "outlet": "vestlens.com",
-   "outlet_name": "vestlens.com",
-   "label": "REPORTED",
-   "url": "https://vestlens.com/",
-   "url_id": "001dca0cdfddde0c491c91c9f4eeecc2"
-  },
-  {
-   "headline": "Amici flood OpenAI MDL docket seeking leave to file 52 briefs in key copyright suit",
-   "outlet": "chatgptiseatingtheworld.com",
-   "outlet_name": "chatgptiseatingtheworld.com",
-   "label": "REPORTED",
-   "url": "https://chatgptiseatingtheworld.com/2026/10/31/amici-flood-openai-mdl-docket-seeking-leave-to-file-54-briefs-in-key-copyright-suit/",
-   "url_id": "d7506ef6300a7b9769455c54950dc6a6"
-  },
-  {
-   "headline": "Anthropic’s Experimental Model Was Flagged for Reward Hacking in 40% of Episodes",
-   "outlet": "www.tokenpost.com",
-   "outlet_name": "www.tokenpost.com",
-   "label": "REPORTED",
-   "url": "https://www.tokenpost.com/news/technology/45509",
-   "url_id": "c4eebc133be185183db26b31bafe37c1"
-  },
-  {
-   "headline": "ONLYOFFICE 10.0 Brings AI Tools, Modular Apps, and Stronger Security to Its Open-Source…",
-   "outlet": "markets.businessinsider.com",
-   "outlet_name": "markets.businessinsider.com",
-   "label": "REPORTED",
-   "url": "https://markets.businessinsider.com/news/stocks/onlyoffice-10-0-brings-ai-tools-modular-apps-and-stronger-security-to-its-open-source-office-suite-1036695279",
-   "url_id": "d1562b3b8f2ad327876bf43fb4aca6d8"
+   "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+   "url_id": "f4160ff23c480239731cf2c75f1f0468"
   }
  ],
- "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
- "articles_24h_rounded": 8300,
+ "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 8000,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/21.mp3",
- "audio_seconds": 60.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/22.mp3",
+ "audio_seconds": 40.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Fortune: AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow and spending.\nReported by SammyGuru: Sam Altman Meets 50 Samsung Execs, Gifts OpenAI’s Codex Keyboard.\nReported by Yahoo Tech: Google is letting Claude and Codex into Android Studio, and that changes everything.\nStill open, per Martin Cid Magazine: Elon Musk Answers Vegetarian AI CEOs OpenAI CEO Sam Altman, Alphabet CEO Sundar Pichai and Anthropic CEO Dario Amodei With Steak and Eggs.\nStill open, per Wccftech: OpenAI Teases GPT-6.1 Astra Amid Relentless Hype Around The Mysterious GPT-6.2 Betelgeuse Model, As Another Evidence Surfaces Showing Kimi K3.1 Pro And GLM-5.3 As Products Of Distillation.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per CNBC: OpenAI pares fundraising goal, now seeking up to $20 billion in latest round.\nReported by Zawya: Cloudera launches Cloudera Blueprints, bringing NVIDIA Agent Toolkit to enterprise data anywhere.\nConfirmed, per TechCrunch: OpenAI reportedly lowers funding target for new round.\nReported by Digital Health Wire: OpenAI in the Crosshairs of Wrongful Death Lawsuit.\nReported by Briefs Finance: OpenAI Cuts Funding Goal by $10B.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
