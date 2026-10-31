@@ -1,102 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T15:20:02Z",
- "hour": "2026-10-31T16:00:00Z",
+ "generated_at": "2026-10-31T16:20:02Z",
+ "hour": "2026-10-31T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google Launches Gemini 4 Carbon for Cyber Defenders First, With API Pricing From $2 per Million Tokens",
-   "outlet": "gHacks",
-   "outlet_name": "gHacks",
-   "url": "https://www.ghacks.net/2026/10/31/google-launches-gemini-4-carbon-for-cyber-defenders-first-with-api-pricing-from-2-per-million-tokens/",
+   "title": "Google’s Gemini Tool Cut UK Planners’ Assessment Time 58%",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
+   "url": "https://fourweekmba.com/ai-googles-gemini-tool-cut-uk-planners-assessment-time-58/",
    "label": "REPORTED",
-   "summary_1line": "Google launches Gemini 4 Carbon for cyber defenders with 88.2% on SEC-bench Pro and $2/million input token pricing.",
-   "published_at": "2026-10-31T14:34:47Z",
-   "url_id": "fd70ee4c426ad91d4db5e097ec434f46"
+   "summary_1line": "PlanAssist cuts officers' time by 58% in pilot, to be rolled out to 15 councils by 2027.",
+   "published_at": "2026-10-31T13:51:21Z",
+   "url_id": "cd72780a81c92056d6bbc5436dcdd2ec"
   },
   {
-   "title": "ChatGPT to teenagers: We will not answer your queries, how harmless they may be, if you ask about ...",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-to-teenagers-we-will-not-answer-your-queries-how-harmless-they-may-be-if-you-ask-about-/articleshow/135403753.cms",
+   "title": "Strava Connects Your Training History to Google Gemini: AI Can Now Analyze Your Progress as a Cyclist",
+   "outlet": "TodoMountainBike",
+   "outlet_name": "TodoMountainBike",
+   "url": "https://www.todomountainbike.net/en/strava-connects-your-training-history-to-google-gemini-ai-can-now-analyze-your-progress-as-a-cyclist",
    "label": "REPORTED",
-   "summary_1line": "OpenAI tightens weapon info limits for teens in ChatGPT, with new safeguards rolling out soon.",
-   "published_at": "2026-10-31T14:29:00Z",
-   "url_id": "7a3fa491c5623f49cfa8d389abf4bc95"
+   "summary_1line": "Strava integrates with Google Gemini to let cyclists analyze training data via AI.",
+   "published_at": "2026-10-31T13:25:01Z",
+   "url_id": "1fc8e20de3203cc8b3f25b745c99ded7"
   },
   {
-   "title": "KI-Boom: OpenAI-CEO Sam Altman kri­ti­siert unge­nutzten RAM in PCs",
-   "outlet": "ComputerBase",
-   "outlet_name": "ComputerBase",
-   "url": "https://www.computerbase.de/news/apps/ki-boom-openai-ceo-sam-altman-kritisiert-ungenutzten-ram-in-pcs.100104/",
+   "title": "Tampered Claude Code Extension Put SSH Backdoor on Up to 5,000 Cursor Users' Computers",
+   "outlet": "Northeast Times",
+   "outlet_name": "Northeast Times",
+   "url": "https://northeasttimes.com/2026/10/31/tampered-claude-code-extension-put-ssh-backdoor-on-up-to-5-000-cursor-users/",
    "label": "REPORTED",
-   "summary_1line": "Altman says personal PCs waste 95% of RAM; PS5-Pro sells for $1,399 due to RAM shortage.",
-   "published_at": "2026-10-31T14:10:00Z",
-   "url_id": "13f68ea268248aab1048b8e57934e8db"
+   "summary_1line": "Malicious Claude Code extension targeted 5,000 Cursor users with a backdoor via SSH.",
+   "published_at": "2026-10-31T13:23:56Z",
+   "url_id": "8900192d336d5742580b66ebdb0ab22a"
   },
   {
-   "title": "OpenAI CEO Argues Home PCs Waste the World's Limited DRAM Supply",
-   "outlet": "TechPowerUp",
-   "outlet_name": "TechPowerUp",
-   "url": "https://www.techpowerup.com/354346/openai-ceo-argues-home-pcs-waste-the-worlds-limited-dram-supply",
+   "title": "OpenAI CEO Sam Altman meets Samsung executives to discuss memory chip supply, AI infrastructure",
+   "outlet": "ET Enterprise AI",
+   "outlet_name": "ET Enterprise AI",
+   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/openai-ceo-sam-altman-meets-samsung-executives-to-discuss-memory-chip-supply-ai-infrastructure/135401204",
    "label": "REPORTED",
-   "summary_1line": "Sam Altman says home PCs waste DRAM, urging better cloud use amid supply shortages.",
-   "published_at": "2026-10-31T14:03:41Z",
-   "url_id": "8ae684b679b24a9abdab83cc937b07f4"
+   "summary_1line": "Sam Altman meets Samsung to boost AI chip supply amid global shortages.",
+   "published_at": "2026-10-31T12:34:30Z",
+   "url_id": "4c263e63a37ec808df42fc13ea0797cc"
   },
   {
-   "title": "OpenAI CEO meets Samsung executives in South Korea to strengthen collaboration on AI and storage chips.",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "url": "https://www.kucoin.com/news/flash/openai-ceo-meets-samsung-executives-in-south-korea-to-strengthen-ai-and-storage-chip-collaboration",
+   "title": "ChatGPT Shared-Link Flaw Exposed Private Chats Before OpenAI Fix",
+   "outlet": "The 420.in",
+   "outlet_name": "The 420.in",
+   "url": "https://the420.in/cyber-crime/chatgpt-shared-link-flaw-private-chats/",
    "label": "REPORTED",
-   "summary_1line": "Sam Altman meets Samsung to boost AI chip supply and co-develop AI data centers.",
-   "published_at": "2026-10-31T13:55:32Z",
-   "url_id": "b91b90d27a0d81d7e423f676210d168c"
+   "summary_1line": "ChatGPT flaw lets attackers run code via shared links; fixed by Oct 26.",
+   "published_at": "2026-10-31T12:33:49Z",
+   "url_id": "a8145bca84f32857f8911464d9515e72"
   }
  ],
  "ticker": [
-  {
-   "headline": "Google Launches Gemini 4 Carbon for Cyber Defenders First, With API Pricing From $2 per…",
-   "outlet": "gHacks",
-   "outlet_name": "gHacks",
-   "label": "REPORTED",
-   "url": "https://www.ghacks.net/2026/10/31/google-launches-gemini-4-carbon-for-cyber-defenders-first-with-api-pricing-from-2-per-million-tokens/",
-   "url_id": "fd70ee4c426ad91d4db5e097ec434f46"
-  },
-  {
-   "headline": "ChatGPT to teenagers: We will not answer your queries, how harmless they may be, if you…",
-   "outlet": "The Times of India",
-   "outlet_name": "The Times of India",
-   "label": "REPORTED",
-   "url": "https://timesofindia.indiatimes.com/technology/tech-news/chatgpt-to-teenagers-we-will-not-answer-your-queries-how-harmless-they-may-be-if-you-ask-about-/articleshow/135403753.cms",
-   "url_id": "7a3fa491c5623f49cfa8d389abf4bc95"
-  },
-  {
-   "headline": "KI-Boom: OpenAI-CEO Sam Altman kri­ti­siert unge­nutzten RAM in PCs",
-   "outlet": "ComputerBase",
-   "outlet_name": "ComputerBase",
-   "label": "REPORTED",
-   "url": "https://www.computerbase.de/news/apps/ki-boom-openai-ceo-sam-altman-kritisiert-ungenutzten-ram-in-pcs.100104/",
-   "url_id": "13f68ea268248aab1048b8e57934e8db"
-  },
-  {
-   "headline": "OpenAI CEO Argues Home PCs Waste the World's Limited DRAM Supply",
-   "outlet": "TechPowerUp",
-   "outlet_name": "TechPowerUp",
-   "label": "REPORTED",
-   "url": "https://www.techpowerup.com/354346/openai-ceo-argues-home-pcs-waste-the-worlds-limited-dram-supply",
-   "url_id": "8ae684b679b24a9abdab83cc937b07f4"
-  },
-  {
-   "headline": "OpenAI CEO meets Samsung executives in South Korea to strengthen collaboration on AI and…",
-   "outlet": "KuCoin",
-   "outlet_name": "KuCoin",
-   "label": "REPORTED",
-   "url": "https://www.kucoin.com/news/flash/openai-ceo-meets-samsung-executives-in-south-korea-to-strengthen-ai-and-storage-chip-collaboration",
-   "url_id": "b91b90d27a0d81d7e423f676210d168c"
-  },
   {
    "headline": "Google’s Gemini Tool Cut UK Planners’ Assessment Time 58%",
    "outlet": "FourWeekMBA",
@@ -122,12 +82,44 @@
    "url_id": "8900192d336d5742580b66ebdb0ab22a"
   },
   {
+   "headline": "OpenAI CEO Sam Altman meets Samsung executives to discuss memory chip supply, AI…",
+   "outlet": "ET Enterprise AI",
+   "outlet_name": "ET Enterprise AI",
+   "label": "REPORTED",
+   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/openai-ceo-sam-altman-meets-samsung-executives-to-discuss-memory-chip-supply-ai-infrastructure/135401204",
+   "url_id": "4c263e63a37ec808df42fc13ea0797cc"
+  },
+  {
    "headline": "ChatGPT Shared-Link Flaw Exposed Private Chats Before OpenAI Fix",
    "outlet": "The 420.in",
    "outlet_name": "The 420.in",
    "label": "REPORTED",
    "url": "https://the420.in/cyber-crime/chatgpt-shared-link-flaw-private-chats/",
    "url_id": "a8145bca84f32857f8911464d9515e72"
+  },
+  {
+   "headline": "OpenAI loses $150 billion in valuation under its new plans",
+   "outlet": "Cointribune",
+   "outlet_name": "Cointribune",
+   "label": "REPORTED",
+   "url": "https://www.cointribune.com/en/openai-reduces-its-10-billion-fundraising-goal-amid-doubts-about-ai/",
+   "url_id": "0acdecff28d18fc53e1e111caccbe60b"
+  },
+  {
+   "headline": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet…",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "REPORTED",
+   "url": "https://tech.yahoo.com/ai/claude/articles/ai-agent-used-perform-controversial-120000430.html",
+   "url_id": "9bf3f961340eaddd54759f7d088e9a56"
+  },
+  {
+   "headline": "OpenAI CEO Sam Altman says it's 'quite terrible' to have RAM inside PCs when data centers…",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "REPORTED",
+   "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-ceo-sam-altman-says-113000973.html",
+   "url_id": "34513b8eb6ed35c9bc47487d313fa897"
   },
   {
    "headline": "Apple Intelligence to roll out on iPhones in China in December with Alibaba backing",
@@ -152,16 +144,24 @@
    "label": "REPORTED",
    "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
    "url_id": "7247e45965d695796bbe2f2d03b3c54c"
+  },
+  {
+   "headline": "GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max effort",
+   "outlet": "thenewstack.io",
+   "outlet_name": "thenewstack.io",
+   "label": "STILL OPEN",
+   "url": "https://thenewstack.io/gpt-6-1-terra-vs-claude-opus-5-5/",
+   "url_id": "d78f0c5d491659ed52b538bc3bead8b7"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 9600,
- "articles_24h_label": "about 10,000",
+ "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 9300,
+ "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/16.mp3",
- "audio_seconds": 51.5,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/17.mp3",
+ "audio_seconds": 68.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by gHacks: Google Launches Gemini 4 Carbon for Cyber Defenders First, With API Pricing From $2 per Million Tokens.\nReported by The Times of India: ChatGPT to teenagers: We will not answer your queries, how harmless they may be, if you ask about.\nReported by ComputerBase: KI-Boom: OpenAI-CEO Sam Altman kri­ti­siert unge­nutzten RAM in PCs.\nReported by TechPowerUp: OpenAI CEO Argues Home PCs Waste the World's Limited DRAM Supply.\nReported by KuCoin: OpenAI CEO meets Samsung executives in South Korea to strengthen collaboration on AI and storage chips.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle's Gemini tool helped UK planners cut assessment time by 58 percent in a pilot program. Reported by FourWeekMBA: PlanAssist will roll out to 15 councils by 2027.\nStrava now connects your training history to Google Gemini so cyclists can analyze their progress through artificial intelligence. Reported by TodoMountainBike: the integration lets you review your training data with AI.\nA tampered Claude Code extension put an SSH backdoor on up to 5,000 Cursor users' computers. Reported by Northeast Times: the malicious extension targeted that user base with a backdoor.\nSam Altman met Samsung executives to discuss memory chip supply and artificial intelligence infrastructure. Reported by ET Enterprise AI: the meeting addressed boosting AI chip supply during global shortages.\nChatGPT had a shared link flaw that exposed private chats before OpenAI fixed it by October 26. Reported by The 420.in: attackers could run code through the vulnerable shared links.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
