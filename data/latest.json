@@ -1,101 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T16:20:02Z",
- "hour": "2026-10-31T17:00:00Z",
+ "generated_at": "2026-10-31T17:20:02Z",
+ "hour": "2026-10-31T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Google’s Gemini Tool Cut UK Planners’ Assessment Time 58%",
-   "outlet": "FourWeekMBA",
-   "outlet_name": "FourWeekMBA",
-   "url": "https://fourweekmba.com/ai-googles-gemini-tool-cut-uk-planners-assessment-time-58/",
-   "label": "REPORTED",
-   "summary_1line": "PlanAssist cuts officers' time by 58% in pilot, to be rolled out to 15 councils by 2027.",
-   "published_at": "2026-10-31T13:51:21Z",
-   "url_id": "cd72780a81c92056d6bbc5436dcdd2ec"
+   "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "url": "https://www.cnbc.com/2026/10/31/openai-funding-target-cut-10-billion.html",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI cuts funding target to $20B amid AI stock selloff, valuing itself at $1.25T.",
+   "published_at": "2026-10-31T09:08:00Z",
+   "url_id": "5ca7c42e6a53aa1850847ceabd183a6f"
   },
   {
-   "title": "Strava Connects Your Training History to Google Gemini: AI Can Now Analyze Your Progress as a Cyclist",
-   "outlet": "TodoMountainBike",
-   "outlet_name": "TodoMountainBike",
-   "url": "https://www.todomountainbike.net/en/strava-connects-your-training-history-to-google-gemini-ai-can-now-analyze-your-progress-as-a-cyclist",
+   "title": "OpenAI loses $150 billion in valuation under its new plans",
+   "outlet": "Cointribune",
+   "outlet_name": "Cointribune",
+   "url": "https://www.cointribune.com/en/openai-reduces-its-10-billion-fundraising-goal-amid-doubts-about-ai/",
    "label": "REPORTED",
-   "summary_1line": "Strava integrates with Google Gemini to let cyclists analyze training data via AI.",
-   "published_at": "2026-10-31T13:25:01Z",
-   "url_id": "1fc8e20de3203cc8b3f25b745c99ded7"
+   "summary_1line": "OpenAI cuts funding goal to $20B amid investor skepticism and AI competition.",
+   "published_at": "2026-10-31T15:15:00Z",
+   "url_id": "0acdecff28d18fc53e1e111caccbe60b"
   },
   {
-   "title": "Tampered Claude Code Extension Put SSH Backdoor on Up to 5,000 Cursor Users' Computers",
-   "outlet": "Northeast Times",
-   "outlet_name": "Northeast Times",
-   "url": "https://northeasttimes.com/2026/10/31/tampered-claude-code-extension-put-ssh-backdoor-on-up-to-5-000-cursor-users/",
+   "title": "OpenAI will Cybersecurity-Daten fürs Training nutzen, Sicherheitsforscher reagieren verärgert",
+   "outlet": "the-decoder.de",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.de/openai-will-cybersecurity-daten-fuers-training-nutzen-sicherheitsforscher-reagieren-veraergert/",
    "label": "REPORTED",
-   "summary_1line": "Malicious Claude Code extension targeted 5,000 Cursor users with a backdoor via SSH.",
-   "published_at": "2026-10-31T13:23:56Z",
-   "url_id": "8900192d336d5742580b66ebdb0ab22a"
+   "summary_1line": "OpenAI to use cybersecurity data for training, adding opt-out option amid researcher concerns.",
+   "published_at": "2026-10-31T16:13:37Z",
+   "url_id": "f2c35150a172cfac3d25fd3071071af1"
   },
   {
-   "title": "OpenAI CEO Sam Altman meets Samsung executives to discuss memory chip supply, AI infrastructure",
-   "outlet": "ET Enterprise AI",
-   "outlet_name": "ET Enterprise AI",
-   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/openai-ceo-sam-altman-meets-samsung-executives-to-discuss-memory-chip-supply-ai-infrastructure/135401204",
+   "title": "Anthropic IPO: Which Major Investors Will Profit From the ANT Listing?",
+   "outlet": "TradingKey",
+   "outlet_name": "TradingKey",
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262262726-anthropic-ipo-ant-major-investors-ai-amzn-googl-tradingkey",
    "label": "REPORTED",
-   "summary_1line": "Sam Altman meets Samsung to boost AI chip supply amid global shortages.",
-   "published_at": "2026-10-31T12:34:30Z",
-   "url_id": "4c263e63a37ec808df42fc13ea0797cc"
+   "summary_1line": "Anthropic's IPO targets $1.5T–$2T with Amazon, Google, and major VC stakes.",
+   "published_at": "2026-10-31T16:04:30Z",
+   "url_id": "2fdbce6facd8c79b2de0a7d31d4dd0cf"
   },
   {
-   "title": "ChatGPT Shared-Link Flaw Exposed Private Chats Before OpenAI Fix",
-   "outlet": "The 420.in",
-   "outlet_name": "The 420.in",
-   "url": "https://the420.in/cyber-crime/chatgpt-shared-link-flaw-private-chats/",
+   "title": "Google says Gemini 4 Argon is the best coder alive, so I put it up against Claude Opus 5.5",
+   "outlet": "MakeUseOf",
+   "outlet_name": "MakeUseOf",
+   "url": "https://www.makeuseof.com/google-gemini-4-argon-best-coder-alive-vs-claude-opus-55/",
    "label": "REPORTED",
-   "summary_1line": "ChatGPT flaw lets attackers run code via shared links; fixed by Oct 26.",
-   "published_at": "2026-10-31T12:33:49Z",
-   "url_id": "a8145bca84f32857f8911464d9515e72"
+   "summary_1line": "Gemini 4 Argon delivers a rich, feature-rich app without explicit prompts, marking a major improvement over prior Gemini models.",
+   "published_at": "2026-10-31T16:00:17Z",
+   "url_id": "faa99197aab50da5874f7b261a0d33d6"
   }
  ],
  "ticker": [
   {
-   "headline": "Google’s Gemini Tool Cut UK Planners’ Assessment Time 58%",
-   "outlet": "FourWeekMBA",
-   "outlet_name": "FourWeekMBA",
-   "label": "REPORTED",
-   "url": "https://fourweekmba.com/ai-googles-gemini-tool-cut-uk-planners-assessment-time-58/",
-   "url_id": "cd72780a81c92056d6bbc5436dcdd2ec"
-  },
-  {
-   "headline": "Strava Connects Your Training History to Google Gemini: AI Can Now Analyze Your Progress…",
-   "outlet": "TodoMountainBike",
-   "outlet_name": "TodoMountainBike",
-   "label": "REPORTED",
-   "url": "https://www.todomountainbike.net/en/strava-connects-your-training-history-to-google-gemini-ai-can-now-analyze-your-progress-as-a-cyclist",
-   "url_id": "1fc8e20de3203cc8b3f25b745c99ded7"
-  },
-  {
-   "headline": "Tampered Claude Code Extension Put SSH Backdoor on Up to 5,000 Cursor Users' Computers",
-   "outlet": "Northeast Times",
-   "outlet_name": "Northeast Times",
-   "label": "REPORTED",
-   "url": "https://northeasttimes.com/2026/10/31/tampered-claude-code-extension-put-ssh-backdoor-on-up-to-5-000-cursor-users/",
-   "url_id": "8900192d336d5742580b66ebdb0ab22a"
-  },
-  {
-   "headline": "OpenAI CEO Sam Altman meets Samsung executives to discuss memory chip supply, AI…",
-   "outlet": "ET Enterprise AI",
-   "outlet_name": "ET Enterprise AI",
-   "label": "REPORTED",
-   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/openai-ceo-sam-altman-meets-samsung-executives-to-discuss-memory-chip-supply-ai-infrastructure/135401204",
-   "url_id": "4c263e63a37ec808df42fc13ea0797cc"
-  },
-  {
-   "headline": "ChatGPT Shared-Link Flaw Exposed Private Chats Before OpenAI Fix",
-   "outlet": "The 420.in",
-   "outlet_name": "The 420.in",
-   "label": "REPORTED",
-   "url": "https://the420.in/cyber-crime/chatgpt-shared-link-flaw-private-chats/",
-   "url_id": "a8145bca84f32857f8911464d9515e72"
+   "headline": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+   "outlet": "CNBC",
+   "outlet_name": "CNBC",
+   "label": "STILL OPEN",
+   "url": "https://www.cnbc.com/2026/10/31/openai-funding-target-cut-10-billion.html",
+   "url_id": "5ca7c42e6a53aa1850847ceabd183a6f"
   },
   {
    "headline": "OpenAI loses $150 billion in valuation under its new plans",
@@ -106,20 +74,76 @@
    "url_id": "0acdecff28d18fc53e1e111caccbe60b"
   },
   {
-   "headline": "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet…",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "OpenAI will Cybersecurity-Daten fürs Training nutzen, Sicherheitsforscher reagieren…",
+   "outlet": "the-decoder.de",
+   "outlet_name": "The Decoder",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/claude/articles/ai-agent-used-perform-controversial-120000430.html",
-   "url_id": "9bf3f961340eaddd54759f7d088e9a56"
+   "url": "https://the-decoder.de/openai-will-cybersecurity-daten-fuers-training-nutzen-sicherheitsforscher-reagieren-veraergert/",
+   "url_id": "f2c35150a172cfac3d25fd3071071af1"
   },
   {
-   "headline": "OpenAI CEO Sam Altman says it's 'quite terrible' to have RAM inside PCs when data centers…",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "Anthropic IPO: Which Major Investors Will Profit From the ANT Listing?",
+   "outlet": "TradingKey",
+   "outlet_name": "TradingKey",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-ceo-sam-altman-says-113000973.html",
-   "url_id": "34513b8eb6ed35c9bc47487d313fa897"
+   "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262262726-anthropic-ipo-ant-major-investors-ai-amzn-googl-tradingkey",
+   "url_id": "2fdbce6facd8c79b2de0a7d31d4dd0cf"
+  },
+  {
+   "headline": "Google says Gemini 4 Argon is the best coder alive, so I put it up against Claude Opus 5.5",
+   "outlet": "MakeUseOf",
+   "outlet_name": "MakeUseOf",
+   "label": "REPORTED",
+   "url": "https://www.makeuseof.com/google-gemini-4-argon-best-coder-alive-vs-claude-opus-55/",
+   "url_id": "faa99197aab50da5874f7b261a0d33d6"
+  },
+  {
+   "headline": "Open AI gegen Deepfakes: So will die Chat-GPT-Firma Wahltäuschung verhindern",
+   "outlet": "NZZ",
+   "outlet_name": "NZZ",
+   "label": "REPORTED",
+   "url": "https://www.nzz.ch/technologie/wasserzeichen-cartoons-und-ki-modelle-die-wiederum-die-ki-ueberwachen-so-will-open-ai-die-manipulation-der-kongresswahlen-verhindern-ld.10047685",
+   "url_id": "a66bb07a81efa561969e5282687fefec"
+  },
+  {
+   "headline": "Anthropic-Studie: Experten übernehmen KI-Urteile in 86 Prozent der Fälle",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "label": "REPORTED",
+   "url": "https://borncity.com/news/anthropic-studie-experten-uebernehmen-ki-urteile-in-86-prozent-der-faelle/",
+   "url_id": "417acba934af22c8bc0f32f24f95561c"
+  },
+  {
+   "headline": "Anthropic updates Claude to 'steer it away' from letting users clone games following…",
+   "outlet": "PC Gamer",
+   "outlet_name": "PC Gamer",
+   "label": "REPORTED",
+   "url": "https://www.pcgamer.com/gaming-industry/anthropic-updates-claude-to-steer-it-away-from-letting-users-clone-games-following-weeks-of-steam-being-inundated-with-ai-slop/",
+   "url_id": "a32039fe1fb1e18384356254558b2204"
+  },
+  {
+   "headline": "Let Inga Tell You: ChatGPT – my new best friend",
+   "outlet": "San Diego Union-Tribune",
+   "outlet_name": "San Diego Union-Tribune",
+   "label": "REPORTED",
+   "url": "https://www.sandiegouniontribune.com/2026/10/31/let-inga-tell-you-chatgpt-my-new-best-friend/",
+   "url_id": "ebaf12baf71f68ae661b32bcafa1b27b"
+  },
+  {
+   "headline": "Nvidia + Hugging Face: 5 DOJ Probe Risks [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "STILL OPEN",
+   "url": "https://shattered.io/nvidia-hugging-face-doj-inquiry-12-93b-meta-becerra-pac-2026/",
+   "url_id": "a4a334355e76aab6e91554e8e52b5498"
+  },
+  {
+   "headline": "Hiding AI misbehavior is no longer easy! OpenAI has introduced a new 4-layer safety…",
+   "outlet": "Newspoint on MSN",
+   "outlet_name": "Newspoint on MSN",
+   "label": "REPORTED",
+   "url": "https://www.msn.com/en-in/news/other/hiding-ai-misbehavior-is-no-longer-easy-openai-has-introduced-a-new-4-layer-safety-monitoring-system/ar-AA2gttUf",
+   "url_id": "64ba30a47f45f1cf314767ad9effab06"
   },
   {
    "headline": "Apple Intelligence to roll out on iPhones in China in December with Alibaba backing",
@@ -128,40 +152,16 @@
    "label": "REPORTED",
    "url": "https://www.msn.com/en-xl/technology/artificial-intelligence/apple-intelligence-to-roll-out-on-iphones-in-china-in-december-with-alibaba-backing/ar-AA2gsN3z",
    "url_id": "78d56d8646dd943e1a29d17fa12c3845"
-  },
-  {
-   "headline": "I used Claude Code to build an Android app that my family actually uses every day",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
-   "label": "REPORTED",
-   "url": "https://www.xda-developers.com/claude-code-build-android-app-family-uses-every-day/",
-   "url_id": "f82bfd0a3a8861c4dd523dd042fc5acd"
-  },
-  {
-   "headline": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-   "outlet": "indiatoday.in",
-   "outlet_name": "indiatoday.in",
-   "label": "REPORTED",
-   "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
-   "url_id": "7247e45965d695796bbe2f2d03b3c54c"
-  },
-  {
-   "headline": "GPT-6.1 Terra vs. Claude Opus 5.5: Cheaper and faster in three tests at max effort",
-   "outlet": "thenewstack.io",
-   "outlet_name": "thenewstack.io",
-   "label": "STILL OPEN",
-   "url": "https://thenewstack.io/gpt-6-1-terra-vs-claude-opus-5-5/",
-   "url_id": "d78f0c5d491659ed52b538bc3bead8b7"
   }
  ],
- "tidbit": "Did you know… about 9,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 9300,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 9000,
  "articles_24h_label": "about 9,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/17.mp3",
- "audio_seconds": 68.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/18.mp3",
+ "audio_seconds": 49.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nGoogle's Gemini tool helped UK planners cut assessment time by 58 percent in a pilot program. Reported by FourWeekMBA: PlanAssist will roll out to 15 councils by 2027.\nStrava now connects your training history to Google Gemini so cyclists can analyze their progress through artificial intelligence. Reported by TodoMountainBike: the integration lets you review your training data with AI.\nA tampered Claude Code extension put an SSH backdoor on up to 5,000 Cursor users' computers. Reported by Northeast Times: the malicious extension targeted that user base with a backdoor.\nSam Altman met Samsung executives to discuss memory chip supply and artificial intelligence infrastructure. Reported by ET Enterprise AI: the meeting addressed boosting AI chip supply during global shortages.\nChatGPT had a shared link flaw that exposed private chats before OpenAI fixed it by October 26. Reported by The 420.in: attackers could run code through the vulnerable shared links.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per CNBC: OpenAI slashes funding target by $10 billion amid tech rout, FT reports.\nReported by Cointribune: OpenAI loses $150 billion in valuation under its new plans.\nReported by The Decoder: OpenAI will Cybersecurity-Daten fürs Training nutzen, Sicherheitsforscher reagieren verärgert.\nReported by TradingKey: Anthropic IPO: Which Major Investors Will Profit From the ANT Listing.\nReported by MakeUseOf: Google says Gemini 4 Argon is the best coder alive, so I put it up against Claude Opus 5.5.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
