@@ -1,102 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T19:20:02Z",
- "hour": "2026-10-31T20:00:00Z",
+ "generated_at": "2026-10-31T20:20:02Z",
+ "hour": "2026-10-31T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Slashes Funding Target to $20 Billion, Cuts Valuation to $1.25 Trillion: 7 outlets compared",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
-   "url": "https://newscord.org/article/openai-slashes-funding-target-to-20-billion-cuts-valuation-to-125-trillion--Story_20261031_OpenAIreportedlylowe45229ca6",
+   "title": "AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow and spending",
+   "outlet": "Fortune",
+   "outlet_name": "Fortune",
+   "url": "https://fortune.com/2026/10/31/ai-boom-bust-openai-fundraising-target-meta-credit-warning-cash-flow-capex/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI cuts funding to $20B, valuation to $1.25T amid investor caution.",
-   "published_at": "2026-10-31T17:24:52Z",
-   "url_id": "b49325823731e707846e80e49d6b3843"
+   "summary_1line": "OpenAI cuts funding target to $20B amid Wall Street backlash on AI spending.",
+   "published_at": "2026-10-31T17:15:00Z",
+   "url_id": "bcc3487f602ef30c3b68d6cb5f8bb6fc"
   },
   {
-   "title": "Human Consent Foundation and Hollywood Stars Back NYT's Lawsuit Against OpenAI and Microsoft",
-   "outlet": "SSBCrack",
-   "outlet_name": "SSBCrack",
-   "url": "https://news.ssbcrack.com/human-consent-foundation-and-hollywood-stars-back-nyts-lawsuit-against-openai-and-microsoft/",
+   "title": "Sam Altman Meets 50 Samsung Execs, Gifts OpenAI’s Codex Keyboard",
+   "outlet": "SammyGuru",
+   "outlet_name": "SammyGuru",
+   "url": "https://sammyguru.com/sam-altman-openai-keyboard-samsung-executives/",
    "label": "REPORTED",
-   "summary_1line": "Hollywood groups file brief opposing OpenAI and Microsoft's AI training claims.",
-   "published_at": "2026-10-31T10:42:59Z",
-   "url_id": "9aba69e01eea96277f32dc4c73bdc5b6"
+   "summary_1line": "Altman gifts Samsung executives OpenAI's Codex Micro Keyboard during AI strategy meeting.",
+   "published_at": "2026-10-31T17:08:36Z",
+   "url_id": "75983807301201090d44f97d6361f93f"
   },
   {
-   "title": "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for Chinese market",
-   "outlet": "Anadolu Ajansı",
-   "outlet_name": "Anadolu Ajansı",
-   "url": "https://www.aa.com.tr/en/asia-pacific/alibaba-partners-with-apple-to-integrate-qwen-ai-model-into-apple-intelligence-for-chinese-market/4107573",
+   "title": "Google is letting Claude and Codex into Android Studio, and that changes everything",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/claude/articles/google-letting-claude-codex-android-170346241.html",
    "label": "REPORTED",
-   "summary_1line": "Alibaba's Qwen AI joins Apple Intelligence in China, starting Nov. 4 in beta.",
-   "published_at": "2026-10-31T17:38:21Z",
-   "url_id": "eacb82df7303d5522b41ff686ae6ad0f"
+   "summary_1line": "Google lets Claude, Codex and others use Android Studio, cutting memory leak detection time by half.",
+   "published_at": "2026-10-31T17:03:46Z",
+   "url_id": "271e64543a33c323fffda4e0a10ac622"
   },
   {
-   "title": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was previously off-limits",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI to train on sensitive cybersecurity data, sparking privacy concerns.",
-   "published_at": "2026-10-31T17:37:30Z",
-   "url_id": "dbd1e3406a71ad0556d3e2924960d8fa"
+   "title": "Elon Musk Answers Vegetarian AI CEOs OpenAI CEO Sam Altman, Alphabet CEO Sundar Pichai and Anthropic CEO Dario Amodei With Steak and Eggs",
+   "outlet": "Martin Cid Magazine",
+   "outlet_name": "Martin Cid Magazine",
+   "url": "https://www.martincid.com/business/elon-musk-steak-eggs-vegetarian-ai-ceos-altman-pichai-amodei/",
+   "label": "STILL OPEN",
+   "summary_1line": "The text is a navigation interface with no news content.",
+   "published_at": "2026-10-31T17:41:46Z",
+   "url_id": "fa71fa41347dea934b9f24ee1048b82b"
   },
   {
-   "title": "Human vs ChatGPT NFL Week 8 betting picks: Human answers with 4-1 week, looks to keep rolling",
-   "outlet": "930 WFMD Free Talk",
-   "outlet_name": "930 WFMD Free Talk",
-   "url": "https://www.wfmd.com/2026/10/31/human-vs-chatgpt-nfl-week-8-betting-picks-human-answers-with-4-1-week-looks-to-keep-rolling/",
-   "label": "REPORTED",
-   "summary_1line": "Dan beats ChatGPT in NFL betting with 4-1 record and +3.11 units.",
-   "published_at": "2026-10-31T17:35:46Z",
-   "url_id": "f190be86b4d82c9eb8bb00a27bd0fc28"
+   "title": "OpenAI Teases GPT-6.1 Astra Amid Relentless Hype Around The Mysterious GPT-6.2 Betelgeuse Model, As Another Evidence Surfaces Showing Kimi K3.1 Pro And GLM-5.3 As Products Of Distillation",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "url": "https://wccftech.com/openai-teases-gpt-6-1-astra-amid-relentless-hype-around-the-mysterious-gpt-6-2-betelgeuse-model-as-another-evidence-surfaces-showing-kimi-k3-1-pro-and-glm-5-3-as-products-of-distillation/",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI hints at GPT-6.1 Astra launch with banked resets; models show distillation signals.",
+   "published_at": "2026-10-31T17:11:35Z",
+   "url_id": "e1a4202b2f537a1a1dc7ed7a08ce1ba1"
   }
  ],
  "ticker": [
-  {
-   "headline": "OpenAI Slashes Funding Target to $20 Billion, Cuts Valuation to $1.25 Trillion: 7 outlets…",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
-   "label": "REPORTED",
-   "url": "https://newscord.org/article/openai-slashes-funding-target-to-20-billion-cuts-valuation-to-125-trillion--Story_20261031_OpenAIreportedlylowe45229ca6",
-   "url_id": "b49325823731e707846e80e49d6b3843"
-  },
-  {
-   "headline": "Human Consent Foundation and Hollywood Stars Back NYT's Lawsuit Against OpenAI and…",
-   "outlet": "SSBCrack",
-   "outlet_name": "SSBCrack",
-   "label": "REPORTED",
-   "url": "https://news.ssbcrack.com/human-consent-foundation-and-hollywood-stars-back-nyts-lawsuit-against-openai-and-microsoft/",
-   "url_id": "9aba69e01eea96277f32dc4c73bdc5b6"
-  },
-  {
-   "headline": "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for…",
-   "outlet": "Anadolu Ajansı",
-   "outlet_name": "Anadolu Ajansı",
-   "label": "REPORTED",
-   "url": "https://www.aa.com.tr/en/asia-pacific/alibaba-partners-with-apple-to-integrate-qwen-ai-model-into-apple-intelligence-for-chinese-market/4107573",
-   "url_id": "eacb82df7303d5522b41ff686ae6ad0f"
-  },
-  {
-   "headline": "OpenAI plans to train models on Daybreak Blue cybersecurity session data that was…",
-   "outlet": "the-decoder.com",
-   "outlet_name": "The Decoder",
-   "label": "REPORTED",
-   "url": "https://the-decoder.com/openai-plans-to-train-models-on-daybreak-blue-cybersecurity-session-data-that-was-previously-off-limits/",
-   "url_id": "dbd1e3406a71ad0556d3e2924960d8fa"
-  },
-  {
-   "headline": "Human vs ChatGPT NFL Week 8 betting picks: Human answers with 4-1 week, looks to keep…",
-   "outlet": "930 WFMD Free Talk",
-   "outlet_name": "930 WFMD Free Talk",
-   "label": "REPORTED",
-   "url": "https://www.wfmd.com/2026/10/31/human-vs-chatgpt-nfl-week-8-betting-picks-human-answers-with-4-1-week-looks-to-keep-rolling/",
-   "url_id": "f190be86b4d82c9eb8bb00a27bd0fc28"
-  },
   {
    "headline": "AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow…",
    "outlet": "Fortune",
@@ -114,12 +74,28 @@
    "url_id": "75983807301201090d44f97d6361f93f"
   },
   {
-   "headline": "Nvidia + Hugging Face: 5 DOJ Probe Risks [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
+   "headline": "Google is letting Claude and Codex into Android Studio, and that changes everything",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "REPORTED",
+   "url": "https://tech.yahoo.com/ai/claude/articles/google-letting-claude-codex-android-170346241.html",
+   "url_id": "271e64543a33c323fffda4e0a10ac622"
+  },
+  {
+   "headline": "Elon Musk Answers Vegetarian AI CEOs OpenAI CEO Sam Altman, Alphabet CEO Sundar Pichai…",
+   "outlet": "Martin Cid Magazine",
+   "outlet_name": "Martin Cid Magazine",
    "label": "STILL OPEN",
-   "url": "https://shattered.io/nvidia-hugging-face-doj-inquiry-12-93b-meta-becerra-pac-2026/",
-   "url_id": "a4a334355e76aab6e91554e8e52b5498"
+   "url": "https://www.martincid.com/business/elon-musk-steak-eggs-vegetarian-ai-ceos-altman-pichai-amodei/",
+   "url_id": "fa71fa41347dea934b9f24ee1048b82b"
+  },
+  {
+   "headline": "OpenAI Teases GPT-6.1 Astra Amid Relentless Hype Around The Mysterious GPT-6.2 Betelgeuse…",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "label": "STILL OPEN",
+   "url": "https://wccftech.com/openai-teases-gpt-6-1-astra-amid-relentless-hype-around-the-mysterious-gpt-6-2-betelgeuse-model-as-another-evidence-surfaces-showing-kimi-k3-1-pro-and-glm-5-3-as-products-of-distillation/",
+   "url_id": "e1a4202b2f537a1a1dc7ed7a08ce1ba1"
   },
   {
    "headline": "Two EU AI Act translations use FLOPs/s instead of cumulative FLOPs",
@@ -128,14 +104,6 @@
    "label": "REPORTED",
    "url": "https://www.arxo.io/findings/ARXO-2026-0413/",
    "url_id": "ac3576b1fa20cee459c240cf00428ae1"
-  },
-  {
-   "headline": "Hiding AI misbehavior is no longer easy! OpenAI has introduced a new 4-layer safety…",
-   "outlet": "Newspoint on MSN",
-   "outlet_name": "Newspoint on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/hiding-ai-misbehavior-is-no-longer-easy-openai-has-introduced-a-new-4-layer-safety-monitoring-system/ar-AA2gttUf",
-   "url_id": "64ba30a47f45f1cf314767ad9effab06"
   },
   {
    "headline": "Show HN: Publishub. An AI copilot for video creators and editors.",
@@ -152,16 +120,48 @@
    "label": "REPORTED",
    "url": "https://clawdline.com/",
    "url_id": "d698646c2174f237a949afe0f7674062"
+  },
+  {
+   "headline": "Show HN: VestLens, a MCP App for Wealthsimple Portfolios in Claude/ChatGPT",
+   "outlet": "vestlens.com",
+   "outlet_name": "vestlens.com",
+   "label": "REPORTED",
+   "url": "https://vestlens.com/",
+   "url_id": "001dca0cdfddde0c491c91c9f4eeecc2"
+  },
+  {
+   "headline": "Amici flood OpenAI MDL docket seeking leave to file 52 briefs in key copyright suit",
+   "outlet": "chatgptiseatingtheworld.com",
+   "outlet_name": "chatgptiseatingtheworld.com",
+   "label": "REPORTED",
+   "url": "https://chatgptiseatingtheworld.com/2026/10/31/amici-flood-openai-mdl-docket-seeking-leave-to-file-54-briefs-in-key-copyright-suit/",
+   "url_id": "d7506ef6300a7b9769455c54950dc6a6"
+  },
+  {
+   "headline": "Anthropic’s Experimental Model Was Flagged for Reward Hacking in 40% of Episodes",
+   "outlet": "www.tokenpost.com",
+   "outlet_name": "www.tokenpost.com",
+   "label": "REPORTED",
+   "url": "https://www.tokenpost.com/news/technology/45509",
+   "url_id": "c4eebc133be185183db26b31bafe37c1"
+  },
+  {
+   "headline": "ONLYOFFICE 10.0 Brings AI Tools, Modular Apps, and Stronger Security to Its Open-Source…",
+   "outlet": "markets.businessinsider.com",
+   "outlet_name": "markets.businessinsider.com",
+   "label": "REPORTED",
+   "url": "https://markets.businessinsider.com/news/stocks/onlyoffice-10-0-brings-ai-tools-modular-apps-and-stronger-security-to-its-open-source-office-suite-1036695279",
+   "url_id": "d1562b3b8f2ad327876bf43fb4aca6d8"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 8500,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 8300,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/20.mp3",
- "audio_seconds": 20.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/21.mp3",
+ "audio_seconds": 60.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI cuts its funding target to 20 billion dollars, slashing valuation to 1.25 trillion. Reported by NewsCord: the move reflects investor caution.\nHollywood groups file a brief opposing OpenAI and Microsoft's artificial intelligence training claims. Reported by SSBCrack: the Human Consent Foundation and Hollywood stars back the lawsuit.\nAlibaba's Qwen artificial intelligence model joins Apple Intelligence in China starting November 4 in beta. Reported by Anadolu Ajansı: the partnership brings Qwen to Apple devices.\nOpenAI plans to train on sensitive cybersecurity data previously off limits. Reported by The Decoder: the move sparks privacy concerns.\nDan beats ChatGPT in NFL betting with a 4-1 record and plus 3.11 units. Reported by 930 WFMD Free Talk: the human keeps rolling with winning picks.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Fortune: AI outlook: OpenAI cuts fundraising goal while Meta gets a credit warning on cash flow and spending.\nReported by SammyGuru: Sam Altman Meets 50 Samsung Execs, Gifts OpenAI’s Codex Keyboard.\nReported by Yahoo Tech: Google is letting Claude and Codex into Android Studio, and that changes everything.\nStill open, per Martin Cid Magazine: Elon Musk Answers Vegetarian AI CEOs OpenAI CEO Sam Altman, Alphabet CEO Sundar Pichai and Anthropic CEO Dario Amodei With Steak and Eggs.\nStill open, per Wccftech: OpenAI Teases GPT-6.1 Astra Amid Relentless Hype Around The Mysterious GPT-6.2 Betelgeuse Model, As Another Evidence Surfaces Showing Kimi K3.1 Pro And GLM-5.3 As Products Of Distillation.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
