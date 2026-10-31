@@ -1,101 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T21:20:02Z",
- "hour": "2026-10-31T22:00:00Z",
+ "generated_at": "2026-10-31T22:20:02Z",
+ "hour": "2026-10-31T23:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-   "label": "STILL OPEN",
-   "summary_1line": "OpenAI cuts funding target to $20B, citing market uncertainty in AI returns.",
-   "published_at": "2026-10-31T19:56:23Z",
-   "url_id": "c10bd0194e460aa08140b3dd28717707"
-  },
-  {
-   "title": "Cloudera launches Cloudera Blueprints, bringing NVIDIA Agent Toolkit to enterprise data anywhere",
-   "outlet": "Zawya",
-   "outlet_name": "Zawya",
-   "url": "https://www.zawya.com/en/press-release/companies-news/cloudera-launches-cloudera-blueprints-bringing-nvidia-agent-toolkit-to-enterprise-data-anywhere-1858750",
-   "label": "REPORTED",
-   "summary_1line": "Cloudera launches AI solutions for enterprises using data anywhere.",
-   "published_at": "2026-10-31T19:48:00Z",
-   "url_id": "5b4ba22f755eeae1f8c58824d83a3800"
-  },
-  {
-   "title": "OpenAI reportedly lowers funding target for new round",
+   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI scales back funding to $20B amid tepid investor response and market caution.",
-   "published_at": "2026-10-31T16:12:55Z",
-   "url_id": "c361ea6e6eba35fb9e53698dc084100a"
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-31T21:17:03Z",
+   "url_id": "b57691e750415c605a04719d2ad2f8a7"
   },
   {
-   "title": "OpenAI in the Crosshairs of Wrongful Death Lawsuit",
-   "outlet": "Digital Health Wire",
-   "outlet_name": "Digital Health Wire",
-   "url": "https://digitalhealthwire.com/openai-in-the-crosshairs-of-wrongful-death-lawsuit/",
+   "title": "Grok can launch a thousand ships – but this AI remake of The Odyssey can’t make us feel",
+   "outlet": "Stuff South Africa",
+   "outlet_name": "Stuff South Africa",
+   "url": "https://stuff.co.za/2026/10/31/grok-ai-remake-of-the-odyssey-cant-make-us-feel/",
    "label": "REPORTED",
-   "summary_1line": "ChatGPT advised medication cut; woman died; parents sue OpenAI over medical advice.",
-   "published_at": "2026-10-31T10:04:13Z",
-   "url_id": "230d298bf984d02ea806f7a1ff4d7b94"
+   "summary_1line": "Grok Imagine's AI film on Odyssey criticized for emotional and narrative shortcomings.",
+   "published_at": "2026-10-31T12:00:54Z",
+   "url_id": "6ee657adee177307a76b562b0e2c2635"
   },
   {
-   "title": "OpenAI Cuts Funding Goal by $10B",
-   "outlet": "Briefs Finance",
-   "outlet_name": "Briefs Finance",
-   "url": "https://www.briefs.co/news/openai-trims-funding-goal-by-10-billion-as-ai-jitters-hit-ma/",
+   "title": "OpenAI valued at $1.25 trillion as funding round falls short of its target",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/openai-valued-125-trillion-funding-round/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI cuts fundraising to $20B at $1.25T as Anthropic targets $1.5T IPO, amid investor caution.",
-   "published_at": "2026-10-31T14:35:00Z",
-   "url_id": "dd703b5904c48f0bdc7d2cf3c08b6dbf"
+   "summary_1line": "OpenAI's funding and valuation targets dropped amid AI stock declines, with $1.25 trillion valuation and $50B revenue.",
+   "published_at": "2026-10-31T11:42:00Z",
+   "url_id": "9acdd10d6ce0ec73ca3c343bfb6a6f4a"
+  },
+  {
+   "title": "Anthropic IPO Could Receive Junk Credit Rating Despite $800 Billion AI Spending Plan",
+   "outlet": "Coinpedia",
+   "outlet_name": "Coinpedia",
+   "url": "https://coinpedia.org/crypto-live-news/anthropic-ipo-could-receive-junk-credit-rating-despite-800-billion-ai-spending-plan/",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic may get junk rating at IPO amid $800B AI infrastructure plan.",
+   "published_at": "2026-10-31T06:18:00Z",
+   "url_id": "6cb087f50cc4b024dd9883e9976c0110"
+  },
+  {
+   "title": "SpaceX AI Will Watermark Grok Text by Default for EU AI Act",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
+   "url": "https://fourweekmba.com/ai-spacex-ai-will-watermark-grok-text-by-default-for-eu-ai-act/",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-10-31T20:21:11Z",
+   "url_id": "12e4c8797a6feec97d3dc246a7a10872"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-   "outlet": "CNBC",
-   "outlet_name": "CNBC",
-   "label": "STILL OPEN",
-   "url": "https://www.cnbc.com/2026/10/31/openai-fundraising-20-billion-valuation.html",
-   "url_id": "c10bd0194e460aa08140b3dd28717707"
-  },
-  {
-   "headline": "Cloudera launches Cloudera Blueprints, bringing NVIDIA Agent Toolkit to enterprise data…",
-   "outlet": "Zawya",
-   "outlet_name": "Zawya",
-   "label": "REPORTED",
-   "url": "https://www.zawya.com/en/press-release/companies-news/cloudera-launches-cloudera-blueprints-bringing-nvidia-agent-toolkit-to-enterprise-data-anywhere-1858750",
-   "url_id": "5b4ba22f755eeae1f8c58824d83a3800"
-  },
-  {
-   "headline": "OpenAI reportedly lowers funding target for new round",
+   "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
    "outlet": "techcrunch.com",
    "outlet_name": "TechCrunch",
-   "label": "CONFIRMED",
-   "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-   "url_id": "c361ea6e6eba35fb9e53698dc084100a"
-  },
-  {
-   "headline": "OpenAI in the Crosshairs of Wrongful Death Lawsuit",
-   "outlet": "Digital Health Wire",
-   "outlet_name": "Digital Health Wire",
    "label": "REPORTED",
-   "url": "https://digitalhealthwire.com/openai-in-the-crosshairs-of-wrongful-death-lawsuit/",
-   "url_id": "230d298bf984d02ea806f7a1ff4d7b94"
-  },
-  {
-   "headline": "OpenAI Cuts Funding Goal by $10B",
-   "outlet": "Briefs Finance",
-   "outlet_name": "Briefs Finance",
-   "label": "REPORTED",
-   "url": "https://www.briefs.co/news/openai-trims-funding-goal-by-10-billion-as-ai-jitters-hit-ma/",
-   "url_id": "dd703b5904c48f0bdc7d2cf3c08b6dbf"
+   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+   "url_id": "b57691e750415c605a04719d2ad2f8a7"
   },
   {
    "headline": "Grok can launch a thousand ships – but this AI remake of The Odyssey can’t make us feel",
@@ -104,6 +72,30 @@
    "label": "REPORTED",
    "url": "https://stuff.co.za/2026/10/31/grok-ai-remake-of-the-odyssey-cant-make-us-feel/",
    "url_id": "6ee657adee177307a76b562b0e2c2635"
+  },
+  {
+   "headline": "OpenAI valued at $1.25 trillion as funding round falls short of its target",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/openai-valued-125-trillion-funding-round/",
+   "url_id": "9acdd10d6ce0ec73ca3c343bfb6a6f4a"
+  },
+  {
+   "headline": "Anthropic IPO Could Receive Junk Credit Rating Despite $800 Billion AI Spending Plan",
+   "outlet": "Coinpedia",
+   "outlet_name": "Coinpedia",
+   "label": "STILL OPEN",
+   "url": "https://coinpedia.org/crypto-live-news/anthropic-ipo-could-receive-junk-credit-rating-despite-800-billion-ai-spending-plan/",
+   "url_id": "6cb087f50cc4b024dd9883e9976c0110"
+  },
+  {
+   "headline": "SpaceX AI Will Watermark Grok Text by Default for EU AI Act",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
+   "label": "REPORTED",
+   "url": "https://fourweekmba.com/ai-spacex-ai-will-watermark-grok-text-by-default-for-eu-ai-act/",
+   "url_id": "12e4c8797a6feec97d3dc246a7a10872"
   },
   {
    "headline": "Anthropic’s late $900K push into California Democratic politics",
@@ -122,20 +114,28 @@
    "url_id": "2f9476c2944bdc04c820a5c7e74350a6"
   },
   {
-   "headline": "Anthropic IPO Could Receive Junk Credit Rating Despite $800 Billion AI Spending Plan",
-   "outlet": "Coinpedia",
-   "outlet_name": "Coinpedia",
-   "label": "STILL OPEN",
-   "url": "https://coinpedia.org/crypto-live-news/anthropic-ipo-could-receive-junk-credit-rating-despite-800-billion-ai-spending-plan/",
-   "url_id": "6cb087f50cc4b024dd9883e9976c0110"
-  },
-  {
    "headline": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
    "outlet": "the-decoder.com",
    "outlet_name": "The Decoder",
    "label": "REPORTED",
    "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
    "url_id": "a19f3f73447864d519c79d0abf66324b"
+  },
+  {
+   "headline": "China AI Compute Demand Up 417%; Nvidia Rival’s Sales Up 19x",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
+   "label": "REPORTED",
+   "url": "https://fourweekmba.com/ai-china-ai-compute-demand-up-417-nvidia-rivals-sales-up-19x/",
+   "url_id": "bb8f5cb36e18fe5d6cff6bab3851d289"
+  },
+  {
+   "headline": "Speeding up planning decisions with AI",
+   "outlet": "Google DeepMind",
+   "outlet_name": "Google DeepMind",
+   "label": "CONFIRMED",
+   "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+   "url_id": "13f69e7a7c0524f4c1ef26067f7f1e91"
   },
   {
    "headline": "Chrome Gemini Autofill Reads Your Gmail: 3 Settings [2026]",
@@ -154,14 +154,14 @@
    "url_id": "f4160ff23c480239731cf2c75f1f0468"
   }
  ],
- "tidbit": "Did you know… about 8,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 8000,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 7900,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/22.mp3",
- "audio_seconds": 40.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/23.mp3",
+ "audio_seconds": 56.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nStill open, per CNBC: OpenAI pares fundraising goal, now seeking up to $20 billion in latest round.\nReported by Zawya: Cloudera launches Cloudera Blueprints, bringing NVIDIA Agent Toolkit to enterprise data anywhere.\nConfirmed, per TechCrunch: OpenAI reportedly lowers funding target for new round.\nReported by Digital Health Wire: OpenAI in the Crosshairs of Wrongful Death Lawsuit.\nReported by Briefs Finance: OpenAI Cuts Funding Goal by $10B.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA judge has allowed a lawsuit by the NAACP over xAI data center pollution to move forward, reported by TechCrunch.\nGrok Imagine's artificial intelligence film on the Odyssey faced criticism for emotional and narrative shortcomings, reported by Stuff South Africa.\nOpenAI is valued at 1.25 trillion dollars as its funding round fell short of target, reported by Crypto Briefing.\nAnthropic's potential IPO could receive a junk credit rating despite an 800 billion dollar artificial intelligence spending plan, still open per Coinpedia.\nSpaceX artificial intelligence will watermark Grok text by default for EU artificial intelligence act compliance, reported by FourWeekMBA.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
