@@ -1,117 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T08:20:02Z",
- "hour": "2026-10-31T09:00:00Z",
+ "generated_at": "2026-10-31T09:20:02Z",
+ "hour": "2026-10-31T10:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Samsung AI transformation — Executives Meet OpenAI CEO Sam Altman",
-   "outlet": "The Korea Daily",
-   "outlet_name": "The Korea Daily",
-   "url": "https://en.koreadaily.com/samsung-ai-transformation-sam-altman-meeting/",
+   "title": "OpenAI Cuts Funding Target by $10 Billion and Valuation by $150 Billion Amid Tech Selloff",
+   "outlet": "Coinpedia",
+   "outlet_name": "Coinpedia",
+   "url": "https://coinpedia.org/crypto-live-news/openai-cuts-funding-target-by-10-billion-and-valuation-by-150-billion-amid-tech-selloff/",
    "label": "REPORTED",
-   "summary_1line": "Samsung hosts AI seminar with OpenAI, trains 2,300 execs, aims for full AI adoption by 2027.",
-   "published_at": "2026-10-31T05:39:25Z",
-   "url_id": "5becd3dd2a0d1cccd457c5cf8c76245f"
+   "summary_1line": "OpenAI cuts funding and valuation targets amid tech selloff.",
+   "published_at": "2026-10-31T06:49:47Z",
+   "url_id": "16dbe374180eae3d24450eb4f367b745"
   },
   {
-   "title": "GitHub unveils new Copilot tools to advance agent-driven software development",
-   "outlet": "ET Enterprise AI",
-   "outlet_name": "ET Enterprise AI",
-   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/github-unveils-new-copilot-tools-to-advance-agent-driven-software-development/135356695",
-   "label": "REPORTED",
-   "summary_1line": "GitHub launches AI agent tools at Universe 2026, with India's dev base at 32M.",
-   "published_at": "2026-10-30T10:36:49Z",
-   "url_id": "26e2b0d77fa1068825644ec3f0b4cc3d"
+   "title": "OpenAI's $30 billion funding ambition shrinks to $20 billion: What's worrying investors?",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/moodys:1211b2d15e5c8:0-openai-s-30-billion-funding-ambition-shrinks-to-20-billion-what-s-worrying-investors/",
+   "label": "STILL OPEN",
+   "summary_1line": "OpenAI cuts funding to $20B amid investor skepticism and Anthropic's IPO.",
+   "published_at": "2026-10-31T06:23:00Z",
+   "url_id": "2d56f9c8b2595a7f739fbc4495caa6ab"
   },
   {
-   "title": "OpenAI Scales Back Financing Plan as Competitor’s IPO Timing Sways Private Fund Choices",
-   "outlet": "NAI500",
-   "outlet_name": "NAI500",
-   "url": "https://nai500.com/blog/2026/10/openai-scales-back-financing-plan-as-competitors-ipo-timing-sways-private-fund-choices/",
+   "title": "OpenAI’s Altman meets Samsung executives as chip crunch deepens",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
+   "url": "https://www.straitstimes.com/business/openais-altman-meets-samsung-executives-as-chip-crunch-deepens",
    "label": "REPORTED",
-   "summary_1line": "OpenAI cuts funding to $20B at $1.25T amid rising computing costs and competitor IPO pressure.",
-   "published_at": "2026-10-31T02:52:15Z",
-   "url_id": "41774b9f23a1a949bc97d0eb8d93f8b9"
+   "summary_1line": "Altman meets Samsung to boost AI and chip cooperation amid global shortages.",
+   "published_at": "2026-10-31T08:25:00Z",
+   "url_id": "668fc466e4cf7154e57556bc44b3bb79"
   },
   {
-   "title": "Infisical Raises $40M To Keep Company Secrets Safe From AI Agents",
-   "outlet": "Forbes Middle East",
-   "outlet_name": "Forbes Middle East",
-   "url": "https://forbesmiddleeast.com/innovation/startups/this-$600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents",
+   "title": "‘First’ insurance policy for domestic humanoid robots in the UK",
+   "outlet": "Robotics & Automation News",
+   "outlet_name": "Robotics & Automation News",
+   "url": "https://roboticsandautomationnews.com/2026/10/31/first-insurance-policy-for-domestic-humanoid-robots-in-the-uk/106568/",
    "label": "REPORTED",
-   "summary_1line": "Infisical lets Airbus and Volkswagen use agents securely without sharing credentials.",
-   "published_at": "2026-10-31T05:01:32Z",
-   "url_id": "0ce860de4263997a9c070be6eef42f02"
+   "summary_1line": "UK’s first robot insurance policy launched by Tokio Marine and Adrian Flux.",
+   "published_at": "2026-10-31T08:22:03Z",
+   "url_id": "fdb81714a6144e679bb3d72159f32bd5"
   },
   {
-   "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-   "outlet": "Microsoft",
-   "outlet_name": "Microsoft",
-   "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+   "title": "A Stolen Key Ran 1.7M Claude Calls in 13 Hours After Breach",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
+   "url": "https://fourweekmba.com/ai-a-stolen-key-ran-1-7m-claude-calls-in-13-hours-after-breach/",
    "label": "REPORTED",
-   "summary_1line": "Malicious Claude Code extension briefly served on Cursor marketplace to exploit users.",
-   "published_at": "2026-10-31T01:02:57Z",
-   "url_id": "fb5683cdaf715b48219c698be88c6a02"
+   "summary_1line": "Stolen AI key made 1.7M Bedrock calls in 13 hours, costing over $100k.",
+   "published_at": "2026-10-31T08:19:13Z",
+   "url_id": "2b6c793dd76fb4ad8cd38c653479fbcb"
   }
  ],
  "ticker": [
   {
-   "headline": "Samsung AI transformation — Executives Meet OpenAI CEO Sam Altman",
-   "outlet": "The Korea Daily",
-   "outlet_name": "The Korea Daily",
+   "headline": "OpenAI Cuts Funding Target by $10 Billion and Valuation by $150 Billion Amid Tech Selloff",
+   "outlet": "Coinpedia",
+   "outlet_name": "Coinpedia",
    "label": "REPORTED",
-   "url": "https://en.koreadaily.com/samsung-ai-transformation-sam-altman-meeting/",
-   "url_id": "5becd3dd2a0d1cccd457c5cf8c76245f"
+   "url": "https://coinpedia.org/crypto-live-news/openai-cuts-funding-target-by-10-billion-and-valuation-by-150-billion-amid-tech-selloff/",
+   "url_id": "16dbe374180eae3d24450eb4f367b745"
   },
   {
-   "headline": "GitHub unveils new Copilot tools to advance agent-driven software development",
-   "outlet": "ET Enterprise AI",
-   "outlet_name": "ET Enterprise AI",
-   "label": "REPORTED",
-   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/github-unveils-new-copilot-tools-to-advance-agent-driven-software-development/135356695",
-   "url_id": "26e2b0d77fa1068825644ec3f0b4cc3d"
+   "headline": "OpenAI's $30 billion funding ambition shrinks to $20 billion: What's worrying investors?",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "STILL OPEN",
+   "url": "https://www.tradingview.com/news/moodys:1211b2d15e5c8:0-openai-s-30-billion-funding-ambition-shrinks-to-20-billion-what-s-worrying-investors/",
+   "url_id": "2d56f9c8b2595a7f739fbc4495caa6ab"
   },
   {
-   "headline": "OpenAI Scales Back Financing Plan as Competitor’s IPO Timing Sways Private Fund Choices",
-   "outlet": "NAI500",
-   "outlet_name": "NAI500",
+   "headline": "OpenAI’s Altman meets Samsung executives as chip crunch deepens",
+   "outlet": "The Straits Times",
+   "outlet_name": "The Straits Times",
    "label": "REPORTED",
-   "url": "https://nai500.com/blog/2026/10/openai-scales-back-financing-plan-as-competitors-ipo-timing-sways-private-fund-choices/",
-   "url_id": "41774b9f23a1a949bc97d0eb8d93f8b9"
+   "url": "https://www.straitstimes.com/business/openais-altman-meets-samsung-executives-as-chip-crunch-deepens",
+   "url_id": "668fc466e4cf7154e57556bc44b3bb79"
   },
   {
-   "headline": "Infisical Raises $40M To Keep Company Secrets Safe From AI Agents",
-   "outlet": "Forbes Middle East",
-   "outlet_name": "Forbes Middle East",
+   "headline": "‘First’ insurance policy for domestic humanoid robots in the UK",
+   "outlet": "Robotics & Automation News",
+   "outlet_name": "Robotics & Automation News",
    "label": "REPORTED",
-   "url": "https://forbesmiddleeast.com/innovation/startups/this-$600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents",
-   "url_id": "0ce860de4263997a9c070be6eef42f02"
+   "url": "https://roboticsandautomationnews.com/2026/10/31/first-insurance-policy-for-domestic-humanoid-robots-in-the-uk/106568/",
+   "url_id": "fdb81714a6144e679bb3d72159f32bd5"
   },
   {
-   "headline": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-   "outlet": "Microsoft",
-   "outlet_name": "Microsoft",
+   "headline": "A Stolen Key Ran 1.7M Claude Calls in 13 Hours After Breach",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
    "label": "REPORTED",
-   "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
-   "url_id": "fb5683cdaf715b48219c698be88c6a02"
+   "url": "https://fourweekmba.com/ai-a-stolen-key-ran-1-7m-claude-calls-in-13-hours-after-breach/",
+   "url_id": "2b6c793dd76fb4ad8cd38c653479fbcb"
   },
   {
-   "headline": "Google Adds Hundreds of Free Textbooks to Gemini Notebook: Check Features and How…",
-   "outlet": "Jagran Josh",
-   "outlet_name": "Jagran Josh",
+   "headline": "Google, Microsoft, OpenAI and Anthropic back one AI training opt-out",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
    "label": "REPORTED",
-   "url": "https://www.jagranjosh.com/news/google-adds-hundreds-of-free-textbooks-to-gemini-notebook-check-features-and-how-students-can-access-them-188818",
-   "url_id": "e98eab32ac5b3ad6517ff3987eeb80c1"
+   "url": "https://ppc.land/google-microsoft-openai-and-anthropic-back-one-ai-training-opt-out/",
+   "url_id": "070f648e006050bbb13ec9fda942fe29"
   },
   {
-   "headline": "Apple Intelligence Is Coming to iPhone in China, With Help From Alibaba’s Qwen",
-   "outlet": "Appleosophy",
-   "outlet_name": "Appleosophy",
+   "headline": "OpenAI Buried a Quota Change at the Bottom of Its Checkout Page",
+   "outlet": "Vocal",
+   "outlet_name": "Vocal",
    "label": "REPORTED",
-   "url": "https://appleosophy.com/wire/srs4f77/",
-   "url_id": "a6c7906801b820203a27863546629ce2"
+   "url": "https://vocal.media/01/openai-buried-a-quota-change-at-the-bottom-of-its-checkout-page",
+   "url_id": "d170e822de87748ea13d1509c96804fc"
+  },
+  {
+   "headline": "Mistral Large 4 “Le Chonk” Claims the Open-Weight Lead in Coding and Cyber Defense",
+   "outlet": "Intelligent Living",
+   "outlet_name": "Intelligent Living",
+   "label": "REPORTED",
+   "url": "https://www.intelligentliving.co/mistral-large-4-le-chonk/",
+   "url_id": "c876c96e5b46a4c057863a539f30ee5a"
+  },
+  {
+   "headline": "Samsung, OpenAI chief discuss AI’s impact on future business strategies",
+   "outlet": "Korea JoongAng Daily",
+   "outlet_name": "Korea JoongAng Daily",
+   "label": "REPORTED",
+   "url": "https://www.koreajoongangdaily.com/business/samsung-openai-chief-discuss-ais-impact-on-future-business-strategies/12948294",
+   "url_id": "60f3361bdb4d566254bd434d7f3753e6"
+  },
+  {
+   "headline": "Cursor Shuts Marketplace After Claude Code Malware",
+   "outlet": "News Karnataka",
+   "outlet_name": "News Karnataka",
+   "label": "REPORTED",
+   "url": "https://newskarnataka.com/technology/cursor-shuts-marketplace-after-claude-code-malware/31102026/",
+   "url_id": "c69a2aebf4599fd308775e20a2c8401f"
   },
   {
    "headline": "Mistral AI publicly releases Large 4, targets cybersecurity users",
@@ -122,46 +146,22 @@
    "url_id": "6e8a953cb7683d22cc99e3f8ab3a3b79"
   },
   {
-   "headline": "OpenAI Cuts Funding Round to $20 Billion as A.I. Sector Wobbles",
-   "outlet": "www.trendingtopics.eu",
-   "outlet_name": "www.trendingtopics.eu",
+   "headline": "Google Opens Connected Apps Preview For AI Mode & Gemini via @sejournal, @MattGSouthern",
+   "outlet": "searchenginejournal.com",
+   "outlet_name": "searchenginejournal.com",
    "label": "REPORTED",
-   "url": "https://www.trendingtopics.eu/openai-funding-round-20-billion-ai-sector/",
-   "url_id": "9091cd02670a0d76744057d3e94a1a50"
-  },
-  {
-   "headline": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004…",
-   "outlet": "latent.space",
-   "outlet_name": "latent.space",
-   "label": "REPORTED",
-   "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
-   "url_id": "6b3364e67e36a770aaa2d2a1055bc27d"
-  },
-  {
-   "headline": "11 New Features: Gemini Drops October 2026",
-   "outlet": "jetstream.blog",
-   "outlet_name": "jetstream.blog",
-   "label": "REPORTED",
-   "url": "https://jetstream.blog/en/gemini-drops-october-2026/",
-   "url_id": "16796b548562344335d2ac32447e92f5"
-  },
-  {
-   "headline": "OpenAI Highlights Legal Briefs Arguing AI Training Can Qualify as Fair Use",
-   "outlet": "www.tokenpost.com",
-   "outlet_name": "www.tokenpost.com",
-   "label": "REPORTED",
-   "url": "https://www.tokenpost.com/news/regulation/45206",
-   "url_id": "8b9c00928ab35ba507bdf8f083f3fce5"
+   "url": "https://www.searchenginejournal.com/google-connected-apps-preview-ai-mode-gemini/595268/",
+   "url_id": "77921ede45a7f17d9fb39931eaca5f5e"
   }
  ],
  "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13100,
+ "articles_24h_rounded": 12900,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/09.mp3",
- "audio_seconds": 59.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/10.mp3",
+ "audio_seconds": 55.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nSamsung hosts an artificial intelligence seminar with OpenAI, training 2,300 executives toward full adoption by 2027. Reported by The Korea Daily.\nGitHub launches artificial intelligence agent tools at Universe 2026, with India's developer base at 32M. Reported by ET Enterprise AI.\nOpenAI cuts funding to $20B at $1.25T amid rising computing costs and competitor pressure. Reported by NAI500.\nInfisical raises $40M to let Airbus and Volkswagen use agents securely without sharing credentials. Reported by Forbes Middle East.\nA malicious Claude Code-branded extension briefly served on Cursor marketplace to exploit users with a persistent SSH backdoor. Reported by Microsoft.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Coinpedia: OpenAI Cuts Funding Target by $10 Billion and Valuation by $150 Billion Amid Tech Selloff.\nStill open, per TradingView: OpenAI's $30 billion funding ambition shrinks to $20 billion: What's worrying investors.\nReported by The Straits Times: OpenAI’s Altman meets Samsung executives as chip crunch deepens.\nReported by Robotics & Automation News: ‘First’ insurance policy for domestic humanoid robots in the UK.\nReported by FourWeekMBA: A Stolen Key Ran 1.7M Claude Calls in 13 Hours After Breach.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
