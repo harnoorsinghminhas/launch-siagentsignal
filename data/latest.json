@@ -1,141 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-30T22:20:01Z",
- "hour": "2026-10-30T23:00:00Z",
+ "generated_at": "2026-10-30T23:20:01Z",
+ "hour": "2026-10-31T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-30T21:19:26Z",
-   "url_id": "c063c2f3517d60612df95490e5ac7862"
-  },
-  {
-   "title": "TRAI proposes board-approved AI policies, risk classification and mandatory incident reporting for telecom",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
-   "url": "https://m.economictimes.com/industry/telecom/telecom-policy/trai-proposes-board-approved-ai-policies-risk-classification-and-mandatory-incident-reporting-for-telecom-operators/articleshow/135374002.cms",
+   "title": "House Democrats Demand Trump Preserve Grok AI Chats After TIME Report",
+   "outlet": "time.com",
+   "outlet_name": "Time",
+   "url": "https://time.com/article/2026/10/30/house-democrats-trump-grok-ai-chats-musk/",
    "label": "CONFIRMED",
-   "summary_1line": "Trai's AI guidelines require telecom firms to classify AI systems and establish oversight committees.",
-   "published_at": "2026-10-30T18:10:34Z",
-   "url_id": "f14507d18436e6bc41ddacfac99f8a50"
+   "summary_1line": "Democrats demand Trump preserve AI chatbot records used in official duties.",
+   "published_at": "2026-10-30T20:56:29Z",
+   "url_id": "d725727ba1997d3414176094694a5b83"
   },
   {
-   "title": "Apple’s iPhone AI Watermark Has A Catch: Google’s Gemini May Not Read It",
+   "title": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO, report says",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic expected to get high junk rating post-IPO, reversing prior forecast.",
+   "published_at": "2026-10-30T21:52:03Z",
+   "url_id": "54a7eb8288989643ca4464465b105413"
+  },
+  {
+   "title": "Advisors Say Take It Slow on Anthropic IPO Hype",
+   "outlet": "Wealth Management",
+   "outlet_name": "Wealth Management",
+   "url": "https://www.wealthmanagement.com/investing-strategies/advisors-urge-patience-on-anthropic-ipo-shares",
+   "label": "CONFIRMED",
+   "summary_1line": "Advisors urge patience as Anthropic IPO faces low client interest amid AI market saturation.",
+   "published_at": "2026-10-30T17:36:46Z",
+   "url_id": "f2f664f592010653555dbab08c70caa6"
+  },
+  {
+   "title": "I gave ChatGPT Dots access to my email, calendar, and tasks, and it started helping without being asked",
+   "outlet": "XDA",
+   "outlet_name": "XDA",
+   "url": "https://www.xda-developers.com/gave-chatgpt-dots-access-to-email-calendar-tasks-started-helping-without-being-asked/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI's ChatGPT Dots offer proactive AI assistance across daily tools with minimal setup.",
+   "published_at": "2026-10-30T22:30:20Z",
+   "url_id": "01440acc2964ea6af2bab3d8cb0dd924"
+  },
+  {
+   "title": "ChatGPT finally gets the iCloud Mail and Calendar plugins users have been waiting for",
    "outlet": "Yahoo Tech",
    "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-iphone-ai-watermark-catch-184848752.html",
-   "label": "CONFIRMED",
-   "summary_1line": "Apple's iOS 27.2 uses Google's SynthID to watermark AI-edited photos, detectable via Google tools.",
-   "published_at": "2026-10-30T18:48:48Z",
-   "url_id": "a50017b2ae9b3bfd38be64814d0fb12d"
-  },
-  {
-   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-finally-gets-icloud-mail-221458339.html",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-30T21:09:54Z",
-   "url_id": "eaad933c9eb95379c7b52c44890db23a"
-  },
-  {
-   "title": "TRAI Releases Draft Guidelines On Responsible Use Of AI In Telecommunication Networks",
-   "outlet": "Menafn",
-   "outlet_name": "Menafn",
-   "url": "https://menafn.com/1111889852/TRAI-Releases-Draft-Guidelines-On-Responsible-Use-Of-AI-In-Telecommunication-Networks",
-   "label": "CONFIRMED",
-   "summary_1line": "TRAI releases AI guidelines for telecom networks with November 27 deadline.",
-   "published_at": "2026-10-30T12:30:44Z",
-   "url_id": "cbfea40b69b1cd44a6b9988d51c32a1f"
+   "summary_1line": "ChatGPT adds iCloud Mail and Calendar plugins for Apple users.",
+   "published_at": "2026-10-30T22:14:58Z",
+   "url_id": "d8ae967f95398c7744622561820b7638"
   }
  ],
  "ticker": [
   {
-   "headline": "How a Contractor’s Claude Agent Got Into the Pentagon",
-   "outlet": "wired.com",
-   "outlet_name": "Wired",
-   "label": "REPORTED",
-   "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
-   "url_id": "c063c2f3517d60612df95490e5ac7862"
-  },
-  {
-   "headline": "TRAI proposes board-approved AI policies, risk classification and mandatory incident…",
-   "outlet": "The Economic Times",
-   "outlet_name": "The Economic Times",
-   "label": "CONFIRMED",
-   "url": "https://m.economictimes.com/industry/telecom/telecom-policy/trai-proposes-board-approved-ai-policies-risk-classification-and-mandatory-incident-reporting-for-telecom-operators/articleshow/135374002.cms",
-   "url_id": "f14507d18436e6bc41ddacfac99f8a50"
-  },
-  {
-   "headline": "Apple’s iPhone AI Watermark Has A Catch: Google’s Gemini May Not Read It",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "CONFIRMED",
-   "url": "https://tech.yahoo.com/ai/apple-intelligence/articles/apple-iphone-ai-watermark-catch-184848752.html",
-   "url_id": "a50017b2ae9b3bfd38be64814d0fb12d"
-  },
-  {
-   "headline": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "label": "REPORTED",
-   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
-   "url_id": "eaad933c9eb95379c7b52c44890db23a"
-  },
-  {
-   "headline": "TRAI Releases Draft Guidelines On Responsible Use Of AI In Telecommunication Networks",
-   "outlet": "Menafn",
-   "outlet_name": "Menafn",
-   "label": "CONFIRMED",
-   "url": "https://menafn.com/1111889852/TRAI-Releases-Draft-Guidelines-On-Responsible-Use-Of-AI-In-Telecommunication-Networks",
-   "url_id": "cbfea40b69b1cd44a6b9988d51c32a1f"
-  },
-  {
-   "headline": "DoorDash says outside AI agents have only led to \"hundreds\" of orders so far",
-   "outlet": "arstechnica.com",
-   "outlet_name": "Ars Technica",
-   "label": "CONFIRMED",
-   "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-   "url_id": "abc5566bda42b5a9b55f119265c1c0ce"
-  },
-  {
    "headline": "House Democrats Demand Trump Preserve Grok AI Chats After TIME Report",
    "outlet": "time.com",
    "outlet_name": "Time",
-   "label": "REPORTED",
+   "label": "CONFIRMED",
    "url": "https://time.com/article/2026/10/30/house-democrats-trump-grok-ai-chats-musk/",
    "url_id": "d725727ba1997d3414176094694a5b83"
   },
   {
-   "headline": "Show Your ID to Use ChatGPT? How New York’s New AI Law Ends Online Anonymity",
-   "outlet": "Yahoo",
-   "outlet_name": "Yahoo",
-   "label": "REPORTED",
-   "url": "https://www.yahoo.com/news/politics/articles/show-id-chatgpt-york-ai-184110911.html",
-   "url_id": "0344c2e0e45cbad0ba998f300ad45f8d"
+   "headline": "Anthropic expected to receive high 'junk' rating from credit agencies following IPO…",
+   "outlet": "TechCrunch",
+   "outlet_name": "TechCrunch",
+   "label": "STILL OPEN",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "url_id": "54a7eb8288989643ca4464465b105413"
   },
   {
-   "headline": "AI Law Firm Crosby Makes Play for Collapsing Weil Gotshal",
-   "outlet": "The Tech Buzz",
-   "outlet_name": "The Tech Buzz",
-   "label": "REPORTED",
-   "url": "https://www.techbuzz.ai/articles/ai-law-firm-crosby-makes-play-for-collapsing-weil-gotshal",
-   "url_id": "bb5c2102804f67d48749491a41158026"
-  },
-  {
-   "headline": "Anthropic is now SpaceX’s biggest customer",
-   "outlet": "Semafor",
-   "outlet_name": "Semafor",
+   "headline": "Advisors Say Take It Slow on Anthropic IPO Hype",
+   "outlet": "Wealth Management",
+   "outlet_name": "Wealth Management",
    "label": "CONFIRMED",
-   "url": "https://www.semafor.com/article/10/30/2026/anthropic-is-now-spacexs-biggest-customer",
-   "url_id": "bb207e67018b9e928e9f4148cfc29a82"
+   "url": "https://www.wealthmanagement.com/investing-strategies/advisors-urge-patience-on-anthropic-ipo-shares",
+   "url_id": "f2f664f592010653555dbab08c70caa6"
+  },
+  {
+   "headline": "I gave ChatGPT Dots access to my email, calendar, and tasks, and it started helping…",
+   "outlet": "XDA",
+   "outlet_name": "XDA",
+   "label": "REPORTED",
+   "url": "https://www.xda-developers.com/gave-chatgpt-dots-access-to-email-calendar-tasks-started-helping-without-being-asked/",
+   "url_id": "01440acc2964ea6af2bab3d8cb0dd924"
+  },
+  {
+   "headline": "ChatGPT finally gets the iCloud Mail and Calendar plugins users have been waiting for",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "label": "REPORTED",
+   "url": "https://tech.yahoo.com/ai/chatgpt/articles/chatgpt-finally-gets-icloud-mail-221458339.html",
+   "url_id": "d8ae967f95398c7744622561820b7638"
+  },
+  {
+   "headline": "5 ways SMBs are using AI agents to manage task overload",
+   "outlet": "The Quad-City Times",
+   "outlet_name": "The Quad-City Times",
+   "label": "CONFIRMED",
+   "url": "https://qctimes.com/news/nation-world/business/article_ab4ba1c6-d385-51ea-9486-883568f98931.html",
+   "url_id": "414f9f8c896e8b1505de7ffead9ac850"
+  },
+  {
+   "headline": "Howard County Schools Consider New Student AI Policy",
+   "outlet": "Hoodline",
+   "outlet_name": "Hoodline",
+   "label": "REPORTED",
+   "url": "https://hoodline.com/2026/10/howard-county-schools-weigh-student-ai-rules-limiting-use-to-grades-9-12/",
+   "url_id": "52f09ec6e61b6b8698b8e9e8558c442f"
+  },
+  {
+   "headline": "Amazon Bedrock expands API support and introduces Cross Region Inferencing for OpenAI…",
+   "outlet": "aws.amazon.com",
+   "outlet_name": "aws.amazon.com",
+   "label": "REPORTED",
+   "url": "https://aws.amazon.com/about-aws/whats-new/2026/10/bedrock-openai-runtime-govcloud/",
+   "url_id": "349a6c6e5653509e8590f99677b45ddd"
+  },
+  {
+   "headline": "Google's cheapest Gemini plan is losing a major perk; now I can't recommend it to anyone",
+   "outlet": "androidpolice.com",
+   "outlet_name": "androidpolice.com",
+   "label": "CONFIRMED",
+   "url": "https://www.androidpolice.com/google-is-making-its-cheapest-gemini-plan-harder-to-recommend/",
+   "url_id": "59b49167225097a447a2683cc016d56c"
+  },
+  {
+   "headline": "DOJ raises privacy concerns over potential sale of Character.AI chats",
+   "outlet": "therecord.media",
+   "outlet_name": "therecord.media",
+   "label": "CONFIRMED",
+   "url": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
+   "url_id": "648e9014a3f5b42af77025b2761bed1a"
   },
   {
    "headline": "Anthropic just removed one of Claude’s biggest usage limits — but not for everyone",
@@ -146,22 +146,22 @@
    "url_id": "d24dee3bdf7bcf9481aed100959d3df4"
   },
   {
-   "headline": "5 ways SMBs are using AI agents to manage task overload",
-   "outlet": "nwitimes.com",
-   "outlet_name": "nwitimes.com",
-   "label": "CONFIRMED",
-   "url": "https://nwitimes.com/news/nation-world/business/article_3eb1cf95-d94f-558b-aa10-3ee0b747e9e9.html",
-   "url_id": "9ee91b9a39c738a5dd8418d2053fee2e"
+   "headline": "Anthropic, Google, Microsoft, and OpenAI Agree to Let Sites Opt Out of AI Training",
+   "outlet": "Thurrott.com",
+   "outlet_name": "Thurrott.com",
+   "label": "REPORTED",
+   "url": "https://www.thurrott.com/a-i/343407/anthropic-google-microsoft-and-openai-agree-to-let-sites-opt-out-of-ai-training",
+   "url_id": "bde799d0177e59bbb898a5bc93f8a866"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 14500,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 14300,
  "articles_24h_label": "about 14,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/30/23.mp3",
- "audio_seconds": 61.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/00.mp3",
+ "audio_seconds": 44.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA contractor's Claude agent gained unauthorized access to the Pentagon, reported by Wired.\nTelecom firms must now classify artificial intelligence systems and establish oversight committees under new rules. Confirmed by The Economic Times: TRAI proposes board-approved policies and mandatory incident reporting.\nApple's iOS 27.2 watermarks artificial intelligence-edited photos using Google's SynthID technology. Confirmed by Yahoo Tech: Google's Gemini tools can detect these watermarks.\nThe Anthropic VS code extension on Cursor was backdoored for nearly 12 hours, reported by Ars Technica.\nTRAI releases draft guidelines on responsible artificial intelligence use in telecom networks with a November 27 deadline. Confirmed by Menafn.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Time: House Democrats Demand Trump Preserve Grok AI Chats After TIME Report.\nStill open, per TechCrunch: Anthropic expected to receive high 'junk' rating from credit agencies following IPO, report says.\nConfirmed, per Wealth Management: Advisors Say Take It Slow on Anthropic IPO Hype.\nReported by XDA: I gave ChatGPT Dots access to my email, calendar, and tasks, and it started helping without being asked.\nReported by Yahoo Tech: ChatGPT finally gets the iCloud Mail and Calendar plugins users have been waiting for.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
