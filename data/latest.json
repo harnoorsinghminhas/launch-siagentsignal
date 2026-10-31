@@ -1,141 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T06:20:01Z",
- "hour": "2026-10-31T07:00:00Z",
+ "generated_at": "2026-10-31T07:20:02Z",
+ "hour": "2026-10-31T08:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says",
+   "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46H006:0-openai-slashes-funding-target-by-10-billion-amid-tech-rout-ft-reports/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-31T04:00:40Z",
-   "url_id": "a23ab1f7aba747d5bc931775ff9d0eac"
+   "summary_1line": "OpenAI cuts funding target by $10 billion during tech market downturn.",
+   "published_at": "2026-10-31T01:00:00Z",
+   "url_id": "157229957c70761e6cfe9ee83ce701d8"
   },
   {
-   "title": "Anthropic CEO once flagged the risk of AI becoming \"too autonomous\"",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
-   "url": "https://fortune.com/media/28903d71-f62e-4579-9bc9-571ea3767ced/",
+   "title": "Samsung executives meet OpenAI's Altman to discuss AI strategy",
+   "outlet": "The Korea Herald",
+   "outlet_name": "The Korea Herald",
+   "url": "https://www.koreaherald.com/article/10921312",
    "label": "REPORTED",
-   "summary_1line": "Barnes & Noble expands to 700 stores under CEO James Daunt’s plan to make it cool again.",
-   "published_at": "2026-10-31T02:53:44Z",
-   "url_id": "9bd7a8ea56a6b2f9f0369d0ad4e8263d"
+   "summary_1line": "Samsung meets OpenAI's CEO to advance AI in corporate management and operations.",
+   "published_at": "2026-10-31T06:13:35Z",
+   "url_id": "00f753e5e4c8d921bf413b7ead80346d"
   },
   {
-   "title": "\"I'm all in on Claude\" - Joe Mazzulla admits he uses AI every day to help coach the Celtics",
-   "outlet": "Yahoo Sports",
-   "outlet_name": "Yahoo Sports",
-   "url": "https://sports.yahoo.com/articles/im-claude-joe-mazzulla-admits-222833860.html",
+   "title": "Apple Intelligence in China Arrives With iOS 27.3",
+   "outlet": "DigitBin",
+   "outlet_name": "DigitBin",
+   "url": "https://www.digitbin.com/apple-intelligence-china-ios-27-3/",
    "label": "REPORTED",
-   "summary_1line": "Joe Mazzulla uses AI daily to improve coaching, leading Celtics to top-tier performance despite roster changes.",
-   "published_at": "2026-10-31T01:45:50Z",
-   "url_id": "647b7abb9e4d2699358a9377d0476bc8"
+   "summary_1line": "Apple launches Apple Intelligence in China with iOS 27.3 in December, powered by Qwen, excluding Siri AI.",
+   "published_at": "2026-10-31T05:38:51Z",
+   "url_id": "1fbb7d6f0ce17ffb3475e23082a05063"
   },
   {
-   "title": "Cursor Marketplace Trojanized Anthropic Claude Code Extension 2.1.313 With Persistent SSH Backdoor",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
-   "url": "https://newscord.org/article/cursor-marketplace-trojanized-anthropic-claude-code-extension-21313-with-persist--Story_20261030_AnthropicVScodeextene03d4014",
+   "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
+   "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
    "label": "REPORTED",
-   "summary_1line": "Malicious Claude Code extension 2.1.313 planted SSH backdoor on 5,000 users' machines.",
-   "published_at": "2026-10-30T23:19:34Z",
-   "url_id": "2b737c6f3da028dd2f5e043a41761a8c"
+   "summary_1line": "ChatGPT flaw lets attackers access private chats via shared links; fixed by OpenAI after Oct 18 report.",
+   "published_at": "2026-10-31T05:33:00Z",
+   "url_id": "7bb771db07b58d8831cbdb365612554b"
   },
   {
-   "title": "Apple Intelligence Hits China in December With Alibaba Qwen",
-   "outlet": "TechJuice",
-   "outlet_name": "TechJuice",
-   "url": "https://www.techjuice.pk/apple-intelligence-china-ios-27-3-alibaba-qwen/",
+   "title": "AI: Anthropic’s S-1, the Cloud Gang Reports, OpenAI’s Price Push & More. AI-RTZ #1256",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
+   "url": "https://michaelparekh.substack.com/p/ai-anthropics-s-1-the-cloud-gang",
    "label": "REPORTED",
-   "summary_1line": "Apple launches Apple Intelligence in China with Qwen, limited to new iPhones and English/Simplified Chinese.",
-   "published_at": "2026-10-30T21:40:00Z",
-   "url_id": "316867af617e6e8d1a24f71e09546ace"
+   "summary_1line": "Anthropic files S-1 IPO with $11.6B revenue and $974M profit; cloud giants report mixed results amid AI competition.",
+   "published_at": "2026-10-31T05:02:39Z",
+   "url_id": "9c392f10b9b5f02019dc270bf2055f22"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Funding Target Cut by $10 Billion as AI Slumps, FT Says",
-   "outlet": "bloomberg.com",
-   "outlet_name": "Bloomberg",
+   "headline": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
    "label": "REPORTED",
-   "url": "https://www.bloomberg.com/news/articles/2026-10-31/openai-funding-goal-cut-by-10-billion-as-ai-stocks-dip-ft-says",
-   "url_id": "a23ab1f7aba747d5bc931775ff9d0eac"
+   "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L2N46H006:0-openai-slashes-funding-target-by-10-billion-amid-tech-rout-ft-reports/",
+   "url_id": "157229957c70761e6cfe9ee83ce701d8"
   },
   {
-   "headline": "Anthropic CEO once flagged the risk of AI becoming \"too autonomous\"",
-   "outlet": "Fortune",
-   "outlet_name": "Fortune",
+   "headline": "Samsung executives meet OpenAI's Altman to discuss AI strategy",
+   "outlet": "The Korea Herald",
+   "outlet_name": "The Korea Herald",
    "label": "REPORTED",
-   "url": "https://fortune.com/media/28903d71-f62e-4579-9bc9-571ea3767ced/",
-   "url_id": "9bd7a8ea56a6b2f9f0369d0ad4e8263d"
+   "url": "https://www.koreaherald.com/article/10921312",
+   "url_id": "00f753e5e4c8d921bf413b7ead80346d"
   },
   {
-   "headline": "\"I'm all in on Claude\" - Joe Mazzulla admits he uses AI every day to help coach the…",
-   "outlet": "Yahoo Sports",
-   "outlet_name": "Yahoo Sports",
+   "headline": "Apple Intelligence in China Arrives With iOS 27.3",
+   "outlet": "DigitBin",
+   "outlet_name": "DigitBin",
    "label": "REPORTED",
-   "url": "https://sports.yahoo.com/articles/im-claude-joe-mazzulla-admits-222833860.html",
-   "url_id": "647b7abb9e4d2699358a9377d0476bc8"
+   "url": "https://www.digitbin.com/apple-intelligence-china-ios-27-3/",
+   "url_id": "1fbb7d6f0ce17ffb3475e23082a05063"
   },
   {
-   "headline": "Cursor Marketplace Trojanized Anthropic Claude Code Extension 2.1.313 With Persistent SSH…",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
+   "headline": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+   "outlet": "The Hacker News",
+   "outlet_name": "The Hacker News",
    "label": "REPORTED",
-   "url": "https://newscord.org/article/cursor-marketplace-trojanized-anthropic-claude-code-extension-21313-with-persist--Story_20261030_AnthropicVScodeextene03d4014",
-   "url_id": "2b737c6f3da028dd2f5e043a41761a8c"
+   "url": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+   "url_id": "7bb771db07b58d8831cbdb365612554b"
   },
   {
-   "headline": "Apple Intelligence Hits China in December With Alibaba Qwen",
-   "outlet": "TechJuice",
-   "outlet_name": "TechJuice",
+   "headline": "AI: Anthropic’s S-1, the Cloud Gang Reports, OpenAI’s Price Push & More. AI-RTZ #1256",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
    "label": "REPORTED",
-   "url": "https://www.techjuice.pk/apple-intelligence-china-ios-27-3-alibaba-qwen/",
-   "url_id": "316867af617e6e8d1a24f71e09546ace"
+   "url": "https://michaelparekh.substack.com/p/ai-anthropics-s-1-the-cloud-gang",
+   "url_id": "9c392f10b9b5f02019dc270bf2055f22"
   },
   {
-   "headline": "A new gear: How startups are advancing robotics with Google AI",
-   "outlet": "Google Cloud",
-   "outlet_name": "Google Cloud",
+   "headline": "GitHub unveils new Copilot tools to advance agent-driven software development",
+   "outlet": "ET Enterprise AI",
+   "outlet_name": "ET Enterprise AI",
    "label": "REPORTED",
-   "url": "https://cloud.google.com/transform/startups-advancing-robotics-with-google-ai-google-deep-mind-seven-examples",
-   "url_id": "e508ad4a7bbbfed0e63ea7f5bde3a4f3"
+   "url": "https://enterpriseai.economictimes.indiatimes.com/news/industry/github-unveils-new-copilot-tools-to-advance-agent-driven-software-development/135356695",
+   "url_id": "26e2b0d77fa1068825644ec3f0b4cc3d"
   },
   {
-   "headline": "Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo",
-   "outlet": "siliconangle.com",
-   "outlet_name": "SiliconANGLE",
+   "headline": "OpenAI Scales Back Financing Plan as Competitor’s IPO Timing Sways Private Fund Choices",
+   "outlet": "NAI500",
+   "outlet_name": "NAI500",
    "label": "REPORTED",
-   "url": "https://siliconangle.com/2026/10/30/google-x-co-founder-sebastian-thrun-raises-130m-for-ai-engineering-startup-dulo/",
-   "url_id": "caa76b30f1d49dc57bcc30577a04fbd7"
+   "url": "https://nai500.com/blog/2026/10/openai-scales-back-financing-plan-as-competitors-ipo-timing-sways-private-fund-choices/",
+   "url_id": "41774b9f23a1a949bc97d0eb8d93f8b9"
   },
   {
-   "headline": "Grosse KI-Firmen unterstützen robots.txt-Signal gegen KI-Training…",
-   "outlet": "Inside Paradeplatz",
-   "outlet_name": "Inside Paradeplatz",
+   "headline": "Infisical Raises $40M To Keep Company Secrets Safe From AI Agents",
+   "outlet": "Forbes Middle East",
+   "outlet_name": "Forbes Middle East",
    "label": "REPORTED",
-   "url": "https://insideparadeplatz.ch/ticker/ki/2026-10-30/",
-   "url_id": "f906f8f3810fb857af01557c08f8e98d"
+   "url": "https://forbesmiddleeast.com/innovation/startups/this-$600-million-startup-is-helping-keep-company-secrets-away-from-ai-agents",
+   "url_id": "0ce860de4263997a9c070be6eef42f02"
   },
   {
-   "headline": "OpenAI marshals fair-use supporters as New York Times copyright case heads to court",
-   "outlet": "news.lavx.hu",
-   "outlet_name": "news.lavx.hu",
+   "headline": "Mistral AI publicly releases Large 4, targets cybersecurity users",
+   "outlet": "economictimes.indiatimes.com",
+   "outlet_name": "economictimes.indiatimes.com",
    "label": "REPORTED",
-   "url": "https://news.lavx.hu/article/openai-marshals-fair-use-supporters-as-new-york-times-copyright-case-heads-to-court",
-   "url_id": "306ed1895def62e7d60a7877eccd3144"
+   "url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/mistral-ai-publicly-releases-large-4-targets-cybersecurity-users/articleshow/135390933.cms",
+   "url_id": "6e8a953cb7683d22cc99e3f8ab3a3b79"
   },
   {
-   "headline": "DeepSeek Funding Round: $16B at $74B Pre-Money [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "STILL OPEN",
-   "url": "https://shattered.io/deepseek-16-billion-funding-round-tencent-catl-state-funds-2026/",
-   "url_id": "ccee1ed4a8c7e021b9d99e0f25d22b4a"
+   "headline": "OpenAI Cuts Funding Round to $20 Billion as A.I. Sector Wobbles",
+   "outlet": "www.trendingtopics.eu",
+   "outlet_name": "www.trendingtopics.eu",
+   "label": "REPORTED",
+   "url": "https://www.trendingtopics.eu/openai-funding-round-20-billion-ai-sector/",
+   "url_id": "9091cd02670a0d76744057d3e94a1a50"
   },
   {
    "headline": "Anthropic discovers how harmless stories can turn models into power-seeking systems",
@@ -146,22 +146,22 @@
    "url_id": "1df88606d369d9d9eedac6a995f8179d"
   },
   {
-   "headline": "Hi3D Launches AI 3D Model with 2048³ Voxel Resolution",
-   "outlet": "3dprintingindustry.com",
-   "outlet_name": "3dprintingindustry.com",
+   "headline": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004…",
+   "outlet": "latent.space",
+   "outlet_name": "latent.space",
    "label": "REPORTED",
-   "url": "https://3dprintingindustry.com/news/hi3d-launches-ai-3d-model-with-2048%C2%B3-voxel-resolution-254150/",
-   "url_id": "a3f30fcb6eb0546f766f0406a81cada2"
+   "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+   "url_id": "6b3364e67e36a770aaa2d2a1055bc27d"
   }
  ],
- "tidbit": "Did you know… about 13,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 13400,
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "articles_24h_rounded": 13300,
  "articles_24h_label": "about 13,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/07.mp3",
- "audio_seconds": 62.3,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/08.mp3",
+ "audio_seconds": 51.3,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI's funding target dropped by 10 billion dollars as the artificial intelligence sector slows, reported by Bloomberg.\nReported by Fortune: Anthropic's CEO once raised concerns about artificial intelligence systems becoming too autonomous. Barnes and Noble is expanding to 700 stores under new leadership.\nJoe Mazzulla, the Celtics coach, uses artificial intelligence every day to improve his coaching strategies, reported by Yahoo Sports.\nA malicious Claude Code extension version 2.1.313 deployed an SSH backdoor on approximately 5,000 users' machines, reported by NewsCord.\nApple launches Apple Intelligence in China in December, working with Alibaba Qwen and available on new iPhone models, reported by TechJuice.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by TradingView: OpenAI slashes funding target by $10 billion amid tech rout, FT reports.\nReported by The Korea Herald: Samsung executives meet OpenAI's Altman to discuss AI strategy.\nReported by DigitBin: Apple Intelligence in China Arrives With iOS 27.3.\nReported by The Hacker News: A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats.\nReported by AI: Reset to Zero: AI: Anthropic’s S-1, the Cloud Gang Reports, OpenAI’s Price Push & More. AI-RTZ #1256.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
