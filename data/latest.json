@@ -1,101 +1,93 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-10-31T22:20:02Z",
- "hour": "2026-10-31T23:00:00Z",
+ "generated_at": "2026-10-31T23:20:02Z",
+ "hour": "2026-11-01T00:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-31T21:17:03Z",
-   "url_id": "b57691e750415c605a04719d2ad2f8a7"
-  },
-  {
-   "title": "Grok can launch a thousand ships – but this AI remake of The Odyssey can’t make us feel",
-   "outlet": "Stuff South Africa",
-   "outlet_name": "Stuff South Africa",
-   "url": "https://stuff.co.za/2026/10/31/grok-ai-remake-of-the-odyssey-cant-make-us-feel/",
-   "label": "REPORTED",
-   "summary_1line": "Grok Imagine's AI film on Odyssey criticized for emotional and narrative shortcomings.",
-   "published_at": "2026-10-31T12:00:54Z",
-   "url_id": "6ee657adee177307a76b562b0e2c2635"
-  },
-  {
-   "title": "OpenAI valued at $1.25 trillion as funding round falls short of its target",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "url": "https://cryptobriefing.com/openai-valued-125-trillion-funding-round/",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI's funding and valuation targets dropped amid AI stock declines, with $1.25 trillion valuation and $50B revenue.",
-   "published_at": "2026-10-31T11:42:00Z",
-   "url_id": "9acdd10d6ce0ec73ca3c343bfb6a6f4a"
-  },
-  {
-   "title": "Anthropic IPO Could Receive Junk Credit Rating Despite $800 Billion AI Spending Plan",
-   "outlet": "Coinpedia",
-   "outlet_name": "Coinpedia",
-   "url": "https://coinpedia.org/crypto-live-news/anthropic-ipo-could-receive-junk-credit-rating-despite-800-billion-ai-spending-plan/",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic may get junk rating at IPO amid $800B AI infrastructure plan.",
-   "published_at": "2026-10-31T06:18:00Z",
-   "url_id": "6cb087f50cc4b024dd9883e9976c0110"
-  },
-  {
-   "title": "SpaceX AI Will Watermark Grok Text by Default for EU AI Act",
+   "title": "DeepSeek Releases Agent That Works GitHub Issues in Parallel",
    "outlet": "FourWeekMBA",
    "outlet_name": "FourWeekMBA",
-   "url": "https://fourweekmba.com/ai-spacex-ai-will-watermark-grok-text-by-default-for-eu-ai-act/",
+   "url": "https://fourweekmba.com/ai-deepseek-releases-agent-that-works-github-issues-in-parallel/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-10-31T20:21:11Z",
-   "url_id": "12e4c8797a6feec97d3dc246a7a10872"
+   "summary_1line": "DeepSeek released a free, open-source coding agent prototype for GitHub, minimizing human input via parallel sessions.",
+   "published_at": "2026-10-31T22:29:29Z",
+   "url_id": "ec0b710e26c9e971566bbf4304643087"
+  },
+  {
+   "title": "Judge Greenlights NAACP Suit Against xAI Over Data Center Pollution",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
+   "url": "https://www.techbuzz.ai/articles/judge-greenlights-naacp-suit-against-xai-over-data-center-pollution",
+   "label": "REPORTED",
+   "summary_1line": "Judge lets NAACP sue xAI over alleged Clean Air Act violations at its data center.",
+   "published_at": "2026-10-31T22:02:22Z",
+   "url_id": "6902ce241897996f53ebc55555cf0467"
+  },
+  {
+   "title": "Apple Intelligence Is Coming To China With iOS 27.3",
+   "outlet": "WeRSM",
+   "outlet_name": "WeRSM",
+   "url": "https://wersm.com/apple-intelligence-coming-to-china-ios-27-3/",
+   "label": "STILL OPEN",
+   "summary_1line": "Apple launches limited Apple Intelligence in China with local tools and Qwen support, skipping Siri AI.",
+   "published_at": "2026-10-31T21:12:58Z",
+   "url_id": "af53bd7d08bfd48d3e4234779ea53cc5"
+  },
+  {
+   "title": "The MFCR Congrats Drs.Taube and Szalay on AstroPath’s Selection for Anthropic’s AI for Science Program",
+   "outlet": "Oncodaily",
+   "outlet_name": "Oncodaily",
+   "url": "https://oncodaily.com/societies/mfcr-622497",
+   "label": "REPORTED",
+   "summary_1line": "Mark Foundation's AstroPath platform joins Anthropic’s AI for Science program.",
+   "published_at": "2026-10-31T20:22:16Z",
+   "url_id": "4e3d517b44ec1935ead68b84d78671a4"
+  },
+  {
+   "title": "Anthropic’s late $900K push into California Democratic politics",
+   "outlet": "The San Francisco Standard",
+   "outlet_name": "The San Francisco Standard",
+   "url": "https://sfstandard.com/2026/10/31/anthropic-democratic-party-contributions-sf-dems/",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic donates $900K to California Democrats, backing key Senate races and AI regulation efforts.",
+   "published_at": "2026-10-31T20:10:00Z",
+   "url_id": "5a45fc5a4618c72595ee0632fea29dfa"
   }
  ],
  "ticker": [
   {
-   "headline": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-   "outlet": "techcrunch.com",
-   "outlet_name": "TechCrunch",
-   "label": "REPORTED",
-   "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-   "url_id": "b57691e750415c605a04719d2ad2f8a7"
-  },
-  {
-   "headline": "Grok can launch a thousand ships – but this AI remake of The Odyssey can’t make us feel",
-   "outlet": "Stuff South Africa",
-   "outlet_name": "Stuff South Africa",
-   "label": "REPORTED",
-   "url": "https://stuff.co.za/2026/10/31/grok-ai-remake-of-the-odyssey-cant-make-us-feel/",
-   "url_id": "6ee657adee177307a76b562b0e2c2635"
-  },
-  {
-   "headline": "OpenAI valued at $1.25 trillion as funding round falls short of its target",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/openai-valued-125-trillion-funding-round/",
-   "url_id": "9acdd10d6ce0ec73ca3c343bfb6a6f4a"
-  },
-  {
-   "headline": "Anthropic IPO Could Receive Junk Credit Rating Despite $800 Billion AI Spending Plan",
-   "outlet": "Coinpedia",
-   "outlet_name": "Coinpedia",
-   "label": "STILL OPEN",
-   "url": "https://coinpedia.org/crypto-live-news/anthropic-ipo-could-receive-junk-credit-rating-despite-800-billion-ai-spending-plan/",
-   "url_id": "6cb087f50cc4b024dd9883e9976c0110"
-  },
-  {
-   "headline": "SpaceX AI Will Watermark Grok Text by Default for EU AI Act",
+   "headline": "DeepSeek Releases Agent That Works GitHub Issues in Parallel",
    "outlet": "FourWeekMBA",
    "outlet_name": "FourWeekMBA",
    "label": "REPORTED",
-   "url": "https://fourweekmba.com/ai-spacex-ai-will-watermark-grok-text-by-default-for-eu-ai-act/",
-   "url_id": "12e4c8797a6feec97d3dc246a7a10872"
+   "url": "https://fourweekmba.com/ai-deepseek-releases-agent-that-works-github-issues-in-parallel/",
+   "url_id": "ec0b710e26c9e971566bbf4304643087"
+  },
+  {
+   "headline": "Judge Greenlights NAACP Suit Against xAI Over Data Center Pollution",
+   "outlet": "The Tech Buzz",
+   "outlet_name": "The Tech Buzz",
+   "label": "REPORTED",
+   "url": "https://www.techbuzz.ai/articles/judge-greenlights-naacp-suit-against-xai-over-data-center-pollution",
+   "url_id": "6902ce241897996f53ebc55555cf0467"
+  },
+  {
+   "headline": "Apple Intelligence Is Coming To China With iOS 27.3",
+   "outlet": "WeRSM",
+   "outlet_name": "WeRSM",
+   "label": "STILL OPEN",
+   "url": "https://wersm.com/apple-intelligence-coming-to-china-ios-27-3/",
+   "url_id": "af53bd7d08bfd48d3e4234779ea53cc5"
+  },
+  {
+   "headline": "The MFCR Congrats Drs.Taube and Szalay on AstroPath’s Selection for Anthropic’s AI for…",
+   "outlet": "Oncodaily",
+   "outlet_name": "Oncodaily",
+   "label": "REPORTED",
+   "url": "https://oncodaily.com/societies/mfcr-622497",
+   "url_id": "4e3d517b44ec1935ead68b84d78671a4"
   },
   {
    "headline": "Anthropic’s late $900K push into California Democratic politics",
@@ -106,6 +98,14 @@
    "url_id": "5a45fc5a4618c72595ee0632fea29dfa"
   },
   {
+   "headline": "Claude Code Game Restrictions Target Clones, But Developers Say Legitimate Projects Are…",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "label": "STILL OPEN",
+   "url": "https://wccftech.com/claude-code-game-restrictions-target-clones-but-developers-say-legitimate-projects-are-being-blocked/",
+   "url_id": "234cab045b471a8699514be2f853f3b6"
+  },
+  {
    "headline": "Google’s Gemini 4 Carbon is built for complex coding and cybersecurity tasks",
    "outlet": "Yahoo Tech",
    "outlet_name": "Yahoo Tech",
@@ -114,54 +114,54 @@
    "url_id": "2f9476c2944bdc04c820a5c7e74350a6"
   },
   {
+   "headline": "Dick Spotswood: Congressional candidates weigh in on AI regulation",
+   "outlet": "Marin Independent Journal",
+   "outlet_name": "Marin Independent Journal",
+   "label": "REPORTED",
+   "url": "https://www.marinij.com/2026/10/31/dick-spotswood-congressional-candidates-weigh-in-on-ai-regulation/",
+   "url_id": "088727a713dfa1f922f62c0a20876515"
+  },
+  {
    "headline": "Anthropic's watermark rollout leaves a loophole on two older Claude models",
    "outlet": "the-decoder.com",
    "outlet_name": "The Decoder",
    "label": "REPORTED",
    "url": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
-   "url_id": "a19f3f73447864d519c79d0abf66324b"
+   "url_id": "909c4a46811dca1c39378fd405738732"
   },
   {
-   "headline": "China AI Compute Demand Up 417%; Nvidia Rival’s Sales Up 19x",
-   "outlet": "FourWeekMBA",
-   "outlet_name": "FourWeekMBA",
-   "label": "REPORTED",
-   "url": "https://fourweekmba.com/ai-china-ai-compute-demand-up-417-nvidia-rivals-sales-up-19x/",
-   "url_id": "bb8f5cb36e18fe5d6cff6bab3851d289"
-  },
-  {
-   "headline": "Speeding up planning decisions with AI",
-   "outlet": "Google DeepMind",
-   "outlet_name": "Google DeepMind",
+   "headline": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+   "outlet": "techcrunch.com",
+   "outlet_name": "TechCrunch",
    "label": "CONFIRMED",
-   "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-   "url_id": "13f69e7a7c0524f4c1ef26067f7f1e91"
+   "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+   "url_id": "362d7951270f22867c3f2f0c81a60658"
   },
   {
-   "headline": "Chrome Gemini Autofill Reads Your Gmail: 3 Settings [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
+   "headline": "Cognizant gründet OpenAI-Gruppe: Mehr als 25.000 Mitarbeiter für KI",
+   "outlet": "ad-hoc-news.de",
+   "outlet_name": "ad-hoc-news.de",
    "label": "REPORTED",
-   "url": "https://shattered.io/chrome-gemini-suggested-autofill-gmail-three-data-types-2026/",
-   "url_id": "510bdf15c05ed21ebb54dbdd6a3cc512"
+   "url": "https://www.ad-hoc-news.de/wissenschaft/cognizant-gruendet-openai-gruppe-mehr-als-25-000-mitarbeiter-fuer-ki/70439959",
+   "url_id": "32a5554c7d1d3cfa57e91886a5c5b695"
   },
   {
-   "headline": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-   "outlet": "ryanmadden.net",
-   "outlet_name": "ryanmadden.net",
+   "headline": "OpenAI Will Combine ChatGPT and Codex Usage Allowances in December",
+   "outlet": "www.tokenpost.com",
+   "outlet_name": "www.tokenpost.com",
    "label": "REPORTED",
-   "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
-   "url_id": "f4160ff23c480239731cf2c75f1f0468"
+   "url": "https://www.tokenpost.com/news/technology/45608",
+   "url_id": "9beb9a531046d413f8388cea4dead264"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 7900,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 7600,
  "articles_24h_label": "about 8,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/10/31/23.mp3",
- "audio_seconds": 56.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/00.mp3",
+ "audio_seconds": 47.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA judge has allowed a lawsuit by the NAACP over xAI data center pollution to move forward, reported by TechCrunch.\nGrok Imagine's artificial intelligence film on the Odyssey faced criticism for emotional and narrative shortcomings, reported by Stuff South Africa.\nOpenAI is valued at 1.25 trillion dollars as its funding round fell short of target, reported by Crypto Briefing.\nAnthropic's potential IPO could receive a junk credit rating despite an 800 billion dollar artificial intelligence spending plan, still open per Coinpedia.\nSpaceX artificial intelligence will watermark Grok text by default for EU artificial intelligence act compliance, reported by FourWeekMBA.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by FourWeekMBA: DeepSeek Releases Agent That Works GitHub Issues in Parallel.\nReported by The Tech Buzz: Judge Greenlights NAACP Suit Against xAI Over Data Center Pollution.\nStill open, per WeRSM: Apple Intelligence Is Coming To China With iOS 27.3.\nReported by Oncodaily: The MFCR Congrats Drs.Taube and Szalay on AstroPath’s Selection for Anthropic’s AI for Science Program.\nReported by The San Francisco Standard: Anthropic’s late $900K push into California Democratic politics.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
