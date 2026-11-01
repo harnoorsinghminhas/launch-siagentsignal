@@ -1,125 +1,117 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-01T12:20:03Z",
- "hour": "2026-11-01T13:00:00Z",
+ "generated_at": "2026-11-01T13:20:03Z",
+ "hour": "2026-11-01T14:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
-   "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
+   "title": "DeepSeek Unveils 'Super Agent' to Run Multiple Tasks at Once",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
+   "url": "https://en.sedaily.com/international/2026/11/01/deepseek-unveils-super-agent-to-run-multiple-tasks-at-once",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek releases MIT-licensed dsh-superagent, cutting task time by 1.9x in simulations.",
-   "published_at": "2026-11-01T07:47:17Z",
-   "url_id": "8ffb3cb5b711c694e534131852c7a571"
+   "summary_1line": "DeepSeek's Super Agent uses AI agents to manage multiple tasks and proactively solve issues in real time.",
+   "published_at": "2026-11-01T10:52:59Z",
+   "url_id": "a37815a0a88378a5cb230f118c898c29"
   },
   {
-   "title": "Google tests a new Gemini 4 Carbon checkpoint on Arena",
-   "outlet": "TestingCatalog AI News",
-   "outlet_name": "TestingCatalog AI News",
-   "url": "https://www.testingcatalog.com/google-tests-new-gemini-4-carbon-checkpoint-arena/",
-   "label": "STILL OPEN",
-   "summary_1line": "Gemini 4 Carbon improves 3D and coding performance, with early tests showing stronger outputs than prior versions.",
-   "published_at": "2026-11-01T08:44:34Z",
-   "url_id": "c6e77d166e14e5f925cbacd942518bcc"
-  },
-  {
-   "title": "Markets podcaster Ed Elson says investors are reading Anthropic's S-1 all wrong",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/ed-elson-prof-g-podcast-anthropic-s1-ai-stocks-spcx-2026-10",
-   "label": "STILL OPEN",
-   "summary_1line": "Elson warns investors misreading Anthropic's S-1, citing $150B AI compute plans and $2B operating loss.",
-   "published_at": "2026-11-01T10:45:00Z",
-   "url_id": "d0c72bc25db74ba69323d2a1804a9244"
-  },
-  {
-   "title": "\"No instructions needed, it gets things done on its own\"... China's DeepSeek unveils multitasking 'Super Agent'",
-   "outlet": "아시아경제",
-   "outlet_name": "아시아경제",
-   "url": "https://www.asiae.co.kr/en/article/2026110118255506090",
+   "title": "DeepSeek releases proactive coding agent prototype: what to know",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
+   "url": "https://www.thenews.com.pk/latest/1422097-deepseek-releases-proactive-coding-agent-prototype-what-to-know",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-11-01T09:27:14Z",
-   "url_id": "d4aaa297e37fd14b9604131ebef2c4d5"
+   "summary_1line": "DeepSeek releases autonomous coding agent prototype to reduce human coordination in AI workflows.",
+   "published_at": "2026-11-01T04:24:00Z",
+   "url_id": "3dd1be54525b2ffa8ce999969bfdb9ad"
   },
   {
-   "title": "NVIDIA Is Reportedly Eyeing Teflon, The Non-Stick Cookware Material, To Fix AI Server Signal Loss In Next-Gen NVLink Switch Boards",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "url": "https://wccftech.com/nvidia-eyeing-teflon-ptfe-ai-server-signal-loss-nvlink-switch-boards/",
-   "label": "STILL OPEN",
-   "summary_1line": "NVIDIA reportedly explores Teflon to reduce signal loss in AI chips amid transmission bottlenecks.",
-   "published_at": "2026-11-01T09:10:50Z",
-   "url_id": "baede1a8a68cb1d85b3c21ff043a9eef"
+   "title": "NVIDIA and Hugging Face probe: what DOJ is examining",
+   "outlet": "NeoTeo",
+   "outlet_name": "NeoTeo",
+   "url": "https://www.neoteo.com/en/what-the-doj-is-reportedly-examining-in-nvidias-hugging-face-deal",
+   "label": "REPORTED",
+   "summary_1line": "DOJ investigates competition effects of NVIDIA's $12.93B Hugging Face acquisition.",
+   "published_at": "2026-10-31T20:27:03Z",
+   "url_id": "0162237fd6f29a4da58998aff3ff0468"
+  },
+  {
+   "title": "Gemini 4 Carbon Is Google’s New Frontier Model, Starting With Cyber Defenders",
+   "outlet": "Tech My Money",
+   "outlet_name": "Tech My Money",
+   "url": "https://techmymoney.com/2026/11/01/gemini-4-carbon-google-frontier-model-cyber-defenders/",
+   "label": "REPORTED",
+   "summary_1line": "Google launches Gemini 4 Carbon for cybersecurity, with 88.2% SEC-bench Pro score and staged access starting October 28, 2026.",
+   "published_at": "2026-11-01T12:17:55Z",
+   "url_id": "8789456d0b7e93956f9103d66b38a42f"
+  },
+  {
+   "title": "OpenAI is steering ChatGPT users toward more paid usage",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+   "label": "REPORTED",
+   "summary_1line": "OpenAI adds device and card limits to paid ChatGPT accounts.",
+   "published_at": "2026-11-01T12:09:44Z",
+   "url_id": "91231f19367c6f507e67f096faf68379"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek Open-Sources dsh-superagent, a Router-Worker Coding Agent",
-   "outlet": "MarkTechPost",
-   "outlet_name": "MarkTechPost",
+   "headline": "DeepSeek Unveils 'Super Agent' to Run Multiple Tasks at Once",
+   "outlet": "Seoul Economic Daily",
+   "outlet_name": "Seoul Economic Daily",
    "label": "REPORTED",
-   "url": "https://www.marktechpost.com/2026/11/01/deepseek-dsh-superagent-router-worker-coding-agent/",
-   "url_id": "8ffb3cb5b711c694e534131852c7a571"
+   "url": "https://en.sedaily.com/international/2026/11/01/deepseek-unveils-super-agent-to-run-multiple-tasks-at-once",
+   "url_id": "a37815a0a88378a5cb230f118c898c29"
   },
   {
-   "headline": "Google tests a new Gemini 4 Carbon checkpoint on Arena",
-   "outlet": "TestingCatalog AI News",
-   "outlet_name": "TestingCatalog AI News",
-   "label": "STILL OPEN",
-   "url": "https://www.testingcatalog.com/google-tests-new-gemini-4-carbon-checkpoint-arena/",
-   "url_id": "c6e77d166e14e5f925cbacd942518bcc"
+   "headline": "DeepSeek releases proactive coding agent prototype: what to know",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
+   "label": "REPORTED",
+   "url": "https://www.thenews.com.pk/latest/1422097-deepseek-releases-proactive-coding-agent-prototype-what-to-know",
+   "url_id": "3dd1be54525b2ffa8ce999969bfdb9ad"
   },
   {
-   "headline": "Markets podcaster Ed Elson says investors are reading Anthropic's S-1 all wrong",
+   "headline": "NVIDIA and Hugging Face probe: what DOJ is examining",
+   "outlet": "NeoTeo",
+   "outlet_name": "NeoTeo",
+   "label": "REPORTED",
+   "url": "https://www.neoteo.com/en/what-the-doj-is-reportedly-examining-in-nvidias-hugging-face-deal",
+   "url_id": "0162237fd6f29a4da58998aff3ff0468"
+  },
+  {
+   "headline": "Gemini 4 Carbon Is Google’s New Frontier Model, Starting With Cyber Defenders",
+   "outlet": "Tech My Money",
+   "outlet_name": "Tech My Money",
+   "label": "REPORTED",
+   "url": "https://techmymoney.com/2026/11/01/gemini-4-carbon-google-frontier-model-cyber-defenders/",
+   "url_id": "8789456d0b7e93956f9103d66b38a42f"
+  },
+  {
+   "headline": "OpenAI is steering ChatGPT users toward more paid usage",
+   "outlet": "The Decoder",
+   "outlet_name": "The Decoder",
+   "label": "REPORTED",
+   "url": "https://the-decoder.com/openai-is-steering-chatgpt-users-toward-more-paid-usage/",
+   "url_id": "91231f19367c6f507e67f096faf68379"
+  },
+  {
+   "headline": "Anthropic has big plans to give back, philanthropy gurus weigh in on its efforts",
    "outlet": "Business Insider",
    "outlet_name": "Business Insider",
-   "label": "STILL OPEN",
-   "url": "https://www.businessinsider.com/ed-elson-prof-g-podcast-anthropic-s1-ai-stocks-spcx-2026-10",
-   "url_id": "d0c72bc25db74ba69323d2a1804a9244"
-  },
-  {
-   "headline": "\"No instructions needed, it gets things done on its own\"... China's DeepSeek unveils…",
-   "outlet": "아시아경제",
-   "outlet_name": "아시아경제",
    "label": "REPORTED",
-   "url": "https://www.asiae.co.kr/en/article/2026110118255506090",
-   "url_id": "d4aaa297e37fd14b9604131ebef2c4d5"
+   "url": "https://www.businessinsider.com/anthropic-ipo-filing-amodei-philanthropy-charity-donation-matching-reputation-culture-2026-10",
+   "url_id": "90d26c55ae20a94023f86f18e51d475f"
   },
   {
-   "headline": "NVIDIA Is Reportedly Eyeing Teflon, The Non-Stick Cookware Material, To Fix AI Server…",
-   "outlet": "Wccftech",
-   "outlet_name": "Wccftech",
-   "label": "STILL OPEN",
-   "url": "https://wccftech.com/nvidia-eyeing-teflon-ptfe-ai-server-signal-loss-nvlink-switch-boards/",
-   "url_id": "baede1a8a68cb1d85b3c21ff043a9eef"
-  },
-  {
-   "headline": "xAI must face lawsuit over data center pollution, judge rules",
-   "outlet": "NewsBytes",
-   "outlet_name": "NewsBytes",
+   "headline": "Anthropic says helping others is core to its mission. 3 philanthropy gurus say they'll…",
+   "outlet": "businessinsider.com",
+   "outlet_name": "Business Insider",
    "label": "REPORTED",
-   "url": "https://www.newsbytesapp.com/news/science/judge-allows-naacp-lawsuit-against-xai-over-alleged-permit-violations/story",
-   "url_id": "c347cc0aa8997262a884a32de6b9e8d3"
-  },
-  {
-   "headline": "Inside OpenAI’s Secret Tests for GPT-6.2 Astra and Its Robotics Rise",
-   "outlet": "WinCentral",
-   "outlet_name": "WinCentral",
-   "label": "REPORTED",
-   "url": "https://thewincentral.com/openai-tests-gpt-6-2-astra-robotics-dominance/",
-   "url_id": "be3dccf11b73644ad5fa8f764456f864"
-  },
-  {
-   "headline": "An AI agent steered a needle into a live mouse’s brain after Claude Opus refused",
-   "outlet": "Martin Cid Magazine",
-   "outlet_name": "Martin Cid Magazine",
-   "label": "REPORTED",
-   "url": "https://www.martincid.com/technology-sv/ai-agent-robot-brain-surgery-live-mouse-claude-opus-refused/",
-   "url_id": "bf31e53b946d42cef43366789f7a1248"
+   "url": "https://www.businessinsider.com/anthropic-ipo-filing-amodei-philanthropy-charity-donation-matching-reputation-culture-2026-10",
+   "url_id": "277e155d5a8acb244a916009ac2d5739"
   },
   {
    "headline": "How Gemini fixed my decision paralysis on Netflix better than its own algorithm ever could",
@@ -130,20 +122,20 @@
    "url_id": "ade54d9c12c9183433b914680dc0f6ff"
   },
   {
-   "headline": "Gemini 3.1 Pro: $2/$12 Pricing vs Claude, GPT [2026]",
-   "outlet": "shattered.io",
-   "outlet_name": "shattered.io",
-   "label": "STILL OPEN",
-   "url": "https://shattered.io/gemini-3-1-pro-2-12-pricing-undercuts-claude-chatgpt-2026/",
-   "url_id": "3f20a74a8203201bc69b7c3578421e20"
+   "headline": "‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit",
+   "outlet": "The Observer",
+   "outlet_name": "The Observer",
+   "label": "REPORTED",
+   "url": "https://observer.co.uk/news/technology/article/if-it-wasnt-for-chatgpt-my-brother-would-still-be-alive-inside-openais-safety-unit",
+   "url_id": "5636dbb0069c71a6ef60d6c503cb1ba5"
   },
   {
-   "headline": "AI race heats up: DeepSeek drops an autonomous super-agent to take on Claude",
-   "outlet": "NDTV Profit on MSN",
-   "outlet_name": "NDTV Profit on MSN",
-   "label": "REPORTED",
-   "url": "https://www.msn.com/en-in/news/other/ai-race-heats-up-deepseek-drops-an-autonomous-super-agent-to-take-on-claude/ar-AA2gw66F",
-   "url_id": "d0e0f9556ab6a8fe7e8df745584d3a50"
+   "headline": "Inside OpenAI’s Secret Tests for GPT-6.2 Astra and Its Robotics Rise",
+   "outlet": "WinCentral",
+   "outlet_name": "WinCentral",
+   "label": "STILL OPEN",
+   "url": "https://thewincentral.com/openai-tests-gpt-6-2-astra-robotics-dominance/",
+   "url_id": "be3dccf11b73644ad5fa8f764456f864"
   },
   {
    "headline": "I gave Gemini my cluttered Mac Downloads folder; it sorted files the way I actually search",
@@ -152,16 +144,24 @@
    "label": "REPORTED",
    "url": "https://www.androidpolice.com/i-gave-gemini-cluttered-mac-downloads-folder-sorted-files-i-search/",
    "url_id": "a66fe51d9bc4913d5e7954ad0c27e852"
+  },
+  {
+   "headline": "Gemini 3.1 Pro: $2/$12 Pricing vs Claude, GPT [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "STILL OPEN",
+   "url": "https://shattered.io/gemini-3-1-pro-2-12-pricing-undercuts-claude-chatgpt-2026/",
+   "url_id": "3f20a74a8203201bc69b7c3578421e20"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 7100,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/13.mp3",
- "audio_seconds": 67.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/14.mp3",
+ "audio_seconds": 40.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek has open-sourced dsh-superagent, a router-worker coding agent that cuts task time by 1.9x in simulations, reported by MarkTechPost with an MIT license.\nGoogle is testing a new Gemini 4 Carbon checkpoint on Arena that improves 3D and coding performance, still open per TestingCatalog AI News, with early tests showing stronger outputs.\nEd Elson, a markets podcaster, warns investors are misreading Anthropic's S-1, citing $150B artificial intelligence compute plans and $2B operating loss, still open per Business Insider.\nChina's DeepSeek has unveiled a multitasking Super Agent that operates without instructions and completes tasks autonomously, reported by 아시아경제.\nNVIDIA is reportedly exploring Teflon, a non-stick cookware material, to reduce signal loss in artificial intelligence chips amid transmission bottlenecks in next-generation NVLink switch boards, still open per Wccftech.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Seoul Economic Daily: DeepSeek Unveils 'Super Agent' to Run Multiple Tasks at Once.\nReported by The News International: DeepSeek releases proactive coding agent prototype: what to know.\nReported by NeoTeo: NVIDIA and Hugging Face probe: what DOJ is examining.\nReported by Tech My Money: Gemini 4 Carbon Is Google’s New Frontier Model, Starting With Cyber Defenders.\nReported by The Decoder: OpenAI is steering ChatGPT users toward more paid usage.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
