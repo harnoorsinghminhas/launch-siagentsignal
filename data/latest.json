@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-01T15:20:02Z",
- "hour": "2026-11-01T16:00:00Z",
+ "generated_at": "2026-11-01T16:20:02Z",
+ "hour": "2026-11-01T17:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Maps Post-Midterm Policy Push, Including 'Speed Limits' for Advanced AI",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
-   "url": "https://finance.biggo.com/news/504f73ca-4f59-4014-ac60-31646effa21e",
+   "title": "OpenAI's Policy Push Following U.S. Midterm Elections",
+   "outlet": "GuruFocus",
+   "outlet_name": "GuruFocus",
+   "url": "https://www.gurufocus.com/news/9161285/openais-policy-push-following-us-midterm-elections",
    "label": "REPORTED",
-   "summary_1line": "OpenAI launches policy push post-midterms to promote AI safety and community benefits.",
-   "published_at": "2026-11-01T14:05:00Z",
-   "url_id": "0335a1742117c536bfdfb58ccc7a78b7"
+   "summary_1line": null,
+   "published_at": "2026-11-01T15:18:42Z",
+   "url_id": "cc7b58573a5985fd55ad48da827bee51"
   },
   {
-   "title": "Anthropic's US$100 billion IPO could be the biggest ever — here's how Canadian investors can get access",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
-   "url": "https://ca.finance.yahoo.com/news/anthropics-us-100-billion-ipo-123000406.html",
+   "title": "Judge rejects xAI’s bid to dismiss NAACP lawsuit over its gas turbines",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied",
    "label": "REPORTED",
-   "summary_1line": "Anthropic files for $100B IPO, targeting $2T valuation, with $16.3B revenue and $80.7B net loss.",
-   "published_at": "2026-11-01T12:30:00Z",
-   "url_id": "42f4336398ca691d7596945c58645667"
+   "summary_1line": null,
+   "published_at": "2026-11-01T14:26:50Z",
+   "url_id": "3b7bde99232b8ef39c70bc0066530e36"
   },
   {
-   "title": "Anthropic investors may be missing $150bn warning ahead of IPO",
-   "outlet": "The News International",
-   "outlet_name": "The News International",
-   "url": "https://www.thenews.com.pk/latest/1422094-anthropic-investors-may-be-missing-150b-warning-ahead-of-ipo",
-   "label": "STILL OPEN",
-   "summary_1line": "Anthropic's compute spending may surge to $150B in 2026, despite lower current losses.",
-   "published_at": "2026-11-01T11:53:24Z",
-   "url_id": "c3777cb99f81d4c7752586769b693875"
+   "title": "Palantir CTO tells Stratechery he doesn’t regret working with Anthropic",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/palantir-shyam-sankar-anthropic-stuck-in-the-middle-stratechery",
+   "label": "REPORTED",
+   "summary_1line": "Palantir's CTO says it was caught in Anthropic-US conflict and now helps customers switch AI models safely.",
+   "published_at": "2026-11-01T14:02:26Z",
+   "url_id": "8ba970afb03a8a283183a890057d2ecb"
   },
   {
-   "title": "Apple to Launch AI Features in China in December With Alibaba’s Qwen Integration",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "url": "https://www.tekedia.com/apple-to-launch-ai-features-in-china-in-december-with-alibabas-qwen-integration/",
+   "title": "ChatGPT vs Gemini vs Grok vs Claude: Which AI Makes the Best Images in 2026? Blind Tests Crown a Clear Winner",
+   "outlet": "International Business Times Australia",
+   "outlet_name": "International Business Times Australia",
+   "url": "https://www.ibtimes.com.au/chatgpt-gemini-grok-ai-image-generation-rankings-1877674",
    "label": "REPORTED",
-   "summary_1line": "Apple launches AI in China with Alibaba, offering 18 features in December.",
-   "published_at": "2026-11-01T07:38:04Z",
-   "url_id": "fb3522a367b05fc72c49f7a46544cbf9"
+   "summary_1line": "GPT Image 2 leads image quality; Gemini offers best value; Grok has cinematic style; Claude doesn't generate images.",
+   "published_at": "2026-11-01T13:57:37Z",
+   "url_id": "efce6cf83286b7665fd2b03ee9d390b3"
   },
   {
-   "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops",
-   "outlet": "Tom's Hardware",
-   "outlet_name": "Tom's Hardware",
-   "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+   "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+   "outlet": "BleepingComputer",
+   "outlet_name": "BleepingComputer",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
    "label": "REPORTED",
-   "summary_1line": "USB tool unlocks 65% more AI performance on RTX GPUs via UEFI pre-boot.",
-   "published_at": "2026-11-01T14:00:00Z",
-   "url_id": "9547934ccad042d39e36941391c27585"
+   "summary_1line": "OpenAI unifies ChatGPT and Work with shared usage, doubling Pro subscription allowances effective October 29.",
+   "published_at": "2026-11-01T13:53:11Z",
+   "url_id": "c6a90b34b076ca1bf023a02e6877e064"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Maps Post-Midterm Policy Push, Including 'Speed Limits' for Advanced AI",
-   "outlet": "BigGo Finance",
-   "outlet_name": "BigGo Finance",
+   "headline": "OpenAI's Policy Push Following U.S. Midterm Elections",
+   "outlet": "GuruFocus",
+   "outlet_name": "GuruFocus",
    "label": "REPORTED",
-   "url": "https://finance.biggo.com/news/504f73ca-4f59-4014-ac60-31646effa21e",
-   "url_id": "0335a1742117c536bfdfb58ccc7a78b7"
+   "url": "https://www.gurufocus.com/news/9161285/openais-policy-push-following-us-midterm-elections",
+   "url_id": "cc7b58573a5985fd55ad48da827bee51"
   },
   {
-   "headline": "Anthropic's US$100 billion IPO could be the biggest ever — here's how Canadian investors…",
-   "outlet": "Yahoo! Finance Canada",
-   "outlet_name": "Yahoo! Finance Canada",
+   "headline": "Judge rejects xAI’s bid to dismiss NAACP lawsuit over its gas turbines",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
    "label": "REPORTED",
-   "url": "https://ca.finance.yahoo.com/news/anthropics-us-100-billion-ipo-123000406.html",
-   "url_id": "42f4336398ca691d7596945c58645667"
-  },
-  {
-   "headline": "Anthropic investors may be missing $150bn warning ahead of IPO",
-   "outlet": "The News International",
-   "outlet_name": "The News International",
-   "label": "STILL OPEN",
-   "url": "https://www.thenews.com.pk/latest/1422094-anthropic-investors-may-be-missing-150b-warning-ahead-of-ipo",
-   "url_id": "c3777cb99f81d4c7752586769b693875"
-  },
-  {
-   "headline": "Apple to Launch AI Features in China in December With Alibaba’s Qwen Integration",
-   "outlet": "Tekedia",
-   "outlet_name": "Tekedia",
-   "label": "REPORTED",
-   "url": "https://www.tekedia.com/apple-to-launch-ai-features-in-china-in-december-with-alibabas-qwen-integration/",
-   "url_id": "fb3522a367b05fc72c49f7a46544cbf9"
-  },
-  {
-   "headline": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's…",
-   "outlet": "Tom's Hardware",
-   "outlet_name": "Tom's Hardware",
-   "label": "REPORTED",
-   "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
-   "url_id": "9547934ccad042d39e36941391c27585"
+   "url": "https://thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied",
+   "url_id": "3b7bde99232b8ef39c70bc0066530e36"
   },
   {
    "headline": "Palantir CTO tells Stratechery he doesn’t regret working with Anthropic",
@@ -146,6 +122,30 @@
    "url_id": "a06c122d3c83b96cdece5f63d5d8c2dd"
   },
   {
+   "headline": "Anthropic to Watermark 4 Older Claude Models for EU AI Act",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
+   "label": "REPORTED",
+   "url": "https://fourweekmba.com/ai-anthropic-to-watermark-4-older-claude-models-for-eu-ai-act/",
+   "url_id": "8af742dbb77a186298129ffa54a82867"
+  },
+  {
+   "headline": "Bill Gates warns AI job losses could undermine taxes and social safety nets",
+   "outlet": "Beinsure",
+   "outlet_name": "Beinsure",
+   "label": "REPORTED",
+   "url": "https://beinsure.com/news/bill-gates-warns-ai-job-losses-could-undermine-taxes/",
+   "url_id": "c12cb8d9dfaefb012659ed77bf1ebc7f"
+  },
+  {
+   "headline": "Cloning Games with One-Click AI? Claude Blocks It",
+   "outlet": "Inven Global",
+   "outlet_name": "Inven Global",
+   "label": "REPORTED",
+   "url": "https://www.invenglobal.com/articles/27986/cloning-games-with-one-click-ai-claude-blocks-it",
+   "url_id": "beff9b15ff5f5261b54094eb77142c4e"
+  },
+  {
    "headline": "Anthropic’s AI independently performed brain surgery on a mouse: Experiment sparks…",
    "outlet": "Root-Nation.com",
    "outlet_name": "Root-Nation.com",
@@ -158,10 +158,10 @@
  "articles_24h_rounded": 7100,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/16.mp3",
- "audio_seconds": 58.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/17.mp3",
+ "audio_seconds": 55.4,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by BigGo Finance: OpenAI Maps Post-Midterm Policy Push, Including 'Speed Limits' for Advanced AI.\nReported by Yahoo! Finance Canada: Anthropic's US$100 billion IPO could be the biggest ever — here's how Canadian investors can get access.\nStill open, per The News International: Anthropic investors may be missing $150bn warning ahead of IPO.\nReported by Tekedia: Apple to Launch AI Features in China in December With Alibaba’s Qwen Integration.\nReported by Tom's Hardware: Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI pushed policy changes following U.S. midterm elections, reported by GuruFocus.\nA judge rejected xAI's bid to dismiss an NAACP lawsuit over gas turbines, reported by The Next Web.\nPalantir's CTO says the company was caught in an Anthropic-U.S. conflict and now helps customers switch artificial intelligence models safely, reported by The Next Web.\nG P T Image 2 leads in image quality, Gemini offers value, Grok has cinematic style, and Claude doesn't generate images, reported by International Business Times Australia.\nOpenAI is doubling Pro usage limits and bringing Work features to Chat with shared usage effective October 29, reported by BleepingComputer.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
