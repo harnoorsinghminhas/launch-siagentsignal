@@ -1,101 +1,141 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-01T18:20:02Z",
- "hour": "2026-11-01T19:00:00Z",
+ "generated_at": "2026-11-01T19:20:02Z",
+ "hour": "2026-11-01T20:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+   "title": "‘I don't save for retirement now’: Former Google AI expert's alarming warning about artificial intelligence",
+   "outlet": "Livemint",
+   "outlet_name": "Livemint",
+   "url": "https://www.livemint.com/ai/i-dont-save-for-retirement-now-former-google-ai-experts-alarming-warning-about-artificial-intelligence-11793555055999.html",
    "label": "REPORTED",
-   "summary_1line": "Anthropic's internal AI usage surpassed employee costs, with 90%+ of code written by Claude.",
-   "published_at": "2026-11-01T15:00:01Z",
-   "url_id": "0db7b6f459a78855c303e34e1af481b2"
+   "summary_1line": "Nate Soares warns AI could end humanity in a decade and stopped saving for retirement.",
+   "published_at": "2026-11-01T18:16:35Z",
+   "url_id": "31a844c442af16d414306277eaa7ad6c"
   },
   {
-   "title": "Gemini 4 Carbon: Google startet KI-Modell für ausgewählte Sicherheitsfachleute",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
-   "url": "https://borncity.com/news/gemini-4-carbon-google-startet-ki-modell-fuer-ausgewaehlte-sicherheitsfachleute/",
+   "title": "Elvis Presley vs. Anthropic: Klage wegen KI-Training",
+   "outlet": "t3n",
+   "outlet_name": "t3n",
+   "url": "https://t3n.de/news/elvis-presley-klage-anthropic-ki-training-1769888/",
    "label": "REPORTED",
-   "summary_1line": "Google's Gemini 4 Carbon scores 88.2% in security tests, targets elite security teams, and sets new benchmarks in AI-driven cybersecurity.",
-   "published_at": "2026-11-01T14:40:04Z",
-   "url_id": "4f0c27e5a32f57b49626384287f70595"
+   "summary_1line": "Elvis Presley's rights holders sue Anthropic over training AI on 270 songs without consent.",
+   "published_at": "2026-11-01T18:10:00Z",
+   "url_id": "9d8883ed91ebecc5fc92178029a1bc2c"
   },
   {
-   "title": "Cambio, the AI-Native Crypto Exchange, Brings Swap Quotes to ChatGPT",
-   "outlet": "CryptoPotato",
-   "outlet_name": "CryptoPotato",
-   "url": "https://cryptopotato.com/cambio-the-ai-native-crypto-exchange-brings-swap-quotes-to-chatgpt/",
+   "title": "Musk and Brin Say OpenAI’s Brockman Asked Them for Compute",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
+   "url": "https://fourweekmba.com/ai-musk-and-brin-say-openais-brockman-asked-them-for-compute/",
    "label": "REPORTED",
-   "summary_1line": "Cambio offers AI-powered swap quotes in ChatGPT for 100+ coins across 25 networks.",
-   "published_at": "2026-11-01T14:18:00Z",
-   "url_id": "0ccd56eacde55690d5183c573e90f6cd"
+   "summary_1line": "Musk and Brin say Brockman asked for compute; Musk calls memory shortage the worst supply chain shock.",
+   "published_at": "2026-11-01T17:54:38Z",
+   "url_id": "c1ee75895c6ed85fa27f098c05fe2a77"
   },
   {
-   "title": "Anthropic renames Claude Max plans and drops Ultra’s five-hour limit",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/claude-ultra-max-plan-rename-five-hour-limit",
+   "title": "Anthropic is stopping Claude from copying existing video games: Here’s why",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
+   "url": "https://www.thenews.com.pk/latest/1422138-anthropic-is-stopping-claude-from-copying-existing-video-games-heres-why",
    "label": "REPORTED",
-   "summary_1line": "Anthropic removes five-hour limit on Ultra, rebrands plans, keeps prices same.",
-   "published_at": "2026-11-01T13:54:30Z",
-   "url_id": "9fd9db06ce22b939b2ba8437365e6d48"
+   "summary_1line": "Anthropic bans Claude from copying video games to prevent intellectual property violations.",
+   "published_at": "2026-11-01T17:42:20Z",
+   "url_id": "5f5fe555f08620fd7be80c464c9c7521"
   },
   {
-   "title": "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for Chinese market",
-   "outlet": "The Express Tribune",
-   "outlet_name": "The Express Tribune",
-   "url": "https://tribune.com.pk/story/2638100/alibaba-partners-with-apple-to-integrate-qwen-ai-model-into-apple-intelligence-for-chinese-market",
+   "title": "Google, Microsoft, OpenAI Plan To Honor Shared robots.txt AI Training Opt-Out: how 8 outlets framed it",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
+   "url": "https://newscord.org/article/google-microsoft-openai-plan-to-honor-shared-robotstxt-ai-training-opt-out--Story_20261101_f0ed93dd",
    "label": "REPORTED",
-   "summary_1line": "Alibaba and Apple integrate Qwen AI into Apple Intelligence for China, starting Nov. 4 beta.",
-   "published_at": "2026-11-01T13:53:59Z",
-   "url_id": "a9305b7fa5b7c7513c4abf55945e3aa9"
+   "summary_1line": "AI firms agree on shared robots.txt opt-out for AI training, rolling out in 2027.",
+   "published_at": "2026-11-01T17:25:08Z",
+   "url_id": "4da69f11f50980b52fa06e328d448fba"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
+   "headline": "‘I don't save for retirement now’: Former Google AI expert's alarming warning about…",
+   "outlet": "Livemint",
+   "outlet_name": "Livemint",
    "label": "REPORTED",
-   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-   "url_id": "0db7b6f459a78855c303e34e1af481b2"
+   "url": "https://www.livemint.com/ai/i-dont-save-for-retirement-now-former-google-ai-experts-alarming-warning-about-artificial-intelligence-11793555055999.html",
+   "url_id": "31a844c442af16d414306277eaa7ad6c"
   },
   {
-   "headline": "Gemini 4 Carbon: Google startet KI-Modell für ausgewählte Sicherheitsfachleute",
-   "outlet": "BornCity",
-   "outlet_name": "BornCity",
+   "headline": "Elvis Presley vs. Anthropic: Klage wegen KI-Training",
+   "outlet": "t3n",
+   "outlet_name": "t3n",
    "label": "REPORTED",
-   "url": "https://borncity.com/news/gemini-4-carbon-google-startet-ki-modell-fuer-ausgewaehlte-sicherheitsfachleute/",
-   "url_id": "4f0c27e5a32f57b49626384287f70595"
+   "url": "https://t3n.de/news/elvis-presley-klage-anthropic-ki-training-1769888/",
+   "url_id": "9d8883ed91ebecc5fc92178029a1bc2c"
   },
   {
-   "headline": "Cambio, the AI-Native Crypto Exchange, Brings Swap Quotes to ChatGPT",
-   "outlet": "CryptoPotato",
-   "outlet_name": "CryptoPotato",
+   "headline": "Musk and Brin Say OpenAI’s Brockman Asked Them for Compute",
+   "outlet": "FourWeekMBA",
+   "outlet_name": "FourWeekMBA",
    "label": "REPORTED",
-   "url": "https://cryptopotato.com/cambio-the-ai-native-crypto-exchange-brings-swap-quotes-to-chatgpt/",
-   "url_id": "0ccd56eacde55690d5183c573e90f6cd"
+   "url": "https://fourweekmba.com/ai-musk-and-brin-say-openais-brockman-asked-them-for-compute/",
+   "url_id": "c1ee75895c6ed85fa27f098c05fe2a77"
   },
   {
-   "headline": "Anthropic renames Claude Max plans and drops Ultra’s five-hour limit",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
+   "headline": "Anthropic is stopping Claude from copying existing video games: Here’s why",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
    "label": "REPORTED",
-   "url": "https://thenextweb.com/news/claude-ultra-max-plan-rename-five-hour-limit",
-   "url_id": "9fd9db06ce22b939b2ba8437365e6d48"
+   "url": "https://www.thenews.com.pk/latest/1422138-anthropic-is-stopping-claude-from-copying-existing-video-games-heres-why",
+   "url_id": "5f5fe555f08620fd7be80c464c9c7521"
   },
   {
-   "headline": "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for…",
-   "outlet": "The Express Tribune",
-   "outlet_name": "The Express Tribune",
+   "headline": "Google, Microsoft, OpenAI Plan To Honor Shared robots.txt AI Training Opt-Out: how 8…",
+   "outlet": "NewsCord",
+   "outlet_name": "NewsCord",
    "label": "REPORTED",
-   "url": "https://tribune.com.pk/story/2638100/alibaba-partners-with-apple-to-integrate-qwen-ai-model-into-apple-intelligence-for-chinese-market",
-   "url_id": "a9305b7fa5b7c7513c4abf55945e3aa9"
+   "url": "https://newscord.org/article/google-microsoft-openai-plan-to-honor-shared-robotstxt-ai-training-opt-out--Story_20261101_f0ed93dd",
+   "url_id": "4da69f11f50980b52fa06e328d448fba"
+  },
+  {
+   "headline": "Anthropic expands text watermarking to older Claude versions beginning November 3",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
+   "label": "REPORTED",
+   "url": "https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions",
+   "url_id": "9d2309ff389c7c55d5c638cd1bff2bbf"
+  },
+  {
+   "headline": "Anthropic asks investors to trust it won’t do evil",
+   "outlet": "Jenny Ruth's Just the Business",
+   "outlet_name": "Jenny Ruth's Just the Business",
+   "label": "REPORTED",
+   "url": "https://justthebusinessjennyruth.substack.com/p/anthropic-asks-investors-to-trust",
+   "url_id": "ef98c6c7b7b727f6b7f29ea28643f88b"
+  },
+  {
+   "headline": "OpenAI Slashes Funding Round by a Third as AI Demand Cools",
+   "outlet": "the deep dive",
+   "outlet_name": "the deep dive",
+   "label": "REPORTED",
+   "url": "https://thedeepdive.ca/openai-slashes-funding-round-by-a-third-as-ai-demand-cools/",
+   "url_id": "3072c187a1ab9b92f7584920159bb568"
+  },
+  {
+   "headline": "Show HN: I vibe-coded a generator of Suprematist compositions with Claude",
+   "outlet": "supremath.art",
+   "outlet_name": "supremath.art",
+   "label": "REPORTED",
+   "url": "https://supremath.art/",
+   "url_id": "d6915a32654bf2d80bfc77d283c272ed"
+  },
+  {
+   "headline": "Anthropic says you can’t be mean to Claude. It’s not about feelings",
+   "outlet": "news8000.com",
+   "outlet_name": "news8000.com",
+   "label": "REPORTED",
+   "url": "https://www.news8000.com/lifestyle/money/anthropic-says-you-can-t-be-mean-to-claude-it-s-not-about-feelings/article_003e7d3e-c722-507a-a1fa-64e9660951b2.html",
+   "url_id": "7abd6adbeb7aead349542abecf0b665d"
   },
   {
    "headline": "DeepSeek wants to steal Claude Code and Codex’s lunch with an AI Super Agent that does…",
@@ -106,62 +146,22 @@
    "url_id": "bd69262af375685bda13bd772c2700a4"
   },
   {
-   "headline": "Anthropic restricts Claude Code from recreating existing games, developers report blocked…",
-   "outlet": "VideoCardz.com",
-   "outlet_name": "VideoCardz.com",
-   "label": "STILL OPEN",
-   "url": "https://videocardz.com/newz/anthropic-restricts-claude-code-from-recreating-existing-games-developers-report-blocked-projects",
-   "url_id": "c5e12a3187be1cbaefe0b2eec194beda"
-  },
-  {
    "headline": "OpenAI-Chef Sam Altman findet DRAM in Privathand „schrecklich“",
    "outlet": "heise.de",
    "outlet_name": "heise.de",
    "label": "REPORTED",
    "url": "https://www.heise.de/news/Sam-Altman-Privat-genutztes-DRAM-ist-schrecklich-11507338.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
    "url_id": "17bc5a4111d9e4ad48d05321438f1c18"
-  },
-  {
-   "headline": "Anthropic asks candidates about shares falling to zero — Fortune",
-   "outlet": "UA.NEWS",
-   "outlet_name": "UA.NEWS",
-   "label": "REPORTED",
-   "url": "https://ua.news/en/money/anthropic-zapituie-kandidativ-pro-padinnia-aktsii-do-nulia-fortune",
-   "url_id": "50da82c48a5293c345574459ffffb34f"
-  },
-  {
-   "headline": "CPI | Meta Faces UK Antitrust Investigation Over Publisher Content and AI Terms",
-   "outlet": "PYMNTS.com",
-   "outlet_name": "PYMNTS.com",
-   "label": "REPORTED",
-   "url": "https://www.pymnts.com/cpi-posts/meta-faces-uk-antitrust-investigation-over-publisher-content-and-ai-terms/",
-   "url_id": "7a90eec8dc8fc28cd4bdc5ccb22cc100"
-  },
-  {
-   "headline": "OpenAI Plans Post-Midterm Push to Promote AI Compute Campuses",
-   "outlet": "www.tokenpost.com",
-   "outlet_name": "www.tokenpost.com",
-   "label": "REPORTED",
-   "url": "https://www.tokenpost.com/news/technology/45883",
-   "url_id": "173e8f83f9e480cbbe05605746007cc0"
-  },
-  {
-   "headline": "Chinese labs now target OpenAI's GPT-6 Astra for distillation",
-   "outlet": "fork.zone",
-   "outlet_name": "fork.zone",
-   "label": "STILL OPEN",
-   "url": "https://fork.zone/p/1011/report-chinese-labs-now-target-openai-s-gpt-6-astra-for",
-   "url_id": "5588952bc04e1cf3940df38aa590ffa5"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 7100,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/19.mp3",
- "audio_seconds": 68.7,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/20.mp3",
+ "audio_seconds": 55.8,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's internal artificial intelligence usage now exceeds what the company pays its employees. Reported by Business Insider: 90% plus of code is written by Claude.\nGoogle's Gemini 4 Carbon scores 88.2% in security tests and targets elite security teams. Reported by BornCity: the model sets new benchmarks in artificial intelligence driven cybersecurity.\nCambio, an artificial intelligence native crypto exchange, brings swap quotes to ChatGPT. Reported by CryptoPotato: the service covers 100 plus coins across 25 networks.\nAnthropic removes the five hour limit on Ultra and rebrands its plans. Reported by The Next Web: prices stay the same.\nAlibaba and Apple integrate Qwen artificial intelligence into Apple Intelligence for China. Reported by The Express Tribune: the beta starts November 4.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA former Google artificial intelligence expert warns artificial intelligence could end humanity in a decade, reported by Livemint, and he stopped saving for retirement.\nElvis Presley's rights holders are suing Anthropic over training artificial intelligence on 270 songs without consent, reported by t3n.\nMusk and Brin say Brockman asked for compute, reported by FourWeekMBA, with Musk calling memory shortage the worst supply chain shock.\nAnthropic bans Claude from copying video games to prevent intellectual property violations, reported by The News International.\nGoogle, Microsoft, and OpenAI plan to honor a shared robots.txt artificial intelligence training opt-out rolling out in 2027, reported by NewsCord.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
