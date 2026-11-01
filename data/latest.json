@@ -1,101 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-01T14:20:02Z",
- "hour": "2026-11-01T15:00:00Z",
+ "generated_at": "2026-11-01T15:20:02Z",
+ "hour": "2026-11-01T16:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek open-sources Super-Agent, a coding agent that reads team chats",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/deepseek-super-agent-open-source-coding-agent",
+   "title": "OpenAI Maps Post-Midterm Policy Push, Including 'Speed Limits' for Advanced AI",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
+   "url": "https://finance.biggo.com/news/504f73ca-4f59-4014-ac60-31646effa21e",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek opens Super-Agent to public, aiming to reduce human coding coordination with AI.",
-   "published_at": "2026-11-01T03:13:00Z",
-   "url_id": "d24487e1f33cf5a5b1be2ef6eeacbc36"
+   "summary_1line": "OpenAI launches policy push post-midterms to promote AI safety and community benefits.",
+   "published_at": "2026-11-01T14:05:00Z",
+   "url_id": "0335a1742117c536bfdfb58ccc7a78b7"
   },
   {
-   "title": "Anthropic says helping others is core to its mission. 3 philanthropy gurus say they'll believe it when they see it.",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/anthropic-ipo-filing-amodei-philanthropy-charity-donation-matching-reputation-culture-2026-10",
+   "title": "Anthropic's US$100 billion IPO could be the biggest ever — here's how Canadian investors can get access",
+   "outlet": "Yahoo! Finance Canada",
+   "outlet_name": "Yahoo! Finance Canada",
+   "url": "https://ca.finance.yahoo.com/news/anthropics-us-100-billion-ipo-123000406.html",
    "label": "REPORTED",
-   "summary_1line": "Anthropic's cofounders pledge 80% of stock to charity, with employee matching and public good funds.",
-   "published_at": "2026-11-01T11:49:01Z",
-   "url_id": "277e155d5a8acb244a916009ac2d5739"
+   "summary_1line": "Anthropic files for $100B IPO, targeting $2T valuation, with $16.3B revenue and $80.7B net loss.",
+   "published_at": "2026-11-01T12:30:00Z",
+   "url_id": "42f4336398ca691d7596945c58645667"
   },
   {
-   "title": "Anthropic has big plans to give back, philanthropy gurus weigh in on its efforts",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "url": "https://www.businessinsider.com/anthropic-ipo-filing-amodei-philanthropy-charity-donation-matching-reputation-culture-2026-10",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's cofounders pledge 80% of stock to charity, with employee matching and public good funds.",
-   "published_at": "2026-11-01T11:49:00Z",
-   "url_id": "90d26c55ae20a94023f86f18e51d475f"
+   "title": "Anthropic investors may be missing $150bn warning ahead of IPO",
+   "outlet": "The News International",
+   "outlet_name": "The News International",
+   "url": "https://www.thenews.com.pk/latest/1422094-anthropic-investors-may-be-missing-150b-warning-ahead-of-ipo",
+   "label": "STILL OPEN",
+   "summary_1line": "Anthropic's compute spending may surge to $150B in 2026, despite lower current losses.",
+   "published_at": "2026-11-01T11:53:24Z",
+   "url_id": "c3777cb99f81d4c7752586769b693875"
   },
   {
-   "title": "How Gemini fixed my decision paralysis on Netflix better than its own algorithm ever could",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
-   "url": "https://www.androidpolice.com/gemini-netflix-recommendation-decision-paralysis/",
+   "title": "Apple to Launch AI Features in China in December With Alibaba’s Qwen Integration",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
+   "url": "https://www.tekedia.com/apple-to-launch-ai-features-in-china-in-december-with-alibabas-qwen-integration/",
    "label": "REPORTED",
-   "summary_1line": "User uses Gemini to find light, personalized shows instead of Netflix's overwhelming recommendations.",
-   "published_at": "2026-11-01T11:00:10Z",
-   "url_id": "ade54d9c12c9183433b914680dc0f6ff"
+   "summary_1line": "Apple launches AI in China with Alibaba, offering 18 features in December.",
+   "published_at": "2026-11-01T07:38:04Z",
+   "url_id": "fb3522a367b05fc72c49f7a46544cbf9"
   },
   {
-   "title": "OpenAI raises $11 billion of $30 billion, cuts target to $20 billion",
-   "outlet": "Pasquale Pillitteri",
-   "outlet_name": "Pasquale Pillitteri",
-   "url": "https://pasqualepillitteri.it/en/news/29142/openai-raises-11-billion-of-30-billion-cuts-target-20-billion",
+   "title": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops",
+   "outlet": "Tom's Hardware",
+   "outlet_name": "Tom's Hardware",
+   "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-11-01T13:15:30Z",
-   "url_id": "73ac2072cdfbea681bb2a26e8fc08df3"
+   "summary_1line": "USB tool unlocks 65% more AI performance on RTX GPUs via UEFI pre-boot.",
+   "published_at": "2026-11-01T14:00:00Z",
+   "url_id": "9547934ccad042d39e36941391c27585"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek open-sources Super-Agent, a coding agent that reads team chats",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
+   "headline": "OpenAI Maps Post-Midterm Policy Push, Including 'Speed Limits' for Advanced AI",
+   "outlet": "BigGo Finance",
+   "outlet_name": "BigGo Finance",
    "label": "REPORTED",
-   "url": "https://thenextweb.com/news/deepseek-super-agent-open-source-coding-agent",
-   "url_id": "d24487e1f33cf5a5b1be2ef6eeacbc36"
-  },
-  {
-   "headline": "Anthropic says helping others is core to its mission. 3 philanthropy gurus say they'll…",
-   "outlet": "businessinsider.com",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://www.businessinsider.com/anthropic-ipo-filing-amodei-philanthropy-charity-donation-matching-reputation-culture-2026-10",
-   "url_id": "277e155d5a8acb244a916009ac2d5739"
-  },
-  {
-   "headline": "Anthropic has big plans to give back, philanthropy gurus weigh in on its efforts",
-   "outlet": "Business Insider",
-   "outlet_name": "Business Insider",
-   "label": "REPORTED",
-   "url": "https://www.businessinsider.com/anthropic-ipo-filing-amodei-philanthropy-charity-donation-matching-reputation-culture-2026-10",
-   "url_id": "90d26c55ae20a94023f86f18e51d475f"
-  },
-  {
-   "headline": "How Gemini fixed my decision paralysis on Netflix better than its own algorithm ever could",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
-   "label": "REPORTED",
-   "url": "https://www.androidpolice.com/gemini-netflix-recommendation-decision-paralysis/",
-   "url_id": "ade54d9c12c9183433b914680dc0f6ff"
-  },
-  {
-   "headline": "OpenAI raises $11 billion of $30 billion, cuts target to $20 billion",
-   "outlet": "Pasquale Pillitteri",
-   "outlet_name": "Pasquale Pillitteri",
-   "label": "REPORTED",
-   "url": "https://pasqualepillitteri.it/en/news/29142/openai-raises-11-billion-of-30-billion-cuts-target-20-billion",
-   "url_id": "73ac2072cdfbea681bb2a26e8fc08df3"
+   "url": "https://finance.biggo.com/news/504f73ca-4f59-4014-ac60-31646effa21e",
+   "url_id": "0335a1742117c536bfdfb58ccc7a78b7"
   },
   {
    "headline": "Anthropic's US$100 billion IPO could be the biggest ever — here's how Canadian investors…",
@@ -106,62 +74,94 @@
    "url_id": "42f4336398ca691d7596945c58645667"
   },
   {
-   "headline": "‘If it wasn’t for ChatGPT my brother would still be alive’: inside OpenAI’s safety unit",
-   "outlet": "The Observer",
-   "outlet_name": "The Observer",
-   "label": "REPORTED",
-   "url": "https://observer.co.uk/news/technology/article/if-it-wasnt-for-chatgpt-my-brother-would-still-be-alive-inside-openais-safety-unit",
-   "url_id": "5636dbb0069c71a6ef60d6c503cb1ba5"
-  },
-  {
    "headline": "Anthropic investors may be missing $150bn warning ahead of IPO",
    "outlet": "The News International",
    "outlet_name": "The News International",
-   "label": "REPORTED",
+   "label": "STILL OPEN",
    "url": "https://www.thenews.com.pk/latest/1422094-anthropic-investors-may-be-missing-150b-warning-ahead-of-ipo",
    "url_id": "c3777cb99f81d4c7752586769b693875"
   },
   {
-   "headline": "OpenAI vs Anthropic vs Google: How AI Companies Are Competing for Enterprise Adoption",
-   "outlet": "Analytics Insight",
-   "outlet_name": "Analytics Insight",
+   "headline": "Apple to Launch AI Features in China in December With Alibaba’s Qwen Integration",
+   "outlet": "Tekedia",
+   "outlet_name": "Tekedia",
    "label": "REPORTED",
-   "url": "https://www.analyticsinsight.net/artificial-intelligence/openai-vs-anthropic-vs-google-how-ai-companies-are-competing-for-enterprise-adoption",
-   "url_id": "f8b529936c92d91de59e9e4cb00bdd11"
+   "url": "https://www.tekedia.com/apple-to-launch-ai-features-in-china-in-december-with-alibabas-qwen-integration/",
+   "url_id": "fb3522a367b05fc72c49f7a46544cbf9"
   },
   {
-   "headline": "Inside OpenAI’s Secret Tests for GPT-6.2 Astra and Its Robotics Rise",
-   "outlet": "WinCentral",
-   "outlet_name": "WinCentral",
-   "label": "STILL OPEN",
-   "url": "https://thewincentral.com/openai-tests-gpt-6-2-astra-robotics-dominance/",
-   "url_id": "be3dccf11b73644ad5fa8f764456f864"
+   "headline": "Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's…",
+   "outlet": "Tom's Hardware",
+   "outlet_name": "Tom's Hardware",
+   "label": "REPORTED",
+   "url": "https://www.tomshardware.com/pc-components/gpus/open-source-usb-tool-unlocks-nvidias-half-speed-gpu-ai-limiter-on-windows-lifts-gpus-fp16-math-performance-up-to-65-percent-uefi-unlocker-covers-rtx-20-30-and-40-series-desktops-and-laptops",
+   "url_id": "9547934ccad042d39e36941391c27585"
   },
   {
-   "headline": "I gave Gemini my cluttered Mac Downloads folder; it sorted files the way I actually search",
-   "outlet": "androidpolice.com",
-   "outlet_name": "androidpolice.com",
+   "headline": "Palantir CTO tells Stratechery he doesn’t regret working with Anthropic",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
    "label": "REPORTED",
-   "url": "https://www.androidpolice.com/i-gave-gemini-cluttered-mac-downloads-folder-sorted-files-i-search/",
-   "url_id": "a66fe51d9bc4913d5e7954ad0c27e852"
+   "url": "https://thenextweb.com/news/palantir-shyam-sankar-anthropic-stuck-in-the-middle-stratechery",
+   "url_id": "8ba970afb03a8a283183a890057d2ecb"
   },
   {
-   "headline": "‘Threats of the first order': Anthropic says rogue AI could ‘pose catastrophic…",
-   "outlet": "reflector.com",
-   "outlet_name": "reflector.com",
+   "headline": "ChatGPT vs Gemini vs Grok vs Claude: Which AI Makes the Best Images in 2026? Blind Tests…",
+   "outlet": "International Business Times Australia",
+   "outlet_name": "International Business Times Australia",
    "label": "REPORTED",
-   "url": "https://www.reflector.com/news/local/threats-of-the-first-order-anthropic-says-rogue-ai-could-pose-catastrophic-existential-risks-to/article_9d9f9f8f-7872-5dc4-86a3-655957656e83.html",
-   "url_id": "1cb8da4905c600cff615a45d41f6a479"
+   "url": "https://www.ibtimes.com.au/chatgpt-gemini-grok-ai-image-generation-rankings-1877674",
+   "url_id": "efce6cf83286b7665fd2b03ee9d390b3"
+  },
+  {
+   "headline": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+   "outlet": "BleepingComputer",
+   "outlet_name": "BleepingComputer",
+   "label": "REPORTED",
+   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+   "url_id": "c6a90b34b076ca1bf023a02e6877e064"
+  },
+  {
+   "headline": "Claude Code now refuses to help build copies of existing games",
+   "outlet": "The Next Web",
+   "outlet_name": "The Next Web",
+   "label": "REPORTED",
+   "url": "https://thenextweb.com/news/claude-code-game-recreation-refusals-developers",
+   "url_id": "1069c85a2f17be9c42c76e8e91cefc7d"
+  },
+  {
+   "headline": "After testing it on 100 photos, Google Photos' new Gemini integration is both good and…",
+   "outlet": "Android Police",
+   "outlet_name": "Android Police",
+   "label": "REPORTED",
+   "url": "https://www.androidpolice.com/after-editing-100-pictures-google-photos-new-gemini-task-integration-good-horrible/",
+   "url_id": "eb09f3a3ad0cfaea594720695845eded"
+  },
+  {
+   "headline": "DeepSeek developing AI agent requiring less human input: Report",
+   "outlet": "TradingView",
+   "outlet_name": "TradingView",
+   "label": "REPORTED",
+   "url": "https://www.tradingview.com/news/cointelegraph:96ef9c57a094b:0-deepseek-developing-ai-agent-requiring-less-human-input-report/",
+   "url_id": "a06c122d3c83b96cdece5f63d5d8c2dd"
+  },
+  {
+   "headline": "Anthropic’s AI independently performed brain surgery on a mouse: Experiment sparks…",
+   "outlet": "Root-Nation.com",
+   "outlet_name": "Root-Nation.com",
+   "label": "REPORTED",
+   "url": "https://root-nation.com/en/news-en/it-news-en/en-anthropic-sonnet-motorized-surgery/",
+   "url_id": "6af0b97e8d945d3f6636b30913bea979"
   }
  ],
  "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7100,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/15.mp3",
- "audio_seconds": 65.8,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/16.mp3",
+ "audio_seconds": 58.9,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek has open-sourced Super-Agent, a coding agent that reads team chats. Reported by The Next Web: the tool aims to reduce human coding coordination with artificial intelligence.\nAnthropic's cofounders pledge 80% of their stock to charity, including employee matching and public good funds. Reported by Business Insider: the company says helping others is core to its mission.\nAnthropic's cofounders pledge 80% of their stock to charity, with employee matching and public good funds. Reported by Business Insider: the company has big plans to give back.\nA user found Gemini helpful for discovering light, personalized shows instead of relying on Netflix's own algorithm. Reported by Android Police: the tool addressed decision paralysis better than Netflix's recommendations.\nOpenAI has raised 11 billion dollars of a 30 billion dollar target. Reported by Pasquale Pillitteri: the company has cut its target to 20 billion dollars.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by BigGo Finance: OpenAI Maps Post-Midterm Policy Push, Including 'Speed Limits' for Advanced AI.\nReported by Yahoo! Finance Canada: Anthropic's US$100 billion IPO could be the biggest ever — here's how Canadian investors can get access.\nStill open, per The News International: Anthropic investors may be missing $150bn warning ahead of IPO.\nReported by Tekedia: Apple to Launch AI Features in China in December With Alibaba’s Qwen Integration.\nReported by Tom's Hardware: Open-source USB tool unlocks Nvidia's half-speed GPU AI limiter on Windows — lifts GPU's FP16 math performance up to 65%, UEFI unlocker covers RTX 20, 30, and 40-series desktops and laptops.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
