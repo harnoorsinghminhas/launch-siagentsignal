@@ -1,167 +1,167 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-01T04:20:03Z",
- "hour": "2026-11-01T05:00:00Z",
+ "generated_at": "2026-11-01T06:20:02Z",
+ "hour": "2026-11-01T07:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Will Make ChatGPT Work and Codex Share One Usage Pool in December",
+   "title": "DeepSeek unveils ‘Super-agent’ design to handle multiple tasks in parallel and improve efficiency",
+   "outlet": "Global Times",
+   "outlet_name": "Global Times",
+   "url": "https://www.globaltimes.cn/page/202611/1373392.shtml",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-11-01T04:37:00Z",
+   "url_id": "8d7fa18567e6b922be829e79b72d7940"
+  },
+  {
+   "title": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+   "label": "REPORTED",
+   "summary_1line": null,
+   "published_at": "2026-11-01T03:48:00Z",
+   "url_id": "6fe33cf577435637a7eebd04603e8d67"
+  },
+  {
+   "title": "Anthropic's Rumored $2 Trillion IPO Value Would Dwarf All of South Korea's Market",
    "outlet": "Startup Fortune",
    "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/openai-will-make-chatgpt-work-and-codex-share-one-usage-pool-in-december/",
+   "url": "https://startupfortune.com/anthropics-rumored-2-trillion-ipo-value-would-dwarf-all-of-south-koreas-market/",
    "label": "REPORTED",
-   "summary_1line": "OpenAI merges ChatGPT and Work into one experience with shared usage limits, effective December.",
-   "published_at": "2026-11-01T01:37:59Z",
-   "url_id": "1850587784e82aad713cac48d1c278ed"
+   "summary_1line": null,
+   "published_at": "2026-11-01T03:38:34Z",
+   "url_id": "3501174d2304487bc9f691fd16604772"
   },
   {
-   "title": "Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them — and tells junior engineers that 'hunger beats tenure'",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-hiring-manager-says-stopped-230500575.html",
+   "title": "OpenAI CEO's Codex keyboard gift to Samsung presidents draws attention",
+   "outlet": "The Korea Times",
+   "outlet_name": "The Korea Times",
+   "url": "https://www.koreatimes.co.kr/business/tech-science/20261101/openai-ceos-codex-keyboard-gift-to-samsung-presidents-draws-attention",
    "label": "REPORTED",
-   "summary_1line": "Anthropic stops coding interviews because Claude codes better than humans.",
-   "published_at": "2026-10-31T23:05:00Z",
-   "url_id": "bb471023ddf6d9f31cdd0d07409e32e8"
+   "summary_1line": null,
+   "published_at": "2026-11-01T05:29:04Z",
+   "url_id": "ef99dbf2a9f003fa3581267367006046"
   },
   {
-   "title": "How AI may drive union-resistant tech workers to the bargaining table",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
-   "label": "CONFIRMED",
-   "summary_1line": "Tech workers unionize over AI-driven job losses and surveillance amid rising worker anxiety.",
-   "published_at": "2026-11-01T00:49:23Z",
-   "url_id": "b88e9492c7911cb657ee262207651602"
-  },
-  {
-   "title": "HD Hyundai Robotics partners with Palantir on AI solutions",
-   "outlet": "Yonhap News Agency",
-   "outlet_name": "Yonhap News Agency",
-   "url": "https://en.yna.co.kr/view/AEN20261101001300320",
+   "title": "Anthropic IPO Critical Minerals AI Supply Chain Risk",
+   "outlet": "Rare Earth Exchanges",
+   "outlet_name": "Rare Earth Exchanges",
+   "url": "https://rareearthexchanges.com/news/anthropic-ipo-ai-critical-minerals/",
    "label": "REPORTED",
-   "summary_1line": "HD Hyundai Robotics partners with Palantir on physical AI for industrial operations.",
-   "published_at": "2026-11-01T02:21:07Z",
-   "url_id": "387a6eea4bcd9c510a2c906b4961489d"
-  },
-  {
-   "title": "Fort Wayne Hosts Mark Cuban AI Bootcamp",
-   "outlet": "WOWO",
-   "outlet_name": "WOWO",
-   "url": "https://wowo.com/fort-wayne-hosts-mark-cuban-ai-bootcamp/",
-   "label": "REPORTED",
-   "summary_1line": "Fort Wayne hosts Mark Cuban's AI Bootcamp with 50 students in first session.",
-   "published_at": "2026-11-01T02:19:11Z",
-   "url_id": "2169bad5590087d5a0721072aac0321f"
+   "summary_1line": null,
+   "published_at": "2026-11-01T05:28:29Z",
+   "url_id": "f5e5ef654af7c7e704534da03319b4b8"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Will Make ChatGPT Work and Codex Share One Usage Pool in December",
+   "headline": "DeepSeek unveils ‘Super-agent’ design to handle multiple tasks in parallel and improve…",
+   "outlet": "Global Times",
+   "outlet_name": "Global Times",
+   "label": "REPORTED",
+   "url": "https://www.globaltimes.cn/page/202611/1373392.shtml",
+   "url_id": "8d7fa18567e6b922be829e79b72d7940"
+  },
+  {
+   "headline": "DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic",
+   "outlet": "Bloomberg.com",
+   "outlet_name": "Bloomberg",
+   "label": "REPORTED",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-01/deepseek-drops-enhanced-coding-agent-with-aim-to-rival-anthropic",
+   "url_id": "6fe33cf577435637a7eebd04603e8d67"
+  },
+  {
+   "headline": "Anthropic's Rumored $2 Trillion IPO Value Would Dwarf All of South Korea's Market",
    "outlet": "Startup Fortune",
    "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://startupfortune.com/openai-will-make-chatgpt-work-and-codex-share-one-usage-pool-in-december/",
-   "url_id": "1850587784e82aad713cac48d1c278ed"
+   "url": "https://startupfortune.com/anthropics-rumored-2-trillion-ipo-value-would-dwarf-all-of-south-koreas-market/",
+   "url_id": "3501174d2304487bc9f691fd16604772"
   },
   {
-   "headline": "Anthropic hiring manager says he stopped giving coding interviews because Claude is…",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
+   "headline": "OpenAI CEO's Codex keyboard gift to Samsung presidents draws attention",
+   "outlet": "The Korea Times",
+   "outlet_name": "The Korea Times",
    "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-hiring-manager-says-stopped-230500575.html",
-   "url_id": "bb471023ddf6d9f31cdd0d07409e32e8"
+   "url": "https://www.koreatimes.co.kr/business/tech-science/20261101/openai-ceos-codex-keyboard-gift-to-samsung-presidents-draws-attention",
+   "url_id": "ef99dbf2a9f003fa3581267367006046"
   },
   {
-   "headline": "How AI may drive union-resistant tech workers to the bargaining table",
-   "outlet": "theguardian.com",
-   "outlet_name": "The Guardian",
-   "label": "CONFIRMED",
-   "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
-   "url_id": "b88e9492c7911cb657ee262207651602"
-  },
-  {
-   "headline": "HD Hyundai Robotics partners with Palantir on AI solutions",
-   "outlet": "Yonhap News Agency",
-   "outlet_name": "Yonhap News Agency",
+   "headline": "Anthropic IPO Critical Minerals AI Supply Chain Risk",
+   "outlet": "Rare Earth Exchanges",
+   "outlet_name": "Rare Earth Exchanges",
    "label": "REPORTED",
-   "url": "https://en.yna.co.kr/view/AEN20261101001300320",
-   "url_id": "387a6eea4bcd9c510a2c906b4961489d"
+   "url": "https://rareearthexchanges.com/news/anthropic-ipo-ai-critical-minerals/",
+   "url_id": "f5e5ef654af7c7e704534da03319b4b8"
   },
   {
-   "headline": "Fort Wayne Hosts Mark Cuban AI Bootcamp",
-   "outlet": "WOWO",
-   "outlet_name": "WOWO",
+   "headline": "Donald Clarke: Grok Imagine’s AI-generated Odyssey has arrived. Be afraid. Be very afraid",
+   "outlet": "The Irish Times",
+   "outlet_name": "The Irish Times",
    "label": "REPORTED",
-   "url": "https://wowo.com/fort-wayne-hosts-mark-cuban-ai-bootcamp/",
-   "url_id": "2169bad5590087d5a0721072aac0321f"
+   "url": "https://www.irishtimes.com/culture/2026/11/01/grok-imagines-ai-generated-odyssey-has-arrived-be-afraid-be-very-afraid/",
+   "url_id": "e312affcf13a869e459ecec31f626f89"
   },
   {
-   "headline": "LH earns NIA AI ethics mark, advances responsible AI across South Korea",
-   "outlet": "Chosunbiz",
-   "outlet_name": "Chosunbiz",
+   "headline": "AI: OpenAI’s ‘Trillion AIs’ Future, as Anthropic Goes Public. AI-RTZ #1257",
+   "outlet": "AI: Reset to Zero",
+   "outlet_name": "AI: Reset to Zero",
    "label": "REPORTED",
-   "url": "https://biz.chosun.com/en/en-realestate/2026/11/01/MIRGNARX7FFNXGXFBBKDWG2V5A/",
-   "url_id": "0a431be769da65aab3ad93a36ee83084"
+   "url": "https://michaelparekh.substack.com/p/ai-openais-trillion-ais-future-as",
+   "url_id": "6040502d253c9afb49c2bf14f6d34278"
   },
   {
-   "headline": "Spewing US election falsehoods, AI chatbots face scrutiny",
-   "outlet": "Yahoo News Singapore",
-   "outlet_name": "Yahoo News Singapore",
+   "headline": "District outlines policy for responsible AI use",
+   "outlet": "Cottage Grove Journal",
+   "outlet_name": "Cottage Grove Journal",
    "label": "REPORTED",
-   "url": "https://sg.news.yahoo.com/spewing-us-election-falsehoods-ai-020256051.html",
-   "url_id": "6ed99badabf14d2bd91a7e5e9a6d0874"
+   "url": "https://www.cottagegrovejournal.news/stories/district-outlines-policy-for-responsible-ai-use,211581",
+   "url_id": "64ca80702d6845f3c52f52b486fb26c0"
   },
   {
-   "headline": "When AI Finds Bugs Faster Than The World Can Fix Them – Analysis",
-   "outlet": "Eurasia Review",
-   "outlet_name": "Eurasia Review",
+   "headline": "Anthropic expands AI support for nonprofits as it files to sell shares to the public",
+   "outlet": "Texarkana Gazette",
+   "outlet_name": "Texarkana Gazette",
    "label": "REPORTED",
-   "url": "https://www.eurasiareview.com/01112026-when-ai-finds-bugs-faster-than-the-world-can-fix-them-analysis/",
-   "url_id": "bc548c0cf530963a1b1615190639cf8c"
+   "url": "https://www.texarkanagazette.com/news/2026/oct/31/anthropic-expands-ai-support-for-nonprofits-as-it/",
+   "url_id": "765d13c0e6903196ca1c52ecccea9c8f"
   },
   {
-   "headline": "Anthropic’s $80.7B Loss Meets Shaky Partners [2026]",
+   "headline": "DeepSeek open sources Super-Agent as a research prototype, a proactive coding agent it…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
+   "label": "REPORTED",
+   "url": "https://www.techmeme.com/261101/p2#a261101p2",
+   "url_id": "55abe52dfc3f538cb438418c768fe73f"
+  },
+  {
+   "headline": "Anthropic IPO Valuation Slips to $1.5T From $2T [2026]",
    "outlet": "shattered.io",
    "outlet_name": "shattered.io",
-   "label": "STILL OPEN",
-   "url": "https://shattered.io/anthropic-ipo-partner-struggles-80-7b-loss-ant-2026/",
-   "url_id": "366da0534dc6babb6b2a9530bb509702"
-  },
-  {
-   "headline": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
-   "outlet": "CNBC on MSN",
-   "outlet_name": "CNBC on MSN",
-   "label": "STILL OPEN",
-   "url": "https://www.msn.com/en-us/money/markets/openai-pares-fundraising-goal-now-seeking-up-to-20-billion-in-latest-round/ar-AA2gu8g0",
-   "url_id": "223db20327a7e0f0d25d969ab408c969"
-  },
-  {
-   "headline": "Someone used Claude to root an Amazon Echo Dot and turn it into a Home Assistant satellite",
-   "outlet": "xda-developers.com",
-   "outlet_name": "xda-developers.com",
    "label": "REPORTED",
-   "url": "https://www.xda-developers.com/someone-used-claude-to-root-an-amazon-echo-dot-and-turn-it-into-a-home-assistant-satellite/",
-   "url_id": "703541352be527a23b3b27f098af3964"
+   "url": "https://shattered.io/anthropic-ipo-valuation-1-5-trillion-big-tech-ai-spending-2026/",
+   "url_id": "aaaefb4b38c7a3d43c636d02ac27df70"
   },
   {
-   "headline": "Apple integrates Alibaba's AI model into its iOS system in China.",
-   "outlet": "Vietnam.vn",
-   "outlet_name": "Vietnam.vn",
+   "headline": "Enterprise voice AI tools provider Deepgram acquires Daily, which has raised $62M+ and…",
+   "outlet": "techmeme.com",
+   "outlet_name": "techmeme.com",
    "label": "REPORTED",
-   "url": "https://www.vietnam.vn/en/apple-tich-hop-mo-hinh-ai-cua-alibaba-vao-he-thong-ios-tai-trung-quoc",
-   "url_id": "b9a7882355c214f3e6af5be7e3191638"
+   "url": "https://www.techmeme.com/261101/p3#a261101p3",
+   "url_id": "5581e77302239e531cb75100004c9e50"
   }
  ],
  "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 7300,
+ "articles_24h_rounded": 7200,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/05.mp3",
- "audio_seconds": 46.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/07.mp3",
+ "audio_seconds": 47.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Startup Fortune: OpenAI Will Make ChatGPT Work and Codex Share One Usage Pool in December.\nReported by Yahoo Tech: Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them — and tells junior engineers that 'hunger beats tenure'.\nConfirmed, per The Guardian: How AI may drive union-resistant tech workers to the bargaining table.\nReported by Yonhap News Agency: HD Hyundai Robotics partners with Palantir on AI solutions.\nReported by WOWO: Fort Wayne Hosts Mark Cuban AI Bootcamp.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Global Times: DeepSeek unveils ‘Super-agent’ design to handle multiple tasks in parallel and improve efficiency.\nReported by Bloomberg: DeepSeek Drops Enhanced Coding Agent With Aim to Rival Anthropic.\nReported by Startup Fortune: Anthropic's Rumored $2 Trillion IPO Value Would Dwarf All of South Korea's Market.\nReported by The Korea Times: OpenAI CEO's Codex keyboard gift to Samsung presidents draws attention.\nReported by Rare Earth Exchanges: Anthropic IPO Critical Minerals AI Supply Chain Risk.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
