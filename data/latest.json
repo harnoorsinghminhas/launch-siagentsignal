@@ -1,109 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-01T01:20:02Z",
- "hour": "2026-11-01T02:00:00Z",
+ "generated_at": "2026-11-01T02:20:20Z",
+ "hour": "2026-11-01T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Wellesley to host off-campus AI summit featuring Anthropic president, other prominent leaders",
-   "outlet": "The Wellesley News",
-   "outlet_name": "The Wellesley News",
-   "url": "https://thewellesleynews.com/24326/news-investigation/wellesley-to-host-off-campus-ai-summit-featuring-anthropic-president-other-prominent-leaders/",
-   "label": "REPORTED",
-   "summary_1line": "Wellesley hosts AI-focused event with leaders from education, tech and government.",
-   "published_at": "2026-10-31T23:05:05Z",
-   "url_id": "9d68a8027319022072a7f743f7dc0eb2"
-  },
-  {
-   "title": "NotebookLM's AI podcasts were my favorite way to study, but ChatGPT Dots might change that",
-   "outlet": "XDA",
-   "outlet_name": "XDA",
-   "url": "https://www.xda-developers.com/notebooklms-ai-podcasts-replaced-by-chatgpt-dots/",
-   "label": "REPORTED",
-   "summary_1line": "User finds ChatGPT Dots superior to NotebookLM for interactive, context-aware study conversations.",
-   "published_at": "2026-10-31T23:00:20Z",
-   "url_id": "2c2e28bb31ce1415777870dad2133fe4"
-  },
-  {
-   "title": "OpenAI tightens ChatGPT’s limits on weapons and past mass attacks",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/chatgpt-teen-safety-weapons-limits-community-safety-report",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI limits teen ChatGPT access to weapons info and attack details, with report in early 2027.",
-   "published_at": "2026-10-31T21:00:39Z",
-   "url_id": "d9ae9bb921ced88bb83fd7fa1c2000a8"
-  },
-  {
-   "title": "Twenty House Democrats press OpenAI over fired safety researchers",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/openai-whistleblowers-house-democrats-casar-letter",
-   "label": "REPORTED",
-   "summary_1line": "Democrats urge OpenAI to protect whistleblowers and pause high-capability models amid safety concerns.",
-   "published_at": "2026-10-31T20:55:45Z",
-   "url_id": "68d7df0eead8c1befee271a96097be1d"
-  },
-  {
-   "title": "Anthropic's Nasdaq Debut Shifts AI Investment Strategies",
-   "outlet": "조선일보",
-   "outlet_name": "조선일보",
-   "url": "https://www.chosun.com/english/market-money-en/2026/11/01/36SFF2VRZFHXLIXYSVQXLJCUTI/",
+   "title": "Judge Lets NAACP's Pollution Lawsuit Against Elon Musk's xAI Proceed",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
+   "url": "https://startupfortune.com/judge-lets-naacps-pollution-lawsuit-against-elon-musks-xai-proceed/",
    "label": "REPORTED",
    "summary_1line": null,
-   "published_at": "2026-10-31T23:40:07Z",
-   "url_id": "10cb1e059868e555068d3ce42d013bea"
+   "published_at": "2026-10-31T21:42:07Z",
+   "url_id": "6314ccde94a46ce52ea080ff3cfe64dd"
+  },
+  {
+   "title": "Anthropic is going after the rise of vibe-coded game ports with new Claude Code restrictions",
+   "outlet": "TweakTown",
+   "outlet_name": "TweakTown",
+   "url": "https://www.tweaktown.com/news/114429/anthropic-is-going-after-the-rise-of-vibe-coded-game-ports-with-new-claude-code-restrictions/index.html",
+   "label": "REPORTED",
+   "summary_1line": "Claude Code blocks game recreations, limiting AI-assisted ports and reverse-engineering.",
+   "published_at": "2026-10-31T19:40:13Z",
+   "url_id": "41c3d0fb487d5faa59da4b4944b129d0"
+  },
+  {
+   "title": "Alibaba's Qwen AI model to integrate into Apple Intelligence in landmark partnership",
+   "outlet": "The Peninsula Qatar",
+   "outlet_name": "The Peninsula Qatar",
+   "url": "https://thepeninsulaqatar.com/article/31/10/2026/alibabas-qwen-ai-model-to-integrate-into-apple-intelligence-in-landmark-partnership",
+   "label": "REPORTED",
+   "summary_1line": "Alibaba's Qwen AI joins Apple Intelligence for Chinese users in December.",
+   "published_at": "2026-10-31T17:52:13Z",
+   "url_id": "df65fa6b6edbfe3a46211839c42a502a"
+  },
+  {
+   "title": "Anthropic IPO: 1,300% Growth, $16.3 Billion in Revenue, and an $80.7 Billion Loss. Here Are the Numbers to Watch.",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
+   "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-ipo-1-300-growth-162800297.html",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic reports $16.3B revenue and $80.7B loss in H1 2026, with $974M operating profit in Q2.",
+   "published_at": "2026-10-31T16:28:00Z",
+   "url_id": "1e3a0ac45ed7a0ace99eb2be00cc115d"
+  },
+  {
+   "title": "xAI adds invisible text watermarking to Grok API models",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "url": "https://cryptobriefing.com/xai-grok-text-watermarking-api/",
+   "label": "REPORTED",
+   "summary_1line": "xAI adds invisible watermark to Grok API, leaving ChatGPT as only North American model without it.",
+   "published_at": "2026-10-31T15:16:00Z",
+   "url_id": "4320e81331d399488fc802c2b96d0f9b"
   }
  ],
  "ticker": [
   {
-   "headline": "Wellesley to host off-campus AI summit featuring Anthropic president, other prominent…",
-   "outlet": "The Wellesley News",
-   "outlet_name": "The Wellesley News",
+   "headline": "Judge Lets NAACP's Pollution Lawsuit Against Elon Musk's xAI Proceed",
+   "outlet": "Startup Fortune",
+   "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://thewellesleynews.com/24326/news-investigation/wellesley-to-host-off-campus-ai-summit-featuring-anthropic-president-other-prominent-leaders/",
-   "url_id": "9d68a8027319022072a7f743f7dc0eb2"
-  },
-  {
-   "headline": "NotebookLM's AI podcasts were my favorite way to study, but ChatGPT Dots might change that",
-   "outlet": "XDA",
-   "outlet_name": "XDA",
-   "label": "REPORTED",
-   "url": "https://www.xda-developers.com/notebooklms-ai-podcasts-replaced-by-chatgpt-dots/",
-   "url_id": "2c2e28bb31ce1415777870dad2133fe4"
-  },
-  {
-   "headline": "OpenAI tightens ChatGPT’s limits on weapons and past mass attacks",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "REPORTED",
-   "url": "https://thenextweb.com/news/chatgpt-teen-safety-weapons-limits-community-safety-report",
-   "url_id": "d9ae9bb921ced88bb83fd7fa1c2000a8"
-  },
-  {
-   "headline": "Twenty House Democrats press OpenAI over fired safety researchers",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "label": "REPORTED",
-   "url": "https://thenextweb.com/news/openai-whistleblowers-house-democrats-casar-letter",
-   "url_id": "68d7df0eead8c1befee271a96097be1d"
-  },
-  {
-   "headline": "Anthropic's Nasdaq Debut Shifts AI Investment Strategies",
-   "outlet": "조선일보",
-   "outlet_name": "조선일보",
-   "label": "REPORTED",
-   "url": "https://www.chosun.com/english/market-money-en/2026/11/01/36SFF2VRZFHXLIXYSVQXLJCUTI/",
-   "url_id": "10cb1e059868e555068d3ce42d013bea"
-  },
-  {
-   "headline": "ChatGPT and Codex Will Share One Usage Allowance in December",
-   "outlet": "FourWeekMBA",
-   "outlet_name": "FourWeekMBA",
-   "label": "REPORTED",
-   "url": "https://fourweekmba.com/ai-chatgpt-and-codex-will-share-one-usage-allowance-in-december/",
-   "url_id": "45926ac29bc6edca0dc4ebed85c286df"
+   "url": "https://startupfortune.com/judge-lets-naacps-pollution-lawsuit-against-elon-musks-xai-proceed/",
+   "url_id": "6314ccde94a46ce52ea080ff3cfe64dd"
   },
   {
    "headline": "Anthropic is going after the rise of vibe-coded game ports with new Claude Code…",
@@ -130,12 +90,36 @@
    "url_id": "1e3a0ac45ed7a0ace99eb2be00cc115d"
   },
   {
+   "headline": "xAI adds invisible text watermarking to Grok API models",
+   "outlet": "Crypto Briefing",
+   "outlet_name": "Crypto Briefing",
+   "label": "REPORTED",
+   "url": "https://cryptobriefing.com/xai-grok-text-watermarking-api/",
+   "url_id": "4320e81331d399488fc802c2b96d0f9b"
+  },
+  {
    "headline": "Anthropic hiring manager says he stopped giving coding interviews because Claude is…",
    "outlet": "TechRadar",
    "outlet_name": "TechRadar",
    "label": "REPORTED",
    "url": "https://www.techradar.com/pro/anthropic-hiring-manager-says-he-stopped-giving-coding-interviews-because-claude-is-better-at-them-and-tells-junior-engineers-that-hunger-beats-tenure",
    "url_id": "cf94a127ea5a9d0f9c88195543d45092"
+  },
+  {
+   "headline": "Bowen Wan’s Parents Say ChatGPT Planned Her Withdrawal From Epilepsy Medication and Told…",
+   "outlet": "Thought Catalog",
+   "outlet_name": "Thought Catalog",
+   "label": "STILL OPEN",
+   "url": "https://thoughtcatalog.com/jeremy-london/2026/10/bowen-wans-parents-say-chatgpt-planned-her-withdrawal-from-epilepsy-medication-and-told-her-to-hide-it-from-her-doctor/",
+   "url_id": "ed84afb24355e79f996c616225862473"
+  },
+  {
+   "headline": "1 Big Winner and 1 Loser From the Upcoming Anthropic IPO",
+   "outlet": "Yahoo Finance",
+   "outlet_name": "Yahoo Finance",
+   "label": "REPORTED",
+   "url": "https://finance.yahoo.com/technology/ai/articles/1-big-winner-1-loser-230502274.html",
+   "url_id": "c8f2e4483eff45e01cc5553c322f686f"
   },
   {
    "headline": "I stopped juggling Claude Code, Codex, and other coding agents after finding this…",
@@ -152,16 +136,32 @@
    "label": "REPORTED",
    "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
    "url_id": "785d4ceb71a807a6705cd46d36b499b3"
+  },
+  {
+   "headline": "Anthropic's Frenemies Meta and Google Are Showing Cracks In the AI Trade. What That Tells…",
+   "outlet": "Barchart.com",
+   "outlet_name": "Barchart.com",
+   "label": "REPORTED",
+   "url": "https://www.barchart.com/story/news/8577768/anthropic-s-frenemies-meta-and-google-are-showing-cracks-in-the-ai-trade-what-that-tells-us-about-the-anthropic-ipo",
+   "url_id": "7daa7383c786b62744e1ebfd5c770ef2"
+  },
+  {
+   "headline": "OpenAI, Google, Microsoft and Anthropic back a shared AI-scraping opt-out",
+   "outlet": "Mezha.net",
+   "outlet_name": "Mezha.net",
+   "label": "REPORTED",
+   "url": "https://mezha.net/eng/news/mezha-af14fa00446d6e59417473eb_openai-_google-_microsoft/",
+   "url_id": "7f6a36a9ae50a6acba0b13057ee1d2a5"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from four different outlets.",
- "articles_24h_rounded": 7400,
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 7300,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/02.mp3",
- "audio_seconds": 79.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/03.mp3",
+ "audio_seconds": 54.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nWellesley hosts an artificial intelligence focused event with leaders from education, tech and government. Reported by The Wellesley News: Wellesley to host off-campus artificial intelligence summit featuring Anthropic president and other prominent leaders.\nA user finds ChatGPT Dots superior to NotebookLM for interactive, context-aware study conversations. Reported by XDA: NotebookLM's artificial intelligence podcasts were a favorite way to study, but ChatGPT Dots might change that.\nOpenAI limits teen ChatGPT access to weapons information and attack details, with a report coming in early 2027. Reported by The Next Web: OpenAI tightens ChatGPT's limits on weapons and past mass attacks.\nDemocrats urge OpenAI to protect whistleblowers and pause high-capability models amid safety concerns. Reported by The Next Web: Twenty House Democrats press OpenAI over fired safety researchers.\nAnthropic's Nasdaq debut shifts artificial intelligence investment strategies. Reported by 조선일보: Anthropic's Nasdaq Debut Shifts artificial intelligence Investment Strategies.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Startup Fortune: Judge Lets NAACP's Pollution Lawsuit Against Elon Musk's xAI Proceed.\nReported by TweakTown: Anthropic is going after the rise of vibe-coded game ports with new Claude Code restrictions.\nReported by The Peninsula Qatar: Alibaba's Qwen AI model to integrate into Apple Intelligence in landmark partnership.\nReported by Yahoo Finance: Anthropic IPO: 1,300% Growth, $16.3 Billion in Revenue, and an $80.7 Billion Loss. Here Are the Numbers to Watch.\nReported by Crypto Briefing: xAI adds invisible text watermarking to Grok API models.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
