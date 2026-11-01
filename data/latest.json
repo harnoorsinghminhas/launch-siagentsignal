@@ -1,101 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-01T03:20:02Z",
- "hour": "2026-11-01T04:00:00Z",
+ "generated_at": "2026-11-01T04:20:03Z",
+ "hour": "2026-11-01T05:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Anthropic sued for allegedly using Elvis Presley’s music to train Claude AI",
-   "outlet": "The Star",
-   "outlet_name": "The Star",
-   "url": "https://www.thestar.com.my/tech/tech-news/2026/11/01/anthropic-sued-for-allegedly-using-elvis-presleys-music-to-train-claude-ai",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic sued over using Elvis Presley songs to train AI models.",
-   "published_at": "2026-11-01T02:00:00Z",
-   "url_id": "977a038cb46dfda5cbad16878b7f6c66"
-  },
-  {
-   "title": "DeepSeek Open Sources the Architecture Behind Its Super-Agent",
+   "title": "OpenAI Will Make ChatGPT Work and Codex Share One Usage Pool in December",
    "outlet": "Startup Fortune",
    "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/deepseek-open-sources-the-architecture-behind-its-super-agent/",
+   "url": "https://startupfortune.com/openai-will-make-chatgpt-work-and-codex-share-one-usage-pool-in-december/",
    "label": "REPORTED",
-   "summary_1line": "DeepSeek releases open-source coding agent prototype for research, not production use.",
-   "published_at": "2026-11-01T00:18:27Z",
-   "url_id": "7ae79fa7e63f017ff50f5967409e05f0"
+   "summary_1line": "OpenAI merges ChatGPT and Work into one experience with shared usage limits, effective December.",
+   "published_at": "2026-11-01T01:37:59Z",
+   "url_id": "1850587784e82aad713cac48d1c278ed"
   },
   {
-   "title": "I stopped juggling Claude Code, Codex, and other coding agents after finding this open-source app",
-   "outlet": "XDA",
-   "outlet_name": "XDA",
-   "url": "https://www.xda-developers.com/stopped-juggling-claude-code-codex-other-coding-agents-after-finding-open-source-app/",
-   "label": "REPORTED",
-   "summary_1line": "Orca unifies AI coding agents in one open-source workspace.",
-   "published_at": "2026-10-31T23:31:52Z",
-   "url_id": "2ec8fd6e3256e1843117d57afa591100"
-  },
-  {
-   "title": "Anthropic IPO filing warns AI risks may be uninsurable",
-   "outlet": "B2B News",
-   "outlet_name": "B2B News",
-   "url": "https://b2bnews.co.nz/news/anthropic-ipo-filing-warns-ai-risks-may-be-uninsurable/",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic's IPO prospectus warns of AI risks, with 93 pages of dangers and $11.6B sales, urging NZ firms to treat AI as a material risk.",
-   "published_at": "2026-11-01T01:44:05Z",
-   "url_id": "693b5d365100febf76aed7f71d5d102d"
-  },
-  {
-   "title": "OpenAI now lets you text your ChatGPT Dot agent to get things done",
+   "title": "Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them — and tells junior engineers that 'hunger beats tenure'",
    "outlet": "Yahoo Tech",
    "outlet_name": "Yahoo Tech",
-   "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-now-lets-text-chatgpt-010639985.html",
+   "url": "https://tech.yahoo.com/ai/claude/articles/anthropic-hiring-manager-says-stopped-230500575.html",
    "label": "REPORTED",
-   "summary_1line": "OpenAI lets ChatGPT Pro users text Dot agent for tasks and updates in US via iMessage and RCS.",
-   "published_at": "2026-11-01T01:06:00Z",
-   "url_id": "1b163ff3aff16137019ab215d37f08fd"
+   "summary_1line": "Anthropic stops coding interviews because Claude codes better than humans.",
+   "published_at": "2026-10-31T23:05:00Z",
+   "url_id": "bb471023ddf6d9f31cdd0d07409e32e8"
+  },
+  {
+   "title": "How AI may drive union-resistant tech workers to the bargaining table",
+   "outlet": "theguardian.com",
+   "outlet_name": "The Guardian",
+   "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
+   "label": "CONFIRMED",
+   "summary_1line": "Tech workers unionize over AI-driven job losses and surveillance amid rising worker anxiety.",
+   "published_at": "2026-11-01T00:49:23Z",
+   "url_id": "b88e9492c7911cb657ee262207651602"
+  },
+  {
+   "title": "HD Hyundai Robotics partners with Palantir on AI solutions",
+   "outlet": "Yonhap News Agency",
+   "outlet_name": "Yonhap News Agency",
+   "url": "https://en.yna.co.kr/view/AEN20261101001300320",
+   "label": "REPORTED",
+   "summary_1line": "HD Hyundai Robotics partners with Palantir on physical AI for industrial operations.",
+   "published_at": "2026-11-01T02:21:07Z",
+   "url_id": "387a6eea4bcd9c510a2c906b4961489d"
+  },
+  {
+   "title": "Fort Wayne Hosts Mark Cuban AI Bootcamp",
+   "outlet": "WOWO",
+   "outlet_name": "WOWO",
+   "url": "https://wowo.com/fort-wayne-hosts-mark-cuban-ai-bootcamp/",
+   "label": "REPORTED",
+   "summary_1line": "Fort Wayne hosts Mark Cuban's AI Bootcamp with 50 students in first session.",
+   "published_at": "2026-11-01T02:19:11Z",
+   "url_id": "2169bad5590087d5a0721072aac0321f"
   }
  ],
  "ticker": [
   {
-   "headline": "Anthropic sued for allegedly using Elvis Presley’s music to train Claude AI",
-   "outlet": "The Star",
-   "outlet_name": "The Star",
-   "label": "REPORTED",
-   "url": "https://www.thestar.com.my/tech/tech-news/2026/11/01/anthropic-sued-for-allegedly-using-elvis-presleys-music-to-train-claude-ai",
-   "url_id": "977a038cb46dfda5cbad16878b7f6c66"
-  },
-  {
-   "headline": "DeepSeek Open Sources the Architecture Behind Its Super-Agent",
+   "headline": "OpenAI Will Make ChatGPT Work and Codex Share One Usage Pool in December",
    "outlet": "Startup Fortune",
    "outlet_name": "Startup Fortune",
    "label": "REPORTED",
-   "url": "https://startupfortune.com/deepseek-open-sources-the-architecture-behind-its-super-agent/",
-   "url_id": "7ae79fa7e63f017ff50f5967409e05f0"
-  },
-  {
-   "headline": "I stopped juggling Claude Code, Codex, and other coding agents after finding this…",
-   "outlet": "XDA",
-   "outlet_name": "XDA",
-   "label": "REPORTED",
-   "url": "https://www.xda-developers.com/stopped-juggling-claude-code-codex-other-coding-agents-after-finding-open-source-app/",
-   "url_id": "2ec8fd6e3256e1843117d57afa591100"
-  },
-  {
-   "headline": "Anthropic IPO filing warns AI risks may be uninsurable",
-   "outlet": "B2B News",
-   "outlet_name": "B2B News",
-   "label": "REPORTED",
-   "url": "https://b2bnews.co.nz/news/anthropic-ipo-filing-warns-ai-risks-may-be-uninsurable/",
-   "url_id": "693b5d365100febf76aed7f71d5d102d"
-  },
-  {
-   "headline": "OpenAI now lets you text your ChatGPT Dot agent to get things done",
-   "outlet": "Yahoo Tech",
-   "outlet_name": "Yahoo Tech",
-   "label": "REPORTED",
-   "url": "https://tech.yahoo.com/ai/chatgpt/articles/openai-now-lets-text-chatgpt-010639985.html",
-   "url_id": "1b163ff3aff16137019ab215d37f08fd"
+   "url": "https://startupfortune.com/openai-will-make-chatgpt-work-and-codex-share-one-usage-pool-in-december/",
+   "url_id": "1850587784e82aad713cac48d1c278ed"
   },
   {
    "headline": "Anthropic hiring manager says he stopped giving coding interviews because Claude is…",
@@ -112,14 +80,6 @@
    "label": "CONFIRMED",
    "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
    "url_id": "b88e9492c7911cb657ee262207651602"
-  },
-  {
-   "headline": "OpenAI to merge ChatGPT and Codex token allowances in December 2026",
-   "outlet": "Crypto Briefing",
-   "outlet_name": "Crypto Briefing",
-   "label": "REPORTED",
-   "url": "https://cryptobriefing.com/openai-unifies-chatgpt-codex-token-allowance/",
-   "url_id": "9880f19f194b311a344afde5a2d414eb"
   },
   {
    "headline": "HD Hyundai Robotics partners with Palantir on AI solutions",
@@ -146,22 +106,62 @@
    "url_id": "0a431be769da65aab3ad93a36ee83084"
   },
   {
+   "headline": "Spewing US election falsehoods, AI chatbots face scrutiny",
+   "outlet": "Yahoo News Singapore",
+   "outlet_name": "Yahoo News Singapore",
+   "label": "REPORTED",
+   "url": "https://sg.news.yahoo.com/spewing-us-election-falsehoods-ai-020256051.html",
+   "url_id": "6ed99badabf14d2bd91a7e5e9a6d0874"
+  },
+  {
+   "headline": "When AI Finds Bugs Faster Than The World Can Fix Them – Analysis",
+   "outlet": "Eurasia Review",
+   "outlet_name": "Eurasia Review",
+   "label": "REPORTED",
+   "url": "https://www.eurasiareview.com/01112026-when-ai-finds-bugs-faster-than-the-world-can-fix-them-analysis/",
+   "url_id": "bc548c0cf530963a1b1615190639cf8c"
+  },
+  {
    "headline": "Anthropic’s $80.7B Loss Meets Shaky Partners [2026]",
    "outlet": "shattered.io",
    "outlet_name": "shattered.io",
    "label": "STILL OPEN",
    "url": "https://shattered.io/anthropic-ipo-partner-struggles-80-7b-loss-ant-2026/",
    "url_id": "366da0534dc6babb6b2a9530bb509702"
+  },
+  {
+   "headline": "OpenAI pares fundraising goal, now seeking up to $20 billion in latest round",
+   "outlet": "CNBC on MSN",
+   "outlet_name": "CNBC on MSN",
+   "label": "STILL OPEN",
+   "url": "https://www.msn.com/en-us/money/markets/openai-pares-fundraising-goal-now-seeking-up-to-20-billion-in-latest-round/ar-AA2gu8g0",
+   "url_id": "223db20327a7e0f0d25d969ab408c969"
+  },
+  {
+   "headline": "Someone used Claude to root an Amazon Echo Dot and turn it into a Home Assistant satellite",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
+   "label": "REPORTED",
+   "url": "https://www.xda-developers.com/someone-used-claude-to-root-an-amazon-echo-dot-and-turn-it-into-a-home-assistant-satellite/",
+   "url_id": "703541352be527a23b3b27f098af3964"
+  },
+  {
+   "headline": "Apple integrates Alibaba's AI model into its iOS system in China.",
+   "outlet": "Vietnam.vn",
+   "outlet_name": "Vietnam.vn",
+   "label": "REPORTED",
+   "url": "https://www.vietnam.vn/en/apple-tich-hop-mo-hinh-ai-cua-alibaba-vao-he-thong-ios-tai-trung-quoc",
+   "url_id": "b9a7882355c214f3e6af5be7e3191638"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7300,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/04.mp3",
- "audio_seconds": 57.1,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/05.mp3",
+ "audio_seconds": 46.1,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic faces a lawsuit over allegedly using Elvis Presley songs to train Claude. The Star reported this claim.\nDeepSeek has open sourced the architecture behind its super agent coding prototype for research purposes. Startup Fortune reported the release.\nOrca unifies multiple artificial intelligence coding agents into one open source workspace application. XDA reported on this tool.\nAnthropic's IPO prospectus warns of artificial intelligence risks, with 93 pages of dangers and 11.6B in sales. B2B News reported these warnings.\nOpenAI now allows ChatGPT Pro users to text their Dot agent for tasks and updates in the US. Yahoo Tech reported this feature.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Startup Fortune: OpenAI Will Make ChatGPT Work and Codex Share One Usage Pool in December.\nReported by Yahoo Tech: Anthropic hiring manager says he stopped giving coding interviews because Claude is better at them — and tells junior engineers that 'hunger beats tenure'.\nConfirmed, per The Guardian: How AI may drive union-resistant tech workers to the bargaining table.\nReported by Yonhap News Agency: HD Hyundai Robotics partners with Palantir on AI solutions.\nReported by WOWO: Fort Wayne Hosts Mark Cuban AI Bootcamp.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
