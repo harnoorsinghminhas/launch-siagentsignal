@@ -1,102 +1,62 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-01T19:20:02Z",
- "hour": "2026-11-01T20:00:00Z",
+ "generated_at": "2026-11-01T20:28:25Z",
+ "hour": "2026-11-01T21:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "‘I don't save for retirement now’: Former Google AI expert's alarming warning about artificial intelligence",
-   "outlet": "Livemint",
-   "outlet_name": "Livemint",
-   "url": "https://www.livemint.com/ai/i-dont-save-for-retirement-now-former-google-ai-experts-alarming-warning-about-artificial-intelligence-11793555055999.html",
+   "title": "Anthropic expands text watermarking to older Claude versions beginning November 3",
+   "outlet": "Mashable",
+   "outlet_name": "Mashable",
+   "url": "https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions",
    "label": "REPORTED",
-   "summary_1line": "Nate Soares warns AI could end humanity in a decade and stopped saving for retirement.",
-   "published_at": "2026-11-01T18:16:35Z",
-   "url_id": "31a844c442af16d414306277eaa7ad6c"
+   "summary_1line": "Anthropic rolls out AI watermarking to older Claude versions on November 3.",
+   "published_at": "2026-11-01T17:15:00Z",
+   "url_id": "9d2309ff389c7c55d5c638cd1bff2bbf"
   },
   {
-   "title": "Elvis Presley vs. Anthropic: Klage wegen KI-Training",
-   "outlet": "t3n",
-   "outlet_name": "t3n",
-   "url": "https://t3n.de/news/elvis-presley-klage-anthropic-ki-training-1769888/",
+   "title": "Anthropic Adds Rule to Stop Claude Code From Recreating Existing Games",
+   "outlet": "Business Upturn",
+   "outlet_name": "Business Upturn",
+   "url": "https://www.businessupturn.com/technology/anthropic-adds-rule-to-stop-claude-code-from-recreating-existing-games/",
    "label": "REPORTED",
-   "summary_1line": "Elvis Presley's rights holders sue Anthropic over training AI on 270 songs without consent.",
-   "published_at": "2026-11-01T18:10:00Z",
-   "url_id": "9d8883ed91ebecc5fc92178029a1bc2c"
+   "summary_1line": "Anthropic bans Claude Code from recreating existing games to avoid IP infringement.",
+   "published_at": "2026-11-01T17:10:07Z",
+   "url_id": "17c75a358544fbbb4561c9b52786a174"
   },
   {
-   "title": "Musk and Brin Say OpenAI’s Brockman Asked Them for Compute",
-   "outlet": "FourWeekMBA",
-   "outlet_name": "FourWeekMBA",
-   "url": "https://fourweekmba.com/ai-musk-and-brin-say-openais-brockman-asked-them-for-compute/",
+   "title": "Anthropic asks investors to trust it won’t do evil",
+   "outlet": "Jenny Ruth's Just the Business",
+   "outlet_name": "Jenny Ruth's Just the Business",
+   "url": "https://justthebusinessjennyruth.substack.com/p/anthropic-asks-investors-to-trust",
    "label": "REPORTED",
-   "summary_1line": "Musk and Brin say Brockman asked for compute; Musk calls memory shortage the worst supply chain shock.",
-   "published_at": "2026-11-01T17:54:38Z",
-   "url_id": "c1ee75895c6ed85fa27f098c05fe2a77"
+   "summary_1line": "Anthropic reports $16.29B revenue and $131.7B cash, preparing for IPO with strong growth and public good commitments.",
+   "published_at": "2026-11-01T17:02:44Z",
+   "url_id": "ef98c6c7b7b727f6b7f29ea28643f88b"
   },
   {
-   "title": "Anthropic is stopping Claude from copying existing video games: Here’s why",
-   "outlet": "The News International",
-   "outlet_name": "The News International",
-   "url": "https://www.thenews.com.pk/latest/1422138-anthropic-is-stopping-claude-from-copying-existing-video-games-heres-why",
+   "title": "OpenAI Slashes Funding Round by a Third as AI Demand Cools",
+   "outlet": "the deep dive",
+   "outlet_name": "the deep dive",
+   "url": "https://thedeepdive.ca/openai-slashes-funding-round-by-a-third-as-ai-demand-cools/",
    "label": "REPORTED",
-   "summary_1line": "Anthropic bans Claude from copying video games to prevent intellectual property violations.",
-   "published_at": "2026-11-01T17:42:20Z",
-   "url_id": "5f5fe555f08620fd7be80c464c9c7521"
+   "summary_1line": "OpenAI cuts funding target to $1.25T amid weak investor interest and market fatigue.",
+   "published_at": "2026-11-01T16:59:41Z",
+   "url_id": "3072c187a1ab9b92f7584920159bb568"
   },
   {
-   "title": "Google, Microsoft, OpenAI Plan To Honor Shared robots.txt AI Training Opt-Out: how 8 outlets framed it",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
-   "url": "https://newscord.org/article/google-microsoft-openai-plan-to-honor-shared-robotstxt-ai-training-opt-out--Story_20261101_f0ed93dd",
+   "title": "DeepSeek Open-Sources Super-Agent, an AI Coding Agent for Software Teams",
+   "outlet": "Business Upturn",
+   "outlet_name": "Business Upturn",
+   "url": "https://businessupturn.com/technology/deepseek-open-sources-super-agent-an-ai-coding-agent-for-software-teams/",
    "label": "REPORTED",
-   "summary_1line": "AI firms agree on shared robots.txt opt-out for AI training, rolling out in 2027.",
-   "published_at": "2026-11-01T17:25:08Z",
-   "url_id": "4da69f11f50980b52fa06e328d448fba"
+   "summary_1line": null,
+   "published_at": "2026-11-01T18:15:15Z",
+   "url_id": "02ec86b0a41aab97074f4f7bf5e6e503"
   }
  ],
  "ticker": [
-  {
-   "headline": "‘I don't save for retirement now’: Former Google AI expert's alarming warning about…",
-   "outlet": "Livemint",
-   "outlet_name": "Livemint",
-   "label": "REPORTED",
-   "url": "https://www.livemint.com/ai/i-dont-save-for-retirement-now-former-google-ai-experts-alarming-warning-about-artificial-intelligence-11793555055999.html",
-   "url_id": "31a844c442af16d414306277eaa7ad6c"
-  },
-  {
-   "headline": "Elvis Presley vs. Anthropic: Klage wegen KI-Training",
-   "outlet": "t3n",
-   "outlet_name": "t3n",
-   "label": "REPORTED",
-   "url": "https://t3n.de/news/elvis-presley-klage-anthropic-ki-training-1769888/",
-   "url_id": "9d8883ed91ebecc5fc92178029a1bc2c"
-  },
-  {
-   "headline": "Musk and Brin Say OpenAI’s Brockman Asked Them for Compute",
-   "outlet": "FourWeekMBA",
-   "outlet_name": "FourWeekMBA",
-   "label": "REPORTED",
-   "url": "https://fourweekmba.com/ai-musk-and-brin-say-openais-brockman-asked-them-for-compute/",
-   "url_id": "c1ee75895c6ed85fa27f098c05fe2a77"
-  },
-  {
-   "headline": "Anthropic is stopping Claude from copying existing video games: Here’s why",
-   "outlet": "The News International",
-   "outlet_name": "The News International",
-   "label": "REPORTED",
-   "url": "https://www.thenews.com.pk/latest/1422138-anthropic-is-stopping-claude-from-copying-existing-video-games-heres-why",
-   "url_id": "5f5fe555f08620fd7be80c464c9c7521"
-  },
-  {
-   "headline": "Google, Microsoft, OpenAI Plan To Honor Shared robots.txt AI Training Opt-Out: how 8…",
-   "outlet": "NewsCord",
-   "outlet_name": "NewsCord",
-   "label": "REPORTED",
-   "url": "https://newscord.org/article/google-microsoft-openai-plan-to-honor-shared-robotstxt-ai-training-opt-out--Story_20261101_f0ed93dd",
-   "url_id": "4da69f11f50980b52fa06e328d448fba"
-  },
   {
    "headline": "Anthropic expands text watermarking to older Claude versions beginning November 3",
    "outlet": "Mashable",
@@ -104,6 +64,14 @@
    "label": "REPORTED",
    "url": "https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions",
    "url_id": "9d2309ff389c7c55d5c638cd1bff2bbf"
+  },
+  {
+   "headline": "Anthropic Adds Rule to Stop Claude Code From Recreating Existing Games",
+   "outlet": "Business Upturn",
+   "outlet_name": "Business Upturn",
+   "label": "REPORTED",
+   "url": "https://www.businessupturn.com/technology/anthropic-adds-rule-to-stop-claude-code-from-recreating-existing-games/",
+   "url_id": "17c75a358544fbbb4561c9b52786a174"
   },
   {
    "headline": "Anthropic asks investors to trust it won’t do evil",
@@ -122,6 +90,38 @@
    "url_id": "3072c187a1ab9b92f7584920159bb568"
   },
   {
+   "headline": "DeepSeek Open-Sources Super-Agent, an AI Coding Agent for Software Teams",
+   "outlet": "Business Upturn",
+   "outlet_name": "Business Upturn",
+   "label": "REPORTED",
+   "url": "https://businessupturn.com/technology/deepseek-open-sources-super-agent-an-ai-coding-agent-for-software-teams/",
+   "url_id": "02ec86b0a41aab97074f4f7bf5e6e503"
+  },
+  {
+   "headline": "Anthropic’s $80.7 Billion Loss Exposes AI’s Hidden Risks",
+   "outlet": "varindia",
+   "outlet_name": "varindia",
+   "label": "REPORTED",
+   "url": "https://www.varindia.com/news/Anthropic%E2%80%99s-$80.7-Billion-Loss-Exposes-AI%E2%80%99s-Hidden-Risks",
+   "url_id": "df2e88527ae90e81692921558b0e984f"
+  },
+  {
+   "headline": "Judge says xAI must face NAACP lawsuit on data center pollution",
+   "outlet": "engadget.com",
+   "outlet_name": "Engadget",
+   "label": "REPORTED",
+   "url": "https://www.engadget.com/2303462/judge-says-xai-must-face-naacp-lawsuit-on-data-center-pollution/",
+   "url_id": "170fecee8f048681f1c25aa8020fd73f"
+  },
+  {
+   "headline": "Claude Now Refuses to Clone Video Games",
+   "outlet": "ProPakistani",
+   "outlet_name": "ProPakistani",
+   "label": "STILL OPEN",
+   "url": "https://propakistani.pk/2026/11/01/claude-now-refuses-to-clone-video-games/",
+   "url_id": "51a188b2a688e278762fa21ed12b208f"
+  },
+  {
    "headline": "Show HN: I vibe-coded a generator of Suprematist compositions with Claude",
    "outlet": "supremath.art",
    "outlet_name": "supremath.art",
@@ -138,30 +138,30 @@
    "url_id": "7abd6adbeb7aead349542abecf0b665d"
   },
   {
-   "headline": "DeepSeek wants to steal Claude Code and Codex’s lunch with an AI Super Agent that does…",
-   "outlet": "digitaltrends.com",
-   "outlet_name": "digitaltrends.com",
+   "headline": "Apple Intelligence China Launch Set for December With Qwen",
+   "outlet": "ShiftDelete.Net",
+   "outlet_name": "ShiftDelete.Net",
    "label": "REPORTED",
-   "url": "https://www.digitaltrends.com/computing/deepseek-wants-to-steal-claude-code-and-codexs-lunch-with-an-ai-agent-that-does-not-wait-around/",
-   "url_id": "bd69262af375685bda13bd772c2700a4"
+   "url": "https://shiftdelete.net/en/apple-intelligence-china",
+   "url_id": "b363d9fbbe1ca094ff3eb1ee21e230b0"
   },
   {
-   "headline": "OpenAI-Chef Sam Altman findet DRAM in Privathand „schrecklich“",
-   "outlet": "heise.de",
-   "outlet_name": "heise.de",
+   "headline": "I replaced Excel's Copilot with a local LLM, and spreadsheet work finally feels private",
+   "outlet": "xda-developers.com",
+   "outlet_name": "xda-developers.com",
    "label": "REPORTED",
-   "url": "https://www.heise.de/news/Sam-Altman-Privat-genutztes-DRAM-ist-schrecklich-11507338.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
-   "url_id": "17bc5a4111d9e4ad48d05321438f1c18"
+   "url": "https://www.xda-developers.com/replaced-excel-copilot-local-llm-spreadsheet-work-private/",
+   "url_id": "fafbeb1a65967208cf1081f9f5616fd1"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7100,
  "articles_24h_label": "about 7,000",
- "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/20.mp3",
- "audio_seconds": 55.8,
- "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nA former Google artificial intelligence expert warns artificial intelligence could end humanity in a decade, reported by Livemint, and he stopped saving for retirement.\nElvis Presley's rights holders are suing Anthropic over training artificial intelligence on 270 songs without consent, reported by t3n.\nMusk and Brin say Brockman asked for compute, reported by FourWeekMBA, with Musk calling memory shortage the worst supply chain shock.\nAnthropic bans Claude from copying video games to prevent intellectual property violations, reported by The News International.\nGoogle, Microsoft, and OpenAI plan to honor a shared robots.txt artificial intelligence training opt-out rolling out in 2027, reported by NewsCord.\nFree every hour.",
+ "audio_url": null,
+ "audio_archive_url": null,
+ "audio_seconds": null,
+ "audio_status": "unavailable",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by Mashable: Anthropic expands text watermarking to older Claude versions beginning November 3.\nReported by Business Upturn: Anthropic Adds Rule to Stop Claude Code From Recreating Existing Games.\nReported by Jenny Ruth's Just the Business: Anthropic asks investors to trust it won’t do evil.\nReported by the deep dive: OpenAI Slashes Funding Round by a Third as AI Demand Cools.\nReported by Business Upturn: DeepSeek Open-Sources Super-Agent, an AI Coding Agent for Software Teams.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
