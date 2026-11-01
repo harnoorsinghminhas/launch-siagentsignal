@@ -1,109 +1,125 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-01T10:20:01Z",
- "hour": "2026-11-01T11:00:00Z",
+ "generated_at": "2026-11-01T11:20:02Z",
+ "hour": "2026-11-01T12:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI Seeks a $1.25T Value at 11 Years; Meta Took 17 to $1T",
-   "outlet": "FourWeekMBA",
-   "outlet_name": "FourWeekMBA",
-   "url": "https://fourweekmba.com/ai-openai-seeks-a-1-25t-value-at-11-years-meta-took-17-to-1t/",
+   "title": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
+   "url": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
    "label": "REPORTED",
-   "summary_1line": "OpenAI seeks $1.25T valuation in 11 years, five years ahead of Meta's 17-year milestone.",
-   "published_at": "2026-11-01T07:22:19Z",
-   "url_id": "ce9876b2bc3ea59e710c6983014f0880"
+   "summary_1line": "DeepSeek reveals 'super agent' AI to cut human oversight in task automation.",
+   "published_at": "2026-11-01T10:00:26Z",
+   "url_id": "7e5471a2029e2cf62dd447d21ade77fe"
   },
   {
-   "title": "Weeks Ahead Of Expected Anthropic IPO, DeepSeek Launches Autonomous Coding Agent To Take On Claude Code",
-   "outlet": "Asianet Newsable",
-   "outlet_name": "Asianet Newsable",
-   "url": "https://newsable.asianetnews.com/markets/weeks-ahead-of-expected-anthropic-ipo-deepseek-launches-autonomous-coding-agent-to-take-on-claude-code-articleshow-68x9of8",
+   "title": "Claude AI Gets New Rules to Prevent Copying Existing Video Games",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
+   "url": "https://www.analyticsinsight.net/news/claude-ai-gets-new-rules-to-prevent-copying-existing-video-games",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-11-01T09:30:07Z",
-   "url_id": "5a9a8f486bf09fbe513acff2dd8ee62b"
+   "summary_1line": "Anthropic blocks AI recreation of existing games in Claude Code to protect IP.",
+   "published_at": "2026-11-01T10:07:22Z",
+   "url_id": "bdabef1854f981d32592170e132b8cbb"
   },
   {
-   "title": "DeepSeek veröffentlicht den Open-Source-Prototyp seines Super-Agents",
-   "outlet": "Pasquale Pillitteri",
-   "outlet_name": "Pasquale Pillitteri",
-   "url": "https://pasqualepillitteri.it/de/news/29032/deepseek-super-agent-open-source-prototyp",
+   "title": "Anthropic warns investors of blowback risks from runaway AI",
+   "outlet": "1News",
+   "outlet_name": "1News",
+   "url": "https://www.1news.co.nz/2026/11/01/anthropic-warns-investors-of-blowback-risks-from-runaway-ai/",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-11-01T08:40:30Z",
-   "url_id": "781bb95a60f281e88071ec516e4ba5f5"
+   "summary_1line": "Anthropic's IPO filing outlines AI risks, including misuse, autonomy, and compute limits.",
+   "published_at": "2026-11-01T09:34:12Z",
+   "url_id": "ea659bbe144846f2fec8b4bcdc242972"
   },
   {
-   "title": "Claude Code now avoids recreating specific existing games, Anthropic says; original game development still allowed",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
-   "url": "https://xenospectrum.com/en/claude-code-game-recreation-limits/",
+   "title": "EXPLAINED | Why Are Neighbours Taking Elon Musk’s AI Power Plant to Court?",
+   "outlet": "Open Magazine",
+   "outlet_name": "Open Magazine",
+   "url": "https://openthemagazine.com/business/explained-why-are-neighbours-taking-elon-musks-ai-power-plant-to-court",
    "label": "REPORTED",
-   "summary_1line": "Anthropic updated Claude Opus 5.5 to avoid recreating specific games in code.",
-   "published_at": "2026-11-01T05:37:43Z",
-   "url_id": "fceb2771f7ade20769de072d8c604847"
+   "summary_1line": "NAACP sues xAI over unpermitted gas turbines near data centre in Mississippi.",
+   "published_at": "2026-11-01T09:00:54Z",
+   "url_id": "8877d1f6e829b36e5073750dc07b3b2a"
   },
   {
-   "title": "ChatGPT Maker OpenAI Reportedly Cuts Funding Target to $20B",
-   "outlet": "Wowtale",
-   "outlet_name": "Wowtale",
-   "url": "https://en.wowtale.net/2026/11/01/235804/",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-11-01T08:20:26Z",
-   "url_id": "ac0c7b149b9fe63c2b4aa90be9221f40"
+   "title": "Trump supports Nvidia CEO amid spy allegations",
+   "outlet": "Ticker News",
+   "outlet_name": "Ticker News",
+   "url": "https://tickernews.co/trump-supports-nvidia-ceo-amid-spy-allegations/",
+   "label": "STILL OPEN",
+   "summary_1line": "Trump praises Huang amid Chinese espionage claims, calling him a 'great, brilliant person'.",
+   "published_at": "2026-11-01T08:46:58Z",
+   "url_id": "1e1d87ea86d1341f479ce7819c030f16"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI Seeks a $1.25T Value at 11 Years; Meta Took 17 to $1T",
-   "outlet": "FourWeekMBA",
-   "outlet_name": "FourWeekMBA",
+   "headline": "DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic",
+   "outlet": "South China Morning Post",
+   "outlet_name": "South China Morning Post",
    "label": "REPORTED",
-   "url": "https://fourweekmba.com/ai-openai-seeks-a-1-25t-value-at-11-years-meta-took-17-to-1t/",
-   "url_id": "ce9876b2bc3ea59e710c6983014f0880"
+   "url": "https://www.scmp.com/tech/article/3372884/deepseek-unveils-ai-super-agent-coding-race-openai-anthropic",
+   "url_id": "7e5471a2029e2cf62dd447d21ade77fe"
   },
   {
-   "headline": "Weeks Ahead Of Expected Anthropic IPO, DeepSeek Launches Autonomous Coding Agent To Take…",
-   "outlet": "Asianet Newsable",
-   "outlet_name": "Asianet Newsable",
+   "headline": "Claude AI Gets New Rules to Prevent Copying Existing Video Games",
+   "outlet": "Analytics Insight",
+   "outlet_name": "Analytics Insight",
    "label": "REPORTED",
-   "url": "https://newsable.asianetnews.com/markets/weeks-ahead-of-expected-anthropic-ipo-deepseek-launches-autonomous-coding-agent-to-take-on-claude-code-articleshow-68x9of8",
-   "url_id": "5a9a8f486bf09fbe513acff2dd8ee62b"
+   "url": "https://www.analyticsinsight.net/news/claude-ai-gets-new-rules-to-prevent-copying-existing-video-games",
+   "url_id": "bdabef1854f981d32592170e132b8cbb"
   },
   {
-   "headline": "DeepSeek veröffentlicht den Open-Source-Prototyp seines Super-Agents",
-   "outlet": "Pasquale Pillitteri",
-   "outlet_name": "Pasquale Pillitteri",
+   "headline": "Anthropic warns investors of blowback risks from runaway AI",
+   "outlet": "1News",
+   "outlet_name": "1News",
    "label": "REPORTED",
-   "url": "https://pasqualepillitteri.it/de/news/29032/deepseek-super-agent-open-source-prototyp",
-   "url_id": "781bb95a60f281e88071ec516e4ba5f5"
+   "url": "https://www.1news.co.nz/2026/11/01/anthropic-warns-investors-of-blowback-risks-from-runaway-ai/",
+   "url_id": "ea659bbe144846f2fec8b4bcdc242972"
   },
   {
-   "headline": "Claude Code now avoids recreating specific existing games, Anthropic says; original game…",
-   "outlet": "XenoSpectrum",
-   "outlet_name": "XenoSpectrum",
+   "headline": "EXPLAINED | Why Are Neighbours Taking Elon Musk’s AI Power Plant to Court?",
+   "outlet": "Open Magazine",
+   "outlet_name": "Open Magazine",
    "label": "REPORTED",
-   "url": "https://xenospectrum.com/en/claude-code-game-recreation-limits/",
-   "url_id": "fceb2771f7ade20769de072d8c604847"
+   "url": "https://openthemagazine.com/business/explained-why-are-neighbours-taking-elon-musks-ai-power-plant-to-court",
+   "url_id": "8877d1f6e829b36e5073750dc07b3b2a"
   },
   {
-   "headline": "ChatGPT Maker OpenAI Reportedly Cuts Funding Target to $20B",
-   "outlet": "Wowtale",
-   "outlet_name": "Wowtale",
-   "label": "REPORTED",
-   "url": "https://en.wowtale.net/2026/11/01/235804/",
-   "url_id": "ac0c7b149b9fe63c2b4aa90be9221f40"
+   "headline": "Trump supports Nvidia CEO amid spy allegations",
+   "outlet": "Ticker News",
+   "outlet_name": "Ticker News",
+   "label": "STILL OPEN",
+   "url": "https://tickernews.co/trump-supports-nvidia-ceo-amid-spy-allegations/",
+   "url_id": "1e1d87ea86d1341f479ce7819c030f16"
   },
   {
-   "headline": "Local Government Elections: I turned to Google Gemini for advice, and this is what it…",
-   "outlet": "IOL",
-   "outlet_name": "IOL",
-   "label": "REPORTED",
-   "url": "https://iol.co.za/lge2026/2026-11-01-local-government-elections-i-turned-to-google-gemini-for-advice-and-this-is-what-it-told-me/",
-   "url_id": "1f2cbf63cf32b93d40e19e2bb2a97c05"
+   "headline": "Google tests a new Gemini 4 Carbon checkpoint on Arena",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
+   "label": "STILL OPEN",
+   "url": "https://www.testingcatalog.com/google-tests-new-gemini-4-carbon-checkpoint-arena/",
+   "url_id": "c6e77d166e14e5f925cbacd942518bcc"
+  },
+  {
+   "headline": "Markets podcaster Ed Elson says investors are reading Anthropic's S-1 all wrong",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
+   "label": "STILL OPEN",
+   "url": "https://www.businessinsider.com/ed-elson-prof-g-podcast-anthropic-s1-ai-stocks-spcx-2026-10",
+   "url_id": "d0c72bc25db74ba69323d2a1804a9244"
+  },
+  {
+   "headline": "NVIDIA Is Reportedly Eyeing Teflon, The Non-Stick Cookware Material, To Fix AI Server…",
+   "outlet": "Wccftech",
+   "outlet_name": "Wccftech",
+   "label": "STILL OPEN",
+   "url": "https://wccftech.com/nvidia-eyeing-teflon-ptfe-ai-server-signal-loss-nvlink-switch-boards/",
+   "url_id": "baede1a8a68cb1d85b3c21ff043a9eef"
   },
   {
    "headline": "Gemini launches shared avatars so friends can star in your AI videos",
@@ -114,6 +130,14 @@
    "url_id": "fed2c10eabc77fb6baae4d5596b0bb22"
   },
   {
+   "headline": "DeepSeek V5 shows up as three names in Harness tests, but there is no official release",
+   "outlet": "Pasquale Pillitteri",
+   "outlet_name": "Pasquale Pillitteri",
+   "label": "REPORTED",
+   "url": "https://pasqualepillitteri.it/en/news/28969/deepseek-v5-harness-test-ids-no-official-release",
+   "url_id": "7bb89dec96fb78b95fb7188be9e20995"
+  },
+  {
    "headline": "Companies promised AI gains— here's how the payoff showed up in earnings",
    "outlet": "cnbc.com",
    "outlet_name": "CNBC",
@@ -122,46 +146,22 @@
    "url_id": "3018013b08ee49265917c99c380d0131"
   },
   {
-   "headline": "Nigerian co-founded AI startup Minicor raises $3.8 million to bridge AI and legacy…",
-   "outlet": "Nairametrics",
-   "outlet_name": "Nairametrics",
-   "label": "REPORTED",
-   "url": "https://nairametrics.com/2026/11/01/nigerian-co-founded-ai-startup-minicor-raises-3-8-million-to-bridge-ai-and-legacy-business-software/",
-   "url_id": "0b0c29c2a708775f79413111e10095a8"
-  },
-  {
-   "headline": "DeepSeek Harness Team Open-Sources a Super-agent Prototype That Finds and Fixes Bugs on…",
-   "outlet": "pandaily.com",
-   "outlet_name": "pandaily.com",
-   "label": "REPORTED",
-   "url": "https://pandaily.com/deepseek-harness-super-agent-prototype-router-worker-event-driven-watchdog-open-source-mit",
-   "url_id": "5d8603e7c18007f4abc4642c79ff8c9e"
-  },
-  {
-   "headline": "Google Maps in Carplay: Was Gemini jetzt für Autofahrer möglich macht",
-   "outlet": "t3n.de",
-   "outlet_name": "t3n.de",
-   "label": "REPORTED",
-   "url": "https://t3n.de/news/google-maps-carplay-gemini-funktionen-1769471",
-   "url_id": "87e67f4a0c652b588f890a453af43619"
-  },
-  {
-   "headline": "Anthropic Dropped Coding Interviews: 1 Trait Wins [2026]",
-   "outlet": "tech-insider.org",
-   "outlet_name": "tech-insider.org",
-   "label": "REPORTED",
-   "url": "https://tech-insider.org/anthropic-drops-coding-interviews-hunger-beats-tenure-2026/",
-   "url_id": "15eed30605f339e5e5b430fe270654f5"
+   "headline": "Gemini 3.1 Pro: $2/$12 Pricing vs Claude, GPT [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "STILL OPEN",
+   "url": "https://shattered.io/gemini-3-1-pro-2-12-pricing-undercuts-claude-chatgpt-2026/",
+   "url_id": "3f20a74a8203201bc69b7c3578421e20"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
- "articles_24h_rounded": 7200,
+ "tidbit": "Did you know… a story marked Still open means nobody on the record has confirmed it yet.",
+ "articles_24h_rounded": 7100,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/11.mp3",
- "audio_seconds": 49.9,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/12.mp3",
+ "audio_seconds": 48.0,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by FourWeekMBA: OpenAI Seeks a $1.25T Value at 11 Years; Meta Took 17 to $1T.\nReported by Asianet Newsable: Weeks Ahead Of Expected Anthropic IPO, DeepSeek Launches Autonomous Coding Agent To Take On Claude Code.\nReported by Pasquale Pillitteri: DeepSeek veröffentlicht den Open-Source-Prototyp seines Super-Agents.\nReported by XenoSpectrum: Claude Code now avoids recreating specific existing games, Anthropic says; original game development still allowed.\nReported by Wowtale: ChatGPT Maker OpenAI Reportedly Cuts Funding Target to $20B.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by South China Morning Post: DeepSeek unveils AI ‘super agent’ in coding race with OpenAI, Anthropic.\nReported by Analytics Insight: Claude AI Gets New Rules to Prevent Copying Existing Video Games.\nReported by 1News: Anthropic warns investors of blowback risks from runaway AI.\nReported by Open Magazine: EXPLAINED | Why Are Neighbours Taking Elon Musk’s AI Power Plant to Court.\nStill open, per Ticker News: Trump supports Nvidia CEO amid spy allegations.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
