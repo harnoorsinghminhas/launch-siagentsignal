@@ -1,167 +1,167 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-01T16:20:02Z",
- "hour": "2026-11-01T17:00:00Z",
+ "generated_at": "2026-11-01T17:20:04Z",
+ "hour": "2026-11-01T18:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "OpenAI's Policy Push Following U.S. Midterm Elections",
-   "outlet": "GuruFocus",
-   "outlet_name": "GuruFocus",
-   "url": "https://www.gurufocus.com/news/9161285/openais-policy-push-following-us-midterm-elections",
-   "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-11-01T15:18:42Z",
-   "url_id": "cc7b58573a5985fd55ad48da827bee51"
+   "title": "Behind the Curtain: OpenAI's post-election power play",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+   "label": "CONFIRMED",
+   "summary_1line": "OpenAI launches human-centered AI policy push after midterms, targeting 2028 election and Washington scrutiny.",
+   "published_at": "2026-11-01T13:43:06Z",
+   "url_id": "4945f438c59d6b3a24743d55aa65370b"
   },
   {
-   "title": "Judge rejects xAI’s bid to dismiss NAACP lawsuit over its gas turbines",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied",
+   "title": "Weeks Ahead Of Expected Anthropic IPO, DeepSeek Launches Autonomous Coding Agent To Take On Claude Code",
+   "outlet": "Stocktwits",
+   "outlet_name": "Stocktwits",
+   "url": "https://stocktwits.com/news-articles/markets/equity/deepseek-autonomous-coding-agent-anthropic-ipo-claude-code/cNGekVdR9cy",
    "label": "REPORTED",
-   "summary_1line": null,
-   "published_at": "2026-11-01T14:26:50Z",
-   "url_id": "3b7bde99232b8ef39c70bc0066530e36"
+   "summary_1line": "DeepSeek's autonomous Super-Agent tracks coding tasks across chats and GitHub, without user prompts.",
+   "published_at": "2026-11-01T08:49:53Z",
+   "url_id": "08ad9d2a38414cd1dc259024a0246084"
   },
   {
-   "title": "Palantir CTO tells Stratechery he doesn’t regret working with Anthropic",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
-   "url": "https://thenextweb.com/news/palantir-shyam-sankar-anthropic-stuck-in-the-middle-stratechery",
+   "title": "Google testing Comic Artifacts for Gemini Notebook",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
+   "url": "https://www.testingcatalog.com/google-testing-comic-artifacts-for-gemini-notebook/",
    "label": "REPORTED",
-   "summary_1line": "Palantir's CTO says it was caught in Anthropic-US conflict and now helps customers switch AI models safely.",
-   "published_at": "2026-11-01T14:02:26Z",
-   "url_id": "8ba970afb03a8a283183a890057d2ecb"
+   "summary_1line": "Google develops Comics in Gemini Notebook for visual storytelling with customization options.",
+   "published_at": "2026-11-01T16:35:05Z",
+   "url_id": "9fe56c7fcc79c140e9bb70d9081e23b8"
   },
   {
-   "title": "ChatGPT vs Gemini vs Grok vs Claude: Which AI Makes the Best Images in 2026? Blind Tests Crown a Clear Winner",
-   "outlet": "International Business Times Australia",
-   "outlet_name": "International Business Times Australia",
-   "url": "https://www.ibtimes.com.au/chatgpt-gemini-grok-ai-image-generation-rankings-1877674",
+   "title": "Google Gemini drops UTM tags from cited links after three weeks",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
+   "url": "https://ppc.land/google-gemini-drops-utm-tags-from-cited-links-after-three-weeks/",
    "label": "REPORTED",
-   "summary_1line": "GPT Image 2 leads image quality; Gemini offers best value; Grok has cinematic style; Claude doesn't generate images.",
-   "published_at": "2026-11-01T13:57:37Z",
-   "url_id": "efce6cf83286b7665fd2b03ee9d390b3"
+   "summary_1line": "Gemini stopped adding utm_source=gemini tag in September 2026, affecting traffic attribution.",
+   "published_at": "2026-11-01T16:13:07Z",
+   "url_id": "cb056ffc98522319116fbddb5274f0dc"
   },
   {
-   "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-   "outlet": "BleepingComputer",
-   "outlet_name": "BleepingComputer",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+   "title": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
    "label": "REPORTED",
-   "summary_1line": "OpenAI unifies ChatGPT and Work with shared usage, doubling Pro subscription allowances effective October 29.",
-   "published_at": "2026-11-01T13:53:11Z",
-   "url_id": "c6a90b34b076ca1bf023a02e6877e064"
+   "summary_1line": "Anthropic's internal AI usage surpassed employee costs by 250-fold, with 90% of code written by Claude.",
+   "published_at": "2026-11-01T15:00:00Z",
+   "url_id": "6f23378917c49d1528402a0b70cc4892"
   }
  ],
  "ticker": [
   {
-   "headline": "OpenAI's Policy Push Following U.S. Midterm Elections",
-   "outlet": "GuruFocus",
-   "outlet_name": "GuruFocus",
-   "label": "REPORTED",
-   "url": "https://www.gurufocus.com/news/9161285/openais-policy-push-following-us-midterm-elections",
-   "url_id": "cc7b58573a5985fd55ad48da827bee51"
+   "headline": "Behind the Curtain: OpenAI's post-election power play",
+   "outlet": "axios.com",
+   "outlet_name": "Axios",
+   "label": "CONFIRMED",
+   "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
+   "url_id": "4945f438c59d6b3a24743d55aa65370b"
   },
   {
-   "headline": "Judge rejects xAI’s bid to dismiss NAACP lawsuit over its gas turbines",
-   "outlet": "thenextweb.com",
-   "outlet_name": "The Next Web",
+   "headline": "Weeks Ahead Of Expected Anthropic IPO, DeepSeek Launches Autonomous Coding Agent To Take…",
+   "outlet": "Stocktwits",
+   "outlet_name": "Stocktwits",
    "label": "REPORTED",
-   "url": "https://thenextweb.com/news/xai-naacp-lawsuit-gas-turbines-motion-to-dismiss-denied",
-   "url_id": "3b7bde99232b8ef39c70bc0066530e36"
+   "url": "https://stocktwits.com/news-articles/markets/equity/deepseek-autonomous-coding-agent-anthropic-ipo-claude-code/cNGekVdR9cy",
+   "url_id": "08ad9d2a38414cd1dc259024a0246084"
   },
   {
-   "headline": "Palantir CTO tells Stratechery he doesn’t regret working with Anthropic",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
+   "headline": "Google testing Comic Artifacts for Gemini Notebook",
+   "outlet": "TestingCatalog AI News",
+   "outlet_name": "TestingCatalog AI News",
    "label": "REPORTED",
-   "url": "https://thenextweb.com/news/palantir-shyam-sankar-anthropic-stuck-in-the-middle-stratechery",
-   "url_id": "8ba970afb03a8a283183a890057d2ecb"
+   "url": "https://www.testingcatalog.com/google-testing-comic-artifacts-for-gemini-notebook/",
+   "url_id": "9fe56c7fcc79c140e9bb70d9081e23b8"
   },
   {
-   "headline": "ChatGPT vs Gemini vs Grok vs Claude: Which AI Makes the Best Images in 2026? Blind Tests…",
-   "outlet": "International Business Times Australia",
-   "outlet_name": "International Business Times Australia",
+   "headline": "Google Gemini drops UTM tags from cited links after three weeks",
+   "outlet": "PPC Land",
+   "outlet_name": "PPC Land",
    "label": "REPORTED",
-   "url": "https://www.ibtimes.com.au/chatgpt-gemini-grok-ai-image-generation-rankings-1877674",
-   "url_id": "efce6cf83286b7665fd2b03ee9d390b3"
+   "url": "https://ppc.land/google-gemini-drops-utm-tags-from-cited-links-after-three-weeks/",
+   "url_id": "cb056ffc98522319116fbddb5274f0dc"
   },
   {
-   "headline": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-   "outlet": "BleepingComputer",
-   "outlet_name": "BleepingComputer",
+   "headline": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges…",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
    "label": "REPORTED",
-   "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-   "url_id": "c6a90b34b076ca1bf023a02e6877e064"
+   "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
+   "url_id": "6f23378917c49d1528402a0b70cc4892"
   },
   {
-   "headline": "Claude Code now refuses to help build copies of existing games",
-   "outlet": "The Next Web",
-   "outlet_name": "The Next Web",
+   "headline": "Gemini 4 Carbon: Google startet KI-Modell für ausgewählte Sicherheitsfachleute",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
    "label": "REPORTED",
-   "url": "https://thenextweb.com/news/claude-code-game-recreation-refusals-developers",
-   "url_id": "1069c85a2f17be9c42c76e8e91cefc7d"
+   "url": "https://borncity.com/news/gemini-4-carbon-google-startet-ki-modell-fuer-ausgewaehlte-sicherheitsfachleute/",
+   "url_id": "4f0c27e5a32f57b49626384287f70595"
   },
   {
-   "headline": "After testing it on 100 photos, Google Photos' new Gemini integration is both good and…",
-   "outlet": "Android Police",
-   "outlet_name": "Android Police",
+   "headline": "Cambio, the AI-Native Crypto Exchange, Brings Swap Quotes to ChatGPT",
+   "outlet": "CryptoPotato",
+   "outlet_name": "CryptoPotato",
    "label": "REPORTED",
-   "url": "https://www.androidpolice.com/after-editing-100-pictures-google-photos-new-gemini-task-integration-good-horrible/",
-   "url_id": "eb09f3a3ad0cfaea594720695845eded"
+   "url": "https://cryptopotato.com/cambio-the-ai-native-crypto-exchange-brings-swap-quotes-to-chatgpt/",
+   "url_id": "0ccd56eacde55690d5183c573e90f6cd"
   },
   {
-   "headline": "DeepSeek developing AI agent requiring less human input: Report",
-   "outlet": "TradingView",
-   "outlet_name": "TradingView",
+   "headline": "DeepSeek wants to steal Claude Code and Codex’s lunch with an AI Super Agent that does…",
+   "outlet": "digitaltrends.com",
+   "outlet_name": "digitaltrends.com",
    "label": "REPORTED",
-   "url": "https://www.tradingview.com/news/cointelegraph:96ef9c57a094b:0-deepseek-developing-ai-agent-requiring-less-human-input-report/",
-   "url_id": "a06c122d3c83b96cdece5f63d5d8c2dd"
+   "url": "https://www.digitaltrends.com/computing/deepseek-wants-to-steal-claude-code-and-codexs-lunch-with-an-ai-agent-that-does-not-wait-around/",
+   "url_id": "bd69262af375685bda13bd772c2700a4"
   },
   {
-   "headline": "Anthropic to Watermark 4 Older Claude Models for EU AI Act",
-   "outlet": "FourWeekMBA",
-   "outlet_name": "FourWeekMBA",
-   "label": "REPORTED",
-   "url": "https://fourweekmba.com/ai-anthropic-to-watermark-4-older-claude-models-for-eu-ai-act/",
-   "url_id": "8af742dbb77a186298129ffa54a82867"
+   "headline": "Anthropic restricts Claude Code from recreating existing games, developers report blocked…",
+   "outlet": "VideoCardz.com",
+   "outlet_name": "VideoCardz.com",
+   "label": "STILL OPEN",
+   "url": "https://videocardz.com/newz/anthropic-restricts-claude-code-from-recreating-existing-games-developers-report-blocked-projects",
+   "url_id": "c5e12a3187be1cbaefe0b2eec194beda"
   },
   {
-   "headline": "Bill Gates warns AI job losses could undermine taxes and social safety nets",
-   "outlet": "Beinsure",
-   "outlet_name": "Beinsure",
+   "headline": "OpenAI-Chef Sam Altman findet DRAM in Privathand „schrecklich“",
+   "outlet": "heise.de",
+   "outlet_name": "heise.de",
    "label": "REPORTED",
-   "url": "https://beinsure.com/news/bill-gates-warns-ai-job-losses-could-undermine-taxes/",
-   "url_id": "c12cb8d9dfaefb012659ed77bf1ebc7f"
+   "url": "https://www.heise.de/news/Sam-Altman-Privat-genutztes-DRAM-ist-schrecklich-11507338.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+   "url_id": "17bc5a4111d9e4ad48d05321438f1c18"
   },
   {
-   "headline": "Cloning Games with One-Click AI? Claude Blocks It",
-   "outlet": "Inven Global",
-   "outlet_name": "Inven Global",
+   "headline": "Anthropic asks candidates about shares falling to zero — Fortune",
+   "outlet": "UA.NEWS",
+   "outlet_name": "UA.NEWS",
    "label": "REPORTED",
-   "url": "https://www.invenglobal.com/articles/27986/cloning-games-with-one-click-ai-claude-blocks-it",
-   "url_id": "beff9b15ff5f5261b54094eb77142c4e"
+   "url": "https://ua.news/en/money/anthropic-zapituie-kandidativ-pro-padinnia-aktsii-do-nulia-fortune",
+   "url_id": "50da82c48a5293c345574459ffffb34f"
   },
   {
-   "headline": "Anthropic’s AI independently performed brain surgery on a mouse: Experiment sparks…",
-   "outlet": "Root-Nation.com",
-   "outlet_name": "Root-Nation.com",
+   "headline": "CPI | Meta Faces UK Antitrust Investigation Over Publisher Content and AI Terms",
+   "outlet": "PYMNTS.com",
+   "outlet_name": "PYMNTS.com",
    "label": "REPORTED",
-   "url": "https://root-nation.com/en/news-en/it-news-en/en-anthropic-sonnet-motorized-surgery/",
-   "url_id": "6af0b97e8d945d3f6636b30913bea979"
+   "url": "https://www.pymnts.com/cpi-posts/meta-faces-uk-antitrust-investigation-over-publisher-content-and-ai-terms/",
+   "url_id": "7a90eec8dc8fc28cd4bdc5ccb22cc100"
   }
  ],
- "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "tidbit": "Did you know… this hour's top stories come from five different outlets.",
  "articles_24h_rounded": 7100,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/17.mp3",
- "audio_seconds": 55.4,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/18.mp3",
+ "audio_seconds": 50.2,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nOpenAI pushed policy changes following U.S. midterm elections, reported by GuruFocus.\nA judge rejected xAI's bid to dismiss an NAACP lawsuit over gas turbines, reported by The Next Web.\nPalantir's CTO says the company was caught in an Anthropic-U.S. conflict and now helps customers switch artificial intelligence models safely, reported by The Next Web.\nG P T Image 2 leads in image quality, Gemini offers value, Grok has cinematic style, and Claude doesn't generate images, reported by International Business Times Australia.\nOpenAI is doubling Pro usage limits and bringing Work features to Chat with shared usage effective October 29, reported by BleepingComputer.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Axios: Behind the Curtain: OpenAI's post-election power play.\nReported by Stocktwits: Weeks Ahead Of Expected Anthropic IPO, DeepSeek Launches Autonomous Coding Agent To Take On Claude Code.\nReported by TestingCatalog AI News: Google testing Comic Artifacts for Gemini Notebook.\nReported by PPC Land: Google Gemini drops UTM tags from cited links after three weeks.\nReported by Business Insider: Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
