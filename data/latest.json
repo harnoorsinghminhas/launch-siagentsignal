@@ -1,101 +1,69 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-01T17:20:04Z",
- "hour": "2026-11-01T18:00:00Z",
+ "generated_at": "2026-11-01T18:20:02Z",
+ "hour": "2026-11-01T19:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "Behind the Curtain: OpenAI's post-election power play",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
-   "label": "CONFIRMED",
-   "summary_1line": "OpenAI launches human-centered AI policy push after midterms, targeting 2028 election and Washington scrutiny.",
-   "published_at": "2026-11-01T13:43:06Z",
-   "url_id": "4945f438c59d6b3a24743d55aa65370b"
-  },
-  {
-   "title": "Weeks Ahead Of Expected Anthropic IPO, DeepSeek Launches Autonomous Coding Agent To Take On Claude Code",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
-   "url": "https://stocktwits.com/news-articles/markets/equity/deepseek-autonomous-coding-agent-anthropic-ipo-claude-code/cNGekVdR9cy",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek's autonomous Super-Agent tracks coding tasks across chats and GitHub, without user prompts.",
-   "published_at": "2026-11-01T08:49:53Z",
-   "url_id": "08ad9d2a38414cd1dc259024a0246084"
-  },
-  {
-   "title": "Google testing Comic Artifacts for Gemini Notebook",
-   "outlet": "TestingCatalog AI News",
-   "outlet_name": "TestingCatalog AI News",
-   "url": "https://www.testingcatalog.com/google-testing-comic-artifacts-for-gemini-notebook/",
-   "label": "REPORTED",
-   "summary_1line": "Google develops Comics in Gemini Notebook for visual storytelling with customization options.",
-   "published_at": "2026-11-01T16:35:05Z",
-   "url_id": "9fe56c7fcc79c140e9bb70d9081e23b8"
-  },
-  {
-   "title": "Google Gemini drops UTM tags from cited links after three weeks",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
-   "url": "https://ppc.land/google-gemini-drops-utm-tags-from-cited-links-after-three-weeks/",
-   "label": "REPORTED",
-   "summary_1line": "Gemini stopped adding utm_source=gemini tag in September 2026, affecting traffic attribution.",
-   "published_at": "2026-11-01T16:13:07Z",
-   "url_id": "cb056ffc98522319116fbddb5274f0dc"
-  },
-  {
-   "title": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers",
-   "outlet": "Business Insider",
+   "title": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+   "outlet": "businessinsider.com",
    "outlet_name": "Business Insider",
    "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
    "label": "REPORTED",
-   "summary_1line": "Anthropic's internal AI usage surpassed employee costs by 250-fold, with 90% of code written by Claude.",
-   "published_at": "2026-11-01T15:00:00Z",
-   "url_id": "6f23378917c49d1528402a0b70cc4892"
+   "summary_1line": "Anthropic's internal AI usage surpassed employee costs, with 90%+ of code written by Claude.",
+   "published_at": "2026-11-01T15:00:01Z",
+   "url_id": "0db7b6f459a78855c303e34e1af481b2"
+  },
+  {
+   "title": "Gemini 4 Carbon: Google startet KI-Modell für ausgewählte Sicherheitsfachleute",
+   "outlet": "BornCity",
+   "outlet_name": "BornCity",
+   "url": "https://borncity.com/news/gemini-4-carbon-google-startet-ki-modell-fuer-ausgewaehlte-sicherheitsfachleute/",
+   "label": "REPORTED",
+   "summary_1line": "Google's Gemini 4 Carbon scores 88.2% in security tests, targets elite security teams, and sets new benchmarks in AI-driven cybersecurity.",
+   "published_at": "2026-11-01T14:40:04Z",
+   "url_id": "4f0c27e5a32f57b49626384287f70595"
+  },
+  {
+   "title": "Cambio, the AI-Native Crypto Exchange, Brings Swap Quotes to ChatGPT",
+   "outlet": "CryptoPotato",
+   "outlet_name": "CryptoPotato",
+   "url": "https://cryptopotato.com/cambio-the-ai-native-crypto-exchange-brings-swap-quotes-to-chatgpt/",
+   "label": "REPORTED",
+   "summary_1line": "Cambio offers AI-powered swap quotes in ChatGPT for 100+ coins across 25 networks.",
+   "published_at": "2026-11-01T14:18:00Z",
+   "url_id": "0ccd56eacde55690d5183c573e90f6cd"
+  },
+  {
+   "title": "Anthropic renames Claude Max plans and drops Ultra’s five-hour limit",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "url": "https://thenextweb.com/news/claude-ultra-max-plan-rename-five-hour-limit",
+   "label": "REPORTED",
+   "summary_1line": "Anthropic removes five-hour limit on Ultra, rebrands plans, keeps prices same.",
+   "published_at": "2026-11-01T13:54:30Z",
+   "url_id": "9fd9db06ce22b939b2ba8437365e6d48"
+  },
+  {
+   "title": "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for Chinese market",
+   "outlet": "The Express Tribune",
+   "outlet_name": "The Express Tribune",
+   "url": "https://tribune.com.pk/story/2638100/alibaba-partners-with-apple-to-integrate-qwen-ai-model-into-apple-intelligence-for-chinese-market",
+   "label": "REPORTED",
+   "summary_1line": "Alibaba and Apple integrate Qwen AI into Apple Intelligence for China, starting Nov. 4 beta.",
+   "published_at": "2026-11-01T13:53:59Z",
+   "url_id": "a9305b7fa5b7c7513c4abf55945e3aa9"
   }
  ],
  "ticker": [
   {
-   "headline": "Behind the Curtain: OpenAI's post-election power play",
-   "outlet": "axios.com",
-   "outlet_name": "Axios",
-   "label": "CONFIRMED",
-   "url": "https://www.axios.com/2026/11/01/scoop-openai-post-midterm-policy",
-   "url_id": "4945f438c59d6b3a24743d55aa65370b"
-  },
-  {
-   "headline": "Weeks Ahead Of Expected Anthropic IPO, DeepSeek Launches Autonomous Coding Agent To Take…",
-   "outlet": "Stocktwits",
-   "outlet_name": "Stocktwits",
-   "label": "REPORTED",
-   "url": "https://stocktwits.com/news-articles/markets/equity/deepseek-autonomous-coding-agent-anthropic-ipo-claude-code/cNGekVdR9cy",
-   "url_id": "08ad9d2a38414cd1dc259024a0246084"
-  },
-  {
-   "headline": "Google testing Comic Artifacts for Gemini Notebook",
-   "outlet": "TestingCatalog AI News",
-   "outlet_name": "TestingCatalog AI News",
-   "label": "REPORTED",
-   "url": "https://www.testingcatalog.com/google-testing-comic-artifacts-for-gemini-notebook/",
-   "url_id": "9fe56c7fcc79c140e9bb70d9081e23b8"
-  },
-  {
-   "headline": "Google Gemini drops UTM tags from cited links after three weeks",
-   "outlet": "PPC Land",
-   "outlet_name": "PPC Land",
-   "label": "REPORTED",
-   "url": "https://ppc.land/google-gemini-drops-utm-tags-from-cited-links-after-three-weeks/",
-   "url_id": "cb056ffc98522319116fbddb5274f0dc"
-  },
-  {
-   "headline": "Anthropic's internal AI use is now worth more than employee pay, at the prices it charges…",
-   "outlet": "Business Insider",
+   "headline": "Anthropic's internal AI use, valued at retail prices, now exceeds its employee pay",
+   "outlet": "businessinsider.com",
    "outlet_name": "Business Insider",
    "label": "REPORTED",
    "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-   "url_id": "6f23378917c49d1528402a0b70cc4892"
+   "url_id": "0db7b6f459a78855c303e34e1af481b2"
   },
   {
    "headline": "Gemini 4 Carbon: Google startet KI-Modell für ausgewählte Sicherheitsfachleute",
@@ -112,6 +80,22 @@
    "label": "REPORTED",
    "url": "https://cryptopotato.com/cambio-the-ai-native-crypto-exchange-brings-swap-quotes-to-chatgpt/",
    "url_id": "0ccd56eacde55690d5183c573e90f6cd"
+  },
+  {
+   "headline": "Anthropic renames Claude Max plans and drops Ultra’s five-hour limit",
+   "outlet": "thenextweb.com",
+   "outlet_name": "The Next Web",
+   "label": "REPORTED",
+   "url": "https://thenextweb.com/news/claude-ultra-max-plan-rename-five-hour-limit",
+   "url_id": "9fd9db06ce22b939b2ba8437365e6d48"
+  },
+  {
+   "headline": "Alibaba partners with Apple to integrate Qwen AI model into Apple Intelligence for…",
+   "outlet": "The Express Tribune",
+   "outlet_name": "The Express Tribune",
+   "label": "REPORTED",
+   "url": "https://tribune.com.pk/story/2638100/alibaba-partners-with-apple-to-integrate-qwen-ai-model-into-apple-intelligence-for-chinese-market",
+   "url_id": "a9305b7fa5b7c7513c4abf55945e3aa9"
   },
   {
    "headline": "DeepSeek wants to steal Claude Code and Codex’s lunch with an AI Super Agent that does…",
@@ -152,16 +136,32 @@
    "label": "REPORTED",
    "url": "https://www.pymnts.com/cpi-posts/meta-faces-uk-antitrust-investigation-over-publisher-content-and-ai-terms/",
    "url_id": "7a90eec8dc8fc28cd4bdc5ccb22cc100"
+  },
+  {
+   "headline": "OpenAI Plans Post-Midterm Push to Promote AI Compute Campuses",
+   "outlet": "www.tokenpost.com",
+   "outlet_name": "www.tokenpost.com",
+   "label": "REPORTED",
+   "url": "https://www.tokenpost.com/news/technology/45883",
+   "url_id": "173e8f83f9e480cbbe05605746007cc0"
+  },
+  {
+   "headline": "Chinese labs now target OpenAI's GPT-6 Astra for distillation",
+   "outlet": "fork.zone",
+   "outlet_name": "fork.zone",
+   "label": "STILL OPEN",
+   "url": "https://fork.zone/p/1011/report-chinese-labs-now-target-openai-s-gpt-6-astra-for",
+   "url_id": "5588952bc04e1cf3940df38aa590ffa5"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
  "articles_24h_rounded": 7100,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/18.mp3",
- "audio_seconds": 50.2,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/01/19.mp3",
+ "audio_seconds": 68.7,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nConfirmed, per Axios: Behind the Curtain: OpenAI's post-election power play.\nReported by Stocktwits: Weeks Ahead Of Expected Anthropic IPO, DeepSeek Launches Autonomous Coding Agent To Take On Claude Code.\nReported by TestingCatalog AI News: Google testing Comic Artifacts for Gemini Notebook.\nReported by PPC Land: Google Gemini drops UTM tags from cited links after three weeks.\nReported by Business Insider: Anthropic's internal AI use is now worth more than employee pay, at the prices it charges customers.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nAnthropic's internal artificial intelligence usage now exceeds what the company pays its employees. Reported by Business Insider: 90% plus of code is written by Claude.\nGoogle's Gemini 4 Carbon scores 88.2% in security tests and targets elite security teams. Reported by BornCity: the model sets new benchmarks in artificial intelligence driven cybersecurity.\nCambio, an artificial intelligence native crypto exchange, brings swap quotes to ChatGPT. Reported by CryptoPotato: the service covers 100 plus coins across 25 networks.\nAnthropic removes the five hour limit on Ultra and rebrands its plans. Reported by The Next Web: prices stay the same.\nAlibaba and Apple integrate Qwen artificial intelligence into Apple Intelligence for China. Reported by The Express Tribune: the beta starts November 4.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
