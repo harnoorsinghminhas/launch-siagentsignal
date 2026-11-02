@@ -1,101 +1,77 @@
 {
  "schema_version": 1,
  "preview": true,
- "generated_at": "2026-11-02T01:20:02Z",
- "hour": "2026-11-02T02:00:00Z",
+ "generated_at": "2026-11-02T02:20:01Z",
+ "hour": "2026-11-02T03:00:00Z",
  "window_hours": 3,
  "stories": [
   {
-   "title": "DeepSeek highlights bottleneck in agent era when managing 3 to 5 AIs is already hard",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "url": "https://www.digitaltoday.co.kr/en/view/122400/deepseek-highlights-bottleneck-in-agent-era-when-managing-3-to-5-ais-is-already-hard",
-   "label": "REPORTED",
-   "summary_1line": "DeepSeek reveals blueprint for autonomous AI coding agents, reducing human oversight.",
-   "published_at": "2026-11-02T00:19:21Z",
-   "url_id": "404f0c533a97bc999ed05a95122b7e19"
-  },
-  {
-   "title": "OpenAI Would Reportedly Like You to Use Its Pleasant New Term for Data Centers",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "url": "https://gizmodo.com/openai-would-reportedly-like-you-to-use-its-pleasant-new-term-for-data-centers-2000833570",
-   "label": "REPORTED",
-   "summary_1line": "OpenAI rebrands AI infrastructure to 'compute campuses' to improve public perception.",
-   "published_at": "2026-11-02T00:11:54Z",
-   "url_id": "d96dd5f5e63963890976a3481cee7138"
-  },
-  {
-   "title": "Anthropic is heading to Wall Street — its CEO warns AI could erase entry-level jobs",
-   "outlet": "The Independent Florida Alligator",
-   "outlet_name": "The Independent Florida Alligator",
-   "url": "https://www.alligator.org/article/2026/11/anthropic-is-heading-to-wall-street-its-ceo-warns-ai-could-erase-entry-level-jobs",
-   "label": "REPORTED",
-   "summary_1line": "Anthropic to IPO at $1.5T–$2T valuation, with 50.1% founder control and job impact forecasts.",
-   "published_at": "2026-11-02T00:05:00Z",
-   "url_id": "f3c431fc2af206d23e5ba373ef4535e7"
-  },
-  {
-   "title": "OpenAI reports AI-generated results on major problems in mathematics, computing and physics",
+   "title": "Google introduces Gemini 4 Carbon with early access for cybersecurity defenders",
    "outlet": "EdTech Innovation Hub",
    "outlet_name": "EdTech Innovation Hub",
-   "url": "https://www.edtechinnovationhub.com/news/openai-reports-ai-generated-results-on-major-problems-in-mathematics-computing-and-physics",
+   "url": "https://www.edtechinnovationhub.com/news/google-introduces-gemini-4-carbon-with-early-access-for-cybersecurity-defenders",
    "label": "REPORTED",
-   "summary_1line": "OpenAI's AI models produced math and physics research results, with academic teams verifying findings.",
-   "published_at": "2026-11-02T00:03:40Z",
-   "url_id": "0897250771f2aa41dc856249e6927cd6"
+   "summary_1line": null,
+   "published_at": "2026-11-02T01:18:40Z",
+   "url_id": "13e8a4ec9090f542b3f0b4ceb0c84289"
   },
   {
-   "title": "Elon Musk admits Grok Bot costs too much to run as users hit weekly caps",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
-   "url": "https://startupfortune.com/elon-musk-admits-grok-bot-costs-too-much-to-run-as-users-hit-weekly-caps/",
+   "title": "OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses'",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
+   "url": "https://www.businessinsider.com/openai-ai-data-centers-rebrand-compute-campuses-midterms-2026-11",
    "label": "REPORTED",
-   "summary_1line": "Musk admits Grok Bot loses money per session, capping usage at 800K users.",
-   "published_at": "2026-11-01T22:49:28Z",
-   "url_id": "5d37259c96e74316c209c412fb1a9d91"
+   "summary_1line": "OpenAI rebrands data centers as 'compute campuses' to improve public image.",
+   "published_at": "2026-11-01T22:28:00Z",
+   "url_id": "f9e2dbbded6ebfd675699ad59054861b"
+  },
+  {
+   "title": "U.S. Export Controls Fuel the Rise of Asian Data Centers Serving Chinese AI",
+   "outlet": "The Wire China",
+   "outlet_name": "The Wire China",
+   "url": "https://www.thewirechina.com/2026/11/01/u-s-export-controls-fuel-the-rise-of-asian-data-centers-serving-chinese-ai/",
+   "label": "REPORTED",
+   "summary_1line": "U.S. trial on Huawei underway in Brooklyn, reported by The Wire China.",
+   "published_at": "2026-11-01T22:22:50Z",
+   "url_id": "a6afe0e748e1210a5ca64674f62e71a6"
+  },
+  {
+   "title": "Alibaba’s Qwen AI to be integrated into Apple Intelligence in major partnership",
+   "outlet": "Qazinform",
+   "outlet_name": "Qazinform",
+   "url": "https://qazinform.com/news/alibabas-qwen-ai-to-be-integrated-into-apple-intelligence-in-major-partnership-ff0fac",
+   "label": "REPORTED",
+   "summary_1line": "Alibaba's Qwen AI joins Apple Intelligence for Chinese users in December, with testing starting Nov. 4.",
+   "published_at": "2026-11-01T22:12:14Z",
+   "url_id": "b4dc1e7db0de01b17f89dc4e051b8fe8"
+  },
+  {
+   "title": "Google Gemini can now create and edit PDFs, documents, and more right inside your chat",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
+   "url": "https://tech.yahoo.com/ai/gemini/articles/google-gemini-now-create-edit-215227658.html",
+   "label": "REPORTED",
+   "summary_1line": "Google lets users edit PDFs and docs in real time inside Gemini.",
+   "published_at": "2026-11-01T21:52:27Z",
+   "url_id": "450242687aabb381208026bbf5b86481"
   }
  ],
  "ticker": [
   {
-   "headline": "DeepSeek highlights bottleneck in agent era when managing 3 to 5 AIs is already hard",
-   "outlet": "디지털투데이",
-   "outlet_name": "디지털투데이",
-   "label": "REPORTED",
-   "url": "https://www.digitaltoday.co.kr/en/view/122400/deepseek-highlights-bottleneck-in-agent-era-when-managing-3-to-5-ais-is-already-hard",
-   "url_id": "404f0c533a97bc999ed05a95122b7e19"
-  },
-  {
-   "headline": "OpenAI Would Reportedly Like You to Use Its Pleasant New Term for Data Centers",
-   "outlet": "Gizmodo",
-   "outlet_name": "Gizmodo",
-   "label": "REPORTED",
-   "url": "https://gizmodo.com/openai-would-reportedly-like-you-to-use-its-pleasant-new-term-for-data-centers-2000833570",
-   "url_id": "d96dd5f5e63963890976a3481cee7138"
-  },
-  {
-   "headline": "Anthropic is heading to Wall Street — its CEO warns AI could erase entry-level jobs",
-   "outlet": "The Independent Florida Alligator",
-   "outlet_name": "The Independent Florida Alligator",
-   "label": "REPORTED",
-   "url": "https://www.alligator.org/article/2026/11/anthropic-is-heading-to-wall-street-its-ceo-warns-ai-could-erase-entry-level-jobs",
-   "url_id": "f3c431fc2af206d23e5ba373ef4535e7"
-  },
-  {
-   "headline": "OpenAI reports AI-generated results on major problems in mathematics, computing and…",
+   "headline": "Google introduces Gemini 4 Carbon with early access for cybersecurity defenders",
    "outlet": "EdTech Innovation Hub",
    "outlet_name": "EdTech Innovation Hub",
    "label": "REPORTED",
-   "url": "https://www.edtechinnovationhub.com/news/openai-reports-ai-generated-results-on-major-problems-in-mathematics-computing-and-physics",
-   "url_id": "0897250771f2aa41dc856249e6927cd6"
+   "url": "https://www.edtechinnovationhub.com/news/google-introduces-gemini-4-carbon-with-early-access-for-cybersecurity-defenders",
+   "url_id": "13e8a4ec9090f542b3f0b4ceb0c84289"
   },
   {
-   "headline": "Elon Musk admits Grok Bot costs too much to run as users hit weekly caps",
-   "outlet": "Startup Fortune",
-   "outlet_name": "Startup Fortune",
+   "headline": "OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses'",
+   "outlet": "Business Insider",
+   "outlet_name": "Business Insider",
    "label": "REPORTED",
-   "url": "https://startupfortune.com/elon-musk-admits-grok-bot-costs-too-much-to-run-as-users-hit-weekly-caps/",
-   "url_id": "5d37259c96e74316c209c412fb1a9d91"
+   "url": "https://www.businessinsider.com/openai-ai-data-centers-rebrand-compute-campuses-midterms-2026-11",
+   "url_id": "f9e2dbbded6ebfd675699ad59054861b"
   },
   {
    "headline": "U.S. Export Controls Fuel the Rise of Asian Data Centers Serving Chinese AI",
@@ -114,12 +90,12 @@
    "url_id": "b4dc1e7db0de01b17f89dc4e051b8fe8"
   },
   {
-   "headline": "What a U.S.-China AI Safety Channel Needs",
-   "outlet": "The Wire China",
-   "outlet_name": "The Wire China",
+   "headline": "Google Gemini can now create and edit PDFs, documents, and more right inside your chat",
+   "outlet": "Yahoo Tech",
+   "outlet_name": "Yahoo Tech",
    "label": "REPORTED",
-   "url": "https://www.thewirechina.com/2026/11/01/what-a-u-s-china-ai-safety-channel-needs/",
-   "url_id": "e105287236b6afd7f25efbc5b0765edb"
+   "url": "https://tech.yahoo.com/ai/gemini/articles/google-gemini-now-create-edit-215227658.html",
+   "url_id": "450242687aabb381208026bbf5b86481"
   },
   {
    "headline": "OpenAI Cuts Funding Target by $10 Billion as Investor Jitters Shake AI Markets",
@@ -128,14 +104,6 @@
    "label": "STILL OPEN",
    "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-cuts-funding-target-by-10-billion-as-investor-jitters-shake-ai-markets/",
    "url_id": "c25ad0a07063cf7483c333534a018f78"
-  },
-  {
-   "headline": "Developers Are Fed Up With Their Games Being Cloned Using Claude and Other AI Tools, So…",
-   "outlet": "www.levelup.com",
-   "outlet_name": "www.levelup.com",
-   "label": "STILL OPEN",
-   "url": "https://www.levelup.com/en/news/developers-are-fed-up-with-their-games-being-cloned-using-claude-and-other-ai-tools-so-major-companies-could-introduce-new-restrictions-on-their-technology/",
-   "url_id": "bbfa0c8bd5cc98accfb075982cfe46f3"
   },
   {
    "headline": "ChatGPT Dots Text US Pro Users Without End-to-End Encryption",
@@ -152,16 +120,48 @@
    "label": "REPORTED",
    "url": "https://avartha.ai/blog/introducing-avartha/",
    "url_id": "57e33e1c03940976952f6bcf306c600e"
+  },
+  {
+   "headline": "Become a Claude power user with this $20 E-Degree",
+   "outlet": "mashable.com",
+   "outlet_name": "mashable.com",
+   "label": "REPORTED",
+   "url": "https://mashable.com/tech/nov-1-claude-ai-professional-e-degree",
+   "url_id": "8134a8edd77537993de22df2741c2705"
+  },
+  {
+   "headline": "VOLTA malware asks Claude to rank victims’ valuables, then may delete itself",
+   "outlet": "Mezha.net",
+   "outlet_name": "Mezha.net",
+   "label": "REPORTED",
+   "url": "https://mezha.net/eng/news/mezha-b5972e5588dd9bbcd2863176_volta_malware_asks/",
+   "url_id": "a8c0a7c865465e897d2c25df6c129dc7"
+  },
+  {
+   "headline": "DeepSeek developing AI agent requiring less human input: Report",
+   "outlet": "Cryptonews.net",
+   "outlet_name": "Cryptonews.net",
+   "label": "REPORTED",
+   "url": "https://cryptonews.net/news/other/33685039/",
+   "url_id": "0484ee3d2a24700ebe61144a5f10e361"
+  },
+  {
+   "headline": "Gemini 3.7 Flash: $0.75 Input Price Ends Dec. 31 [2026]",
+   "outlet": "shattered.io",
+   "outlet_name": "shattered.io",
+   "label": "STILL OPEN",
+   "url": "https://shattered.io/gemini-3-7-flash-0-75-intro-price-ends-dec-31-2026/",
+   "url_id": "7bea4e5f08055f962233f7bcb254a599"
   }
  ],
- "tidbit": "Did you know… this hour's top stories come from five different outlets.",
- "articles_24h_rounded": 7200,
+ "tidbit": "Did you know… about 7,000 new articles reached our newsroom in the last 24 hours.",
+ "articles_24h_rounded": 7300,
  "articles_24h_label": "about 7,000",
  "audio_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/latest.mp3",
- "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/02/02.mp3",
- "audio_seconds": 73.0,
+ "audio_archive_url": "https://media.theagentsignal.com/ironman/audio/si-preview/hourly/2026/11/02/03.mp3",
+ "audio_seconds": 51.6,
  "audio_status": "ok",
- "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nDeepSeek reveals a blueprint for autonomous coding agents, highlighting bottlenecks when managing 3 to 5 of them. Reported by 디지털투데이: managing multiple agents is already hard.\nOpenAI rebrands infrastructure as compute campuses to improve public perception. Reported by Gizmodo: the company wants you to use its pleasant new term.\nAnthropic is heading to Wall Street with a $1.5T to $2T valuation and 50.1 percent founder control. Reported by The Independent Florida Alligator: the CEO warns artificial intelligence could erase entry-level jobs.\nOpenAI's models produced research results in mathematics, computing and physics. Reported by EdTech Innovation Hub: academic teams verified the findings.\nElon Musk admits Grok Bot loses money per session and costs too much to run. Reported by Startup Fortune: the bot now caps usage at 800K users.\nFree every hour.",
+ "transcript": "Hourly brief, Founders' Preview. Here is what is moving in superintelligence (SI), the next generation of artificial intelligence (AI).\nReported by EdTech Innovation Hub: Google introduces Gemini 4 Carbon with early access for cybersecurity defenders.\nReported by Business Insider: OpenAI Wants Everyone to Call AI Data Centers 'Compute Campuses'.\nReported by The Wire China: U.S. Export Controls Fuel the Rise of Asian Data Centers Serving Chinese AI.\nReported by Qazinform: Alibaba’s Qwen AI to be integrated into Apple Intelligence in major partnership.\nReported by Yahoo Tech: Google Gemini can now create and edit PDFs, documents, and more right inside your chat.\nFree every hour.",
  "labels": [
   "CONFIRMED",
   "REPORTED",
